@@ -4,7 +4,6 @@ sys.stdout.reconfigure(encoding="utf-8")
 from bs4 import BeautifulSoup
 import requests
 import time
-import cv2
 import numpy as np
 import json
 

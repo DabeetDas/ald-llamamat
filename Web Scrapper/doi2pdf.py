@@ -118,6 +118,7 @@ def save2pdf(doi: str):
             f.write(pdf_bytes)
 
         print(f"Saved paper: {filename}")
+        return filename
 
     except Exception as e:
         print(f"Failed for {doi}: {e}")
