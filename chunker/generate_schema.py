@@ -130,6 +130,16 @@ def extract_all_data(data_dir: str, output_dir: str, limit: Optional[int] = None
         return 0
 
     os.makedirs(output_dir, exist_ok=True)
+
+    gibberish_papers = {
+        'paper10', 'paper11', 'paper111', 'paper112', 'paper113', 'paper114',
+        'paper115', 'paper116', 'paper117', 'paper118', 'paper119', 'paper120',
+        'paper121', 'paper122', 'paper123', 'paper124', 'paper125', 'paper126',
+        'paper130', 'paper132', 'paper133', 'paper15', 'paper1726', 'paper1729',
+        'paper1730', 'paper2411', 'paper25', 'paper26', 'paper27', 'paper28',
+        'paper29', 'paper3181', 'paper523', 'paper588', 'paper590', 'paper591',
+        'paper644', 'paper645',
+    }
         
     papers = [d for d in os.listdir(data_dir) if os.path.isdir(os.path.join(data_dir, d))]
     
@@ -140,6 +150,10 @@ def extract_all_data(data_dir: str, output_dir: str, limit: Optional[int] = None
     for idx, paper in enumerate(papers):
         if limit and idx >= limit:
             break
+
+        if paper in gibberish_papers:
+            print(f"Skipping {paper} (gibberish text)")
+            continue
             
         paper_dir = os.path.join(data_dir, paper)
         print(f"Processing directory: {paper}...")
