@@ -1,43 +1,43 @@
-# ♻️ ALD-LlamaMat: GenAI for Atomic Layer Deposition Research
+# ALD-LlamaMat: GenAI for Atomic Layer Deposition Research
 
 > Using Generative AI to Accelerate Research in Atomic Layer Deposition for Thin Films
 
-## 📌 Overview
+## Overview
 
 **ALD-LlamaMat** is a comprehensive research project combining cutting-edge generative AI techniques with materials science to advance atomic layer deposition (ALD) research. This repository serves as the central hub for **UGP-1 (MSE496)**, a collaborative effort to leverage large language models and AI-assisted workflows to improve ALD thin film research and development.
 
-## 🎯 Project Goals
+## Project Goals
 
-- 🤖 **Harness GenAI Power**: Apply large language models to accelerate ALD research workflows
-- 📊 **Data Intelligence**: Build datasets and leverage AI for materials science insights
-- 🔬 **Process Optimization**: Use machine learning to understand and optimize ALD processes
-- 📚 **Knowledge Extraction**: Automatically extract and synthesize research information from literature
-- 🛠️ **Practical Tools**: Develop user-friendly tools that bridge AI and experimental science
+- **Harness GenAI Power**: Apply large language models to accelerate ALD research workflows
+- **Data Intelligence**: Build datasets and leverage AI for materials science insights
+- **Process Optimization**: Use machine learning to understand and optimize ALD processes
+- **Knowledge Extraction**: Automatically extract and synthesize research information from literature
+- **Practical Tools**: Develop user-friendly tools that bridge AI and experimental science
 
-## 📂 Repository Structure
+## Repository Structure
 
 ```
 ald-llamamat/
-├── 📁 Dataset_prep/          # Data preparation and preprocessing scripts
-├── 📁 Web Scrapper/          # Tools for collecting ALD-related research data
-├── 📁 presentations/         # Project presentations and documentation
+├── Dataset_prep/          # Data preparation and preprocessing scripts
+├── Web Scrapper/          # Tools for collecting ALD-related research data
+├── presentations/         # Project presentations and documentation
 ├── .gitignore                # Git configuration
 └── README.md                 # This file
 ```
 
-### 🗂️ Directory Details
+### Directory Details
 
 - **Dataset_prep**: Scripts and utilities for cleaning, organizing, and preparing datasets for AI model training
 - **Web Scrapper**: Web scraping tools to gather research papers, patents, and technical documentation related to ALD
 - **presentations**: Slides, reports, and presentation materials for project updates and milestones
 
-## 🔧 Technology Stack
+## Technology Stack
 
-- **Language**: Python 🐍
+- **Language**: Python
 - **AI/ML**: Large Language Models, Generative AI
 - **Materials Science**: ALD-focused research and analysis tools
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Python 3.8+
@@ -68,7 +68,7 @@ Each subdirectory contains its own set of tools and workflows:
 
 Detailed instructions for each module can be found in their respective directories.
 
-## 🤝 Contributing
+## Contributing
 
 This is an active research project. Contributions, suggestions, and improvements are welcome!
 
@@ -78,14 +78,14 @@ This is an active research project. Contributions, suggestions, and improvements
 4. Push to the branch (`git push origin feature/your-feature`)
 5. Open a Pull Request
 
-## 📝 Project Details
+## Project Details
 
 - **Course**: MSE496 (Undergraduate Project)
 - **Project Code**: UGP-1
 - **Research Focus**: Generative AI applications in Atomic Layer Deposition
-- **Status**: 🟢 Active Development
+- **Status**: Active Development
 
-## 📚 Resources
+## Resources
 
 ### Relevant Topics
 - Atomic Layer Deposition (ALD)
@@ -94,13 +94,13 @@ This is an active research project. Contributions, suggestions, and improvements
 - Machine Learning for Materials Science
 - Data-driven Research Methods
 
-## 📧 Contact & Support
+## Contact & Support
 
 For questions, suggestions, or collaboration inquiries:
 - **Repository Owner**: [@DabeetDas](https://github.com/DabeetDas)
 - **Issues**: Use the [Issues](https://github.com/DabeetDas/ald-llamamat/issues) tab for bug reports and feature requests
 
-## 📄 License
+## License
 
 This project is currently unlicensed. Please contact the repository owner for licensing information.
 
