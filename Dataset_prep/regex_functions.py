@@ -27,7 +27,8 @@ def regex_preclean(text):
         
         # Remove excessive citation brackets but keep the surrounding text
         # e.g., "as shown [1,2,3]" → "as shown"
-        (r"\s*\[\d+(?:[,\-–]\s*\d+)*\]", ""),
+        # Uses \d{1,2} to avoid stripping Miller indices like [100], [110], [111]
+        (r"\s*\[\d{1,2}(?:[,\-–]\s*\d+)*\]", ""),
         
         # Clean up figure/table references but keep substantive captions
         # Only remove short references like "Fig. 1" or "Table 2" that are standalone
