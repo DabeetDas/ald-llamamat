@@ -53,7 +53,7 @@ cd ald-llamamat
 
 2. Explore the project structure:
 ```bash
-ls -la
+ls 
 ```
 
 3. Check individual directories for specific module requirements and instructions
