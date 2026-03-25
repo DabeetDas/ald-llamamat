@@ -58,7 +58,7 @@ ls -la
 
 3. Check individual directories for specific module requirements and instructions
 
-## 📖 Usage
+## Usage
 
 Each subdirectory contains its own set of tools and workflows:
 
@@ -99,17 +99,3 @@ This is an active research project. Contributions, suggestions, and improvements
 For questions, suggestions, or collaboration inquiries:
 - **Repository Owner**: [@DabeetDas](https://github.com/DabeetDas)
 - **Issues**: Use the [Issues](https://github.com/DabeetDas/ald-llamamat/issues) tab for bug reports and feature requests
-
-## License
-
-This project is currently unlicensed. Please contact the repository owner for licensing information.
-
----
-
-<div align="center">
-  
-**Made with ❤️ for advancing materials science research through AI innovation**
-
-⭐ If you find this project useful, consider giving it a star!
-
-</div>
