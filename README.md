@@ -34,7 +34,7 @@ ald-llamamat/
 ## Technology Stack
 
 - **Language**: Python
-- **AI/ML**: Large Language Models, Generative AI
+- **AI/ML**: Large Language Models (Gemini 2.5 Flash, Qwen3-VL-8B, LlaMA-3.1-8B), Generative AI
 - **Materials Science**: ALD-focused research and analysis tools
 
 ## Getting Started
