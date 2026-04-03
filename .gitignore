@@ -7,3 +7,5 @@ Data
 extraction.log
 .env
 schemas
+extracted_data
+.env.local

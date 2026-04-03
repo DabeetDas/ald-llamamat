@@ -1,58 +1,83 @@
 import json
 import re
-import json5
 import ast
-from typing import List
-from langchain_core.prompts import PromptTemplate
+from typing import Dict, Any
 
-def robust_json_parse(text: str) -> dict:
-    """Tries multiple strategies to recover valid JSON from LLM output."""
+# FIX: removed json5 dependency — the cleaning steps make standard json.loads
+#      sufficient, and json5 is not a stdlib package.
+# FIX: removed PromptTemplate import — it was only used as a plain string
+#      formatter with no LangChain chaining. Plain f-strings are cleaner and
+#      remove the langchain-core dependency for this module.
+
+
+def robust_json_parse(text: Any, default: dict | None = None) -> dict:
+    """
+    Tries multiple strategies to recover valid JSON from LLM output.
+
+    FIX: accepts a configurable `default` so callers get a schema-appropriate
+         fallback instead of always {"materials": []} which was wrong for most
+         agents (they expect keys like "target_material", "precursors", etc.).
+    FIX: the blanket replace("'", '"') mangling has been removed — it corrupts
+         chemical formulas like Si-OH*, DMAH, etc.  A targeted fix for
+         Python-style None/True/False literals is applied instead.
+    """
+    if default is None:
+        default = {}
+
+    # Unwrap AIMessage-style objects
     if hasattr(text, "content"):
         text = text.content
 
-    # Strip Markdown formatting
-    text = text.strip().removeprefix("```json").removesuffix("```").strip()
+    if not isinstance(text, str):
+        return default
 
-    # Try to extract first complete JSON object or array
+    # Strip Markdown code fences
+    text = text.strip()
+    for fence in ("```json", "```"):
+        if text.startswith(fence):
+            text = text[len(fence):]
+        if text.endswith("```"):
+            text = text[:-3]
+    text = text.strip()
+
+    # Extract the first complete JSON object or array
     match = re.search(r'(\{.*\}|\[.*\])', text, re.DOTALL)
     if match:
         text = match.group(1)
 
-    # Clean trailing commas
+    # Remove trailing commas before ] or }
     text = re.sub(r',\s*([\]}])', r'\1', text)
 
-    # Replace invalid constructs
-    text = text.replace("None", "null")
-    text = text.replace("'", '"')
+    # FIX: replace Python literal keywords with JSON equivalents *only* when
+    #      they appear as standalone tokens, to avoid corrupting chemical names.
+    text = re.sub(r'\bNone\b',  'null',  text)
+    text = re.sub(r'\bTrue\b',  'true',  text)
+    text = re.sub(r'\bFalse\b', 'false', text)
 
     # Try standard JSON parse
     try:
         return json.loads(text)
-    except:
+    except json.JSONDecodeError:
         pass
 
-    # Try JSON5
+    # Try Python literal eval as last resort (handles some edge cases)
     try:
-        return json5.loads(text)
-    except:
+        result = ast.literal_eval(text)
+        if isinstance(result, dict):
+            return result
+    except Exception:
         pass
 
-    # Try Python literal eval (if it looks like a dict)
-    try:
-        return ast.literal_eval(text)
-    except Exception as e:
-        print("❌ JSON parse failed completely:", e)
-        return {"materials": []}
+    # Print the raw model output to show exactly what the model returned
+    # and why parsing failed — makes diagnosis straightforward.
+    preview = text[:300].replace("\n", " ")
+    print(f"❌ JSON parse failed. Raw output preview: {preview!r}")
+    return default
 
 
-# === Tool 1: Read fulltext ===
-def read_fulltext(file_path: str) -> str:
-    with open(file_path, "r", encoding="utf-8") as f:
-        return f.read()
-
-def summariser_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
+# ── Shared prompt builder ─────────────────────────────────────────────────────
+_SYSTEM_PREAMBLE = """\
+You are a materials science expert specializing in Atomic Layer Deposition (ALD).
 
 Your task is to extract structured scientific information from the provided research paper text.
 
@@ -63,7 +88,18 @@ Rules:
 4. Include the exact evidence sentence from the paper when possible.
 5. Return output strictly in JSON format.
 6. Use standard scientific units where possible.
+"""
 
+
+# === Tool 0: Read fulltext ====================================================
+def read_fulltext(file_path: str) -> str:
+    with open(file_path, "r", encoding="utf-8") as f:
+        return f.read()
+
+
+# === Tool 1: Summariser =======================================================
+def summariser_agent(fulltext: str, llm) -> Dict[str, Any]:  # FIX: correct return type
+    prompt = _SYSTEM_PREAMBLE + f"""
 Task: Extract a concise summary of the Atomic Layer Deposition (ALD) process described in the text.
 
 Focus on:
@@ -84,27 +120,19 @@ Output JSON schema:
   "evidence": ""
 }}
 
-Text:
-```{fulltext}```
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
+"""  + "\nText:\n```" + fulltext + "```"
+    output = llm.invoke(prompt)
+    # FIX: pass a schema-appropriate default so failures degrade gracefully
+    return robust_json_parse(output, default={
+        "target_material": None, "process_type": None,
+        "main_precursors": [], "temperature_range": None,
+        "summary": None, "evidence": None,
+    })
 
 
-def target_materials_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
-
-Your task is to extract structured scientific information from the provided research paper text.
-
-Rules:
-1. Only extract information explicitly supported by the text.
-2. If information is missing, return null.
-3. Do not infer or hallucinate values.
-4. Include the exact evidence sentence from the paper when possible.
-5. Return output strictly in JSON format.
-6. Use standard scientific units where possible.
-
+# === Tool 2: Target materials =================================================
+def target_materials_agent(fulltext: str, llm) -> Dict[str, Any]:  # FIX: correct return type
+    prompt = _SYSTEM_PREAMBLE + f"""
 Identify the primary material deposited using Atomic Layer Deposition. Ignore substrates, precursors, or reactor components. Focus ONLY on the primary target film being synthesized or studied.
 
 Extract the following information:
@@ -124,27 +152,17 @@ Output JSON:
   "evidence": ""
 }}
 
-Text:
-```{fulltext}```
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
+"""  + "\nText:\n```" + fulltext + "```"
+    output = llm.invoke(prompt)
+    return robust_json_parse(output, default={
+        "target_material": {"chemical_formula": None, "material_name": None, "material_class": None},
+        "evidence": None,
+    })
 
 
-def precurosr_coreactant_purge_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
-
-Your task is to extract structured scientific information from the provided research paper text.
-
-Rules:
-1. Only extract information explicitly supported by the text.
-2. If information is missing, return null.
-3. Do not infer or hallucinate values.
-4. Include the exact evidence sentence from the paper when possible.
-5. Return output strictly in JSON format.
-6. Use standard scientific units where possible.
-
+# === Tool 3: Precursor / coreactant / purge ===================================
+def precurosr_coreactant_purge_agent(fulltext: str, llm) -> Dict[str, Any]:  # FIX: correct return type
+    prompt = _SYSTEM_PREAMBLE + f"""
 Extract the specific chemical inputs used during the Atomic Layer Deposition (ALD) process. 
 
 Follow these strict definitions for extraction:
@@ -154,7 +172,7 @@ Follow these strict definitions for extraction:
 - carrier_gas: The inert gas used to transport the precursor into the chamber. (Note: This is often the same as the purge gas, but only list it here if explicitly described as a carrier).
 
 Rules:
-1. If a specific input type is not explicitly mentioned in the text, return an empty list `[]`. Do not guess or infer based on standard ALD processes.
+1. If a specific input type is not explicitly mentioned in the text, return an empty list []. Do not guess or infer based on standard ALD processes.
 2. If multiple precursors or co-reactants are used (e.g., in nanolaminates or doped films), list all of them.
 3. Provide a single, exact quote from the text in the "evidence" field that justifies your selections.
 
@@ -168,26 +186,17 @@ Return the result STRICTLY as a valid JSON object matching the exact structure b
   "evidence": ""
 }}
 
-Text:
-```{fulltext}```
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
+"""  + "\nText:\n```" + fulltext + "```"
+    output = llm.invoke(prompt)
+    return robust_json_parse(output, default={
+        "precursors": [], "coreactants": [],
+        "purge_gas": [], "carrier_gas": [], "evidence": None,
+    })
 
-def deposition_conditions_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
 
-Your task is to extract structured scientific information from the provided research paper text.
-
-Rules:
-1. Only extract information explicitly supported by the text.
-2. If information is missing, return null.
-3. Do not infer or hallucinate values.
-4. Include the exact evidence sentence from the paper when possible.
-5. Return output strictly in JSON format.
-6. Use standard scientific units where possible.
-
+# === Tool 4: Deposition conditions ============================================
+def deposition_conditions_agent(fulltext: str, llm) -> Dict[str, Any]:  # FIX: correct return type
+    prompt = _SYSTEM_PREAMBLE + f"""
 Extract the specific Atomic Layer Deposition (ALD) process parameters from the provided text. 
 
 Extraction Rules:
@@ -197,7 +206,7 @@ Extraction Rules:
    - coreactant_pulse_time_s = 0.1
    - purge_time_s = 5
 3. Reactor Type: Identify the specific tool or reactor geometry (e.g., "F-120", "Cambridge NanoTech Savannah", "Cross-flow", "Showerhead", "Spatial ALD").
-4. Null Handling: If a parameter is not explicitly mentioned, return `null` for numerical fields and an empty string `""` for text fields. Do not assume "standard" conditions.
+4. Null Handling: If a parameter is not explicitly mentioned, return null for numerical fields and an empty string "" for text fields. Do not assume "standard" conditions.
 5. Evidence: Provide a direct, unedited quote from the text that contains these parameters.
 
 Return the result STRICTLY as a valid JSON object. Do not include markdown headers or conversational filler.
@@ -213,28 +222,19 @@ Return the result STRICTLY as a valid JSON object. Do not include markdown heade
  "evidence": ""
 }}
 
-Text:
-```{fulltext}```
+"""  + "\nText:\n```" + fulltext + "```"
+    output = llm.invoke(prompt)
+    return robust_json_parse(output, default={
+        "deposition_temperature_C": None, "pressure": "",
+        "precursor_pulse_time_s": None, "coreactant_pulse_time_s": None,
+        "purge_time_s": None, "number_of_cycles": None,
+        "reactor_type": "", "evidence": None,
+    })
 
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
 
-
-def reaction_conditions_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
-
-Your task is to extract structured scientific information from the provided research paper text.
-
-Rules:
-1. Only extract information explicitly supported by the text.
-2. If information is missing, return null.
-3. Do not infer or hallucinate values.
-4. Include the exact evidence sentence from the paper when possible.
-5. Return output strictly in JSON format.
-6. Use standard scientific units where possible.
-
+# === Tool 5: Reaction conditions ==============================================
+def reaction_conditions_agent(fulltext: str, llm) -> Dict[str, Any]:  # FIX: correct return type
+    prompt = _SYSTEM_PREAMBLE + f"""
 Analyze the provided text to extract the Atomic Layer Deposition (ALD) surface reaction mechanism and its associated chemistry.
 
 Extraction Guidelines:
@@ -244,7 +244,7 @@ Extraction Guidelines:
 4. Evidence: Provide the exact excerpt from the text where these reactions or mechanisms are discussed.
 
 Rules:
-- If no formal equations are provided, return an empty list `[]` for "reaction_equations".
+- If no formal equations are provided, return an empty list [] for "reaction_equations".
 - Maintain the original chemical stoichiometry as written in the text.
 - Do not include conversational filler or markdown outside the JSON block.
 
@@ -257,118 +257,17 @@ Return the result STRICTLY as a valid JSON object:
  "evidence": ""
 }}
 
-Text:
-```{fulltext}```
+"""  + "\nText:\n```" + fulltext + "```"
+    output = llm.invoke(prompt)
+    return robust_json_parse(output, default={
+        "reaction_equations": [], "surface_mechanism_description": "",
+        "intermediate_species": [], "evidence": None,
+    })
 
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
 
-def reaction_kinetics_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
-
-Your task is to extract structured scientific information from the provided research paper text.
-
-Rules:
-1. Only extract information explicitly supported by the text.
-2. If information is missing, return null.
-3. Do not infer or hallucinate values.
-4. Include the exact evidence sentence from the paper when possible.
-5. Return output strictly in JSON format.
-6. Use standard scientific units where possible.
-
-Analyze the provided text to extract kinetic and thermodynamic data related to the Atomic Layer Deposition (ALD) growth mechanism.
-
-Extraction Guidelines:
-1. activation_energy_eV: Extract the numerical value in electron volts (eV). If the text provides it in kJ/mol, do not convert it to eV, keep the original units and label them (e.g., "0.5 eV" or "48 kJ/mol"). Return null if not mentioned.
-2. rate_limiting_step: Identify the specific physical or chemical bottleneck (e.g., "precursor diffusion," "ligand exchange," "surface site dehydroxylation," or "steric hindrance"). 
-3. saturation_behavior: Describe how the growth per cycle (GPC) responds to precursor exposure (e.g., "Saturation reached at 0.5 s pulse," "Soft saturation observed," or "Non-saturating behavior due to thermal decomposition").
-4. kinetic_model: Identify any specific theoretical framework used by the authors (e.g., "First-order kinetics," "Langmuir-Hinshelwood," "Monte Carlo simulation," or "Arrhenius analysis").
-5. Evidence: Provide the exact, unedited quote from the text that describes these kinetic parameters.
-
-Rules:
-- For numerical fields, if a value is not found, return null. 
-- For string fields, if not mentioned, return an empty string "".
-- Do not include markdown headers or conversational text outside the JSON block.
-
-Return the result STRICTLY as a valid JSON object:
-
-{{
- "activation_energy_eV": null,
- "rate_limiting_step": "",
- "saturation_behavior": "",
- "kinetic_model": "",
- "evidence": ""
-}}
-
-Text:
-```{fulltext}```
-
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
-
-def reaction_thermodynamics_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
-
-Your task is to extract structured scientific information from the provided research paper text.
-
-Rules:
-1. Only extract information explicitly supported by the text.
-2. If information is missing, return null.
-3. Do not infer or hallucinate values.
-4. Include the exact evidence sentence from the paper when possible.
-5. Return output strictly in JSON format.
-6. Use standard scientific units where possible.
-
-Analyze the provided text to extract thermodynamic parameters associated with the Atomic Layer Deposition (ALD) reactions.
-
-Extraction Guidelines:
-1. reaction_enthalpy: Extract the enthalpy change (ΔH) for the overall reaction or specific half-cycles. Include units (e.g., "-1.2 eV", "-150 kJ/mol"). If multiple values exist (e.g., for different precursors), list them clearly.
-2. gibbs_free_energy: Extract the Gibbs free energy change (ΔG). This is the primary indicator of reaction spontaneity. Include units and indicate the temperature if specified (e.g., "-0.8 eV at 300°C").
-3. thermodynamic_notes: Summarize key findings regarding:
-   - Stability conditions (e.g., "Precursor decomposes above 350°C").
-   - Thermodynamic modeling used (e.g., "DFT calculations using B3LYP functional").
-   - Predominant gas-phase or surface-phase equilibria.
-4. Evidence: Provide the exact, unedited quote from the text that contains these thermodynamic values or descriptions.
-
-Rules:
-- If a value is not mentioned, return null for that field.
-- Do not perform unit conversions unless explicitly requested; preserve the author's original units.
-- Focus on the primary deposition chemistry, not the substrate stability, unless the substrate reaction is the core focus.
-
-Return the result STRICTLY as a valid JSON object:
-
-{{
- "reaction_enthalpy": null,
- "gibbs_free_energy": null,
- "thermodynamic_notes": "",
- "evidence": ""
-}}
-
-Text:
-```{fulltext}```
-
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
-
-def substrate_information_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
-
-Your task is to extract structured scientific information from the provided research paper text.
-
-Rules:
-1. Only extract information explicitly supported by the text.
-2. If information is missing, return null.
-3. Do not infer or hallucinate values.
-4. Include the exact evidence sentence from the paper when possible.
-5. Return output strictly in JSON format.
-6. Use standard scientific units where possible.
-
+# === Tool 6: Substrate information ============================================
+def substrate_information_agent(fulltext: str, llm) -> Dict[str, Any]:  # FIX: correct return type
+    prompt = _SYSTEM_PREAMBLE + f"""
 Analyze the provided text to extract information regarding the substrate used for the Atomic Layer Deposition (ALD) process.
 
 Extraction Guidelines:
@@ -393,70 +292,17 @@ Return the result STRICTLY as a valid JSON object:
  "evidence": ""
 }}
 
-Text:
-```{fulltext}```
+"""  + "\nText:\n```" + fulltext + "```"
+    output = llm.invoke(prompt)
+    return robust_json_parse(output, default={
+        "substrate_material": "", "substrate_orientation": "",
+        "pretreatment": "", "surface_functionalization": "", "evidence": None,
+    })
 
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
 
-def growth_per_cycle_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
-
-Your task is to extract structured scientific information from the provided research paper text.
-
-Rules:
-1. Only extract information explicitly supported by the text.
-2. If information is missing, return null.
-3. Do not infer or hallucinate values.
-4. Include the exact evidence sentence from the paper when possible.
-5. Return output strictly in JSON format.
-6. Use standard scientific units where possible.
-
-Analyze the provided text to extract the Growth-Per-Cycle (GPC) data for the Atomic Layer Deposition (ALD) process.
-
-Extraction Guidelines:
-1. growth_per_cycle: Extract the numerical value of the film growth rate. If a range is provided (e.g., "0.9–1.1"), return it as a string. If multiple GPC values are listed for different temperatures, prioritize the value within the stable "ALD window" or list the primary one.
-2. units: Identify the measurement units used (e.g., "Å/cycle", "nm/cycle", "mg/m2/cycle"). Do not convert; preserve the author's original units.
-3. temperature_C: Extract the specific deposition temperature (in Celsius) at which the identified GPC was measured. If the text says "250 °C," return 250.
-4. evidence: Provide the exact, unedited quote from the text that links the GPC value to the process temperature.
-
-Rules:
-- If a value is not mentioned, return null for numerical fields and an empty string "" for units.
-- Distinguish between "Growth Rate" (which might be nm/min) and "Growth-Per-Cycle" (nm/cycle). Only extract GPC.
-- Do not include markdown headers or conversational text outside the JSON block.
-
-Return the result STRICTLY as a valid JSON object:
-
-{{
- "growth_per_cycle": null,
- "units": "",
- "temperature_C": null,
- "evidence": ""
-}}
-
-Text:
-```{fulltext}```
-
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
-
-def film_properties_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
-
-Your task is to extract structured scientific information from the provided research paper text.
-
-Rules:
-1. Only extract information explicitly supported by the text.
-2. If information is missing, return null.
-3. Do not infer or hallucinate values.
-4. Include the exact evidence sentence from the paper when possible.
-5. Return output strictly in JSON format.
-6. Use standard scientific units where possible.
-
+# === Tool 7: Film properties ==================================================
+def film_properties_agent(fulltext: str, llm) -> Dict[str, Any]:  # FIX: correct return type
+    prompt = _SYSTEM_PREAMBLE + f"""
 Analyze the provided text to extract the physical and structural properties of the resulting ALD film.
 
 Extraction Guidelines:
@@ -483,27 +329,18 @@ Return the result STRICTLY as a valid JSON object:
  "evidence": ""
 }}
 
-Text:
-```{fulltext}```
+"""  + "\nText:\n```" + fulltext + "```"
+    output = llm.invoke(prompt)
+    return robust_json_parse(output, default={
+        "film_thickness_nm": None, "density_g_cm3": None,
+        "refractive_index": None, "surface_roughness_nm": None,
+        "crystal_phase": "", "evidence": None,
+    })
 
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
 
-def characterization_agent(fulltext:str,llm) -> List[str]:
-    prompt = PromptTemplate.from_template("""
-    You are a materials science expert specializing in Atomic Layer Deposition (ALD).
-
-Your task is to extract structured scientific information from the provided research paper text.
-
-Rules:
-1. Only extract information explicitly supported by the text.
-2. If information is missing, return null.
-3. Do not infer or hallucinate values.
-4. Include the exact evidence sentence from the paper when possible.
-5. Return output strictly in JSON format.
-6. Use standard scientific units where possible.
-
+# === Tool 8: Characterization =================================================
+def characterization_agent(fulltext: str, llm) -> Dict[str, Any]:  # FIX: correct return type
+    prompt = _SYSTEM_PREAMBLE + f"""
 Analyze the provided text to identify the characterization techniques used to analyze the ALD process or the resulting films.
 
 Extraction Guidelines:
@@ -527,9 +364,8 @@ Return the result STRICTLY as a valid JSON object:
  "evidence": ""
 }}
 
-Text:
-```{fulltext}```
-
-""")
-    output = llm.invoke(prompt.format(fulltext=fulltext))
-    return robust_json_parse(output.content)
+"""  + "\nText:\n```" + fulltext + "```"
+    output = llm.invoke(prompt)
+    return robust_json_parse(output, default={
+        "characterization_methods": [], "evidence": None,
+    })
