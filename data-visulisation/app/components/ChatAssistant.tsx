@@ -3,10 +3,37 @@
 import { useState, useRef, useEffect } from "react";
 import { type PaperData } from "@/app/lib/data-fetcher";
 
+interface SourceChunk {
+    source_id: string;
+    paper_id: string | null;
+    target_material: string | null;
+    process_type: string | null;
+    excerpt: string;
+    retrieval_score: number | null;
+    rerank_score: number | null;
+}
+
+interface RetrievalDiagnostics {
+    scope: string;
+    hyde_enabled: boolean;
+    retrieved_count: number;
+    reranked_count: number;
+    hyde_preview: string | null;
+}
+
+interface ChatApiResponse {
+    answer: string;
+    sources: SourceChunk[];
+    diagnostics: RetrievalDiagnostics;
+}
+
 interface Message {
     id: number;
     role: "user" | "assistant";
     content: string;
+    sources?: SourceChunk[];
+    diagnostics?: RetrievalDiagnostics;
+    isError?: boolean;
 }
 
 const QUICK_ACTIONS = [
@@ -16,9 +43,144 @@ const QUICK_ACTIONS = [
     "Analyze film density trends",
 ];
 
+const RAG_API_URL =
+    process.env.NEXT_PUBLIC_RAG_API_URL?.replace(/\/$/, "") || "http://127.0.0.1:8000";
+
 interface ChatAssistantProps {
     selectedPaper: PaperData | null;
     onSelectPaper: (index: number | null) => void;
+}
+
+function formatScore(score: number | null | undefined) {
+    if (typeof score !== "number" || Number.isNaN(score)) return null;
+    return score.toFixed(3);
+}
+
+function truncateText(text: string, maxLength: number) {
+    if (text.length <= maxLength) return text;
+    return `${text.slice(0, maxLength).trimEnd()}...`;
+}
+
+function FormattedAnswer({ content }: { content: string }) {
+    const lines = content.split("\n");
+    const elements: React.ReactNode[] = [];
+    let bulletBuffer: string[] = [];
+
+    const flushBullets = () => {
+        if (!bulletBuffer.length) return;
+        elements.push(
+            <ul key={`bullets-${elements.length}`} className="space-y-2 pl-4">
+                {bulletBuffer.map((item, index) => (
+                    <li key={`${item}-${index}`} className="text-sm leading-relaxed text-slate-200 list-disc">
+                        {item}
+                    </li>
+                ))}
+            </ul>
+        );
+        bulletBuffer = [];
+    };
+
+    lines.forEach((rawLine, index) => {
+        const line = rawLine.trim();
+
+        if (!line) {
+            flushBullets();
+            return;
+        }
+
+        if (line.startsWith("- ") || line.startsWith("* ")) {
+            bulletBuffer.push(line.slice(2).trim());
+            return;
+        }
+
+        flushBullets();
+
+        if (line.endsWith(":") && line.length < 40) {
+            elements.push(
+                <p
+                    key={`heading-${index}`}
+                    className="text-[11px] font-black uppercase tracking-[0.18em] text-teal-300"
+                >
+                    {line.slice(0, -1)}
+                </p>
+            );
+            return;
+        }
+
+        elements.push(
+            <p key={`paragraph-${index}`} className="text-sm leading-relaxed text-slate-100">
+                {line}
+            </p>
+        );
+    });
+
+    flushBullets();
+
+    return <div className="space-y-3">{elements}</div>;
+}
+
+function SourceCard({
+    source,
+    index,
+}: {
+    source: SourceChunk;
+    index: number;
+}) {
+    const excerptPreview = truncateText(source.excerpt, 200);
+
+    return (
+        <details className="group rounded-2xl border border-slate-700/70 bg-slate-950/45 open:border-teal-500/30">
+            <summary className="list-none cursor-pointer p-4">
+                <div className="flex items-start justify-between gap-3">
+                    <div className="min-w-0 flex-1">
+                        <div className="flex flex-wrap items-center gap-2 mb-2">
+                            <span className="px-2 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.18em] bg-teal-500/10 text-teal-300 border border-teal-500/20">
+                                S{index + 1}
+                            </span>
+                            <span className="px-2 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-slate-800 text-slate-200">
+                                {source.paper_id || "unknown paper"}
+                            </span>
+                            {source.target_material && (
+                                <span className="text-[10px] uppercase tracking-wider text-cyan-300">
+                                    {source.target_material}
+                                </span>
+                            )}
+                            {source.process_type && (
+                                <span className="text-[10px] uppercase tracking-wider text-amber-300">
+                                    {source.process_type}
+                                </span>
+                            )}
+                        </div>
+                        <p className="text-xs leading-relaxed text-slate-300">
+                            {excerptPreview}
+                        </p>
+                    </div>
+                    <div className="flex flex-col items-end gap-2 shrink-0">
+                        <div className="text-right space-y-1">
+                            {formatScore(source.rerank_score) && (
+                                <p className="text-[10px] text-teal-300 font-bold uppercase tracking-wider">
+                                    Rerank {formatScore(source.rerank_score)}
+                                </p>
+                            )}
+                            {formatScore(source.retrieval_score) && (
+                                <p className="text-[10px] text-slate-500 font-bold uppercase tracking-wider">
+                                    Fusion {formatScore(source.retrieval_score)}
+                                </p>
+                            )}
+                        </div>
+                        <span className="text-[10px] text-slate-500 font-bold uppercase tracking-[0.16em] group-open:text-teal-300">
+                            Expand
+                        </span>
+                    </div>
+                </div>
+            </summary>
+            <div className="px-4 pb-4 pt-0 border-t border-slate-800/80">
+                <p className="mt-4 text-xs leading-relaxed text-slate-200 whitespace-pre-wrap">
+                    {source.excerpt}
+                </p>
+            </div>
+        </details>
+    );
 }
 
 export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssistantProps) {
@@ -26,7 +188,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
         {
             id: 1,
             role: "assistant",
-            content: "Hello! I'm the ALD-LLaMat Agentic Assistant. I can help you analyze the materials catalog, compare deposition conditions, or deep-dive into specific paper data. How can I help you today?",
+            content: "I’m connected to the ALD-LLaMat retrieval assistant. Ask for summaries, comparisons, precursor trends, deposition windows, or paper-specific insights and I’ll answer from Pinecone-backed evidence.",
         },
     ]);
     const [inputValue, setInputValue] = useState("");
@@ -38,28 +200,82 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
         messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
     }, [messages, isTyping]);
 
-    const sendMessage = (content: string) => {
+    const sendMessage = async (content: string) => {
+        const trimmedContent = content.trim();
+        if (!trimmedContent) return;
+
         const newUserMsg: Message = {
             id: Date.now(),
             role: "user",
-            content: content.trim(),
+            content: trimmedContent,
         };
+
+        const conversationForRequest = [...messages, newUserMsg]
+            .filter((message) => message.role === "user" || message.role === "assistant")
+            .slice(-8)
+            .map((message) => ({
+                role: message.role,
+                content: message.content,
+            }));
 
         setMessages((prev) => [...prev, newUserMsg]);
         setIsTyping(true);
 
-        // Placeholder simulated response
-        setTimeout(() => {
-            setIsTyping(false);
+        try {
+            const response = await fetch(`${RAG_API_URL}/api/chat`, {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json",
+                },
+                body: JSON.stringify({
+                    query: trimmedContent,
+                    conversation: conversationForRequest,
+                    scope_paper_id: selectedPaper?.id ?? null,
+                }),
+            });
+
+            let payload: ChatApiResponse | { detail?: string } | null = null;
+            try {
+                payload = await response.json();
+            } catch {
+                payload = null;
+            }
+
+            if (!response.ok) {
+                const detail =
+                    payload && "detail" in payload && payload.detail
+                        ? payload.detail
+                        : `The RAG backend returned status ${response.status}.`;
+                throw new Error(detail);
+            }
+
+            const data = payload as ChatApiResponse;
             const botMsg: Message = {
                 id: Date.now() + 1,
                 role: "assistant",
-                content: selectedPaper
-                    ? `Analyzing "${selectedPaper.id}"... I see ${selectedPaper.target_material.target_material.chemical_formula} is the target. The ${selectedPaper.summary.process_type} process was used at ${selectedPaper.deposition_conditions.deposition_temperature_C || 'various'}°C. What specific metric should I clarify from this paper?`
-                    : `I'm currently scanning the global catalog for "${content}". Once the RAG pipeline is active, I'll be able to compare all 19 papers at once! Selection a paper from the right to narrow my focus.`,
+                content: data.answer,
+                sources: data.sources,
+                diagnostics: data.diagnostics,
+            };
+
+            setMessages((prev) => [...prev, botMsg]);
+        } catch (error) {
+            const errorMessage =
+                error instanceof Error
+                    ? error.message
+                    : "The chat request failed before the RAG response was returned.";
+            const botMsg: Message = {
+                id: Date.now() + 1,
+                role: "assistant",
+                content:
+                    `I couldn’t reach the agentic RAG backend.\n\n${errorMessage}\n\n` +
+                    `Make sure \`uvicorn agentic_rag_pipeline.main:app --reload --port 8000\` is running and that \`NEXT_PUBLIC_RAG_API_URL\` points to it.`,
+                isError: true,
             };
             setMessages((prev) => [...prev, botMsg]);
-        }, 1200);
+        } finally {
+            setIsTyping(false);
+        }
     };
 
     const handleFormSubmit = (e: React.FormEvent) => {
@@ -122,10 +338,48 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                                 : "rounded-bl-sm text-slate-100 border border-slate-800/80"
                                 }`}
                             style={{
-                                background: msg.role === "user" ? "var(--gradient-accent)" : "rgba(30, 41, 59, 0.4)",
+                                background: msg.role === "user"
+                                    ? "var(--gradient-accent)"
+                                    : msg.isError
+                                        ? "rgba(127, 29, 29, 0.35)"
+                                        : "rgba(30, 41, 59, 0.4)",
                             }}
                         >
-                            {msg.content}
+                            <FormattedAnswer content={msg.content} />
+
+                            {msg.diagnostics && (
+                                <div className="mt-4 flex flex-wrap gap-2">
+                                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-teal-500/10 text-teal-300 border border-teal-500/20">
+                                        {msg.diagnostics.hyde_enabled ? "HyDE Active" : "Direct Query"}
+                                    </span>
+                                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-300 border border-cyan-500/20">
+                                        Scope: {msg.diagnostics.scope}
+                                    </span>
+                                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-slate-800/80 text-slate-300 border border-slate-700/80">
+                                        {msg.diagnostics.reranked_count}/{msg.diagnostics.retrieved_count} kept
+                                    </span>
+                                </div>
+                            )}
+
+                            {msg.sources && msg.sources.length > 0 && (
+                                <div className="mt-4 space-y-3">
+                                    <div className="flex items-center justify-between gap-3 px-1">
+                                        <p className="text-[10px] uppercase font-black text-slate-500 tracking-[0.2em]">
+                                            Evidence Pack
+                                        </p>
+                                        <p className="text-[10px] text-slate-500 uppercase tracking-wider">
+                                            {msg.sources.length} chunks
+                                        </p>
+                                    </div>
+                                    {msg.sources.map((source, index) => (
+                                        <SourceCard
+                                            key={`${msg.id}-${source.source_id}`}
+                                            source={source}
+                                            index={index}
+                                        />
+                                    ))}
+                                </div>
+                            )}
                         </div>
                     </div>
                 ))}
@@ -136,7 +390,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                         <span className="w-1.5 h-1.5 bg-teal-400 rounded-full animate-bounce" style={{ animationDelay: "150ms" }}></span>
                         <span className="w-1.5 h-1.5 bg-teal-400 rounded-full animate-bounce" style={{ animationDelay: "300ms" }}></span>
                     </div>
-                )}
+                    )}
 
                 {/* Suggested Actions if no activity */}
                 {messages.length === 1 && !isTyping && (
@@ -168,6 +422,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                         className="w-full bg-slate-900/80 border border-slate-800/80 text-slate-100 rounded-2xl px-5 py-4 pr-14 text-sm focus:outline-none focus:border-teal-500/40 focus:ring-1 focus:ring-teal-500/40 transition-all placeholder-slate-600 shadow-inner"
                         value={inputValue}
                         onChange={(e) => setInputValue(e.target.value)}
+                        disabled={isTyping}
                     />
                     <button
                         type="submit"
@@ -179,7 +434,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                 </form>
                 <div className="mt-4 flex items-center justify-center gap-3">
                     <span className="h-[1px] flex-1 bg-gradient-to-r from-transparent to-slate-800"></span>
-                    <span className="text-[9px] text-slate-600 font-black uppercase tracking-[0.3em] whitespace-nowrap">Neural Engine v1.02</span>
+                    <span className="text-[9px] text-slate-600 font-black uppercase tracking-[0.3em] whitespace-nowrap">HyDE + Rerank Pipeline</span>
                     <span className="h-[1px] flex-1 bg-gradient-to-l from-transparent to-slate-800"></span>
                 </div>
             </div>
