@@ -124,12 +124,10 @@ function Particles() {
 // ─── Section Wrapper ───
 function Section({
     title,
-    icon,
     children,
     delay = 0,
 }: {
     title: string;
-    icon: React.ReactNode;
     children: React.ReactNode;
     delay?: number;
 }) {
@@ -139,7 +137,6 @@ function Section({
             style={{ animationDelay: `${delay}ms` }}
         >
             <div className="section-title">
-                <span className="text-lg">{icon}</span>
                 {title}
             </div>
             {children}
@@ -321,25 +318,21 @@ export default function Dashboard({
                             label: "Target Material",
                             value: paper.summary.target_material,
                             color: "var(--accent-teal)",
-                            icon: "🎯",
                         },
                         {
                             label: "Process Type",
                             value: paper.summary.process_type,
                             color: "var(--accent-purple)",
-                            icon: "⚙️",
                         },
                         {
                             label: "Temperature Range",
                             value: paper.summary.temperature_range,
                             color: "var(--accent-amber)",
-                            icon: "🌡️",
                         },
                         {
                             label: "Characterization Methods",
                             value: `${paper.characterization.characterization_methods.length} methods`,
                             color: "var(--accent-cyan)",
-                            icon: "🔬",
                         },
                     ].map((metric, i) => (
                         <div
@@ -348,7 +341,6 @@ export default function Dashboard({
                             style={{ animationDelay: `${i * 100}ms` }}
                         >
                             <div className="flex items-center gap-2 mb-2">
-                                <span className="text-xl">{metric.icon}</span>
                                 <span className="data-label">{metric.label}</span>
                             </div>
                             <p
@@ -373,7 +365,7 @@ export default function Dashboard({
                 </main>
             ) : (
                 <main className="max-w-6xl w-full mx-auto px-6 py-10 flex flex-col gap-6">
-                    <Section title="Paper Summary" icon="📄" delay={100}>
+                    <Section title="Paper Summary" delay={100}>
                         <p
                             className="text-base leading-relaxed mb-4"
                             style={{ color: "var(--text-secondary)" }}
@@ -383,7 +375,7 @@ export default function Dashboard({
                         <div className="flex flex-wrap gap-2 mb-2">
                             {paper.summary.main_precursors.map((p, i) => (
                                 <span key={i} className="badge badge-teal">
-                                    🧪 {p}
+                                    {p}
                                 </span>
                             ))}
                         </div>
@@ -391,7 +383,7 @@ export default function Dashboard({
                     </Section>
 
                     {/* ─── Target Material ─── */}
-                    <Section title="Target Material" icon="🎯" delay={200}>
+                    <Section title="Target Material" delay={200}>
                         <div className="flex flex-col md:flex-row items-start md:items-center gap-6">
                             <div className="formula">
                                 {paper.target_material.target_material.chemical_formula}
@@ -411,7 +403,7 @@ export default function Dashboard({
                     </Section>
 
                     {/* ─── Substrate Info ─── */}
-                    <Section title="Substrate Information" icon="🏗️" delay={300}>
+                    <Section title="Substrate Information" delay={300}>
                         <div className="stat-grid">
                             <DataField
                                 label="Material"
@@ -435,7 +427,7 @@ export default function Dashboard({
                     </Section>
 
                     {/* ─── Deposition Conditions ─── */}
-                    <Section title="Deposition Conditions" icon="🔥" delay={400}>
+                    <Section title="Deposition Conditions" delay={400}>
                         <div className="stat-grid mb-6">
                             <DataField
                                 label="Temperature (°C)"
@@ -499,7 +491,7 @@ export default function Dashboard({
                     </Section>
 
                     {/* ─── Precursor & Coreactant ─── */}
-                    <Section title="Precursors & Coreactants" icon="🧪" delay={500}>
+                    <Section title="Precursors & Coreactants" delay={500}>
                         <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                             {/* Precursors */}
                             <div className="stat-card">
@@ -507,7 +499,7 @@ export default function Dashboard({
                                     className="data-label mb-3"
                                     style={{ color: "var(--accent-teal)" }}
                                 >
-                                    ● Precursors
+                                    Precursors
                                 </p>
                                 <div className="flex flex-wrap gap-2">
                                     {paper.precursor_coreactant.precursors.map((c, i) => (
@@ -528,7 +520,7 @@ export default function Dashboard({
                                     className="data-label mb-3"
                                     style={{ color: "var(--accent-purple)" }}
                                 >
-                                    ● Coreactants
+                                    Coreactants
                                 </p>
                                 <div className="flex flex-wrap gap-2">
                                     {paper.precursor_coreactant.coreactants.map((c, i) => (
@@ -549,7 +541,7 @@ export default function Dashboard({
                                     className="data-label mb-3"
                                     style={{ color: "var(--accent-amber)" }}
                                 >
-                                    ● Purge Gas
+                                    Purge Gas
                                 </p>
                                 <div className="flex flex-wrap gap-2">
                                     {paper.precursor_coreactant.purge_gas.map((c, i) => (
@@ -570,7 +562,7 @@ export default function Dashboard({
                                     className="data-label mb-3"
                                     style={{ color: "var(--accent-cyan)" }}
                                 >
-                                    ● Carrier Gas
+                                    Carrier Gas
                                 </p>
                                 <div className="flex flex-wrap gap-2">
                                     {paper.precursor_coreactant.carrier_gas.map((c, i) => (
@@ -590,7 +582,7 @@ export default function Dashboard({
                     </Section>
 
                     {/* ─── Reaction Conditions ─── */}
-                    <Section title="Reaction Conditions" icon="⚗️" delay={600}>
+                    <Section title="Reaction Conditions" delay={600}>
                         <div className="stat-card mb-4">
                             <p className="data-label mb-2">Surface Mechanism</p>
                             <p
@@ -641,7 +633,7 @@ export default function Dashboard({
                     </Section>
 
                     {/* ─── Film Properties ─── */}
-                    <Section title="Film Properties" icon="💎" delay={700}>
+                    <Section title="Film Properties" delay={700}>
                         <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
                             <div className="md:col-span-2">
                                 <div className="stat-grid">
@@ -710,7 +702,7 @@ export default function Dashboard({
                     </Section>
 
                     {/* ─── Characterization Methods ─── */}
-                    <Section title="Characterization Methods" icon="🔬" delay={800}>
+                    <Section title="Characterization Methods" delay={800}>
                         <div className="flex flex-wrap gap-2 mb-6">
                             {paper.characterization.characterization_methods.map(
                                 (method, i) => (
