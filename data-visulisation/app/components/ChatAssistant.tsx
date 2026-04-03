@@ -76,7 +76,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
     return (
         <div className="flex flex-col h-full bg-[#0f172a]/20 backdrop-blur-3xl">
             {/* Header */}
-            <div className="flex flex-col px-6 py-8 border-b border-slate-800/60 bg-[#0f172a]/40">
+            <div className="flex flex-col px-4 md:px-6 py-4 md:py-8 border-b border-slate-800/60 bg-[#0f172a]/40">
                 <div className="flex items-center gap-4 mb-6">
                     <div className="w-10 h-10 rounded-2xl flex items-center justify-center shrink-0 shadow-lg border border-teal-500/20" style={{ background: "var(--gradient-accent)" }}>
                         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0f172a" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="3" /><path d="M12 2a10 10 0 0 1 0 20" /><path d="M12 2a10 10 0 0 0 0 20" /><line x1="2" y1="12" x2="22" y2="12" /></svg>
@@ -118,8 +118,8 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                     >
                         <div
                             className={`px-4 py-3 rounded-2xl text-sm leading-relaxed shadow-sm ${msg.role === "user"
-                                    ? "rounded-br-sm text-slate-900 font-medium"
-                                    : "rounded-bl-sm text-slate-100 border border-slate-800/80"
+                                ? "rounded-br-sm text-slate-900 font-medium"
+                                : "rounded-bl-sm text-slate-100 border border-slate-800/80"
                                 }`}
                             style={{
                                 background: msg.role === "user" ? "var(--gradient-accent)" : "rgba(30, 41, 59, 0.4)",

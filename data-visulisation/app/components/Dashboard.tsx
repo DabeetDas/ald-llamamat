@@ -364,11 +364,10 @@ export default function Dashboard({
 
             {/* ─── Paper Content / PDF ─── */}
             {showPdf ? (
-                <main className="max-w-6xl w-full mx-auto px-6 py-10 flex flex-col flex-1" style={{ minHeight: '80vh' }}>
+                <main className="max-w-6xl w-full mx-auto px-4 md:px-6 py-6 md:py-10 flex flex-col flex-1" style={{ minHeight: '80vh' }}>
                     <iframe
                         src={paper.pdf_url || `/api/pdf/${paper.id}`}
-                        className="w-full h-full rounded-xl border border-slate-700/50 flex-1"
-                        style={{ minHeight: '1000px' }}
+                        className="w-full h-full rounded-xl border border-slate-700/50 flex-1 min-h-[60vh] md:min-h-[1000px]"
                         title={`PDF for ${paper.id}`}
                     />
                 </main>
