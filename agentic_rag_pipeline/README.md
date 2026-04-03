@@ -47,6 +47,33 @@ From the repository root:
 uvicorn agentic_rag_pipeline.main:app --reload --port 8000
 ```
 
+## Docker
+
+Build the backend image directly from the `agentic_rag_pipeline` folder:
+
+```bash
+docker build -t ald-rag-backend ./agentic_rag_pipeline
+```
+
+Run it with your env file:
+
+```bash
+docker run --env-file .env -p 8000:8000 ald-rag-backend
+```
+
+If your deployment platform injects a `PORT` variable, the container will honor it automatically. Otherwise it serves on port `8000`.
+
+For production deploys, make sure the container environment includes:
+
+```env
+PINECONE_API_KEY=...
+PINECONE_INDEX_NAME=ald-llamamat
+PINECONE_INDEX_HOST=...
+GEMINI_API_KEY=...
+GEMINI_MODEL=gemini-2.5-flash
+RAG_CORS_ORIGINS=https://your-frontend-domain.com
+```
+
 ## Endpoints
 
 - `GET /health`
