@@ -3,7 +3,7 @@ const fs = require('fs');
 const path = require('path');
 require('dotenv').config({ path: '.env.local' });
 
-const uri = process.env.MONGODB_URI || "mongodb+srv://dabeetdas10_db_user:W7OMXQvzQR8YamPc@cluster0.gkwmwcg.mongodb.net/?appName=Cluster0";
+const uri = process.env.MONGODB_URI;
 const client = new MongoClient(uri);
 
 function safeJsonParse(filePath, defaultFallback) {
