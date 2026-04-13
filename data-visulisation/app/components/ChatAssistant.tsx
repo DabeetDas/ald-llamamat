@@ -5,6 +5,9 @@ import { type PaperData } from "@/app/lib/data-fetcher";
 
 interface SourceChunk {
     source_id: string;
+    source_type: "rag" | "wikipedia";
+    title: string | null;
+    url: string | null;
     paper_id: string | null;
     target_material: string | null;
     process_type: string | null;
@@ -19,12 +22,59 @@ interface RetrievalDiagnostics {
     retrieved_count: number;
     reranked_count: number;
     hyde_preview: string | null;
+    planner_used: boolean;
+    executed_steps: number;
+    tool_calls: number;
+    validation_status: "pass" | "warning" | "fail";
+    validation_queries: string[];
+}
+
+interface PlanStep {
+    step_id: string;
+    step_type: "analysis" | "tool";
+    title: string;
+    objective: string;
+    depends_on: string[];
+    tool_name: string | null;
+    arguments: Record<string, unknown>;
+    expected_output: string;
+}
+
+interface AgentPlan {
+    planner_summary: string;
+    analysis: string;
+    synthesis_goal: string;
+    validation_focus: string[];
+    steps: PlanStep[];
+}
+
+interface ExecutionArtifact {
+    step_id: string;
+    step_type: "analysis" | "tool";
+    title: string;
+    status: "completed" | "failed" | "skipped";
+    tool_name: string | null;
+    resolved_arguments: Record<string, unknown>;
+    output_summary: string;
+}
+
+interface ValidationReport {
+    factual_grounding: "pass" | "warning" | "fail";
+    logical_consistency: "pass" | "warning" | "fail";
+    cross_verification: "pass" | "warning" | "fail";
+    issues: string[];
+    summary: string;
+    verdict: "pass" | "warning" | "fail";
+    revised_answer: string | null;
 }
 
 interface ChatApiResponse {
     answer: string;
     sources: SourceChunk[];
     diagnostics: RetrievalDiagnostics;
+    plan?: AgentPlan | null;
+    execution?: ExecutionArtifact[];
+    validation?: ValidationReport | null;
 }
 
 interface Message {
@@ -33,6 +83,9 @@ interface Message {
     content: string;
     sources?: SourceChunk[];
     diagnostics?: RetrievalDiagnostics;
+    plan?: AgentPlan | null;
+    execution?: ExecutionArtifact[];
+    validation?: ValidationReport | null;
     isError?: boolean;
 }
 
@@ -59,6 +112,16 @@ function formatScore(score: number | null | undefined) {
 function truncateText(text: string, maxLength: number) {
     if (text.length <= maxLength) return text;
     return `${text.slice(0, maxLength).trimEnd()}...`;
+}
+
+function statusPill(status: "pass" | "warning" | "fail" | "completed" | "failed" | "skipped") {
+    if (status === "pass" || status === "completed") {
+        return "bg-emerald-500/10 text-emerald-300 border border-emerald-500/20";
+    }
+    if (status === "warning" || status === "skipped") {
+        return "bg-amber-500/10 text-amber-200 border border-amber-500/20";
+    }
+    return "bg-rose-500/10 text-rose-200 border border-rose-500/20";
 }
 
 function FormattedAnswer({ content }: { content: string }) {
@@ -127,6 +190,9 @@ function SourceCard({
     index: number;
 }) {
     const excerptPreview = truncateText(source.excerpt, 200);
+    const sourceLabel = source.source_type === "wikipedia"
+        ? source.title || "Wikipedia"
+        : source.paper_id || "unknown paper";
 
     return (
         <details className="group rounded-2xl border border-slate-700/70 bg-slate-950/45 open:border-teal-500/30">
@@ -138,14 +204,19 @@ function SourceCard({
                                 S{index + 1}
                             </span>
                             <span className="px-2 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-slate-800 text-slate-200">
-                                {source.paper_id || "unknown paper"}
+                                {sourceLabel}
                             </span>
-                            {source.target_material && (
+                            {source.source_type === "wikipedia" && (
+                                <span className="text-[10px] uppercase tracking-wider text-sky-300">
+                                    Background
+                                </span>
+                            )}
+                            {source.source_type === "rag" && source.target_material && (
                                 <span className="text-[10px] uppercase tracking-wider text-cyan-300">
                                     {source.target_material}
                                 </span>
                             )}
-                            {source.process_type && (
+                            {source.source_type === "rag" && source.process_type && (
                                 <span className="text-[10px] uppercase tracking-wider text-amber-300">
                                     {source.process_type}
                                 </span>
@@ -175,9 +246,142 @@ function SourceCard({
                 </div>
             </summary>
             <div className="px-4 pb-4 pt-0 border-t border-slate-800/80">
+                {source.url && (
+                    <a
+                        href={source.url}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="mt-4 inline-flex text-[10px] font-bold uppercase tracking-[0.18em] text-sky-300 hover:text-sky-200 transition-colors"
+                    >
+                        Open source
+                    </a>
+                )}
                 <p className="mt-4 text-xs leading-relaxed text-slate-200 whitespace-pre-wrap">
                     {source.excerpt}
                 </p>
+            </div>
+        </details>
+    );
+}
+
+function PlannerCard({ plan }: { plan: AgentPlan }) {
+    return (
+        <details className="group rounded-2xl border border-cyan-500/20 bg-slate-950/45 open:border-cyan-400/40" open>
+            <summary className="list-none cursor-pointer p-4">
+                <div className="flex items-center justify-between gap-3">
+                    <div>
+                        <p className="text-[10px] font-black uppercase tracking-[0.2em] text-cyan-300">Strategic Agent</p>
+                        <p className="mt-1 text-sm text-slate-200">{plan.planner_summary}</p>
+                    </div>
+                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-300 border border-cyan-500/20">
+                        {plan.steps.length} planned
+                    </span>
+                </div>
+            </summary>
+            <div className="border-t border-slate-800/80 px-4 pb-4 pt-4 space-y-4">
+                <div className="rounded-xl border border-slate-800/80 bg-slate-900/40 p-3">
+                    <p className="text-[10px] font-black uppercase tracking-[0.18em] text-slate-500">Analysis</p>
+                    <p className="mt-2 text-xs leading-relaxed text-slate-300">{plan.analysis}</p>
+                </div>
+                <div className="space-y-2">
+                    {plan.steps.map((step) => (
+                        <div key={step.step_id} className="rounded-xl border border-slate-800/80 bg-slate-900/35 p-3">
+                            <div className="flex flex-wrap items-center gap-2">
+                                <span className="px-2 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.18em] bg-slate-800 text-slate-200">
+                                    {step.step_id}
+                                </span>
+                                <span className={`px-2 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${step.step_type === "tool" ? "bg-teal-500/10 text-teal-300 border border-teal-500/20" : "bg-violet-500/10 text-violet-300 border border-violet-500/20"}`}>
+                                    {step.step_type}
+                                </span>
+                                {step.tool_name && (
+                                    <span className="text-[10px] uppercase tracking-wider text-slate-500">{step.tool_name}</span>
+                                )}
+                            </div>
+                            <p className="mt-2 text-sm text-slate-100">{step.title}</p>
+                            <p className="mt-1 text-xs leading-relaxed text-slate-400">{step.objective}</p>
+                        </div>
+                    ))}
+                </div>
+            </div>
+        </details>
+    );
+}
+
+function ExecutionTimeline({ execution }: { execution: ExecutionArtifact[] }) {
+    return (
+        <details className="group rounded-2xl border border-teal-500/20 bg-slate-950/45 open:border-teal-400/40" open>
+            <summary className="list-none cursor-pointer p-4">
+                <div className="flex items-center justify-between gap-3">
+                    <div>
+                        <p className="text-[10px] font-black uppercase tracking-[0.2em] text-teal-300">Executor</p>
+                        <p className="mt-1 text-sm text-slate-200">ReWOO-style execution trace</p>
+                    </div>
+                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-teal-500/10 text-teal-300 border border-teal-500/20">
+                        {execution.length} steps
+                    </span>
+                </div>
+            </summary>
+            <div className="border-t border-slate-800/80 px-4 pb-4 pt-4 space-y-3">
+                {execution.map((step) => (
+                    <div key={step.step_id} className="rounded-xl border border-slate-800/80 bg-slate-900/35 p-3">
+                        <div className="flex flex-wrap items-center gap-2">
+                            <span className="px-2 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.18em] bg-slate-800 text-slate-200">
+                                {step.step_id}
+                            </span>
+                            <span className={`px-2 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(step.status)}`}>
+                                {step.status}
+                            </span>
+                            <span className="text-[10px] uppercase tracking-wider text-slate-500">
+                                {step.tool_name || step.step_type}
+                            </span>
+                        </div>
+                        <p className="mt-2 text-sm text-slate-100">{step.title}</p>
+                        <p className="mt-1 text-xs leading-relaxed text-slate-300">{step.output_summary}</p>
+                    </div>
+                ))}
+            </div>
+        </details>
+    );
+}
+
+function ValidationCard({ validation }: { validation: ValidationReport }) {
+    return (
+        <details className="group rounded-2xl border border-amber-500/20 bg-slate-950/45 open:border-amber-400/40" open>
+            <summary className="list-none cursor-pointer p-4">
+                <div className="flex items-center justify-between gap-3">
+                    <div>
+                        <p className="text-[10px] font-black uppercase tracking-[0.2em] text-amber-300">Validation Agent</p>
+                        <p className="mt-1 text-sm text-slate-200">{validation.summary}</p>
+                    </div>
+                    <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(validation.verdict)}`}>
+                        {validation.verdict}
+                    </span>
+                </div>
+            </summary>
+            <div className="border-t border-slate-800/80 px-4 pb-4 pt-4 space-y-4">
+                <div className="flex flex-wrap gap-2">
+                    <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(validation.factual_grounding)}`}>
+                        Grounding {validation.factual_grounding}
+                    </span>
+                    <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(validation.logical_consistency)}`}>
+                        Logic {validation.logical_consistency}
+                    </span>
+                    <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(validation.cross_verification)}`}>
+                        Cross-check {validation.cross_verification}
+                    </span>
+                </div>
+                {validation.issues.length > 0 && (
+                    <div className="rounded-xl border border-slate-800/80 bg-slate-900/35 p-3">
+                        <p className="text-[10px] font-black uppercase tracking-[0.18em] text-slate-500">Observed Issues</p>
+                        <div className="mt-2 space-y-2">
+                            {validation.issues.map((issue, index) => (
+                                <p key={`${issue}-${index}`} className="text-xs leading-relaxed text-slate-300">
+                                    {issue}
+                                </p>
+                            ))}
+                        </div>
+                    </div>
+                )}
             </div>
         </details>
     );
@@ -256,6 +460,9 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                 content: data.answer,
                 sources: data.sources,
                 diagnostics: data.diagnostics,
+                plan: data.plan ?? null,
+                execution: data.execution ?? [],
+                validation: data.validation ?? null,
             };
 
             setMessages((prev) => [...prev, botMsg]);
@@ -352,12 +559,53 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                                     <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-teal-500/10 text-teal-300 border border-teal-500/20">
                                         {msg.diagnostics.hyde_enabled ? "HyDE Active" : "Direct Query"}
                                     </span>
+                                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-violet-500/10 text-violet-300 border border-violet-500/20">
+                                        {msg.diagnostics.planner_used ? "Planner LLM" : "Fallback Plan"}
+                                    </span>
                                     <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-300 border border-cyan-500/20">
                                         Scope: {msg.diagnostics.scope}
                                     </span>
                                     <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-slate-800/80 text-slate-300 border border-slate-700/80">
                                         {msg.diagnostics.reranked_count}/{msg.diagnostics.retrieved_count} kept
                                     </span>
+                                    <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(msg.diagnostics.validation_status)}`}>
+                                        Validation {msg.diagnostics.validation_status}
+                                    </span>
+                                </div>
+                            )}
+
+                            {(msg.plan || (msg.execution && msg.execution.length > 0) || msg.validation) && (
+                                <div className="mt-4 space-y-3">
+                                    <div className="flex items-center justify-between gap-3 px-1">
+                                        <p className="text-[10px] uppercase font-black text-slate-500 tracking-[0.2em]">
+                                            Agent Execution
+                                        </p>
+                                        {msg.diagnostics && (
+                                            <p className="text-[10px] text-slate-500 uppercase tracking-wider">
+                                                {msg.diagnostics.executed_steps} steps · {msg.diagnostics.tool_calls} tools
+                                            </p>
+                                        )}
+                                    </div>
+
+                                    {msg.plan && <PlannerCard plan={msg.plan} />}
+                                    {msg.execution && msg.execution.length > 0 && <ExecutionTimeline execution={msg.execution} />}
+                                    {msg.validation && <ValidationCard validation={msg.validation} />}
+
+                                    {msg.diagnostics && msg.diagnostics.validation_queries.length > 0 && (
+                                        <div className="rounded-2xl border border-slate-800/80 bg-slate-950/45 p-4">
+                                            <p className="text-[10px] font-black uppercase tracking-[0.2em] text-slate-500">Cross-Verification Queries</p>
+                                            <div className="mt-3 flex flex-wrap gap-2">
+                                                {msg.diagnostics.validation_queries.map((item, index) => (
+                                                    <span
+                                                        key={`${item}-${index}`}
+                                                        className="px-2.5 py-1 rounded-full text-[10px] font-bold bg-slate-900 text-slate-300 border border-slate-700/80"
+                                                    >
+                                                        {item}
+                                                    </span>
+                                                ))}
+                                            </div>
+                                        </div>
+                                    )}
                                 </div>
                             )}
 
@@ -434,7 +682,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                 </form>
                 <div className="mt-4 flex items-center justify-center gap-3">
                     <span className="h-[1px] flex-1 bg-gradient-to-r from-transparent to-slate-800"></span>
-                    <span className="text-[9px] text-slate-600 font-black uppercase tracking-[0.3em] whitespace-nowrap">HyDE + Rerank Pipeline</span>
+                    <span className="text-[9px] text-slate-600 font-black uppercase tracking-[0.3em] whitespace-nowrap">Strategic Agent • Executor • Synthesizer • Validator</span>
                     <span className="h-[1px] flex-1 bg-gradient-to-l from-transparent to-slate-800"></span>
                 </div>
             </div>

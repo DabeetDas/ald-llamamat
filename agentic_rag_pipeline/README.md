@@ -2,13 +2,54 @@
 
 Standalone backend service for the ALD-LLaMat chat assistant.
 
-## Features
+## Architecture
 
-- HyDE query expansion for stronger semantic recall
-- Pinecone dense retrieval over the existing `ald-llamamat` index
-- Pinecone reranking with `bge-reranker-v2-m3`
-- Optional paper-level scoping from the frontend
-- FastAPI endpoints for health checks and chat
+The backend now runs an explicit agentic pipeline:
+
+`User Query -> Strategic Agent -> Executor -> Synthesizer -> Validation Agent`
+
+- `Strategic Agent`
+  Creates a complete plan for the query.
+  Produces:
+  - query analysis
+  - ordered tool steps
+  - synthesis goal
+  - validation focus
+- `Executor`
+  Uses a ReWOO-style execution loop.
+  - no free-form reasoning
+  - resolves plan references like `#E1.field`
+  - executes tools deterministically
+- `Synthesizer`
+  Generates the final answer from tool outputs only.
+- `Validation Agent`
+  Performs:
+  - factual grounding checks
+  - logical consistency checks
+  - cross-verification with alternate retrieval queries
+
+## Tools
+
+- `rag_search`
+  Wraps the existing HyDE + Pinecone retrieval + reciprocal-rank fusion + reranking pipeline.
+- `wikipedia_lookup`
+  Fetches concise background context from Wikipedia for broad or definitional questions.
+
+## API Response
+
+`POST /api/chat` still returns:
+
+- `answer`
+- `sources`
+- `diagnostics`
+
+It now also includes:
+
+- `plan`
+- `execution`
+- `validation`
+
+This keeps the existing frontend compatible while exposing the agent trace.
 
 ## Setup
 
@@ -21,11 +62,13 @@ PINECONE_INDEX_HOST=...
 GEMINI_API_KEY=...
 GEMINI_MODEL=gemini-2.5-flash
 RAG_CORS_ORIGINS=http://localhost:3000,http://127.0.0.1:3000
+RAG_WIKIPEDIA_ENABLED=true
+AGENTIC_MAX_PLAN_STEPS=5
+AGENTIC_VALIDATION_ENABLED=true
+AGENTIC_VALIDATION_QUERY_LIMIT=2
 ```
 
 `PINECONE_INDEX_HOST` is recommended for production. If it is omitted, the service falls back to targeting the index by name.
-
-This backend now uses the official Google Gen AI Python SDK. Google’s Gemini quickstart shows `genai.Client()` with `GEMINI_API_KEY`, and the text-generation docs show `client.models.generate_content(...)` with `gemini-2.5-flash` and `GenerateContentConfig`. Sources: https://ai.google.dev/gemini-api/docs/quickstart and https://ai.google.dev/gemini-api/docs/system-instructions
 
 ## Install
 
@@ -62,17 +105,6 @@ docker run --env-file .env -p 8000:8000 ald-rag-backend
 ```
 
 If your deployment platform injects a `PORT` variable, the container will honor it automatically. Otherwise it serves on port `8000`.
-
-For production deploys, make sure the container environment includes:
-
-```env
-PINECONE_API_KEY=...
-PINECONE_INDEX_NAME=ald-llamamat
-PINECONE_INDEX_HOST=...
-GEMINI_API_KEY=...
-GEMINI_MODEL=gemini-2.5-flash
-RAG_CORS_ORIGINS=https://your-frontend-domain.com
-```
 
 ## Endpoints
 

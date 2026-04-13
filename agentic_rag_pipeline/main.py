@@ -11,8 +11,8 @@ service = AgenticRAGService(settings)
 
 app = FastAPI(
     title="ALD-LLaMat Agentic RAG API",
-    version="1.0.0",
-    description="HyDE + Pinecone reranking backend for the ALD-LLaMat dashboard.",
+    version="2.0.0",
+    description="Agentic ALD backend with Strategic Agent planning, ReWOO-style tool execution, synthesis, and validation.",
 )
 
 app.add_middleware(
@@ -27,7 +27,7 @@ app.add_middleware(
 @app.get("/")
 def root() -> dict:
     return {
-        "message": "ALD-LLaMat agentic RAG service is running.",
+        "message": "ALD-LLaMat agentic retrieval service is running.",
         "health_endpoint": "/health",
         "chat_endpoint": "/api/chat",
     }
@@ -47,4 +47,4 @@ def chat(request: ChatRequest) -> ChatResponse:
     except ValueError as exc:
         raise HTTPException(status_code=400, detail=str(exc)) from exc
     except Exception as exc:
-        raise HTTPException(status_code=500, detail=f"RAG pipeline failed: {exc}") from exc
+        raise HTTPException(status_code=500, detail=f"Agentic pipeline failed: {exc}") from exc

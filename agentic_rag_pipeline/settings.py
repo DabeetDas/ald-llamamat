@@ -51,6 +51,10 @@ class Settings:
     answer_context_chars: int
     cors_origins: tuple[str, ...]
     rrf_k: int
+    wikipedia_enabled: bool
+    agentic_max_plan_steps: int
+    validation_enabled: bool
+    validation_query_limit: int
 
 
 def load_settings() -> Settings:
@@ -73,4 +77,8 @@ def load_settings() -> Settings:
             ("http://localhost:3000", "http://127.0.0.1:3000"),
         ),
         rrf_k=_parse_int(os.getenv("RAG_RRF_K"), 60),
+        wikipedia_enabled=_parse_bool(os.getenv("RAG_WIKIPEDIA_ENABLED"), True),
+        agentic_max_plan_steps=_parse_int(os.getenv("AGENTIC_MAX_PLAN_STEPS"), 5),
+        validation_enabled=_parse_bool(os.getenv("AGENTIC_VALIDATION_ENABLED"), True),
+        validation_query_limit=_parse_int(os.getenv("AGENTIC_VALIDATION_QUERY_LIMIT"), 2),
     )
