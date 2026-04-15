@@ -50,7 +50,7 @@ function Evidence({ text }: { text: string }) {
                 className={`evidence-text mt-3 rounded-2xl text-sm leading-relaxed ${open ? "open" : ""}`}
                 style={{
                     background: "rgba(255,255,255,0.03)",
-                    border: "1px solid rgba(255,255,255,0.05)",
+                    border: "1px solid rgba(255,255,255,0.12)",
                     color: "var(--text-secondary)",
                 }}
             >
@@ -202,7 +202,7 @@ export default function Dashboard({
                             className="glass-card p-6 cursor-pointer hover:border-teal-400/30 group flex flex-col h-full transition-all hover:translate-y-[-4px]"
                         >
                             <div className="flex justify-between items-start mb-4">
-                                <span className="px-3 py-1 bg-slate-800/80 rounded-full text-[10px] font-bold text-slate-400 border border-slate-700/50 uppercase tracking-widest">
+                                <span className="px-3 py-1 bg-neutral-900 rounded-full text-[10px] font-bold text-slate-400 border border-white/15 uppercase tracking-widest">
                                     {p.id}
                                 </span>
                                 <span className="text-teal-400 text-[10px] font-bold uppercase tracking-wider">{p.characterization.characterization_methods.length} methods</span>
@@ -359,7 +359,7 @@ export default function Dashboard({
                 <main className="max-w-6xl w-full mx-auto px-4 md:px-6 py-6 md:py-10 flex flex-col flex-1" style={{ minHeight: '80vh' }}>
                     <iframe
                         src={paper.pdf_url || `/api/pdf/${paper.id}`}
-                        className="w-full h-full rounded-xl border border-slate-700/50 flex-1 min-h-[60vh] md:min-h-[1000px]"
+                        className="w-full h-full rounded-xl border border-white/15 flex-1 min-h-[60vh] md:min-h-[1000px]"
                         title={`PDF for ${paper.id}`}
                     />
                 </main>
@@ -684,8 +684,8 @@ export default function Dashboard({
                                         </Pie>
                                         <Tooltip
                                             contentStyle={{
-                                                background: "#1e293b",
-                                                border: "1px solid rgba(255,255,255,0.1)",
+                                                background: "#0a0a0a",
+                                                border: "1px solid rgba(255,255,255,0.15)",
                                                 borderRadius: 8,
                                                 color: "#f1f5f9",
                                                 fontSize: 13,
@@ -740,7 +740,7 @@ export default function Dashboard({
                                     />
                                     <Tooltip
                                         contentStyle={{
-                                            background: "#1e293b",
+                                            background: "#0a0a0a",
                                             border: "1px solid rgba(255,255,255,0.1)",
                                             borderRadius: 8,
                                             color: "#f1f5f9",
@@ -751,8 +751,8 @@ export default function Dashboard({
                                             const data = payload[0].payload as { fullName: string };
                                             return (
                                                 <div style={{
-                                                    background: "#1e293b",
-                                                    border: "1px solid rgba(255,255,255,0.1)",
+                                                    background: "#0a0a0a",
+                                                    border: "1px solid rgba(255,255,255,0.15)",
                                                     borderRadius: 8,
                                                     padding: "8px 12px",
                                                     color: "#f1f5f9",

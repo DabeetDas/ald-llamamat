@@ -90,10 +90,10 @@ interface Message {
 }
 
 const QUICK_ACTIONS = [
-    "Summarize current paper",
-    "Compare growth temperatures",
-    "What are common precursors?",
-    "Analyze film density trends",
+    "What are some common methods to deposit NiO?",
+    "Mention the deposition conditions for MoSe2",
+    "Describe the common characterization techniques used",
+    "What are the precursors and coreactants used in deposition of NiO?",
 ];
 
 const RAG_API_URL =
@@ -124,6 +124,21 @@ function statusPill(status: "pass" | "warning" | "fail" | "completed" | "failed"
     return "bg-rose-500/10 text-rose-200 border border-rose-500/20";
 }
 
+/* ── Gemini-style sparkle SVG ── */
+function GeminiSparkle({ size = 20 }: { size?: number }) {
+    return (
+        <svg width={size} height={size} viewBox="0 0 28 28" fill="none">
+            <defs>
+                <linearGradient id="gemini-g" x1="0" y1="0" x2="28" y2="28" gradientUnits="userSpaceOnUse">
+                    <stop stopColor="#5eead4" />
+                    <stop offset="1" stopColor="#c4b5fd" />
+                </linearGradient>
+            </defs>
+            <path d="M14 2 C14 2 16.5 10 18.5 12.5 C20.5 15 28 14 28 14 C28 14 20.5 15 18.5 17.5 C16.5 20 14 28 14 28 C14 28 11.5 20 9.5 17.5 C7.5 15 0 14 0 14 C0 14 7.5 13 9.5 10.5 C11.5 8 14 2 14 2Z" fill="url(#gemini-g)" />
+        </svg>
+    );
+}
+
 function FormattedAnswer({ content }: { content: string }) {
     const lines = content.split("\n");
     const elements: React.ReactNode[] = [];
@@ -132,9 +147,9 @@ function FormattedAnswer({ content }: { content: string }) {
     const flushBullets = () => {
         if (!bulletBuffer.length) return;
         elements.push(
-            <ul key={`bullets-${elements.length}`} className="space-y-2 pl-4">
+            <ul key={`bullets-${elements.length}`} className="space-y-2 pl-5">
                 {bulletBuffer.map((item, index) => (
-                    <li key={`${item}-${index}`} className="text-sm leading-relaxed text-slate-200 list-disc">
+                    <li key={`${item}-${index}`} className="text-[15px] leading-[1.75] text-slate-200 list-disc">
                         {item}
                     </li>
                 ))}
@@ -162,7 +177,7 @@ function FormattedAnswer({ content }: { content: string }) {
             elements.push(
                 <p
                     key={`heading-${index}`}
-                    className="text-[11px] font-black uppercase tracking-[0.18em] text-teal-300"
+                    className="text-xs font-bold uppercase tracking-widest text-teal-400 mt-1"
                 >
                     {line.slice(0, -1)}
                 </p>
@@ -171,7 +186,7 @@ function FormattedAnswer({ content }: { content: string }) {
         }
 
         elements.push(
-            <p key={`paragraph-${index}`} className="text-sm leading-relaxed text-slate-100">
+            <p key={`paragraph-${index}`} className="text-[15px] leading-[1.75] text-slate-100">
                 {line}
             </p>
         );
@@ -195,7 +210,7 @@ function SourceCard({
         : source.paper_id || "unknown paper";
 
     return (
-        <details className="group rounded-2xl border border-slate-700/70 bg-slate-950/45 open:border-teal-500/30">
+        <details className="group rounded-2xl border border-slate-700/70 bg-black/50 open:border-teal-500/30">
             <summary className="list-none cursor-pointer p-4">
                 <div className="flex items-start justify-between gap-3">
                     <div className="min-w-0 flex-1">
@@ -251,12 +266,12 @@ function SourceCard({
                         href={source.url}
                         target="_blank"
                         rel="noreferrer"
-                        className="mt-4 inline-flex text-[10px] font-bold uppercase tracking-[0.18em] text-sky-300 hover:text-sky-200 transition-colors"
+                        className="mt-4 inline-flex text-xs font-semibold text-sky-400 hover:text-sky-300 transition-colors"
                     >
-                        Open source
+                        Open source ↗
                     </a>
                 )}
-                <p className="mt-4 text-xs leading-relaxed text-slate-200 whitespace-pre-wrap">
+                <p className="mt-4 text-sm leading-relaxed text-slate-200 whitespace-pre-wrap">
                     {source.excerpt}
                 </p>
             </div>
@@ -266,39 +281,39 @@ function SourceCard({
 
 function PlannerCard({ plan }: { plan: AgentPlan }) {
     return (
-        <details className="group rounded-2xl border border-cyan-500/20 bg-slate-950/45 open:border-cyan-400/40" open>
-            <summary className="list-none cursor-pointer p-4">
+        <details className="group rounded-2xl border border-cyan-500/20 bg-black/50 open:border-cyan-400/40" open>
+            <summary className="list-none cursor-pointer p-5">
                 <div className="flex items-center justify-between gap-3">
                     <div>
-                        <p className="text-[10px] font-black uppercase tracking-[0.2em] text-cyan-300">Strategic Agent</p>
-                        <p className="mt-1 text-sm text-slate-200">{plan.planner_summary}</p>
+                        <p className="text-xs font-bold uppercase tracking-widest text-cyan-400">🧠 Strategic Agent</p>
+                        <p className="mt-1.5 text-[15px] leading-relaxed text-slate-200">{plan.planner_summary}</p>
                     </div>
-                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-300 border border-cyan-500/20">
+                    <span className="px-3 py-1.5 rounded-full text-xs font-semibold bg-cyan-500/10 text-cyan-300 border border-cyan-500/20 whitespace-nowrap">
                         {plan.steps.length} planned
                     </span>
                 </div>
             </summary>
-            <div className="border-t border-slate-800/80 px-4 pb-4 pt-4 space-y-4">
-                <div className="rounded-xl border border-slate-800/80 bg-slate-900/40 p-3">
-                    <p className="text-[10px] font-black uppercase tracking-[0.18em] text-slate-500">Analysis</p>
-                    <p className="mt-2 text-xs leading-relaxed text-slate-300">{plan.analysis}</p>
+            <div className="border-t border-slate-800/80 px-5 pb-5 pt-4 space-y-4">
+                <div className="rounded-xl border border-slate-800/80 bg-neutral-900/40 p-4">
+                    <p className="text-xs font-bold uppercase tracking-widest text-slate-400">Analysis</p>
+                    <p className="mt-2 text-sm leading-relaxed text-slate-300">{plan.analysis}</p>
                 </div>
-                <div className="space-y-2">
+                <div className="space-y-3">
                     {plan.steps.map((step) => (
-                        <div key={step.step_id} className="rounded-xl border border-slate-800/80 bg-slate-900/35 p-3">
+                        <div key={step.step_id} className="rounded-xl border border-slate-800/80 bg-neutral-900/35 p-4">
                             <div className="flex flex-wrap items-center gap-2">
-                                <span className="px-2 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.18em] bg-slate-800 text-slate-200">
+                                <span className="px-2.5 py-1 rounded-full text-xs font-bold bg-slate-800 text-slate-200">
                                     {step.step_id}
                                 </span>
-                                <span className={`px-2 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${step.step_type === "tool" ? "bg-teal-500/10 text-teal-300 border border-teal-500/20" : "bg-violet-500/10 text-violet-300 border border-violet-500/20"}`}>
+                                <span className={`px-2.5 py-1 rounded-full text-xs font-semibold ${step.step_type === "tool" ? "bg-teal-500/10 text-teal-300 border border-teal-500/20" : "bg-violet-500/10 text-violet-300 border border-violet-500/20"}`}>
                                     {step.step_type}
                                 </span>
                                 {step.tool_name && (
-                                    <span className="text-[10px] uppercase tracking-wider text-slate-500">{step.tool_name}</span>
+                                    <span className="text-xs text-slate-400 font-medium">{step.tool_name}</span>
                                 )}
                             </div>
-                            <p className="mt-2 text-sm text-slate-100">{step.title}</p>
-                            <p className="mt-1 text-xs leading-relaxed text-slate-400">{step.objective}</p>
+                            <p className="mt-2.5 text-[15px] text-slate-100">{step.title}</p>
+                            <p className="mt-1 text-sm leading-relaxed text-slate-400">{step.objective}</p>
                         </div>
                     ))}
                 </div>
@@ -309,34 +324,34 @@ function PlannerCard({ plan }: { plan: AgentPlan }) {
 
 function ExecutionTimeline({ execution }: { execution: ExecutionArtifact[] }) {
     return (
-        <details className="group rounded-2xl border border-teal-500/20 bg-slate-950/45 open:border-teal-400/40" open>
-            <summary className="list-none cursor-pointer p-4">
+        <details className="group rounded-2xl border border-teal-500/20 bg-black/50 open:border-teal-400/40" open>
+            <summary className="list-none cursor-pointer p-5">
                 <div className="flex items-center justify-between gap-3">
                     <div>
-                        <p className="text-[10px] font-black uppercase tracking-[0.2em] text-teal-300">Executor</p>
-                        <p className="mt-1 text-sm text-slate-200">ReWOO-style execution trace</p>
+                        <p className="text-xs font-bold uppercase tracking-widest text-teal-400">⚡ Executor</p>
+                        <p className="mt-1.5 text-[15px] text-slate-200">ReWOO-style execution trace</p>
                     </div>
-                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-teal-500/10 text-teal-300 border border-teal-500/20">
+                    <span className="px-3 py-1.5 rounded-full text-xs font-semibold bg-teal-500/10 text-teal-300 border border-teal-500/20 whitespace-nowrap">
                         {execution.length} steps
                     </span>
                 </div>
             </summary>
-            <div className="border-t border-slate-800/80 px-4 pb-4 pt-4 space-y-3">
+            <div className="border-t border-slate-800/80 px-5 pb-5 pt-4 space-y-3">
                 {execution.map((step) => (
-                    <div key={step.step_id} className="rounded-xl border border-slate-800/80 bg-slate-900/35 p-3">
+                    <div key={step.step_id} className="rounded-xl border border-slate-800/80 bg-neutral-900/35 p-4">
                         <div className="flex flex-wrap items-center gap-2">
-                            <span className="px-2 py-1 rounded-full text-[10px] font-black uppercase tracking-[0.18em] bg-slate-800 text-slate-200">
+                            <span className="px-2.5 py-1 rounded-full text-xs font-bold bg-slate-800 text-slate-200">
                                 {step.step_id}
                             </span>
-                            <span className={`px-2 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(step.status)}`}>
+                            <span className={`px-2.5 py-1 rounded-full text-xs font-semibold ${statusPill(step.status)}`}>
                                 {step.status}
                             </span>
-                            <span className="text-[10px] uppercase tracking-wider text-slate-500">
+                            <span className="text-xs text-slate-400 font-medium">
                                 {step.tool_name || step.step_type}
                             </span>
                         </div>
-                        <p className="mt-2 text-sm text-slate-100">{step.title}</p>
-                        <p className="mt-1 text-xs leading-relaxed text-slate-300">{step.output_summary}</p>
+                        <p className="mt-2.5 text-[15px] text-slate-100">{step.title}</p>
+                        <p className="mt-1 text-sm leading-relaxed text-slate-300">{step.output_summary}</p>
                     </div>
                 ))}
             </div>
@@ -346,36 +361,36 @@ function ExecutionTimeline({ execution }: { execution: ExecutionArtifact[] }) {
 
 function ValidationCard({ validation }: { validation: ValidationReport }) {
     return (
-        <details className="group rounded-2xl border border-amber-500/20 bg-slate-950/45 open:border-amber-400/40" open>
-            <summary className="list-none cursor-pointer p-4">
+        <details className="group rounded-2xl border border-amber-500/20 bg-black/50 open:border-amber-400/40" open>
+            <summary className="list-none cursor-pointer p-5">
                 <div className="flex items-center justify-between gap-3">
                     <div>
-                        <p className="text-[10px] font-black uppercase tracking-[0.2em] text-amber-300">Validation Agent</p>
-                        <p className="mt-1 text-sm text-slate-200">{validation.summary}</p>
+                        <p className="text-xs font-bold uppercase tracking-widest text-amber-400">✅ Validation Agent</p>
+                        <p className="mt-1.5 text-[15px] text-slate-200">{validation.summary}</p>
                     </div>
-                    <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(validation.verdict)}`}>
+                    <span className={`px-3 py-1.5 rounded-full text-xs font-semibold ${statusPill(validation.verdict)}`}>
                         {validation.verdict}
                     </span>
                 </div>
             </summary>
-            <div className="border-t border-slate-800/80 px-4 pb-4 pt-4 space-y-4">
+            <div className="border-t border-slate-800/80 px-5 pb-5 pt-4 space-y-4">
                 <div className="flex flex-wrap gap-2">
-                    <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(validation.factual_grounding)}`}>
+                    <span className={`px-3 py-1.5 rounded-full text-xs font-semibold ${statusPill(validation.factual_grounding)}`}>
                         Grounding {validation.factual_grounding}
                     </span>
-                    <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(validation.logical_consistency)}`}>
+                    <span className={`px-3 py-1.5 rounded-full text-xs font-semibold ${statusPill(validation.logical_consistency)}`}>
                         Logic {validation.logical_consistency}
                     </span>
-                    <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(validation.cross_verification)}`}>
+                    <span className={`px-3 py-1.5 rounded-full text-xs font-semibold ${statusPill(validation.cross_verification)}`}>
                         Cross-check {validation.cross_verification}
                     </span>
                 </div>
                 {validation.issues.length > 0 && (
-                    <div className="rounded-xl border border-slate-800/80 bg-slate-900/35 p-3">
-                        <p className="text-[10px] font-black uppercase tracking-[0.18em] text-slate-500">Observed Issues</p>
-                        <div className="mt-2 space-y-2">
+                    <div className="rounded-xl border border-slate-800/80 bg-neutral-900/35 p-4">
+                        <p className="text-xs font-bold uppercase tracking-widest text-slate-400">Observed Issues</p>
+                        <div className="mt-3 space-y-2">
                             {validation.issues.map((issue, index) => (
-                                <p key={`${issue}-${index}`} className="text-xs leading-relaxed text-slate-300">
+                                <p key={`${issue}-${index}`} className="text-sm leading-relaxed text-slate-300">
                                     {issue}
                                 </p>
                             ))}
@@ -392,7 +407,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
         {
             id: 1,
             role: "assistant",
-            content: "I’m connected to the ALD-LLaMat retrieval assistant. Ask for summaries, comparisons, precursor trends, deposition windows, or paper-specific insights and I’ll answer from Pinecone-backed evidence.",
+            content: "I’m connected to the ALD-GemaMat retrieval assistant. Ask for summaries, comparisons, precursor trends, deposition windows, or paper-specific insights.",
         },
     ]);
     const [inputValue, setInputValue] = useState("");
@@ -498,24 +513,21 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
 
     return (
         <div className="flex flex-col h-full bg-white/[0.01] backdrop-blur-[40px]">
-            {/* Header */}
-            <div className="flex flex-col px-4 md:px-6 py-4 md:py-8 border-b border-white/5 bg-white/[0.02]">
-                <div className="flex items-center gap-4 mb-6">
-                    <div className="w-10 h-10 rounded-2xl flex items-center justify-center shrink-0 shadow-lg border border-teal-500/20" style={{ background: "var(--gradient-accent)" }}>
-                        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0f172a" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="3" /><path d="M12 2a10 10 0 0 1 0 20" /><path d="M12 2a10 10 0 0 0 0 20" /><line x1="2" y1="12" x2="22" y2="12" /></svg>
-                    </div>
+            {/* ── Header ── */}
+            <div className="flex flex-col px-5 md:px-7 py-5 md:py-6 border-b border-white/5 bg-white/[0.02]">
+                <div className="flex items-center gap-4 mb-5">
                     <div>
-                        <h1 className="text-xl font-black text-white tracking-tight">LLaMat AI</h1>
-                        <p className="text-[10px] text-teal-400 font-bold tracking-[0.2em] uppercase mt-0.5">Quantum Intelligence Hub</p>
+                        <h1 className="text-xl font-black text-white tracking-tight">GemaMat</h1>
+                        <p className="text-xs text-teal-400 font-semibold tracking-widest uppercase mt-0.5">Materials Science Intelligence</p>
                     </div>
                 </div>
 
                 {/* Paper Context Status */}
-                <div className="flex items-center justify-between p-3 rounded-2xl bg-white/[0.03] border border-white/5 group">
+                <div className="flex items-center justify-between p-3.5 rounded-2xl bg-white/[0.03] border border-white/5 group">
                     <div className="flex items-center gap-3 overflow-hidden">
-                        <div className={`w-2 h-2 rounded-full shrink-0 ${selectedPaper ? 'bg-emerald-400 shadow-[0_0_8px_rgba(52,211,153,0.6)] animate-pulse' : 'bg-slate-600'}`}></div>
+                        <div className={`w-2.5 h-2.5 rounded-full shrink-0 ${selectedPaper ? 'bg-emerald-400 shadow-[0_0_8px_rgba(52,211,153,0.6)] animate-pulse' : 'bg-slate-600'}`}></div>
                         <div className="overflow-hidden">
-                            <p className="text-[10px] text-slate-500 font-bold uppercase tracking-wider leading-none mb-1">Target Context</p>
+                            <p className="text-[11px] text-slate-400 font-semibold uppercase tracking-wider leading-none mb-1">Target Context</p>
                             <p className="text-sm font-medium text-slate-200 truncate pr-4">
                                 {selectedPaper ? selectedPaper.id.toUpperCase() : "Global Catalog Scope"}
                             </p>
@@ -524,7 +536,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                     {selectedPaper && (
                         <button
                             onClick={() => onSelectPaper(null)}
-                            className="text-[10px] px-2 py-1 rounded bg-slate-800 text-slate-400 hover:text-rose-400 hover:bg-rose-400/10 transition-all font-bold uppercase"
+                            className="text-xs px-3 py-1.5 rounded-lg bg-slate-800 text-slate-400 hover:text-rose-400 hover:bg-rose-400/10 transition-all font-semibold"
                         >
                             Reset
                         </button>
@@ -532,127 +544,148 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                 </div>
             </div>
 
-            {/* Message Area */}
-            <div className="flex-1 overflow-y-auto p-6 space-y-6 custom-scrollbar">
+            {/* ── Message Area ── */}
+            <div className="flex-1 overflow-y-auto px-5 md:px-7 py-6 space-y-7 custom-scrollbar">
                 {messages.map((msg) => (
-                    <div
-                        key={msg.id}
-                        className={`flex flex-col max-w-[90%] ${msg.role === "user" ? "self-end items-end" : "self-start items-start"}`}
-                    >
-                        <div
-                            className={`px-4 py-3 rounded-3xl text-sm leading-relaxed shadow-sm ${msg.role === "user"
-                                ? "rounded-br-sm text-slate-950 font-semibold"
-                                : "rounded-bl-sm text-slate-100 border border-white/5"
-                                }`}
-                            style={{
-                                background: msg.role === "user"
-                                    ? "var(--gradient-accent)"
-                                    : msg.isError
-                                        ? "rgba(127, 29, 29, 0.4)"
-                                        : "rgba(255, 255, 255, 0.05)",
-                            }}
-                        >
-                            <FormattedAnswer content={msg.content} />
-
-                            {msg.diagnostics && (
-                                <div className="mt-4 flex flex-wrap gap-2">
-                                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-teal-500/10 text-teal-300 border border-teal-500/20">
-                                        {msg.diagnostics.hyde_enabled ? "HyDE Active" : "Direct Query"}
-                                    </span>
-                                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-violet-500/10 text-violet-300 border border-violet-500/20">
-                                        {msg.diagnostics.planner_used ? "Planner LLM" : "Fallback Plan"}
-                                    </span>
-                                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-cyan-500/10 text-cyan-300 border border-cyan-500/20">
-                                        Scope: {msg.diagnostics.scope}
-                                    </span>
-                                    <span className="px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider bg-slate-800/80 text-slate-300 border border-slate-700/80">
-                                        {msg.diagnostics.reranked_count}/{msg.diagnostics.retrieved_count} kept
-                                    </span>
-                                    <span className={`px-2.5 py-1 rounded-full text-[10px] font-bold uppercase tracking-wider ${statusPill(msg.diagnostics.validation_status)}`}>
-                                        Validation {msg.diagnostics.validation_status}
-                                    </span>
+                    <div key={msg.id}>
+                        {msg.role === "user" ? (
+                            /* ─ User bubble ─ */
+                            <div className="flex justify-end">
+                                <div className="max-w-[80%] px-5 py-3.5 rounded-3xl rounded-br-lg text-[15px] leading-relaxed font-semibold text-slate-950 shadow-md"
+                                    style={{ background: "var(--gradient-accent)" }}>
+                                    <FormattedAnswer content={msg.content} />
                                 </div>
-                            )}
+                            </div>
+                        ) : (
+                            /* ─ Assistant (Gemini-style) ─ */
+                            <div className="flex items-start gap-3.5">
+                                {/* Avatar */}
+                                <div className="w-8 h-8 rounded-full flex items-center justify-center shrink-0 mt-0.5 border border-white/10 bg-slate-900/60">
+                                    <GeminiSparkle size={16} />
+                                </div>
 
-                            {(msg.plan || (msg.execution && msg.execution.length > 0) || msg.validation) && (
-                                <div className="mt-4 space-y-3">
-                                    <div className="flex items-center justify-between gap-3 px-1">
-                                        <p className="text-[10px] uppercase font-black text-slate-500 tracking-[0.2em]">
-                                            Agent Execution
-                                        </p>
-                                        {msg.diagnostics && (
-                                            <p className="text-[10px] text-slate-500 uppercase tracking-wider">
-                                                {msg.diagnostics.executed_steps} steps · {msg.diagnostics.tool_calls} tools
-                                            </p>
-                                        )}
-                                    </div>
+                                {/* Content */}
+                                <div className="flex-1 min-w-0">
+                                    {msg.isError ? (
+                                        <div className="rounded-2xl px-5 py-4 bg-rose-950/40 border border-rose-500/20">
+                                            <FormattedAnswer content={msg.content} />
+                                        </div>
+                                    ) : (
+                                        <div className="space-y-4">
+                                            <FormattedAnswer content={msg.content} />
+                                        </div>
+                                    )}
 
-                                    {msg.plan && <PlannerCard plan={msg.plan} />}
-                                    {msg.execution && msg.execution.length > 0 && <ExecutionTimeline execution={msg.execution} />}
-                                    {msg.validation && <ValidationCard validation={msg.validation} />}
+                                    {/* Diagnostics pills */}
+                                    {msg.diagnostics && (
+                                        <div className="mt-5 flex flex-wrap gap-2">
+                                            <span className="px-3 py-1.5 rounded-full text-xs font-semibold bg-teal-500/10 text-teal-300 border border-teal-500/20">
+                                                {msg.diagnostics.hyde_enabled ? "HyDE Active" : "Direct Query"}
+                                            </span>
+                                            <span className="px-3 py-1.5 rounded-full text-xs font-semibold bg-violet-500/10 text-violet-300 border border-violet-500/20">
+                                                {msg.diagnostics.planner_used ? "Planner LLM" : "Fallback Plan"}
+                                            </span>
+                                            <span className="px-3 py-1.5 rounded-full text-xs font-semibold bg-cyan-500/10 text-cyan-300 border border-cyan-500/20">
+                                                Scope: {msg.diagnostics.scope}
+                                            </span>
+                                            <span className="px-3 py-1.5 rounded-full text-xs font-semibold bg-slate-800/80 text-slate-300 border border-slate-700/80">
+                                                {msg.diagnostics.reranked_count}/{msg.diagnostics.retrieved_count} kept
+                                            </span>
+                                            <span className={`px-3 py-1.5 rounded-full text-xs font-semibold ${statusPill(msg.diagnostics.validation_status)}`}>
+                                                Validation {msg.diagnostics.validation_status}
+                                            </span>
+                                        </div>
+                                    )}
 
-                                    {msg.diagnostics && msg.diagnostics.validation_queries.length > 0 && (
-                                        <div className="rounded-2xl border border-slate-800/80 bg-slate-950/45 p-4">
-                                            <p className="text-[10px] font-black uppercase tracking-[0.2em] text-slate-500">Cross-Verification Queries</p>
-                                            <div className="mt-3 flex flex-wrap gap-2">
-                                                {msg.diagnostics.validation_queries.map((item, index) => (
-                                                    <span
-                                                        key={`${item}-${index}`}
-                                                        className="px-2.5 py-1 rounded-full text-[10px] font-bold bg-slate-900 text-slate-300 border border-slate-700/80"
-                                                    >
-                                                        {item}
-                                                    </span>
-                                                ))}
+                                    {/* Agent Execution Section */}
+                                    {(msg.plan || (msg.execution && msg.execution.length > 0) || msg.validation) && (
+                                        <div className="mt-5 space-y-4">
+                                            <div className="flex items-center justify-between gap-3 px-1">
+                                                <p className="text-xs uppercase font-bold text-slate-400 tracking-widest">
+                                                    Agent Execution
+                                                </p>
+                                                {msg.diagnostics && (
+                                                    <p className="text-xs text-slate-500 font-medium">
+                                                        {msg.diagnostics.executed_steps} steps · {msg.diagnostics.tool_calls} tools
+                                                    </p>
+                                                )}
                                             </div>
+
+                                            {msg.plan && <PlannerCard plan={msg.plan} />}
+                                            {msg.execution && msg.execution.length > 0 && <ExecutionTimeline execution={msg.execution} />}
+                                            {msg.validation && <ValidationCard validation={msg.validation} />}
+
+                                            {msg.diagnostics && msg.diagnostics.validation_queries.length > 0 && (
+                                                <div className="rounded-2xl border border-slate-800/80 bg-black/50 p-5">
+                                                    <p className="text-xs font-bold uppercase tracking-widest text-slate-400">Cross-Verification Queries</p>
+                                                    <div className="mt-3 flex flex-wrap gap-2">
+                                                        {msg.diagnostics.validation_queries.map((item, index) => (
+                                                            <span
+                                                                key={`${item}-${index}`}
+                                                                className="px-3 py-1.5 rounded-full text-xs font-medium bg-slate-900 text-slate-300 border border-slate-700/80"
+                                                            >
+                                                                {item}
+                                                            </span>
+                                                        ))}
+                                                    </div>
+                                                </div>
+                                            )}
+                                        </div>
+                                    )}
+
+                                    {/* Evidence / Sources */}
+                                    {msg.sources && msg.sources.length > 0 && (
+                                        <div className="mt-5 space-y-3">
+                                            <div className="flex items-center justify-between gap-3 px-1">
+                                                <p className="text-xs uppercase font-bold text-slate-400 tracking-widest">
+                                                    Evidence Pack
+                                                </p>
+                                                <p className="text-xs text-slate-500 font-medium">
+                                                    {msg.sources.length} chunks
+                                                </p>
+                                            </div>
+                                            {msg.sources.map((source, index) => (
+                                                <SourceCard
+                                                    key={`${msg.id}-${source.source_id}`}
+                                                    source={source}
+                                                    index={index}
+                                                />
+                                            ))}
                                         </div>
                                     )}
                                 </div>
-                            )}
-
-                            {msg.sources && msg.sources.length > 0 && (
-                                <div className="mt-4 space-y-3">
-                                    <div className="flex items-center justify-between gap-3 px-1">
-                                        <p className="text-[10px] uppercase font-black text-slate-500 tracking-[0.2em]">
-                                            Evidence Pack
-                                        </p>
-                                        <p className="text-[10px] text-slate-500 uppercase tracking-wider">
-                                            {msg.sources.length} chunks
-                                        </p>
-                                    </div>
-                                    {msg.sources.map((source, index) => (
-                                        <SourceCard
-                                            key={`${msg.id}-${source.source_id}`}
-                                            source={source}
-                                            index={index}
-                                        />
-                                    ))}
-                                </div>
-                            )}
-                        </div>
+                            </div>
+                        )}
                     </div>
                 ))}
 
+                {/* Typing indicator */}
                 {isTyping && (
-                    <div className="self-start flex items-center gap-1.5 px-4 py-3 rounded-3xl rounded-bl-sm border border-white/5 shadow-sm" style={{ background: "rgba(255, 255, 255, 0.05)" }}>
-                        <span className="w-1.5 h-1.5 bg-teal-300 rounded-full animate-bounce" style={{ animationDelay: "0ms" }}></span>
-                        <span className="w-1.5 h-1.5 bg-teal-300 rounded-full animate-bounce" style={{ animationDelay: "150ms" }}></span>
-                        <span className="w-1.5 h-1.5 bg-teal-300 rounded-full animate-bounce" style={{ animationDelay: "300ms" }}></span>
+                    <div className="flex items-start gap-3.5">
+                        <div className="w-8 h-8 rounded-full flex items-center justify-center shrink-0 border border-white/10 bg-slate-900/60">
+                            <GeminiSparkle size={16} />
+                        </div>
+                        <div className="flex items-center gap-2 px-5 py-4 rounded-2xl bg-white/[0.04] border border-white/5">
+                            <span className="w-2 h-2 bg-teal-400 rounded-full animate-bounce" style={{ animationDelay: "0ms" }}></span>
+                            <span className="w-2 h-2 bg-violet-400 rounded-full animate-bounce" style={{ animationDelay: "150ms" }}></span>
+                            <span className="w-2 h-2 bg-cyan-400 rounded-full animate-bounce" style={{ animationDelay: "300ms" }}></span>
+                        </div>
                     </div>
                 )}
 
-                {/* Suggested Actions if no activity */}
+                {/* Quick Actions */}
                 {messages.length === 1 && !isTyping && (
                     <div className="flex flex-col gap-3 pt-4">
-                        <p className="text-[10px] uppercase font-black text-slate-600 tracking-[0.2em] mb-1 px-1">Discover Insights</p>
-                        <div className="grid grid-cols-1 gap-2">
+                        <p className="text-xs uppercase font-bold text-slate-500 tracking-widest mb-1 px-1">Discover Insights</p>
+                        <div className="grid grid-cols-1 gap-2.5">
                             {QUICK_ACTIONS.map((action, i) => (
                                 <button
                                     key={i}
                                     onClick={() => handleQuickAction(action)}
-                                    className="text-xs px-4 py-3 rounded-xl bg-slate-900/40 border border-slate-800/80 text-slate-400 hover:border-teal-500/40 hover:text-teal-300 hover:bg-slate-800/40 transition-all text-left flex items-center justify-between group"
+                                    className="text-sm px-5 py-3.5 rounded-2xl bg-white/[0.03] border border-white/5 text-slate-300 hover:border-teal-500/30 hover:text-teal-300 hover:bg-white/[0.06] transition-all text-left flex items-center justify-between group"
                                 >
                                     {action}
-                                    <svg className="w-3 h-3 opacity-0 group-hover:opacity-100 -translate-x-2 group-hover:translate-x-0 transition-all" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
+                                    <svg className="w-4 h-4 opacity-0 group-hover:opacity-100 -translate-x-2 group-hover:translate-x-0 transition-all" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M5 12h14M12 5l7 7-7 7" /></svg>
                                 </button>
                             ))}
                         </div>
@@ -661,13 +694,13 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                 <div ref={messagesEndRef} />
             </div>
 
-            {/* Input Area */}
-            <div className="p-6 bg-white/[0.02] border-t border-white/5 shadow-[0_-20px_40px_rgba(0,0,0,0.3)]">
+            {/* ── Input Area ── */}
+            <div className="px-5 md:px-7 py-5 bg-white/[0.02] border-t border-white/5 shadow-[0_-20px_40px_rgba(0,0,0,0.3)]">
                 <form onSubmit={handleFormSubmit} className="relative flex items-center">
                     <input
                         type="text"
-                        placeholder={selectedPaper ? `Ask about ${selectedPaper.id}...` : "Analyze catalog..."}
-                        className="w-full bg-white/[0.04] border border-white/10 text-slate-100 rounded-2xl px-5 py-4 pr-14 text-sm focus:outline-none focus:border-teal-500/40 focus:ring-1 focus:ring-teal-500/40 transition-all placeholder-slate-500 shadow-inner"
+                        placeholder={selectedPaper ? `Ask about ${selectedPaper.id}…` : "Ask GemaMat anything…"}
+                        className="w-full bg-white/[0.04] border border-white/10 text-slate-100 rounded-2xl px-6 py-4 pr-14 text-[15px] focus:outline-none focus:border-teal-500/40 focus:ring-2 focus:ring-teal-500/20 transition-all placeholder-slate-500 shadow-inner"
                         value={inputValue}
                         onChange={(e) => setInputValue(e.target.value)}
                         disabled={isTyping}
@@ -675,14 +708,14 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                     <button
                         type="submit"
                         disabled={!inputValue.trim() || isTyping}
-                        className="absolute right-2.5 w-10 h-10 flex items-center justify-center rounded-xl bg-teal-500/10 text-teal-400 hover:bg-teal-500/20 hover:text-teal-300 disabled:opacity-50 disabled:hover:bg-teal-500/10 transition-all"
+                        className="absolute right-3 w-10 h-10 flex items-center justify-center rounded-xl bg-teal-500/10 text-teal-400 hover:bg-teal-500/20 hover:text-teal-300 disabled:opacity-40 disabled:hover:bg-teal-500/10 transition-all"
                     >
                         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
                     </button>
                 </form>
-                <div className="mt-4 flex items-center justify-center gap-3">
+                <div className="mt-3 flex items-center justify-center gap-3">
                     <span className="h-[1px] flex-1 bg-gradient-to-r from-transparent to-slate-800"></span>
-                    <span className="text-[9px] text-slate-600 font-black uppercase tracking-[0.3em] whitespace-nowrap">Strategic Agent • Executor • Synthesizer • Validator</span>
+                    <span className="text-[11px] text-slate-500 font-semibold tracking-widest whitespace-nowrap">Planner · Executor · Synthesizer · Validator</span>
                     <span className="h-[1px] flex-1 bg-gradient-to-l from-transparent to-slate-800"></span>
                 </div>
             </div>

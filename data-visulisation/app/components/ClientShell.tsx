@@ -13,7 +13,7 @@ export default function ClientShell({ initialPapers }: ClientShellProps) {
     const [selectedPaperIndex, setSelectedPaperIndex] = useState<number | null>(null);
 
     return (
-        <main className="flex flex-col md:flex-row h-[100dvh] overflow-hidden bg-slate-950">
+        <main className="flex flex-col md:flex-row h-[100dvh] overflow-hidden bg-black">
             {/* Left Pane: Chat Interaction */}
             <div className="w-full md:w-[400px] xl:w-[450px] h-[45vh] md:h-full border-t md:border-t-0 md:border-r border-white/5 flex-shrink-0 bg-white/[0.02] backdrop-blur-[40px] overflow-hidden flex flex-col order-last md:order-first">
                 <ChatAssistant

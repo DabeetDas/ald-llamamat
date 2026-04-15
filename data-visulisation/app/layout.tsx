@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ALD-LLaMat Data Visualizer",
+  title: "GemaMat",
   description:
     "Interactive visualization of ALD and CVD thin film deposition data extracted from research papers",
 };
