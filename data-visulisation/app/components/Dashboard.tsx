@@ -47,10 +47,10 @@ function Evidence({ text }: { text: string }) {
                 Evidence
             </button>
             <div
-                className={`evidence-text mt-2 rounded-lg text-sm leading-relaxed ${open ? "open" : ""}`}
+                className={`evidence-text mt-3 rounded-2xl text-sm leading-relaxed ${open ? "open" : ""}`}
                 style={{
-                    background: "rgba(15,23,42,0.5)",
-                    border: "1px solid rgba(100,116,139,0.1)",
+                    background: "rgba(255,255,255,0.03)",
+                    border: "1px solid rgba(255,255,255,0.05)",
                     color: "var(--text-secondary)",
                 }}
             >
@@ -146,13 +146,13 @@ function Section({
 
 // ─── Chart Colors ───
 const chartColors = [
-    "#2dd4bf",
-    "#a78bfa",
-    "#22d3ee",
-    "#f472b6",
-    "#fbbf24",
-    "#34d399",
-    "#fb7185",
+    "#5eead4",
+    "#c4b5fd",
+    "#67e8f9",
+    "#fbcfe8",
+    "#fde68a",
+    "#6ee7b7",
+    "#fda4af",
     "#818cf8",
     "#38bdf8",
     "#c084fc",
@@ -213,11 +213,11 @@ export default function Dashboard({
                             <p className="text-xs text-slate-500 mb-6 line-clamp-2 leading-relaxed">
                                 {p.summary.summary || "No summary provided for this paper."}
                             </p>
-                            <div className="flex flex-wrap gap-2 mt-auto pt-4 border-t border-slate-800/50">
-                                <span className="text-[10px] uppercase font-bold px-2 py-1 bg-purple-500/10 text-purple-400 rounded">
+                            <div className="flex flex-wrap gap-2 mt-auto pt-4 border-t border-white/5">
+                                <span className="text-[10px] uppercase font-bold px-2 py-1 bg-purple-500/10 text-purple-300 rounded-lg">
                                     {p.summary.process_type || "CVD"}
                                 </span>
-                                <span className="text-[10px] uppercase font-bold px-2 py-1 bg-amber-500/10 text-amber-400 rounded">
+                                <span className="text-[10px] uppercase font-bold px-2 py-1 bg-amber-500/10 text-amber-300 rounded-lg">
                                     {p.deposition_conditions.deposition_temperature_C ? `${p.deposition_conditions.deposition_temperature_C}°C` : "N/A Temp"}
                                 </span>
                             </div>
@@ -299,16 +299,16 @@ export default function Dashboard({
                 <div className="flex flex-wrap gap-4 mb-6">
                     <button
                         onClick={() => onSelectPaper(null)}
-                        className="px-5 py-2.5 rounded-xl text-sm font-semibold bg-slate-800/80 text-white border border-slate-700 hover:bg-slate-700/80 transition-colors flex items-center gap-2"
+                        className="px-5 py-2.5 rounded-2xl text-sm font-semibold bg-white/5 text-white border border-white/10 hover:bg-white/10 transition-all flex items-center gap-2"
                     >
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
                         Back to Catalog
                     </button>
                     <button
                         onClick={() => setShowPdf(!showPdf)}
-                        className="px-5 py-2.5 rounded-xl text-sm font-semibold bg-teal-800/80 text-teal-100 border border-teal-700/50 hover:bg-teal-700/80 transition-colors flex items-center gap-2"
+                        className="px-5 py-2.5 rounded-2xl text-sm font-semibold bg-teal-500/10 text-teal-300 border border-teal-500/20 hover:bg-teal-500/20 transition-all flex items-center gap-2"
                     >
-                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
+                        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
                         {showPdf ? "Hide PDF" : "View Original PDF"}
                     </button>
                 </div>

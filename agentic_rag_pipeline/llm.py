@@ -127,11 +127,14 @@ class GeminiLLM:
         tools_json = json.dumps(available_tools, indent=2)
         return self._generate_json(
             system_instruction=(
-                "You are the Strategic Agent in an agentic RAG system. Produce a complete execution "
-                "plan for the user's query. The plan must separate analysis from execution. Use tool "
-                "steps only for information gathering, never for synthesis. Prefer Pinecone-backed "
-                "retrieval first, and use Wikipedia only when broad background context is helpful. "
-                "Keep the plan lean but complete."
+                "You are the Strategic Planner in a multi-step agentic RAG system. Your sole job is to "
+                "decompose the user's query into a precise, dependency-aware execution plan. "
+                "You NEVER answer the query yourself — only plan how to answer it. "
+                "Separate analysis steps (reasoning, decomposition) from tool steps (data fetching). "
+                "Always prefer Pinecone-backed rag_search for domain-specific evidence. "
+                "Use wikipedia_lookup ONLY for foundational definitions or background context unavailable in Pinecone. "
+                "Every tool step must have a clear, falsifiable expected_output. "
+                "Plans must be minimal but complete — no redundant steps, no skipped dependencies."
             ),
             prompt=(
                 "Return strict JSON with this schema:\n"

@@ -497,9 +497,9 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
     };
 
     return (
-        <div className="flex flex-col h-full bg-[#0f172a]/20 backdrop-blur-3xl">
+        <div className="flex flex-col h-full bg-white/[0.01] backdrop-blur-[40px]">
             {/* Header */}
-            <div className="flex flex-col px-4 md:px-6 py-4 md:py-8 border-b border-slate-800/60 bg-[#0f172a]/40">
+            <div className="flex flex-col px-4 md:px-6 py-4 md:py-8 border-b border-white/5 bg-white/[0.02]">
                 <div className="flex items-center gap-4 mb-6">
                     <div className="w-10 h-10 rounded-2xl flex items-center justify-center shrink-0 shadow-lg border border-teal-500/20" style={{ background: "var(--gradient-accent)" }}>
                         <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#0f172a" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><circle cx="12" cy="12" r="3" /><path d="M12 2a10 10 0 0 1 0 20" /><path d="M12 2a10 10 0 0 0 0 20" /><line x1="2" y1="12" x2="22" y2="12" /></svg>
@@ -511,7 +511,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                 </div>
 
                 {/* Paper Context Status */}
-                <div className="flex items-center justify-between p-3 rounded-xl bg-slate-900/50 border border-slate-800/80 group">
+                <div className="flex items-center justify-between p-3 rounded-2xl bg-white/[0.03] border border-white/5 group">
                     <div className="flex items-center gap-3 overflow-hidden">
                         <div className={`w-2 h-2 rounded-full shrink-0 ${selectedPaper ? 'bg-emerald-400 shadow-[0_0_8px_rgba(52,211,153,0.6)] animate-pulse' : 'bg-slate-600'}`}></div>
                         <div className="overflow-hidden">
@@ -540,16 +540,16 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                         className={`flex flex-col max-w-[90%] ${msg.role === "user" ? "self-end items-end" : "self-start items-start"}`}
                     >
                         <div
-                            className={`px-4 py-3 rounded-2xl text-sm leading-relaxed shadow-sm ${msg.role === "user"
-                                ? "rounded-br-sm text-slate-900 font-medium"
-                                : "rounded-bl-sm text-slate-100 border border-slate-800/80"
+                            className={`px-4 py-3 rounded-3xl text-sm leading-relaxed shadow-sm ${msg.role === "user"
+                                ? "rounded-br-sm text-slate-950 font-semibold"
+                                : "rounded-bl-sm text-slate-100 border border-white/5"
                                 }`}
                             style={{
                                 background: msg.role === "user"
                                     ? "var(--gradient-accent)"
                                     : msg.isError
-                                        ? "rgba(127, 29, 29, 0.35)"
-                                        : "rgba(30, 41, 59, 0.4)",
+                                        ? "rgba(127, 29, 29, 0.4)"
+                                        : "rgba(255, 255, 255, 0.05)",
                             }}
                         >
                             <FormattedAnswer content={msg.content} />
@@ -633,12 +633,12 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                 ))}
 
                 {isTyping && (
-                    <div className="self-start flex items-center gap-1.5 px-4 py-3 rounded-2xl rounded-bl-sm border border-slate-800/80 shadow-sm" style={{ background: "rgba(30, 41, 59, 0.4)" }}>
-                        <span className="w-1.5 h-1.5 bg-teal-400 rounded-full animate-bounce" style={{ animationDelay: "0ms" }}></span>
-                        <span className="w-1.5 h-1.5 bg-teal-400 rounded-full animate-bounce" style={{ animationDelay: "150ms" }}></span>
-                        <span className="w-1.5 h-1.5 bg-teal-400 rounded-full animate-bounce" style={{ animationDelay: "300ms" }}></span>
+                    <div className="self-start flex items-center gap-1.5 px-4 py-3 rounded-3xl rounded-bl-sm border border-white/5 shadow-sm" style={{ background: "rgba(255, 255, 255, 0.05)" }}>
+                        <span className="w-1.5 h-1.5 bg-teal-300 rounded-full animate-bounce" style={{ animationDelay: "0ms" }}></span>
+                        <span className="w-1.5 h-1.5 bg-teal-300 rounded-full animate-bounce" style={{ animationDelay: "150ms" }}></span>
+                        <span className="w-1.5 h-1.5 bg-teal-300 rounded-full animate-bounce" style={{ animationDelay: "300ms" }}></span>
                     </div>
-                    )}
+                )}
 
                 {/* Suggested Actions if no activity */}
                 {messages.length === 1 && !isTyping && (
@@ -662,12 +662,12 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
             </div>
 
             {/* Input Area */}
-            <div className="p-6 bg-[#0f172a]/60 border-t border-slate-800/60 shadow-[0_-12px_24px_rgba(0,0,0,0.2)]">
+            <div className="p-6 bg-white/[0.02] border-t border-white/5 shadow-[0_-20px_40px_rgba(0,0,0,0.3)]">
                 <form onSubmit={handleFormSubmit} className="relative flex items-center">
                     <input
                         type="text"
                         placeholder={selectedPaper ? `Ask about ${selectedPaper.id}...` : "Analyze catalog..."}
-                        className="w-full bg-slate-900/80 border border-slate-800/80 text-slate-100 rounded-2xl px-5 py-4 pr-14 text-sm focus:outline-none focus:border-teal-500/40 focus:ring-1 focus:ring-teal-500/40 transition-all placeholder-slate-600 shadow-inner"
+                        className="w-full bg-white/[0.04] border border-white/10 text-slate-100 rounded-2xl px-5 py-4 pr-14 text-sm focus:outline-none focus:border-teal-500/40 focus:ring-1 focus:ring-teal-500/40 transition-all placeholder-slate-500 shadow-inner"
                         value={inputValue}
                         onChange={(e) => setInputValue(e.target.value)}
                         disabled={isTyping}
