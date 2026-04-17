@@ -285,7 +285,7 @@ function PlannerCard({ plan }: { plan: AgentPlan }) {
             <summary className="list-none cursor-pointer p-5">
                 <div className="flex items-center justify-between gap-3">
                     <div>
-                        <p className="text-xs font-bold uppercase tracking-widest text-cyan-400">🧠 Strategic Agent</p>
+                        <p className="text-xs font-bold uppercase tracking-widest text-cyan-400"> Strategic Agent</p>
                         <p className="mt-1.5 text-[15px] leading-relaxed text-slate-200">{plan.planner_summary}</p>
                     </div>
                     <span className="px-3 py-1.5 rounded-full text-xs font-semibold bg-cyan-500/10 text-cyan-300 border border-cyan-500/20 whitespace-nowrap">
@@ -328,7 +328,7 @@ function ExecutionTimeline({ execution }: { execution: ExecutionArtifact[] }) {
             <summary className="list-none cursor-pointer p-5">
                 <div className="flex items-center justify-between gap-3">
                     <div>
-                        <p className="text-xs font-bold uppercase tracking-widest text-teal-400">⚡ Executor</p>
+                        <p className="text-xs font-bold uppercase tracking-widest text-teal-400">Executor</p>
                         <p className="mt-1.5 text-[15px] text-slate-200">ReWOO-style execution trace</p>
                     </div>
                     <span className="px-3 py-1.5 rounded-full text-xs font-semibold bg-teal-500/10 text-teal-300 border border-teal-500/20 whitespace-nowrap">
@@ -365,7 +365,7 @@ function ValidationCard({ validation }: { validation: ValidationReport }) {
             <summary className="list-none cursor-pointer p-5">
                 <div className="flex items-center justify-between gap-3">
                     <div>
-                        <p className="text-xs font-bold uppercase tracking-widest text-amber-400">✅ Validation Agent</p>
+                        <p className="text-xs font-bold uppercase tracking-widest text-amber-400"> Validation Agent</p>
                         <p className="mt-1.5 text-[15px] text-slate-200">{validation.summary}</p>
                     </div>
                     <span className={`px-3 py-1.5 rounded-full text-xs font-semibold ${statusPill(validation.verdict)}`}>
@@ -407,7 +407,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
         {
             id: 1,
             role: "assistant",
-            content: "I’m connected to the ALD-GemaMat retrieval assistant. Ask for summaries, comparisons, precursor trends, deposition windows, or paper-specific insights.",
+            content: "I’m connected to the ALD-GemaMat retrieval assistant. Ask for summaries, comparisons, deposition-specific insights.",
         },
     ]);
     const [inputValue, setInputValue] = useState("");

@@ -169,6 +169,7 @@ export default function Dashboard({
     onSelectPaper: (idx: number | null) => void
 }) {
     const [showPdf, setShowPdf] = useState(false);
+    const [selectedMaterial, setSelectedMaterial] = useState<string | null>(null);
 
     useEffect(() => {
         setShowPdf(false);
@@ -186,20 +187,95 @@ export default function Dashboard({
     }
 
     if (selectedPaperIndex === null) {
+        // Handle material level filtering
+        if (selectedMaterial === null) {
+            // Tier 1: Material Groups
+            const materialGroups = papers.reduce((acc, p) => {
+                const formula = p.target_material.target_material.chemical_formula || "Unknown";
+                if (!acc[formula]) {
+                    acc[formula] = {
+                        formula,
+                        name: p.target_material.target_material.material_name,
+                        class: p.target_material.target_material.material_class,
+                        count: 0,
+                        processTypes: new Set<string>()
+                    };
+                }
+                acc[formula].count++;
+                if (p.summary.process_type) acc[formula].processTypes.add(p.summary.process_type);
+                return acc;
+            }, {} as Record<string, { formula: string, name: string, class: string, count: number, processTypes: Set<string> }>);
+
+            return (
+                <div className="p-8 md:p-12 max-w-6xl mx-auto w-full animate-in fade-in duration-700">
+                    <div className="mb-10">
+                        <h2 className="text-3xl font-black text-white mb-3">
+                            Material <span className="text-teal-400">Library</span>
+                        </h2>
+                        <p className="text-slate-400 text-sm">Select a material system to browse its processed knowledge.</p>
+                    </div>
+                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                        {Object.values(materialGroups).sort((a, b) => b.count - a.count).map((group, i) => (
+                            <div
+                                key={group.formula}
+                                onClick={() => setSelectedMaterial(group.formula)}
+                                className="glass-card p-6 cursor-pointer hover:border-teal-400/30 group flex flex-col h-full transition-all hover:translate-y-[-4px] animate-in"
+                                style={{ animationDelay: `${i * 100}ms` }}
+                            >
+                                <div className="flex justify-between items-start mb-4">
+                                    <span className="text-teal-400 text-[10px] font-bold uppercase tracking-wider">{group.count} papers</span>
+                                </div>
+                                <h3 className="text-2xl font-black mb-1 text-slate-100 group-hover:text-cyan-400 transition-colors">
+                                    {group.formula}
+                                </h3>
+                                <p className="text-sm text-slate-400 mb-6 italic">
+                                    {group.name}
+                                </p>
+                                <div className="flex flex-wrap gap-2 mt-auto pt-4 border-t border-white/5">
+                                    {Array.from(group.processTypes).map(type => (
+                                        <span key={type} className="text-[10px] uppercase font-bold px-2 py-1 bg-white/5 text-slate-300 rounded-lg">
+                                            {type}
+                                        </span>
+                                    ))}
+                                </div>
+                            </div>
+                        ))}
+                    </div>
+                </div>
+            );
+        }
+
+        // Tier 2: Papers for Selected Material
+        const filteredPapers = papers
+            .map((p, originalIdx) => ({ p, originalIdx }))
+            .filter(item => (item.p.target_material.target_material.chemical_formula || "Unknown") === selectedMaterial);
+
         return (
             <div className="p-8 md:p-12 max-w-6xl mx-auto w-full animate-in fade-in duration-700">
-                <div className="mb-10">
-                    <h2 className="text-3xl font-black text-white mb-3">
-                        Paper <span className="text-teal-400">Catalog</span>
-                    </h2>
-                    <p className="text-slate-400 text-sm">Select a knowledge source to populate the intelligence panel.</p>
+                <div className="mb-10 flex flex-col md:flex-row md:items-end justify-between gap-4">
+                    <div>
+                        <button
+                            onClick={() => setSelectedMaterial(null)}
+                            className="text-teal-400 text-sm font-bold flex items-center gap-2 mb-4 hover:translate-x-[-4px] transition-transform"
+                        >
+                            <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
+                            Back to Materials
+                        </button>
+                        <h2 className="text-3xl font-black text-white">
+                            {selectedMaterial} <span className="text-slate-500 font-light">Archive</span>
+                        </h2>
+                    </div>
+                    <p className="text-slate-400 text-sm bg-neutral-900 border border-white/10 px-4 py-2 rounded-xl">
+                        Found <span className="text-teal-400 font-bold">{filteredPapers.length}</span> contributions
+                    </p>
                 </div>
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                    {papers.map((p, idx) => (
+                    {filteredPapers.map(({ p, originalIdx }, i) => (
                         <div
                             key={p.id}
-                            onClick={() => onSelectPaper(idx)}
-                            className="glass-card p-6 cursor-pointer hover:border-teal-400/30 group flex flex-col h-full transition-all hover:translate-y-[-4px]"
+                            onClick={() => onSelectPaper(originalIdx)}
+                            className="glass-card p-6 cursor-pointer hover:border-teal-400/30 group flex flex-col h-full transition-all hover:translate-y-[-4px] animate-in"
+                            style={{ animationDelay: `${i * 100}ms` }}
                         >
                             <div className="flex justify-between items-start mb-4">
                                 <span className="px-3 py-1 bg-neutral-900 rounded-full text-[10px] font-bold text-slate-400 border border-white/15 uppercase tracking-widest">
@@ -207,8 +283,10 @@ export default function Dashboard({
                                 </span>
                                 <span className="text-teal-400 text-[10px] font-bold uppercase tracking-wider">{p.characterization.characterization_methods.length} methods</span>
                             </div>
-                            <h3 className="text-xl font-bold mb-2 text-slate-100 group-hover:text-cyan-400 transition-colors">
-                                {p.target_material.target_material.chemical_formula || "Unknown"}
+                            <h3 className="text-lg font-bold mb-4 text-slate-100 group-hover:text-cyan-400 transition-colors leading-snug">
+                                {p.label?.includes(" — ")
+                                    ? p.label.split(" — ")[1]
+                                    : (p.label || p.target_material.target_material.chemical_formula)}
                             </h3>
                             <p className="text-xs text-slate-500 mb-6 line-clamp-2 leading-relaxed">
                                 {p.summary.summary || "No summary provided for this paper."}
@@ -302,7 +380,7 @@ export default function Dashboard({
                         className="px-5 py-2.5 rounded-2xl text-sm font-semibold bg-white/5 text-white border border-white/10 hover:bg-white/10 transition-all flex items-center gap-2"
                     >
                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
-                        Back to Catalog
+                        Back to {selectedMaterial ? selectedMaterial : "Catalog"}
                     </button>
                     <button
                         onClick={() => setShowPdf(!showPdf)}
