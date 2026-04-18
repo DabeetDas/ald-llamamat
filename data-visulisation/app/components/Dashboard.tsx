@@ -19,8 +19,11 @@ import {
 import { type PaperData } from "@/app/lib/data-fetcher";
 
 // ─── Helpers ───
-function Evidence({ text }: { text: string }) {
+function Evidence({ text }: { text: string | null | undefined }) {
     const [open, setOpen] = useState(false);
+    if (!text || text === "" || text === "N/A" || text === "No evidence found" || text === "null") {
+        return null;
+    }
     return (
         <div className="mt-3">
             <button
@@ -60,66 +63,30 @@ function Evidence({ text }: { text: string }) {
     );
 }
 
-function NullValue() {
-    return <span className="data-null">— not reported</span>;
-}
-
 function DataField({
     label,
     value,
     accent,
 }: {
     label: string;
-    value: string | number | null;
+    value: string | number | null | undefined;
     accent?: string;
 }) {
+    if (value === null || value === undefined || value === "" || value === "N/A" || value === "not reported" || value === "null") {
+        return null;
+    }
+
     return (
         <div className="stat-card">
             <p className="data-label mb-2">{label}</p>
-            {value !== null && value !== "" ? (
-                <p className="data-value" style={accent ? { color: accent } : {}}>
-                    {value}
-                </p>
-            ) : (
-                <NullValue />
-            )}
+            <p className="data-value" style={accent ? { color: accent } : {}}>
+                {value}
+            </p>
         </div>
     );
 }
 
 // ─── Particles Background ───
-function Particles() {
-    const particles = [
-        { size: 3, x: "10%", y: "20%", delay: 0, duration: 6, color: "rgba(45,212,191,0.4)" },
-        { size: 2, x: "25%", y: "60%", delay: 1, duration: 8, color: "rgba(167,139,250,0.35)" },
-        { size: 4, x: "70%", y: "15%", delay: 2, duration: 7, color: "rgba(45,212,191,0.3)" },
-        { size: 2, x: "85%", y: "45%", delay: 0.5, duration: 9, color: "rgba(167,139,250,0.25)" },
-        { size: 3, x: "50%", y: "75%", delay: 3, duration: 6, color: "rgba(34,211,238,0.3)" },
-        { size: 2, x: "40%", y: "30%", delay: 1.5, duration: 10, color: "rgba(244,114,182,0.25)" },
-        { size: 3, x: "92%", y: "70%", delay: 4, duration: 7, color: "rgba(45,212,191,0.35)" },
-        { size: 2, x: "15%", y: "85%", delay: 2.5, duration: 8, color: "rgba(167,139,250,0.3)" },
-    ];
-
-    return (
-        <>
-            {particles.map((p, i) => (
-                <div
-                    key={i}
-                    className="particle"
-                    style={{
-                        width: p.size,
-                        height: p.size,
-                        left: p.x,
-                        top: p.y,
-                        background: p.color,
-                        animationDelay: `${p.delay}s`,
-                        animationDuration: `${p.duration}s`,
-                    }}
-                />
-            ))}
-        </>
-    );
-}
 
 // ─── Section Wrapper ───
 function Section({
@@ -231,13 +198,6 @@ export default function Dashboard({
                                 <p className="text-sm text-slate-400 mb-6 italic">
                                     {group.name}
                                 </p>
-                                <div className="flex flex-wrap gap-2 mt-auto pt-4 border-t border-white/5">
-                                    {Array.from(group.processTypes).map(type => (
-                                        <span key={type} className="text-[10px] uppercase font-bold px-2 py-1 bg-white/5 text-slate-300 rounded-lg">
-                                            {type}
-                                        </span>
-                                    ))}
-                                </div>
                             </div>
                         ))}
                     </div>
@@ -409,10 +369,12 @@ export default function Dashboard({
                         },
                         {
                             label: "Characterization Methods",
-                            value: `${paper.characterization.characterization_methods.length} methods`,
+                            value: paper.characterization.characterization_methods.length > 0
+                                ? `${paper.characterization.characterization_methods.length} methods`
+                                : null,
                             color: "var(--accent-cyan)",
                         },
-                    ].map((metric, i) => (
+                    ].filter(metric => metric.value && metric.value !== "N/A" && metric.value !== "null").map((metric, i) => (
                         <div
                             key={i}
                             className="glass-card p-5 animate-in"
@@ -481,379 +443,407 @@ export default function Dashboard({
                     </Section>
 
                     {/* ─── Substrate Info ─── */}
-                    <Section title="Substrate Information" delay={300}>
-                        <div className="stat-grid">
-                            <DataField
-                                label="Material"
-                                value={paper.substrate_info.substrate_material}
-                                accent="var(--accent-teal)"
-                            />
-                            <DataField
-                                label="Orientation"
-                                value={paper.substrate_info.substrate_orientation}
-                            />
-                            <DataField
-                                label="Pretreatment"
-                                value={paper.substrate_info.pretreatment}
-                            />
-                            <DataField
-                                label="Functionalization"
-                                value={paper.substrate_info.surface_functionalization}
-                            />
-                        </div>
-                        <Evidence text={paper.substrate_info.evidence} />
-                    </Section>
+                    {(paper.substrate_info.substrate_material || paper.substrate_info.substrate_orientation || paper.substrate_info.pretreatment || paper.substrate_info.surface_functionalization || paper.substrate_info.evidence) && (
+                        <Section title="Substrate Information" delay={300}>
+                            <div className="stat-grid">
+                                <DataField
+                                    label="Material"
+                                    value={paper.substrate_info.substrate_material}
+                                    accent="var(--accent-teal)"
+                                />
+                                <DataField
+                                    label="Orientation"
+                                    value={paper.substrate_info.substrate_orientation}
+                                />
+                                <DataField
+                                    label="Pretreatment"
+                                    value={paper.substrate_info.pretreatment}
+                                />
+                                <DataField
+                                    label="Functionalization"
+                                    value={paper.substrate_info.surface_functionalization}
+                                />
+                            </div>
+                            <Evidence text={paper.substrate_info.evidence} />
+                        </Section>
+                    )}
 
                     {/* ─── Deposition Conditions ─── */}
-                    <Section title="Deposition Conditions" delay={400}>
-                        <div className="stat-grid mb-6">
-                            <DataField
-                                label="Temperature (°C)"
-                                value={paper.deposition_conditions.deposition_temperature_C}
-                                accent="var(--accent-amber)"
-                            />
-                            <DataField
-                                label="Pressure"
-                                value={paper.deposition_conditions.pressure}
-                                accent="var(--accent-cyan)"
-                            />
-                            <DataField
-                                label="Reactor Type"
-                                value={paper.deposition_conditions.reactor_type}
-                                accent="var(--accent-purple)"
-                            />
-                            <DataField
-                                label="Precursor Pulse (s)"
-                                value={paper.deposition_conditions.precursor_pulse_time_s}
-                            />
-                            <DataField
-                                label="Coreactant Pulse (s)"
-                                value={paper.deposition_conditions.coreactant_pulse_time_s}
-                            />
-                            <DataField
-                                label="Purge Time (s)"
-                                value={paper.deposition_conditions.purge_time_s}
-                            />
-                            <DataField
-                                label="Cycles"
-                                value={paper.deposition_conditions.number_of_cycles}
-                            />
-                        </div>
+                    {(paper.deposition_conditions.deposition_temperature_C || paper.deposition_conditions.pressure || paper.deposition_conditions.reactor_type || paper.deposition_conditions.precursor_pulse_time_s || paper.deposition_conditions.coreactant_pulse_time_s || paper.deposition_conditions.purge_time_s || paper.deposition_conditions.number_of_cycles || paper.deposition_conditions.evidence) && (
+                        <Section title="Deposition Conditions" delay={400}>
+                            <div className="stat-grid mb-6">
+                                <DataField
+                                    label="Temperature (°C)"
+                                    value={paper.deposition_conditions.deposition_temperature_C}
+                                    accent="var(--accent-amber)"
+                                />
+                                <DataField
+                                    label="Pressure"
+                                    value={paper.deposition_conditions.pressure}
+                                    accent="var(--accent-cyan)"
+                                />
+                                <DataField
+                                    label="Reactor Type"
+                                    value={paper.deposition_conditions.reactor_type}
+                                    accent="var(--accent-purple)"
+                                />
+                                <DataField
+                                    label="Precursor Pulse (s)"
+                                    value={paper.deposition_conditions.precursor_pulse_time_s}
+                                />
+                                <DataField
+                                    label="Coreactant Pulse (s)"
+                                    value={paper.deposition_conditions.coreactant_pulse_time_s}
+                                />
+                                <DataField
+                                    label="Purge Time (s)"
+                                    value={paper.deposition_conditions.purge_time_s}
+                                />
+                                <DataField
+                                    label="Cycles"
+                                    value={paper.deposition_conditions.number_of_cycles}
+                                />
+                            </div>
 
-                        {/* Radar Chart */}
-                        <div className="chart-container">
-                            <p className="data-label mb-4">Process Overview Radar</p>
-                            <ResponsiveContainer width="100%" height={280}>
-                                <RadarChart
-                                    data={depositionRadarData}
-                                    cx="50%"
-                                    cy="50%"
-                                    outerRadius="70%"
-                                >
-                                    <PolarGrid stroke="rgba(148,163,184,0.15)" />
-                                    <PolarAngleAxis
-                                        dataKey="property"
-                                        tick={{ fill: "#94a3b8", fontSize: 12 }}
-                                    />
-                                    <Radar
-                                        dataKey="value"
-                                        stroke="#2dd4bf"
-                                        fill="#2dd4bf"
-                                        fillOpacity={0.2}
-                                        strokeWidth={2}
-                                    />
-                                </RadarChart>
-                            </ResponsiveContainer>
-                        </div>
-                        <Evidence text={paper.deposition_conditions.evidence} />
-                    </Section>
+                            {/* Radar Chart show only if we have multiple numeric points */}
+                            {depositionRadarData.some(d => d.value > 0) && (
+                                <div className="chart-container">
+                                    <p className="data-label mb-4">Process Overview Radar</p>
+                                    <ResponsiveContainer width="100%" height={280}>
+                                        <RadarChart
+                                            data={depositionRadarData}
+                                            cx="50%"
+                                            cy="50%"
+                                            outerRadius="70%"
+                                        >
+                                            <PolarGrid stroke="rgba(148,163,184,0.15)" />
+                                            <PolarAngleAxis
+                                                dataKey="property"
+                                                tick={{ fill: "#94a3b8", fontSize: 12 }}
+                                            />
+                                            <Radar
+                                                dataKey="value"
+                                                stroke="#2dd4bf"
+                                                fill="#2dd4bf"
+                                                fillOpacity={0.2}
+                                                strokeWidth={2}
+                                            />
+                                        </RadarChart>
+                                    </ResponsiveContainer>
+                                </div>
+                            )}
+                            <Evidence text={paper.deposition_conditions.evidence} />
+                        </Section>
+                    )}
 
                     {/* ─── Precursor & Coreactant ─── */}
-                    <Section title="Precursors & Coreactants" delay={500}>
-                        <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-                            {/* Precursors */}
-                            <div className="stat-card">
-                                <p
-                                    className="data-label mb-3"
-                                    style={{ color: "var(--accent-teal)" }}
-                                >
-                                    Precursors
-                                </p>
-                                <div className="flex flex-wrap gap-2">
-                                    {paper.precursor_coreactant.precursors.map((c, i) => (
-                                        <div key={i} className="badge badge-teal">
-                                            <span className="font-mono font-bold">
-                                                {c.abbreviation}
-                                            </span>
-                                            <span style={{ color: "var(--text-muted)", fontSize: "0.75rem" }}>
-                                                {c.full_name}
-                                            </span>
+                    {(paper.precursor_coreactant.precursors.length > 0 || paper.precursor_coreactant.coreactants.length > 0 || paper.precursor_coreactant.purge_gas.length > 0 || paper.precursor_coreactant.carrier_gas.length > 0 || paper.precursor_coreactant.evidence) && (
+                        <Section title="Precursors & Coreactants" delay={500}>
+                            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                                {/* Precursors */}
+                                {paper.precursor_coreactant.precursors.length > 0 && (
+                                    <div className="stat-card">
+                                        <p
+                                            className="data-label mb-3"
+                                            style={{ color: "var(--accent-teal)" }}
+                                        >
+                                            Precursors
+                                        </p>
+                                        <div className="flex flex-wrap gap-2">
+                                            {paper.precursor_coreactant.precursors.map((c, i) => (
+                                                <div key={i} className="badge badge-teal">
+                                                    <span className="font-mono font-bold">
+                                                        {c.abbreviation}
+                                                    </span>
+                                                    <span style={{ color: "var(--text-muted)", fontSize: "0.75rem" }}>
+                                                        {c.full_name}
+                                                    </span>
+                                                </div>
+                                            ))}
                                         </div>
-                                    ))}
-                                </div>
-                            </div>
-                            {/* Coreactants */}
-                            <div className="stat-card">
-                                <p
-                                    className="data-label mb-3"
-                                    style={{ color: "var(--accent-purple)" }}
-                                >
-                                    Coreactants
-                                </p>
-                                <div className="flex flex-wrap gap-2">
-                                    {paper.precursor_coreactant.coreactants.map((c, i) => (
-                                        <div key={i} className="badge badge-purple">
-                                            <span className="font-mono font-bold">
-                                                {c.abbreviation}
-                                            </span>
-                                            <span style={{ color: "var(--text-muted)", fontSize: "0.75rem" }}>
-                                                {c.full_name}
-                                            </span>
+                                    </div>
+                                )}
+                                {/* Coreactants */}
+                                {paper.precursor_coreactant.coreactants.length > 0 && (
+                                    <div className="stat-card">
+                                        <p
+                                            className="data-label mb-3"
+                                            style={{ color: "var(--accent-purple)" }}
+                                        >
+                                            Coreactants
+                                        </p>
+                                        <div className="flex flex-wrap gap-2">
+                                            {paper.precursor_coreactant.coreactants.map((c, i) => (
+                                                <div key={i} className="badge badge-purple">
+                                                    <span className="font-mono font-bold">
+                                                        {c.abbreviation}
+                                                    </span>
+                                                    <span style={{ color: "var(--text-muted)", fontSize: "0.75rem" }}>
+                                                        {c.full_name}
+                                                    </span>
+                                                </div>
+                                            ))}
                                         </div>
-                                    ))}
-                                </div>
-                            </div>
-                            {/* Purge Gas */}
-                            <div className="stat-card">
-                                <p
-                                    className="data-label mb-3"
-                                    style={{ color: "var(--accent-amber)" }}
-                                >
-                                    Purge Gas
-                                </p>
-                                <div className="flex flex-wrap gap-2">
-                                    {paper.precursor_coreactant.purge_gas.map((c, i) => (
-                                        <div key={i} className="badge badge-amber">
-                                            <span className="font-mono font-bold">
-                                                {c.abbreviation}
-                                            </span>
-                                            <span style={{ color: "var(--text-muted)", fontSize: "0.75rem" }}>
-                                                {c.full_name}
-                                            </span>
+                                    </div>
+                                )}
+                                {/* Purge Gas */}
+                                {paper.precursor_coreactant.purge_gas.length > 0 && (
+                                    <div className="stat-card">
+                                        <p
+                                            className="data-label mb-3"
+                                            style={{ color: "var(--accent-amber)" }}
+                                        >
+                                            Purge Gas
+                                        </p>
+                                        <div className="flex flex-wrap gap-2">
+                                            {paper.precursor_coreactant.purge_gas.map((c, i) => (
+                                                <div key={i} className="badge badge-amber">
+                                                    <span className="font-mono font-bold">
+                                                        {c.abbreviation}
+                                                    </span>
+                                                    <span style={{ color: "var(--text-muted)", fontSize: "0.75rem" }}>
+                                                        {c.full_name}
+                                                    </span>
+                                                </div>
+                                            ))}
                                         </div>
-                                    ))}
-                                </div>
-                            </div>
-                            {/* Carrier Gas */}
-                            <div className="stat-card">
-                                <p
-                                    className="data-label mb-3"
-                                    style={{ color: "var(--accent-cyan)" }}
-                                >
-                                    Carrier Gas
-                                </p>
-                                <div className="flex flex-wrap gap-2">
-                                    {paper.precursor_coreactant.carrier_gas.map((c, i) => (
-                                        <div key={i} className="badge badge-cyan">
-                                            <span className="font-mono font-bold">
-                                                {c.abbreviation}
-                                            </span>
-                                            <span style={{ color: "var(--text-muted)", fontSize: "0.75rem" }}>
-                                                {c.full_name}
-                                            </span>
+                                    </div>
+                                )}
+                                {/* Carrier Gas */}
+                                {paper.precursor_coreactant.carrier_gas.length > 0 && (
+                                    <div className="stat-card">
+                                        <p
+                                            className="data-label mb-3"
+                                            style={{ color: "var(--accent-cyan)" }}
+                                        >
+                                            Carrier Gas
+                                        </p>
+                                        <div className="flex flex-wrap gap-2">
+                                            {paper.precursor_coreactant.carrier_gas.map((c, i) => (
+                                                <div key={i} className="badge badge-cyan">
+                                                    <span className="font-mono font-bold">
+                                                        {c.abbreviation}
+                                                    </span>
+                                                    <span style={{ color: "var(--text-muted)", fontSize: "0.75rem" }}>
+                                                        {c.full_name}
+                                                    </span>
+                                                </div>
+                                            ))}
                                         </div>
-                                    ))}
-                                </div>
+                                    </div>
+                                )}
                             </div>
-                        </div>
-                        <Evidence text={paper.precursor_coreactant.evidence} />
-                    </Section>
+                            <Evidence text={paper.precursor_coreactant.evidence} />
+                        </Section>
+                    )}
 
                     {/* ─── Reaction Conditions ─── */}
-                    <Section title="Reaction Conditions" delay={600}>
-                        <div className="stat-card mb-4">
-                            <p className="data-label mb-2">Surface Mechanism</p>
-                            <p
-                                className="text-base leading-relaxed"
-                                style={{ color: "var(--text-secondary)" }}
-                            >
-                                {paper.reaction_conditions.surface_mechanism_description || (
-                                    <NullValue />
+                    {(paper.reaction_conditions.surface_mechanism_description || paper.reaction_conditions.reaction_equations.length > 0 || paper.reaction_conditions.intermediate_species.length > 0 || paper.reaction_conditions.evidence) && (
+                        <Section title="Reaction Conditions" delay={600}>
+                            {paper.reaction_conditions.surface_mechanism_description &&
+                                paper.reaction_conditions.surface_mechanism_description !== "N/A" &&
+                                paper.reaction_conditions.surface_mechanism_description !== "null" && (
+                                    <div className="stat-card mb-4">
+                                        <p className="data-label mb-2">Surface Mechanism</p>
+                                        <p
+                                            className="text-base leading-relaxed"
+                                            style={{ color: "var(--text-secondary)" }}
+                                        >
+                                            {paper.reaction_conditions.surface_mechanism_description}
+                                        </p>
+                                    </div>
                                 )}
-                            </p>
-                        </div>
-                        {paper.reaction_conditions.reaction_equations.length > 0 && (
-                            <div className="stat-card mb-4">
-                                <p className="data-label mb-2">Reaction Equations</p>
-                                <div className="flex flex-col gap-2">
-                                    {paper.reaction_conditions.reaction_equations.map(
-                                        (eq, i) => (
-                                            <code
-                                                key={i}
-                                                className="text-sm font-mono px-3 py-2 rounded-lg"
-                                                style={{
-                                                    background: "rgba(45,212,191,0.08)",
-                                                    color: "var(--accent-teal)",
-                                                }}
-                                            >
-                                                {eq}
-                                            </code>
+                            {paper.reaction_conditions.reaction_equations.length > 0 && (
+                                <div className="stat-card mb-4">
+                                    <p className="data-label mb-2">Reaction Equations</p>
+                                    <div className="flex flex-col gap-2">
+                                        {paper.reaction_conditions.reaction_equations.map(
+                                            (eq, i) => (
+                                                <code
+                                                    key={i}
+                                                    className="text-sm font-mono px-3 py-2 rounded-lg"
+                                                    style={{
+                                                        background: "rgba(45,212,191,0.08)",
+                                                        color: "var(--accent-teal)",
+                                                    }}
+                                                >
+                                                    {eq}
+                                                </code>
+                                            )
+                                        )}
+                                    </div>
+                                </div>
+                            )}
+                            {paper.reaction_conditions.intermediate_species.length > 0 && (
+                                <div className="flex flex-wrap gap-2 mb-3">
+                                    <span className="data-label mr-2">
+                                        Intermediate Species:
+                                    </span>
+                                    {paper.reaction_conditions.intermediate_species.map(
+                                        (sp, i) => (
+                                            <span key={i} className="badge badge-rose">
+                                                {sp}
+                                            </span>
                                         )
                                     )}
                                 </div>
+                            )}
+                            <Evidence text={paper.reaction_conditions.evidence} />
+                        </Section>
+                    )}
+
+                    {/* ─── Film Properties ─── */}
+                    {(filmFields.some(f => f.val !== null && f.val !== "" && f.val !== "N/A") || filmProps.evidence) && (
+                        <Section title="Film Properties" delay={700}>
+                            <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+                                <div className="md:col-span-2">
+                                    <div className="stat-grid">
+                                        <DataField
+                                            label="Thickness (nm)"
+                                            value={filmProps.film_thickness_nm}
+                                            accent="var(--accent-teal)"
+                                        />
+                                        <DataField
+                                            label="Density (g/cm³)"
+                                            value={filmProps.density_g_cm3}
+                                            accent="var(--accent-purple)"
+                                        />
+                                        <DataField
+                                            label="Refractive Index"
+                                            value={filmProps.refractive_index}
+                                            accent="var(--accent-cyan)"
+                                        />
+                                        <DataField
+                                            label="Surface Roughness (nm)"
+                                            value={filmProps.surface_roughness_nm}
+                                            accent="var(--accent-amber)"
+                                        />
+                                        <DataField
+                                            label="Crystal Phase"
+                                            value={filmProps.crystal_phase}
+                                            accent="var(--accent-emerald)"
+                                        />
+                                    </div>
+                                </div>
+                                {reported > 0 && (
+                                    <div className="chart-container flex flex-col items-center justify-center">
+                                        <p className="data-label mb-3">Data Completeness</p>
+                                        <ResponsiveContainer width="100%" height={180}>
+                                            <PieChart>
+                                                <Pie
+                                                    data={filmPieData}
+                                                    cx="50%"
+                                                    cy="50%"
+                                                    innerRadius={50}
+                                                    outerRadius={70}
+                                                    paddingAngle={4}
+                                                    dataKey="value"
+                                                    stroke="none"
+                                                >
+                                                    {filmPieData.map((entry, index) => (
+                                                        <Cell key={index} fill={entry.color} />
+                                                    ))}
+                                                </Pie>
+                                                <Tooltip
+                                                    contentStyle={{
+                                                        background: "#0a0a0a",
+                                                        border: "1px solid rgba(255,255,255,0.15)",
+                                                        borderRadius: 8,
+                                                        color: "#f1f5f9",
+                                                        fontSize: 13,
+                                                    }}
+                                                />
+                                            </PieChart>
+                                        </ResponsiveContainer>
+                                        <p className="text-sm font-semibold" style={{ color: "var(--accent-teal)" }}>
+                                            {reported}/{filmFields.length} reported
+                                        </p>
+                                    </div>
+                                )}
                             </div>
-                        )}
-                        {paper.reaction_conditions.intermediate_species.length > 0 && (
-                            <div className="flex flex-wrap gap-2 mb-3">
-                                <span className="data-label mr-2">
-                                    Intermediate Species:
-                                </span>
-                                {paper.reaction_conditions.intermediate_species.map(
-                                    (sp, i) => (
-                                        <span key={i} className="badge badge-rose">
-                                            {sp}
+                            <Evidence text={filmProps.evidence} />
+                        </Section>
+                    )}
+
+                    {/* ─── Characterization Methods ─── */}
+                    {(paper.characterization.characterization_methods.length > 0 || paper.characterization.evidence) && (
+                        <Section title="Characterization Methods" delay={800}>
+                            <div className="flex flex-wrap gap-2 mb-6">
+                                {paper.characterization.characterization_methods.map(
+                                    (method, i) => (
+                                        <span
+                                            key={i}
+                                            className="badge animate-in"
+                                            style={{
+                                                animationDelay: `${850 + i * 60}ms`,
+                                                background: `${chartColors[i % chartColors.length]}15`,
+                                                color: chartColors[i % chartColors.length],
+                                                borderColor: `${chartColors[i % chartColors.length]}33`,
+                                            }}
+                                        >
+                                            {method}
                                         </span>
                                     )
                                 )}
                             </div>
-                        )}
-                        <Evidence text={paper.reaction_conditions.evidence} />
-                    </Section>
-
-                    {/* ─── Film Properties ─── */}
-                    <Section title="Film Properties" delay={700}>
-                        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                            <div className="md:col-span-2">
-                                <div className="stat-grid">
-                                    <DataField
-                                        label="Thickness (nm)"
-                                        value={filmProps.film_thickness_nm}
-                                        accent="var(--accent-teal)"
-                                    />
-                                    <DataField
-                                        label="Density (g/cm³)"
-                                        value={filmProps.density_g_cm3}
-                                        accent="var(--accent-purple)"
-                                    />
-                                    <DataField
-                                        label="Refractive Index"
-                                        value={filmProps.refractive_index}
-                                        accent="var(--accent-cyan)"
-                                    />
-                                    <DataField
-                                        label="Surface Roughness (nm)"
-                                        value={filmProps.surface_roughness_nm}
-                                        accent="var(--accent-amber)"
-                                    />
-                                    <DataField
-                                        label="Crystal Phase"
-                                        value={filmProps.crystal_phase}
-                                        accent="var(--accent-emerald)"
-                                    />
-                                </div>
-                            </div>
-                            <div className="chart-container flex flex-col items-center justify-center">
-                                <p className="data-label mb-3">Data Completeness</p>
-                                <ResponsiveContainer width="100%" height={180}>
-                                    <PieChart>
-                                        <Pie
-                                            data={filmPieData}
-                                            cx="50%"
-                                            cy="50%"
-                                            innerRadius={50}
-                                            outerRadius={70}
-                                            paddingAngle={4}
-                                            dataKey="value"
-                                            stroke="none"
+                            {charMethodData.length > 0 && (
+                                <div className="chart-container">
+                                    <p className="data-label mb-4">Methods Inventory</p>
+                                    <ResponsiveContainer width="100%" height={320}>
+                                        <BarChart
+                                            data={charMethodData}
+                                            layout="vertical"
+                                            margin={{ left: 10, right: 20, top: 5, bottom: 5 }}
                                         >
-                                            {filmPieData.map((entry, index) => (
-                                                <Cell key={index} fill={entry.color} />
-                                            ))}
-                                        </Pie>
-                                        <Tooltip
-                                            contentStyle={{
-                                                background: "#0a0a0a",
-                                                border: "1px solid rgba(255,255,255,0.15)",
-                                                borderRadius: 8,
-                                                color: "#f1f5f9",
-                                                fontSize: 13,
-                                            }}
-                                        />
-                                    </PieChart>
-                                </ResponsiveContainer>
-                                <p className="text-sm font-semibold" style={{ color: "var(--accent-teal)" }}>
-                                    {reported}/{filmFields.length} reported
-                                </p>
-                            </div>
-                        </div>
-                        <Evidence text={filmProps.evidence} />
-                    </Section>
-
-                    {/* ─── Characterization Methods ─── */}
-                    <Section title="Characterization Methods" delay={800}>
-                        <div className="flex flex-wrap gap-2 mb-6">
-                            {paper.characterization.characterization_methods.map(
-                                (method, i) => (
-                                    <span
-                                        key={i}
-                                        className="badge animate-in"
-                                        style={{
-                                            animationDelay: `${850 + i * 60}ms`,
-                                            background: `${chartColors[i % chartColors.length]}15`,
-                                            color: chartColors[i % chartColors.length],
-                                            borderColor: `${chartColors[i % chartColors.length]}33`,
-                                        }}
-                                    >
-                                        {method}
-                                    </span>
-                                )
-                            )}
-                        </div>
-                        <div className="chart-container">
-                            <p className="data-label mb-4">Methods Inventory</p>
-                            <ResponsiveContainer width="100%" height={320}>
-                                <BarChart
-                                    data={charMethodData}
-                                    layout="vertical"
-                                    margin={{ left: 10, right: 20, top: 5, bottom: 5 }}
-                                >
-                                    <XAxis type="number" hide />
-                                    <YAxis
-                                        type="category"
-                                        dataKey="name"
-                                        width={60}
-                                        tick={{ fill: "#94a3b8", fontSize: 12 }}
-                                        axisLine={false}
-                                        tickLine={false}
-                                    />
-                                    <Tooltip
-                                        contentStyle={{
-                                            background: "#0a0a0a",
-                                            border: "1px solid rgba(255,255,255,0.1)",
-                                            borderRadius: 8,
-                                            color: "#f1f5f9",
-                                            fontSize: 13,
-                                        }}
-                                        content={({ payload }) => {
-                                            if (!payload || !payload[0]) return null;
-                                            const data = payload[0].payload as { fullName: string };
-                                            return (
-                                                <div style={{
+                                            <XAxis type="number" hide />
+                                            <YAxis
+                                                type="category"
+                                                dataKey="name"
+                                                width={60}
+                                                tick={{ fill: "#94a3b8", fontSize: 12 }}
+                                                axisLine={false}
+                                                tickLine={false}
+                                            />
+                                            <Tooltip
+                                                contentStyle={{
                                                     background: "#0a0a0a",
-                                                    border: "1px solid rgba(255,255,255,0.15)",
+                                                    border: "1px solid rgba(255,255,255,0.1)",
                                                     borderRadius: 8,
-                                                    padding: "8px 12px",
                                                     color: "#f1f5f9",
                                                     fontSize: 13,
-                                                }}>
-                                                    {data.fullName}
-                                                </div>
-                                            );
-                                        }}
-                                    />
-                                    <Bar dataKey="value" radius={[0, 6, 6, 0]} barSize={20}>
-                                        {charMethodData.map((_, i) => (
-                                            <Cell
-                                                key={i}
-                                                fill={chartColors[i % chartColors.length]}
+                                                }}
+                                                content={({ payload }) => {
+                                                    if (!payload || !payload[0]) return null;
+                                                    const data = payload[0].payload as { fullName: string };
+                                                    return (
+                                                        <div style={{
+                                                            background: "#0a0a0a",
+                                                            border: "1px solid rgba(255,255,255,0.15)",
+                                                            borderRadius: 8,
+                                                            padding: "8px 12px",
+                                                            color: "#f1f5f9",
+                                                            fontSize: 13,
+                                                        }}>
+                                                            {data.fullName}
+                                                        </div>
+                                                    );
+                                                }}
                                             />
-                                        ))}
-                                    </Bar>
-                                </BarChart>
-                            </ResponsiveContainer>
-                        </div>
-                        <Evidence text={paper.characterization.evidence} />
-                    </Section>
+                                            <Bar dataKey="value" radius={[0, 6, 6, 0]} barSize={20}>
+                                                {charMethodData.map((_, i) => (
+                                                    <Cell
+                                                        key={i}
+                                                        fill={chartColors[i % chartColors.length]}
+                                                    />
+                                                ))}
+                                            </Bar>
+                                        </BarChart>
+                                    </ResponsiveContainer>
+                                </div>
+                            )}
+                            <Evidence text={paper.characterization.evidence} />
+                        </Section>
+                    )}
 
                     <div className="shimmer-line" />
 

@@ -9,6 +9,70 @@ from typing import Dict, Any
 #      formatter with no LangChain chaining. Plain f-strings are cleaner and
 #      remove the langchain-core dependency for this module.
 
+def _clone_default(value: Any) -> Any:
+    return json.loads(json.dumps(value))
+
+
+def _looks_like_json_schema(value: Any) -> bool:
+    if not isinstance(value, dict):
+        return False
+    schema_keys = {"type", "properties", "items", "required", "additionalProperties"}
+    return bool(schema_keys.intersection(value.keys())) and (
+        "properties" in value or value.get("type") in {"object", "array"}
+    )
+
+
+def _coerce_scalar(value: Any, template: Any) -> Any:
+    if value is None:
+        return None if template is None else _clone_default(template)
+
+    # `None` in the template means "nullable scalar" in these outputs.
+    if template is None:
+        return value if isinstance(value, (str, int, float, bool)) else None
+
+    if isinstance(template, str):
+        return value if isinstance(value, str) else _clone_default(template)
+    if isinstance(template, (int, float)):
+        return value if isinstance(value, (int, float)) else _clone_default(template)
+    if isinstance(template, bool):
+        return value if isinstance(value, bool) else _clone_default(template)
+    return value
+
+
+def _coerce_to_template(value: Any, template: Any) -> Any:
+    if isinstance(template, dict):
+        if isinstance(value, list):
+            # Salvage outputs like characterization -> ["XPS", "AFM", ...]
+            list_keys = [key for key, item in template.items() if isinstance(item, list)]
+            if len(list_keys) == 1 and set(template.keys()) <= {list_keys[0], "evidence"}:
+                value = {list_keys[0]: value}
+            else:
+                raise ValueError("Model returned a list where an object was required.")
+
+        if not isinstance(value, dict):
+            raise ValueError("Model returned a non-object for a structured schema.")
+        if not value:
+            raise ValueError("Model returned an empty object.")
+        if _looks_like_json_schema(value):
+            raise ValueError("Model returned a JSON Schema definition instead of extracted data.")
+
+        overlapping_keys = set(value.keys()).intersection(template.keys())
+        if not overlapping_keys:
+            raise ValueError("Model output did not contain any expected schema keys.")
+
+        coerced: dict[str, Any] = {}
+        for key, template_value in template.items():
+            if key in value:
+                coerced[key] = _coerce_to_template(value[key], template_value)
+            else:
+                coerced[key] = _clone_default(template_value)
+        return coerced
+
+    if isinstance(template, list):
+        return value if isinstance(value, list) else _clone_default(template)
+
+    return _coerce_scalar(value, template)
+
 
 def robust_json_parse(text: Any, default: dict | None = None) -> dict:
     """
@@ -54,25 +118,26 @@ def robust_json_parse(text: Any, default: dict | None = None) -> dict:
     text = re.sub(r'\bTrue\b',  'true',  text)
     text = re.sub(r'\bFalse\b', 'false', text)
 
+    parsed = None
+
     # Try standard JSON parse
     try:
-        return json.loads(text)
+        parsed = json.loads(text)
     except json.JSONDecodeError:
-        pass
+        parsed = None
 
-    # Try Python literal eval as last resort (handles some edge cases)
-    try:
-        result = ast.literal_eval(text)
-        if isinstance(result, dict):
-            return result
-    except Exception:
-        pass
+    if parsed is None:
+        # Try Python literal eval as last resort (handles some edge cases)
+        try:
+            parsed = ast.literal_eval(text)
+        except Exception:
+            parsed = None
 
-    # Print the raw model output to show exactly what the model returned
-    # and why parsing failed — makes diagnosis straightforward.
-    preview = text[:300].replace("\n", " ")
-    print(f"❌ JSON parse failed. Raw output preview: {preview!r}")
-    return default
+    if parsed is None:
+        preview = text[:300].replace("\n", " ")
+        raise ValueError(f"Could not parse model output as JSON. Preview: {preview!r}")
+
+    return _coerce_to_template(parsed, default)
 
 
 # ── Shared prompt builder ─────────────────────────────────────────────────────

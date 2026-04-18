@@ -11,3 +11,10 @@ extracted_data
 .env.local
 .env.example
 .codex
+agentic_information_extraction_ollama/failed_folders_llama.txt  
+agentic_information_extraction_ollama/flagged_folders_llama.txt
+agentic_information_extraction_ollama/flagged_papers_llama.json
+agentic_information_extraction_ollama/papers_to_rerun.txt
+agentic_information_extraction_ollama/rerun_problem_papers.txt
+agentic_information_extraction_ollama/target_papers.txt
+agentic_information_extraction_ollama/warning_folders_llama.txt
