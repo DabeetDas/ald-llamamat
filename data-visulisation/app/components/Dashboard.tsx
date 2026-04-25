@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import {
     BarChart,
     Bar,
@@ -111,6 +111,82 @@ function Section({
     );
 }
 
+function normalizeSearchText(value: string | number | null | undefined) {
+    if (value === null || value === undefined) {
+        return "";
+    }
+
+    return String(value).toLowerCase().trim();
+}
+
+function matchesSearch(query: string, values: Array<string | number | null | undefined>) {
+    const normalizedQuery = normalizeSearchText(query);
+
+    if (!normalizedQuery) {
+        return true;
+    }
+
+    return values.some((value) => normalizeSearchText(value).includes(normalizedQuery));
+}
+
+function SearchField({
+    value,
+    onChange,
+    placeholder,
+    resultsLabel,
+}: {
+    value: string;
+    onChange: (value: string) => void;
+    placeholder: string;
+    resultsLabel?: string;
+}) {
+    return (
+        <div className="glass-card p-4 md:p-5">
+            <div className="flex flex-col lg:flex-row lg:items-center gap-3">
+                <label className="relative flex-1">
+                    <span className="sr-only">{placeholder}</span>
+                    <svg
+                        width="16"
+                        height="16"
+                        viewBox="0 0 24 24"
+                        fill="none"
+                        stroke="currentColor"
+                        strokeWidth="2"
+                        strokeLinecap="round"
+                        strokeLinejoin="round"
+                        className="absolute left-4 top-1/2 -translate-y-1/2 text-slate-500 pointer-events-none"
+                    >
+                        <circle cx="11" cy="11" r="8" />
+                        <path d="m21 21-4.35-4.35" />
+                    </svg>
+                    <input
+                        type="search"
+                        value={value}
+                        onChange={(event) => onChange(event.target.value)}
+                        placeholder={placeholder}
+                        className="w-full rounded-2xl border border-white/10 bg-black/40 py-3 pl-11 pr-12 text-sm text-slate-100 placeholder:text-slate-500 outline-none transition focus:border-teal-400/40 focus:ring-2 focus:ring-teal-400/10"
+                    />
+                    {value && (
+                        <button
+                            type="button"
+                            onClick={() => onChange("")}
+                            className="absolute right-3 top-1/2 -translate-y-1/2 rounded-full border border-white/10 bg-white/5 px-2 py-1 text-[10px] font-bold uppercase tracking-wider text-slate-300 transition hover:border-teal-400/30 hover:text-teal-300"
+                            aria-label="Clear search"
+                        >
+                            Clear
+                        </button>
+                    )}
+                </label>
+                {resultsLabel && (
+                    <p className="text-xs uppercase tracking-[0.2em] text-slate-500">
+                        {resultsLabel}
+                    </p>
+                )}
+            </div>
+        </div>
+    );
+}
+
 // ─── Chart Colors ───
 const chartColors = [
     "#5eead4",
@@ -135,12 +211,28 @@ export default function Dashboard({
     selectedPaperIndex: number | null,
     onSelectPaper: (idx: number | null) => void
 }) {
-    const [showPdf, setShowPdf] = useState(false);
+    const [pdfOpenPaperIndex, setPdfOpenPaperIndex] = useState<number | null>(null);
     const [selectedMaterial, setSelectedMaterial] = useState<string | null>(null);
+    const [materialSearch, setMaterialSearch] = useState("");
+    const showPdf = selectedPaperIndex !== null && pdfOpenPaperIndex === selectedPaperIndex;
 
-    useEffect(() => {
-        setShowPdf(false);
-    }, [selectedPaperIndex]);
+    const openMaterialArchive = (formula: string) => {
+        setSelectedMaterial(formula);
+    };
+
+    const returnToMaterials = () => {
+        setSelectedMaterial(null);
+    };
+
+    const openPaper = (idx: number) => {
+        setPdfOpenPaperIndex(null);
+        onSelectPaper(idx);
+    };
+
+    const closePaper = () => {
+        setPdfOpenPaperIndex(null);
+        onSelectPaper(null);
+    };
 
     if (!papers || papers.length === 0) {
         return (
@@ -172,20 +264,42 @@ export default function Dashboard({
                 if (p.summary.process_type) acc[formula].processTypes.add(p.summary.process_type);
                 return acc;
             }, {} as Record<string, { formula: string, name: string, class: string, count: number, processTypes: Set<string> }>);
+            const filteredMaterialGroups = Object.values(materialGroups)
+                .filter((group) => matchesSearch(materialSearch, [
+                    group.formula,
+                    group.name,
+                    group.class,
+                    ...Array.from(group.processTypes),
+                ]))
+                .sort((a, b) => b.count - a.count);
 
             return (
                 <div className="p-8 md:p-12 max-w-6xl mx-auto w-full animate-in fade-in duration-700">
                     <div className="mb-10">
                         <h2 className="text-3xl font-black text-white mb-3">
-                            Material <span className="text-teal-400">Library</span>
+                            Materials <span className="text-teal-400">Library</span>
                         </h2>
                         <p className="text-slate-400 text-sm">Select a material system to browse its processed knowledge.</p>
                     </div>
-                    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-                        {Object.values(materialGroups).sort((a, b) => b.count - a.count).map((group, i) => (
+                    <div className="mb-6">
+                        <SearchField
+                            value={materialSearch}
+                            onChange={setMaterialSearch}
+                            placeholder="Search by formula, material name, class, or process type"
+                            resultsLabel={`${filteredMaterialGroups.length} of ${Object.keys(materialGroups).length} materials`}
+                        />
+                    </div>
+                    {filteredMaterialGroups.length === 0 ? (
+                        <div className="glass-card p-8 text-center">
+                            <p className="text-lg font-semibold text-slate-100 mb-2">No materials matched that search.</p>
+                            <p className="text-sm text-slate-400">Try a chemical formula, material name, or process keyword.</p>
+                        </div>
+                    ) : (
+                        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+                            {filteredMaterialGroups.map((group, i) => (
                             <div
                                 key={group.formula}
-                                onClick={() => setSelectedMaterial(group.formula)}
+                                onClick={() => openMaterialArchive(group.formula)}
                                 className="glass-card p-6 cursor-pointer hover:border-teal-400/30 group flex flex-col h-full transition-all hover:translate-y-[-4px] animate-in"
                                 style={{ animationDelay: `${i * 100}ms` }}
                             >
@@ -198,9 +312,15 @@ export default function Dashboard({
                                 <p className="text-sm text-slate-400 mb-6 italic">
                                     {group.name}
                                 </p>
+                                {group.class && (
+                                    <p className="text-xs uppercase tracking-[0.18em] text-slate-500 mt-auto">
+                                        {group.class}
+                                    </p>
+                                )}
                             </div>
-                        ))}
-                    </div>
+                            ))}
+                        </div>
+                    )}
                 </div>
             );
         }
@@ -215,7 +335,7 @@ export default function Dashboard({
                 <div className="mb-10 flex flex-col md:flex-row md:items-end justify-between gap-4">
                     <div>
                         <button
-                            onClick={() => setSelectedMaterial(null)}
+                            onClick={returnToMaterials}
                             className="text-teal-400 text-sm font-bold flex items-center gap-2 mb-4 hover:translate-x-[-4px] transition-transform"
                         >
                             <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
@@ -233,7 +353,7 @@ export default function Dashboard({
                     {filteredPapers.map(({ p, originalIdx }, i) => (
                         <div
                             key={p.id}
-                            onClick={() => onSelectPaper(originalIdx)}
+                            onClick={() => openPaper(originalIdx)}
                             className="glass-card p-6 cursor-pointer hover:border-teal-400/30 group flex flex-col h-full transition-all hover:translate-y-[-4px] animate-in"
                             style={{ animationDelay: `${i * 100}ms` }}
                         >
@@ -253,7 +373,7 @@ export default function Dashboard({
                             </p>
                             <div className="flex flex-wrap gap-2 mt-auto pt-4 border-t border-white/5">
                                 <span className="text-[10px] uppercase font-bold px-2 py-1 bg-purple-500/10 text-purple-300 rounded-lg">
-                                    {p.summary.process_type || "CVD"}
+                                    {p.summary.process_type || "ALD"}
                                 </span>
                                 <span className="text-[10px] uppercase font-bold px-2 py-1 bg-amber-500/10 text-amber-300 rounded-lg">
                                     {p.deposition_conditions.deposition_temperature_C ? `${p.deposition_conditions.deposition_temperature_C}°C` : "N/A Temp"}
@@ -336,14 +456,14 @@ export default function Dashboard({
             <div className="max-w-6xl w-full mx-auto px-6 py-10">
                 <div className="flex flex-wrap gap-4 mb-6">
                     <button
-                        onClick={() => onSelectPaper(null)}
+                        onClick={closePaper}
                         className="px-5 py-2.5 rounded-2xl text-sm font-semibold bg-white/5 text-white border border-white/10 hover:bg-white/10 transition-all flex items-center gap-2"
                     >
                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
                         Back to {selectedMaterial ? selectedMaterial : "Catalog"}
                     </button>
                     <button
-                        onClick={() => setShowPdf(!showPdf)}
+                        onClick={() => setPdfOpenPaperIndex(showPdf ? null : selectedPaperIndex)}
                         className="px-5 py-2.5 rounded-2xl text-sm font-semibold bg-teal-500/10 text-teal-300 border border-teal-500/20 hover:bg-teal-500/20 transition-all flex items-center gap-2"
                     >
                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>

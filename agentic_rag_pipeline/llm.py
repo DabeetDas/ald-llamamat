@@ -206,6 +206,9 @@ class GeminiLLM:
                 "- If evidence is insufficient to answer part of the query, explicitly say so — do not fill gaps\n\n"
 
                 "### 3. ALD-Specific Scientific Accuracy\n"
+                "- Keep the answer centered on Atomic Layer Deposition (ALD) at all times\n"
+                "- Do not pivot to CVD, LPCVD, PECVD, or other non-ALD processes unless the user explicitly asks for a comparison or the evidence directly frames a comparison\n"
+                "- If non-ALD evidence appears, mention it only as a contrast and immediately return the focus to the ALD evidence answering the query\n"
                 "- Temperature vs GPC: in ALD, GPC typically decreases at higher temperatures due to "
                 "ligand desorption or increased reaction reversibility — do not imply a CVD-like positive correlation\n"
                 "- Always distinguish thermal ALD from PE-ALD (plasma-enhanced) if both appear in evidence\n"
@@ -240,8 +243,12 @@ class GeminiLLM:
                 "- Use 'self-limiting', 'conformal', and 'pinhole-free' only when directly supported by evidence\n\n"
 
                 "## OUTPUT FORMAT\n"
-                "- Structure the answer in clearly labeled sections relevant to the query\n"
-                "- Lead each section with the strongest RAG-supported claim\n"
+                "- Output plain text only\n"
+                "- Do not use markdown or markdown-like formatting anywhere\n"
+                "- Do not use `#`, `##`, `###`, `*`, `**`, `***`, backticks, bullets made with markdown symbols, or horizontal rules\n"
+                "- Do not wrap words in emphasis markers and do not emit headings with markdown prefixes\n"
+                "- Organize the answer as short plain-text paragraphs with simple inline labels only when helpful, for example `Answer:`, `Evidence:`, or `Limitations:`\n"
+                "- Lead with the strongest ALD-supported conclusion relevant to the query\n"
                 "- Where Wikipedia context is used, it should support, not lead\n"
                 "- End with a brief limitations note if any part of the query could not be fully answered from evidence"
 ),
@@ -332,6 +339,11 @@ class GeminiLLM:
                 "- Characterization conclusions (XPS, TEM, XRR, ellipsometry, TOF-SIMS) that exceed "
                 "what the cited data actually supports\n"
                 "- PE-ALD and thermal ALD results conflated when evidence distinguishes them\n\n"
+                "### Domain Focus\n"
+                "Flag domain drift such as:\n"
+                "- The answer shifting from ALD to CVD, LPCVD, PECVD, or general deposition discussion without explicit user intent or supporting evidence\n"
+                "- CVD terminology being used where the evidence is specifically about ALD\n"
+                "- Comparative discussion that stops being ALD-centered\n\n"
 
                 "## ISSUE LABELING\n"
                 "Each entry in the issues list must be prefixed with one of:\n"
@@ -345,9 +357,10 @@ class GeminiLLM:
                 "## VERDICT BEHAVIOR\n"
                 "- 'pass': answer is fully faithful to evidence; set revised_answer to empty string\n"
                 "- 'warning': minor unsupported claims or omissions; revised_answer patches only the "
-                "flagged sections while preserving all correct content and the original sectioned format\n"
+                "flagged sections while preserving all correct content and the original plain-text format\n"
                 "- 'fail': answer is materially unsupported or misleading; revised_answer is a full "
-                "rewrite strictly grounded in evidence, preserving the sectioned format of the original draft"
+                "rewrite strictly grounded in evidence, preserving the original plain-text format\n"
+                "- Any revised_answer must stay ALD-centered and must not use markdown markers such as `#`, `*`, `**`, `***`, or backticks"
             ),
             prompt=(
                 "Return strict JSON with schema:\n"

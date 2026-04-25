@@ -407,7 +407,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
         {
             id: 1,
             role: "assistant",
-            content: "I’m connected to the ALD-GemaMat retrieval assistant. Ask for summaries, comparisons, deposition-specific insights.",
+            content: "I’m the GemaMat assistant, an AI for ALD related queries. Ask for summaries, comparisons, deposition-specific insights.",
         },
     ]);
     const [inputValue, setInputValue] = useState("");
@@ -518,7 +518,7 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                 <div className="flex items-center gap-4 mb-5">
                     <div>
                         <h1 className="text-xl font-black text-white tracking-tight">GemaMat</h1>
-                        <p className="text-xs text-teal-400 font-semibold tracking-widest uppercase mt-0.5">Materials Science Intelligence</p>
+                        <p className="text-xs text-teal-400 font-semibold tracking-widest uppercase mt-0.5">Atomic Layer Deposition (ALD) Intelligence</p>
                     </div>
                 </div>
 
@@ -713,11 +713,6 @@ export default function ChatAssistant({ selectedPaper, onSelectPaper }: ChatAssi
                         <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><line x1="22" y1="2" x2="11" y2="13" /><polygon points="22 2 15 22 11 13 2 9 22 2" /></svg>
                     </button>
                 </form>
-                <div className="mt-3 flex items-center justify-center gap-3">
-                    <span className="h-[1px] flex-1 bg-gradient-to-r from-transparent to-slate-800"></span>
-                    <span className="text-[11px] text-slate-500 font-semibold tracking-widest whitespace-nowrap">Planner · Executor · Synthesizer · Validator</span>
-                    <span className="h-[1px] flex-1 bg-gradient-to-l from-transparent to-slate-800"></span>
-                </div>
             </div>
         </div>
     );
