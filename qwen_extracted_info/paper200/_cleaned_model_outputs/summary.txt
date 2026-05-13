@@ -1,0 +1,8 @@
+{
+  "target_material": "W–N",
+  "process_type": "PEALD",
+  "main_precursors": ["WF6", "NH3"],
+  "temperature_range": "300–400 °C",
+  "summary": "A new atomic layer deposition (ALD) method, pulse plasma-assisted ALD (PPALD), was developed for depositing W–N thin films as diffusion barriers on interlayer materials. The method uses NH3 pulse plasma to modify non-Si surfaces, enabling the adsorption of WF6 and subsequent deposition of W–N films. The process reduces F concentration and film resistivity, and the films remain amorphous or nanocrystalline to suppress grain boundary diffusion.",
+  "evidence": "A new atomic layer deposition (ALD) method assisted by NH3 pulse plasma has been suggested for the deposition of W–N diffusion barriers on interlayer materials. The growth mechanism of W–N thin films prepared by the new ALD method perfectly follows the conventional ALD mechanism, and the F concentration in the W–N films and the film resistivity are fairly reduced. Furthermore, this method can eliminate the difficulty to deposit the W–N film on non-Si surface with the conventional ALD method by using WF6 and NH3 gases because the WF6 gas itself does not adsorb on the non-Si surface. Whereas, NHx reactive species may modify the non-Si surface to make the WF6 gas to be adsorbed sequentially."
+}

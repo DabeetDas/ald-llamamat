@@ -1,0 +1,11 @@
+{
+  "target_material": "V2O5",
+  "process_type": "ALD",
+  "main_precursors": [
+    "VO(C5H7O2)2",
+    "NH4VO3"
+  ],
+  "temperature_range": "523 K (pretreatment), 443 K (precursor adsorption), 623 K (purging), 773 K (calcination)",
+  "summary": "The study compares the properties of V2O5 catalysts prepared by atomic layer deposition (ALD) and impregnation on alumina, silica, and titania supports. The ALD method allows for high dispersion of V2O5, leading to stronger acid sites and better reducibility compared to impregnation. The redox behavior and acidity of the catalysts were analyzed, and their performance in the selective oxidation of o-xylene to phthalic anhydride was evaluated. The results showed that ALD-prepared catalysts on alumina and titania supports exhibited superior selectivity due to their enhanced dispersion and interaction with the support.",
+  "evidence": "Alumina-, silica-, and titania-supported vanadium oxide systems with V2O5 loadings ranging from 3 to 12 wt.%, corresponding to 0.02–0.09 V/(Al,Si,Ti) atomic ratios, were prepared by atomic layer deposition (ALD) and compared with the corresponding impregnated catalysts. The surface acidic properties of the supports and catalysts were investigated using ammonia adsorption microcalorimetry to determine the number and strength of the surface acid sites. The surface characteristics of vanadia-based catalysts prepared by the ALD method have been presented in the recent literature. In the present contribution, a series of ALD-prepared catalysts and conventional impregnated systems on three different supports (Al2O3, SiO2, and TiO2) have been studied comparatively. The study showed that ALD-prepared catalysts on alumina and titania supports exhibited superior selectivity due to their enhanced dispersion and interaction with the support."
+}

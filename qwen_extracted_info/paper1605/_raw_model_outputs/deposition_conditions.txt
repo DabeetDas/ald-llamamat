@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 70,
+  "pressure": "0.35 mbar",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 60,
+  "number_of_cycles": 400,
+  "reactor_type": "Self-made viscous flow reactor",
+  "evidence": "Depositions were carried out at a constant temperature of 70 °C. Carrier gas precursor flow rates of 4:1 and 8:1 were used for H2O and TiCl4, respectively. A fixed purge time of 60 s was used for both TiCl4 and H2O. Pulse time of H2O was kept at 30 s. The partial pressure of H2O was set four times higher than that of TiCl4. Pressure in the reaction chamber during the deposition was around 0.35 mbar."
+}<|im_end|>

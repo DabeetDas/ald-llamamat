@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "5, 10, and 20",
+  "reactor_type": "Quros Co., Plus-100",
+  "evidence": "HfO2 thin films were grown in 5, 10, and 20 cycles by ALD (Quros Co., Plus-100) using Hf(NCH3)24 as Hf source and O3 with a concentration of 160 g/m3 as oxidant at 300 °C on 4 in. diameter p-type (100)Si substrates."
+}<|im_end|>

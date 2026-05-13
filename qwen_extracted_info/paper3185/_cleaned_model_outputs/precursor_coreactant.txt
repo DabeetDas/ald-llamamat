@@ -1,0 +1,7 @@
+{
+  "precursors": ["HfCl4", "ZrCl4", "Al(CH3)3 (trimethylaluminium)", "La(thd)3 (thd = 2,2,6,6-tetramethyl-3,5-heptanedione)"],
+  "coreactants": ["O3"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "For HfO2, ZrO2, Al2O3, and La2O3 ALD, HfCl4, ZrCl4, Al(CH3)3 (trimethylaluminium), and La(thd)3 (thd = 2,2,6,6-tetramethyl-3,5-heptanedione), respectively, were used as metal precursors."
+}

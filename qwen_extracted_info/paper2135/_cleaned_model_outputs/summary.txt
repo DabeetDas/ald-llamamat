@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "ALD",
+  "main_precursors": ["TiN(CH3)2", "NH3"],
+  "temperature_range": "167–207 °C",
+  "summary": "The study investigates the effects of interfacial organic layers on thin film nucleation in atomic layer deposition (ALD) of titanium nitride (TiN) on silicon dioxide (SiO2) modified with self-assembled monolayers (SAMs). The process uses TiN(CH3)2 and NH3 as precursors, and the temperature range is 167–207 °C. The results show that the growth is significantly attenuated on SAMs with different structures and functional terminations, with the attenuation factor depending on the SAM's reactivity and thickness.",
+  "evidence": "Atomic layer deposition /H20849ALD/H20850of titanium nitride /H20849TiN/H20850on silicon dioxide and silicon dioxide modiﬁed by self-assembled monolayers /H20849SAMs/H20850with different structures and functional terminations has been investigated employing molecular beam techniques. ... The reactant NH3 was introduced via an effusive beam doser. ... The experiments were carried out in a custom-built ultrahigh vacuum chamber ... The total pressure was typically no greater than 10−5 Torr ... Cycle times of the reactants were computer controlled, and a typical cycle was 10 s /H20853Ti/H20851N/H20849CH3/H208502/H208524 /1 5 s /H20849pump out/H20850/30 s /H20849NH3/H20850/ 100 s /H20849pump out/H20850. ... The deposited thickness per cycle approaches saturation for all three cases for exposures greater than approximately 4 /H110031016 molecules cm–2. ... The SAMs have been classiﬁed into two groups: those possessing reactive /H20853with respect to Ti/H20851N/H20849CH3/H208502/H208524 and ligand exchange reactions /H20854and unreactive end groups."
+}

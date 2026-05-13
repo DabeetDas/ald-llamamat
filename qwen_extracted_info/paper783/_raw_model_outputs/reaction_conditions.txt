@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "AlOH⁎ + Al(CH3)3 → AlOAl(CH3)2⁎ + CH4",
+    "Al(CH3)⁎ + H2O → AlOH⁎ + CH4"
+  ],
+  "surface_mechanism_description": "The TMA and H2O half-reactions are performed in an ABAB … binary sequence to grow Al2O3. The growth rate of the films deposited after sequential exposures of TMA and H2O is nominally 0.11 –0.13 nm per coating cycle at the reaction temperature of 177 °C.",
+  "intermediate_species": [
+    "AlOH⁎",
+    "Al(CH3)⁎",
+    "AlOAl(CH3)2⁎"
+  ],
+  "evidence": "Alumina ALD has been carried out by splitting the reaction of trimethylaluminum (TMA) and H2O into two self-limiting half-reactions: AðÞ AlOH⁎ + Al CH3ðÞ 3→ AlOAl CH3ðÞ 2 /C2/C3 ⁎ + CH4 ð1Þ BðÞ Al CH3ðÞ ⁎ + H2O→AlOH⁎ + CH4 ð2Þ where ⁎designates the surface species. The TMA and H2O half-reactions are performed in an ABAB … binary sequence to grow Al2O3. The growth rate of the films deposited after sequential exposures of TMA and H2O is nominally 0.11 –0.13 nm per coating cycle at the reaction temperature of 177 °C."
+}<|im_end|>

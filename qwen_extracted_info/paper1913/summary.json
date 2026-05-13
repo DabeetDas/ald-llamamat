@@ -1,0 +1,11 @@
+{
+  "target_material": "Copper sulfide (Cu2S)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "bis(N,N'-disec-butylacetamidinato)dicopper(I) (Cu2(DBA)2)",
+    "H2S"
+  ],
+  "temperature_range": "80–135 °C",
+  "summary": "Copper sulfide (Cu2S) thin films were grown by atomic layer deposition (ALD) and their structural, optical, and electronic properties were investigated. The films were synthesized at temperatures as low as 80 °C, resulting in polycrystalline thin films indexed to the stoichiometric chalcocite phase (Cu2S). The films exhibited conductive properties due to high mobility and moderate p-type doping. Exposure to air led to a rapid increase in conductivity due to heavy p-type doping, while storage in an inert environment or with an Al2O3 overlayer significantly slowed this process. The study aimed to understand and stabilize the electronic properties of Cu2S for use in thin-film photovoltaics.",
+  "evidence": "Copper sulﬁde ﬁlms of nanometer thickness are grown by atomic layer deposition (ALD) and their structural and optoelectronic properties investigated as a function of time and storage environment. At temperatures as low as 80 /C14 C polycrystalline thin ﬁlms are synthesized, which index to the stoichiometric (Cu2S) chalcocite phase. The study aimed to understand and stabilize the electronic properties of Cu2S for use in thin-film photovoltaics."
+}

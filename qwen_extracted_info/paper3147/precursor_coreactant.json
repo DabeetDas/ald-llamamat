@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Ti/H20849O-i-Pr/H208502/H20849DPM/H208502 (titanium dipivaloylmethanato di-isopropoxide)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Ti/H20849O-i-Pr/H208502/H20849DPM/H208502 dissolved in ethylcyclohexane and H2O. The Ti solution was sprayed into the vaporizer with a frequency of 0.5 Hz and was transported into the reactor by Ar carrier gas at a flow rate of 500 sccm. A 15 s purge with Ar gas followed at a flow rate of 500 sccm."
+}

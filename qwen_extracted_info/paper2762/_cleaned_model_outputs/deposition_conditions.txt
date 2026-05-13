@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 190,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 90,
+  "number_of_cycles": null,
+  "reactor_type": "warm-wall tube reactor",
+  "evidence": "The 190 °C ALD recipe was very similar to the lower temperature one. The stage temperature was raised from 170 °C to 190 °C, and the Mo(CO) 6 vial temperature was lowered to ∼48 °C to allow for precise control of the pulse height (1 s pulse time and 7 –10 mTorr)."
+}

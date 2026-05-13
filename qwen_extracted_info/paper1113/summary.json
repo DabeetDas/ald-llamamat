@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnS",
+  "process_type": "ALD",
+  "main_precursors": [
+    "diethylzinc (DEZn)",
+    "in situ generated H2S"
+  ],
+  "temperature_range": "60 °C –400 °C",
+  "summary": "The paper describes the atomic layer deposition (ALD) of ZnS using diethylzinc (DEZn) and in situ generated H2S. The H2S is produced by heating thioacetamide (TAA) to 150 °C in an inert atmosphere, generating H2S and acetonitrile. The study investigates the growth behavior, crystal structure, surface roughness, and optical properties of the ZnS films deposited over a temperature range of 60 °C to 400 °C. The results show a decrease in growth rate with increasing temperature, the formation of both cubic (zincblende) and hexagonal (wurtzite) phases, and the presence of stacking faults. The band gap is found to depend on the crystal phase, with values ranging from 3.6 to 4 eV.",
+  "evidence": "Atomic layer deposition (ALD) of ZnS films utilizing diethylzinc and in situ generated H2S was performed over a temperature range of 60 °C –400 °C. The results show a growth rate that monotonically decreases with temperature, and films that are stoichiometric in Zn and S. The root mean square roughness of the films increases with temperature above 100 °C. A change in crystal phase begins at ∼300 °C. The band gap is dependent on the crystal phase and is estimated to be 3.6–4 eV."
+}

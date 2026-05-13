@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225 −250",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 15,
+  "number_of_cycles": null,
+  "reactor_type": "homemade ALD system",
+  "evidence": "A typical ALD growth sequence for the indium oxide layers involved exposure to Et2InN(TMS)2 for 1 s, N2 purging for 15 s, exposure to H2O for 1 s, and N2 purging for 15 s."
+}<|im_end|>

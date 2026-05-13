@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "SiCl* + H2O -> SiOH* + HCl",
+    "TiCl* + H2O -> TiOH* + HCl"
+  ],
+  "surface_mechanism_description": "Ligand exchange between SiCl4/TiCl4 and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "SiCl*",
+    "TiCl*",
+    "SiOH*",
+    "TiOH*"
+  ],
+  "evidence": "The surface chemistry of SiO2 ALD and SiO2 thin film growth have been described in earlier studies. For the ALD of SiO2 films, the SiCl4 + 2H2O -> SiO2 + 4HCl reaction for SiO2 chemical vapor deposition (CVD) is divided into the following two half-reactions: where the asterisks indicate the surface species. Each reaction is self-limiting and proceeds to completion at sufficient temperatures and reactant exposure. The repetition of these reactions in an ABAB... reaction sequence deposits SiO2 films on Si(100) with a growth rate of 1.1 Å/AB cycle at 600 K. For the ALD of TiO2 films, the TiCl4 + 2H2O -> TiO2 + 4HCl reaction for TiO2 CVD is divided into the following two half-reactions: The repetition of these reactions in an ABAB reaction sequence deposits TiO2 films on flat glass substrates with a growth rate of 0.4-0.6 Å/AB cycle at temperatures from 425 to 800 K."
+}<|im_end|>

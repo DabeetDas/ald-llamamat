@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "1.0 27 Torr",
+  "precursor_pulse_time_s": 150,
+  "coreactant_pulse_time_s": 150,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "dual-chamber MBE system",
+  "evidence": "Prior to the growth, the sample was exposed to a Zn beam for 150 s at 250 °C. This treatment is known to be the optimal method to suppress the defect generation and to promote layer-by-layer growth in ZnSe heteroepitaxy on GaAs. ALE growth of ZnSe was performed at 250 °C by alternately supplying Zn and Se for 150 s each, with a short interval of growth interruption (30 s) in between. The beam-equivalent pressures of Zn and Se were both 1.0 27 Torr."
+}

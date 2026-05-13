@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "Ellipsometry",
+    "X-ray Reflectometry (XRR)",
+    "X-ray Diffraction (XRD)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Elastic Recoil Detection (ERD)"
+  ],
+  "evidence": "In situ spectroscopic ellipsometry measurements were performed with a J.A. Woollam M-2000 ellipsometer working in the ultraviolet-visible region and using the COMPLETEEASE software for fitting and data analysis. The final thickness and the optical model parameters were fitted to the measurement acquired after the last cycle. The XRR patterns were analyzed by fitting simulated patterns to the measured ones, yielding not only the film thickness but also the density. In situ x-ray diffraction (XRD) during annealing was performed in a home-built setup. X-ray photoelectron spectroscopy (XPS) analysis was performed on a Thermo Scientiﬁc Theta Probe XPS instrument. Elastic recoil detection (ERD) measurements were carried out using an 8 MeV 35Cl4þ beam."
+}

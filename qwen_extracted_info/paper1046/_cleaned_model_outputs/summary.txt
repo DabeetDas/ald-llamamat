@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2",
+  "process_type": "Catalyzed ALD",
+  "main_precursors": ["SiCl4", "H2O", "pyridine"],
+  "temperature_range": "305 K",
+  "summary": "SiO2 thin films were grown by catalyzed atomic layer deposition (ALD) at low temperatures in a viscous flow reactor using sequential SiCl4 and H2O exposures with pyridine as a catalyst. The growth rate was measured at 305 K with a SiO2 film growth rate of 1.35 Å per SiCl4/H2O AB cycle. The study highlights the importance of pyridine in catalyzing the ALD process and the temperature dependence of the growth rate.",
+  "evidence": "SiO2 thin films were grown by catalyzed atomic layer deposition (ALD) at low temperatures in a viscous flow reactor using sequential SiCl4 and H2O exposures. Pyridine (C5H5N) was used as a catalyst for both reactant exposures. The SiO2 film growth rate was measured at 305 K with a SiO2 film growth rate of 1.35 A˚ per SiCl4/H2O AB cycle."
+}

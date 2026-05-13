@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "300",
+ "pressure": "250 mTorr",
+ "precursor_pulse_time_s": "800",
+ "coreactant_pulse_time_s": "200",
+ "purge_time_s": "100",
+ "number_of_cycles": null,
+ "reactor_type": "showerhead-type",
+ "evidence": "HfO2 films were deposited on the oxidized Si surface by showerhead-type ALD at a temperature of 300 °C. After standard cleaning, an ultrathin SiO2 layer with the thickness of ,1.5 nm was grown by radical-oxygen oxidation by low temperature treatment, prior to the HfO2 deposition. The precursors used for the Hf and the O sources were HfCl4 and H2O, respectively. The source temperatures were 170 °C for HfCl4 and 14.5 °C for H2O. One cycle of ALD-HfO2 growth consisted of an 800 ms pulse of HfCl4, followed by a 200 ms pulse of H2O, each carried by a flow of nitrogen and separated by 100 s. The purge time was extended to eliminate a CVD type of growth. The gas line for the final dose was separated in order to prevent interference by the two gases and the process pressure was 250 mTorr."
+}

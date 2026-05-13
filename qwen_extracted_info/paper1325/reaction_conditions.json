@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD growth of VOx on pentacene involves the reaction of tetrakis(dimethylamino)vanadium (V(dma)4) with water (H2O) to form vanadium oxide (VOx). The surface reaction mechanism includes the adsorption of V(dma)4 and H2O on the pentacene surface, followed by the formation of surface hydroxyl groups and the substitution of V-N bonds with V-O bonds. The process is characterized by a delay in nucleation on pentacene due to the lack of reactive sites, and the subsequent formation of defect states in VOx starting from 0.67 eV below the Fermi level.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "defect states"
+  ],
+  "evidence": "The surface reaction mechanism and intermediate species are discussed in the context of the ALD growth process of VOx on pentacene. The text describes the adsorption of V(dma)4 and H2O on the pentacene surface, the formation of surface hydroxyl groups, and the substitution of V-N bonds with V-O bonds. It also mentions the formation of defect states in VOx starting from 0.67 eV below the Fermi level."
+}

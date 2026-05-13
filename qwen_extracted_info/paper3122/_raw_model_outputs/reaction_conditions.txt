@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the formation of a GeOxNy interface layer through remote plasma nitridation, followed by HfO2 deposition. The annealing processes (forming gas, inert gas, and high-vacuum) affect the chemical states of Ge, with hydrogen annealing promoting GeO2-like bonding and reducing interface state density (Dit). The removal of residual hydroxyl species during hydrogen annealing and the oxidation of the oxynitride layer contribute to the formation of GeO2-like bonding at the interface.",
+  "intermediate_species": ["GeO2", "Ge4+"],
+  "evidence": "The text discusses the formation of GeOxNy through remote plasma nitridation and the effects of annealing on the chemical states of Ge. It mentions the removal of residual hydroxyl species during hydrogen annealing and the oxidation of the oxynitride layer, leading to GeO2-like bonding. The binding energy shifts and photoelectron spectra indicate the presence of Ge4+ oxidation states."
+}<|im_end|>

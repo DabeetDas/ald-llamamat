@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "250",
+  "reactor_type": "F-120",
+  "evidence": "The HfO2 dielectric films were deposited on both chemically treated and nontreated GaAs pieces by 250 cycles of atomic layer deposition process at 150 ° C using H2O and tetrakisdiethylaminohafnium (TDEAH) precursors."
+}

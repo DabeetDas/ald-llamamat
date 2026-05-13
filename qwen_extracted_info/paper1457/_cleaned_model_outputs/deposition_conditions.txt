@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "5",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "3.5",
+  "number_of_cycles": "400",
+  "reactor_type": "Aixtron AIX 200FE AVD",
+  "evidence": "Table 2. Growth Conditions Used for the Deposition of PrAlO x and NdAlOx by Liquid Injection ALD using [LnAl(OPr i)6(PriOH)]2 (Ln ) Pr or Nd) PrAlOx NdAlOx substrate temperature (°C) 180 -350 180 -350 evaporator temperature (°C) 175 175 pressure (mbar) 5 5 injection rate (íL/pulse) 2.5 (4 pulses/cycle) 2.5 (4 pulses/cycle) solvent toluene toluene concentration (M) 0.05 0.05 argon flow (cm 3 min-1) 200 200 pulse sequence (precursor/ purge/water/purge) 2/2/0.5/3.5 2/2/0.5/3.5 no. of cycles 400 400"
+}

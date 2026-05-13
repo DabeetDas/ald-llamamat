@@ -1,0 +1,7 @@
+{
+  "precursors": ["nickel (II) acetylacetonate", "iron (II) acetylacetonate", "cobalt(II)nitrate-hexahydrate", "iron(III)nitrate-nonahydrate", "citric acid", "iron powder"],
+  "coreactants": ["water"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "ALD processes were run with a SUNALE R-150 ALDreactor (Picosun Ltd) with nitrogen as a carrier and purging gas. TiO2-coating was deposited by the TiCl4-waterprocess."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "260",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.015",
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "Ultratech/ Cambridge Nano Tech Fiji 200 ALD",
+  "evidence": "First, a 0.015 sec long pulse of high-purity (99.999%) trimethylgallium ( TMG) was added to a 60 sccm flow of ultra high purity ( UHP) Ar carrier gas via a metalorganic precursor line while 200 sccm of UHP Ar was introduced separately through the plasma source. Then, unreacted TMG and by-products were removed by purging the chamber for 10 sec with UHP Ar."
+}

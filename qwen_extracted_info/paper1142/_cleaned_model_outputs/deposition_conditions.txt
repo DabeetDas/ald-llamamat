@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 160,
+  "pressure": "5.10 - 1 hPa",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 3,
+  "number_of_cycles": 2000,
+  "reactor_type": "SUNALE R-200 ALD reactor",
+  "evidence": "In2(S,O)3 thin films were deposited in a SUNALE R -200 ALD reactor (Picosun Oy.) with a modified 15 cm×15 cm square reaction chamber, on borosilicate glass and Si (100) substrates at the deposition temperature of 160°C. The carrier and purge gas was nitrogen with a purity of 99.9999% (Messer). Gas phase measurements were performed using MKS-Vision 1000C -E Quadrupole Mass Spectrometer (QMS) directly connected to the exhaust line and data was analyzed with Process Eye software. The base pressure of the deposition chamber and all the process line from the exhaust to the QMS is 5.10 - 1 hPa. In2(S,O)3 films were synthesized by ALD supercycle: n*{In(acac)3/N2/H2S/N2 = 0.1/3/0.1/3 s} + 2 *{In(acac)3/N2/O2 plasma/N2 = 0.1/3/7/3 s}, for a total of 2000 cycles with n = 20, 50, corresponding to respectively 9.1, 3.9% of In2O3 cycles, and quoted as 9.1%-In2(S,O)3 and 3.9%-In2(S,O)3."
+}

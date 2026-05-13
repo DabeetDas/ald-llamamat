@@ -1,0 +1,8 @@
+{
+  "target_material": "CeO2/HfO2 gate dielectrics",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["tetrakis(dimethylamino)hafnium (TDMAH)", "tris(isopropylcyclopentadienyl)cerium (Ce(iPrCp)3)"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of CeO2 and Ce-doped HfO2 thin films on Ge substrates using TDMAH and Ce(iPrCp)3 precursors with H2O. The ALD process forms a stable interfacial layer composed of Ge1+ and Ge3+, improving interfacial properties. Ce-doped HfO2 films with various Ce:Hf ratios were prepared, leading to improved electrical properties such as dielectric constant, interface state density, hysteresis, and leakage current density.",
+  "evidence": "We systematically investigated atomic layer deposition (ALD) of HfO2, CeO2 and Ce-doped HfO2 thin films on Ge substrates by using tetrakis dimethylamino hafnium (TDMAH) and tris(isopropylcyclopentadienyl)cerium [Ce(iPrCp)3] precursors with H2O. The growth characteristics, chemical and electrical properties were comparatively characterized. On the basis of X-ray photoemission spectroscopy analyses, it was confirmed that the ALD CeO2 on Ge can form a stable interfacial layer composed of Ge1+ and Ge3+, leading to improved interfacial properties. In addition, Ce-doped HfO2 films with various Ce compositions (Ce:Hf = 1:1, 1:2, 1:4 and 1:8) were prepared by an ALD supercycle process on Ge substrates. Thereby, we demonstrated that overall electrical properties including dielectric constant, interface state density, hysteresis and leakage current density are significantly improved."
+}<|im_end|>

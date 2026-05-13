@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "n½ðK=NaÞOCðCH3Þ3 þ H2O/C138",
+    "m½ðNb=TaÞðOCH2CH3Þ5 þ H2O/C138"
+  ],
+  "surface_mechanism_description": "The net super cycle for all four compounds can be described as n½ðK=NaÞOCðCH3Þ3 þ H2O/C138 þ m½ðNb=TaÞðOCH2CH3Þ5 þ H2O/C138. The pulsing sequence was chosen as to facilitate maximum mixing, i.e., a pulsed net 2:3 ratio was deposited as (K/Na) þ (Nb/Ta) þ (K/Na) þ (Nb/Ta) þ (Nb/Ta).",
+  "intermediate_species": [
+    "alkali metal precursors",
+    "surface hydroxyls",
+    "carbonates"
+  ],
+  "evidence": "The net super cycle for all four compounds can be described as n½ðK=NaÞOCðCH3Þ3 þ H2O/C138 þ m½ðNb=TaÞðOCH2CH3Þ5 þ H2O/C138. The pulsing sequence was chosen as to facilitate maximum mixing, i.e., a pulsed net 2:3 ratio was deposited as (K/Na) þ (Nb/Ta) þ (K/Na) þ (Nb/Ta) þ (Nb/Ta). This effect was seen for the alkali aluminate systems, where the ozone based process resulted in higher carbon contamination due to formation of carbonates."
+}

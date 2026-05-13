@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectometry",
+    "Transmission Electron Microscopy (TEM)",
+    "Rutherford Backscattering Spectrometry (RBS)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Atomic Force Microscopy (AFM)",
+    "Scanning Electron Microscopy (SEM)",
+    "Cyclic Voltammetry (CV)",
+    "Chronoamperometry",
+    "Electrochemical Impedance Spectroscopy",
+    "Energy-Dispersive X-ray Spectroscopy (EDS)"
+  ],
+  "evidence": "Film thickness was measured by X-ray reflectometry (Bruker, D8 Advance), and the film microstructure was examined by transmission electron microscopy (TEM) (Jeol, JEM-2100). Rutherford backscattering spectrometry (RBS) was employed to determine the chemical composition of the films deposited at various temperatures. X-ray photoelectron spectroscopy (XPS) (Thermo Scientific, Escalab 250Xi) was also employed to analyze the film composition. atomic force microscopy (AFM) (Bruker, MultiMode 8) and scanning electron microscopy (SEM) (Zeiss, SUPRA55) were used to examine the film surface morphology. The electrochemical characterizations were carried out on a CHI 660E electrochemical workstation, using a standard three-electrode system. Energy-dispersive X-ray spectroscopy (EDS) was used to examine the compositional change."
+}

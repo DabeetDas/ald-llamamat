@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["TEMAH", "H2O"],
+  "temperature_range": "200 °C",
+  "summary": "The study investigates the interfacial self-cleaning phenomenon during the atomic layer deposition (ALD) of HfO2 on In0.15Ga0.85As substrates using TEMAH and H2O as precursors. The process effectively removes native oxides from the interface, leading to improved electrical properties such as reduced leakage current and Fermi-level unpinning.",
+  "evidence": "An interfacial self-cleaning phenomenon was found in the atomic layer deposition of HfO2 on In0.15Ga0.85As/GaAs substrate using Hf/NCH3C2H5/H208504, i.e., TEMAH, and H2O as the precursors. The native oxides of InGaAs were all satisfactorily removed from the interface through ligand exchange /H20849substitution/H20850reactions with the TEMAH precursor. It relieves the Fermi-level pinning in the HfO2 / InGaAs heterostructure, as verified by the clear transition from accumulation to depletion in high-frequency capacitance-voltage relations and inversion in quasistatic measurement. A very low leakage current was also found from the metal-oxide-semiconductor capacitors of Au/Ti/HfO2 / InGaAs."
+}

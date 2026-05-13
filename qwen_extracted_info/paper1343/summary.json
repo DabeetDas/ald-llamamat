@@ -1,0 +1,10 @@
+{
+  "target_material": null,
+  "process_type": null,
+  "main_precursors": [],
+  "temperature_range": null,
+  "summary": null,
+  "evidence": null,
+  "_error": "ValueError: Could not parse model output as JSON. Preview: 'results obtained in this work demonstrate how substrate biasing during PEALD can be used to achieve topographically selective deposition on 3D substrates. This is in line with the concept of topographically selective deposition proposed by Kim et al. 3 and is also in agreement with the results repor'",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 192, in summariser_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: 'results obtained in this work demonstrate how substrate biasing during PEALD can be used to achieve topographically selective deposition on 3D substrates. This is in line with the concept of topographically selective deposition proposed by Kim et al. 3 and is also in agreement with the results repor'\n"
+}

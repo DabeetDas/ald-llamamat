@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3 (TMA)", "deionized H2O", "Titanium tetraisopropyl oxide (TIP)", "H2O", "ethylenediamine (EDA)", "1,2,3,5-benzenetetracarboxylic anhydride (PMDA)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Deposition of Al2O3 was performed with Al(CH3)3 (TMA) and deionized H2O as precursors at a growth rate of 1.0 Å per cycle and 150 °C. The pulse and purge times for both precursors were 0.1 and 4 s, respectively. Titanium tetraisopropyl oxide (TIP) and H2O were used as precursors for TiO2 coating. Deposition was performed at a growth rate of 0.25 Å per cycle and 150 °C. Pulse and purge times for TIP were 1 and 2 s, respectively. Both times for H2O were 2 s. Deposition of SiO2 was carried out according to reference.28 Polyimide was deposited with ethylenediamine (EDA) and 1,2,3,5-benzenetetracarboxylic anhydride (PMDA) as precursors at a growth rate of 2 Å per cycle and 160 °C."
+}<|im_end|>

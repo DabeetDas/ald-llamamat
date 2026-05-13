@@ -1,0 +1,8 @@
+{
+  "target_material": "Ytterbium oxide (Yb2O3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Yb(thd)3", "ozone"],
+  "temperature_range": "300–350 /C14 C",
+  "summary": "Ytterbium oxide thin films were deposited using atomic layer deposition with Yb(thd)3 and ozone precursors. The process was optimized in the temperature range of 300–350 /C14 C, resulting in polycrystalline BCC structure with a lattice constant of 10.4 A˚. The films showed good uniformity, with thickness variation less than 2% and a refractive index of about 1.9 in the near-IR wavelength region. The study aimed to investigate the surface morphology, optical properties, crystallinity, and impurity concentration of the deposited films.",
+  "evidence": "Yb2O3 thin films were grown onto Si(1 0 0) and glass substrates by atomic layer deposition using Yb(thd)3 and ozone precursors. Self saturating growth appeared when the growth temperature was between 300 and 350 /C14 C. The mass density for the films grown at 300 and 350 /C14 C was found to be 8.9 and 9.0 g/cm3, respectively. The refractive index of the film was about 1.9 at near-IR wavelength."
+}

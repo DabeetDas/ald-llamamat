@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Substitutional doping of In2S3 with V(amd)3 or TEMAV through ALD processes, where V replaces In in the lattice, resulting in VxIn(2−x)S3. The V(amd)3:H2S cycle adds approximately half the mass of an In(amd)3:H2S cycle, suggesting a surface reaction where V(amd)3 replaces In(amd)3 on the sulfhydryl surface. The TEMAV:H2S cycle results in a small mass loss, indicating some In cations may exchange for V cations.",
+  "intermediate_species": ["V(amd)3", "In(amd)3", "V(III) amidinate", "TEMAV"],
+  "evidence": "Substitutional doping with V(amd)3 is shown at 200 °C, though growth is possible from at least 150 to 225 °C. The V(amd)3:H2S cycle typically adds approximately half the mass of an In(amd)3:H2S cycle ( ∼10 ng/cm2 vs 19 ng/cm2; 0.53 V:In ratio), a result that is largely consistent with the mass ratio of V2S3 to In2S3 (0.61 V:In ratio). TEMAV pulses result in a small overall mass loss from the film, suggesting that some of the In cations may exchange for V cations (V is lighter than In) even at a reactor temperature of only 150 °C."
+}

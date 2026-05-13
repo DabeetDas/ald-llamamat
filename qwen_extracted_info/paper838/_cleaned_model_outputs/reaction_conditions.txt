@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The use of a mixed Se/Te source in the isothermal closed space sublimation growth of CdSe epilayers involves the transport of selenium via graphite, which affects the Cd source purity and growth kinetic. The chemical reaction 2CdTe(s) + Se2(g) → 2CdSe(s) + Te2(g) is spontaneous with ΔG = -127.5 kJ/mol at 350°C, leading to a very low composition of tellurium in the epilayer.",
+  "intermediate_species": ["CdTe", "Se2", "CdSe", "Te2"],
+  "evidence": "The chemical reaction: 2CdTe(s) + Se2(g) → 2CdSe(s) + Te2(g), is spontaneous with ΔG = -127.5 kJ/mol (at 350°C). This suggests that selenium is more electronegative than tellurium, and the reaction leads to a very low composition of tellurium in the epilayer grown under the thermodynamic conditions of ICSS."
+}

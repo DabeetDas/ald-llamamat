@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "CH3D + surface -> CH3 + surface",
+    "surface + D2O -> surface + H2O + D",
+    "surface + TMA -> surface + CH3 + AlO"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves the alternate exposure of metal precursors and water. During the metal precursor pulse, the precursor reacts with surface hydroxyl groups, forming a surface-bound monolayer. The subsequent water pulse regenerates surface hydroxyl groups, leading to the formation of volatile byproducts such as CH3D and H2O. The process is self-limiting due to the saturation of surface sites.",
+  "intermediate_species": [
+    "CH3D",
+    "surface hydroxyls",
+    "AlO",
+    "D2O"
+  ],
+  "evidence": "The text describes the ALD process for Al(CH3)3 and D2O, where the main byproducts are CH3D and H2O. It states that the film growth proceeds according to the alternate reactions involving surface hydroxyl groups and the metal precursor, with the formation of volatile byproducts during both TMA and D2O pulses. The reaction mechanism is verified through mass spectrometer data, showing the liberation of CH3D during both TMA and D2O pulses, indicating the surface reactions and the regeneration of hydroxyl groups."
+}

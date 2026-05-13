@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 80,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.4,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 0.5,
+  "number_of_cycles": 1400,
+  "reactor_type": "Microchemistry F-120",
+  "evidence": "Each deposition sequence consisted of: 0.4 s pulse of TiCl4; 0.5 s purge with N2; 0.5 s pulse of H2O; 0.5 s purge with N2. Deposition was continued for 1400 cycles to deposit a film of 100 ± 2 nm thickness (as determined via cross-sectional TEM)."
+}

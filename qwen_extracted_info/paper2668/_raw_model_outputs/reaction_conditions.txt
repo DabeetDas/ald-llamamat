@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "SiCl2(CH3)2 + Si-NHx -> Si-O-Al(CH3)2 + CH4",
+    "CH3I + SiHx -> SiIx + CH4",
+    "Al(CH3)3 + SiClx -> SiCH3 + Al(CH3)x"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves the chemisorption of SiCl2(CH3)2 on an NH3 plasma-terminated surface, leading to the elimination of CH3 groups as CH4. CH3I reacts with SiHx groups to form SiIx species with CH4 as a byproduct. Al(CH3)3 reacts with SiClx groups to form SiCH3 and residual Al(CH3)x groups.",
+  "intermediate_species": [
+    "Si-NHx",
+    "SiIx",
+    "SiCH3",
+    "Al(CH3)x"
+  ],
+  "evidence": "The authors show that both precursors readily react with the silicon surfaces, but neither one provides the appropriate surface termination. CH3I reacts with surface –SiHx (x = 1, 2, 3) to create surface –SiIx (x = 1, 2, 3) species with CH3 as the leaving groups. While Al(CH3)3 reacts with the Cl-terminated Si surface to form a surface –SiCH3 group, residual aluminum remains on the surface as –Al(CH3)x (x = 1, 2) groups that are not completely removed as volatile Al(CH3)xCl3/C0x (x = 1, 2)."
+}<|im_end|>

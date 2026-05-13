@@ -1,0 +1,7 @@
+{
+  "precursors": ["tetrakis(dimethylamido)zirconium", "tetrakis(ethylmethylamido)zirconium", "tetrakis(diethylamido)zirconium", "tetrakis(dimethylamido)hafnium", "tetrakis(ethylmethylamido)hafnium", "tetrakis(diethylamido)hafnium"],
+  "coreactants": ["water"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "Water was used as an oxygen source during these experiments. ... Nitrogen gas was purified using Millipore inert gas purifier model VPMV200SI, rated to reduce water and oxygen to less than 1 ppb each. ... Nitrogen gas flow (constant during the deposition) was directed at the reactor side end of the empty valve to assist in the complete emptying of the vapor space."
+}

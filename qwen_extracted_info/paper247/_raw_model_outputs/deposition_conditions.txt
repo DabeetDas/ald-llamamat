@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "≈5 mbar",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 2,
+  "number_of_cycles": 250,
+  "reactor_type": "F-120",
+  "evidence": "Film Growth: Tin disulfide thin films were deposited using a commercial, hot wall flow-type F120 ALD reactor operating at a pressure of ≈5 mbar. Nitrogen (N 2, AGA, 99.999%) was used as both carrier and purge gas at a flow rate of 400 sccm. Unless otherwise noted, the films were deposited at 150 °C using 1 s Sn(OAc) 4 and 4 s H2S pulses separated by 2 s N 2 purges."
+}<|im_end|>

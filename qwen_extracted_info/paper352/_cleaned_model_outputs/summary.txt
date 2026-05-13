@@ -1,0 +1,8 @@
+{
+  "target_material": "GaInP",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylgallium (TMGa)", "triethylindium (TEIn)", "PH3"],
+  "temperature_range": "480–550°C",
+  "summary": "The study reports on the growth of ordered and disordered GaInP using atomic layer epitaxy (ALE) on GaAs substrates. The process involves alternating exposure to column III precursors (TMGa or TEIn) and column V fluxes (PH3). The self-regulating composition of GaInP was observed, with close lattice-matching to the GaAs substrate. The ALE process allows for precise control at the monolayer level, and the results show that the growth conditions significantly affect the ordering and quality of the material. The study also investigates the optical and structural properties of GaInP/GaAs/GaInP quantum wells.",
+  "evidence": "The text describes the use of atomic layer epitaxy (ALE) to grow GaInP on GaAs substrates, with alternating exposure to column III precursors (TMGa or TEIn) and column V fluxes (PH3). It mentions the self-regulating composition of GaInP, close lattice-matching to the GaAs substrate, and the effect of growth conditions on ordering and quality. The study also includes results on the optical and structural properties of GaInP/GaAs/GaInP quantum wells."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.05,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "ALE",
+  "evidence": "Typical pulse times for DEZn, H2O, and NH3 feeds were 0.15, 0.2, and 0.05 s, respectively, and the purge time between the reactants was 2 s. The substrate temperature was fixed at 150 ° C."
+}<|im_end|>

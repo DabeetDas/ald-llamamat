@@ -1,0 +1,8 @@
+{
+  "target_material": "niobium oxide",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["(tert-butylimido)tris(ethylmethylamido)niobium", "plasma excited humidified argon"],
+  "temperature_range": "26 to 30 °C",
+  "summary": "The study describes the development of room temperature atomic layer deposition (ALD) of niobium oxide using plasma excited humidified argon. The process was designed to achieve anticorrosion properties against hydrochloric acid. The growth per cycle was confirmed to be 0.11 nm, and the deposited niobium oxide film exhibited excellent anticorrosion characteristics.",
+  "evidence": "Room temperature (RT) atomic layer deposition (ALD) of Nb2O5 is developed using (tert-butylimido)tris(ethylmethylamido)niobium and a plasma excited humidified Ar. ... The RT deposited Nb2O5 film exhibits clear anticorrosion to hydrochloric acid. ... The growth per cycle was recorded as 0.11 nm/cycle at RT. The HCl acid immersion test suggests that the RT deposited Nb2O5 film is applicable for the surface protection to HCl acids."
+}

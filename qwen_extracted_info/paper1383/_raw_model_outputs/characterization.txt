@@ -1,0 +1,17 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "X-ray Diffraction (XRD)",
+    "Scanning Electron Microscopy (SEM)",
+    "Transmission Electron Microscopy (TEM)",
+    "Atomic Force Microscopy (AFM)",
+    "Four-point probe",
+    "Ellipsometry",
+    "X-ray Reflectivity (XRR)",
+    "Scanning Tunneling Microscopy (STM)",
+    "High-resolution TEM (HRTEM)",
+    "Fast Fourier Transform (FFT)",
+    "XPS (X-ray Photoelectron Spectroscopy)"
+  ],
+  "evidence": "XRD patterns were collected using an X ’Pert MRD diffractometer (PANalytical) used for identification of materials and crystallinity. SEM analyses using an S-4800 system (Hitachi High Technologies) were performed to observe surface morphologies and measure the thicknesses of Ni films. The resistivities of the Ni films were measured using a four-point probe. Graphene was transferred onto a 20 nm-thick Si3N4 membrane using the transfer process described above, and then TEM analyses were conducted using a JEM-2100F system (JEOL). SEM images of graphene were acquired with a SUPRA 55VP field-emission scanning electron microscope (Carl Zeiss). AFM images were obtained using an NX-10 system (Park Systems). The XPS data were collected using an AXIS-HIS spectrometer (Kratos Inc.) with an X-ray source (Mg Kα, source energy: 1.254 keV, pass energy: 20 eV, step size: 0.1 eV) at a chamber base pressure of 5 × 10−10 bar. Spectra were recorded using a five-channel detector with a hemispherical analyzer (radius: 127 mm). An XPS software package (casa XPS, fitting method: a combination of Gaussian and Lorentzian GL(30)) was used to collect and quantify the data. Sputtering was performed using an argon sputter gun positioned at a 45° angle from the substrate normal. The Ni film was sputtered with Ar ions of 2 keV. During the XPS analysis of the Ni films, Ar-ion etching (300 s) was first performed to exclude surface contamination and to remove native metal oxides, which could be formed by exposure to air."
+}<|im_end|>

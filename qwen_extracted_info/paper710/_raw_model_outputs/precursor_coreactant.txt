@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminium (TMA)", "water", "bis(diethylamido) silane", "Si(NCO) 4", "N(C 2H5)3", "SiCl 4", "dichloro silane (SiH2Cl2)"],
+  "coreactants": ["ozone (O3)"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ALD precursors for Al 2O3 depositions were trimethylaluminium (TMA, SAFC Hitech, electronic grade purity) and water. High purity N 2 (99.9999%) was used as a carrier and purge gas. For SiO 2 depositions the precursors were bis(diethylamido) silane (SAFC Hitech, electronic grade purity) and ozone (20 vol%) produced from oxygen (99.9999%)."
+}<|im_end|>

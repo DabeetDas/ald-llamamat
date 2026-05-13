@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The self-limiting mechanism in ALE is based on the chemical reaction between the surface and the source molecule. The saturation thickness was explained by the manganese-atom density of an inactive surface for the manganese precursor. The self-limiting mechanism is only possible for a specific chemical reaction between the surface and the source molecule. The growth rate saturation was observed when the pulse duration of (MeCp)2Mn or TDMAAs was varied, indicating the self-limiting nature of the growth process.",
+  "intermediate_species": ["(MeCp)2Mn molecule", "TDMAAs molecule", "MnAs(11¯02) surface"],
+  "evidence": "The self-limiting mechanism in ALE is based on the chemical reaction between the surface and the source molecule. The saturation thickness was explained by the manganese-atom density of an inactive surface for the manganese precursor. The self-limiting mechanism is only possible for a specific chemical reaction between the surface and the source molecule. The growth rate saturation was observed when the pulse duration of (MeCp)2Mn or TDMAAs was varied, indicating the self-limiting nature of the growth process."
+}

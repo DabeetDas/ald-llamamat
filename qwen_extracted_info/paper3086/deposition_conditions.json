@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "0.5 and 5.0 Torr",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "A single ALD cycle for HfO2 consisted of the following process: the Hf/N(CH3)/C2H5/ precursor was introduced into the reactor chamber for 20 s, after which it was purged for 30 s. This precursor was introduced using a liquid flowmeter system and vaporized at 120°C with Ar as a carrier gas. Following this, O3 was introduced for 5 s as an oxidant and then purged for 30 s."
+}

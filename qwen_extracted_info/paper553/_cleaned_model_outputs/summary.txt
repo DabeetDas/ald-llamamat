@@ -1,0 +1,8 @@
+{
+  "target_material": "Indium oxide (In₂O₃) doped with zirconium (Zr)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["InCl₃", "ZrCl₄", "water"],
+  "temperature_range": "500 °C",
+  "summary": "Zirconium-doped indium oxide thin films were deposited using atomic layer deposition at 500 °C with InCl₃, ZrCl₄, and water as precursors. The films exhibited a polycrystalline cubic In₂O₃ structure with high transparency and resistivity values ranging from 3.7 to 6.3 × 10⁴ Ω·cm. The study aimed to investigate the effect of zirconium doping on the electrical properties of In₂O₃ films, with the goal of achieving lower resistivity than traditional ITO films.",
+  "evidence": "Zirconium doped indium oxide thin films were deposited by the atomic layer deposition technique at 500 8C using InCl ,3 ZrCl and water as precursors. The films had polycrystalline In O structure. High transparency and resistivity of 3.7 =10 V cmy 4 were obtained."
+}

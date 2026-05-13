@@ -1,0 +1,10 @@
+{
+  "target_material": "Silicon (Si)",
+  "process_type": "Synchrotron-radiation-excited Atomic Layer Epitaxy (SR-ALE)",
+  "main_precursors": [
+    "Disilane (Si2H6)"
+  ],
+  "temperature_range": "Below 350 °C for self-limiting chemisorption; 350 °C for thermal growth",
+  "summary": "The study investigates the mechanism of silicon crystal growth through synchrotron-radiation-excited atomic layer epitaxy (SR-ALE). The process involves the self-limiting chemisorption of disilane (Si2H6) on a partially hydrogen-covered surface, followed by photon-stimulated desorption of hydrogen atoms, which regenerates dangling bonds. The saturation coverage of Si adlayers was found to be 0.42 monolayers (ML), and the growth rate was observed to be 0.18 ML/cycle below 350 °C. The study highlights the role of hydrogen desorption in the growth process and the effects of temperature and irradiation on the growth kinetics.",
+  "evidence": "The saturation coverage of Si admolecules resulting from self-limiting chemisorption of disilane was found to be 0.42 monolayer (ML), and the ejection of H+ and H2+ ions was observed by time-of-flight mass spectroscopy. The onset temperature of thermal growth (350 °C) is the same as that of H2 desorption from the dihydride species. Below 350 °C, a digital growth of 0.18 ML/cycle occurs over a wide range of gas exposure times, irradiation times, and substrate temperatures."
+}

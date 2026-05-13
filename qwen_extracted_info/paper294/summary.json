@@ -1,0 +1,11 @@
+{
+  "target_material": "Al 2O3–TiO2 bilayer",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Trimethylaluminum (TMA)",
+    "Titanium isopropoxide (TIP)"
+  ],
+  "temperature_range": "250–450 °C for Al 2O3, 325 °C for TiO2",
+  "summary": "The study investigates the formation of an Al2O3–TiO2 bilayer using atomic layer deposition (ALD) for application in DRAM capacitors. The effects of oxidants and post-heat treatment on the deposition of Al2O3 and TiO2 were analyzed. The results showed that the bilayer improved charge storage capacitance without increasing leakage current, making it a viable dielectric material for DRAM applications.",
+  "evidence": "The charge storage capacitance, measured from the A TO bilayer (4 nm Al2O3 and 2 nm TiO2) deposited at 450 °C for Al2O3 and 325 °C for TiO2 with O3 oxidant on the phosphine-doped poly silicon trench, showed about 15% higher value than that of 5 nm Al2O3 single layer thin film without any increase of leakage current."
+}

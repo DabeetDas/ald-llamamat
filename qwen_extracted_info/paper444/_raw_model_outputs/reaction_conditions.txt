@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "In the CVD-like ALE of ZnSe using DMZn and H,Se (i.e., when none of the source gases are pre-cracked), the reaction to form ZnSe can take place when the group-II source (i.e., DMZn) is supplied, resulting in an alternate appearance of Zn-terminated and H,Se-terminated surfaces during growth. On the other hand, the reaction to form CdSe can take place when a group-VI source (i.e., H,Se) is supplied, resulting in an alternate appearance of Se-terminated and DMCd-terminated surfaces during growth.",
+  "intermediate_species": ["DMZn", "H,Se", "DMCd", "Zn-terminated", "H,Se-terminated", "Se-terminated", "DMCd-terminated"],
+  "evidence": "In the CVD-like ALE of ZnSe using DMZn and H,Se (i.e., when none of the source gases are pre-cracked), the reaction to form ZnSe can take place when the group-II source (i.e., DMZn) is supplied, resulting in an alternate appearance of Zn-terminated and H,Se-terminated surfaces during growth. On the other hand, the reaction to form CdSe can take place when a group-VI source (i.e., H,Se) is supplied, resulting in an alternate appearance of Se-terminated and DMCd-terminated surfaces during growth."
+}<|im_end|>

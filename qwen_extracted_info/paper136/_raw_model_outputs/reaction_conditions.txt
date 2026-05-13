@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Hf(OH)2* + Hf(mp)4 → HfO2 + Hf(mp)2* + 2 mpH",
+    "Hf(mp)2*+2H2O → Hf(OH)2* + 2 mpH"
+  ],
+  "surface_mechanism_description": "The self-limiting ALD process involves the alternate surface reactions of Hf(mp)4 and H2O. The reaction is divided into two half-reactions where Hf(mp)4 reacts with surface hydroxyl groups to form HfO2 and surface species Hf(mp)2*, and then Hf(mp)2* reacts with water to regenerate surface hydroxyl groups and release mpH.",
+  "intermediate_species": [
+    "Hf(OH)2*",
+    "Hf(mp)2*",
+    "mpH"
+  ],
+  "evidence": "The expected AB binary reaction for the deposition of HfO2, [Hf(mp)4 + 2H2O → HfO2 + 4 mpH] can be separated into the following (tentative) two half-reactions, where the asterisks designate the surface species. Hf(OH)2* + Hf(mp)4 → HfO2 + Hf(mp)2* + 2 mpH (A) Hf(mp)2*+2H2O → Hf(OH)2* + 2 mpH (B)"
+}<|im_end|>

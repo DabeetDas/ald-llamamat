@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "CuCl + H2 -> Cu(s) + 2 HCl"
+  ],
+  "surface_mechanism_description": "The deposition of copper from copper chloride involves the reduction of adsorbed copper chloride by hydrogen, leading to the formation of metallic copper and the release of hydrogen chloride. The process is rate-determining due to the reaction between hydrogen and the adsorbed copper chloride.",
+  "intermediate_species": [
+    "adsorbed copper chloride",
+    "hydrogen chloride"
+  ],
+  "evidence": "The reaction of hydrogen with the adsorbed copper chloride was the rate-determining step, with an estimated activation energy of 80 kJ mol-1. The process involves the reduction of copper chloride by hydrogen, leading to the formation of metallic copper and the release of hydrogen chloride."
+}<|im_end|>

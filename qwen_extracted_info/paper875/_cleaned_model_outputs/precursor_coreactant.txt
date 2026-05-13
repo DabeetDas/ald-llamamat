@@ -1,0 +1,7 @@
+{
+  "precursors": ["La[N(TMS)2]3"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The precursor reagent stream originated by flowing 100 sccm of Ar carrier gas over a quartz open-boat type reservoir containing the lanthanum precursor. The moisture reagent stream originated by flowing dinitrogen through a bubbler at room temperature. The lanthanum precursor pulse width was 3 s followed by a 5 s N2 purge, while the moisture pulse width was 0.8 s, followed by a 20 s N2 purge."
+}

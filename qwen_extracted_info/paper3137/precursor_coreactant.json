@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "bis(tri-n-butylphosphane)copper(I)acetylacetonate"
+  ],
+  "coreactants": [
+    "wet O2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "During processing, it was evaporated by a Bronkhorst liquid delivery system with Ar as carrier gas (flow rate 700 sccm)."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of TMA (tetrakis-ethylmethylamino hafnium) and water vapour on the substrate, followed by their reaction to form HfO2. The process is self-limiting, with the growth rate of 0.082 nm/cycle, indicating monolayer formation. The presence of residual water vapour during the TMA pulse affects the self-limiting growth, and increasing the nitrogen purge time improves uniformity.",
+  "intermediate_species": ["TEMAH (tetrakis-ethylmethylamino hafnium)", "surface hydroxyls", "residual water vapour"],
+  "evidence": "The text describes the ALD process using TEMAH and water vapour as precursors, with the formation of HfO2 through surface reactions. It mentions the self-limiting monolayer growth, the effect of residual water vapour, and the optimization of purge times to improve uniformity. The presence of residual water vapour reacting with incoming hafnium precursor is noted, indicating the surface reaction mechanism."
+}

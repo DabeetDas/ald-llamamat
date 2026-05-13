@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "WH2(iPrCp)2"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The WO3 films were deposited onto SiO2/Si substrates using a newly synthesized precursor, WH2(iPrCp)2, and O2 plasma at a 300°C growth temperature. The temperature of the bubbler containing WH2(iPrCp)2 was kept at 95 °C for adequate vapor pressure, and vaporized WH2(iPrCp)2 molecules were carried into the chamber by pure argon (99.999 %) carrier gas. The O2 flow and plasma power were fixed at 300 sccm and 200 W, respectively. An ALD cycle consists of four steps: WH2(iPrCp)2 precursor exposure (ts), Ar purging (tp), O2 plasma reactant exposure (tr), and another Ar purging (tp)."
+}

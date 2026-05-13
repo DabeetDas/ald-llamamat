@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150 and 250",
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 0.6,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 4,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type ALD-reactor",
+  "evidence": "The films were deposited at 150 and 250 °C on glass, silicon, and platinum substrates. Growth rate of the films was 0.19 nm per cycle with a 0.6 s pulse length for tantalum ethoxide and 3 s for oxygen radicals. The reactor operates at 1 mbar pressure. Argon (AGA, 99.98%) was used as the carrier and purge gas..."
+}<|im_end|>

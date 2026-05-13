@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "Al(CH3)3 (TMA)",
+    "H2O"
+  ],
+  "temperature_range": "100 8C",
+  "summary": "The study describes the fabrication of ZnO/Al2O3 core–shell nanostructures using atomic layer deposition (ALD) at low temperature (100 8C) to deposit an alumina shell on ZnO nanowires. The ALD process involves sequential exposures of TMA and H2O to grow the alumina shell, which is then crystallized and the ZnO core is removed to form hollow Al2O3 nanotubes. These nanotubes have potential applications in optical transmission, nanoreactors, drug delivery, and nanoﬂuidic channels.",
+  "evidence": "The ALD technique can be used to deposit nanometer range and conformal films even on very high aspect ratios nanostructures. Sequential exposures of Al(CH3)3 (TMA) and H2O at 100 8C were used to deposit alumina thin films on the ZnO nanowires. The core–shell nanostructures were annealed at 800 8C for 3 h first making the alumina crystalline. The ZnO core could be removed in water after 1–2 days or ammonia solution. The alumina shell layer growth proceeds according to two self-limiting surface reactions."
+}

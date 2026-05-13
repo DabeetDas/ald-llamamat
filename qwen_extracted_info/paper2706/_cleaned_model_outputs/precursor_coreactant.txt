@@ -1,0 +1,7 @@
+{
+  "precursors": ["Pb(DMAMP)2", "TDMAT"],
+  "coreactants": ["H2O", "ozone"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Pb(DMAMP)2 heated to 90 °C and TDMAT heated to 85 °C in stainless steel ampoules were used as the lead and titanium cation precursors, respectively. Demineralized H2O at ambient temperature and ozone were both used as oxidizers. The purge flow was used to provide a diffusion barrier to prevent deleterious chamber wall deposition and to serve as a carrier gas for the precursors."
+}

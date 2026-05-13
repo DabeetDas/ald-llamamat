@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "GaCI"
+  ],
+  "coreactants": [
+    "H2"
+  ],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [
+    "H2"
+  ],
+  "evidence": "The text states: 'GaC1 was formed by the reaction between Ga metal and HC1 gas upstream of the reactor. ... The growth was carried out by using DEGaC1 and AsH3 under the H2 carrier gas in a hot wall reactor. ... The Ga surface was prepared by supplying TEGa, where the duration of TEGa supply was carefully controlled to cover the surface with one monolayer of Ga by the decomposition of TEGa.'"
+}

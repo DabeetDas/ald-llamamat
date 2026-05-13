@@ -1,0 +1,13 @@
+{
+  "target_material": "GaN nanowires",
+  "process_type": "ALD",
+  "main_precursors": [
+    "trimethylaluminium (Al2(CH3)6)",
+    "titanium tetrachloride (TiCl4)",
+    "water",
+    "silane (SiCl4)"
+  ],
+  "temperature_range": "120 °C",
+  "summary": "The study explores the use of atomic layer deposition (ALD) to functionalize GaN nanowires for enhanced immobilization of biomolecules. ALD coatings of Al2O3, TiO2, and SiO2 were applied, and their effectiveness in increasing OH content and protein attachment was compared to piranha-treated surfaces. The results showed that ALD-SiO2 provided the highest OH content and protein attachment, making it a promising functionalization strategy for nanobiosensors.",
+  "evidence": "Results from FTIR showed that the OH contents of these coatings were, respectively, ∼6.9, ∼7.4, and ∼9.3 times that of piranha-treated GaN NW. Furthermore, the fluorescent imaging showed that the protein attachments on the Al2O3, TiO2, and SiO2 ALD coatings were, respectively, 6.4, 7.8, and 9.8 times that of piranha-treated surface."
+}

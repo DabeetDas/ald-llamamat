@@ -1,0 +1,7 @@
+{
+  "substrate_material": "GaAs",
+  "substrate_orientation": "(100)",
+  "pretreatment": "H2SO4:H2O2:H2O = 5:1:1 for GaAs and HF:H2O = 1:10 for Si",
+  "surface_functionalization": "",
+  "evidence": "In this work, ( 100)-oriented GaAs and Si substrates were used. All GaAs substrates must be carefully cleaned with H2SO4:H2O2:H2O = 5:1:1 and the Si substrates must be carefully cleaned with HF:H2O = 1:10 before deposition."
+}

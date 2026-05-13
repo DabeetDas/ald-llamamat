@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "A W-SiHyF* z 1 WF6(g)! W-WF* x 1 SiHaFb(g) (1)",
+    "B WF* x 1 Si2H6(g)! W-SiHyF* z 1 2H2(g) 1 SiHaFb(g) (2)"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the sequential exposure of WF6 and Si2H6 in an ABAB sequence. The Si2H6 reactant serves a sacrificial role to strip fluorine from tungsten without incorporating into the film. The WF6 half-reaction proceeds to completion, producing W-WF* species, while the Si2H6 half-reaction generates SiHyF* species. These species are then removed in subsequent cycles, ensuring self-limiting surface chemistry.",
+  "intermediate_species": [
+    "W-SiHyF*",
+    "WF*",
+    "SiHyF*",
+    "SiHaFb"
+  ],
+  "evidence": "The text describes the surface reactions as follows: 'A W-SiHyF* z 1 WF6(g)! W-WF* x 1 SiHaFb(g) (1)' and 'B WF* x 1 Si2H6(g)! W-SiHyF* z 1 2H2(g) 1 SiHaFb(g) (2)'. It also states, 'The Si2H6 reactant serves a sacrificial role to strip fluorine from tungsten without incorporating into the film.'"
+}

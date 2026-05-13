@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["ZrCl4", "H2O"],
+  "temperature_range": "250 to 450 8C",
+  "summary": "The study focuses on the synthesis of ZrO2 thin films using atomic layer deposition (ALD) with ZrCl4 and H2O as precursors. The process involves sequential chemical vapor deposition, allowing for the formation of dense and homogeneous films. The growth kinetics, structural, and electrical properties of the films are analyzed, with a particular emphasis on the temperature-dependent behavior of the ALD process. The films are deposited on soda lime glass and SnO2-coated glass, and the study aims to optimize the deposition process and analyze the growth kinetics as a function of temperature.",
+  "evidence": "Ultra thin films of ZrO2 were synthesized on soda lime glass and SnO2-coated glass, using ZrCl4 and H2O precursors by atomic layer deposition (ALD), a sequential CVD technique allowing the formation of dense and homogeneous films. The effect of temperature on the film growth kinetics shows a first temperature window for ALD processing between 280 and 3508C and a second regime or 'pseudo-window' between 380 and 4008C, with a growth speed of about one monolayer per cycle."
+}<|im_end|>

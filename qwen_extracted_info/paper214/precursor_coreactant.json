@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "NiCl2(TMPDA)",
+    "tert-butylhydrazine"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The Ni3N process was studied using NiCl2(TMPDA) and TBH as the metal precursor and reducing agent. The precursor was sublimed under reduced pressure, and the carrier and purge gas was nitrogen. The TBH source temperature was empirically found to yield an appropriate consumption in the Cu process."
+}

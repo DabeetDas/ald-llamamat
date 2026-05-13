@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 289,
+  "density_g_cm3": 22.4,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The density of iridium is 22.4 kg/dm³, which translates to an atomic density of 7.018 × 10²⁸ atoms/m³. From this the thickness of a monolayer (ML) [(7.018 × 10²⁸)/1 m³]¹/³ = 2.42 Å. The growth rate in the Ir(acac)3/C0 O3 process is 1/5.3 ML/cycle. As 4.3 oxygen atoms are adsorbed per one iridium atom deposited (reaction 3), this corresponds to 4.3/5.3 ML which is about 80% of the saturation coverage of dissociatively chemisorbed O2."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["tetrakis(ethylmethylamino)hafnium (TEMAHf)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The HfO2 depositions were performed in a homebuilt ALD reactor. The hot-wall flow-tube reactor was computer-controlled via a Labview routine. The modular metallorganic precursor delivery system was placed in an oven to ensure uniform heating of all surfaces and lines. TEMAHf and H2O were used as the precursors, and the depositions were performed at 250°C with 30 s purge time between the reagent pulses."
+}

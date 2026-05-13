@@ -1,0 +1,8 @@
+{
+  "target_material": "CdMnTe and CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Cd", "Te", "Mn", "Mg"],
+  "temperature_range": "260–290 °C",
+  "summary": "The study describes a self-regulated atomic layer epitaxy (ALE) process for growing tilted superlattices of CdMnTe and CdTe. The process utilizes surface reconstructions to achieve a self-regulated growth rate of 0.5 monolayers per cycle at 280 °C, overcoming challenges in flux control. The self-regulated growth allows for the formation of tilted superlattices with controlled composition and structure.",
+  "evidence": "Under certain conditions, CdTe atomic layer epitaxy is self-regulated at 0.5 monolayer (ML) deposited per ALE cycle (exposure to Cd, growth interruption, exposure to Te, growth interruption), this for substrate temperatures between 260 and 290 °C. The self-regulated regime at 0.5 ML/cycle for both CdTe and CdMn (Mg)Te, (CdTe)0.5(CdMn(Mg)Te)0.5 tilted superlattices could be achieved provided that growth occurs by step flow onto the vicinal surfaces used."
+}<|im_end|>

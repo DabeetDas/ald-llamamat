@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "InCp + 1/2H2O + 1/2O2 → InO1.5 + HCp"
+  ],
+  "surface_mechanism_description": "H2O serves the function of releasing ligands from the surface while O2 performs the role of oxidizing the indium. Since both processes are necessary for sustained growth, both O2 and H2O are required for the In2O3 ALD.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "cyclopentadiene",
+    "monomethyl aluminum",
+    "indium in low oxidation state (e.g., +1)"
+  ],
+  "evidence": "In situ QCM and QMS measurements revealed an In2O3 growth mechanism in which H2O serves the function of releasing ligands from the surface while O2 performs the role of oxidizing the indium. The In2O3 ALD occurs according to the following overall reaction: InCp + 1/2H2O + 1/2O2 → InO1.5 + HCp. Equation 1 can be divided into the following three steps: (A) InCp + (OH) → (O)xIn(Cp)1-x + xHCp, (B) (O)xIn(Cp)1-x + 1/2H2O → (O)0.5In(OH) + (1-x)HCp, (C) (O)0.5In(OH) + 1/2O2 → (O)1.5In(OH)."
+}

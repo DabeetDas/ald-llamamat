@@ -1,0 +1,22 @@
+{
+  "precursors": [
+    {
+      "name": "Cu(OAc)2",
+      "evidence": "ABSTRACT: Herein, we report an atomic layer deposition (ALD) process for Cu 2O thin ﬁlms using copper(II) acetate [Cu(OAc) 2] and water vapor as precursors."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "H2O",
+      "evidence": "ABSTRACT: Herein, we report an atomic layer deposition (ALD) process for Cu 2O thin ﬁlms using copper(II) acetate [Cu(OAc) 2] and water vapor as precursors."
+    }
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    {
+      "name": "N2",
+      "evidence": "MATERIALS AND METHODS: Nitrogen (AGA, 99.999%, O 2 ≤ 3 ppm, H2O ≤ 3 ppm) was used as both carrier and purging gas at a flow rate of 400 sccm."
+    }
+  ],
+  "evidence": "ABSTRACT: Herein, we report an atomic layer deposition (ALD) process for Cu 2O thin ﬁlms using copper(II) acetate [Cu(OAc) 2] and water vapor as precursors."
+}

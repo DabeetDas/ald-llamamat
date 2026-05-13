@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250 -250",
+  "pressure": "",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": "2, 5, and 10",
+  "reactor_type": "warm wall reactor",
+  "evidence": "Following a recipe from ref 15, we deposited Pt in CAs by ALD using the (methylcyclopentadienyl)-trimethylplatinum (MeCpPtMe3, Strem Chemical Co)/oxygen (dry air) ALD process in a warm wall reactor with a wall temperature of 125 °C and a stage temperature of 320 °C. A single ALD cycle consisted of a 20 min MeCpPtMe3 pulse followed by a 10 min N2 purge, a 10 min dry air pulse, and a 10 min N2 purge."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2, Al2O3, HfAlOx",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["HfCl4", "Al(CH3)3", "H2O"],
+  "temperature_range": "300 ◦C",
+  "summary": "The study focuses on the characterization of high-k dielectrics using vacuum UV spectroscopic ellipsometry (VUVSE) and X-ray reflectometry (XRR). The materials investigated include HfO2, Al2O3, and mixed HfAlOx layers deposited by atomic layer deposition (ALD) using alternating pulses of HfCl4, Al(CH3)3, and H2O at 300 ◦C. The research highlights the importance of VUVSE in determining the optical properties, thickness, and composition of these materials, as well as their structural behavior and crystallinity. The study also demonstrates the effectiveness of the combined VUVSE/XRR system in providing accurate and non-destructive characterization of these materials for potential use in next-generation gate dielectrics.",
+  "evidence": "HfO2, Al2O3 and HfAlOx layers have been deposited at IMEC by atomic layer deposition (ALD) with alternating pulses of HfCl4, Al(CH3)3 and H2O at 300 ◦C."
+}<|im_end|>

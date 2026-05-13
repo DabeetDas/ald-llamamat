@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100",
+  "pressure": "1-2 Torr",
+  "precursor_pulse_time_s": "0.07",
+  "coreactant_pulse_time_s": "20",
+  "purge_time_s": "20",
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall stainless viscous flow tubular reactors",
+  "evidence": "Deposition was performed using TMA/Ar/H2O/Ar = 0.07/20/0.07/20 s and a set point temperature of 100 /C176 C."
+}

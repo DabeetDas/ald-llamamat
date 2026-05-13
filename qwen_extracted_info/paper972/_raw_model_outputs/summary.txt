@@ -1,0 +1,8 @@
+{
+  "target_material": "BaTiO3",
+  "process_type": "Plasma-enhanced ALD",
+  "main_precursors": ["Ba(iPr3Cp)2", "Ti(OCH(CH3)2)4 (TTIP)"],
+  "temperature_range": "250–300 /C176C",
+  "summary": "The study reports the successful deposition of high-k BaTiO3 thin films using plasma-enhanced atomic layer deposition (PEALD). The process involves the use of Ba(iPr3Cp)2 and Ti(OCH(CH3)2)4 (TTIP) as precursors, with a temperature range of 250–300 /C176C. The PEALD process results in more uniform and denser films with improved crystallinity and lower leakage current compared to thermal ALD. The electrical performance of the films is shown as a function of the Ba-to-Ti ratio, with slightly Ti-rich films showing the lowest equivalent oxide thickness.",
+  "evidence": "We report the successful deposition of high-k BTO thin films by PEALD. The use of high-k thin films that exhibit a low leakage current is essential in realizing DRAM capacitors... The BTO films with different cation composition ratios ([Ti]/([Ba] + [Ti]) = 0.26–0.76) were fabricated by alternately depositing one BaO cycle and several TiO2 cycles... The deposition at 250 /C176C is appropriate to sustain thermal stability of the Ti alkoxide-type precursor, TTIP... The electrical properties of PEALD BTO showed a strong dependence upon the Ba-to-Ti cation ratio ([Ti]/([Ba] + [Ti]))."
+}<|im_end|>

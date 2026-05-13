@@ -1,0 +1,22 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + Si-OH -> Si-O-Al(CH3)2 + CH4",
+    "Si-O-Al(CH3)2 + NH3 -> Si-O-Al(CH3)NH2 + CH4",
+    "Si-O-Al(CH3)NH2 + NH3 -> Si-O-Al(NH2)2 + CH4",
+    "Si-O-Al(NH2)2 + NH3 -> Si-O-Al(NH2)3 + NH2"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites. Ammonia reacts with methyl groups on TMA-modified silica, leading to the formation of amino groups and the release of methane. The reaction proceeds through dissociation of TMA on siloxane bridges, forming surface Si-CH3 groups. At higher temperatures, the reaction with siloxane bridges leads to the formation of Si-NH2 groups and the removal of methyl groups.",
+  "intermediate_species": [
+    "Al-OH*",
+    "Si-OH*",
+    "Al-CH3*",
+    "Si-CH3*",
+    "Al-NH2*",
+    "Si-NH2*",
+    "Al-NH2*",
+    "Al-NH2*",
+    "Al-NH2*",
+    "Al-NH2*"
+  ],
+  "evidence": "The reaction of TMA on silica involves ligand exchange with hydroxyl groups and dissociation on siloxane bridges. Ammonia reacts with methyl groups on TMA-modified silica, leading to the formation of amino groups and the release of methane. The reaction proceeds through dissociation of TMA on siloxane bridges, forming surface Si-CH3 groups. At higher temperatures, the reaction with siloxane bridges leads to the formation of Si-NH2 groups and the removal of methyl groups. The reaction of ammonia with TMA-modified silica leads to the formation of amino groups and the release of methane. The reaction mechanism involves ligand exchange between TMA and surface hydroxyl groups, followed by water pulse to regenerate OH sites. The reaction of ammonia with TMA-modified silica leads to the formation of amino groups and the release of methane. The reaction proceeds through dissociation of TMA on siloxane bridges, forming surface Si-CH3 groups. At higher temperatures, the reaction with siloxane bridges leads to the formation of Si-NH2 groups and the removal of methyl groups."
+}<|im_end|>

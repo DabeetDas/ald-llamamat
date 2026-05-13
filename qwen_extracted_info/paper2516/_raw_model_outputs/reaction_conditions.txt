@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption and reaction of Zr(OtC4H9)4 and SiCl4 on the substrate surface. The high reactivity between the chlorine of SiCl4 and the O-tert-butyl group of Zr(OtC4H9)4 allows for lower deposition temperatures compared to ZrCl4 and TBOS. The physisorbed SiCl4 can either desorb back to the gas phase or react with a hydroxyl group on the surface. The model predicts that only about 1 out of 106 physisorbed SiCl4 molecules will react with hydroxy groups at 600 K.",
+  "intermediate_species": ["physisorbed SiCl4", "hydroxyl groups", "zirconium oxide"],
+  "evidence": "According to a precursor-mediated adsorption model, the physisorbed SiCl4 can either desorb back to the gas phase or react with a hydroxy group on the surface. Given reaction activation energy between SiCl4 and a hydroxy group, the model predicts that only about 1 out of 106 physisorbed SiCl4 molecules will react with hydroxy groups at 600 K. The high reactivity between the chlorine of SiCl4 and the O-tert-butyl group of Zr(OtC4H9)4 allows for lower deposition temperatures compared to ZrCl4 and TBOS."
+}<|im_end|>

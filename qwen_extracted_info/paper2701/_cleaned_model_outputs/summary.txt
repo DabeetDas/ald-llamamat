@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["(tBuN)2(NMe2)2Mo", "H2S-Ar plasma"],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the effect of different substrates on the growth and properties of MoS2 thin films using plasma-enhanced atomic layer deposition (PEALD). The films are deposited using (tBuN)2(NMe2)2Mo and a remote H2S-Ar plasma at 250 °C on substrates such as thermal oxide on silicon, c-plane sapphire, and epitaxial c-plane GaN on sapphire. The research highlights the impact of substrates on the crystallinity, surface morphology, and film quality of MoS2, with GaN and Al2O3 showing improved crystallinity compared to thermally oxidized silicon. The study also demonstrates the ability to achieve atomic-level thickness control and uniform film growth.",
+  "evidence": "Plasma-enhanced atomic layer deposition was used to grow molybdenum disulﬁde ﬁlms using (tBuN)2(NMe2)2Mo and a remote H2S-Ar plasma as coreactants on three different substrates: thermal oxide on silicon, c-plane sapphire, and epitaxial c-plane GaN on sapphire. Depositions were carried out at 250 °C. The substrates ’ effect on the growth of MoS2 was investigated through resonance Raman spectroscopy, x-ray photoelectron spectroscopy, and atomic force microscopy. Films of 2H-MoS2 were deposited with atomic-level control of thickness under the deposition conditions studied. By analyzing the resonance Raman spectrum, it was found that higher degrees of crystallinity could be achieved on GaN or Al2O3 substrates compared to thermally oxidized silicon."
+}

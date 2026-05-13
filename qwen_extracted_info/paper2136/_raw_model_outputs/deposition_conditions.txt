@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "30",
+  "reactor_type": "F-120",
+  "evidence": "Al2O3 thin films were deposited by ALD on the substrates using an F-120 reactor from ASM Microchemistry Ltd. Trimethylaluminum and water vapor (H2O) were used as the chemical precursors to provide Al and O to the growing surface, respectively. The precursors are alternately fed into the reactor, using pure N2 as a carrier gas. In order to avoid gas phase reactions caused by intermixing the precursors, the reactor was also purged with pure N2 gas after each precursor pulse. The deposition temperature was fixed at 300 ° C. Thirty cycles were carried out to form about 3 nm Al2O3 films."
+}<|im_end|>

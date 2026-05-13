@@ -1,0 +1,8 @@
+{
+  "target_material": "Iron phosphate",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["trimethyl phosphate (TMP)", "O2", "tert-butylferrocene (TBF)"],
+  "temperature_range": "300 °C",
+  "summary": "A plasma-enhanced atomic layer deposition (PEALD) process was developed to deposit iron phosphate as a positive electrode for 3D lithium-ion microbatteries. The process uses a sequence of trimethyl phosphate (TMP) plasma, O2 plasma, and tert-butylferrocene (TBF) exposures. The process was optimized at 300 °C with saturated pulse times, achieving a high growth per cycle (GPC) of 1.1 nm/cycle. The resulting amorphous films have an empirical stoichiometry of FeP1.5O4.7 with 0.9% hydrogen and no detectable carbon residue. Annealing in air forms trigonal FePO4, while annealing in helium results in elemental phosphorus. The conformal deposition allows for high capacity in 3D-structured substrates.",
+  "evidence": "A new plasma-enhanced atomic layer deposition process was developed to deposit iron phosphate by using a sequence of trimethyl phosphate (TMP, Me3PO4) plasma, O2 plasma, and tert-butylferrocene (TBF, Fe(C5H5)(C5H4C-(CH3)3)) exposures. At a substrate temperature of 300 °C and using saturated pulse times, an exceptionally high GPC of 1.1 nm/cycle without nucleation delay was achieved, resulting in amorphous films with an empirical stoichiometry of FeP1.5O4.7 with 0.9% hydrogen and no detectable carbon residue. Trigonal FePO4 (Berlinite) was formed upon annealing in air. The conformal deposition of the same material on a 3D-microstructured substrate consisting of Pt-coated Si micropillars, the capacity could be drastically increased without sacrificing rate performance."
+}

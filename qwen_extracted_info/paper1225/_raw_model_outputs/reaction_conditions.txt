@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "SnO2 + 4Li + 4OH- ⇌ 2Li2O + Sn",
+    "Sn + 4Li + 4OH- ⇌ Li4Sn + 4H2O",
+    "SnN2 + 12Li + 12OH- ⇌ 4Li3N + 3Sn"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the conversion of SnO2 and SnNy into Sn and their respective oxides/nitrides with Li. The SnNy anodes show a more stable reaction mechanism with less capacity loss over cycles due to the replacement of O with N, which enhances the electrochemical stability and reversibility.",
+  "intermediate_species": [
+    "Li2O",
+    "Li3N",
+    "Sn particles",
+    "surface hydroxyls",
+    "methyl ligands"
+  ],
+  "evidence": "The text describes the electrochemical reactions of SnO2 and SnNy with Li, including the formation of Li2O and Li3N. It also mentions the role of surface hydroxyls and methyl ligands during the ALD process. The replacement of O with N in SnNy is noted to improve stability and reduce capacity loss."
+}<|im_end|>

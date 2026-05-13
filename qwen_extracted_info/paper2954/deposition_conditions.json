@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "3.0 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5.0",
+  "number_of_cycles": null,
+  "reactor_type": "Geni-tech",
+  "evidence": "In the PEALD process, the rf power was 300 W. In addition, plasma was only activated during the injection of the reactant gas for 0.5 s out of one 5.0 s cycle time."
+}

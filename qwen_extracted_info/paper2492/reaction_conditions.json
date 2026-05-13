@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The formation of Ga–O bonding at the interface is reduced in HfAlO on p-GaAs, attributed to the suppression of Ga out-diffusion or oxidation at the interface. The reduction of Ga xOy and As xOy at the interface is key for the formation of high-quality high-κ gate dielectrics on GaAs substrates. The interfacial oxide growth process leads to the formation of Ga2O3, while the oxide-desorption process includes reactions like As2O5 → As2O3 + O2 and As2O3 + GaAs → Ga2O3 + As.",
+  "intermediate_species": [
+    "Ga–O",
+    "As–O",
+    "Ga2O3",
+    "As2O3",
+    "As2O5",
+    "Ga xOy",
+    "As xOy"
+  ],
+  "evidence": "The formation of Ga–O bonding at the interface is reduced in HfAlO on p-GaAs, attributed to the suppression of Ga out-diffusion or oxidation at the interface. The reduction of Ga xOy and As xOy at the interface is key for the formation of high-quality high-κ gate dielectrics on GaAs substrates. The interfacial oxide growth process leads to the formation of Ga2O3, while the oxide-desorption process includes reactions like As2O5 → As2O3 + O2 and As2O3 + GaAs → Ga2O3 + As."
+}

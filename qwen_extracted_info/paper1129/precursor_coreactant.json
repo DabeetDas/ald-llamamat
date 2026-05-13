@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "IMBCHRu"
+  ],
+  "coreactants": [
+    "N2/H2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Ru precursor was vaporized in a bubbler at a temperature of 100 °C and carried into the process chamber by Ar gas at 50 standard cubic centimeters per minute (sccm)."
+}

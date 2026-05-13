@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "120",
+  "pressure": "1.3 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 6,
+  "purge_time_s": 30,
+  "number_of_cycles": 527,
+  "reactor_type": "viscous flow reactor",
+  "evidence": "The Mo ALD nucleation and growth studies in the viscous-flow reactor were performed at 120 /C176 C. The AES nucleation study was performed at 130 /C176 C. The viscous-flow reactor was maintained at the desired temperature using external ceramic-fiber heaters (Watlow) controlled by a proportional integral derivative (PID) controller (Eurotherm, 2604)."
+}<|im_end|>

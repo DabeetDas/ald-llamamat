@@ -1,0 +1,12 @@
+{
+  "target_material": "Magnesium aluminate",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "(C5H5)2Mg",
+    "(CH3)3Al",
+    "H2O"
+  ],
+  "temperature_range": "100 – 400 jC",
+  "summary": "Magnesium aluminate thin films were deposited using atomic layer deposition (ALD) with (C5H5)2Mg, (CH3)3Al, and H2O as precursors at temperatures between 100 and 400 jC. The films were characterized for crystallinity, surface morphology, and stoichiometry. Annealing at 800 jC resulted in a spinel structure with (111) orientation. The study aimed to develop a method for depositing MgAl2O4 films with controlled stoichiometry and minimal impurities.",
+  "evidence": "Magnesium aluminate thin films were grown by atomic layer deposition at 100 – 400 jC onto soda lime glass and Si(100) substrates. (C5H5)2Mg, (CH3)3Al and H2O were used as precursors. As-deposited films were amorphous while films annealed at 800 jC exhibited a strongly (111) oriented spinel structure."
+}

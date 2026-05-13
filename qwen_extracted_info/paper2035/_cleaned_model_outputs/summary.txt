@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Hf(NO3)4", "H2O"],
+  "temperature_range": "170 °C during deposition, 420 °C annealing",
+  "summary": "The study reports on the electrical properties of HfO2 films deposited via atomic layer deposition (ALD) using Hf(NO3)4 and H2O. The films were deposited on hydrogen-terminated Si wafers at 170 °C and annealed at 420 °C. The effective dielectric constant of thin films was in the range of 10–12, with a breakdown voltage of about 6–9 MV/cm and leakage current significantly lower than that of SiO2. The results suggest that ALD using Hf(NO3)4 is a promising method for high-quality HfO2 films.",
+  "evidence": "We report on the electrical properties of HfO2 deposited via atomic layer deposition using Hf(NO3)4 precursor for metal/oxide/semiconductor gate dielectric applications. Thin films, with less than 1% variation in accumulation capacitance over a 150 mm wafer, have been deposited directly on hydrogen-terminated Si wafers. The effective dielectric constant of thin (,10 nm) films was in the range of keff510–12, the breakdown voltage was about 6–9 MV/cm, and the leakage current was between 3–6 orders of magnitude lower than that of SiO2. The deposition rate was found to be sensitive to both the substrate and precursor temperature. The capability of initiating deposition directly on H-terminated Si may be an advantage over the more commonly used HfCl4 precursor."
+}

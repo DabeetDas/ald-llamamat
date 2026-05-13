@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "ellipsometry",
+    "glancing angle X-ray diffraction (GAXRD)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "high-resolution field emission scanning electron microscopy (FESEM)",
+    "Rutherford backscattering spectrometry (RBS)",
+    "Auger electron spectroscopy (AES)",
+    "semiconductor parameter analyzer (SPA)",
+    "LCR meter",
+    "capacitance–voltage (C–V) measurements"
+  ],
+  "evidence": "The thickness of the MgO thin films was measured using an ellipsometer (FS-1, FilmSense, USA). The crystalline structure of the MgO thin film was determined using glancing angle X-ray diffraction (GAXRD, D-MAX2500, Rigaku). X-ray photoelectron spectroscopy (XPS, K-Alpha, Thermo Scientific) was used to examine the chemical binding states of the MgO thin films. The morphology and microstructure of the MgO thin film were confirmed by high-resolution field emission scanning electron microscopy (FESEM, SU8010, Hitach). Rutherford backscattering spectrometry (RBS, 6SDH -2, NEC) and Auger electron spectroscopy (AES, PHI-700, ULVAC-PHI) measurements were performed to analyze the atomic composition of the MgO thin films. Electrical properties such as leakage current, dielectric constant, and dielectric loss were investigated in the dark probe station using semiconductor parameter analyzer (SPA, HP-4145B, Agilent) and LCR meter (4284A Precision, Hewlett Packard). Capacitance–voltage (C–V) measurements were performed at 25 °C at DC voltages ranging from −0.5 to +0.5 V at 10 kHz."
+}

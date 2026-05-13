@@ -1,0 +1,47 @@
+{
+  "precursors": [
+    {
+      "name": "Er(MeCp)2(N-iPr-amd)",
+      "evidence": "Bis-methylcyclopentadienyl-diisopropylacetamidinate-erbium (Er(MeCp)2(N-iPr-amd)) and bis-isopropylcyclopentadienyldiisopropyl-acetamidinate-dysprosium (Dy(iPrCp)2(N-iPr-amd)) provided by Air Liquide were evaporated at 120 and 135 °C, respectively, in stainless-steel bubblers to obtain sufficient vapor pressure."
+    },
+    {
+      "name": "Dy(iPrCp)2(N-iPr-amd)",
+      "evidence": "Bis-methylcyclopentadienyl-diisopropylacetamidinate-erbium (Er(MeCp)2(N-iPr-amd)) and bis-isopropylcyclopentadienyldiisopropyl-acetamidinate-dysprosium (Dy(iPrCp)2(N-iPr-amd)) provided by Air Liquide were evaporated at 120 and 135 °C, respectively, in stainless-steel bubblers to obtain sufficient vapor pressure."
+    },
+    {
+      "name": "Y(iPrCp)2(N-iPr-amd)",
+      "evidence": "Y(iPrCp)2(N-iPr-amd),26 La(iPrCp)3,27 and Ce(iPrCp)3 28 were used for Y2O3, La2O3, and CeO2 ALD, respectively."
+    },
+    {
+      "name": "La(iPrCp)3",
+      "evidence": "Y(iPrCp)2(N-iPr-amd),26 La(iPrCp)3,27 and Ce(iPrCp)3 28 were used for Y2O3, La2O3, and CeO2 ALD, respectively."
+    },
+    {
+      "name": "Ce(iPrCp)3",
+      "evidence": "Y(iPrCp)2(N-iPr-amd),26 La(iPrCp)3,27 and Ce(iPrCp)3 28 were used for Y2O3, La2O3, and CeO2 ALD, respectively."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "H2O",
+      "evidence": "Thermal and plasma-enhanced ALD (PE-ALD) Er2O3 and Dy2O3 are developed using the newly synthesized Er and Dy precursors bis-methylcyclopentadienyl-diisopropylacetamidinate-erbium and bis-isopropylcyclopentadienyldiisopropyl-acetamidinate-dysprosium, with H2O and O2 plasma counter oxidants."
+    },
+    {
+      "name": "O2 plasma",
+      "evidence": "Thermal and plasma-enhanced ALD (PE-ALD) Er2O3 and Dy2O3 are developed using the newly synthesized Er and Dy precursors bis-methylcyclopentadienyl-diisopropylacetamidinate-erbium and bis-isopropylcyclopentadienyldiisopropyl-acetamidinate-dysprosium, with H2O and O2 plasma counter oxidants."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Ar",
+      "evidence": "Argon gas held at the same flow rate was also used to purge excess gas molecules and byproducts between each precursor and oxidant exposure step."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "Ar",
+      "evidence": "Vaporized precursors were transported into the reaction chamber by argon carrier gas, the flow rate of which was controlled by a mass flow controller."
+    }
+  ],
+  "evidence": "Bis-methylcyclopentadienyl-diisopropylacetamidinate-erbium (Er(MeCp)2(N-iPr-amd)) and bis-isopropylcyclopentadienyldiisopropyl-acetamidinate-dysprosium (Dy(iPrCp)2(N-iPr-amd)) provided by Air Liquide were evaporated at 120 and 135 °C, respectively, in stainless-steel bubblers to obtain sufficient vapor pressure. Argon gas held at the same flow rate was also used to purge excess gas molecules and byproducts between each precursor and oxidant exposure step. Vaporized precursors were transported into the reaction chamber by argon carrier gas, the flow rate of which was controlled by a mass flow controller."
+}

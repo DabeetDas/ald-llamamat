@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "WF6"
+  ],
+  "coreactants": [
+    "Si2H6"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The ALD reactor used in this sample preparation is described elsewhere. 38 With the sample temperature at 200 °C, the W ALD process began with 10 min exposure of the substrate to Si2H6 at 10 Torr, followed by 10 min exposure to WF6 at 10 Torr. Following each exposure, the reactor was evacuated below 0.05 Torr and subsequently purged with ultrahigh-purity nitrogen for 5 min."
+}

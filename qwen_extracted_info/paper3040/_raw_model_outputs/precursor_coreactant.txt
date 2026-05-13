@@ -1,0 +1,7 @@
+{
+  "precursors": ["2,4-(Dimethylpentadienyl)(ethylcyclopentadienyl)Ru (DER)"],
+  "coreactants": ["O2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "O2 was used as reactant and the O2 gas flow rate was varied from 300 to 1000 sccm. Ar gas with a flow rate ranging from 30 to 500 sccm was used as carrier gas, and Ar gas with a flow rate of 1000 sccm was used as purge gas."
+}<|im_end|>

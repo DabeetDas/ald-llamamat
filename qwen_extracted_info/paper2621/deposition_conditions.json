@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "225 to 235 Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "2",
+  "number_of_cycles": "1000",
+  "reactor_type": "flow-type in-house built hotwall ALD reactor",
+  "evidence": "The Dy2O3 films were grown by using 1000 deposition cycles with cycle times 5-2-3-5 s at 250, 300, and 350 /C14 C."
+}

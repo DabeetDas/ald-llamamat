@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 280,
+  "pressure": "3 torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "RF type",
+  "evidence": "The ALD cycle was composed of a source pulse (2 s), source purge (1 s), and O2 plasma (2 s)."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "2 mbar",
+  "precursor_pulse_time_s": 0.8,
+  "coreactant_pulse_time_s": 0.8,
+  "purge_time_s": 5,
+  "number_of_cycles": 800,
+  "reactor_type": "custom-made thermal ALD system",
+  "evidence": "The ALD cycle was comprised of four steps described as follows: Se precursor (800 ms) –N2 purge (5 s) –Mo precursor (800 ms)–N2 purge (5 s). The number of cycles applied was 800. The deposition of MoSe2 was carried out in a custom-made thermal ALD system applying a deposition temperature of 300 /C14 C at a chamber pressure of 2 mbar."
+}

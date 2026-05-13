@@ -1,0 +1,11 @@
+{
+  "target_material": "Aluminum oxide (Al2O3)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum (Me3Al)",
+    "water (H2O)"
+  ],
+  "temperature_range": "110 – 300 °C",
+  "summary": "The study investigates the mechanical properties of ALD aluminum oxide (Al2O3) films grown from trimethylaluminum and water at varying temperatures. The films exhibit tensile stress, elastic modulus, hardness, and adhesion properties that depend on the growth temperature. The stress decreases with increasing temperature, while the elastic modulus and hardness stabilize at higher temperatures. The films adhere strongly to silicon substrates.",
+  "evidence": "The text states: 'In this work a comprehensive characterization of the stress, elastic modulus, hardness and adhesion of ALD aluminum oxide (Al2O3) films grown at 110 –300 °C from trimethylaluminum and water is presented.' It also mentions: 'The ALD Al2O3 films were under tensile stress in the scale of hundreds of MPa. The magnitude of the stress decreased strongly with increasing ALD temperature. Elastic modulus and hardness of ALD Al2O3 saturated to a fairly constant value for growth at 150 to 300 °C, while ALD at 110 °C gave softer films with lower modulus. ALD Al2O3 films adhered strongly on cleaned silicon with SiOx termination.'"
+}

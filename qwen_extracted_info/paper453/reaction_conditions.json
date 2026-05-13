@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "3 NbCl,(g) + 5 NH,(g) + 3 NbN(s) + 15 HCl(g) + N*(g).",
+    "NbCl,(g) + NH,(g) + H*(g) + NbN(s) + 5 HCl(g).",
+    "NbCl,(g) + NH,(g) + Zn(g) + NbN(s) + 3 HCl(g) + ZnCl,(g)."
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "NbOCl3",
+    "NbO,Cl",
+    "NbOCl,"
+  ],
+  "evidence": "The reaction (3) is by far the most feasible one while the difference between the reactions (1) and (2) is rather small. The feasibilities of the reactions (l)-(3) are estimated in Fig. 1 by means of AG, calculated as one mole of NbN formed. The reaction (3) is by far the most feasible one while the difference between the reactions (1) and (2) is rather small. Thermodynamic calculations suggested that these problems might be due to stable intermediate NbOCl3 and NbO,Cl compounds (Fig. 7). However, even though NbO,Cl is the most favorable reaction product below 700°C it can hardly give sufficient explanation for the failure of this process. This is due to the dynamic conditions prevailing during the water pulse, i.e. water is continuously supplied ( p(H,O) = constant) while HCl is immediately exhausted (p(HCl) = 0), which should provide that, despite of the positive AG, the material balance of the following reaction becomes driven far enough to the right side: 2 NbGzCJ(s) + H,G(g) = Nb,O,(s) + 2 HCl(g)."
+}

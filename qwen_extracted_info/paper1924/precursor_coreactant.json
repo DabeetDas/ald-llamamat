@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "GaCl3",
+    "(Et3Si)3As"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "GaCl3 (Sigma-Aldrich) and (Et3Si)3As (synthesized in-house14) were used as precursors. They were evaporated from open glass vessels inside the reactor and pulsed with inert gas valving. The operating pressure for the reactor was kept at about 10 mbar using nitrogen (made on-site using a Nitrox UHPN 3000 generator, rated purity 99.9995%) as the carrier and purge gas."
+}

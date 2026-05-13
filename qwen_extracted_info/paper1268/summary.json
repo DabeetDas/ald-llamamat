@@ -1,0 +1,12 @@
+{
+  "target_material": "Iridium",
+  "process_type": "O 2+H 2 process",
+  "main_precursors": [
+    "Ir(acac)3",
+    "O2",
+    "H2"
+  ],
+  "temperature_range": "200 to 350 °C",
+  "summary": "The study explores the growth and properties of iridium thin films using a new ALD process involving sequential pulses of iridium acetylacetonate (Ir(acac)3), oxygen (O2), and hydrogen (H2). The process was compared to the established Ir(acac)3+O2 process. The O2+H2 process showed a lower growth rate, reduced nucleation delay, and produced films with stronger (111) texture and lower resistivity compared to the O2 process. The study also highlights the importance of the H2 pulse in removing adsorbed oxygen, leading to a bare iridium surface and affecting film properties.",
+  "evidence": "We demonstrated a new ALD process using sequential pulses of iridium acetylacetonate (Ir(acac)3), oxygen (O2) and hydrogen (H2) and compared this to the established Ir(acac)3+O2 process in a wide temperature range of 200 to 350 °C. A reaction scheme is proposed to explain how both oxygen and hydrogen affect the film growth. Comprehensive information on film properties was obtained for both processes. In particular the strong (111) texture seen in this study has not been reported before for ALD iridium films. Changes in film properties, especially lowered resistivity, stronger (111) texture and faster nucleation compared to the Ir(acac)3+O2 process should motivate further studies on O2+H2 processes of platinum metals."
+}

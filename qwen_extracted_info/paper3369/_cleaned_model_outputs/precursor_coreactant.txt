@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum", "nickelocene"],
+  "coreactants": ["water", "ozone"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "We used trimethyl aluminum (TMA) and water (H2O) as the Al2O3 ALD chemistry and nickelocene (NiCp2) and ozone (O3) as the NiO ALD chemistry. NiO was deposited using nickelocene (Strem, 99%) and ozone (In-USA ozone generator, concentration maintained between 170-190 g Nm-3)."
+}

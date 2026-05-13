@@ -1,0 +1,30 @@
+{
+  "precursors": [
+    {
+      "name": "Zr(TMHD)4",
+      "full_name": "Zr(TMHD)4",
+      "evidence": "In this work we investigated the effect of Fe doping on structural properties of ZrO 2 grown by atomic layer deposition (ALD) using Zr(TMHD) 4 for Zr and Fe(TMHD) 3 for Fe precursors (TMHD = 2,2,6,6-tetramethyl-3,5-heptanedionate)"
+    },
+    {
+      "name": "Fe(TMHD)3",
+      "full_name": "Fe(TMHD)3",
+      "evidence": "In this work we investigated the effect of Fe doping on structural properties of ZrO 2 grown by atomic layer deposition (ALD) using Zr(TMHD) 4 for Zr and Fe(TMHD) 3 for Fe precursors (TMHD = 2,2,6,6-tetramethyl-3,5-heptanedionate)"
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "Ozone",
+      "full_name": "Ozone",
+      "evidence": "Ozone was used as oxidizing gas in the reaction process."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "N2",
+      "full_name": "N2",
+      "evidence": "The film growth was achieved by alternately introducing the pulses of the reactants, with optimized duration to obtain surface saturation, separated by N 2 inert gas purging pulses, as schematically sketched in Fig. 1 for the case of Fe doped ZrO 2 (ZrO2: Fe) film deposition."
+    }
+  ],
+  "carrier_gas": [],
+  "evidence": "In this work we investigated the effect of Fe doping on structural properties of ZrO 2 grown by atomic layer deposition (ALD) using Zr(TMHD) 4 for Zr and Fe(TMHD) 3 for Fe precursors (TMHD = 2,2,6,6-tetramethyl-3,5-heptanedionate). Ozone was used as oxidizing gas in the reaction process. The film growth was achieved by alternately introducing the pulses of the reactants, with optimized duration to obtain surface saturation, separated by N 2 inert gas purging pulses, as schematically sketched in Fig. 1 for the case of Fe doped ZrO 2 (ZrO2: Fe) film deposition."
+}<|im_end|>

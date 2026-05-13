@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethylindium (TMIn)"],
+  "coreactants": ["AsH3"],
+  "purge_gas": ["H2"],
+  "carrier_gas": ["H2"],
+  "evidence": "Trimethylindium (TMln) and 10% AsH; in H2 were used as In and As source materials, respectively. H2 was used as a carrier gas and the average gas velocity was kept around 30 cm/s to ensure fast purging of the gas for the next exposure."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "Ti(Al)N",
+  "process_type": "ALD",
+  "main_precursors": [
+    "titanium tetrachloride",
+    "ammonia",
+    "trimethylaluminum"
+  ],
+  "temperature_range": "250–400 \u001eC",
+  "summary": "Ti(Al)N thin films were deposited using atomic layer deposition (ALD) with titanium tetrachloride, ammonia, and trimethylaluminum as precursors. Trimethylaluminum acted as a reducing agent to lower the deposition temperature. The films exhibited better characteristics than TiN films at lower temperatures, making them suitable for diffusion barrier applications in microelectronics.",
+  "evidence": "Ti(Al)N thin films were deposited by atomic layer deposition (ALD) from titanium tetrachloride, ammonia, and trimethylaluminum. The most important role of trimethylaluminum was to act as an extra reducing agent in order to lower the required deposition temperature. ... at deposition temperatures of 400 \u001eC and lower, Ti(Al)N films exhibited better characteristics than TiN films deposited from titanium tetrachloride and ammonia."
+}

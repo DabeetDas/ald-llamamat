@@ -1,0 +1,12 @@
+{
+  "target_material": "Niobium oxide (Nb2O5)",
+  "process_type": "Thermal ALD and PE-ALD",
+  "main_precursors": [
+    "tBuN¼Nb(NEt2)3",
+    "H2O",
+    "O2 plasma"
+  ],
+  "temperature_range": "150–350 /C14 C",
+  "summary": "Niobium oxide thin films were deposited using thermal ALD and PE-ALD with tBuN¼Nb(NEt2)3 as the niobium precursor and H2O or O2 plasma as coreactants. The films were grown at temperatures between 150 and 350 /C14 C. The PE-ALD process showed higher growth per cycle (GPC) compared to thermal ALD, and the films were found to be amorphous with high uniformity. The thermal ALD films were substoichiometric due to oxygen vacancies, while PE-ALD films were near stoichiometric.",
+  "evidence": "Niobium pentoxide was deposited using tBuN¼Nb(NEt2)3 as niobium precursor by both thermal atomic layer deposition (ALD) and plasma-enhanced atomic layer deposition (PE-ALD) with H2O and O2 plasma as coreactants, respectively. The deposition temperature was varied between 150 and 350 /C14 C in both ALD processes. The PE-ALD process enabled a higher growth per cycle (GPC) than the thermal ALD process (0.56 A˚ vs 0.38 A˚ at 200 /C14 C, respectively), while the GPC decreases with increasing temperature in both cases. The thermal ALD deposited films were substoichiometric due to the presence of oxygen vacancies (VO), of which a more dominant presence was observed with increasing deposition temperature. The PE-ALD deposited films were found to be near stoichiometric for all investigated deposition temperatures."
+}

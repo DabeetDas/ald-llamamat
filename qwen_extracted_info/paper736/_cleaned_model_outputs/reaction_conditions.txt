@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Mo(CO)6 and DMDS precursors on the surface of the TiO2 inverse opal structures, followed by surface reactions to form MoS2. The pressure tuned stop-ﬂow ALD process ensures precursor saturation for uniform film deposition.",
+  "intermediate_species": ["Mo(CO)6", "DMDS", "surface hydroxyls"],
+  "evidence": "The text describes the use of Mo(CO)6 and DMDS as precursors for ALD of MoS2, with the pressure tuned stop-ﬂow ALD process ensuring precursor saturation for uniform film deposition. The reaction mechanism is inferred from the use of these precursors and the ALD process described."
+}

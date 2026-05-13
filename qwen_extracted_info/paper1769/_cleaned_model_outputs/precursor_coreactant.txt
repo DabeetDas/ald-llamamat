@@ -1,0 +1,7 @@
+{
+  "precursors": ["MeCpPtMe3"],
+  "coreactants": ["ozone"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["air enriched with ozone"],
+  "evidence": "The noble metal precursor, (trimethyl)methylcyclopentadienylplatinum(IV) (MeCpPtMe3, 99% purity) was obtained from Strem Chemicals and was used as received. Air enriched with ozone (around 1.5 wt%) was used as an oxidizer medium; this stream was obtained by leading an air flow (0.20 L min−1) through an OAS Topzone ozone generator."
+}

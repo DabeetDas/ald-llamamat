@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "WF3⁎ + Si2H6 → W–SiH⁎ + SiHF3 + 2H2",
+    "WSiH⁎ + WF6 → W–WF3⁎ + SiHF3"
+  ],
+  "surface_mechanism_description": "W ALD growth occurs during alternating exposures to WF6 and Si2H6. The first reaction involves WF6 reacting with surface species to add the first desired atomic element and change the surface species. The second reaction involves Si2H6 reacting with the new surface species to add the second desired atomic element and change the surface species back to the original surface species.",
+  "intermediate_species": [
+    "W–SiH⁎",
+    "W–WF3⁎",
+    "SiHF3"
+  ],
+  "evidence": "The W ALD film growth is accomplished by two self-limiting surface reactions that have been described in previous work: (A) WF3⁎ + Si2H6 → W–SiH⁎ + SiHF3 + 2H2 (1) (B) WSiH⁎ + WF6 → W–WF3⁎ + SiHF3 (2) where the asterisks denote the surface species."
+}<|im_end|>

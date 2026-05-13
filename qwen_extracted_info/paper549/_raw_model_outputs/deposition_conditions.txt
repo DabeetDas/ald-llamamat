@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "PULSAR 2000",
+  "evidence": "The barrier depositions were made using ASM Microchemistry’s commercial flow-type single wafer reactor, PULSAR 2000, which has been optimized for Atomic Layer CVD (ALCVD/H23043) processes. The operating pressure was kept below 10 mbar with the balance of a dry pump (Alcatel ADP 122P ) and a continuous nitrogen flow (400 sccm )."
+}<|im_end|>

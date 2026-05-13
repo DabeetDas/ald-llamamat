@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "𝑅𝑆𝑖(𝑂𝑀𝑒)3 + 3 𝐻2𝑂 → 𝑅𝑆𝑖(𝑂𝐻)3 + 3 𝑀𝑒𝑂𝐻",
+    "≡ 𝑆𝑖 ― 𝑂𝐻 + 𝑅𝑆𝑖(𝑂𝐻)3→ ≡ 𝑆𝑖 ― 𝑂 ― 𝑆𝑖(𝑂𝐻)2𝑅 + 𝐻2𝑂"
+  ],
+  "surface_mechanism_description": "The silanization process involves hydrolysis of methoxy groups followed by surface reaction with hydroxyl groups. The DETA layer undergoes dimerization at 250 °C, leading to loss of amino functionalities and formation of C-C/C=C bonds, which inhibits Ru nucleation.",
+  "intermediate_species": [
+    "Si-OH",
+    "Si-O-Si",
+    "N-C bonds",
+    "C-N/C-O bonds",
+    "C-C/C=C bonds",
+    "N-H groups",
+    "NH3"
+  ],
+  "evidence": "The silanization process involves hydrolysis of methoxy groups followed by surface reaction with hydroxyl groups. The DETA layer undergoes dimerization at 250 °C, leading to loss of amino functionalities and formation of C-C/C=C bonds, which inhibits Ru nucleation. According to Figure 8a, the Si2p XPS peak at 103.2 eV attributed to the Si-O-Si bonds in the SiO2 and DETA layer does not change after annealing. The N1s XPS spectra show the N1s peak component at 399.1 eV attributed to the DETA primary amino terminal groups (NH2) and secondary amino functional groups (NH). The C1s peak shifts towards lower binding energy, indicating the loss of C-N/C-O bonds in favour of C-C/C=C bonds formation after the thermal treatment. The data is consistent with the DETA layer modification occurring at 250 °C, which results in N-C bonds scission in favour of C-C/C=C bonds formation. The loss of amino functionalities suggests the formation of N-containing volatile species."
+}<|im_end|>

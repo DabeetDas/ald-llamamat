@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "Al(CH3)3", "TMA", "TiCl4", "Al(CH3)3", "TMA"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ALD reactants trimethyl aluminum (Al(CH3)3, TMA 96%) and titanium tetrachloride (TiCl4, 99.9%), were purchased from Sigma-Aldrich and used as received. Ultrahigh purity N2 (99.999%) was used as the purge gas and carrier gas with further purification by an inert gas filter (Aeronex Gatekeeper) before entering the reactor."
+}<|im_end|>

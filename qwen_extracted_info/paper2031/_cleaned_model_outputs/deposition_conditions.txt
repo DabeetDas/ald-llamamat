@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "1.5 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 800,
+  "number_of_cycles": null,
+  "reactor_type": "ASM Pulsar 2000™",
+  "evidence": "HfO2 ﬁlms were grown using alternating pulses of hafnium tetrachloride (HfCl 4) and H 2O, using N 2 as a carrier gas. The ALD process was performed in an ASM Pulsar 2000™ module at 300 °C and a chamber pressure of ;1.5 Torr. Excess species and gaseous by-products were purged with N 2 at a flow rate of ;800 sccm to prevent any gas phase reactions."
+}

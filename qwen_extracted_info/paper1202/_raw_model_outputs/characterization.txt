@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray fluorescence spectroscopy (XRF)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Auger Electron Spectroscopy (AES)",
+    "X-ray diffraction (XRD)",
+    "X-ray reflectivity (XRR)",
+    "Transmission electron microscopy (TEM)",
+    "Focused ion beam (FIB)"
+  ],
+  "evidence": "X-ray photoelectron spectroscopy (XPS) was used to check chemical state of elements in film and was performed at 4D beamline in Pohang Light Source. The impurity level was checked by Auger Electron Spectroscopy (AES, PerkinElmer, PHI 660). The crystallinity and density of films was measured by X-ray diffraction (XRD) and X-ray reflectivity (XRR) using X-ray difffractometer (PANalytical, X ’ Pert PRO MPD). The film thickness was calculated by dividing layer density measured by XRF by the density of each film measured by XRR. Step coverage of film deposited on the hole structure was estimated by transmission electron microscopy (TEM, Tecnai, F20) using a specimen prepared by focused ion beam (FIB, FEI, Helios 650)."
+}<|im_end|>

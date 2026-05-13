@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "Si2H6 ! 2SiH3 (ad) ! 2SiH2 (ad) + 2H (ad)",
+    ":SiH2 (dihydride) ! /C0HSi/C0SiH/C0 + H2",
+    "/C0HSi/C0SiH/C0 ! /C0Si/C0Si/C0 + H2"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    ":SiH2",
+    "SiH3 (ad)",
+    "SiH2 (ad)",
+    "H (ad)",
+    "/C0HSi/C0SiH/C0",
+    "/C0Si/C0Si/C0"
+  ],
+  "evidence": "The results are systematically understood and :SiH2 produced through gas-phase Si2H6 thermal cracking nearly self-limitedly adsorbs on Si(0 0 1) by/C241 ML. From the STM image analysis, the :SiH2 is interpreted to orderly adsorb on each of the two dangling bonds of the dimer."
+}

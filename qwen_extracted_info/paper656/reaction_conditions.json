@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth mechanism of ZnO films under UV-irradiation was investigated by varying the UV-irradiation period. The UV-light was effective for the decomposition of DEZ, which causes point defects such as Zn interstitials or O vacancies. However, the vapor phase reaction and the surface reaction could not be distinguished due to the UV-light being irradiated perpendicular to the substrate.",
+  "intermediate_species": [
+    "Zn interstitials",
+    "O vacancies"
+  ],
+  "evidence": "The UV-light was effective for the decomposition of DEZ, which causes point defects such as Zn interstitials or O vacancies. In this experiment, UV-light was irradiated perpendicular to the substrate. Therefore, we cannot distinguish the vapor phase reaction and the surface reaction."
+}

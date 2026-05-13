@@ -1,0 +1,19 @@
+{
+  "precursors": [
+    "trimethylaluminium (TMA)",
+    "tertiarybutylimino-tris(diethylamino)tantalum, TBTDET",
+    "[(ethylcyclopentadienyl)(pyrrolyl)ruthenium(II)], ECPR"
+  ],
+  "coreactants": [
+    "water",
+    "ammonia",
+    "molecular oxygen"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The Al 2O3 processes with 400 sccm Ar carrier and purge gas flows and a working pressure of 80 Pa result in a film growth of /C240.1 nm per cycle (GPC) with a cycle time of 6 s which enables sufficient throughput even for high film thicknesses which are needed for proper isolation and reduced parasitic capacitances to minimize RC delays. The TSV test structures were prepared by Bosch-based reactive ion etching (RIE) processes and the electrochemical deposition of copper was carried out as a galvanostatic deposition with Intervia Viafill /C210electrolyte containing a mixture of three proprietary organic additives (accelerator, suppressor, and leveler). TaN(C) films were deposited in a showerhead ALD chamber using (tertiarybutylimino)-tris(diethylamino)tantalum, TBTDET, vaporized at 80 /C176C and ammonia resulting in the growth of amorphous films with a GPC of /C240.06 nm per cycle at a working pressure of 150 Pa. The ALD of ruthenium from [(ethylcyclopentadienyl)(pyrrolyl)ruthenium(II)], ECPR, vaporized at 80 /C176C and molecular oxygen was carried out at a working pressure of 150 Pa which results in polycrystalline ruthenium films deposited with a GPC of /C240.08 nm per cycle (linear layer-by-layer growth) and a specific resistivity below 30 lX cm."
+}

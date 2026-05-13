@@ -1,0 +1,8 @@
+{
+  "target_material": "Tantalum Nitride (TaN)",
+  "process_type": "Two-step Atomic Layer Deposition (ALD) with thermal and plasma-assisted nitridation",
+  "main_precursors": ["TaF5", "NH3", "H2", "Ar"],
+  "temperature_range": "200 /C14C",
+  "summary": "The study compares the formation of cubic-TaN and Ta3N5 phases in TaN films using thermal and plasma-assisted nitridation in a two-step ALD process at a low temperature of 200 /C14C. Thermal nitridation produced metallic cubic-TaN films with low resistivity, while plasma-assisted nitridation led to the formation of the dielectric Ta3N5 phase, increasing resistivity. The concentration of the Ta3N5 phase was controlled by nitridation time and NH3 flow rate.",
+  "evidence": "The formation of TaN films was carried out at a temperature of 200 /C14C. Metallic cubic-TaN films with an electrical resistivity of 400 m/C10cm were successfully grown by thermal nitridation at 200 /C14C, while the incorporation of the Ta3N5 phase in TaN films could not be suppressed in the plasma nitridation process. The dielectric Ta3N5 phase led to a significant increase in electrical resistivity, up to approximately 2500 m/C10cm. The relative concentration of cubic TaN and Ta3N5 phases was precisely controlled by changes in the nitridation time and the NH3 flow rate during the plasma-assisted nitridation process."
+}<|im_end|>

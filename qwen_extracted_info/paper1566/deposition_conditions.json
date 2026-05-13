@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "325",
+  "pressure": "",
+  "precursor_pulse_time_s": "1.5",
+  "coreactant_pulse_time_s": "1.5",
+  "purge_time_s": "2.5",
+  "number_of_cycles": "1700",
+  "reactor_type": "",
+  "evidence": "The growth rate was investigated as a function of deposition temperature (Figure 1b). Depositions were carried out using 1 and ozone pulse lengths of 1.5 s each, purge lengths of 2.0 and 2.5 s between the respective pulses, and 1700 deposition cycles."
+}

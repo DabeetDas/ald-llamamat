@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Photoelectrochemical (PEC) characterizations",
+    "Electrochemical impedance measurements",
+    "Mott −Schottky plot",
+    "Cross-sectional transmission electron micrograph (TEM)",
+    "Energy dispersive spectra (EDS)",
+    "Electrochemical impedance spectroscopy (EIS)",
+    "Open circuit voltage decay",
+    "XPS measurement"
+  ],
+  "evidence": "We performed a series of experiments, including photoelectrochemical (PEC) characterizations and electrochemical impedance measurements, to verify that the Mg-doped hematite was indeed p-type. The optical absorption was characteristic of hematite without intentional doping (inherently n-type), proving that the inclusion of Mg did not change the optical properties of hematite measurably. The most direct evidence that the film is p-type comes from the negative slope obtained when the capacitance was plotted against the applied potentials (Mott −Schottky plot). Microstructure studies proved that the resulting film was of a polycrystalline nature. In the Nyquist plots shown in Figure 4a, a semicircle was obtained on n-Fe2O3. We attributed its origin to the depletion of Fe2O3 due to the contact with the electrolyte but not the Helmholtz double layer. The second technique to help us see the existence of the built-in field relies on how the field affects charge behaviors. Using the methodology developed by Bisquert et al., we see in the inset the open circuit voltage decay for n −pFe2O3 is faster than n-Fe2O3 by at least an order of magnitude. The XPS measurement was performed at Center for Nanoscale Systems, which is a member of the National Nanotechnology Infrastructure Network (NNIN)."
+}

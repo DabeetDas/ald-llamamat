@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["trimethylaluminum", "water"],
+  "temperature_range": "300 °C",
+  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to create high-quality ultrathin HfO2/Al2O3 films for liquid crystal (LC) alignment. Ion bombardment was used to fully oxidize the HfO2 surface, which induced vertical alignment of LC molecules. The process involved ALD with trimethylaluminum and water at 300 °C, and the resulting films showed improved LC alignment and low threshold voltage for operation.",
+  "evidence": "HfO2 thin films 10 nm thick were then fabricated by ALD with the same method. Al2O3 thin films 10 nm thick were deposited on the ITO-coated glass substrates via ALD using trimethylaluminum and water at a deposition temperature of 300 °C. The HfO2 / Al2O3 layers were grown by atomic layer deposition (ALD), which has the advantages of excellent control of thickness and conformality."
+}

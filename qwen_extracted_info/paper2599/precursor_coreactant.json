@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Ti(NMe2)4"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The precursors were supplied by bubbling the heated liquid precursors with N2 carrier gas. As oxidant oxygen, ozone (12 vol. % in O2) or water was supplied. Nitrogen was used as carrier gas as well as for purging between the cycles."
+}

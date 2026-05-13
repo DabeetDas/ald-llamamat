@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-325",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 12,
+  "coreactant_pulse_time_s": 6,
+  "purge_time_s": 8,
+  "number_of_cycles": 200,
+  "reactor_type": "hot-wall flow-type ALD reactor",
+  "evidence": "ALD cycle times for the sequence EMR–purge–O 2–purge were typically 12–6–8–6 s, with EMR and oxygen pulse lengths varied in separately arranged seria."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "180",
+ "pressure": "",
+ "precursor_pulse_time_s": "1.65",
+ "coreactant_pulse_time_s": "1.65",
+ "purge_time_s": "4.4",
+ "number_of_cycles": "49",
+ "reactor_type": "traveling wave type hot wall reactor",
+ "evidence": "The growth of ZnO:Al ﬁlms was carried out in a traveling wave type hot wall reactor at the substrate temperature of 180 /C14C. For the growth of ZnO ﬁlm, diethylzinc (DEZ) and H2O were used as the zinc and oxygen precursors, respectively. These precursors were alternatively injected into the reactor using nitrogen as a carrier gas with a ﬂow rate of 100 sccm. With all other conditions ﬁxed, the pulsing times were 1.65 second for the DEZ and H2O, and 4.4 second for N2 the purge."
+}

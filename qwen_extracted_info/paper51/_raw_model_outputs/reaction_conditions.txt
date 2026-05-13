@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "MoSe O( eh )hxy xyυ ()+→ +−+",
+    "MoSe O( eh )T iO MoSe O( h) TiO( e)22xy xy++ →+−+ +−",
+    "MoSe O( h) TiO( e) MB Intermediate products HO CO22 2xy ++ →+ ++−"
+  ],
+  "surface_mechanism_description": "The photogenerated electrons react with O2 and reduce the O2 to superoxide radical anion O2•− while the photogenerated holes react with OH− or H2O, and oxidize them into OH• radicals. Concurrently, the photogenerated electrons and holes also react with MB to produce reduction and oxidation products, respectively. Finally, the OH• radicals react with MB to yield degradation products.",
+  "intermediate_species": [
+    "CS+C",
+    "C S(O)C",
+    "C H",
+    "N H",
+    "hydroxylated intermediates"
+  ],
+  "evidence": "Equations (2) and (3) show the key reactions during photodegradation process. The photogenerated electrons react with O2 and reduce the O2 to superoxide radical anion O2•− while the photogenerated holes react with OH− or H2O, and oxidize them into OH• radicals. Concurrently, the photogenerated electrons and holes also react with MB to produce reduction and oxidation products, respectively. Finally, the OH• radicals react with MB to yield degradation products."
+}<|im_end|>

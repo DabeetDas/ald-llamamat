@@ -1,0 +1,7 @@
+{
+  "precursors": ["CH3OSi(NCO)3"],
+  "coreactants": ["hydrogen peroxide", "ozone"],
+  "purge_gas": [],
+  "carrier_gas": ["pure nitrogen"],
+  "evidence": "Pure nitrogen was used as a carrier gas that causes alternatingly a bubbling in the pure CH3OSi(NCO)3 and hydrogen peroxide vessels, respectively, and brings these vapors to the reaction chamber."
+}

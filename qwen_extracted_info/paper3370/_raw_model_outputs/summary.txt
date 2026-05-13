@@ -1,0 +1,8 @@
+{
+  "target_material": "HfOx",
+  "process_type": "ALD",
+  "main_precursors": ["TDMA-Hf"],
+  "temperature_range": "180 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of hafnium oxide (HfOx) on InAs, focusing on the self-cleaning process and the reaction mechanisms during the first half-cycle. The research highlights the removal of native oxides, the adsorption of the metal precursor, and the formation of HfOx. The process involves a two-step mechanism, where the ligand exchange model is extended to account for the initial adsorption and subsequent ligand split-off. The study demonstrates that a sufficiently long duration of the first half-cycle is essential for achieving a high-quality InAs/HfO2 interface.",
+  "evidence": "The study reports a detailed time-resolved analysis of the ALD of high-κ hafnium oxide (HfOx) on InAs(100). The removal of In and As native oxides, the adsorption of the Hf-containing precursor molecule, and the formation of HfOx are investigated simultaneously and quantitatively. The observed reactions lead to a complete removal of the native oxide and the formation of a full monolayer of HfOx already during the first ALD half-cycle, with an interface consisting of In−O bonds. The study also demonstrates that a sufficiently long duration of the first half-cycle is essential for obtaining a high-quality InAs/HfO2 interface."
+}<|im_end|>

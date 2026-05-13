@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "0.22 Torr",
+  "precursor_pulse_time_s": 0.3,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 10,
+  "number_of_cycles": 300,
+  "reactor_type": "Ultratech/Cambridge Nanotech Fiji G2",
+  "evidence": "The deposition parameters were: a flow of 10 sccm of each of the plasma gases (reactive and Ar), 20 s plasma pulse period, 200 W plasma power, and a deposition temperature of 300°C. The TDMAT precursor was kept at 75°C and the pulse period was set to 0.3 s. Purge periods of 10 s were introduced between the TDMAT and plasma half-cycles."
+}<|im_end|>

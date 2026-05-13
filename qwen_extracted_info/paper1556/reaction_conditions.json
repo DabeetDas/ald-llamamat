@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "Ti(OCH(CH3)2)4 + 2H2O → TiO2 + 4CH(CH3)2OH",
+    "[S] : (OH)x* + Ti(OCH(CH3)2)4 → [S] : (O)xTi(OCH(CH3)2)4-x* + x · CH(CH3)2OH",
+    "[S] : (O)xTi(OCH(CH3)2)4 + 2H2O → [S] : TiO2 : (OH)x* + (4 - x) · CH(CH3)2OH"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of titanium tetraisopropoxide (Ti(OCH(CH3)2)4) and water (H2O) on the surface, leading to the formation of titanium dioxide (TiO2) and the desorption of isopropanol (CH(CH3)2OH). The process is self-limiting and consists of two half-reactions: one where the surface hydroxyl groups react with the titanium precursor, and another where the surface oxide groups react with water to form hydroxylated titanium dioxide.",
+  "intermediate_species": [
+    "surface hydroxyls (OH*)",
+    "titanium tetraisopropoxide (Ti(OCH(CH3)2)4)",
+    "isopropanol (CH(CH3)2OH)",
+    "hydroxylated titanium dioxide (TiO2 : (OH)x*)"
+  ],
+  "evidence": "The surface reactions are described in the text as follows: [S] : (OH)x* + Ti(OCH(CH3)2)4 → [S] : (O)xTi(OCH(CH3)2)4-x* + x · CH(CH3)2OH and [S] : (O)xTi(OCH(CH3)2)4 + 2H2O → [S] : TiO2 : (OH)x* + (4 - x) · CH(CH3)2OH. The text also mentions the use of titanium tetraisopropoxide (Ti(OCH(CH3)2)4) and water (H2O) in the ALD process, leading to the formation of titanium dioxide (TiO2) and the desorption of isopropanol (CH(CH3)2OH)."
+}

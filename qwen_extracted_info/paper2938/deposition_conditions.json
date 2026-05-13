@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-400",
+  "pressure": "0.5 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "cold-wall ﬂow-type ALD",
+  "evidence": "Hafnium silicate ﬁlms were grown in a cold-wall ﬂow-type ALD reactor on p-type Si(100) substrate in the temperature range of 150400°C. The pressure in the reactor was ﬁxed at about 0.5 Torr. ... Varying the water pulse time between 0.5 and 2 s had no effect on the growth rate. Ideal linear dependence was conﬁrmed by optimized pulse time and the constant growth rate was 1.2 Å/cycle at 200°C."
+}

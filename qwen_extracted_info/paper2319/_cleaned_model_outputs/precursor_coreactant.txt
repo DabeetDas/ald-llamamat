@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethylindium (TMI)"],
+  "coreactants": ["N2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Trimethylindium (TMI) and N 2 plasma have been used as indium and nitrogen precursors, respectively. Organometallic precursors and N 2 plasma were carried from separate lines using 30 and 100 sccm Ar, respectively. Ar is used as the carrier gas for N2 plasma so the plasma is a mixed N 2/Ar plasma, including nitrogen radicals, Ar neutrals and possibly Ar+ ions."
+}

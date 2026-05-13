@@ -1,0 +1,7 @@
+{
+  "precursors": ["tin(IV) chloride"],
+  "coreactants": ["deionized water"],
+  "purge_gas": [],
+  "carrier_gas": ["oxygen"],
+  "evidence": "The gas sensing layer was deposited and patterned prior to bulk etching of the microhotplates. Tin dioxide was deposited by atomic layer deposition using tin(IV) chloride (Sigma–Aldrich, 99.995% pure) and deionized water as precursors. The precursors were temperature stabilized at 20 ◦C, and their own vapor pressures were sufficient to transport them in vapor phase to the reaction chamber, using 500 sccm of oxygen as the carrier gas."
+}

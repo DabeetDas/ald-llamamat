@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "280",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "2",
+ "number_of_cycles": "32",
+ "reactor_type": "Riber 32P",
+ "evidence": "For all the CdTe/MnTe SLs grown by ALE, the CdTe layers consisted of 32 CdTe ALE cycles (2 Cd ML, 2 Te ML per cycle, 2 s dead time in between), leading to a 16 ML nominal thickness (the autoregulated growth rate for CdTe between Ts = 260◦C and Ts = 290◦C is approximately 0.5 CdTe ML per ALE cycle, see)."
+}<|im_end|>

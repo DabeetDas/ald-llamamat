@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "ReO3Me + AlMe3 → Re–O–Al(CH3)2 + CH4"
+  ],
+  "surface_mechanism_description": "The ALD process involves the reaction of ReO3Me with surface hydroxyl groups (Al-OH*), followed by a purge step to remove unreacted precursor and byproducts. The reaction is then followed by a TMA pulse, which reacts with the surface to form a Re–O–Al bond and release CH4. The surface is then purged again before the next cycle.",
+  "intermediate_species": [
+    "Re–O–Al(CH3)2",
+    "surface hydroxyls (Al-OH*)",
+    "CH4"
+  ],
+  "evidence": "Given the very high melting point of these species limits their ability to generate significant vapor pressure, a property that is crucial for a vapor-phase deposition technique. Methyltrioxorhenium (ReO3Me), a well-known Re(VII) synthetic derivative of Re2O7, is an exception. It is highly volatile and also contains an alkyl ligand – a feature that makes it an interesting precursor in terms of reactivity. The ALD process involves the reaction of ReO3Me with surface hydroxyl groups (Al-OH*), followed by a purge step to remove unreacted precursor and byproducts. The reaction is then followed by a TMA pulse, which reacts with the surface to form a Re–O–Al bond and release CH4. The surface is then purged again before the next cycle."
+}<|im_end|>

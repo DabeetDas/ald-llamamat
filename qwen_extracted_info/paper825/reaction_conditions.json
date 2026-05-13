@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of diethylzinc (DEZn) and water (H2O) on the substrate, followed by surface reactions to form ZnO. The water vapor as the oxygen source during deposition can easily diffuse into YSZ, resulting in insufficient adsorption of O–H species to form complete Zn–O bonds. This might also induce formation of defects to cause the strong green emission in the PL spectra.",
+  "intermediate_species": [
+    "ZnO thin films",
+    "O–H species",
+    "defects"
+  ],
+  "evidence": "Yousfi et al. reported in their ALD study that an induction period was observed for ZnO nucleation on Au substrate. Another speculation is that the water vapor as the oxygen source during deposition can easily diffuse into YSZ, resulting in insufficient adsorption of O–H species to form complete Zn–O bonds. This might also induce formation of defects to cause the strong green emission in the PL spectra."
+}

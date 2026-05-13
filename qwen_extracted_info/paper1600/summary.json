@@ -1,0 +1,11 @@
+{
+  "target_material": "Titanium Dioxide (TiO2)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Titanium tetrachloride (TiCl4)",
+    "Water (H2O)"
+  ],
+  "temperature_range": "100 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of titanium dioxide (TiO2) on both oxide-terminated silicon dioxide (SiO2) and hydrogen-terminated silicon surfaces. The process uses titanium tetrachloride (TiCl4) and water (H2O) as precursors at 100 °C. The growth rate on hydroxyl-enriched SiO2 is higher than on hydrogen-terminated silicon. The interface between SiO2 and TiO2 is abrupt, composed of Si-O-Ti bonds. On hydrogen-terminated silicon, direct Si-Ti bonds form without interfacial oxide, but a silicon oxide layer forms after vacuum annealing, suggesting TiO2 acts as an oxygen source. Chlorine incorporation is observed near the Si/TiO2 interface.",
+  "evidence": "Atomic layer deposition (ALD) of amorphous titanium dioxide (TiO2) at 100 °C using the precursors titanium tetrachloride (TiCl4) and water (H2O) was studied on two different surfaces by in situ X-ray photoelectron spectroscopy (XPS). The initial growth rate on hydroxyl-enriched silicon dioxide (SiO2) is found to be higher than on hydrogen-terminated silicon. Moreover, the data show that the growth rate is accelerated during the first several ALD cycles on both surfaces. The interface between the SiO2 substrate and TiO2 is abrupt and composed of Si-O-Ti bonds. On the hydrogen-terminated silicon surface, the XPS results provide evidence of direct Si-Ti bond formation without traces of interfacial oxide. However, a silicon oxide layer forms on this surface after vacuum annealing, concurrent with the reduction of TiO2, suggesting that the TiO2 film is the oxygen source for the silicon oxidation under these conditions. Chlorine incorporates into the TiO2 films on both surfaces and is found to concentrate near the Si/TiO2 interface."
+}

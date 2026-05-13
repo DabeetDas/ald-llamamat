@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "Al(CH3)3 (TMA)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The precursors were TiCl4 and Al(CH3)3 (TMA) (Aldrich). The processing cycle consisted of: a 0.3 s pulse of TiCl4 for TiO2 deposition (a 0.4 s pulse of TMA for Al2O3 deposition); a 0.5 s purge pulse of N2; a 0.4 s pulse of water vapour as the nucleophilic source of oxygen; a 0.5 s purge pulse of N2."
+}

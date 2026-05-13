@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(dimethylamino)tin", "ozone"],
+  "temperature_range": "200 °C",
+  "summary": "The study demonstrates the use of atomic-layer-deposited SnO2 as a transparent gate electrode for thin-film transistors (TFTs) and circuits, replacing indium tin oxide (ITO). The SnO2 films were deposited at 200 °C, showing low electrical resistivity and high transparency, enabling excellent performance in TFTs with high saturation mobility, low subthreshold swing, and high on/off ratio. The results indicate that SnO2 can effectively replace ITO in transparent electronics.",
+  "evidence": "Atomic-layer-deposited SnO2 is used as a gate electrode to replace indium tin oxide (ITO) in thin-film transistors and circuits for the first time. The SnO2 films deposited at 200 °C show low electrical resistivity of ≈3.1 × 10−3 Ω cm with ≈93% transparency in most of the visible range of the electromagnetic spectrum. Thin-film transistors fabricated with SnO2 gates show excellent transistor properties including saturation mobility of 15.3 cm2 V−1 s−1, a low subthreshold swing of ≈130 mV dec−1, a high on/off ratio of ≈109, and an excellent electrical stability under constant-voltage stressing conditions to the gate terminal."
+}

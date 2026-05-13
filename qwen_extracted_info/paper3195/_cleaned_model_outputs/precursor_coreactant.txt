@@ -1,0 +1,7 @@
+{
+  "precursors": ["Diethylzinc (DEZn, Zn(C2H5)2)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Diethylzinc /H20851DEZn, Zn/H20849C2H5/H208502/H20852and H2O vapor were used as the precursors for ZnO growth. Each H2O pulse was composed of a 0.1 s pulse duration and a subsequent 5 s N2 purge, and each DEZn pulse comprised a 0.01 s pulse duration, followed by a 5 s N2 purge."
+}

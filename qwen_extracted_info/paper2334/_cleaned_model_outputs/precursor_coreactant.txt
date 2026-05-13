@@ -1,0 +1,7 @@
+{
+  "precursors": ["DEZ", "H2S"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Diethyl zinc (Zn(CH2CH3)2, DEZ, EpiPure, SAFC), hydrogen sulfide (H2S, 99.5%, Air Liquide) and O2 (99.9995%, Air Liquide) were, respectively, used as zinc, sulfur and oxygen sources and kept at room temperature (RT). O2 was introduced as a reactive gas in the plasma generator and the O2/Ar ratio was set to 50%. An ultrahigh purity nitrogen (N2) carrier and purge gas (99.9999%, Air Liquide) was continuously flowed through the reactor. The reactor is equipped with a remote radio-frequency (RF) plasma generator using argon (99.9997%, Air Liquide) as a carrier gas."
+}

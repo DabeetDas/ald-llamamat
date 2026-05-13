@@ -1,0 +1,8 @@
+{
+  "target_material": "vanadia",
+  "process_type": "ALD",
+  "main_precursors": ["VO(OPr_i)3", "oxygen"],
+  "temperature_range": "383 K, 363 K, 623 K, 773 K",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit submonolayer amounts of vanadia onto titania/silica supports. The process involves surface-saturating gas-solid reactions with vanadyl triisopropoxide (VO(OPr_i)3) and oxygen. The ALD method was compared with aqueous-phase impregnation, and the results showed that ALD produced highly dispersed vanadia species with enhanced surface reactivity and acidity. The vanadia species were found to interact with both the titania overlayer and the silica surface, forming V–O–Ti bonds. The study highlights the superiority of ALD in preparing bilayered vanadia/titania/silica catalysts with controlled dispersion and acidity.",
+  "evidence": "The atomic layer deposition (ALD) method using surface-saturating gas–solid reactions was applied to modify a highly dispersed titania/silica support with submonolayer amounts of vanadia. The surface properties and acidity of the V2O5/TiO2/SiO2 materials were examined relatively to the corresponding silica and titania supported samples. The surface reactivity towards ammonia was strongly enhanced by the modification, as probed by adsorption microcalorimetry and XPS. The superiority of the ALD method for the preparation of bilayered vanadia/titania/silica catalysts was demonstrated by examining for comparison a series of aqueous-phase impregnated catalysts."
+}

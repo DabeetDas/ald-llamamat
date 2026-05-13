@@ -1,0 +1,11 @@
+{
+  "target_material": "TaCN",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "tert-butylimidotris(diethylamido)-tantalum (TBTDET)",
+    "hydrogen"
+  ],
+  "temperature_range": "100–400 8C",
+  "summary": "TaCN films were deposited using plasma-enhanced atomic layer deposition (PEALD) with tert-butylimidotris(diethylamido)-tantalum (TBTDET) and hydrogen. The films consist of a homogeneous mixture of TaC, TaN, Ta3N5, and Ta2O5 phases. The study evaluated the effects of process parameters such as deposition temperature, plasma power, and cycle time on the film composition and electronic properties. The resistivity of the film was found to decrease with an increase in the TaC and TaN phases and was as low as 350 mV /C1 cm at 350 8C.",
+  "evidence": "TaCN films are deposited with plasma-enhanced atomic layer deposition (PEALD) using tert-butylimido-tris(diethylamido)-tantalum and hydrogen. It is confirmed that the film is a homogeneous mixture of TaC, TaN, Ta3N5, and Ta2O5 with the oxide phase formed from the post-deposition uptake of oxygen from the air. The effects of process parameters, such as deposition temperature, plasma power, and cycle time, on the film composition and electronic properties are evaluated. With the increase of the TaC and TaN phases over the Ta3N5 phase, the resistivity of the film is decreased. The resistivity of TaCN film deposited using PEALD is as low as 350 mV /C1 cm."
+}

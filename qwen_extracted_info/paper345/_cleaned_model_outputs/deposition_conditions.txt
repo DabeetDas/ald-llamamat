@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "450",
+  "pressure": "500 Pa (5 mbar)",
+  "precursor_pulse_time_s": "30—50",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "3",
+  "number_of_cycles": "1000",
+  "reactor_type": "single wafer ALE reactor with hot wall design",
+  "evidence": "The pulse durations to the range of 1017_1018molearsine used is of SN purity and contains less than 6 ppm oxygen or carbon impurities. The carrier temperatures are adjusted for complete exhaustion of HC1in the source furnace. In our source configuration the temperatures needed to consume the AsH~, Ar HC1 fully are found to be about 620°C for galQMA Ga HCI, Ar hum and 750°C for indium. The pulse durations are typically 30—50ms for HC1 and 1 s for AsH3. To keep HC1 and AsH3 pulses from overlapping the sequence is monitored and adjusted by using a mass spectrometer."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["tris( N,N′-diisopropyl-2-dimethylamido-guanidinato)gadolinium(III) [Gd(DPDMG)3]( 1)", "tris( N,N′-diisopropyl-2-dimethylamido-guanidinato)dysprosium(III) [Dy(DPDMG)3]( 2)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Gd2O3 and Dy2O3 thin films were grown by ALD, where the precursors were used in combination with water as a reactant at reduced pressure at the substrate temperature ranging from 150 °C to 350 °C. High-purity nitrogen (99.9999%) was used as both carrier and purging gas."
+}

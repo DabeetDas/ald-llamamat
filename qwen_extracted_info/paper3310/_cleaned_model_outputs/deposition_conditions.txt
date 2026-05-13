@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "23–28",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "90",
+ "reactor_type": "stainless steel vacuum chamber",
+ "evidence": "For SnO2 deposition, the cycles of TMT saturation and oxidization with plasma-excited humidiﬁed Ar were repeated at room temperatures of 23–28◦C, with optimal conditions determined by MIRIRAS analysis corresponding to a TMT saturation exposure of 2× 105 Langmuir (1 Langmuir= 1× 10−6 Torr s= 1.33× 10−4 Pa s) and an oxidization time of 10 min."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["TMG (trimethylgallium)", "DMAH (dimethylammonium hydride)", "ASH3 (arsine)"],
+  "temperature_range": "530-570°C",
+  "summary": "The study discusses the crystallographic selective growth by atomic layer epitaxy (ALE) of GaAs, focusing on surface processes. The growth temperature and hydrogen purge time after ASH3 supply significantly influence the crystallographic selectivity. The mechanisms involve the self-limiting effect of Ga precursor adsorption and the desorption of As atoms, which are controlled by temperature and purge time. The results show that higher growth temperatures and longer purge times enhance crystallographic selectivity, enabling localized growth over nanometer-scale areas.",
+  "evidence": "The experimental results indicate that higher growth temperature, and longer hydrogen purge time after ASH3 supply, promote the crystallographic selectivity of GaAs ALE growth. The characteristics of the ALE selective growth include high crystallographic selectivity, and high uniformity in the nanometer scale. The mechanisms of ALE selective growth seem to be caused by the separate enhancement of As desorption process and the self-limiting mechanism of Ga precursor adsorption process on the GaAs surface."
+}<|im_end|>

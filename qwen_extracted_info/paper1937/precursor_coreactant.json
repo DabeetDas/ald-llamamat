@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "[EtZn(dab)]2",
+    "[EtZn(damb)]2",
+    "[EtZn(damp)]2",
+    "[EtZn(dadb)]2"
+  ],
+  "coreactants": [
+    "H2O2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "The precursor [EtZn(damp)]2 was used in a thermal ALD with 50% H2O2 as a reactant. The precursor was heated at 135 °C and added to the reaction chamber with high purity argon gas at a flow rate of 30 sccm. The H2O2 was maintained at room temperature and transported without carrier gas."
+}

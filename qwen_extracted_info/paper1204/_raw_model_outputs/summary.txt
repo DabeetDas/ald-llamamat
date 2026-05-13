@@ -1,0 +1,8 @@
+{
+  "target_material": "Silver (Ag)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Ag(fod)(PEt3)", "BH3(NHMe2)"],
+  "temperature_range": "110 ºC",
+  "summary": "The study focuses on the thermal atomic layer deposition (ALD) of silver thin films using Ag(fod)(PEt3) as the metal precursor and BH3(NHMe2) as the reducing agent. The process was carried out at 110 ºC, achieving a growth rate of 0.3 Å/cycle. The films were found to be particulate, polycrystalline, and non-conductive. The catalytic effect of the Ag surface and the activation of BH3(NHMe2) on a Ru surface were investigated, showing enhanced growth rates. The purity of the films was analyzed, revealing impurities such as oxygen, hydrogen, and carbon.",
+  "evidence": "The growth of Ag thin films by thermal atomic layer deposition (ALD) was studied. A commercial Ag compound, Ag(fod)(PEt3), was applied with a reducing agent, dimethyl amineborane (BH3(NHMe2)). A growth rate of 0.3 Å/cycle was measured for Ag at a deposition temperature of 110 ºC. The purity of the particulate, polycrystalline Ag thin films was studied with time-of-flight elastic recoil detection analysis (TOFBERDA) and X-ray photoelectron spectroscopy (XPS). TOFBERDA showed only small amounts of impurities in the film deposited at 110 ºC, the main impurities being oxygen (1.6 at.%), hydrogen (0.8 at.%), and carbon (0.7 at.%)."
+}<|im_end|>

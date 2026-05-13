@@ -1,0 +1,8 @@
+{
+  "target_material": "Si/insulator (HfO2; LaAlO3)",
+  "process_type": "atomic layer chemical vapor deposition (ALCVD) and molecular beam deposition (MBD)",
+  "main_precursors": ["HfCl4", "H2O", "La", "Al", "molecular oxygen"],
+  "temperature_range": "300 °C, 100 °C, 650 °C, 800 °C, 950 °C",
+  "summary": "The study investigates the interface and interlayer properties of Si/insulator structures using electron spin resonance (ESR) to probe defects. The focus is on HfO2 and LaAlO3 as high-k dielectrics deposited on Si. The results show that the Si/LaAlO3 interface remains abrupt and stable up to 800 °C, while the Si/HfO2 interface evolves to a Si/SiO2-like structure at higher temperatures. The study highlights the importance of thermal treatment and the role of interlayers in interface quality.",
+  "evidence": "The study situates within the search for a high-quality dielectric of high k suitable to replace SiO2 as gate dielectric in MOS entities. It has been demonstrated that upon PDA in the presence of oxygen with sufficiently high thermal budget (TanX650 °C), the (1 0 0)Si/HfO2 interface becomes closely standard Si/SiO2 type, exhibiting similar P b-type interface defect densities as encountered in standard thermal Si/SiO2. The (1 0 0)Si/LaAlO3 structure was found to exhibit a high-quality quite robust interface, stable under extended thermal anneals up to /C24 800 °C."
+}<|im_end|>

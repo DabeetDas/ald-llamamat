@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 275,
+  "pressure": "",
+  "precursor_pulse_time_s": 8,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": null,
+  "number_of_cycles": 75,
+  "reactor_type": "showerhead",
+  "evidence": "NiO was deposited at a stage temperature of 275 °C and a Ni(Cp) 2 bubbler temperature of 85–90 °C. Under these conditions, measurements of film thickness after 75 cycles for different pulse lengths showed that saturation was achieved after ≈8 s for the Ni(Cp) 2 pulse and ≈3 s for the O 3 pulse as seen in Figure 1 a,b."
+}

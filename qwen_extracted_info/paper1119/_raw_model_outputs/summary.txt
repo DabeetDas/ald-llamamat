@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "ALD",
+  "main_precursors": ["Zn(C2H5)2 (diethylzinc, DEZn)", "H2O vapor"],
+  "temperature_range": "180 °C",
+  "summary": "A high-quality ZnO epilayer was grown on the (0001) sapphire substrate by atomic layer deposition (ALD) at a low deposition temperature of 180 °C, followed by high-temperature rapid thermal annealing (RTA). The layer-by-layer growth and low deposition temperature of ALD, as well as the RTA treatment, prevent the formation of columnar structures in the ZnO epilayer. The resulting ZnO film exhibited optically-pumped stimulated emission with a low-threshold intensity of 153 kW/cm² at room temperature.",
+  "evidence": "A high-quality ZnO epilayer was grown on the (0001) sapphire substrate by atomic layer deposition (ALD) and followed by high-temperature rapid thermal annealing (RTA). The layer-by-layer growth and low deposition temperature of ALD, as well as the RTA treatment, prevent the formation of columnar structures in the ZnO epilayer. Optically-pumped stimulated emission was achieved with a low-threshold intensity of 153 kW/cm² at room temperature."
+}<|im_end|>

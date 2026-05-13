@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "5 mbar",
+  "precursor_pulse_time_s": "0.2",
+  "coreactant_pulse_time_s": "3",
+  "purge_time_s": "1",
+  "number_of_cycles": "1000",
+  "reactor_type": "F-120",
+  "evidence": "Ozone (O3) was produced from oxygen (O2, AGA, 99.999%) using an ozone generator (Wedeco Ozomatic Modular 4 HC). The nominal O3 concentration was 100 g/Nm3 and the flow rate of the O3eO2 mixture was typically set to approximately 200 sccm using a needle valve. Unless otherwise noted, films were deposited at 250 /C14 C using 1 s MoO2(thd)2 and 3 s O3 pulses separated by 1 s N2 purges."
+}<|im_end|>

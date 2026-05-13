@@ -1,0 +1,8 @@
+{
+  "target_material": "boron nitride (BN)",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["BCl3", "NH3"],
+  "temperature_range": "500 K",
+  "summary": "The paper describes the atomic layer deposition (ALD) of boron nitride (BN) on ZrO2 particles using sequential exposures of BCl3 and NH3 at 500 K. The process involves splitting the binary chemical vapor deposition reaction into two half-reactions, and the surface chemistry was monitored using FTIR spectroscopy. After 26 AB cycles, uniform and conformal BN films with a thickness of ~25 Å were formed on the ZrO2 particles.",
+  "evidence": "The atomic layer deposition (ALD) of boron nitride (BN) was demonstrated on ZrO2 particles. The BN ALD was accomplished by splitting the binary chemical vapor deposition reaction, BCl3 + NH3 → BN + 3HCl, into BCl3 and NH3 half-reactions. BCl3 and NH3 were alternately applied in an ABAB « reaction sequence at 500 K. After the 26 AB cycles at 500 K, transmission electron microscopy studies revealed uniform and conformal BN films with a thickness of ;25 A on the ZrO2 particles."
+}<|im_end|>

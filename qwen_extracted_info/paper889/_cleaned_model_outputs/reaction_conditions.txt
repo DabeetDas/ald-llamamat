@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "During ALD, precursors adsorb uniformly onto the wafer where they react with the existing reactive groups on the wafer surface like –OH or –NH2. When all available groups are saturated the reaction stops and the excess of non-reacted molecules is removed from the reaction chamber by an inert gas flow. Then the second precursor is introduced which chemisorbs onto the active sites.",
+  "intermediate_species": ["reactive groups on the wafer surface like –OH or –NH2", "excess of non-reacted molecules"],
+  "evidence": "During ALD the precursors adsorb uniformly onto the wafer where they react with the existing reactive groups on the wafer surface like –OH or –NH2. When all available groups are saturated the reaction stops and the excess of non-reacted molecules is removed from the reaction chamber by an inert gas flow. Then the second precursor is introduced which chemisorbs onto the active sites."
+}

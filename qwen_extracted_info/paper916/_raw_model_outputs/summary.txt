@@ -1,0 +1,8 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["ruthenium(II)di(ethylcyclopentadienyl) (Ru(EtCp)2)"],
+  "temperature_range": "350 /C176C",
+  "summary": "Ruthenium films were grown by plasma enhanced atomic layer deposition (PEALD) on Si(1 0 0) and ALD TiN. The films were annealed at 800 /C176C for 60 s, resulting in strongly (0 0 2) textured and very smooth films. The study aimed to control the texture of ALD Ru films and investigate the absence of ruthenium silicide formation due to the ammonia plasma creating a SiOxNy reaction barrier layer.",
+  "evidence": "Ruthenium films were grown by plasma enhanced atomic layer deposition (PEALD) on Si(1 0 0) and ALD TiN. X-ray diffraction (XRD) showed that the as-deposited films on Si(1 0 0) were polycrystalline, on TiN they were (0 0 2) oriented. After annealing at 800 /C176C for 60 s, all Ru films were strongly (0 0 2) textured and very smooth. No ruthenium silicide was formed by annealing the ALD Ru films on Si(1 0 0). Comparison with sputter deposited films learned that this occurred because the ammonia plasma created a SiOxNy reaction barrier layer prior to film growth."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ge incorporation into ZrO2 stabilizes the cubic/tetragonal phase of ZrO2 at low temperatures by substituting Zr atoms with Ge atoms, which changes the unit cell volume and polarizability, thereby increasing the dielectric constant. However, beyond a critical Ge content, the amorphous segregation of GeO2 and amorphization of ZrO2 reduce the dielectric constant.",
+  "intermediate_species": ["GeO2", "Zr–O–Zr bonding", "Zr–OH bonding", "Ge–O bond"],
+  "evidence": "Ge incorporation into ZrO2 stabilized the cubic/tetragonal phase of ZrO2 at low temperatures and improved its dielectric properties. The stabilization occurs for a range of Ge contents below a critical value, and the film becomes amorphous when the critical Ge content is exceeded. Segregation of amorphous GeO2 decreases the dielectric constant due to the inherently low dielectric constant (k * 5–6) of GeO2. Furthermore, amorphization of the ZrO2 films in the 1:4 and 1:2 Ge-doped ZrO2 also decreased the dielectric constant."
+}

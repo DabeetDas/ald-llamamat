@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175",
+  "pressure": "250",
+  "precursor_pulse_time_s": "0.5",
+  "coreactant_pulse_time_s": "2",
+  "purge_time_s": "2",
+  "number_of_cycles": "400",
+  "reactor_type": "F-120",
+  "evidence": "The deposition process consisted of successive ALD cycles. Each cycle included a titanium precursor pulse (0.5 s in the case of TiCl4 and 2 s in the case of Ti(OC2H5)4), purge period (2 s), oxygen precursor pulse (2 s in the case of H2O as well as H2O2) and another purge period (2 s). The films were deposited in the N2 atmosphere at the pressure of 250 Pa, whereas the N2 gas (99.999% purity) was used as a carrier of precursors as well as the purge gas that removed surplus precursors and gaseous reaction products from the reaction zone."
+}

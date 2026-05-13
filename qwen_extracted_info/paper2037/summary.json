@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Al(CH3)3",
+    "H2O"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to grow a nanometer-thin Al2O3 gate dielectric on GaAs for metal-oxide-semiconductor field-effect transistors (MOSFETs). The ALD process uses alternating pulses of Al(CH3)3 and H2O as precursors at 300 °C. The resulting oxide layer suppresses gate leakage current and enables high transconductance in GaAs-based devices.",
+  "evidence": "A 8-nm-thick Al2O3 oxide layer was deposited at a substrate temperature of 300 °C, by using alternating pulses of Al(CH3)3 (the Al precursor) and H2O (the oxygen precursor) in a carrier N2 gas flow. The deposited oxide layer is as thin as 8 nm, which is equivalent to the thickness of 3.1 nm for SiO2. The ALD process results in an abrupt interface with the GaAs substrate."
+}

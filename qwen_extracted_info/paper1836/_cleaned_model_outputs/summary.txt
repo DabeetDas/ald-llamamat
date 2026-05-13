@@ -1,0 +1,8 @@
+{
+  "target_material": "Ge-Sb-Se-Te (GSST) quaternary films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Ge(OEt)4", "Sb(OEt)3", "(Me3Si)2Te", "(Me3Si)2Se"],
+  "temperature_range": "70°C",
+  "summary": "Ge-Sb-Se-Te (GSST) quaternary films were prepared through atomic layer deposition (ALD) to ensure their amorphous stability for ovonic threshold switching (OTS) applications. The process involves the incorporation of Se into GeSb-Te (GST) films using Sb(OC2H5)3 and [(CH3)3Si]2Se precursors. The films consist of stoichiometric binaries of GeTe2, Sb2Te3, and Sb2Se3. The study highlights the effect of Se incorporation on the optical bandgap, localized states, and cycling endurance of the OTS devices.",
+  "evidence": "Ge−Sb−Se-Te (GSST) quaternary films were prepared through atomic layer deposition (ALD) to ensure their amorphous stability for ovonic threshold switching (OTS) applications. Se, a typical phase-change material, was incorporated into GeSb-Te (GST) films using Sb(OC2H5)3 and [(CH3)3Si]2Se precursors. The process produces highly conformal, uniform films consisting of stoichiometric binaries of GeTe2, Sb2Te3, and Sb2Se3."
+}

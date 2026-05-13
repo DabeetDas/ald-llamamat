@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["water vapor"],
+  "carrier_gas": [],
+  "evidence": "The Al 2O3 ALD reaction cycle was: (1) TMA dose to 10.0 Torr for 4 s, (2) evacuation to 0.5 Torr for 12 s, (3) H2O dose to 10.0 Torr for 4 s, (4) evacuation to 0.5 Torr for 12 s."
+}<|im_end|>

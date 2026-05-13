@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "290",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.8",
+  "coreactant_pulse_time_s": "0.8",
+  "purge_time_s": "0.2",
+  "number_of_cycles": null,
+  "reactor_type": "vertical UHV-system",
+  "evidence": "the Cd- and Te- pulse times 0.8 s, dead times 0.2 s) at a substrate temperature of 290~"
+}

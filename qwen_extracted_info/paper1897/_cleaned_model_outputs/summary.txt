@@ -1,0 +1,8 @@
+{
+  "target_material": "lithium carbonate (Li2CO3) and lithium lanthanate",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Li(thd) (lithium b-diketonate)", "ozone", "LiO tBu (lithium tert-butoxide)", "water", "LiCp (lithium cyclopentadienyl)", "n-butyllithium", "lithium dicyclohexylamide"],
+  "temperature_range": "185–225 °C",
+  "summary": "The study explores the atomic layer deposition (ALD) of lithium-containing thin films using various precursors. Lithium carbonate (Li2CO3) films were produced by alternating pulses of Li(thd) and ozone at temperatures between 185–225 °C. Lithium lanthanate films were formed by combining the Li(thd) + ozone process with a lanthanum oxide process. The films were analyzed for composition and structure using techniques such as X-ray diffraction (XRD) and time-of-flight elastic recoil detection analysis (TOF-ERDA). The study highlights the potential of ALD for depositing lithium-containing materials in complex structures, particularly for applications in batteries and optoelectronics.",
+  "evidence": "Five different lithium containing compounds, all representing different chemical systems, were studied in order to deposit lithium containing films by atomic layer deposition ALD. The films grown at 225 °C were polycrystalline lithium carbonate as analyzed by X-ray diffraction (XRD). Lithium lanthanate thin films were grown by combining the Li(thd) process with a ALD process for lanthanum oxide from La(thd)3 and ozone. The film composition was varied by controlling the number of lithium carbonate and lanthanum oxide sub-cycles."
+}

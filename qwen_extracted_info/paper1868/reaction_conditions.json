@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process is surface-controlled and based on sequential, self-limiting adsorption of gaseous precursors. Copper sulﬁde thin ﬁlms are deposited using Cu(thd)2 and H2S as precursors. The growth rate is proportional to the number of reaction cycles, leading to excellent thickness control and uniform ﬁlm growth.",
+  "intermediate_species": [
+    "Cu(thd)2",
+    "H2S",
+    "surface hydroxyls"
+  ],
+  "evidence": "The ALD process has certain unique features when compared to conventional thin ﬁlm deposition techniques. It is a surface-controlled chemical vapor-deposition technique that is based on sequential, self-limiting adsorption of gaseous precursors. Gaseous precursor pulses are applied and separated by nitrogen or argon purging gas pulses. After each precursor pulse the surface is saturated with the chemisorbed precursor."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ti(OCH(CH3)2)4", "ZrCl4"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "ZrCl4 (Aldrich, 97%) and Ti(OCH(CH3)2)4 (Aldrich, 97%) were used as precursors. Nitrogen (99.9995%) obtained from a Schmidlin NG 3000 nitrogen generator was used as a carrier and purging gas."
+}

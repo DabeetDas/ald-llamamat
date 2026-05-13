@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "Self-focusing Secondary Ion Mass Spectrometry (SF-SIMS)",
+    "Scanning Electron Microscopy (SEM)",
+    "Rutherford Backscattering Spectrometry (RBS)",
+    "Total X-ray Fluorescence (TXRF)",
+    "Transmission Electron Microscopy (TEM)",
+    "Atomic Force Microscopy (AFM)"
+  ],
+  "evidence": "The evolution of defect growth can be observed on the SiO2 top surface in SEM. The 36 nm hole patterns were patterned using the same chemistries as the line patterns studied earlier, and while the particle growth on the sidewalls could not be quantified due to the geometry and small dimensions of the pattern, the growth behavior on the top surface is quantitatively comparable to that on the top surface of the line patterns. ToF-SIMS is known to be among the most surface-sensitive characterization techniques. The Ru defectivity on SiO2 need to be distinguished from the Ru layer on TiN. In SF-SIMS, this distinction is made by detecting cluster ions which originate specifically from undesired Ru growth on SiO2. The RuSiO+ ion was selected as a signature for Ru defectivity on SiO2. SEM can detect defects on the 36 nm TiN/SiO2 patterns after 42 and 83 Ru ALD cycles. SF-SIMS is able to detect defectivity for all conditions. SEM was used to measure pattern dimensions, the thickness of the deposited layer on TiN, and the density and size distribution of Ru defects on SiO2. Particle radii were extracted from SEM micrographs using the ImageJ software package. The Ru morphology after ASD was studied by TEM. The total amount of deposited Ru on each substrate was characterized either by RBS or by TXRF. ToF-SIMS was used to characterize surface species. SF-SIMS uses the principle that in SIMS, charged clusters consisting of multiple atoms are primarily generated when those atoms are in close proximity on the sample."
+}

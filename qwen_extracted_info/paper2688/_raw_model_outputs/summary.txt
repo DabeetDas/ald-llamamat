@@ -1,0 +1,8 @@
+{
+  "target_material": "Indium oxysulfide (In2(S,O)3)",
+  "process_type": "Plasma-enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": ["Indium acetylacetonate [In(acac)3]", "Hydrogen sulfide (H2S)", "O2/Ar plasma"],
+  "temperature_range": "160 °C",
+  "summary": "The study investigates the chemistry of plasma-enhanced atomic layer deposition (PE-ALD) of indium oxysulfide (In2(S,O)3) thin films for use as buffer layers in Cu(In,Ga)Se2 (CIGS) solar cells. The films were synthesized using indium acetylacetonate, hydrogen sulfide, and an O2/Ar plasma as precursors. The research highlights the impact of plasma on film growth, oxygen incorporation, and the interface with underlying layers, leading to improved performance in CIGS solar cells.",
+  "evidence": "The text states: 'The films were synthesized using indium acetylacetonate [In(acac)3], hydrogen sulfide, and an Ar/O2 plasma as indium, sulfur, and oxygen precursors.' It also mentions: 'The study highlights the impact of plasma on film growth, oxygen incorporation, and the interface with underlying layers, leading to improved performance in CIGS solar cells.'"
+}<|im_end|>

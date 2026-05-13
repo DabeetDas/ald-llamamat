@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "VO(OC3H7)3 (vanadyl triisopropoxide)"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "VO(OC3H7)3 was used as the vanadium precursor, which was kept at 45 °C with a vapor pressure of 0.29 Torr. Ozone as the oxidizing agent was studied in the ALD V2O5 process. A MKS O3MEGA ozone delivery subsystem was employed to supply a stable 18 wt % of O3 from pure O2 source. Unless otherwise stated, all films for the process development were grown with 500 cycles, each being 0.5 s VTOP pulse, 1 s N2 purge, 2 s O3 pulse, and 1 s N2 purge."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 45,
+  "pressure": "",
+  "precursor_pulse_time_s": 140,
+  "coreactant_pulse_time_s": 140,
+  "purge_time_s": 160,
+  "number_of_cycles": null,
+  "reactor_type": "Model Savanna 100",
+  "evidence": "The ALD process was performed by alternatively supplying pulses of nitrogen gas containing either water or TMAl. The substrate temperature was set to 45 1C for all samples, which is lower than those temperatures reported to cause SAMs to degrade structurally. After the initial incubation period, one cycle of the ALD process consisted of a 140 ms water pulse, a 160 s nitrogen purge period, a 140 ms TMAl pulse, and a 16 s nitrogen purge period."
+}<|im_end|>

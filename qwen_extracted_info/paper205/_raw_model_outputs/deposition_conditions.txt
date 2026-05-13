@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-500",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "Fiji LL Cambridge Nanotech ALD reactor",
+  "evidence": "During all growth experiments, NH3 gas flow rate was 50 sccm and exposure time was 40 s, TMA pulse time was 0.1 s, purge time in between precursor pulses was 10 s, and plasma power was maintained at 300 W."
+}<|im_end|>

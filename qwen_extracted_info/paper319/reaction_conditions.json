@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the use of diethylzinc (Zn(C2H5)2, DEZ) and water as the zinc and oxygen sources, respectively. The reaction chamber is maintained at 200 °C with a steady N2 stream. Each ALD cycle consists of a 250-ms precursor pulse and 10-s purging time with N2. The growth rate of ALD ZnO is 0.22 nm per cycle, indicating a self-limiting process without significant CVD reactions.",
+  "intermediate_species": [
+    "ZnO nanoclusters",
+    "surface hydroxyls"
+  ],
+  "evidence": "The ALD process involves the use of diethylzinc (Zn(C2H5)2, DEZ) and water as the zinc and oxygen sources, respectively. The reaction chamber is maintained at 200 °C with a steady N2 stream. Each ALD cycle consists of a 250-ms precursor pulse and 10-s purging time with N2. The growth rate of ALD ZnO is 0.22 nm per cycle, indicating a self-limiting process without significant CVD reactions."
+}

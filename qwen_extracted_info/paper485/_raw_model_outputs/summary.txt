@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Molecular Layer Epitaxy (MLE)",
+  "main_precursors": ["triethyl-gallium (TEG)", "AsH3", "Te(CH3)2 (diethyl-tellurium: DETe)", "Se(CH3)2 (diethyl-selenium: DESe)"],
+  "temperature_range": "265°C",
+  "summary": "The study investigates the self-limiting growth of GaAs with doping using molecular layer epitaxy (MLE) with triethyl-gallium (TEG), AsH3, and dopant precursors DETe or DESe. The self-limiting monolayer growth occurs at 265°C, and the growth rate per cycle decreases with increasing DETe pressure, saturating at about 0.4 monolayer. The carrier concentration increases with DETe pressure and saturates at 1.1–1.4 × 10^19 cm⁻³. The growth rate reduction is attributed to the electrical characteristics of the growing surface, specifically the exchange reaction of TEG and AsH3.",
+  "evidence": "Self-limiting monolayer growth is achieved at the temperature of 265°C; however, the growth rate per cycle of doping decreased with increasing DETe pressure and saturated at about 0.4 monolayer with a saturation of the carrier concentration at 1.1–1.4 × 10^19 cm⁻³. The carrier concentration was strongly influenced by the surface-terminating species, and the growth rate reduction in the TEG–AsH3 system is due to the electrical characteristics of the growing surface, namely, the exchange reaction of TEG and AsH3, particularly the surface reaction of TEG forming Ga-C2H5, suppressed with increase in the doping density."
+}<|im_end|>

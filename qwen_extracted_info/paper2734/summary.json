@@ -1,0 +1,11 @@
+{
+  "target_material": "Silicon",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "SiH2Cl2",
+    "Atomic hydrogen (H)"
+  ],
+  "temperature_range": "550 °C to 610 °C",
+  "summary": "The study describes a gas-phase-reaction-controlled atomic layer epitaxy (ALE) process for silicon deposition using SiH2Cl2 and atomic hydrogen. The process achieves an ideal growth rate of 1 monolayer per cycle under high pressure and long residence time conditions, with a temperature range of 550 °C to 610 °C. The gas-phase reaction of SiH2Cl2 generates a desirable precursor, monochlorosilylene (MCS), which is crucial for achieving the ideal growth rate.",
+  "evidence": "An ideal growth rate of 1 monolayer per cycle has been achieved with a wide temperature window from 550 °C to 610 °C under long SiH2Cl2 residence time and high pressure conditions. These requirements seem to come from the generation of dense SiHCl, the desirable precursor, by gas-phase reaction of SiH2Cl2."
+}

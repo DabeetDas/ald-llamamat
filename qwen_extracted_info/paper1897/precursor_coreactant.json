@@ -1,0 +1,65 @@
+{
+  "precursors": [
+    {
+      "name": "Li(thd)",
+      "abbreviation": "Li(thd)",
+      "full_name": "lithium b-diketonate",
+      "evidence": "Five different lithium containing compounds, all representing different chemical systems, were studied in order to deposit lithium containing films by atomic layer deposition ALD. The studied compounds were a lithium b-diketonate Li(thd) (thd ¼ 2,2,6,6-tetramethyl-3,5-heptanedionate), a lithium alkoxide LiO tBu (OtBu ¼ tert-butoxide), a lithium cyclopentadienyl LiCp (Cp ¼ cyclopentadienyl), a lithium alkyl n-butyllithium, and a lithium amide lithium dicyclohexylamide."
+    },
+    {
+      "name": "LiO tBu",
+      "abbreviation": "LiO tBu",
+      "full_name": "lithium tert-butoxide",
+      "evidence": "Five different lithium containing compounds, all representing different chemical systems, were studied in order to deposit lithium containing films by atomic layer deposition ALD. The studied compounds were a lithium b-diketonate Li(thd) (thd ¼ 2,2,6,6-tetramethyl-3,5-heptanedionate), a lithium alkoxide LiO tBu (OtBu ¼ tert-butoxide), a lithium cyclopentadienyl LiCp (Cp ¼ cyclopentadienyl), a lithium alkyl n-butyllithium, and a lithium amide lithium dicyclohexylamide."
+    },
+    {
+      "name": "LiCp",
+      "abbreviation": "LiCp",
+      "full_name": "lithium cyclopentadienyl",
+      "evidence": "Five different lithium containing compounds, all representing different chemical systems, were studied in order to deposit lithium containing films by atomic layer deposition ALD. The studied compounds were a lithium b-diketonate Li(thd) (thd ¼ 2,2,6,6-tetramethyl-3,5-heptanedionate), a lithium alkoxide LiO tBu (OtBu ¼ tert-butoxide), a lithium cyclopentadienyl LiCp (Cp ¼ cyclopentadienyl), a lithium alkyl n-butyllithium, and a lithium amide lithium dicyclohexylamide."
+    },
+    {
+      "name": "n-BuLi",
+      "abbreviation": "n-BuLi",
+      "full_name": "n-butyllithium",
+      "evidence": "Five different lithium containing compounds, all representing different chemical systems, were studied in order to deposit lithium containing films by atomic layer deposition ALD. The studied compounds were a lithium b-diketonate Li(thd) (thd ¼ 2,2,6,6-tetramethyl-3,5-heptanedionate), a lithium alkoxide LiO tBu (OtBu ¼ tert-butoxide), a lithium cyclopentadienyl LiCp (Cp ¼ cyclopentadienyl), a lithium alkyl n-butyllithium, and a lithium amide lithium dicyclohexylamide."
+    },
+    {
+      "name": "Lithium dicyclohexylamide",
+      "abbreviation": "Lithium dicyclohexylamide",
+      "full_name": "lithium dicyclohexylamide",
+      "evidence": "Five different lithium containing compounds, all representing different chemical systems, were studied in order to deposit lithium containing films by atomic layer deposition ALD. The studied compounds were a lithium b-diketonate Li(thd) (thd ¼ 2,2,6,6-tetramethyl-3,5-heptanedionate), a lithium alkoxide LiO tBu (OtBu ¼ tert-butoxide), a lithium cyclopentadienyl LiCp (Cp ¼ cyclopentadienyl), a lithium alkyl n-butyllithium, and a lithium amide lithium dicyclohexylamide."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "ozone",
+      "abbreviation": "ozone",
+      "full_name": "ozone",
+      "evidence": "Films containing lithium carbonate (Li 2CO3) were obtained from alternate pulsing of Li(thd) and ozone in a temperature range of 185–300 /C14 C."
+    },
+    {
+      "name": "water",
+      "abbreviation": "water",
+      "full_name": "water",
+      "evidence": "Lithium containing films were also obtained from LiCp and water and from LiO tBu and water."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "N2",
+      "abbreviation": "N2",
+      "full_name": "nitrogen",
+      "evidence": "The reactor pressure was ca. 3m bar and a N2 flow (99.9995%) of 300 cm 3 min/C0 1 was used as a carrier gas."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "N2",
+      "abbreviation": "N2",
+      "full_name": "nitrogen",
+      "evidence": "The reactor pressure was ca. 3m bar and a N2 flow (99.9995%) of 300 cm 3 min/C0 1 was used as a carrier gas."
+    }
+  ],
+  "evidence": "Five different lithium containing compounds, all representing different chemical systems, were studied in order to deposit lithium containing films by atomic layer deposition ALD. The studied compounds were a lithium b-diketonate Li(thd) (thd ¼ 2,2,6,6-tetramethyl-3,5-heptanedionate), a lithium alkoxide LiO tBu (OtBu ¼ tert-butoxide), a lithium cyclopentadienyl LiCp (Cp ¼ cyclopentadienyl), a lithium alkyl n-butyllithium, and a lithium amide lithium dicyclohexylamide. Films containing lithium carbonate (Li 2CO3) were obtained from alternate pulsing of Li(thd) and ozone in a temperature range of 185–300 /C14 C. Lithium containing films were also obtained from LiCp and water and from LiO tBu and water. The reactor pressure was ca. 3m bar and a N2 flow (99.9995%) of 300 cm 3 min/C0 1 was used as a carrier gas."
+}

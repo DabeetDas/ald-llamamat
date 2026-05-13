@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "plasma-assisted ALD",
+  "main_precursors": ["Al(CH3)3", "O2"],
+  "temperature_range": "70 °C",
+  "summary": "The study investigates the plasma-assisted atomic layer deposition (ALD) of Al2O3 using Al(CH3)3 and O2 plasma. The process involves chemisorption of Al(CH3)3 on the surface, followed by oxidation using O2 plasma. The reaction mechanisms include combustion-like reactions producing CO, CO2, and H2O, as well as secondary thermal ALD-like reactions. The study also highlights the role of surface reactions in plasma properties and the formation of hydrocarbon species.",
+  "evidence": "The text describes the plasma-assisted ALD process of Al2O3 using Al(CH3)3 and O2 plasma. It details the chemisorption of Al(CH3)3, the oxidation step with O2 plasma, and the formation of reaction products such as CO, CO2, and H2O. The study also mentions the presence of hydrocarbon species and the role of surface reactions in plasma properties."
+}<|im_end|>

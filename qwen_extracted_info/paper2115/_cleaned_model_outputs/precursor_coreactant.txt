@@ -1,0 +1,7 @@
+{
+  "precursors": ["Er(TMHD)3", "Y(TMHD)3"],
+  "coreactants": ["O radicals"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The deposition relied on sequential self-limiting surface reactions of M(TMHD)3 with O radicals, which have been investigated in detail in our previous studies. 23 Specifically, the film growth started with self-saturated adsorption of M(TMHD)3 on surface reactive sites, most likely surface terminated OH- groups (M – OH – bonding). This is followed by an exposure to O radicals where the organic /kappa-diketonate ligands are removed, and reactive sites are regenerated for subsequent precursor adsorption, thus repeating the ALD cycle."
+}

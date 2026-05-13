@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "125",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "60",
+  "coreactant_pulse_time_s": "10",
+  "purge_time_s": "300",
+  "number_of_cycles": "16",
+  "reactor_type": "quartz-walled chamber with controlled flows of DEZn and H2O",
+  "evidence": "The DEZn pulse time was ﬁxed at 1 min, followed by a 5 min purge and a 10 s H2O pulse. The purge step following each H2O pulse was relatively long (30 min) in order to conduct several x-ray measurements."
+}

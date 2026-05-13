@@ -1,0 +1,8 @@
+{
+  "target_material": "hafnium silicate",
+  "process_type": "thermal ALD",
+  "main_precursors": ["HfCl2[N(SiMe3)2]2", "H2O"],
+  "temperature_range": "200°C to 450°C",
+  "summary": "This study investigates the atomic layer deposition (ALD) mechanism for hafnium silicate thin films using HfCl2[N(SiMe3)2]2 and H2O. In situ FT-IR spectroscopy was employed to monitor surface reactions and the formation of Si–O–Si peaks, which are indicative of silicon incorporation into the film. The growth rate and film composition were analyzed as a function of temperature, revealing that the incorporation of silicon increases with temperature. The study also highlights the thermal stability of the precursor and the role of surface functional groups in the ALD process.",
+  "evidence": "In situ Fourier transform infrared (FT-IR) spectroscopy was used to study the atomic layer deposition mechanism of hafnium silicate films with dichlorobis [bis(trimethylsilyl)amido] hafnium (HfCl2fNsSiMe3d2g2) and water. The surface species was monitored during atomic layer deposition using vacuum chambers designed for in situ FT-IR spectroscopy studies. It was found that Si–O–Si peaks between 1000 and 1200 cm−1 were formed when water was dosed above 300°C, which could explain the incorporation mechanism of Si into the film."
+}<|im_end|>

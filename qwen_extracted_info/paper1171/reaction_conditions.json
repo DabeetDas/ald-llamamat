@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of the indium precursor and water, leading to the formation of indium oxide. The growth mechanism is influenced by the deposition temperature, with lower temperatures favoring the formation of a rhombohedral structure and higher temperatures leading to a cubic structure. The reaction is likely a surface reaction where the indium precursor reacts with water to form indium oxide, with the surface species playing a crucial role in the reaction dynamics.",
+  "intermediate_species": [
+    "In(OH)3",
+    "surface hydroxyls",
+    "indium oxide surface species"
+  ],
+  "evidence": "The text discusses the decomposition of the indium precursor and water during the ALD process, leading to the formation of indium oxide. It mentions the formation of surface species and the influence of deposition temperature on the crystalline structure, indicating the presence of intermediate species during the reaction. The specific reaction steps are not explicitly detailed, but the overall mechanism is described through the phase transition and surface chemistry."
+}

@@ -1,0 +1,9 @@
+{
+  "characterization_methods": [
+    "Variable angle spectroscopic ellipsometry (VASE)",
+    "Photoconductance decay (PCD) transient mode",
+    "Quasi-steady-state (QSS) generalized mode",
+    "Photoluminescence (PL) imaging"
+  ],
+  "evidence": "Variable angle spectroscopic ellipsometry (J.A. Woolam M2000D) was performed on polished samples that were also immersed in HF prior to Ga2O3 deposition in order to measure the thickness of the deposited films. The effective minority carrier lifetime (s_eff) was measured as a function of the excess carrier concentration (Dn) on symmetrically deposited lifetime structures using a Sinton Instruments WCT-120 photoconductance tool operating in the photoconductance decay (PCD) transient mode for the annealed samples, and in the quasi-steady-state (QSS) generalized mode for the as-deposited samples. Photoluminescence (PL) imaging of the passivated wafers showed a uniformity in passivation across the 4 in. wafer surface."
+}

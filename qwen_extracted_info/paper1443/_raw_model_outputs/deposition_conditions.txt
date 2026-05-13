@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 85,
+  "pressure": "300 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 29,
+  "number_of_cycles": null,
+  "reactor_type": "Viscous flow reactor",
+  "evidence": "The Al2O3 ALD growth occurs during alternating exposures to TMA and H2O. ... The reactant purges are long and the reactant exposure sequence is 1-29-1-29. All of the times are given in seconds. This notation indicates a1s exposure to TMA, a 29 s purge of the excess TMA, a1s exposure of H2O, and a 29 s purge of the excess H2O."
+}<|im_end|>

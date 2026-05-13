@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "1 70",
+  "pressure": "300 mTorr",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "Cyclic 4000",
+  "evidence": "The ZrO2 thin films were deposited onto the substrates using [Zr(OC(CH3)3)4] (Aldrich; 99%) and H2O as ALD precursors. Ar served as both a carrier and a purging gas. The zirconium tetra-tertbutoxide (ZTB) and water were evaporated at 30 and 20 °C, respectively. The cycle consisted of 2 s exposure to ZTB, 20 s Ar purge, 1 s exposure to water, and 5 s Ar purge. The vapor pressure of the Ar in the reactor was maintained at 300 mTorr. The ZrO2 thin films were grown at 1 70 °C under a pressure of 300 mTorr."
+}

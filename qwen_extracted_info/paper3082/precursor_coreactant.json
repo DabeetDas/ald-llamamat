@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Ru/EtCp"
+  ],
+  "coreactants": [
+    "NH3 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Ruthenium thin films were grown on 20 nm thick TiN/100 nm thick SiO2/Si wafers at a deposition temperature of 270°C using alternating supplies of Ru/EtCp and NH3 plasma. Ru/EtCp was carried by argon gas at a flow rate of 50 sccm through a bubbler at 80°C. One cycle of ruthenium PEALD included four consecutive pulses: a pulse of Ru/EtCp vapor, a purge pulse with 50 sccm argon flow, a pulse for exposure to NH3 plasma, and another purge pulse with argon gas at a flow rate of 50 sccm."
+}

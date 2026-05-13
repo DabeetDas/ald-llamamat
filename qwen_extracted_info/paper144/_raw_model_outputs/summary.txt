@@ -1,0 +1,8 @@
+{
+  "target_material": "BaTiO3",
+  "process_type": "ALD",
+  "main_precursors": ["Ba(tBu3C5H2)2", "Ti(OMe)4", "H2O"],
+  "temperature_range": "340 °C",
+  "summary": "Barium titanate thin films are grown by atomic layer deposition (ALD) at 340 °C using barium cyclopentadienyl and titanium methoxide precursors. H2O is used as the oxygen source. The as-deposited amorphous films are crystallized by post-deposition annealing at 600 °C. The study focuses on the effect of barium hydroxide formation during the ALD process.",
+  "evidence": "Barium titanate thin films are grown by atomic layer deposition (ALD) at 340 °C from barium cyclopentadienyl and titanium methoxide precursors. H2O is used as the oxygen source. The as-deposited amorphous films are crystallized by post-deposition annealing at 600 °C. Permittivities of 15 and 70 are measured for as-deposited and post-deposition annealed films, respectively."
+}<|im_end|>

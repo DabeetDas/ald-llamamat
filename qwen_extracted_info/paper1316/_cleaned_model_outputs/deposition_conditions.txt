@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100 −225",
+  "pressure": "0.2−0.3 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 15,
+  "number_of_cycles": 25,
+  "reactor_type": "Cambridge Nanotech, Inc. Savannah S200 ALD reactor",
+  "evidence": "MnS thin films were deposited at 100 −225 °C in a Cambridge Nanotech, Inc. Savannah S200 ALD reactor, modified for H2S compatibility, in situ quadrupole mass spectroscopy (QMS), in situ quartz crystal microbalance (QCM), and integrated into a N2-filled glovebox. N2 purge gas was passed through an inert gas purifier (Entegris) and continuously flowed at 10 sccm with rough pumping for a steady chamber pressure of ∼0.2−0.3 Torr when no precursors were pulsing. The ALD reactant pulse timing sequence was t1−t2−t3−t4, where t1 is the pulse time for Mn(EtCp)2, t2 is the purge following the Mn(EtCp)2 pulse, t3 is the H2S pulse, and t4 is the purge following the H2S pulse. All exposure and purge times are in seconds. The sequence for MnS ALD was 1 −15−0.1−15, unless otherwise noted."
+}

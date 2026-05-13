@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "thermal ALD and plasma ALD",
+  "main_precursors": ["Al(CH3)3", "O2", "HfCl4", "H2O", "Hf(N(CH3)2)4"],
+  "temperature_range": "250 °C to 300 °C",
+  "summary": "The study investigates the energy barriers at the interfaces of (100)GaAs with atomic layer deposited (ALD) Al2O3 and HfO2. The research focuses on the impact of the interlayer (IL) formed during ALD on the electron injection and interface band alignment. The ALD process uses different precursors and conditions, including thermal ALD and plasma-assisted ALD, to grow the oxide layers. The formation of an oxide interlayer due to GaAs oxidation during ALD is found to significantly reduce the energy barriers, which can lead to enhanced charge injection from GaAs into the insulating stack.",
+  "evidence": "The text states that the ALD process uses thermal ALD from Al(CH3)3 and H2O precursors at 300 °C, and plasma ALD from Al(CH3)3 and O2 precursors at 300 °C. It also mentions the use of HfCl4 and H2O precursors for HfO2 growth at 300 °C, and Hf(N(CH3)2)4 and H2O precursors at 250 °C. The temperature range is specified as 250 °C to 300 °C. The study highlights the formation of an oxide interlayer due to GaAs oxidation during ALD, which reduces the energy barriers for electron injection."
+}

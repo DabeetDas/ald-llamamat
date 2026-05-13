@@ -1,0 +1,7 @@
+{
+  "precursors": ["InCl3", "ZrCl4", "water"],
+  "coreactants": [],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "InCl (Strem, 99.999%), ZrCl (Aldrich, 99% ) and distilled water4 were used as precursors and nitrogen (99.999%) was used as a carrier and purging gas."
+}

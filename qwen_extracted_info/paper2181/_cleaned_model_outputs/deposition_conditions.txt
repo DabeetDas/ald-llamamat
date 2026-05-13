@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "150",
+ "pressure": "",
+ "precursor_pulse_time_s": "0.25",
+ "coreactant_pulse_time_s": "0.02",
+ "purge_time_s": "150",
+ "number_of_cycles": "20",
+ "reactor_type": "F-120",
+ "evidence": "Thin films of amorphous HfO2 are deposited conformally on silicon air-bridged photonic crystal slabs by means of ALD at 150 ° C. Films were deposited using tetrakis (diethylamido)hafnium (IV)/Hf(DEA)4 and water (H2O) vapor in alternating pulses with N2 purge of the reaction chamber between pulses. Each deposition step includes 20 ALD cycles, and each cycle consists of Hf(DEA)4 injection for 0.25 s, N2 purge for 150 s, H2O injection for 0.02 s, and N2 purge for 200 s."
+}

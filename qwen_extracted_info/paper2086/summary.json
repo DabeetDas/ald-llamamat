@@ -1,0 +1,11 @@
+{
+  "target_material": "Y2O3",
+  "process_type": "radical-enhanced ALD",
+  "main_precursors": [
+    "Y(TMHD)3",
+    "Er(TMHD)3"
+  ],
+  "temperature_range": "300 °C to 350 °C",
+  "summary": "The study demonstrates the use of radical-enhanced atomic layer deposition (ALD) to incorporate erbium into Y2O3 thin films. The process involves alternating cycles of Y2O3 and Er2O3 deposition, allowing for controlled erbium doping levels. Room-temperature photoluminescence was observed in a 320-Å Er-doped Y2O3 film deposited at 350 °C, indicating the effectiveness of the technique in preserving the optically active trivalent state of erbium ions without requiring high-temperature annealing.",
+  "evidence": "A high concentration of erbium doping was achieved in Y2O3 thin films on Si by depositing Y2O3 alternatively with Er2O3 using radical-enhanced atomic layer deposition. Room-temperature photoluminescence was observed in a 320-Å Er-doped Y2O3 film deposited at 350 °C. This result is very promising, since the film was fairly thin and no annealing at high temperature was needed to activate the erbium ions."
+}

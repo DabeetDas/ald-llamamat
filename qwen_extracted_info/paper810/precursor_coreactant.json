@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethylaluminum (TMA)",
+    "triethylgallium (TEG)"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "TMA (UP Chemical, Korea) and triethyl gallium (TEG; Lake Materials, Korea) were used as metal precursors for Al and Ga, respectively. NH3 and N2 were used as reactant and purge gas, respectively."
+}

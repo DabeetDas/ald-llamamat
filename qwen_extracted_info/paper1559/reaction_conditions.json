@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Water molecules strongly bound to GeO2 on GeNWs cause hysteresis. The hysteresis is due to the association of water with GeO2 and the desorption of water molecules being difficult in vacuum. The surface states on GeNWs, particularly GeO2, lead to Fermi level pinning and band bending, which affects the electrical properties of the GeNWs.",
+  "intermediate_species": [
+    "GeO",
+    "GeO2",
+    "H2O"
+  ],
+  "evidence": "The text states: 'Large hysteresis due to water molecules strongly bound to GeO2 on GeNWs is revealed.' It also mentions: 'The hysteresis is large (on the order of ~1 V), slow, and dependent on gate sweep rate (in the range of ΔVgs/Δt ) 0.03-0.6 V/s). It is possible that GeOx/Ge interface states also give rise to hysteresis behavior, but at a different time scale than the one probed here by DC electrical measurements.' Additionally, 'The surface chemistry of GeNWs exposed to air contains native oxides on surfaces. The suggested strong interaction/association between H2O from the ambient air and surface GeO2 is reasonable because GeO2 is known to be soluble in H2O.'"
+}

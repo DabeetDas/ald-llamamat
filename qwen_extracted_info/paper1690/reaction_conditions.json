@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "(-OH)n + TiCl4 → (-O-)nTiCl4-n + nHCl",
+    "(-O-)nTiCl4-n + (4 - n)H2O → (-O-)nTi(OH)4-n + (4 - n)HCl"
+  ],
+  "surface_mechanism_description": "TiCl4 reacts with surface OH groups to form TiClx groups, which are then hydrolyzed with water vapor to recreate OH groups necessary for the next cycle. The surface reactions involve ligand exchange and hydrolysis, leading to the formation of Ti-O-Si bonds and the regeneration of surface hydroxyl groups.",
+  "intermediate_species": [
+    "TiClx groups",
+    "Ti(OH)2Cl2",
+    "Si-Cl groups",
+    "Si-OH groups",
+    "Ti-O-Ti bonds"
+  ],
+  "evidence": "In the first step, TiCl4 reacts with the surface OH groups forming TiClx groups, where x can be 3 (monodentate reaction) or 2 (didentate reaction). The second step involves hydrolysis of these TiClx groups with water vapor to re-create OH groups. The reaction of HCl with the growing TiO2 leads to liberation of H2O. The formation of Ti-O-Si bonds and the presence of Ti-O-Ti bonds are also discussed."
+}

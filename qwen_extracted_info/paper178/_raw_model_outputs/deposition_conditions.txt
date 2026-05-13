@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": 480,
+  "reactor_type": "Picosun SUNALE R-150B",
+  "evidence": "Pure ZnO and Al 2O3 films were deposited in a commercial Picosun SUNALE R-150B ALD reactor using DEZ (6N; Nata Opto-electronic Material Co., Ltd.), AIP (98%; Strem Chemicals, Inc.), and deionized water as Zn, Al, and oxygen precursors, respectively. Pure N 2 (5N) was used as the carrier and purge gases. During the deposition process, DEZ and water were kept at room temperature, while the AIP precursor was heated to 115–140 8C to generate various vapor pressures. Pulse time of all precursors was 0.1 s, followed by a 5 s N2 purge step to blow away redundant precursors."
+}<|im_end|>

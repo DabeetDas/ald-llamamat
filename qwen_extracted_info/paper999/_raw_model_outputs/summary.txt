@@ -1,0 +1,8 @@
+{
+  "target_material": "BeO",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["diethylberyllium", "O2 plasma"],
+  "temperature_range": "287°C",
+  "summary": "Beryllium oxide (BeO) thin films were grown on p-type Si substrates using plasma enhanced atomic layer deposition (PEALD) with diethylberyllium as a precursor and O2 plasma. The PEALD BeO films exhibited self-saturation and linear growth rates. The dielectric properties of PEALD BeO were compared with those of thermal atomic layer deposition (ThALD). PEALD BeO showed low hysteresis, low leakage current, and a dielectric constant of 7.15 at 1MHz. The results indicated that the high activation of radicals from oxygen plasma improved the chemical reaction at the substrate, reducing nucleation delay and interface trap density.",
+  "evidence": "Beryllium oxide (BeO) thin films were grown on a p-type Si substrate by plasma enhanced atomic layer deposition(PEALD)usingdiethylberylliumasaprecursorandO2plasma.ThePEALDBeOexhibitedself-saturation and linear growth rates. The dielectric properties of PEALD were compared with those of thermal atomic layer deposition (ThALD). X-ray photoelectron spectroscopy was performed to determine the bandgap energy of PEALD BeO (8.0eV) and ThALD BeO (7.9eV). Capacitance–voltage curves revealed that PEALD BeO had low hysteresis and frequency dispersion compared to ThALD BeO. In addition, PEALD showed a dielectric constant of 7.15 (at 1MHz) and low leakage current (×7.25 10 9 A/cm 2 at −1MV/cm). These results indicate that the highly activated radicals from oxygen plasma prompt the chemical reaction at the substrate, thus reducing nucleation delay and interface trap density."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "diethylzinc (DEZ)",
+    "concentrated H2O2"
+  ],
+  "temperature_range": "100 °C",
+  "summary": "The study investigates the crystal phase evolution of quantum confined ZnO domains on spherical SiO2 particles using atomic layer deposition (ALD). The process involves the use of diethylzinc (DEZ) and concentrated H2O2 as precursors at 100 °C. The crystallite size of the ZnO films increases linearly with the number of ALD cycles and is further enhanced by thermal annealing. The study highlights the ability of ALD to deposit quantum confined materials on substrates of various geometries and morphologies, with a focus on the effects of particle size, thermal treatment, and precursor exposure on crystallite growth and bandgap shifts.",
+  "evidence": "ZnO ALD films were deposited using diethylzinc (DEZ) and concentrated H2O2 (50% in H2O) as precursors at substrate temperatures of 100 °C. The self-limiting nature of this gas-phase deposition process allows for the formation of precision-thickness layers on 3-D substrates. Thermal annealing post-treatments were performed at temperatures up to 550 °C."
+}

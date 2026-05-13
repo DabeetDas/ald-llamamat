@@ -1,0 +1,8 @@
+{
+  "target_material": "Tin dioxide",
+  "process_type": "Pulsed atomic-layer CVD (ALD)",
+  "main_precursors": ["SnCl4", "H2O"],
+  "temperature_range": "325 to 525 8C",
+  "summary": "The study describes the preparation of sub-nanometer thickness-controlled tin dioxide films using pulsed atomic-layer chemical vapor deposition (ALD). The films were grown on glass substrates at temperatures between 325 and 525 8C, with a constant growth rate of 1.6 A per cycle. The films exhibited (110) and (100) orientations, and the study also developed a dry method for thickness measurement using X-ray photoelectron spectroscopy depth profiles.",
+  "evidence": "Tin dioxide coatings of sub-nanometer thickness on glass were prepared between 325 and 525 8C by pulsed atomic-layer chemical vapor deposition. The sample films grown on substrates at 400 to 450 8C exhibited a constant growth rate of 1.6 A ycycle, corresponding to one-fourth the length of tin dioxide (110) lattice spacings. The preferred orientations of the films are (110) and (100)."
+}

@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of La(thd)3 and Ni(acac)2 as cation precursors with ozone as the oxidant. The La(thd)3 + O3 process and Ni(acac)2 + O3 process are sequentially employed to deposit LaNiO3 thin films. The self-limiting growth is achieved through the alternating pulses of the precursors and ozone, leading to the formation of epitaxial LaNiO3 films at 225 °C without post-annealing.",
+  "intermediate_species": [
+    "La(thd)3",
+    "Ni(acac)2",
+    "O3",
+    "LaNiO3"
+  ],
+  "evidence": "The La(thd)3 + O3 process is known to exhibit controlled growth in the 200 –350 °C temperature range, limited downwards by its applicable sublimation temperature (185 °C) and upwards by thermal decomposition of the precursor. The Ni(acac)2 + O3 process has a similar low-temperature limit, but Ni(acac)2 starts to decompose already at around 300 °C. To minimize the thermal budget, but still facilitate controlled growth and a temperature gradient from the precursor source to the reaction chamber, we chose to employ a reactor temperature of 225 °C for the deposition of the La-Ni-O-system."
+}

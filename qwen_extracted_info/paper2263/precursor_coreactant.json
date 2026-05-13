@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Zn",
+    "SeTe"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "He"
+  ],
+  "carrier_gas": [
+    "He"
+  ],
+  "evidence": "The epitaxial growth was performed in low-pressure helium atmosphere (0.1 mbar) by sequential exposures of the substrate to vapors of a solid solution of selenium-tellurium and elemental zinc. A combination of helium flux and mechanical vacuum was used in order to improve the diffusion or transport of precursor materials among the sources and the growing surface."
+}

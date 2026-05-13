@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "CO2 (m/z = 44) as well as different traces that can be linked to fragments of the ligands, with m/z = 91 (C7H7) showing the highest partial pressures."
+  ],
+  "surface_mechanism_description": "The surface chemistry of Ru ALD from EBECHRu and O2 was investigated by in situ QMS measurements. The main reaction products identified in the gas phase were CO2 (m/z = 44) as well as different traces that can be linked to fragments of the ligands, with m/z = 91 (C7H7) showing the highest partial pressures. No Ru-containing molecules were found above the detection limits in the reaction gas, in particular not for m/z = 315, i.e. for the EBECHRu molecule. This is consistent with earlier measurements for different ALD processes using the same setup (QMS and reactor) and was explained by the presence of a ceramic absorber in the exhaust line that removes molecules with low vapor pressure from the exhaust gas.",
+  "intermediate_species": [
+    "CO2",
+    "C7H7",
+    "C6H7"
+  ],
+  "evidence": "The surface chemistry of Ru ALD from EBECHRu and O2 was investigated by in situ QMS measurements. The main reaction products identified in the gas phase were CO2 (m/z = 44) as well as different traces that can be linked to fragments of the ligands, with m/z = 91 (C7H7) showing the highest partial pressures. No Ru-containing molecules were found above the detection limits in the reaction gas, in particular not for m/z = 315, i.e. for the EBECHRu molecule. This is consistent with earlier measurements for different ALD processes using the same setup (QMS and reactor) and was explained by the presence of a ceramic absorber in the exhaust line that removes molecules with low vapor pressure from the exhaust gas."
+}

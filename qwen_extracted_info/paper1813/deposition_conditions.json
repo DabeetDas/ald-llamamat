@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "130",
+  "reactor_type": "Ensure Scientific Group AutoALD7PE V2.0",
+  "evidence": "The PEALD SnO 2 ESLs were deposited at 100 oC with an Ensure Scientific Group AutoALD7PE V2.0 equipped with a plasma generator."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "BaTiO3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["barium bis(triisopropylcyclopentadienyl)", "titanium tetraisopropoxide", "water"],
+  "temperature_range": "225 /C14 C",
+  "summary": "The study reports the epitaxial growth of c-axis oriented BaTiO3 thin films on SrTiO3-buffered Si(001) using atomic layer deposition (ALD). The ALD process uses barium bis(triisopropylcyclopentadienyl), titanium tetraisopropoxide, and water as co-reactants. The films are grown at 225 /C14 C, and vacuum annealing at 600 /C14 C improves crystallinity. The BTO films show a high degree of crystallinity and c-axis orientation, with an effective dielectric constant of /C24 660 for the heterostructure.",
+  "evidence": "The ALD growth of crystalline BTO films at 225 /C14 C used barium bis(triisopropylcyclopentadienyl), titanium tetraisopropoxide, and water as co-reactants. X-ray diffraction (XRD) reveals a high degree of crystallinity and c-axis orientation of as-deposited BTO films. Crystallinity is improved after vacuum annealing at 600 /C14 C. The capacitance-voltage characteristics of 7–20 nm-thick BTO films are examined and show an effective dielectric constant of /C24 660 for the heterostructure."
+}

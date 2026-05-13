@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the nucleation and growth of Co and TiN on each other's surfaces, with ALD TiN undergoing nucleation incubation on ALD Co surface, while ALD Co does not undergo nucleation incubation on ALD TiN surface. The interdiffusion of Co into TiN occurs at low temperatures, forming an amorphous interlayer.",
+  "intermediate_species": ["Co", "TiN", "Co2Ti"],
+  "evidence": "The text states: 'the nucleation incubation of ALD TiN on ALD Co, which was not observed on the Si substrate, occurred. ... The TEM observations, however, suggest diffusion between Co and TiN even though the process temperature was relatively low (200 °C). Evidence for this diffusion is the interlayer preferentially formed in the TiN layer but not in the Co layer. ... The preferential formation of the interlayer is explained by the Kirkendall effect.'"
+}

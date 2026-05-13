@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150 – 200",
+  "pressure": "133 Pa",
+  "precursor_pulse_time_s": 90,
+  "coreactant_pulse_time_s": 90,
+  "purge_time_s": 270,
+  "number_of_cycles": null,
+  "reactor_type": "viscous flow reactor",
+  "evidence": "The ZnO films were deposited at temperatures of 150 – 200 °C using alternating exposures to diethyl zinc (DEZ, Aldrich) and deionized water with exposure times of 90 s and purge times of 270 s between reactant exposures."
+}<|im_end|>

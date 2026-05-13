@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The interfacial layer regrowth during annealing is attributed to the remaining –OH groups in the layer after deposition, which oxidize the silicon substrate. The reaction between –OH groups in the HfO2 layer to form siloxane bridges is partial at low process temperatures, leaving a large part of hydroxyl groups in the layer. During annealing, the desorption of water molecules from HfO2 densification leads to the oxidation of the silicon substrate, facilitated by chlorine.",
+  "intermediate_species": ["–OH groups", "siloxane bridges", "Si–O–Hf bonds"],
+  "evidence": "We assume that the hydrogen level is the fingerprint of OH groups. Indeed, the reaction between –OH groups in the HfO2 layer to formed siloxane bridges is partial at low process temperature and consequently, a large part of hydroxyl groups remains in the layer after deposition. After annealing at 800 /C176C, a strong decrease of the H signal is observed by SIMS and leads us to conclude that the regrowth of the SiOx layer is attributed to the –OH groups. At high temperature, the HfO2 densification yields a desorption of water molecules which diffuse through the layers and oxidize the silicon substrate. This oxidation seems to be assisted by chlorine as shown by the decrease of the Cl signal after annealing."
+}<|im_end|>

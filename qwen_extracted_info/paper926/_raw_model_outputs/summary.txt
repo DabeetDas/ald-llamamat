@@ -1,0 +1,8 @@
+{
+  "target_material": "Ruthenium seed layer",
+  "process_type": "thermal ALD",
+  "main_precursors": ["(tert-butylimido)tris(diethylamino)tantalum(V) (TBTDET)", "ammonia (NH3)", "(ethylcyclopentadienyl)(pyrrolyl)ruthenium(II) (ECPR)", "molecular oxygen"],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the use of thermal ALD to deposit a ruthenium seed layer on a tantalum nitride barrier for copper electroplating in high-aspect-ratio through-silicon vias (HAR-TSVs). The process involves the deposition of a 6 nm Ta xNy barrier and a 9 nm Ru seed layer at 250 °C using specific precursors. The study highlights the development of a blister-free Ru ALD film with good adhesion and uniformity over 300 mm wafers, demonstrating its effectiveness in copper TSV filling.",
+  "evidence": "The copper electrochemical deposition (Cu-ECD) filling capability of high aspect ratio through silicon vias (HARTSVs) and homogeneity over 300 mm wafers were investigated on a film stack of thermal ALD (thALD) Ta xNy barrier with thermal ALD Ru seed in comparison to Ti xNy barrier with a standard Cu i-PVD seed layer using a commercial 300 mm plating tool. A novel blister-free ultra-thin Ru ALD film having good adhesion properties and unique advantages, e. g. high conformity in high-aspect-ratio through-silicon vias largescale film uniformity over 300 mm wafers, as well as good reproducibility was developed."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Island growth is identified as the origin of type 2 substrate-inhibited growth, where the growth-per-cycle (GPC) increases and goes through a maximum before settling to a constant value. The model assumes that the substrate is unreactive with the ALD reactants, except for reactive defects. ALD growth proceeds symmetrically from the defects, resulting in conical-shaped islands. Random deposition is the growth mode on the islands.",
+  "intermediate_species": [
+    "Si-OH",
+    "Al(CH3)3",
+    "Si-O-Al(CH3)2",
+    "CH4"
+  ],
+  "evidence": "Island growth is identified as a likely origin for type 2 substrate-inhibited growth, where the GPC increases and goes through a maximum before it settles to a constant value characteristic of a steady growth. A simple phenomenological model is developed to describe island growth in ALD. The model assumes that the substrate is unreactive with the ALD reactants, except for reactive defects. ALD growth is assumed to proceed symmetrically from the defects, resulting islands of a conical shape. Random deposition is the growth mode on the islands."
+}

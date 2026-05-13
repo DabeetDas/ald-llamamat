@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150",
+  "pressure": "0.1-2",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "downstream-type",
+  "evidence": "The source injection time was fixed at 5 s for the CpCo(CO)2 precursor. The processing times for the initial Ar purge, H2 reactant plasma, and second Ar purge were 10, 20, and 10 s, respectively."
+}<|im_end|>

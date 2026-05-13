@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray reflectometry (XRR)",
+    "Grazing incidence x-ray diffraction (GIXRD)",
+    "Reflection high-energy electron diffraction (RHEED)",
+    "Time-of-flight elastic recoil detection analysis (TOF-ERDA)",
+    "Capacitance-voltage (C-V) measurement",
+    "Current-voltage (I-V) measurement"
+  ],
+  "evidence": "The film thickness was evaluated by x-ray reflectometry (XRR!), and film structure was determined by grazing incidence x-ray diffraction (GIXRD)! using a Bruker D8 advance x-ray diffractometer in the grazing incidence (at 1°) mode. The film structure was also evaluated by reflection high-energy electron diffraction (RHEED)! with information depth of about 2–10 nm. The residual contamination level and the film composition were determined by time-of-flight elastic recoil detection analysis (TOF-ERDA)! where a 53 MeV 127I101 beam was obtained from a 5MV tandem accelerator EGP-10-II, and forward scattered iodine ions and recoiled target atoms were used for the determination of Zr and lighter elements, respectively. Capacitance-voltage curves were recorded using a HP 4284A precision inductance-capacitance-resistance (LCR)-meter. The current-voltage curves were measured with a Keithley 2400 Source Meter."
+}

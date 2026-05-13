@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ni(dmamb) 2"],
+  "coreactants": ["NH 3 plasma", "H2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "During precursor exposure step, the precursor vapors were carried into main chamber by carrier gas, 50 sccm of Ar."
+}<|im_end|>

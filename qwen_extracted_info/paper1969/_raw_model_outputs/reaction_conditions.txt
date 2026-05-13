@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The self-limiting process of ALE is a result of surface reactions only. Two models were proposed to explain the origin of this process: the selective adsorption model and the adsorbate inhibition model. The selective adsorption model supports the formation of an elemental monolayer of gallium due to the selective adsorption of Ga(CH3)n (n = 1 or 2) molecules on As atom but rarely on Ga. The adsorbate inhibition model states that absorption of Ga(CH3) or Ga(CH3)2 on the surface prevents further adsorption once a monolayer is formed.",
+  "intermediate_species": ["Ga(CH3)n (n = 1 or 2) molecules"],
+  "evidence": "The self-limiting process of ALE is a result of surface reactions only. Two models were proposed to explain the origin of this process. The selective adsorption model supports the formation of an elemental monolayer of gallium due to the selective adsorption of Ga(CH3)n (n = 1 or 2) molecules on As atom but rarely on Ga. The adsorbate inhibition model states that absorption of Ga(CH3) or Ga(CH3)2 on the surface prevents further adsorption once a monolayer is formed."
+}<|im_end|>

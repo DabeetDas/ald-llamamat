@@ -1,0 +1,8 @@
+{
+  "target_material": "Lanthanum hafnium oxide (LHO)",
+  "process_type": "ECR-ALD",
+  "main_precursors": ["Tris(isopropyl-cyclopentadienyl)lanthanum (La(iPrCp)3)", "tetrakis(ethylmethylamino)hafnium (TEMAHf)"],
+  "temperature_range": "150 °C to 350 °C",
+  "summary": "The study investigates the characteristics of lanthanum hafnium oxide (LHO) films deposited by electron cyclotron resonance plasma-enhanced atomic layer deposition (ECR-ALD). The films are composed of alternating layers of La2O3 and HfO2, with the La/(La + Hf) atomic percent ratio affecting the dielectric constant and leakage current density. The growth rate of the LHO film was 0.5 Å/cycle at a La/(La + Hf) ratio of 49.1%, and the dielectric constant was 16.3. The formation of a La-hydrate phase was observed when the La/(La + Hf) ratio exceeded 50%.",
+  "evidence": "In this study, we investigated the characteristics of various lanthanum hafnium oxide (LHO) films with different lanthanum (La) concentrations deposited by an electron cyclotron resonance plasma-enhanced atomic layer deposition (ECR-ALD). Tris(isopropyl-cyclopentadienyl)lanthanum (La(iPrCp)3) and tetrakis(ethylmethylamino)hafnium (TEMAHf) were utilized as the La and hafnium (Hf) precursors, respectively. When the La/(La + Hf) atomic percent ratio was 49.1%, the growth rate of the LHO film was 0.5 Å/cycle, with a dielectric constant of 16.3. As the La concentration was increased, the dielectric constant decreased. In addition, we found that a La-hydrate phase (La –O–H) can be easily formed when the La/(La + Hf) is over about 50%."
+}

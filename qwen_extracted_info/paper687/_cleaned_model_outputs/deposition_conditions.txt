@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 533,
+  "pressure": "1 /C210/C05 Torr",
+  "precursor_pulse_time_s": 300,
+  "coreactant_pulse_time_s": 300,
+  "purge_time_s": 300,
+  "number_of_cycles": null,
+  "reactor_type": "coaxial waveguide microwave radical beam source",
+  "evidence": "The QCM response for one ALD cycle at 533 K: tp and to denote the precursor and O radical pulse times, respectively. The corresponding mass changes are Dma and Dmd. Dmnet is the net mass deposited per cycle (Dma /C0Dmd). The shortest to required to reach the saturative state where no change in mass can be observed is tc o. The fractional adsorbed mass fma is defined as Dma=Dmmax a . The net mass change ratio fmnet is Dmnet=Dma."
+}

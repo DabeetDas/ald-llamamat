@@ -1,0 +1,8 @@
+{
+  "target_material": "Rhenium and rhenium nitride",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["ReCl5", "NH3"],
+  "temperature_range": "275–500 °C",
+  "summary": "Rhenium and rhenium nitride thin films are deposited using atomic layer deposition (ALD) with rhenium pentachloride and ammonia as precursors over a temperature range of 275–500 °C. Conductive rhenium subnitride films with tunable composition and resistivity are obtained at lower temperatures, while pure rhenium metal films form at higher temperatures. The process is simple, robust, and highly controllable, making it suitable for applications in semiconductor technology and other advanced fields.",
+  "evidence": "To summarize, ALD was applied to deposit both ReNx and Re thin films from ReCl5 and NH3 precursors over a wide temperature range between 275 and 500 °C. The films grown at 400 °C and above were Re metal whereas at lower temperatures conductive rhenium nitrides with tunable stoichiometry and resistivity (70–290 µΩcm) were obtained. A very thin, 3 nm, Re film was shown to be already continuous and to have a low resistivity of about 90 µΩcm."
+}<|im_end|>

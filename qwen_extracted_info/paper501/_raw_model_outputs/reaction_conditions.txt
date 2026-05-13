@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface chemical composition changes during ALE growth, corresponding to the alternate formation of the Se-stabilized (2×1) and Zn-stabilized c(2×2) reconstructions. The growth rate of ZnSe is about 0.5 BL per ALE cycle, consistent with previously proposed structure models for these reconstructed surfaces.",
+  "intermediate_species": ["Se-terminated GaAs(0 0 1) surface", "ZnSe surface"],
+  "evidence": "The surface chemical composition changes during ALE growth, which corresponds to the alternate formation of the Se-stabilized (2×1) and Zn-stabilized c(2×2) reconstructions. The growth rate of ZnSe has been estimated to be about 0.5 BL per ALE cycle, which can be consistent with the previously proposed structure models for these reconstructed surfaces."
+}<|im_end|>

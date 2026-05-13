@@ -1,0 +1,14 @@
+{
+  "target_material": "2D materials including HfS2, MoS2, SnS2, ZrS2, and PbI2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "HfS2",
+    "MoS2",
+    "SnS2",
+    "ZrS2",
+    "PbI2"
+  ],
+  "temperature_range": "75 °C to 400 °C",
+  "summary": "The study demonstrates the use of atomic layer deposition (ALD) for the van der Waals epitaxy of various 2D materials, including metal sulfides (HfS2, MoS2, SnS2, ZrS2) and metal halide (PbI2), on substrates such as muscovite mica and sapphire. The process operates at low temperatures (75 °C–400 °C) and low vacuum conditions, enabling the deposition of high-quality, continuous thin films with controlled thickness and uniformity. The results show that ALD can achieve epitaxial growth with specific orientation relationships and domain structures, offering a scalable and industrially compatible method for 2D material synthesis.",
+  "evidence": "Herein, we deposited several vdW epitaxial 2D materials, including metal sulfides HfS2, MoS2, ReS2, SnS2, and ZrS2 as well as a 2D metal halide PbI2 by ALD using previously reported processes that operate at relatively low temperatures of 75 °C to 400 °C. The films were deposited at low temperatures (75 °C–400 °C) and low vacuum conditions (~5 mbar) in contrast to the previously used high temperatures and/or UHV conditions."
+}

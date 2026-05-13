@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": ["Ga(CH3)3", "AsH3"],
+  "temperature_range": "500 °C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of GaAs using in situ x-ray photoelectron spectroscopy (XPS). It demonstrates that Ga(CH3)n molecules decompose on the GaAs surface to yield atomic Ga, which is the actual adsorbate involved in the self-limited adsorption during ALE growth at 500 °C. The process uses Ga(CH3)3 and AsH3 as source gases, and the self-limited adsorption is attributed to the selective adsorption of Ga(CH3)n on As atoms and subsequent thermal decomposition into atomic Ga.",
+  "evidence": "We carried out an in situ investigation of GaAs grown by atomic layer epitaxy, using an x-ray photoelectron spectroscopy system combined with a metalorganic vapor phase epitaxial growth chamber, where Ga(CH3)3 and AsH3 were the source gases. It has been proved that Ga(CH3)n molecules (where n = 1 or 2) are decomposed into Ga atoms after being adsorbed on the GaAs surface around 500 °C. This means that the self-limited adsorption of Ga in the atomic layer epitaxy of GaAs can be achieved on the surface where the Ga adsorbate is atomic Ga."
+}

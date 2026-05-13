@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray reflection (XRR)",
+    "Grazing incidence X-ray diffraction (GIXRD)",
+    "Time-of-flight secondary ion mass-spectrometer (TOF-SIMS)",
+    "Transmission electron microscopy (TEM)",
+    "Electron energy loss spectroscopy (EELS)",
+    "Capacitance-voltage (C-V) measurement",
+    "Four-point probe",
+    "Ellipsometry",
+    "Atomic force microscopy (AFM)",
+    "Profilometry"
+  ],
+  "evidence": "The film thickness and structure were evaluated from X-ray reflection (XRR) and grazing incidence X-ray diffraction (GIXRD) patterns measured with a Bruker D8 Advance X-ray diffractometer. The composition profiles were obtained from selected films using time-of-flight secondary ion mass-spectrometer (TOF-SIMS) IONTOF IV in negative polarity regime with primary Ga+ ion source with 25 keV energy, 1 pA current, and 50 × 50 mm raster. Transmission electron microscopy (TEM) was employed for some samples to examine the crystallinity and interfacial layers between HfO2 and metal film using a field emission gun TECNAI F30 ST operated at 300 kV. Electron energy loss spectroscopy (EELS) was in some cases applied in order to check the composition of the interfacial layer formed between oxide and metal layers. The capacitance-voltage (C-V) curves were recorded at room temperature on Al/HfO2/Pt,Ir,Ru capacitor structures with e-beam evaporated Al dot electrode area 2.04 × 10−7 or 5.2 × 10−8 m2 using a HP 4284A precision LCR-meter. The period between voltage steps was 0.5 s. The ac voltage level applied to the capacitor was 0.05 V, while the frequency of the ac signal was varied between 100 kHz and 1 MHz. The current-voltage curves were measured with a Keithley 2400 Source Meter in the stair sweep voltage mode, while the voltage step used was 0.02-0.05 V with trigger delay time 0.5 s. All measurements were carried out at room temperature on films in their as-deposited state. The surface roughness (rms value) of noble metal layer can reach 1.6 nm, whereas the Si surface roughness has typically been <0.2 nm. The film structure was analyzed using XRR and GIXRD. The composition profiles were obtained using TOF-SIMS. The crystallinity and interfacial layers were examined using TEM and EELS. The dielectric properties were measured using C-V measurements."
+}<|im_end|>

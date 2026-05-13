@@ -1,0 +1,14 @@
+{
+  "target_material": "Pd nanoparticles",
+  "process_type": "AB-type and ABC-type ALD",
+  "main_precursors": [
+    "Pd(II) hexafluoroacetylacetonate (Pd(hfac)2)",
+    "formalin",
+    "TMA",
+    "TTIP",
+    "H2O"
+  ],
+  "temperature_range": "110 /C176C to 200 /C176C",
+  "summary": "The study describes the synthesis of uniformly dispersed nano/subnanometer Pd nanoparticles on oxide supports using AB-type and low-temperature ABC-type atomic layer deposition (ALD). The AB-type ALD process uses Pd(hfac)2 and formalin, while the ABC-type ALD involves sequential exposures of Pd(hfac)2, TMA, and H2O or Pd(hfac)2, TTIP, and H2O at lower temperatures. The growth behavior and morphology of the Pd nanoparticles were investigated using in situ quartz crystal microbalance (QCM) measurements and scanning transmission electron microscopy (STEM). The results show that ABC-type ALD allows for the synthesis of highly uniform, ultrafine Pd nanoparticles at significantly lower temperatures, with the ability to control particle size and density.",
+  "evidence": "The synthesis of uniformly dispersed nano/subnanometer Pd nanoparticles on oxide supports with atomic layer deposition (ALD) has been studied in terms of growth and morphology. In situ quartz crystal microbalance (QCM) measurements showed that AB-type Pd ALD grew more favorably on TiO2 than on Al2O3 at 200 /C176C by the sequential exposure of Pd(II) hexafluoroacetylacetonate (Pd(hfac)2) and formalin. The growth rate of AB-type Pd ALD decreased on the Al2O3 surface at a lower deposition temperature, and there was negligible growth at 110 /C176C. However, a new ABC-type Pd ALD, which we developed recently, operates at significantly lower temperature by growing both protected Pd nanoparticles and the support simultaneously. Additionally, these two types of Pd ALD demonstrated very different growth behaviors. Scanning transmission electron microscopy (STEM) studies showed that the size of the Pd nanoparticles could be well controlled by varying AB-type Pd ALD cycles at 200 /C176C, and low-temperature ABC-type Pd ALD provides a novel way to synthesize highly uniform, ultrafine, supported Pd nanoparticles directly on high-surface-area supports, regardless of loading. Both types of Pd ALD indicate that ALD is a promising technique for synthesizing advanced catalysts with precise control."
+}

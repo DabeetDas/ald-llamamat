@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "2O H(s) + Al(CH3)3(g) → O2AlCH3(s) + 2CH4(g)",
+    "AlCH3(s) + H2O(g) → AlOH(s) + CH4(g)"
+  ],
+  "surface_mechanism_description": "The growth mechanism of Al2O3 by sequential adsorption of TMA and H2O on substrate surface involves two steps: first, the reaction between surface hydroxyl groups and TMA, followed by a reaction between the surface species and water molecules.",
+  "intermediate_species": [
+    "AlCH3(s)",
+    "AlOH(s)"
+  ],
+  "evidence": "In the chemical equations, s and g designate the chemisorbed state on the surface and the gas phase, respectively. First of all, the advantage of organometallic precursor is the low growth temperature. Furthermore, in the growth process... the incorporation of impurities, C and H during the film growth via reactions (1) and (2)."
+}<|im_end|>

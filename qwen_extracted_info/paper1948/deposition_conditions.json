@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-300",
+  "pressure": "2-10",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "home-build ALD reactor",
+  "evidence": "Smooth, uniform ALD Cu,S films are grown at temperatures between 150°C and 300°C and pressures between 2 and 10 mbar."
+}

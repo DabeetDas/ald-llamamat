@@ -1,0 +1,8 @@
+{
+  "target_material": "Tungsten trioxide (WO3)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["W(CO)6", "H2O"],
+  "temperature_range": "150 ◦C to 320◦C (final growth temperature 300◦C)",
+  "summary": "This study investigates the nanomechanical properties and surface morphology of tungsten trioxide (WO3) thin films deposited on p-type Si (100) substrates using atomic layer deposition (ALD) technology. The films were annealed at different temperatures to study their structural and mechanical properties. The results show significant changes in hardness and modulus after annealing, with the as-deposited sample having higher values than the annealed ones.",
+  "evidence": "The ALD tungsten trioxide WO3 films were deposited on native oxide covered (100) oriented Si substrates by a thermal ALD synthesis process in a Savannah 100 cross-flow reactor. The final ALD growth temperature of the WO3 thin films was set at 300◦C. The WO3 films were subsequently annealed for 60 min in a quartz tube furnace at atmospheric pressure with O2 flow at temperature range of 500 to 700◦C."
+}<|im_end|>

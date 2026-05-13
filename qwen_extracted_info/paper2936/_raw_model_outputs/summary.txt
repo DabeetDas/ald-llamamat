@@ -1,0 +1,8 @@
+{
+  "target_material": "SrTa2O6",
+  "process_type": "PEALD",
+  "main_precursors": ["SrTa2(OEt)10(dmae)2", "water"],
+  "temperature_range": "200-350°C",
+  "summary": "Strontium tantalate thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) with SrTa2(OEt)10(dmae)2 as the metal precursor and water as the oxygen source. The films were annealed at 800°C to form orthorhombic SrTa2O6, and the dielectric permittivity increased from 16 to 50 after annealing.",
+  "evidence": "Strontium tantalate thin films were grown with atomic layer deposition at 200-350°C using bimetallic donor-functionalized alkoxides and water as precursors. ... SrTa2(OEt)10(dmae)2 was found to be a suitable atomic layer deposition precursor for depositing SrTa2O6 films. ... The use of a similar complex SrTa2(OEt)10(dmae)2 with methoxy-ethoxide ligands was also studied but was found somewhat less suitable for ALD. ... The as-deposited films were amorphous, but after annealing in air at 800°C orthorhombic SrTa2O6 was observed. Dielectric permittivities were 16 and 50 for as-deposited films and for films annealed in air at 800°C, respectively."
+}<|im_end|>

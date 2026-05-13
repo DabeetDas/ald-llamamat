@@ -1,0 +1,11 @@
+{
+  "target_material": "Bi2Te3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "(Me3Si)2NBi-μ-NSiMe3]2",
+    "(Et3Si)2Te"
+  ],
+  "temperature_range": "120 °C to 170 °C",
+  "summary": "The study investigates the use of bismuth amides as ALD precursors for the deposition of Bi2Te3 films. The precursors, including (Me3Si)2NBi-μ-NSiMe3]2 and (Et3Si)2Te, were tested on various substrates at different temperatures. The results show that the thermal stability and reactivity of the precursors significantly influence the film growth and morphology. The films were characterized by XRD, EDX, AFM, and SEM, revealing the formation of polycrystalline Bi2Te3 films with varying morphologies depending on the substrate and temperature.",
+  "evidence": "The paper reports on the synthesis of new Bi precursors for ALD process. For the first time, Bi amides have been applied as ALD precursors for the deposition of Bi2Te3 films by ALD process. The role of different substrates and substrate temperatures on the morphology and growth rates was studied. The resulting films were characterized by XRD, SEM, AFM and EDX spectroscopy."
+}

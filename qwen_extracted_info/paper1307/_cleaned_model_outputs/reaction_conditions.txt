@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "In situ Ar plasma annealing incorporated into the end of each unit AB-type ALD cycle promotes surface adatom migration and precursor reactivity, leading to enhanced ligand removal and crystallization. The process involves plasma-assisted chemical events during individual annealing plasma powers, which improve the crystallinity of β-Ga2O3 films.",
+  "intermediate_species": ["surface hydroxyls", "ligand groups (−CHx)", "non-desorbed ligand groups"],
+  "evidence": "The text describes the in situ Ar plasma annealing process as promoting surface adatom migration and precursor reactivity, leading to enhanced ligand removal. It also mentions the role of plasma-assisted chemical events during individual annealing plasma powers, which improve the crystallinity of β-Ga2O3 films. The presence of non-desorbed ligand groups is noted as a factor affecting film structure."
+}

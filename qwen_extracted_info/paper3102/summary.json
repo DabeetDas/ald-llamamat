@@ -1,0 +1,12 @@
+{
+  "target_material": "NiO",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Ni(Cp)2",
+    "Ni(EtCp)2",
+    "Ozone"
+  ],
+  "temperature_range": "150–300°C",
+  "summary": "NiO films were deposited on Si(100) using Ni(Cp)2 and Ni(EtCp)2 as metal precursors and ozone as the oxygen source in a temperature range of 150–300°C. The study investigated the effect of growth temperature on the structural, electronic, and compositional properties of the films. Films deposited at 250°C or higher showed good stoichiometry and low impurity levels. The growth rate decreased with increasing temperature, and the electronic density approached that of bulk NiO at 300°C. The films exhibited a cubic polycrystalline structure at 200°C and above, with impurities decreasing as temperature increased.",
+  "evidence": "NiO films were grown on Si /H20849100/H20850by atomic layer deposition using Ni /H20849Cp/H208502 /H20849Cp = cyclopentadienyl, C5H5/H20850or Ni/H20849EtCp/H208502 /H20849EtCp = ethylcyclopentadienyl,/H20849C2H5/H20850/H20849C5H4/H20850/H20852and ozone in the 150–300°C temperature range. The growth temperature dependence of structure, electronic density, and impurity levels for the prepared NiO films was studied using X-ray reflectivity, X-ray diffraction, Fourier transform infrared spectroscopy, time of flight–secondary ion mass spectroscopy, and transmission electron microscopy. NiO films with good stoichiometry and low amounts of contaminants are obtained at a growth temperature of 250°C or above. At a fixed Tg, the growth rate for NiO films deposited using Ni /H20849Cp/H208502 is higher than the one of films deposited using Ni/H20849EtCp/H208502. Furthermore, the growth rate for NiO deposited using Ni /H20849Cp/H208502 at Tg = 150°C is 0.32 nm /cycle and decreases substantially in films deposited at higher temperatures. The electronic density of NiO films deposited at 300°C is close to the one of bulk NiO /H208491.83 e − /Å3/H20850. According to XRD and FTIR results, films deposited at Tg /H33356200°C have a simple cubic polycrystalline structure. Impurities in NiO films decrease with increasing Tg, as detected by ToF-SIMS."
+}

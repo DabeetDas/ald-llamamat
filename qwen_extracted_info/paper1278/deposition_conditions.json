@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 60,
+  "number_of_cycles": 300,
+  "reactor_type": "home-built tubular",
+  "evidence": "The deposition of NiS was carried out in the ALD chamber at 200 °C. ... Each ALD cycle consisted of one Ni(amd) 2 dose and one H2S dose, followed by 60 s of N2 purge after each dose. ... The cyclic ALD sequence for the QMS measurements was the following: 3 pulses of Ni(amd) 2, 120 s N 2 purge, 10 pulses of H 2S, and 60 s N 2 purge."
+}

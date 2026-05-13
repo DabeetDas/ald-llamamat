@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 1000,
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 12,
+  "number_of_cycles": 10,
+  "reactor_type": "F-120",
+  "evidence": "The ALD MoO x thin films were deposited on SiO 2(300 nm)/Si substrates by plasma-enhanced ALD using Mo(CO) 6 and O 2 plasma at a 200 /C176C growth temperature. The O 2 flow and plasma power were fixed at 300 s.c.c.m. and 200 W, respectively. An ALD cycle consists of four steps: Mo(CO) 6 precursor exposure ( ts), Ar purging ( tp), O 2 plasma reactant exposure ( tr) and another Ar purging ( tp). In the ALD MoO x process, the ts, tp and tr were fixed at 5 s, 12 s and 5 s, respectively."
+}

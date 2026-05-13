@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Cd(CH3)2(g) + Zn(CH3)(ads) -> Cd(CH3)(ads) + Zn(CH3)2(ads)",
+    "Cd(CH3)(ads) + Zn(CH3)(ads) -> Cd(ads) + Zn(CH3)2(ads)",
+    "Zn(CH3)2(ads) -> Zn(CH3)(ads) + CH3"
+  ],
+  "surface_mechanism_description": "Ligand exchange between DMCd and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The text discusses the surface reaction mechanisms of alternating-grown, ordered atomic layers, specifically focusing on the reaction of DMCd with the ZnSe(100) surface. It describes the formation of a methyl-terminated surface and the subsequent reaction with H2S to form a sulfur-hydride-terminated surface. The reaction equations and intermediate species are derived from the detailed description of the surface chemistry and the observed desorption processes."
+}

@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "GeCl4 + 2Te(Ge(CH3)3)2 → GeTe2 + 4ClGe(CH3)3",
+    "x–Te(Ge(CH3)3)2 + GeCl4 → –TeGeCl4−x + xClGe(CH3)3",
+    "y–GeCl5 + Te(Ge(CH3)3)2 → –GeCl5−y Te(Ge(CH3)3)2−y + yClGe(CH3)3"
+  ],
+  "surface_mechanism_description": "A GeCl4 molecule reacts with two surface species of –TeGe(CH3)3 and the surface sites are fully covered by –GeCl2 during the first half reaction, resulting in the mass decrease by GeCl4 pulse. Also, a TeGe(CH3)3 molecule reacts with a surface species of –GeCl5 and the surface sites are fully covered by –TeGe(CH3)3 during the second half reaction.",
+  "intermediate_species": [
+    "–TeGe(CH3)3",
+    "–GeCl2",
+    "–GeCl5",
+    "ClGe(CH3)3"
+  ],
+  "evidence": "QCM analysis at 80 /compBC indicated that a GeCl4 molecule reacts with two surface species of –TeGe(CH3)3 and the surface sites are fully covered by –GeCl2 during the first half reaction, resulting in the mass decrease by GeCl4 pulse. Also, a TeGe(CH3)3 molecule reacts with a surface species of –GeCl5 and the surface sites are fully covered by –TeGe(CH3)3 during the second half reaction."
+}

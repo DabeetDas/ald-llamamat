@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2–Ta2O5 nanolaminates",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": ["Ta(OC2H5)5", "HfCl4", "water vapor"],
+  "temperature_range": "325 °C",
+  "summary": "The study describes the preparation of HfO2–Ta2O5 nanolaminates using atomic layer epitaxy (ALE) at 325 °C. The nanolaminates were evaluated for their dielectric properties, particularly leakage current densities, and showed significant improvements in charge storage factors compared to single oxide films. The process involved varying layer thicknesses to optimize dielectric properties.",
+  "evidence": "In order to improve dielectric characteristics HfO2–Ta2O5 nanolaminates were prepared by atomic layer epitaxy at 325 °C. The nanolaminates were evaluated in capacitance and current–voltage measurements. By optimizing the layer thicknesses in the nanolaminate structures the dielectric properties, especially leakage current densities, could be tailored remarkably. The best nanolaminates showed charge storage factors improved up to 8 times when compared with those of the single oxide films."
+}

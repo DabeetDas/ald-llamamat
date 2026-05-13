@@ -1,0 +1,7 @@
+{
+  "target_material": "HfO2",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["Tetrakis (dimethylamino) hafnium (TDMAH)", "NH3"],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the interface roughness effect between high-κ HfO2 gate oxides and Ru metal gates using atomic layer deposition (ALD) and physical vapor deposition (PVD). The ALD Ru gate showed better dielectric properties (high dielectric constant and low leakage current) and lower interface roughness than the PVD Ru metal gate.",
+  "evidence": "We checked the interface roughness effect between high- κ HfO2 gate oxides and Ru gates by atomic layer deposition (ALD) and physical vapor deposition (PVD). The ALD Ru gate showed better dielectric properties (high dielectric constant and low leakage current) and lower interface roughness than the PVD Ru metal gate."

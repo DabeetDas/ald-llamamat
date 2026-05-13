@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMA)", "titanium tetrachloride (TiCl4)"],
+  "coreactants": ["deionized water", "deionized water"],
+  "purge_gas": ["ultra-high-purity nitrogen"],
+  "carrier_gas": ["ultra-high-purity nitrogen"],
+  "evidence": "The Al2O3 ALD was performed using alternating exposures to trimethylaluminum (TMA, Aldrich) and deionized water while the TiO2 ALD used alternating exposures of titanium tetrachloride (TiCl4, Aldrich) and deionized water. Viscous flow was maintained using ultra-high-purity nitrogen carrier gas at a pressure of 1 Torr using a mass flow rate of 200 sccm at temperatures of 390 -450 °C."
+}

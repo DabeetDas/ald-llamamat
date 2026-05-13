@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ti(N(CH3)2)4"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The deposition process consisted of repeated PEALD cycles. Each cycle included a Ti(N(CH3)2)4 pulse, Ar purge gas pulse, O2 gas pulse, O2 plasma gas pulse and Ar purge gas pulse. One cycle consists of five pulses: Ti(N(CH3)2)4 vapor pulse with 100 sccm Ar carrier gas for 0.1 s, Ar purge gas pulse for 2 s, O2 gas pulse for 0.3 s, O2 plasma gas pulse for 0.5 s, Ar purge gas pulse for 0.4 s."
+}<|im_end|>

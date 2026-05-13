@@ -1,0 +1,9 @@
+{
+  "summary": "Parsed successfully, but extracted content is empty.",
+  "precursor_coreactant": "Parsed successfully, but extracted content is empty.",
+  "deposition_conditions": "Parsed successfully, but extracted content is empty.",
+  "reaction_conditions": "Parsed successfully, but extracted content is empty.",
+  "substrate_info": "Parsed successfully, but extracted content is empty.",
+  "film_properties": "Parsed successfully, but extracted content is empty.",
+  "characterization": "ValueError: Could not parse model output as JSON. Preview: '{   \"characterization_methods\": [\"X-ray Photoelectron Spectroscopy (XPS)\", \"Four-point probe\", \"Ellipsometry\", \"X-ray Reflectivity (XRR)\", \"Atomic Force Microscopy (AFM)\", \"Profilometry\", \"Hall Effect\", \"Chiral Perturbation Theory (ChPT)\", \"Chiral Sum Rules\", \"Spectral Function Analysis\", \"Renormali'"
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "0.6 torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "ALCVD",
+  "evidence": "HfSi xOy films were deposited by atomic layer chemical vapor deposition (ALCVD) using Hf(NC2H5)4 and Si(OC4H9)4 precursors. During deposition, the pressure in the reactor was maintained at 0.6 torr."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "Dy2O3 doped ZrO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Dy(thd)3",
+    "ZrCl4",
+    "H2O"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "Dy2O3-doped ZrO2 thin films were grown on silicon substrates using atomic layer deposition (ALD) at 300 °C. The films were deposited using Dy(thd)3, ZrCl4, and H2O as precursors. The films crystallized in the tetragonal zirconia form and demonstrated high-permittivity dielectric properties. The study focused on the effect of precursor sequence on film composition and electrical properties.",
+  "evidence": "Dy2O3 doped ZrO 2 ﬁlms are grown on silicon substrates using atomic layer deposition at 300 °C. Dy(thd) 3 (thd ¼ 2,2,6,6-tetramethyl-3,5-heptanedionato) and ZrCl 4 are used as metal precursors and H 2O as the oxygen precursor."
+}

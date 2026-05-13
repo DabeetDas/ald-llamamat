@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface treatment with Cl2 creates a monolayer of OH groups on silicon, which is necessary for two-dimensional ALD growth. The growth of HfO2 on Cl2-treated Si surfaces leads to a linear growth rate from the first cycle onwards, indicating the presence of nucleation sites. A thin parasitic SiOx layer underneath a monolayer of Hf silicate is observed, which is attributed to the reaction between HfCl4 and Si–OH during the first deposition cycle.",
+  "intermediate_species": [
+    "Si–OH",
+    "Hf–O",
+    "Si–O–Hf"
+  ],
+  "evidence": "The Hf 4f spectrum consists of a main component at 17.65 eV that is related to the Hf–O bonds in HfO2. The decomposition of the Si 2p signal shows the Si0 substrate component as well as the four usual oxidized components (Si1+, Si2+, Si3+, and Si4+). The thickness of the oxidized Si layer formed during the surface treatment and the HfO2 deposition is estimated to be around 0.31±0.03 nm. An additional contribution, called Si*, shifted by 3.1 eV compared to the Si0 binding energy, which is the fingerprint of Si–O–Hf bonds in a Si-rich Hf-silicate layer."
+}

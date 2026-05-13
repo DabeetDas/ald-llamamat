@@ -1,0 +1,7 @@
+{
+  "precursors": ["Zr(thd)4", "Cp2Zr(CH3)2", "Cp2ZrCl2", "Y(thd)3"],
+  "coreactants": ["O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Nitrogen ( w99.999%, Schmidlin UHPN 3000 N2 generator) was used as carrier and purging gas."
+}<|im_end|>

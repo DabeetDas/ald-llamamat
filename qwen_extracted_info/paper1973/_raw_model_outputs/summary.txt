@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE) and Laser-Assisted Atomic Layer Epitaxy (LALE)",
+  "main_precursors": ["trimethylgallium (TMGa)", "tertiarybutylarsine (TBAs)"],
+  "temperature_range": "480 °C for ALE, 380 °C for LALE",
+  "summary": "The study investigates the use of tertiarybutylarsine (TBAs) as an arsenic source in atomic layer epitaxy (ALE) and laser-assisted atomic layer epitaxy (LALE) for the growth of high-quality GaAs materials. TBAs is found to be a suitable replacement for arsine (AsH3) due to its lower decomposition temperature and reduced carbon contamination. The process achieves monolayer self-limiting growth, resulting in low-threshold current densities for laser applications.",
+  "evidence": "The use of trimethylgallium (TMGa) and tertiarybutylarsine (TBAs) in atomic layer epitaxy (ALE) and laser-assisted atomic layer epitaxy (LALE) of GaAs is studied for the first time. TBAs is found to be a direct and suitable replacement for arsine (AsH3) in achieving monolayer self-limiting growth. Carbon contamination in the GaAs films grown by LALE using TMGa and TBAs is greatly reduced relative to those using TMGa and ASH3. Laser structures with single GaAs quantum wells grown by ALE and LALE using TBAs exhibit threshold current densities as low as 300 and 520 A/cm², respectively."
+}<|im_end|>

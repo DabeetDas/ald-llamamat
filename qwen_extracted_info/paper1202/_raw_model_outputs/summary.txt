@@ -1,0 +1,8 @@
+{
+  "target_material": "GeTe",
+  "process_type": "ALD",
+  "main_precursors": ["Ge(N(Si(CH3)3)2)2", "((CH3)3Si)2Te", "methanol"],
+  "temperature_range": "70 −120 °C",
+  "summary": "A new method to deposit GeTe thin film by atomic layer deposition (ALD) using Ge(N(Si(CH3)3)2)2 as the Ge precursor, ((CH3)3Si)2Te as the Te precursor, and methanol as a co-reactant. The process was optimized to form GeTe films with a 1:1 stoichiometry, and the films showed feasibility for phase-change memory applications.",
+  "evidence": "In this report, a new method to deposit GeTe thin ﬁlm by atomic layer deposition (ALD) is described. Ge(N(Si(CH3)3)2)2, in which Ge is in +2 oxidation state, and ((CH3)3Si)2Te were used as Ge and Te precursors, respectively. GeTe ﬁlms were deposited at a low wafer temperature of 70 −120 °C. To improve low reactivity of Ge(N(Si(CH3)3)2)2 toward ALD-type reaction with ((CH3)3Si)2Te, methanol vapor was coinjected with the Ge precursor and the Te precursor to form a reactive Ge intermediate having methoxy ligands and a Te intermediate having hydrogen ligands in the gas phase. This chemistry-specific ALD process deposited films various compositional GeTe alloys including the desired composition of Ge:Te = 1:1. The films showed feasibility for phase-change memory applications."
+}<|im_end|>

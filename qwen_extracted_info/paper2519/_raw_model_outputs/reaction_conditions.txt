@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reaction mechanism involved in the ALD process was reported to be somewhat complicated and affected by temperature and other operating conditions. The precursor-mediated adsorption model suggests that physisorbed SiCl4, which has a similar structure to HfCl4, could either desorb back to the gas phase or react with a hydroxyl group on the surface. The model predicts that only about 1 out of 10^6 physisorbed SiCl4 molecules should react with hydroxyl groups at 600 K. With bond strength weaker than Si–Cl, the fraction of HfCl4 reacting on the surface could be higher than SiCl4.",
+  "intermediate_species": ["physisorbed SiCl4", "hydroxyl group", "surface hydroxyls"],
+  "evidence": "The reaction mechanism involved in the ALD process was reported to be somewhat complicated and affected by temperature and other operating conditions. The precursor-mediated adsorption model suggests that physisorbed SiCl4, which has a similar structure to HfCl4, could either desorb back to the gas phase or react with a hydroxyl group on the surface. The model predicts that only about 1 out of 10^6 physisorbed SiCl4 molecules should react with hydroxyl groups at 600 K. With bond strength weaker than Si–Cl, the fraction of HfCl4 reacting on the surface could be higher than SiCl4."
+}<|im_end|>

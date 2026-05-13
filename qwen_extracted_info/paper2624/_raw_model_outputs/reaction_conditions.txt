@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "ZnO(s) + H2S(g) -> ZnS(s) + H2O(g)"
+  ],
+  "surface_mechanism_description": "Surface exchange reactions between ZnO and H2S occur, leading to the incorporation of sulfur into the Zn(O,S) films. The reaction mechanism involves the exchange of sulfur with oxygen on the surface, which is enhanced at higher deposition temperatures.",
+  "intermediate_species": [
+    "ZnO(s)",
+    "H2S(g)",
+    "ZnS(s)",
+    "H2O(g)"
+  ],
+  "evidence": "Temperature dependence of exchange reaction mechanisms between ZnO films and H2S has already been reported in the literature. Bakke et al. studied the sulfidization mechanism that occurs during Zn(O,S) growth using dimethylzinc, H2O, and H2S. By analyzing the H2S annealing temperature and duration effects on ZnO film surface microstructure, they showed that significant amount of sulfur could be inserted in this material at elevated temperatures, whereas the inverse phenomenon occurred at low annealing temperatures."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the oxidation of Co+2 during the OER, which is attributed to the mixed oxidation state of cobalt in CoOx, leading to only 1/3 of the metallic centers undergoing oxidation. The oxidation of Co+2 in CoPi involves a much larger number of cobalt centers compared to CoOx, which is confirmed by the higher current density observed for CoPiCo-rich, which has a higher Co-to-P ratio.",
+  "intermediate_species": ["Co+2"],
+  "evidence": "The oxidation state of Co and P for all layers is investigated by XPS (Fig. 2a–c). Co2p peaks show the characteristic features of Co+2 for both CoPi and CoPiCo-rich, while CoOx presents the features of the mixed oxide Co3O4. This agrees with what has been reported by Donders et al. for CoOx also prepared by ALD. The binding energy of the P2p peak (~133 eV) confirms that P is present in the oxidation state of a phosphate in both CoPi and CoPiCo-rich. Moreover, the positions of the main peak and the satellite peak of the Co2p3/2 signal are consistent with the peak positions reported in literature for cobalt phosphate, confirming the presence of cobalt phosphate in both CoPi and CoPiCo-rich."
+}<|im_end|>

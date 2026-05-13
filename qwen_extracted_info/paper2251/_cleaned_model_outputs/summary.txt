@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["TMA", "H2O"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the effects of atomic layer deposited Al2O3 as a gate insulator on the transport characteristics of two-dimensional electron gas (2DEG) in AlGaN/GaN metal-insulator-semiconductor high electron mobility transistors (MISHEMTs). The ALD-Al2O3 gate insulator improves electron mobility and reduces surface leakage current, leading to enhanced device performance.",
+  "evidence": "A 10 nm Al2O3 film was deposited at 300 °C using an Oxford Instrument OpAL ALD system with TMA and H2O as precursors."
+}

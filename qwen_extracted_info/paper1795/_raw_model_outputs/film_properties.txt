@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 10,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": "0.3W0.4",
+  "crystal_phase": "Amorphous",
+  "evidence": "The film’s roughness keeps about the same at 150 °C with the increase of ALD cycles. As a comparison, roughness of films grown at 250 °C is much larger and keeps increasing at the initial 300 cycles. The RMS for 400 cycles cobalt oxide at 250 °C is lower than 300 cycles film, due to the merging of neighboring grains. This result shows a strong relationship between the deposition parameters and the resulting feature of the ultrathin cobalt oxide film."
+}<|im_end|>

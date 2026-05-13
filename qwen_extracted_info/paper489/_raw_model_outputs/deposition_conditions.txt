@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "250 and 230mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "25, 50 and 100",
+  "reactor_type": "",
+  "evidence": "For the deposition of Al2O3 material, three different cycles (25, 50 and 100 cycles) were performed on the MWNTs; one cycle for the deposition of Al2O3 is composed of TMA dosing, Ar purging, H2O dosing and Ar purging."
+}<|im_end|>

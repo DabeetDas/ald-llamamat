@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "In the context of the present work, a pulse of TiCl4 vapour is passed into the reactor and chemisorbs onto the hydroxylated surface of the substrate. This is followed by a purge pulse of inert gas to remove unbound precursor, followed by a pulse of water vapour to act as the nucleophilic source of oxygen and form the oxide layer in-situ. Nitrogen was used as a carrier gas. Each deposition sequence consisted of: 0.4 s pulse of TiCl4; 0.5 s purge with N2; 0.5 s pulse of H2O; 0.5 s purge with N2."
+}

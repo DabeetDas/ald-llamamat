@@ -1,0 +1,11 @@
+{
+  "target_material": "Zirconia and Silica",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Zr(NO3)4",
+    "tri(tert-butoxy)silanol"
+  ],
+  "temperature_range": "162 °C",
+  "summary": "The study describes the deposition of alternating layers of zirconia and silica using atomic layer deposition (ALD) at 162 °C. The process involves alternating exposure of Si(100) substrates to anhydrous zirconium nitrate and tri(tert-butoxy)silanol. The films formed are smooth, amorphous, and exhibit a nanolaminate structure with a linear correlation between refractive index, dielectric constant, and composition. The deposition rate was found to be saturation behavior, with a maximum rate of approximately 12 Å/cycle.",
+  "evidence": "In a low-pressure chemical vapor deposition reactor, alternating exposure of Si(100) substrates to tri(tert-butoxy) silanol and anhydrous zirconium nitrate deposited mixed films of zirconia and silica at 162 °C. The deposition rate, defined as the thickness (Å) per cycle, exhibited saturation behavior indicative of self-limiting growth. The maximum rate of approximately 12 Å/cycle exceeded the thickness expected for a single monolayer each of ZrO2 and SiO2. The films were atomically smooth and their thickness was uniform across the entire substrate."
+}

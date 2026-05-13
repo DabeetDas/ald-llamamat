@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "ALD150LX perpendicular-flow reactor",
+  "evidence": "The TiN#1 PEALD cycle consisted of the following steps: (1) 0.1 s TiCl4 dose, (2) 3 s purge, (3) 8 s Ar-H2-N2 plasma dose, and (4) 5 s purge (cycle time = 16.1 s)."
+}<|im_end|>

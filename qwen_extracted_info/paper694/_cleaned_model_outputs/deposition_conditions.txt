@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "275-300",
+  "pressure": "3 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The deposition of PbZrO3 thin films was performed in a flow-type F-120 ALD reactor manufactured by ASM Microchemistry Ltd. The reactor was operated under a pressure of about 3 mbar."
+}

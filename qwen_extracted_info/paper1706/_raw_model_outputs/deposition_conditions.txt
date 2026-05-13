@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150",
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": "0.1",
+  "coreactant_pulse_time_s": "4",
+  "purge_time_s": "4",
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall ﬂow-type ALD reactor (SUNALE TM R75, Picosun, Finland)",
+  "evidence": "ALD was carried out in a commercial hot-wall ﬂow-type ALD reactor (SUNALE TM R75, Picosun, Finland) utilizing N 2 as a precursor carrier and purge gas at a pressure of 2 Torr. The pulse and purge times for both precursors were 0.1 and 4 s, respectively."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "300 mTorr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 15,
+  "number_of_cycles": null,
+  "reactor_type": "Aixtron/Genus Lynx-2 based StrataGem 200 ALD reactor",
+  "evidence": "Each ALD cycle consisted of a TEMAH pulse for 5 s, post-TEMAH Ar purge for 15 s, reactive hydrogen plasma exposure time varying from 5 to 30 s, and postplasma Ar purge for 15 s."
+}

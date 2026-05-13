@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "hafnium tetrakis(dimethylamide)",
+    "water"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to grow a HfO2 layer as a gate dielectric in InGaAs/InP heterostructures for fabricating gate-defined quantum dot devices. The process involves ALD at 300 °C using hafnium tetrakis(dimethylamide) and water as precursors. The fabricated devices exhibit Coulomb blockade effects at low temperatures, and the study explores the impact of magnetic fields on the quantum dot's conductance and spin states.",
+  "evidence": "A nominal 24 nm thick (300 cycles) HfO2 film is grown on the pretreated surface from hafnium tetrakis(dimethylamide) and water 22 in a Savannah 100 ALD system at 300 °C."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "H2O"],
+  "temperature_range": "177 °C",
+  "summary": "The article describes the design and construction of a viscous flow ALD reactor for the deposition of Al2O3 thin films. The reactor uses a gas pulse switching method and incorporates a quartz crystal microbalance (QCM) for real-time thickness monitoring. The ALD process involves alternating exposures to TMA and H2O reactants under viscous flow conditions, with a temperature range of 50–425 °C, and the growth rate is found to be 1.07 Å/cycle.",
+  "evidence": "The QCM was used to evaluate the performance of the viscous flow ALD reactor. For these experiments, the flow tube reactor temperature was maintained at 177 °C. Alternating pulses of TMA and H2O were injected into the N2 carrier gas in the flow tube and the mass increase caused by Al2O3 growth was recorded using the QCM. The QCM results indicate that the Al2O3 ALD growth rate is 1.07 Å/cycle."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "LYNX2",
+  "evidence": "Fig.6 displays the deposition per cyclex of Al O RS-ALD at 300 8C as a function of trimethy-23 laluminum (TMA) pulse and purge time (Fig.6a ) and as a function of H O pulse and purge time (Fig.6b )."
+}

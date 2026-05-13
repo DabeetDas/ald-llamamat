@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves alternating Cd and Te reconstructions during the ALE cycle. Starting from a (231) Te-rich surface, exposure to Cd forms a c(2 32) 1(2 31) Cd-rich half-filled surface. Upon Te exposure, a (231) Te-rich surface is reformed with half-monolayer coverage. This cycle repeats, leading to a self-regulated growth rate of 0.5 monolayers per cycle.",
+  "intermediate_species": ["c(2 32) Cd-rich surface", "(231) Te-rich surface", "half-filled Cd surface", "half-monolayer surface coverage"],
+  "evidence": "Starting from a flat (231) Te-rich surface [step (1)], a c(2 32) 1(2 31) Cd-rich half-filled surface is formed upon exposure to the Cd flux [step (2)]. At this point, the roughness of the surface is still minimum. When completing the first CdTe ALE cycle with Te exposure, a (231) Te-rich surface is reformed [step (3)]; small islands of CdTe are present on the surface, with a half-monolayer surface coverage. The surface roughness is then maximum. When beginning the second CdTe ALE cycle, a c(2 32) 1(2 31) Cd-rich half-filled surface is formed [step (4)], still with a maximum roughness. Upon completion of the second CdTe ALE cycle, a flat (231) Te-rich surface, similar to the starting surface, is again reformed [step (5)]. A full CdTe monolayer has been grown."
+}<|im_end|>

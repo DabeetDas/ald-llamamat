@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "HfCl4",
+    "D2O"
+  ],
+  "temperature_range": "200 °C, 300 °C, 350 °C",
+  "summary": "The study investigates the impact of annealing HfO2 films deposited by atomic layer deposition (ALD) with a TiN capping layer on their properties. The films are annealed at 1000 °C using rapid thermal processing. The presence of the TiN capping layer prevents void formation, improves surface roughness, and enhances electrical characteristics by reducing leakage current and promoting a mixed monoclinic-tetragonal microstructure. The main precursors used are HfCl4 and D2O.",
+  "evidence": "ALD HfO2 was deposited using HfCl4 and D2O as the precursors at 200, 300, and 350 °C. The films were annealed at 1000 °C with a TiN capping layer. The TiN capping layer was removed prior to characterization. The use of a capping layer helps reduce void formation for thin ALD HfO2. The microstructure of HfO2 is modified from fully monoclinic to a mixed monoclinic and tetragonal phase when the capping layer is used. The leakage current density is lower for capped films."
+}

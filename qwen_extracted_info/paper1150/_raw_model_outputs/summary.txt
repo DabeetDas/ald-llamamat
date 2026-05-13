@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Copper (II)-hexafluoroacetylacetonate [Cu(hfac)2]", "diethylzinc (ZnEt2)"],
+  "temperature_range": "180 °C–200 °C",
+  "summary": "The study investigates the deposition of nanometer-thick copper films using thermal atomic layer deposition (ALD) with the aim of achieving low-resistivity films. The process involves the use of Cu(hfac)2 and ZnEt2 as precursors, and the optimal deposition temperature is determined to be 190 °C. The films are found to exhibit island-type growth, and the resistivity is significantly influenced by the deposition temperature and annealing conditions. The critical thickness for continuous growth is identified as 8 nm, and annealing at 300–350 °C reduces resistivity by promoting grain growth and reducing electron scattering.",
+  "evidence": "The Cu films were deposited with island-type growth, and the interconnection between grains plays a major role in the resistivity of the films. We found that 8 nm is the critical thickness at which the Cu film exhibits continuous growth. After RTA, the film color darkened, electron scattering became weak, and the resistivity reduced with annealing at 300–350 °C because of the growth of Cu grains."
+}<|im_end|>

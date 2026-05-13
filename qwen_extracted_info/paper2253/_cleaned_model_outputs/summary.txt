@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru nanocrystals",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum", "water vapor", "bis(ethylcyclopentadienyl)ruthenium", "O2 gas"],
+  "temperature_range": "300 °C",
+  "summary": "The study describes the formation and electrical properties of a nonvolatile memory structure using Ru nanocrystals deposited by atomic layer deposition (ALD) with a SiO2/Al2O3 bilayered tunnel barrier. The Ru nanocrystals were deposited using bis(ethylcyclopentadienyl)ruthenium and O2 gas, while the Al2O3 layers were deposited using trimethylaluminum and water vapor. The memory structure showed charge retention of 91% and 85% after 10^5 s at room temperature and 85 °C, respectively.",
+  "evidence": "The Ru nanocrystals were deposited by ALD using bis(ethylcyclopentadienyl)ruthenium and O2 gas. ALD-Al2O3 was deposited using trimethylaluminum and water vapor. The memory structure showed charge retention of 91% and 85% after 10^5 s at room temperature and 85 °C, respectively."
+}

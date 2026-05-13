@@ -1,0 +1,7 @@
+{
+  "precursors": ["SiH2Cl2", "C2H2"],
+  "coreactants": ["H2"],
+  "purge_gas": [],
+  "carrier_gas": ["H2"],
+  "evidence": "Acetylene (C2H2) and dichlorosilane (SiH2Cl2) were used as the C and Si source gases, respectively, and H2 was used as the carrier gas."
+}

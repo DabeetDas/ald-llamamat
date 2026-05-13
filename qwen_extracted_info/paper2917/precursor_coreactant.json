@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "WF6",
+    "NH3"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The tungsten nitride film growth was accomplished by separating the binary reaction 2WF6(g) + NH3(g) → W2N(s) + 3HF(g) + 9/2F2(g) into two half-reactions. The ABAB… reaction sequence was used to deposit the tungsten nitride films. The ellipsometric measurements shown in Fig. 6 and 7 demonstrate that the WF6 and NH3 half-reactions are self-limiting at 600 K. The following sequence: expose WF6 (1-10 mTorr)/N2 purge 1-3 min/expose NH3 (1-10 mTorr)/N2 purge 1-3 min."
+}

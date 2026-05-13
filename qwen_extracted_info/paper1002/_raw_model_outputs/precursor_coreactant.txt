@@ -1,0 +1,7 @@
+{
+  "precursors": ["[(MeCp)2ZrMe(OMe)]", "[(MeCp)2ZrMe(OBut)]"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "During the ALD experiments, oxygen was replaced by water vapour, which was controlled by a pneumatic valve. The MOCVD and ALD growth conditions are shown in Table 1. ... The precursor solution injection Rate 2.5 μl/pulse (4 pulses/cycle)."
+}<|im_end|>

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Y(CpBut)3 + OH* → Y(CpBut)2O* + HCpBut",
+    "Y(CpBut)2O* + H2O → YO(OH)* + HCpBut"
+  ],
+  "surface_mechanism_description": "The ALD process involves two surface reactions: (A) the reaction of Y(CpBut)3 with surface hydroxyl groups (OH*), leading to the formation of Y(CpBut)2O* and the byproduct HCpBut; (B) the reaction of Y(CpBut)2O* with water (H2O), resulting in the formation of YO(OH)* and the release of HCpBut. The surface reaction is not self-limiting, and water absorption into the film bulk can lead to chemical vapor deposition (CVD) type processes. Reducing the water dose and extending purge times mitigates these effects.",
+  "intermediate_species": [
+    "Y(CpBut)2O*",
+    "YO(OH)*",
+    "HCpBut"
+  ],
+  "evidence": "The text describes the ALD process using tris(butylcyclopentadienyl)yttrium (Y(CpBut)3) and water (H2O). The surface reactions are outlined as follows: (A) Y(CpBut)3 reacts with surface hydroxyl groups (OH*) to form Y(CpBut)2O* and HCpBut; (B) Y(CpBut)2O* reacts with H2O to form YO(OH)* and HCpBut. The text also mentions that water absorption into the film bulk can lead to CVD-type processes, and reducing the water dose and extending purge times helps mitigate these effects."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": "3",
+  "coreactant_pulse_time_s": "3",
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The proper precursor pulse lengths were found to be 3 s for both Al(CH3)3 and D2O. The precursor doses (i.e., flow rates and pulse lengths) were much larger than those used in the earlier study where the saturation could be examined only with QMS."
+}

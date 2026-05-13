@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225-300",
+  "pressure": "200 mTorr",
+  "precursor_pulse_time_s": "3",
+  "coreactant_pulse_time_s": "0.06",
+  "purge_time_s": "5",
+  "number_of_cycles": "1000",
+  "reactor_type": "Cambridge Nanotech Fiji F200",
+  "evidence": "ALD ﬁlms were deposited using a Cambridge Nanotech Fiji F200 from 225 to 300 °C, using precursors lithium tert-butoxide (LiO tBu) (Aldrich, 99.7%), deionized H2O, and O 2 gas (Praxair, grade 4.3). Argon (Airgas, grade 5.0) was used as a carrier gas. The LiO tBu precursor was kept at 165 °C and was delivered to the ALD chamber using a bubbler with bypass line and 40 sccm argon carrier gas ﬂow. ALD ﬁlms were deposited using previously determined precursor saturation doses (controlled by fast-acting ALD valves) of 3 s for the LiO tBu and 0.06 s for the H 2O. The plasma O 2 (PO2) was pulsed for 20 s at a 40 sccm ﬂow rate and a power of 300 W. All depositions in this report were 1000 cycles."
+}<|im_end|>

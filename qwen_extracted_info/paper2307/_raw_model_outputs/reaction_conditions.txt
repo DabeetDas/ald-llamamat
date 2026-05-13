@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process for ZTO involves alternating subcycles of ZnO and SnO2 deposition. The ZnO subcycle uses diethylzinc (DEZ) as the precursor, followed by a water pulse. The SnO2 subcycle uses a cyclic amide of Sn(II) as the precursor, followed by a water pulse. The growth temperature was mainly 170 /C14C, which is the upper-bound temperature for ZTO ALD. The observed saturation growth rate was /C241.2–1.3 A˚ /cycle. The growth temperature was mainly /C14C, which is the upper-bound temperature for ZTO ALD. The ZTO growth was done by repeating a supercycle, x-times subcycle of ZnO (diethyl zinc/purge/H2O2/purge) followed by y-times subcycle of SnO2 (Sn precursor/purge/H2O2/purge).",
+  "intermediate_species": ["ZnO", "SnO2"],
+  "evidence": "The ZTO growth was done by repeating a supercycle, x-times subcycle of ZnO (diethyl zinc/purge/H2O2/purge) followed by y-times subcycle of SnO2 (Sn precursor/purge/H2O2/purge). The growth temperature was mainly /C14C, which is the upper-bound temperature for ZTO ALD. The observed saturation growth rate was /C241.2–1.3 A˚ /cycle. The growth temperature was mainly /C14C, which is the upper-bound temperature for ZTO ALD."
+}<|im_end|>

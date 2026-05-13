@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "ALD",
+  "main_precursors": ["Mo(CO)6", "H2S plasma"],
+  "temperature_range": "175 to 225 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of MoS2 thin films and nanosheets on SiO2-covered wafers using Mo(CO)6 and H2S plasma as precursors. The process enables wafer-scale, conformal, and direct growth of MoS2 with good stoichiometry and purity, achieving a step coverage of approximately 75% at a 100 nm trench. The ALD process allows precise control of film thickness and the formation of single-crystal MoS2 nanosheets by adjusting the number of ALD cycles.",
+  "evidence": "Molybdenum disulfide (MoS2) thin films were grown directly on SiO2 covered wafers by atomic layer deposition (ALD) at the deposition temperatures ranging from 175 to 225 °C using molybdenum hexacarbonyl [Mo(CO)6] and H2S plasma as the precursor and reactant, respectively. The ALD-MoS2 thin films exhibited good stoichiometry with negligible C impurities, approximately 0.1 at.% from Rutherford backscattering spectrometry (RBS). The step coverage of ALD-MoS2 was approximately 75% at a 100 nm sized trench. Overall, the ALD-MoS2 process made uniform deposition possible on the wafer-scale (4 inch in diameter)."
+}<|im_end|>

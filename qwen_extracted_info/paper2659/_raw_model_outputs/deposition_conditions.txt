@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "50",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "0.3",
+  "purge_time_s": "2",
+  "number_of_cycles": null,
+  "reactor_type": "flow-type F120",
+  "evidence": "The As 2S3 films were grown in a flow-type F120 reactor (ASM Microchemistry, Ltd., Finland). The growth temperature of 50 /C14 C was chosen on the basis of initial tests showing that the film growth occurs only in a very narrow temperature range. The process was run under a nitrogen pressure of about 10 mbar, and nitrogen was used as the carrier and purging gas. The As precursor pulse length was kept at 2 s and H 2S pulse at 0.3 s in these experiments. Purge times were 2.0 s for the As precursor and 1.0 s for H 2S."
+}<|im_end|>

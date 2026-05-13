@@ -1,0 +1,7 @@
+{
+  "precursors": ["Hf[N(C2H5)CH3]4 (tetrakisethylmethylaminohafnium, TEMAH)"],
+  "coreactants": ["water vapor"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The ALD process for depositing HfO2 was performed using water vapor and Hf[N(C2H5)CH3]4 (tetrakisethylmethylaminohafnium, TEMAH) on the S-terminated Ge surface. A 35-s N2 purge was performed after the introduction of each precursor."
+}

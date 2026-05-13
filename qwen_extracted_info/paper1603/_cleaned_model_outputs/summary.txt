@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum oxide (Al2O3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["trimethylaluminum (TMA)", "deionized water (H2O)"],
+  "temperature_range": "150 °C",
+  "summary": "This study explores the atomic layer deposition (ALD) of aluminum oxide (Al2O3) on silica gel. The ALD process was performed using trimethylaluminum (TMA) and deionized water (H2O) as precursors at 150 °C. The study confirmed that silica gel could be conformally coated with Al2O3 using reactant exposure times of ∼90 s, and the surface area remained relatively unchanged even after 20 ALD cycles. The ALD process was inhibited on the silica gel surface for the first ∼5 cycles, leading to a lower initial weight gain and reduced methane release during the initial TMA exposures. The study provides insights into ALD processes on high surface area supports, which is valuable for the development of nanostructured catalysts using ALD.",
+  "evidence": "The study confirmed that the silica gel could be conformally coated using reactant exposure times of ∼90 s, and the surface area remained relatively unchanged even after 20 Al2O3 ALD cycles. EDAX measurements demonstrated that the spherical particles become infiltrated with the Al2O3 ALD progressively from the outside of the particles to the core, and the kinetics of this process are dictated by the rapid consumption of TMA by the high surface area silica gel. The Al2O3 ALD is inhibited on the silica gel surface for the first ∼5 ALD cycles, and this leads to a lower initial weight gain as well as a reduced proportion of methane released during the initial TMA exposures."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the self-terminating and self-limiting gas-surface reactions of trimethylaluminum (TMA) and plasma-generated nitrogen radicals. The TMA pulse is followed by a purge step, and then a plasma pulse of nitrogen/argon to complete the surface reaction. The growth is self-limited due to the saturation of surface reaction sites, and the process is repeated in cycles to build up the AlN layer.",
+  "intermediate_species": [
+    "trimethylaluminum (TMA)",
+    "surface hydroxyls",
+    "nitrogen radicals"
+  ],
+  "evidence": "The surface reaction mechanism involves the self-terminating and self-limiting gas-surface reactions of trimethylaluminum (TMA) and plasma-generated nitrogen radicals. The TMA pulse is followed by a purge step, and then a plasma pulse of nitrogen/argon to complete the surface reaction. The growth is self-limited due to the saturation of surface reaction sites, and the process is repeated in cycles to build up the AlN layer."
+}

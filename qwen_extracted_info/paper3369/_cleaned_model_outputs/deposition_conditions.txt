@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "0.7 torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "shower-head",
+  "evidence": "The sample stage was independently heated and maintained at 200oC for all depositions. N2 (Praxair, 99.998%) was used as the carrier/purge gas. During N2 purging, the N2 flow rate was held constant at 50 SCCM. The chamber pressure during purge steps was approximately 0.7 torr."
+}

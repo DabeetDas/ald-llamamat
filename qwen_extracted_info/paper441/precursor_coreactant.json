@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "AlCl3",
+    "GaCl3",
+    "ASH3"
+  ],
+  "coreactants": [
+    "ASH3"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "H2"
+  ],
+  "evidence": "The text states: 'AlCl3 and ASH3 were alternately supplied in the same way as the GaAs ALE growth' and 'the AlCl3 supply was interrupted for 5 min' and 'the ASH3 supply was interrupted with the AlCl3 supply continued and the substrate temperature lowered to 540°C'."
+}

@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Sr(iPr3Cp)2",
+    "(MeCp)2Hf(OMe)Me"
+  ],
+  "coreactants": [
+    "oxygen plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The metal precursors used were Sr( iPr3Cp)2 and (MeCp) 2Hf (OMe)Me with an oxygen plasma as the oxidant. The plasma was generated using a 300W power source, a frequency of 13.56 MHz, 60 sccm of O2 and 10 sccm of Ar."
+}

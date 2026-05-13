@@ -1,0 +1,7 @@
+{
+  "precursors": ["TEMAH", "TEMAZ"],
+  "coreactants": ["H2O", "O3"],
+  "purge_gas": [],
+  "carrier_gas": ["Ar"],
+  "evidence": "Using the tetrakis(ethylmethylamino) Hf and Zr precursors, TEMAH and TEMAZ, with either H2O or O3 co-reactants, the co-injection approach for Hf xZr1/C0 xO2 was compared with alternating HfO2 and ZrO2 growth cycles."
+}

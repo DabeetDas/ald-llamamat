@@ -1,0 +1,20 @@
+{
+  "precursors": [
+    "TiCl4",
+    "Zn",
+    "NH3",
+    "trimethylaluminum (TMA, Al(CH3)3)",
+    "water"
+  ],
+  "coreactants": [
+    "NH3",
+    "water"
+  ],
+  "purge_gas": [
+    "nitrogen (99.999 %)"
+  ],
+  "carrier_gas": [
+    "nitrogen (99.999 %)"
+  ],
+  "evidence": "TiN films were grown at 500 \u001eC from TiCl4, Zn, and NH3 using a small scale F-120 research ALE reactor... Al2O3 films were deposited at 300 \u001eC with the R&D and pilot scale F-450 ALE reactor... using trimethylaluminum (TMA, Al(CH3)3) and water as precursors. The reactors were operated under a pressure of about 10 mbar using nitrogen (99.999 %) as a carrier and purging gas."
+}

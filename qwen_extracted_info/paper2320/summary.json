@@ -1,0 +1,12 @@
+{
+  "target_material": "CuCr2O4",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Cu(thd)2",
+    "Cr(acac)3",
+    "ozone"
+  ],
+  "temperature_range": "250 ◦C for deposition, 700 ◦C for annealing",
+  "summary": "The paper describes the fabrication of transparent ferrimagnetic semiconducting CuCr2O4 thin films using atomic layer deposition (ALD) with Cu(thd)2, Cr(acac)3, and ozone as precursors. The films were annealed at 700 ◦C in an oxygen atmosphere to crystallize the spinel phase. The films exhibited a direct bandgap of 1.36 eV, ferrimagnetic transition at 140 K, and p-type semiconducting behavior. The ALD process allows for conformal, pin-hole-free coatings on complex 3D surfaces, making the films suitable for various applications.",
+  "evidence": "We report the magnetic and optical properties of CuCr 2O4 thin films fabricated by atomic layer deposition (ALD) from Cu(thd) 2, Cr(acac) 3, and ozone; we deposit 200 nm thick films and anneal them at 700 ◦C in oxygen atmosphere to crystallize the spinel phase. A ferrimagnetic transition at 140 K and a direct bandgap of 1.36 eV are determined for the films from magnetic and UV-vis spectrophotometric measurements. Electrical transport measurements confirm the p-type semiconducting behavior of the films. As the ALD technique allows the deposition of conformal pin-hole-free coatings on complex 3D surfaces, our CuCr 2O4 films are interesting material candidates for various frontier applications."
+}

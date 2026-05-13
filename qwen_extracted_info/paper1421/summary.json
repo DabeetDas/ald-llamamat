@@ -1,0 +1,12 @@
+{
+  "target_material": "TiN and Ti(Al)N",
+  "process_type": "ALD",
+  "main_precursors": [
+    "TiCl4",
+    "Al(CH3)3",
+    "ND3"
+  ],
+  "temperature_range": "300-400 °C",
+  "summary": "The study investigates the ALD process for depositing TiN and Ti(Al)N films using titanium tetrachloride (TiCl4), trimethylaluminum (Al(CH3)3), and deuterated ammonia (ND3). The research focuses on the role of Al(CH3)3 in reducing chlorine content and its effect on the deposition mechanism. The process involves surface reactions monitored by in situ mass spectrometry, revealing that Al(CH3)3 acts as an additional reducing agent, releasing methyl radicals and influencing chlorine desorption. The study also highlights the temperature-dependent behavior of the deposition process and the impact of Al(CH3)3 dose on film properties.",
+  "evidence": "The study investigates the ALD process for depositing TiN and Ti(Al)N films using titanium tetrachloride (TiCl4), trimethylaluminum (Al(CH3)3), and deuterated ammonia (ND3). The research focuses on the role of Al(CH3)3 in reducing chlorine content and its effect on the deposition mechanism. The process involves surface reactions monitored by in situ mass spectrometry, revealing that Al(CH3)3 acts as an additional reducing agent, releasing methyl radicals and influencing chlorine desorption. The study also highlights the temperature-dependent behavior of the deposition process and the impact of Al(CH3)3 dose on film properties."
+}

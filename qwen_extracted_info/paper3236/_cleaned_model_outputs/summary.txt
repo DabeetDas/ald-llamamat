@@ -1,0 +1,8 @@
+{
+  "target_material": "PbTe and PbSe nanolaminates",
+  "process_type": "thermal ALD",
+  "main_precursors": ["lead(II)bis(2,2,6,6-tetramethyl-3,5-heptanedionato) (Pb(C11H19O2)2)", "(trimethylsilyl) telluride ((Me3Si)2Te)", "bis-(triethyl silyl) selane ((Et3Si)2Se)"],
+  "temperature_range": "170 ◦C to 210 ◦C",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of alternating PbTe and PbSe thin film nanolaminates on silicon substrates. The ALD process uses specific precursors for lead, tellurium, and selenium. The growth follows the Volmer-Weber island growth mode, and the optimal temperature range for ALD was found to be between 170 ◦C and 210 ◦C. The research highlights the potential of these nanolaminates for thermoelectric applications due to their enhanced ZT values.",
+  "evidence": "For this study PbTe and PbSe thin ﬁlm nanolaminates have been prepared on silicon substrates with native oxide by Atomic Layer Deposition (ALD) using lead(II)bis(2,2,6,6-tetramethyl-3,5-heptanedionato) (Pb(C 11H19O2)2), (trimethylsilyl) telluride ((Me 3Si)2Te) and bis-(triethyl silyl) selane ((Et 3Si)2Se) as ALD precursors for lead, tellurium and selenium. The experimental evidence revealed the ALD growth of lead telluride and lead selenide followed the Volmer-Weber island growth mode. We found a strong dependence of the nucleation process on the temperature. In this paper, we present the optimized conditions for growing PbTe and PbSe thin film nanolaminates within the ALD process window range of 170 ◦C to 210 ◦C and discuss an early nano-scale PbTe/PbSe bilayer structure."
+}

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "300-350",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "8000-16000",
+ "reactor_type": "flow-type",
+ "evidence": "The films were grown by the ALE method at 300-350°C using a flow-type reactor ~3. The number of pulsing cycles were typically between 8000 and 16000 for film thicknesses of 0.5-1.0 ,am."
+}

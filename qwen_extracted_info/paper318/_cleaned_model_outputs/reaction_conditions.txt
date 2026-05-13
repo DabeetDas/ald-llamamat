@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "Fe(acac)3 + O3 -> Fe2O3 + by-products"
+  ],
+  "surface_mechanism_description": "During ALD process, iron source was imported into the reactor and a self-terminating reaction occurred on the substrate surface. After a purging of inert gas N2 to remove the non-reacted reactants and gaseous by-products, monolayer iron compounds were adsorbed. As ozone oxidized the iron compounds, monolayer iron oxides were obtained during a cycle.",
+  "intermediate_species": [
+    "monolayer iron compounds",
+    "monolayer iron oxides"
+  ],
+  "evidence": "During ALD process, iron source was imported into the reactor and a self-terminating reaction occurred on the substrate surface. After a purging of inert gas N2 to remove the non-reacted reactants and gaseous by-products, monolayer iron compounds were adsorbed. As ozone oxidized the iron compounds, monolayer iron oxides were obtained during a cycle."
+}

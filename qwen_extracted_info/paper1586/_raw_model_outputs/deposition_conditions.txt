@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 50,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 30,
+  "number_of_cycles": "600",
+  "reactor_type": "F-120",
+  "evidence": "TMA and deionized H2O vapors were alternately pulsed through the reaction chamber utilizing N2 as the carrier gas at a mass flow rate of 360 sccm and a pressure of 1 Torr using a growth temperature of 50 °C. One complete AB cycle is 42 s: (1) TMA reactant exposure time ) 1 s, (2) N2 purge following TMA exposure time ) 10 s, (3) H2O reactant exposure time ) 1 s, and (4) N2 purge following H2O exposure time ) 30 s."
+}<|im_end|>

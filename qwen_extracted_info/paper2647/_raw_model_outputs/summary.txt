@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["MoCl5", "H2S"],
+  "temperature_range": "up to 475 /C14 C",
+  "summary": "Low temperature atomic layer deposition (ALD) of monolayer to few layer MoS2 on 150 mm diameter SiO2/Si and quartz substrates is demonstrated. The process uses purge separated cycles of MoCl5 and H2S precursors at reactor temperatures up to 475 /C14 C. Raman scattering studies show the in-plane (E12g) and out-of-plane (A1g) modes of MoS2, and X-ray photoelectron spectroscopy indicates improved stoichiometry after postdeposition annealing in a sulfur ambient. High resolution transmission electron microscopy confirms the atomic spacing of monolayer MoS2 thin films.",
+  "evidence": "Low temperature atomic layer deposition (ALD) of monolayer to few layer MoS2 uniformly across 150 mm diameter SiO2/Si and quartz substrates is demonstrated. Purge separated cycles of MoCl5 and H2S precursors are used at reactor temperatures of up to 475 /C14 C. Raman scattering studies show clearly the in-plane (E12g) and out-of-plane (A1g) modes of MoS2. The separation of the E12g and A1g peaks is a function of the number of ALD cycles, shifting closer together with fewer layers. X-ray photoelectron spectroscopy indicates that stoichiometry is improved by postdeposition annealing in a sulfur ambient. High resolution transmission electron microscopy confirms the atomic spacing of monolayer MoS2 thin films."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "AlF3",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "TaF5"
+  ],
+  "temperature_range": "125 /C14 C",
+  "summary": "The study focuses on optimizing the atomic layer deposition (ALD) of AlF3 using trimethylaluminum (TMA) and TaF5 precursors. The process is applied to high-voltage Li-ion battery cathodes to mitigate capacity fade. The ALD process is optimized to avoid the use of toxic HF gas and to achieve self-limited growth by controlling temperature and purge times. The results show significant improvements in charge capacity fade at high discharge rates for coated cathode materials.",
+  "evidence": "Atomic layer deposition (ALD) of conformal AlF3 coatings onto both flat silicon substrates and high-voltage LiNi0.5Mn0.3Co0.2O2 (NMC) Li-ion battery cathode powders was investigated using a Al(CH3)3/TaF5 precursor combination. ... NMC cathode powders were coated using these optimized conditions, and coin cells employing these coated cathode particles exhibited significant improvements in charge capacity fade at high discharge rates."
+}

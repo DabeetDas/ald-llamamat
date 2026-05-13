@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption and dissociation of the precursor molecules on the substrate surface. The Ce(thd)4 adsorbs on nucleation sites (-OH) and dissociates into Ce(thd)x* species, where * designates surface species. Ozone regenerates O* groups which act as nucleation sites during subsequent (hfac)Ag(PMe3) exposures. The (hfac)Ag(PMe3) may adsorb on Ce–O* or Ce–OH nucleation sites and on unreacted –OH groups, and dissociates into Ce(hfac)* and Ag(hfac)* species. Ozone may react with Ce(hfac)* and Ag(hfac)* species regenerating O* groups for further Ce(thd)4 exposures.",
+  "intermediate_species": [
+    "Ce(thd)x*",
+    "O*",
+    "Ce(hfac)*",
+    "Ag(hfac)*"
+  ],
+  "evidence": "The hypothetical deposition of Ag doped CeO2 by ALD can be explained as follows: (a) Ce(thd)4 adsorbs on nucleation sites (–OH) and dissociates into the attached fraction Ce(thd)x*, where * designates surface species, with x varying from 1 to 3 depending on the number of OH sites it bonds to. Most probably, some –OH groups remain unreacted, due to steric hindrance; (b) Ozone regenerates O* groups which can act as nucleation sites during subsequent (hfac)Ag(PMe3) exposures. The O3 half-cycle also probably results in the formation of OH groups because of decomposition of the precursor ligand; (c) (hfac)Ag(PMe3) may adsorb on Ce–O* or Ce–OH nucleation sites and on unreacted –OH groups, and dissociates into Ce(hfac)* and Ag(hfac)* species; (d) ozone may react with Ce(hfac)* and Ag(hfac)* species regenerating O* groups for further Ce(thd)4 exposures."
+}

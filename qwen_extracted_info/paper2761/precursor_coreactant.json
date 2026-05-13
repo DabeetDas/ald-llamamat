@@ -1,0 +1,9 @@
+{
+  "precursors": [],
+  "coreactants": [],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": null,
+  "_error": "ValueError: Model returned a list where an object was required.",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 257, in precurosr_coreactant_purge_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 140, in robust_json_parse\n    return _coerce_to_template(parsed, default)\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 50, in _coerce_to_template\n    raise ValueError(\"Model returned a list where an object was required.\")\nValueError: Model returned a list where an object was required.\n"
+}

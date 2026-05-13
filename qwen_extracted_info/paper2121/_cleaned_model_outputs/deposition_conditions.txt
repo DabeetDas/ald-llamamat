@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "500",
+ "pressure": "a few millibars",
+ "precursor_pulse_time_s": "0.5",
+ "coreactant_pulse_time_s": "0.5",
+ "purge_time_s": "0.5",
+ "number_of_cycles": "1000",
+ "reactor_type": "Microchemistry F-120 ALE",
+ "evidence": "Typical deposition and purging times were both /H110110.5 s. Under these conditions we reached a growth rate of 1 ML per cycle, which is an optimal condition for ALD processes, not achievable with inorganic precursors. The Microchemistry F-120 ALE reactor used in this study was financed by the Foundation for the Polish Science within the \"Sezam\" program."
+}

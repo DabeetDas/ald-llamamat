@@ -1,0 +1,7 @@
+{
+  "precursors": ["Bi(CH2SiMe3)3", "BiPh3", "Ti(O-i-Pr)4"],
+  "coreactants": ["O3", "H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Bi(CH2SiMe3)3 was used as precursor for the Bi–Si–O thin films, whereas triphenylbismuth (BiPh3, Strem Chemicals, 99%) was used as the bismuth source for both Bi–Si–O and Bi–Ti–O thin films. Titanium isopropoxide (Ti(O-i-Pr)4, Aldrich Chem. Co., 97%) was used as the titanium source. High-purity nitrogen (499.999%) was used as a carrier and purging gas."
+}

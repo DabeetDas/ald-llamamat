@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "125–200",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 30,
+  "number_of_cycles": 200,
+  "reactor_type": "hot wall viscous flow reactor",
+  "evidence": "During the course of an ALD cycle, the reactant dosages and the purging times were maintained by a time categorization: t1–t2–t3–t4. Here, t1 and t3 represent the dose times for TiCl4 and H2S, respectively, whereas t2 and t4 are the purging times. Unless speciﬁed otherwise, a pulse sequence of (1, 30, 1, 30) was used."
+}

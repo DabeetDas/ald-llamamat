@@ -1,0 +1,18 @@
+{
+  "precursors": [
+    "Zn",
+    "Te"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "He",
+    "Ar",
+    "H2"
+  ],
+  "carrier_gas": [
+    "He",
+    "Ar",
+    "H2"
+  ],
+  "evidence": "The substrate was alternately exposed to Zn (99.99%) and Te (99.999%) elemental sources under a He, Ar or H2 gas flow of about 4 cm3/s."
+}

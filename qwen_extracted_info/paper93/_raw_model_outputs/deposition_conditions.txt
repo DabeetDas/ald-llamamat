@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 120,
+ "pressure": "",
+ "precursor_pulse_time_s": 7,
+ "coreactant_pulse_time_s": 10,
+ "purge_time_s": 30,
+ "number_of_cycles": null,
+ "reactor_type": "thermal",
+ "evidence": "The growth rate per cycle (GPC) using the adopted pulse/purge sequence was found to be 1.0 /C138 cycle/C01 from the linear fit of the linearity study (Figure 3 a), which is of the same order of magnitude as the GPC for a TMA/H 2O process. Furthermore, a well-defined ALD-window between 100 8C and 180 8C gives real ALD growth, with insufficient reactions for temperatures below 100 8C and precursor desorption for temperatures above 180 8C (Figure 3 b)."
+}<|im_end|>

@@ -1,0 +1,13 @@
+{
+  "target_material": "Bi 3.25 La 0.75 Ti 3 O 12",
+  "process_type": "atomic-layer deposition",
+  "main_precursors": [
+    "HfCl 4",
+    "Bismuth (III) acetate",
+    "Lanthanum-acetate hydrate",
+    "Titanium (IV) isopropoxide"
+  ],
+  "temperature_range": "300 ° C",
+  "summary": "The study investigates the ferroelectric properties of Bi 3.25 La 0.75 Ti 3 O 12 (BLT) films using HfO 2 as a buffer layer for nonvolatile-memory field-effect transistors. The HfO 2 layer was deposited via atomic-layer deposition (ALD) at 300 ° C, and BLT films were prepared using metal-organic decomposition (MOD). The BLT films were deposited on HfO 2 / Si substrates and annealed at 650 ° C. The electrical and structural properties of the metal-ferroelectric-insulator-semiconductor (MFIS) structure were analyzed, showing that the HfO 2 buffer layer prevents interdiffusion between BLT and Si, enhancing the ferroelectric properties and memory window.",
+  "evidence": "The HfO 2 thin film was deposited as a buffer layer between Si substrate and BLT thin films. The HfO 2 thin films were deposited by the ALD method on the P–Si substrates at 300 ° C using a traveling-wave-type reactor. The BLT thin films were deposited using the MOD method. The BLT films were deposited on both Si and HfO 2 / Si substrates at room temperature and then dried at 400 ° C for 10 min. The BLT films were annealed at 650 ° C for 1 h in an oxygen ambient."
+}

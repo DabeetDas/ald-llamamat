@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Dimethylcadmium (DMCd)", "Diethyltelluride (DETe)", "Methylallyltelluride (MATe)"],
+  "temperature_range": "250~ to 320~",
+  "summary": "The paper describes the use of atomic layer epitaxy (ALE) to grow CdTe layers on GaAs and Si substrates. The process involves the decomposition of DMCd into Cd and the catalytic reaction of Te precursors with the surface-adsorbed Cd. The study highlights the importance of controlling the initial nucleation phase to improve the crystal quality and morphology of CdTe layers, particularly for subsequent HgCdTe growth. The ALE method allows for precise control over the thickness and orientation of the CdTe layers, resulting in improved crystallinity and reduced defects.",
+  "evidence": "In this paper, we report on the atomic layer epitaxy (ALE) of CdTe on GaAs and Si by the organometallic vapor phase epitaxial process at atmospheric pressure. Self-limiting growth at one monolayer was obtained over the temperature range from 250~ to 320~ under a wide range of reactant pressure conditions. A study of growth mechanism indicates that DMCd decomposes into Cd on the surface and the Te precursors react catalytically on the Cd covered surface. We have used this ALE grown layer to improve the crystal quality and the morphology of conventionally grown CdTe on GaAs."
+}

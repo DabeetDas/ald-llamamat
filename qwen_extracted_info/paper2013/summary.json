@@ -1,0 +1,13 @@
+{
+  "target_material": "AlInGaN",
+  "process_type": "pulsed atomic layer epitaxy (PALE)",
+  "main_precursors": [
+    "trimethyl aluminum (TMA)",
+    "trimethylgallium (TMG)",
+    "trimethylindium (TMI)",
+    "NH3"
+  ],
+  "temperature_range": "760 °C",
+  "summary": "The study reports on the deposition of quaternary AlInGaN layers using pulsed atomic layer epitaxy (PALE) at temperatures below 800 °C. The process allows precise control of composition and thickness by varying the number of precursor pulses. The layers exhibit strong room-temperature photoluminescence and are suitable for UV LEDs and solar-blind detectors.",
+  "evidence": "Using PALE, AlInGaN layers with Al mole fractions in excess of 40% and strong room-temperature photoluminescence peaks at 280 nm can easily be grown even at temperatures lower than 800 °C. The use of PALE allowed us to reduce the growth temperatures well below 800 °C thereby significantly increasing the In incorporation and growing high Al fraction quaternary AlInGaN layers with transmission cutoffs in the 250–350 nm range. These layers exhibited strong room-temperature photoluminescence, thus establishing their suitability for use in UV LEDs for solid-state white lighting and solar-blind ultraviolet detectors."
+}

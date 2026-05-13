@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "480 −550",
+  "pressure": "10 −10 Torr",
+  "precursor_pulse_time_s": 100,
+  "coreactant_pulse_time_s": 400,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "the durations of pulses for O, Fe, and Bi were 100, 400, and 15 ms, respectively. Between the precursor pulse and evacuation of the chamber, the ALD valve was closed to maintain the precursor at a constant vapor pressure in the chamber to increase the duration of the reaction, which we call the \"stock time\"; for O, Fe, and Bi, these durations were 2, 4, and 0.5 s, respectively. After the stock time, highly pure N2 (99.9995 %) gas was employed to purge the chamber for 5 s at 1.1 Torr and evacuated with a rotary pump for 7 s to a base pressure of 3 × 10−2 Torr before the next precursor was admitted to the chamber"
+}

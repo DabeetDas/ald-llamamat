@@ -1,0 +1,11 @@
+{
+  "target_material": "La2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "La(C5H5)3",
+    "H2O"
+  ],
+  "temperature_range": "260 °C (deposition), 600 °C (annealing)",
+  "summary": "The study investigates the vibrational and electrical properties of hexagonal La2O3 films grown using atomic layer deposition (ALD). The films were deposited on Si(100) substrates at 260 °C using La(C5H5)3 and H2O as precursors. The films were then annealed in vacuum at 600 °C. The research focuses on the impact of film thickness on the formation of hexagonal (H) versus cubic (C) La2O3 phases and the resulting dielectric properties.",
+  "evidence": "La2O3 films were deposited on Si(100) at 260 °C using atomic layer deposition from La(C5H5)3 at 185 °C and H2O at 18 °C. After deposition the films were exposed to air for at least 24 h, thus becoming H-La(OH)3, and were then annealed in vacuum for 60 s at 600 °C."
+}

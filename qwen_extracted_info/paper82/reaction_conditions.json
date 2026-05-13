@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The Re metal growth relies on fully reductive chemistry in contrast to typical noble metal ALD. The growth proceeds via fast saturative surface reactions between rhenium pentachloride and ammonia.",
+  "intermediate_species": [
+    "ReCl5",
+    "NH3",
+    "ReNx"
+  ],
+  "evidence": "The Re metal growth relies on fully reductive chemistry in contrast to typical noble metal ALD. Simple and robust precursors are used and the growth proceeds via fast saturative surface reactions. Deposition of low resistivity rhenium nitride is also demonstrated by lowering the deposition temperature."
+}

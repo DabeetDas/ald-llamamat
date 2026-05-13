@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "MeCpPtMe3"
+  ],
+  "coreactants": [
+    "oxygen"
+  ],
+  "purge_gas": [
+    "nitrogen"
+  ],
+  "carrier_gas": [
+    "nitrogen"
+  ],
+  "evidence": "The ALD of Pt was accomplished by using alternating exposures to MeCpPtMe3 and oxygen at a constant temperature (300 -C). During ALD, a constant flow (90 sccm) of ultrahigh-purity nitrogen (99.995%) carrier gas was passed through the reactor at a constant pressure (0.90 Torr)."
+}

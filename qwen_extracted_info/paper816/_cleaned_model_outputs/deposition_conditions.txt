@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "350",
+ "pressure": "3Torr",
+ "precursor_pulse_time_s": "3",
+ "coreactant_pulse_time_s": "15",
+ "purge_time_s": "15",
+ "number_of_cycles": null,
+ "reactor_type": "plasma-enhanced",
+ "evidence": "One AlN deposition cycle consisted of an AlCl3 pulse (carried by N2 70sccm, 3s), a purgewithAr/H2(100/200sccm,15s),exposuretothe NH3/Ar/H2 plasma (50/100/200sccm, 10s), and a final purgewithAr/H2(100/200sccm,15s). The cycle was repeated until the desired thickness was obtained. The plasma power was fixed at 150W with an RF (13.56MHz) plasma source, and the deposition temperature and pressure were 350/C14C and 3 Torr, respectively, as shown in Table1."
+}

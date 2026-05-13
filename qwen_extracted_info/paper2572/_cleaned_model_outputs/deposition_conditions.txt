@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500– 750",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 7,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 30,
+  "number_of_cycles": 150,
+  "reactor_type": "custom horizontal quartz reactor",
+  "evidence": "One ALD cycle consisted of sequential GaCl3 supply (50 sccm N2, sccm denotes cubic centimeters per minute at STP), N2 purge (30 s, 500 sccm), NH3 / N2 carrier, and N2 purge (30 s, 500 sccm)."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "AlOx",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Trimethylaluminum (TMA)",
+    "H2O"
+  ],
+  "temperature_range": "80-100°C",
+  "summary": "The study investigates the use of atomic layer deposition (ALD) to create ultrathin barrier layers for organic light-emitting diodes (OLEDs). The focus is on the deposition of aluminum oxide (AlOx) films on PES substrates and OLEDs to improve moisture and oxygen barrier properties. The ALD process uses TMA and H2O as precursors, and the films are deposited at temperatures between 80-100°C. The results show that ALD-deposited AlOx films provide excellent barrier properties, with a MOCON value as low as 0.0615 g/m²/day for 30 nm thick films. The study also explores the combination of ALD-deposited AlOx with other inorganic or organic layers to enhance barrier performance.",
+  "evidence": "Deposition of 30 nm of AlOx film on both sides of PES film at 90°C gave film MOCON value of 0.0615 g/m²/day. The sequence of pulses for one cycle deposition of AlOx is TMA (0.5 s)/N2 (0.8 s)/H2O (1.43 s)/N2 (2.5 s). Aluminum oxide thin films 10-50 nm thick were grown on a PES substrate in a 12 × 16 in. large traveling wave ALD reactor with nitrogen as a carrier gas in the temperature range of 80-100°C. Trimethylaluminum (TMA) and H2O were used as precursors of Al and O, respectively."
+}

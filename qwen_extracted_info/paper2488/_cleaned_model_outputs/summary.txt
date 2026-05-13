@@ -1,0 +1,8 @@
+{
+  "target_material": "titanium dioxide",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "250 °C",
+  "summary": "The paper describes the use of atomic layer deposition (ALD) to fabricate liquid core antiresonant reflecting optical waveguides (ARROWs). The ALD process enables the deposition of a conformal sub-100-nm titanium dioxide antiresonant layer, resulting in low-loss waveguides with broadband transmission. The study highlights the advantages of ALD in achieving high conformality, reproducibility, and reduced surface roughness, which are critical for optical performance.",
+  "evidence": "The ALD process permits the deposition of a very conformal sub-100-nm titanium dioxide antiresonant layer. The TiO2 film deposition was carried out by alternately exposing the substrate to volatilized TiCl4 and H2O as the precursor of titanium and oxygen, respectively. The film was grown at a temperature of 250 °C with a deposition rate of 0.56 Å/cycle."
+}

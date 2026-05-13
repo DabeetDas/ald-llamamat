@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnOS",
+  "process_type": "ALD",
+  "main_precursors": ["diethylzinc (DEZ)", "H2O", "H2S"],
+  "temperature_range": "120 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of zinc oxysulfide (ZnOS) as an anode material for Li-ion batteries. The ALD process combines oxide and sulfide cycles using DEZ as the Zn precursor and H2O/H2S as the reactants. The material was deposited on stainless steel (SS) substrates and tested for electrochemical performance. The optimal thickness of ~75 nm resulted in high stable capacities of 632.9 and 510.3 mAh g−1 at current densities of 0.1 and 1 A g−1, respectively. The presence of sulfur in the ZnOS film improved conductivity and electrochemical stability, leading to better performance compared to pristine ZnO and ZnS anodes.",
+  "evidence": "The material was deposited using a combination of oxide and sulfide ALD cycles; they were then tested as anodes in Li-ion batteries. The material loading was further optimized by varying the number of ALD supercycles to attain the maximum stable cycling performance. The highest stable capacities of 632.9 and 510.3 mAh g−1 were achieved at current densities of 0.1 and 1 A g−1 (~4 and 40 µA cm−2), respectively, for a ZnOS film with an optimum thickness of ~75 nm. The optimized ZnOS anode exhibited superior electrochemical performance in comparison to the equivalent pristine ZnO and ZnS anodes."
+}<|im_end|>

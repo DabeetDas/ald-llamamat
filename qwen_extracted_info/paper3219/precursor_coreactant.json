@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "IMBCHRu (isopropyl-methylbenzene-cyclohexadiene Ru(0))",
+    "EBCHRu (ethylbenzen–cyclohexadiene Ru(0))",
+    "EBECHRu (ethylbenzen–ethylcyclohexadiene Ru(0))"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The Ru precursor was vaporized in a bubbler and carried to the process chamber by Ar gas at 50 standard cubic centimeters per minute (sccm). O2 gas was delivered at a flow rate of 50 sccm as the reactant for the Ru precursors."
+}

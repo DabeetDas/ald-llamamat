@@ -1,0 +1,12 @@
+{
+  "target_material": "Aluminum-doped zinc oxide (AZO)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethylzinc (DEZ)",
+    "deionized water vapor",
+    "trimethylaluminum (TMA)"
+  ],
+  "temperature_range": "200 ◦C",
+  "summary": "The study investigates the uniformity of Al distribution in aluminum-doped zinc oxide (AZO) films grown by atomic layer deposition (ALD). It shows that for Al content less than 2 at.%, Al distribution is periodic, but this periodicity diminishes after annealing at 300 ◦C. For Al content higher than 2 at.%, the distribution is uniform within the depth measurement accuracy of ∼5–10 nm. The ALD process allows for uniform deposition on large substrates and uses sequential precursor introduction with N2 purging.",
+  "evidence": "We investigated the aluminum distribution in aluminum-doped zinc oxide films grown by atomic layer deposition. ... For the Al content higher than 2 at.%, its distribution in ZnO:Al films was uniform within the depth measurement accuracy of ∼5–10 nm. ... The ALD method allows to cover very uniformly very large substrates of a few m2 sizes."
+}

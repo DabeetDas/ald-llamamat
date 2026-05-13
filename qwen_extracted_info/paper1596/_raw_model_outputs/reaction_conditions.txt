@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "[(CH3)2N]4Ti + NH3 → [(CH3)2N]3Ti-NH2 + (CH3)2NH"
+  ],
+  "surface_mechanism_description": "Surface transamination reaction where TDMAT reacts with NHX surface sites, eliminating dimethylamine and attaching Ti to the surface N atom.",
+  "intermediate_species": [
+    "dimethylamine",
+    "surface hydroxyls",
+    "surface NHX species"
+  ],
+  "evidence": "The reaction of TDMAT with NHX-terminated Si(100) surfaces at 300 K is followed by infrared (IR) spectroscopy, temperature-programmed desorption (TPD), and density functional calculations. Experimental observations suggest the occurrence of a surface transamination reaction, where an approaching TDMAT molecule reacts with a surface NHX site, eliminating dimethylamine and attaching Ti to the surface N atom."
+}<|im_end|>

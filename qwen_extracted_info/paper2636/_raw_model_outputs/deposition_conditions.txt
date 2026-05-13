@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "90",
+  "pressure": "7.5 Pa",
+  "precursor_pulse_time_s": "0.3",
+  "coreactant_pulse_time_s": "2",
+  "purge_time_s": "2",
+  "number_of_cycles": null,
+  "reactor_type": "radial ﬂow ALD reactor (ALD 150, FHR)",
+  "evidence": "For the TiO2 (O2) process, the TiCl4 adsorption saturates at a pulse length of 0.3 s. Because of comparability, the TiCl4 pulse time for TiO2 (H2O) deposition technique was also set to 0.3 s. In the case of the WO3 deposition, the WF6 precursor was saturated at 2 s. For the following discussions, the TiCl4 pulse time was chosen to be 0.3 s for both TiO2 processes and the WF6 pulse time was selected to be 2 s."
+}<|im_end|>

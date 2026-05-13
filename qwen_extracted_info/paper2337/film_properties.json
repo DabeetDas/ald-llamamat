@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 366,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "polycrystalline",
+  "evidence": "The layers had a growth rate of /C240.095 nm/cycle. Since the layer thicknesses were extracted using an optical model, 15 it was necessary to validate the obtained thickness values. This was done with the help of TEM imaging [Fig. 1(b)]. Both SE and TEM revealed similar thickness values, i.e., /C2436 nm within an accuracy of 63n m . The TEM image in Fig. 1(b) shows the cross-section of the fabricated device (i.e., Al electrode on the GaN/Native Oxide/Si wafer). The GaN layer reveals vertical (columnar) growth in several regions. Fast Fourier Transform in several regions in the layer revealed d-spacing values predominantly associated with the (002) planes of hexagonal (wurtzitic) GaN. Other wurtzitic crystal planes such as (100) and (101) were also observed in small amounts, indicating the polycrystalline nature of the material."
+}

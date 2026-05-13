@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic layer epitaxy (ALE)",
+  "main_precursors": ["Diethylzinc (DetZn)", "Deionized water"],
+  "temperature_range": "130–600 /C176C",
+  "summary": "The study investigates the effect of an electric field on the atomic layer epitaxy (ALE) growth of ZnO on sapphire (0 0 0 1) substrates. The results show that an electric field significantly improves the epitaxial growth of ZnO films, leading to higher quality films with a preferred (0 0 2) orientation. The electric field increases the hydroxyl packing density on the substrate surface, which enhances the epitaxial growth.",
+  "evidence": "The results indicated, for the first time, that electric field could make remarkable growth difference for the ZnO films with this method. With a proper electric field, higher quality of epitaxial films has been obtained. Electric field-induced increase of the hydroxyl packing density on the (0 0 0 1) sapphire surface could account for this effect."
+}<|im_end|>

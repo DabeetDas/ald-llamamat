@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth occurs through direct removal of ligands by N containing radicals, the growth occurs at almost constant rate irrespective of substrate. The adsorption of Ru precursor might be much easier on Ru surface than on original substrates with ionic or covalent nature.",
+  "intermediate_species": ["Ru precursor", "N containing radicals"],
+  "evidence": "For PE-ALD from NH3 plasma, for which the growth occurs through direct removal of ligands by N containing radicals, the growth occurs at almost constant rate irrespective of substrate. Moreover, the adsorption of Ru precursor might be much easier on Ru surface than on original substrates with ionic or covalent nature as previously suggested."
+}

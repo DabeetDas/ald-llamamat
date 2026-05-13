@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "WF5* + Al(CH3)3 -> AlF3 + WC* + 2C* + 2HF + 7/2H2"
+  ],
+  "surface_mechanism_description": "The first TMA exposure following WF6 in the ALD process results in the reduction of adsorbed WFx species to form AlF3 and metallic W, as indicated by the reaction equation.",
+  "intermediate_species": [
+    "WFx*",
+    "AlF3",
+    "WC*",
+    "C*",
+    "HF"
+  ],
+  "evidence": "The first TMA exposure following WF6 in Fig. 4 might result in: WF5* + Al(CH3)3 -> AlF3 + WC* + 2C* + 2HF + 7/2H2 (where the asterisks denote surface species)."
+}

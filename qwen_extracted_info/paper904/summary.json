@@ -1,0 +1,13 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "deionized water",
+    "zinc acetate",
+    "diethylzinc (DEZn)",
+    "dimethylzinc (DMZn)"
+  ],
+  "temperature_range": "90 /C176C to 400 /C176C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to grow ZnO films at low temperatures for cross-bar memory applications. The films were grown using various organic zinc precursors and oxygen precursors, with the aim of achieving controlled electrical properties, including both n-type and p-type characteristics. The low-temperature growth process enabled the production of ZnO films with reduced defect concentrations and improved electrical properties suitable for memory devices.",
+  "evidence": "Properties of ZnO films grown by atomic layer deposition at low temperature are described. By selecting appropriate precursors and their pulses we obtained films with controlled electrical properties – from heavily n-type to p-type. Parameters of constructed Schottky and p–n junction are good enough for their application in a new generation of memory devices with cross-bar architecture."
+}

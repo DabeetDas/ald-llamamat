@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process for aluminium phosphate involves alternating subcycles of Al2O3 and POx, with the Al2O3 subcycle using TMA–H2O and the POx subcycle using TMP–O3. The P/Al ratio is controlled by varying the number of POx subcycles while keeping the Al2O3 subcycle unchanged. The growth per cycle is self-limiting, resulting in monolayer deposition.",
+  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum", "trimethylphosphite"],
+  "evidence": "The ALD process for aluminium phosphate involves alternating subcycles of Al2O3 and POx, with the Al2O3 subcycle using TMA–H2O and the POx subcycle using TMP–O3. The P/Al ratio is controlled by varying the number of POx subcycles while keeping the Al2O3 subcycle unchanged. The growth per cycle is self-limiting, resulting in monolayer deposition."
+}

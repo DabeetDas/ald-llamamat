@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDEAH"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The MO hafnium precursor, TDEAH, was used and introduced into the ALD chamber via a bubbler using an argon carrier gas during the DPALD process. An argon purge gas was introduced for the complete separation of the precursor and reactant gas."
+}

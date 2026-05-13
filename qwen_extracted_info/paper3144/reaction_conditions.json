@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the dissociative chemisorption of O2 on the Pt surface for oxidative decomposition of the precursor ligands. The O2 plasma provides atomic O to the surface directly from the gas phase, enhancing oxygen chemisorption and oxidation. The growth and nucleation properties are influenced by the plasma exposure time, with shorter exposure times leading to Pt deposition and longer times leading to PtO2 deposition.",
+  "intermediate_species": [
+    "Pt surface",
+    "O radicals",
+    "surface hydroxyls"
+  ],
+  "evidence": "The surface reaction mechanism involves the dissociative chemisorption of O2 on the Pt surface for oxidative decomposition of the precursor ligands. The O2 plasma provides atomic O to the surface directly from the gas phase, enhancing oxygen chemisorption and oxidation. The growth and nucleation properties are influenced by the plasma exposure time, with shorter exposure times leading to Pt deposition and longer times leading to PtO2 deposition."
+}

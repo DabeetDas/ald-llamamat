@@ -1,0 +1,7 @@
+{
+  "precursors": ["(ethylbenzyl)(1,3-cyclohexadienyl)Ru(0) (EBCHDRu, C14H18Ru)"],
+  "coreactants": ["O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The films were deposited using a traveling wave-type thermal ALD reactor (Lucida-D100, NCD Technology, Korea) with the zero valence EBCHDRu as a precursor. The Ru precursor was vaporized in a bubbler at an elevated temperature of 100 oC and was carried into the process chamber with N2 gas flow rate of 100 standard cubic centimeters per minute (SCCM). Between the precursor pulsing and the reactant pulsing, a purging process was done with N2 gas of 200 SCCM during 10 s;"
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 120,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 0.015,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "Savannah 200 ALD instrument (Cambridge Nanotech)",
+  "evidence": "ALD runs followed a t1-t2-t3-t4 timing sequence, where t1 is the ReO3CH3 pulse time, t2 is the ReO3CH3 purge time, t3 is the TMA pulse time, and t4 is the TMA purge time, and adopting the temperature setting T1-T2-T3, where T1 is the temperature at which ReO3Me is heated to generate its vapors (ReO3Me temperature), T2 is the TMA temperature, and T3 is the deposition chamber temperature. T1 and T2 were kept fixed at 70 °C and 23 °C, respectively."
+}<|im_end|>

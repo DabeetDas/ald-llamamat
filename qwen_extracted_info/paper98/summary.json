@@ -1,0 +1,13 @@
+{
+  "target_material": "In2O3/SnO2/Al2O3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "trimethylindium (TMI)",
+    "tetrakis(dimethylamino)tin (TDMASn)",
+    "trimethylaluminum (TMA)",
+    "water"
+  ],
+  "temperature_range": "200°C",
+  "summary": "The study describes the atomic layer deposition (ALD) of ternary In2O3/SnO2/Al2O3 thin films for use in thin-film transistors (TFTs). The films are fabricated using trimethylindium (TMI), tetrakis(dimethylamino)tin (TDMASn), trimethylaluminum (TMA), and water as precursors at 200°C. The resulting films are amorphous with high optical transparency and uniform thickness. The incorporation of Al2O3 layers suppresses oxygen vacancies, improving semiconductor performance. The TFTs exhibit field-effect mobility of 2.0 cm2·V-1s-1, a threshold voltage of 8.6 V, a high current on/off ratio of 1.0×107, and a subthreshold swing of 485 mV·dec-1. The stability of the TFTs under illumination is enhanced due to the broadening of the optical band gap.",
+  "evidence": "The heterostructures are fabricated by atomic layer deposition (ALD) at 200°C, employing trimethylindium (TMI), tetrakis(dimethylamino)tin (TDMASn), trimethylaluminum (TMA), and water as precursors. After post-deposition annealing at 400°C the thin-films are found to be amorphous, however, they show a discrete layer structure of the individual oxides of uniform film thickness and high optical transparency in the visible region. Incorporation of only two monolayers of Al2O3 in the active semiconducting layer the formation of oxygen vacancies can be effectively suppressed, resulting in an improved semiconducting and switching behavior. The heterostacks comprising of In2O3/SnO2/Al2O3 are incorporated into TFT devices, exhibiting a saturation field-effect mobility (µsat) of 2.0 cm2·V-1s-1, a threshold-voltage (Vth) of 8.6 V, a high current on/off ratio (IOn/IOff) of 1.0·107, and a subthreshold swing (SS) of 485 mV·dec-1."
+}

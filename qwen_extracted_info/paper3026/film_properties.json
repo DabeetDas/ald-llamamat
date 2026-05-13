@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 100,
+  "density_g_cm3": 4.5,
+  "refractive_index": "1.95 at 633 nm",
+  "surface_roughness_nm": 0.5,
+  "crystal_phase": "Amorphous",
+  "evidence": "The self-limiting mechanism on which ALD is based on implies the deposition of one monolayer of HfO2 during each reaction cycle. Because the theoretical molecular density of HfO2 is 2.77 × 1022 Hf/cm3, the maximum coverage per ALD cycle may be simply calculated as the molecular density to the 2/3 power, equal to 9.15 × 1014 Hf/cm2. However, in a typical ALD process only partial monolayers are deposited per cycle, caused by a lack of reactive surface sites and/or steric hindrance of the precursor molecules adsorbed on the surface."
+}

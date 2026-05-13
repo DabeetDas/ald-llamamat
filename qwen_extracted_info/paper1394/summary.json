@@ -1,0 +1,11 @@
+{
+  "target_material": "Indium oxide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Et2InN(SiMe3)2",
+    "H2O"
+  ],
+  "temperature_range": "175−250 °C",
+  "summary": "Highly conductive and transparent indium oxide thin films were prepared using atomic layer deposition (ALD) with a new liquid precursor, Et2InN(SiMe3)2, and water vapor. The films exhibited low resistivity, high transparency, and superior electrical conductivity compared to commercial ITO films. The study focused on optimizing the ALD process parameters to achieve these properties.",
+  "evidence": "Highly conductive indium oxide films, electrically more conductive than commercial sputtered indium tin oxide films, were deposited using a new liquid precursor Et2InN(SiMe3)2 and H2O by atomic layer deposition (ALD) at 225−250 °C. Film resistivity can be as low as 2.3 × 10−4−5.16 × 10−5 Ω·cm (when deposited at 225−250 °C). Optical transparency of >80% at wavelengths of 400−700 nm was obtained for all the deposited films."
+}

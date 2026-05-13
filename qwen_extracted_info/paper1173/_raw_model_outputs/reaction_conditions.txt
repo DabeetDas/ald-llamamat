@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "OH- + CH3SiNH(SiCH3)3 → OSi(CH3)3 + NH3"
+  ],
+  "surface_mechanism_description": "Ligand-mediated surface modification using hexamethyldisilazane (HMDS) replaces hydroxyl groups on the SiO2 surface with methyl groups, creating an inert surface. This reduces the surface diffusion activation barrier, enhancing the surface diffusivity of adsorbates during atomic layer deposition (ALD) of SnS, leading to larger grain sizes at low temperatures.",
+  "intermediate_species": [
+    "Si(CH3)3",
+    "OSi(CH3)3"
+  ],
+  "evidence": "HMDS molecules react with the hydroxyl groups present on the SiO2 surface via the following reaction: OH- + CH3SiNH(SiCH3)3 → OSi(CH3)3 + NH3. After the completion of the reaction, a Si(CH3)3 monolayer is generated when the hydroxyl group is replaced with −OSi-(CH3)3."
+}<|im_end|>

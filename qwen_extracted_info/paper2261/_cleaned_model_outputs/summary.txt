@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2 nanowire field effect transistors",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Ti(OCH3)2", "Al(CH3)3", "water"],
+  "temperature_range": "225 °C",
+  "summary": "The study investigates the effect of gate dielectrics on the performance of SnO2 nanowire field effect transistors (FETs). Al-doped TiO2 (ATO) films were deposited using atomic layer deposition (ALD) at 225 °C. The optimization of the ALD process was based on a serially connected capacitor model to achieve a high dielectric constant and reduced leakage current. The results showed that the ATO films with an optimal Al content significantly improved device performance by lowering the threshold voltage and subthreshold slope, enabling low-voltage operation.",
+  "evidence": "Al-doped TiO2 (ATO) films were grown on RuO2/SiO2/Si substrates by atomic layer deposition (ALD) at 225 °C. The growth rates of TiO2 and Al2O3 films were 0.04 nm/cycle and 0.32 nm/cycle, respectively. The leakage current density decreased with increased Al content, and the dielectric constant was estimated using C-V measurements. The study demonstrated that the ATO films with an optimal Al content significantly improved device performance by lowering the threshold voltage and subthreshold slope, enabling low-voltage operation."
+}

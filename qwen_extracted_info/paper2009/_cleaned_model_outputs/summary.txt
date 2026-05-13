@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis (dimethylamido)-titanium (TDMAT)", "ammonia (NH3)"],
+  "temperature_range": "180°C",
+  "summary": "The study investigates the transient region during the initial stage of atomic layer deposition (ALD) for TiN films on SiO2 substrates. It highlights the nonlinear relationship between film thickness and deposition cycles in the transient region and the linear relationship in the converged region. The analysis shows that the adsorption probability on the substrate is lower than on the film, which affects the film thickness estimation.",
+  "evidence": "It has been reported that the extrapolation of the line for film thickness versus the number of deposition cycles intersects the point of origin. However, in this proposed model, if the probability of the adsorption of reactants to the substrate is much lower than that to films, the extrapolation line of film thickness versus the number of deposition cycles would intersect at the position corresponding to a positive number of cycles."
+}

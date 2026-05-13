@@ -1,0 +1,7 @@
+{
+  "precursors": ["[(Me3Si)2N]3Lu"],
+  "coreactants": ["H2O", "O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The Lu and the O precursors were injected alternately in the reaction chamber of an F-120 ASM-Microchemistry ALD reactor using N2 as carrier gas."
+}

@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The hydrogen plasma was used as a reducing agent for TMA. The chemisorbed TMA was most likely fully reduced after a 5 s exposure to the plasma.",
+  "intermediate_species": [
+    "chemisorbed TMA"
+  ],
+  "evidence": "In this case, the sequence consisted of TMA for 5 s, a 15 s purge with Ar, followed by exposure to a hydrogen plasma for from 0 to 30 s, and a final 15 s purge with Ar. The growth rate was also saturated at ;0.15 nm/cycle when the hydrogen plasma exposure time exceeded 5 s. The chemisorbed TMA was most likely fully reduced after a 5 s exposure to the plasma."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMAH", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "HfO2 films were grown on the GaN with a wafer temperature of 200 °C and a chamber pressure of 1 Torr using alternating pulses of tetrakis (ethylmethylamino-hafnium) (TEMAH) and H2O as the precursors. High-purity Ar (99.999%) was used as diluted and purged gas."
+}

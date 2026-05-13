@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "atmospheric pressure atomic layer epitaxy (AP-ALE)",
+  "main_precursors": ["ZnCl2", "O2"],
+  "temperature_range": "673 - 873 K",
+  "summary": "The study describes the epitaxial growth of ZnO films on a sapphire (0001) substrate using atmospheric pressure atomic layer epitaxy (AP-ALE) with ZnCl2 and O2 as precursors. The process involves alternating supply of ZnCl2 and O2, with a growth temperature range of 673–873 K. The films were found to have a c-axis orientation, indicating epitaxial growth, and the growth rate was approximately 0.26 nm/cycle, corresponding to a ZnO monolayer per cycle.",
+  "evidence": "The study describes the epitaxial growth of ZnO films on a sapphire (0001) substrate using atmospheric pressure atomic layer epitaxy (AP-ALE) with ZnCl2 and O2 as precursors. The process involves alternating supply of ZnCl2 and O2, with a growth temperature range of 673–873 K. The films were found to have a c-axis orientation, indicating epitaxial growth, and the growth rate was approximately 0.26 nm/cycle, corresponding to a ZnO monolayer per cycle."
+}

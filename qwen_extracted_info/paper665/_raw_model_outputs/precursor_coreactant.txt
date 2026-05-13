@@ -1,0 +1,7 @@
+{
+  "precursors": ["WF6", "H2S", "DEZ"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The WS2 coatings were grown by sequential reaction of gas precursors WF6 and H2S at a temperature range of 300–350 /C176 C in a hot-wall viscous flow ALD reactor using N2 as the carrier and purge gas. ... Diethyl zinc (DEZ) liquid precursor was used as a reaction initiator, since it is known that DEZ is a good reducing agent for a variety of ALD coatings, e.g., TiN, NbN, Cu, and Mo."
+}<|im_end|>

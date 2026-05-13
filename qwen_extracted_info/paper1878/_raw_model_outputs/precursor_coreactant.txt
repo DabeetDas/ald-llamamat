@@ -1,0 +1,7 @@
+{
+  "precursors": ["Cp2Hf(CH3)2", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Cp2Hf(CH3)2 was used as the metal precursor and distilled water as oxygen source. Nitrogen ( .99.999%, Schmidlin UHPN 3000 N2 generator) was used as carrier and purging gas."
+}<|im_end|>

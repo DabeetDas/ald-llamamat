@@ -1,0 +1,8 @@
+{
+  "target_material": "Ni-Co-O",
+  "process_type": "ALD",
+  "main_precursors": ["Bis(cyclopentadienyl) nickel(II)", "Bis(cyclopentadienyl) cobalt(II)"],
+  "temperature_range": "300°C",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of Ni-Co-O thin-film electrodes for solid-state LIBs. The process uses nickel and cobalt metallocenes combined with oxygen plasma. The films were characterized for their chemical composition, morphology, and electrochemical properties. The results show that the films have a uniform chemical composition with an admixture of metallic nickel and carbon up to 4 at.%. The study also investigates the influence of chemical composition on overcapacity and the electrochemical performance of the films.",
+  "evidence": "The text states, 'The formation of NCO films with different ratios of Ni and Co was provided by ALD cycles leading to the formation of nickel oxide (a) and cobalt oxide (b) in one supercycle (linear combination of a and b cycles). The film thickness was set by the number of supercycles.' Additionally, it mentions, 'The study also investigates the influence of chemical composition on overcapacity and the electrochemical performance of the films.'"
+}<|im_end|>

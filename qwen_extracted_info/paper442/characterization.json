@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Scanning Electron Microscope (SEM)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Atomic Force Microscopy (AFM)",
+    "Ellipsometry",
+    "X-ray Reflectivity (XRR)",
+    "Four-point probe",
+    "Hall Effect"
+  ],
+  "evidence": "We found overshooting in the growth rate in the Th4Al pulse-duration dependence, which suggested that two- and three-dimensional Al phases on the growing surface at the same time, and that they changed from one phase to another with time and the Al surface coverage. The surface morphology of 2 ML/cycle layers was so smooth that no defects or irregularities could be found on the surface even using a scanning electron microscope. The initial slope in the TMAl pulse-duration dependence of the growth rate may be related to the reaction rate between TMAl (DMAl or MMAl) and the As-terminated surface, because the growth rate is determined by surface reaction rather than mass transport as mentioned above. The surface reaction rate may increase with substrate temperature. From the initial slope in these figures, we estimated the reaction time-constant r,,, shown as an Arrhenius plot in Fig. 2. The activation energy of 35 kcal/mol was obtained from this plot. The value of 35 kcal/mol is smaller than the activation energy of 45 kcal/mol measured from the decomposition of gaseous TMAl. A possible explanation for the decreased activation energy is that when CH,-Al dissociatively adsorbs on As surface atoms, bonding electrons move from CH,-Al (surface) bonds, and the CH, group easily desorbs from the Al. At present, we are not able to offer any quantitative explanation. Such a reduced activation energy has been reported in GaAs ALE where TMGa was dissociatively adsorbed on the As-terminated surface."
+}

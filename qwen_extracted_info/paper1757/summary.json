@@ -1,0 +1,12 @@
+{
+  "target_material": "ZrO2–In2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Cp2ZrCl2",
+    "In(thd)3",
+    "Ozone"
+  ],
+  "temperature_range": "300 /C14 C",
+  "summary": "ZrO2–In2O3 thin layers with a gradual ionic to electronic composition were synthesized by atomic layer deposition (ALD) for solid oxide fuel cell (SOFC) applications. The study aimed to improve interface properties and reduce nonohmic polarisation by creating a gradient of conductivity from ionic to electronic.",
+  "evidence": "The ZrO2–In2O3 gradient of composition seems to improve the interface properties. The synthesis was carried out at 300 /C14 C based on the ALD temperature windows established for the Cp2ZrCl2/O3 and In(thd)3/O3 systems."
+}

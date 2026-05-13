@@ -1,0 +1,11 @@
+{
+  "target_material": "AlN",
+  "process_type": "Atomic layer growth",
+  "main_precursors": [
+    "trimethylamine alane (TMAA)",
+    "ammonia (NH3)"
+  ],
+  "temperature_range": "300 K to 400 K",
+  "summary": "The study investigates the low-temperature atomic layer growth of AlN thin films using trimethylamine alane (TMAA) and ammonia (NH3) precursors on alumina substrates. The process involves alternating exposures of TMAA and NH3 at temperatures between 300 K and 400 K. At 300 K, the reaction efficiency is lower, leading to incomplete formation of AlN, while at 400 K, the formation of AlN is confirmed. The results suggest that the introduction of additional energy between cycles is crucial for promoting crystallization.",
+  "evidence": "The study describes the use of TMAA and NH3 as precursors for the low-temperature chemical vapor deposition of AlN thin films. The process involves alternating exposures of TMAA and NH3 at temperatures between 300 K and 400 K. The formation of AlN is confirmed at 400 K, and the results suggest that the introduction of additional energy between cycles is crucial for promoting crystallization."
+}

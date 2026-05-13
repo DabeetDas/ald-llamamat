@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum Oxide",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Water (H2O)"],
+  "temperature_range": "300°C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to shrink the pore size of anodic aluminum oxide (AAO) membranes for the capture and alignment of phi29 viral particles. The ALD process was used to deposit Al2O3 films, reducing the pore size from 75 nm to as small as 15 nm. The process involved alternating pulses of TMA and H2O precursors at a temperature range of 300°C. The resulting membranes were used to selectively capture and align phi29 particles, with the ability to differentiate between empty capsids and DNA-packaged particles through centrifugation and fluorescence microscopy.",
+  "evidence": "We used an ASM F-120 ALD system for shrinking the pore size of AAO membrane. ALD Al2O3 films were deposited by using alternating pulse of trimethylaluminum (TMA) [Al(CH3)3] and water (H2O) precursors. H2O vapor was used to oxidize chemisorbed TMA. The pulse time of TMA, H2O and N2 were 0.8 s, 1.2 s and 2.0 s, respectively. For our purpose, the deposition process was run for 133 to 211 cycles at 2 –5 Torr at 300°C and the growth rate was 0.9 Å per cycle for Al2O3."
+}

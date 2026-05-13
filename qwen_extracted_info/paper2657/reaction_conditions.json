@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "It was demonstrated that the growth per cycle was less temperature dependent for the PE-ALD process compared to the thermal process. The plasma enhanced ALD process may have an advantage for ALD of ternary compounds where different temperature windows have to be matched or for applications where a smooth interface is required."
+}

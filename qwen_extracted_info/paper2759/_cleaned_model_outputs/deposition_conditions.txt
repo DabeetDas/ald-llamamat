@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 225,
+  "pressure": "15 mTorr",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": 5,
+  "number_of_cycles": 500,
+  "reactor_type": "homebuilt ALD reactor",
+  "evidence": "Depositions were performed on single-side polished Si substrates with a thermal oxide of 430 –460 nm thick. All SiO 2 substrates were cleaned using an O 2 plasma (100 W) at 15 mTorr for 1 min to remove any organic residue. An O 2 pressure of 15 mTorr and an H 2 pressure of 1.5 × 10 2 mTorr were used for all Ru ALD experiments. Unless stated otherwise, 15 s EBCHDRu, 15 s O 2 gas, and 5 s H 2 gas pulses were employed as the standard recipe, which was performed with the substrate table set to a temperature of 225 °C."
+}

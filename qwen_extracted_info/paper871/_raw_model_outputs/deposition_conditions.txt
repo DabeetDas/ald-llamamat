@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "523–923",
+  "pressure": "atmospheric",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": "10–500",
+  "reactor_type": "horizontal quartz hot-wall type ALD reactor",
+  "evidence": "The gas flow sequence of the growth per cycle consists of four steps as follows: supply HfCl4 for 5s (step1), purge with N2 for 10s (step2), supply O2 for 10s (step3), and then purge with N2 for 10s (step4)."
+}<|im_end|>

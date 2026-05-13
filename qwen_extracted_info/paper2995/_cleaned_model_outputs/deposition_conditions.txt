@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "500",
+ "pressure": "10",
+ "precursor_pulse_time_s": "0.5",
+ "coreactant_pulse_time_s": "1.0",
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "F-120",
+ "evidence": "Indium oxide films were deposited in a flow type ALE reactor F-120 manufactured by Microchemistry Limited. The reactor pressure during the process was about i0 mbar. The highest growth rates achieved were 0.27 A/cycle at 500~ and 0.23 A/cycle at 400~ both obtained with 0.5 s InCl~ pulse lengths. The growth rate saturated with 1.0 and 1.5 s water pulses at 500 and 400~ respectively."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethylzinc (DEZn)",
+    "H2O",
+    "diborane (B2H6)"
+  ],
+  "temperature_range": "150–C",
+  "summary": "The study investigates the stability of electrical properties of ZnO thin films deposited by ALD using diethylzinc (DEZn) and H2O as reactant gases, and diborane (B2H6) as the dopant gas. The films were deposited at a substrate temperature of approximately 150–C. The results show that ALD-ZnO films exhibit excellent stability in electrical properties, even after prolonged air exposure, which is attributed to reduced oxygen chemisorption at grain boundaries. The study also compares the stability of ALD-ZnO films with those grown by MOCVD and photo-MOCVD.",
+  "evidence": "B-doped ZnO films were prepared on Corning 7059 glass by atomic layer deposition (ALD) using diethylzinc (DEZn) and H2O as reactant gases, and diborane (B2H6) as the dopant gas. The stability of the electrical properties of the obtained ZnO films was investigated. It was found that the electrical properties of ZnO films grown by ALD were very stable, indicating that the ALD technique is attractive for the deposition of high-quality transparent conducting ZnO films."
+}

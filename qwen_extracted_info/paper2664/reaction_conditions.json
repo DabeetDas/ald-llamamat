@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of tris(dimethylamido)aluminum(III) (TDMAA) onto the substrate, followed by a water pulse to initiate the reaction. The reaction is believed to proceed through the formation of surface hydroxyl groups and the subsequent elimination of methyl groups, leading to the formation of aluminum oxide. For aluminum nitride, the mechanism involves the use of nitrogen plasma as a coreagent, which likely facilitates the reaction between TDMAA and nitrogen to form aluminum nitride, although the presence of oxygen impurities suggests some degree of surface oxidation.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "monomethyl aluminum",
+    "formate species"
+  ],
+  "evidence": "The surface reaction mechanism is described in the text as involving the adsorption of TDMAA onto the substrate, followed by a water pulse to initiate the reaction. The reaction is believed to proceed through the formation of surface hydroxyl groups and the subsequent elimination of methyl groups, leading to the formation of aluminum oxide. For aluminum nitride, the mechanism involves the use of nitrogen plasma as a coreagent, which likely facilitates the reaction between TDMAA and nitrogen to form aluminum nitride, although the presence of oxygen impurities suggests some degree of surface oxidation."
+}

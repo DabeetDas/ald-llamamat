@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": null,
+  "density_g_cm3": 4.23,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "amorphous",
+  "evidence": "For this analysis, we measured the attenuation of the Ti 2p 3/2 peak and modeled the film thickness using parameters available from the NIST Effective Attenuation Length Database,22 coupled with electron inelastic mean-free path values determined using the TPP-2M equation. 23 For this equation, we used a bandgap of 3.05 eV and density of 4.23 g/cm 3, consistent with bulk amorphous SiO2."
+}<|im_end|>

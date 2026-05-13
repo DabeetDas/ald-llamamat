@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "trimethylamine-alane (TMAAl)",
+    "tris-dimethylamino-arsenic (TDMAAs)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "TMAAl and TDMAAs were alternately supplied to a (001) GaAs surface in an ultrahigh vacuum chamber without thermal cracking. The GaAs surface was cleaned with a hydrogen plasma beam excited by electron cyclotron resonance. The one cycle of the alternate supply was set to be TMAAl ( 1 s), purging (5 s), TDMAAs ( 1 s), and purging ( 18 s)."
+}

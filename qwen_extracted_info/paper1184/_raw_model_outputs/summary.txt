@@ -1,0 +1,8 @@
+{
+  "target_material": "Ruthenium (Ru)",
+  "process_type": "ABC-type ALD",
+  "main_precursors": ["Bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2)", "Oxygen (O2)", "Hydrogen (H2)"],
+  "temperature_range": "150 °C",
+  "summary": "The study demonstrates low-temperature atomic layer deposition (ALD) of ruthenium using an ABC-type process with Ru(EtCp)2, O2, and H2 as reactants. The process involves dissociative chemisorption, combustion, and reduction steps, allowing Ru ALD at 150 °C, which is lower than the typical 300 °C required for thermal ALD. This method reduces oxygen impurities and enables precise control over Ru film growth.",
+  "evidence": "Here, we demonstrate that Ru ALD can proceed at as low as 150 °C by using successive exposures to oxygen and hydrogen as the coreactants. In situ quartz crystal microbalance (QCM) and quadrupole mass spectroscopy (QMS) measurements both suggest that this ABC-type ALD occurs through dissociative chemisorption, combustion, and reduction for the Ru(EtCp)2, oxygen, and hydrogen steps, respectively."
+}<|im_end|>

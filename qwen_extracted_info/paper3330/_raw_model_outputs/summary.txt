@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum nitride (AlN)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Ammonia (NH3)"],
+  "temperature_range": "300 ◦C",
+  "summary": "The study describes the growth of aluminum nitride (AlN) transition layers using plasma-enhanced atomic layer deposition (PEALD) on Si<100> and Si<111> substrates. The process involves in situ atomic layer annealing (ALA) to improve crystallinity. The AlN layers are used as templates for subsequent metal-organic chemical vapor deposition (MOCVD) regrowth of semiconductor nitride compounds, offering a potential replacement for thick buffer layers in III-N devices.",
+  "evidence": "Aluminum nitride (AlN) films have been grown using novel technological approaches based on plasma-enhanced atomic layer deposition (PEALD) and in situ atomic layer annealing (ALA). The growth of AlN layers was carried out on Si<100> and Si<111> substrates at low growth temperature. The investigation of crystalline quality of samples demonstrated that PEALD grown layers were polycrystalline, but ALA treatment improved their crystallinity. A thick polycrystalline AlN layer was successfully regrown by metal-organic chemical vapor deposition (MOCVD) on an AlN PEALD template. It opens up the new possibilities for the formation of nucleation layers with improved quality for subsequent growth of semiconductor nitride compounds."
+}<|im_end|>

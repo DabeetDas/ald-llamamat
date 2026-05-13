@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the deposition of SiO2 using bis-diethylamino-silane (BDEAS) and O2 plasma. The mechanism includes the adsorption of BDEAS and subsequent reaction with oxygen plasma, leading to the formation of SiO2 with minimal carbon content and no oxygen deficiency or nonbridging oxygen.",
+  "intermediate_species": [
+    "BDEAS",
+    "oxygen plasma",
+    "strained bonds"
+  ],
+  "evidence": "The Si and O spectra of wet SiO2 were fitted by a single Gaussian peak at 103.5 and 532.6 eV, respectively, which was assigned to SiO2. However, in ALD SiO2, the Si spectrum was fitted by two Gaussian peaks centered at 103.2 and 103.9 eV, and the O spectrum showed two peaks at 532.7 and 532.1 eV. Considering the intensity relation, the peaks centered at 103.2 and 532.7 eV are due to normal SiO2, but the peaks centered at 103.9 and 532.1 are probably due to other sources, such as oxygen deficiency, nonbridging oxygen, and strained structures. The strained Si–O bond is weaker than a normal Si–O bond but may become electrically inactive until broken."
+}

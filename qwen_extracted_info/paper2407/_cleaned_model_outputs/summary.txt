@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Al(CH3)3 (TMA)", "deionized H2O"],
+  "temperature_range": "not explicitly mentioned",
+  "summary": "The study investigates the anti-wetting properties of butterfly wings and water strider legs by coating them with a hydrophilic Al2O3 film using atomic layer deposition (ALD). The results show that butterfly wings transition from super-hydrophobic to hydrophilic, while water strider legs retain their super-hydrophobic properties. The surface geometry and roughness play crucial roles in determining the wetting behavior.",
+  "evidence": "Using an atomic layer deposition (ALD) technique to coat the surfaces of both butterfly wings and water strider legs with a uniform 30 nm thick hydrophilic Al2O3 film, we kept the surface material of both structures the same. The ALD coating changes only the surface chemistry/material while preserving the detailed texture/geometry structure."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "450-500",
+  "pressure": "millitorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "less than 2",
+  "number_of_cycles": null,
+  "reactor_type": "three-level ultrahigh vacuum (UHV) chamber",
+  "evidence": "The heating rate used for TPD was typically 5 K s -1. An effusive molecular beam is designed to impinge on the GaAs surface while desorbed reactant and products are monitored line-of-sight by the QMS. The low pressure ALE results of Nishizawa et al. clearly show that a heterogeneous (surface) pathway for excess gallium deposition exists. The surface residence time for much of this extra As is short (less than 2 s) at typical ALE temperatures (450-500 °C), so a large fraction will desorb during the purge after the arsine cycle."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3 and TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["TiCl4", "TMA (trimethyl aluminum)", "H2O", "Al(CH3)3"],
+  "temperature_range": "85 °C and 135 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) on block copolymers (BCPs) to create patterned nanoscale inorganic materials with controllable dimensions. The process involves the selective coordination of metal precursors with carbonyl groups in PMMA domains, followed by ALD to grow inorganic materials such as Al2O3 and TiO2. The ALD process is self-limited, allowing for molecular-level control over the growth of the inorganic materials, which are then removed by thermal annealing or plasma treatment, leaving behind patterned inorganic materials that mimic the original BCP domains.",
+  "evidence": "The study describes the use of atomic layer deposition (ALD) on block copolymers (BCPs) to create patterned nanoscale inorganic materials with controllable dimensions. The process involves the selective coordination of metal precursors with carbonyl groups in PMMA domains, followed by ALD to grow inorganic materials such as Al2O3 and TiO2. The ALD process is self-limited, allowing for molecular-level control over the growth of the inorganic materials, which are then removed by thermal annealing or plasma treatment, leaving behind patterned inorganic materials that mimic the original BCP domains."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Ta2O5 and ZrO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Ta(OC2H5)5", "ZrCl4", "O3"],
+  "temperature_range": "300 ◦C",
+  "summary": "The study focuses on the atomic layer deposition of mixed Ta2O5 and ZrO2 films, examining their resistive switching properties. The films were grown using alternating cycles of Ta(OC2H5)5 and ZrCl4 with ozone as an oxygen source. The resistive switching behavior was observed in the as-deposited state, with the most stable switching characteristics found in films with a Zr:Ta ratio of 0.2. The films exhibited different crystalline structures depending on the Zr:Ta ratio, and annealing was found to affect the resistive switching properties.",
+  "evidence": "Thin solid films consisting of ZrO2 and Ta2O5 were grown by atomic layer deposition at 300 ◦C. Ta2O5 films doped with ZrO2, TaZr2.75O8 ternary phase, or ZrO2 doped with Ta2O5 were grown to thickness and composition depending on the number and ratio of alternating ZrO2 and Ta2O5 deposition cycles. All the films grown exhibited resistive switching characteristics between TiN and Pt electrodes, expressed by repetitive current-voltage loops. The most reliable windows between high and low resistive states were observed in Ta2O5 films mixed with relatively low amounts of ZrO2, providing Zr to Ta cation ratio of 0.2."
+}<|im_end|>

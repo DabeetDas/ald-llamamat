@@ -1,0 +1,8 @@
+{
+  "target_material": "La2-xSrxCuO4-y",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["La(thd)3", "Cu(acac)2", "ozone", "Sr(thd)2"],
+  "temperature_range": "188 °C",
+  "summary": "The study reports the first successful Atomic Layer Deposition (ALD) of a superconducting complex oxide, La2-xSrxCuO4-y, using La(thd)3, Cu(acac)2, ozone, and Sr(thd)2 as precursors. The films were deposited on LaAlO3 (100) substrates and annealed at 650 °C to achieve crystallinity. The ALD process allows for precise control of the Sr content, which tunes the superconducting properties of the material. The films showed superconductivity at temperatures below 20 K, with the highest Tc observed at 6 Sr-cation %.",
+  "evidence": "We here report on atomic layer deposition (ALD) of the superconducting complex oxide La2-xSrxCuO4-y and provide details of the structural and electrical properties of such films. This is the first report on a complex oxide thin film with superconducting properties that has been deposited by atomic layer deposition. The films were deposited on LaAlO3 (100) substrates and annealed at 650 °C to achieve crystallinity. The ALD process allows for precise control of the Sr content, which tunes the superconducting properties of the material. The films showed superconductivity at temperatures below 20 K, with the highest Tc observed at 6 Sr-cation %."
+}<|im_end|>

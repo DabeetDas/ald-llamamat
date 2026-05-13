@@ -1,0 +1,8 @@
+{
+  "target_material": "Y2O3−xSx:Eu",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["(CH3Cp)3Y", "H2O", "H2S", "Eu(thd)3"],
+  "temperature_range": "300°C",
+  "summary": "The study describes the growth of Y2O3−xSx:Eu thin films using atomic layer deposition (ALD) at 300°C. The Eu oxidation state was controlled by exposing Eu atoms to either O3 or H2S during the growth process, resulting in different emission colors. The films were characterized using XRD, XPS, and photoluminescence measurements.",
+  "evidence": "Abstract: Structural and photoluminescence studies were carried out on Eu-doped Y2O3−xSx thin films grown by atomic layer deposition at 300◦C. (CH3Cp)3Y, H2O, and H2S were used as yttrium, oxygen, and sulfur precursors, respectively, while Eu(thd)3 was used as the europium precursor. The Eu oxidation state was controlled during the growth process by following the Eu(thd)3 pulse with either a H2S or O3 pulse."
+}

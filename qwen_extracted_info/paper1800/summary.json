@@ -1,0 +1,12 @@
+{
+  "target_material": "In xGa 1-xN",
+  "process_type": "Hollow cathode plasma-assisted atomic layer deposition (HCPA-ALD)",
+  "main_precursors": [
+    "Triethylgallium (TEG)",
+    "Trimethylindium (TMI)",
+    "N2/H2 and N2 plasma"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The study reports on the low-temperature growth of wurtzite In xGa 1-xN thin films using hollow cathode plasma-assisted atomic layer deposition (HCPA-ALD). The process involves the use of organometallic Ga and In precursors along with N2/H2 and N2 plasma. The films were characterized for their structural, optical, and morphological properties, showing polycrystalline hexagonal wurtzite structure with tunable band gap by varying In content. The results demonstrate the feasibility of low-temperature ternary alloying of In xGa 1-xN thin films with tunable optical and structural properties.",
+  "evidence": "Depositions were carried out at 200 °C using organometallic Ga and In precursors along with N2/H2 and N2 plasma, respectively. The films were found to be polycrystalline with hexagonal wurtzite structure. The optical band edge values of In xGa 1-xN thin films decreased with higher In content and band gap values were extracted as 2.71, 2.45, and 2.18 eV for In xGa 1-xN thin films having In concentrations of 0.25, 0.33, and 0.64, respectively."
+}

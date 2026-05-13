@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Ti(OCH(CH3)2)4 + H2O -> TiO2 + 4CH3OC(CH2CH3)2"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "Reinke, Kuzminykh, and Hoffmann studied the surface kinetics in ALD and determined reaction rate model parameters for TTIP and water50. It was found that the TTIP surface reaction is considerably faster than the hydrolytic reaction between water and adsorbed TTIP . Taking TiO2 as example, growth can occur by pyrolysis and/or hydrolysis reactions of the precursor molecules. Adsorbed TTIP species can either desorb or pyrolytically decompose on the substrate. Upon introduction of H2O50, or oxygen plasma41, hydrolytic reactions lead to the desired ALD growth."
+}<|im_end|>

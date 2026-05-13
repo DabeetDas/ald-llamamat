@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 30,
+  "number_of_cycles": 175,
+  "reactor_type": "hot-wall viscous flow reactor",
+  "evidence": "For the TiO2 nanotube arrays, the deposition sequence was modiﬁed compared with the deposition sequence for the ﬂat substrates. A sequential exposure of 3 doses of In(acac)3 per cycle was employed to lengthen the In(acac)3 exposure. Likewise, the H2S exposure was increased to 3 s. Purge steps of 30 s were utilized between the two reactants to ensure evacuation of the unreacted precursors and reaction products. This exposure sequence for In2S3 ALD on the TiO2 nanotube arrays was (3 × (1, 30), 3, 30)."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2 and HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["hafnium tert-butoxide", "titanium isopropoxide", "dry acetic acid"],
+  "temperature_range": "50 to 350 °C",
+  "summary": "The study investigates the effect of annealing on the electrical properties of high-κ thin films, specifically TiO2 and HfO2, deposited by atomic layer deposition using carboxylic acids as an oxygen source. The films were grown on silicon substrates and characterized for their dielectric properties, leakage current, and interfacial layers. The process involves the reaction between metal alkoxides and carboxylic acids, allowing for low-temperature deposition and good electrical performance.",
+  "evidence": "Titania and hafnia thin films were deposited by atomic layer deposition using metal alkoxides and carboxylic acids as oxygen source. The effect of annealing under nitrogen on the densification of the films and on the resulting electrical properties is presented. The as-deposited and annealed films demonstrate good dielectric permittivity and low leakage current densities due to their purity and amorphous character."
+}<|im_end|>

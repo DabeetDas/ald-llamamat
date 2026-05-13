@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface passivation mechanism involves the formation of a negative charge density at the Ga2O3–Si interface, which reduces interfacial defect density. The passivation is achieved through the reduction in interfacial defect density and the formation of a high density of negative charge, leading to a significant reduction in surface recombination current density.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "hydrogen",
+    "SiOx interfacial layer"
+  ],
+  "evidence": "The text discusses the formation of a negative charge density at the Ga2O3–Si interface, the reduction in interfacial defect density, and the presence of a sub-stoichiometric SiOx interfacial layer. It also mentions the release of hydrogen from the bulk material during annealing, which contributes to passivating active bonding sites at the silicon surface."
+}

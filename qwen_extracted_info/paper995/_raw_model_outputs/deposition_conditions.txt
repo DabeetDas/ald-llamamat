@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "300",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "RPCVD",
+ "evidence": "The strained Si0.7Ge0.3 layer was grown selectively on Si substrates with patterns defined by LOCOS (local oxidation of Si), in a reduced-pressure chemical vapor deposition (RPCVD) reactor using SiH2Cl2 and GeH4 at 650/C176C."
+}<|im_end|>

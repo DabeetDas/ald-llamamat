@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "SiCl4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The SiO2 growth was accomplished by separating the binary reaction SiCl4 + H2O → SiO2 + 4HCl into two half-reactions. A typical AB cycle occurred with the following sequence: Dose SiCl4 (1–10 Torr)/Evacuate (131024 Torr)/Dose H2O (1 – 10 Torr)/Evacuate (131024 Torr)."
+}

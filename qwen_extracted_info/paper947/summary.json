@@ -1,0 +1,13 @@
+{
+  "target_material": "GeO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "H2O",
+    "HfCl4",
+    "Al(CH3)3",
+    "O3"
+  ],
+  "temperature_range": "300 1C",
+  "summary": "The study investigates the influence of passivating interlayers on the Ge/HfO2 and Ge/Al2O3 interface band diagrams. It focuses on the formation of a narrow-gap Ge oxide interlayer (IL) during H2O-based ALD, which reduces the energy barriers for electron and hole injection from Ge into the insulator. The presence of hydrogen during deposition is found to promote the formation of this narrow-gap Ge oxide, which is suppressed in H-free processes.",
+  "evidence": "However, in the case of HfO2 growth using H2O-based atomic layer deposition, the Ge oxide IL appears to have a narrower bandgap, 4.3 eV, than the 5.4–5.9 eV gap of bulk germania. Changing to a H-free process for HfO2 and Al2O3 deposition suppresses the formation of the narrow-gap Ge oxide."
+}

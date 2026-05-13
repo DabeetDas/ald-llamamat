@@ -1,0 +1,22 @@
+{
+  "precursors": [
+    "ZnCl2",
+    "H2S",
+    "TiCl4",
+    "H2O",
+    "TMA",
+    "H2O"
+  ],
+  "coreactants": [
+    "H2S",
+    "H2O",
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The ALD deposition sequence consisted of alternating 2 s pulses of ZnCl2 and H2S, each separated by a 2 s N2 purge, while maintaining the substrate at 500 °C. ... Using a custom flow-style hot-wall ALD reactor, amorphous TiO2 (refractive index = 2.45 @ 500 nm) was grown within the opal using alternating 8 s pulses of TiCl4 and H2O, each separated by a 20 s, 225 sccm N2 purge, while maintaining the substrate at 100 °C. The precursor gases were fed into to a N2 carrier gas using computer-controlled solenoid valves."
+}

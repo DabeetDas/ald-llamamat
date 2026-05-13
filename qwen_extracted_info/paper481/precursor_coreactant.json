@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "diethyl zinc (DEZn)",
+    "hydrogen sulfide (H2S)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Nitrogen (N2)"
+  ],
+  "carrier_gas": [
+    "Nitrogen (N2)"
+  ],
+  "evidence": "ZnS was deposited using DEZn (Morton, electronic grade) and H2S (Messer, 99.8%) as precursors. Nitrogen (Messer, 99.999%) was used both as a carrier and purging gas."
+}

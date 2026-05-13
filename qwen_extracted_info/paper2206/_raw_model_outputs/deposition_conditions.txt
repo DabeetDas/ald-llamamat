@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "70",
+ "pressure": "0.15 Torr",
+ "precursor_pulse_time_s": "0.4",
+ "coreactant_pulse_time_s": "1.5",
+ "purge_time_s": "30",
+ "number_of_cycles": "70",
+ "reactor_type": "Savannah 100, Cambridge Nanotechnology Inc.",
+ "evidence": "For ZnO deposition, DEZ and H2O were alternately introduced into the ALD chamber with pulses of 0.4 and 1.5 s, respectively. An exposition time of 30 s followed by a purge time of 30 s in a 10 SCCM Ar flow were employed for both precursors."
+}<|im_end|>

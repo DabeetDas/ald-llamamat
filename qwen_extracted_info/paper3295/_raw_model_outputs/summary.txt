@@ -1,0 +1,8 @@
+{
+  "target_material": "Ruthenium (Ru) and Ruthenium Oxide (RuO2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Cyclopentadienyl ethylruthenium dicarbonyl (Ru(Cp)(CO)2Et)", "O2"],
+  "temperature_range": "300°C",
+  "summary": "The study describes the atomic layer deposition of Ruthenium films on hydrogen-terminated silicon (111) surfaces using a newly synthesized precursor, cyclopentadienyl ethylruthenium dicarbonyl, and O2 as the oxidant. The films consist of both Ru and RuO2, with Ru being dominant initially and RuO2 appearing after multiple cycles. The growth rate becomes linear after the first two cycles, and the process is characterized by the transition from isolated nucleated films to continuous conducting films, as observed through in-situ FTIR measurements and optical modeling.",
+  "evidence": "The initial growth is dominated by Ru metal. As the number of cycles is increased, RuO2 appears. The Ru precursor is observed to react with an atomically flat H/Si (111) at 300°C. The film comprises both Ru and RuO2. Beyond an incubation period (first two cycles), the growth rate is linear. The transition from isolated, nucleated film to a continuous, conducting film can be determined."
+}<|im_end|>

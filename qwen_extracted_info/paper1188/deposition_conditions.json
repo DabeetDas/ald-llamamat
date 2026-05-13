@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "Cambridge Nanotech Savannah",
+  "evidence": "The precursor pulse ratio Bi/Fe was optimized to 2/1 using a pulse time of 2 s and a purge time of 20s with an average deposition rate of 0.02 nm/supercycle to obtain the required film stoichiometry (1Bi:1Fe)."
+}

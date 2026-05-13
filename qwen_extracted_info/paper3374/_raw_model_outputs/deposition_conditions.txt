@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 450,
+  "pressure": "15 mtorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 50,
+  "number_of_cycles": null,
+  "reactor_type": "FlexAL ALD reactor from Oxford instruments",
+  "evidence": "In the ABC process, an Ar and/or H2 plasma was added as step C to the AB process as shown in Figure 1. In the newly added step C, the plasma exposure was 50s long, the plasma power was fixed at 500W and the chamber pressure was maintained at 15 mtorr."
+}<|im_end|>

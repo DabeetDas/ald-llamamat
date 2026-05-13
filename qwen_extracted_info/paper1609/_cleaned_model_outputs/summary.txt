@@ -1,0 +1,8 @@
+{
+  "target_material": "Fe2O3",
+  "process_type": "ALD",
+  "main_precursors": ["Fe(Cp)2", "O3"],
+  "temperature_range": "200 /C176C",
+  "summary": "The study describes a self-limiting atomic layer deposition (ALD) process for the growth of hematite (R-Fe2O3) using ferrocene (Fe(Cp)2) and ozone (O3) at moderate temperatures. The process enables conformal coating of high-aspect-ratio structures with a growth rate of up to 1.4 Å/cycle at 200 /C176C. The films exhibit an optical bandgap of 2.1 eV and are suitable for photoelectrochemical applications.",
+  "evidence": "Here, we elucidate a self-limiting atomic layer deposition (ALD) process for the growth of hematite, R-Fe2O3, over a moderate temperature window using ferrocene and ozone. At 200/C176C, the self-limiting growth of Fe2O3 is observed at rates up to 1.4 Å/cycle. Dense and robust thin films grown on both fused quartz and silicon exhibit the expected optical bandgap (2.1 eV)."
+}

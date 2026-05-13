@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 15,
+  "number_of_cycles": 100,
+  "reactor_type": "remote PE-ALD (Oxford FLexAl)",
+  "evidence": "The cobalt precursor exposure half-cycle consisted of 5 s CoCp2 dosing and 5 s purging. The remote oxygen plasma half-cycle consisted of 1 s pre-plasma treatment, 5 s plasma exposure, and 15 s purging."
+}

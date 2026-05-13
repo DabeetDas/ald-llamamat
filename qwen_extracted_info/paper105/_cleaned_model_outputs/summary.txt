@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe",
+  "process_type": "UHV ALE",
+  "main_precursors": ["Cd", "Te"],
+  "temperature_range": "300 K to 580 K",
+  "summary": "The study investigates the growth mechanism in Atomic Layer Epitaxy (ALE) for CdTe, focusing on the reevaporation of Cd and Te from the CdTe (111) surface. The research highlights the role of quasi-gas transition layers (NSQGTLs) and the activation energies for desorption processes. The experiments were conducted under high vacuum conditions, and the results show that Te atoms are more strongly bound in the crystal lattice than Cd atoms.",
+  "evidence": "The study investigates the growth mechanism in Atomic Layer Epitaxy (ALE) for CdTe, focusing on the reevaporation of Cd and Te from the CdTe (111) surface. The research highlights the role of quasi-gas transition layers (NSQGTLs) and the activation energies for desorption processes. The experiments were conducted under high vacuum conditions, and the results show that Te atoms are more strongly bound in the crystal lattice than Cd atoms."
+}

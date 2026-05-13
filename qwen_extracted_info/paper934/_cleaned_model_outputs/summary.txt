@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "H2O or O3"],
+  "temperature_range": "above 850 °C",
+  "summary": "The study investigates the physical properties of ALD-Al2O3 films deposited on arsenic-doped silicon using either a silicon oxide or silicon nitride interface. The films were analyzed for contamination, crystallization, and diffusion effects. The results show that the films remained stoichiometric and did not contain Al–Al clusters, even after annealing. Silicon and arsenic diffusion into the dielectric and aluminum diffusion out of the film were observed. The use of O3 as an oxidant reduced carbon content in the layer. The crystallization process enhanced the electrical properties and thermal stability of the films.",
+  "evidence": "The text states that 'Aluminum oxide was deposited on arsenic doped silicon, using atomic layer deposition (ALD) with either a silicon oxide or a silicon nitride interface.' It also mentions that 'the films were crystallized in a nitrogen ambient above 850 °C' and 'the thermal budget promotes various diffusion effects.' Additionally, 'the use of O3 as oxidant' is noted, and 'the films remained stoichiometric and did not have Al–Al clusters, even post annealing steps.'"
+}

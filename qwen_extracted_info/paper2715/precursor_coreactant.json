@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Ru(DMBD)(CO)3"
+  ],
+  "coreactants": [
+    "1,1-dimethylhydrazine",
+    "hydrazine",
+    "tert-butylamine"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Ultrahigh purity N2 (99.999%, Airgas) was used as the carrier gas. Ru thin films were deposited at 200 °C according to the sequence 3 s Ru(DMBD)(CO)3—20 s N2 purge—0.2 s DMH —20 s N2 purge, unless stated otherwise."
+}

@@ -1,0 +1,4 @@
+{
+  "reaction_conditions": "ValueError: Could not parse model output as JSON. Preview: '[],   \"surface_mechanism_description\": \"The ALD method was applied to prepare highly dispersed vanadia submonolayers on titania-modified silica by consecutive surface reactions of vanadyl triisopropoxide (VO(OPr_i)3) and oxygen. The vanadia species interacted with both the titania overlayer and the '",
+  "characterization": "ValueError: Could not parse model output as JSON. Preview: '[    \"X-ray Photoelectron Spectroscopy (XPS)\",    \"Raman spectroscopy\",    \"X-ray Diffraction (XRD)\",    \"Nitrogen adsorption\",    \"Adsorption microcalorimetry\",    \"X-ray Photoelectron Spectroscopy (XPS)\",    \"X-ray Photoelectron Spectroscopy (XPS)\",    \"X-ray Photoelectron Spectroscopy (XPS)\",    '"
+}

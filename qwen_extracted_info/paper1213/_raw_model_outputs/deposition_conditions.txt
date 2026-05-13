@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 20,
+  "number_of_cycles": "",
+  "reactor_type": "Cambridge NanoTech Savannah",
+  "evidence": "The ALD process parameters were determined using in situ spectroscopic ellipsometry. The pulse times for LiO tBu and DEPA were 20s and 2s, respectively, with a purge time of 20s. The reactor type is specified as Cambridge NanoTech Savannah."
+}<|im_end|>

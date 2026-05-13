@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Energy Dispersive X-ray Spectroscopy (EDX)",
+    "X-ray Diffraction (XRD)",
+    "Atomic Force Microscopy (AFM)",
+    "Ellipsometry",
+    "X-ray Reflectivity (XRR)",
+    "Four-point probe",
+    "Capacitance measurement",
+    "Current-voltage characteristics measurement"
+  ],
+  "evidence": "Structural analysis was carried out with a Philips MPD 1880 powder X-ray diffractometer (XRD) using CuKa radiation. The relative Ta content in the (Nb1-xTa&O5 films was measured by a Link ISIS Energy Dispersive X-Ray Spectrometer (EDX) installed to a Zeiss DSM 962 scanning electron microscope. Film thicknesses and refractive indices were calculated, using the method by Ylilammi and Ranta-aho (17), from transmittance spectra measured by a Hitachi U-2000 spectrophotometer within a wavelength range of 370- 1100 nm. Capacitances were measured at a frequency of 10 kHz using an HP4275A multifrequency LCR meter and the current-voltage characteristics with an HP4140B pA meter/d.c source."
+}

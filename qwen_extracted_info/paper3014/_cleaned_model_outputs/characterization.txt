@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "Ellipsometry",
+    "Rutherford Backscattering Spectroscopy (RBS)",
+    "X-ray Diffraction (XRD)",
+    "Scanning Electron Microscopy (SEM)",
+    "Capacitance-Voltage (CV) measurement",
+    "Leakage current density measurement"
+  ],
+  "evidence": "The film thickness and uniformity were measured using a single wavelength (632.4 nm) ellipsometer (Rudolph, AutoEl III), while the film composition was analyzed by Rutherford backscattering spectroscopy (RBS). The XRD peaks become more pronounced and the film is fully cubic polycrystalline. The thickness variation is less then 10% from top to bottom. The C-V curves at 100 kHz and 1 MHz are closely aligned indicating no frequency dispersion, which suggests the film is relatively free of hydroxyl groups. The equivalent oxide thickness (EOT) is 1.8 nm and the flat band voltage is +1 V. From the corresponding gate leakage density curve (inset of Fig. 4), the leakage current density is 3×10−3 A/cm2 at (Vg-Vfb) of 1 V."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "Silicon oxide-niobium oxide mixture films and nanolaminates",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "niobium pentaethoxide",
+    "hexakis(ethylamino) disilane",
+    "ozone"
+  ],
+  "temperature_range": "300 oC",
+  "summary": "The study describes the atomic layer deposition of silicon oxide-niobium oxide mixture films and nanolaminates using niobium pentaethoxide, hexakis(ethylamino) disilane, and ozone as precursors at 300 oC. The films were characterized for their resistive switching properties, with optimal performance observed at a specific niobium-to-silicon atomic ratio of 0.13. The research aimed to understand the correlation between composition, growth cycle ratio, and electrical performance of the films.",
+  "evidence": "Amorphous SiO2-Nb2O5 nanolaminates and mixture films were grown by atomic layer deposition. The films were grown at 300 oC from Nb(OC2H5)5, Si2(NHC2H5)6, and O3 to thicknesses ranging from 13 to 130 nm. The niobium to silicon atomic ratio was varied in the range of 0.11-7.20. After optimizing the composition, resistive switching properties could be observed in the form of characteristic current-voltage behavior."
+}

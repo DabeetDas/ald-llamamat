@@ -1,0 +1,8 @@
+{
+  "target_material": "Cobalt (Co)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["CoCl2(TMEDA)", "Zn(DMP)2"],
+  "temperature_range": "140 −215 °C",
+  "summary": "This study reports a new approach for the atomic layer deposition (ALD) of metallic Co thin films using CoCl2(TMEDA) and Zn(DMP)2 as precursors. The process enables the deposition of Zn-free Co thin films with low resistivity, demonstrating saturation behavior and linearity in film growth. The study also includes detailed analysis of the deposited films using various techniques such as XPS, RBS, and AFM, confirming the presence of carbon impurities and the absence of Zn contamination. The process is optimized for substrates like Si and Au, and the films show promising electrical properties with resistivity values in the range of 15−20 μΩ cm.",
+  "evidence": "The text states, 'a thermal ALD process is developed that enables the deposition of Zn-free Co thin films.' It also mentions, 'the process optimization is carried out on Si with native oxide, additional growth studies are conducted on Au and Pt substrates.' Furthermore, 'resistivity measurements for ∼22 nm thick films grown on a defined SiO2 insulator layer yield highly promising values in a range of 15 −20 μΩ cm without any postgrowth treatment.'"
+}<|im_end|>

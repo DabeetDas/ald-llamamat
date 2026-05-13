@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "TiCl4"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "nitrogen"
+  ],
+  "carrier_gas": [],
+  "evidence": "TiO2 was deposited using TiCl4 as a source of Ti, water as the nucleophilic source of oxygen and nitrogen as a purge gas."
+}

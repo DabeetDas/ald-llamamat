@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the use of Al(DIA)3 as a precursor with H2O as a coreactant. The growth mechanism is self-terminating, with the precursor being delivered in 'plugs' and purged with carrier gas. The reaction steps involve the adsorption of the precursor and subsequent reaction with water, leading to the formation of alumina.",
+  "intermediate_species": ["Al(DIA)3", "surface hydroxyls", "Al-O bond"],
+  "evidence": "The ALD growth parameters for Al(DIA)3 were discussed, with the precursor being delivered in 'plugs' and purged with carrier gas. The reaction steps involve the adsorption of the precursor and subsequent reaction with water, leading to the formation of alumina. The TGA data and vapor pressure measurements indicated that Al(DIA)3 is more volatile than Al(DEA)3, which is attributed to its mononuclear character."
+}

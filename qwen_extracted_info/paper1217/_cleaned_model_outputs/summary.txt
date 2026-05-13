@@ -1,0 +1,8 @@
+{
+  "target_material": "SiC_xN_y",
+  "process_type": "plasma-assisted ALD",
+  "main_precursors": ["Si2Cl6", "CH3NH2"],
+  "temperature_range": "400 °C",
+  "summary": "A novel plasma-assisted atomic layer deposition (ALD) process for SiC_xN_y films using Si2Cl6 and CH3NH2 plasma was developed. The process enables conformal growth with up to 9 atomic percent carbon incorporation. The study investigates the surface reactions and carbon incorporation mechanism using in situ spectroscopy techniques.",
+  "evidence": "We have developed a novel process for the atomic layer deposition (ALD) of SiC_xN_y films using Si2Cl6 and CH3NH2 plasma. Under self-limiting growth conditions, this ALD process led to SiC_xN_y films with up to 9 atomic percent carbon with a conformality >95% in 5:1 aspect ratio nanostructures."
+}

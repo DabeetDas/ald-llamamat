@@ -1,0 +1,11 @@
+{
+  "target_material": "Silicon nitride",
+  "process_type": "Plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "Bis(dimethylaminomethylsilyl)(trimethylsilyl)amine (DTDN2-H2)",
+    "N2 plasma"
+  ],
+  "temperature_range": "250-400°C",
+  "summary": "This study reports the plasma-enhanced atomic layer deposition (PEALD) of silicon nitride thin films using a novel silylamine compound, bis(dimethylaminomethylsilyl)(trimethylsilyl)amine (DTDN2-H2), as the silicon precursor. The PEALD process was conducted between 250 and 400°C with a growth rate of 0.36 Å/cycle. The films showed good bottom and sidewall coverage on trench-patterned wafers, with the best film quality achieved at 400°C. The study also discusses the effects of deposition temperature and RF power on film properties, including refractive index, nitrogen-to-silicon ratio, and charge trap density.",
+  "evidence": "The PEALD process window was between 250 and 400°C with a growth rate of 0.36 Å/cycle. Best film quality was obtained at 400°C with a RF power of 100 W. The PEALD film prepared showed good bottom and sidewall coverage of ~80% and ~73% on a trench-patterned wafer with an aspect ratio of 5.5."
+}

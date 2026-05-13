@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "5 mbar",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 1,
+  "number_of_cycles": 1000,
+  "reactor_type": "ASM F120 ALD reactor",
+  "evidence": "Unless otherwise noted, the films were deposited at 300 °C using 1 s [M(NtBu)2(dpamd)2] and 5 s O3 pulses separated by 1 s N2 purges."
+}

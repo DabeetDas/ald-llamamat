@@ -1,0 +1,8 @@
+{
+  "target_material": "MoN",
+  "process_type": "plasma enhanced ALD (PEALD)",
+  "main_precursors": ["(η5-ethylcyclopentadienyl) dicarbonylnitrosylmolybdenum", "N2", "H2"],
+  "temperature_range": "250°C",
+  "summary": "A low-temperature plasma enhanced atomic layer deposition (PEALD) process was developed for the growth of ultra-thin MoN films as a copper diffusion barrier. The process uses an organometallic molybdenum precursor and N2/H2 pulses with an in-situ RF plasma. The films exhibited a stoichiometric composition, amorphous structure, low resistivity, and excellent step coverage. The MoN films prevented copper diffusion after a 1-hour anneal at 600°C.",
+  "evidence": "A low temperature plasma enhanced atomic layer deposition (ALD) process has been developed for the growth of ultra thin MoN films. ... The as-deposited MoN film has a stoichiometric composition, a resistivity of 1280 µΩ cm, an atomically smooth surface and amorphous structure. Copper diffusion barrier performance measurements show that MoN films between 2.5 and 15 nm thick could prevent copper diffusion after a 1-hour anneal at 600°C."
+}

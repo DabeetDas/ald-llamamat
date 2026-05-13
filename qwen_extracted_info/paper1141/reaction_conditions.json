@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [
+    "AlCl3 + O3 -> Al2O3 + Cl2"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of AlCl3 followed by the reaction with ozone (O3) to form Al2O3 and Cl2. The reaction is influenced by the temperature and the presence of surface species, with the formation of intermediate oxychlorides playing a role in the reaction process.",
+  "intermediate_species": [
+    "aluminium oxychlorides"
+  ],
+  "evidence": "The calculations demonstrated that AlCl3 should not react with Al2O3 at temperatures used in our experiments. However, if oxygen participates in the reaction, then aluminium oxychlorides can be formed as surface intermediate species. These species can easily react with O3 (and also with O2) in the second reaction step and form Al2O3 on the surface and Cl2 as a gaseous reaction product."
+}

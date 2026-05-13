@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "diethylzinc (DEZn)",
+    "H2O"
+  ],
+  "temperature_range": "200–300 °C",
+  "summary": "Epitaxial ZnO thin films were grown on GaN and YSZ substrates using atomic layer deposition (ALD). The study compared the structural and optical properties of ZnO films on these substrates, highlighting the better structural quality and optical properties on GaN. The growth rate on GaN was approximately one monolayer per cycle, while on YSZ it was significantly lower. The process used diethylzinc (DEZn) and H2O as precursors at a temperature range of 200–300 °C.",
+  "evidence": "ZnO thin films were epitaxially grown by atomic layer deposition on both of GaN/c-sapphire and yttria-stabilized zirconia (YSZ) substrates for comparison. ... The substrate temperature range of 200–300 °C was used for ZnO deposition. ... the growth rate of ZnO on GaN is about one (0 0 0 2) monolayer per cycle, which is roughly four times of that on YSZ."
+}

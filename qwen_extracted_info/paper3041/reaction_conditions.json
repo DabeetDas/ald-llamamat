@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + H2O -> Si-O-Al(CH3)2 + CH4",
+    "Si-OH + Al(CH3)3 -> Si-O-Al(CH3)2 + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The text discusses the ALD process for Al2O3 growth using TMA and water, where the first TMA exposure causes the rise of modes due to Al–CH3 bonding and subsequent water pulse fully oxidizes the Al. The text also mentions the formation of Si–O–Hf bridges during HfO2 growth and the role of hydrogen in preventing interfacial Si oxidation."
+}

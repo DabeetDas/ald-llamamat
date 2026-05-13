@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 5,
+  "number_of_cycles": "30",
+  "reactor_type": "homemade ALD reactor",
+  "evidence": "The substrate was exposed to alternate pulses of MOTSMA and ozone, each followed by a 5 min purge with ultrapure N2 gas to prevent any cross contamination in the gas phase. The MOTSMA precursor exposure was 3 s with a subsequent 10 s trapping (i.e. no pumping), using the vapor draw method through an ampule heated to 90 °C. Ozone was produced using an InTUSA Ozone generator yielding a concentration 200 g/Nm3 and introduced into the reactor using pneumatic valves for 30 s exposure with a subsequent 30 s trapping."
+}<|im_end|>

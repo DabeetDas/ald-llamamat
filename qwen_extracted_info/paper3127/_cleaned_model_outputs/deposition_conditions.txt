@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "295",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "cold-walled",
+  "evidence": "For depositing the W nucleation layer, we used two different atomic layer deposition (ALD) processes at the substrate temperature of 295°C, which is using a sequential supply of WF6 as a source gas and SiH4 or B2H6 as a reactant."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "145",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "2000",
+  "reactor_type": "Microchemistry F-120",
+  "evidence": "The ZTO/In2O3 window layer structure was grown in a Microchemistry F-120 ALD-reactor at varying deposition temperatures ( T ¼ 85–185 8C, always at the same, coupled T for buffer and TCO) by using N2 as a carrier gas."
+}

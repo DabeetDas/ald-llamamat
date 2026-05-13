@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 400,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 30,
+  "number_of_cycles": 250,
+  "reactor_type": "F-120",
+  "evidence": "During the Si 2Cl 6 halfAcycle, the release time was 2 s with the Si 2Cl 6 held in the chamber for 20 s by closing the valve to the dry mechanical pump. Following the Ar purge step, the chamber was pumped down for 15 s, after which 100 sccm of Ar was reintroduced into reaction chamber, and an additional 17 sccm of CH 3NH 2 (Matheson 99.5%) was introduced 15 s prior to igniting the plasma to allow the chamber pressure to stabilize at ~290 mTorr. The duration of the CH 3NH 2/Ar plasma halfAcycle was 45 s."
+}<|im_end|>

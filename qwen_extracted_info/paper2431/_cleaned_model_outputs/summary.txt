@@ -1,0 +1,8 @@
+{
+  "target_material": "GaN",
+  "process_type": "remote plasma atomic layer deposition (RP-ALD)",
+  "main_precursors": ["triethylgallium (TEG)", "NH3"],
+  "temperature_range": "200 ∼ 500 °C",
+  "summary": "Uniform GaN thin films were grown on (100) Si substrates using remote plasma atomic layer deposition (RP-ALD) with triethylgallium (TEG) and NH3 as precursors. The growth temperature significantly influenced the crystallinity and nitrogen content of the films, with higher temperatures leading to improved crystallinity and increased nitrogen content. The films exhibited excellent uniformity and an almost atomic flat surface, with no melting-back etching observed at the GaN/Si interface.",
+  "evidence": "The growth of uniform gallium nitride (GaN) thin films was reported on (100) Si substrate by remote plasma atomic layer deposition (RP-ALD) using triethylgallium (TEG) and NH3 as the precursors. The increase in the growth temperature leads to the rise of nitrogen content and improved crystallinity of GaN thin films, from amorphous at a low deposition temperature of 200 °C to polycrystalline hexagonal structures at a high growth temperature of 500 °C. No melting-back etching was observed at the GaN/Si interface. The excellent uniformity and almost atomic flat surface of the GaN thin films also infer the surface control mode of the GaN thin films grown by the RP-ALD technique."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "Lu xAl2/C0 xO3",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Tris(isopropyl cyclopentadienyl) Lutetium (Lu(iPrCp)3)",
+    "Tris(diethylamido)aluminum (TDEAA)",
+    "O3 or H2O"
+  ],
+  "temperature_range": "250 /C14 C",
+  "summary": "The study investigates the impact of precursor chemistry on the atomic layer deposition (ALD) of lutetium aluminates (Lu xAl2/C0 xO3). The ALD process uses Lu(iPrCp)3 and TDEAA as precursors with O3 or H2O as oxidizers. The O3-based process is more controlled due to the hygroscopic nature of rare earth oxides, while H2O-based processes yield better electrical properties with lower C impurities. The study highlights the effect of oxidizer choice on film quality, leakage current, and equivalent oxide thickness (EOT).",
+  "evidence": "The O3-based ALD of Lu xAl2/C0 xO3 is well controlled compared to the H2O-based process. On the other hand, LuxAl2/C0 xO3 dielectrics grown with H2O as the oxidizer show better electrical properties in terms of Equivalent Oxide Thickness (EOT) and leakage current density because of lower C impurities, especially in case of Lu-rich compositions."
+}

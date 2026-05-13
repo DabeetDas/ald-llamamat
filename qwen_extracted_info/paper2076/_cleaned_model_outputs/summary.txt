@@ -1,0 +1,8 @@
+{
+  "target_material": "tantalum nitride (TaN) and tungsten nitride carbide (WNC)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tungsten hexafluoride (WF6)", "ammonia (NH3)", "triethylborane (TEB)"],
+  "temperature_range": "300 °C for WNC and 275 °C for TaN",
+  "summary": "The study investigates the interface formation and properties of atomic layer deposited (ALD) tantalum nitride (TaN) and tungsten nitride carbide (WNC) films on dense dielectric substrates such as silicon carbide (SiC) and silicon oxide (SiO2). The research focuses on the effects of precursor chemistry, substrate interactions, and surface treatments on the resulting film properties and interfacial behavior. The study also highlights the importance of surface modifications and the role of electron density variations in determining the structural and chemical characteristics of the ALD films.",
+  "evidence": "The text discusses the deposition of WNC and TaN films using ALD, with specific precursor gases such as WF6, NH3, and TEB. It also mentions the temperature ranges for deposition and the impact of surface treatments on the resulting film properties. The study's purpose is to characterize the interface formation and the effects of precursor-substrate interactions on the resulting film properties."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "showerhead-type GENIMP1000 PEALD system",
+  "evidence": "Ru /H20849EtCp/H208502 vapor with a purity of 99.60% was generated in a bubbler at 80 °C with a saturated vapor pressure of 0.18 Torr and carried into the process chamber by Ar at a flow rate of 100 SCCM as a Ru precursor. The reactant was O 2 at a flow rate of 20 SCCM. One ALD cycle consisted of Ru /H20849EtCp/H208502 pulsing, purging, O 2 pulsing, and purging for durations of 5, 5, 10, and 5 s, respectively."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["rac-N,N′-di-tert-butyl-2,3-dimethylenediamine", "Sn(II) amidinate (3)", "Ge(II) chloride dioxane complex (1:1)"],
+  "coreactants": ["H2S", "H2O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The growth temperature was between 50 and 200 °C. The temperatures of 1 and 2 precursor sources were kept at 40 and 45 °C, which give vapor pressures of 0.71 and 0.52 Torr, respectively. A gas mixture of 4% H2Si nN2 (Airgas Inc.) was used as the source of sulfur. H2S is a toxic, corrosive, and flammable gas (lower flammable limit of 4%) and should be handled with caution. 49 Precursor vapors assisted by N2 and a gas mixture of 4% H2Si nN2 were injected sequentially into the deposition chamber to allow chemical reactions to occur successively on the substrate surface for 4 s. The purge time after precursor vapor or H2S exposure was set to 10 s to completely remove unreacted and byproduct species and prevent reaction in the vapor phase."
+}

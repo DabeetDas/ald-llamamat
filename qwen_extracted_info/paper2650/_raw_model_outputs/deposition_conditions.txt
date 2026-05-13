@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250 /C14 C",
+  "pressure": "3 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 0.25,
+  "purge_time_s": 1,
+  "number_of_cycles": null,
+  "reactor_type": "Beneq TFS-500",
+  "evidence": "The water pulse was set to 0.25 s, and the purge duration to 1 s for all experiments. The tert-butoxides were pulsed for 3 s whereas the ethoxides were pulsed for 2 s."
+}<|im_end|>

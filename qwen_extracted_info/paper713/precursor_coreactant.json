@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Ir(EtCp)(COD)"
+  ],
+  "coreactants": [
+    "oxygen"
+  ],
+  "purge_gas": [
+    "argon"
+  ],
+  "carrier_gas": [],
+  "evidence": "To grow Ir thin ﬁlm by ALD, (1,5-cyclooctadiene) (ethylcyclopentadienyl) iridium (Ir(EtCp)(COD)) and oxygen were employed as the metalorganic precursor and reactant, respectively. One cycle of the Ir ALD process generally consisted of the following four steps: Ir precursor feeding for 10 s, argon purging for 15 s, oxygen feeding for 10 s, and finally Ar purging for 10 s."
+}

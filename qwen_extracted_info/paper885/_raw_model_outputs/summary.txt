@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2",
+  "process_type": "Plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["SnCl4", "O2 plasma"],
+  "temperature_range": "150 to 350 °C",
+  "summary": "SnO2 thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) with SnCl4 and O2 plasma. The process showed a saturated growth per cycle of 0.072 nm/cycle at 350 °C, which is almost two times higher than that of thermal ALD. The films were free from Cl impurities and exhibited good crystallinity and density. The study aimed to improve the growth per cycle, crystallinity, and purity of SnO2 thin films.",
+  "evidence": "SnO2 thin films were deposited by plasma-enhanced atomic layer deposition (PEALD) using SnCl4 and O2 plasma at the temperature between 150 and 350 °C. The self-limiting growth of PEALD-SnO2 was confirmed by a careful study of the growth kinetics at 350 °C. At optimized growth conditions, PEALD-SnO2 exhibited a saturated growth per cycle of 0.072 nm/cycle, which is almost two times higher than that deposited by thermal ALD using SnCl4 reported earlier. Regardless of the growth temperatures, there were no Cl impurities within the films. Furthermore, the film density of rutile SnO2 was comparable to bulk density. With those favorable properties of PEALD-SnO2, the lower electrical resistivity and improved corrosion resistance of the films were obtained at 350 °C."
+}<|im_end|>

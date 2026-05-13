@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylborate (TMB)", "bis-(diethylamino)silane (SAM-24)"],
+  "coreactants": ["H2O", "O3", "O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "For this study, we used a commercial ALD chamber (SNTEK Co., ALD5008). This system has a double shower head system for better uniformity. Trimethylborate (TMB) and bis-(diethylamino)silane (SAM-24) were employed as B and Si precursors, respectively, with H2O, O3 and O2 plasma as oxidants. The TMB and SAM-24 in each stainless steel bubbler were evaporated at room temperature, which produce high enough vapor pressure. These precursor vapors were carried into the reaction chamber by Ar carrier gas whose flow rate was controlled using a mass flow controller (MFC). Ar gas with the same flow rate was also used for purging of excess gas molecules and byproducts between each precursor and reactant exposure steps."
+}

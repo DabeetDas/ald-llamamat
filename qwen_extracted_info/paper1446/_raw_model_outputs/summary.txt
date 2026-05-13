@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "H2O"],
+  "temperature_range": "125 °C",
+  "summary": "Aluminum oxide (Al2O3) atomic layer deposition (ALD) was used to coat silica spheres in synthetic opal to modify the interstices of the opal structure. The study aimed to understand the growth of ALD films on photonic crystals and their optical effects. The Bragg reflection from the opal structure was observed to shift to longer wavelengths with increasing Al2O3 ALD thickness, indicating a change in the effective refractive index. The experimental results showed good agreement with TMM simulations for thin films, but discrepancies were observed for higher filling fractions, attributed to a higher free volume in the opal structure than predicted by the fcc geometry.",
+  "evidence": "Al2O3 ALD was used to coat the silica spheres in synthetic opal with conformal Al2O3 films. The experimental Bragg wavelengths from the Al2O3-coated photonic crystals were observed to shift to longer wavelength versus Al2O3 ALD thickness before asymptotically reaching a limiting wavelength. The experimental and predicted Bragg wavelengths showed excellent agreement for thin Al2O3 ALD films. Differences between experiment and simulation were observed for high filling fractions of the opal structure. These discrepancies were attributed to a higher free volume in the opal structure than the free volume predicted by the fcc geometry."
+}<|im_end|>

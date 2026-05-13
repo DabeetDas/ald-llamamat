@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "6TiCl4(g)þ 8NH3(g)! 6TiN(s)þ 24HCl(g)þ N2(g)",
+    "TiCl4(g)þ 2NH3(g)! TiN(s)þ 4HCl(g)þ H2(g)þ 1/2 N2(g)"
+  ],
+  "surface_mechanism_description": "The initial stage of growth might take place as shown in Fig. 1(a). Ar gas purging is effective in removing HCl as a reaction product. The time for one cycle (AB) during TiN deposition [Fig. 1(b)] in our experiment was 4–8 s for dosing of TiCl4, evacuation and purging of Ar gas, dosing of NH3 and purging of Ar gas.",
+  "intermediate_species": [
+    "TiCl4",
+    "NH3",
+    "HCl",
+    "N2",
+    "H2"
+  ],
+  "evidence": "In the ALD process, each of the above reactions can take place through the combinations of two half reactions (A: corresponding to the purging of TiCl4 and B: corresponding to that of NH3) and to date, there is no consensus on the nature of these half reactions.11) Exposure to sequential reactions like ABABAB...leads to growth of the TiN film. The initial stage of growth might take place as shown in Fig. 1(a). Ar gas purging is effective in removing HCl as a reaction product. The time for one cycle (AB) during TiN deposition [Fig. 1(b)] in our experiment was 4–8 s for dosing of TiCl4, evacuation and purging of Ar gas, dosing of NH3 and purging of Ar gas."
+}

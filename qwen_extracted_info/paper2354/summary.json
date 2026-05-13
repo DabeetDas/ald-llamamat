@@ -1,0 +1,11 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Metalorganic Atomic Layer Epitaxy (MOALE)",
+  "main_precursors": [
+    "diethylgalliumchloride (DEGaCl)",
+    "AsH3"
+  ],
+  "temperature_range": "450-600 °C",
+  "summary": "The study reports on the growth of GaAs using metalorganic atomic layer epitaxy (MOALE) with diethylgalliumchloride (DEGaCl) and AsH3 in a horizontal low-pressure MOCVD system. The process achieves monolayer-unit growth over a wide range of growth conditions, including temperatures from 450 to 600 °C. The digital nature of the growth is explained using a Langmuir-type monolayer adsorption model for GaCl, a stable decomposition product of DEGaCl. The results show excellent uniformity in GaAs growth on a 3-inch wafer, with the highest mobility achieved at 600 °C.",
+  "evidence": "GaAs is grown by metalorganic atomic layer epitaxy (MOALE) using diethylgalliumchloride (DEGaCl) as a new MO source material for ALE and AsH3 in a horizontal low-pressure MOCVD system. Digital epitaxy was achieved over a wide range of growth conditions. The digital nature of GaAs growth can be well explained by assuming that the DEGaCl decomposes to GaCl and that a Langmuir-type monolayer adsorption of GaCl on the As surface takes place. Growth at higher temperatures leads to a reduction of carbon contamination from the source gas. At 600 °C, an n-type layer with a 77 K mobility of 22400 cm2/V s has been obtained."
+}

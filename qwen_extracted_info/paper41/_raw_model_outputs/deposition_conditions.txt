@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 10,
+  "number_of_cycles": 140,
+  "reactor_type": "Savannah 100 ALD system (Cambridge Nanotech.)",
+  "evidence": "One ALD cycle of LiFePO4 was executed following the sequence of 5 × [FeCp2 (1 s pulse/10 s purge) + O3 (1 s pulse/10 s purge) + TMPO (2 s pulse/10 s purge) + H2O (1 s pulse/10 s purge)] + 1 × [LiO t Bu (1 s pulse/10 s purge) + H2O (1 s pulse/10 s purge)]."
+}<|im_end|>

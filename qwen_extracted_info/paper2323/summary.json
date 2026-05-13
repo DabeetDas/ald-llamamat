@@ -1,0 +1,11 @@
+{
+  "target_material": "Tungsten",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "WF6",
+    "SiH4"
+  ],
+  "temperature_range": "220°C",
+  "summary": "This study investigates the nucleation mechanisms and selectivity during tungsten atomic layer deposition (W-ALD) on various oxide substrates. The research highlights the role of surface hydroxyl groups, surface preparation, and precursor interactions in influencing tungsten nucleation and selectivity. The study demonstrates that hydroxyl groups on oxide surfaces act as nucleation sites for tungsten, and that reducing surface hydroxyls or adjusting deposition temperatures can extend the selectivity window for W-ALD.",
+  "evidence": "The study shows that hydroxyl groups on oxide surfaces act as nucleation sites for tungsten, and that reducing surface hydroxyls or adjusting deposition temperatures can extend the selectivity window for W-ALD. The research also demonstrates that SiH4 and WF6 can react with oxide surfaces, promoting tungsten nucleation and forming metal fluorides, which can lead to etching of the oxide substrates."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 0.3,
+  "purge_time_s": 1,
+  "number_of_cycles": null,
+  "reactor_type": "traveling-wave-type ALD reactor (Ever-tek. Co, Plus-200)",
+  "evidence": "The precursor, H2O, and O3 pulse durations were 1, 0.3, and 1 s, respectively, and a 1-s-long N2 purge was used between each chemical pulse."
+}<|im_end|>

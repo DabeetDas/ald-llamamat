@@ -1,0 +1,11 @@
+{
+  "target_material": "Ga doped ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "diethyl-zinc (DEZ)",
+    "hexakis (dimethylamino)gallium (C12H36Ga2N6)"
+  ],
+  "temperature_range": "200 °C to 300 °C",
+  "summary": "Ga doped ZnO films were deposited using atomic layer deposition (ALD) with hexakis (dimethylamino)gallium as the Ga precursor. The films were deposited at temperatures ranging from 200 °C to 300 °C. Post-deposition annealing improved crystallinity and increased mobility, while reducing resistivity. The study focused on the effects of deposition conditions and annealing on the properties of Ga-doped ZnO films for optoelectronic applications.",
+  "evidence": "Ga doped ZnO films were deposited at low temperature with atomic layer deposition at different temperatures with the novel precursor, hexakis (dimethylamino)gallium. The ZnO films prepared at 300 °C on GaN substrates are epitaxial, but the Ga doping deteriorates the crystallinity: the doped films are oriented polycrystalline. The films deposited at lower temperatures are polycrystalline in all cases. Post deposition annealing procedures were applied which improved the crystallinity of the layer and increased the mobility of the films."
+}

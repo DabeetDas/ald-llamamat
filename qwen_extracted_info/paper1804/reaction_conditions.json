@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the self-limiting growth behavior using Mo(CO)6 and H2S as precursors. The growth is governed by an ALD reaction, not a CVD reaction, with the self-limiting behavior observed in the temperature range of 155–175 °C. The reaction is influenced by the thermal decomposition of Mo(CO)6, which determines the ALD window. Post-annealing under H2S atmosphere improves the crystallinity and reduces impurities, including oxygen content, through the reaction MoO3 + 3H2S ⇔ MoS2 + 3H2O + S.",
+  "intermediate_species": [
+    "MoO3",
+    "MoS2",
+    "S",
+    "H2O",
+    "Mo3d 5/2",
+    "Mo3d 3/2",
+    "S 2p 3/2",
+    "S 2p 1/2",
+    "O 1s"
+  ],
+  "evidence": "The surface reaction mechanism and associated chemistry are discussed in the context of the ALD process using Mo(CO)6 and H2S as precursors. The text describes the self-limiting growth behavior, the influence of thermal decomposition of Mo(CO)6 on the ALD window, and the post-annealing reaction under H2S atmosphere. The chemical states of the films are analyzed using XPS, revealing the presence of MoO3, MoS2, and S species, as well as the reduction of oxygen content through the reaction MoO3 + 3H2S ⇔ MoS2 + 3H2O + S."
+}

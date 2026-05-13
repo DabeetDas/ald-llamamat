@@ -1,0 +1,11 @@
+{
+  "target_material": "Aluminum sulfide (AlSx)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "tris(dimethylamido)aluminum (TDMASAl)",
+    "hydrogen sulfide (H2S)"
+  ],
+  "temperature_range": "100–250 °C",
+  "summary": "This study describes the synthesis of aluminum sulfide (AlSx) thin films by atomic layer deposition (ALD) using tris(dimethylamido)aluminum and hydrogen sulfide. The ALD process was characterized using in situ techniques such as quartz crystal microbalance, quadrupole mass spectrometry, and Fourier transform infrared spectroscopy. The AlSx films were amorphous and showed self-limiting growth in the temperature range of 100–250 °C. The study also evaluated the electrochemical performance of ALD AlSx as a potential anode material for lithium-ion batteries, showing reliable cyclability with a discharge capacity of 640 mAh/g after 60 cycles.",
+  "evidence": "The study describes the synthesis of aluminum sulfide (AlSx) thin films by atomic layer deposition (ALD) using tris(dimethylamido)aluminum and hydrogen sulfide. The ALD process was characterized using in situ techniques such as quartz crystal microbalance, quadrupole mass spectrometry, and Fourier transform infrared spectroscopy. The AlSx films were amorphous and showed self-limiting growth in the temperature range of 100–250 °C. The study also evaluated the electrochemical performance of ALD AlSx as a potential anode material for lithium-ion batteries, showing reliable cyclability with a discharge capacity of 640 mAh/g after 60 cycles."
+}

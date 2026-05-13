@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Remote Plasma Atomic Layer Deposition (RPALD)",
+  "main_precursors": ["Tetrakis(diethylamino)hafnium (TDEAH)", "Trimethylaluminum (TMA)"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the effect of buffer layers on HfO2 gate dielectrics grown by remote plasma atomic layer deposition (RPALD). The buffer layers, including Al2O3 and RPN-treated HfO2, are used to suppress silicate formation and interfacial layer growth, enhancing the thermal stability and electrical properties of HfO2 films. The RPN-treated buffer layers showed lower effective oxide thickness (EOT), reduced leakage current density, and improved interface quality.",
+  "evidence": "The HfO2 films with an RPN-treated HfO2 buffer layer showed the lowest effective oxide thickness and those with an RPN-treated buffer layer exhibited low leakage current density. The effective fixed-oxide charge density of the HfO2 film with an RPN-treated HfO2 buffer layer showed the lowest value of 3.60×1011/cm2 compared to the other films."
+}<|im_end|>

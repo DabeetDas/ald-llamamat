@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "150",
+ "pressure": "3",
+ "precursor_pulse_time_s": "0.4",
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "0.4",
+ "number_of_cycles": "10000",
+ "reactor_type": "F-120",
+ "evidence": "The PbS films were deposited by the ALE method in a hotwall flow-type reactor F-120 manufactured by Microchemistry Ltd, Espoo, Finland. The primary N2 flow was 0.7 dm3 min-' and the reactor pressure measured from the pumping line was around 3 mbar. The pulse times for lead chemicals and hydrogen mlfide were typically 0.4 s. The purge time normally used was 0.4 s. Typically the number of growth cycles was 10000."
+}

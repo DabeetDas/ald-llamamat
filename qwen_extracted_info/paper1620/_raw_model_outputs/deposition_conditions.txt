@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 50,
+  "number_of_cycles": 1000,
+  "reactor_type": "hot-wall",
+  "evidence": "The growth temperatures of Bi2O3 and Fe2O3 were both at 250 °C, which were optimized in the hot-wall ALD system. Pulse time of the precursors and water were both 10 s and the purge time of them were 50 s, which were optimized according to the in-situ QCM results."
+}<|im_end|>

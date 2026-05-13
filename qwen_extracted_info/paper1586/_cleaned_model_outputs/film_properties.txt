@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 1.1,
+  "density_g_cm3": 2.6,
+  "refractive_index": "1.57",
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "Modeling of the VASE data yields a refractive index for the ALD Al2O3 of n ) 1.57. The Al2O3 growth is extremely linear with a growth rate of 1.0 Å/cycle in excellent agreement with the VASE and SEM results. The QCM signals have been converted to Al2O3 thickness assuming a density of 2.6 g/cm3."
+}

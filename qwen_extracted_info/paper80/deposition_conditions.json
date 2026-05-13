@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.025,
+  "coreactant_pulse_time_s": 0.062,
+  "purge_time_s": null,
+  "number_of_cycles": 400,
+  "reactor_type": "Showerhead",
+  "evidence": "Representative thickness saturation curves for films deposited at 120 8C by 400 ALD cycles at various precursor dosages are shown in Figure 2 a, b. As shown in Figure 2 a, the film thickness first increased with the Fe(amd)2 exposure, and then reached saturation as the Fe(amd) 2 exposure exceeded about 0.025 T orr s while the amount of H 2S was kept fixed at approximately 0.062 Torr s."
+}

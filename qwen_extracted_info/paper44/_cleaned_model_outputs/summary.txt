@@ -1,0 +1,8 @@
+{
+  "target_material": "Molybdenum disulfide (MoS2)",
+  "process_type": "Inhibitor-utilizing atomic layer deposition (iALD)",
+  "main_precursors": ["Mo(CO)6", "diethyl disulfide (DEDS)"],
+  "temperature_range": "250 °C",
+  "summary": "The study describes the development of an inhibitor-utilizing atomic layer deposition (iALD) process for the synthesis of high-quality, large-area molybdenum disulfide (MoS2) thin films. The process involves the use of Mo(CO)6 as the molybdenum precursor and diethyl disulfide (DEDS) as the sulfur precursor. The iALD process enables the formation of highly crystalline MoS2 films with significantly improved grain size and surface coverage, leading to excellent electrical properties such as high carrier mobility and on/off ratios. The process is carried out at a temperature of 250 °C, and the resulting films are suitable for use in field-effect transistors on 6-inch wafers.",
+  "evidence": "The iALD process was identified through first-principles calculations based on density functional theory (DFT). The study reports that the iALD process enables the formation of highly crystalline and continuous MoS2 thin films with a significantly increased grain size and surface coverage (>620%) by tailoring their nucleation kinetics. The process was carried out at a temperature of 250 °C, and the resulting films exhibited excellent room temperature mobility (13.9 cm2 V−1 s−1) and on/off ratios (>108)."
+}

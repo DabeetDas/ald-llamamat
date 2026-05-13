@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300-600",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall horizontal flow-type",
+  "evidence": "The pressure in the ALD reactor was about 250 Pa. The linear carrier gas flow rate in the reactor was 1.4 m/s. The lengths of precursor exposure times and purge periods between precursor pulses were kept constant at 2 s."
+}<|im_end|>

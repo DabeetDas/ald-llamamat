@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "LiO tBu + DEPA -> Li 2PO 2N"
+  ],
+  "surface_mechanism_description": "The ALD reaction between LiO tBu and DEPA results in the growth of conformal, high-quality solid electrolytes with a stoichiometry of ~Li 2PO 2N. The reaction involves the formation of a lithium polyphosphazene (LPZ) structure, where the P/N bond in DEPA is not broken during the ALD process. The stoichiometry suggests a particular polymorph of LiPON, with a P/N ratio of 1, indicating a linear backbone of alternating P and N atoms coordinated with Li and oxygen atoms. The reaction mechanism is not fully characterized but is believed to involve surface-mediated polymerization rather than a traditional ligand-exchange process.",
+  "intermediate_species": [
+    "Lithium polyphosphazene (LPZ)",
+    "Surface hydroxyls",
+    "Ligand fragments from precursor molecules"
+  ],
+  "evidence": "The reaction between lithium tert-butoxide (LiO tBu) and diethyl phosphoramidate (DEPA) produces conformal, ionically conductive thin films with a stoichiometry close to Li 2PO 2N between 250 and 300 ˚C. The P/N ratio of the films is always 1, indicative of a particular polymorph of LiPON which closely resembles a polyphosphazene. The reaction mechanism is not fully characterized but is believed to involve surface-mediated polymerization rather than a traditional ligand-exchange process. The stoichiometry suggests a particular polymorph of LiPON, with a P/N ratio of 1, indicating a linear backbone of alternating P and N atoms coordinated with Li and oxygen atoms."
+}

@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "TDMA V"
+  ],
+  "coreactants": [
+    "N2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "In this work, we use TDMA V as our metalorganic vanadium precursor but replace the NH3 plasma with an N2 plasma, which avoids the safety concerns related to NH3 use. The variable conductance valve was mostly closed during precursor pulse steps to reduce pumping speed and thus increase residence time for improved precursor utilization. The carrier gas was Ar (sccm) 30 during precursor pulse steps and 100 during precursor purge steps."
+}

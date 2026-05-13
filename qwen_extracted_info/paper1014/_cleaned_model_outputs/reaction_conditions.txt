@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "CBr4 + OH* → CBr3 + HBr + Br*",
+    "CBr3 + H* → CBr2 + HBr",
+    "CBr2 + H* → CBr + HBr",
+    "CBr + H* → C + HBr"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of CBr4 precursor molecules on hydroxylated SiO2 substrates, followed by reaction with hydrogen plasma. The CBr4 molecules dissociate into reactive CBrx species, which then react with hydrogen plasma to form HBr byproducts and deposit carbon atoms. The reaction steps include the formation of surface species such as CBr3, CBr2, and CBr, which eventually lead to the deposition of carbon atoms on the substrate.",
+  "intermediate_species": [
+    "CBr3",
+    "CBr2",
+    "CBr",
+    "HBr",
+    "C*"
+  ],
+  "evidence": "The surface reaction mechanism and associated chemistry are discussed in the text: 'During the first half-cycle chemical reaction that takes place in the initial step of the PE-ALD of a-C:H films, the surface reaction of CBr4 precursor molecules on the active sites of a hydroxylated SiO2 surface may occur as indicated below: CBr4 + OH* → CBr3 + HBr + Br*. Because the generated HBr byproduct can be removed by the inert gas, the surface chemical reaction can be assumed irreversible and rate limiting. According to this scheme, during CBr4 exposure in a PE-ALD cycle, the reactive CBr3 species are chemisorbed on the SiO2 surface. The second half-cycle would involve exposure to atomic H originating from plasma, and a purging period separates subsequent half-cycles: CBr3 + H* → CBr2 + HBr, CBr2 + H* → CBr + HBr, CBr + H* → C + HBr.'"
+}

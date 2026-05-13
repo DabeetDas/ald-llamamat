@@ -1,0 +1,8 @@
+{
+  "target_material": "RuO2",
+  "process_type": "modified ALD",
+  "main_precursors": ["bis(ethylcyclopentadienyl)ruthenium (RuEtCp2)", "oxygen"],
+  "temperature_range": "265 °C",
+  "summary": "The study describes the modified atomic layer deposition (ALD) of RuO2 thin films for capacitor electrodes. The process uses bis(ethylcyclopentadienyl)ruthenium (RuEtCp2) as the precursor and oxygen as the reactant. The growth rate of the modified ALD RuO2 was about 1.4 Å/cycle, which is higher than conventional Ru ALD due to increased RuEtCp2 adsorption and differences in unit cell volumes. The films showed excellent step coverage and smooth surfaces, making them suitable for DRAM capacitor applications.",
+  "evidence": "The authors investigated the modified atomic layer deposition (ALD) of RuO2 films using bis(ethylcyclopentadienyl)ruthenium (RuEtCp2) at a deposition temperature of 265 °C. Oxygen gas diluted with argon was supplied throughout all of the ALD steps. The growth rate of the modified ALD RuO2 was about 1.4 Å/cycle, which is higher than that of conventional Ru ALD due to the increase in the amount of RuEtCp2 adsorption per cycle, as well as the difference in the unit cell volumes of Ru and RuO2. The film thickness increased linearly with the number of cycles, and the incubation cycle in the initial stage was negligible. The study suggests this process as a possible alternate route to capacitor integration."
+}<|im_end|>

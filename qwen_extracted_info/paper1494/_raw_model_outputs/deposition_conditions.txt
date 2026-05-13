@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 135,
+  "pressure": "0.5 Torr",
+  "precursor_pulse_time_s": 0.015,
+  "coreactant_pulse_time_s": 1.0,
+  "purge_time_s": 20.0,
+  "number_of_cycles": 190,
+  "reactor_type": "Savannah S200 (Cambridge Nanotech)",
+  "evidence": "For all depositions, the hot-wall chamber temperature was 135 °C. The high-purity nitrogen flow rate was 10 standard cubic centimeters per minute and deposition was carried out in pulse mode (continuous flow). Under nitrogen flow with no precursor pulsing, the chamber pressure was approximately 0.5 Torr. One cycle of Cu 2S was completed by first dosing Cu 2DBA, followed by a 10 s purge, 1.0 s H 2S dose, finishing with a 10 s purge."
+}<|im_end|>

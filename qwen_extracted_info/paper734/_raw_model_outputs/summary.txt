@@ -1,0 +1,8 @@
+{
+  "target_material": "WO3",
+  "process_type": "ALD",
+  "main_precursors": ["Bis(tert-butoximino)bis(dimethylamino)tungsten(VI)", "H2O"],
+  "temperature_range": "350 °C",
+  "summary": "The paper describes the fabrication of ultra-sensitive, extremely-fast, and stable UV-A photodetectors using monolayer WO3 deposited via atomic layer deposition (ALD) on a SiO2/Si wafer. The ALD-deposited WO3 monolayer exhibits a wide bandgap of 3.53 eV and provides excellent photoresponsivity and ultrafast response time, making it a promising material for optoelectronic applications.",
+  "evidence": "The monolayer WO3-based UV-A photodetectors, fabricated by atomic layer deposition (ALD) technique at the large area of SiO2/Si wafer, have demonstrated vastly improved functional capabilities: extremely fast response time of less than 40 μs and photoresponsivity reaching of ~0.329 A W-1. The ALD-deposited WO3 monolayer has also exhibited wider bandgap of 3.53 eV and the UV-A photodetector based on it is environmentally friendly, highly reliable, with excellent reproducibility and long-term stability."
+}<|im_end|>

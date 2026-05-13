@@ -1,0 +1,12 @@
+{
+  "target_material": "Bi12x2yTixSiyOz (BTSO)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Bi(mmp)3",
+    "Ti(mmp)4",
+    "Si(OEt)4"
+  ],
+  "temperature_range": "300°C",
+  "summary": "The study reports the deposition of amorphous high k dielectric Bi12x2yTixSiyOz (BTSO) thin films using atomic layer deposition (ALD). The films exhibit high dielectric constants (55-64), low leakage current density (10^-8 A/cm2 at 1 V), and good dielectric breakdown strength (0.6-1.6 MV/cm). The films were grown on Ru/SiO2/Si substrates using Bi(mmp)3, Ti(mmp)4, and Si(OEt)4 as precursors, with ozone as the oxidant. The films showed excellent thickness and compositional uniformity on high aspect ratio structures.",
+  "evidence": "BTSO ﬁlms grown by atomic layer deposition (ALD) have a dielectric constant of 55-64, which is the highest value reported among amorphous dielectric ﬁlms. Leakage current density of the ﬁlms is on the order of 10^-8 A/cm2 at 1 V with dielectric breakdown strength of 0.6-1.6 MV/cm. Thickness and compositional uniformities on hole structures with a high aspect ratio (7) are also investigated with Bi2Ti2O7 ﬁlms without Si, of which conformality is excellent with respect to both thickness and composition."
+}

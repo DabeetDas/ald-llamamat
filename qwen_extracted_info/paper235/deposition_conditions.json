@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400-500",
+  "pressure": "2.5 × 10−2 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "30",
+  "number_of_cycles": "100",
+  "reactor_type": "quartz tube reactor chamber",
+  "evidence": "The purge pulse duration (1 to 30 s) did not seriously affect the growth rate, but it was programmed for a longer period in order to avoid mixing of the reactant gases during the evacuation before the next material supply pulse. The tentative gas inlet time spacing is 30 s for purge gas, 5 s for H2O carrier gas, and 0.5 s for SnCl4 carrier gas, respectively."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum nitride (AlN)",
+  "process_type": "Pulsed atomic-layer epitaxy (PEALD)",
+  "main_precursors": ["Trimethylamine alane (TMAA)", "Deuterated ammonia (ND3)"],
+  "temperature_range": "380 K and 675 K",
+  "summary": "The study describes a molecularly engineered low-temperature atomic layer growth process for aluminum nitride (AlN) on Si(100) using trimethylamine alane (TMAA) and deuterated ammonia (ND3) as precursors. The process involves alternating exposures of TMAA and ND3 at different temperatures to achieve self-limiting adsorption and layer-by-layer growth. The key temperature range is 380 K for TMAA and 675 K for ND3, with the formation of AlN through bridge bonding of Al between nitrogen centers and desorption of HD. The process ensures carbon-free growth and is validated by XPS and TPD analyses.",
+  "evidence": "Trimethylamine alane (TMAA) and deuterated ammonia (ND3) were used to grow aluminum nitride (AlN) thin films on Si(100) based upon a molecularly engineered atomic layer growth process. The growth scheme consists of the adsorption of ND3 on Si(100) at 675 K which generates ND2 species on the surface. Then TMAA is exposed to the ND3-derivatized surface at 380 K. As the surface temperature is raised back to 675 K for the next ND3 exposure, AlN was formed by the bridge bonding of Al between two nitrogen centers and desorption of HD."
+}

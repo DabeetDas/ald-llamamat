@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "ellipsometry",
+    "cross-section high-resolution transmission electron microscopy (HRTEM)",
+    "low-energy secondary ion mass spectrometer (SIMS)",
+    "atomic force microscopy (AFM)",
+    "X-ray diffraction (XRD)",
+    "capacitance vs. voltage measurements (C-V)",
+    "leakage-current density vs. voltage (J-V) measurements"
+  ],
+  "evidence": "The film thicknesses were measured by ellipsometry and cross-section high-resolution transmission electron microscopy (HRTEM, JeOL JEM-3000F). A low-energy secondary ion mass spectrometer (SIMS) using a Cs+ primary ion source with an acceleration voltage of 3 keV was used to investigate the dopant diffusion profiles. The film morphology and crystallinity were investigated by atomic force microscopy (AFM) and X-ray diffraction (XRD), respectively. A HP4194A impedance meter and a 4140B picoammeter were used for the capacitance vs. voltage measurements (C-V) at 1 MHz and the leakage-current density vs. voltage (J-V) measurements, respectively."
+}

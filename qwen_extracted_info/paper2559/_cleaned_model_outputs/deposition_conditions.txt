@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200– 325",
+  "pressure": "225 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "30",
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall stainless steel flow tube",
+  "evidence": "Films were deposited at a substrate temperature of 275 ° C while using a 30 s N 2 purge time, which reflects the optimum ALD conditions for HfO 2 growth."
+}

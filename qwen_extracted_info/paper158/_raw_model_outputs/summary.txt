@@ -1,0 +1,8 @@
+{
+  "target_material": "graphene",
+  "process_type": "CVD",
+  "main_precursors": ["methane", "cobalt", "magnesium oxide"],
+  "temperature_range": "1000 8C",
+  "summary": "The paper describes the large-scale synthesis of few-layered graphene using chemical vapor deposition (CVD) of methane over cobalt supported on magnesium oxide at 1000 8C in a gas flow of argon. The process produces randomly aggregated, thin, crumpled graphene sheets with a high carbon content and some oxygen impurities. The study highlights the potential for industrial applications of graphene in molecular electronics and polymer composites.",
+  "evidence": "The CVD of methane (CH4) over cobalt (Co) supported on magnesium oxide (MgO) at 1000 8C in a gas flow of argon (Ar). The products are randomly aggregated, thin, crumpled graphene sheets stacked closely together. The graphene materials can be easily dispersed in ethanol under sonication to form a homogeneous suspension."
+}<|im_end|>

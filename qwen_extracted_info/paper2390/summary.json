@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "ALD",
+  "main_precursors": [
+    "diethylzinc (DEZ)",
+    "H2O"
+  ],
+  "temperature_range": "100 ◦C",
+  "summary": "ZnO films grown by atomic layer deposition (ALD) are used for organic electronics applications, such as transparent electrodes and hybrid p–n junctions. The films are grown using precursors like diethylzinc (DEZ) and water (H2O) at low temperatures, which allows for the formation of semiconducting ZnO films with low carrier concentrations. These films can be doped with aluminum (Al) to achieve lower resistivity values, making them suitable for transparent electrodes in organic devices. The study highlights the use of ZnO and ZnO:Al films in organic photovoltaics and light-emitting diodes (OLEDs), emphasizing their electrical and optical properties.",
+  "evidence": "ZnO films grown by atomic layer deposition (ALD) are used for organic electronics applications, such as transparent electrodes and hybrid p–n junctions. The films are grown using precursors like diethylzinc (DEZ) and water (H2O) at low temperatures, which allows for the formation of semiconducting ZnO films with low carrier concentrations. These films can be doped with aluminum (Al) to achieve lower resistivity values, making them suitable for transparent electrodes in organic devices. The study highlights the use of ZnO and ZnO:Al films in organic photovoltaics and light-emitting diodes (OLEDs), emphasizing their electrical and optical properties."
+}

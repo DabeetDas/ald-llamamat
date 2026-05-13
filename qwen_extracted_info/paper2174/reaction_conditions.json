@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of SrO as a seed layer on Ru, followed by postannealing to form a crystallized Sr–Ru–O compound, which acts as a seed layer for SrTiO3 crystallization. The crystallinity of the SrTiO3 films is enhanced by this seed layer, improving the dielectric properties.",
+  "intermediate_species": [
+    "SrO",
+    "Sr–Ru–O compound"
+  ],
+  "evidence": "To apply SrTiO3 thin films as DRAM capacitor dielectrics under 65 nm technology, the dielectric constant of the STO thin films, with thicknesses under 15 nm, has to be increased. In order to improve the dielectric properties by enhancing the crystallinity of SrTiO3 thin films, an ultrathin crystallization seed layer of SRO was prepared on the Ru bottom electrode before SrTiO3 deposition. After establishing the crystallinity enhancement of SrTiO3 films by inserting a SRO seed layer, the dielectric properties of SrTiO3 thin films after ambient N2 annealing at 600 °C were investigated. The dielectric constants of SrTiO3 films deposited on a SRO seed layer were higher than for those deposited on Ru without a SRO layer, as indicated in Fig. 4. The dielectric constant of 10 nm SrTiO3 films, which had very low dielectric constants without the seed layer owing to the lack of crystallinity, was increased to 50 by using the SRO seed layer."
+}

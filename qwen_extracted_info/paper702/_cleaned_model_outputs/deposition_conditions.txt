@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "250-340",
+ "pressure": "atmospheric",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "1200",
+ "reactor_type": "inductively heated quartz",
+ "evidence": "ZnO ﬁlms were prepared on (0 0 0 1) sapphire substrates at a temperature range of 250–340 8C in an inductively heated quartz reactor operated at atmospheric pressure by ALD using DEZn and N2O precursors."
+}

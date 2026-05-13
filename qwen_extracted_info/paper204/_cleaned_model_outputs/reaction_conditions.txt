@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The electrical and photoluminescent characteristics are determined by the relative zinc interstitial and oxygen vacancy concentrations, which vary with annealing treatment. The zinc interstitial reactions based on Kroger–Vink notation: Vx_i + Zn → Zn_i + 2e0 and Vx_i + Zn → Zn_i + 2e0 have formation energies of 2.183 and 3.563 eV, respectively, and are therefore more thermodynamically favorable than the Vx_i + Zn → Znx_i reaction which has a formation energy of 4.722 eV.",
+  "intermediate_species": ["zinc interstitials", "oxygen vacancies"],
+  "evidence": "The zinc interstitial reactions based on Kroger–Vink notation: Vx_i + Zn → Zn_i + 2e0 and Vx_i + Zn → Zn_i + 2e0 have formation energies of 2.183 and 3.563 eV, respectively, and are therefore more thermodynamically favorable than the Vx_i + Zn → Znx_i reaction which has a formation energy of 4.722 eV. The overall electrical and photoluminescent characteristics are therefore determined by the relative zinc interstitial and oxygen vacancy concentrations which vary with annealing treatment."
+}

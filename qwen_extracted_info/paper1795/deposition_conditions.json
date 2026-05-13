@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-250",
+  "pressure": "500 Pa",
+  "precursor_pulse_time_s": 1.6,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 8,
+  "number_of_cycles": null,
+  "reactor_type": "SUNALE™ R200, Picosun",
+  "evidence": "The entire ALD sequence consists 1.6 s pulse of Co(Cp)2 and 2 s pulse of O3 with 8 s purge of N2 introduced in between."
+}

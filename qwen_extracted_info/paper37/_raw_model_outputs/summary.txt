@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3/ZrO2 nanolaminates",
+  "process_type": "ALD",
+  "main_precursors": ["H2O", "trimethylaluminum (TMA)", "tetrakis(dimethylamido)zirconium(IV) (TDMA(Zr))"],
+  "temperature_range": "80 8C",
+  "summary": "The study presents Al2O3/ZrO2 nanolaminates as ultrahigh gas-diffusion barriers for encapsulating organic electronics. These nanolaminates are deposited using atomic-layer deposition (ALD) at 80 8C. The nanolaminates consist of alternating layers of Al2O3 and ZrO2, which suppress the formation of voids and nanocrystals, leading to a significant reduction in permeation rates for water and oxygen. The permeation rates for a 130 nm thick nanolaminate were found to be 4.7×10^-5 gm/(cm² day) for water and 1.6×10^-2 cm³/(cm² day) for oxygen under controlled conditions. The low permeation rates and low process temperature make these nanolaminates suitable for thin-film encapsulation of organic electronic devices.",
+  "evidence": "The nanolaminates were grown by ALD at a temperature of 80 8C. The permeation rate of a nanolaminate 130 nm thick was determined to be 4.7×10^-5 gm/(cm² day) for water and 1.6×10^-2 cm³/(cm² day) for oxygen under a controlled environment of 70% humidity and 70 8C. The study demonstrates that these nanolaminates provide a very low density of statistical defects compared to neat Al2O3 layers."
+}<|im_end|>

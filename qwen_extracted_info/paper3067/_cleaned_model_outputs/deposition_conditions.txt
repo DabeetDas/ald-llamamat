@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "0.5 to 0.8 Torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 25,
+  "purge_time_s": 5,
+  "number_of_cycles": 100,
+  "reactor_type": "4 in. scale traveling-wave-type ALD reactor (Quros Company, plus-100)",
+  "evidence": "Lead oxide thin ﬁlms were grown on sputtered Ir/IrO 2 /SiO2 /Si at a wafer temperature of 200°C using a 4 in. scale traveling-wavetype ALD reactor /H20849Quros Company, plus-100 /H20850with lead bis /H208493-N,N-dimethyl-2-methyl-2-propanoxide/H20850/H20851Pb/H20849DMAMP/H208502/H20852and H 2O as the Pb precursor and oxidant, respectively. The source feeding and purge times were ﬁxed at 5 and 25 s, respectively. The H 2O pulse time and purge time were ﬁxed at 0.5 and 15 s."
+}

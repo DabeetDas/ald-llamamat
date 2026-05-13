@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "700",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "hotwall viscous flow tube reactor",
+  "evidence": "During cycling, the TMA and DI H2O were alternately introduced into the ALD chamber (base pressure /H1101110/H110026 Torr) in pulses of 5 and 1 s, respectively. Corresponding purge times were 20 (TMA) and 60 s (DI H2O). For ZnO deposition, DEZ and DI H2O were likewise injected into the reactor in pulses of 5 and 2 s, respectively, and each purge time was 120 s."
+}

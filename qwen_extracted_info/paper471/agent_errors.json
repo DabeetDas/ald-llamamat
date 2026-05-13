@@ -1,0 +1,4 @@
+{
+  "summary": "ValueError: Could not parse model output as JSON. Preview: '{   \"target_material\": \"Ta2O5\",   \"process_type\": \"Atomic layer deposition (ALD)\",   \"main_precursors\": [\"TaCl5\", \"H2O\"],   \"temperature_range\": \"300-400°C\",   \"summary\": \"The study investigates the influence of atomic layer deposition parameters on the phase content of Ta2O5 films. The films were g'",
+  "target_material": "ValueError: Could not parse model output as JSON. Preview: '{   \"target_material\": {     \"chemical_formula\": \"Ta2O5\",     \"material_name\": \"Tantalum oxide\",     \"material_class\": \"Oxide\"   },   \"evidence\": \"Ta2O5 \"lms were grown in atomic layer deposition (ALD) process on barium borosilicate glass substrates in the temperature range of 300}4003C from TaCl5 a'"
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "travelingwave type ALD reactor (Ever-tek Co, Plus-100)",
+  "evidence": "The Ti precursor (TTIP) and oxygen source (H2O) pulse durations were varied in order to confirm the genuine ALD reaction. TTIP and H2O were vaporized at 62 and 14°C, respectively, and no carrier gas was used to deliver the MO precursor and H2O. The precursor and H2O supplies were controlled by changing the valve opening time. The MO gas line temperature was maintained at 125°C. Ar gas was used as purge gas between each chemical pulse. The Ar gas purge time was also varied and the film thickness variation with the increase in the purge time was monitored. It was found that the film thickness decreases with increasing Ar gas purge time and saturates to a certain value after a saturation purge time of approximately 5 and 15 s for the TTIP and H2O pulses, respectively."
+}

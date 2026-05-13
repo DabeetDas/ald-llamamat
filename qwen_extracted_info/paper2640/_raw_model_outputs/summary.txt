@@ -1,0 +1,8 @@
+{
+  "target_material": "GaN",
+  "process_type": "plasma-assisted atomic layer deposition (PAALD)",
+  "main_precursors": ["triethylgallium", "N2/H2 plasma"],
+  "temperature_range": "200–450 /C14C",
+  "summary": "The study investigates the effect of substrate temperature on the properties of GaN thin films grown by hollow-cathode plasma-assisted atomic layer deposition (HCPA-ALD). The films were deposited at 200 and 450 /C14C, and the results show that increasing temperature improves crystallinity, reduces the optical band gap, and increases surface roughness. The chemical composition, E1(TO) phonon position, and crystalline phases remain relatively independent of growth temperature.",
+  "evidence": "Gallium nitride ﬁlms were grown by hollow cathode plasma-assisted atomic layer deposition using triethylgallium and N2/H2 plasma. ... The refractive index and reﬂectivity in Reststrahlen band increased with the substrate temperature. ... The optical band gap values were found to be 3.55 and 3.50 eV for ﬁlms grown at 200 and 450 /C14C, respectively. ... The position of the E1(TO) phonon mode is independent of the substrate temperature, and the shift of E1(TO) phonon mode toward lower wavenumber was correlated and agrees well with the biaxial compressive strain present in both GaN ﬁlms."
+}<|im_end|>

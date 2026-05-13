@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "TMG (triethylgallium)"
+  ],
+  "coreactants": [
+    "AsH3"
+  ],
+  "purge_gas": [
+    "Hydrogen"
+  ],
+  "carrier_gas": [
+    "Hydrogen"
+  ],
+  "evidence": "The gas source for the group-III element was TMG for GaAs and DMAH for AlAs. The gas source for the group-V element was AsH3. Hydrogen carrier gas was fed continuously into the chamber and the total pressure was 1.2 X 10^3 Pa. The source gases TMG or DMAH and ASH3 were alternately fed into the growth chamber for 1 and 2 s, respectively, with a typical 1 s hydrogen purge time between each gas supply."
+}

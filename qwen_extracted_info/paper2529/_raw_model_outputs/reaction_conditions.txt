@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "-O H* + Zr(OCH3)3 → -O Zr(OCH3)2 + HOC(CH3)3;",
+    "-O Zr(OCH3)2* + H2O → -O Zr(OH)3 + HOC(CH3)3;",
+    "-O H* + Ti(OCH3)2 → -O Ti(OCH3) + HOCH(CH3)2;",
+    "-O Ti(OCH3)* + H2O → -O Ti(OH)3 + HOCH(CH3)2"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves two sequential steps: first, the surface hydroxyl groups react with the precursor molecules, leading to the formation of surface species with a methyl group. Second, a water pulse is used to regenerate the surface hydroxyl groups, completing the surface reaction cycle.",
+  "intermediate_species": [
+    "Zr(OCH3)2*",
+    "Ti(OCH3)*",
+    "HOC(CH3)3",
+    "HOCH(CH3)2"
+  ],
+  "evidence": "The binary reaction sequence for deposition of ZrO2 is as follows: −OH* + Zr(OCH3)3 → −OZr(OCH3)2 + HOC(CH3)3; −OZr(OCH3)2* + H2O → −OZr(OH)3 + HOC(CH3)3. The binary reaction sequence for deposition of TiO2 is as follows: −OH* + Ti(OCH3)2 → −OTi(OCH3) + HOCH(CH3)2; −OTi(OCH3)* + H2O → −OTi(OH)3 + HOCH(CH3)2, where the asterisk indicates the surface species."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Zn(C2H5)2 (diethylzinc)", "H2O", "Al(CH3)3 (trimethylaluminum)", "H2O"],
+  "temperature_range": "180 ◦C for ZnO deposition, 300 ◦C for Al2O3 deposition",
+  "summary": "ZnO thin films were grown on sapphire substrates using atomic layer deposition (ALD), followed by high-temperature postdeposition annealing. A thin Al2O3 layer was deposited by ALD to passivate the ZnO surface, reducing nonradiative recombination. The study demonstrated low-threshold stimulated emission in ZnO films due to the high-quality ZnO and Al2O3 layers, as well as Al doping from the sapphire substrate. The results indicate that ALD-grown ZnO films are suitable for next-generation UV photonic devices.",
+  "evidence": "ZnO thin films were deposited on a (0 0 0 2)-oriented sapphire substrate held at 180 ◦C, with two precursors, Zn(C2H5)2 [diethylzinc, (DEZn)] and H2O... The Al2O3 thin film was utilized to passivate the surface and reduce unwanted nonradiative recombination... The high-quality ZnO film and Al2O3 surface passivation layer grown by ALD, as well as the Al doping effect caused by the thermal diffusion of Al from the sapphire into the ZnO may contribute to this low-threshold stimulated emission."
+}

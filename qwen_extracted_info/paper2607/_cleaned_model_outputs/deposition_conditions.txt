@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-375",
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 25,
+  "number_of_cycles": 300,
+  "reactor_type": "hot wall tube furnace",
+  "evidence": "The precursors used were Zn(TMHD)2 and H2S. ... pulse sequence chosen for other depositions was a 2 s Zn(TMHD)2 pulse, 25 s purge, 5 s H2S pulse, and 25 s purge with a background nitrogen flow rate of 40 sccm."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "AlOH∗ + Al(CH3)3 → AlOAl(CH3)∗2 + CH4",
+    "AlCH∗3 + H2O → AlOH∗ + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "AlOH*",
+    "AlOAl(CH3)*2",
+    "AlCH*3"
+  ],
+  "evidence": "The binary self-limiting chemical reactions between the gas-phase precursor molecules and a solid surface that define the Al2O3 growth are given by AlOH∗ + Al(CH3)3 → AlOAl(CH3)∗2 + CH4 (A) AlCH∗3 + H2O → AlOH∗ + CH4 (B) where the asterisks represent the surface species. Each AB growth cycle consists of sequential exposure to TMA and H2O. When TMA is introduced to the ALD reactor, it starts to react with the hydroxyl (−OH) groups on the substrate surface. When this surface reaction has completed, the remaining reactants and reaction products are purged from the reactor. In the next step, the H2O vapor is introduced to the reactor. H2O reacts with the methyl (−CH3) groups on the surface until all the −OH groups have become regenerated."
+}<|im_end|>

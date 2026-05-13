@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 90,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "350",
+  "number_of_cycles": "80",
+  "reactor_type": "ALD chamber",
+  "evidence": "HfO2 was deposited uniformly onto the sample (including GeNWs, S and D electrodes, and the substrate) by reacting deionized water with tetrakis(diethylamido)hafnium (Hf[NEt2]4) precursor in a layer-by-layer fashion. Nitrogen was used as the carrier gas, and the deposition temperature was 90 °C. Each ALD reaction cycle involved alternating H2O and Hf[NEt2]4 doses, and the purge times were 350 s after the DI H2O dose and 150 s after the Hf[NEt2]4 dose."
+}

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "250-300",
+ "pressure": "",
+ "precursor_pulse_time_s": 0.1,
+ "coreactant_pulse_time_s": 0.2,
+ "purge_time_s": 180,
+ "number_of_cycles": null,
+ "reactor_type": "custom built reactor",
+ "evidence": "The HfO2 ALD process includes two self-limiting chemical reactions, repeated in alternating ABAB sequences... The exposure times for Hf fNsCH3d2g4 and water vapor were 0.1 and 0.2 s, respectively, followed by a 3 min nitrogen purge after each precursor was introduced into the chamber."
+}<|im_end|>

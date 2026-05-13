@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of molybdenum hexacarbonyl (Mo(CO)6) and ammonia (NH3) on the surface of the nitrogen-carbon powder coated carbon cloth (NCCC) substrate. The Mo(CO)6 reacts with surface hydroxyl groups to form surface-bound molybdenum species, while NH3 reacts with surface oxides to form surface-bound nitrogen species. The surface-bound molybdenum and nitrogen species then combine to form MoNx, with the release of CO and H2O as byproducts.",
+  "intermediate_species": [
+    "surface-bound molybdenum species",
+    "surface-bound nitrogen species",
+    "surface hydroxyl groups"
+  ],
+  "evidence": "The surface reaction mechanism is described as follows: 'The self-limiting growth kinetics, the linearity of growth with ALD cycles and the temperature window for ALD-MoNx using Mo(CO)6 and NH3 has been established previously from our group. And the results indicated that the ideal ALD condition occurs only in a very narrow temperature range of 200–215 °C on a SiO2/Si substrate.'"
+}

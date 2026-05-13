@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "tetrakis(dimethylamido)hafnium",
+    "deionized water"
+  ],
+  "temperature_range": "not explicitly stated",
+  "summary": "The study introduces a chemically selective process for area-selective atomic layer deposition (ALD) of HfO2 on patterned substrates. By using self-assembled monolayers (SAMs) to deactivate oxide regions, HfO2 is selectively deposited on hydride-terminated silicon regions. The process involves three key steps: patterning the silicon substrate, forming SAMs on oxide regions, and performing ALD on the hydride-terminated areas. The results show high selectivity and spatial resolution, with HfO2 growth only on the hydride-terminated regions.",
+  "evidence": "The study introduces a chemically selective process to achieve high-resolution area-selective atomic layer deposition (ALD) of HfO2. By utilizing the intrinsically selective absorption behavior of self-assembled monolayers (SAMs) on different surfaces, SAMs are used to deactivate the oxide regions on a patterned silicon substrate while leaving areas of hydride-terminated silicon intact. Subsequently, a HfO2 thin film is selectively deposited onto the hydride-terminated silicon regions by ALD. The result by several analytical methods indicates that the process presented here has excellent area selectivity and forms HfO2 patterns with high spatial resolution."
+}

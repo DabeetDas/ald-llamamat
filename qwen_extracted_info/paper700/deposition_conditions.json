@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.5",
+  "coreactant_pulse_time_s": "2",
+  "purge_time_s": "35",
+  "number_of_cycles": "44",
+  "reactor_type": "",
+  "evidence": "The processing times for water vapor and Hf[N(C 2H5)CH3]4 were 0.5 and 2 s, respectively. A 35-s N 2 purge was performed after the introduction of each precursor."
+}

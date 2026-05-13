@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 177,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall",
+  "evidence": "The ZnO/Al2O3 nanolaminate films were deposited on n-doped Si(100) substrates. The ZnO films were deposited using alternating exposures to Zn(C2H5)2 and H2O, while the Al2O3 films used alternating Al(CH3)3 and H2O exposures. The typical deposition temperature was 177 °C. Exposure times of 1- and 5-s purge times yielded an ALD cycle time of 12 s/cycle. These exposure and purge times were chosen conservatively to ensure saturation of the ALD surface reactions while preventing inadvertent mixing of the reactive gases."
+}<|im_end|>

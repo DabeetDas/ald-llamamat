@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the use of Cp2Zr(CH3)2 as a zirconium source and water or ozone as an oxygen source. The growth process is inhibited on HF-etched Si due to the lack of reactive surface sites on H-terminated Si, leading to island-like nucleation. Ozone forms an ultrathin SiOx layer on silicon during the initial ALD cycles, providing a suitable surface for ZrO2 growth.",
+  "intermediate_species": ["SiOx", "ZrO2"],
+  "evidence": "The text states that ozone forms an ultrathin SiOx layer on silicon during the initial ALD cycles, providing a suitable surface for ZrO2 growth. It also mentions that the interfacial layer formation increased the capacitance equivalent oxide thickness (CET) and that the interfacial layer is a mixture of ZrO2 and SiO2."
+}

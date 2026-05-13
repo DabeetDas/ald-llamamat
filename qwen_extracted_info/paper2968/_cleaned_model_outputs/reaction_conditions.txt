@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "A two-step mechanism for the ALD reaction of hafnium alkylamide (HfAA) and H2O is proposed: HfAA first reacts with a hydroxylated surface to eliminate two alkylamine ligands; then H2O reacts with chemisorbed HfAA to remove the other two alkylamine ligands and regenerates a new hydroxylated surface. The Hf-N bonds in the HfAA molecule are selectively cleaved by H2O molecules. The by-product of this reaction is ethylmethyl amine (HNEtMe).",
+  "intermediate_species": ["alkylamine ligands", "HNEtMe radicals", "surface hydroxyls", "Hf-O*"],
+  "evidence": "A possible mechanism of TEMAH 1 O3 ALD reaction.—A two-step mechanism for the ALD reaction 6 of hafnium alkylamide (HfAA) and H2O is as follows: HfAA first reacts with a hydroxylated surface to eliminate two alkylamine ligands; then H2O reacts with chemisorbed HfAA to remove the other two alkylamine ligands and regenerates a new hydroxylated surface (Fig. 14). The Hf-N bonds in the HfAA molecule are selectively cleaved by H2O molecules. The by-product of this reaction is ethylmethyl amine (HNEtMe). Based on this mechanism, the impurity of the film should mostly be due to the unremoved NEtMe ligands or by-product HNEtMe molecules that were trapped in the film."
+}

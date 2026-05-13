@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnS and Cu xS",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["bis(2,2,6,6-tetramethyl-3,5-heptanedionato)zinc (Zn(TMHD)2)", "bis(2,2,6,6-tetramethyl-3,5-heptanedionato)copper (Cu(TMHD)2)", "H2S generated in situ"],
+  "temperature_range": "200 /C14 C",
+  "summary": "The study investigates the structure of multilayer films of zinc sulfide (ZnS) and copper sulfide (Cu xS) using atomic layer deposition (ALD). The process involves the use of Zn(TMHD)2, Cu(TMHD)2, and in situ generated H2S as precursors. The films are deposited at 200 /C14 C, and the structure of the films is influenced by the crystal structure mismatch between ZnS and Cu xS. The results show that the structure of the films is dominated by Cu xS when the layers are thin, while the structure is determined by the first deposited material in thicker films. The study also examines the effect of initial layer growth on the nanolaminate structure and the stabilization of film growth through increased layer thicknesses.",
+  "evidence": "Multilayer ﬁlm stacks of ZnS and Cu xS were made via atomic layer deposition. The precursors were bis(2,2,6,6-tetramethyl-3,5-heptanedionato)zinc, bis(2,2,6,6-tetramethyl-3,5-heptanedionato)copper, and H2S generated in situ for sulfur. Samples were deposited at 200 /C14 C, in layers ranging from approximately 2 to 20 nm thick, based on binary growth rates. The results demonstrate that the structure of films with the thinnest layers is dominated by Cu xS, whereas in the thicker films, the structure is determined by whichever material is first deposited."
+}<|im_end|>

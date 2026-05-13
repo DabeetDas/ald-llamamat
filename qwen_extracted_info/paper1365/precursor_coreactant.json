@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "diethylzinc (DEZ)",
+    "titanium (IV) i-propoxide (TTIP)",
+    "water"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "TZO thin films were prepared in a BENEQ TFS-200 ALD reactor. Diethylzinc (Zn(C2H5)2, DEZ, EpiPure, SAFC), titanium (IV) i-propoxide (Ti(OiPr)4, TTIP, min. 98%, STREM) and deionized water were used as Zn, Ti, and O sources, respectively. Nitrogen (N2, 99.9999%, Air Liquide) was used as both carrier and purging gas."
+}

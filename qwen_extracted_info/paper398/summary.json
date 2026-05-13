@@ -1,0 +1,11 @@
+{
+  "target_material": "GaP",
+  "process_type": "Laser-assisted atomic layer epitaxy (ALE) in chemical beam epitaxy (CBE)",
+  "main_precursors": [
+    "Triethylgallium (TEGa)",
+    "PH3"
+  ],
+  "temperature_range": "290-500 °C",
+  "summary": "The study describes a laser-assisted atomic layer epitaxy (ALE) process for growing GaP using triethylgallium (TEGa) and PH3 in chemical beam epitaxy (CBE). The process utilizes ultraviolet (UV) light from an N2 laser to enhance the growth rate, allowing monolayer growth without alternating gas supply. The growth rate is influenced by photon number, laser repetition rate, and TEGa flow rate, with optimal conditions achieving a growth rate of up to 0.81 µm/h.",
+  "evidence": "The growth rate of GaP was enhanced by ultraviolet light emitted from an N2 laser. The growth rate increased with photon number and saturated above ~10^17 photons cm^-2 pulse. Under enough light intensity (2.7 x 10^17 photons cm^-2 pulse), the growth rate was kept constant in a certain range of TEGa flow rate by N2 laser irradiation. This result opens monolayer growth by UV-irradiation under a simultaneous supply of source gases."
+}

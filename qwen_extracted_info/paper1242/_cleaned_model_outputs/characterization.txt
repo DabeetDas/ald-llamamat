@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Auger Electron Spectroscopy (AES)",
+    "Fourier Transform Infrared Spectroscopy (FT-IR)",
+    "Spectroscopic Ellipsometry",
+    "X-ray Reflectivity (XRR)",
+    "Atomic Force Microscopy (AFM)",
+    "Density Functional Theory (DFT) calculations",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Capacitance-Voltage (C-V) measurement",
+    "Leakage Current Density-Voltage (J-V) measurement"
+  ],
+  "evidence": "The film thickness was measured using a spectroscopic ellipsometer... The surface morphology of the films was studied via atomic force microscopy... The elemental composition of the films was acquired by Auger electron spectroscopy... The chemical binding state as well as the chemical composition of the films were evaluated by X-ray photoelectron spectroscopy... The chemical bonding features of the SiO2 films were further characterized by Fourier transform-infrared (FT-IR) spectrophotometry... Density functional theory (DFT) calculations were carried out... The dielectric properties of the SiO2 films were evaluated using metal-oxide-silicon (MOS) capacitors... The capacitance-voltage (C-V) and leakage current density-voltage (J-V) characteristics of MOS devices were examined..."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves a series of surface-limiting chemical reactions where a metal precursor chemisorbs on the surface followed by a second step where an oxidizing or hydrolytic source precursor reacts with the chemisorbed metal species on the surface to form the metal oxide film.",
+  "intermediate_species": ["Al-OH*", "Hf-OH*", "Al(CH3)3", "TMA"],
+  "evidence": "The ALD process utilizes a series of surface-limiting chemical reactions that makes it ideal for excellent control of film composition and structure. Further, by eliminating gas phase reactions, it also provides excellent uniformity and conformality. For metal oxide film deposition, the first step involves a metal precursor chemisorbing on the surface followed by a second step where an oxidizing or hydrolytic source precursor reacts with the chemisorbed metal species on the surface to form the metal oxide film."
+}<|im_end|>

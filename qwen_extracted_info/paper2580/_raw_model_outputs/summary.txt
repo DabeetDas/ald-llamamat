@@ -1,0 +1,8 @@
+{
+  "target_material": "Ti xAl1−xOy",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Al(CH3)3", "H2O", "Ti(OC2H5)4", "H2O"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the structural and electrical properties of Ti xAl1−xOy thin films grown by atomic layer deposition (ALD). The films are grown using alternating Al(CH3)3-H2O and Ti(OC2H5)4-H2O reaction cycles at 300 °C. The films are amorphous and exhibit a wide range of Ti/Al ratios. Rapid thermal processing (RTP) at 700 °C induces crystallization in films with specific stoichiometry. The permittivity varies between 12–30 depending on the Ti/Al ratio, and the leakage current decreases significantly after annealing due to the formation of an interfacial SiOx layer.",
+  "evidence": "Ternary oxide Ti xAl1−xOy thin films with a wide Ti/Al ratio have been grown by atomic layer deposition technique. ... The permittivity varies in the range ε=12–30 depending on Ti/Al ratio in the film. ... Rapid thermal processing (RTP) at 700 °C for 60 s or to vacuum annealing at T=500 °C during 3 min to investigate the effect of annealing on their chemical composition, structural, and electrical properties."
+}<|im_end|>

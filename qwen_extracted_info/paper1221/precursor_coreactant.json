@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "tris(dimethylamido)aluminum (TDMASAl)",
+    "H2S"
+  ],
+  "coreactants": [
+    "H2S"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The ALD AlSx was performed using alternating exposures to TDMASAl (Sigma-Aldrich, USA) and Ar-balanced 1% H2S (Matheson Tri-Gas, USA) with Ar purge periods between each exposure. The Al(NMe2)3 was heated to 80 oC in a stainless steel reservoir, and 50 sccm UHP Ar was diverted through this reservoir during the Al(NMe2)3 exposures. The 1% H2S was stored in a pressure-regulated lecture bottle. A series of needle valves was used to deliver 1% H2S pressure pulses of 0.2 Torr during the H2S exposures."
+}

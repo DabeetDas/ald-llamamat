@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethylaluminum (TMA, Al(CH3)3)"],
+  "coreactants": ["O2 plasma", "H2O"],
+  "purge_gas": ["O2"],
+  "carrier_gas": [],
+  "evidence": "For the plasma process, the oxidation step took place via a 400 W O2 plasma at a pressure of 15 mTorr and ignited for a duration of typically 2 s. O2 also served as a purge gas because O2 does not react with Al(CH3)3;18 the O2 flow was kept constant at 60 sccm during the entire cycle."
+}<|im_end|>

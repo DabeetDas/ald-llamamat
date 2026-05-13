@@ -1,0 +1,8 @@
+{
+  "target_material": "La2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tris(iso-propylcyclopentadienyl) lanthanum (La(iPrCp)3)", "H2O"],
+  "temperature_range": "150 /C14 C–175 /C14 C",
+  "summary": "The study investigates the optimal growth conditions for atomic layer deposition (ALD) of La2O3 using tris(iso-propylcyclopentadienyl) lanthanum (La(iPrCp)3) and H2O. It identifies two necessary conditions for self-limiting growth: a low growth temperature (150 /C14 C–175 /C14 C) and an extremely long purging after the H2O feed. The study also examines the effects of H2-plasma treatment and MgO capping on the electrical properties of La2O3 gate insulators.",
+  "evidence": "The authors investigated the optimal growth conditions for atomic layer deposition of La2O3 using tris(iso-propylcyclopentadienyl) lanthanum, La(iPrCp)3, and H2O, and identified two necessary conditions for achieving self-limiting growth: A low growth temperature (Ts) of 150 /C14 C–175 /C14 C and an extremely long purging after the H2O feed."
+}<|im_end|>

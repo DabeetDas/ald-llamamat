@@ -1,0 +1,11 @@
+{
+  "target_material": "Ruthenium (Ru) metal",
+  "process_type": "Self-catalyzed ALD",
+  "main_precursors": [
+    "Ru(DMBD)(CO)3",
+    "H2O"
+  ],
+  "temperature_range": "160 oC – 210 oC",
+  "summary": "Ruthenium metal films are deposited using self-catalyzed atomic layer deposition (ALD) with zero-valent Ru(DMBD)(CO)3 and H2O as precursors. The process operates at a low temperature range of 160 oC to 210 oC, achieving a deposition rate of 0.1 nm/cycle. The self-catalyzed mechanism involves a water-gas-shift reaction (WGSR) facilitated by the Ru center, leading to the formation of CO2 and H2. The study reports a room temperature electrical resistivity of 39 µΩ·cm for 10 nm Ru films and highlights the advantages of this low-temperature ALD process for applications requiring minimal thermal budget.",
+  "evidence": "Ruthenium (Ru) films are deposited using atomic layer deposition (ALD), promoted by a self-catalytic reaction mechanism. Using zero-valent, η4-2,3-dimethylbutadiene Ruthenium tricarbonyl (Ru(DMBD)(CO)3) and H2O, Ru films are deposited at the rate of 0.1 nm/cycle. The temperature for steady deposition lies between 160 oC and 210 oC. The room temperature electrical resistivity of 10 nm Ru films is found to be 39 µΩ·cm. The self-catalyzed reactions provide a pathway for low temperature ALD with milder co-reactants."
+}

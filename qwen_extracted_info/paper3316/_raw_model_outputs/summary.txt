@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "ALD",
+  "main_precursors": ["MoCl5", "H2S"],
+  "temperature_range": "250–300 ◦C",
+  "summary": "The study describes the atomic layer deposition (ALD) of mixed-phase (1T and 2H) MoS2 on silicon (Si) for use as a photocathode in photoelectrochemical (PEC) water splitting. The ALD process uses MoCl5 and H2S as precursors at low temperatures (250–300 ◦C). The mixed-phase MoS2 layers passivate surface states and function as a monolithic structure for effective charge transport. The resulting photocathode showed efficient and stable operation with a photovoltage enhancement of 670 mV and a long-term operation of ~70 h in an acidic solution.",
+  "evidence": "We describe the direct formation of mixed-phase (1T and 2H) MoS2 layers on Si as a photocathode via atomic layer deposition (ALD) for application in the photoelectrochemical (PEC) reduction of water to hydrogen. [...] The ALD-grown MoS2 overlayer with the mixed-phase 1T and 2H homojunction passivates light absorber and surface states and functions as a monolithic structure for effective charge transport within MoS2. [...] A long-term operation of ~70 h was also demonstrated in a 0.5 M H2SO4 solution."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Cd xZn1/C0 xO",
+  "process_type": "ALD",
+  "main_precursors": ["diethylzinc (DEZn)", "dimethylcadmium (DMCd)", "water"],
+  "temperature_range": "150 /C14 C",
+  "summary": "The study demonstrates the atomic layer deposition (ALD) of Cd xZn1/C0 xO films at 150 /C14 C using diethylzinc (DEZn), dimethylcadmium (DMCd), and water as precursors. The films exhibit a hexagonal crystal structure for compositions ranging from pure CdO to pure ZnO, with a bandgap bowing effect due to valence band offset and lattice mismatch. The ALD process allows for tuning of optical properties and crystal structure, making these films suitable for transparent conducting oxides in electronics and photovoltaics.",
+  "evidence": "Growth of Cd xZn1/C0 xO by atomic layer deposition (ALD) is demonstrated at 150 /C14 C using diethylzinc (DEZn), dimethylcadmium (DMCd), and water as the precursors. The crystal structure of CdO is rock salt cubic and that of ZnO is hexagonal, and the alloy from ZnO to at least Cd 0.56Zn0.44O has a hexagonal crystal structure. The fraction of total peak intensity for each crystal phase and orientation of the various alloys is listed in the table. The diffraction patterns for the films ranging from Cd 0.56Zn0.44O to ZnO are provided in Fig. 4. The optical constants (the refractive index n and extinction coefficient k) are obtained from spectroscopic ellipsometry as described in Experimental details and are shown in Fig. 8 for the different Cd xZn1/C0 xO compositions. The bandgap bowing parameter is found to be 2.0 eV."
+}<|im_end|>

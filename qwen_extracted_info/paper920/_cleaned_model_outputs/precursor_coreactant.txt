@@ -1,0 +1,7 @@
+{
+  "precursors": ["TaCl5", "SiCl4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["Si"],
+  "evidence": "TaCl5 and SiCl4 were used as precursors in combination with H2O as oxidizer. An individual TaCl5/H2O cycle consisted of a TaCl5 pulse, a N2 purge, an H2O pulse, and finally again a N2 purge. ALD was carried out using 300 mm Si carrier wafers."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Radial electron collection through amorphous TiO2 (to surrounding ITO) competes effectively with electron interception, even deep within the photoelectrode. In contrast, longitudinal electron diffusion through amorphous TiO2 (to a distant planar ITO layer) does not.",
+  "intermediate_species": ["amorphous TiO2"],
+  "evidence": "The useful photoanode thickness is greater for the DSSCs with ITO in the pores. The substantially larger JSC and broadened photoresponse spectra of i-ITO DSSCs indicate that electrons are being collected over a much longer distance than in the control DSSCs. That is, radial electron collection through amorphous TiO2 (to surrounding ITO) competes effectively with electron interception, even deep within the photoelectrode. In contrast, longitudinal electron diffusion through amorphous TiO2 (to a distant planar ITO layer) does not."
+}<|im_end|>

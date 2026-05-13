@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "",
+  "intermediate_species": [],
+  "evidence": null,
+  "_error": "ValueError: Could not parse model output as JSON. Preview: '[],   \"surface_mechanism_description\": \"ALD was performed using alternating surface saturation reactions of Al(CH3)3 (TMA) and H2O at 300 8C for Al2O3 layers, and alternating pulses of HfCl4 and H2O for HfO2 layers.\",   \"intermediate_species\": [\"Al(CH3)3\", \"H2O\", \"surface hydroxyls\"]'",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 328, in reaction_conditions_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '[],   \"surface_mechanism_description\": \"ALD was performed using alternating surface saturation reactions of Al(CH3)3 (TMA) and H2O at 300 8C for Al2O3 layers, and alternating pulses of HfCl4 and H2O for HfO2 layers.\",   \"intermediate_species\": [\"Al(CH3)3\", \"H2O\", \"surface hydroxyls\"]'\n"
+}

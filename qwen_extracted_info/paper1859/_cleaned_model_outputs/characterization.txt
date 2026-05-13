@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "spectroscopic ellipsometry (SE)",
+    "scanning electron microscope (SEM)",
+    "transmission electron microscopy (TEM)",
+    "Auger electron spectroscopy (AES)",
+    "atomic force microscopy (AFM)",
+    "X-ray diffraction (XRD)",
+    "focused ion beam transmission electron microscopy (FIB-TEM)"
+  ],
+  "evidence": "The surface roughness of the films was observed using atomic force microscopy (AFM, Bruker, Dimension ICON). The analysis of the growth characteristics was performed via experiments using a 300-nm-thick SiO2/Si wafer as a substrate. The film thicknesses were measured by spectroscopic ellipsometry (SE, Elli-SE-F, Ellipso Technology) using a correlation model validated by a scanning electron microscope (SEM, Hitachi, su-9000) and transmission electron microscopy (TEM, JEOL, JEM F-200). Auger electron spectroscopy (AES, ULVAC, PHI-710) depth profile analysis was used to identify the quantitative composition ratio of Ge, S, and the impurity levels of the films. In situ high temperature X-ray diffraction (XRD, Rigaku, SmartLab) equipment was used to confirm the amorphous state of the as-deposited films up to the temperature of 600 1C. The conformality of the ALD GeS2 thin films was verified by focused ion beam transmission electron microscopy (FIB-TEM, JEOL, JEM F-200) using a laterally recessed silicon oxide vertical 3D structure."
+}

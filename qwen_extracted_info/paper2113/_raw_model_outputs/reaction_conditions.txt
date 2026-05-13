@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the formation of a SiN interfacial barrier layer during the ALD of HfO2 films using a nitrogen-incorporated Hf(NCH3)24 precursor and O3 as an oxidant. This layer suppresses interfacial reactions between the HfO2 film and the Si substrate. However, during post-deposition annealing (PDA), the interfacial reaction becomes significant due to the diffusion of Si atoms through the SiN layer, forming Hf silicate and SiO2. The excess oxygen in the HfO2 film reacts with the Si substrate during PDA, leading to increased interfacial trap density (Dit) and degradation of the interface properties.",
+  "intermediate_species": ["Hf silicate", "SiO2", "Si suboxides", "Si* (SiN layer)"],
+  "evidence": "The text discusses the formation of a SiN interfacial barrier layer during ALD of HfO2 films using a nitrogen-incorporated Hf(NCH3)24 precursor and O3 as an oxidant. It also describes the interfacial reactions during PDA, where Si atoms diffuse through the SiN layer, forming Hf silicate and SiO2. The excess oxygen in the HfO2 film reacts with the Si substrate during PDA, leading to increased interfacial trap density (Dit) and degradation of the interface properties."
+}<|im_end|>

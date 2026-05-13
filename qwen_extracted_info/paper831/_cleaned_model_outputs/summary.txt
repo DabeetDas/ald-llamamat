@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "ALD",
+  "main_precursors": ["DEZn", "N2O"],
+  "temperature_range": "600 1C",
+  "summary": "ZnO films were grown on (0 0 0 1) sapphire substrates by ALD using DEZn and N2O as precursors. The study focused on optimizing the growth conditions, including the use of low-temperature ZnO buffer layers and post-annealing, to improve the optical properties of the ZnO films.",
+  "evidence": "Zinc oxide (ZnO) films were grown at 600 1C on (0 0 0 1) sapphire substrates by atomic layer deposition (ALD) using diethylzinc (DEZn) and nitrous oxide (N2O) as source precursors. In some cases, low-temperature (LT) ZnO buffer layers were employed along with post-annealing or buffer-layer annealing for the optimization of ZnO growth."
+}

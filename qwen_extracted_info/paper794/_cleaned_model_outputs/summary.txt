@@ -1,0 +1,8 @@
+{
+  "target_material": "WS2",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["tungsten hexacarbonyl [W(CO)6]", "H2S plasma"],
+  "temperature_range": "350 /C14 C",
+  "summary": "The study investigates the use of plasma-enhanced atomic layer deposition (PEALD) to grow WS2 thin films as anodes for Na-ion batteries. The films are deposited using tungsten hexacarbonyl [W(CO)6] and H2S plasma. The thickness of the films is varied by changing the number of ALD cycles, and their electrochemical performance is evaluated. The results show that the optimal number of ALD cycles for maximum areal capacity and capacity retention is 400 cycles. The study also highlights the importance of the film's thickness and structure on the electrochemical performance of the anode.",
+  "evidence": "To study this, plasma-enhanced atomic layer deposition (PEALD) is employed to grow WS2 using tungsten hexacarbonyl [W(CO)6] and H2S plasma as a precursor and reactant, respectively. The thin films of WS2 deposited directly on stainless steel coin with varying ALD cycles (200 e600) are then tested as anode in NIBs without any binder or conducting carbon. The highest areal capacity of ~58.8 mAh/cm2 at a current density of 50 mA/cm2, after 50 charge-discharge cycles, is achieved with 400 ALD cycles, the highest capacity retention (~72.5%) is observed for the film deposited with minimum (200) ALD cycles under same conditions."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Iridium (Ir)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["(ethylcyclopentadienyl)(1,5-cyclooctadiene) iridium (Ir(EtCp)(COD))", "ammonia (NH3) plasma"],
+  "temperature_range": "270 °C (deposition temperature), 850 °C (annealing temperature)",
+  "summary": "The study describes the use of plasma-enhanced atomic layer deposition (PEALD) to deposit iridium thin films using Ir(EtCp)(COD) and NH3 plasma. The films showed smooth surfaces and (111) preferred orientation due to the high energy of NH3 plasma. A 2-step annealing process in ambient argon and oxygen was used to maintain morphological stability at high temperatures, preventing surface roughening and oxidation of iridium.",
+  "evidence": "Plasma-enhanced atomic layer deposition of iridium thin film was investigated using (ethylcyclopentadienyl)(1,5-cyclooctadiene) iridium and ammonia plasma. The deposited Ir thin films had smooth surface and (111) preferred orientation due to atomic rearrangement by high energy of ammonia plasma. As a capacitor electrode material in dynamic random access memory applications, Ir thin films showed excellent thermal and morphological stability in ambient oxygen at 850 °C by adopting 2-step annealing process, which is consisted of the temperature rising step in ambient argon and the temperature maintenance step in ambient oxygen."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Molybdenum disulﬁde (MoS2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["molybdenum hexacarbonyl (Mo(CO)6)", "oxygen plasma"],
+  "temperature_range": "150 °C",
+  "summary": "The study demonstrates the application of atomic layer deposition (ALD) to create molybdenum disulﬁde (MoS2) catalytic coatings on copper gallium diselenide (CGSe) thin ﬁlm absorbers for solar hydrogen production. The MoS2/TiO2/CdS/CGSe photocathode exhibits a photocurrent onset of +0.53 V vs RHE and a saturation photocurrent density of −10 mA cm−2, with stable operation for >5 h in acidic electrolyte. Spectroscopic investigations indicate that overlayer degradation occurs inhomogeneously, ultimately exposing the underlying CGSe absorber.",
+  "evidence": "We demonstrate that applying atomic layer deposition-derived molybdenum disul ﬁde (MoS 2) catalytic coatings on copper gallium diselenide (CGSe) thin ﬁlm absorbers can lead to e ﬃ cient wide band gap photocathodes for photoelectrochemical hydrogen production. The resulting MoS 2/TiO2/CdS/CGSe photocathode exhibits a photocurrent onset of +0.53 V vs RHE and a saturation photocurrent density of −10 mA cm −2, with stable operation for >5 h in acidic electrolyte. Spectroscopic investigations of this device architecture indicate that overlayer degradation occurs inhomogeneously, ultimately exposing the underlying CGSe absorber."
+}<|im_end|>

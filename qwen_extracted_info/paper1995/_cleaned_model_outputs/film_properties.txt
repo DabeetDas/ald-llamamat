@@ -1,0 +1,8 @@
+{
+ "film_thickness_nm": 10,
+ "density_g_cm3": 2.6,
+ "refractive_index": null,
+ "surface_roughness_nm": 0.049,
+ "crystal_phase": "amorphous",
+ "evidence": "The SiN thickness deposited by ALD is shown in Fig. 2 as a function of deposition cycle. The growth rate is constant at 0.091 nm/cycle, independent on NH3 plasma power, SiH2Cl2 exposure time, substrate temperature, and orientation of Si substrate. Here, the thickness above 10 nm was measured by ellipsometry, and the thickness below 10 nm was measured by x-ray photoelectron spectroscopy (XPS) using SCIENTA ESCA-300 taking into account lSi 2p (SiN) 53.54 nm (Al Ka:1486.6 eV), 7 where lSi 2p (SiN) is the mean free path of the photoelectrons of Si 2p in the SiN film. The averaged surface roughness, Ra, measured along the steps is 0.056 nm for the hydrogen terminated Si surface. However, the Ra of the remote-plasma CVD film is 0.058 nm, which is almost the same as that of hydrogen terminated Si surface. On the other hand, the Ra of the ALD film is 0.049 nm, which is better than that of hydrogen terminated Si surface. The thickness dependence of Ra for the SiN films deposited by ALD on p-Si (100) was also measured. For the SiN thickness range from 0 to 13 nm, the Ra is constant at 0.13 ± 0.01 nm, which means that the atomic roughness of the hydrogen terminated p-Si (100) surface is preserved after ALD deposition of SiN film."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "400°C",
+  "summary": "The study investigates the growth of TiO2 films using atomic layer deposition (ALD) with TiCl4 and H2O as precursors. It demonstrates that varying water vapor pressure during the water pulse influences the structure of the resulting films, allowing the formation of pure rutile, pure TiO2-II, or a mixture of both. The process occurs at a constant temperature of 400°C, and the structure transformation is linked to the influence of water vapor pressure on surface reactions and oxygen binding.",
+  "evidence": "Atomic layer growth of TiO2 films from TiCl4 and H2O was examined. It was established that polycrystalline films of pure rutile, pure TiO2-II, or a mixture of them could be obtained at the same growth temperature (400°C) and at the same TiCl4 vapor pressure (0.34 Pa) applying different water vapor pressures during the water pulse."
+}

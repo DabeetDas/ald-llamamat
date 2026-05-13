@@ -1,0 +1,7 @@
+{
+  "precursors": ["zirconium tetra-tert-butoxide", "H2O", "Ti-iso-propoxide", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The precursors were zirconium tetra-tert-butoxide (Zr(OCH3)3)4 and H2O for the ZrO2 films and Ti-iso-propoxide Ti(OCH3)2)4 and H2O for the TiO2 films, respectively."
+}

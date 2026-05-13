@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Tetrakis(dimethylamino)hafnium (TDMAH)"
+  ],
+  "coreactants": [
+    "oxygen/nitrogen mixture plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Tetrakis(dimethylamino)hafnium (TDMAH) was used as a Hf precursor. The TDMAH was contained in a bubbler, and its temperature was kept at room temperature. The flows of reactant gases (oxygen and nitrogen) and purging gas (Ar) were controlled by mass flow controller (MFC)."
+}

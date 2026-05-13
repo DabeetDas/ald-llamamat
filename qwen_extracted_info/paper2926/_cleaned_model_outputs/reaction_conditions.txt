@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "Ni(cp)2 + H2O -> NiO + 2 CpH"
+  ],
+  "surface_mechanism_description": "The nickel precursor reacts with water vapor, leaving high levels of carbon and oxygen impurities in the grown film, while in the reducing step, the hydrogen radical removes most of these impurities from the film and leaves polycrystalline metallic nickel.",
+  "intermediate_species": [
+    "NiO",
+    "CpH"
+  ],
+  "evidence": "In the oxidizing step, the nickel precursor reacts with water vapor, leaving high levels of carbon and oxygen impurities in the grown film, while in the reducing step, the hydrogen radical removes most of these impurities from the film and leaves polycrystalline metallic nickel."
+}

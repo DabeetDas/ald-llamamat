@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The ALD of NiS was performed at 200 °C, using bis(N,N′-di-tert-butylacetamidinato)nickel(II) (Ni(amd) 2) and H2S as the nickel precursor and sulfur source, respectively. Ni(amd) 2 was kept at 70 °C during deposition to afford a saturated vapor pressure of ~140 mTorr. Each ALD cycle consisted of one Ni(amd) 2 dose and one H 2S dose. The Ni(amd) 2 dose consisted of 5 pulses of the Ni(amd)2 vapor, which corresponded to a total exposure of 0.1 Torr s for Ni(amd)2. As for H 2S, we used diluted H 2S gas (3% in Ar), and it was first delivered into a ~8 mL gas trap and then pulsed into the ALD chamber for the NiS deposition. The H 2S dose consisted of 3 pulses of the diluted H2S gas, which corresponded to a total exposure of 0.3 Torr s for H 2S."
+}<|im_end|>

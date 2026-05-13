@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 245,
+  "pressure": "50–60 Pa",
+  "precursor_pulse_time_s": 8,
+  "coreactant_pulse_time_s": 1.4,
+  "purge_time_s": 10,
+  "number_of_cycles": 100,
+  "reactor_type": "MNT f-150-212",
+  "evidence": "The working pressure was maintained at 50–60 Pa under a flow of nitrogen (99.999 %), and nitrogen was also used as the carrier and purge gas. The substrate temperatures was 245 ° C. A complete ALD cycle included alternate pulses of Ni(acac)(TMEDA) and O3, separated by purges. The pulse time ranging from 0.5 to 8 s and 0.5 to 1.4 s respectively were applied, and the purge time was fixed at 10 s."
+}

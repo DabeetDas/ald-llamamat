@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500-650",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "hybrid furnace",
+  "evidence": "When solid arsenic (As4) was used as the arsenic source, the growth of GaAs and AlAs was obtained at substrate temperatures of 500_6500 C and above 6500 C, respectively."
+}

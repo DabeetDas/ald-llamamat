@@ -1,0 +1,8 @@
+{
+  "target_material": "cubic-TaN",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["TaCl5", "hydrogen/nitrogen plasma"],
+  "temperature_range": "100–400 °C",
+  "summary": "The study describes the growth of low-resistivity cubic-TaN thin films using plasma-enhanced atomic layer deposition (PEALD) with TaCl5 as the metal precursor and hydrogen/nitrogen plasma as the reagent. The films were grown at low temperatures, and the N/Ta ratio was controlled by adjusting nitrogen partial pressure. The films showed good conformality and low resistivity, with resistivity as low as 350 mV cm at 300 °C.",
+  "evidence": "Low resistivity cubic-TaN thin films were grown by plasma-enhanced-atomic layer deposition using TaCl5 as the metal precursor and hydrogen/nitrogen plasma. The resistivity and growth rate increase with increasing N concentration in the film. The lowest resistivity film below 400 mV cm were obtained above Ts5300 °C."
+}<|im_end|>

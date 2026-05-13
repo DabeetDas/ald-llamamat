@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.4,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 200,
+  "reactor_type": "Beneq TFS-500",
+  "evidence": "The TMA container temperature was kept at 20 ◦C and the pulse time was 0.4 s. The number of ALD cycles is 200."
+}

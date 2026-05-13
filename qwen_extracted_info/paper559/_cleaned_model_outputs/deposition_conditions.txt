@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 500,
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 0.2,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The films were grown on 5 × 5 cm 2 soda lime glass substrates at 500 °C using 0.2 and 0.5 s reactant and purging sequences respectively."
+}

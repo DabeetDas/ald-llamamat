@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 160,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 2000,
+  "reactor_type": "F-120",
+  "evidence": "A growth temperature of 160 °C was chosen, since this represents the upper limit of the Cu ALD process (31)."
+}

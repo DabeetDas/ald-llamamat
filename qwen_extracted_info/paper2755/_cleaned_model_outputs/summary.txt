@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2-Fe2O3 mixture films and nanolaminates",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["iron trichloride", "hexakis(ethylamino)disilane", "ozone"],
+  "temperature_range": "300 °C",
+  "summary": "The study describes the growth of SiO2-Fe2O3 mixture films and nanolaminates using atomic layer deposition (ALD) with iron trichloride, hexakis(ethylamino)disilane, and ozone as precursors at 300 °C. The films exhibit magnetic properties and resistive switching behavior, with the presence of orthorhombic ε-Fe2O3 identified in certain layers. The resistive switching is influenced by the ratio of the component oxides, and the films show distinct low and high conductance states.",
+  "evidence": "SiO2-Fe2O3 mixture films and nanolaminates were grown by atomic layer deposition from iron trichloride, hexakis(ethylamino)disilane, and ozone at 300 °C. Orthorhombic ε-Fe2O3 was identified in Fe2O3 reference films and in Fe2O3 layers grown to certain thicknesses between amorphous SiO2 layers. Electrical resistive switching, markedly dependent on the ratio of the component oxides, was also observed in films with proper composition."
+}

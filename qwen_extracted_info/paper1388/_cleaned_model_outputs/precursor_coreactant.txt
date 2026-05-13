@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMA", "trimethylaluminum", "TPS", "tris(tert-pentoxy)silanol"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "TMA (97%) and TPS (99.99+ %) were purchased from Sigma Aldrich Company and used as received. Rapid SiO2 ALD was carried out on two different batches of anatase titania particles (Millennium Chemicals). ... High-purity N2 gas is used as the purge gas to remove the unreacted precursor and any byproduct formed during the reaction and its flow rate is controlled by a mass flow controller."
+}

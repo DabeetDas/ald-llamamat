@@ -1,0 +1,7 @@
+{
+  "precursors": ["diethylzinc (DEZn, Zn(CH2CH3)2)"],
+  "coreactants": ["O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The two precursors, diethylzinc (DEZn, Zn(CH2CH3)2) and O2, were carried in by an N2 flow. The ALD process consisted of 3000 identical cycles, each of which contained the following sequence: DEZn, N2 purge, O2, N2 purge, 5 s and deposited 0.18 nm of ZnO."
+}

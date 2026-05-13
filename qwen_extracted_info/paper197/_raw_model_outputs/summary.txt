@@ -1,0 +1,8 @@
+{
+  "target_material": "PMMA",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TDMAT", "TMA", "Ozone"],
+  "temperature_range": "60–65 °C",
+  "summary": "The study investigates the use of atomic layer deposition (ALD) to improve the adhesion of metal and metal carbide coatings on PMMA substrates. ALD-deposited intermediate layers of Al2O3 and TiO2 are shown to significantly enhance adhesion by protecting the PMMA surface from plasma-induced damage during magnetron sputtering. The ALD process uses precursors such as TDMAT for TiO2 and TMA for Al2O3, with ozone as the oxygen source. The effectiveness of the ALD layers is demonstrated through adhesion testing, showing that they prevent cohesive failure in PMMA and improve the adhesion of sputtered Ti and TiC layers.",
+  "evidence": "The ALD process was used to deposit intermediate layers of Al2O3 and TiO2 on PMMA substrates. The study shows that these layers significantly improve adhesion by protecting the PMMA surface from plasma-induced damage during magnetron sputtering. The ALD process uses TDMAT for TiO2 and TMA for Al2O3, with ozone as the oxygen source. The effectiveness of the ALD layers is demonstrated through adhesion testing, showing that they prevent cohesive failure in PMMA and improve the adhesion of sputtered Ti and TiC layers."
+}<|im_end|>

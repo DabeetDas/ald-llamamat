@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "375",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": "20",
+  "purge_time_s": null,
+  "number_of_cycles": "30",
+  "reactor_type": "thermal catalytic dissociation on a tungsten filament",
+  "evidence": "The SiH Cl and the dissociated NH gases are alternatively supplied onto the substrate maintained at 3758C. The first nitridation by NH exposure occurs only at the surface with Si±H bonds. The deposition condition is the same as in Fig. 2. After the 10 deposition cycles, the Si±H bonds are still not observed, while after the 30 deposition cycles, the Si±H bonds appear."
+}<|im_end|>

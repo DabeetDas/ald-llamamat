@@ -1,0 +1,20 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Cross-sectional Transmission Electron Microscopy (TEM)",
+    "Selected Area Diffraction Pattern (SADP)",
+    "High-Resolution Transmission Electron Microscopy (HR-TEM)",
+    "Rutherford Backscattering Spectroscopy (RBS)",
+    "Ellipsometry",
+    "Four-point probe",
+    "C-V measurement",
+    "I-V measurement",
+    "Scanning TEM (STEM)",
+    "Fluctuation Electron Microscopy (FEM)",
+    "Atomic Force Microscopy (AFM)",
+    "Electron Beam Evaporation",
+    "Ion Milling",
+    "Point-to-point resolution"
+  ],
+  "evidence": "Ultra-thin ZrO2 and HfO2 dielectric films grown by atomic layer deposition (ALD) are quite promising materials for gate dielectric applications in future transistors, and they exhibit significantly different as-grown microstructures: polycrystalline and amorphous phases, respectively. ... The microstructures of various samples were also analyzed using a Philips CM20 FEG-TEM (Hillsboro, OR) having a point-to-point resolution of 2.4 Å. ... Systematic x-ray photoelectron spectroscopy (XPS) measurement for ZrO2 and HfO2 films grown at lower temperature (∼250 °C) showed a higher Cl concentration in HfO2 compared to that of ZrO2 ... The atomic density of ALD-ZrO2 films measured by RBS (Rutherford backscattering spectroscopy) was close to the theoretical value depending on the film microstructure, however, that of ALD-HfO2 was significantly lower (∼35%) from the theoretical value. ... C–V measurement was performed with three different ac frequencies (10, 100, and 800 kHz), after the annealing step under the forming gas (H2/N2, 400 °C, 30 min), using an HP4284A LCR meter (Palo Alto, CA). ... I–V measurement was performed using a Keithley 230 programmable voltage source and a 6512 programmable electrometer with different measurement temperatures to compare the leakage conduction mechanisms (Keithley, Cleveland, OH). ... For the extraction of an electrically equivalent oxide thickness (EOT) and corrected C–V curves, a resistance correction procedure using two different measurement frequencies, which was described by Yang and Hu, was applied. ... The microstructural analysis of ALD-grown ZrO2 and HfO2 films (samples were grown on Si passivated with a ∼1.5 nm chemical oxide layer): (a) cross-sectional HR-TEM image and (b) selected area diffraction pattern of 4.3-nm-thick ZrO2; (c) cross-sectional HR-TEM image and (d) SADP (selected area diffraction pattern) of 4.5-nm-thick HfO2. ... The EOT of interfacial oxide was extrapolated to be ∼1.1 nm, smaller than the physical thickness measured by the HR (high-resolution)-TEM (1.4–1.5 nm)."
+}<|im_end|>

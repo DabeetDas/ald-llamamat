@@ -1,0 +1,8 @@
+{
+  "target_material": "hafnium silicate",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["DNSHf (Bis(dimethylamino)[(methylamino dimethylsilyl)methylcyclopentadienyl] hafnium(IV))", "O2 plasma"],
+  "temperature_range": "160°C to 280°C",
+  "summary": "This study reports the plasma-enhanced atomic layer deposition (PEALD) of hafnium silicate thin films using a single-source precursor, DNSHf, and O2 plasma. The films exhibited amorphous structure with a composition of Hf0.33Si0.66O2. The PEALD process achieved a constant growth rate of 1.45 Å/cycle between 210°C and 280°C. The deposited films were evaluated as gate dielectrics for bottom-gated InGaZnO thin-film transistors (TFTs), showing improved electrical performance compared to thermal SiO2 gate dielectrics.",
+  "evidence": "A single source precursor containing both Hf and Si was employed with oxygen plasma to deposit hafnium silicate thin films using plasma-enhanced atomic layer deposition (PEALD). The self-limiting growth features were observed between 210 °C-280 °C with a constant growth rate of 1.45 Å/cycle. The deposited hafnium silicate thin films were amorphous with a composition of Hf0.33 Si0.66 O2. Bottom-gated InGaZnO channel thin-film transistors (TFTs) were fabricated to evaluate the electrical characteristics of PEALD hafnium silicate thin films as gate dielectrics. Compared to the conventional SiO2 gate dielectric, TFTs with PEALD hafnium silicate gate dielectric exhibited an improved switching performance."
+}<|im_end|>

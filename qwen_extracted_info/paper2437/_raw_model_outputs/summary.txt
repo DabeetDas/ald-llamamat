@@ -1,0 +1,8 @@
+{
+  "target_material": "amorphous InGaZnO (a-IGZO)",
+  "process_type": "thermal ALD",
+  "main_precursors": ["dimethylaluminum hydride (DMAH)", "O2", "N2"],
+  "temperature_range": "200°C",
+  "summary": "The study investigates the effect of atomic layer deposition (ALD) temperature on the reliability of amorphous InGaZnO (a-IGZO) thin-film transistors (TFTs) passivated with Al2O3. The optimal ALD temperature of 200°C results in high-quality Al2O3 passivation with minimal impurities, leading to improved device reliability against bias stress and humidity exposure. The passivation layer significantly reduces trap sites and defects, enhancing the stability of the TFTs.",
+  "evidence": "The Al2O3-passivated a-IGZO TFTs demonstrated an on-off current ratio (Ion/Ioff) of ~108 and linear mobility (μ) of 9 to 13 cm2 V-1 s-1. An optimum ALD temperature of 200°C was demonstrated to result in Al2O3-passivated a-IGZO TFTs with very small on-voltage shifts of 0.3 V and -2.7 V against positive bias stress and negative bias illumination stress after 10,000 s of stress time. Furthermore, negligible degradation was observed after humidity exposure."
+}<|im_end|>

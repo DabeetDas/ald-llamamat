@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "dicarbonyl-bis(5-methyl-2,4-hexanediketonato)Ru(II) (Carish)"
+  ],
+  "coreactants": [
+    "O2",
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The precursor used for Ru deposition in both modes is metalorganic Ru precursor dicarbonyl-bis(5-methyl-2,4-hexanediketonato) Ru(II), named Carish... The Carish precursor was contained in a bubbler at 100 °C and was carried by N2 gas at a flow rate of 100 standard cubic centimeter per minute (sccm)."
+}

@@ -1,0 +1,23 @@
+{
+  "precursors": [
+    {
+      "name": "di(sec-butylamino)silane",
+      "abbreviation": "DSBAS",
+      "evidence": "The surface reactions during atomic layer deposition (ALD) of SiN x were studied using in situ attenuated total reflection Fourier transform infrared spectroscopy. Specifically, di(sec ‐butylamino)silane (DSBAS) and bis(diethylamino)silane (BDEAS) were used as the silicon precursors with N 2 plasma as the nitrogen source for SiN x ALD over a temperature range of 225 –375°C."
+    },
+    {
+      "name": "bis(diethylamino)silane",
+      "abbreviation": "BDEAS",
+      "evidence": "The surface reactions during atomic layer deposition (ALD) of SiN x were studied using in situ attenuated total reflection Fourier transform infrared spectroscopy. Specifically, di(sec ‐butylamino)silane (DSBAS) and bis(diethylamino)silane (BDEAS) were used as the silicon precursors with N 2 plasma as the nitrogen source for SiN x ALD over a temperature range of 225 –375°C."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "N2 plasma",
+      "evidence": "The surface reactions during atomic layer deposition (ALD) of SiN x were studied using in situ attenuated total reflection Fourier transform infrared spectroscopy. Specifically, di(sec ‐butylamino)silane (DSBAS) and bis(diethylamino)silane (BDEAS) were used as the silicon precursors with N 2 plasma as the nitrogen source for SiN x ALD over a temperature range of 225 –375°C."
+    }
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The surface reactions during atomic layer deposition (ALD) of SiN x were studied using in situ attenuated total reflection Fourier transform infrared spectroscopy. Specifically, di(sec ‐butylamino)silane (DSBAS) and bis(diethylamino)silane (BDEAS) were used as the silicon precursors with N 2 plasma as the nitrogen source for SiN x ALD over a temperature range of 225 –375°C."
+}<|im_end|>

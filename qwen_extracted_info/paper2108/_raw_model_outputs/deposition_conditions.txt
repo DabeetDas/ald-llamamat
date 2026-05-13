@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "300",
+ "pressure": "1 Torr",
+ "precursor_pulse_time_s": "450",
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "40",
+ "reactor_type": "Showerhead",
+ "evidence": "Following this, 40 cycles of ALD HfO2 was deposited using precursor HfCl4 with O3 as oxidation ambient (300°C, 1 Torr). Precursor pulse time was varied at 150 ms, 450 ms, and 1500 ms respectively."
+}<|im_end|>

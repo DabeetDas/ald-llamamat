@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum",
+    "water vapor"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "Al2O3 thin films were grown on 4 H-SiC (0001) by thermal atomic layer deposition using trimethylaluminum and water vapor. The films were crystallized to the γ-Al2O3 phase by rapid thermal annealing in N2 at 1100 °C. The study aimed to develop epitaxial high-κ dielectrics for SiC-based devices due to enhanced dielectric strength, chemical stability, and reduced defects.",
+  "evidence": "Al2O3 thin films were grown on 4 H-SiC /H208490001/H20850by thermal atomic layer deposition and were crystallized to the /H9253-Al2O3 phase by rapid thermal annealing in N 2 at 1100 ° C. The development of epitaxial high- /H9260dielectrics has the potential to improve the performance of SiC power metal-oxide-semiconductor field effect transistors due to enhanced dielectric strength, chemical stability, and reduced defects."
+}

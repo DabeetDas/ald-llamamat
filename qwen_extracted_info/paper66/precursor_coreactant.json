@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "trimethylindium [In(CH3)3, (TMIn)]",
+    "titanium isopropoxide [Ti(OCH(CH3)2)4, (TTIP)]"
+  ],
+  "coreactants": [
+    "O2 gas"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The Al2O3 and InTiO films were formed using trimethylaluminum [Al(CH3)3, (TMA)], trimethylindium [In(CH3)3, (TMIn)], and titanium isopropoxide [Ti(OCH(CH3)2)4, (TTIP)] as the Al, In, and Ti precursors, respectively. These precursors were supplied with Ar as the carrier gas, and O2 gas was used as a reactant, where the radio-frequency (rf) plasma was only applied during the supply of O2 gas."
+}

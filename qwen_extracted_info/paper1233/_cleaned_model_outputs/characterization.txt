@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Raman Spectroscopy",
+    "Spectroscopic Ellipsometry",
+    "High Resolution Transmission Electron Microscopy (HRTEM)",
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Diffraction (XRD)",
+    "Diffuse Reflectance Infrared Fourier Transform Spectroscopy (DRIFTS)",
+    "Gas Chromatography-Mass Spectrometry (GC-MS)",
+    "1H-NMR Spectroscopy",
+    "Fourier Transform Infrared Spectroscopy (FTIR)"
+  ],
+  "evidence": "The film thickness was characterized by spectroscopic ellipsometry on Si wafer. XPS was performed in an ultrahigh vacuum chamber using a JEOL JPS-9030 set-up. The morphology and structure were characterized by a Philips CM200 LaB6 transmission electron microscope (TEM). High resolution transmission electron microscopy (HRTEM) images were obtained using a FEI Talos F200S. X-ray diffraction (XRD) was used for structural analysis. Raman spectra were acquired with a confocal microscope-based Raman spectrometer. AFM topography images were obtained by using a Bruker Icon SFM. Diffuse Reflectance Infrared Fourier Transform Spectroscopy (DRIFTS) spectra were recorded on a Nicolet 6700-FT spectrometer. Solution NMR spectra were recorded on BRUKER AVANCE 300 spectrometer. Gas phase analysis was performed on a HP 5890 gas chromatograph. The volatile byproducts of the gas-solid reaction were condensed in C6D6 and analyzed by 1H-NMR spectroscopy and GC-MS."
+}

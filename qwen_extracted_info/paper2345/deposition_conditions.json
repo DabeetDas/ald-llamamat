@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "630",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "20",
+  "number_of_cycles": "1200",
+  "reactor_type": "Cross-flow",
+  "evidence": "The substrate was rotated continuously using a stepping motor and one complete exposure cycle was performed in 2.6 s. This results in equal exposure times of about 0.3 s each to the AsH3 and TMG gas streams. ... The AsH3 flow was 25 sccm and the substrate temperature was 630°C. ... The amount of TMG or AsH3 trapped in this small volume, which could be transferred to the AsH3 or TMG side respectively, is, in the current experiment, only enough to deposit less than 1/10 of a monolayer per cycle and thus cannot account for the observed growth. ... The fixed top part also acts to shear off most of the gaseous boundary layer between successive exposures."
+}

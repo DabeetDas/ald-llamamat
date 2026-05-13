@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "Si-OH + Al(CH3)3 -> Si-O-Al(CH3)2 + CH4",
+    "Al(CH3)3 -> OAlMe2 + CH4",
+    "OAlMe2 + Al(CH3)3 -> O2AlMe + CH4",
+    "O2AlMe + Al(CH3)3 -> O3AlMe + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites. TMA dissociates on pairs of coordinatively unsaturated Al and O ions. Ammonia replaces methyl groups with primary, secondary, and tertiary amino groups.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species",
+    "OAlMe2",
+    "O2AlMe",
+    "O3AlMe"
+  ],
+  "evidence": "Soto et al.11 showed that, when the surface is heated above 423 K, the species react with the neighbouring OH groups to form monomethylaluminium and more methane. Dillon et al.2 found that TMA reacts at 500 K with all the OH groups of hydroxylated alumina. Dillon et al. further suggested that TMA dissociates at room temperature in pairs of coordinatively unsaturated Al and O ions. Ammonia replaces the methyl groups at room temperature with bridging primary amino groups and above 423 K with terminal primary amino groups."
+}<|im_end|>

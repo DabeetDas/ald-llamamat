@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum and Titanium Phosphates",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["AlCl3", "TiCl4", "Trimethyl Phosphate (TMPO)"],
+  "temperature_range": "150–450 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of aluminum and titanium phosphates using metal halides (AlCl3 and TiCl4) and trimethyl phosphate (TMPO) as precursors. The process was carried out at varying temperatures, with aluminum phosphate films deposited between 150 and 400 °C and titanium phosphate films between 275 and 450 °C. The films were amorphous and showed different stoichiometries depending on the deposition temperature. The study aimed to explore the synthesis of these phosphates for applications such as lithium ion batteries and sunscreen materials.",
+  "evidence": "The atomic layer deposition (ALD) of phosphate containing thin films using reactions between the metal halide and the phosphorus source without any additional oxygen sources was examined. Two very common metal halides, AlCl3 and TiCl4, were used in conjunction with trimethyl phosphate (TMPO) to grow corresponding metal phosphate films. Aluminum phosphate thin films were deposited at temperatures between 150 and 400 °C while titanium phosphate films grew between 275 and 450 °C."
+}<|im_end|>

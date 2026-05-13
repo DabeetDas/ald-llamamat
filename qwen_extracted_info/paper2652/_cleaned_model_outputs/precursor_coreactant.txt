@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(ethylbenzene) molybdenum (BEBMo)", "Mo(OiPr)5", "MoO2(acac)2"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Bis(ethylbenzene) molybdenum (BEBMo) was heated to temperatures between 40 and 130 /C14 C, while deposition was probed at reactor temperatures between 70 and 200 /C14 C. The system pressure was measured using a Baratron capacitance manometer. The growth characteristics were monitored in situ using a quartz crystal microbalance (QCM). Nitrogen of 0.1 Torr was purged across the back side of the crystal to prevent deposition on both faces. The molybdenum precursors were heated to temperatures between 40 and 130 /C14 C, while deposition was probed at reactor temperatures between 70 and 200 /C14 C. To prevent condensation of the precursor, a positive temperature gradient was maintained from the bubbler to the reactor. For this heating configuration, the line connecting the bubbler to the reactor inlet was modified with additional heat tapes in order to reach temperatures above 100 /C14 C."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "YMnO3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Y(thd)3", "Mn(thd)3", "ozone"],
+  "temperature_range": "250-300 /C176C",
+  "summary": "Hexagonal and orthorhombic YMnO3 thin films were fabricated through atomic layer deposition (ALD) and subsequent heat treatment. The as-deposited films were amorphous, but postdeposition heat treatment in a temperature range of 750-900 /C176C yielded highly crystalline films. The crystal structure was influenced by the substrate material, with hexagonal phase on Si(100) and orthorhombic phase on LaAlO3(100) and SrTiO3(100) substrates.",
+  "evidence": "Thin films of both the hexagonal and orthorhombic forms of YMnO3 have been fabricated through atomic layer deposition (ALD) and subsequent heat treatment. ALD-type growth of essentially cation-stoichiometric YMnO3 films was achieved in a reproducible manner in a temperature interval of 250-300 /C176C using Y(thd)3, Mn(thd)3, and ozone as precursors. The as-deposited films were amorphous, but a postdeposition heat treatment carried out in a temperature range of 750-900 /C176C depending on the substrate/polymorph yielded highly crystalline films. On Si(100) substrate, the product was the hexagonal phase of YMnO3, whereas on LaAlO3(100) and SrTiO3(100) substrates, the metastable orthorhombic YMnO3 phase was formed."
+}

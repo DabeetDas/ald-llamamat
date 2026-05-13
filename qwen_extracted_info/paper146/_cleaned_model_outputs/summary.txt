@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "ALD",
+  "main_precursors": ["Al(CH3)3", "H2O"],
+  "temperature_range": "180°C",
+  "summary": "The study investigates the Atomic Layer Deposition (ALD) of Al2O3 on ZrO2 nanoparticles using a rotary reactor. The process involves sequential exposures to Al(CH3)3 and H2O reactants, with pressure transients monitored to determine saturation exposures. The ALD growth rate is 2.0 Å per cycle, and the results show conformal coating with high reactant efficiency.",
+  "evidence": "The Al2O3 ALD growth rate of 2.0 Å per reactant cycle is determined by measuring the thickness of the ALD film using TEM. The study also shows that the pressure transients during reactant micropulses indicate the saturation of the surface reactions, allowing for efficient reactant usage. The conformal coverage of the Al2O3 film on the ZrO2 nanoparticles is confirmed by TEM, AES, and XPS analyses."
+}

@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "HfCl4",
+    "H2O",
+    "HfCl4",
+    "SiCl4",
+    "H2O"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Atomic layer deposition was used to grow 1–4 nm of HfO2 at 300°C with HfCl4 and H2O as precursors in a Pulsar 2000 reactor attached to a Polygon 8200 platform. Additionally, ALD HfSiOx was grown from HfCl4, SiCl4, and H2O precursors on Imec04."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "It is also known that the interface bonding arrangement is modified during the initial ALD, where the main chemisorption mechanisms, \"ligand exchange\" and \"dissociation,\" could be responsible for the reduction (\"selfcleaning\") of GaAs surface oxides."
+}

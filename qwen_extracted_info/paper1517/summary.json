@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Trimethylaluminum (TMA)",
+    "Ozone (O3)"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the ALD process for depositing Al2O3 using ozone as an oxygen precursor. It identifies formate as an intermediate formed during the reaction, which plays a key role in the efficiency of the ALD process. The reaction mechanism involves the oxidation of surface methoxy groups by ozone, leading to the formation of formate, which subsequently decomposes into CO and hydroxyl groups. The study also compares the ALD process with catalytic decomposition of methanol over Al2O3 and highlights the importance of formate in the reaction pathway.",
+  "evidence": "The study investigates the ALD process for depositing Al2O3 using ozone as an oxygen precursor. It identifies formate as an intermediate formed during the reaction, which plays a key role in the efficiency of the ALD process. The reaction mechanism involves the oxidation of surface methoxy groups by ozone, leading to the formation of formate, which subsequently decomposes into CO and hydroxyl groups. The study also compares the ALD process with catalytic decomposition of methanol over Al2O3 and highlights the importance of formate in the reaction pathway."
+}

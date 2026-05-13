@@ -1,0 +1,7 @@
+{
+  "precursors": ["Cd", "Zn", "Te"],
+  "coreactants": [],
+  "purge_gas": ["H2"],
+  "carrier_gas": [],
+  "evidence": "Between consecutive exposures to the elemental sources, the substrate is exposed for a certain period to the puriﬁed hydrogen environment in order to remove the residual vapors from the substrate cavity to avoid intermixing of vapors of different elements."
+}

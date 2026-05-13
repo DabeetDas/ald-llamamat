@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + H2O -> Al-OH* + CH4"
+  ],
+  "surface_mechanism_description": "The subsequent H2O pulse reacts with the ligands of the metal precursor, replacing them with smaller OH ligands, thus making the neighboring surface sites available for reaction. The next metal precursor pulse therefore backfills or intermixes with the previous metal pulse by reacting with sites on the same monolayer plane in the film.",
+  "intermediate_species": [
+    "Al-OH*",
+    "monomethyl aluminum"
+  ],
+  "evidence": "These results may be explained by ‘‘backﬁlling’’ of precursors for several cycles in the ALD process. For any given metal precursor pulse, such as Al(CH3)3 , steric hindrance from the ligands (e.g., CH3) of each precursor molecule prevent neighboring surface sites from reacting. The subsequent H2O pulse then reacts with these ligands, replacing them with smaller OH ligands, thus making the neighboring surface sites available for reaction. The next metal precursor pulse therefore backﬁlls or intermixes with the previous metal pulse by reacting with sites on the same monolayer plane in the film."
+}

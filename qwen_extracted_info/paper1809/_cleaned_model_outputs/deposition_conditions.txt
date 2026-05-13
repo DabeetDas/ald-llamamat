@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "50",
+  "number_of_cycles": "50",
+  "reactor_type": "traveling-wave-type cold-wall reactor",
+  "evidence": "Silicon nitride lms were deposited at 300 /C14 C for 50 cycles. The rf power, pressure, and time of N 2 plasma were 100 W, 1.5 Torr, and 50 s, respectively."
+}

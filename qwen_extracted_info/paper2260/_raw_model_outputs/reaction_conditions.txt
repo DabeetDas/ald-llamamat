@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "HfO2 → HfO2−x + x VO2+ + x O2−"
+  ],
+  "surface_mechanism_description": "Oxygen vacancies are extracted from the oxide at the anode, leaving oxygen vacancies (VO2+) under the anode and oxygen ions (O2−) within the anode. Oxygen vacancies are drifted by the electric field to the cathode and filaments containing VO2+ defects grow from the cathode to the anode. These filaments are conducting, possibly through carrier hopping between VO2+ related defects. When a filament comes into contact with the anode the electrodes are short-circuited and the device switches in a conducting state (ON state). When the voltage polarity is reversed, VO2+ are repelled from the anode (former cathode), the filament in contact with the anode is broken, and the device switches back to an insulating state (OFF state).",
+  "intermediate_species": [
+    "VO2+",
+    "O2−"
+  ],
+  "evidence": "Oxygen vacancies are extracted from the oxide at the anode, leaving oxygen vacancies (VO2+) under the anode and oxygen ions (O2−) within the anode /H20849HfO2 → HfO2−x + x VO2+ + x O2−/H20850. Oxygen vacancies are drifted by the electric field to the cathode and filaments containing VO2+ defects grow from the cathode to the anode. These filaments are conducting, possibly through carrier hopping between VO2+ related defects. When a filament comes into contact with the anode the electrodes are short-circuited and the device switches in a conducting state /H20849ON state /H20850. When the voltage polarity is reversed, VO2+ are repelled from the anode /H20849former cathode /H20850, the filament in contact with the anode is broken, and the device switches back to an insulating state /H20849OFF state /H20850."
+}<|im_end|>

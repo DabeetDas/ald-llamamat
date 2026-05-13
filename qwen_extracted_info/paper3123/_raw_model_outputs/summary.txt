@@ -1,0 +1,8 @@
+{
+  "target_material": "Pt",
+  "process_type": "ALD",
+  "main_precursors": ["MeCpPtMe3", "H2"],
+  "temperature_range": "50°C to 170°C",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of platinum (Pt) on nickel (Ni) substrates using MeCpPtMe3 and H2 as precursors. The process involves alternating cycles of precursor exposure and reduction steps, resulting in micrometer-sized Pt islands up to 3.7 monolayers. The ALD process is used to create Pt monolayer coatings on non-noble metal substrates for potential applications in fuel cell catalytic layers with ultralow Pt loading.",
+  "evidence": "The Pt coatings were prepared using atomic layer deposition (ALD) in which Ni-disk substrate is exposed to MeCpPtMe3 and H2 in alternating cycles. The reaction in question can be described by the following equation: MeCpPtMe3 (ads) + 4 H2 (g) = MeC5H9 (g) + 3CH4 (g) + Pt (ads). The purpose of this work is to develop a method for the fabrication of third-generation polymer electrolyte fuel cell (PEFC) catalytic layers with ultralow Pt loading."
+}<|im_end|>

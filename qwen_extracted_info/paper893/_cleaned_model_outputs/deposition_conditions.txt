@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.7",
+  "coreactant_pulse_time_s": "0.1",
+  "purge_time_s": "1",
+  "number_of_cycles": null,
+  "reactor_type": "ASM Pulsar /C2102000",
+  "evidence": "The (C2H5)3B, WF6 and NH3 precursors were pulsed for 0.7, 0.1, and 1 s, respectively. The temperature during deposition was 300 /C176C."
+}

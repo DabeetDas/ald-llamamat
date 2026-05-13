@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "Scanning electron microscopy (SEM)",
+    "Hall measurements",
+    "Optical transmission spectra",
+    "Photoluminescence (PL) spectra",
+    "Ellipsometry",
+    "Impedance spectroscopy",
+    "Current density-voltage characteristics",
+    "Luminance measurements",
+    "Quantum efficiency calculations"
+  ],
+  "evidence": "The ZnO films were characterized using x-ray diffraction (XRD) measurements with monochromatic Cu K radiation. SEM (Hitachi SU-70) was used to investigate the surface morphology and make cross-section images of the films. Room temperature Hall measurements were carried out using the RH2035 Phys-Tech GmbH system. Optical transmission spectra were collected at RT in the wavelength range of 300–1100 nm using CM2203 spectrometer. Photoluminescence (PL) spectra were measured at RT in the wavelength range of 340–820 nm. The thickness of Alq3 and PEGDE films were controlled by ellipsometry method. Impedance spectroscopy was used for the characterization of bulk and surface conductive properties. The current density-voltage characteristics of the structures were recorded with a Keithley 617 electrometer. The luminance was measured with a calibrated silicon photodiode and a Keithley 617 electrometer. The quantum efficiency was calculated using the luminescence, emission spectra, and current density data."
+}

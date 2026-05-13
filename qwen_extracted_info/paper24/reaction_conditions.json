@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Silver nanoparticles are deposited via atomic layer deposition (ALD) using a self-limiting process involving the reaction of silver precursor (hfac)Ag(1,5-COD) with a coreactant (propan-1-ol). The mechanism involves the formation of silver species on the titanium surface, which are then stabilized through the ALD process, leading to the formation of a nanolayer that inhibits bacterial growth.",
+  "intermediate_species": [
+    "silver species",
+    "silver nanoparticles"
+  ],
+  "evidence": "Silver was deposited on half the total number of solid and porous implants by direct liquid injection ALD using an Aixtron AIX200FE reactor. A 0.1 molar solution of (hexafluoroacetylacetonato) silver(I)(1,5-cyclooctadiene) (hfac)Ag(1,5-COD) in anhydrous toluene was used as the silver source. Hig performance liquid chromatography (HPLC) grade Propan-1-ol was used as a coreactant. During each ALD cycle, (hfac)Ag(1,5-COD) solution was introduced into the reactor for 4 s at a rate of 17.5 µL s−1 and was volatilized using a vaporizer set to 130 °C. The coreactant was introduced directly into the reactor for 4 s via a Swagelok ALD valve. During each ALD cycle, the two reactants were sequential pulses into the reactor with 8 s gas purges between them to prevent reactions in the gas phase."
+}

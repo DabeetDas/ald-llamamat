@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "titanium isopropoxide",
+    "water"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of TiO2 on aerogel templates to create high surface area pseudo-one-dimensional photoanodes for dye-sensitized solar cells (DSSCs). The process involves coating aerogel films with TiO2 using thermal ALD at 200 °C, resulting in enhanced charge diffusion lengths and improved power conversion efficiencies. The fabricated photoanodes exhibited power conversion efficiencies up to 4.3% under 100 W m-2 light intensity.",
+  "evidence": "Atomic layer deposition was performed with a Savannah 100 instrument (Cambridge Nanotech Inc.), using titanium isopropoxide and water as precursors. TiO2 was grown at 200 °C, using reactant exposure times of 14 s and 7 s for titanium isopropoxide and H2O, respectively, and nitrogen purge times of 30 s between exposures. The TiO2 coated films were annealed at 500 °C in air for 20 min to increase crystallinity. The charge diffusion length was found to increase with increasing thickness of TiO2 leading to increasing current and efficiency. Initial devices exhibited power conversion efficiencies of up to 4.3% under 100 W m-2 light intensity."
+}

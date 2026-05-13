@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the alternating exposure of SiCl4 and NH3 gases at different temperatures. The SiCl4 exposure at 375 °C followed by NH3 exposure at 550 °C was cyclically repeated, leading to the formation of silicon nitride through the reaction of surface species.",
+  "intermediate_species": ["SiCl4", "NH3", "surface hydroxyls"],
+  "evidence": "The SiCl4 exposure at 375 °C followed by NH3 exposure at 550 °C was cyclically repeated 20 times, leading to a silicon nitride physical thickness of ;3.5 nm as estimated from transmission electron microscopy (TEM)."
+}

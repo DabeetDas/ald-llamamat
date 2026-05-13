@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "ZrF4 + HF → ZrF4 + HNEtMe",
+    "ZrF4 + 4HF → ZrF4 + 4HNEtMe"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the adsorption and desorption of HF on the metal fluoride surface, leading to the formation of surface species such as ZrF4 and the release of volatile byproducts like HNEtMe. The mechanism is self-limiting, with HF adsorbing on the surface and interacting with the metal fluoride species.",
+  "intermediate_species": [
+    "ZrF4",
+    "HNEtMe",
+    "ZrF2(NEtMe)2"
+  ],
+  "evidence": "The surface chemistry for ZrF4 ALD during the sequential TEMAZ and HF exposures can be defined by the following two reactions: (A) ZrF4 + HF → ZrF4 + HNEtMe and (B) ZrF4 + 4HF → ZrF4 + 4HNEtMe. The asterisks identify the surface species. The vertical lines separate the various surface species. HF converts ZrF4(NEtMe)4−x to ZrF4. HF can also adsorb on the ZrF4 surface. The number of HF molecules adsorbed on the ZrF4 surface relative to the number of ZrF4 species deposited during one ZrF4 ALD cycle is quantified by the parameter x."
+}

@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "SnL2 + H2S → SnS + 2HL",
+    "SnL2 + H2S → SnS + 2HL"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the chemisorption of the tin(II) precursor (SnL2) and subsequent reaction with H2S. The reaction proceeds through two steps: first, the ligand exchange between the precursor and surface hydroxyl groups, followed by a reaction with H2S to regenerate surface hydroxyl groups. The surface reactions are influenced by temperature, with the growth per cycle decreasing as temperature increases due to a decrease in surface thiol density.",
+  "intermediate_species": [
+    "SnL2",
+    "HL",
+    "SnS",
+    "thiol groups"
+  ],
+  "evidence": "The surface reaction mechanism is described in the text as follows: 'In the canonical ALD reaction A → B → C in Figure 5, addition of 1 to a thiol-terminated surface eliminates one formamidine and chemisorbs a tin monoformamidinate fragment to the surface (A → B). A second formamidine ligand is freed upon exposure to H2S, and a thiol-terminated surface is regenerated but with one SnS added (B → C).' Additionally, the text states, 'The decrease of the ALD growth per cycle with increasing temperature is attributed to entropy-driven decreases in the equilibrium surface coverage of thiol groups.'"
+}<|im_end|>

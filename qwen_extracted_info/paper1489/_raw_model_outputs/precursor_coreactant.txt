@@ -1,0 +1,35 @@
+{
+  "precursors": [
+    {
+      "name": "Cu2DBA",
+      "full_name": "bis(N,N′-disec-butylacetamidinato)dicopper(I)",
+      "evidence": "The precursor for Cu+ was bis(N,N′-disec-butylacetamidinato)dicopper(I) (Strem Chemicals), which is abbreviated as Cu2DBA."
+    },
+    {
+      "name": "SnTDMA",
+      "full_name": "tetrakis(dimethylamido)Sn(IV)",
+      "evidence": "One cycle of SnS2 means a 1.0 s pulse of tetrakis(dimethylamido)Sn(IV) (SnTDMA, Sigma-Aldrich), followed by a 20.0 s nitrogen purge, followed by a 1.0 s H2S dose, finishing with a 20.0 s nitrogen purge."
+    },
+    {
+      "name": "DEZ",
+      "full_name": "diethyl zinc",
+      "evidence": "For ZnS, we used the well-known process employing diethyl zinc (DEZ, Sigma-Aldrich) and H2S."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "H2S",
+      "full_name": "hydrogen sulfide",
+      "evidence": "For ZnS, we used the well-known process employing diethyl zinc (DEZ, Sigma-Aldrich) and H2S."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "N2",
+      "full_name": "nitrogen",
+      "evidence": "The high-purity nitrogen flow rate was 10 sccm, and deposition was carried out in pulse mode (continuous flow)."
+    }
+  ],
+  "carrier_gas": [],
+  "evidence": "The high-purity nitrogen flow rate was 10 sccm, and deposition was carried out in pulse mode (continuous flow)."
+}<|im_end|>

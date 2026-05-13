@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "Fe(acac)3 + 2 OH* -> Fe-OH* + 2 acac",
+    "Fe-OH* + O -> FeO* + OH",
+    "FeO* + O -> FeO2*",
+    "FeO2* + O -> FeO3*"
+  ],
+  "surface_mechanism_description": "The reaction of Fe(acac)3 with the YSZ surface proceeds via coordinatively unsaturated Zr sites. Fe(acac)3 loses two of its three ligands to the surface, forming Fe-OH* species. The remaining ligand is lost due to transport through air. The oxidation step removes the organic ligands, forming FeO* and FeO2* species, which further react to form FeO3*.",
+  "intermediate_species": [
+    "Fe-OH*",
+    "FeO*",
+    "FeO2*",
+    "FeO3*"
+  ],
+  "evidence": "The reaction mechanism of Fe(acac)3 with the YSZ surface is studied using infrared diffuse reflectance. The results reveal more than one reaction mechanism, but there seems to be a preference for the reaction via coordinatively unsaturated sites. The Fe(acac)3 loses two of its three ligands to the surface in the reaction. The loss of one or two ligands is common for metals with 3+ valence; it makes close approach and thereby the reaction of the metal ion with the surface possible. The third ligand remains weakly attached to the Fe ion. Short exposure to air already causes a removal of the ligand, most likely in the form of Hacac. In the oxidation step of the ALD cycle the atomic oxygen will remove the organic ligands in the form of carbon dioxide and water. The OH group, attached to the Fe ion, is drawn in Figure 8 in analogy with the results described in ref 30, where the infrared photoacoustic spectra clearly show the presence of an Fe-OH band."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(diethylamino) hafnium (TDEAHf)"],
+  "temperature_range": "25 - 250 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of HfO2 on hydrogen-terminated Si(100) surfaces using tetrakis(diethylamino) hafnium (TDEAHf) as a precursor. The process involves hydrogen abstraction from Si-H bonds, leading to the formation of a four-membered Si-O-Hf-Si bonding structure that can rapidly oxidize. The reaction mechanism is supported by in-situ infrared spectroscopy and density functional theory (DFT) calculations, which reveal that hydrogen removal occurs through H abstraction by the amine ligand of the Hf precursor, facilitated by the presence of OH groups on the silicon surface.",
+  "evidence": "In-situ attenuated total internal reflection infrared spectroscopy has been used to examine initial adsorption and reaction steps in atomic layer deposition of HfO2 from tetrakis(diethylamino) hafnium (TDEAHf) on SiO2 and hydrogen-terminated Si(100) surfaces. At low deposition temperatures (25 - 250 °C), TDEAHf directly reacts with the Si-H surface, resulting in partial removal of Si-H bonds and formation of a four-membered Si-O-Hf-Si bonding structure that can rapidly oxidize. The hydrogen removal process is observed to continue through many cycles of TDEAHf/H2O exposure, signifying continued reactivity of the Hf precursor with the silicon surface."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "CuInS",
+  "process_type": "Atomic layer chemical vapor deposition (AL-CVD)",
+  "main_precursors": ["CuCl", "InCl3", "H2S"],
+  "temperature_range": "350–500 8C",
+  "summary": "CuInS thin films are grown by atomic layer chemical vapor deposition (AL-CVD) using CuCl, InCl3, and H2S as precursors. The process conditions, including growth temperature, purge time, and precursor vapor pressure, significantly affect the structural and electrical properties of the films. The study investigates the effect of annealing in H2S or O2 atmospheres on the crystallinity and defect structure of the films, aiming to improve the performance of CuInS-based solar cells.",
+  "evidence": "CuInS films are grown on glass, F-doped SnO2 coated glass, and TiO2 thin films at a pressure of 2 mbar and in the temperature range of 350–500 8C using CuCl, InCl3, and H2S as precursors. The growth temperature, the purge time and the vapor pressure of the precursors are found to be the decisive parameters. The effect of annealing the CuInS films in an H2S or O2 atmosphere is studied as well."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Diethylzinc (DEZn)"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The precursors for this reaction were DEZn (Sigma) and H2S. Nitrogen was used as the carrier and purge gas at a constant flow rate of 60 sccm."
+}

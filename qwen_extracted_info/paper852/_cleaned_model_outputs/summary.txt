@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Mo(CO)6", "dimethyldisulfide (DMDS)"],
+  "temperature_range": "98 °C",
+  "summary": "The study describes the preparation of transparent MoS2 counter electrodes for bifacial dye-sensitized solar cells (DSSCs) using atomic layer deposition (ALD) at a relatively low temperature of 98 °C. The MoS2 nanofilms with thicknesses of 3–16 nm are deposited on transparent conducting oxide glass substrates. The 3 nm-thick MoS2 film shows reasonable photovoltaic performance under both front- and back-illumination conditions, making it suitable for bifacial DSSCs.",
+  "evidence": "MoS2 nanofilms with precisely controlled thicknesses of 3–16 nm are conformally coated on transparent conducting oxide glass substrates. The process is carried out at a relatively low temperature of 98 °C, which is suitable for flexible plastic substrates. DSSCs with 3 nm-thick MoS2 CEs exhibit reasonable conversion efficiencies under both front- and back-illumination conditions."
+}

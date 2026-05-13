@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "AlCl3",
+    "H2O"
+  ],
+  "temperature_range": "300 to 800 °C",
+  "summary": "The study investigates the influence of single and double deposition temperatures on the interface quality of atomic layer deposited Al2O3 dielectric thin films on silicon. It shows that using 300/500 °C double growth temperatures improves interface quality by reducing interfacial state density (Dit) and disorder-induced gap states (DIGS). However, very high temperatures like 800 °C lead to defective films with higher Dit and DIGS values.",
+  "evidence": "As for single growth temperatures, 300 °C leads to the lowest density of states distributed away from the interface to the insulator /H20851disorder-induced gap states /H20849DIGS/H20850/H20852, but to the highest interfacial state density /H20849Dit/H20850. However, by using 300/ 500 ° C double growth temperatures it is possible to maintain low DIGS values and to improve the interface quality in terms of Dit. ... samples in which the only layer or the upper one was grown at the highest temperature /H20849800 °C/H20850show the poorest results both in terms of D it and DIGS, so using very high temperatures yield defective dielectric films."
+}

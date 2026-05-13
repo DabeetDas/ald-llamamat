@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involved in the plasma enhanced atomic layer deposition (PEALD) of SiN x films were not explicitly detailed in the text. However, the text mentions the use of trimethylsilane (TMS) as the silicon precursor and ammonia (NH3) as the reactant gas, suggesting a reaction between TMS and NH3 to form SiN x. The text also notes that the plasma enhances the reactivity between the chemisorbed silicon precursor and nitrogen reactant, leading to the formation of dense, conformal films.",
+  "intermediate_species": ["Si–N bonds", "Si–C bonds"],
+  "evidence": "The text states, 'As Si-CH3 bonds in the organosilicon precursor were broken under repeat plasma conditions, dense Si–N bonds gradually replace the Si–C bonds in the films.' Additionally, it mentions, 'the plasma power increased, the dissociation level of NH3 became higher. Therefore, more N-rich species and less H-rich species were incorporated into the films.'"
+}

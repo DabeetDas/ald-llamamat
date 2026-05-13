@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "2Ca(thd)2 (g) + TiF4 (g) → 2CaF2 (s) + Ti(thd)4 (g)"
+  ],
+  "surface_mechanism_description": "The reaction involves ligand exchange between Ca(thd)2 and TiF4, where Ca(thd)2 reacts with TiF x adsorbed on the surface to form solid CaF2 and volatile Ti(thd)4. After the Ca(thd)2 pulse, TiF4 reacts with the adsorbed Ca(thd)x to form solid CaF2 and volatile Ti(thd)4, completing the ALD cycle.",
+  "intermediate_species": [
+    "TiF x",
+    "Ca(thd)x",
+    "Ti(thd)4"
+  ],
+  "evidence": "The preceding TiF4 pulse has left TiF x adsorbed on the surface of a previously deposited CaF2. The incoming Ca(thd)2 first reacts with TiF x forming solid CaF2 and volatile Ti(thd)4. After Ca(thd)2 has consumed all TiF x on the surface, Ca(thd)2 still adsorbs on top of the freshly formed solid CaF2 and the surface becomes covered by adsorbed Ca(thd)x. Then during the TiF4 pulse TiF4 reacts with Ca(thd)x and volatile Ti(thd)4 and solid CaF2 are formed, as reaction scheme (b) in Figure 4 depicts."
+}<|im_end|>

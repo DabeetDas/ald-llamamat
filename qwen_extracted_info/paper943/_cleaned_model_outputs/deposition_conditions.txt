@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "425",
+ "pressure": "8 Torr",
+ "precursor_pulse_time_s": "30",
+ "coreactant_pulse_time_s": "15",
+ "purge_time_s": "30",
+ "number_of_cycles": "100, 200, 400 and 800",
+ "reactor_type": "hot wall reactor",
+ "evidence": "The process parameters are presented in Table 2. The substrates used were commercially available amorphous nanoporous anodic alumina membranes with a diameter of 13 mm. The pores were 200 nm in diameter and 70 Am in length, giving an aspect ratio (length over width) of 350. They were placed on a sample holder with the pores perpendicular to the gas flow. The growth of the film was carried out in cycles of six pulses repeated 100, 200, 400 and 800 times. The different gases that are employed in the different pulses are presented in Table 1. Compared to the copper deposition on flat substrates (Al2O3 and SiO2) using ALD, longer pulse durations have been used. This is due to the need for a longer diffusion time in the porous substrates used in this study. The pulse lengths were varied between 10 and 30 s. For the experimental series where the numbers of deposition cycles were varied the following pulse durations were optimal: 30 s for CuCl, 15 s for water, 15 s for the combined water/hydrogen pulse and 15 s for hydrogen. The purging pulses were all 30 s. The process parameters are presented in Table 2."
+}

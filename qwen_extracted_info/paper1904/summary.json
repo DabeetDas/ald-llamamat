@@ -1,0 +1,11 @@
+{
+  "target_material": "Iridium",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "(MeCp)Ir(CHD)",
+    "molecular oxygen"
+  ],
+  "temperature_range": "225–350 /C14 C",
+  "summary": "Iridium thin films were deposited using (MeCp)Ir(CHD) and molecular oxygen as precursors via thermal ALD between 225 and 350 /C14 C. The films showed good adhesion on Al2O3 nucleation layers, with surface roughness decreasing as temperature increased. The 50 nm thick film at 275 /C14 C had a roughness of 1.2 nm, contained about 3 at% oxygen, 0.6 at% carbon, and 1.6 at% hydrogen impurities, and had a resistivity of 9 mU cm.",
+  "evidence": "Iridium thin films were grown by atomic layer deposition (ALD) between 225 and 350 /C14 C using (MeCp)Ir(CHD) and molecular oxygen as precursors. ... The 50 nm thick film deposited at 275 /C14 C had a roughness of 1.2 nm, contained about 3 at% oxygen, 0.6 at% carbon and 1.6 at% hydrogen impurities, while the resistivity was as low as 9 mU cm."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "185",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": "0.5",
+  "coreactant_pulse_time_s": "0.5",
+  "purge_time_s": "0.5",
+  "number_of_cycles": "1000",
+  "reactor_type": "F-120",
+  "evidence": "Pulses for both precursors were varied up to 3 s. Each precursor pulse was followed by a 0.5 s nitrogen purge. Onto a trench patterned substrate a film was grown using 5 s pulses and purges."
+}

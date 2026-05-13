@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "300 mtorr",
+  "precursor_pulse_time_s": 0.3,
+  "coreactant_pulse_time_s": 0.3,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "Fig. 1(a) illustrates the sequences of the ZnO and Ga 2O3 ALD cycle as follows: ZnO; DEZ dose (0.3 s) – N2 purge (10 s) – H2O dose – N2 purge (10 s) and Ga 2O3; TMG dose (0.3 s) – N2 purge (10 s) – O3 dose (1 s) – O3 exposure (3 s) – N2 purge (10 s)."
+}

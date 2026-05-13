@@ -1,0 +1,8 @@
+{
+  "target_material": "Alumina (Al2O3)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["trimethylaluminum", "distilled water"],
+  "temperature_range": "25°C",
+  "summary": "Alumina nanotubes were fabricated using GaQ3 organic nanowires as a template through atomic layer deposition (ALD). The process involved depositing alumina using trimethylaluminum and distilled water at 25°C. The nanotubes were formed by removing the GaQ3 template through dissolution in toluene or heat treatment at 350°C. The study aimed to develop a method for creating alumina nanotubes with controlled dimensions and uniformity.",
+  "evidence": "The deposition was conducted at 25°C by using trimethylaluminum and distilled water as the precursors of Al2O3. The GaQ3 template could be further removed either by dissolution in toluene for 1 h or by heat treatment at 350 °C for 10 min."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Lithium Oxide and Lithium Hydroxide",
+  "process_type": "Thermal ALD and PEALD",
+  "main_precursors": ["Lithium tert-butoxide (LiOtBu)", "H2O", "Plasma O2"],
+  "temperature_range": "225 to 300 °C",
+  "summary": "The study demonstrates the ultraclean atomic layer deposition (ALD) of Li2O and LiOH using lithium tert-butoxide (LiOtBu) precursor with H2O and plasma O2 as oxidants. The process results in LiOH below 240 °C and Li2O above 240 °C. The use of plasma O2 as the oxidation precursor leads to a combination of Li2CO3 and Li2O products. The chemistry of the films is characterized using XPS and in situ spectroscopic ellipsometry, revealing the reaction mechanisms and kinetics of thermal LiOH decomposition. The study also investigates the air reactivity of Li2O and the formation of Li2CO3 upon CO2 exposure.",
+  "evidence": "We demonstrate the ultraclean atomic layer deposition (ALD) of Li2O and LiOH using lithium tert-butoxide (LiOtBu) precursor with H2O and plasma O2 as oxidants, along with conversion of Li2O and LiOH products to Li2CO3 upon CO2 dosing. Using LiOtBu and H2O results in LiOH below 240 °C and Li2O above 240 °C for otherwise identical process parameters. Substituting plasma O2 as the oxidation precursor results in a combination of Li2CO3 and Li2O products, indicating modification of the ALD reaction preventing volatilization of the C from the Li precursor."
+}<|im_end|>

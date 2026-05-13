@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["CdTe"],
+  "temperature_range": "2801C",
+  "summary": "The study reports on the growth of CdTe nanostructures using atomic layer epitaxy (ALE) on a ZnTe buffer layer. The process involves a metastable zone where CdTe can form dot-like islands, and the kinetics of the ALE process delay the onset of plastic relaxation, allowing for the formation of these islands. The interdiffusion between Cd and Zn is observed, and the optical properties of the resulting nanostructures are analyzed.",
+  "evidence": "The kinetics during growth, studied here by comparing MBE and ALE processes, not only delays the onset of the plastic relaxation by revealing an intermediate zone where the islands can be formed, but also allows some interdiffusion between the cations, Cd and Zn, to occur, as evidenced by studying the optical properties of these dot-like islands."
+}<|im_end|>

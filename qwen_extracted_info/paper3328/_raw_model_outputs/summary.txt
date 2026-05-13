@@ -1,0 +1,8 @@
+{
+  "target_material": "Lithium Fluoride (LiF)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["LiHMDS", "anhydrous HF"],
+  "temperature_range": "100–250 ◦C",
+  "summary": "The study describes the development of an atomic layer deposition (ALD) process for lithium fluoride (LiF) to create thin films for ultraviolet optical coatings. The process uses alternating exposure to LiHMDS and anhydrous HF, with a deposition rate of approximately 0.15 Å per cycle at 150 ◦C. Films deposited at 150 ◦C showed significant microroughness, which was mitigated by reducing the temperature to 100 ◦C. The films were characterized for optical properties, surface roughness, and environmental stability. The study also evaluated the performance of LiF-protected aluminum mirrors for far ultraviolet (FUV) applications, achieving a reflectance of 84% at 125 nm.",
+  "evidence": "Abstract: Lithium ﬂuoride is an important material for ultraviolet optical systems... Films deposited on silicon substrates were subjected to long-term storage testing to evaluate the environmental sensitivity of the deposited layers. Protected aluminum mirrors were also fabricated with ALD LiF overcoats, yielding a reﬂectance of 84% at a wavelength of 125 nm."
+}<|im_end|>

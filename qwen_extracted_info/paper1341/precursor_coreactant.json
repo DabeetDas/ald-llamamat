@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "TMA",
+    "DMAD",
+    "BDEAS"
+  ],
+  "coreactants": [
+    "Oxygen plasma"
+  ],
+  "purge_gas": [
+    "Argon"
+  ],
+  "carrier_gas": [
+    "Argon"
+  ],
+  "evidence": "As precursors, bis(diethylamino)silane (BDEAS, STREM Chemicals), trimethylaluminum (TMA, STREM, min. 98%) and DMAD were used as the respective metal/metalloid source. The precursor DMAD was synthesized according to literature. All precursors were stored in stainless steel cartridges. TMA was cooled to 0 °C, while BDEAS and DMAD were heated to 45 °C. As purge and plasma gas, argon (99.999, Air Liquide, Alpha Gaz) and oxygen (99.995%, Air Liquide, Alpha Gaz) were used with flow rates of 25 sccm in both cases."
+}

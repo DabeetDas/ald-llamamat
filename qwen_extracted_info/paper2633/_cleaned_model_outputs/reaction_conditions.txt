@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the (N tBu)2(NMe2)2Mo precursor and subsequent reaction with O2 plasma. The mechanism includes the formation of surface species such as Mo-O and the regeneration of surface hydroxyl groups through plasma exposure. The process is accompanied by the desorption of byproducts like CH4 and H2O.",
+  "intermediate_species": ["Mo-O", "surface hydroxyl groups", "ligands from the precursor"],
+  "evidence": "The surface reaction mechanism is described in the text as involving the adsorption of the (N tBu)2(NMe2)2Mo precursor and subsequent reaction with O2 plasma. The process includes the formation of surface species such as Mo-O and the regeneration of surface hydroxyl groups through plasma exposure. The text also mentions the desorption of byproducts like CH4 and H2O."
+}

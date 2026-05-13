@@ -1,0 +1,17 @@
+{
+  "target_material": "noble metals and oxides",
+  "process_type": "ALD",
+  "main_precursors": [
+    "AlCl3",
+    "H2O",
+    "trimethylaluminum (TMA)",
+    "Ti(OMe)4",
+    "MeCpPtMe3",
+    "Ir(acac)3",
+    "RuCp2",
+    "O2"
+  ],
+  "temperature_range": "250 - 350 °C",
+  "summary": "The study explores the use of poly(methyl methacrylate) (PMMA) films as mask layers in selective-area atomic layer deposition (ALD) for noble metals and metal oxides. The PMMA films were patterned using UV lithography and tested in ALD processes for iridium, platinum, ruthenium, Al2O3, and TiO2. The growth temperatures ranged from 250 to 350 °C. The PMMA mask passivated the surface against ALD growth, allowing deposition only on patterned areas. The study also highlights the challenges in removing PMMA after ALD processes and the impact of precursor type on passivation effectiveness.",
+  "evidence": "Selective-area atomic layer deposition (ALD) was achieved using poly(methyl methacrylate) (PMMA) films as growth inhibiting mask layers. The PMMA films were prepared from PMMA-toluene solution by spin-coating and patterned by UV lithography through a mechanical mask. The tested noble metal processes were iridium, platinum, and ruthenium, and the oxide processes were Al2O3 and TiO2. The growth temperatures were 250 - 350 °C."
+}

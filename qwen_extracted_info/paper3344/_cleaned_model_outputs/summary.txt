@@ -1,0 +1,8 @@
+{
+  "target_material": "In2(S,O)3",
+  "process_type": "plasma-enhanced ALD (PEALD)",
+  "main_precursors": ["In(acac)3", "H2S", "O2 plasma"],
+  "temperature_range": "160 °C",
+  "summary": "The study describes the atomic layer deposition of In2(S,O)3 films using In(acac)3, H2S, and O2 plasma as precursors. The process involves an exchange reaction between sulfur and oxygen atoms, facilitated by O2 plasma, allowing the synthesis of In2(S,O)3 films at 160 °C. The optical band gap of the films can be tuned by varying the number of O2 plasma pulses, and the films exhibit high oxygen content due to oxidation mechanisms during deposition.",
+  "evidence": "This paper describes the atomic layer deposition of In2(S,O)3 films by using In(acac)3 (acac = acetylacetonate), H2S and either H2O or O2 plasma as oxygen sources. ... The maximum growth rate was 1.4 Å/cycle, which is higher than the growth rates of In2S3 ... The optical band gap increased from 2.2 eV to 3.3 eV for In2O3 cycle ratios in the range from 0 to 11.8%."
+}

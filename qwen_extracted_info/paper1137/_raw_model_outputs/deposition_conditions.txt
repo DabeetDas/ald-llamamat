@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 5,
+  "number_of_cycles": 2000,
+  "reactor_type": "F-120",
+  "evidence": "The basic pulse sequence wasn*(3 s La(thd)3), 5 s purge, 3 s O 3,,5 s purge, m* ( 1 sT M A ) ,5 spurge,3 sO3 and 5 s purge where n and m were varied to control the stoichiometry."
+}<|im_end|>

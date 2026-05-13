@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["[2,2,6,6-tetramethyl-3,5-heptadionato]Cu(II), Cu(thd)2"],
+  "temperature_range": "3501C",
+  "summary": "The study reports the atomic layer deposition of (111)-textured copper thin films on oxidized Si(100) surfaces using a Cu(II) b-diketonate complex as a precursor. The films exhibit strong (111) texture, large grain size, and high conductivity. The process parameters, including substrate temperature and number of ALD cycles, significantly influence the microstructure and texture of the films. The films show low resistivity and high electromigration resistance, making them suitable for VLSI metallization.",
+  "evidence": "Copper ﬁlms with (111) texture are of crucial importance in integrated circuit interconnects. We have deposited strongly (111)-textured thin ﬁlms of copper by atomic layer deposition (ALD) using [2,2,6,6-tetramethyl-3,5-heptadionato]Cu(II), Cu(thd)2, as the precursor. The (111) texture of the ALD-grown copper films was studied further by transmission electron microscopy (TEM). The morphology of the films was examined by SEM as a function of film thickness. The film grown at 3501C for 720 ALD cycles has a room temperature resistivity of 1.7mOcm, effectively the bulk value, indicating that the film is chemically pure."
+}<|im_end|>

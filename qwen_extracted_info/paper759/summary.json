@@ -1,0 +1,12 @@
+{
+  "target_material": "BaMgAl10O17:Eu2+ blue phosphor",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "Si(OC2H5)4",
+    "C2H5N",
+    "H2O"
+  ],
+  "temperature_range": "70 °C",
+  "summary": "The study investigates the use of atomic layer deposition (ALD) to grow SiO2 films on BaMgAl10O17:Eu2+ blue phosphor to reduce degradation during high-temperature fabrication processes. The ALD process uses Si(OC2H5)4 as a precursor, C2H5N as a catalyst, and H2O as a reactant gas. The SiO2 films were found to improve photoluminescence intensity and reduce surface degradation by acting as a barrier against oxygen diffusion.",
+  "evidence": "SiO2 films were prepared using Si(OC2H5)4, C2H5N and H2O as precursor, catalyst and reactant gas, respectively. The photoluminescence intensity (PL) for SiO2-coated phosphors showed 1.2–5.5% higher than that of uncoated. These films might retard the oxygen diffusion into phosphors and react with europium ions."
+}

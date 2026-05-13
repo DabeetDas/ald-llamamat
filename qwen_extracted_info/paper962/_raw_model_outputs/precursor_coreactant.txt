@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMA (trimethyl-Al)", "PDMAT (pentakis(dimethylamino)-Ta)", "TDMAT (tetrakis(dimethylamino)-Ti)"],
+  "coreactants": ["H2O vapor"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "For the surface modification of ITO, some of the patterned samples were treated with Al2O3, Ta2O5, or TiO2 for various numbers of cycles (3, 5, and 20) using an ALD system at room temperature. The ALD processes for Al2O3, Ta2O5, and TiO2 were performed using TMA (trimethyl-Al), PDMAT (pentakis(dimethylamino)-Ta), and TDMAT (tetrakis(dimethylamino)-Ti) as metal precursors, respectively, and H2O vapor was used as an oxidant. Ar was used as a purging gas and all of the precursors were maintained at room temperature except PDMAT (65 /C176C) during the ALD process."
+}<|im_end|>

@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "HfCl4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Each precursor was pulsed for 2 s and N2 purging followed for 30 and 60 s after each H2O and HfCl4 pulse, respectively."
+}

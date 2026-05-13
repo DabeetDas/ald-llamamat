@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "850-980",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "10",
+ "number_of_cycles": null,
+ "reactor_type": "ALE system growth chamber with vane assembly",
+ "evidence": "The flows of Si2H6 and C2H4 were started, the filament heated and sample rotation begun. Typically each sample was rotated 360 ° before pausing under the filament for 30 s, repeating as required for desired film thickness. The sample was stopped under a H2 purge, the Si2H6 and C2H4 flows were stopped and the filament extinguished."
+}<|im_end|>

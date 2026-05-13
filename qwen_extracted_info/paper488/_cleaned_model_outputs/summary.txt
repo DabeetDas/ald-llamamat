@@ -1,0 +1,8 @@
+{
+  "target_material": "hafnium and zirconium oxide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tetrakis(dimethylamido) hafnium (IV)", "tetrakis(dimethylamido) zirconium (IV)"],
+  "temperature_range": "501C to 3501C",
+  "summary": "The study investigates the ALD deposition of hafnium and zirconium oxide thin films using alkyl amide precursors. The process involves the use of water as an oxygen source and explores the effects of temperature on film crystallinity and surface morphology. The goal is to control surface roughness and crystallite sizes through nanolaminate strategies.",
+  "evidence": "Hafnium and zirconium oxide films were prepared by atomic layer deposition (ALD) from dialkylamido precursors. Water was used as the oxygen source. ... The goal of this study was to investigate the ALD deposition of zirconium and hafnium oxide using tetrakis(dimethylamido) hafnium (IV) and tetrakis(dimethylamido) zirconium (IV) in the context of film morphology and crystallinity. ... The deposition temperature was varied from 501C to 3501C."
+}

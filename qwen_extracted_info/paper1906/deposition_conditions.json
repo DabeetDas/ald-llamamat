@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "8–12 mbar",
+  "precursor_pulse_time_s": "2.0",
+  "coreactant_pulse_time_s": "0.3",
+  "purge_time_s": "5.0",
+  "number_of_cycles": "2000",
+  "reactor_type": "R-75BE ALD reactor",
+  "evidence": "The deposition of CaB2O4 thin films by ALD was studied with CaTp2 as the calcium and boron source and water as the oxygen source. In initial growth trials, the sublimation temperature for CaTp2 was found to be optimum at 198 /C14 C at the reactor pressure. The substrate temperatures were varied between 275 and 400 /C14 C. Nitrogen (99.9995%) was used as both the carrier and purge gas and was obtained from air using a Texol GeniSys nitroGenerator. Deposition experiments were performed using a range of CaTp2 pulse lengths, water pulse lengths, and nitrogen purge lengths to determine the extent of surface saturation."
+}

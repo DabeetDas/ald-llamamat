@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 0.12,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.71,
+  "crystal_phase": "cubic",
+  "evidence": "The peak at 29.7° for the as-deposited films indicates the onset of film crystallization at the ALD conditions used, i.e. 250 °C. Upon annealing, another two weak diffraction peaks at 34.2° and 49.1° are observed when the annealing temperature is 800 °C or higher. The major peaks have been identified to be in the cubic phase with the (2 2 2) orientation dominance (ICDD cards: 008-8242 and 26-0604)."
+}

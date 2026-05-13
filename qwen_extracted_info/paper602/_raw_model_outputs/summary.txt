@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Trimethylaluminum (AI(CH3)3)", "H2O"],
+  "temperature_range": "450 K",
+  "summary": "Al2O3 films were deposited using a binary reaction sequence involving Trimethylaluminum (TMA) and H2O on Si(100) and porous alumina membranes. The process involved alternating exposures of TMA and H2O, with each exposure followed by evacuation. The growth rate was 1.1 A/AB cycle at 450 K, and the films exhibited high conformality and uniform thickness.",
+  "evidence": "Ellipsometric measurements obtained a growth rate of 1.1 A/AB cycle on the Si(100) substrate at the optimal reaction conditions. The A1203 films had an index of refraction of n = 1.65 that is consistent with a film density of p = 3.50 g/cm³. Atomic force microscope images revealed that the Al2O3 films were exceptionally flat with a surface roughness of only +3 A (rms) after the deposition of ~270 A using 250 AB reaction cycles."
+}<|im_end|>

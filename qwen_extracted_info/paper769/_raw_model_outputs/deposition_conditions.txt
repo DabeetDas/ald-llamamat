@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "130-150",
+  "pressure": "4",
+  "precursor_pulse_time_s": "6",
+  "coreactant_pulse_time_s": "10",
+  "purge_time_s": "90",
+  "number_of_cycles": "50",
+  "reactor_type": "thermal ALD system",
+  "evidence": "The Ni(dmamb)2 precursor was held at 80°C to guarantee sufficient reactant molecules in the ALD reaction chamber, and the connecting lines were maintained at 100°C. The substrate temperature was varied between 80°C and 240°C for nickel sulfide thin films, and between 110°C and 170°C for nickel oxide thin films. The total chamber pressure was controlled at 4 Torr."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "NH3 facilitates the decomposition of Ta(OC2H5)5. Tantalum oxide films were deposited by ALD using Ta(OC2H5)5 and NH3 on the Si substrate at 250-275 °C. As-deposited films were amorphous and contained nitrogen and carbon impurities. Annealing in oxygen atmosphere crystallized the films and decreased the impurities.",
+  "intermediate_species": [
+    "Ta(OC2H5)5",
+    "NH3",
+    "nitrogen",
+    "carbon"
+  ],
+  "evidence": "NH3 facilitates the decomposition of Ta(OC2H5)5. Tantalum oxide films were deposited by ALD using Ta(OC2H5)5 and NH3 on the Si substrate at 250-275 °C. As-deposited films were amorphous and contained nitrogen and carbon impurities. Annealing in oxygen atmosphere crystallized the films and decreased the impurities."
+}

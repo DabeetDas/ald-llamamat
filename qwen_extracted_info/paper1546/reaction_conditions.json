@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the coordination of the tetraen ligand to calcium, which acts as a belt and bends the thd ligands toward each other. The amine ligand is disordered and coordinates to Ca through four nitrogen atoms, leaving one terminal amine group uncoordinated. The growth process is influenced by the precursor flux and surface reactions, with the growth rate becoming independent of the precursor flux above a certain limit needed to achieve full monolayer coverage.",
+  "intermediate_species": [
+    "[Ca(thd)2(tetraen)]",
+    "tetraen ligand",
+    "thd ligand"
+  ],
+  "evidence": "The surface reactions involve the coordination of the tetraen ligand to calcium, which acts as a belt and bends the thd ligands toward each other. The amine ligand is disordered and coordinates to Ca through four nitrogen atoms, leaving one terminal amine group uncoordinated. The growth process is influenced by the precursor flux and surface reactions, with the growth rate becoming independent of the precursor flux above a certain limit needed to achieve full monolayer coverage."
+}

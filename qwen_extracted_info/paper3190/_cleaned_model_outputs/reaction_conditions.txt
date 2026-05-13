@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The plasma-enhanced ALD process involves the reaction of surface hydroxyl groups with the metal precursor, followed by an oxygen plasma step to regenerate the hydroxyl sites. The high reactivity of the plasma allows for the removal of surface groups at lower temperatures, enabling deposition at room temperature.",
+  "intermediate_species": ["surface hydroxyls", "formate species", "methoxy groups", "hydroxyl groups"],
+  "evidence": "The text states, 'the high reactivity of the plasma is attributed to the fact that it contains reactive ionic and radical oxygen species, which makes it an appealing candidate for obtaining high purity films at temperatures as low as room temperature.' Additionally, it mentions, 'ozone is more reactive than water toward the surface methyl groups, forming hydroxyl, methoxy, formate, and carbonate surface groups in the process.'"
+}

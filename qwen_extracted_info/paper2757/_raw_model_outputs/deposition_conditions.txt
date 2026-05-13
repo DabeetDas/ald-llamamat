@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150 –300",
+  "pressure": "4.5 ± 1 mbar",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": "7",
+  "purge_time_s": "5",
+  "number_of_cycles": "1000",
+  "reactor_type": "F-120",
+  "evidence": "Thin films were deposited in an F-120 Sat ALD reactor (ASM Microchemistry). LiO tBu (Sigma Aldrich, 97%) and NH 4F (Sigma Aldrich, 99.99%) were used as precursors delivered from open boats inside the reactor held at 130 and 95 °C, respectively. Pulsing/purging times were 5 s/5 s and 7 s/3 s for LiO tBu and NH4F, respectively."
+}<|im_end|>

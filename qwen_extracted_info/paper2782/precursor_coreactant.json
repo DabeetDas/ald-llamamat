@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "tris(butylcyclopentadienyl)yttrium (Y(CpBut)3)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The ALD Y2O3 films were deposited using the ASO NanoTech equipment (Makhachkala, Russia). The setup was equipped by a vacuum chamber with hot walls for the inlet of a viscous inert gas. Ultra high purity nitrogen (UHP, 99.9999%) was used as the carrier gas. In the ALD process, the N2 pressure in the reactor was kept at a level of ~1.0 Тorr."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 275,
+  "pressure": "2 -3 mbar",
+  "precursor_pulse_time_s": 1.5,
+  "coreactant_pulse_time_s": 2.0,
+  "purge_time_s": 1.8,
+  "number_of_cycles": 1000,
+  "reactor_type": "F-120",
+  "evidence": "Thin ﬁlm depositions of RxMnyO3 with R = Y, La, Sm, Tb, Yb, and Lu were performed using a commercial ﬂow-type ALD reactor (F-120 by ASM Microchemistry Ltd.) under a pressure of 2 -3 mbar. A basic ALD cycle consisted of the following sequence: 1.5 s R(thd) 3 followed by 1.5 s purge or 2.0 s Mn(thd) 3 followed by 2.0 s purge, 1.5 s ozone, and 1.8 s purge."
+}

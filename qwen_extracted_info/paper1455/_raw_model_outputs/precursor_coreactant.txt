@@ -1,0 +1,7 @@
+{
+  "precursors": ["(CpMe)2HfMe2", "(CpMe)2Hf(OMe)2", "(CpMe)2Hf(OMe)Me", "Cp2Hf(OMe)2"],
+  "coreactants": ["Ozone"],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Nitrogen"],
+  "evidence": "Ozone was used as the oxygen source. Nitrogen ( >99.999%, Schmidlin UHPN 3000 N2 generator) was used as a carrier and purging gas."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 210,
+  "pressure": "2 × 10−5 Torr",
+  "precursor_pulse_time_s": 90,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "coaxial microwave cavity",
+  "evidence": "For a global cycle of BiFeO3, the film composition was controlled by pulsing precursors in the sequence as shown in Figure 1 which consisted of a cycles of Bi(TMHD)3:O and b cycles of Fe(TMHD)3:O. The growth rates of Fe2O3 and Bi2O3 as a function of the pulse time are shown in Figure 4a; the fitted curves are shown as a guide for the eye. The data indicated that 90 s precursor pulse time for both Bi(TMHD)3 and Fe(TMHD)3 was sufficient to achieve saturation and was kept constant as a process parameter for the remainder of the experiments."
+}

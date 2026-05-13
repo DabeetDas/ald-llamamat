@@ -1,0 +1,8 @@
+{
+  "target_material": "Gold nanoparticles",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["trimethylphosphino-trimethyl gold (III)", "ozone", "water"],
+  "temperature_range": "105 °C",
+  "summary": "This study describes a thermal atomic layer deposition (ALD) process for depositing gold nanoparticles on TiO2 with controlled size and loading. The process uses trimethylphosphino-trimethyl gold (III) as the metal precursor and ozone and water as co-reactants. The exposure time of the co-reactants is used to control the particle size distribution independently from the Au loading. The process enables the synthesis of Au/TiO2 nanocomposites with tunable particle size and loading, which enhances photocatalytic activity.",
+  "evidence": "We show that the exposure time of the precursors is a variable that can be used to decouple the Au particle size from the Au loading. Longer exposures of ozone narrow the particle size distribution while longer exposures of water broaden it. By studying the photocatalytic activity of Au/TiO2 nanocomposites we show how the ability to control particle size and loading independently can be used not only to enhance performance but also to investigate structure-property relationships."
+}

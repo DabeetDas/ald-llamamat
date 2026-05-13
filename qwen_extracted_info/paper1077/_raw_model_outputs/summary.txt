@@ -1,0 +1,8 @@
+{
+  "target_material": "ruthenium",
+  "process_type": "thermal ALD",
+  "main_precursors": ["bis(cyclopentadienyl)ruthenium", "oxygen"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the effect of oxygen exposure on the atomic layer deposition (ALD) of ruthenium using bis(cyclopentadienyl)ruthenium and oxygen gas. The results show that increasing oxygen flow rate significantly affects the growth rate and resistivity, while changes in oxygen exposure time do not. The properties of the deposited films were analyzed using various techniques, revealing the formation of amorphous RuOx at high oxygen flow and metallic Ru at long oxygen exposure time with small oxygen flow.",
+  "evidence": "The effect of the oxygen exposure on ruthenium atomic layer deposition (ALD) was investigated. Ru ALD was carried out using bis(cyclopentadienyl)ruthenium and oxygen gas. ... The growth rate and resistivity increased with increasing O2 flow at the fixed O2 exposure time. Various in-depth analyses by XRD, XPS, RBS, XRR, and TEM revealed that ALD Ru film at the high O2 flow has poor crystallinity and low film density due to the formation of amorphous RuOx phase."
+}<|im_end|>

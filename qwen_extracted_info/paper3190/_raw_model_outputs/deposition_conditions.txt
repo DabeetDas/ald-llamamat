@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "25-400",
+  "pressure": "100–1000 mTorr",
+  "precursor_pulse_time_s": 0.02,
+  "coreactant_pulse_time_s": 0.05,
+  "purge_time_s": 3,
+  "number_of_cycles": null,
+  "reactor_type": "FlexAL",
+  "evidence": "The ALD process conditions for the metal oxides reported in this work. The purges for the ALD processes where † Ti„ CpMe…„ OiPr…3‡ and † TiCp/H11569„ OMe…3‡ were used only incorporated an argon flow for part of the duration. In these cases, the pumping and argon (Ar) times are given in the order they occurred during the purge. In all other cases, a continuous Ar flow was employed throughout the cycle. \"Oxidant\" refers to an O2 plasma for plasma-enhanced ALD and water for thermal ALD. The conditions for the Ta2O5 process on the ALD-I reactor are reported elsewhere. 27"
+}<|im_end|>

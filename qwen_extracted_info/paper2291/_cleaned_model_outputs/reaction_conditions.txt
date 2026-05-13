@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the alternating exposure of SiCl2H2 and H2, leading to the deposition of Si on Ge(100) with a self-limiting process. The growth mechanism is characterized by the formation of a surface termination with H or Cl, which suppresses Ge segregation and allows for uniform Si layer growth. The process involves the desorption of H2 and HCl during the SiCl2H2 exposure, and the subsequent deposition of Si via the reaction of SiCl2H2 with surface hydrogen sites.",
+  "intermediate_species": ["SiCl2H2", "H2", "Si", "Ge", "HCl"],
+  "evidence": "The text describes the use of alternating exposures of SiCl2H2 and H2 to deposit Si on Ge(100). It mentions that the process involves the desorption of H2 and HCl during the SiCl2H2 exposure, and the subsequent deposition of Si via the reaction of SiCl2H2 with surface hydrogen sites. The presence of H or Cl termination on the surface suppresses Ge segregation, and the growth mechanism is supported by the observation of epitaxial Si layers with uniform thickness."
+}

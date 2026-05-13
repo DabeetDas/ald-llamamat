@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "M(acac)n(g) + HO==silica(s) -> (acac)n/C0 1M O==silica(s) + Hacac(g)",
+    "M(acac)n(g) + HO==silica(s) -> (M(acac)n)/C1/C1/C1 HO==silica(s)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between Co(acac)2 and surface hydroxyl groups, releasing Hacac, and molecular association of Co(acac)2 on the surface, at least on surfaces with a small number of OH groups.",
+  "intermediate_species": [
+    "Co(acac)2",
+    "surface hydroxyls",
+    "Hacac"
+  ],
+  "evidence": "The reaction of vaporised Cr(acac)3 with silica has been investigated most thoroughly. At 127 /C14 C, the reaction does not saturate, and the chromium loading can be increased by increasing the Cr(acac)3 dose. The adsorption is associative and is proposed to take place through hydrogen bonding between acac ligands and surface OH groups as shown in eqn. (1), and through multi-layer adsorption. When the reaction temperature is elevated to about 160 /C14 C, multi-layer adsorption no longer takes place and the Cr(acac)3 reaction saturates. The predominant adsorption mode at intermediate temperatures of 160 /C14 C8 and 190 /C14 C16 is association: reaction (1). When the reaction temperature is elevated further to about 200 /C14 C, ligand exchange reaction, reaction (2), begins to dominate: Cr(acac)3 loses one of its ligands through reaction with surface OH groups, attaching to the surface as O–Cr(acac)2 and releasing volatile acetylacetone (Hacac). Ligand exchange also occurs between Ni(acac)2 and silica at 200 /C14 C."
+}<|im_end|>

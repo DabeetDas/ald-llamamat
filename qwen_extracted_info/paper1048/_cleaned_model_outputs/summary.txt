@@ -1,0 +1,8 @@
+{
+  "target_material": "PbTiO3",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["Ph4Pb", "Ti(O-i-Pr)4"],
+  "temperature_range": "250 - 300 -C",
+  "summary": "Lead titanate thin films were deposited by atomic layer deposition (ALD) using Ph4Pb and Ti(O-i-Pr)4 as precursors. The films were annealed at 600–900 -C to obtain crystalline PbTiO3. The study focused on optimizing the Ti : Pb pulsing ratio for stoichiometric and uniform films.",
+  "evidence": "Lead titanate thin films were deposited by atomic layer deposition (ALD) on Si(100) using Ph4Pb and Ti(O-i-Pr)4 as metal precursors and O3 and H2O as oxygen sources. The influence of the Ti : Pb precursor pulsing ratio on the film growth, stoichiometry and quality was studied at two different temperatures, i.e. 250 and 300 -C. The as-deposited films were amorphous but the crystalline PbTiO3 phase was obtained by rapid thermal annealing at 600 – 900 -C both in N2 and O2 ambient."
+}

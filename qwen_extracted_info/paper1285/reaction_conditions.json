@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "TiCl4 + NH3 → TiN + 4HCl"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of TiCl4 and NH3 on the surface, followed by surface reaction to form TiN. The surface species are regenerated through the desorption of byproducts such as HCl. The passivation layer inhibits the growth of TiN on the non-growth areas by suppressing precursor adsorption.",
+  "intermediate_species": [
+    "Surface hydroxyls",
+    "Monomethyl aluminum",
+    "Formate species"
+  ],
+  "evidence": "The reaction mechanism is described as follows: 'The TiN ALD process relies on reaction 1. +→ + +3TiCl4NH3TiN12HCl1/2N432 (R1)' and 'The failure of amino terminated surfaces to prevent the TiCl4 precursor adsorption and further reaction with the NH3 coreactant is not surprising, in view of the well-known ALD TiN deposition mechanism.'"
+}

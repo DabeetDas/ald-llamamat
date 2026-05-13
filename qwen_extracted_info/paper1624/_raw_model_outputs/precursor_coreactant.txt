@@ -1,0 +1,7 @@
+{
+  "precursors": ["(hfac)Ag(PMe3)", "formalin", "trimethylaluminum (TMA)", "H2O"],
+  "coreactants": ["formalin", "TMA", "H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "For AB-type ALD, (hfac)Ag(PMe3) was the A precursor and formalin (formaldehyde, Sigma-Aldrich, 37 wt % in H2O with 10% methanol in water added for stability) was the B precursor. For ABC-type ALD, (hfac)Ag(PMe3) was the A precursor, trimethylaluminum (TMA, Sigma-Aldrich, 97%) was the B precursor, and 18.2 MΩ cm−1 Millipore H2O was the C precursor."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "CaS:Pb",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["bis(2,2,6,6-tetramethylheptanedionato)-calcium", "H2S", "tetraethyl lead (TEL)"],
+  "temperature_range": "350–400 °C",
+  "summary": "The study describes the fabrication of CaS:Pb blue phosphor using atomic layer deposition (ALD) to incorporate dimeric Pb²⁺ luminescent centers. The process involves controlled deposition of CaS and PbS layers using specific precursors, with the temperature range of 350–400 °C. The blue electroluminescence (EL) emission at 440–445 nm was achieved by maintaining Pb concentration between 0.6 and 2.5 mol %, with the reactivity of tetraethyl lead (TEL) playing a key role in forming dimeric Pb²⁺ centers.",
+  "evidence": "The CaS:Pb phosphor emitting blue electroluminescence induced by dimeric Pb²⁺ luminescent centers was deposited using the controlled atomic layer deposition technique. The deposition temperatures were 350 and 400 °C. The reactivity of TEL as a Pb precursor was attributed to the formation of dimeric intermediate states during the ALD process. The blue EL emission at 440–445 nm could be maintained with Pb concentration ranging from 0.6 to 2.5 mol %."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": ["diethylzinc (DEZn)", "deionized water"],
+  "temperature_range": "120 to 240 8C",
+  "summary": "Transparent and conductive undoped zinc oxide (ZnO) thin films were grown by atomic layer deposition (ALD) on glass substrates. The films showed high electrical conductivity and optical transparency, with the best performance at 200 8C. The study focused on the relationship between growth conditions, film properties, and electrical performance.",
+  "evidence": "Atomic layer deposition (ALD) was used to fabricate transparent and conductive thin films of ZnO. Two hundred-nano metre thick ZnO films were deposited on glass substrates at low growth temperatures varied between 120 and 240 8C. As zinc and oxygen precursors we used diethylzinc (DEZn) and deionized water, respectively."
+}

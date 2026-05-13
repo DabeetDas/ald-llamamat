@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "NH3"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "A 300 nm SiO2 layer was deposited on a Si substrate using PECVD, and subsequently a 30 nm TiN film was deposited on the SiO2 by ALD technique in a Pulsar 2000 reactor with pure precursors of TiCl4 and NH3 at 390 °C in N2 purging gas."
+}

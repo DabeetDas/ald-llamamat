@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface chemistry for W ALD on TiO2(110) involves a 2:1 stoichiometry for Si/W, where each W atom deposited during the WF6 half-reaction replaces two Si atoms from the preceding Si2H6 half-reaction. Assuming a similar process, if all surface oxygen sites (hydroxyl groups) react with Si2H6 to form O-SiH3 surface species, a W coverage of 0.5 ML is expected, but the observed coverage of 0.38 ML may result from steric hindrance between the O-SiH3 surface species or insufficient Si2H6 exposures to saturate all hydroxyl groups.",
+  "intermediate_species": [
+    "O-SiH3 surface species"
+  ],
+  "evidence": "The surface chemistry for W ALD on SiO2 exhibits a 2:1 stoichiometry for Si/W. 12 In other words, each W atom deposited during the WF6 half-reaction replaces two Si atoms from the preceding Si2H6 half-reaction. Assuming a similar process for W ALD on TiO2(110), and if all of the surface oxygen sites (hydroxyl groups) react with Si2H6 to form O-SiH3 surface species, then we expect a W coverage of 0.5 ML. The lower observed coverage of 0.38 ML may result from steric hindrance between the O-SiH3 surface species that slightly reduces the initial Si coverage. Alternatively, the Si2H6 exposures used in this study may not have been sufficient to saturate all of the hydroxyl groups on the TiO2 surface."
+}

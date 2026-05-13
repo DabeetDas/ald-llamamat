@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Sn(edpa)2"
+  ],
+  "coreactants": [
+    "O2-plasma",
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "During ALD, Sn(edpa)2 was kept in a canister at 60 °C and delivered into the reactor with an Ar carrier gas flow of 100 standard cubic centimeters per minute (sccm). The canister for H2O was maintained at 25 °C, and the H2O vapor was introduced into the chamber without any carrier gas. A cycle of the ALD process consisted of four sequential steps; (1) Sn(edpa)2 pulse, (2) Ar purge (500 sccm), (3) reactant gas pulse (O2-plasma or H2O), and (4) Ar purge (500 sccm)."
+}

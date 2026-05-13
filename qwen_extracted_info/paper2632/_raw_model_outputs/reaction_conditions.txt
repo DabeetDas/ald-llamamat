@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "–Si(OCH2CH3)3(ad) + H2O(g) → –Si(OCH2CH3)3/x(OH)x(ad) + xCH3CH2OH(g)",
+    "–Si(OCH2CH3)3/x(OH)x(ad) + xAl(CH3)3(g) → –Si(OCH2CH3)3/x(OAl(CH3)2)x(ad) + xCH4(g)",
+    "–Si(OCH2CH3)3/x(OAl(CH3)2)x(ad) + (3 + x)H2O(g) → Si(OH)3/x(OAl(OH)2)x(ad) + 2xCH4(g) + (3 - x)CH3CH2OH(g)"
+  ],
+  "surface_mechanism_description": "The presence of Al-OH* group in vicinity of partially hydroxylated ethoxy (–OCH2CH3) group propagates disproportionation reaction, which results in ALD of AlxSiyO.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "ethoxy (–OCH2CH3) group",
+    "Al-OH* group",
+    "monomethyl aluminum (Al(CH3)3)",
+    "Si–O–Al bonds",
+    "–OCH2CH3 ligands",
+    "–CH3 ligands"
+  ],
+  "evidence": "The presence of Al-OH* group in vicinity of partially hydroxylated ethoxy (–OCH2CH3) group was found to propagate disproportionation reaction, which results in ALD of AlxSiyO."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "a-Al2O3",
+  "process_type": "molecular layer epitaxy (MLE)",
+  "main_precursors": ["AlCl3", "He 15% O2"],
+  "temperature_range": "-400 to -800°C",
+  "summary": "The study reports the successful growth of single-crystal a-Al2O3 films on sapphire wafers and Nb films using molecular layer epitaxy (MLE) at temperatures above -600°C. The process involves alternating transport of AlCl3 vapor and He 15% O2 gas mixture, resulting in a growth rate of approximately 0.09 nm per cycle. The films are epitaxial, single-crystalline, and exhibit smooth surfaces. The MLE method allows precise control of film thickness and stoichiometry.",
+  "evidence": "Single-crystal a-Al2O3 films are, for the first time, successfully grown on sapphire wafers above -600°C by the molecular layer epitaxy (MLE) method using AlCl3 vapor and a He 15% O2 gas mixture. The average growth rate observed barely depends on the substrate temperature, being -0.09 nm per cycle of gas transport, under the used growth conditions. The epitaxial growth of a-Al2O3 films on single-crystal Nb films at ~500°C by the MLE method is also confirmed for the first time."
+}

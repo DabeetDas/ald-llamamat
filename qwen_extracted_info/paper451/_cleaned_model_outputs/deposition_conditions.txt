@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "1000-1050",
+ "pressure": "60",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "5",
+ "number_of_cycles": null,
+ "reactor_type": "hot-wall type LPCVD",
+ "evidence": "The growth temperatures were varied from 1000 to 1050°C. The total pressure of the reaction tube and the partial pressure of C,H, were fixed at 60 and 5.4 mTorr, respectively. An interval of 5 s was employed after stopping the SiH2Cl, supply, while an interval of 3 s was employed after stopping the C2H2 supply."
+}

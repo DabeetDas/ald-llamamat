@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMGa", "TEGa", "EDMGa"],
+  "coreactants": ["AsH3"],
+  "purge_gas": ["H2"],
+  "carrier_gas": [],
+  "evidence": "The Ga-alkyls and arsenine (AsH3) were sent in cycles of sequential pulses separated by hydrogen (H2) purge flows to avoid gas-phase mixing."
+}<|im_end|>

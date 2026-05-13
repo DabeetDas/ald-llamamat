@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "H2 + e → 2 H + e",
+    "CoPx + 3(x-y) H → CoPy + (x-y) PH3 (↑) (0 < y < x)"
+  ],
+  "surface_mechanism_description": "The H2 plasma step removes excess phosphorus, which is critical for achieving a self-limited layer-by-layer deposition. The excess P, which cannot be eliminated in the subsequent Ar purge step, would continue to react with the precursor, leading to an uncontrollable deposition. The H2 plasma step effectively removes the P species on the chamber wall, resulting in a reduced growth rate and a more homogeneous deposition.",
+  "intermediate_species": [
+    "CoPx",
+    "PH3",
+    "CoPy"
+  ],
+  "evidence": "The following reactions may happen during the H2 plasma step: H2 + e → 2 H + e. CoPx + 3(x-y) H → CoPy + (x-y) PH3 (↑) (0 < y < x). The impact of the H2 plasma step was also investigated by changing its length from 0 to 3*t2. As shown in Figure S1, the saturation of the growth rate and P/Co ratio was achieved when t3 ≥ 2*t2. Thus, the H2 plasma does not etch the Co-P film further."
+}<|im_end|>

@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Atomic Force Microscopy (AFM)",
+    "Scanning Electron Microscopy (SEM)",
+    "Rutherford Backscattering Spectroscopy (RBS)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Grazing Incidence X-ray Diffraction (GI-XRD)",
+    "Spectroscopic Ellipsometry (SE)",
+    "X-ray Photoelectron Spectroscopy (XPS) depth profile",
+    "Electrical measurements (C-V/I-V)"
+  ],
+  "evidence": "The as-deposited HfO2 films are characterized by atomic force microscopy (AFM), scanning electron microscopy (SEM), Rutherford backscattering spectroscopy (RBS), X-ray photoelectron spectroscopy (XPS), and electrical measurements. The morphology of the films was analyzed by SEM measurements, where a featureless surface was observed. The surface roughness of the HfO2 thin films was analyzed by AFM. The composition of the films was analyzed by RBS, and the presence of Hf and O in the films on Si(100) at various deposition temperatures was confirmed by these measurements. XPS depth profile analysis was performed in order to get the in-depth composition of the films. The preliminary electrical characterization was performed on MOS capacitor structures using capacitance/voltage (C-V) and current/voltage (I-V) measurements."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Al 2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethyl aluminum",
+    "H2O"
+  ],
+  "temperature_range": "80 ° C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to grow a 100-nm-thick Al2O3 gate insulator for low-voltage, high-performance amorphous indium gallium zinc oxide (a-IGZO) thin-film transistors (TFTs). The ALD process uses trimethyl aluminum and H2O as precursors at 80 °C, resulting in a gate dielectric with low leakage current, high capacitance density, and excellent electrical properties. The resulting TFTs exhibit high field-effect mobility, low threshold voltage, and high on-off current ratios, making them suitable for low-power, high-frequency applications.",
+  "evidence": "A Savannah100 ALD system from Cambridge Nanotech Inc. was used to deposit Al2O3 dielectric films. The Al2O3 films were deposited at 80 °C using alternating exposures of trimethyl aluminum and H2O vapor."
+}

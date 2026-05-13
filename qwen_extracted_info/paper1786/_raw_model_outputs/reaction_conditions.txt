@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "Ru + RuO4 → 2RuO2",
+    "RuO2 + 2H2 → Ru + 2H2O"
+  ],
+  "surface_mechanism_description": "The reaction of the RuO4 molecule with the Ru-surface leading to a monolayer of RuO2 is the mechanism that ensures a self-saturated behaviour of the first half reaction, which is a critical requirement to achieve a well-behaved ALD process.",
+  "intermediate_species": [
+    "RuO2"
+  ],
+  "evidence": "It is hypothesized that the reaction of the RuO4 molecule with the Ru-surface leading to a monolayer of RuO2 is the mechanism that ensures a self-saturated behaviour of the first half reaction, which is a critical requirement to achieve a well-behaved ALD process."
+}<|im_end|>

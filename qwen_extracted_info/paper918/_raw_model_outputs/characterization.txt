@@ -1,0 +1,17 @@
+{
+  "characterization_methods": [
+    "XRD",
+    "ToF-SIMS",
+    "ERDA",
+    "XPS",
+    "TZDB",
+    "TDDB",
+    "BTS",
+    "Triangular voltage sweep",
+    "Ellipsometry",
+    "RBS",
+    "SIMS",
+    "TEM"
+  ],
+  "evidence": "XRD data suggests that PEALD and PECVD Ru-C films are only weakly crystalline. The ToF-SIMS analysis was performed under the following conditions. Analysis: 25 keV Bi1 +, 1 pA, 80–80 lm2 pitch, 10 kHz, high-current-bunched mode (high mass resolution). Sputtering: 500 eV Cs, 30 nA, 300–300 lm2 pitch. The film crystallization was investigated via XRD. 2-Theta scans were measured at grazing incidence (omega 2) using a Philips X’pert MRD, within a range of 15–50, the step width was 0.1, the integration time was 60s per step. Additionally, quantitative ERDA and qualitative ToF-SIMS measurements of Ru and C contents were performed on the same wafer pieces. The samples have been analysed with ERDA (Elastic Recoil Detection Analysis) using a 35 MeV Cl 7+ ion beam. The angle between the sample normal and the incoming beam is 75, the scattering angle is 31. The analysed area is about 1.5–1.5 mm2. The recoil ions have been detected with a Bragg Ionisation Chamber using an full energy detection circuit and a fast timing circuit to obtain a Z dependent signal to separate ion species. The ToF-SIMS analysis was performed under the following conditions. Analysis: 25 keV Bi1 +, 1 pA, 80–80 lm2 pitch, 10 kHz, high-current-bunched mode (high mass resolution). Sputtering: 500 eV Cs, 30 nA, 300–300 lm2 pitch. The film crystallization was investigated via XRD. 2-Theta scans were measured at grazing incidence (omega 2) using a Philips X’pert MRD, within a range of 15–50, the step width was 0.1, the integration time was 60s per step. TZDB (I–V) measurements were conducted using a Keithley 237 SMU, the chuck was either kept at room temperature or heated to 250. In order to distinguish between device degradation due to mere thermal diffusion and due to additional field drift, negative and positive voltage ramps were applied to the dots, respectively. During BTS and TDDB (E-const) measurements the electrical fields were kept at +2MV/cm and +5 MV/cm, the chuck temperature was 250 and the current was monitored by the SMU 237. CV plots from -20 to +20 V before and after stressing the dots were obtained using a HP 4284A, at a frequency of 100 kHz, with 0.5 V AC small signal amplitude. Triangular voltage sweep measurements were carried out to determine the number of Na, K and Cu ions inside the dielectric quantitatively. An HP 4140B is used to apply an analogue, i.e. continuous voltage ramp to the dots before and after BTS. The film crystallization was investigated via XRD. 2-Theta scans were measured at grazing incidence (omega 2) using a Philips X’pert MRD, within a range of 15–50, the step width was 0.1, the integration time was 60s per step. The samples have been analysed with ERDA (Elastic Recoil Detection Analysis) using a 35 MeV Cl 7+ ion beam. The angle between the sample normal and the incoming beam is 75, the scattering angle is 31. The analysed area is about 1.5–1.5 mm2. The recoil ions have been detected with a Bragg Ionisation Chamber using an full energy detection circuit and a fast timing circuit to obtain a Z dependent signal to separate ion species."
+}<|im_end|>

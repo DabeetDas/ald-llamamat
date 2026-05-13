@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "100 mTorr",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "Cambridge Nanotech Fiji F200 ALD reactor",
+  "evidence": "Films were typically grown to 30 nm thick at a substrate temperature of 200 °C, with a chamber working pressure of 100 mTorr under Ar carrier gas. TDMAS was used as the Sn precursor with remote pN2 for SnNy growth and H2O for SnO2. SnOxNy films were grown using the SnNy process and periodically pulsing H2O into the reactor after several cycles, following a similar process for TiOxNy reported in the literature."
+}

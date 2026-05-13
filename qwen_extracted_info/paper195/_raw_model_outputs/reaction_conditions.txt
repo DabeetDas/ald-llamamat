@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "3H2SðgÞþ 2InðacacÞ3ðgÞ! In2S3ðsÞþ 6acacHðgÞ"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the chemical vapor deposition of In2S3 using In(acac)3 and H2S precursors. The reaction is carried out in an ALD reactor with a pulsing sequence of In(acac)3, N2, H2S, and N2. The surface reaction is likely to involve the adsorption of In(acac)3 and H2S on the substrate surface, followed by surface reactions to form In2S3 and the desorption of byproducts such as acacH.",
+  "intermediate_species": [
+    "In(acac)3",
+    "H2S",
+    "acacH"
+  ],
+  "evidence": "The reaction equation and mechanism are described in the text: 'ALD In2S3 films were grown in an F120 travelling wave reactor from Microchemistry Ltd, with 5 /C2 5 cm substrate size. Indium acetylacetonate (In(CH3COCHCOCH3)3) abbreviated In(acac)3), and hydrogen sulphide (H2S) were used as precursors for the reaction: 6 3H2SðgÞþ 2InðacacÞ3ðgÞ! In2S3ðsÞþ 6acacHðgÞ.'"
+}<|im_end|>

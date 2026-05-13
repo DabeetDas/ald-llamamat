@@ -1,0 +1,8 @@
+{
+  "target_material": "silica",
+  "process_type": "Rapid ALD",
+  "main_precursors": ["tris(tert-pentoxy)silanol (TPS)", "trimethylaluminum (TMA)"],
+  "temperature_range": "175 °C",
+  "summary": "The study describes the application of rapid silica atomic layer deposition (ALD) to coat anatase titania nanoparticles. The process uses alternating doses of tris(tert-pentoxy)silanol (TPS) and trimethylaluminum (TMA) at 175 °C in a fluidized bed reactor. The growth mechanism involves siloxane polymerization, and the films are conformal and uniform. The study also highlights the effectiveness of the ALD films in mitigating the photoactivity of titania nanoparticles.",
+  "evidence": "ABSTRACT Conformal silica films were deposited on anatase titania nanoparticles using rapid silica atomic layer deposition (ALD) in a fluidized bed reactor. Alternating doses of tris(tert-pentoxy)silanol (TPS) and trimethylaluminum (TMA) precursor vapors were used at 175 °C. In situ mass spectroscopy verified the growth mechanism through a siloxane polymerization process. Transmission electron microscopy revealed highly conformal and uniform silica nanofilms on the surface of titania nanoparticles. A growth rate of ∼1.8 nm/cycle was achieved for an underdosed and incomplete polymerization reaction. Primary nanoparticles were coated despite their strong tendency to form dynamic agglomerates during fluidization. Methylene blue oxidation tests indicated that the photoactivity of anatase titania particles was mitigated with the ALD films."
+}<|im_end|>

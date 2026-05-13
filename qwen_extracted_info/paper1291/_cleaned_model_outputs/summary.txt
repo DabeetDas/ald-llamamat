@@ -1,0 +1,8 @@
+{
+  "target_material": "Mg xCa1−xO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Bis(N,N′-diisopropylacetamidinato)calcium(II) dimer", "Bis(N,N′-di-sec-butylacetamidinato)magnesium", "H2O"],
+  "temperature_range": "310 °C",
+  "summary": "The study demonstrates the epitaxial growth of Mg xCa1−xO on GaN using atomic layer deposition (ALD). The material is used as a gate dielectric in GaN MOS-HEMT devices, showing high performance with an ultrahigh on/off ratio and a near-ideal subthreshold swing. The optimal composition Mg0.25Ca0.75O was found to have the lowest interfacial defect density.",
+  "evidence": "ALD of Mg xCa1−xO was carried out in a home-built tubular reactor. Bis(N,N′-diisopropylacetamidinato)calcium(II) dimer, bis(N,N′-di-sec-butylacetamidinato)magnesium, and H2O were used as calcium, magnesium, and oxygen sources, respectively. The optimal growth temperature is determined to be 310 °C. The Mg0.25Ca0.75O film showed the lowest interfacial defect density."
+}

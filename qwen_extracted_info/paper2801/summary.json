@@ -1,0 +1,10 @@
+{
+  "target_material": "Ge",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "GeH4"
+  ],
+  "temperature_range": "room temperature",
+  "summary": "The study describes the use of Ar ion laser heating for Ge atomic layer epitaxy.",
+  "evidence": "Ge Atomic Layer Epitaxy by Use of Ar Ion Laser Heating"
+}

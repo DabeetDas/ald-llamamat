@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "CH3-eliminated fragments of DDAP + OH* → PtMe* + CH4"
+  ],
+  "surface_mechanism_description": "The DDAP precursor reacts with terminated hydroxyl (-OH) functional groups of SiO2 surface, followed by formation and elimination of CH4, and adsorption of the rest (CH3-eliminated precursor). The butene amine ligand could be subsequently removed to form a smaller PtMe adsorbate on the SiO2 substrate by breaking Pt-N bond of adsorbed DDAP precursor without any combustion reaction.",
+  "intermediate_species": [
+    "CH3-eliminated fragments of DDAP",
+    "PtMe*",
+    "CH4"
+  ],
+  "evidence": "The DDAP precursor react with terminated hydroxyl (-OH) functional groups of SiO2 surface, followed by formation and elimination of CH4, and adsorption of the rest (CH3-eliminated precursor). The butene amine ligand could be subsequently removed to form a smaller PtMe adsorbate on the SiO2 substrate by breaking Pt-N bond of adsorbed DDAP precursor without any combustion reaction."
+}<|im_end|>

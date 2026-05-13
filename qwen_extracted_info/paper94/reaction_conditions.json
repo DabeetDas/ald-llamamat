@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD reactions of H2O are completed faster when the initial surface is saturated with chemisorbed 1 than with chemisorbed tris( N,N’-diisopropylacetamidinato)indium(III).",
+  "intermediate_species": [
+    "chemisorbed 1",
+    "chemisorbed 2"
+  ],
+  "evidence": "It was observed that the ALD reactions of H2O are completed faster when the initial surface is saturated with chemisorbed 1 than with chemisorbed tris( N,N’-diisopropylacetamidinato)indium(III)."
+}

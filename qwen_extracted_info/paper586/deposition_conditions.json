@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-400",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "low pressure flow-type ALD reactor",
+  "evidence": "The thin films were grown in a low pressure flow-type ALD reactor. Each of the periodically repeated growth cycles included a TiCl4 pulse, purge time, H2O pulse and another purge time."
+}

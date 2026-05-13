@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "130-250",
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "45",
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall",
+  "evidence": "The pressure of NO in the reaction chamber was set to be 2 Torr and hold time was set to be 30s to facilitate its reaction with the Sn precursor and to allow deep penetration into a high-aspect-ratio structure. The purge time after Sn precursor and oxidant pulses was set to be 45s to completely remove unreacted species to prevent reaction in vapor phase."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Fe2O3",
+  "process_type": "Plasma enhanced ALD",
+  "main_precursors": ["tert-butyl ferrocene (TBF)", "O2 plasma"],
+  "temperature_range": "150 to 400 /C14 C",
+  "summary": "This study reports a novel plasma enhanced atomic layer deposition (PEALD) process for Fe2O3 thin films using tert-butyl ferrocene (TBF) and O2 plasma. The process allows for deposition in a broad temperature range from 150 to 400 /C14 C, with a maximum growth rate of 1.2 ˚A per cycle between 300 and 350 /C14 C. Films deposited at 250 /C14 C and above are crystalline with an a-Fe2O3 structure, while lower temperature films can be crystallized by post-deposition annealing in He. Annealing in H2 can induce the formation of metallic iron, making the process versatile for applications such as data storage, biomedicine, and magnetic devices.",
+  "evidence": "Plasma enhanced atomic layer deposition of Fe2O3 thin films... using tertiary butyl ferrocene (TBF) and O2 plasma in a broad temperature range starting from 150 to 400 /C14 C. A maximum growth rate of 1.2 ˚A per cycle was achieved between 300 and 350 /C14 C. Below 300 /C14 C, the saturated growth per cycle was found to depend on the temperature of the sample. Films deposited at 250 /C14 C and above were crystalline with an a-Fe2O3 crystal structure, while the low temperature films were crystallized by a post-deposition annealing in He. Annealing in H2 induced the formation of metallic iron."
+}

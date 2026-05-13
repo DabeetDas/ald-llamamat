@@ -1,0 +1,11 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "(ethylbenzyl) (1-ethyl-1,4-cyclohexadienyl) Ru (0) (EBECHRu C16H22Ru)",
+    "O2"
+  ],
+  "temperature_range": "420°C",
+  "summary": "The study focuses on the fabrication of highly scaled ruthenium nanowires using atomic layer deposition (ALD) for interconnect applications. Ruthenium wires with cross-sectional areas as small as 33 nm² were achieved through a metal-spacer patterning technique. The process involves depositing conformal Ru layers using ALD with thermal ALD for a TiN adhesion layer. The wires were characterized for resistivity and electrical performance, showing low resistivity values and good agreement between physical and electrical cross-sectional area measurements.",
+  "evidence": "Conformal Ru layers of thickness 8, 10, and 12 nm were subsequently deposited on the cores using atomic layer deposition (ALD) from (ethylbenzyl) (1-ethyl-1,4-cyclohexadienyl) Ru (0) (EBECHRu C16H22Ru) and O2. To improve adhesion between Ru and the SiO2 cores, a 0.3 nm thick TiN layer was deposited by thermal ALD prior to Ru deposition. The wires were characterized physically, and complemented by electrical measurements. The smallest electrical cross-section area of the wires was calculated to be 33 nm², in reasonable agreement with the corresponding physical area determined from TEM images. The resistivity of 35 μΩcm was measured for the nanowire with 33 nm² cross section area."
+}

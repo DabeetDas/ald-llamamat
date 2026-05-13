@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 73,
+  "density_g_cm3": null,
+  "refractive_index": "1.37–1.43",
+  "surface_roughness_nm": 15.9,
+  "crystal_phase": "highly crystalline",
+  "evidence": "The rms roughness of the ﬁlms increases with increasing deposition temperature, being 6.3 nm for the ﬁlm deposited at 250 8C (111 nm) and 20.6 nm for the ﬁlm deposited at 350 8C (90 nm). The rms roughnesses of ﬁlms deposited at the lowest temperatures can be considered quite reasonable for ﬁlms showing such high crystallinity. The change in the roughness as a function of deposition temperature is almost linear, showing no large increase at deposition temperatures higher than 300 8C, despite the fact that the morphology could be seen to change considerably in the FESEM images. Such a linear increase in rms roughness has not been seen before in ALD ﬂuorides. Usually the roughness stays rather constant until a certain threshold deposition temperature, after which it increases dramatically."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["diethylzinc (DEZ, Zn(C2H5)2)", "trimethylaluminum (TMA, Al(CH3)3)"],
+  "coreactants": ["deionized water (H2O)"],
+  "purge_gas": ["Argon"],
+  "carrier_gas": ["Argon"],
+  "evidence": "ZnO ALD was performed using diethylzinc (DEZ, Zn(C2H5)2), trimethylaluminum (TMA, Al(CH3)3), and deionized water (H2O) as Zn, Al and oxidant precursor, respectively. Argon was used as a carrier and purge gas."
+}

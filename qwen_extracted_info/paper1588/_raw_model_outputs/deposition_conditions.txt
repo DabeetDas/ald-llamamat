@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "100 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The temperature of the substrate during the growth was 300 °C, whereas the solid precursor (HfCl4 as the source of Hf) was kept at 160 °C. Oxygen was supplied by injecting H2Oi nt h e reaction chamber using N2 as the carrier gas."
+}<|im_end|>

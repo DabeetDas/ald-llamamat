@@ -1,0 +1,8 @@
+{
+  "target_material": "Co3O4",
+  "process_type": "ALD",
+  "main_precursors": ["Co(thd)2", "ozone"],
+  "temperature_range": "138–283 °C for MgO(1 0 0) and 186–283 °C for the remaining substrates",
+  "summary": "The study describes the epitaxial growth of cobalt oxide (Co3O4) using atomic layer deposition (ALD) on single-crystalline substrates such as MgO(1 0 0), a-Al2O3(0 0 1), and SrTiO3(1 0 0). The process involves the use of Co(thd)2 and ozone as precursors, and the films were deposited at varying temperatures. The results show that the epitaxial orientation and film properties are influenced by the deposition temperature and the substrate type. The study also reports the resistivity and surface morphology of the films.",
+  "evidence": "Highly oriented thin films of cobalt oxide were made by the atomic layer deposition (ALD) technique, using Co(thd)2 and ozone as precursors. Films were deposited on single-crystalline substrates of MgO(1 0 0), a-Al2O3(0 0 1), and SrTiO3(1 0 0). The deposition temperature range was 138–283 °C for MgO(1 0 0) and 186–283 °C for the remaining substrates. The specific electronic resistivities of as-deposited films grown on the various substrates were measured to be from 0.8 to 85 Ωcm."
+}

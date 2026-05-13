@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": null,
+  "pressure": "",
+  "precursor_pulse_time_s": 40,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Savannah 100",
+  "evidence": "In this experiment, we tried both a chamber-type ALD setup with variable precursor exposure times (the Savannah 100, Cambridge Nanotech) and a flow-type ALD setup (the SUNALE R75, Picosun, Finland) with negligible exposure times."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-450",
+  "pressure": "",
+  "precursor_pulse_time_s": 1.5,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 2,
+  "number_of_cycles": 2000,
+  "reactor_type": "F-120",
+  "evidence": "Film deposition was achieved with a commercial flow type-F-120 ALD reactor (ASM-Microchemistry, Finland) using nitrogen (99.999% from Air Liquide, France) as a carrier and purging gas. The standard pulsing sequence is the following: /C15pulse 1: ZrCl 4 for 1.5 s; /C15pulse 2: N 2 purge for 2 s; /C15pulse 3: H 2O for 0.5 s; /C15pulse 4: N 2 for 2 s. In the standard operating mode, both sequences are repeated during 2000 cycles."
+}

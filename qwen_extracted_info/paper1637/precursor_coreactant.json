@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "La(iPr-MeAMD)3"
+  ],
+  "coreactants": [
+    "D2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Lanthanum tris( N,N′-diisopropylacetamidinate) carried by ultrapure N2 gas and water (D2O) are delivered alternatively to the ALD reactor through stainless steel tubing. After each precursor pulse, the reactor is purged and pumped for at least 5 min with ultrapure N2 gas to prevent cross gas phase reactions among precursors (i.e., CVD) and to eliminate byproducts after surface reactions."
+}

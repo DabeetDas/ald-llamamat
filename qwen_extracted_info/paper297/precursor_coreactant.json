@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "tertiary-amylimido-tris(dimethylamido)tantalum (TAIMA TA, Ta[NC(CH3)2C2H5][N(CH3)2]3)"
+  ],
+  "coreactants": [
+    "hydrogen (H2) plasma"
+  ],
+  "purge_gas": [
+    "argon (Ar)"
+  ],
+  "carrier_gas": [
+    "argon (Ar)"
+  ],
+  "evidence": "TAIMA TA was contained in a bubbler, which was heated to 60 °C and delivered to the reactor via an argon (Ar) carrier gas at a flow rate of 50 sccm. During deposition, Ar gas was continuously supplied to the reactor at 100 sccm, and an additional 50 sccm of Ar gas was introduced with each purge pulse."
+}

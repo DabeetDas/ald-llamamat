@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ta(OC2H5)5", "H2O"],
+  "coreactants": ["O2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The films were grown on the (1 0 0) silicon wafer and quartz substrates by Photo-ALD which used an UV lamp emitting 185 nm radiation. Ta(OC2H5)5 was evaporated from a boat held at 120 8C and was transpired with Ar carrier gas. H2O was used as a reactant gas and Ar as carrier and purge gas."
+}

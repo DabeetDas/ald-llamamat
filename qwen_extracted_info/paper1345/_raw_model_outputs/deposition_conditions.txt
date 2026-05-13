@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "270-360",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "hollow cathode plasma",
+  "evidence": "The process started with 10 minutes of plasma pretreatment using the same condition as the ALD half-cycle plasma exposure step. The representative time sequence of one cycle of the PEALD SiNx process is depicted in Figure 1c. First, the silicon precursor was exposed for 1s, followed by a precursor purge time of 30 s. Then, either NH3 or forming gas (10% H2 balance N2) was introduced. After a stabilization time of 5 s, the RF power was turned on for a plasma exposure time of 15 s at a chamber pressure of 300−400 mTorr, followed by a plasma purge time of 30 s."
+}<|im_end|>

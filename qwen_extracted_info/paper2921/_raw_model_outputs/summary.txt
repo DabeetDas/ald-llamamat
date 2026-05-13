@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "ALD",
+  "main_precursors": ["ZrI4", "H2O-H2O2"],
+  "temperature_range": "230-500°C",
+  "summary": "The study investigates the dielectric properties of ZrO2 films grown by atomic layer deposition (ALD) using ZrI4 and H2O-H2O2 precursors on p-Si substrates. The effects of deposition temperature on the dielectric properties, including breakdown field, relative permittivity, and dissipation factor, are analyzed. The films exhibit varying phase compositions and structural characteristics depending on the growth temperature, which influence their dielectric performance.",
+  "evidence": "ZrO2 films were grown from ZrI4 and H2O-H2O2 on p-Si substrates using the atomic layer deposition technique. The influence of deposition conditions on the dielectric properties of ZrO2 films was investigated. The breakdown field exceeded 2 MV/cm in the films grown at 325-500°C. The relative permittivity measured at 10 kHz was 20-24 in the films deposited at 275-325°C. The dissipation factor of these films was as low as 0.02-0.03. The relative permittivity decreased to 7 and the dissipation factor increased to 0.6 when the growth temperature was raised to 450-500°C."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "0.56 torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 50,
+  "number_of_cycles": null,
+  "reactor_type": "thermal ALD system",
+  "evidence": "In this experiment, one ALD cycle consisted of the following sequence: 1 s of the TDMASn precursor, 40 s of Ar gas purging, 3 s of the H2S reactant gas, and 50 s of Ar gas purging."
+}<|im_end|>

@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface hydroxyl groups on the silica-coated AAO membranes react with the hydrophobic silane, PFDS, to form a covalently bonded self-assembled monolayer. This functionalization imparts chemical selectivity to the membrane, allowing for the selective transport of hydrophobic molecules over hydrophilic ones.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "silane (PFDS)"
+  ],
+  "evidence": "The silane reacts with the OH groups on the Al and Si surfaces to form a covalently bonded self-assembled monolayer. The hydrophobic PFDS-modiﬁed membranes showed enhanced sensitivity (ﬂux ratio 5.52) to the transport of hydrophobic molecules (tris(2,2 0 -bipyridyl)dichlororuthenium(II) hexahydrate (Rubpy), over hydrophilic molecules (rose bengal (RB))."
+}

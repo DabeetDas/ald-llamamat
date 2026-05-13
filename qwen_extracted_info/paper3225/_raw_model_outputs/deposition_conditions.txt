@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "below 10 mbar",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 0.5,
+  "number_of_cycles": null,
+  "reactor_type": "F120",
+  "evidence": "The cycle times used were 0.5–0.5–0.5–0.5 s, denoting the sequence metal precursor pulse–purge–water pulse–purge. The films were grown in a commercial flow-type hot-wall reactor F120 (ASM Microchemistry, Ltd.)"
+}<|im_end|>

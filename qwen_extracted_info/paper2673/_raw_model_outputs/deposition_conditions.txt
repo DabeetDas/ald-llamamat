@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "25",
+  "pressure": "100 mTorr",
+  "precursor_pulse_time_s": 0.32,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 5,
+  "number_of_cycles": 300,
+  "reactor_type": "asymmetrical plate configuration with showerhead RF electrode and ground electrode",
+  "evidence": "One cycle in the ALD process consisted of (1) O2-plasma dose, (2) Ar purging, (3) DEZ dose, and (4) Ar purging. The process was started with O2-plasma dose in order to activate the surface. Prior to the plasma exposure, a 10 s O2 flow stabilization step was introduced to have a constant pressure when igniting the plasma. The pump system consisted of a turbomolecular pump (Pfeiffer vacuum TMH071P) and a rotary vane pump (Pfeiffer vacuum DUO5M). The pressure in the reactor was controlled via a butterfly valve (MKS 253B). The valve was set to a fixed opening in order to reach a pressure of around 100 mTorr during plasma exposure."
+}<|im_end|>

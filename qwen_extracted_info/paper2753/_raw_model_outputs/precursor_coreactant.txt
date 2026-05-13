@@ -1,0 +1,7 @@
+{
+  "precursors": ["Na(thd)", "Co(acac)3", "Ca(thd)2", "Co(thd)2"],
+  "coreactants": ["O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The Na xCoO2 films were grown from Na(thd) and Co(acac)3 metal precursors, while the Ca3Co4O9 films were grown with Ca(thd)2 and Co(thd)2 to be consistent with our earlier work. The precursor/N2 purge times were fixed to the following values based on preliminary tests: 4, 10, 3, and 12 s for the metal precursor exposure, precursor purge, O3 exposure, and O3 purge, respectively, in the Na xCoO2 process, and 5.5, 8, 3, and 8 s for the Ca precursor exposure, precursor purge, O3 exposure, and O3 purge, respectively, in the Ca3Co4O9 process."
+}<|im_end|>

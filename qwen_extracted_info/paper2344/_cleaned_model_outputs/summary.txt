@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs and AlAs",
+  "process_type": "Metalorganic Chemical Vapor Deposition (MOCVD)",
+  "main_precursors": ["trimethylgallium (TMG)", "AsH3", "trimethylaluminum (TMA)"],
+  "temperature_range": "560-600 °C",
+  "summary": "The paper reports the successful atomic layer epitaxy (ALE) of GaAs and AlAs using metalorganic chemical vapor deposition (MOCVD). The process involves sequential exposure of the substrate to column III and V precursors, with a shuttering mechanism to control exposure and prevent gas mixing. The deposited layers showed good optical properties and single-crystal quality, with thicknesses controlled by the number of deposition cycles.",
+  "evidence": "Atomic layer epitaxy (ALE) of II-V binary compounds... This technique can also be used to investigate the MOCVD growth mechanism... The substrate temperature was in the range of 560-600 °C... The growth process starts by heating the substrate under AsH3... The ALE samples of GaAs were characterized by photoluminescence (PL) at 77 K... The difference in thicknesses between ALE GaAs and AlAs is a result of the flux of the column III species... The ALE method gives more insight into the MOCVD process."
+}

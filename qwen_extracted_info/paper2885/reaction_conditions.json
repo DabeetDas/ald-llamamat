@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The nitridation reaction was initiated by abstracting hydrogens from Ta atoms, and the recombination of surface hydrogens with atomic hydrogens approaching from the gas-phase determines the number of available surface reactive sites for nitridation. The highly reactive molecular radicals and ions generated in plasma-assisted nitridation may have near unit sticking probability, allowing for a sufficient atomic flux of N on the Ta surface to promote the formation of Ta3N5 at a low temperature.",
+  "intermediate_species": [
+    "surface hydrogens",
+    "atomic hydrogens",
+    "N-containing radicals",
+    "highly reactive molecular ions"
+  ],
+  "evidence": "The Ta atoms on the surface are terminated by hydrogens, and the nitridation reaction can be initiated by abstracting the hydrogens from these Ta atoms. The recombination of surface hydrogens with atomic hydrogens approaching from the gas-phase determines the number of available surface reactive sites for nitridation. Once reactive sites are available on the surface, the absorption rate of N is determined by the sticking probability of gas-phase adsorbents. The highly reactive molecular radicals and ions generated in plasma-assisted nitridation may have near unit sticking probability."
+}

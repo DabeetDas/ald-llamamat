@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 50,
+  "density_g_cm3": null,
+  "refractive_index": "2.2 at 633 nm",
+  "surface_roughness_nm": 0.8,
+  "crystal_phase": "Amorphous",
+  "evidence": "The film thickness was measured using XRR and found to be linear with the number of cycles. The surface roughness (RMS = 0.8 nm) does not change significantly with temperature. The films are rather amorphous at 200 and 250 ◦C, while a reduction of this bandwidth is observed when the deposition occurs at 300 ◦C, indicating the transformation from amorphous to crystalline structure."
+}

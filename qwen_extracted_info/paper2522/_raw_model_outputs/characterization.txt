@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Auger electron spectroscopy (AES)",
+    "Ellipsometry",
+    "Cross-section high-resolution transmission electron microscopy (HRTEM)",
+    "Atomic force microscopy (AFM)",
+    "X-ray diffraction (XRD)",
+    "Metal-insulator-semiconductor capacitors (MISCAP)",
+    "Impedance meter",
+    "Picoammeter"
+  ],
+  "evidence": "The film thicknesses were measured by ellipsometry and cross-section high-resolution transmission electron microscopy (HRTEM). Auger electron spectroscopy (AES) and x-ray photoelectron spectroscopy (XPS) were used to investigate the composition depth profiles and changes in the surface binding states of the HfO2 films, respectively. The morphology and crystallinity of the films were investigated by atomic force microscopy (AFM) and x-ray diffraction (XRD), respectively. For the electrical characterization, metal-insulator-semiconductor capacitors (MISCAP) were fabricated by depositing Pt-top electrodes using an electron beam evaporation method through a shadow mask. A HP4194A impedance meter and a 4140B picoammeter were used to measure the capacitance vs voltage measurements (C – V) at 1 MHz and the leakage–current density vs voltage (J – V) measurements, respectively."
+}<|im_end|>

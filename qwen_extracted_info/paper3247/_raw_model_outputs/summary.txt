@@ -1,0 +1,8 @@
+{
+  "target_material": "Li3PO4",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethyl phosphate", "lithium hexamethyldisilazide", "lithium tert-butoxide"],
+  "temperature_range": "225–350 ◦C",
+  "summary": "Lithium phosphate thin films were deposited using atomic layer deposition (ALD) with trimethyl phosphate and either lithium hexamethyldisilazide or lithium tert-butoxide as precursors. The films showed slightly crystalline Li3PO4 structure and contained carbon and hydrogen impurities. The study aimed to explore the use of these films as electrolytes for lithium ion batteries and CO2 sensors.",
+  "evidence": "Lithium phosphate, Li3PO4, has been considered a potential electrolyte material for lithium ion batteries and CO2 sensors if the films can be made dense and of high quality already at low thickness. In this work, Li3PO4 thin films were deposited by atomic layer deposition (ALD) between 225 and 350 ◦C using trimethyl phosphate and either of the two lithium sources, namely lithium hexamethyldisilazide or lithium tert-butoxide."
+}<|im_end|>

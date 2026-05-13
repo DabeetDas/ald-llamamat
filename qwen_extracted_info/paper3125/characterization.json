@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "Rutherford backscattering spectroscopy",
+    "grazing-incidence diffraction",
+    "X-ray reﬂection (XRR)",
+    "X-ray diffraction (XRD)",
+    "Hall Effect",
+    "Four-point probe",
+    "C-V measurement",
+    "Ellipsometry",
+    "X-ray Photoelectron Spectroscopy (XPS)"
+  ],
+  "evidence": "The yttrium content was determined by Rutherford backscattering spectroscopy. Film crystallinity and thickness was evaluated by grazing-incidence diffraction and X-ray reﬂection (XRR). For electrical measurements, Al /HfO2:Y/TiN/Si/Al capacitors were constructed. The capacitance–voltage curves were measured using an HP4284A precision LCR meter at 1 kHz. The CET was calculated from CET = 3.9/H92550A/C, where 3.9 is the relative permittivity of SiO 2 and /H92550 is the vacuum permittivity, A is the capacitor area /H208490.204 mm 2/H20850, and C is the capacitance measured at zero bias voltage. For current–voltage measurements a Keithley 2400 source meter was used."
+}

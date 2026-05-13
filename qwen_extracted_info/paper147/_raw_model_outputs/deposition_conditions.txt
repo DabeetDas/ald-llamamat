@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300-450",
+  "pressure": "5 mbar",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 3.5,
+  "number_of_cycles": 300,
+  "reactor_type": "Aixtron AIX 200FE AVD",
+  "evidence": "The pulse cycle used for ALD was 2s precursor/2s purge/0.5s water/3.5s purge. ... Table 4. Growth conditions used for the deposition of HfO 2 by liquid injection ALD using [(MeCp) 2HfMe(OR)] (OR = OiPr, mmp) precursors. ... Pulse Sequence (Precursor/purge/water/purge) 2 s/2 s/0.5 s/3.5 s"
+}<|im_end|>

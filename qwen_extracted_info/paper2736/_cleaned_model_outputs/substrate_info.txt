@@ -1,0 +1,7 @@
+{
+  "substrate_material": "Silicon",
+  "substrate_orientation": "Si(100)",
+  "pretreatment": "The sample was cleaned by Ar+ sputtering, followed by annealing to >1300 K until no carbon or oxygen was observed by XPS.",
+  "surface_functionalization": "ND3 was used to derivatize the surface before TMAA exposure to passivate the silicon surface.",
+  "evidence": "The sample was cleaned by Ar+ sputtering, followed by annealing to >1300 K until no carbon or oxygen was observed by XPS. ... Based upon this guideline and the need for temperature modulation between processing steps, we performed cyclical experiments involving adsorption of ND3 at 675 K and TMAA at 380 K on Si(100)."
+}

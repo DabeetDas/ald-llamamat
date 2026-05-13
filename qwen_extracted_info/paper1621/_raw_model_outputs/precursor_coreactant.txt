@@ -1,0 +1,7 @@
+{
+  "precursors": ["Mn(thd)3", "Li(thd)", "LiO tBu", "LiN(SiMe3)2"],
+  "coreactants": ["O3", "H2O"],
+  "purge_gas": ["Ar", "N2"],
+  "carrier_gas": [],
+  "evidence": "The text states: 'A controllable ALD process for Li xMn2O4 was found by combining Mn(thd) 3, Li(thd), and ozone. The lithium content and crystalline phase of the films as a function of amount of lithium subcycles in the deposition sequence were studied. Furthermore, we studied film properties of ALD-MnO 2 and V 2O5 subjected to lithium ALD treatment.'"
+}<|im_end|>

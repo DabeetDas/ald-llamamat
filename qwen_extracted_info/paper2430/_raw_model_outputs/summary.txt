@@ -1,0 +1,8 @@
+{
+  "target_material": "nickel-coated TMV",
+  "process_type": "ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "H2O", "tetrakis-dimethylamido titanium (TDMAT)"],
+  "temperature_range": "220 ◦C for Al2O3, 150 ◦C for TiO2",
+  "summary": "The paper describes the use of atomic layer deposition (ALD) to synthesize core/shell nickel/metal oxide nanostructures on patterned nickel-coated Tobacco mosaic virus (TMV). The ALD process was performed at specific temperatures to deposit aluminum oxide (Al2O3) and titanium oxide (TiO2) layers on the nickel-coated TMV structures, enabling the formation of functional heterostructures for various applications.",
+  "evidence": "The nickel-coated patterned chips were placed in a TFS 500 BENEQ™ ALD reactor. The deposition of Al2O3 was performed using alternate pulse sequences of trimethylaluminum (TMA) and H2O at 220 ◦C while the deposition of TiO2 utilized tetrakis-dimethylamido titanium (TDMAT) and H2O at 150 ◦C."
+}<|im_end|>

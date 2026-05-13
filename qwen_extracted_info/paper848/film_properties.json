@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 19.7,
+  "density_g_cm3": 2.94,
+  "refractive_index": "1.96 at 632 nm",
+  "surface_roughness_nm": 0.5,
+  "crystal_phase": "wurtzite",
+  "evidence": "The pattern resulting from the interference of the x-rays reflected from the top surface and the film-substrate interface results in the emergence of Kiessig fringes at angles higher than the critical angle. While the distance between the two consecutive maxima gives thickness, density and roughness affect the signal amplitude and the overall attenuation rate. The fitted data are compared with the obtained experimental data, and illustrated in Fig. 1c. Five parameters were fitted simultaneously using a genetic algorithm resulting in values of film thickness, density and roughness of 19.7 nm, 3.07 g cm /C0 3, and 0.5 nm respectively. This thickness yields a growth rate of 0.65 Å/cycle. The roughness compares well with the measured average roughness of 0.7 nm, which was obtained from the arithmetic average of atomic force microscopy measurements."
+}

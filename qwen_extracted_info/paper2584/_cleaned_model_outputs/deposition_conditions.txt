@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-400",
+  "pressure": "2.8 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 15,
+  "number_of_cycles": 50,
+  "reactor_type": "parallel plate capacitance PECVD tool",
+  "evidence": "Unless stated otherwise, all the subsequently presented results were achieved at temperatures on the order of 400 /C14 C and at pressure of 2.8 Torr for both the SiH 4 gas and N 2/CO2 plasma exposures."
+}

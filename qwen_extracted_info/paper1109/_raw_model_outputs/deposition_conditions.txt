@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "290",
+ "pressure": "1.7 Torr",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": "60",
+ "purge_time_s": "30/50",
+ "number_of_cycles": "40",
+ "reactor_type": "low-pressure hot-wall quartz reactor",
+ "evidence": "Deposition conditions for both CVD and ALD techniques are given in Table 1. The films in this study were grown at a deposition temperature of 290 °C on (100) Si substrates. Standard deposition conditions for RuO 2 films. Deposition parameter CVD regime ALD regime Solvent Iso-octane Pyridine Pressure 5 Torr 1.7 Torr Argon flow rate 120 sccm 45 sccm Oxygen flow rate 600 sccm 200 sccm (in pulses) Precursor concentration 0.035 M 0.02 M Number of cycles – 40 Number of injections/cycle – 10 Oxygen pulse time – 60 s Purge time – 30/50 s"
+}<|im_end|>

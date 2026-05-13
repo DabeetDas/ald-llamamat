@@ -1,0 +1,11 @@
+{
+  "target_material": "Iridium",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Ir(acac)3",
+    "O2"
+  ],
+  "temperature_range": "380 ◦C",
+  "summary": "The study investigates the nucleation and properties of iridium thin films grown by atomic layer deposition (ALD) on various substrates. The ALD process uses iridium(III) acetylacetonate (Ir(acac)3) and molecular oxygen (O2) as precursors at a substrate temperature of 380 ◦C. The research focuses on how different substrates influence the growth behavior, layer properties, and nucleation of iridium films. The study reveals that the nucleation delay and growth behavior depend on the substrate material, with some substrates leading to inhibited growth and others promoting faster film formation. The results show that the surface free energy of the substrates correlates with the nucleation delay, and the properties of the iridium films, such as surface roughness, crystallite size, and electrical resistance, are significantly affected by the substrate material.",
+  "evidence": "The ALD process uses iridium(III) acetylacetonate (Ir(acac)3) and molecular oxygen (O2) as precursors at a substrate temperature of 380 ◦C. The study reveals that the nucleation delay and growth behavior depend on the substrate material, with some substrates leading to inhibited growth and others promoting faster film formation. The results show that the surface free energy of the substrates correlates with the nucleation delay, and the properties of the iridium films, such as surface roughness, crystallite size, and electrical resistance, are significantly affected by the substrate material."
+}

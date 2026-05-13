@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "50–200",
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": "1–5",
+  "coreactant_pulse_time_s": "1–5",
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
+  "evidence": "The tin oxide films were deposited onto a thermally grown SiO2 (200 nm) on a highly phosphorous doped Si(0 0 1) by PE-ALD with Sn(dmamp)2 and oxygen plasma (RF power /C24 150 W) respectively, at a substrate temperature range of 50–200 8C. The working pressure was kept at 3 Torr. Ar (80 sccm) was used as the carrier and purge gas. The pulse time was 1–5 s for the Sn(dmamp)2, 1–5 s for the oxygen plasma, and 5 s for the Ar purge."
+}

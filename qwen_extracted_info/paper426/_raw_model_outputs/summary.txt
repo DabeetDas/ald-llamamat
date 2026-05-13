@@ -1,0 +1,8 @@
+{
+  "target_material": "lead sulfide (PbS)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["H2S", "Pb(dedtc)2"],
+  "temperature_range": "300-350°C",
+  "summary": "The study describes the preparation of lead sulfide thin films using the Atomic Layer Epitaxy (ALE) process. The films were grown on various substrates using H2S as the sulfur source and Pb(dedtc)2 as the lead source. The growth rate was found to be higher with Pb(dedtc)2 due to the presence of Pb-S bonds in the complex. The films were characterized by XRD, XRF, SEM, and electrical measurements, showing polycrystalline structure and p-type conductivity. The results indicate that the ALE process can produce high-quality PbS films with controlled thickness and good photoconductivity properties.",
+  "evidence": "Preparation of lead sulfide thin films on different substrates by the Atomic Layer Epitaxy process has been studied. Sulfur source was in all experiments H2S, but as lead source the following compounds were tested: bromide, iodide and acetate as well as thd (2,2,6,6-tetramethyl-3,5-heptanedione) and diethyldithiocarbamate chelates. The last complex gave the highest growth rate. The growth experiments were carried out at 300-350°C and the film thicknesses varied between 0.1 and 1.0 μm. The films were characterized by XRD, XRF, SEM, and by photoconductivity and Hall measurements. The results showed that the films were polycrystalline and randomly oriented. The conductivity was p-type and the carrier concentration and mobility were comparable with those found in films deposited by traditional chemical methods."
+}<|im_end|>

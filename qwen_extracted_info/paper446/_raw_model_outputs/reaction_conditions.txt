@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Surface thermal excitation causes adatom migration and leads to surface flattening on an atomic level. During annealing, the initial spotty RHEED pattern changes to a streaky pattern and then changes to a spotty pattern again. In the period when the RHEED pattern is streaky, terraces are considered to emerge and grow by adatom migration accompanied by or following hydrogen desorption. The relation between the surface excitation temperature and the period t, is given by an Arrhenius equation with an activation energy of 1.6 f 0.4 eV. The period t, is considered to be proportional to the period necessary to flatten a Si,H,-exposed surface.",
+  "intermediate_species": ["Si adatoms", "hydrogen desorption"],
+  "evidence": "During annealing, the initial spotty RHEED pattern changes to a streaky pattern and then changes to a spotty pattern again. In the period when the RHEED pattern is streaky, terraces are considered to emerge and grow by adatom migration accompanied by or following hydrogen desorption. The relation between the surface excitation temperature and the period t, is given by an Arrhenius equation with an activation energy of 1.6 f 0.4 eV. The period t, is considered to be proportional to the period necessary to flatten a Si,H,-exposed surface."
+}<|im_end|>

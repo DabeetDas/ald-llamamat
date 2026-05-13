@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + OH* -> (CH3)2Al-OH* + CH4",
+    "(CH3)2Al-OH* + OH* -> (CH3)Al-OH* + CH4",
+    "Al(CH3)3 + OH* -> (CH3)Al-OH* + CH4"
+  ],
+  "surface_mechanism_description": "Trimethylaluminum (TMA) adsorbs on hydroxylated alumina, forming an adsorbed dimethylaluminum species through reaction with bridging methyl groups and surface hydroxyls, evolving methane. The dimethylaluminum species further reacts with surface hydroxyl groups to form monomethylaluminum, which is less labile than the dimethylaluminum species.",
+  "intermediate_species": [
+    "dimethylaluminum",
+    "monomethylaluminum",
+    "surface hydroxyls"
+  ],
+  "evidence": "The surface dimethylaluminum species further react rather rapidly with surface hydroxyls forming monomethylaluminums. These also react with surface hydroxyls so that all surface methyl species are eventually removed, although significantly more slowly than does dimethylaluminum."
+}

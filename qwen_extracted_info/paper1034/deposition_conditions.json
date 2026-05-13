@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 170,
+  "pressure": "0.1 and 0.3 Torr",
+  "precursor_pulse_time_s": 0.2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 5,
+  "number_of_cycles": "20–70",
+  "reactor_type": "ECR plasma chamber",
+  "evidence": "The precursor reservoirs were at 5 8C. These source gases were alternately fed into the chamber through separate inlet lines and nozzles. The pulsing sequences of the pneumatic valves were controlled by a computer. The typical pulse lengths were 0.2 s for feeding DEZn, 2 s for feeding H2O and 5 s for purging the reactants."
+}

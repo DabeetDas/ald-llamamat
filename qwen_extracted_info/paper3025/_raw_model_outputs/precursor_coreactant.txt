@@ -1,0 +1,38 @@
+{
+  "precursors": [
+    {
+      "name": "Ti/H20849Oi–Pr/H208502/H20849DPM/H208502",
+      "full_name": "diisopropoxide dipivaloylmethanatotitanium",
+      "evidence": "Ti/H20849Oi–Pr/H208502/H20849DPM/H208502, diisopropoxide dipivaloylmethanatotitanium /H20852,T i/H20849Ot–Am/H208502/H20849IBPM/H208502, ditertiaryamyloxide isobutyrylpivaloylmethanatotitanium/H20852, and Pb/H20849TMOD/H208502 /H20851Pb/H20849C12H21O2/H208502, bis/H208492,2,6,6tetramethyl-3,5-octanedionato/H20850lead/H20852in ethylcyclohexane /H20849ECH/H20850"
+    },
+    {
+      "name": "Ti/H20849Ot–Am/H208502/H20849IBPM/H208502",
+      "full_name": "ditertiaryamyloxide isobutyrylpivaloylmethanatotitanium",
+      "evidence": "Ti/H20849Oi–Pr/H208502/H20849DPM/H208502, diisopropoxide dipivaloylmethanatotitanium /H20852,T i/H20849Ot–Am/H208502/H20849IBPM/H208502, ditertiaryamyloxide isobutyrylpivaloylmethanatotitanium/H20852, and Pb/H20849TMOD/H208502 /H20851Pb/H20849C12H21O2/H208502, bis/H208492,2,6,6tetramethyl-3,5-octanedionato/H20850lead/H20852in ethylcyclohexane /H20849ECH/H20850"
+    },
+    {
+      "name": "Pb/H20849TMOD/H208502",
+      "full_name": "bis(2,2,6,6-tetramethyl-3,5-octanedionato)lead",
+      "evidence": "Pb/H20849TMOD/H208502 and Ti/H20849Oi–Pr/H208502/H20849DPM/H208502 dissolved in ECH as precursors."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "H2O",
+      "evidence": "H2O gas was used as an oxidant and was supplied for 1 s from a reservoir kept at 10°C."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Ar",
+      "evidence": "Following the precursor injection and the gas supply of H2O, the reactor was purged for 5–8 s with 200 sccm Ar gas for all investigations, except the study on purge condition."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "Ar",
+      "evidence": "The injected precursor was thermally vaporized at 200°C and carried to the horizontal reactor by Ar carrier gas."
+    }
+  ],
+  "evidence": "Ti/H20849Oi–Pr/H208502/H20849DPM/H208502, diisopropoxide dipivaloylmethanatotitanium /H20852,T i/H20849Ot–Am/H208502/H20849IBPM/H208502, ditertiaryamyloxide isobutyrylpivaloylmethanatotitanium/H20852, and Pb/H20849TMOD/H208502 /H20851Pb/H20849C12H21O2/H208502, bis/H208492,2,6,6tetramethyl-3,5-octanedionato/H20850lead/H20852in ethylcyclohexane /H20849ECH/H20850 with a concentration of 0.1 M were used as precursors /H20849see Fig. 1/H20850. The solutions were supplied by SAES Getters S.p.A. The injector was opened for a fixed time, and the number of injections per sequence was varied. Typically, the injector was opened for 1.4–2.0 ms with a frequency of 2 Hz, and 4.0–5.7 /H9262L of precursor was consumed per injection, respectively. The injected precursor was thermally vaporized at 200°C and carried to the horizontal reactor by Ar carrier gas. H2O gas was used as an oxidant and was supplied for 1 s from a reservoir kept at 10°C. Following the precursor injection and the gas supply of H2O, the reactor was purged for 5–8 s with 200 sccm Ar gas for all investigations, except the study on purge condition. The reactor pressure was kept at 1 Torr."
+}<|im_end|>

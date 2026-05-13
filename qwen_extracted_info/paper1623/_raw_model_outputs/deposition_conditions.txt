@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "8 mTorr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "open-load",
+  "evidence": "The ALD precursor step, similar for both ALD processes presented here, consisted of 3 s of Pd(hfac)2 dosing, which was sufficient to achieve saturation. An Ar purge step and a pump step of 5 s each were applied directly after the precursor pulse."
+}<|im_end|>

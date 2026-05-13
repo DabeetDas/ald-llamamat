@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 200,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type thermal ALD instrument",
+  "evidence": "One cycle was composed of 3 s of Ni(dmamb)2 pulse and 1 s of hydrogen peroxide pulse with Ar flow, which was fixed at a rate of 200 sccm during the growth process."
+}<|im_end|>

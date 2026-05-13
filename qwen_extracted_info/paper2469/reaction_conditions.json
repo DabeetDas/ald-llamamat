@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of hafnium tetrachloride (HfCl4) and water (H2O) on the surface of hafnia (HfO2) during atomic layer deposition (ALD). The reaction proceeds through two main steps: (1) the adsorption of HfCl4 and its reaction with surface hydroxyl groups (OH) to form surface-bound hafnium species and release hydrogen chloride (HCl), and (2) the subsequent reaction of water with the surface-bound hafnium species to regenerate surface hydroxyl groups and release additional HCl. The surface reactions are influenced by the presence of hydrogen and the chemical potential of oxygen.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "surface-bound hafnium species",
+    "hydrogen chloride (HCl)"
+  ],
+  "evidence": "The surface reaction mechanism is described in the text as follows: 'The HfO2 film is formed via ALD using hafnium tetrachloride and water at 300 °C. One deposition cycle consists of a water pulse, a nitrogen purge (to remove unreacted water), a HfCl4 pulse, and a nitrogen purge. The reaction proceeds through two main steps: (1) the adsorption of HfCl4 and its reaction with surface hydroxyl groups to form surface-bound hafnium species and release HCl, and (2) the subsequent reaction of water with the surface-bound hafnium species to regenerate surface hydroxyl groups and release additional HCl.'"
+}

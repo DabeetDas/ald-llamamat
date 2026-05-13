@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of the precursor hexakis(dimethylamido)digallium [Ga(NMe2)3]2 with oxygen plasma. The process is initially substrate-inhibited, indicating a surface reaction where the precursor interacts with surface hydroxyl groups, followed by a plasma step that regenerates the hydroxyl sites. The growth is self-limiting, with a constant growth rate of 1.5 Å per cycle across a temperature range of 60–160 °C.",
+  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum", "formate species"],
+  "evidence": "The process is initially substrate-inhibited, indicating a surface reaction where the precursor interacts with surface hydroxyl groups, followed by a plasma step that regenerates the hydroxyl sites. The growth is self-limiting, with a constant growth rate of 1.5 Å per cycle across a temperature range of 60–160 °C."
+}

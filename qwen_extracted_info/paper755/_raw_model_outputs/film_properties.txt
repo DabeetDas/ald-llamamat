@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 25,
+  "density_g_cm3": 3.9,
+  "refractive_index": "2.3 at 182 °C, approaches 2.5 above 236 °C",
+  "surface_roughness_nm": null,
+  "crystal_phase": "Anatase",
+  "evidence": "The refractive index of the films, which was calculated using an effective medium theory, is 2.3 at 182 °C and approaches the value (2.5) of bulk anatase above 236 °C. The film density was estimated from the layer density of Ti ions in the films measured by XRF and the film thickness. The film density was as low as 3.36 g/cm³ for the film grown at 182 °C, and above 236 °C, it was almost constant at 3.9 g/cm³, which is the density of bulk anatase. The appearance of the anatase phase in ALD is consistent with the results for other ALD of TiO₂ films."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 10.5,
+  "density_g_cm3": 12.0,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The Pd film thicknesses measured by XRF after different numbers of Pd ALD cycles deposited on ALD Al2O3 and ZnO. The XRF measurements in Figure 2 agree very well with the QCM measurements in Figure 1a. From these plots, we can conclude that the steady state film growth rate is reached once a ∼1 nm thick Pd film has been deposited."
+}

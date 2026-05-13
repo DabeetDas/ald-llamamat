@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 50,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "Kurt J. Lesker ALD 150LX",
+  "evidence": "Optimization for the (EtCp)2Mn + H2O process was done at Tsub = 50 °C. The optimized timing scheme for MnOx deposition using (EtCp)2Mn and H2O (W-MnOx) is 3 s/2 s/20 s/2 s/30 s (t1/t2/t3/t4/t5), where t1 is the precursor dose time, t2 is the charge time, t3 is the precursor purge, t4 is the H2O dose, and t5 is the post H2O purge time."
+}<|im_end|>

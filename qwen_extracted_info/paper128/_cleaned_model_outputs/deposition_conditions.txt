@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 120,
+  "pressure": "2",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 35,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "cold-wall, low-pressure reactor",
+  "evidence": "The purge times after each Hf(NO3)4 and (tBuO)3SiOH pulse were fixed at 20 and 30 s, respectively. Other deposition parameters were kept constant. At 120 °C, no significant change in the growth rate was observed as the Hf(NO3)4 pulse time exceeded 11 s. Similarly, as the (tBuO)3SiOH pulse time increased, the growth rate saturated at 30 s. At 160 °C, there was no significant change in the growth rate when the Hf(NO3)4 pulse was above 8 s or the (tBuO)3SiOH pulse was longer than 39 s. At both temperatures, the saturation growth rate was ∼2 nm per cycle. The starting point for the current work was based on our previous report of ZrO2/SiO2 nanolaminates deposited using Zr(NO3)4 and (tBuO)3SiOH. Four series of films were grown under conditions summarized in Table 1. The CVD of homogeneous HfO2/SiO2 films using Hf(NO3)4 and (tBuO)3SiOH has been described previously. The molybdenum susceptor was heated to growth temperature (120 °C or 160 °C) using a Variac-controlled 1000 W halogen lamp set within a parabolic, polished aluminum reflector."
+}

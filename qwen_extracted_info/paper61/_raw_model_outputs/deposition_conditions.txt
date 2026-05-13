@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 120,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 18,
+  "number_of_cycles": null,
+  "reactor_type": "showerhead",
+  "evidence": "The system was equipped with a double stage rotary vane pump as well as an inductively coupled remote plasma source. Substrate temperature and plasma power were set to 120 °C and 300 W (maximum power), respectively. Plasma dose time and latency between two plasma ignitions were set to 6 and 18 s, respectively."
+}<|im_end|>

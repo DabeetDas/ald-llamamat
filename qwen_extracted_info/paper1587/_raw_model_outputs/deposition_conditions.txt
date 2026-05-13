@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 5,
+  "number_of_cycles": 1,
+  "reactor_type": "ALD reactor",
+  "evidence": "The ALD reactor used in this sample preparation is described elsewhere. 38 With the sample temperature at 200 °C, the W ALD process began with 10 min exposure of the substrate to Si 2H6 at 10 Torr, followed by 10 min exposure to WF6 at 10 Torr. Following each exposure, the reactor was evacuated below 0.05 Torr and subsequently purged with ultrahigh-purity nitrogen for 5 min."
+}<|im_end|>

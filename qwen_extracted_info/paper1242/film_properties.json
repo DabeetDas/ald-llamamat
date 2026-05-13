@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 7.5,
+  "density_g_cm3": 2.2,
+  "refractive_index": "1.46 at 633 nm",
+  "surface_roughness_nm": 1,
+  "crystal_phase": "Amorphous",
+  "evidence": "The film thickness was measured using a spectroscopic ellipsometer... The film density slightly decreases with decreasing growth temperature... The RMS roughness values of the SiO2 films plotted as a function of growth temperature... These results corroborate the efficacy of using the BDIPADS precursor... The dielectric constant values extracted from the slopes of the linear fits in Fig. 5b were determined to be approximately 4.17±0.33, 4.19±0.13, 4.24±0.05, and 4.32±0.16 for films grown at 50, 80, 150, and 250 °C."
+}

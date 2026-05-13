@@ -1,0 +1,7 @@
+{
+  "precursors": ["Sn(dmamp) 2"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "SnO thin films were grown using an ALD technique from Sn(dmamp) 2 and H 2O as the Sn and O source, respectively. A bottle containing Sn(dmamp) 2 was heated at 52 °C, and the Sn(dmamp) 2 precursors were delivered into the reactor with an Ar carrier gas flow of 150 sccm. H 2O vapor was injected into the reactor without the assistance of the Ar carrier gas because of its high vapor pressure. An ALD cycle for the SnO thin films consisted of the following four steps: Sn(dmamp) 2 injection (2 s) – purge (5 s) – H2O injection (8 s) – purge (16 s)."
+}<|im_end|>

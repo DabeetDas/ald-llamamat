@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "MeCpPtMe3"
+  ],
+  "coreactants": [
+    "oxygen"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "ALD was used to deposit Pt nanoparticles on different carbon supports. MeCpPtMe3 (Aldrich, purity 98%) and oxygen (99.999%) were used as precursors, and nitrogen (99.9995%) was used as purge gas."
+}

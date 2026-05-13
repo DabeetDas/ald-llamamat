@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "tris(cyclopentadienyl)yttrium (Cp3Y)",
+    "tris(methylcyclopentadienyl)yttrium ((CpCH3)3Y)"
+  ],
+  "coreactants": [
+    "Water"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "Y2O3 thin films were grown onto Si(100) substrates by atomic layer deposition (ALD) using organometallic precursors, viz. tris(cyclopentadienyl)yttrium, Cp3Y, and tris(methylcyclopentadienyl)yttrium, (CpCH3)3Y (Cp ) cyclopentadienyl). Water was used as oxygen source. Nitrogen (>99.999%, Schmidlin UHPN 3000 N2 generator) was used as a carrier and purging gas."
+}

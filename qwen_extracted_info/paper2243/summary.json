@@ -1,0 +1,11 @@
+{
+  "target_material": "La-doped ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "iPrCp3La",
+    "(MeCp)2ZrMe(OMe)"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "La-doped ZrO2 thin films were grown by O3-based atomic layer deposition directly on Ge(100). The films exhibited a dielectric constant of 29 after annealing at 400 °C. The study focused on the thermally induced permittivity enhancement and the role of Ge interdiffusion in stabilizing the tetragonal ZrO2 phase.",
+  "evidence": "La-doped ZrO2 thin films grown by O3-based atomic layer deposition directly on Ge(100) exhibit a dielectric constant of 29. Upon annealing in N2 at 400 °C, a high value is extracted for film thickness below 15 nm. Ge interdiffusion from the substrate is correlated with the stabilization of the tetragonal ZrO2 phase."
+}

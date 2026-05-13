@@ -1,0 +1,8 @@
+{
+  "target_material": "Nickel",
+  "process_type": "Plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["bis(ethylcyclopentadienyl)nickel", "N2/H2 plasma"],
+  "temperature_range": "200°C to 360°C",
+  "summary": "This study describes the growth of metastable hexagonal nickel thin films using plasma-enhanced atomic layer deposition (PEALD) on sapphire substrates. The films were characterized for their structural, compositional, and physical properties, revealing low impurity levels, hexagonal crystal structure, and conformal growth at low temperatures. The results indicate the potential of PEALD for depositing high-quality nickel films on three-dimensional structures.",
+  "evidence": "The results indicate that conformal nickel films with low levels of impurity were successfully deposited on sapphire. The films had a roughness of R a=1.5 nm and were seen to be under strain. The deposited nickel had a hexagonal crystal structure, with a random in-plane orientation of the grains, while the grains had their c-axes oriented along the normal to the interface."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "La2O3",
+  "process_type": "O3-based ALD",
+  "main_precursors": [
+    "La(iPrCp)3",
+    "O3"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of hexagonal La2O3 films on Si(100) and Ge(100) substrates using La(iPrCp)3 and O3 as precursors. The process involves vacuum annealing to convert the films into the hexagonal phase, which exhibits high dielectric constant values. The research highlights the challenges of interface reactivity and the formation of interfacial layers, such as LaSiO and LaGeO, which affect the dielectric properties and scalability of the films.",
+  "evidence": "O3-based atomic layer deposition of hexagonal La2O3 films on Si(100) and Ge(100) substrates. The hexagonal phase of La2O3 is obtained upon vacuum annealing of hydroxilated La2O3 films grown with atomic layer deposition at 200 °C using La(iPrCp)3 and O3."
+}

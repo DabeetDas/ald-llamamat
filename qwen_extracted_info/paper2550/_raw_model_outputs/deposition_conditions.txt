@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 330,
+  "pressure": "2.5 torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "200, 400, 600",
+  "reactor_type": "Furnace",
+  "evidence": "The working pressure in the chamber was maintained at 2.5 torr, and the substrate temperature was kept at 330 ° C during the ALD process."
+}<|im_end|>

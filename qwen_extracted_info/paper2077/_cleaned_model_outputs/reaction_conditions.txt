@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction between excess oxygen from the ALD process and the Si substrate, leading to the formation of interfacial sub-oxides and silicates. This interaction results in increased interface trap density (Dit) and degradation of interface properties.",
+  "intermediate_species": ["Si sub-oxides", "silicates", "SiO2"],
+  "evidence": "Investigation of the interface states using x-ray photoelectron spectroscopy revealed that the excessive oxygen incorporated during the film growth made the interfacial sub-oxide species (SiO, Si2O3, and silicated) and SiO2 coordinate more with oxygen. This increased the interface trap density and degraded the interface properties."
+}

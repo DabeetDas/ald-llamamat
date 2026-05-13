@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "X-ray Diffraction (XRD)",
+    "Spectroscopic Ellipsometry",
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "X-ray Diffraction (XRD)",
+    "Current–Voltage (I–V) characteristics",
+    "Capacitance–Voltage (C–V) characteristics"
+  ],
+  "evidence": "The chemical composition and impurity contents were analyzed by X-ray photoelectron spectroscopy (XPS, AXIS NOVA of KRATOS) with a monochromatic Al Ka source (beam energy 1486.6 eV and analysis area 100 lm 2). The microstructure of the films was analyzed by X-ray diffraction (XRD, ATX-G of Rigaku). The thickness and refractive index of the films were measured by spectroscopic ellipsometry (Elli-SE-F of Ellipso Technology). Electrical properties based on capacitance–voltage (C–V) and current–voltage (I–V) characteristics of Ge-doped ZrO 2 were evaluated using a Keithley 590 C–V analyzer and Agilent 4155 C semiconductor parameter analyzer, respectively."
+}

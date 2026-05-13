@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the self-limiting surface reactions of ferrocene and oxygen, where the growth per cycle values saturate at longer precursor pulses, indicating a self-limiting process. The reaction gas pulses are separated by purging pulses, and the growth is achieved through self-limiting surface reactions. The first pulse (t1) is the metal-source pulse, the second pulse (t2) is a purging pulse, the third pulse (t3) is an oxygen-containing pulse, and the fourth and final pulse (t4) is a second purging pulse.",
+  "intermediate_species": [],
+  "evidence": "The surface reaction of ferrocene and oxygen was self-limiting at 350 8C. A self-limiting process is a criterion for successful depositions, especially in the pores of AAO. If the precursor decomposes on the surface, the pore openings will close rapidly and no material will be deposited inside the pores. The reaction gas pulses are separated by purging pulses, i.e., to deposit a metal oxide four pulses are usually needed. The first pulse (t1) is the metal-source pulse, the second pulse (t2) is a pur\/2"
+}

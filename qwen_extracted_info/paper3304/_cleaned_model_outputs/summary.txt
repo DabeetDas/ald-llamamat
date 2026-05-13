@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum", "water"],
+  "temperature_range": "300 °C",
+  "summary": "Al2O3 films are grown by atomic layer deposition (ALD) using trimethylaluminum and water as precursors on HF-last and NH3 plasma pretreated Si substrates. The growth rates of Al2O3 films are 1.1 Å/cycle and 1.3 Å/cycle, respectively, on HF-last and NH3-plasma-nitrided surfaces. The interfacial film thickness increases with the number of ALD cycles on HF-last Si substrates but is independent on nitrided Si substrates due to the presence of SiOxNy.",
+  "evidence": "Al2O3 films are grown by atomic layer deposition (ALD) using trimethylaluminum and water as precursors on HF-last and NH3 plasma pretreatment Si substrates. The growth rates of Al2O3 films are 1.1 Å/cycle and 1.3 Å/cycle, respectively, on HF-last and NH3-plasma-nitrided surfaces. The interfacial film thickness increases with the number of ALD cycles when deposited on an HF-last Si substrate. However, because SiOxNy inhibits oxygen diffusion, the interfacial film thickness is independent of the number of ALD cycles on the nitrided Si substrate."
+}

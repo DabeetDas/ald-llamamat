@@ -1,0 +1,7 @@
+{
+  "precursors": ["lithium tert-butoxide (LTB)", "tris(dimethylamido)aluminum(III) (TDMA-Al)"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The Li2 S ALD was performed by using alternating 5s exposures to lithium tert-butoxide (LTB, 98%, Strem Chemicals, Inc., USA) and hydrogen sulfide(1 %H2S in Ar, Matheson Tri-gas, USA), with 5s Ar purging periods between each dose. The Al2S3 ALD was accomplished by using alternating exposures to 5s tris-(dimethylamido)aluminum(III) (TDMA-Al, Sigma–Aldrich Co., USA) and 10 s H2S, separated by 5s Ar purging periods."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "double shower head system",
+  "evidence": "The substrate temperature was maintained at 250◦C throughout the entire ALD process. The precursor exposure time was fixed at 3 s for both ALD processes. Ar gas with the same flow rate was also used for the purging of excess gas molecules and byproducts between each precursor and reactant exposure steps."
+}<|im_end|>

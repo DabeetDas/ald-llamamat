@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "MoCl5",
+    "H2S"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The precursors for MoS2 growth were MoCl5 and H2S (9%, balance Ar). The carrier gas (N2) flow rate was 250 sccm."
+}

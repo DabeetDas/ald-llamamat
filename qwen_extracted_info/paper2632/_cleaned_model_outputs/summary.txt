@@ -1,0 +1,8 @@
+{
+  "target_material": "AlxSiyO",
+  "process_type": "ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "tetraethoxysilane (TEOS)"],
+  "temperature_range": "225 /C14 C",
+  "summary": "The study investigates the mechanistic aspects of atomic layer deposition (ALD) of AlxSiyO thin films using trimethylaluminum (TMA) and tetraethoxysilane (TEOS) as precursors with H2O as the oxidant. In-situ FTIR spectroscopy was employed to elucidate the surface reactions, revealing that the presence of Al-OH groups near partially hydroxylated ethoxy groups facilitates disproportionation reactions, enabling ALD of AlxSiyO. The maximum thickness of SiOx incorporated from TEOS/H2O cycles was found to be /C24 2A˚.",
+  "evidence": "The in-situ FTIR study revealed that ineffective hydroxylation of the surface ethoxy (–OCH2CH3) groups prohibits ALD of SiO2 by TEOS/H2O. In contrast, effective desorption of the surface ethoxy group was observed in TEOS/H2O/TMA/H2O chemistry. The presence of Al-OH* group in vicinity of partially hydroxylated ethoxy (–OCH2CH3) group was found to propagate disproportionation reaction, which results in ALD of AlxSiyO. The maximum thickness from incorporation of SiOx from alternating exposures of TEOS/H2O chemistry in AlxSiyO was found to be /C24 2A˚ , confirmed by high resolution transmission electron microscopy measurements."
+}

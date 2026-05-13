@@ -1,0 +1,11 @@
+{
+  "target_material": "Iron oxide (α-Fe2O3)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "bis[bis(trimethylsilyl)amide]iron [Fe(btmsa)2]",
+    "hydrogen peroxide (H2O2)"
+  ],
+  "temperature_range": "150 to 175 oC",
+  "summary": "The study demonstrates the atomic layer deposition (ALD) of iron oxide thin films using bis[bis(trimethylsilyl)amide]iron [Fe(btmsa)2] and hydrogen peroxide as an oxygen source. The ALD process was optimized at temperatures between 150 to 175 oC, resulting in a growth rate of 0.035±0.005 nm/cycle. The films exhibited high conformality, excellent crystallinity, and phase purity without post-heat treatment. The use of H2O2 as an oxidizer allows for low-temperature ALD, making it a promising method for fabricating phase-pure α-Fe2O3 thin films.",
+  "evidence": "The growth characteristics of iron oxide were investigated by varying the deposition temperatures from 100 to 225 oC, such that the ALD growth mode was observed at 150 to 175 oC with an average growth rate of 0.035±0.005 nm/cycle. The films deposited in ALD mode exhibited highly linear film thicknesses with the number of cycles and excellent conformality over high-aspect-ratio trenches. In addition, the deposited films were extremely pure and revealed a hematite phase without any subsequent heat treatment, even if the films were deposited at low temperatures."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "metallic Cu",
+  "process_type": "ALD",
+  "main_precursors": [
+    "copper acetyl acetonate (Cu(acac)2)",
+    "water",
+    "hydroquinone (HQ)"
+  ],
+  "temperature_range": "<200 oC",
+  "summary": "The study reports an efficient ALD process for the direct deposition of metallic copper thin films using an organic reductant, hydroquinone (HQ). The process employs sequential pulsed precursors of copper acetyl acetonate, water, and hydroquinone, yielding crystalline copper films at low temperatures with a high deposition rate of ~2 Å/cycle. The films exhibit metallic conductivity and low resistivity, with the potential for application in interconnect technologies.",
+  "evidence": "We report a promising approach to utilize an organic reductant for in situ ALD (atomic layer deposition) of metallic copper films. The process is based on sequentially pulsed precursors copper acetyl acetonate (acac), water and hydroquinone (HQ), and yields crystalline copper films at temperatures as low as <200 oC with an appreciably high deposition rate of ~2 Å/cycle."
+}

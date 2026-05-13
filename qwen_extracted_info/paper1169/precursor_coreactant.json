@@ -1,0 +1,18 @@
+{
+  "precursors": [
+    "AlCl3",
+    "Al(CH3)3",
+    "TMA"
+  ],
+  "coreactants": [
+    "H2O",
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The AlCl3 and H2O, AlCl3 and O3, Al(CH3)3 and H2O, and Al(CH3)3 and O3 processes were used. The AlCl3 vapor was carried to the reaction zone with N2 carrier gas. The pulses of the Cr(thd)3 vapor were formed by changing the carrier gas (N2, 99.999%, AS Linde Gas) flow direction in the tube connecting the metal precursor source and reaction zone."
+}

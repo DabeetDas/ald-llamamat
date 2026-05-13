@@ -1,0 +1,8 @@
+{
+  "target_material": "MoO3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["molybdenum hexacarbonyl [Mo(CO)6]", "ozone (O3)"],
+  "temperature_range": "120–150 /C176C for ALD growth, 550–750 /C176C for annealing",
+  "summary": "Ultrathin MoO3 layers were grown on Si substrates using atomic layer deposition (ALD) with molybdenum hexacarbonyl and ozone as precursors. Post-growth thermal annealing at 550–750 /C176C induced morphological changes, including the formation of surface nanostructures like telephone-cord-like (TCL) structures. The study aimed to explore the formation of ultrathin MoO3 layers for potential electronic applications.",
+  "evidence": "Ultrathin MoO3 layers have been grown on Si substrates at 120 /C176C by atomic layer deposition (ALD) using molybdenum hexacarbonyl [Mo(CO)6] and ozone (O3) as the Mo- and O-source precursors, respectively. The ultrathin films were further annealed in air at Tann = 550–750 /C176C for 15 min. These observations have been discussed and interpreted based on temperature-dependent atomic interdiffusions, surface evaporations, and/or melting of MoO3, which shed new light on ALD MoO3 towards its electronic applications."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "CuCl",
+  "process_type": "ALD",
+  "main_precursors": ["bis(trimethylsilyl)acetylene(hexafluoroacetylacetonato)-copper(I)", "hydrogen chloride"],
+  "temperature_range": "100 °C",
+  "summary": "The text describes the atomic layer deposition (ALD) of CuCl nanoparticles using bis(trimethylsilyl)acetylene(hexafluoroacetylacetonato)-copper(I) and hydrogen chloride precursors at 100 °C. The process enables controlled size and density of CuCl nanoparticles on Si and glass substrates, with the formation of zinc blende CuCl confirmed by X-ray diffraction and optical absorption spectra. The study highlights the ALD process's self-limiting behavior and the optical properties of the deposited CuCl nanoparticles, including excitonic peaks and photoluminescence.",
+  "evidence": "The text states: 'We report the growth of copper chloride by atomic layer deposition. CuCl was deposited as nanoparticle arrays whose size and density were controlled by the process conditions. The nanoparticles were deposited using the self-limiting reaction of bis(trimethylsilyl)acetylene(hexafluoroacetylacetonato)-copper(I) and hydrogen chloride.' Additionally, it mentions: 'The reaction temperature was 100 °C.'"
+}

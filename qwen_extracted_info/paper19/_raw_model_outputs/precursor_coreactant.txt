@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Pt(MeCp)Me3",
+    "Ir(acac)3"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Pt and Ir ALD were conducted by alternating exposures of Pt(MeCp)Me3 and O2, and Ir ALD was conducted by alternating exposures of Ir(acac)3 and O2. The noble metal precursors were contained in heated stainless steel bubblers, with the Pt(MeCp)Me3 bubbler maintained at 50 °C and the Ir(acac)3 bubbler maintained at 170 °C. Noble metal precursor exposure was achieved by diverting 60 sccm N2 through the heated bubbler, while O2 exposure was achieved by introducing 60 sccm O2. Each exposure was followed by a purge with N2."
+}<|im_end|>

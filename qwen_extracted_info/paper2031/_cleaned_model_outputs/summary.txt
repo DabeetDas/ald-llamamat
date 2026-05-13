@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["hafnium tetrachloride (HfCl4)", "H2O"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the morphology and crystallization kinetics of HfO2 thin films grown by atomic layer deposition (ALD) on thermal and chemical SiO2 underlayers. The films are annealed at various temperatures and times to study their crystallization behavior. The as-deposited films on thermal oxide are polycrystalline, containing monoclinic and tetragonal/orthorhombic phases, while those on chemical oxide are amorphous but show subnanometer-level ordering. The crystallization kinetics are similar for both types of underlayers, with grain growth being thermally activated.",
+  "evidence": "HfO2 films were grown by ALD on thermal and chemical SiO2 underlayers. The as-deposited ALD HfO2 films on thermal oxide are polycrystalline, containing both monoclinic and either tetragonal or orthorhombic phases. The crystallization kinetics are similar for both types of underlayers, with grain growth being thermally activated."
+}

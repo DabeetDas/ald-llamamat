@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "110–176 °C",
+  "summary": "The study describes the atomic layer deposition of TiO2 on mesoporous silica SBA-15 to control pore size and surface properties. The process uses TiCl4 and H2O as precursors, and the conformal coating reduces pore size from 67 Å to 32 Å. The ALD process is shown to uniformly deposit titania layers with atomic precision, leading to a decrease in surface area and pore size.",
+  "evidence": "Atomic layer deposition of titanium dioxide onto the mesoporous silica substrate was carried out in a homemade ALD flow reactor based on a reactor described by Elam et al. ... The use of TiCl4 as a titanium precursor in ALD growth is well documented and relatively straightforward due to its high reactivity with water and surface hydroxyl groups. ... The ALD process uniformly deposits the film onto any exposed surfaces that contain active sites, including internal walls of pores as well as steps and corners, it is highly conformal with atomic precision."
+}<|im_end|>

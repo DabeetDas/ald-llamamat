@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper oxide",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Bis(tri-n-butylphosphane)copper(I)acetylacetonate", "wet O2"],
+  "temperature_range": "100 to 155°C",
+  "summary": "The study reports the thermal atomic layer deposition (ALD) of copper oxide films using bis(tri-n-butylphosphane)copper(I)acetylacetonate and wet O2 on Ta, TaN, Ru, and SiO2 substrates. The process was carried out at temperatures ranging from 100 to 155°C, with growth rates of 0.1 Å per cycle on metallic substrates. The ALD window extended down to 100°C for Ru and 110–125°C for TaN and SiO2. The results show good adhesion of the ALD films on all substrates and suggest the potential for use in Cu seed layer ALD for electrochemical Cu metallization in interconnects of ultralarge-scale integrated circuits.",
+  "evidence": "The thermal atomic layer deposition /H20849ALD/H20850of copper oxide films from the nonfluorinated yet liquid precursor bis/H20849tri-n-butylphosphane/H20850copper/H20849I/H20850acetylacetonate, /H20851/H20849nBu3P/H208502Cu/H20849acac/H20850/H20852, and wet O2 on Ta, TaN, Ru, and SiO2 substrates at temperatures of /H11021160°C is reported. Typical temperature-independent growth was observed at least up to 125°C with a growth-per-cycle of /H110110.1 Å for the metallic substrates and an ALD window extending down to 100°C for Ru. On SiO2 and TaN, the ALD window was observed between 110 and 125°C, with saturated growth shown on TaN still at 135°C."
+}

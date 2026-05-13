@@ -1,0 +1,8 @@
+{
+  "target_material": "V2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["VO(acac)2", "ozone"],
+  "temperature_range": "200 /C14 C",
+  "summary": "The study describes the preparation of V2O3 thin films using atomic layer deposition (ALD) with sequential pulses of VO(acac)2 and ozone at 200 /C14 C on a c-Al2O3 (0001) substrate, followed by post-deposition annealing. The films exhibit a sharp metal–insulator transition (MIT) at 165 K with a significant change in electrical resistivity.",
+  "evidence": "V2O3 thin films were prepared via ALD process using sequential pulses of VO(acac)2 and ozone at 200 /C14 C on crystalline c-Al2O3 (0001) substrate, followed by post-deposition annealing. The V2O3 films (48 nm) exhibit a sharp metal–insulator transition (MIT) at a temperature of /C25 165 K with five orders of magnitude change in electrical resistivity."
+}

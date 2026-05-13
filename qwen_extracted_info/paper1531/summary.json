@@ -1,0 +1,12 @@
+{
+  "target_material": "Al-doped ZnO (ZnO:Al)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethyl zinc (DEZ)",
+    "trimethyl aluminum (TMA)",
+    "deionized water (H2O)"
+  ],
+  "temperature_range": "125 °C",
+  "summary": "The study investigates the role of gas doping sequence in surface reactions and dopant incorporation during ALD of Al-doped ZnO. It explores how the order of precursor exposure affects the growth of ZnO films and the distribution of aluminum. The results show that the sequence of TMA exposure relative to DEZ and water exposure significantly influences the incorporation of Al and the resulting film properties.",
+  "evidence": "Aluminum incorporation into ZnO films during atomic layer deposition (ALD) is investigated using in situ quartz crystal microbalance and electrical conductance analysis. Chemical interactions between Zn and Al species during ZnO:Al ALD depend on the order of metal precursor exposure. Exposing the growing ZnO surface to trimethyl aluminum (TMA) impedes the subsequent ∼4 monolayers of ZnO growth. However, the extent of interaction can be reduced by performing the TMA exposure immediately following a diethyl zinc step, without an intermediate water exposure step, consistent with increased surface mixing of Zn and Al species."
+}

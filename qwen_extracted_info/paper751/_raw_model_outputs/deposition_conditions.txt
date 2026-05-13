@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "180",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": null,
+  "number_of_cycles": 100,
+  "reactor_type": "UHV XPS chamber",
+  "evidence": "ALD cobalt metal was explored using a metal-organic cobalt precursor, [Co(dad) 2], and either a co-reactant of HCOOH or TBA at 180ºC on Cu, Pt, and SiO 2 substrates."
+}<|im_end|>

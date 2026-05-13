@@ -1,0 +1,7 @@
+{
+  "precursors": ["TEOS (tetraethyl orthosilicate Si(OCH2CH3)4)"],
+  "coreactants": [],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Oxygen and TEOS (tetraethyl orthosilicate Si(OCH2CH3)4) were used as the precursors for SiO2. A constant Ar flow of 15 sccm was used as the carrier gas as well as the purging gas."
+}

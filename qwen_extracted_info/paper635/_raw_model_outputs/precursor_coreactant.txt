@@ -1,0 +1,7 @@
+{
+  "precursors": ["DMZn"],
+  "coreactants": ["H2Se"],
+  "purge_gas": ["H2"],
+  "carrier_gas": ["Pd-diffused H2"],
+  "evidence": "DMZn is chosen as the Zn source in this study. DMZn is introduced into a reactor by passing a carrier gas through a stainless steel bubbler... Pd-diffused H2 is used as the carrier gas for transporting the reactants to the reactor."
+}<|im_end|>

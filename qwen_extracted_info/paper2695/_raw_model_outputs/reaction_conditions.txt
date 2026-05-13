@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction between the Co(ipr2AMD)2 precursor and NH3 plasma, where the plasma energy generates active species such as NH2, NH, and N. These active species react with the Co(ipr2AMD)2 to form Co3Nx at low temperatures. The process follows a self-limiting ALD behavior with a growth rate of 0.075 nm/cycle.",
+  "intermediate_species": ["Co(ipr2AMD)2", "NH2", "NH", "N"],
+  "evidence": "These active species are able to react with Co(ipr2AMD)2 to produce Co3Nx at a low deposition temperature down to 100 °C."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of Sr(C5iPr3H2)2, which is thermally decomposing rather than just reacting completely with the surface. The decomposition affects the Sr/Ti ratio and the growth rate, implying that the incorporation of Ti during the Ti(OiPr)4 pulse depends on the amount of Sr on the surface. The ALD oxide growth proceeds primarily via surface hydroxyls when water is used as an oxygen source.",
+  "intermediate_species": ["Sr(C5iPr3H2)2"],
+  "evidence": "While growing the ternary SrTiO3 films, the Ti(OiPr)4 and H2O pulse lengths were fixed at 0.6 s since this was found to be sufficient to maximize the growth rate of the binary TiO2. The decomposition of Sr(C5iPr3H2)2 is also reflected in the Sr/Ti ratio, which increases with the Sr(C5iPr3H2)2 pulse length. The effect of the water dose on the hydrogen content was checked by increasing it from about 20 lg per cycle to 200 lg per cycle. This increased the hydrogen content to 4.3 at.-% which decreased only slightly to 3.9 at.-% during annealing at 500 C. The ALD oxide growth is known to proceed primarily via surface hydroxyls when water is used as an oxygen source."
+}

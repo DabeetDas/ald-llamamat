@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The sacrificial-layer ALD process involves infiltrating a template with a sacrificial buffer layer and a dielectric material, followed by removing the template and sacrificial layer to create an inverse opal structure. The ALD growth rate and thickness control allow precise tuning of the dielectric filling fraction, which affects the Bragg peak and photonic bandgap properties.",
+  "intermediate_species": ["sacrificial buffer layer", "dielectric material", "air spheres", "connecting air cylinders"],
+  "evidence": "The text describes the sacrificial-layer ALD process, where a sacrificial buffer layer is infiltrated into an opal template, followed by the removal of the template and sacrificial layer to create an inverse opal structure. The ALD growth rate and thickness control allow precise tuning of the dielectric filling fraction, which affects the Bragg peak and photonic bandgap properties. The intermediate species formed during the process include the sacrificial buffer layer, dielectric material, air spheres, and connecting air cylinders."
+}<|im_end|>

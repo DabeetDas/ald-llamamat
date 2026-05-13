@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylgallium (TMG)", "triethylgallium (TEG)", "arsine"],
+  "temperature_range": "550°C, 380°C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) of GaAs using trimethylgallium (TMG) and triethylgallium (TEG) as Ga sources and arsine as the As source. The process is monitored using reflection high-energy electron diffraction (RHEED) to observe monolayer formation and surface reconstructions. The results show that ALE can occur under specific conditions, with the formation of a self-limiting molecular overlayer that blocks further adsorption, leading to a stable monolayer of Ga. The study highlights the role of temperature and the importance of controlling the deposition time to achieve ALE.",
+  "evidence": "The experiments were performed using a Riber MBE-2300 system modified for chemical beam epitaxy (CBE). Triethylgallium (TEG) and TMG were used as Ga source gases, and thermally decomposed arsine was used for the As source. The RHEED intensity oscillation measurements were used to determine the coverage and structural evolution of the adsorbed overlayer. The study also discusses the formation of a (4 X 8) surface reconstruction, characteristic of an ordered chemisorbed molecular Ga monolayer, and the role of temperature in the decomposition behavior of these molecules."
+}

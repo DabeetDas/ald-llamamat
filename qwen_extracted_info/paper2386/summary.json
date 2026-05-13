@@ -1,0 +1,11 @@
+{
+  "target_material": "platinum",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylmethylcyclopentadienyl-platinum",
+    "oxygen"
+  ],
+  "temperature_range": "270–300 ◦C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of platinum on high-k dielectrics such as ZrO2, Al2O3, and SiO2. The ALD process uses trimethylmethylcyclopentadienyl-platinum and oxygen as precursors, with deposition temperatures ranging from 270 to 300 ◦C. The resulting platinum films are polycrystalline with a (1 1 1) orientation, low resistivity, and low surface roughness. The study compares ALD platinum films to PVD films, highlighting the impact of deposition temperature on equivalent oxide thickness (EOT) and leakage current density. The effective work functions for the platinum films on different dielectrics are also reported.",
+  "evidence": "The ALD-grown platinum films are polycrystalline and show a preferential (1 1 1) orientation. The films are homogeneous with a root mean square roughness of 0.6–0.7 nm and reveal a low resistivity of 13.2 μ/Omega1cm. The effective work functions are 4.76 eV for ZrO2, 5.22 eV for Al2O3 and 5.52 eV for SiO2. It is remarkable that the deposition temperature of the platinum metal gate influences the final equivalent oxide thickness. Comparing both, PVD and ALD platinum films, a decreased leakage current density is observed for the ALD films depending on ALD process conditions, along with an increase in the equivalent oxide thickness."
+}

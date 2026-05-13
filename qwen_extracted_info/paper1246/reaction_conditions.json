@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "MCl4(g) + 2H2S(g) → MS2 + 4HCl(g)",
+    "MCl4(g) + 2H2O(g) → MO2 + 4HCl(g)"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the interaction of MCl4 (M = Hf, Zr) with H2S, leading to the formation of MS2 and HCl. The process is characterized by the saturation of the growth rate, indicating self-limiting surface reactions. The presence of impurities such as H2O and O2 in the reactor can lead to oxidation of the films, which is mitigated by using high-purity precursors and encapsulation with an AlxSiyOz layer.",
+  "intermediate_species": [
+    "MS2",
+    "HCl",
+    "H2O",
+    "O2",
+    "AlxSiyOz"
+  ],
+  "evidence": "The text describes the reactions between MCl4 and H2S as favorable with ΔG values of −75 kJ/mol (M = Zr) and −68 kJ/mol (M = Hf) at 500 °C. It also mentions the thermodynamic favorability of oxidation reactions with H2O and O2, and the use of an AlxSiyOz layer to protect the films from oxidation."
+}

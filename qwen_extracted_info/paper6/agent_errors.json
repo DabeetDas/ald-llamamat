@@ -1,0 +1,3 @@
+{
+  "film_properties": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": 170,   \"density_g_cm3\": null,   \"refractive_index\": \"1.80 at 580 nm\",   \"surface_roughness_nm\": \"1.5–1.7 nm\",   \"crystal_phase\": \"Amorphous\",   \"evidence\": \"Films deposited below 350 \\x1eC from any of the precursors used, having only the (400) and (440) reflections barely obser'"
+}

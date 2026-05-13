@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "4InP + 3O2 → 2In2O3 + 4P",
+    "3InP + 6O2 → InPO3 + In2O3",
+    "4In2O3 + 8P → 5InP + 3InPO4",
+    "4In2O3 + 3InP → 3InPO4 + 8In",
+    "8In + 4InPO3 → 3InP + 9InPO4"
+  ],
+  "surface_mechanism_description": "During the ALD process, the InP substrate undergoes oxidation to form In2O3 and InPO3. As the ALD process proceeds, In2O3 is converted to InPO4. The self-cleaning effect during ALD removes the interfacial oxide, resulting in a clean interface between the HfO2 film and the InP substrate. The transformation of the crystal structure from monoclinic to tetragonal is influenced by interfacial energy and lattice mismatch.",
+  "intermediate_species": [
+    "In2O3",
+    "InPO3",
+    "InPO4"
+  ],
+  "evidence": "Considering the conversion of In2O3 to InPO4 as the ALD process proceeds, the following thermodynamic process is possible. First, the InP substrate is oxidized to form In2O3 and InPO3: 4InP + 3O2 → 2In2O3 + 4P and 3InP + 6O2 → InPO3 + In2O3. Second, following the thermodynamic reactions, indium phosphates are generated during the ALD process: 4In2O3 + 8P → 5InP + 3InPO4, 4In2O3 + 3InP → 3InPO4 + 8In, and 8In + 4InPO3 → 3InP + 9InPO4."
+}

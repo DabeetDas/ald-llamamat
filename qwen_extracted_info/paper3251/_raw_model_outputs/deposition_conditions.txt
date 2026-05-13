@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225–275",
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 100,
+  "number_of_cycles": null,
+  "reactor_type": "shower-head",
+  "evidence": "The deposition temperature and pressure during ALD were 225–275 ◦C and 3 Torr, respectively. One deposition cycle for Ru consisted of a Ru(EtCp) 2 vapor pulse, a purge pulse with 100 sccm argon gas, a pulse for exposure to ozone at a flow rate of 150 sccm, and another purge pulse with 100 sccm argon gas."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "200",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "30",
+ "number_of_cycles": "250",
+ "reactor_type": "homemade ALD reactor",
+ "evidence": "The TiO2 ﬁlms were deposited in a homemade ALD reactor from tetrakis dimethylamido titanium (TDMATi) and H2O at 200 °C with 30 s purge times."
+}

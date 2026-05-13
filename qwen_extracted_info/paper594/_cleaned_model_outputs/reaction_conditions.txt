@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "6TiCl4 (g) + 8NH3 (g) -> 6TiN (s) + 24HCl (g) + N2 (g)",
+    "TiCl4 (g) + 2NH3 (g) -> TiN (s) + 4HCl (g) + H2 (g) + 1/2 N2 (g)"
+  ],
+  "surface_mechanism_description": "The ALD process involves the sequential exposure to TiCl4 and NH3, with each pulse followed by a purge step. The surface reactions are limited by the saturation of the surface, leading to the formation of a monolayer of TiN per cycle. The reactions are believed to occur through two half-reactions corresponding to the purging of TiCl4 and NH3, respectively.",
+  "intermediate_species": [
+    "TiCl4*",
+    "NH3*",
+    "TiN*"
+  ],
+  "evidence": "In the ALD process, each of the above reactions can take place through the combinations of two half reactions (A: corresponding to the purging of TiCl4 and B: corresponding to that of NH3) and till today, there is no consensus on the nature of these half reactions. Alternate exposure to sequential reactions like ABABAB... leads to the growth of the TiN film."
+}

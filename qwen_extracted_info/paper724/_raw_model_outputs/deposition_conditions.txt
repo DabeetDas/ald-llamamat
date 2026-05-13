@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.15,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": 1,
+  "number_of_cycles": null,
+  "reactor_type": "Beneq TFS-200",
+  "evidence": "The TZO films were deposited by a Beneq TFS-200 ALD reactor using the precursors diethylzinc (DEZ, Cambridge Chemicals, DEOX™ 99.9999%) and titanium (IV) isopropoxide (Ti-Tip, Aldrich, 97%) on Si (100) and soda-lime glass substrates. Deionized water was used as oxidant in both cases. While the DEZ and water were evaporated from room temperature, Ti-Tip was heated to 85 °C in a hot source before pulsing into the reaction chamber. The substrate temperature was held at 200 °C. The pulse and purge lengths for the DEZ/H2O and Ti-Tip/H2O processes were 0.15/1/0.2/1 s and 0.5/4/0.2/1 s, respectively."
+}<|im_end|>

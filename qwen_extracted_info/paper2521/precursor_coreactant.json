@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "HfCl4",
+    "C18H54N3LaSi6"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "HfO2 films were deposited on 200 mm Si(100) substrates using HfCl4 and H2O. La2O3 films were deposited using C18H54N3LaSi6 and H2O. Film deposition occurs through alternating pulses of metal containing precursor and water. A deposition cycle is defined as a pulse of metal containing precursor, a nitrogen purge to remove un-reacted precursor, a water pulse, and a final nitrogen purge."
+}

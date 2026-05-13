@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD and PEALD",
+  "main_precursors": ["[Al(N iPr2)2(DMP)]", "[AlMe2(DMP)]"],
+  "temperature_range": "100 8C to 180 8C for thermal ALD; 60 8C to 180 8C for PEALD",
+  "summary": "The study describes the development of new [3-(dimethylamino)propyl]aluminium(III) complexes as ALD precursors for Al2O3 thin films. These precursors enable low-temperature ALD processes, both thermal and plasma-enhanced, with good film quality and homogeneity. The compounds are non-pyrophoric, offering a safer alternative to traditional trimethylaluminium (TMA) based processes.",
+  "evidence": "The process shows typical ALD like growth characteristics yielding homogeneous, smooth and high purity Al2O3 thin films that are comparable to Al2O3 layers grown by well-established, but highly pyrophoric, trimethylaluminium (TMA)-based ALD processes. This is a significant development based on the fact that these compounds are non-pyrophoric in nature and therefore should be considered as an alternative to the industrial TMA-based Al2O3 ALD process used in many technological fields of application."
+}

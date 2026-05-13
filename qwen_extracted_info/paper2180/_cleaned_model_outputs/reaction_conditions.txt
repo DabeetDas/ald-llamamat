@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the reduction of tantalum species by plasma radicals, leading to the formation of TaN_x films. The plasma exposure time and gas composition influence the stoichiometry and resistivity of the films.",
+  "intermediate_species": ["dimethylamino ligands", "surface hydroxyls", "Ta-N bonds", "C-N species"],
+  "evidence": "The text discusses the plasma-assisted ALD process using PDMA T precursor and different plasma conditions. It mentions the reduction of Ta atoms by plasma radicals, the removal of dimethylamino ligands, and the formation of Ta-N bonds. The presence of C-N species is indicated by optical emission spectroscopy (OES) data."
+}

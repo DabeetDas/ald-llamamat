@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves alternating pulses of diethylzinc (Zn(C2H5)2) and hydrogen sulfide (H2S) into the reaction chamber, followed by exposure and purge steps. The reaction mechanism is based on the surface chemistry of the anodic alumina oxide (AAO) template, where Zn(C2H5)2 reacts with surface hydroxyl groups, and H2S regenerates the hydroxyl sites.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "monomethyl aluminum"
+  ],
+  "evidence": "Diethylzinc was chosen over the other widely used precursors, such as zinc chloride [ZnCl2], zinc acetate [Zn(CH3COO)2] or zinc oxy-acetate [Zn4O(CH3COO)6], for two reasons. On the one hand, its use is less prone to lead to the ageing phenomena encountered in some practical applications [23], while on the other hand it has smaller molecules than those of most other metal–organics. The latter implies a better diffusivity along the narrow pore channels in AAO membranes and facilitates fabrication of high-aspect-ratio structures."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 120,
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 5,
+  "number_of_cycles": 1000,
+  "reactor_type": "Genitech, Inc., Daejeon, Korea, prototype",
+  "evidence": "One ALD cycle was performed according to the following sequence: A /H20851Ni/H20849dmamp/H208502 supply: 1–6 s/H20852- Ar purge /H208495s /H20850-B /H20849H2O supply: 3 s /H20850- Ar purge /H208495s /H20850."
+}

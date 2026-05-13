@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Hf[N(CH3)2]4 (TDMAH)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "A 2.4-to 4.0-nm-thick HfO2 gate dielectric layer was grown by means of ALD at 250 /C14 C, with Hf[N(CH3)2]4 (TDMAH) and water used as precursors. The ALD process sequences for (a) HF-last and (b) hydrophilicized surfaces are illustrated in Fig. 1. Purges by Ar flow between TDMAH and H2O doses omitted for simplicity."
+}

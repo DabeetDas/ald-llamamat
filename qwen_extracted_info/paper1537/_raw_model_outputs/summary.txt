@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Cu(hfac)2", "pyridine", "H2"],
+  "temperature_range": "298 K to 373 K",
+  "summary": "The study describes a method for growing Cu metal films at room temperature using catalyzed reactions in atomic layer deposition (ALD). The process uses Cu(hfac)2 as a precursor, pyridine as a catalyst, and H2 as a reducing agent. The catalytic effect allows deposition at lower temperatures, improving compatibility with low-k dielectric materials.",
+  "evidence": "The experiments were performed in a normal thermal ALD system operated at a pressure of 1 Torr. The growth rate observed from room temperature to 373 K was approximately 0.185 Å/cycle. The catalytic activation lowers the reaction temperature from greater than 423 K to room temperature. The addition of pyridine with H2 initiated immediate growth of the Cu thin films even at room temperature."
+}<|im_end|>

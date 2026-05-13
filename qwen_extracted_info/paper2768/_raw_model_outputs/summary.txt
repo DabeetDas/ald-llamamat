@@ -1,0 +1,8 @@
+{
+  "target_material": "spider dragline silk",
+  "process_type": "thermal ALD",
+  "main_precursors": ["zinc (Zn)", "titanium (Ti)", "aluminum (Al)", "water (H2O)"],
+  "temperature_range": "70°C",
+  "summary": "The study demonstrates that metals such as zinc (Zn), titanium (Ti), and aluminum (Al) can be infiltrated into spider dragline silk using multiple pulsed vapor-phase infiltration (MPI) with atomic layer deposition (ALD) equipment. This infiltration significantly enhances the toughness of the silk, as confirmed by energy-dispersive x-ray (EDX) and nuclear magnetic resonance (NMR) analyses. The process involves the deposition of metal oxides like Al2O3 and TiO2 on the silk, which contributes to the mechanical properties. The results suggest that the infiltration of inorganic impurities such as Al or Ti into the silk proteins leads to the formation of metal-protein complexes, thereby increasing the mechanical strength and toughness of the silk.",
+  "evidence": "We infiltrated zinc (Zn), titanium (Ti), or aluminum (Al), combined with water from corresponding ALD precursors, into spider dragline silks and observed greatly improved toughness of the resulting silks. The presence of the infiltrated metals such as Al or Ti was verified by energy-dispersive x-ray (EDX) and nuclear magnetic resonance spectra measured inside the treated silks."
+}<|im_end|>

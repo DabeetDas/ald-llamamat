@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of titanium precursors and water, leading to the formation of titanium oxide layers. The process is influenced by precursor chemistry and temperature, with different phases (anatase and rutile) forming based on these parameters.",
+  "intermediate_species": [
+    "Ti(OC2H5)4",
+    "TiCl4",
+    "H2O",
+    "surface hydroxyls"
+  ],
+  "evidence": "The text discusses the use of TiCl4 and Ti(OC2H5)4 as titanium precursors with H2O, and the formation of different phases (anatase and rutile) depending on temperature and precursor chemistry. It mentions the influence of precursor chemistry on the phase composition and the presence of different species like surface hydroxyls."
+}

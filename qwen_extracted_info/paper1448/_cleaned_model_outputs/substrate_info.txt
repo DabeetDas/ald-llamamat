@@ -1,0 +1,7 @@
+{
+  "substrate_material": "Germanium",
+  "substrate_orientation": "Ge(100), Ge(111)",
+  "pretreatment": "sonicated in acetone and chloroform, etched in HF solutions",
+  "surface_functionalization": "hydrogen-terminated",
+  "evidence": "Ge and Si samples were sonicated for at least 10 min in acetone and chloroform prior to etching. This cleaning serves to remove any particles generated during wafer cleaving. Subsequently, the samples were etched in HF solutions."
+}

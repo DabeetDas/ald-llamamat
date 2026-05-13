@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "TEMAH",
+    "H2O"
+  ],
+  "temperature_range": "285–365 °C",
+  "summary": "The study investigates the ALD of HfO2 using tetrakisethylmethylamino hafnium (TEMAH) and water (H2O) as precursors. The research focuses on the effects of precursor decomposition and parasitic growth during the ALD process, particularly in the temperature range of 285–365 °C. The decomposition of TEMAH ligands and their interaction with decomposed surface sites lead to parasitic growth, which affects the growth behavior and properties of the deposited HfO2 layer. The study also highlights the importance of controlling precursor pulse lengths and reaction temperatures to minimize parasitic growth and ensure high-quality HfO2 layers.",
+  "evidence": "This paper shows to what extent precursor decomposition affects the growth behavior of the TEMAH /H2O ALD in the temperature range 285–365 °C as well as the properties of the deposited HfO2 layer. ... The existence of such uncontrolled growth was proven by the repetition of TEMAH /N2 reaction cycles, resulting in the deposition of a poor-quality Hf-based layer, while its contribution depends on both the reaction temperature and the TEMAH pulse length."
+}

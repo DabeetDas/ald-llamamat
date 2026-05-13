@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "150 8C",
+  "summary": "TiO thin films were grown using atomic layer deposition (ALD) from TiCl4 and H2O at 150 8C. The growth was found to be nonhomogeneous, with the formation of anatase inclusions in the amorphous base layer, leading to the development of crystalline particles. The study aimed to understand the growth behavior and the relationship between film thickness, crystallinity, and roughness.",
+  "evidence": "Atomic layer deposition of TiO thin films from TiCl4 and H2O at 150 8C was found to result in nonhomogeneous film growth as a function of time. The data obtained allow us to relate the peculiarities of the growth to the appearance of anatase inclusions in the amorphous base layer of TiO followed by their development into crystalline particles."
+}

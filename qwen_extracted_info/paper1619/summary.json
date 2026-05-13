@@ -1,0 +1,11 @@
+{
+  "target_material": "Lithium tantalate",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Li2O",
+    "Ta2O5"
+  ],
+  "temperature_range": "225 °C",
+  "summary": "Lithium tantalate thin films were deposited using atomic layer deposition (ALD) with subcycles of Li2O and Ta2O5 at 225 °C. The films exhibited good uniformity, conformality, and moderate lithium-ion conductivity at room temperature, making them promising solid-state electrolytes for 3D microbatteries.",
+  "evidence": "Lithium tantalate solid-state electrolytes, with well-controlled film composition and film thickness, were grown by ALD at 225 °C using subcycle combination of 1 × Li2O+ n × Ta2O5 (1 ≤ n ≤ 10). The lithium tantalate thin films showed excellent uniformity and conformity in 3D anodic aluminum oxide template. The lithium tantalate thin films by ALD, featured with well-controlled film thickness and composition, excellent step coverage, and moderate ionic conductivity at room temperature, would be promising solid-state electrolytes for 3D microbatteries."
+}

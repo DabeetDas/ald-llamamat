@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Cu(amd) + H* → Cu + organic ligands"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the dissociative chemisorption of the Cu(amd) precursor on the Cu surface, followed by the hydrogenation of the organic ligands by atomic hydrogen from the H2 plasma. The hydrogenation reaction removes the organic ligands, leaving behind Cu atoms. The desorption of some surface moieties occurs during the purging step, and the self-limiting nature of the ALD process is maintained due to the compact chemisorption layer formed.",
+  "intermediate_species": [
+    "N-isopropylacetamidinate moieties",
+    "iso-propyl moieties",
+    "surface hydroxyls",
+    "organic ligands"
+  ],
+  "evidence": "The surface reactions involved in the deposition process were discussed in the context of the QCM measurements and the OES results. The text mentions that the Cu(amd) precursor dissociatively chemisorbs on the Cu surface and partially decomposes to form iso-propyl and N-isopropylacetamidinate moieties. The hydrogenation reaction removes the organic ligands, and the desorption of some surface moieties occurs during the purging step. The self-limiting nature of the ALD process is maintained due to the compact chemisorption layer formed."
+}

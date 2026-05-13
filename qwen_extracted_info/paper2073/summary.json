@@ -1,0 +1,11 @@
+{
+  "target_material": "In2S3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "indium acetylacetonate",
+    "hydrogen sulphide (H2S)"
+  ],
+  "temperature_range": "140 °C to 240 °C",
+  "summary": "The study investigates the interfaces between Cu(In,Ga)Se2 (CIGS) and In2S3 layers deposited by atomic layer deposition (ALD) at varying temperatures. The In2S3 layers were deposited using indium acetylacetonate and hydrogen sulphide gas at temperatures ranging from 140 °C to 240 °C. The study examines the effects of deposition temperature and sodium (Na) content on the structural and chemical properties of the interfaces, including grain size, orientation relationships, and elemental diffusion. It also explores the impact of Na on the interdiffusion of Cu, Ga, and In between CIGS and In2S3 layers, and its effect on the performance of solar cells.",
+  "evidence": "The In2S3 layers were deposited by atomic layer deposition on CIGS layers at substrate temperatures ranging from 140 °C to 240 °C. Reactants in this process were indium acetylacetonate, which was evaporated from a glass crucible at about 130 °C, and hydrogen sulphide (H2S) gas. These precursors of In and S were alternatingly introduced into the reaction chamber... The study investigates the interfaces between Cu(In,Ga)Se2 (CIGS) and In2S3 layers deposited by atomic layer deposition (ALD) at varying temperatures. The In2S3 layers were deposited using indium acetylacetonate and hydrogen sulphide gas at temperatures ranging from 140 °C to 240 °C."
+}

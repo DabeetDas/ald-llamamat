@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectometry (XRR)",
+    "X-ray Diffraction (XRD)",
+    "Atomic Force Microscopy (AFM)",
+    "Time-of-Flight Elastic Recoil Detection Analysis (TOF-ERDA)",
+    "Capacitance-Voltage (C-V) measurements",
+    "Current-Voltage (I-V) measurements"
+  ],
+  "evidence": "The film thicknesses of the deposited films were determined by measuring the optical reflectance spectrum between the wavelengths of 190 and 1100 nm and fitting a theoretical spectrum to the measured one. The thickness of the films thinner than 50 nm was evaluated by X-ray reflectometry (XRR) using a Bruker D8 Advance X-ray diffractometer. Crystallite orientations and crystallinity of the deposited films were determined by X-ray diffraction with CuKa radiation in a Philips MPD 1880 diffractometer. Surface morphology was studied by using a Nanoscope III atomic force microscope (Digital Instruments) operated in tapping mode. Film composition was measured by time-of-flight elastic recoil detection analysis (TOF-ERDA) at the Accelerator Laboratory of the University of Helsinki. For the electrical characterisation, HfO2 from CpHf(CH3)2/H2O was deposited onto p-type Si(100)-substrates at 350 uC. The C–V characteristics were measured with a HP 4284A precision LCR-meter. The I–V curves were measured with a Keithley 2400 Source Meter."
+}<|im_end|>

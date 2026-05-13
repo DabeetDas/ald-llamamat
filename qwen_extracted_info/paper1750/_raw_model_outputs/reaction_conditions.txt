@@ -1,0 +1,6 @@
+{
+  "reaction_equations": ["Bi(N(SiMe3)2)3 + H2O -> HN(SiMe3)2 + BiOx"],
+  "surface_mechanism_description": "Alternate surface reactions of Bi(N(SiMe3)2)3 and H2O can be used for ALD of amorphous BiOx, Bi–Ta–O and Sr–Bi–Ta–O at 190–200 uC. The reaction of Bi(N(SiMe3)2)3 with surface –OH groups and subsequent H2O pulses leads to the formation of HN(SiMe3)2, which is also known as hexamethyldisilazane (HMDS).",
+  "intermediate_species": ["HN(SiMe3)2", "BiOx", "Bi–Ta–O", "Sr–Bi–Ta–O"],
+  "evidence": "It was found that alternate surface reactions of Bi(N(SiMe3)2)3 and H2O can be used for ALD of amorphous BiOx, Bi–Ta–O and Sr–Bi–Ta–O at 190–200 uC. The most likely reaction product for the reaction of Bi(N(SiMe3)2)3 with surface –OH groups and subsequent H2O pulses is HN(SiMe3)2 also known as hexamethyldisilazane (HMDS)."
+}<|im_end|>

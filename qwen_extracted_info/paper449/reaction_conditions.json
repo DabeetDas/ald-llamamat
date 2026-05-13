@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface-terminating species are removed by thermal desorption or hydrogen-assisted desorption. During the adsorption phase, a dense source gas is exposed onto the active clean Ge surface for self-limiting monolayer adsorption. The desorption rate constant yd is approximated by yd = ydO exp(-Ed/kT). The ALE characteristics are formulated by the rate equation using the surface-terminating species coverage O(t) at time t in both the adsorption phase and the desorption phase as df/dt = -y_e + yd(1 - O).",
+  "intermediate_species": [
+    "surface-terminating species",
+    "methyl group"
+  ],
+  "evidence": "The surface-terminating species are removed by thermal desorption or hydrogen-assisted desorption. During the adsorption phase, a dense source gas is exposed onto the active clean Ge surface for self-limiting monolayer adsorption. The desorption rate constant yd is approximated by yd = ydO exp(-Ed/kT). The ALE characteristics are formulated by the rate equation using the surface-terminating species coverage O(t) at time t in both the adsorption phase and the desorption phase as df/dt = -y_e + yd(1 - O)."
+}

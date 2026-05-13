@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3 (trimethylaluminum, TMA)"],
+  "coreactants": ["H2O vapor"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Al(CH3)3 (trimethylaluminum, TMA, the Al precursor) and H2O vapor (the oxygen precursor) were alternately pulsed into a reaction chamber by an N2 carrier gas flow, with the following sequence: TMA, 0.03 s → N2 purge, 5 s→ H2O, 0.1 s→ N2 purge, 5 s."
+}

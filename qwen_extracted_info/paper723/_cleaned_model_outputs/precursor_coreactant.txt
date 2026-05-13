@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMAH", "Ce(iPrCp)3"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Ce(iprCp)3 [tris(isopropyl-cyclopentadienyl)cerium] and TDMAH [tetrakis(dimethylamino)hafnium] were used as the Ce and Hf precursors, respectively oxidant, with H2O oxidant. The Ce(iPrCp)3 precursor dissolved in toluene solution was injected onto a hot vaporizer heated at 160 ◦C by modulating the opening time of electrically-operated nozzle. TDMAH was contained in a stainless steel bubbler and evaporated at 50 ◦C to produce sufficient vapor pressure. Both precursor vapors were carried into the reaction chamber by an Ar carrier gas whose flow rate was controlled by mass flow controller (MFC). Ar gas with the same flow rate was also used for the purging of excess gas molecules and byproducts between each precursor and reactant exposure steps."
+}

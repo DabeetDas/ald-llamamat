@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": 100,
+  "reactor_type": "viscous flow, hot-walled ALD reactor",
+  "evidence": "The Li2S ALD timing can be described as t1/C0 t2/C0 t3/C0 t4, with t1 and t3 being the dosing times for the LTB and H2S, respectively, and t2 and t4 being the corresponding purge times, with all times in seconds (s)."
+}<|im_end|>

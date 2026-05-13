@@ -1,0 +1,9 @@
+{
+ "characterization_methods": [
+   "Ellipsometry",
+   "Photo-conductance decay (PCD) technique",
+   "Capacitance-voltage (C-V) measurements",
+   "X-ray photoelectron spectroscopy (XPS)"
+ ],
+ "evidence": "The thickness and refractive index (n) of the fabricated thin films were determined by a single-wavelength ellipsometer at the wavelength of 632.8 nm. The effective minority carrier lifetime τeff of the samples was measured by the photo-conductance decay (PCD) technique using a Sinton WCT-120 lifetime tester. The interface properties of the fabricated thin films, i.e., interface trap density, Dit and effective fixed charge density, Qeff, were characterized by capacitance-voltage (C-V) measurements. From our ellipsometric analysis as shown in Fig. 1 and X-ray photoelectron spectroscopy (XPS) analysis (data not shown in here), we found that the observed interface properties of MgO x thin films on c-Si seem to be due to a high carbon impurity and low film density, which may result in a high positive Qeff and out-diffusion of hydrogen and oxygen from the thin films during PDA."
+}

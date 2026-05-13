@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "AlOH* + Al(CH3)3 -> AlOAl(CH3)2 + CH4",
+    "Al(CH3)3 + H2O -> AlOH* + CH4"
+  ],
+  "surface_mechanism_description": "OH groups may play a key role in silicon oxidation during post-deposition annealings in inert ambience with low oxygen contamination levels.",
+  "intermediate_species": [
+    "AlOH*",
+    "Al(CH3)3",
+    "CH4",
+    "Si-OH",
+    "surface hydroxyls",
+    "OH groups"
+  ],
+  "evidence": "We proposed that OH groups may play a key role to explain silicon oxidation during post-deposition annealings in inert ambience with low oxygen contamination levels."
+}

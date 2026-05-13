@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["TMGa", "arsine"],
+  "temperature_range": "340°C - 450°C",
+  "summary": "The study investigates the role of surface and gas phase reactions in the atomic layer epitaxy (ALE) growth of GaAs. The process uses organometallic precursors, specifically TMGa and arsine, with a four-step gas injection sequence. The growth is carried out at low temperatures to ensure surface reactions dominate. The study highlights the impact of gas phase reactions on the growth rate and the importance of surface processes in achieving monolayer saturation. The results show that gas phase decomposition of TMGa significantly affects the growth rate and that the use of different carrier gases (hydrogen vs. nitrogen) influences the decomposition and adsorption processes.",
+  "evidence": "The study investigates the role of surface and gas phase reactions in the atomic layer epitaxy (ALE) growth of GaAs. The process uses organometallic precursors, specifically TMGa and arsine, with a four-step gas injection sequence. The growth is carried out at low temperatures to ensure surface reactions dominate. The study highlights the impact of gas phase reactions on the growth rate and the importance of surface processes in achieving monolayer saturation. The results show that gas phase decomposition of TMGa significantly affects the growth rate and that the use of different carrier gases (hydrogen vs. nitrogen) influences the decomposition and adsorption processes."
+}<|im_end|>

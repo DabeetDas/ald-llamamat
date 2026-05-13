@@ -1,0 +1,7 @@
+{
+  "target_material": "Lithium–nickel–silicon oxide",
+  "process_type": "ALD",
+  "main_precursors": ["LiHMDS", "NiCp2"],
+  "temperature_range": "300°C",
+  "summary": "The study describes the atomic layer deposition (ALD) of lithium–nickel–silicon oxide (LNO) thin films using lithium hexamethyldisilazide (LiHMDS) and bis(cyclopentadienyl) nickel (NiCp2) as precursors with remote oxygen plasma as a counter-reagent. The deposited films were analyzed using various techniques, including XPS, XRR, XRD, and SEM, revealing the presence of lithium, nickel, and silicon. Annealing at 800°C led to the formation of crystalline Li2SiO3 and Li2Si2O5, and partial formation of LiNiO2. The films showed electrochemical activity comparable to other thin-film cathodes, making them promising for thin-film lithium-ion batteries.",
+  "evidence": "The text states: 'Lithium nickelate (LiNiO2) and materials based on it are attractive positive electrode materials for lithium-ion batteries, owing to their large capacity. In this paper, the results of atomic

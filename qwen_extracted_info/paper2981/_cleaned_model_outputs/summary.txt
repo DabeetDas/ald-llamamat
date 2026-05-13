@@ -1,0 +1,8 @@
+{
+  "target_material": "Rhodium",
+  "process_type": "ALD",
+  "main_precursors": ["Rh(acac)3", "Oxygen"],
+  "temperature_range": "250°C",
+  "summary": "Rhodium thin films were grown by atomic layer deposition (ALD) using Rh(acac)3 and oxygen. The films showed a preferred (111) orientation, low resistivity, and low impurity content. The growth rate was independent of the oxygen pulse time but showed some dependence on the Rh(acac)3 pulse time. The study aimed to explore ALD of rhodium for applications such as catalysts and microelectronics.",
+  "evidence": "Rhodium thin films were grown by atomic layer deposition (ALD) from Rh(acac)3 and oxygen. The film growth rate at 250°C was independent of the oxygen pulse time but showed some dependence on the Rh(acac)3 pulse time. The films were metallic rhodium with a preferred (111) orientation, and had low resistivities and low impurity contents."
+}

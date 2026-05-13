@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-300",
+  "pressure": "250 mTorr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 3,
+  "number_of_cycles": "300-1800",
+  "reactor_type": "Oxford Instruments OpAL reactor",
+  "evidence": "Growth parameter Value Substrate temperature 150–300 1C Chamber wall temperature 140 1C Bubbler temperature 130 1C Bubbler argon flow 150 sccm Purge argon flow 250 sccm ALD cycles Gd(MeCp) 3 dose/purge/gas stabilize/plasma/purge 2s/3s/2s/0–10s/3s Plasma power 300 W H 2/N2 flow into ICP 30/5 sccm N2 flow into ICP 60 sccm"
+}

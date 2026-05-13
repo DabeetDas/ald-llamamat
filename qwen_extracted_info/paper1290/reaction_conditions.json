@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process uses bis( N,N’ pdiisopropylacetamidinato)cobalt(II) and H2S as the reactants, with the self-limiting surface reactions enabling layer-by-layer growth. The redox reaction of Co9S8 in alkaline electrolyte is Co9S8 + 9OH- ↔ Co9S8(OH)9 + 9e-.",
+  "intermediate_species": [
+    "Co(amd)2",
+    "H2S",
+    "Co9S8(OH)9"
+  ],
+  "evidence": "The redox reaction of Co9S8 in alkaline electrolyte is Co9S8 + 9OH- ↔ Co9S8(OH)9 + 9e-."
+}

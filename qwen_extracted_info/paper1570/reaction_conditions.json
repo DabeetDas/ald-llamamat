@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the reduction of metal ions using BH3(NHMe2) as a coreagent, leading to the formation of metallic films through self-limited ALD growth. The reduction process is facilitated by the interaction of the reducing agent with the metal precursors, resulting in the deposition of metallic Ni, Co, Fe, and Cr films.",
+  "intermediate_species": [
+    "metal ions",
+    "BH3(NHMe2)"
+  ],
+  "evidence": "The text states: 'ALD growth of Ni, Co, Fe, and Cr films is demonstrated. Mn film growth may be possible, but the films oxidize completely upon exposure to air.' Additionally, it mentions: 'BH3(NHMe2) is a reducing coreagent in the ALD growth of Ni, Co, Fe, and Cr films from the α-imino alkoxide precursors.'"
+}

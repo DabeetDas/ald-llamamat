@@ -1,0 +1,10 @@
+{
+  "target_material": "TiN",
+  "process_type": "plasma-assisted atomic layer deposition (PAALD)",
+  "main_precursors": [
+    "tetrakis dimethylamido titanium (TDMAT)"
+  ],
+  "temperature_range": "175 jC",
+  "summary": "The study investigates the effects of plasma pulse time, power, and plasma gas composition on the electrical properties and stability of TiN films deposited by plasma-assisted atomic layer deposition (PAALD). The films were deposited on Si substrates using TDMAT as a precursor at 175 jC. The resistivity of the films decreased with increased plasma pulse time and power, but beyond certain thresholds, the resistivity approached a saturation point. The stability of the films was also influenced by the plasma gas composition, with higher nitrogen content improving stability but increasing resistivity, while higher hydrogen content reduced resistivity but decreased stability.",
+  "evidence": "The TiN films were prepared on Si substrates covered by SiO2 (300 nm) in a vertical-flow reactor using tetrakis dimethylamido titanium (TDMAT) as a precursor. The films were deposited at a temperature of 175 jC. The effect of plasma pulse time on the electrical properties of the films was evaluated by varying the time from 5 to 90 s. The resistivity of the films decreased exponentially with increased plasma pulse time up to 60 s, and then approached the saturation point beyond that. The effect of plasma power on the electrical properties of the TiN films was also investigated. The resistivity of the film greatly decreased from f 4000 to 300 AV cm as the plasma power increased from 50 to 250 W. The effect of the composition of the plasma was investigated by using hydrogen and/or nitrogen. The resistivity and growth rate of the films decreased with increasing H2 percentage up to f 40% of H2, while higher nitrogen in the plasma helped to improve the film stability but lead to an increase in film resistivity, while higher hydrogen in the plasma was effective in lowering the resistivity of the films but decreased the film stability."
+}

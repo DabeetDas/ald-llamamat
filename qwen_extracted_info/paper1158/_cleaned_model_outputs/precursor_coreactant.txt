@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["high-purity nitrogen"],
+  "carrier_gas": [],
+  "evidence": "The source of the residual chlorine is TiCl4, which was used as a titanium precursor in ALD. The deposition of TiO2 on n-type Si (100) substrates was carried out in a Beneq TFS 200 system equipped with a removable plasma source, using TiCl4 precursor for Ti and H2O or O2 plasma as oxygen sources. The growth cycles for the PEALD deposition included pulses of TiCl4 (of 650 ms), followed by a 4 s purge with high-purity nitrogen (purity 6.0), 3 s plasma exposure and 6 s purge with high-purity nitrogen at the end of each cycle."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 75,
+  "pressure": "5 mbar",
+  "precursor_pulse_time_s": 1.0,
+  "coreactant_pulse_time_s": 2.0,
+  "purge_time_s": 1.0,
+  "number_of_cycles": 2000,
+  "reactor_type": "F120",
+  "evidence": "The films were deposited in a hotwall, flow-type F120 ALD reactor (ASM Microchemistry Ltd.). The pressure inside the reactor was ca. 5 mbar. SnI 4 (Acros Organics, 99+%, -10 mesh) and Pb(btsa) 2 were evaporated from open glass boats inside the reactor at temperatures 65-70 °C and 55-60 °C respectively."
+}<|im_end|>

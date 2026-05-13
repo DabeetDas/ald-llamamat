@@ -1,0 +1,11 @@
+{
+  "target_material": "Titanium-aluminum nitride (TiAlN)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": [
+    "tetrakis (dimethylamino) titanium (TDMAT)",
+    "tri-methyl aluminum (TMA)"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "Titanium-aluminum nitride (TiAlN) films were deposited using plasma-enhanced atomic layer deposition (PEALD) on 316L stainless steel at 200 °C. The films exhibited an amorphous structure and increased electrical resistivity due to the incorporation of AlN. Despite this, the amorphous structure provided excellent corrosion resistance, with a corrosion current density of 0.12 μA/cm², which is significantly higher than that of TiN films and 316L stainless steel. The study aimed to evaluate the electrical and corrosion properties of PEALD-TiAlN films for potential applications requiring high corrosion resistance.",
+  "evidence": "Titanium-aluminum nitride (TiAlN) films were grown by plasma-enhanced atomic layer deposition (PEALD) on 316L stainless steel at a deposition temperature of 200 °C. The addition of AlN to TiN resulted in an increased electrical resistivity of TiAlN films of 2800 µΩ cm, compared with 475 µΩ cm of TiN films, mainly due to the high electrical resistivity of AlN and the amorphous structure of TiAlN. However, potentiostatic polarization measurements showed that amorphous TiAlN films exhibited excellent corrosion resistance with a corrosion current density of 0.12 μA/cm², about three times higher than that of TiN films, and about 12.5 times higher than that of 316L stainless steel."
+}

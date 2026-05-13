@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The positive fixed charges introduced by the PEALD-AlN are suggested to be polarization charges in the monocrystalline PEALD-AlN. They can effectively compensate the high-density slow-response acceptor-like interface traps, resulting in significant reduction of the current collapse and the dynamic ON-resistance in AlGaN/GaN HEMTs under high-drain-bias switching conditions.",
+  "intermediate_species": ["positive polarization charges", "acceptor-like interface trap states"],
+  "evidence": "The positive fixed charges are suggested to be polarization charges in the monocrystalline PEALD-AlN. They can effectively compensate the high-density slow-response acceptor-like interface traps, resulting in significant reduction of the current collapse and the dynamic ON-resistance in AlGaN/GaN HEMTs under high-drain-bias switching conditions."
+}

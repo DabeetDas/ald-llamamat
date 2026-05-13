@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during the ALD process involve the use of nickel(II) acetylacetonate (Ni(acac)2) and direct oxygen plasma. The Ni(acac)2 precursor reacts with surface hydroxyl groups, and the reaction is followed by a water pulse to regenerate OH sites. The low reactivity of Ni(acac)2 toward water allows for the successful growth of nickel oxide films with ozone at temperatures of 175 to 300 °C. The use of direct O2 plasma increases process efficiency by enabling short plasma pulses for saturated growth.",
+  "intermediate_species": ["Ni(acac)2", "surface hydroxyls", "ozone"],
+  "evidence": "Ni(acac)2 was chosen as the Ni precursor because it is widely available and inexpensive. Ni(acac)2 does not pose any significant risk to the user or the environment, and has a low reactivity at ambient conditions, which makes it easy to handle. Ni(acac)2 has a low reactivity toward water, but it has been successfully demonstrated in thermal ALD growth of nickel oxide with ozone at temperatures of 175 to 300 °C. The use of direct O2 plasma also increases the process efficiency, as it enables the use of short plasma pulses."
+}<|im_end|>

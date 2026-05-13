@@ -1,0 +1,11 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "AP-ALD",
+  "main_precursors": [
+    "ZrCl4",
+    "O2"
+  ],
+  "temperature_range": "673–923 K",
+  "summary": "ZrO2 films were deposited on a Si(100) substrate using an alternate reaction of ZrCl4 and O2 under atmospheric pressure. The growth rate depends on temperature, partial pressure of the sources, and exposure time. Self-limiting growth was achieved in the temperature range of 673–923 K, resulting in smooth and uniform films with a tetragonal polycrystalline structure. The [O]/[Zr] ratio of the films was similar to that of ZrO2 bulk.",
+  "evidence": "The ZrO2 films were deposited onto a Si(100) substrate using an alternate reaction of ZrCl4 and O2 under atmospheric pressure. It is found that the growth rate of ZrO2 film depends on the growth conditions, such as growth temperature, partial pressure of the sources being supplied, and exposure time of the substrate to the gaseous sources. Self-limiting growth of the ZrO2 was achieved in the range of the growth temperature of 673–923 K. The x-ray diffractogram of the ZrO2 films showed a typical diffraction pattern assigned to the tetragonal polycrystalline phase. The obtained ZrO2 films were of smooth and uniform surface. It was found that the [O]/[Zr] ratio of the ZrO2 films are similar to that of the ZrO2 bulk."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Tungsten trioxide (WO3)",
+  "process_type": "thermal ALD",
+  "main_precursors": ["W(CO)6", "H2O"],
+  "temperature_range": "300 °C",
+  "summary": "Tungsten trioxide (WO3) thin films were synthesized using atomic layer deposition (ALD) with tungsten hexacarbonyl (W(CO)6) and DI water (H2O) as precursors. The films were deposited at 300 °C with a saturated growth rate of 0.2 Å per ALD cycle. The as-deposited films were amorphous, and post-deposition annealing transformed them into a monoclinic crystal structure. The films exhibited a band gap of ~3.28 eV.",
+  "evidence": "Tungsten oxide (WO3) was successfully deposited by atomic layer deposition (ALD) using tungsten hexacarbonyl [W(CO)6] and DI water [H2O]. A saturated growth rate is of 0.2 Å per ALD cycle was determined at a growth temperature of 300 °C. The as-deposited ALD WO3 films were found to be amorphous, which was corroborated by X-ray diffraction. Post-deposition thermal annealing at an elevated temperature transformed the WO3 phase to a monoclinic crystal structure. The optical measurement confirmed that the ALD WO3 thin film possessed a band-gap of ~ 3.28 eV."
+}<|im_end|>

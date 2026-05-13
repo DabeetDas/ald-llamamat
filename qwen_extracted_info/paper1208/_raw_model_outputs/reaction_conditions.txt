@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "WF6 + H2S → WS2 + HF"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the reduction of W from +VI to +IV oxidation state during the H2 plasma reaction, followed by sulﬁdation during the H2S reaction. The H2 plasma is essential for the reduction of W species, while the H2S reaction is responsible for the formation of WS2. The reaction equations are self-limiting and involve surface species such as -W-OH* and -S-H*.",
+  "intermediate_species": [
+    "W-OH*",
+    "S-H*",
+    "W-S-Fx*",
+    "W-S*"
+  ],
+  "evidence": "The paper describes the reaction mechanism as follows: 'During the PEALD process, the W atom needs reduction from the +VI oxidation state in WF6 to the +IV oxidation state in WS2. We have investigated the impact of the deposition process parameters on the composition (S/W ratio) and 2D structure of the deposited films. On the basis of these results, we propose a model for the redox chemistry of the process.' Additionally, the text states: 'The H2 plasma is essential for the deposition of WS2 as it enables the reduction of −W6+Fx surface species.'"
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "200 mTorr",
+  "precursor_pulse_time_s": "8",
+  "coreactant_pulse_time_s": "3",
+  "purge_time_s": "8",
+  "number_of_cycles": "100",
+  "reactor_type": "Genus Lynx2 ALD reactor",
+  "evidence": "The ALD process was performed in a Genus Lynx2 ALD reactor. The chamber pressure was set to 200 mTorr during deposition. ... A deposition cycle consisted of a pulse for metal precursor supply and a pulse for oxidant supply. In between the pulses, Ar gas kept flowing for 8 s to purge out the precursor residuals and reactant molecules."
+}

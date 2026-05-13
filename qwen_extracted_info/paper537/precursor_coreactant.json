@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "BBr3",
+    "NH3"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Boron tribromide (BBr3) and ammonia (NH3) were used as gaseous precursors. Argon (AGA, purity 99.9999%) was used as carrier gas."
+}

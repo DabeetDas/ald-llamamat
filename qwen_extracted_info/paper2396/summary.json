@@ -1,0 +1,12 @@
+{
+  "target_material": "TiO2/ZnO multilayer",
+  "process_type": "atomic layer epitaxy",
+  "main_precursors": [
+    "diethylzinc (DEZ)",
+    "tetrachlorotitanium (TCT)",
+    "water (H2O)"
+  ],
+  "temperature_range": "450◦C",
+  "summary": "The study describes the fabrication of TiO2/ZnO multilayer mirrors using atomic layer epitaxy (ALE) at 450◦C. The multilayer structure was grown on a sapphire (001) substrate using alternating cycles of ZnO and TiO2 deposition with diethylzinc (DEZ), tetrachlorotitanium (TCT), and water (H2O) as precursors. The resulting multilayer achieved a high reflectivity of 29.4% at a wavelength of 2.74 nm and a grazing angle of 10◦.",
+  "evidence": "We propose that novel oxide superlattice structures of crystalline TiO2/ZnO on sapphire substrates can be used for multilayer mirrors with high reflectivity at 2.734 nm. In the experimental study, both rutile TiO2(200) and wurtzite ZnO(001) thin films were grown epitaxially on the same sapphire (001) substrate by atomic layer epitaxy (ALE) at 450◦C. We also demonstrated that the novel oxide superlattice structure of 10-bilayer TiO2/ZnO on a sapphire substrate gave a high reflectivity of 29.4% at 2.74 nm."
+}

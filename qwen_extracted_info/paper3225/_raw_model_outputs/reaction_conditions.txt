@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "1.5ZrO2 + 2AlCl3(g) = Al2O3 + 1.5ZrCl4(g)",
+    "1.5ZrO2 + Al2Cl6(g) = Al2O3 + 1.5ZrCl4(g)"
+  ],
+  "surface_mechanism_description": "Direct reactions between the earlier deposited oxide layer and the incoming precursor, such as gaseous AlCl3 and as-grown ZrO2, leading to the formation of Al2O3 and volatile ZrCl4.",
+  "intermediate_species": [
+    "AlCl3(g)",
+    "ZrCl4(g)",
+    "Al2Cl6(g)"
+  ],
+  "evidence": "The text describes the reaction between gaseous AlCl3 and as-grown ZrO2 as follows: 1.5ZrO2 + 2AlCl3(g) = Al2O3 + 1.5ZrCl4(g), or if AlCl3 exists in dimeric form when evaporated: 1.5ZrO2 + Al2Cl6(g) = Al2O3 + 1.5ZrCl4(g)."
+}<|im_end|>

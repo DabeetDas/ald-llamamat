@@ -1,0 +1,7 @@
+{
+  "precursors": ["titanium tetraisopropoxide (Ti[OCH(CH3)2]4) (TTIP)"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["N2"],
+  "evidence": "N 2 was used as the carrier gas to deliver TTIP, which was stored in a bubbler at 78 -80 °C and ∼65 Torr. The vapor delivery lines were also heated to the same temperature to prevent precursor condensation. ... TTIP was pulsed for 15 s followed by a 180-s Ar purge after which the chamber was evacuated to the base pressure, ∼10-3 Torr. ... The O 2-plasma was turned on for 180 s followed by a 180-s Ar purge, again followed by evacuation of the chamber."
+}

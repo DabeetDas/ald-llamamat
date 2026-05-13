@@ -1,0 +1,7 @@
+{
+  "target_material": "3C-SiC",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Si2H6", "C2H2"],
+  "temperature_range": "1000-1200 °C",
+  "summary": "The study demonstrates atomic layer epitaxy (ALE) controlled by surface superstructures in 3C-SiC using alternating supplies of Si2H6 and C2H2 in gas source molecular beam epitaxy (MBE). The process involves thermal decomposition of Si2H6 to generate Si atoms, which form surface superstructures, followed by reaction with C2H2 to form SiC. The growth rate is regulated by the number of Si atoms forming the superstructures, and single-crystalline 3C-SiC was grown at 1000 °C.",
+  "evidence": "The study demonstrates atomic layer epitaxy (ALE) controlled by surface superstructures in 3C-SiC using alternating supplies of Si2H6 and C2H2 in gas source molecular beam epitaxy (MBE). The process involves thermal decomposition of Si2H6 to generate Si atoms, which form surface superstructures, followed by reaction with C2H2 to form SiC. The growth rate is regulated by the number of Si atoms forming the superstructures, and single-crystalline 3C-SiC was grown at 1000 °C."

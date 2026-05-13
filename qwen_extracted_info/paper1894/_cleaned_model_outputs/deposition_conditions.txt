@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.02,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "ALD reactor",
+  "evidence": "The Applied Science nanotubes were treated with concentrated HNO3 at 100 1C for 2 h before deposition. The substrate temperature was set to 200 1C. Metal precursor and acetic acid vapors were generated in external reservoirs preheated at 80–90 1C and 40 1C, respectively. They were introduced into the reactor through an ALD valve. All tubes of the circuit were maintained at 100–120 1C during the deposition process. Depending on the precursor used, the nitrogen gas flow varied from 5 to 50 sccm and was maintained throughout the deposition process. In a typical experiment the valves were opened for 0.02 s for carboxylic acid and 1 s for the metal alkoxides. The residence and purging periods were 20 s and 15 s, respectively."
+}

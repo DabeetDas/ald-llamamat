@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "HfCl4"
+  ],
+  "coreactants": [
+    "O3",
+    "H2O"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "HfCl4 was used as a precursor for Hf while O3 or H2O was used as the oxygen source."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Te precursor (1 s) –N 2 purge (5 s) – Mo precursor (800 ms) –N 2 purge (5 s)"
+  ],
+  "surface_mechanism_description": "The growth of MoTe 2 is accompanied by a formation of volatile 1,2-dichlorotetramethyldisilane as by-product. The proposed gas-to-solid phase reaction mechanism of cyclic silyltelluride 1 with MoCl 5 involves favourable exchange of Lewis acid-base pairs as predicted previously by Pore et al.",
+  "intermediate_species": [
+    "volatile 1,2-dichlorotetramethyldisilane",
+    "Mo-Te-O bonds",
+    "Mo-Te",
+    "Te-O bond"
+  ],
+  "evidence": "The growth of MoTe 2 is accompanied by a formation of volatile 1,2-dichlorotetramethyldisilane as by-product (see Scheme S1 in the Supporting Information). The proposed gas-to-solid phase reaction mechanism of cyclic silyltelluride 1 with MoCl 5 involves favourable exchange of Lewis acid-base pairs as predicted previously by Pore et al. The chemical reaction of both, the Te precursor with the hydroxyl groups and the following reaction of the resulting chemisorbed counterpart with the Mo precursor was confirmed by the peak corresponding to the presence of Mo-Te-O bonds ~229.7 eV (Mo3d 5/2). Additional peaks revealed the presence of different chemical environments. Thus, the binding energies (BE) corresponding of these peaks matched well with the presence of Mo(VI) at ~232.2 eV (Mo3d 5/2), Mo(V) at ~231.3 eV (Mo3d 5/2) and Mo(IV)-O bonds at ~230.2 eV (Mo3d 5/2). The origin of those species is ascribed to a substrate interface effect stemming from the low-cycle ALD stage, when remaining available hydroxyl groups from the TNT layers surface reacted with MoCl 5 as it was introduced into the ALD chamber, in line with observations in a recent work. Along with an increasing number of ALD cycles a strong fading of those peaks takes place, indicating that the formation of embedded MoO x species was restricted to a substrate interface effect (the only source of hydroxyl groups). The deconvolution allowed to identify the presence of (i) two main Te-Mo peaks located at ~572.5 eV and ~582.9 eV attributed to Te 3d 5/2 and Te 3d 3/2 confirming the deposition of MoTe 2, (ii) Mo-Te-O bonds at ~573.9 eV and ~584.3 eV corroborating the chemical reaction between both Mo and Te precursors; (iii) two small peaks at ~576.3 eV and ~586.7 eV corresponding to Te-O bond. The lack of any oxygen source during the ALD process (use of oxygen-free precursors) and the strong tendency towards oxidation would suggest that the origin of the Te-O bond is due to the exposition to air."
+}<|im_end|>

@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Atomic Force Microscopy (AFM)",
+    "Ellipsometry",
+    "C-V measurement",
+    "I-V measurement",
+    "Second Harmonic Generation (SHG)",
+    "Four-point probe"
+  ],
+  "evidence": "Electrical characterization was performed on the MOS capacitors... The leakage current and capacitance were measured using a Keithley semiconductor parameter analyzer and HP4284A LCR meter... Effective oxide thickness (EOT) values were extracted from the C-V data... To estimate the conduction band offset of BeO gate dielectric, a second harmonic generation (SHG) characterization was performed... X-ray photoelectron spectroscopy (XPS) data of BeO... AFM images of 5 nm ALD BeO... Physical thickness was measured by ellipsometry... Electrical characterization was performed on MOS capacitors."
+}<|im_end|>

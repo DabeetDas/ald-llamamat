@@ -1,0 +1,8 @@
+{
+  "target_material": "V2O5",
+  "process_type": "ALD",
+  "main_precursors": ["VTOP", "O3"],
+  "temperature_range": "170 −185 °C",
+  "summary": "A new ozone-based atomic layer deposition (ALD) process for crystalline V2O5 films was developed, which allows for the deposition of single-phase, orthorhombic V2O5 on various substrates without thermal post-treatment. The process yields a growth rate of ∼0.27 Å/cycle on Si and enables conformal deposition into high aspect ratio nanopores, making it suitable for 3D nanostructures. The films exhibit excellent electrochemical performance in lithium cells, with high specific discharge capacity and cycling stability.",
+  "evidence": "A new atomic layer deposition (ALD) process for V2O5 using ozone (O3) as oxidant has been developed that resulted in crystalline V2O5 thin films which are single-phase and orthorhombic on various substrates (silicon, Au-coated stainless steel, and anodic aluminum oxide (AAO)) without any thermal post-treatment. Within a fairly narrow temperature window (170 −185 °C), this low temperature process yields a growth rate of ∼0.27 Å/cycle on Si. It presents good uniformity on planar substrates. Excellent conformality enables deposition into high aspect ratio (AR) nanopores (AR > 100), as needed for fabrication of three-dimensional (3D) nanostructures for next generation electrochemical energy storage devices."
+}

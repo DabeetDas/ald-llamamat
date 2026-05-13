@@ -1,0 +1,11 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Cd",
+    "Te"
+  ],
+  "temperature_range": "250–290 °C",
+  "summary": "The study describes the growth of CdTe and CdMnTe by atomic layer epitaxy (ALE) on vicinal surfaces, focusing on the self-organized nature of the process and the formation of tilted superlattices. The ALE process deposits 0.5 monolayers per cycle at temperatures around 260 °C, forming square islands with k100l edges. The study also highlights challenges such as Cd/Mn atomic exchange and step array disorder that limit lateral ordering.",
+  "evidence": "We report on the peculiar aspects of the growth of CdTe by atomic layer epitaxy compared to the one developed for other compound semiconductors. It is self-organized from two points of view, the amount of material deposited by ALE cycle, namely 0.5 ML/cycle for substrate temperatures around 2608C and the geometry of the deposited CdTe which tends to form preferentially square islands with k100l edges."
+}

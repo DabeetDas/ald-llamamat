@@ -1,0 +1,11 @@
+{
+  "target_material": "Indium sulfide (In2S3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Indium acetylacetonate",
+    "Hydrogen sulfide"
+  ],
+  "temperature_range": "160°C",
+  "summary": "The study describes the use of Atomic Layer Deposition (ALD) to deposit an In2S3 buffer layer on copper indium diselenide (CIGS) solar cells. The ALD process uses Indium acetylacetonate and hydrogen sulfide as precursors, and is performed at 160°C. The ALD-deposited In2S3 buffer layer results in improved cell efficiency, achieving up to 13.5% efficiency. The ALD process is highlighted as a dry method that provides excellent interface quality and passivation of the CIGS surface, which is crucial for enhancing the performance of solar cells.",
+  "evidence": "The ALD growth of the buffer layers have been studied in situ with the help of a quartz crystal microgravimetry. Film deposition takes place at low temperature according to the overall reaction: 2In(Acac)3 + 3H2S → In2S3 + 6AcacH. The deposition temperature was 160°C. The cells have been completed by Al doped ZnO layers either by ALD (complete ALD route to cell formation) or by sputtering (mixed route to cell formation)."
+}

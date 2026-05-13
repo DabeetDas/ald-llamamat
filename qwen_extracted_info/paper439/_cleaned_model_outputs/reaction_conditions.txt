@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Self-limiting growth of one- and two-monolayers depending on the growth temperature and flow rate of EDMAAl, with the presence of a three-monolayer self-limiting growth mode. The ALE temperature window for self-limiting growth is extremely wide (250-650°C) when EDMAAl is used as the aluminum source.",
+  "intermediate_species": ["EDMAAl species"],
+  "evidence": "The presence of the two- and three-monolayer growth modes is very interesting, since it suggests that the adsorbed EDMAAl species on the AlAs surface can take various stable forms depending on the growth conditions."
+}

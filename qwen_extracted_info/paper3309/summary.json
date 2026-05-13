@@ -1,0 +1,12 @@
+{
+  "target_material": "cubic tin–calcium sulfide (Sn,Ca)S alloy",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Sn(A-amd)2",
+    "Sn(F-amd)2",
+    "Ca(F-amd)2"
+  ],
+  "temperature_range": "135–190 °C",
+  "summary": "The study reports the atomic layer deposition of cubic tin–calcium sulfide (Sn,Ca)S alloy films using alternating cycles of SnS and CaS. The films were deposited at relatively low substrate temperatures, and the crystal structure was characterized before and after annealing. The study also investigates the cation exchange mechanism during the deposition process and the effect of calcium content on the film properties.",
+  "evidence": "We deposit films of tin –calcium sulfide by atomic layer deposition (ALD) and demonstrate the metastability of this material. ... In this study, we report ALD of rock-salt (Sn,Ca)S films with controllable composition at relatively low substrate temperatures. Crystal structure of the films is characterized before and after a high-temperature annealing process. Electrical and optical properties are also analyzed to demonstrate the possibility of using it as solar cell absorber materials."
+}

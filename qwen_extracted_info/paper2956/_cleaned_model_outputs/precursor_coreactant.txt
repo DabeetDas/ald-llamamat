@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ru(EtCp)2"],
+  "coreactants": ["NH3 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Ruthenium thin films were produced by plasma-enhanced atomic layer deposition (PEALD) using an alternating supply of bis(ethylcyclopentadienyl)ruthenium [Ru(EtCp)2] and NH3 plasma at a deposition temperature of 270°C. Ru(EtCp)2 was contained in a bubbler, which was heated at 80°C, and carried by argon gas at a flow rate of 50 sccm. One deposition cycle of ruthenium PEALD included four consecutive pulses: a pulse of Ru(EtCp)2 vapor, a purge pulse with argon gas at a flow rate of 50 sccm, a pulse for NH3 plasma exposure, and a second purge pulse with 50 sccm argon."
+}

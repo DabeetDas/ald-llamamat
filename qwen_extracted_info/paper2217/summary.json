@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnO:N",
+  "process_type": "atmospheric ALD",
+  "main_precursors": [
+    "diethyl zinc",
+    "water",
+    "ammonia"
+  ],
+  "temperature_range": "100 to 300 °C",
+  "summary": "The study describes the deposition of p-type ZnO:N films using atmospheric atomic layer deposition (ALD) with a temperature range of 100 to 300 °C. The films were doped with nitrogen using ammonia as the nitrogen source, diethyl zinc as the zinc source, and water as the oxygen source. Postannealing was required to remove compensating defects and achieve p-type behavior. The study highlights the effect of deposition temperature on the electrical properties, crystallinity, and nitrogen doping level of the films.",
+  "evidence": "Nitrogen doped ZnO /H20849ZnO:N/H20850 films were deposited by atmospheric atomic layer deposition /H20849ALD/H20850 between 100 and 300 ° C. Diethlyl zinc was used as the zinc source, with water as the oxygen source and ammonia as the nitrogen source. Films were deposited on 10 cm 2 fused silica substrates from 100 to 300 ° C."
+}

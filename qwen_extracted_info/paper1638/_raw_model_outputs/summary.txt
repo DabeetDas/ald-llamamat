@@ -1,0 +1,8 @@
+{
+  "target_material": "MgO",
+  "process_type": "ALD",
+  "main_precursors": ["bis(ethylcyclopentadienyl)magnesium (Mg(CpEt)2)", "H2O"],
+  "temperature_range": "125-400 °C",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of magnesium oxide (MgO) using sequential exposures of bis(ethylcyclopentadienyl)magnesium (Mg(CpEt)2) and water (H2O). The process was investigated for its efficiency, self-limiting reactions, and conformality on various substrates. The growth per cycle was found to be highest at 150 °C, with a maximum growth rate of 1.42 Å/cycle. The results also confirmed the crystalline nature of the MgO films and their stoichiometry.",
+  "evidence": "The MgO ALD film density was 3.07 g/cm3. The largest MgO ALD growth per cycle was 1.42 Å/cycle at 150 °C and the growth per cycle decreased for temperatures >150 °C. X-ray diffraction determined that the MgO ALD films were crystalline and consistent with the cubic phase. Rutherford backscattering determined that the Mg:O stoichiometry of the MgO ALD films was 0.95:1.05."
+}<|im_end|>

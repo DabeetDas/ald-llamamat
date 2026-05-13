@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": " <1 × 10 −9 torr",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 5.0,
+  "purge_time_s": 20.0,
+  "number_of_cycles": 1000,
+  "reactor_type": "ASM (Espoo, Finland) Model F-120",
+  "evidence": "In all studies, two types of substrates were used. These substrates were silicon, Si(100), and 100-nm-thick silicon dioxide (SiO 2) thermally grown on Si(100). Prior to loading into the ALD reactor, the substrates were exposed to an ex situ clean with argon (Ar) gas (99.99% purity). Each ALD TaN x deposition cycle consisted therefore of four consecutive steps; namely, a TBTDET pulse, followed by an Ar purge, then a NH 3 pulse, followed by an Ar purge. To prevent the undesirable decomposition of TBTDET on the substrate, which is believed to occur at a substrate temperature at or above 300 °C, all experiments were performed at a substrate temperature of 250 °C. As stated earlier, optimization of the ALD process was accomplished by investigating saturation of film-growth rate versus duration of the TBTDET and NH 3 pulses over the ranges of, respectively, 0.2 s to 5.0 s and 0.5 s to 10.0 s. Reproducibility was achieved by performing a relatively large number of deposition cycles (1000) for each experiment. For all experiments, the Ar purge times were held at 20.0 s to ensure total reactant separation and realize complete reactor purge between reactant pulses."
+}<|im_end|>

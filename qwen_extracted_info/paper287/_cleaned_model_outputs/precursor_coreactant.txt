@@ -1,0 +1,7 @@
+{
+  "precursors": ["SnCl4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2", "O2"],
+  "carrier_gas": ["N2", "O2"],
+  "evidence": "SnCl4 (Sigma Aldrich, 99.995% pure) and H2O were used as precursors with O2 or N2 carrier gas with a flow rate of 500 sccm. O2 and N2 were used also as post-flow gases. The precursors were held at a constant temperature of 20oC and the vapor pressure at this temperature provided a sufficient drive to the precursor vapor to flow into the reaction chamber. The precursor vapor was mixed with N2 or O2 carrier gas during the deposition cycles. After each precursor pulse N2 or O2 gas was pulsed into the reaction chamber for purging."
+}

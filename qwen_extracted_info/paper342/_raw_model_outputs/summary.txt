@@ -1,0 +1,8 @@
+{
+  "target_material": "Silicon",
+  "process_type": "Molecular Layer Epitaxy (MLE)",
+  "main_precursors": ["SiH2Cl2", "Hydrogen"],
+  "temperature_range": "815–825°C for (100) surface; 890–910°C for (111) surface",
+  "summary": "The study demonstrates molecular layer epitaxy (MLE) for silicon deposition using SiH2Cl2 and hydrogen gases. Monomolecular layer growth was achieved at specific temperatures for (100) and (111) surfaces, with film thickness saturation observed. The process was analyzed using mass spectrometry, and SiCl2 was identified as the main surface adsorbed species. The results highlight the importance of injection time and temperature for surface reactions and epitaxial growth.",
+  "evidence": "Si epitaxial layer was successfully grown by molecular layer epitaxy (MLE), where SiH2Cl2 and hydrogen gases were injected alternately. The substrate temperature of 825–815°C fulfilled the condition for monomolecular layer growth on the (100) surface, and 890–910°C for growth on the (111) surface. From the results of mass spectroscopic measurement, as the main surface adsorbed species in the Si—Cl—H system, SiCl2 was inferred."
+}<|im_end|>

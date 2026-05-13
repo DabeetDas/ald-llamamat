@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 5,
+  "number_of_cycles": 600,
+  "reactor_type": "viscous flow reactor",
+  "evidence": "Ir ALD was conducted in a viscous flow reactor maintained at a pressure of ~ 1 Torr under a flow of 130 sccm N2 (99.999% purity) carrier gas and a temperature of 300 °C. Ir ALD was conducted with 5–10 s Ir(acac)3 exposures and 2 s O 2 exposures, with each exposure followed by a 5 s N 2 purge."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Co(BTSA)2(THF)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Water was used as the coreactant, which led to the formation of Co(II) oxide films. Nitrogen (99.999%, O2 ≤ 5 ppm, H2O ≤ 5 ppm, AGA) was used as a carrier and purging gas at a flow rate of 400 sccm."
+}

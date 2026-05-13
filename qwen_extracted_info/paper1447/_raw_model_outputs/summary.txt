@@ -1,0 +1,8 @@
+{
+  "target_material": "In2O3",
+  "process_type": "ALD",
+  "main_precursors": ["cyclopentadienyl indium", "ozone"],
+  "temperature_range": "200 -450 °C",
+  "summary": "This study presents a new method for depositing In2O3 thin films using atomic layer deposition (ALD) with cyclopentadienyl indium and ozone. The process allows for conformal coating of porous materials and achieves a growth rate of 1.3-2.0 Å/cycle. The method overcomes limitations of previous techniques by avoiding corrosive byproducts and enabling coating of high aspect ratio materials.",
+  "evidence": "Using a precursor vaporization temperature of 40 °C and deposition temperatures of 200 -450 °C, we measure growth rates of 1.3 -2.0 Å/cycle. A significant advantage of this synthesis route over previous techniques is the ability to conformally coat porous materials such as anodic aluminum oxide membranes."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 4.8,
+  "density_g_cm3": 2.21,
+  "refractive_index": "1.47",
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "Measurements of the film thickness dexp and refractive index nexp were made by ellipsometry, using an NiiC EL-10 device with λ = 632.8 nm. Because it was difficult to measure exactly the thickness of very thin films, we assumed the refractive index to be independent of the grown thickness and adjusted the thickness d by the accurately measured refractive index of thicker films n = 1.47: d = dexpnexp / 1.47. For 30 cycles a thickness measurement was made using X-ray photoelectron spectroscopy (XPS) and comparing the signal intensities from the Si substrate and the SiO2 peak (see below). The obtained value of 4.8 nm coincides with the fit through the values from ellipsometry. The presence of almost no silicon suboxide (SixOy, y/x < 2) can be seen by a fit of the two peaks with gaussian curves for Si and SiO2. Integration over the peaks allowed us to calculate the thickness of the layer from the escape depth desc for electrons in SiO2. Assuming desc to be the same as for thermal oxide, desc=3.49nm, we obtain 4.8 nm, in accordance with the results from ellipsometry."
+}<|im_end|>

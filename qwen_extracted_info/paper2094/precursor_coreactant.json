@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Hf(N(CH3)(C2H5))4"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The Hf /H20851N/H20849CH3/H20850/H20849C2H5/H20850/H208524 precursor was introduced using a liquid flow meter system, and that vaporized at 120 °C with Ar as a carrier gas. Following this, an oxidant O3 was introduced for 5 s, and purged for 30 s. The buffer Ar gas was always flowing at 700 sccm in the reactor chamber."
+}

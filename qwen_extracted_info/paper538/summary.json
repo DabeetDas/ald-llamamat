@@ -1,0 +1,11 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "ZrCl4",
+    "H2O"
+  ],
+  "temperature_range": "180–600 8C",
+  "summary": "ZrO2 thin films were grown using ZrCl4 and H2O as precursors in a thermal ALD process. The films exhibited different crystalline phases depending on the growth temperature and thickness. The study aimed to optimize the ALD process for ZrO2 thin films by investigating the effects of deposition temperature and oxygen precursor choice on film properties.",
+  "evidence": "It was demonstrated that ZrO2 thin films can be grown in the ZrCl4-based atomic layer deposition process at substrate temperatures of 180–600 8C. The films grown on silicon and silica substrates were amorphous or polycrystalline depending on the growth temperature and film thickness. The study was aimed at further optimization of the ALD growth of ZrO2, revealing the mechanisms of surface reactions and better understanding of crystallization processes in the initial stage of ZrO2 thin-film growth."
+}

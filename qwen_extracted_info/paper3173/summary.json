@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO:N",
+  "process_type": "ALD",
+  "main_precursors": [
+    "NH4OH",
+    "ZnO"
+  ],
+  "temperature_range": "125°C",
+  "summary": "The study investigates the effects of nitrogen concentration on the electrical properties of ALD ZnO:N thin films and their application in TFTs. Nitrogen incorporation is controlled by varying NH4OH concentrations, leading to changes in carrier concentration, threshold voltage, and device performance. The ALD process allows for precise control of film composition and thickness, enabling the fabrication of flexible TFTs on PEN substrates.",
+  "evidence": "The electrical properties of atomic layer deposition /H20849ALD/H20850nitrogen-doped ZnO /H20849ZnO:N/H20850thin films were investigated as a function of incorporated nitrogen concentration. The nitrogen concentrations in the films were controlled by using different concentrations of NH4OH solution... The ALD ZnO:N TFT was also fabricated on a flexible substrate, which was possible by the low process temperatures developed in this study."
+}

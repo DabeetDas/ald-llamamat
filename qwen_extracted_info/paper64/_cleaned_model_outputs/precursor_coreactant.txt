@@ -1,0 +1,7 @@
+{
+  "precursors": ["dimethylaluminum chloride (DMACl)"],
+  "coreactants": ["ozone"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The ALD cycle was performed using the following sequence: DMACl (0.2 s)—N2 purge (3 s)—O3 (2-40 s)—N2 purge (5 s)."
+}

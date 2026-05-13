@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the interaction of metal oxide precursors with the eggshell membrane. For TiO2, titanium(IV) isopropoxide (Ti(OiPr)4) and water are used as precursors, while for ZnO, diethylzinc (ZnEt2) and water are used. The ALD process involves alternating pulses of precursor and reactant, leading to the formation of metal oxide layers on the membrane. The mechanism includes the adsorption of precursor molecules, surface reactions, and the formation of hydroxyl groups, which are then involved in the reaction with the metal precursors.",
+  "intermediate_species": ["surface hydroxyls", "ZnO", "TiO2"],
+  "evidence": "The text describes the use of titanium(IV) isopropoxide (Ti(OiPr)4) and water for TiO2 deposition, and diethylzinc (ZnEt2) and water for ZnO deposition. The ALD process involves alternating pulses of precursor and reactant, leading to the formation of metal oxide layers on the membrane. The surface reactions involve the adsorption of precursor molecules, surface reactions, and the formation of hydroxyl groups, which are then involved in the reaction with the metal precursors."
+}

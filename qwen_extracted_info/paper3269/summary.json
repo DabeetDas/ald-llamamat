@@ -1,0 +1,11 @@
+{
+  "target_material": "Indium Oxide (In2O3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "cyclopentadienyl indium (InCp)",
+    "hydrogen peroxide (H2O2)"
+  ],
+  "temperature_range": "160 –200 °C",
+  "summary": "The study investigates the ALD of In2O3 nano-films using InCp and H2O2 as precursors at low temperatures (160–200 °C). The films exhibit a stable growth rate of 1.4–1.5 Å/cycle. The deposited films show improved crystallinity and reduced oxygen vacancies with increasing temperature. The ALD In2O3 films are used to fabricate high-performance thin-film transistors (TFTs) with an Al2O3 gate dielectric, achieving a field-effect mobility of 7.8 cm²/V·s, a subthreshold swing of 0.32 V/dec, and an on/off current ratio of 10⁷.",
+  "evidence": "Atomic-layer-deposition (ALD) of In2O3 nano-films has been investigated using cyclopentadienyl indium (InCp) and hydrogen peroxide (H2O2) as precursors. The In2O3 films can be deposited preferentially at relatively low temperatures of 160 –200 °C, exhibiting a stable growth rate of 1.4 –1.5 Å/cycle. ... Further, high-performance In2O3 thin-film transistors with an Al2O3 gate dielectric were achieved by post-annealing in air at 300 °C for appropriate time, demonstrating a field-effect mobility of 7.8 cm²/V⋅s, a subthreshold swing of 0.32 V/dec, and an on/off current ratio of 10⁷."
+}

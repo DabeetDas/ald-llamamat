@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "TEMAHf",
+    "O3"
+  ],
+  "temperature_range": "700 °C",
+  "summary": "The study investigates the incorporation of nitrogen into HfO2 films using thermal ALD on Si(100) substrates. The films are exposed to NH3 and N2 annealing processes to analyze the effects of nitrogen incorporation on the chemical and structural properties of the HfO2/SiO2/Si interface. The results show that NH3 annealing leads to the formation of Hf–N bonds and influences the microstructure of the HfO2 films. The study also examines the impact of nitrogen on the electrical performance of the films.",
+  "evidence": "HfO2 films were deposited by atomic layer deposition using tetrakis(ethylmethylamino)hafnium (TEMAHf) and ozone (O3) on chemically prepared p-type Si(100) substrates. The films were exposed to NH3 and N2 annealing processes at 700 °C for 60 s."
+}

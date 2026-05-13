@@ -1,0 +1,12 @@
+{
+  "target_material": "Ni, Cu, Pt",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Ni acac",
+    "Cu acac",
+    "Pt acac"
+  ],
+  "temperature_range": "250 8C",
+  "summary": "The study investigates the feasibility of depositing metallic thin films of Ni, Cu, and Pt using acetylacetonate precursors via atomic layer epitaxy (ALE). The process involves two approaches: direct layer-by-layer reduction of the precursor with H2 and deposition of a metal oxide film followed by reduction. The study highlights the effects of substrate material on film growth and the challenges of interdiffusion and silicide formation on silicon substrates.",
+  "evidence": "Feasibility of metallic thin film growth by atomic layer epitaxy ALE was studied in the case of divalent metal b-diketonate-type precursor M acac MsNi, Cu and Pt at 250 8C and 1 mbar. The latter case was demonstrated by converting a NiO thin film, deposited at 250 8C on glass substrate with O as an oxygen source, to metallic Ni at 260 8C and 1 atm by 5% H2. The study also discusses the effects of substrate material on film growth and the challenges of interdiffusion and silicide formation on silicon substrates."
+}

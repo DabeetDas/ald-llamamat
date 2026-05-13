@@ -1,0 +1,12 @@
+{
+  "target_material": "Zinc sulfide (ZnS)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "zinc acetate",
+    "zinc chloride",
+    "H2S"
+  ],
+  "temperature_range": "260-500 °C",
+  "summary": "The study investigates the growth and structural properties of zinc sulfide thin films prepared by Atomic Layer Epitaxy (ALE) using different precursors (zinc acetate and zinc chloride) and examines the effects of growth temperature and doping with terbium on the films' structural and thermal behavior. The films are characterized using emanation thermal analysis (ETA) and differential scanning calorimetry (DSC) to study thermal-induced changes and polymorphic transitions.",
+  "evidence": "Zinc sulfide thin films were deposited by the Atomic Layer Epitaxy (ALE) process from zinc acetate and zinc chloride and studied by emanation thermal analysis (ETA). The effects of different precursors and growth temperatures were evident in the ETA curves. In the films grown from zinc acetate, thermally induced changes were detected below 95 °C and above 400 °C which can plausibly be attributed to a higher amount of volatiles and to a polymorphic transition, respectively. The cubic to hexagonal transition was confirmed by DSC."
+}

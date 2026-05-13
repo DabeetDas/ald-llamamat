@@ -1,0 +1,8 @@
+{
+  "target_material": "iron-rich nickel ferrite spinel (Ni xFe3–xO4)",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Ni(acac)2", "Fe(cp)2", "O3"],
+  "temperature_range": "250 °C",
+  "summary": "The study reports the epitaxial growth of iron-rich nickel ferrite spinel (Ni xFe3–xO4) using atomic layer deposition (ALD) at low temperatures (250 °C). The films are grown without postannealing and exhibit orientation control through substrate selection. The growth dynamics and nucleation behavior are investigated, showing initial inhibition due to Fe-species and a composition gradient in the early stages. The ability to control the magnetic easy axis orientation through substrate choice is highlighted, with potential applications in multiferroic stacks and low-temperature device integration.",
+  "evidence": "The authors here report epitaxial growth of the ferrimagnet Ni xFe3–xO4 (NFO) by atomic layer deposition at low temperatures. Films grow epitaxially at a reactor temperature of 250 °C and require no further postannealing treatment. (100)-, (110)-, and (111)-oriented thin films of NFO are attainable by using MgO (100)/LaAlO3 (100), LaAlO3 (110), and Al2O3 (001) substrates, respectively. This means that the direction of the easy axis of magnetization relative to the film surface can be selected by the choice of substrate."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "0.3 Pa",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 9,
+  "purge_time_s": 6,
+  "number_of_cycles": 200,
+  "reactor_type": "remote PE-ALD",
+  "evidence": "The depositions were carried out in a home-built ALD reactor consisting of a remotely placed rf inductively coupled plasma source attached to a wall heated deposition chamber. The reactor walls were heated to 95°C and the H2O reactant line to 50°C. Unless stated otherwise, the depositions used 200 cycles, typically consisting of 4 s TMA exposure, 10 s evacuation, 9 s reactant exposure, and again 6 s evacuation. The plasma was ignited at 300 W for most experiments."
+}

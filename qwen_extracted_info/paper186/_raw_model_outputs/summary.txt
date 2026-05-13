@@ -1,0 +1,8 @@
+{
+  "target_material": "Gd2O3",
+  "process_type": "Ozone-Based ALD",
+  "main_precursors": ["tris(isopropyl-cyclopentadienyl)gadolinium (Gd(iPrCp)3)", "O3"],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of Gd2O3 using tris(isopropyl-cyclopentadienyl)gadolinium (Gd(iPrCp)3) and ozone (O3) as precursors. The research focuses on the influence of the O2/N2 ratio in ozone generation on surface chemistry and film uniformity. The presence of NOx species from the O2/N2 mixture significantly affects the surface reactions, leading to dehydroxylation and suppression of parasitic CVD, resulting in more uniform Gd2O3 films.",
+  "evidence": "The atomic layer deposition (ALD) of Gd2O3 from tris(isopropyl-cyclopentadienyl)gadolinium (Gd(iPrCp)3) and O3 is studied as a function of the O2/N2 ratio used to generate O3. [...] The presence of NOx led to strong modifications of the surface chemistry. [...] The absence of generated iPrCpH during Gd(iPrCp)3 adsorption suggests the absence of active hydroxyl or other proton donor groups on the surface. [...] The absence of identifi able reaction product during Gd(iPrCp)3 half cycle under these conditions suggests that the Gd(iPrCp)3 adsorption may occur via chemisorption without ligand release. [...] These conditions were also found to suppress the parasitic CVD reaction, leading to a much improved thickness WiWNU."
+}<|im_end|>

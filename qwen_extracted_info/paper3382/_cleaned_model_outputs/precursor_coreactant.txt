@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMA"],
+  "coreactants": ["O3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "TMA and ozone or H2O were used as the sources of Al and O, respectively. TMA was evaporated from an open boat held inside the reactor and pulsed onto the substrate by means of inert gas (Ar) valving."
+}

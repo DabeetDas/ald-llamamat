@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the regeneration of surface hydroxyl groups after each H2O pulse, with the density of these groups decreasing at higher temperatures due to dehydroxylation. The growth rate is influenced by the surface hydroxylation and dehydroxylation processes.",
+  "intermediate_species": [
+    "surface hydroxyls"
+  ],
+  "evidence": "The surface reactions are described as involving the regeneration of surface hydroxyl groups after each H2O pulse, with the density of these groups decreasing at higher temperatures due to dehydroxylation. The growth rate is influenced by the surface hydroxylation and dehydroxylation processes."
+}

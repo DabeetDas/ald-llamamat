@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "PH3 plasma",
+    "bis(N -t-butyl-N'-ethylpropanimidamidato) cobalt (II) (Co(AMD)2)"
+  ],
+  "coreactants": [
+    "H2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Herein, we report a plasma-assisted ALD process for depositing ultrathin Co-P films using PH3 plasma and bis(N -t-butyl-N'-ethylpropanimidamidato) cobalt (II) (Co(AMD)2) as the phosphorus source and metal precursor, respectively. In addition, an H2 plasma step was employed during the deposition to remove excessive phosphorus."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the use of plasma-assisted atomic layer epitaxy (PA-ALE) with self-terminating and self-limiting gas-surface half-reactions. For example, the growth of InGaN and AlInN involves the sequential deposition of InN and AlN cycles, where the InN cycle is initiated with trimethylindium (TMI) and nitrogen plasma, followed by an AlN cycle using trimethylaluminum (TMA) and N2/H2 plasma. The growth process is controlled by adjusting the ratio of InN and AlN cycles to vary the composition of the ternary films.",
+  "intermediate_species": ["trimethylindium (TMI)", "trimethylaluminum (TMA)", "nitrogen plasma", "surface hydroxyls", "adsorbed TMG"],
+  "evidence": "For In-containing ternaries, 99.999% pure TMI and nitrogen plasma were used to grow a cycle of InN first. After the InN cycle, a cycle of AlN was grown using high-purity TMA and N2/H2 (75/10 sccm) plasma. By changing the ratio of InN and AlN cycles in a given ternary cycle, the In content in the AlInN ternary film was varied."
+}<|im_end|>

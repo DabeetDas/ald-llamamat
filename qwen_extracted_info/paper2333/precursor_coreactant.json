@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "MoCl5",
+    "H2S"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "As precursors, MoCl5 (99.6%) and H2S (99.6%) were alternately vaporized into ALD reaction chamber by N2 (99.999%) flow at a rate of 50 sccm."
+}

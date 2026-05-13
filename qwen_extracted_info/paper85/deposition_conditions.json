@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "60 - 150",
+  "pressure": "Torr",
+  "precursor_pulse_time_s": "0.2",
+  "coreactant_pulse_time_s": "0.1",
+  "purge_time_s": null,
+  "number_of_cycles": "2270",
+  "reactor_type": "pulsed beam CVD",
+  "evidence": "The amounts of the reactive compounds injected per pulse were 2.6.10-’ mol for TTIP and 5.3.10-6 mol for H20 with the pulse widths of 0.2s and 0.1 s, respectively. The substrate temperature was varied in the range of 60 - 150°C."
+}

@@ -1,0 +1,11 @@
+{
+  "precursors": [
+    "GeH4"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [],
+  "evidence": "During evacuation, H2 gas is continuously flowing to avoid contaminations from the exhaust line."
+}

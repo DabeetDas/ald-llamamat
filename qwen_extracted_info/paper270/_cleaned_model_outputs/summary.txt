@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Vacuum Atomic Layer Epitaxy (VALE)",
+  "main_precursors": ["trimethylgallium (TMGa)", "tertiarybutylarsine (TBAs)"],
+  "temperature_range": "500°C",
+  "summary": "The study reports the growth of GaAs using vacuum atomic layer epitaxy (VALE) with trimethylgallium (TMGa) and tertiarybutylarsine (TBAs) as precursors. The process achieves a saturated monolayer growth rate with a wide temperature window and demonstrates the self-limiting decomposition of precursors. The films are p-type with carrier concentrations dependent on exposure conditions. The study also highlights the importance of controlling background impurities and the role of TBAs in reducing carbon incorporation.",
+  "evidence": "We report the results of GaAs grown by vacuum atomic layer epitaxy using trimethylgallium (TMGa) and tertiarybutylarsine (TBAs) as the group III and V sources. The growth rate saturates at one monolayer per cycle for a wide range of growth parameters. The temperature window for monolayer growth is as wide as 70°C. All the films are p-type with the carrier concentration depending on the exposure conditions of TMGa and TBAs."
+}

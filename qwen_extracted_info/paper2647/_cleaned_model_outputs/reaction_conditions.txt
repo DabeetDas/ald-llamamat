@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the sequential pulsing of MoCl5 and H2S precursors at reactor temperatures up to 475 /C14 C. The ALD pulse sequence includes a soak step after each precursor pulse to ensure adequate reaction time between the reactant (MoCl5 or H2S) and the respective surface species. The mechanism is self-limiting, allowing for precise thickness control and uniform growth across the substrate.",
+  "intermediate_species": ["MoCl5", "H2S", "surface hydroxyls", "sulfur species"],
+  "evidence": "The ALD pulse sequence included an additional 'soak' step after each precursor pulse to ensure adequate time for reaction between the reactant (MoCl5 or H2S) and the respective surface species. The surface reactions are self-limiting, allowing for precise thickness control and uniform growth across the substrate."
+}

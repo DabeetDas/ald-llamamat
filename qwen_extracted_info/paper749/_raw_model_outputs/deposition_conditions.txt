@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "1.6 mTorr",
+  "precursor_pulse_time_s": 3.5,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "NCD LucidaTM M100 ALD",
+  "evidence": "A 16-nm BeO layer was deposited using a NCD LucidaTM M100 ALD (reaction-chamber temperature: 250 °C, sublimation temperature of diethyl-beryllium (DEB): 65 °C, DEB pulse/purge: 3.5/30 s, H2O pulse/purge: 1/30 s, chamber pressure: 1.6 mTorr, growth-per-cycle: 0.8 Å/cycle)."
+}<|im_end|>

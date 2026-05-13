@@ -1,0 +1,6 @@
+{
+  "reaction_equations": ["2TiCl4 + 4NH3 = 2TiN + 8HCl + N2 + 2H2"],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of TiCl4 and NH3 on the surface, followed by surface reactions leading to the formation of TiN. The reaction is self-limiting due to saturated surface adsorption of reactants, and the growth rate is not significantly affected by deposition temperature.",
+  "intermediate_species": ["TiCl4", "NH3", "TiN", "HCl", "N2", "H2"],
+  "evidence": "The reaction equation and mechanism are described in the text: '2TiCl4 + 4NH3 = 2TiN + 8HCl + N2 + 2H2' and 'The reaction is self-limiting caused by the saturated surface adsorption of reactants.'"
+}<|im_end|>

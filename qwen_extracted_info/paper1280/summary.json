@@ -1,0 +1,13 @@
+{
+  "target_material": "LiMn2O4",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "LiOtBu",
+    "H2O",
+    "Mn(thd)3",
+    "O3"
+  ],
+  "temperature_range": "225 °C",
+  "summary": "The study investigates the intercalation of Li+ ions into LiMn2O4 thin films deposited by atomic layer deposition (ALD). The films were prepared using Mn(thd)3 and O3 as precursors for MnO2, followed by lithium intercalation using LiOtBu and H2O. The intercalation process was analyzed using X-ray absorption spectroscopy (XAS), X-ray diffraction (XRD), and other techniques. The results show that the phase change from MnO2 to LiMn2O4 occurs as the lithium concentration increases, and annealing at 600 °C completes the phase transformation to pure LiMn2O4.",
+  "evidence": "The text states that the films were deposited using Mn(thd)3 and O3 as precursors for MnO2, followed by lithium intercalation using LiOtBu and H2O. The intercalation process was analyzed using X-ray absorption spectroscopy (XAS), X-ray diffraction (XRD), and other techniques. The results show that the phase change from MnO2 to LiMn2O4 occurs as the lithium concentration increases, and annealing at 600 °C completes the phase transformation to pure LiMn2O4."
+}

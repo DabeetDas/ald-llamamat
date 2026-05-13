@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum oxide (Al2O3)",
+  "process_type": "PEALD and pulsed PECVD",
+  "main_precursors": ["Trimethylaluminum (TMA)", "O2"],
+  "temperature_range": "165 8C",
+  "summary": "The study investigates the deposition mechanisms of aluminum oxide using both pulsed plasma-enhanced chemical vapor deposition (PECVD) and plasma-enhanced atomic layer deposition (PEALD). It highlights the self-limiting growth behavior, the role of precursor exposure, and the differences in growth mechanisms between the two processes. The results show that pulsed PECVD involves both ALD and PECVD components, with the latter being tunable by adjusting TMA partial pressure. The study also demonstrates the conformality and quality of the deposited films.",
+  "evidence": "Self-limiting growth of Al2O3 is accomplished using both pulsed plasma-enhanced (PE) CVD and plasma-enhanced atomic layer deposition (PEALD). In pulsed PECVD the two reactants (Al(CH3)3/TMA and O2) are supplied continuously, while in PEALD the TMA is delivered in pulses separated by purge steps. At 165 8C a rate of 1.37 A˚ per cycle is obtained using PEALD. The results suggest that deposition in pulsed PECVD involves an ALD component which is supplemented by PECVD growth, and that the contribution of the latter may be tuned using the TMA partial pressure. Experiments using patterned wafers support this hypothesis. Conformal coatings are observed within 10:1 aspect ratio trenches using pulsed PECVD; however the deposition rate on the surface of these substrates is greater than within the trench."
+}<|im_end|>

@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "2In(CH3COCHCOCH3)3(g) + surface ! 2In(CH3COCHCOCH3)3(adsorbed)",
+    "3H2S(g) + 2In(CH3COCHCOCH3)3(adsorbed) ! In2S3 + 6CH3COCH2COCH3"
+  ],
+  "surface_mechanism_description": "The ALD process involves alternate saturative surface reactions where the precursors are pulsed into the reaction chamber sequentially, followed by inert gas purging. The reactions are surface saturated, leading to self-limiting film growth. The mechanism involves the adsorption of indium acetylacetonate followed by the reaction with hydrogen sulphide to form In2S3.",
+  "intermediate_species": [
+    "In(CH3COCHCOCH3)3(adsorbed)",
+    "CH3COCH2COCH3"
+  ],
+  "evidence": "To obtain In2S3 there we used the following pulsing order: 1. indium acetyl acetonate 0.7 s, 2. nitrogen (purge 1) 1 s, 3. hydrogen sulphur 0.5 s, 4. nitrogen (purge 2) 0.8 s. Assuming a simple ALD mechanism one should expect a repetition of the following basic surface chemical reactions: Step 1: Indium pulse 2In(CH3COCHCOCH3)3(g) + surface ! 2In(CH3COCHCOCH3)3(adsorbed) Step 2: Sulphur pulse 3H2S(g) + 2In(CH3COCHCOCH3)3(adsorbed) ! In2S3 + 6CH3COCH2COCH3"
+}

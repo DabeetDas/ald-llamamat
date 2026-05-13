@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "900",
+  "pressure": "5 and 8 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "12",
+  "reactor_type": "oxide ALD reactor",
+  "evidence": "The samples were in situ transferred under /C24 10/C0 10 Torr to the oxide ALD reactor to deposit nanolaminated Y 2O3/Al2O3 multilayers, whose thicknesses were designed to make the ratio of yttrium and aluminum corresponding to the stoichiometry of the targeted perovskite phase (Fig. 2). The deposition of Y 2O3 and Al 2O3 utilized tris(ethylcyclopentadienyl)yttrium [Y(EtCp) 3]/deionized H2O and trimethylaluminum/deionized H 2O as coreactants at 300 /C14 C with the chamber pressure of 5 and 8 Torr, respectively."
+}

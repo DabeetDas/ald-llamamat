@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 320,
+  "pressure": "3]10~6 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 2,
+  "number_of_cycles": 200,
+  "reactor_type": "UHV",
+  "evidence": "The growth chamber is evacuated to a background pressure of around 10 ~9Torr using a turbomolecular pump (TMP; 450 l/s). TMI, TEI and TBP are kept at 40, 25 and 5 3C using temperature-controlled baths, respectively. The gases are introduced directly into the growth chamber without any carrier gas or pre-cracking. The pressure of TMI in the growth chamber (PM), which is monitored using an ion gauge (IG), is controlled using a variable leak valve (VLV) in the range between 2]10~6 and 1.3]10~5Torr. The pressure of TBP ( PP) is controlled in the range between 2]10~4 and 2]10~3Torr. TMI and TBP #ows are switched by pneumatic valves and are alternately introduced into the growth chamber with a TMI injection time (tM*) in the range between 0.5 and 3 s, a TMI evacuation time (tM%) of 2 s, a TBP injection time ( tP*) in the range between 2 and 30 s, and a TBP evacuation time (tP%) of 2 s, as one injection cycle. The numbers of injection cycles (N#) are 200 and 500."
+}

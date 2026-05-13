@@ -1,0 +1,8 @@
+{
+  "target_material": "iron powders",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Al(CH3)3", "H2O", "Zn(C2H5)2", "H2S"],
+  "temperature_range": "500 ≤ T ≤ 1000 K",
+  "summary": "The study describes the use of Atomic Layer Deposition (ALD) to coat iron powders with alumina (Al2O3) and alternating Al2O3/ZnS layers to prevent oxidation. The protective effectiveness of the coating depends on film thickness and thermal expansion properties, with the Al2O3/ZnS coating showing improved performance due to better thermal expansion matching with iron.",
+  "evidence": "The effectiveness of a novel coating method in providing fine iron powder particles with a protective barrier against rapid oxidation was systematically studied. Particles were individually coated with an alumina-based (Al2O3) ultra-thin film using the Atomic Layer Deposition method. The oxidation resistance of the coating layer was found to be greatly dependent on the film thickness. Furthermore, for each film thickness there was a corresponding temperature above which the film drastically lost its protective effectiveness, primarily due to cracking caused by the thermal expansion mismatch between the particle and the alumina film. This problem was largely overcome when, instead of Al2O3, the protective film was generated from alternating layers of Al2O3/ZnS to ensure that the thermal expansion properties of the resultant film matched that of iron."
+}

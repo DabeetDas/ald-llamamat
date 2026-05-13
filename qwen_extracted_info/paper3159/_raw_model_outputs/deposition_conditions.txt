@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "showerhead",
+  "evidence": "During the plasma pulse, 400 sccm hydrogen was pulsed into the chamber. An automatic butterfly valve set the chamber pressure to 135 Pa for the plasma pulse and to 230 Pa for the other pulses. In Fig. 1 the influence of the precursor pulse length on GPC and sheet resistance (R s) of Ta–C–N films is shown. These films were deposited on dry oxide using 150 PEALD cycles, extra long purge periods of 15 and 10 s, as well as a 30 s plasma pulse with 600 W rf power. Both R s and GPC curve showed saturation at 3 s and above. Accordingly the standard precursor pulse length was set to 3 s. Experiments on the duration of the first and the second purge pulse gave safe saturations in GPC at 5 and 3 s, respectively."
+}<|im_end|>

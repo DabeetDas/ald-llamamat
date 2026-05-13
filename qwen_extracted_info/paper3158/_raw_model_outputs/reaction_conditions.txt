@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the formation of a GeOx interfacial layer, which acts as a hydroxylated starting surface for ALD. The interfacial GeOx is thermodynamically unstable and reduces the effective permittivity of the dielectric. The ALD process uses H2O as the oxygen source, and the surface reactions are influenced by the pretreatment of the Ge substrate with HBr, which removes the suboxide layer, leading to a higher breakdown voltage.",
+  "intermediate_species": ["GeOx", "surface hydroxyls"],
+  "evidence": "The interfacial GeOx located between the Ge substrate and the high-k oxide layer yields a thermodynamically instable interface and reduces the effective permittivity of the dielectric. For HBr, a suboxide-free germanium surface could be achieved without any indication of reoxidation of the surface if exposed to ambient air. The interfacial GeOx is considered to act as a hydroxylated starting surface for ALD."
+}<|im_end|>

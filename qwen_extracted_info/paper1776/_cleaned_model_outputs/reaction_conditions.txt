@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of the precursors with water and ozone. For sodium and potassium aluminates, the process uses alternating cycles of [NaO tBu + H2O] and [TMA + H2O], where NaO tBu reacts with water to form surface species that then react with TMA. Similarly, for silicates, the process uses [NaTMSO + O3] and [TMA + O3] to form surface species that react with TMA. The reaction steps are self-limiting and depend on the surface coverage and the stability of hydroxyl groups on the surface.",
+  "intermediate_species": ["surface hydroxyls", "formate species", "monomethyl aluminum"],
+  "evidence": "The surface reaction mechanism involves the interaction of the precursors with water and ozone. For sodium and potassium aluminates, the process uses alternating cycles of [NaO tBu + H2O] and [TMA + H2O], where NaO tBu reacts with water to form surface species that then react with TMA. Similarly, for silicates, the process uses [NaTMSO + O3] and [TMA + O3] to form surface species that react with TMA. The reaction steps are self-limiting and depend on the surface coverage and the stability of hydroxyl groups on the surface."
+}

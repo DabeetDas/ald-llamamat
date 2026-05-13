@@ -1,0 +1,8 @@
+{
+  "target_material": "VO2",
+  "process_type": "ALD",
+  "main_precursors": ["VCl4", "H2O"],
+  "temperature_range": "350°C",
+  "summary": "This study reports the successful growth of directly crystallized VO2 films using atomic layer deposition (ALD) with VCl4 and H2O as precursors at 350°C without postannealing. The films exhibit significant semiconductor-to-metal transition (SMT) properties, verified by temperature-dependent Raman spectroscopy and four-point-probing measurements. The results demonstrate that VCl4 can be effectively used as a new ALD precursor for growing crystalline VO2 films.",
+  "evidence": "This work reports that a directly crystalline VO2 film has been successfully grown by ALD using vanadium tetrachloride (VCl4) and H2O as precursors at a reaction temperature of 350°C without any postannealing process. The VO2 film has a significant SMT behavior with a VO2(M)-to-VO2(R) phase-transition temperature of about 61 ± 1°C, which is verified from temperature-dependent Raman spectra and sheet-resistance variations of VO2 film."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Platinum (Pt) nanoparticles",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["MeCpPtMe3"],
+  "temperature_range": "100 °C to 300 °C",
+  "summary": "The study investigates the formation of platinum nanoparticles on oxide supports using atomic layer deposition (ALD). Platinum nanoparticles are formed through the reduction of MeCpPtMe3 precursor at 200 °C or thermal decomposition at 300 °C. The process involves alternating exposures to MeCpPtMe3 and either air or hydrogen, with the temperature and exposure time affecting the particle size and density. The catalysts produced show high catalytic activity and stability for the water-gas shift reaction.",
+  "evidence": "Platinum atomic layer deposition (ALD) using MeCpPtMe3 was employed to prepare high loadings of uniform-sized, 1-2 nm Pt nanoparticles on high surface area Al2O3, TiO2, and SrTiO3 supports. The temperature, precursor exposure time, treatment gas, and number of ALD cycles were found to affect the Pt particle size and density. Lower-temperature MeCpPtMe3 adsorption yielded smaller particles due to reduced thermal decomposition. A 300 °C air treatment of the adsorbed MeCpPtMe3 leads to PtO. In subsequent ALD cycles, the MeCpPtMe3 reduces the PtO to metallic Pt in the ratio of one precursor molecule per PtO. A 200 °C H2 treatment of the adsorbed MeCpPtMe3 leads to the formation of 1-2 nm, metallic Pt nanoparticles."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "",
+  "evidence": "In this study, the HfO2 films are formed via ALD using hafnium tetrachloride and water at 300 ° C as reported previously. The HfO2 film thickness is controlled by the number of cycles deposited. One deposition cycle consists of a water pulse, a nitrogen purge (to remove unreacted water), a HfCl4 pulse, and a nitrogen purge."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "SnO2 and SnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "bis(N-ethoxy-2,2-dimethyl propanamido)tin (Sn(edpa)2)",
+    "O2-plasma",
+    "H2O"
+  ],
+  "temperature_range": "70 –300 °C",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of SnO2 and SnO thin films using bis(N-ethoxy-2,2-dimethyl propanamido)tin (Sn(edpa)2) as the Sn-precursor. The growth of SnO2 and SnO films was controlled by using O2-plasma and H2O as reactants, respectively. The films exhibited polycrystalline and amorphous structures, and the study highlights the phase controllability of the ALD process. The SnO2 films showed high transmittance and n-type semiconducting properties, while the SnO films exhibited p-type semiconducting characteristics. The study also discusses the surface reactions during ALD and the formation of by-products.",
+  "evidence": "Atomic layer deposition (ALD) of SnO and SnO2 thin films was successfully demonstrated over a wide temperature range of 70 –300 °C using a divalent Sn -precursor, bis( N-ethoxy-2,2-dimethyl propanamido)tin (Sn(edpa) 2). The regulated growth of the SnO 2 and SnO films was realized by employing O 2-plasma and H2O, respectively. Pure SnO2 and SnO films were deposited with negligible C and N contents at all the growth temperatures , and the films exhibited polycrystalline and amorphous structures, respectively."
+}

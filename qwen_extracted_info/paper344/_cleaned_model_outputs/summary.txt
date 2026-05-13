@@ -1,0 +1,8 @@
+{
+  "target_material": "AlAs and AlGaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE) with laser irradiation",
+  "main_precursors": ["triethylaluminum (TEA)", "trimethylaluminum (TMA)", "triethylgallium (TEG)", "arsine (AsH3)"],
+  "temperature_range": "350°C to 450°C",
+  "summary": "The study describes the successful realization of atomic layer epitaxy (ALE) for AlAs and AlGaAs using metalorganic vapor-phase epitaxy (MOVPE) under Ar-ion laser irradiation. The process involves the use of TEA/AsH3 and TMA/AsH3 systems for AlAs and a TEG/TEA/AsH3 system for AlGaAs. The growth rate is influenced by laser-induced photochemical decomposition and thermal decomposition, with the laser enhancing the growth rate. The study also discusses the site-selective decomposition and desorption mechanisms for achieving ALE.",
+  "evidence": "Atomic layer epitaxy (ALE) of AlAs and A1GaAs with metalorganic vapor-phase epitaxy (MOVPE) under Ar-ion laser irradiation has been successfully realized in a triethylaluminum (TEA)/AsH3 system for the first time. Comparison with the growth characteristics of MOVPE with alternative feeding modes of TMA/AsH3 and TEA/AsH3 is discussed. Application to laser-ALE of A1GaAs using a triethylgallium (TEG)/TEA/AsH3 system is also discussed."
+}

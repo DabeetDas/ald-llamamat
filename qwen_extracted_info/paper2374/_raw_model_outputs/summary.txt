@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["TEMAZr (Zr[N(CH3)C2H5]4)", "ozone"],
+  "temperature_range": "225, 250, and 275°C",
+  "summary": "The study investigates the effect of deposition temperature on the electrical properties and interface of high-k ZrO2 capacitors. The results show that the leakage current and dielectric constant are influenced by the deposition temperature, with the highest dielectric constant observed at 275°C due to the formation of tetragonal/cubic phases. The main leakage current mechanism is governed by the Poole–Frenkel conduction, and the interface quality is affected by oxygen inter-diffusion.",
+  "evidence": "The electrical characteristics, i.e. leakage current and capacitance, of ZrO2 based metal–insulator–metal structures, grown at 225, 250 and 275◦C by atomic layer deposition, were studied. The lowest leakage current was obtained at 250◦C deposition temperature, while the highest dielectric constant (k ∼ 43) was measured for the samples grown at 275◦C, most probably due to the formation of tetragonal/cubic phases in the ZrO2 layer. We have shown that the main leakage current of these ZrO2 capacitors is governed by the Poole–Frenkel conduction mechanism. It was observed by x-ray photoelectron spectroscopy depth profiling that at 275◦C deposition temperature the oxygen content at and beyond the ZrO2/TiN interface is higher than at lower deposition temperatures, most probably due to oxygen inter-diffusion towards the electrode layer, forming a mixed TiN–TiOxNy interface layer. At and above 275◦C the ZrO2 layer changes its structure and becomes crystalline as proven by XRD analysis."
+}<|im_end|>

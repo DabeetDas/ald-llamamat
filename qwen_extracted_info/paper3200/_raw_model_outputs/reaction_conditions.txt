@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "LiOC(CH3)3 + H2O → LiOH + HOC(CH3)3",
+    "LiOH-LiOH* + CO2 → Li2CO3* + H2O",
+    "2 LiOH + 2 H2O ↔ 2 LiOH·H2O",
+    "2 LiOH·H2O + CO2 → Li2CO3 + 3 H2O"
+  ],
+  "surface_mechanism_description": "The ALD of LiOH involves a binary reaction sequence where lithium tert-butoxide (LTB) reacts with surface hydroxyl groups to form LiOH. The LiOH film can further react with CO2 to form Li2CO3 through a ternary ABC reaction sequence involving LTB, H2O, and CO2. The reaction mechanism includes the formation of LiOH-LiOH* and its subsequent reaction with CO2 to produce Li2CO3*.",
+  "intermediate_species": [
+    "LiOH*",
+    "LiOH-LiOC(CH3)3*",
+    "LiOH-LiOH*",
+    "LiOH·H2O"
+  ],
+  "evidence": "The AB binary reaction sequence during LiOH ALD is proposed to be: (A) LiOH* + LiOC(CH3)3 → LiOH-LiOC(CH3)3* (B) LiOH-LiOC(CH3)3* + H2O → LiOH-LiOH* + HOC(CH3)3. The reaction in Eqn. 3 relies on the presence of H2O and has been shown to involve LiOH·H2O according to (15): (C1) 2 LiOH + 2 H2O ↔ 2 LiOH·H2O, (C2) 2 LiOH·H2O + CO2 → Li2CO3 + 3 H2O."
+}<|im_end|>

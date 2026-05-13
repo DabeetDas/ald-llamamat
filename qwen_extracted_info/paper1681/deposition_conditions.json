@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "3 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type ALD reactor",
+  "evidence": "The experiments were carried out in a specially modified 10 commercial flow-type ALD reactor manufactured by ASM Microchemistry Ltd. The pressure of the reactor was 3 mbar and the area of the soda lime glass substrates 3500 cm2."
+}

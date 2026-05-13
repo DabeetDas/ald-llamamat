@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "25-200",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "static and vacuum-flow",
+  "evidence": "The interaction of the reactants on the substrate occurred in the temperature range from 25 to 200°C. The layers were grown in reactors of two types: static and vacuum-flow."
+}

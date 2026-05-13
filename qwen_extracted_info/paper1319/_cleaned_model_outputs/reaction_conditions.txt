@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "Mn(EtCp)2 + surface hydroxyls -> Mn(II) ions + EtCp ligands + surface reaction products",
+    "O3 + MnO -> MnO2 + O vacancies",
+    "Mn(EtCp)2 + O3 -> Mn(II) ions + EtCp ligands + O species"
+  ],
+  "surface_mechanism_description": "Ligand exchange between Mn(EtCp)2 and surface hydroxyl groups followed by water pulse to regenerate OH sites. Mn(EtCp)2 shedding its EtCp ligands at the surface and releasing Mn(II) ions which subsequently diffuse into the bulk film and partially reduce the oxidized film back to MnO. Mn(EtCp)2 and O3 reactions are combined in sequential steps with Mn(EtCp)2 reacting at the surface of an O-rich layer, shedding its two EtCp ligands and freeing Mn(II) to diffuse into the film followed by O3 oxidizing the film surface and withdrawing Mn from the subsurface to create an O-rich layer.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species",
+    "Mn(II) ions",
+    "EtCp ligands",
+    "O vacancies"
+  ],
+  "evidence": "The text describes the reaction of Mn(EtCp)2 with surface hydroxyls, the oxidation of MnO by O3, and the subsequent reduction of oxidized MnO by Mn(II) ions. It also mentions the sequential steps involving Mn(EtCp)2 reacting at the surface of an O-rich layer and O3 oxidizing the film surface. The intermediate species include surface hydroxyls, Mn(II) ions, EtCp ligands, and O vacancies."
+}

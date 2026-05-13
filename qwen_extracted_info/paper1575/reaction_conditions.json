@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "(R3Si)2Te(g) + MCl2(g) → MTe(s) + 2R3SiCl(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between the alkylsilyl tellurium/selenium compounds and metal chlorides, followed by the formation of favorable soft-soft Lewis acid-base combinations.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "Upon exchange reaction with metal chlorides, for example, silicon becomes bonded to the harder base: (R3Si)2Te(g) + MCl2(g) → MTe(s) + 2R3SiCl(g). Further, if the metal of the metal chloride is soft Lewis acid, the other product of the exchange reaction will form a favorable soft-soft Lewis acid-base combination (M-Se or M-Te)."
+}

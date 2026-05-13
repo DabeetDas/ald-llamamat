@@ -1,0 +1,8 @@
+{
+  "target_material": "Si",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Si2H6"],
+  "temperature_range": "340 K to 820 K",
+  "summary": "The study describes the atomic layer epitaxy (ALD) growth of silicon (Si) on a germanium (Ge) (100)-(2X1) surface using disilane (Si2H6) as a precursor. The process involves cyclic adsorption of disilane at -340 K followed by thermal conversion at 820 K. The Si atoms are deposited in a subsurface region, and the surface remains predominantly Ge with a small amount of Si. The growth mechanism involves dissociative chemisorption of disilane, formation of SiH3 radicals, and subsequent thermal reactions leading to Si deposition. The study also highlights the differences in step structures and defect densities between Si and Ge surfaces.",
+  "evidence": "The text states: 'Multilayer Si deposition was performed by atomic layer epitaxy, i.e., cyclic disilane adsorption at -340 K followed by thermal conversion at 820 K.' It also mentions: 'The sample is Ge(100) initially saturated by a 10-L disilane exposure at room temperature. The temperature of the sample as a function of heating power was calibrated by attaching a very small thermocouple to the center of the front face of an identical test sample.'"
+}

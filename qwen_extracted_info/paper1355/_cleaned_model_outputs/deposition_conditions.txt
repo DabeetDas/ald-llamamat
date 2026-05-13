@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 280,
+  "pressure": "8 hPa",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 6,
+  "number_of_cycles": null,
+  "reactor_type": "PICOSUN™ R-200 Advanced Reactor",
+  "evidence": "Cu(hfac)2 pulse and 3s of water pulse separated by 6 s of N2 purge was employed."
+}

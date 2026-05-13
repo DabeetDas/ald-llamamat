@@ -1,0 +1,7 @@
+{
+  "precursors": ["Mg(thd)2"],
+  "coreactants": ["ozone"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "Source materials were pulsed alternately into the reactor chamber and nitrogen (99.999%) was used as a carrier and purging gas."
+}

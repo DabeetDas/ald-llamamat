@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 2.0,
+  "purge_time_s": 14,
+  "number_of_cycles": 250,
+  "reactor_type": "remote plasma generator (Picosun Oy Picohot 2000)",
+  "evidence": "The ALD process consisted of alternating exposure to the InEtCp precursor and combinations of oxidants. These combinations comprised H2O followed by an O2 plasma (WpO), H2O followed by O2 (WO), O2 plasma followed by H2O (pOW), and O2 plasma (pO) alone. The Ar gas purge times were 10 s, 10 s, and 4 s after exposure to InEtCp, H2O, and O2 plasma, respectively."
+}

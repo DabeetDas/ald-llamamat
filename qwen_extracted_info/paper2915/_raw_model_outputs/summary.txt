@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["SnCl4", "H2O"],
+  "temperature_range": "500 8C",
+  "summary": "The study describes the Atomic Layer Epitaxy (ALE) process for depositing SnO2 thin films using SnCl4 and H2O as precursors. The process is carried out at a constant temperature of 500 8C. The electrical conductivity of the films is influenced by factors such as oxygen vacancies and chlorine impurities, which can be controlled through the use of process additives like hexane and ozone. The ALE process allows for the controlled doping of SnO2 with Sb and the adjustment of the electronic carrier concentration, which affects the film's electrical properties.",
+  "evidence": "The precursors used in SnO2 ALE are SnCl4 and H2O. All depositions were carried out in a flow-through-type ALE reactor at a constant temperature of 500 8C, which was found to be optimal for the ALE growth of SnO2. The presence of impurities can strongly influence the electronic behavior of nominally pure SnO2. The conventional atomic layer epitaxy process for pure SnO2 thin films uses SnCl4 and H2O as precursors and N2 as the carrier gas."
+}<|im_end|>

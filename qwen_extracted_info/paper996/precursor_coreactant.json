@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "trimethylaluminum"
+  ],
+  "coreactants": [
+    "O2+N2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "After oxidation, a gate dielectric of Al 2O3 film containing nitrogen (<1%) was deposited in situ with the O 2 gas mixed with N 2 gas as the oxidants and trimethylaluminum as the source of Al."
+}

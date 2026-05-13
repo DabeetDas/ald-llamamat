@@ -1,0 +1,11 @@
+{
+  "target_material": "cubic GaN",
+  "process_type": "halogen-transport atomic-layer epitaxy (ALE)",
+  "main_precursors": [
+    "GaCl",
+    "NH3"
+  ],
+  "temperature_range": "350 to 550±C",
+  "summary": "The study investigates the halogen-transport atomic-layer epitaxy (ALE) of cubic GaN on a GaN buffer layer/GaAs (001) substrate using in situ gravimetric monitoring. The growth rate of one monolayer per cycle is achieved at temperatures ranging from 350 to 400±C, with a constant growth rate of about 0.45 ML/cycle observed from 410 to 550±C. The in situ gravimetric method is highlighted as a powerful tool for understanding the growth mechanism of group III nitrides.",
+  "evidence": "The cubic GaN growth rate of one monolayer/cycle is obtained at a temperature ranging from 350 to 400±C. It is found that pure cubic GaN can be grown by halogen transport ALE. The growth rate decreases with increasing growth temperature, and a constant growth rate of about 0.45 is observed from 410 to 550±C. In this paper, it is shown that the in situ GM method is a powerful tool for understanding growth mechanism of the group III nitrides, as well as that of GaAs."
+}

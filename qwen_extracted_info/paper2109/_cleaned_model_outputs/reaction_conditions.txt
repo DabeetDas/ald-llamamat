@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "2WF6 + 3Si → 2W + 3SiF4↑",
+    "WF6 + 3H2 → W + 6HF↑"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the interaction of triethylborane (C2H5)3B with silanol and siloxane groups on the substrate surface, leading to the formation of surface species such as ethylsilyl groups. The growth of WNxCy films is influenced by the density and type of reactive sites on the substrate, with different surface reactions occurring on various substrates like SiO2, SiC, and Si3N4. The initial growth is characterized by a transient regime where the film properties change, followed by a linear growth phase where the film converges towards bulk properties.",
+  "intermediate_species": [
+    "ethylsilyl groups",
+    "surface-bound SiC2H5 (A) and SiO2B(C2H5) complexes",
+    "bis-siloxy ethyl borane (A)",
+    "ethyl silyl groups (B)"
+  ],
+  "evidence": "The text describes the surface reactions of triethylborane with silanol and siloxane groups on the substrate surface, leading to the formation of surface species such as ethylsilyl groups. The growth of WNxCy films is influenced by the density and type of reactive sites on the substrate, with different surface reactions occurring on various substrates like SiO2, SiC, and Si3N4. The initial growth is characterized by a transient regime where the film properties change, followed by a linear growth phase where the film converges towards bulk properties."
+}

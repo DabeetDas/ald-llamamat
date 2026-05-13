@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "High-resolution Transmission Electron Microscopy (HRTEM)",
+    "Ellipsometry",
+    "Capacitance-voltage (C-V) measurement",
+    "Four-point probe",
+    "Impedance meter",
+    "Picoammeter"
+  ],
+  "evidence": "The authors reported 11 that the Al 2O3 interlayer interposed between HfO 2 film and the Si substrate made the dielectric film stack more thermally stable against a decrease in the capacitance density than a single-layer HfO 2 film due to less Si diffusion during the postannealing process. The relative increase in the equivalent oxide thickness (EOT) of the Al 2O3/HfO2 stack layer was much smaller than that of the HfO 2 single layer during the postannealing under a N 2 atmosphere. Furthermore, the Al 2O3 film retained its amorphous nature up to 1000°C and suppressed crystallization of the overlying HfO 2 layer, which resulted in a very small leakage current. The hysteresis behavior in the capacitance-voltage measurement was also very small (30 mV) suggesting a minimized charged injection during electrical stressing. The film thicknesses were measured by ellipsometry and cross-sectional high-resolution transmission electron microscopy (HRTEM). HRTEM was used to investigate the thickness of each layer in the various stacked films and as the calibration standard of the ellipsometry. A Hewlett-Packard 4194A impedance meter and a 4140B picoammeter were used for the C-V and J-V measurements, respectively. The C-V measurement frequency was 1 MHz."
+}

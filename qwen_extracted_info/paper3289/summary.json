@@ -1,0 +1,11 @@
+{
+  "target_material": "tungsten disulphide (WS2)",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": [
+    "WF6",
+    "H2S"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of tungsten disulphide (WS2) solid lubricant thin films using WF6 and H2S precursors at 300 °C. The films were grown on silicon substrates with a native oxide layer, and a catalytic route involving a ZnS layer was used to promote nucleation and growth. The films exhibited low friction coefficients, with a steady-state value of 0.04 in a dry nitrogen environment. The ALD process was found to produce crystalline WS2 films with good conformality and tribological properties.",
+  "evidence": "The synthesis and characterization of crystalline tungsten disulphide (WS2) solid lubricant thin films grown by atomic layer deposition (ALD) using WF6 and H2S gas precursors was studied. We have synthesized WS2 films by sequential reaction of gas precursors WF6 and H2S at a total pressure of 1–2 Torr, and temperature of 300 °C in a hot-wall viscous flow ALD reactor using N2 as a carrier gas. The films exhibited solid lubricating behavior with a steady-state friction coefficient of 0.04 in a dry nitrogen environment."
+}

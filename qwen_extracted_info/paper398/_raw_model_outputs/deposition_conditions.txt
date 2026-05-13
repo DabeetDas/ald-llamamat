@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "290-500",
+ "pressure": "10 -5 torr",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "Chemical beam epitaxy (CBE) with N2 laser irradiation",
+ "evidence": "The temperature of TEGa was kept constant in a thermostat. The flow rates of TEGa (FTEGa) were precisely controlled between 0.015 and 0.100 sccm by a mass-flow controller without H2 carrier gas. The pressure of the chamber during epitaxy was maintained in the order of 10 -5 torr. The substrate temperature was varied between 290 and 500 °C."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "105",
+  "pressure": "130 Pa",
+  "precursor_pulse_time_s": "3",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "75",
+  "number_of_cycles": "30",
+  "reactor_type": "flow reactor",
+  "evidence": "Two gas lines continuously deliver He to the reactor while two others alternate between delivering TEMAH or water. During the purge step between precursor injections, 75 sccm (standard cm per minute, 0 ◦C and 101.3 kPa) of He flow through each of the four lines. During the TEMAH injection, pneumatic valves momentarily divert the He flow through a bubbler containing TEMAH at 77 ◦C for typically 3 s. Afterwards, the flow is returned to its original path to purge both the delivery line and the reactor. During the water injection, valves stop the flow of He down one line and open the reactor to a vessel containing water at room temperature. Flow of water vapor into the reactor is restricted to ≈ 75 sccm by a needle valve. After a period of typically 100 ms, the flow of He is returned to purge the water delivery line and the reactor."
+}<|im_end|>

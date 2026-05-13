@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "10 Torr",
+  "precursor_pulse_time_s": "0.2",
+  "coreactant_pulse_time_s": "6",
+  "purge_time_s": "9",
+  "number_of_cycles": "10",
+  "reactor_type": "remote plasma-enhanced atomic layer deposition (PEALD)",
+  "evidence": "The following processing parameters were employed: the substrate temperature¼ 400 /C14 C, the pressure ¼ 10 Torr, and the time for each pulse cycle¼ 0.2 s for benzene, 6 s for N2 purge, 9 s for H2/Ar2 remote plasma and 3 s for N2 purge."
+}

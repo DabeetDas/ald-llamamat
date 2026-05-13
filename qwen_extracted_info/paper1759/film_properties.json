@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 50,
+  "density_g_cm3": null,
+  "refractive_index": "2.3 and 2.5 for ZnS and CdS respectively",
+  "surface_roughness_nm": "1.3 nm and 2.6 nm",
+  "crystal_phase": "zincblende and wurtzite",
+  "evidence": "The surface morphology and roughness of alloy films deposited for 100 cycles at 150 /C14 C were also examined as a function of composition, as shown in Fig. 12. Interestingly, the films show a sharp increase in RMS roughness at a pulse ratio of 0.3, which corresponds to a Cd0.5Zn0.5S film. A film with greater than a 50% Cd metal concentration has a roughness equivalent to that of the pure CdS. Below 50% Cd, the roughness is approximately that of the ZnS film. Thus, it seems likely that the nucleation and growth are dominated by the most prevalent metal in the film; nevertheless, the effect of the crystallinity and the etching may also be significant. At high concentrations of zinc, the film is primarily c(111) and the wurtzite character increases as the cadmium content increases. The increase in crystal phases and decrease in texturing may increase the roughness. Further, as the ratio of DMCd pulses increases, the etching effect may be more pronounced which would lead to a higher roughness in the alloys."
+}

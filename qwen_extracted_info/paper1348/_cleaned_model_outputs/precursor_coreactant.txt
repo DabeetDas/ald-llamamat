@@ -1,0 +1,7 @@
+{
+  "precursors": ["Mo(CO)6"],
+  "coreactants": ["ozone"],
+  "purge_gas": ["argon"],
+  "carrier_gas": ["argon"],
+  "evidence": "The molybdenum oxide coating was synthesized by subsequent cycles of molybdenum hexacarbonyl (Mo(CO)6, Pegasus Chemicals) as metal precursor and ozone as reactant gas. Mo(CO)6 was preheated to 60 °C in a bubbler and delivered to the reaction chamber by argon carrier gas. One ALD cycle consisted of a dosing period of Mo(CO)6 for 15 s, 10 s purging with argon gas, 45 s of ozone dosage, and a final 15 s pumping step."
+}

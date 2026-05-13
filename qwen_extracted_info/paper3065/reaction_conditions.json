@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The Cu-precursor reacts with SiO2 and Al2O3 surfaces by forming chemical bonds with the surface. Upon reduction by H2, Cu atoms agglomerate, yielding additional reactive sites for more Cu-precursors. The growth rates of the Cu films on all these surfaces are all less than 1 Å per cycle.",
+  "intermediate_species": [
+    "Cu atoms",
+    "Si-O-Cu bonds",
+    "Al2O3 LO phonon"
+  ],
+  "evidence": "The Cu-precursor reacts with SiO2 and Al2O3 surfaces by forming chemical bonds with the surface. Upon reduction by H2, Cu atoms agglomerate, yielding additional reactive sites for more Cu-precursors. The growth rates of the Cu films on all these surfaces are all less than 1 Å per cycle."
+}

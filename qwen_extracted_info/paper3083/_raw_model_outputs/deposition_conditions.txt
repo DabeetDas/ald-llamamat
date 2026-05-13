@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "275",
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "2",
+  "purge_time_s": "5",
+  "number_of_cycles": "200–1500",
+  "reactor_type": "flow-type",
+  "evidence": "The TiO 2 films were grown by ALD in a flow-type reactor 11 at temperatures from 150 up to 600°C. In order to synthesize the films, the substrates were exposed to the TiCl 4 vapor (for 2 s), purged in the flow of pure nitrogen (for 2 s), exposed to the H2O vapor (for 2 s), and again purged in the flow of pure nitrogen (for 5 s)."
+}<|im_end|>

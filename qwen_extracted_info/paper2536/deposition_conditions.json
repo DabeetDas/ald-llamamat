@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 340,
+  "pressure": "0.5 torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 7,
+  "number_of_cycles": null,
+  "reactor_type": "PEALD system",
+  "evidence": "The HfO2 films were deposited on p-type Si (100) wafers at 340 °C by the PEALD method using O2 or N2O plasma with tetrakis-diethyl-amino-hafnium (Hf(NC2H5)4), as the Hf precursor. The sequential processing time for the Hf(NC2H5)4, Ar purge, plasma, and Ar purge were 5, 7, 5, and 7 s, respectively."
+}

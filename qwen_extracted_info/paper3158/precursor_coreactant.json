@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethylaluminum (TMA)",
+    "tetrakis(diethylamino)zirconium (Zr(NEt2)4)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "In this work, metal-carrying precursors are trimethylaluminum (TMA) for the Al2O3 deposition and chlorine-free tetrakis(diethylamino)zirconium Zr(NEt2)4 for the ZrO2 deposition, which is at least stable up to 350°C. H2O was used as the oxygen-supplying agent."
+}

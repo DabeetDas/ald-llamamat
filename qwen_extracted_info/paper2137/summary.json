@@ -1,0 +1,12 @@
+{
+  "target_material": "WNxCy",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "triethylborane",
+    "tungsten hexafluoride",
+    "ammonia"
+  ],
+  "temperature_range": "about 300 °C",
+  "summary": "The study investigates the growth mechanism of atomic layer deposited WNxCy films on methyl-terminated self-assembled monolayers (SAMs). The films exhibit nonconservative growth during the transient regime and conservative growth during the linear regime. The growth is characterized by island formation, fractal behavior, and a roughness exponent that changes with the growth stage. The study also compares the growth of WNxCy with HfO2 films, highlighting differences in growth mechanisms.",
+  "evidence": "The text discusses the growth of WNxCy films on methyl-terminated SAMs, the use of precursors triethylborane, tungsten hexafluoride, and ammonia, the temperature of about 300 °C, and the distinction between nonconservative and conservative growth mechanisms based on the roughness exponent and film density changes."
+}

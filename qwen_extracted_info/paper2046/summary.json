@@ -1,0 +1,12 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Cp2Zr(CH3)2",
+    "water",
+    "ozone"
+  ],
+  "temperature_range": "350 °C",
+  "summary": "ZrO2 thin films were deposited on silicon substrates using atomic layer deposition (ALD) with Cp2Zr(CH3)2 as the zirconium source and water or ozone as the oxygen source. The study investigated the structural and dielectric properties of the films, focusing on the effects of the oxygen source and substrate pretreatment on the film growth and electrical characteristics. The films showed good dielectric properties with low hysteresis and high breakdown fields, particularly when ozone was used as the oxygen source.",
+  "evidence": "ZrO2 thin films with thicknesses below 20 nm were deposited by the atomic layer deposition process on Si (100) substrates at 350 °C. An organometallic precursor, Cp2Zr(CH3)2 was used as the zirconium source and water or ozone as oxygen source. The effective permittivity of ZrO2 in Al/ZrO2/Si/Al capacitor structures was dependent on the ZrO2 layer thickness and oxygen source used. The ozone-processed films showed good dielectric properties such as low hysteresis and nearly ideal flatband voltage. The leakage current density was lower and breakdown field higher for the ozone-processed ZrO2 films."
+}

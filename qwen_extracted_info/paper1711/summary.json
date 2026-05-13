@@ -1,0 +1,11 @@
+{
+  "target_material": "WS2",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "WH2(iPrCp)2",
+    "O2 plasma"
+  ],
+  "temperature_range": "300°C",
+  "summary": "The study describes a process for the synthesis of WS2 nanosheets using the sulfurization of a WO3 film deposited by plasma-enhanced atomic layer deposition (PEALD). The process enables systematic layer controllability and wafer-level uniformity, with the ability to fabricate WS2 nanotubes using nanotemplates. The WS2 nanosheets exhibit good stoichiometry, clear Raman shift, and bandgap dependence as a function of the number of layers. The electrical properties of the monolayer WS2 nanosheets were measured using a field-effect transistor (FET) with a high-k dielectric gate insulator, showing high field-effect electron mobility and low subthreshold swing.",
+  "evidence": "The synthesis of WS2 nanosheets through the sulfurization of an atomic layer deposition (ALD) WO3 film with systematic layer controllability and wafer-level uniformity. The X-ray photoemission spectroscopy, Raman and photoluminescence measurements exhibit that the ALD-based WS2 nanosheets have good stoichiometry, clear Raman shift and bandgap dependence as a function of the number of layers. The electron mobility of the monolayer WS2 measured using a field-effect transistor (FET) with a high-k dielectric gate insulator is shown to be better than that of CVD-grown WS2, and the subthreshold swing is comparable to that of an exfoliated MoS2 FET device."
+}

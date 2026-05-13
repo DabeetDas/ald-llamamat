@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "8 /C210/C03 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": "15",
+  "purge_time_s": "1",
+  "number_of_cycles": "25",
+  "reactor_type": "electron cyclotron resonance (ECR) remote plasma source",
+  "evidence": "The pressure during oxidation was8 /C210/C03 Torr for O2 plasma and2 /C210/C04 Torr for H2O and the exposure time was fixed at 15s."
+}<|im_end|>

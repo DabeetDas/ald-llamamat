@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "lithium tert-butoxide (LiOtBu)",
+    "tri-methyl phosphate (TMP)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "As precursors lithium tert-butoxide (LiOtBu, Sigma-Aldrich), tri-methyl phosphate (TMP Sigma-Aldrich) and H2O were used. The LiOtBu and TMP precursors were heated to 140°C and 70°C, respectively. All the precursor lines were heated as well to prevent precursor condensation. Layers were deposited using a pulsing time of 5s for LiOtBu, 30 ms for H2O and 500ms for TMP. In the case of H2O and TMP a reaction step of 5s is added after the precursor pulse. A 7.5s Ar purge is used to evacuate the unreacted precursor molecules after the LiOtBu and TMP steps. After the H2O step a 15s purge is applied. When depositing LiPON, similar pulsing steps as described for Li3PO4 were used, however the purging times were extended to 30s and a N2 plasma step was added after the TMP."
+}

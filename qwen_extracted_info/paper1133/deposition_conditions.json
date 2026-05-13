@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225",
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 10,
+  "number_of_cycles": 200,
+  "reactor_type": "travelling-wave type ALD reactor (Lucida-D100, NCD Technology)",
+  "evidence": "The deposition temperature was varied between 140 and 350 °C and the typical deposition temperature was 225 °C. The basic pulsing conditions were set as follows: precursor pulsing for 5 s, reactant pulsing for 1 s and purging for 10 s, which are found to be enough to guarantee a self-limiting growth of the Ru film."
+}

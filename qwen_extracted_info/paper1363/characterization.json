@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectometry (XRR)",
+    "X-ray Diffraction (XRD)",
+    "In-situ Spectroscopic Ellipsometry (SE)",
+    "Scanning Electron Microscopy (SEM)",
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Fourier Transform Infrared Spectroscopy (FT-IR)",
+    "Water Contact Angle Measurements"
+  ],
+  "evidence": "X-ray reflectometry (XRR) and X-ray diffraction (XRD) patterns were acquired on Bruker D8 diffractometers using Cu Kα radiation (λ =0.154 nm). In-situ spectroscopic ellipsometry (SE) measurements were performed with a J.A. Woollam M-2000 ellipsometer. Surface morphology was characterized by scanning electron microscopy (SEM, Quanta 200F FEI) and atomic force microscopy (AFM) in tapping mode. X-ray photoelectron spectroscopy (XPS) analysis was performed on a Thermo Scientific Theta Probe XPS instrument. Fourier transform infrared spectroscopy (FT-IR, Vertex V70 Bruker) was used to detect surface chemical functional groups. Water wettability of ALD Y2O3 films was evaluated by the sessile drop technique using a contact angle analyzer (Kruss, DSA30) with deionized water."
+}

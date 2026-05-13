@@ -1,0 +1,11 @@
+{
+  "target_material": "Chromium",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Chromium acetylacetonate (Cr(acac)3)",
+    "Silica (SiO2)"
+  ],
+  "temperature_range": "200-280°C",
+  "summary": "The study investigates the chemisorption of chromium acetylacetonate (Cr(acac)3) on preheated silica surfaces using atomic layer epitaxy (ALE) techniques. The reaction selectively occurs with isolated OH groups on silica, leading to the release of one acac ligand. The saturation density of chromium is influenced by the preheat temperature of silica, reaction temperature, and silylation of the surface. The results show that the chromium complex formed has a significant size, affecting the amount of chromium bound, and that the reaction with silylated silica reduces the saturation density. The ligands of the surface complex can be removed by water vapor or air treatment.",
+  "evidence": "The text states that 'Cr(acac)3 was found to be selectively chemisorbed to silica through reaction with the isolated OH groups, leading to release of one acac ligand.' It also mentions that 'the saturation density of chromium could be further regulated by the preheat temperature of the silica, which determines the number of OH groups, and by the reaction temperature.' Additionally, 'the reaction with the silylated silica surface provided a means for achieving an even lower saturation density of chromium.'"
+}

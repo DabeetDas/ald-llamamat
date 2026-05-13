@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "Cross-sectional transmission electron microscopy (XTEM)",
+    "Capacitance–voltage (C–V) measurements",
+    "Leakage current density–voltage (J–V) measurements",
+    "Low temperature conductance measurements",
+    "Four-point probe",
+    "Ellipsometry",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Atomic Force Microscopy (AFM)",
+    "Scanning Tunneling Microscopy (STM)"
+  ],
+  "evidence": "Cross-sectional transmission electron microscopy (XTEM) was done using Tecnai G2 microscope operating at 200 kV , to inspect the microstructure and thickness of the samples. Parallel-mode, bidirectional, multifrequency capacitance–voltage (C–V) sweeps on these MOS capacitors were carried out using a HP4284A precision LCR meter. Leakage current density–voltage (J–V) measurements used a Keithley 230 programmable voltage source and electrometer. The density of interface states, Dit, was extracted by low temperature conductance measurements 8 in a cryostation at 230 K. X-ray Photoelectron Spectroscopy (XPS) was used to analyze the chemical composition. Atomic Force Microscopy (AFM) was used to measure surface topography. Scanning Tunneling Microscopy (STM) was used to study surface properties."
+}

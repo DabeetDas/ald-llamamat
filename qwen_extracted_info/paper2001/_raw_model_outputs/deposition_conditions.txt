@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "370",
+ "pressure": "230 mTorr",
+ "precursor_pulse_time_s": "1",
+ "coreactant_pulse_time_s": "14",
+ "purge_time_s": "14",
+ "number_of_cycles": null,
+ "reactor_type": "shower head",
+ "evidence": "The time for one cycle during the deposition of Al2O3 was composed of 1, 14, 1, 14 s corresponding to the dosing of TMA, purging of excess TMA and by-products, dosing of DIW, and purging of excess DIW and by-products."
+}<|im_end|>

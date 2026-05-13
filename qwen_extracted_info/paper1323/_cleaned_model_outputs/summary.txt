@@ -1,0 +1,8 @@
+{
+  "target_material": "Indium Oxide (In2O3)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["dimethyl( N-ethoxy-2,2-dimethylpropanamido)indium (Me2In(EDPA))", "O2 plasma"],
+  "temperature_range": "70 −250 °C",
+  "summary": "The study describes the low-temperature growth of In2O3 thin films using plasma-enhanced atomic layer deposition (PEALD) with a newly synthesized liquid indium precursor, dimethyl( N-ethoxy-2,2-dimethylpropanamido)indium (Me2In(EDPA)), and O2 plasma. The process enables the fabrication of high-quality In2O3 films suitable for high-mobility thin film transistors (TFTs) with excellent electrical performance and smooth surface morphology.",
+  "evidence": "Low-temperature growth of In2O3 films was demonstrated at 70 −250 °C by plasma-enhanced atomic layer deposition (PEALD) using a newly synthesized liquid indium precursor, dimethyl( N-ethoxy-2,2-dimethylpropanamido)indium (Me2In(EDPA)), and O2 plasma for application to high-mobility thin film transistors."
+}

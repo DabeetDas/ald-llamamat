@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "AlOH* + Al(CH3)3 -> AlOAl(CH3)2* + CH4",
+    "AlCH3* + H2O -> AlOH* + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "AlOH*",
+    "AlCH3*",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The surface reactions for Al2O3 ALD are described as follows: (A) AlOH* + Al(CH3)3 -> AlOAl(CH3)2* + CH4 and (B) AlCH3* + H2O -> AlOH* + CH4. These reactions are self-limiting and terminate after the consumption of all the reactive surface species."
+}<|im_end|>

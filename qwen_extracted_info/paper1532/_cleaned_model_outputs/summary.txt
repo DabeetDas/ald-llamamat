@@ -1,0 +1,8 @@
+{
+  "target_material": "Iridium",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Ir(acac)3", "ozone", "molecular hydrogen"],
+  "temperature_range": "165–200 /C176C",
+  "summary": "Iridium thin films were deposited using atomic layer deposition (ALD) with Ir(acac)3, ozone, and molecular hydrogen as precursors at low temperatures between 165 and 200 /C176C. The process involved consecutive oxidation and reduction steps, allowing for the formation of metallic iridium films. The films showed good adhesion, low resistivity, and smooth surface roughness.",
+  "evidence": "Iridium thin films have been grown by atomic layer deposition (ALD) using Ir(acac)3 (acac = acetylacetonato), ozone, and molecular hydrogen as precursors at low temperatures between 165 and 200 /C176C. At this temperature range, iridium oxide film results in a process without H2. Therefore H2 had a reducing effect on the film after the oxidizing ozone pulse. Iridium films were successfully deposited on Al2O3 nucleation layers but also directly on bare soda lime glasses and native oxide covered silicon substrates. The films containede 2 atom % hydrogen, e 1 atom % carbon, and 4-7 atom % oxygen as impurities. The Ir films passed the common tape test indicating good adhesion to all tested surfaces."
+}

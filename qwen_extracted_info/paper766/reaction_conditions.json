@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "− OH + SiH3N(C3H7)2 → − O − SiH3 + NH(C3H7)2"
+  ],
+  "surface_mechanism_description": "The ALD growth is limited by the chemisorption process at low temperatures, requiring longer exposure times for saturation. At higher temperatures, sufficient thermal energy enables the reaction between DIPAS and surface –OH groups, leading to the formation of Si–O bonds and a decrease in Si–OH groups.",
+  "intermediate_species": [
+    "surface hydroxyls (–OH)",
+    "adsorbed DIPAS",
+    "formate species (NH(C3H7)2)"
+  ],
+  "evidence": "The reaction was assumed to follow − OH + SiH3N(C3H7)2 → − O − SiH3 + NH(C3H7)2 (1). The low growth rate observed in the low temperature regime can be attributed to kinetic limitation during the chemisorption process. At higher temperatures (200–250 °C), it can be understood that sufficient thermal energy is supplied for chemical reaction (1) to occur."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl3", "NH3", "WF6", "B(CH3)3"],
+  "coreactants": ["NH3", "WF6"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "TiN films were deposited using TiCl3 and ammonia (NH3) as precursors. TiCl3 (99%, Fluka) evaporated at room temperature (21 8C) was pulsed onto the substrate using nitrogen as carrier gas (400 sccm). Ammonia (5.0; Praxair) was conducted to the reactor under its own pressure with a mass flow rate of 100–600 sccm. W N films were deposited from tungsten hexafluoride (WF6) and ammonia. Tungsten hexafluoride (99%; Messer Nippon) flow was set to 30 sccm. When the third precursor, triethylboron was included in the W N process, WN C growth took place. Triethylboron (B(CH3)3, 95% purity, Aldrich) was conducted to the reactor like TiCl3, with its own vapor pressure (40 Torr at 20 8C)."
+}

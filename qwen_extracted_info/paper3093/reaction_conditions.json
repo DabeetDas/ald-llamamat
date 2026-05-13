@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Surface-saturated reactions of tris(ethylcyclopentadienyl)yttrium and moisture, with a self-saturating growth mechanism where precursor dosage and purge times are critical.",
+  "intermediate_species": [
+    "Y*"
+  ],
+  "evidence": "The ALD was performed in a hot wall tubular reactor... The sequence of consecutive precursor plugs, inert gas purge, and moisture pulse, followed by another inert gas purge, constitutes one full ALD cycle."
+}

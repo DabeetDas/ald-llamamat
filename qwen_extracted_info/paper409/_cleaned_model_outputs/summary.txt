@@ -1,0 +1,8 @@
+{
+  "target_material": "GaN",
+  "process_type": "self-terminating atomic layer epitaxy (ALE) and layer-by-layer",
+  "main_precursors": ["triethylgallium (TEG)", "ammonia (NH3)"],
+  "temperature_range": "Below 120 °C for amorphous films; 250-350 °C for single-crystal films",
+  "summary": "The study describes the epitaxial growth of GaN on (0001) SiC substrates using a self-terminating atomic layer epitaxy (ALE) method combined with a layer-by-layer technique and a novel reactor design with hot filaments to decompose ammonia. The process was optimized to achieve single-crystal GaN films at temperatures above 250-350 °C, with amorphous films formed at lower temperatures. The growth was influenced by temperature, exposure time, and the use of heated filaments to enhance surface mobility and decomposition of precursor gases.",
+  "evidence": "GaN films have been grown on (0001)SiC substrates from triethylgallium and ammonia sources using a self-terminating atomic layer epitaxy method, as well as a layer-by-layer technique and a novel reactor design employing hot filaments to decompose the ammonia. The material properties and growth process were strongly dependent on the temperature and exposure time. GaN grew in a self-terminating fashion for temperatures below 120 °C but the films were amorphous. Above this temperature, the films were deposited in a layer-by-layer process giving single-crystal material in the 250-350 °C range."
+}

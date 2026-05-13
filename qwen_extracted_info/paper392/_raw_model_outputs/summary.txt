@@ -1,0 +1,8 @@
+{
+  "target_material": "AlxGa1-xAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylgallium (TMG)", "arsine (AsH3)"],
+  "temperature_range": "450 °C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) process on (001) GaAs surfaces using real-time optical diagnostics such as reflectance difference spectroscopy (RDS) and spectroellipsometry (SE). The research focuses on the surface reactions during cyclic exposures of TMG and AsH3, revealing the dynamics of surface reconstructions and the role of dimers in the growth mechanism. The study also demonstrates the use of SE for real-time control of layer composition and thickness, enabling the growth of structures with precise compositional profiles.",
+  "evidence": "We have recently developed a multitransient version of RDS and applied it to a simulated ALE cycle involving TMG and AsH3 in an atmospheric pressure (AP) organometallic chemical vapor deposition (OMCVD) reactor. This system has provided the first real-time spectral view of the evolution of a semiconductor surface to cyclic exposures of reactants. We have also used a spectroellipsometer as a feedback element on a chemical beam epitaxy (CBE) chamber to determine the composition of the running outermost few angstroms of depositing material and to adjust deposition parameters to follow preset profiles."
+}<|im_end|>

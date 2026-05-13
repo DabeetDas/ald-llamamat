@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": ["diethylzinc (DEZn)", "H2O"],
+  "temperature_range": "1000 ◦C",
+  "summary": "The study investigates the variation of ZnO shell thickness in SiOx/ZnO core–shell nanowires using atomic layer deposition (ALD). The thickness of the ZnO shell layers increases linearly with the number of ALD cycles, and the tubular morphologies are maintained. The variation in shell thickness affects the photoluminescence (PL) characteristics, with changes in the relative intensities of UV and visible emission bands and a shift in the UV peak position. The findings suggest that the PL shift is due to the exciton confinement effect, and the results can be applied to potential applications of coaxial nanowires.",
+  "evidence": "We have changed the thickness of the ZnO shell layers in SiOx /ZnO core–shell nanowires by increasing the atomic layer deposition (ALD) cycle, using diethylzinc (DEZn) and H2O as precursors of Zn and O, respectively. The samples were characterized by means of x-ray diffraction (XRD), scanning electron microscopy, transmission electron microscopy, and photoluminescence (PL) spectroscopy. While the thickness of the ZnO shell layers increased almost linearly with increase of the ALD cycle, their tubular morphologies were maintained. The variation in the thickness of the ZnO shell layers was accompanied by changes in the relative intensities of the characteristic ultraviolet (UV) and visible emission bands and by a shift of the UV peak position."
+}

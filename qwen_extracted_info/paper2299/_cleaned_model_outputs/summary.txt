@@ -1,0 +1,8 @@
+{
+  "target_material": "MgTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Mg", "Te"],
+  "temperature_range": "260 to 300°C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of MgTe and CdTe/MgTe superlattices. It demonstrates autoregulated growth of MgTe at 0.76 ± 0.1 MgTe monolayer per ALE cycle within a temperature range of 260 to 300°C. The research also determines new values for the MgTe lattice parameter, elastic coefficient ratio, and band gap.",
+  "evidence": "Reﬂection high-energy electron-diffraction studies on MgTe atomic deposition, together with x-ray diffraction, high-resolution transmission electron microscopy, and photoluminescence experiments on ALE-grown CdTe/MgTe superlattices are reported. They reveal that an autoregulated growth at 0.76 ± 0.1 MgTe monolayer/ALE cycle can be achieved in a substrate temperature range between 260 and 300°C."
+}

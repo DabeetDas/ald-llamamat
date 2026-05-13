@@ -1,0 +1,8 @@
+{
+  "target_material": "WS2",
+  "process_type": "ALD",
+  "main_precursors": ["bis(t-butylimido)bis(dimethylamino)tungsten(VI)", "H2S"],
+  "temperature_range": "300°C",
+  "summary": "A self-limited atomic layer deposition (ALD) process for WS2 is reported, utilizing bis(t-butylimido)bis(dimethylamino)tungsten(VI) and H2S as precursors. The process is optimized for high growth per cycle (1.7 Å) and produces high-quality WS2 thin films. The study investigates the self-terminating behavior of the reaction, the influence of surface pretreatment, and the reaction mechanism involving chemisorption and reduction steps.",
+  "evidence": "A novel self-terminating chemical approach for the deposition of WS2 by atomic layer deposition based on chemisorption of bis(t-butylimido)bis(dimethylamino)tungsten(VI) followed by sulfurization by H2S is reported. A broad spectrum of reaction parameters including temperatures of the reaction chamber and the precursor and durations of every atomic layer deposition (ALD) step are investigated and optimized to reach a high growth per cycle of 1.7 Å and a high quality of the deposited thin films."
+}

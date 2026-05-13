@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 673,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": 6,
+  "reactor_type": "flow reactor",
+  "evidence": "The silica was pretreated at 673 K for 17 h in air, resulting in a hydroxyl density on the surface of 3.2 OH/nm2.40. The reaction with water and evacuation afterwards took place at 373 K in order to remove physisorbed water."
+}

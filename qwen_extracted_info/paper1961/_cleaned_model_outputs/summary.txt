@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "Atomic Layer Epitaxy (ALD)",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Water vapor (H2O)"],
+  "temperature_range": "100°C to 500°C",
+  "summary": "The study describes the use of sequential surface chemical reactions of trimethylaluminum (TMA) and water vapor (H2O) to deposit high-quality Al2O3 dielectrics on Si (100) surfaces. The process allows for precise thickness control and conformal coverage, with films grown at low temperatures as low as 100°C. The films exhibit excellent electrical properties, such as resistivity of 10^17 Ω·cm, breakdown strength of 8 × 10^6 V/cm, and interface-state densities of 10^11 states/eV·cm², making them suitable for applications as gate insulators or passivation layers in silicon integrated circuits.",
+  "evidence": "Sequential surface chemical reactions of trimethylaluminum and water vapor have been used to deposit Al2O3 on Si (100) surfaces. The self-limiting nature of the surface reactions allows precise control of the thickness of the deposited layers and gives rise to films with highly conformal step coverage. High quality dielectrics have been deposited at temperatures as low as 100°C. Resistivities of 10^17 Ω·cm, breakdown strengths of 8 × 10^6 V/cm, and interface-state densities of 10^11 states/eV·cm² have already been achieved and they suggest possible applications as a gate insulator or a dielectric passivation layer."
+}

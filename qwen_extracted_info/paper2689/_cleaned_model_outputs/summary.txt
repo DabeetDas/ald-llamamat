@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "PEALD",
+  "main_precursors": ["TDEAT", "O2 plasma"],
+  "temperature_range": "250 °C",
+  "summary": "This study describes a plasma-enhanced atomic layer deposition (PEALD) process for the selective deposition of TiO2 on TiN surfaces while avoiding deposition on Si and SiO2 surfaces. The process involves integrating plasma etching steps with PEALD cycles to achieve area-selective growth. The key steps include inherent selectivity based on surface chemistry, plasma etching to remove unwanted material, and passivation with fluorine plasma to delay nucleation on Si-based surfaces. The process was tested on 3D patterned substrates, demonstrating successful deposition of TiO2 only on the edges of metal lines.",
+  "evidence": "The text states: 'A selective deposition process for bottom-up approach was developed in a modified plasma enhanced atomic layer deposition (PEALD) sequence. As a case study, a very standard PEALD TiO2 using organo-amine precursor and O2 plasma is chosen. The metal oxide selectivity is obtained on TiN versus Si-based surfaces by adding one etching/passivation plasma step of fluorine every n cycles in a PEALD-TiO2 process.'"
+}

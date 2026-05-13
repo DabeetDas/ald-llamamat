@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(2,2,6,6-tetramethyl-3,5-heptanedionato)copper(II)"],
+  "coreactants": ["hydrogen"],
+  "purge_gas": ["argon"],
+  "carrier_gas": ["argon"],
+  "evidence": "ALD is carried out using bis(2,2,6,6-tetramethyl-3,5-heptanedionato)copper(II) and hydrogen to deposit ALD copper films. The solid copper precursor is evaporated from a bubbler controlled to 124 °C, and argon is used as the carrier gas. Argon is also used as the purge gas and its flow is controlled with a proportional-integral-derivate controller to maintain a chamber pressure of 1 torr."
+}

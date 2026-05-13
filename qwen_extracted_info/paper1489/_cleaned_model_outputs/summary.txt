@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu2ZnSnS4",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Cu2DBA", "SnTDMA", "DEZ", "H2S"],
+  "temperature_range": "135 °C",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of Cu2ZnSnS4 (CZTS), a quaternary chalcogenide semiconductor. Two strategies were explored: a trilayer strategy involving the deposition of binary metal sulfides (Cu2S, SnS2, ZnS) followed by thermal annealing, and a supercycle strategy similar to conventional ALD for forming nanolaminates. The ALD process utilized precursors Cu2DBA, SnTDMA, DEZ, and H2S. The films were annealed in argon and showed photoactivity with an internal quantum efficiency of 12%.",
+  "evidence": "The study describes the Atomic Layer Deposition (ALD) of Cu2ZnSnS4 (CZTS), a quaternary chalcogenide semiconductor. Two strategies were explored: a trilayer strategy involving the deposition of binary metal sulfides (Cu2S, SnS2, ZnS) followed by thermal annealing, and a supercycle strategy similar to conventional ALD for forming nanolaminates. The ALD process utilized precursors Cu2DBA, SnTDMA, DEZ, and H2S. The films were annealed in argon and showed photoactivity with an internal quantum efficiency of 12%."
+}

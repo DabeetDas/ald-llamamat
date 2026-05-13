@@ -1,0 +1,8 @@
+{
+  "target_material": "TiAlC",
+  "process_type": "thermal ALD",
+  "main_precursors": ["titanium tetrachloride", "trimethylaluminum"],
+  "temperature_range": "300 ◦C to 400 ◦C",
+  "summary": "TiAlC film was deposited using thermal ALD with titanium tetrachloride and trimethylaluminum as precursors. The film showed tunable work function values between 4.49 eV and 4.79 eV, making it suitable for NMOS FinFET devices. The film was amorphous with low resistivity and good conformality.",
+  "evidence": "TiAlC ﬁlm grown by thermal atomic layer deposition (ALD) technique was investigated as N type work function metal for high-k dielectric/metal gate (HKMG) last FinFET integration, due to the excellent conformality and precise thickness control of ALD. The TiAlC ﬁlm was deposited using titanium tetrachloride and trimethylaluminum. The effective work function of the TiAlC ﬁlm can be tuned from 4.49 eV to 4.79 eV using growth temperature, TMA dose and ﬁlm thickness. It is found that the ALD TiAlC ﬁlm is a promising gate metal candidate for HKMG last FinFET integration."
+}

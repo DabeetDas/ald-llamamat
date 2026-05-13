@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "0.2 Torr",
+  "precursor_pulse_time_s": 25,
+  "coreactant_pulse_time_s": 100,
+  "purge_time_s": 5,
+  "number_of_cycles": "160",
+  "reactor_type": "Savannah 100",
+  "evidence": "HfO2 layer with a thickness of 12 nm was deposited on the CNFETs by ALD (Cambridge NanoTech Inc., Savannah 100) at 250 ◦C with tetrakis(dimethylamido)hafnium (Hf(NMe2)4) and water as the precursors [ 12]. The sample was put in the ALD chamber heated at the deposition temperature, after cleaning with acetone. Next, the chamber was evacuated to 0.2 Torr with a 20 sccm N 2 flow for 10 min. H 2O and Hf(NMe2)4 were introduced alternately for 5 s intervals over 160 cycles. The dose times were 25 ms and 100 ms, and consequent peak pressures were 2 Torr and 0.2 Torr, respectively."
+}<|im_end|>

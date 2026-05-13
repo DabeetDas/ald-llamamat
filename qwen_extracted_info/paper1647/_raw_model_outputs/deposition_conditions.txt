@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 125,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 40,
+  "number_of_cycles": 30,
+  "reactor_type": "viscous-flow ALD reactor",
+  "evidence": "The viscous-ﬂow ALD reactor used in this study has been described in detail previously. 15,16 Brieﬂy, TMA and H 2O are alternately entrained in a N 2 ﬂow by operating gas switching valves. Each reactant enters the reaction zone through a separate 1/4′′ stainless steel tube. During the purge step, most of the 40 sccm of N 2 entering the line ﬂows into the reaction zone. The remaining N2 is diverted through the regulating valve and purges the small reservoir to a separate pump. During the dose step, the purge valve is closed while the dose valve is opened. H 2O rapidly ﬁlls the reservoir before entering the N 2 gas stream through the regulating valve. The dose valve is closed while the purge valve is opened after the set dose time. In this manner, the gas switching valves allow for the rapid turn-on and shut-off of the reactant gases."
+}<|im_end|>

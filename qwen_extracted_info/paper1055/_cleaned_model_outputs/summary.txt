@@ -1,0 +1,8 @@
+{
+  "target_material": "La2O3",
+  "process_type": "ALD",
+  "main_precursors": ["lanthanum 2,2,6,6-tetramethyl-3,5-heptanedione", "water (H2O)"],
+  "temperature_range": "230 to 350 °C",
+  "summary": "The study investigates the growth of amorphous lanthanum oxide (La2O3) thin films on Si(100) using atomic layer deposition (ALD) with lanthanum 2,2,6,6-tetramethyl-3,5-heptanedione and water as precursors. The effects of post-annealing on the electrical properties, such as leakage current density and capacitance-voltage characteristics, are analyzed. Post-annealing at 700 °C significantly improves the electrical properties by reducing the leakage current density to 2 × 10−7 A/cm2 at +1 V.",
+  "evidence": "Amorphous stoichiometric lanthanum oxide (La2O3) thin films were grown on Si(100) by atomic layer deposition technique using lanthanum 2,2,6,6-tetramethyl-3,5-heptanedione and water (H2O) as precursors. Post-annealing at 700 °C improved the electrical properties to reduce the leakage current density up to 2 × 10−7 A/cm2 at the bias voltage of +1 V."
+}

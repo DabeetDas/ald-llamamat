@@ -1,0 +1,8 @@
+{
+  "target_material": "AlN",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["trimethyl aluminum (TMA)", "hydrazine (N2H4) or ammonia"],
+  "temperature_range": "360 to 420 ◦C",
+  "summary": "The study demonstrates the growth of ultra-thin epitaxial AlN films on Si (111) and GaN/sapphire (0001) substrates using plasma-enhanced atomic layer deposition (PEALD) at relatively low temperatures. The films exhibit different crystal structures depending on the substrate, with hexagonal AlN on Si (111) and metastable cubic AlN on GaN/sapphire. The process allows for the reduction of thermal stress and defects, and the intermixing layer at the interface plays a significant role in determining the crystal structure.",
+  "evidence": "We demonstrate the growth of ultra-thin AlN films on Si (111) and on a GaN/sapphire (0001) substrate using atomic layer epitaxy in the temperature range of 360 to 420 ◦C. ... To facilitate epitaxial films at relatively low temperatures, plasma-enhanced ALD (PDALD) processes can be used. ... The growth process is a complex one, which uses the metal–organic precursors and reactive radicals from a plasma source."
+}

@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "Four-point probe (FPP)",
+    "Rutherford backscattering spectroscopy (RBS)",
+    "Elastic recoil detection (ERD)",
+    "In situ spectroscopic ellipsometry (SE)",
+    "X-ray reflectometry",
+    "Scanning electron microscopy (SEM)",
+    "Cyclic voltammetry",
+    "Galvanostatic cycling"
+  ],
+  "evidence": "In situ spectroscopic ellipsometry was used to study the thin-film growth during the deposition processes on both ALD reactors. Electrical sheet resistance measurements were carried out ex situ at room temperature using a Signatone four-point probe in combination with a Keithley 2400 Source Measurement Unit. The atomic compositions and areal atomic densities of the films were determined from Rutherford backscattering spectrometry and elastic recoil detection using 2 MeV 4He+ ions. The microstructure of the films was studied using X-ray diffraction with a Philips X’Pert MPD diffractometer. X-ray reflectometry measurements were performed on a Bruker D8 Advance X-ray diffractometer. Scanning electron microscope images of the surface of the Cu–TiN–Si stack were taken. Cyclic voltammograms of the films were measured in a Li-containing electrolyte solution. Galvanostatic cycling was performed to study the electrochemical properties of the films."
+}

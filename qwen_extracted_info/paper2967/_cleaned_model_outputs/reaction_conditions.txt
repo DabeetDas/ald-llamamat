@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "ALD film deposition occurs through alternating pulses of metal-containing precursor and water. A deposition cycle is defined as a pulse of metal-containing precursor, a nitrogen purge to remove unreacted precursor, a water pulse, and a final nitrogen purge.",
+  "intermediate_species": ["chlorine impurities", "carbon impurities"],
+  "evidence": "ALD film deposition occurs through alternating pulses of metal-containing precursor and water. A deposition cycle is defined as a pulse of metal-containing precursor, a nitrogen purge to remove unreacted precursor, a water pulse, and a final nitrogen purge. ALD films contained chlorine impurities, while MOCVD films had carbon impurities."
+}

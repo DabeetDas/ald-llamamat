@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 121,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "For these depositions a pulse sequence of precursor/purge/H2O/purge with respective times of 1.5/6/3/30 secs was used. As can be seen from the linear fits of the thickness points for each temperature, there is a slight increase in the slopes from 305 /C14 C to 375 /C14 C while there is a more pronounced increase when the deposition temperature is set to 410 /C14 C. This indicates that there is a temperature dependent GPC which may be due to increased rate of surface reactions and/or precursor decomposition. When comparing the standard deviation values for the different temperatures settings it is observed that the /C14 C deposition results in a higher standard deviation which appears to increase with cycle counts. This is indicative of a parasitic-CVD type growth occurring due to the increased contribution from thermal decomposition of the Hf precursors."
+}<|im_end|>

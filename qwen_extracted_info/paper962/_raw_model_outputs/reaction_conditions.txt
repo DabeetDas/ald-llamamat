@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reduction of the hole injection barrier from ITO to pentacene was achieved through the deposition of metal-oxides such as Ta2O5, which increased the dielectric constant of the interlayer. This led to a decrease in the hole injection barriers, as evidenced by the energy level alignment measurements using XPS and UPS.",
+  "intermediate_species": ["pentacene", "ITO", "Ta2O5", "Al2O3"],
+  "evidence": "One possible reason for the improvement of the contact resistance between pentacene and ITO is the reduction of the barrier height for hole injection from ITO to pentacene. In a similar way described above, the pentacene/ITO and pentacene/Al2O3/ITO interfaces were also analyzed using the measured spectra, and the determined band alignments at three different interfaces (pentacene/ITO, pentacene/Al2O3/ITO, and pentacene/Ta2O5/ITO) are depicted in Fig. 4, where the pentacene energy gap of 2.2 eV was used as previously reported. The hole injection barriers, which is the energy difference between the VBM of ITO and the HOMO of pentacene, were obtained by subtracting the HOMO onset and band bending values from the ITO VBM. They are 1.47, 1.42 and 1.34 eV for the interfaces of pentacene/ITO, pentacene/Al2O3/ITO, and pentacene/Ta2O5/ITO, respectively."
+}<|im_end|>

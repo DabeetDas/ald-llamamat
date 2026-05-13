@@ -1,0 +1,8 @@
+{
+  "target_material": "Pt-Ru binary and Pt skin catalysts",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["MeCpPtMe3", "Ru(Cp)2", "O2"],
+  "temperature_range": "245 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to co-deposit Pt-Ru binary catalysts and Pt skin catalysts for methanol oxidation in direct methanol fuel cells. The process involves the use of MeCpPtMe3 and Ru(Cp)2 as precursors with O2 as the counter reactant. The optimal stoichiometric Pt:Ru ratio for co-deposited catalysts is approximately 1:1, and the Pt skin catalysts show enhanced catalytic activity compared to pure platinum. The results suggest that ALD is a promising technique for creating catalysts with high activity and low platinum loading.",
+  "evidence": "In this study, we demonstrate a novel approach ;atomic layer deposition (ALD) ;for the synthesis and investigation of Pt -Ru catalyst structures toward the oxidation of stoichiometric (1:1) methanol solutions in advanced direct methanol fuel cells. MeCpPtMe3 and Ru(Cp)2 are used as precursors for Pt and Ru ALD, respectively, together with pure O2 as the counter reactant. The results illustrate that the optimal stoichiometric Pt:Ru ratio for the co-deposited catalysts is ∼1:1, which is consistent with our previous study on sputtered Pt -Ru catalysts using the same CH3OH concentration. Moreover, we report that the catalytic activity of sputtered ruthenium catalysts toward methanol oxidation is strongly enhanced by the ALD Pt overlayer, with such skin catalysts displaying superior catalytic activity over pure platinum."
+}

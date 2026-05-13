@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ta(NCH3)25 (PDMA T)"],
+  "coreactants": ["H2", "H2-N2", "NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The text states: \"The solid metal-organic precursor Ta /H20851N/H20849CH3/H208502/H208525 /H20849PDMA T, pentakis /H20849dimethylamino/H20850tantalum, Sigma-Aldrich, /H1102299.99% purity /H20850was contained in a stainless steel bubbler... Ar was used as carrier gas /H20849/H1102299.999% purity, working pressure of /H1101130 mTorr /H20850and the flow was controlled using a leak valve upstream. This Ar flow is also used for purging the chamber after precursor dosing using a divert line.\""
+}<|im_end|>

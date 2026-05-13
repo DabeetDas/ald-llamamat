@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Si2H6 -> Si + H2 (thermal decomposition)"
+  ],
+  "surface_mechanism_description": "The surface superstructures transitioned during the alternating supply of Si2H6 and C2H2. When Si2H6 was supplied, Si atoms adsorbed and formed superstructures corresponding to the number of Si atoms. When C2H2 was supplied, the adsorbed Si atoms reacted with C2H2 molecules to form SiC, resulting in crystallization.",
+  "intermediate_species": [
+    "Si atoms",
+    "surface superstructures",
+    "SiC"
+  ],
+  "evidence": "When Si2H6 was supplied, its thermal decomposition on the substrate surface generated Si atoms which adsorbed and constructed surface superstructures. The superstructures were reconstructed corresponding to the number of adsorbed Si atoms. When C2H2 was supplied, the adsorbed Si atoms reacted with the C2H2, forming SiC."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": ["diethyl zinc (DEZn)", "H2O"],
+  "temperature_range": "125 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of ZnO on Si substrates using diethyl zinc (DEZn) and H2O as precursors. The process occurs at 125 °C, and the growth is characterized by initial island formation, coalescence during the fourth cycle, and a decrease in growth rate after ten cycles. The study highlights the use of in situ synchrotron x-ray techniques to monitor the growth process, revealing self-limiting behavior and substrate-inhibited growth.",
+  "evidence": "ZnO ﬁlms are found to initially grow as islands, with the onset of coalescence occurring during the fourth growth cycle. The start of coalescence is accompanied by a small increase in surface roughness. After ten cycles of growth, the growth rate decreases from 4.2 to 3.0 Å per cycle, with the growth following expected self-limiting behavior. The overall growth process is consistent with the model of Puurunen and V andervorts for substrate-inhibited growth. The experiments were carried out at 125 °C."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD growth is blocked by combining surface modification with topographical structures, where the inertness of the pillars with respect to the ALD reactants is due to the waxy coating of the wing, providing a chemical barrier similar to self-assembled monolayers. The film growth starts from the bottom between the pillars, indicating that the waxy coating is absent there, allowing the ALD reactants to access the cuticle components such as chitin and proteins.",
+  "intermediate_species": ["waxy coating", "chitin", "proteins"],
+  "evidence": "The inertness of the pillars with respect to the ALD reactants is likely due to the waxy coating of the wing, providing a chemical barrier similar to the self-assembled monolayers traditionally used in area-selective ALD. The film growth starting from the bottom between the pillars indicates that the waxy coating is not present there and that the other cuticle components (such as chitin and proteins) can be directly accessed by the ALD reactants resulting in film growth."
+}

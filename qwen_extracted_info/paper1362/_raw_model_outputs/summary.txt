@@ -1,0 +1,8 @@
+{
+  "target_material": "Tin Monosulfide (SnS)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Bis(N,N′-diisopropylformamidinato)tin(II)", "H2S"],
+  "temperature_range": "65-200 °C",
+  "summary": "The study reports the synthesis and characterization of a new liquid tin(II) precursor, bis(N,N′-diisopropylformamidinato)tin(II), for the ALD of SnS using H2S. The process was carried out between 65 and 200 °C, with the growth per cycle decreasing linearly from 0.86 to 0.3 Å/cycle as temperature increased. The films were found to be pure SnS with a stoichiometric ratio and showed good performance in photovoltaic devices.",
+  "evidence": "The oxide and sulfide of divalent tin show considerable promise for sustainable thin-film optoelectronics, as transparent conducting and light absorbing p-type layers, respectively. Chemical vapor deposition (CVD) and atomic layer deposition (ALD) provide attractive routes to these layers. We report here the synthesis and characterization of a new liquid tin(II) precursor, bis(N,N′-diisopropylformamidinato)tin(II) (1), which is effective in ALD of SnS in combination with H2S between 65 and 180 °C. Like other highly reactive tin(II) precursors, the growth per cycle linearly decreases from 0.82 Å/cycle at 65 °C to 0.4 Å/cycle at 180 °C."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ni(Chex)(Cp)"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The Ni precursor [Ni(Chex)(Cp)] was developed as a prototype product of Tanaka Kikinzoku Kogyo K.K. (Japan). Ni thin films were deposited in a traveling wave-type ALD reactor (Lucida-D100, NCD Technology) using the precursor as a Ni source and various reactants (O2, H2, and NH3) within deposition temperatures of 320−340 °C. The precursor was vaporized in a bubbler maintained at 50 °C and carried by a N2 gas with a flow rate of 50 sccm (standard cubic centimeters per minute). N2 gas (100 sccm) was also flowed during the purge steps between the precursor (reactant) pulse and reactant (precursor) pulse to remove the reaction by-products and residual precursor/reactant, if any."
+}

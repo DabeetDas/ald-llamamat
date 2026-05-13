@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "n± OH(s) + HfCl4(g) → ±O±(n)HfCl42n(s) + nHCl(g) (1)",
+    "±O±(n)HfCl42n(s) + 4 - n H2O(g) → ±O±(n)HfOH42n(s) + 4 - n HCl(g) (2)"
+  ],
+  "surface_mechanism_description": "The surface reactions during HfCl4 and H2O pulses involve the exchange of surface hydroxyl groups with chloride species, leading to the formation of surface intermediates and subsequent desorption of hydrogen chloride. The mechanism is self-limited at temperatures above 180°C, with the number of OH-groups reacting with an adsorbing HfCl4 molecule being critical for the surface reaction dynamics.",
+  "intermediate_species": [
+    "±O±(n)HfCl42n",
+    "±O±(n)HfOH42n"
+  ],
+  "evidence": "As shown earlier, the mass changes corresponding to chloride and H2O pulses enable one to obtain additional information about the most probable mechanism of surface reactions. Provided that after each H2O pulse the surface is terminated by OH-bonds and no desorption of surface intermediate species takes place, one can describe the surface reactions as n± OH(s) + HfCl4(g) → ±O±(n)HfCl42n(s) + nHCl(g) and ±O±(n)HfCl42n(s) + 4 - n H2O(g) → ±O±(n)HfOH42n(s) + 4 - n HCl(g) during HfCl4 and H2O pulses, respectively."
+}<|im_end|>

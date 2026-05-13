@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs/AlGaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylgallium (TMG)", "tert-butylarsine (TBA)", "arsine (AsH3)"],
+  "temperature_range": "540 °C to 600 °C",
+  "summary": "The study discusses the challenges of large area growth of GaAs/AlGaAs using atomic layer epitaxy (ALE) in a commercial MOCVD reactor. The process involves alternating exposure of Group III and Group V precursors using a movable X-shaped mechanical barrier to divide the growth chamber into zones. The thickness uniformity and carbon incorporation are influenced by the TMG flux, exposure times, and temperature. GaAs epitaxial layers with hole concentration lower than 10^17 cm^-3 and thickness uniformity less than 2% over a 50 mm diameter wafer were achieved at 580 °C. The use of TBA and increased exposure time reduced carbon incorporation, and preliminary photoluminescence results showed strong emission from ALE-grown samples.",
+  "evidence": "GaAs epitaxial layers with hole concentration lower than 10 t7 cm -3 and thickness uniformity less than 2% over a 50 mm diameter wafer grown at 580 °C have been obtained. Preliminary 300 K photoluminescence measurement of ALE Alo.aaGao.66As grown at 560 °C has shown strong emission intensity which compares with no emission from MOCVD A1GaAs grown at 560 °C."
+}<|im_end|>

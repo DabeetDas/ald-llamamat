@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "75-350",
+  "pressure": "",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 1,
+  "number_of_cycles": null,
+  "reactor_type": "Beneq TFS 200 ALD",
+  "evidence": "For PEALD of Ga2O3 (using TMGa and O-plasma) saturating GPC values of ∼0.5 ˚A/cycle or ∼0.7 ˚A/cycle, were reported. We measured ∼0.5 ˚A/cycle for 1 s plasma pulse length and ∼0.7 ˚A/cycle for ≥2 s (cf. red circles in Fig. 1), which again indicates the importance of longer oxidant exposures for saturating growth. For PEALD, a TMGa pulse length of 20 ms was also used and the plasma purge step was set to 4 s. Due to the low temperatures down to 75 °C, the TMGa purge length turns out to be a critical parameter: 15 s are required to achieve GPCsaturation at 75 °C and, moreover, the same GPC of ∼0.7 ˚A/cycle that is obtained for 150 °C."
+}<|im_end|>

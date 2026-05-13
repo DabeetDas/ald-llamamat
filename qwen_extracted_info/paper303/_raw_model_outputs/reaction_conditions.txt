@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Ce(OH)3* + O3 -> CeO2 + H2O",
+    "Ce(OH)3* + O3 -> CeO2 + H2O"
+  ],
+  "surface_mechanism_description": "Ligand exchange between (N-iPr-AMD)3Ce and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "Ce-OH groups"
+  ],
+  "evidence": "As illustrated in Fig. 8, (NiPr-AMD)3Ce was assumed to react through the widely reported 'ligand exchange' with one or two surface hydroxyl groups, generating new surfaces defined as ||-A* and | |-B*, respectively, and releasing NiPr-AMD-H as the gaseous reaction product. The next half cycle, O3 reacted with | |-A* and | |-B*. Precursors with C-containing ligands were revealed to release CO2 and H2O during this process through ligand combustion reactions with O3."
+}<|im_end|>

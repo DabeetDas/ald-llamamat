@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the reduction of Cu(II) ions by BH3(NHMe2) on Pd and Pt substrates, leading to the formation of Cu metal. The process is catalyzed by surface Pd and Pt sites, which decompose BH3(NHMe2) to generate reactive species that reduce the Cu precursors. The mechanism also includes the formation of Cu/Pd and Cu/Pt alloys, which facilitate continuous and smooth film growth.",
+  "intermediate_species": [
+    "Cu nanoparticles",
+    "Cu/Pd alloy",
+    "Cu/Pt alloy",
+    "surface reactive species from BH3(NHMe2) decomposition"
+  ],
+  "evidence": "The surface reaction mechanism and associated chemistry are described in the text: 'The diﬀering growth behavior on Pd and Pt substrates is proposed to occur through catalytic decomposition of BH3(NHMe2) by surface noble metal sites. Pd diﬀuses more rapidly in Cu than does Pt, which leads to a constant growth rate on Pd over 2000 cycles, and a diminished growth rate on Pt after 500 cycles.' Additionally, 'the presence of a Cu/Pd alloy at early stages of the Cu growth by the three-step process may also help to nucleate the Cu ﬁlm.'"
+}

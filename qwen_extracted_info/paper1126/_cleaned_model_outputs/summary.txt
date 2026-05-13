@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "ALD",
+  "main_precursors": ["diethylzinc", "water"],
+  "temperature_range": "23 to 140 °C",
+  "summary": "The study demonstrates the low-temperature atomic layer deposition (ALD) of ZnO thin films using diethylzinc and water as precursors. The films were deposited on Si(100) substrates at temperatures ranging from 23 to 140 °C. The films showed high crystallinity and c-axis orientation at temperatures below ~80 °C. Post-deposition annealing at 400–600 °C further enhanced crystallinity without altering the orientation. The process is beneficial for sensitive substrates due to its low-temperature operation.",
+  "evidence": "Low-temperature atomic layer deposition (ALD) processes are intensely looked for to extend the usability of the technique to applications where sensitive substrates such as polymers or biological materials need to be coated by high-quality thin films. A preferred film orientation, on the other hand, is often required to enhance the desired film properties. Here we demonstrate that smooth, crystalline ZnO thin films can be deposited from diethylzinc and water by ALD even at room temperature. The depositions were carried out on Si(100) substrates in the temperature range from 23 to 140 °C. Highly c-axis-oriented films were realized at temperatures below ~ 80 °C. The film crystallinity could be further enhanced by post-deposition annealing under O2 or N2 atmosphere at 400 –600 °C while keeping the original film orientation intact."
+}

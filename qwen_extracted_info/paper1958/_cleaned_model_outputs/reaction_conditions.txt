@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Below 300°C, TMGa chemisorbs dissociatively on the As-rich c(2 X 8) GaAs(100) surface with many of the methyl radicals remaining on the surface. At temperatures above 300°C, TMGa dissociates on the surface, releasing all the methyl groups and depositing Ga up to a self-limiting coverage.",
+  "intermediate_species": ["CH3Ga", "CH3 radicals", "surface hydroxyls"],
+  "evidence": "Below 300°C, TMGa chemisorbs dissociatively on the As-rich c(2 X 8) GaAs(100) surface with many of the methyl radicals remaining on the surface. At temperatures above 300°C, TMGa dissociates on the surface, releasing all the methyl groups and depositing Ga up to a self-limiting coverage."
+}

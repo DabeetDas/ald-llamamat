@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The adhesion of W films is improved by a short time pre-exposure of SiH4 prior to B2H6-based ALD W, which enhances nucleation on TiN and improves adhesion. The diffusion of boron (B) through TiN to underneath SiO2 during the growth accounts for the poor adhesion of W in sample B.",
+  "intermediate_species": ["SiH4 precursor", "B2H6 precursor", "TiN", "SiO2"],
+  "evidence": "For sample B, the diffusion of boron (B) through TiN to underneath SiO2 during the growth should account for the poor adhesion of W, as what has already been reported by Kim et al.. In order to improve the adhesion of sample B, a short time pre-exposure of SiH4 to enhance the nucleation on TiN like sample C prior to B2H6-based ALD W (sample B), i.e., sample D, is employed."
+}<|im_end|>

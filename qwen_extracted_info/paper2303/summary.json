@@ -1,0 +1,12 @@
+{
+  "target_material": "Ta2O5–Nb2O5",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "TaCl5 or Ta(OC2H5)5",
+    "Nb(OC2H5)5",
+    "H2O"
+  ],
+  "temperature_range": "300–325 °C",
+  "summary": "The study investigates the properties of atomic layer deposited (Ta1−2xNbx)2O5 solid solution films and Ta2O5–Nb2O5 nanolaminates. The films were grown using TaCl5 or Ta(OC2H5)5 and Nb(OC2H5)5 as metal precursors with H2O as the oxygen source. The application of Ta(OC2H5)5 resulted in amorphous films with better thickness uniformity, while TaCl5 led to crystallized films. The permittivity of the films increased with niobium content, reaching up to 33 for solid solutions and 38 for nanolaminates. The high-field leakage current was significantly reduced in the doped films compared to pure Ta2O5.",
+  "evidence": "The application of Ta (OC2H5)5 resulted in amorphous films with considerably better thickness uniformity than that characteristic of TaCl5-based process. The permittivity of Ta2O5 films was 25 while the permittivity of amorphous or partially crystallized solid solution films and nanolaminates increased up to 33. The high-field leakage current in (Ta1−2xNbx)2O5 solid solution films with x=0.02–0.07 decreases by two to three orders of magnitude when compared to that of the nondoped Ta2O5."
+}

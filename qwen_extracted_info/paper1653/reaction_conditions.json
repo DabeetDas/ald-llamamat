@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Pt(s) + O2(g) → Pt-Ox",
+    "CH3C5H4Pt(CH3)3 + Pt-Ox → Pt(s) + CO2(g) + H2O(g) + fragments"
+  ],
+  "surface_mechanism_description": "Ligand exchange between MeCpPtMe3 and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The reaction equations and surface mechanism are described in the text as follows: 'Pt(s) + O2(g) → Pt-Ox' and 'CH3C5H4Pt(CH3)3 + Pt-Ox → Pt(s) + CO2(g) + H2O(g) + fragments'. The surface mechanism involves ligand exchange between MeCpPtMe3 and surface hydroxyl groups, followed by water pulse to regenerate OH sites."
+}

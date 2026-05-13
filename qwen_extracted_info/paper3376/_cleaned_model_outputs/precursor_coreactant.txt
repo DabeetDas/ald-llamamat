@@ -1,0 +1,7 @@
+{
+  "precursors": ["Mo(CO)6", "O2 plasma"],
+  "coreactants": ["H2S", "Ar"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The MoOx films were deposited on SiO2(300 nm)/Si substrates by plasma-enhanced ALD using Mo(CO)6 and O2 plasma at a 200 °C growth temperature. The O2 flow and plasma power were fixed at 300 s.c.c.m. and 200 W, respectively. An ALD cycle consists of four steps: Mo(CO)6 precursor exposure (ts), Ar purging (tp), O2 plasma reactant exposure (tr) and another Ar purging (tp). The temperature of the bubbler containing Mo(CO)6 was maintained at 35 °C to produce adequate vapour pressure, and vapourized Mo(CO)6 molecules were transported into the chamber by pure argon (99.999%) carrier gas."
+}

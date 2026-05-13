@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 750,
+  "density_g_cm3": 5.06,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The as-deposited film is amorphous whereas the SEM image shows what appear to be nanocrystals. It is likely that the diffraction peaks from these nanocrystals are too weak or broad to be detected by our XRD."
+}

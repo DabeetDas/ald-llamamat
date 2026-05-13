@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-400",
+  "pressure": "2 mbar",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 3.0,
+  "purge_time_s": 15.0,
+  "number_of_cycles": null,
+  "reactor_type": "ASM Microchemistry Ltd. flow-type ALD reactor",
+  "evidence": "The following pulsing sequence was used: Step 1. 5 times (0.5 s TiCl4/15.0-s purge). Step 2. 4 times (0.5 s TiCl4/6.0-s purge + 3.0-s D2O/6.0-s purge). Step 3. 2 times (0.5 s TiCl4/15.0-s purge). Step 4. 6 times (0.5 s TiCl4/6.0-s purge + 3.0-s D2O/6.0-s purge). Step 5. 5 times (3.0 s D2O/15.0-s purge)."
+}<|im_end|>

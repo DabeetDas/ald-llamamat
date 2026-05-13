@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnS",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "diethyl zinc (DEZ)",
+    "hydrogen sulfide (H2S)"
+  ],
+  "temperature_range": "250–400°C",
+  "summary": "Polycrystalline ZnS thin films were grown by atomic layer deposition (ALD) using diethyl zinc (DEZ) and hydrogen sulfide (H2S) as precursors in the temperature range of 250–400°C. The study aimed to investigate the growth characteristics, crystalline structure, and microstructural properties of ZnS films for electroluminescent applications.",
+  "evidence": "Polycrystalline ZnS thin ﬁlms were grown by the atomic layer deposition (ALD) using the precursors of diethyl zinc and hydrogen sulﬁde in the substrate temperature range of 250–4008C. The most uniform ALD growth was observed at 3008C with the growth rate of 0.7 A˚ per cycle. The dependence of surface morphology and crystalline microstructure on the ALD cycle number had also been investigated by using atomic force microscopy (AFM), cross-sectional transmission electron microscopy (TEM), and angle-resolved X-ray photoelectron spectroscopy (ARXPS)."
+}

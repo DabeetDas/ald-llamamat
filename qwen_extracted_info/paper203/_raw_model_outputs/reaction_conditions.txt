@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [
+    "Zn(C2H5)2 + H2O → ZnO + 2C2H6"
+  ],
+  "surface_mechanism_description": "The growth of ZnO thin films occurs through a double exchange reaction of diethylzinc (DEZn) with water vapour at the substrate surface in one ALD cycle.",
+  "intermediate_species": [
+    "ZnO"
+  ],
+  "evidence": "Zinc oxide thin films were grown as a result of a double exchange reaction of DEZn with water vapour Zn(C2H5)2 + H2O → ZnO + 2C2H6 This reaction occurs at the substrate surface in one ALD cycle."
+}<|im_end|>

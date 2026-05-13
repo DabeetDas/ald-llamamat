@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the pulsed deposition of metal precursors and H2S, where the metal precursors react with surface hydroxyl groups, and the reaction is self-limiting. The decomposition of the Cu precursor was observed at higher temperatures, indicating that the precursor starts to decompose in the gas phase at temperatures above 200°C. The decomposition of the Ce precursor at temperatures above 340°C was also noted, leading to lower EL intensity.",
+  "intermediate_species": ["Cu precursor", "Ce precursor", "surface hydroxyl groups"],
+  "evidence": "The decomposition of the Cu precursor was observed also by pulsing it alone on top of SrS at 220°C, which resulted in elemental Cu. The low luminance at growth temperatures >340°C is probably caused by a thermal decomposition of Ce and/or Sr precursors."
+}

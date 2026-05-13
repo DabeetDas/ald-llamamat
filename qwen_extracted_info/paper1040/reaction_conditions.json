@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of Nd(thd)3 and O3, followed by the formation of surface species such as Nd-O and the subsequent reaction with (CH3)3Al and H2O to form NdAlO3. The exact mechanism includes the formation of surface hydroxyl groups and the subsequent reaction with the aluminum precursor.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "Nd-O species",
+    "Al-OH*"
+  ],
+  "evidence": "The text discusses the deposition of NdAlO3 films using ALD, where the surface reactions involve the adsorption of Nd(thd)3 and O3, followed by the formation of surface species such as Nd-O and the subsequent reaction with (CH3)3Al and H2O to form NdAlO3. The exact mechanism includes the formation of surface hydroxyl groups and the subsequent reaction with the aluminum precursor."
+}

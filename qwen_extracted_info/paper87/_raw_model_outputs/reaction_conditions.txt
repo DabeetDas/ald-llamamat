@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "DEZ + SH -> Zn(CH2CH3)2 + CH3CH3",
+    "PDT + Zn(CH2CH3)2 -> SH + THTP"
+  ],
+  "surface_mechanism_description": "The ALD process involves the chemisorption of diethylzinc (DEZ) onto thiol groups (-SH) on the substrate surface, forming ethylzinc-terminated surfaces and releasing ethane gas. Subsequently, 1,5-pentanedithiol (PDT) reacts with the chemisorbed ethylzinc to regenerate thiol groups on the surface, potentially forming tetrahydrothiopyran (THTP) through intermolecular cyclization.",
+  "intermediate_species": [
+    "ethylzinc-terminated surface",
+    "tetrahydrothiopyran (THTP)"
+  ],
+  "evidence": "In the first-half reaction under the DEZ exposure, DEZ reacts with thiol group (−SH) on the surface of the substrate to form ethylzinc-terminated surface and to liberate ethane gas. During the PDT pulse in the second-half reaction, PDT reacts with the chemisorbed ethylzinc to recover the thiol group on the surface. Ethane and tetrahydrothiopyran (THTP, C5H10S) may be liberated in the second-half reaction by an intermolecular cyclization reaction."
+}<|im_end|>

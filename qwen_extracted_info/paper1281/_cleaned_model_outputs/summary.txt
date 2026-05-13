@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru",
+  "process_type": "ALD",
+  "main_precursors": ["RuO4", "N2/H2"],
+  "temperature_range": "150–180 °C",
+  "summary": "The study investigates the Atomic Layer Deposition (ALD) of Ru thin films using RuO4 precursor and N2/H2 mixed gas reduction on Ta2O5/Si substrates. The process exhibits a high growth rate (>0.3 nm/cycle) due to the reduction of Ta2O5 to Ta, which diffuses onto the Ru film surface. The films show excellent step coverage and low resistivity, making them suitable for DRAM capacitor applications. The study also compares the growth behavior on Ta2O5 and Au substrates, highlighting the role of substrate interaction in the ALD process.",
+  "evidence": "The growth behaviors of atomic-layer-deposited (ALD) Ru thin films using the RuO4 precursor and N2/H2 mixed reduction gas on Ta2O5 thin-film/Si substrates were examined. The Ru films deposited on the Ta2O5 film showed a high growth rate (>0.3 nm/cycle) compared with other ALD Ru processes (~0.05-0.1 nm/cycle). The Ta2O5 substrate was reduced to Ta metal by the N2/H2 reduction gas, and the produced Ta atoms were diffused onto the Ru film surface during Ru growth. The process with an exceptionally high growth rate of 0.37 nm/cycle showed a stable self-limited behavior and excellent step coverage, making it suitable for the mass production of the electrode material in a three-dimensional structure."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during atomic layer epitaxy (ALE) involve the use of dimethyldichalcogenides as precursors, with the formation of ZnSe/ZnS superlattices on Si substrates. The growth process is self-limiting, with the formation of one monolayer saturating the substrate reactions. The mechanism includes the adsorption of Zn precursors and chalcogenides, followed by surface reactions that lead to the formation of ZnSe and ZnS layers.",
+  "intermediate_species": ["Zn precursors", "chalcogenides", "surface hydroxyls"],
+  "evidence": "The text describes the use of dimethyldichalcogenides as Zn, S, and Se sources, with the formation of ZnSe/ZnS superlattices on Si substrates. It mentions the self-limiting nature of the growth process, where the formation of one monolayer saturates the substrate reactions, indicating the presence of surface reactions and intermediate species."
+}

@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Fourier Transform Infrared Spectroscopy (FTIR)",
+    "X-ray Diffraction (XRD)",
+    "Transmission Electron Microscopy (TEM)",
+    "Selected Area Electron Diffraction (SAED)",
+    "Ellipsometry",
+    "X-ray Reflectivity",
+    "Reflected Electron Energy Loss Spectroscopy (REELS)"
+  ],
+  "evidence": "The Ta4f core line and the valence band (VB) for the as-grown tantalum oxide films were analyzed using an in situ XPS (Theta Probe, Thermo Fisher Scientific spectrometer) connected through a vacuum transport system to the PEALD tool. XPS spectra were taken at the pass energy of 50 eV providing 0.6 eV resolution, as estimated from the full width at half-maximum of the Au4f7/2 core level. The energy scale of the XPS spectra was calibrated with respect to the Au4f7/2 line (84.0 eV). The band gap of TaOx was measured using the reflected electron energy loss spectroscopy (REELS) technique with a primary e-beam energy of 1000 eV. Tantalum oxide films were also studied using FTIR spectroscopy. The XRD diffraction pattern of the TaOx film using grown with tpr= 0.5 sec, tpl = 20 sec, R = 7% is shown in Fig. 6a, where only three diffusely broadened halos were observed. The TEM image Fig. 6b corroborated the amorphous structure, and the inset SAED image also confirms the amorphous structure. The thicknesses of tantalum oxide films estimated via ellipsometry (SENTECH, SE 500adv). X-ray diffraction analysis and X-ray reflectivity were performed on a universal X-ray tool (ARL X'TRA Thermo Fisher) using Cu Kα radiation."
+}

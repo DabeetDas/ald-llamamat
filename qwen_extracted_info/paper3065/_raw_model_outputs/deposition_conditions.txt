@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 185,
+  "pressure": "2-3 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 100,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "home-made ALD system",
+  "evidence": "The copper film is deposited by introducing [Cu( sBu-amd)]2 and H 2 (99.999%, with Aeronex gas purifier) alternatively into the ALD chamber for in situ characterization of the film growth on the differently functionalized Si surfaces. The substrate temperature is kept at 185 oC for optimum copper deposition. Purified N 2 is used as the carrier gas to deliver the copper metal precursor. To generate a high enough vapor pressure, the precursor is kept at ~100 oC. After each half cycle, the ALD chamber is purged thoroughly and pumped with purified N 2. During film deposition, the pressure of the copper precursor is around 2 Torr and that of H 2 is >11 Torr. The pulse lengths for the copper precursor and H2 gas are 2s and 100s, respectively."
+}<|im_end|>

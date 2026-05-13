@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "6TaF5(g) + 5Si2H6(g) → 6Ta(s) + 10SiHF3(g) + 10H2(g)",
+    "TaF5* + Si2H6(g) → TaSiHyF* + H2(g) + SiHaFb(g)",
+    "TaSiHyF* + TaF5(g) → TaTaF* + SiHaFb(g)"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the dissociative adsorption of TaF5 on clean Ta, where F ligands govern the self-limiting adsorption behavior. The Si2H6 half-reaction removes F ligands from the surface, and the TaF5 half-reaction involves the reaction of TaF5 with Si2H6-treated Ta surfaces. The reaction steps are self-limiting and depend on surface temperature and byproduct desorption.",
+  "intermediate_species": [
+    "TaF5*",
+    "TaSiHyF*",
+    "SiHaFb(g)",
+    "SiHxFy",
+    "TaFadsx",
+    "SiHxFy"
+  ],
+  "evidence": "The text describes the surface reactions and mechanisms in detail, including the dissociative adsorption of TaF5 on clean Ta, the self-limiting behavior of F ligands, and the reaction steps for the Si2H6 and TaF5 half-reactions. It also mentions the formation of intermediate species such as TaF5*, TaSiHyF*, and SiHaFb(g), as well as the desorption of byproducts like SiHxFy."
+}

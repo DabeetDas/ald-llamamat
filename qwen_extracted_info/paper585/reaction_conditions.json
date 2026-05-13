@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "AlMe3 + NH3 → AlNH2 + CH4",
+    "MeAlNH2 + NH3 → AlNH2 + MeNH2",
+    "MeAlNH2 + NH3 → AlN + MeNH2 + CH4"
+  ],
+  "surface_mechanism_description": "The growth of AlN on porous silica was based on the ligand exchange reaction of TMA with hydrogen-containing groups (i.e., OH and NH groups) and the dissociation of TMA in siloxane bridges, resulting in the formation of Al±Me and Si±Me groups on the surface. The reaction of ammonia with all the aluminium-bonded and some silicon-bonded methyl groups led to the formation of amino groups on the surface.",
+  "intermediate_species": [
+    "Al±Me groups",
+    "Si±Me groups",
+    "Al±NH groups",
+    "Si±NH groups",
+    "Al±NH±Al groups",
+    "Si±NH±M groups (M is Al or Si)"
+  ],
+  "evidence": "The growth of AlN on porous silica was based on the ligand exchange reaction of TMA with hydrogen-containing groups (i.e., OH and NH groups) and the dissociation of TMA in siloxane bridges, resulting in the formation of Al±Me and Si±Me groups on the surface. The reaction of ammonia with all the aluminium-bonded and some silicon-bonded methyl groups led to the formation of amino groups on the surface."
+}

@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "diethylzinc (DEZ)",
+    "aluminum isopropoxide (AIP)"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Pure ZnO and Al2O3 films were deposited in a commercial Picosun SUNALE R-150B ALD reactor using DEZ (6N; Nata Opto-electronic Material Co., Ltd.), AIP (98%; Strem Chemicals, Inc.), and deionized water as Zn, Al, and oxygen precursors, respectively. Pure N2 (5N) was used as the carrier and purge gases."
+}

@@ -1,0 +1,13 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD and plasma ALD",
+  "main_precursors": [
+    "trimethylaluminum [Al(CH3)3]",
+    "H2O",
+    "O3",
+    "O2 plasma"
+  ],
+  "temperature_range": "200 °C (deposition), 375 °C (annealing for thermal ALD), 425 °C (annealing for plasma ALD)",
+  "summary": "The study compares the surface passivation properties of Al2O3 films deposited by thermal ALD and plasma ALD on crystalline silicon (c-Si). It highlights that plasma ALD provides better surface passivation quality, especially for thin films, and that both methods yield excellent passivation for thicker films. The impact of annealing temperature, film thickness, and thermal stability is also discussed.",
+  "evidence": "In this Letter, we compare the surface passivation of Al2O3 films deposited by thermal ALD and plasma ALD in a single ALD reactor. For thin layers (~5 nm) we confirm that plasma ALD outperforms thermal ALD with respect to passivation quality. For thicker layers, however, both methods yield Al2O3 with outstanding surface passivation properties. The Al2O3 films were deposited by thermal and plasma ALD in an Oxford Instruments OpAL TM reactor at a substrate temperature of 200 °C. The optimal anneal temperature for thermal ALD Al2O3 was found to be slightly lower, ~375 °C, than for plasma ALD Al2O3, ~425 °C."
+}

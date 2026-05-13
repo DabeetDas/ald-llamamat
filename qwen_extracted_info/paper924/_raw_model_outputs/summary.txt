@@ -1,0 +1,8 @@
+{
+  "target_material": "W (tungsten)",
+  "process_type": "ALD (Atomic Layer Deposition)",
+  "main_precursors": ["SiH4", "B2H6"],
+  "temperature_range": "300 /C176C",
+  "summary": "The study evaluates the adhesion and trench filling capability of W films deposited by CVD and ALD for use as gate filling metal in 22 nm HKMG-last integration. The focus is on improving adhesion through a short time pre-exposure of SiH4 prior to B2H6-based ALD W, which enhances adhesion and satisfies trench filling requirements.",
+  "evidence": "By employing a short time pre-exposure of SiH4 prior to B2H6-based ALD W, the adhesion of as-prepared W is improved significantly, which meanwhile satisfies the requirements for trench filling in real small devices."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "501C",
+  "pressure": "0.25Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "flow reactor",
+  "evidence": "Duringa deposition experiment, the total nitrogen mass flow into the reactor was 0.025 standard liters per minute (SLPM) and the pressure of nitrogen in the reactor was maintained at 0.25Torr (gas molecules had an average linear flow velocity of 300cm/s in the reactor at 2001C). The deposition temperature was varied from 501C to 3501C. At least 5s of purging was allowed between the doses of precursors. Under these conditions one ALD reaction cycle was defined as one dose of the metal precursor followed by a 5s purge, then one dose of water followed by another 5s purge."
+}<|im_end|>

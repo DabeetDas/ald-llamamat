@@ -1,0 +1,20 @@
+{
+  "reaction_equations": [
+    "surface /C0 OHðÞ xðadsÞ þ WF6ðgÞ ! surface /C0 Ox /C0 WF6/C0 xðadsÞ þ xHFðgÞ",
+    "surface /C0 W6þFx þ WF6?ðÞ ! surface þ WFxðgÞ",
+    "surface /C0 W6þF6/C0 x ðadsÞ þ 1/2 6 /C0 xðÞ H2 ðplasmaÞ ! surface /C0 W0 ðsÞ þ 6 /C0 xðÞ HFðgÞ",
+    "surface /C0 W6þF6/C0 x ðadsÞ þ 1/2 7 /C0 xðÞ H2 ðplasmaÞ ! surface /C0 WHðsÞ þ 6 /C0 xðÞ HFðgÞ",
+    "surface /C0 W6þF6/C0 x ðadsÞ þ 3/2 xH 2 ðplasmaÞ ! surface /C0 WF6/C0 2xH2x ðsÞ þ xH FðgÞ"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the chemisorption of WF6 on the Al2O3 surface, followed by ligand exchange reactions and subsequent reduction of W6+Fx surface species by H2 plasma. The reduction prevents desorption of the surface species, enabling the formation of WS2 layers. The growth mode transitions from 2D layer-by-layer growth to 3D growth after layer closure due to the low reactivity of the WS2 surface toward the precursors.",
+  "intermediate_species": [
+    "W6+Fx surface species",
+    "WF6-x surface species",
+    "Al–F surface species",
+    "WFx gas",
+    "W0 surface species",
+    "WH surface species",
+    "WF6-2xH2x surface species"
+  ],
+  "evidence": "surface /C0 OHðÞ xðadsÞ þ WF6ðgÞ ! surface /C0 Ox /C0 WF6/C0 xðadsÞ þ xHFðgÞ; surface /C0 W6þFx þ WF6?ðÞ ! surface þ WFxðgÞ; surface /C0 W6þF6/C0 x ðadsÞ þ 1/2 6 /C0 xðÞ H2 ðplasmaÞ ! surface /C0 W0 ðsÞ þ 6 /C0 xðÞ HFðgÞ; surface /C0 W6þF6/C0 x ðadsÞ þ 1/2 7 /C0 xðÞ H2 ðplasmaÞ ! surface /C0 WHðsÞ þ 6 /C0 xðÞ HFðgÞ; surface /C0 W6þF6/C0 x ðadsÞ þ 3/2 xH 2 ðplasmaÞ ! surface /C0 WF6/C0 2xH2x ðsÞ þ xH FðgÞ"
+}

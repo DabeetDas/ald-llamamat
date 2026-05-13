@@ -1,0 +1,8 @@
+{
+  "target_material": "MgO",
+  "process_type": "ALD",
+  "main_precursors": ["bis(cyclopentadienyl) magnesium", "H2O"],
+  "temperature_range": "250 /C14 C",
+  "summary": "The study investigates the nucleation and growth of MgO thin films using atomic layer deposition (ALD) with bis(cyclopentadienyl) magnesium and H2O as precursors. The process is monitored in real-time using spectroscopic ellipsometry, revealing submonolayer sensitivity and self-limiting adsorption. The initial growth is not linear, and Mg silicate forms spontaneously on SiO2/Si substrates. The study highlights the role of surface hydroxyl groups in growth efficiency and demonstrates the effectiveness of in-situ ellipsometry for monitoring ALD processes.",
+  "evidence": "The atomic layer deposition (ALD) of MgO thin films from bis(cyclopentadienyl) magnesium and H2O was studied using in-situ real-time spectroscopic ellipsometry (SE), ex-situ x-ray photoelectron spectroscopy, and grazing-incidence x-ray diffraction. It is found that the initial growth is not linear during the first ten cycles, and magnesium silicate forms spontaneously on the SiO2/Si substrates at 250 /C14 C. Submonolayer sensitivity of SE is demonstrated by the analysis of each half-cycle and self-limiting adsorption, revealing characteristic features of hetero- and homo-MgO ALD processes."
+}

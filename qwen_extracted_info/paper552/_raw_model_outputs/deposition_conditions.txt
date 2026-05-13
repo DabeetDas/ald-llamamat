@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.3,
+  "coreactant_pulse_time_s": 0.4,
+  "purge_time_s": 0.5,
+  "number_of_cycles": 500,
+  "reactor_type": "Microchemistry F120 ALCVD",
+  "evidence": "Films were deposited at 300 8C, using TiCl and H O42 as reactants, up to a total of 500 cycles giving a maximum thickness of 23 nm.The pulse sequence consisted of a 0.3-s pulse of TiCl and 0.4-s pulse of H O, interspersed with 0.5-s purge."
+}<|im_end|>

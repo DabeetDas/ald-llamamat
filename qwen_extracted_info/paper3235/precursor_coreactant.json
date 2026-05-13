@@ -1,0 +1,20 @@
+{
+  "precursors": [
+    {
+      "name": "trimethylbismuth",
+      "abbreviation": "BiCl3"
+    },
+    {
+      "name": "trimethylsilyl telluride",
+      "abbreviation": "(Me3Si)2Te"
+    },
+    {
+      "name": "antimony trichloride",
+      "abbreviation": "SbCl3"
+    }
+  ],
+  "coreactants": [],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The antimony telluride Sb2Te3 films were fabricated by ALD using SbCl3 as precursor 1 and (trimethylsilyl)telluride (Me3Si)2Te as the chemical precursor 2, while the bismuth telluride (Bi2Te3) synthesis was attempted with trimethylbismuth as precursor 1 and (trimethylsilyl)telluride (Me3Si)2Te as chemical precursor 2."
+}

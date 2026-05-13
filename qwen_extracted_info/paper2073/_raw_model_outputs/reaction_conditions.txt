@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Cu diffusion from CIGS into In2S3, Cu depletion and In enrichment on the CIGS side of the interface, and interdiffusion of Cu, Ga, and In between CIGS and In2S3 during buffer layer growth. Na may occupy sites in the In2S3 layer which can also be occupied by Cu atoms.",
+  "intermediate_species": ["Cu vacancies", "In sites", "In vacancies"],
+  "evidence": "Py et al.10 investigated the interdiffusion in the CuS–Cu2S–In2S3 system and suggested that Cu diffuses into the In2S3 spinel structure, occupying both vacancies and In sites. Such a Cu diffusion and occupation process may also occur on the In2S3 side of the interface, in addition to the Cu depletion and In enrichment on the CIGS side of the interface, which indicates that In might occupy Cu vacancies."
+}<|im_end|>

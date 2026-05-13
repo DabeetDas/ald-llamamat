@@ -1,0 +1,11 @@
+{
+  "target_material": "Alumina (Al2O3)",
+  "process_type": "Ozone-Based Atomic Layer Deposition (O3-ALD)",
+  "main_precursors": [
+    "Trimethylaluminum (TMA)",
+    "Ozone (O3)"
+  ],
+  "temperature_range": "150 - 300 °C",
+  "summary": "The study investigates the effect of growth temperature on the structural and morphological properties of Al2O3 films deposited via atomic layer deposition (ALD) using ozone (O3) as the oxygen source, comparing it with the conventional H2O process. The research highlights the differences in growth rates, film density, roughness, and reaction mechanisms between O3 and H2O processes. It also explores the role of hydroxyl groups and surface reactions in determining film quality and morphology.",
+  "evidence": "The text discusses the effect of growth temperature in the 150 - 300 °C range on the structural and morphological properties of Al2O3 films deposited using atomic layer deposition, contrasting the effect of H2O and O3 as oxygen sources. It also details the reaction mechanisms and the role of hydroxyl groups in the growth process."
+}

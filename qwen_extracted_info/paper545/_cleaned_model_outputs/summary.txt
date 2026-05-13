@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["HfI4", "O2"],
+  "temperature_range": "400–750 8C",
+  "summary": "The study investigates the atomic layer deposition of polycrystalline HfO2 using HfI4 and O2 as precursors. The growth rate was found to depend on the oxygen pressure and substrate temperature, with optimal growth achieved at 500–620 8C. The process allows for straightforward thickness control by varying the number of deposition cycles.",
+  "evidence": "A new precursor combination, hafnium tetraiodide and oxygen for atomic layer deposition of hafnium oxide thin films has been studied. The growth rate of hafnium oxide on Si (100) substrates was investigated at substrate temperatures ranging from 400 to 750 8C. A saturation of the growth rate with increasing substrate temperature depended on the oxygen pressure and was achieved at 500–620 8C. Growth of phase pure polycrystalline monoclinic HfO2 could be realised by tuning process parameters such as the partial pressure of O2 and the evaporation temperature of HfI4. Straightforward thickness control was demonstrated by varying the number of deposition cycles between 50 and 1000."
+}

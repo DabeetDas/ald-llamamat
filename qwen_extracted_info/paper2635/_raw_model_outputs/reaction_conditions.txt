@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Co2ðCOÞ8 þ /C0 j O !/C0 j O /C0 Co2ðCOÞ/C3 x þ (8 /C0 x)CO;",
+    "/C0j O /C0 Co2ðCOÞ/C3 x þ O3 !/C0 j O /C0 Co2O3 þ xCO:"
+  ],
+  "surface_mechanism_description": "A sequential combination of self-saturating reactions results in the film formation. The self-limiting behavior of ALD is depicted at a very low deposition temperature. The reaction mechanism involves the sequential dosing of the constituent reactants leading to a self-saturated reaction on the substrate's surface.",
+  "intermediate_species": [
+    "Co2ðCOÞ/C3 x",
+    "Co2O3"
+  ],
+  "evidence": "III. RESULTS AND DISCUSSION\nA. Self-limiting growth study\nFollowing the MoO 3 reaction chemistry, we may predict the qualitative reaction mechanism to deposit cobalt oxide as follows:\n\nCo2ðCOÞ8 þ /C0 j O !/C0 j O /C0 Co2ðCOÞ/C3 x þ (8 /C0 x)CO;\n/C0j O /C0 Co2ðCOÞ/C3 x þ O3 !/C0 j O /C0 Co2O3 þ xCO:\nA sequential combination of self-saturating reactions (2) and (3) results in the film formation."
+}<|im_end|>

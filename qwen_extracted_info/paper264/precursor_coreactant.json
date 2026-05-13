@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "A1C13",
+    "P205",
+    "trimethylphosphate"
+  ],
+  "coreactants": [
+    "H20"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "A1C13 (> 98%, Merck), P205 (granusic 99%, J. T. Baker), trimethylphosphate (TMP, > 97%, Merck) and water were used as precursors. Nitrogen with a purity of 99.999 % was used as a carrier and purging gas."
+}

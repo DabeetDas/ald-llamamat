@@ -1,0 +1,7 @@
+{
+  "precursors": ["tris(tert-butoxy)silanol", "trimethylaluminium"],
+  "coreactants": [],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "To deposit SiO2 by ALD the AAO membranes were exposed to tri(tert-butoxy)silanol, and TMA as the precursor couple. The precursors were carried to the membrane by a flow of nitrogen gas, which was also used to purge the reactor between precursor pulses."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN and HfO2",
+  "process_type": "remote plasma ALD",
+  "main_precursors": ["TiCl4", "H2–N2 plasma", "TEMAH", "O2 plasma"],
+  "temperature_range": "150–350 °C",
+  "summary": "The study describes the deposition of TiN and HfO2 using a commercial 200 mm remote plasma atomic layer deposition reactor. The process involves the use of metal-halide and metal organic precursors in combination with plasma sources. The deposition temperature range is 150–350 °C, and the process is optimized for uniformity and low impurity content. The results show that TiN films with low Cl impurity content and HfO2 films with low H and C content can be achieved at these temperatures.",
+  "evidence": "The text states, 'The deposition of titanium nitride (TiN) and hafnium oxide (HfO2) is described for the combination of the metal-halide precursor TiCl4 and H2–N2 plasma and the combination of the metallorganic precursor Hf(NCH2CH2)4 and O2 plasma, respectively.' It also mentions, 'The temperature range is 150–350 °C.'"
+}<|im_end|>

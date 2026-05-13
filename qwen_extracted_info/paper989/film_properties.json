@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 60,
+  "density_g_cm3": 8.022,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.6,
+  "crystal_phase": "polycrystalline",
+  "evidence": "The film growth rate expressed as the GPC (growth per cycle) value was found to be ca. 0.28 Å/cycle, which matches with the literature values for ALD-grown LnO films [31]. Hence, a deposition performed using 2000 ALD cycles resulted in ca. 60 nm thick film for which the density and surface roughness values obtained by fitting the XRR curve (Fig. 1 (b)) were found to be 8.022 gcm-3 and 0.6 nm, respectively."
+}

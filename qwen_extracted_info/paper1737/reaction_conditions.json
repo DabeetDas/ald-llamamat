@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "M(RNC(CH3)NR)x + H2 → M(RNC(CH3)NR)xH + H*",
+    "M(RNC(CH3)NR)xH + H2O → M(RNC(CH3)NR)xO + H2 + RH"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the chemisorption of metal acetamidinate precursors on metal surfaces, followed by hydrogenation to cleave metal-ligand bonds. The released ligands are hydrogenated, and water vapour creates a hydroxylated surface for the reaction of metal precursors, leading to the formation of metal oxides and nucleation of metal films.",
+  "intermediate_species": [
+    "Metal acetamidinate precursors",
+    "Hydrogenated ligands",
+    "Hydroxylated surface",
+    "Metal-hydrogen intermediates"
+  ],
+  "evidence": "We found that these metal acetamidinates are very reactive with water vapour, so their rapid reaction with a hydroxylated surface is a plausible step in the formation of the metal oxides and also the nucleation step in metal film growth."
+}

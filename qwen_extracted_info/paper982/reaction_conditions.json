@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of ethanol molecules on the surface of the Ga2O3-WO3 heterostructures, followed by their interaction with surface oxygen species. The mechanism is characterized by the formation of oxygen vacancies and the subsequent regeneration of surface hydroxyl groups, which facilitates the detection of ethanol.",
+  "intermediate_species": [
+    "oxygen vacancies",
+    "ionosorbed oxygen species"
+  ],
+  "evidence": "The text states: 'the electrical conductivity of Ga2O3-WO3 heterostructures should be modulated dramatically by oxygen vacancies or ionosorbed oxygen species, which is beneficial to the application of gas sensing.' Additionally, it mentions the 'response of Ga2O3-WO3 heterostructures to 100 ppm ethanol at the optimal temperature of 275°C is about 14, which is about 4 and 10 times higher than that of WO3 and Ga2O3 nanofilms, indicating that functionalized Ga2O3 on the surface of WO3 nanofilms can enhance the sensitivity significantly.'"
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Si",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["SiCl2H2", "H2"],
+  "temperature_range": "465–475 °C",
+  "summary": "The study investigates the atomic layer epitaxy (ALD) of silicon on Ge(100) using SiCl2H2 and H2 precursors. Two ALD processes are compared: one involving SiCl2H2 and H2 at temperatures below 500 °C, which results in uniform Si deposition, and another involving SiCl2H2 and Si2H6 at 475 °C, which leads to island growth. The process is self-limiting and results in epitaxial growth with uniform thickness. The study also highlights the role of surface termination with H or Cl in preventing Ge segregation and enabling uniform Si growth.",
+  "evidence": "It is shown that alternating exposure to SiCl2H2 and atomic hydrogen deposits Si in a process that is self-limiting. Growth of Si by this method results in either alloy formation or Si island growth as low as 465 °C on Ge(100), which prohibits a simple measurement of Si thickness/cycle. In contrast, alternating exposure to SiCl2H2 and Si2H6 below 500 °C results in Si deposition with uniform thickness."
+}

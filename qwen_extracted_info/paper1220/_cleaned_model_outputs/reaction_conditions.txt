@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the thermal decomposition of Me2Au(S2CNEt2) and ozone (O3) at temperatures between 120 – 250 °C. The decomposition of the gold precursor leads to the formation of gold atoms which then deposit on the substrate. The process is self-limiting, indicating that the surface reactions are controlled by the availability of reactive sites on the substrate.",
+  "intermediate_species": ["Me2Au(S2CNEt2)"],
+  "evidence": "In the ALD experiments Me2Au(S2CNEt2) was evaporated at 99 °C and O3 was used as a second reactant. Mirror like Au thin films were deposited on Si(100) and glass substrates at 120 – 200 °C. Self-limiting growth was confirmed at 180 °C. The Au thin films deposited were polycrystalline showing the cubic phase. All the films were continuous and showed low resistivity values."
+}

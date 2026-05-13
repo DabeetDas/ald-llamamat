@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The one-ML self-limiting growth was found to be related to the adsorption of MMA on the Al surface. The Al surface in the two-ML self-limiting growth was close to metallic. The two different self-limiting growth modes are attributed to the observed different properties of the Al surfaces.",
+  "intermediate_species": [
+    "monomethylamine (MMA)",
+    "NCH,",
+    "AlH"
+  ],
+  "evidence": "The desorption properties of the MMA species from the Ga as well as As surface during ALE were also discussed. When the similar mechanism is applicable to the one-ML self-limiting growth of AlAs, that is, the MMA species on the As surface are transferred to the Al surface during the TMAAl supply, the concentration of the MMA species adsorbed on the Al surface should depend on the purging time after the TDMAAs supply. The desorption of the surface Al during these reactions above 400 “C will result in the observed upper temperature limit for the one-ML self-limiting growth. The Al surface in the two-ML growth mode was close to metallic. This indicates that the self-limiting mechanism is different between the one-ML and two-ML growth modes. The transition from the one-ML to two-ML growth mode is interpreted to be due to the elimination of the adsorbed MMA species with the higher TMAAl supply by the recombination with the H atoms supplied from TMAAl."
+}

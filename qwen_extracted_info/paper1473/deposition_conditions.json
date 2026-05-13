@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The studied processes were Ir(acac)3/C0 O2 at 300 /C176C, Ir(acac)3/C0 O3, and Ir(acac)3/C0 O3/C0 H2 at 195 /C176C and for reference In(acac)3 /C0 H2Sa t 155 /C176C. Typically the pulse and purge times were 20 s."
+}

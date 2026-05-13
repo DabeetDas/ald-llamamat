@@ -1,0 +1,8 @@
+{
+  "target_material": "Antimony Telluride (SbTe)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Sb(NMe2)3", "Te(GeMe3)2"],
+  "temperature_range": "60 /compBC and higher for Sb(NMe2)3 decomposition; 120 /compBC for Te(GeMe3)2 stability",
+  "summary": "The study investigates the ALD mechanism for depositing SbTe thin films using Sb(NMe2)3 and Te(GeMe3)2 precursors. The process involves ligand-exchange reactions and thermal decomposition of Sb(NMe2)3 to control Sb content in the films. The reaction was verified using DFT calculations and in-situ QCM analysis.",
+  "evidence": "The mechanism underlying the deposition of SbTe films by alternating exposures to Sb(NMe2)3 and Te(GeMe3)2 was investigated. Sb(NMe2)3 and Te(GeMe3)2 were selected because they have very high vapor pressure and are free of Si, Cl, and O atoms in the molecules. The mechanism of deposition was proposed by density functional theory (DFT) calculation and was verified by in-situ quartz crystal microbalance (QCM) analysis."
+}

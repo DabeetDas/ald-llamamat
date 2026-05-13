@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "SH* + AlR3 → S*AlR3 + RH;",
+    "AlR3 + H2S → AlSH* + RH;"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves two half-reactions: the first is the reaction between surface-bound sulfur (SH*) and trimethylaluminum (AlR3), resulting in the formation of surface-bound aluminum sulfide (S*AlR3) and the release of methyl groups (RH). The second half-reaction involves the reaction between surface-bound aluminum (AlR3) and hydrogen sulfide (H2S), resulting in the formation of surface-bound aluminum sulfide (AlSH*) and the release of methyl groups (RH).",
+  "intermediate_species": [
+    "surface-bound sulfur (SH*)",
+    "surface-bound aluminum (AlR3)",
+    "surface-bound aluminum sulfide (S*AlR3)",
+    "surface-bound aluminum sulfide (AlSH*)"
+  ],
+  "evidence": "Following the zinc sulfide (ZnS) ALD reaction chemistry, where diethylzinc (DEZ) and H2S were used as the ALD precursors, the proposed deposition chemistry of aluminum sulfide could be written similarly in two separate surface limited half-reactions, as follows: SH* + AlR3 → S*AlR3 + RH; (1) AlR3 + H2S → AlSH* + RH; (2) where \"*\" denotes the surface species and R denotes the methyl group."
+}<|im_end|>

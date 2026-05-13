@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnS",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "ZnCl2",
+    "H2S"
+  ],
+  "temperature_range": "450–530°C",
+  "summary": "The study investigates the growth of ZnS using atomic layer epitaxy (ALE) with ZnCl2 and H2S as precursors. The process involves alternating pulses of ZnCl2 and H2S, with desorption of ZnCl2 significantly affecting the growth. Real-time mass spectrometry is used to monitor surface dynamics and reaction phases, showing that the growth is relatively insensitive to reactant dosing. The study highlights the importance of controlling purge times and the role of temperature in the desorption of ZnCl2.",
+  "evidence": "The desorption of ZnCI2 was found to affect the growth most. Real time mass spectrometry is shown to be a powerful measurement technique for studying surface dynamics, because the step by step growth in ALE separates the reaction phases from each other. The experiments were carried out at substrate temperature between 450 and 530°C."
+}

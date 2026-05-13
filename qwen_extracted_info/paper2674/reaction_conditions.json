@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "TMA + SH* -> CH4 + AlCH3*",
+    "H2S + AlCH3* -> CH4 + SH*",
+    "SHx + AlCH3* -> H2S + SH* + CS2"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites. During plasma enhanced ALD, SHx ions and radicals react with surface groups to form SH* groups, H2S, and CS2 as reaction products.",
+  "intermediate_species": [
+    "AlCH3*",
+    "SH*",
+    "CS2"
+  ],
+  "evidence": "During the plasma enhanced ALD process, SHx ions and radicals react with /C0 AlCH/C3 groups to form –SH* groups, H2S, and CS2. The reaction mechanism was investigated by mass spectrometry measurements, which showed the presence of CS2 as a reaction product."
+}

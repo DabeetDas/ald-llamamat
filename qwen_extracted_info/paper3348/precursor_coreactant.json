@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Zirconium t-butoxide",
+    "Titanium iso-propoxide"
+  ],
+  "coreactants": [
+    "Water vapor"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Zirconium t-butoxide (Zr(OC(CH3)3)4) and titanium iso-propoxide (Ti(i-OC3H7)4) were used as sources of Zr and Ti. Water vapor with the flow rate of 5 sccm was used as an oxidant. N2 was used as a carrier gas and Ar gas was used for purging."
+}

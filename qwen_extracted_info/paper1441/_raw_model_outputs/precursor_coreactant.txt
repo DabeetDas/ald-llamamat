@@ -1,0 +1,7 @@
+{
+  "precursors": ["WF6", "Si2H6", "Al(CH3)3", "H2O"],
+  "coreactants": ["Si2H6", "H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "ALD of tungsten was performed using alternating exposures of WF6 and Si2H6. ALD of Al2O3 was performed using alternating exposures of Al(CH3)3 and H2O. Pure nitrogen from Air Gas Inc. [99.999%, ultrahigh purity (UHP)] was used as the viscous flow carrier gas."
+}<|im_end|>

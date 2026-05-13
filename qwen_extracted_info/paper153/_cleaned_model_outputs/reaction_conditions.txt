@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [
+    "M /C0 ! e/C0 ;O M/C3 /C0! O MOn"
+  ],
+  "surface_mechanism_description": "The first component of growth is identical to ALD, relying on precursor absorption during the plasma-off step, and subsequent oxidation by O atoms during the plasma-on step. The second component is analogous to PECVD, with deposition occurring through plasma-activated intermediates (M /C3 ) produced at the initiation of each plasma pulse.",
+  "intermediate_species": [
+    "M/C3"
+  ],
+  "evidence": "The detailed chemistry occurring at the start of each plasma pulse will be very complex, but conceptually we proposed that oxidation of an organometallic precursor such as TMA proceeds through reactions in series, as shown in Equation 1. Upon plasma ignition the original precursor (M) is rapidly decomposed to form the reactive intermediate(s) (M /C3 ) responsible for growth."
+}

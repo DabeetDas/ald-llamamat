@@ -1,0 +1,7 @@
+{
+  "precursors": ["BiPh3", "VTIP"],
+  "coreactants": ["H2O", "ROH"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ALD growth of bismuth vanadates (BVO) has not yet enabled phase pure scheelite due to limited stoichiometry control. We briefly note that bismuth vanadates are a class of compounds with various Bi:V ratios. The prior report of ALD BVO utilized triphenyl bismuth (BiPh3), vanadium triisopropoxy oxide (VTIP), and water."
+}

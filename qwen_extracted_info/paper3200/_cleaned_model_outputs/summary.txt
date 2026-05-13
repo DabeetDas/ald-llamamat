@@ -1,0 +1,8 @@
+{
+  "target_material": "LiOH and Li2CO3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Lithium t-butoxide", "H2O", "CO2"],
+  "temperature_range": "225°C",
+  "summary": "The study describes the atomic layer deposition (ALD) of LiOH and Li2CO3 using lithium t-butoxide, H2O, and CO2 as precursors. The process was carried out at 225°C, and the films were characterized using quartz crystal microbalance, Fourier transform infrared spectroscopy, and X-ray photoelectron spectroscopy. The ALD of these materials is proposed as a method to create an artificial solid-electrolyte interphase (SEI) layer on graphite anodes in Li-ion batteries to improve their performance.",
+  "evidence": "Atomic layer deposition (ALD) wa s utilized to grow LiOH and Li2CO3 films using lithium tert-butoxide, H2O and CO2. Film growth was monitored with a quartz crystal microbalance at 225°C. The ALD of an artificial SEI layer may limit lithium loss and improve the capacity stability during charge-discharge cycles. The LiOH and Li2CO3 films were grown in a viscous flow ALD reactor that has been described elsewhere. The reaction was monitored in situ with a Maxtek, Inc. BSH-150 quartz crystal microbalance (QCM). The LTB source was held at 165 °C and the reactor was maintained at 225 °C."
+}

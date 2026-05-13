@@ -1,0 +1,13 @@
+{
+  "target_material": "Lanthanum-zirconate (LaxZryOz) and lanthanum-aluminate (La xAlyOz) based high-κ dielectrics",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Tris-(bis-(trimethylsilyl)amid)lanthanum (La(N(SiMe3)2)3)",
+    "Tetrakis(diethylamino)zirconium ([N(CH2CH3)2]4Zr)",
+    "Trimethylaluminium ((CH3)3Al)",
+    "Water (H2O)"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study presents an ALD process for depositing ternary oxides such as La xAlyOz and LaxZryOz at low temperatures (250 °C) to create high-κ dielectric stacks for future CMOS technology. The process involves combining these oxides with ALD-grown Al2O3 to fabricate various high-κ dielectric stacks. The purpose is to evaluate the electrical properties and thermodynamic stability of these materials on silicon and germanium substrates, with a focus on minimizing leakage currents and interface charges by sandwiching a thin layer of LaxZryOz between Al2O3 layers.",
+  "evidence": "We present an atomic layer deposition (ALD)-process scheme that allows us to deposit ternary oxides such as La xAlyOz and LaxZryOz at low process temperatures of 250 °C. We combine these oxides with ALD-grown Al 2O3 to fabricate various high-κ dielectric stacks. By means of metal gate / high-κ oxide / semiconductor capacitors we evaluate these materials regarding their electrical properties and thermodynamic stability on silicon and germanium substrates. Concerning the silicon substrates, we observe that superior electrical characteristics are achieved if a thin layer of La xZryOz is sandwiched between two about 1 nm thick Al 2O3 layers. By this approach, hydroxylation of the La-containing oxides is suppressed, minimizing leakage currents as well as oxide- and interface charges."
+}<|im_end|>

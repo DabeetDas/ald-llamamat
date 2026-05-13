@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "Hf/H20851N/H20849C2H5/H20850/H20849CH3/H20850/H208524"
+  ],
+  "coreactants": [
+    "plasma-activated NH3",
+    "O2"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The cycle times used for HfO xNy films were 0.7/1.5–1.5/0.2–1/2 s for the sequence Hf precursor pulse/purge–plasma-activated NH3 plasma pulse/purge–O2 pulse/purge."
+}

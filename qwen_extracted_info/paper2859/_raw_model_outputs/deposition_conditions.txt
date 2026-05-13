@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "350mTorr",
+  "precursor_pulse_time_s": "0.2",
+  "coreactant_pulse_time_s": "0.2",
+  "purge_time_s": "8",
+  "number_of_cycles": "100",
+  "reactor_type": "PPALD",
+  "evidence": "Figure 1. Sequences of reactant gas exposures for pulse plasma enhanced atomic layer deposition process."
+}<|im_end|>

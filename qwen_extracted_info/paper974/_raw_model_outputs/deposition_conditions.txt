@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 28,
+  "number_of_cycles": 870,
+  "reactor_type": "viscous flow reactor",
+  "evidence": "The devices were placed in the ALD viscous flow reactor and were coated at either 100 or 177 ◦C with pure Al 2O3 or Al2O3/ZnO alloys. ... A typical ALD cycle including precursor exposures and nitrogen purges takes 28 s."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth process involves a two-step mechanism where both water and ozone contribute to the growth. The requirement of both ozone and water implies that there is a need for both a radical reaction mechanism and a hydroxylation of phosphate groups for further growth. The net growth during the ozone and water pulses is negative when kept separate, but becomes positive when pulsed together. This suggests that the resulting surface termination is more suitable for continued growth.",
+  "intermediate_species": [
+    "oxygen radicals",
+    "phosphate groups",
+    "surface hydroxyls"
+  ],
+  "evidence": "The requirement of both ozone and water implies that there is need for both a radical reaction mechanism and a hydroxylation of phosphate groups for further growth. The net growth during the ozone and water pulses is negative when kept separate, but becomes positive when pulsed together. This suggests that since water is involved in all experiments, both the two separate underlying mechanisms required for growth are either supported by an ozone/water mix, or that the resulting surface termination is more suitable for continued growth."
+}

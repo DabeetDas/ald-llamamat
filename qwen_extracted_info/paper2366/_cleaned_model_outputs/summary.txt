@@ -1,0 +1,8 @@
+{
+  "target_material": "MnO2",
+  "process_type": "ALD",
+  "main_precursors": ["Mn(thd)", "ozone"],
+  "temperature_range": "186 °C",
+  "summary": "Manganese oxide films were grown on single crystal α-Al2O3 substrates using atomic layer deposition (ALD). The films were found to consist of an ordered version of the hexagonal α-MnO2 (Akhtenskite) type. The films are epitaxial with a specific orientation relative to the Al2O3 substrate. The study aimed to determine the structure of MnO2 films grown on α-Al2O3 substrates.",
+  "evidence": "Manganese oxide films were grown using the ALD method... The films were found to consist of an ordered version of the hexagonal α-MnO2 (Akhtenskite) type. The films are epitaxial with a specific orientation relative to the Al2O3 substrate."
+}

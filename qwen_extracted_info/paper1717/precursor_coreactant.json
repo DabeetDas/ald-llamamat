@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "ferrocene",
+    "3-aminopropyltriethoxysilane"
+  ],
+  "coreactants": [
+    "ozone",
+    "water"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "Atomic layer deposition of Fe2O3 and SiO2 is performed in a Savannah 100 Reactor by Cambridge Nanotech according to the published procedures from ferrocene and ozone 19 and from 3-aminopropyltriethoxysilane, water, and ozone,20 respectively."
+}

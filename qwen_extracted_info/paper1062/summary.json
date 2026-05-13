@@ -1,0 +1,11 @@
+{
+  "target_material": "Titania",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "80 °C",
+  "summary": "The study investigates the adhesion of atomic layer deposited titania films on polycarbonate substrates, both untreated and water-plasma-treated. The process parameters were optimized for temperature-sensitive substrates, and the adhesion was evaluated through in situ microtensile testing. The water plasma treatment significantly improved the adhesion, as evidenced by increased interfacial fracture energy.",
+  "evidence": "The titania films were deposited at 80 °C on the as-received and water-plasma-treated polycarbonate substrates and silicon wafers... The in situ observations indicated different interfacial behaviour between water-plasma-treated and non-treated samples. It is shown that the water plasma treatment drastically improves the adhesion of the titania film to polycarbonate. Calculations show that the fracture energy required for film debonding in the plasma-treated polycarbonate is 5.9 J/m² compared to 2.5 J/m² for the untreated sample."
+}

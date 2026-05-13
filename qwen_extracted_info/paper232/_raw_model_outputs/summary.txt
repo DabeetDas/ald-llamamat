@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "ALD",
+  "main_precursors": ["molybdenum chloride (MoCl5)", "hexamethyldisilathiane (HMDST)"],
+  "temperature_range": "300 °C",
+  "summary": "The paper describes the synthesis of wafer-scale MoS2 thin films using atomic layer deposition (ALD) for the fabrication of n-type inverter arrays. The ALD process involves the use of molybdenum chloride (MoCl5) and hexamethyldisilathiane (HMDST) as precursors, with a deposition temperature of 300 °C. The films are annealed at 900 °C to improve crystallinity. The resulting MoS2 films exhibit excellent crystallinity, uniformity, and are used to fabricate n-type inverters with a fast response frequency of 50 Hz. The study highlights the potential of ALD-synthesized MoS2 for large-scale logic circuit applications.",
+  "evidence": "The paper describes the synthesis of wafer-scale MoS2 thin films using atomic layer deposition (ALD) for the fabrication of n-type inverter arrays. The ALD process involves the use of molybdenum chloride (MoCl5) and hexamethyldisilathiane (HMDST) as precursors, with a deposition temperature of 300 °C. The films are annealed at 900 °C to improve crystallinity. The resulting MoS2 films exhibit excellent crystallinity, uniformity, and are used to fabricate n-type inverters with a fast response frequency of 50 Hz. The study highlights the potential of ALD-synthesized MoS2 for large-scale logic circuit applications."
+}<|im_end|>

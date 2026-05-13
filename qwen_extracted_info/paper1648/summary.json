@@ -1,0 +1,11 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Zr(NMe2)4",
+    "H2O"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The study reports the use of atomic layer deposition (ALD) to passivate surface trap states in mesoporous TiO2 nanoparticles for solid-state dye-sensitized solar cells (DSCs). ZrO2 films were deposited with angstrom-level precision, leading to a significant enhancement in short-circuit current density and power conversion efficiency by reducing recombination losses at the TiO2/spiro-OMeTAD interface.",
+  "evidence": "By depositing ZrO2 films with angstrom-level precision, coating the mesoporous TiO2 produces over a two-fold enhancement in short-circuit current density, as compared to a control device. Impedance spectroscopy measurements provide evidence that the ZrO2 coating reduces recombination losses at the TiO2/spiro-OMeTAD interface and passivates localized surface states."
+}

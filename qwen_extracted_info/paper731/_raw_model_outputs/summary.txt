@@ -1,0 +1,8 @@
+{
+  "target_material": "Indium Oxide (In2O3)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["tris(1-dimethylamino-2-methyl-2-propoxy)indium (In(dmamp)3)", "O3"],
+  "temperature_range": "150–200 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of indium oxide (In2O3) thin films using a novel liquid indium complex, tris(1-dimethylamino-2-methyl-2-propoxy)indium (In(dmamp)3), and ozone (O3) as the oxidant. The process was carried out at temperatures ranging from 150 to 200 °C, resulting in high-quality In2O3 films with low resistivity, high Hall mobility, and minimal impurities. The self-limiting surface reactions and uniform film growth were confirmed through various characterization techniques.",
+  "evidence": "The self-limiting surface reaction of In2O3 during ALD was demonstrated by varying the In(dmamp)3 and O3 pulse lengths, with a growth rate of 0.027 nm/cycle achieved at 200 °C. The In2O3 films grown at temperatures over 175 °C exhibited negligible concentrations of impurities, whereas that grown below 175 °C had concentrations of residual C of 6 –8 at.%. The In2O3 films grown at 150 –200 °C exhibited carrier concentrations of 1.5×1018–6.6×1019 cm-3, resistivities of 2×10-3–15.1 Ω·cm, and Hall mobilities of 0.8–42 cm2/(V·s)."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of tetrakis(dimethylamino)germanium (TDMAGe) as a precursor for GeO2 growth, with ozone (O3) as the oxidizer. The growth process uses a thermal ALD method, where the precursor and oxidizer are alternately pulsed and purged. The reaction is optimized to ensure proper intermixing between SiO2 and GeO2 without post-annealing, as these materials phase separate upon heating. The growth parameters, such as temperature and pulse lengths, are adjusted to maintain a consistent growth per cycle (GPC) and to minimize precursor decomposition effects.",
+  "intermediate_species": ["TDMAGe", "surface hydroxyls", "ozone", "GeO2 sublayers", "SiO2 sublayers"],
+  "evidence": "The text describes the use of TDMAGe as a precursor for GeO2 growth with ozone as the oxidizer in thermal ALD. It mentions the optimization of growth parameters to ensure proper intermixing between SiO2 and GeO2 without post-annealing, as these materials phase separate upon heating. The reaction mechanism is discussed in the context of the ALD process, with the use of ozone as the oxidizer and the adjustment of pulse lengths and temperatures to maintain consistent growth per cycle (GPC) and minimize precursor decomposition effects."
+}

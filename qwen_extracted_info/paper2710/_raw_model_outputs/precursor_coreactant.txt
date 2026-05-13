@@ -1,0 +1,7 @@
+{
+  "precursors": ["Aluminum tri-isopropoxide (TIPA)"],
+  "coreactants": ["H2O", "oxygen plasma", "water plasma", "ozone"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The TIPA precursor vapor was carried into the reactor by Ar carrier gas. The precursor was replaced after being heated in the bubbler for about 24 h. The ALD process consisted of sequential exposures of the Si substrates or nanoparticle powders to the Al precursor (5 –240 s) and water or ozone (40 s), separated by a purging step (3 –4 min) using nitrogen as an inert gas (N2, 99.999 vol. %)."
+}<|im_end|>

@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Zn(eeki)2",
+    "Zn(epki)2",
+    "Zn(dapki)2"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The text states: 'The mix of a low melting point in conjunction with high volatility is a desirable combination for the implementation of a precursor for ALD. Therefore the deposition of ZnO thin films by ALD was studied using [Zn(eeki)2] as the metal and water as the oxygen sources, respectively, over a temperature range of 150–300 °C.'"
+}

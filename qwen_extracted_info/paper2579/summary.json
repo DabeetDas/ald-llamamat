@@ -1,0 +1,11 @@
+{
+  "target_material": "polydimethylsiloxane (PDMS)",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum",
+    "water"
+  ],
+  "temperature_range": "25–50 °C",
+  "summary": "The study investigates the use of atomic layer deposition (ALD) to modify the surface properties of polydimethylsiloxane (PDMS) by coating it with aluminum oxide. The ALD process uses trimethylaluminum and water as precursors at low temperatures (25–50 °C). The resulting aluminum oxide coating alters the surface hydrophobicity of PDMS, making it more hydrophilic immediately after deposition. However, the hydrophilic state is not stable over time, as the surface becomes more hydrophobic again due to the diffusion of organic species from the PDMS bulk through defects in the ALD coating. The study also examines the effects of different surface treatments and the impact of ALD on surface texture and wetting behavior.",
+  "evidence": "The authors find that trimethylaluminum/water ALD can produce a smooth and uniform film coating on PDMS at 25–50 °C and that cracks become visible under optical microscopy for films /H11022100 Å thick. Aluminum oxide coatings on native PDMS, as well as on PDMS pretreated with UV ozone or oxygen plasma, show a hydrophilic surface condition immediately after deposition, but the surface becomes more hydrophobic after 24–48 h in ambient air or under inert gas storage, likely due to organic species out-diffusion through defects in the ALD coating."
+}

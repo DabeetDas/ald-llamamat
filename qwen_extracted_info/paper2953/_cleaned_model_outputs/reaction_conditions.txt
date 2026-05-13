@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The O3-SiO2 layer formed during ALD acts as a barrier to Si oxidation, reducing the interfacial layer thickness and preventing the formation of a nonuniform interfacial layer. This results in a more uniform and stable HfO2 film with reduced leakage current and improved interface properties.",
+  "intermediate_species": ["SiO2", "HfO2", "Hf-carbonate", "Hf-silicate"],
+  "evidence": "The text discusses the formation of an O3-SiO2 layer during ALD, which acts as a barrier to Si oxidation. It also mentions the presence of HfO2, Hf-carbonate, SiO2, and Hf-silicate as chemical species formed during the process. The interfacial layer (IL) is described as being composed of SiO2 and SiO22x, and the reaction between SiO2 and HfO2 layers after annealing forms Hf-silicate."
+}

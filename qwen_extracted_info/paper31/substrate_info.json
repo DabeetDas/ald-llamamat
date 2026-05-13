@@ -1,0 +1,7 @@
+{
+  "substrate_material": "Silicon",
+  "substrate_orientation": "",
+  "pretreatment": "Piranha treatment followed by a 2 min dilute HF (2 % HF) etch",
+  "surface_functionalization": "Hydroxylated the hydrophilic dielectric surface",
+  "evidence": "Piranha treatment (volume ratio of concentrated H2SO4/H2O2 7:3) followed by a 2 min dilute HF (2 % HF) etch was performed on the patterned sample. This treatment removed the native oxide from the \"bare\" silicon, replacing it with hydride termination (Si–H), leaving hydroxylated SiO in the SiO2-patterned regions."
+}

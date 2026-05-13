@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Sr(thd)"
+  ],
+  "coreactants": [
+    "H2O",
+    "H2S"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The Sr(thd), source chemical was synthesized as described earlier,12 and its purity and volatility were routinely checked for each batch by X-ray diffraction (XRD), differential scanning calorimetry (DSC) and TG/DTA. H20 or H2S were used as the other source materials. Argon was used as the carrier gas. Its pressure measured at the reactor outlet was kept at 150-200 Pa while the flow rate was 4m s-l inside the reactor tube."
+}

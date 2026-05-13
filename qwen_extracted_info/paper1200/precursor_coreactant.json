@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "RE(iPrCp)2(iPr-amd)"
+  ],
+  "coreactants": [
+    "H2O",
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Nitrogen (AGA 99.999% H2O ≤ 3 ppm, O2 ≤ 3 ppm) was used as the carrier and purging gas."
+}

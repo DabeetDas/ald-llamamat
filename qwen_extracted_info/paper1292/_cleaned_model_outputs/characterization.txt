@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray reflection (XRR)",
+    "X-ray diffractometer (XRD)",
+    "Atomic force microscopy (AFM)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Four-point-probe measurements",
+    "High-resolution transmission electron microscopy (HRTEM)",
+    "Secondary ion mass spectrometry (SIMS)",
+    "Electrical breakdown characteristics measurement"
+  ],
+  "evidence": "The film thickness and density were characterized by means of X-ray reflection (XRR), and the film texture was measured on an X-ray diffractometer (Bruker D8 Discover) with grazing incidence and Cu Kα radiation. Atomic force microscopy (AFM) was used to disclose the surface morphology of the film, which was performed on an atomic force microscope (Bruker Icon). X-ray photoelectron spectroscopy (XPS) was employed to analyze the elemental compositions and chemical bonds of the films, which was carried out on an X-ray photoelectron spectrometer (Kratos Axis Ultra DLD) with a high vacuum of 5 × 10^-10 mbar. The sheet resistance and resistivity of the film were deduced with the aid of four-point-probe measurements. The electrical breakdown characteristics of different Mo (20nm)/ Cu (30nm)/ barrier/ SiO2 (10nm)/ Si structures were monitored on a semiconductor device analyzer (B1500A, Agilent Technologies). The cross-section image and elemental distribution were measured by high-resolution transmission electron microscopy (HRTEM) (FEI Talos F200X). The depth profiles of the O, Ni, Mn, and Si elements were characterized by secondary ion mass spectrometry (SIMS)."
+}

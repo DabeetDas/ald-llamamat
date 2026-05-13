@@ -1,0 +1,11 @@
+{
+  "target_material": "W (Tungsten)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "WF6",
+    "Si2H6"
+  ],
+  "temperature_range": "122 °C",
+  "summary": "The study investigates the nucleation and growth of tungsten (W) atomic layer deposition (ALD) on hydroxylated Al2O3 surfaces and Al2O3 ALD on fluorinated W surfaces. The process involves alternating exposures of WF6 and Si2H6, with the nucleation period and surface roughness dependent on precursor exposures. The W ALD growth exhibits oscillations in mass gain per cycle, attributed to island nucleation and growth, and the results are compared with simulations of ALD nucleation.",
+  "evidence": "The study discusses the use of WF6 and Si2H6 as precursors for W ALD on hydroxylated Al2O3 surfaces. The temperature range is specified as 122 °C. The nucleation period and surface roughness are influenced by precursor exposures, and the oscillations in mass gain per cycle are observed, indicating island nucleation and growth. The process is described as thermal ALD."
+}

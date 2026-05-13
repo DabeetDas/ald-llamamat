@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "DEZn"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "In this study, a ZnO buffer layer was deposited by ALD technique using modified CVD system. Diethlyzinc (DEZn) and H2O were used as zinc source and oxygen source, respectively. These source gases were alternately fed into the chamber with argon (Ar) carrier gas."
+}

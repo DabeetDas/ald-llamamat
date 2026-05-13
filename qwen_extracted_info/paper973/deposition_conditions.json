@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-450",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The effect of various ALD coating temperatures (150–450 ◦C) and ﬁlm thicknesses (3–102 nm) were tested."
+}

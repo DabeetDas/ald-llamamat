@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": "0.5",
+  "purge_time_s": "10",
+  "number_of_cycles": "200",
+  "reactor_type": "traveling wave-type thermal ALD reactor (Lucida-D100, NCD Technology, Korea)",
+  "evidence": "From the text: 'From these results, one Ru ALD unit cycle was set as IMBCHRu pulse (5 s) – N2 purge (10 s) – O2 pulse (0.5 s) /C0 N2 purge (10 s), and one Al2O3 ALD unit cycle was set as TMA (0.2 s) pulse /C0 N2 purge (10 s) /C0 H2O pulse (0.2 s) /C0 N2 purge (10 s) for preparing a RuAlO film, and various RuAlO thin films could be prepared with a different number of Ru and Al2O3 unit cycles as shown schematically in Fig. 2a.'"
+}

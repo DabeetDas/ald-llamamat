@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150 and 200",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "Eight cycles",
+  "reactor_type": "stainless steel sample tray covered with a mesh",
+  "evidence": "For ALD coating on particles, LiCoO2 powder (Sigma-Aldrich, USA) was loaded into a customized stainless steel sample tray covered with a mesh to allow facile precursor diffusion and to keep the powders in the holder. Eight cycles of TMA −N2−H2O−N2 or four cycles of TMA −N2−WF6−N2 were used to deposit 1 nm coatings of Al2O3 or AlWxFy, respectively, on the powders or the laminates."
+}

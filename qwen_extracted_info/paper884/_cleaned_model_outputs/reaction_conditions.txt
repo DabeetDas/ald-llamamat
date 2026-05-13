@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "A sub-monolayer of Nb2O5 is formed during each Nb dosing cycle while a nearly complete monolayer of Al2O3 is prepared during each Al dosing cycle with little hindrance.",
+  "intermediate_species": ["Nb2O5", "Al2O3"],
+  "evidence": "The number of niobium atoms in each cycle is too low to form a full covered monolayer of Nb2O5. A sub-monolayer of Nb2O5 is then formed during each Nb dosing cycle while a nearly complete monolayer of Al2O3 is prepared during each Al dosing cycle with little hindrance."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "PEALD",
+  "main_precursors": ["Al2O3"],
+  "temperature_range": "up to 300 °C",
+  "summary": "The study describes the use of Ni(III)/(IV) bis(dicarbollide) as a noncorrosive redox shuttle for dye-sensitized solar cells (DSCs). The redox shuttle's performance is enhanced by conformal atomic layer deposition (ALD) of Al2O3 on the TiO2 framework, which suppresses dark currents and improves photovoltaic performance. The ALD process is used to passivate the TiO2 surface, reducing electron interception and increasing the open-circuit voltage (Voc) and power conversion efficiency.",
+  "evidence": "Previous DSC Fc/Fc + couple work showed that dark currents can be suppressed by TiO2 surface passivation via conformal, Å-precise atomic layer deposition (ALD) of Al2O3.12,13 We show here that the efﬁcacious combination of the 3/4 couple and TiO2 ALD passivation yields DSC devices having impressively high efﬁciencies for these fast shuttles."
+}<|im_end|>

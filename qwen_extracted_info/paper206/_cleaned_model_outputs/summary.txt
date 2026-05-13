@@ -1,0 +1,8 @@
+{
+  "target_material": "scandium-based oxides (Sc2O3, GdxSc2O3, AlxSc2O3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Sc(MeCp)3", "Gd(iPrCp)3", "TMA", "H2O"],
+  "temperature_range": "300 8C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of scandium-based oxides, specifically Sc2O3, GdxSc2O3, and AlxSc2O3, as potential high-k intergate dielectrics (IGD) for hybrid floating gate (HFG) NAND flash technology. The ALD process uses Sc(MeCp)3, Gd(iPrCp)3, TMA, and H2O as precursors. The composition of the ternary oxides is varied by adjusting the ratio of the ALD cycles of the binary oxides. The study reports on the growth behavior, physical properties, and electrical characteristics of these materials, highlighting their potential for HFG applications due to their high k-values and breakdown fields.",
+  "evidence": "GdxSc2/C0 xO3 and AlxSc2/C0 xO3 have been investigated as potential high-k intergate dielectric (IGD) in planar NAND flash technology, such as hybrid floating gate (HFG). We have examined the atomic layer deposition (ALD) of Sc2O3, GdxSc2/C0 xO3, and AlxSc2/C0 xO3 on Si using Sc(MeCp)3, Gd(iPrCp)3, TMA, and H2O as precursors."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Lu silicate films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["[(Me3Si)2N]3Lu", "H2O or O3"],
+  "temperature_range": "230-380 °C",
+  "summary": "The study investigates the molecular structure of [(Me3Si)2N]3Lu and its use as a precursor for depositing Lu silicate films via ALD. The agostic interaction between Lu and Si in the precursor contributes to Si incorporation in the films. The process uses either H2O or O3 as oxygen sources, and the Si/Lu ratio varies with temperature. The results suggest that precursor decomposition and agostic interactions are key factors in Si incorporation, and O3 as an oxygen source provides more consistent stoichiometry over a broad temperature range.",
+  "evidence": "The performance of [(Me3Si)2N]3Lu as precursor to deposit Lu silicate layers by atomic layer deposition using either H2O or O3 as oxygen source is studied. Si incorporation in the films is revealed: [(Me3Si)2N]3Lu thermal decomposition and the mentioned agostic interaction contribute both to the phenomenon. The electronic density values decrease from about 1.45 to 0.9 e/A˚3 as Tg increases from 230 to 380 °C in films deposited using H2O both on Si(100) and on Ge(100). Finally, we might conclude that O3 as oxygen source is better than H2O to fabricate Lu silicate films by ALD using [(Me3Si)2N]3Lu, mainly because of the constant film stoichiometry over a broad Tg range (230-380 °C)."
+}

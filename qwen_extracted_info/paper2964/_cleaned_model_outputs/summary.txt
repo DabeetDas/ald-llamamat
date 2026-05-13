@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu",
+  "process_type": "Plasma-assisted ALD (PA-ALD)",
+  "main_precursors": ["CuII(tmhd)2", "Hydrogen plasma"],
+  "temperature_range": "60-400°C",
+  "summary": "The study describes plasma-assisted atomic layer deposition (PA-ALD) of copper (Cu) using CuII(tmhd)2 and an inductively coupled hydrogen plasma on metallic and dielectric surfaces. The process is self-limiting between 90-250°C and nonselective on SiO2, Au, and TaNx. The results show that PA-ALD enables conformal Cu deposition without a seed layer, with a growth rate of 2.2 Å/cycle. Thermal ALD using CuII(tmhd)2 and H2 was found to be slow and non-self-limiting above 250°C.",
+  "evidence": "Plasma-assisted atomic layer deposition ~ALD! of Cu, via Cu II(tmhd) 2 (tmhd 5 tetramethyl-3,5-heptanedionate) and an inductively coupled hydrogen plasma, is shown on metallic and dielectric surfaces. Nonselective deposition was achieved on SiO 2 , Au, and TaNx in a temperature range between 60 and 400°C. Deposition was self-limiting from ;90 to 250°C. A novel method to determine self-limiting behavior of the ﬁrst half-reaction is presented; it is determined by pulsing the precursor once, for a long time, and the resulting growth is measured by Rutherford backscattering spectrometry. Further, saturation curves for plasma-assisted ALD of each half-reaction and as a function of purging time were also determined. In contrast, thermal ALD via Cu II(tmhd) 2 and H 2 was attempted and was very slow within the self-limiting temperature range."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [
+    "Cu(hfac)2 + H2O -> Cu + hfac + H2O*"
+  ],
+  "surface_mechanism_description": "The mechanism involves the reduction of Cu(hfac)2 on the substrate surface, where the precursor is reduced to Cu1+ by the conductivity and density of donor defects in the ZnO substrate. When the conductivity of ZnO and density of donor defects are high enough, Cu1+ is further reduced into metallic Cu. In contrast, when ZnO of low conductivity/low-density-of-donor-defects is used as substrate, Cu remains as Cu1+ to form Cu2O. The epitaxial relationship between the film and substrate also plays a role in the growth of Cu2O.",
+  "intermediate_species": [
+    "Cu1+"
+  ],
+  "evidence": "The mechanism for Cu(hfac)2 adsorption at the first ALD step is the same as proposed by Cohen et al. on Ag substrates: Cu(hfac)2 is adsorbed as Cu(I)‡hfac intermediate and hfac. This first reduction of the precursor to Cu1+ is possibly due to the conductivity/density of donor defects of the ZnO substrate. When the conductivity of ZnO and density of donor defects are high enough, Cu1+ is further reduced into metallic Cu. In this step, water is fundamental as proton source to form a volatile compound and to remove the hfac ligands from the surface. On the contrary, when ZnO of low conductivity/low-density-of-donor-defects is used as substrate and water is pulsed into the chamber, Cu remains as Cu1+ to form Cu2O."
+}

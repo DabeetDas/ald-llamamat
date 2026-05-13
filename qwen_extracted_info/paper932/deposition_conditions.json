@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "10 mBar",
+  "precursor_pulse_time_s": "400",
+  "coreactant_pulse_time_s": "500",
+  "purge_time_s": "500",
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall horizontal flow-type F120",
+  "evidence": "The HfO2 films used in this investigation were grown in a hot-wall horizontal flow-type F120 ALD reactor. The hafnium precursor HfCl4 was evaporated from an open boat at 160 /C176C inside the reactor. The pulse length of HfCl4 was 400 ms while the pulse length of water and purging periods were 500 ms. Nitrogen was used as the precursor carrier as well as the purge gas. The pressure in the reactor was about 10 mBar."
+}

@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "Transmission electron microscopy (TEM)",
+    "Atomic force microscopy (AFM)",
+    "Auger electron spectroscopy (AES)",
+    "Capacitance-voltage (C-V) measurement",
+    "Leakage current density-voltage (I-V) measurement"
+  ],
+  "evidence": "The crystallinity and microstructures of the films are studied by X-ray diffraction (XRD) and transmission electron microscopy (TEM). The surface roughness and the composition of the films were investigated by atomic force microscopy (AFM) and auger electron spectroscopy (AES), respectively. Capacitance-voltage and leakage current density-voltage measurements on 100× 100µm2 capacitors were performed using an HP4194A impedance/gain-phase analyzer and a Kethley 617 programmable electrometer, respectively."
+}

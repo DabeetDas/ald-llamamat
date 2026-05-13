@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Grazing incidence X-ray diffraction (GIXRD)",
+    "High-resolution transmission electron microscopy (HRTEM)",
+    "Ellipsometry",
+    "Sputter profiling",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Four-point probe",
+    "C-V measurement",
+    "Leakage current–voltage (I–V) measurements",
+    "Capacitance–voltage (C–V) measurement"
+  ],
+  "evidence": "It was observed by x-ray photoelectron spectroscopy depth profiling that at 275◦C deposition temperature the oxygen content at and beyond the ZrO2/TiN interface is higher than at lower deposition temperatures, most probably due to oxygen inter-diffusion towards the electrode layer, forming a mixed TiN–TiOxNy interface layer. The crystallographic structural analysis was performed by grazing incidence x-ray diffraction (GIXRD). The microstructure was also analysed after forming the complete MIM stack by HRTEM. Chemical composition and elemental depth distribution of ZrO2/TiN were analysed by x-ray photoelectron spectroscopy (XPS). The thicknesses of the ZrO2 layer were measured using ellipsometry calibrated by high resolution transmission electron microscopy (HRTEM). The electrical characterizations of ZrO2 MIM capacitors were carried out by a semiconductor parameter analyser (HP 4156A) and an LCR meter (HP 4284A) at 1 KHz. The temperature dependence of the leakage current was obtained by leakage current–voltage (I –V ) measurements under the temperature change from 25 to 150◦C with a step of 25 ◦C. A low temperature I–V measurement was executed using a cryostat with a helium cooling system. From the capacitance–voltage (C –V ) measurement we extracted the capacitance equivalent thickness (CET)."
+}

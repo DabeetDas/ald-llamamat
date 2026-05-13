@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethyl aluminum [Al(CH3)3, TMA]"],
+  "coreactants": ["water vapor"],
+  "purge_gas": [],
+  "carrier_gas": ["N2"],
+  "evidence": "The precursors were introduced to the ALD reactor using N2 as a carrier gas. The binary self-limiting chemical reactions between the gas-phase precursor molecules and a solid surface that define the Al2O3 growth are given by AlOH∗ + Al(CH3)3 → AlOAl(CH3)∗2 + CH4 (A) AlCH∗3 + H2O → AlOH∗ + CH4 (B)"
+}

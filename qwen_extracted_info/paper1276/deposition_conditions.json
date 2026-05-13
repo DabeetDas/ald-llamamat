@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 15,
+  "number_of_cycles": null,
+  "reactor_type": "hot wall viscous flow",
+  "evidence": "A custom-built hot wall viscous flow ALD reactor is used to deposit Cu:ZnS thin films at 150°C. The details of our customized ALD deposition setup along with in situ quartz crystal microbalance (QCM) assembly have been described elsewhere.39,40 Considering the Cu diffusion in most metal chalcogenides, the nano-laminate type growth of alternate ZnS and CuS layers is practiced to achieve efficient uniform incorporation in ZnS. Diethylzinc (DEZ, Sigma Aldrich Inc.) and Copper(II) hexafluoroacetylacetonate (Cu(hfac)2, Gelest Inc.) serve as the metal precursors for ZnS and CuS layers respectively, while hydrogen sulfide (H2S gas, 99.99% purity, Asia Advanced Gas, Hong Kong) is used as the chalcogen source. DEZ and H2S are stored at room temperature and dosed directly to the deposition chamber. To enable sufficient vapor pressure, Cu(hfac)2 is heated to ca. 95°C inside a vacuum sealed stainless steel container while an overhead N2 is used as the carrier gas. Overall pulsing sequence for both the ZnS and CuS ALD reactions is denoted as (n x t1 4 t2 4 m x t3 4 t4), where ‘n’ and ‘m’ represent the number of pulses of precursors in first and second half cycles respectively. Times ‘t1’ and ‘t3’ are the dosing times of precursors while ‘t2’ and ‘t4’ are the N2 purge times in the consecutive first and second half cycles."
+}

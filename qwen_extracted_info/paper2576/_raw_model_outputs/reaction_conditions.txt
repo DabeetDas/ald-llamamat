@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "TaN* + (CH3)3CNvTa(NC2H5)23 → TaN u (CH3)3CNvTa(NC2H5)23*",
+    "TaN u (CH3)3CNvTa(NC2H5)23* + 4H → TaNTaN* + HC(CH3)3 + 3HN(C2H5)2"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of TBTDET on the Al2O3 surface, followed by hydrogen radical exposure that removes diethylamine ligands, leading to the formation of tantalum nitride. The mechanism includes the dissociative adsorption of TBTDET on oxide surfaces and the subsequent removal of ligands by hydrogen radicals.",
+  "intermediate_species": [
+    "TaN*",
+    "(CH3)3CNvTa(NC2H5)23*",
+    "HC(CH3)3",
+    "HN(C2H5)2"
+  ],
+  "evidence": "The proposed surface reactions for tantalum nitride ALD using TBTDET and hydrogen radicals are as follows: TaN* + (CH3)3CNvTa(NC2H5)23 → TaN u (CH3)3CNvTa(NC2H5)23*, TaN u (CH3)3CNvTa(NC2H5)23* + 4H → TaNTaN* + HC(CH3)3 + 3HN(C2H5)2, where the asterisks indicate surface species."
+}<|im_end|>

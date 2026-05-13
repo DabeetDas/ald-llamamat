@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMA)", "diethyl zinc (DEtZn)", "titanium tetrachloride (TiCl4)"],
+  "coreactants": ["water (H2O)"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Al2O3, ZnO, and TiO2 were infiltrated into the opal templates by ALD using trimethylaluminum (TMA), diethyl zinc (DEtZn), and titanium tetrachloride (TiCl4), respectively, and water (H2O) as precursors. The chamber pressure during growth was kept at 10 Torr and a relatively slow flow of N2 carrier gas was maintained in the chamber. One ALD reaction cycle consisted of a 1 s exposure to TMA, DEtZn, or TiCl4 followed by a 20 s N2 purge, and a 1 s exposure to H2O vapor, followed another 20 s N2 purge."
+}<|im_end|>

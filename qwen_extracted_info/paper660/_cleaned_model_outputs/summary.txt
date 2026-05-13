@@ -1,0 +1,8 @@
+{
+  "target_material": "(Nb1-xTa_x)2O5 solid solutions and (Nb1-xTa_x)2O5-ZrO2 nanolaminates",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Nb(OC2H5)5", "Ta(OC2H5)5", "Xl4 (water vapor)"],
+  "temperature_range": "230-325°C",
+  "summary": "The study describes the deposition of (Nb1-xTa_x)2O5 solid solutions and (Nb1-xTa_x)2O5-ZrO2 nanolaminates using Atomic Layer Epitaxy (ALE). The films were grown on soda-lime glass substrates using metal ethoxides and water vapor as precursors. The amorphous films exhibited high permittivity and reduced leakage current, with the addition of ZrO2 interlayers significantly improving dielectric performance by reducing leakage current and increasing permittivity.",
+  "evidence": "Amorphous (Nb1-xTa_x)2O5 solid solution films and (Nb1-xTa_x)2O5-ZrO2 nanolaminates grown by Atomic Layer Epitaxy. The (Nbl_xTax)2O5 films exhibited 1.6-4 times higher permittivity than that of Ta2O5 films. Leakage currents through the (Nb1-xTax)2O5 films were reduced drastically by adding intermediate ZrO2 layers with thickness of 5-10 nm, i.e. by constructing nanolaminate structures."
+}

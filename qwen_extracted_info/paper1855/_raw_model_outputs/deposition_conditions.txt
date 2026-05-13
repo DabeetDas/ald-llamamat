@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 253,
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 6,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 30,
+  "number_of_cycles": 1600,
+  "reactor_type": "F-120",
+  "evidence": "Thermal ALD of Y2O3 was performed in a commercial F120 reactor (ASM Microchemistry Ltd) at 10 mbar on 2 inch Si(100) wafers. For the depositions, 300 mg of [Y(tBu2-famd)3] precursor was heated to 150 °C and the following optimized conditions were identified: precursor pulse/purge length: 6 s, 30 s, H2O pulse/purge length: 0.5 s, 60 s."
+}<|im_end|>

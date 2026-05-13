@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 0.2,
+  "coreactant_pulse_time_s": 2.0,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "Tantalum oxide films were grown onto 5  5 cm soda lime glass using a hot-wall flow-type F-120 ALE reactor (Microchemistry Ltd., Espoo, Finland). The total pressure in the reactor was about 10 mbar. ... The films grown at 250 and 325~ were stoichiometric within the accuracy of Rutherford backscattering spectrometry and contained 4 and 0.6 atom percent (a/o) hydrogen as determined by nuclear reaction analysis, respectively. ... The stabilization of the growth rate at 0.4 A/cycle with pulse times longer than 2.0 s is evident."
+}<|im_end|>

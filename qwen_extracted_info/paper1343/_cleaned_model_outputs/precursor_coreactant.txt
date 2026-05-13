@@ -1,0 +1,6 @@
+{
+  "precursors": ["TDMAT", "BDEAS", "SiH2(NEt2)2", "DSBAS", "SiH3N(sBu)2"],
+  "coreactants": ["O2", "Ar + H2", "N2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "precursor delivery Bubbled with 100 sccm Ar; plasma gas O2, Ar + H2

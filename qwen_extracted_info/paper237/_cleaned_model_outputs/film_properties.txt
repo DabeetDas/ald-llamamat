@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 17,
+  "density_g_cm3": 2.7e5,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.5,
+  "crystal_phase": "polycrystalline",
+  "evidence": "The thickness of the ZnO active layer was estimated from the high resolution transmission electron microscopy (HRTEM) images and the calculated deposition rate of the ALD system was approximately 0.14 nm/cycle at 150 ◦C. The electrical performance of transparent conductive oxide films grown by ALD strongly depends on the film thickness and the surface roughness. In particular, the ALD system for thin-film oxides has considerable advantages, such as film uniformity, precise thickness control, relatively low surface roughness, step coverage with layer-by-layer growth mode, etc. As shown in Fig. 1(b), the ZnO layers on the SiO2/Si substrates obtained by root mean square (RMS) value of AFM were quite rough in the initial growth stages up to 1.4 nm. Further increases in the film thickness decreased the surface roughness, even though the surface of these films is smoother than that of the films grown by sputtering. In particular, the average RMS value was approximately 0.5 nm at a film thickness of 25 nm. Additionally, the growth rate is saturated in the film thickness of≥17 nm, as shown in Fig. 1(b). This indicates that layer-by-layer growth in an ALD system also occurred after a certain thickness was reached. All ZnO films grown at 150 ◦C by ALD were polycrystalline, regardless of the film thickness."
+}

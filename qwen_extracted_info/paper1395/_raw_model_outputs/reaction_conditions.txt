@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ga-CH3 + H2O -> Ga-OH* + CH4",
+    "In-CH3 + H2O -> In-OH* + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between metal precursors (e.g., TMIn and TEGa) and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Ga-OH*",
+    "In-OH*",
+    "surface hydroxyls"
+  ],
+  "evidence": "It is more likely that, once a DEZ molecule has adsorbed and fragmented at the substrate surface, an activated transition state forms which is reactive enough to cause polarity-induced dissociation of the metal −ligand bond of a TMIn or TEGa molecule impinging on this reactive surface entity. The absence of carbon contamination from the bulk of InZnO and InGaZnO indicates that methyl groups bonded to In- and Ga-atoms are effectively removed from the surface of the film via a ligand exchange reaction with water molecules. A high Langmuir exposure to water ( ∼3 Torr·s) has been used to fully react the surface methyl groups."
+}<|im_end|>

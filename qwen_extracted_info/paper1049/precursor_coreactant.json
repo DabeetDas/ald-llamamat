@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Pb(dedtc) 2",
+    "Pb(thd) 2",
+    "Ph 4Pb"
+  ],
+  "coreactants": [
+    "ozone"
+  ],
+  "purge_gas": [
+    "Nitrogen (> 99.999%)"
+  ],
+  "carrier_gas": [
+    "Nitrogen (> 99.999%)"
+  ],
+  "evidence": "Pb(dedtc) 2, Pb(thd) 2 and commercial Ph 4Pb (Aldrich Chemical Co., 97%) were used as lead precursors. Nitrogen (> 99.999%) was prepared in a nitrogen generator (Nitrox UHPN 3000-1) for use as carrier and purging gas."
+}

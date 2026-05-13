@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMA)"],
+  "coreactants": ["N2/Ar plasma"],
+  "purge_gas": ["UHP Ar"],
+  "carrier_gas": ["UHP Ar"],
+  "evidence": "High-purity (99.999%) TMA pulses were added to 60 sccm flow of UHP Ar carrier gas via the metalorganic precursor line while 200 sccm of UHP Ar was introduced separately through the plasma source for AlN growth (note that during TMA pulses, the plasma was not activated). Unreacted TMA and by-products were removed by purging the chamber with UHP Ar. Subsequently, 75 sccm of UHP N2 flow was introduced through the plasma line on top of the 200 sccm of UHP Ar and a 20 s long, 300 W UHP N2/Ar plasma pulse was used as a nitrogen precursor."
+}<|im_end|>

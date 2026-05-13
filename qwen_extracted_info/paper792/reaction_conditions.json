@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Mo(CO)6 + H2S ! MoS2 + nH2 + mCO",
+    "Mo(CO)x* + H2S ! Mo-SHy* + nH2 + mCO",
+    "Mo-SHy* + Mo(CO)6 ! MoS-Mo(CO)x* + nH2 + mCO"
+  ],
+  "surface_mechanism_description": "The ALD reactions are surface limited. Gaseous precursors are dosed into the reaction chamber that reacts with the surface species. Reactions continue till all the surface species gets converted to a newer functionality. The unconsumed reactants and the reaction products are simultaneously pumped out from the reaction chamber. The rate limiting surface reaction thus ensures the layer-by-layer growth of the material.",
+  "intermediate_species": [
+    "Mo-SHy*",
+    "Mo(CO)x*",
+    "MoS-Mo(CO)x*"
+  ],
+  "evidence": "The above pair of surface reactions predicted at this point, however does not obsolete the possibilities of other reaction pathways. From the as predicted half reactions, it can be well understood that the ALD reactions are surface limited. Gaseous precursors are dosed into the reaction chamber that reacts with the surface species. Reactions continue till all the surface species gets converted to a newer functionality. The unconsumed reactants and the reaction products are simultaneously pumped out from the reaction chamber. The rate limiting surface reaction thus ensures the layer-by-layer growth of the material."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Au (gold)",
+  "process_type": "Plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Au(N(SiMe3)2)(PEt3)", "BH3(NHMe2)"],
+  "temperature_range": "100–160 /C14 C",
+  "summary": "The study evaluates potential gold(I) precursors for atomic layer deposition (ALD) with a focus on the use of Au(N(SiMe3)2)(PEt3) and BH3(NHMe2) as precursors. The process was applied at temperatures ranging from 100 to 160 /C14 C. Although no perfect self-limiting growth was confirmed, the process produced polycrystalline, pure, and relatively uniform Au thin films. The growth rate was influenced by the deposition temperature and the surface in contact with it. The study also highlights the challenges in achieving thermal stability and the importance of reducing agents in the ALD process for Au.",
+  "evidence": "In total, seven Au(I) compounds were synthesized and preliminarily evaluated for atomic layer deposition (ALD). One of the compounds, a liquid (bis(trimethylsilyl)amido)(triethylphosphine)gold(I) (Au(N(SiMe3)2)(PEt3)), was chosen for the ALD growth experiments. It was applied with potential reducing agents and hydrogen sulfide. The best results in respect to growth rate and film properties were achieved when Au(N(SiMe3)2)(PEt3) and dimethylamine borane [BH3(NHMe2)] were applied alternately. No perfect self-limiting growth, characteristic for ALD, was confirmed. However, the process produced polycrystalline, pure, and relatively uniform particulate Au thin films. In general, the process was well controllable, but the reduction power of BH3(NHMe2) was noticed to be dependent on the deposition temperature and on the surface in contact with it."
+}<|im_end|>

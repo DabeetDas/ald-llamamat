@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "R2Zn gðÞ þ H2XgðÞ ! ZnX sðÞ þ 2RH gðÞ"
+  ],
+  "surface_mechanism_description": "The Zn(O,S) growth is dominated by ZnS growth at ZnO/(ZnO þ ZnS) cycle ratios below 0.6 due to surface replacement of oxygen by sulfur. ZnO starts to deposit more efficiently at higher cycle ratios, as illustrated by the increased growth rate and O content.",
+  "intermediate_species": [
+    "surface O species",
+    "sulfur"
+  ],
+  "evidence": "The ZnS ALD-like growth is seen also at different deposition temperatures, as illustrated in Fig. 3 by the pure ZnS ALD growth rates and by the growth rates of films deposited using equal ZnO and ZnS cycles. The growth decreases with temperature, in agreement with previous reports on pure ZnS, and the growth rates for the pure and mixed films are nearly equal at each temperature. Nevertheless, as discussed below, at high temperatures (300 /C14 C), sulﬁdization of the bulk material becomes dominant and the observed growth rates will be a function of H 2S pulse length and dose pressure. Overall, the ZnS ALD-like growth of approximately 1A˚ /cycle and the relatively small amount of incorporated O suggest that the Zn(O,S) deposition is dominated by ZnS growth at ZnO/(ZnO þ ZnS) cycle ratios below 0.6 due to surface replacement of oxygen by sulfur ( vide infra ). ZnO starts to deposit more efficiently at higher cycle ratios, as illustrated by the increased growth rate and O content. Notably, similar findings in terms of Zn(O,S) composition have been reported for deposition using DEZn as the Zn reactant."
+}<|im_end|>

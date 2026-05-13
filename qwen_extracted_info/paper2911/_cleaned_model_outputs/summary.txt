@@ -1,0 +1,8 @@
+{
+  "target_material": "Indium Oxide (In2O3) and Indium-Tin Oxide (ITO)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["InCl3", "SnCl4", "H2O2"],
+  "temperature_range": "300 to 500°C",
+  "summary": "The study demonstrates an increase in the growth rate of In2O3 and ITO thin films using hydrogen peroxide (H2O2) as the oxygen source in atomic layer epitaxy (ALE). The growth rate was increased by about 50% at 500°C compared to using water as the oxygen source. The process was optimized by adjusting pulse and purge times, achieving a deposition rate of up to 2.0 nm/min for In2O3 films grown at 500°C. The films retained their high conductivity and transmittance properties.",
+  "evidence": "By replacing the previously used H2O with H2O2, the growth rates of In2O3 and ITO were increased by about 50% at 500°C as compared with the process examined earlier with H2O as the oxygen source (Table I). The overall deposition rate in an ALE process is a sum of two factors: the deposition rate per cycle and the cycle time. ... the In2O3 deposition rate could be increased to 2 nm/min, i.e., by a factor of three from the InCl3-H2O process."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the formation of C–N groups due to a secondary reaction between CHx by-products of the primary ALD half-reaction and N-plasma species, or between atomic nitrogen and CH3-ligands. The incorporation of C–N groups is attributed to fast gas phase reactions between atomic nitrogen and CH3, and the presence of these groups is confirmed by FTIR spectra.",
+  "intermediate_species": [
+    "CHx",
+    "C–N groups",
+    "NHx-species",
+    "Al–NH2",
+    "Al–CH3",
+    "Al–N"
+  ],
+  "evidence": "The discovery of nitrile groups in the films indicates that carbon impurities can be partially attributed to an undesirable reaction occurring during the plasma step between nitrogen species and CH groups. The incorporation of C–N groups has been observed before in the remote PECVD of AlN with TMA and N2-plasma and attributed to the fast gas phase reaction between atomic nitrogen and CH3. The discovery of C–N groups in the FTIR spectra of the films indicates that reactive plasma species are probably initiating secondary reactions with the ALD primary reaction by-products."
+}

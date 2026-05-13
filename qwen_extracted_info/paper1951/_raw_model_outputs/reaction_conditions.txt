@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the decomposition of the TEMAT precursor and the interaction with ammonia plasma, leading to the formation of TiN. At lower temperatures, incomplete surface reaction of the precursor results in higher carbon content, which affects film resistivity and density. The decomposition of TEMAT at higher temperatures leads to the removal of organic ligands, resulting in lower carbon concentration and higher N/Ti ratio.",
+  "intermediate_species": ["organic ligands", "carbon-containing species", "TiN"],
+  "evidence": "The text discusses the decomposition of TEMAT precursor and its interaction with ammonia plasma, leading to the formation of TiN. It mentions that at lower temperatures, incomplete surface reaction of the precursor results in higher carbon content, and at higher temperatures, the decomposition of TEMAT leads to the removal of organic ligands, resulting in lower carbon concentration and higher N/Ti ratio."
+}<|im_end|>

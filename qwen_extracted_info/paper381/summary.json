@@ -1,0 +1,11 @@
+{
+  "target_material": "SiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "SiCl4",
+    "H2O"
+  ],
+  "temperature_range": "600-680 K",
+  "summary": "The study demonstrates atomic layer deposition of SiO2 on Si(100) using a binary reaction sequence involving SiCl4 and H2O. The process occurs at temperatures between 600-680 K with reactant pressures from 1-50 Torr. The reactions are self-limiting and complete, leading to layer-by-layer growth of SiO2 films. The study also shows that the process can be monitored using techniques like laser-induced thermal desorption (LITD), temperature-programmed desorption (TPD), and FTIR spectroscopy.",
+  "evidence": "The atomic layer control of SiO2 growth can be accomplished using binary reaction sequence chemistry. To achieve this atomic layer growth, the binary reaction SiCl4 + 2 H2O → SiO2 + 4 HCl can be divided into separate half-reactions. These experiments were performed in a small high pressure chamber situated in an ultrahigh vacuum (UHV) apparatus. The controlled growth of a stoichiometric and chlorine-free SiO2 film on Si(100) was demonstrated using these techniques. SiO2 growth rates of approximately 0.73 ML of oxygen (1.1 A of SiO2) per AB cycle were obtained at 600-680 K."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "430-470",
+  "pressure": "7-8xlO Torr",
+  "precursor_pulse_time_s": "20",
+  "coreactant_pulse_time_s": "10",
+  "purge_time_s": "4 and 6",
+  "number_of_cycles": null,
+  "reactor_type": "UHVCVD",
+  "evidence": "AsH3 and TMG were admitted into the growth chamber for 20 and 10 s, respectively. These gases were then evacuated for 4 and 6 s, respectively."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Titanium Oxide (TiO2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "[Ti(OPr i)4]",
+    "water"
+  ],
+  "temperature_range": "100 °C",
+  "summary": "The study demonstrates the atomic layer deposition of TiO2 thin films on self-assembled monolayers (SAMs) of OH-functionalized alkanethiolates on gold substrates. The process is self-controlled and linear with respect to the number of cycles, and the films are selectively deposited on regions with OH-terminated SAMs. The ALD process is performed at 100 °C using [Ti(OPr i)4] and water as precursors, resulting in smooth, amorphous TiO2 films with a thickness of about 15 nm.",
+  "evidence": "The TiO2 thin films were grown on OH-terminated alkanethiolate SAM-coated gold by atomic layer deposition at 100 °C. The TiO2 thin films were deposited using [Ti(OPr i)4] and water as ALD precursors. The TiO2 thin films are selectively deposited only on the regions exposing OH-terminated alkanethiolate monolayers of the gold substrates."
+}

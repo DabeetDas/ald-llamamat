@@ -1,0 +1,8 @@
+{
+  "target_material": "NbN",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["(tert-butylimido)-tris(diethylamido)-niobium(V) (TBTDEN)", "mixed N2/H2"],
+  "temperature_range": "300 °C",
+  "summary": "High-quality ultrathin niobium nitride (NbN) films were deposited using plasma-enhanced atomic layer deposition (PEALD) for the fabrication of superconducting nanowire single-photon detectors (SNSPDs). The films exhibited high homogeneity, enabling the production of detectors with high switching currents and saturated internal efficiencies. The study highlights the advantages of ALD-NbN in achieving high performance and scalability for quantum photonic applications.",
+  "evidence": "High-quality ultrathin ﬁlms of niobium nitride (NbN) are developed by the plasma-enhanced atomic layer deposition (PEALD) technique. The NbN ﬁlms are prepared using an Ultratech/CNT Fiji ALD system with (tert-butylimido)-tris(diethylamido)-niobium(V) (TBTDEN) as the niobium precursor and mixed N2/H2 as the plasma gas. The best results combining the highest Tc as well as the lowest resistivity are achieved at the substrate temperature of 300 °C and the plasma power of 300 W."
+}<|im_end|>

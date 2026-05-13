@@ -1,0 +1,19 @@
+{
+  "reaction_equations": [
+    "Si-OH + ZrCl4 -> Si-Cl + ZrOCl2 + HCl",
+    "2Si-OH + ZrCl4 -> 2Si-Cl + Zr(OH)2Cl2",
+    "Si-OH + ZrCl4 -> Si-Cl + ZrOCl2 + HCl",
+    "2Al-OH + ZrCl4 -> 2Al-Cl + ZrO2 + 2HCl"
+  ],
+  "surface_mechanism_description": "The reaction involves the chlorination of surface hydroxyl groups (OH) on silica and alumina, leading to the formation of Zr-OH groups and ZrClx species. Direct chlorination of the surface occurs alongside agglomeration, forming ZrO2 agglomerates. The OH groups are consumed in exchange reactions, forming isolated Zr species such as sZrCl3 and dZrCl2. The reactions of HCl with surface OH groups and the dissociation of ZrCl4 on (Al-O) sites contribute to the chlorination process.",
+  "intermediate_species": [
+    "Zr-OH groups",
+    "sZrCl3",
+    "dZrCl2",
+    "ZrOCl2",
+    "Zr(OH)2Cl2",
+    "Al-Cl",
+    "Si-Cl"
+  ],
+  "evidence": "The text describes the reaction of ZrCl4 with silica and γ-alumina surfaces, leading to the formation of Zr-OH groups and ZrClx species. The consumption of OH groups and the formation of ZrO2 agglomerates are discussed. The reactions of HCl with surface OH groups and the dissociation of ZrCl4 on (Al-O) sites are also mentioned. The text states that OH groups are permanently consumed in exchange reactions, leading to the formation of isolated Zr species such as sZrCl3 and dZrCl2."
+}<|im_end|>

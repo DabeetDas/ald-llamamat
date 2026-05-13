@@ -1,0 +1,8 @@
+{
+  "target_material": "InN",
+  "process_type": "HCPA-ALD",
+  "main_precursors": ["Trimethylindium (TMI)", "N2 plasma"],
+  "temperature_range": "200 ◦C",
+  "summary": "The study reports on the low-temperature self-limiting growth of wurtzite InN thin films on Si(100) using hollow-cathode plasma-assisted atomic layer deposition (HCPA-ALD). The process utilizes trimethylindium (TMI) as the indium precursor and N2 plasma as the nitrogen precursor. The growth rate was optimized by varying parameters such as TMI pulse time, N2 plasma exposure time, purge time, and deposition temperature. The films exhibited a hexagonal wurtzite structure, smooth surface morphology, and relatively low impurity content. The refractive index and optical band gap were also characterized, showing values of 2.66 at 650 nm and 1.9 eV, respectively.",
+  "evidence": "In this work, we report on self-limiting growth of InN thin films at substrate temperatures as low as 200 ◦C by hollow-cathode plasma-assisted atomic layer deposition (HCPA-ALD). The precursors used in growth experiments were trimethylindium (TMI) and N2 plasma. Process parameters including TMI pulse time, N2 plasma exposure time, purge time, and deposition temperature have been optimized for self-limiting growth of InN with in ALD window. X-ray diffraction measurements revealed the hexagonal wurtzite crystalline structure of the grown InN films. Refractive index of the InN film deposited at 200 ◦C was found to be 2.66 at 650 nm. Spectral absorption measurements exhibited an optical band edge around 1.9 eV."
+}<|im_end|>

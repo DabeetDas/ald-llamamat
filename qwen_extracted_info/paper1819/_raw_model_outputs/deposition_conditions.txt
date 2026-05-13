@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "25",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "500",
+  "reactor_type": "ALD",
+  "evidence": "The Co@MoS2 subjected to 500 ALD cycles (with a MoS2 loading mass of 0.06 mg cm-2) exhibits outstanding OER activity requiring an overpotential of only 270 mV to deliver a current density of 10 mA cm−2, being one of the best-performing sulfide-based OER electrocatalysts and favorably comparable to the state-of-the-art noble metal electrocatalysts reported in the literature."
+}<|im_end|>

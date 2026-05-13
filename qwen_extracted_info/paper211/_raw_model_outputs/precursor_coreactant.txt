@@ -1,0 +1,7 @@
+{
+  "precursors": ["Diethyl zinc [Zn(C2H5)2]", "tetrakisdimethylaminotin(IV) [Sn(N(CH3)2)4]", "cyclopentadienylindium(I) [In(C5H5)]"],
+  "coreactants": ["deionized water", "oxygen gas"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ZTO/In2O3 window layer structure was grown in a Microchemistry F-120 ALD-reactor at varying deposition temperatures ( T ¼ 85–185 8C, always at the same, coupled T for buffer and TCO) by using N2 as a carrier gas. Diethyl zinc [Zn(C2H5)2], tetrakisdimethylaminotin(IV) [Sn(N(CH3)2)4], and deionized water were used to deposit ZTO buffer layers with a composition of Zn0.8Sn0.2Oy, using a Sn/(Sn þ Zn) pulse ratio of 0.5. The In(C5H5) precursor was sublimated at 50 8C and transported into the reactor by bubbling with N2. The water and oxygen gases were supplied in a combined H2O þ O2 pulse that introduced the precursors at the substrate inside of the reactor through separate gas lines."
+}<|im_end|>

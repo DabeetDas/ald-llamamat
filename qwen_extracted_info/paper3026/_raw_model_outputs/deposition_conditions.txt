@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 5,
+  "reactor_type": "ALCVD PULSAR 2000",
+  "evidence": "The HfO2 deposition was carried out with HfCl4 and H2O as precursors at 300°C in an ALCVD PULSAR 2000 reactor attached to a Polygon 8200 platform. Pulse and purge times were optimized to obtain surface saturation during each ALD reaction cycle. The number of HfCl4/H2O cycles was limited to 5 because this corresponds approximately to monolayer coverage"
+}<|im_end|>

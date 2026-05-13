@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "SiH2(NHtBu)2 (BTBAS)"
+  ],
+  "coreactants": [
+    "N2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "SiH2(NHtBu)2 (BTBAS) was used as the precursor and held at a bubbler temperature of 50 °C. The precursor was vapor drawn, where Ar (25 sccm, purity 99.999%) was used as a carrier gas in the line during precursor dosing and during the subsequent reaction step."
+}

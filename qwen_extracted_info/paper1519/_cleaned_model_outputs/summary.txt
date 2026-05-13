@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["(CpMe)2Zr(OMe)Me", "D2O", "O3"],
+  "temperature_range": "350 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of ZrO2 using (CpMe)2Zr(OMe)Me and either D2O or O3 as oxygen sources. The reaction mechanisms were analyzed in situ using quadrupole mass spectrometry (QMS) and quartz crystal microbalance (QCM). The process involves the interaction of the precursor with surface -OD groups and the release of byproducts such as MeD, MeOD, DCpMe, CO2, and H2O. The study also compares the mechanisms of the water and ozone processes, highlighting the role of active oxygen on the surface after the O3 pulse.",
+  "evidence": "Reaction mechanisms in the atomic layer deposition of ZrO2 from (CpMe)2Zr(OMe)Me and deuterated water or ozone were studied in situ with a quadrupole mass spectrometer and a quartz crystal microbalance at 350 °C. In the D2O process the detected reaction byproducts were as expected MeD, MeOD, and DCpMe. In the ozone process the most important reaction byproducts were CO2 and H2O. The study also discusses the role of active oxygen on the surface after the O3 pulse."
+}

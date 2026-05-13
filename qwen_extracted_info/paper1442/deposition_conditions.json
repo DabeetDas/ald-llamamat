@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-280",
+  "pressure": "0.3 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "horizontal gas flow type reactor",
+  "evidence": "The yttrium oxide films were deposited on HF etched n-type silicon at 280 °C. The precursor dose was controlled by the volume of vapor that is trapped and released into the chamber for each cycle. The vapor volumes of yttrium precursor and water were 120 and 20 cm3, respectively. Figure 2 shows the thickness per cycle as a function of the yttrium precursor dose. The precursor vapor spaces were opened to the reaction chamber for 1 s with a 10-s purge for the yttrium precursor and a 60-s purge for the H2O."
+}

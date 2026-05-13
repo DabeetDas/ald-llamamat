@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 450,
+  "pressure": "reduced pressures",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 50,
+  "reactor_type": "ALD Fluidized Bed Reactor",
+  "evidence": "Silica (Aerosil\n/H17016OX-50, Degussa, 40 nm) and titania (Aeroxide/H17016P-25, Degussa Corp., 21 nm) nanoparticles were coated using an ALD Fluidized Bed Reactor. The system was operated at reduced pressures and under mechanical vibration. Deionized water and trimethylaluminum (TMA) (97%, Sigma-Aldrich Co.) were used as reactants and the reaction temperature was 450 K."
+}

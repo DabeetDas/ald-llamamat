@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "40 mTorr",
+  "precursor_pulse_time_s": 0.15,
+  "coreactant_pulse_time_s": 0.15,
+  "purge_time_s": 1,
+  "number_of_cycles": null,
+  "reactor_type": "Oxford Instruments FlexAL reactor with remote inductively coupled (ICP) plasma generator",
+  "evidence": "Based on the saturation curves for precursor dose and plasma exposure, the following recipe was chosen as a standard: 1 s delivery line purge, 150 ms BTBAS dose time, 3 s reaction time, 1 s precursor purge time, 2 s preplasma time, 10 s plasma exposure time, 100 sccm N2 flow plasma gas (purity 99.9999%), 40 mTorr set plasma pressure, and 1 s plasma purge time."
+}

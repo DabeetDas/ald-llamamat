@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD HfO2 deposition involve the alternating pulses of water and HfCl4. The water pulse reacts with the surface hydroxyl groups, and the HfCl4 pulse reacts with the surface to form HfO2. The text states: 'The HfO2 films were formed via ALD using hafnium tetrachloride (HfCl4) and water. The HfO2 film thickness is controlled by the number of cycles deposited. One deposition cycle consists of a water pulse, a nitrogen purge (to remove unreacted water), a HfCl4 pulse, and a nitrogen purge.'",
+  "intermediate_species": ["surface hydroxyls", "adsorbed water", "Hf-OH"],
+  "evidence": "The HfO2 films were formed via ALD using hafnium tetrachloride (HfCl4) and water. The HfO2 film thickness is controlled by the number of cycles deposited. One deposition cycle consists of a water pulse, a nitrogen purge (to remove unreacted water), a HfCl4 pulse, and a nitrogen purge. The O spectra for 200°C deposited films show a steady drop in the OH peak region as films are annealed at higher temperatures. The Hf-OH peak region also changes with annealing suggesting that increasing the annealing temperature drives off water either as adsorbed water vapor or as dehydration of Hf-OH to Hf-O."
+}

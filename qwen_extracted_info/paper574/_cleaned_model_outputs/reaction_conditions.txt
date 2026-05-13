@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the use of SnCl4 and H2O2 (case A), and SnI4 and O2 (case B) as precursors for the growth of SnO2 thin films. The growth mechanism is based on alternating supply of precursors, with partial reactions limited by surface saturation, allowing atomic-level self-regulation of the layering process. The epitaxial relationship is (101)[010] cassiterite || (012)[100] corundum.",
+  "intermediate_species": ["iodine", "chlorine", "SnO2"],
+  "evidence": "The surface reactions involve the use of SnCl4 and H2O2 (case A), and SnI4 and O2 (case B) as precursors for the growth of SnO2 thin films. The growth mechanism is based on alternating supply of precursors, with partial reactions limited by surface saturation, allowing atomic-level self-regulation of the layering process. The epitaxial relationship is (101)[010] cassiterite || (012)[100] corundum. According to XRFS data, the concentration of iodine and chlorine in the B-ﬁlms and higher temperature A-ﬁlms was below the detection limit, which was estimated to be considerably smaller than 0.1%."
+}

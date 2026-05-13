@@ -1,0 +1,12 @@
+{
+  "target_material": "ZrO2 and HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "ZrCl4",
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study compares the electrical and microstructural characteristics of ZrO2 and HfO2 films grown by atomic layer deposition (ALD). The films were deposited at 300 °C using ZrCl4 and HfCl4 as metal precursors and H2O as the oxidizing agent. The microstructural differences between the two oxides were analyzed using TEM, revealing that ZrO2 films are polycrystalline with a tetragonal phase, while HfO2 films are amorphous. The dielectric constants of the films were found to be approximately 30 for ZrO2 and 20 for HfO2, with the latter showing a lower dielectric constant due to its lower atomic density. The study also found that the leakage current characteristics and mechanisms were similar for both materials, suggesting that microstructure is not the primary factor affecting their electrical properties.",
+  "evidence": "The text states: 'The deposition of ZrO2 and HfO2 was performed at the same temperature (300 °C) using alternating surface-saturating reactions of metal chlorides (ZrCl4 and HfCl4, respectively) and H2O in a cold wall-type, high-vacuum ALD system.' Additionally, it mentions: 'the dielectric constant of ALD-HfO2 (∼20) is significantly lower than that of ZrO2 (∼30) due to the differences in microstructure and also atomic density of the film.'"
+}

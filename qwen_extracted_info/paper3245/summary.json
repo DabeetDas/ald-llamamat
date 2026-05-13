@@ -1,0 +1,11 @@
+{
+  "target_material": "Lithium phosphorus oxynitride (LiPON)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "(CH3)3COLi (Li(t-OBu))",
+    "P(N(CH3)2)3 (trisdimethylaminophosphorus, TDMAP)"
+  ],
+  "temperature_range": "400–500 ◦C",
+  "summary": "Thermal ALD was used to deposit LiPON thin films as a solid electrolyte for thin-film lithium batteries. The films showed high conformality and ionic conductivity, with an ionic activity of 3.2 × 10−7 S cm−1 and an activation energy of 0.57 eV. The deposition temperature was above the glass transition temperature of LiPON, leading to a fluid state during deposition, which allowed for conformal coverage of complex structures.",
+  "evidence": "In this study, thermal atomic-layer deposition (ALD) is utilized to deposit a ﬁlm of lithium phosphorus oxynitride (LiPON) to improve the solid-electrolyte performance of thin-ﬁlm lithium batteries... The obtained ﬁlm has an ionic activity of 3.2 × 10−7 Sc m−1 and an activation energy of 0.57 eV... The deposition temperature ranged from 400 to 500 ◦C, which is higher than the glass transition temperature of LiPON."
+}

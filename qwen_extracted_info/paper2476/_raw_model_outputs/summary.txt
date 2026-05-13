@@ -1,0 +1,8 @@
+{
+  "target_material": "WCN and TiN",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["WF6", "NH3", "TEB", "TiCl4", "NH3"],
+  "temperature_range": "300 to 400 °C",
+  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of tungsten carbo nitride (WCN) and titanium nitride (TiN) films as diffusion barriers for copper metallization. The research highlights the challenges of ALD on porous low-k dielectric materials, such as penetration of precursors into pores, leading to issues like increased leakage current. The study also demonstrates that WCN films show better compatibility with various substrates and provide uniform, pinhole-free barriers, making them a promising alternative to TiN.",
+  "evidence": "The text discusses the deposition of WCN and TiN films as diffusion barriers for copper metallization. It highlights the challenges of ALD on porous low-k dielectric materials, such as penetration of precursors into pores, leading to issues like increased leakage current. The study also demonstrates that WCN films show better compatibility with various substrates and provide uniform, pinhole-free barriers, making them a promising alternative to TiN."
+}<|im_end|>

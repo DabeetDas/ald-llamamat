@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Al(CH3)3", "H2O"],
+  "temperature_range": "200–300 °C",
+  "summary": "The study investigates the effect of precursor concentration on the atomic layer deposition (ALD) of Al2O3 on Si(001). It shows that precursor concentration affects film growth rate and interfacial silicate formation. Higher H2O concentrations lead to increased interfacial silicate, which affects dielectric properties and flatband voltage.",
+  "evidence": "The effect of precursor gas-phase concentration in atomic layer deposition (ALD) of Al2O3 on Si(001) using Al(CH3)3 and H2O was investigated. Film growth rate was found to vary with Al(CH3)3 and H2O partial pressure, indicating that the process operates in a regime where complete conversion of surface sites is not reached when reactions self-extinguish. Higher precursor concentrations lead to higher conversion of surface sites as evidenced by faster film growth per ALD cycle. However, higher H2O concentrations also result in increasing amounts of aluminum silicate at the Al2O3/Si(001) interface."
+}

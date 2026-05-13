@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Al(OH)3* + CH3 groups -> Al-O-Al(CH3)2 + CH4",
+    "Al-OH* + CH3 groups -> Al-O-Al(CH3)2 + CH4"
+  ],
+  "surface_mechanism_description": "During ALD, TMA molecules adsorb and decompose, leaving Al-OH* sites. UV radiation during TMA purge removes methyl groups before reaction with H2O, leading to direct Al2O3 growth without typical ALD reaction, producing CH4. UV after H2O injection removes weakly bonded hydroxyl groups, reducing TMA reaction and film formation.",
+  "intermediate_species": [
+    "Al-OH*",
+    "CH3 groups",
+    "weakly bonded hydroxyl groups"
+  ],
+  "evidence": "During the ALD process, UV radiation was applied during the purge step of TMA or H2O. When UV was radiated on the surface after TMA injection, part of the methyl groups were removed before a reaction with H2O. At these sites, aluminum oxide grew during the H2O injection step without typical ALD reaction, which produces CH4. For a UV exposure after H2O injection, parts of the hydroxyl groups or adsorbed H2O weakly bonded to the surface were removed before a reaction with TMA. Thus, film formation by the reaction of TMA with weakly bonded species may be reduced."
+}

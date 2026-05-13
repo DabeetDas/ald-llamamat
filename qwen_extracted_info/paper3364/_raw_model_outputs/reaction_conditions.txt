@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Al–OH* + Al(CH3)3 → Al–O–Al(CH3)2* + CH4",
+    "Al–CH3* + HO → Al–OH* + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "During Al O ALD growth, trimethylaluminum (TMA) is introduced and allowed to react with hydroxyl groups on the surface. This reaction proceeds until the surface reaction reaches completion. Subsequently, TMA is carried or pumped away. The same process is then performed with H2O. The H2O reacts with methyl groups on the surface until this surface reaction reaches completion. The sequential exposure to TMA and H2O constitutes one AB cycle. These AB cycles are repeated to achieve the desired film thickness."
+}<|im_end|>

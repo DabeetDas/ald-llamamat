@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Copper bis(2,2,6,6-tetramethyl-3,5-heptanedionate) (CuII(thd)2)", "Hydrogen gas (H2(g))"],
+  "temperature_range": "135–230 /C14 C",
+  "summary": "The study investigates the selective-area atomic layer deposition (ALD) of copper on palladium seed layers using in-situ spectroscopic ellipsometry. The process involves the use of copper bis(2,2,6,6-tetramethyl-3,5-heptanedionate) vapor and hydrogen gas as reactants. The ALD process is self-limiting and occurs within a temperature range of 135–230 /C14 C. The mechanism involves the adsorption of hydrogen species (H*) on the palladium surface, which facilitates copper deposition. The study also highlights the role of palladium segregation and hydrogen dissociation in enabling selective growth on palladium while avoiding growth on insulating layers such as silicon dioxide and silicon nitride.",
+  "evidence": "The reactants are copper bis(2,2,6,6-tetramethyl-3,5-heptanedionate) vapor and hydrogen gas. Self-limiting atomic layer deposition was observed in the temperature range of 135–230 /C14 C. The mechanism is enabled by continuous diffusion of palladium from the seed layer into the deposited copper film and strong H* binding to palladium sites."
+}<|im_end|>

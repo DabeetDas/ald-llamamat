@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "AlCl3 + Al(OCH(CH3)2)3 -> Al2O3 + 3((CH3)2CH)Cl"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the sequential chemisorption of AlCl3 and Al(OiPr)3 precursors, leading to the formation of Al2O3 through the reaction between metal halides and metal alkoxides. The process avoids the need for a separate oxygen source and prevents the formation of an interfacial silicon oxide layer.",
+  "intermediate_species": [
+    "Al(OCH(CH3)2)3",
+    "AlCl3",
+    "((CH3)2CH)Cl"
+  ],
+  "evidence": "The film growth between AlCl3 and Al(OiPr)3 to Al2O3 can be presented similarly AlCl3 + Al(OCH(CH3)2)3 -> Al2O3 + 3((CH3)2CH)Cl (1)"
+}

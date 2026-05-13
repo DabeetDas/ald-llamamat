@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "diethyl beryllium (DEB)",
+    "Be(C2H5)2"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Argon"
+  ],
+  "carrier_gas": [
+    "Argon"
+  ],
+  "evidence": "Self-produced diethyl beryllium (DEB), namely Be(C2H5)2, corresponded to the precursor and the DI H2O corresponded to the oxidant. The DEB precursor in liquid form has the saturated vapor pressure of 1.6 torr at room temperature. Argon was used as a precursor carrier gas at a flow rate of 20 standard cubic centimeters per minute (sccm)."
+}

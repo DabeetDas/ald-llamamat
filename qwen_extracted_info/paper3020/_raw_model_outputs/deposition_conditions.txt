@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "0.3",
+  "coreactant_pulse_time_s": "10",
+  "purge_time_s": "90",
+  "number_of_cycles": "25",
+  "reactor_type": "hot-wall cross-flow-type",
+  "evidence": "HfCl4 is a solid at room temperature. It was heated to approximately 185°C to achieve sufficient vapor pressure for the HfCl4 pulses. The H2O bubbler was kept at 18°C. The pulse times were varied from the standard pulse length (0.3 s) to several minutes. For the long H2O pulse times, the post-H2O purge times were also elongated to several minutes to ensure that the precursor pulses remained well-separated."
+}<|im_end|>

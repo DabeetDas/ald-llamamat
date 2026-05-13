@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": 8,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall viscous flow ALD reactor (Cambridge NanoTech Savannah 100)",
+  "evidence": "The ALD ZnO films were also grown on 2974 Corning glass substrates by sequential reaction of liquid precursors diethyl zinc, DEZ [(C2H5)2Zn] and H2O in a hot-wall viscous flow ALD reactor (Cambridge NanoTech Savannah 100) at a base pressure of 66.6 Pa. Nitrogen was used as a carrier and purge gas supplied via a mass flow controller with a throughput of 20 sccm on the reactant lines. The DEZ and H2O precursors were injected into the carrier gas stream using pneumatically operated valves. Their pulse times were 15 ms and their purge times were 8 s."
+}<|im_end|>

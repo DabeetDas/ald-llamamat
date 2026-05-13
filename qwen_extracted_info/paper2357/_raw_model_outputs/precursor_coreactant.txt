@@ -1,0 +1,37 @@
+{
+  "precursors": [
+    {
+      "name": "TDMAT",
+      "full_name": "tetrakis(dimethylamido)titanium",
+      "evidence": "For the growth of SixTi1−xO2 films, tetrakis(dimethylamido)titanium (TDMAT) and tris(dimethylamino)silane (TDMAS) were used as the metalorganic precursors for Ti and Si, respectively."
+    },
+    {
+      "name": "TDMAS",
+      "full_name": "tris(dimethylamino)silane",
+      "evidence": "For the growth of SixTi1−xO2 films, tetrakis(dimethylamido)titanium (TDMAT) and tris(dimethylamino)silane (TDMAS) were used as the metalorganic precursors for Ti and Si, respectively."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "H2O",
+      "evidence": "For the formation of TiO2 using T-ALD, one reaction cycle consisted of H2O (0.06 s)/purge (10 s)/TDMAT (0.1 s)/purge (5 s)."
+    },
+    {
+      "name": "O2-plasma",
+      "evidence": "For the formation of TiO2 using PE-ALD, one reaction cycle consisted of TDMAT (0.1 s)/purge (5 s)/O2-plasma (20 s)/purge (5 s)."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Ar",
+      "evidence": "Argon was used as a precursor carrier as well as a purge gas, with flow rates of 60 sccm and 200 sccm, respectively."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "Ar",
+      "evidence": "Argon was used as a precursor carrier as well as a purge gas, with flow rates of 60 sccm and 200 sccm, respectively."
+    }
+  ],
+  "evidence": "For the growth of SixTi1−xO2 films, tetrakis(dimethylamido)titanium (TDMAT) and tris(dimethylamino)silane (TDMAS) were used as the metalorganic precursors for Ti and Si, respectively. For the formation of TiO2 using T-ALD, one reaction cycle consisted of H2O (0.06 s)/purge (10 s)/TDMAT (0.1 s)/purge (5 s). For the formation of TiO2 using PE-ALD, one reaction cycle consisted of TDMAT (0.1 s)/purge (5 s)/O2-plasma (20 s)/purge (5 s). Argon was used as a precursor carrier as well as a purge gas, with flow rates of 60 sccm and 200 sccm, respectively."
+}<|im_end|>

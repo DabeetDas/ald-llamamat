@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The Ni(MeCp)2 precursor reacts with the substrate, leading to the formation of NiSi2 precipitates beneath the surface of the Si wafer and amorphization of the surrounding area. After reductive annealing, NiSi2 precipitates are preserved but Si recrystallizes and the amorphous NiO film transforms into crystalline Ni nanoparticles.",
+  "intermediate_species": [
+    "NiSi2 precipitates",
+    "amorphous NiO film",
+    "Ni-rich structures"
+  ],
+  "evidence": "The Ni(MeCp)2 precursor reacts with the substrate, leading to the formation of NiSi2 precipitates beneath the surface of the Si wafer and amorphization of the surrounding area, resulting in a 10 nm thick top layer of the Si wafer. After reductive annealing, NiSi2 precipitates are preserved but Si recrystallizes and the amorphous NiO film transforms into crystalline Ni nanoparticles."
+}

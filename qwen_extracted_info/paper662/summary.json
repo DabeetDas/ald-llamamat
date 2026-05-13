@@ -1,0 +1,11 @@
+{
+  "target_material": "rac-Et Ind ZrCl22",
+  "process_type": "ALCVD",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "silica"
+  ],
+  "temperature_range": "250 8C",
+  "summary": "The study describes the preparation of heterogeneous metallocene catalysts by modifying silica surfaces with trimethylaluminum (TMA) using atomic layer chemical vapor deposition (ALCVD). The metallocene, rac-Et Ind ZrCl22, was adsorbed onto the modified silica, and the catalysts were tested in ethylene and propylene polymerization. The results showed that the heterogeneous catalysts produced similar polymers to the homogeneous catalyst but with lower activity. The preheating temperature of the silica influenced the aluminum content and the activity of the catalysts.",
+  "evidence": "The text states that the silica was modified with trimethylaluminum using ALCVD technique at 250 8C. The metallocene, rac-Et Ind ZrCl22, was adsorbed onto the modified silica. The catalysts were tested in polymerization of ethylene and propylene, and the results showed lower activity compared to the homogeneous catalyst. The preheating temperature of the silica influenced the aluminum content and the activity of the catalysts."
+}

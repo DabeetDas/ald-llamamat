@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "CoI2"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The first two furnaces were used to evaporate CoI2 (Strem Chemicals Inc., 99.5 % purity) from a semi-open quartz boat inserted in the innermost 20 mm tube at 465 °C using N2 as a carrier gas during the CoI2 pulse, t1. During the purging pulses, t2 and t4, N2 was flushed through the main quartz tube and the 25 mm tube."
+}

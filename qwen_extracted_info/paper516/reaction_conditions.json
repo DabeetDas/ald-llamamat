@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth inhibition for ZrO2 on hydrogen-terminated silicon is attributed to the lack of functional OH adsorption sites, leading to island-like growth behavior. In contrast, Al2O3 deposition suppresses interfacial oxide formation. The interfacial oxide thickness increases with the number of ALCVD cycles for ZrO2, while it is suppressed for Al2O3. The presence of an Al2O3 interfacial layer prevents excessive oxidation of the interface.",
+  "intermediate_species": [
+    "interfacial oxide"
+  ],
+  "evidence": "The growth inhibition for ZrO2 on hydrogen-terminated silicon is attributed to the lack of functional OH adsorption sites, leading to island-like growth behavior. In contrast, Al2O3 deposition suppresses interfacial oxide formation. The interfacial oxide thickness increases with the number of ALCVD cycles for ZrO2, while it is suppressed for Al2O3. The presence of an Al2O3 interfacial layer prevents excessive oxidation of the interface."
+}

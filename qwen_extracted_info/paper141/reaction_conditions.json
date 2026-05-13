@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Pd II(hfac)2 + H2/N2 plasma -> Pd + hfac ligand removal"
+  ],
+  "surface_mechanism_description": "The H2/N2 plasma enables surface modification of the polymer surface, allowing chemisorption of the precursor. The plasma also facilitates reduction and ligand removal of the Pd II(hfac)2 precursor. The presence of nitrogen in the plasma leads to the formation of NH and NH2 species, believed to be responsible for the chemisorption sites on the PPX. The plasma pulse creates reactive surface sites of NH2 groups that enable the chemisorption of the precursor, which in turn enables growth.",
+  "intermediate_species": [
+    "NH2 groups",
+    "NH species",
+    "hfac ligand"
+  ],
+  "evidence": "The H2/N2 plasma enabled both the surface modification of the polymer surface (allowing chemisorption of the precursor) and also the reduction and ligand removal of the Pd II(hfac)2 precursor. The presence of nitrogen in the plasma also leads to the formation of NH and NH2 species, believed to be responsible for the chemisorption sites on the PPX. The plasma pulse creates reactive surface sites of NH2 groups that enable the chemisorption of the precursor, which in turn enables growth."
+}

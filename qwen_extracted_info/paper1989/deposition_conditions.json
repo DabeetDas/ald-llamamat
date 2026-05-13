@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "1X 10e5 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "",
+  "evidence": "The gas exposures and pump times are Si2Cl6 at 1X 10e5 Torr for 3 min, 2 min pump cycle, H2 at 5X 10e6 Torr for 5 min and 4 min pump cycle."
+}

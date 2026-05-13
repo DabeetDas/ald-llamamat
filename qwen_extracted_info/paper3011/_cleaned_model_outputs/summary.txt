@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum oxide (Al2O3)",
+  "process_type": "Atomic Layer Deposition (ALD) with UV radiation",
+  "main_precursors": ["trimethylaluminum (TMA)", "water (H2O)"],
+  "temperature_range": "260°C and 370°C",
+  "summary": "Aluminum oxide thin films were deposited using atomic layer deposition (ALD) with trimethylaluminum (TMA) and water under UV radiation. The films were prepared at two different temperatures, 260°C and 370°C. The study investigated the effects of UV radiation on the structural and electrical properties of the films, including changes in the O/Al atomic ratio, valence band structure, and leakage current density. The results showed that UV radiation reduced carbon contamination and improved the insulating properties of the films.",
+  "evidence": "Aluminum oxide thin films were deposited by atomic layer deposition using trimethylaluminum and water under UV radiation. Films were prepared at two different deposition temperatures of 260 and 370°C. The films deposited at 370°C had a higher O/Al atomic ratio than those deposited at 260°C. The upper valence band spectrum, observed by X-ray photoelectron spectroscopy, of the aluminum oxide thin film deposited under UV radiation during water purge was different from that of a nonradiated thin film, indicating a structural change by the UV radiation."
+}

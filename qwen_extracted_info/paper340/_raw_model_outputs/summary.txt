@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethyl-Ga (TMG)", "arsine"],
+  "temperature_range": "550°C",
+  "summary": "The study reports on atomic layer epitaxy (ALE) of GaAs using trimethyl-Ga (TMG) and arsine as precursors. The process involves alternating deposition of Ga and As monolayers, with RHEED used to monitor surface reconstruction and growth conditions. The limiting mechanism for adsorption and pyrolysis is attributed to Ga-alkyl saturation, and the process is influenced by growth temperature and exposure time.",
+  "evidence": "We report a study of atomic layer epitaxy (ALE) using trimethyl-Ga and triethyl-Ga by chemical beam epitaxy. ... The dynamical evolution of the surface reconstruction indicates that a saturation coverage of the Ga-alkyls instead of Ga atoms is responsible for the limiting mechanism. ... Using TMG at high growth temperature, fig. 2 indicates that there exists a mechanism which limits the adsorption of TMG during each growth cycle. ... The size of TMG prevents its neighboring sites from being occupied by other alkyl molecules and its derivatives. ... Using TEG, ALE is possible at low temperature. In CBE, ALE growth does not appear to reduce the incorporation of carbon when TMG is used."
+}<|im_end|>

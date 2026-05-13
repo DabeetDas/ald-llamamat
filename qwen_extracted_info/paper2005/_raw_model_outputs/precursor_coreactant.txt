@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylgallium (TMGa)"],
+  "coreactants": ["arsine (AsH3)"],
+  "purge_gas": ["hydrogen"],
+  "carrier_gas": [],
+  "evidence": "The ALE conditions used for this experiment are Ts5480 °C, Pr 510 Torr, and TMGa and AsH3 supplies of 1.5 31021 and 3.03101 mmol/s for 3 and 10 s, respectively, with 3 sof hydrogen purge between each source supply."
+}<|im_end|>

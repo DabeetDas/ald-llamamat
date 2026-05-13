@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "During the ALD process, the deposition of platinum on TiO2 nanoparticles proceeds via an island growth mechanism (Volmer–Weber mechanism) during the initial stages. The use of ozone as an oxidizer allows operation at a lower temperature, enabling more uniform deposition conditions without compromising the rate of material growth. The main process involves alternating pulsing of the platinum precursor (MeCpPtMe3) and ozone, with sufficient purging times of inert gas.",
+  "intermediate_species": [
+    "Pt nanoclusters",
+    "surface hydroxyls"
+  ],
+  "evidence": "During the ALD process, saturation should occur when the precursor exposure time is long enough. Because of the total surface area in our experiments (12–14 m2 per sample batch), a long precursor exposure time was required, after about 12 min saturation occurred, and a loading of 1.6 wt% was determined with ICP-OES. In this case, just 2450% of the Pt provided via the precursor was loaded onto the substrate. However, when aiming for the growth of islands rather than a continuous film, there is no need to go to complete saturation. We found that after 3 min we already reached a deposition amount that was about half of the saturated deposition amount. The results show that about 95% of the precursor provided was converted into Pt clusters, which is attractive for an expensive metal such as Pt. The use of ozone, which is a more powerful oxidizer than oxygen, enables successful ALD at a temperature as low as 250°C."
+}

@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "spectroscopic ellipsometry",
+    "Rutherford backscattering spectroscopy",
+    "elastic recoil detection",
+    "photoconductance (Sinton WCT 100)",
+    "corona charging experiments"
+  ],
+  "evidence": "The refractive index (at a photon energy of 2 eV) and growth rate were determined by in situ spectroscopic ellipsometry, the atomic Al and O densities were determined by Rutherford backscattering spectroscopy, and the atomic hydrogen density was determined by elastic recoil detection. To evaluate the level of surface passivation, low resistivity p- and n-type 275 μm thick float zone 100 μm c-Si wafers were coated on both sides with Al2O3 with a thickness of 30 nm. Before deposition, the wafers were treated with diluted HF (1% in deionized H2O). The surface passivation was evaluated in the as-deposited state and after a 10 min postdeposition anneal at 400°C in a N2 environment.7 The upper limit of the surface recombination velocity (Seff,max) was determined from the effective lifetime (τeff), a measured with photoconductance (Sinton WCT 100) at an injection level of 1015 cm−3 by assuming an infinite bulk lifetime. 2"
+}

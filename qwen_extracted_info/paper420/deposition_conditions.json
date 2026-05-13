@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 500,
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 3000,
+  "reactor_type": "F-120",
+  "evidence": "HfO2 films were grown using a commercial flow type F-120 ALE reactor (Microchemistry Ltd, Finland) operated under a pressure of 10 mbar."
+}

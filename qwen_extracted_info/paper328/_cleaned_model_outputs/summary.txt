@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Cd", "Te2"],
+  "temperature_range": "510 K and 540 K",
+  "summary": "The study describes the use of Atomic Layer Epitaxy (ALE) to grow high-quality CdTe single crystal layers on polar (111)A and (111)B surfaces of p-type CdTe substrates. The growth occurs via a layer-by-layer stacking mechanism, with the films exhibiting structural perfection. The process involves alternating pulses of cadmium and tellurium precursors, and the films are terminated with either Cd or Te pulses depending on the substrate type.",
+  "evidence": "Atomic Layer Epitaxy (ALE) has been used to grow CdTe single crystal layers of high structural perfection from elemental cadmium and tellurium on the polar (111)A and (111)B surfaces of p-type CdTe substrates at the temperatures of 510 and 540 K. It is likely that the films grow strictly via monoatomic layer-by-layer stacking according to an ideal growth mode proposed."
+}

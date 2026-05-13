@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the use of TiCl4 and CrO2Cl2 as precursors with CH3OH as a common coprecursor. CrO2Cl2 acts as an oxidizing agent, while CH3OH functions as a reducing agent. The growth process involves alternating pulses of the precursors and purges, with the formation of TiO2 and Cr2O3 layers through these reactions.",
+  "intermediate_species": ["TiO2", "Cr2O3", "CH3OH"],
+  "evidence": "To grow TiO2, the TiCl4 pulse, first purge, CH3OH pulse, and second purge were set at 0.2, 2, 2 and 2 s, respectively. In this case, CH3OH was used as a source of oxygen. To grow Cr2O3, the same pulsing time parameters were used, however, with CrO2Cl2 substituted for TiCl4. Now CrO2Cl2 is an oxidising, and CH3OH a reducing agent."
+}

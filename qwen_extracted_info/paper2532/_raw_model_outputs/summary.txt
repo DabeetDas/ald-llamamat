@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "plasma-assisted atomic layer deposition (PA-ALD)",
+  "main_precursors": ["TiCl4", "H2–N2 plasma"],
+  "temperature_range": "100–400 °C",
+  "summary": "The study describes the plasma-assisted atomic layer deposition (PA-ALD) of titanium nitride (TiN) using TiCl4 precursor dosing and H2–N2 plasma exposure. In situ spectroscopic ellipsometry (SE) was employed to monitor film growth, thickness, and properties such as resistivity and nucleation phase. The process was optimized by varying plasma exposure time and precursor dosing, and the results were validated using ex situ techniques like RBS, ERD, TEM, and SEM. The films showed good conformality and low resistivity, making them suitable for applications in semiconductor devices.",
+  "evidence": "In situ spectroscopic ellipsometry has been employed to determine the properties of titanium nitride (TiN) films during plasma-assisted atomic layer deposition by alternating TiCl4 precursor dosing and H2–N2 plasma exposure. The growth rate was determined from the gradient of the thickness as a function of the number of cycles. The resistivity of the TiN films was determined using the relation r=GD /s«0vpu2d. The thickness of the TiN films deduced from the SE analysis was confirmed ex situ by x-ray reflectometry and by transmission electron microscope (TEM) and scanning electron microscope (SEM) imaging."
+}<|im_end|>

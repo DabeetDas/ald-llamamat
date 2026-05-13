@@ -1,0 +1,12 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "ZrCl4",
+    "H2O",
+    "H2O2"
+  ],
+  "temperature_range": "180–600 °C",
+  "summary": "Zirconium dioxide (ZrO2) films were grown by atomic layer deposition (ALD) using ZrCl4 and H2O or a mixture of H2O and H2O2 on Si(100) substrates in the temperature range of 180–600 °C. The study investigated the effect of growth temperature on the properties of the films, including their structure, composition, and dielectric behavior. The films showed increased crystallinity with higher growth temperatures, and the effective permittivity increased from 13–15 at 180 °C to 19 at 300–600 °C. The use of H2O2 as an oxygen precursor resulted in lower leakage current density and higher breakdown field compared to H2O.",
+  "evidence": "ZrO2 films were grown by atomic layer deposition from ZrCl4 and H2O or a mixture of H2O and H2O2 on Si(100) substrates in the temperature range of 180–600 °C. The effective permittivity of ZrO2 in Al/ZrO2/Si capacitor structures increased from 13–15 in the films grown at 180 °C to 19 in the films grown at 300–600 °C, measured at 100 kHz. The leakage current density tended to be lower and the breakdown field higher in the films grown using hydrogen peroxide."
+}

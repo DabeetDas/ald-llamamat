@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "(NtBu)2(NMe2)2Mo"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The precursor is delivered to the chamber by Ar bubbling from a precursor pot heated to 50 °C through gas delivery lines that are heated to 80 °C."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of plasma to control the density of the SiNx film, with prolonged plasma exposure leading to denser films. The plasma processing during deposition and post-deposition treatments affects the film density and wet etch rate (WER) in hydrofluoric acid. The mechanism is not explicitly detailed with formal chemical equations but is described through the effects of plasma on the film properties.",
+  "intermediate_species": [],
+  "evidence": "The text discusses the correlation between film density and WER in hydrofluoric acid, noting that prolonged plasma exposure made films denser which corresponded to lower WER. It also mentions the use of plasma during deposition and post-deposition treatments to increase density and lower WER, but does not provide specific chemical equations or intermediate species."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["tris(1,3-diisopropyltriazenide)gallium(III)"],
+  "coreactants": ["NH3 plasma"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The GaN films were deposited using a 10 s pulse of 1 and a 12 s NH3 plasma, separated by a 10 s N2 purge."
+}

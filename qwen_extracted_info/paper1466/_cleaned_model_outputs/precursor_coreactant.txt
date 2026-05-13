@@ -1,0 +1,7 @@
+{
+  "precursors": ["MoF6", "Si2H6"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Mo ALD was performed on n-type Si(100) wafers... Pneumatic valves were used to pulse the reactants into the N2 carrier gas stream in the viscous flow reactor."
+}

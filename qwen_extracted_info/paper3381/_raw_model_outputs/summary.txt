@@ -1,0 +1,8 @@
+{
+  "target_material": "Y2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tris( N,N0-diisopropyl-formamidinato)yttrium(III) [Y(DPfAMD)3]", "water"],
+  "temperature_range": "150 /C14 C to 325 /C14 C",
+  "summary": "The study reports the application of tris( N,N0-diisopropyl-formamidinato)yttrium(III) [Y(DPfAMD)3] as a precursor in a water-assisted thermal atomic layer deposition (ALD) process for the fabrication of high quality Y2O3 thin films. The process allows for the deposition of smooth, homogeneous, and polycrystalline (fcc) Y2O3 thin films with a growth rate of 1.36 ˚A per cycle at 300 /C14 C. The films exhibit high purity, stoichiometry, and good electrical properties, making them suitable for gate oxide applications in CMOS technology.",
+  "evidence": "We report the application of tris( N,N0-diisopropyl-formamidinato)yttrium(III) [Y(DPfAMD)3] as a promising precursor in a water-assisted thermal atomic layer deposition (ALD) process for the fabrication of high quality Y2O3 thin films in a wide temperature range of 150 /C14 C to 325 /C14 C. Smooth, homogeneous, and polycrystalline (fcc) Y2O3 thin films were deposited at 300 /C14 C with a growth rate of 1.36 ˚A per cycle."
+}<|im_end|>

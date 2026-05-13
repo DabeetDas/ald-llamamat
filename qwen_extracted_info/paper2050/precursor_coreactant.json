@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "TaCl5"
+  ],
+  "coreactants": [
+    "hydrogen plasma",
+    "nitrogen plasma"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Solid TaCl5 (powder) is contained in a glass tube that is maintained at 90 °C to develop adequate vapor pressure while the delivery lines are heated to between 110 °C–130 °C to prevent condensation of the precursor. To improve gas delivery, Ar is used as a carrier gas and the flow is controlled by a leak valve upstream of the source tube."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["N,N-(dimethylaminomethyl)ferrocene (DMAMFc)"],
+  "coreactants": ["O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Hematite deposition was carried out in a home-built ALD system (Figure S1 in the Supporting Information) with N,N-(dimethylaminomethyl)ferrocene (DMAMFc) and ozone as precursors. Growth characteristics of hematite ALD at 230 °C were investigated ex situ by ellipsometry measurements on Si substrates and are presented in Figure 1. We deposited a thin layer of ALD TiO2 onto Si to mimic the substrates for the other depositions used in this study. ALD was performed in exposure mode, employing the sequence [DMAMFcWPulse/Exposure/Purge//O3WPulse/Exposure/Purge] with pulse times fixed at 0.02 s for DMAMFc and 0.01 s for ozone while varying the exposure time of each."
+}

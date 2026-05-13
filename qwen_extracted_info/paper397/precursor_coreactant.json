@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethylindium (TMI)",
+    "tertiarybutylphosphine (TBP)"
+  ],
+  "coreactants": [
+    "H2"
+  ],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The studied growth parameters were exposure times, TMI and TBP fluxes, and growth temperature. The switching of the gases was performed using 4-way Nupro pneumatic valves with a minimum switching time of 1 s. Each source line was designed with separate vent lines enabling visualization of the gas switching process. The switching sequence consisted of a TMI exposure time, an H2 purge, a TBP exposure time, and an H2 purge."
+}

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "DEZ (diethylzinc)",
+    "DMZ (dimethylzinc)"
+  ],
+  "coreactants": [
+    "H2O (deionized water)"
+  ],
+  "purge_gas": [
+    "N2 (not explicitly mentioned, but purge time reduction is discussed)"
+  ],
+  "carrier_gas": [],
+  "evidence": "The standard process to produce ZnO via ALD includes diethylzinc (DEZ) and deionized water (H2O) as precursors. Attempts to replace water as oxygen precursor with ozone (O3) only increased the film resistivity. The standard ALD process for the here presented ZnO samples features purge times of 10 s after each precursor pulse and pulse times of 40 ms for DEZ and 25 ms for water."
+}

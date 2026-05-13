@@ -1,0 +1,7 @@
+{
+  "precursors": ["WF6", "Si2H6"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Atomic layer deposition of W metal is achieved by dividing the binary chemical vapor deposition reaction WF6(g) + Si2H6(g) f W(s) + 2SiHF3(g) + 2H2(g) into two separate self-limiting half reactions. Exposure of a substrate to alternating cycles of disilane (Si2H6) and tungsten hexafluoride (WF6) at elevated temperatures leads to atomic layer growth of W metal films at a rate of 2.6-5.2 Å/cycle. In a typical reaction (or AB) cycle, an aerogel monolith (a few mm3 in size) was treated with alternating 600 s exposures of Si2H6 and WF6 at 200 °C with 300 s purges between each half reaction."
+}

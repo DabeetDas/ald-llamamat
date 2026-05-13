@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ir(EtCp)(COD)"],
+  "coreactants": ["NH3 plasma"],
+  "purge_gas": ["argon"],
+  "carrier_gas": ["argon"],
+  "evidence": "Ir(EtCp)(COD) was used as a metal precursor and NH3 plasma was used as a reactant. Ir(EtCp)(COD) was contained in bubblers heated to 85 °C, and carried by argon gas at 50 sccm. ... During the deposition, argon gas was continuously supplied at 100 sccm into the reactor and an additional 50 sccm of argon gas was introduced with each purge pulse."
+}

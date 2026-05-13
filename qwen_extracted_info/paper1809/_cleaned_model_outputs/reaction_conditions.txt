@@ -1,0 +1,21 @@
+{
+  "reaction_equations": [
+    "SiCl4 + NT–H* → NT–SiCl3* + HCl",
+    "Si2Cl6 + NT–H* → NT–Si2Cl5* + HCl",
+    "SiCl4 + Si–NH2* → Si–NH–SiCl3* + HCl",
+    "Si2Cl6 + Si–NH2* → Si–NH–Si2Cl5* + HCl",
+    "SiCl4 + NT → NT–SiCl3*",
+    "Si2Cl6 + NT → NT–Si2Cl5*"
+  ],
+  "surface_mechanism_description": "The reaction mechanisms involve the interaction of silicon chlorides (SiCl4 and Si2Cl6) with different surface sites on b-Si3N4, including NH*/SiH*, NH*/SiNH2*, and under-coordinated bare pSi]N–. The reactions proceed through surface species such as NT–H*, Si–NH2*, and NT, forming products like NT–SiCl3*, NT–Si2Cl5*, and Si–NH–SiCl3* or Si–NH–Si2Cl5* along with HCl. The under-coordinated bare pSi]N– surface shows the most favorable reactivity with very low energy barriers, while the NH*/SiH* surface has high energy barriers due to hydrogen or chlorine dissociation.",
+  "intermediate_species": [
+    "NT–H*",
+    "Si–NH2*",
+    "NT",
+    "NT–SiCl3*",
+    "NT–Si2Cl5*",
+    "Si–NH–SiCl3*",
+    "Si–NH–Si2Cl5*"
+  ],
+  "evidence": "The text describes the reaction mechanisms of SiCl4 and Si2Cl6 with different surface sites on b-Si3N4, including the formation of products like NT–SiCl3*, NT–Si2Cl5*, and Si–NH–SiCl3* or Si–NH–Si2Cl5* along with HCl. The under-coordinated bare pSi]N– surface is highlighted as the most reactive with very low energy barriers, while the NH*/SiH* surface has high energy barriers due to hydrogen or chlorine dissociation."
+}

@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 10,
+  "density_g_cm3": 2.4,
+  "refractive_index": "1.81 at 633 nm",
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The film thickness and refractive index (R.I.) of the SiNx were measured by spectroscopic ellipsometry (M72000DI, J.A. Woolam). The spectra collected at three different incident angles (55°, 65°, and 75°) were analyzed using a silicon nitride Tauc-Lorentz oscillator model over a wavelength range of 275−1690 nm. The refractive index was reported at 633 nm. The mean value was determined by the average value of multi-point measurement at 9 different locations of the wafer."
+}<|im_end|>

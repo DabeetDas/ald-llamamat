@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Ru(EtCp)2 + * → RuEtCp* + EtCp*",
+    "RuEtCp* + O2 → RuOx + CO2 + H2O",
+    "RuOx + H2 → Ru + H2O"
+  ],
+  "surface_mechanism_description": "The ABC-type ALD proceeds through dissociative chemisorption, combustion, and reduction steps. Ru(EtCp)2 undergoes dissociative chemisorption on Ru metal to form RuEtCp* and EtCp*. The O2 step combusts the EtCp* ligands, forming Ru oxide and gaseous products. The H2 step reduces the Ru oxide to Ru metal, regenerating chemisorption sites for the next cycle.",
+  "intermediate_species": [
+    "RuEtCp*",
+    "EtCp*",
+    "RuOx"
+  ],
+  "evidence": "The authors describe the mechanism as follows: 'First, the Ru(EtCp)2 undergoes dissociative chemisorption on the existing Ru metal surface to form Ru(EtCp)* and EtCp* (eq 1); next, the O2 combusts the EtCp* ligands releasing the CO2 and H2O gaseous products and forms Ru oxide (eq 2); finally, the H2 reduces the Ru oxide to Ru metal by releasing H2O vapor (eq 3) and regenerating new chemisorption sites for the next Ru(EtCp)2 exposure.'"
+}<|im_end|>

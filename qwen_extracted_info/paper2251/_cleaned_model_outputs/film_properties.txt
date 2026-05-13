@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 10,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "",
+  "evidence": "The thickness of Al 2O3 gate insulator in MISHEMT is extracted to be around 10 nm from the C-V curve, using the equations in accumulation region 1/C MISHEMT =1 /CHEMT +1 /Cox, Cox = εoxε0/d."
+}

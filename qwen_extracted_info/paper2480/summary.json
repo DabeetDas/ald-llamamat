@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethylzinc (DEZn)",
+    "O"
+  ],
+  "temperature_range": "180 °C for deposition, 950 °C for postdeposition annealing",
+  "summary": "The study describes the use of Atomic Layer Deposition (ALD) to grow high-quality n-ZnO epilayers on p-GaN to fabricate n-ZnO/p-GaN heterojunction LEDs. The ZnO layer was deposited using diethylzinc (DEZn) and O as precursors at 180 °C, followed by rapid thermal annealing (RTA) at 950 °C. The resulting ZnO layer exhibited high crystallinity and minimal threading dislocations. Room temperature UV electroluminescence (EL) at 391 nm was observed from the n-ZnO layer at a low injection current of about 10 mA. The study also highlights the formation of an interfacial layer between ZnO and GaN due to Mg diffusion during RTA, which influences the electroluminescence behavior.",
+  "evidence": "The ZnO layer was grown at 180 °C on the p-GaN by ALD. The two precursors, diethylzinc (DEZn, Zn and O, were carried in by an N2 flow. After deposition, the ZnO layer was treated at 950 °C for 5 min in N2 atmosphere by rapid thermal annealing (RTA). Room temperature UV electroluminescence (EL) at 391 nm from ZnO was achieved at a low injection current about 10 mA. The interfacial layer 4–5 nm thick caused by the RTA treatment was observed between the n-ZnO and p-GaN layers."
+}

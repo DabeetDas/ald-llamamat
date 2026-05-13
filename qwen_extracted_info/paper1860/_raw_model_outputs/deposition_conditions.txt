@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150–450",
+  "pressure": "0.4–1 mbar",
+  "precursor_pulse_time_s": 1.8,
+  "coreactant_pulse_time_s": 1.0,
+  "purge_time_s": 2.5,
+  "number_of_cycles": 272,
+  "reactor_type": "flow-type ALE reactor",
+  "evidence": "The films were grown on Corning 7059 glass substrates under a pressure of 0.4–1 mbar (measured before the reaction chamber). The precursor materials were pulsed separately, since the difference in sublimation temperature is too large to mix the solid precursors before they are sublimed. The TG–DTG–DTA recordings of the precursor materials, La(thd)3 and Ni(thd)2, show almost complete sublimation. La(thd)3 sublimes at around 200 °C and Ni(thd)2 at around 150°C, see Fig. 1. The pressure used in these thermo-analytical studies (7 mbar) is somewhat higher than the pressure in the reactor during the depositions (0.4–1 mbar). After depositions in the ALE reactor, however, there were residues in the source crucibles indicating partial decomposition during prolonged heating. The precursor pulses were separated by nitrogen gas purging. After lanthanum and nickel pulses the purging time was 2.5 s and after ozone it was 3 s. Typical reactant pulse durations were 1.8 s for La(thd)3 and Ni(thd)2 and 1.0 s for ozone."
+}<|im_end|>

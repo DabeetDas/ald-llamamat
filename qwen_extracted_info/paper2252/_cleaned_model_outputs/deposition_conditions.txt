@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 200,
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": 500,
+ "reactor_type": "Savannah100",
+ "evidence": "HfO2 ﬁlms were deposited at 200 ° C by alternating exposures of the substrates to tetrakis(dimethylamido)hafnium(IV) and H2O vapor. With 500 cycles, the thickness of the HfO2 ﬁlms was around 50 nm"
+}

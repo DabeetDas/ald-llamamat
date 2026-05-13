@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The copper(I) diketiminate complexes act as precursors for copper film deposition via ALD. The copper(I) complexes are reduced to metallic copper through a self-limiting reaction, with the reducing agent (diethylsilane) facilitating the reduction process. The mechanism involves the chemisorption of the copper(I) complex onto the substrate, followed by reduction to form a copper film free of ligands or byproducts.",
+  "intermediate_species": ["Cu(I) diketiminate complexes", "Cu(II) species", "copper metal"],
+  "evidence": "The copper(I) diketiminate complexes are reduced to metallic copper through a self-limiting reaction, with the reducing agent (diethylsilane) facilitating the reduction process. The results from isothermal TGA data provide some qualitative structure-property relationship. The copper(I) diketiminate complexes are suitable for the deposition of copper films by an ALD process. With 80 passes of the first copper precursor 5-a and then diethylsilane as the reducing agent, a thin, clean copper film was deposited at 120 °C."
+}

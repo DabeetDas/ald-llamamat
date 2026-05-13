@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "By choosing a bulky Er precursor, we can utilize the steric hindrance effect to effectively control the Er separation distance during the precursor adsorption step. By subsequently exposing the adsorbed precursor to an oxidant, the organic ligands can be removed, leaving the oxidized Er ions well separated on the surface, thus reducing ion-ion interactions in the lateral direction. In the vertical direction, the Er separation distance can be controlled by alternating the growth of the host material with ALD of oxidized Er.",
+  "intermediate_species": ["organic ligands", "oxidized Er ions"],
+  "evidence": "By choosing a bulky Er precursor, we can utilize the steric hindrance effect to effectively control the Er separation distance during the precursor adsorption step. By subsequently exposing the adsorbed precursor to an oxidant, the organic ligands can be removed, leaving the oxidized Er ions well separated on the surface, thus reducing ion-ion interactions in the lateral direction. In the vertical direction, the Er separation distance can be controlled by alternating the growth of the host material with ALD of oxidized Er."
+}

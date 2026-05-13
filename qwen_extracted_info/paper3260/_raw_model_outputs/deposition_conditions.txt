@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225",
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": 10,
+  "number_of_cycles": 400,
+  "reactor_type": "shower head type ALD reactor (Lucida-M100, NCD Technology, Korea)",
+  "evidence": "The basic condition of this investigation was set as follow: precursor pulse of 10 s, reactant pulse of 15 s with the purging pulse of 10 s."
+}<|im_end|>

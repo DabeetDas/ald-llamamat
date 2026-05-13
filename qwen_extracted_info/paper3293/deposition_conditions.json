@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "5 to 15",
+  "reactor_type": "viscous flow reactor",
+  "evidence": "Crystalline samples of zinc oxide on a mesoporous amorphous silica substrate were prepared by 5 to 15 atomic layer deposition cycles with diethyl zinc and water at 150 °C."
+}

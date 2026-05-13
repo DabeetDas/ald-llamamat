@@ -1,0 +1,8 @@
+{
+  "target_material": "Silicon",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["trimethylaluminum", "water vapor"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the use of an ALD Al2O3/SiO2 bilayer structure for passivation of silicon solar cells. The ALD process was used to deposit a 15 nm thick Al2O3 film at 250°C using alternating pulses of trimethylaluminum and water vapor. The bilayer structure significantly improved the energy conversion efficiency of the solar cells.",
+  "evidence": "The ALD process comprised a number of identical cycles, each of which deposited approximately 1Å of Al2O3. The thickness of the deposited Al2O3 film was therefore controlled by varying the number of ALD cycles. The ALD Al2O3 film was deposited on the SiO2 layer at 250°C using alternating pulses of Al(CH3)3 (trimethylaluminum, the Al precursor) and water vapor (the oxygen precursor) in flowing N2 carrier gas."
+}<|im_end|>

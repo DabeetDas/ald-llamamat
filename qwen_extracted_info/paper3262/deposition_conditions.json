@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 80,
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 40,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall tube furnace",
+  "evidence": "The thermal decomposition behaviors of GeCl4 and Te(Ge(CH3/rparenori3/rparenori2 were investigated at temperatures up to 120 /compBC, and no mass change by thermal decomposition was observed after 20 cycles of precursor pulse (20 s) and purge (40 s) for each precursor."
+}

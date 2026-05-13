@@ -1,0 +1,11 @@
+{
+  "target_material": "NiO",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Ni(acac)2",
+    "O3"
+  ],
+  "temperature_range": "250°C",
+  "summary": "The study focuses on the atomic layer deposition (ALD) of nickel oxide (NiO) using Ni(acac)2 and O3 as precursors. The process was optimized for the reaction between Ni(acac)2 and O3, achieving a surface-saturated growth rate of 0.62 Å cycle⁻¹. The crystalline rocksalt-type NiO was obtained with (100) orientation, independent of the Ni-precursor used. The study also explored the effects of different oxygen sources and precursor ligand sizes on the growth rate and film structure.",
+  "evidence": "The NiO ALE process was optimized for the reaction between Ni(acac)2 and O3. The surface-saturated growth rate was limited by the steric hindrance of the ligand and was 0.62 Å cycle⁻¹. The crystalline rocksalt-type NiO was obtained only when O3 was used as an oxygen source. The NiO ALE process was optimized for the reaction between Ni(acac)2 and O3. The surface-saturated growth rate was limited by the steric hindrance of the ligand and was 0.62 Å cycle⁻¹."
+}

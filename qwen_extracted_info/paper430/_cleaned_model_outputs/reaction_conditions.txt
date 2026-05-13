@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth of AI2O3 is dominated by the formation of adsorbate layers through the sequential vapor pulses of TMA and H2O2. The self-limiting behavior is attributed to the adsorption/desorption and reaction processes of the source molecules, with the formation of monomolecular-layer adsorbates of H2O2 and TMA. The surface chemical reactions between the adsorbates formed by the previous vapor pulse and the current reactant vapor lead to the growth of AI2O3.",
+  "intermediate_species": ["monomolecular-layer liquid H2O2", "adsorbates of TMA", "adsorbates of H2O2"],
+  "evidence": "The formation of monomolecular-layer liquid H2O2 on the quartz surface results in a decrease in oscillation frequency. The adsorbate layer of H2O2 is about three times thicker than that of TMA. The surface chemical reaction occurs twice for one cycle, which results in the growth of AI2O3. The adsorbate layer of H2O2 is about three times thicker than that of TMA. The formation of adsorbate layers, in other words, the growth of AI2O3, should be dominated by the growth conditions."
+}

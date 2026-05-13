@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 320,
+ "pressure": "100 and 500 mTorr",
+ "precursor_pulse_time_s": 0.3,
+ "coreactant_pulse_time_s": 0.8,
+ "purge_time_s": 5,
+ "number_of_cycles": 300,
+ "reactor_type": "recently designed ALD system",
+ "evidence": "The Al 2O3 film was formed by sequentially injecting trimethyl aluminum (TMA) and H 2O vapor into the reactor chamber, with argon purge gas between the pulses to eliminate the reaction byproducts and unused reactant vapors. The substrate temperature was maintained at 320°C and the chamber pressure was kept between 100 and 500 mTorr during the depositions. 300 cycles were run with a cycle time of 16 s (TMA/purge/H2O/purge = 0.3/5/0.8/10 s) to allow for adequate saturation of precursors and purging of by-products from the nanogaps."
+}

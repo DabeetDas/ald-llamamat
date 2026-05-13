@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Trimethylaluminum (AlMe3)",
+    "Titanium tetrachloride (TiCl4)"
+  ],
+  "coreactants": [
+    "Water (H2O)"
+  ],
+  "purge_gas": [
+    "Nitrogen (N2)"
+  ],
+  "carrier_gas": [],
+  "evidence": "The ALD experiments were carried out in a SUNALE TM R-150 ALD reactor by Picosun. Trimethylaluminum AlMe3 was used as aluminum source, titanium tetrachloride TiCl4 as titanium source and deionized water H 2O as oxygen source. Standard recipes consisted of constant 200 sccm nitrogen flows through each of the three reactant lines, and pulse times of 0.1 s and purge times of 4 s."
+}

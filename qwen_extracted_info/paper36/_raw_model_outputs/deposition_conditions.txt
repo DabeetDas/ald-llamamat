@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "",
+  "precursor_pulse_time_s": "2.5",
+  "coreactant_pulse_time_s": "1.5",
+  "purge_time_s": "4",
+  "number_of_cycles": null,
+  "reactor_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "evidence": "The pulse time was 2.5 s for the DEZ, 1.5 s for the oxygen plasma, and 4 s for the Ar purge."
+}<|im_end|>

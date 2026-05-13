@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "200 g /Nm3",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "12-50",
+  "reactor_type": "Savannah 200",
+  "evidence": "LZO ﬁlms were deposited in the Savannah 200 (Cambridge Nanotech Inc.) ALD reactor on H-terminated n-Si(100) at a growth temperature of 300 °C."
+}

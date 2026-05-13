@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "SiOH* + Si(OCH2CH3)4 → SiOSi(OCH2CH3)3* + CH3CH2OH",
+    "Si(OCH2CH3)* + H2O → SiOH* + CH3CH2OH"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TEOS and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Si(OCH2CH3)*",
+    "SiOH*"
+  ],
+  "evidence": "The surface half-reactions for ALD are closely related to the overall reaction for the parent CVD process. There are no previous reports of SiO2 CVD using TEOS and H2O except with plasma-assisted CVD. Consequently, the reactions given by Eq. 3 and 4 may require high reaction temperatures where TEOS may also pyrolyze to form SiO2. To avoid these high temperatures, SiO2 ALD could be performed at lower temperatures using an amine base catalyst. Earlier studies of amine-catalyzed alkoxysilane attachment to SiO2 provide evidence that catalyzed SiO2 ALD using TEOS and H2O may be feasible."
+}<|im_end|>

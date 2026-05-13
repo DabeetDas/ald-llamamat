@@ -1,0 +1,15 @@
+{
+  "target_material": "aluminum oxide (alumina) and silicon dioxide",
+  "process_type": "atomic layer deposition (ALD) and plasma-enhanced chemical vapor deposition (PECVD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "water",
+    "ozone",
+    "SiH4",
+    "N2O",
+    "N2"
+  ],
+  "temperature_range": "220 °C for ALD, 300 °C for PECVD",
+  "summary": "The study explores the use of metal thin film electrodes on silicon and glass substrates coated with tunneling dielectrics of aluminum oxide (alumina) and silicon dioxide. The dielectrics are deposited using low-temperature processes such as atomic layer deposition (ALD) and plasma-enhanced chemical vapor deposition (PECVD). The research focuses on the performance of these dielectrics in hot electron-induced electrochemiluminescence (HECL) applications, examining factors such as dielectric thickness, stability, and the effect of different deposition methods on HECL signal intensity.",
+  "evidence": "The text discusses the use of ALD and PECVD to deposit dielectrics on metal thin films for HECL applications. It specifically mentions the use of trimethylaluminum (TMA) and water or ozone as precursors for ALD, and SiH4, N2O, and N2 as precursors for PECVD. The temperature ranges for these processes are also specified as 220 °C for ALD and 300 °C for PECVD."
+}

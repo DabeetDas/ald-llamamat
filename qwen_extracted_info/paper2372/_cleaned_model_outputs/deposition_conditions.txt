@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "SVTA flow-type ALD reactor",
+  "evidence": "Al2O3 thin film was grown on a Si (1 1 1) substrate at a temperature of 150 ◦C using a SVTA flow-type ALD reactor with TMA and H2O as precursors. One growth cycle consisted of four consecutive steps: (1) exposure to the metal precursor TMA; (2) nitrogen purge; (3) exposure to H2O and (4) another nitrogen purge. With the process optimized, each growth cycle takes 12 s (1 s for each precursor injection and 5 s each for the purging steps)."
+}

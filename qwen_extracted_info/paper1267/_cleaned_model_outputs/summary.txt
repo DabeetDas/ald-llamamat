@@ -1,0 +1,8 @@
+{
+  "target_material": "W:Al2O3 nanocomposite thin films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TMA", "H2O", "WF6", "Si2H6"],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the preparation of W:Al2O3 nanocomposite thin films using Atomic Layer Deposition (ALD) with varying W cycle percentages. The films exhibit tunable optical properties, with a decrease in direct and indirect band gaps as the W% increases. The films are thermally stable and show promise as selective solar absorption coatings for concentrated solar power applications.",
+  "evidence": "The text states that the films were prepared using ALD with W cycle percentages ranging from 0 to 100% and that the optical properties were tuned by varying the W% from 0 to 100%. The study also mentions the thermal stability of the films and their potential as selective solar absorbing coatings."
+}

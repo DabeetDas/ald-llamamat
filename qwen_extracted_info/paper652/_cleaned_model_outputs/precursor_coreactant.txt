@@ -1,0 +1,7 @@
+{
+  "precursors": ["Pd(thd)2", "Ru(thd)3"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The precursors Pd(thd)2 and Ru(thd)3 were vaporised at 180 ◦C and allowed to react with a fixed bed of support that had been stabilised to the same temperature. The processing was carried out in a flow-type ALE reactor at reduced pressure of about 5–10 kPa with nitrogen as carrier gas."
+}

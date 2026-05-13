@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the replacement of carbon atoms with nitrogen atoms in the HfO2 films during MMT plasma treatment, attributed to the high plasma processing temperature and high density of reactive N radicals, which caused the carbon atoms in the HfO2 films to be replaced by N atoms.",
+  "intermediate_species": ["carbon atoms", "nitrogen atoms"],
+  "evidence": "On the other hand, in the case of the MMT treated samples, the carbon contents were significantly reduced even before the thermal annealing, and this was attributed to the high plasma processing temperature and high density of the reactive N radicals in the plasma, which caused the carbon atoms in the HfO2 films to be replaced by N atoms."
+}

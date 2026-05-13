@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Bi(mmp)3 and Ti(mmp)4 on the substrate, followed by oxidation with a water pulse. The addition of alumina layers leads to the substitution of Bi sites with Al, which increases the bandgap and alters the Fermi level and valence bandedge.",
+  "intermediate_species": ["Bi(mmp)3", "Ti(mmp)4", "surface hydroxyls", "Al3+"],
+  "evidence": "For the BT ALD, a mixed solution of Bi(mmp)3 and Ti(mmp)4 (mmp = 1-methoxy-2-methyl-2-propoxide) was injected twice in 1 s and subsequently purged with argon gas (1600 sccm) for 5 s. The Bi and Ti-adsorbed substrate was oxidized by a water pulse for 3 s and then purged again with argon gas. The addition of alumina layers leads to the substitution of Bi sites with Al, which increases the bandgap and alters the Fermi level and valence bandedge."
+}

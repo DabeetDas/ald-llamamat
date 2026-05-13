@@ -1,0 +1,11 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "ZrCl4",
+    "H2O"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study demonstrates the atomic layer deposition of ZrO2 on W for metal–insulator–metal (MIM) capacitor applications. High-quality ZrO2 films were grown using ZrCl4 and H2O precursors at 300 °C, resulting in a uniform and polycrystalline film. The interfacial layer between ZrO2 and W was identified as WOx. The effective dielectric constant was found to be 22–25, and the equivalent oxide thickness was 20–21 Å. The MIM capacitors showed high capacitance per area and low leakage current, making them suitable for gigabit DRAM applications.",
+  "evidence": "High-quality 110 ;115 Å ZrO2 films were grown uniformly on ALD W using ZrCl4 and H2O precursors at 300 °C, and polycrystalline ZrO2 in the ALD regime could be obtained. A 13 ;14-Å-thick interfacial layer between ZrO2 and W was observed... The apparent equivalent oxide thickness was 20 ;21 Å. An effective dielectric constant of 22 ;25 including an interfacial WOx layer was obtained... High capacitance per area (16;17 fF/mm2) and low leakage current (1027 A/cm2 at 61V) were achieved."
+}

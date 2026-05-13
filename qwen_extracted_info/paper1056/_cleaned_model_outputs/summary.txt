@@ -1,0 +1,8 @@
+{
+  "target_material": "TaN",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Pentakis-dimethylamine-tantalum (Ta[N(CH3)2]5)", "Ammonia"],
+  "temperature_range": "275 °C",
+  "summary": "The study investigates the effects of thermal treatment on Cu/atomic-layer-deposited TaN films/Si stacks. It focuses on the formation of Cu3Si on the surface and the role of impurities such as hydrogen, oxygen, and carbon in influencing thermal behaviors. The results show that thermal treatment at temperatures above 500 °C leads to Cu dewetting and silicide formation, which is influenced by the thickness of the ALD TaN film and the presence of impurities.",
+  "evidence": "The results indicate that, for the as-received Cu/ALD TaN/Si samples (G1 set samples), thermal treatment at a temperature higher than 500 °C results in formation of the intermetallic compound Cu3Si on the surface. It is interesting to note that the amount of copper silicide on the surface increases with the ALD TaN thickness, as long as the later is less than 10 nm. No Cu3Si is detected after the same thermal process in similar stacks, when the top-layer Cu was deposited on pre-annealed ALD TaN/Si samples (G2 set samples)."
+}

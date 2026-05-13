@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe/MnTe superlattices",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Cd", "Mn", "Te"],
+  "temperature_range": "200 °C to 280 °C",
+  "summary": "The study investigates the growth of CdTe/MnTe superlattices using Atomic Layer Epitaxy (ALE) and compares it with Molecular Beam Epitaxy (MBE). The research highlights the effects of Mn incorporation, interface roughness, and MnTe island formation under different ALE conditions. It also determines the elastic coefficient ratio for MnTe and discusses the advantages of ALE in achieving smoother interfaces and better control over the growth process.",
+  "evidence": "The text discusses the growth of CdTe/MnTe superlattices using ALE and MBE, the formation of MnTe islands, and the effects of temperature on interface quality. It also mentions the elastic coefficient ratio for MnTe and the comparison between ALE and MBE growth modes."
+}

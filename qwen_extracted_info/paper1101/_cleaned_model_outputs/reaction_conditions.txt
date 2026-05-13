@@ -1,0 +1,6 @@
+{
+ "reaction_equations": [],
+ "surface_mechanism_description": "The native oxides of the GaAs surface are gradually consumed during the ALD of TiO2 from TDMATi and H2O at 200 °C. The arsenic oxides are consumed faster leaving behind ~0.1 nm of arsenic suboxide/metallic arsenic. The consumption of the gallium oxides is slower but persists even after 120 ALD cycles. Approximately 0.1 nm of Ga2O remains at the interface regardless of the surface preparation.",
+ "intermediate_species": ["arsenic suboxide", "metallic arsenic", "Ga2O"],
+ "evidence": "The consumption of the surface native oxides is studied during the atomic layer deposition of TiO2 films on GaAs (100) surfaces. Films are deposited at 200 °C from tetrakis dimethyl amido titanium and H2O. Transmission electron microscopy data show that the starting surface consists of ~2.6 nm of native oxide and X-ray photoelectron spectroscopy indicates a gradual reduction in the thickness of the oxide layer as the thickness of the TiO2 film increases. Approximately 0.1 –0.2 nm of arsenic and gallium suboxide is detected at the interface after 250 process cycles. For depositions on etched GaAs surfaces no interfacial oxidation is observed."
+}

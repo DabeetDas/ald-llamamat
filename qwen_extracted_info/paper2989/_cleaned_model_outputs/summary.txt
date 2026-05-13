@@ -1,0 +1,8 @@
+{
+  "target_material": "W",
+  "process_type": "ALD",
+  "main_precursors": ["WF6", "SiH4"],
+  "temperature_range": "300°C",
+  "summary": "The study investigates the effect of B2H6 pretreatment on the atomic layer deposition (ALD) of tungsten (W) thin films using a sequential supply of WF6 and SiH4 on thermally grown SiO2 and TiN films. The B2H6 pretreatment reduces the incubation time for film growth and enhances nucleation, leading to improved step coverage at ultrahigh aspect ratio contacts. The results show that B2H6 pretreatment significantly affects the properties of ALD-W films, including resistivity, roughness, phase, and microstructure.",
+  "evidence": "The effects of B2H6 pretreatment on ALD of W film using a sequential supply of WF6 and SiH4 on thermally grown SiO2 and TiN films at 300°C were investigated. The results show that the B2H6 pretreatment reduces the incubation time for film growth. X-ray photoelectron spectroscopy and scanning electron microscopy analysis suggest that elemental B on SiO2, released during B2H6 pretreatment, induce rapid W nucleation. The drastically improved step coverage of ALD-W film is achieved at the ultrahigh aspect ratio contact by the enhanced nucleation and growth via B2H6 pretreatment."
+}

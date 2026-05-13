@@ -1,0 +1,11 @@
+{
+  "target_material": "Pd (Palladium) nanoparticles",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "tetrakis(dimethylamino)tin (TDMASn)",
+    "hydrogen peroxide (H2O2)"
+  ],
+  "temperature_range": "200°C for SnO2 deposition, 200°C for Pd deposition",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of SnO2 and Pd nanoparticles onto TiO2 nanotubes to enhance the catalytic activity of Pd towards ethanol electrooxidation. The process involves two successive ALD steps: first depositing SnO2 and then Pd. The SnO2 layer acts as an interlayer, promoting the electrochemical activity of Pd by reducing the surface to metallic tin and enhancing metal-support interactions. The results show that the SnO2 interlayer significantly improves the catalytic performance of Pd for ethanol oxidation in alkaline media.",
+  "evidence": "The text states: 'The SnO2 layer and Pd nanoparticles have been successively deposited by ALD onto anodic TNTs (Pd/SnO2/TNTs). The morphology, the chemical composition and the crystalline structure of the SnO2 layer and the Pd catalysts have been investigated by scanning and transmission electron microscopies (SEM and TEM, respectively), X-ray photoelectron spectroscopy (XPS) and X-ray diffraction (XRD). The electroactivity of the Pd/SnO2/TNTs systems toward ethanol electrooxidation has been measured by cyclic voltammetry (CV) and chronoamperometry (CA) as a function of the ALD parameters and depending on the crystalline structure of the SnO2/TNTs support.'"
+}

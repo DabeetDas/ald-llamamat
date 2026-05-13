@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Oxygen was adsorbed on the grown Ru surface which reacted with the incoming Ru precursors during the subsequent Ru pulse step. The reaction reduced the Ru/O film by liberating H2O and CO2. During the oxygen pulse step the remaining ligands of the adsorbed Ru precursor reacted with oxygen producing H2O and CO2 as reaction by-products.",
+  "intermediate_species": ["DMPD ligand", "EtCp ligand", "adsorbed oxygen"],
+  "evidence": "It was concluded that oxygen was adsorbed on the grown Ru surface which reacted with the incoming Ru precursors during the subsequent Ru pulse step. The reaction reduced the Ru/O film by liberating H2O and CO2. During the oxygen pulse step the remaining ligands of the adsorbed Ru precursor reacted with oxygen producing H2O and CO2 as reaction by-products. It was clearly shown that oxygen existed at the subsurfaces of the Ru film during ALD, although it was mostly removed during the subsequent steps."
+}<|im_end|>

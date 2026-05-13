@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "5 Torr",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": null,
+  "number_of_cycles": 45,
+  "reactor_type": "vacuum apparatus",
+  "evidence": "During TEOS/NH3 exposures, the TEOS was introduced into the chamber before the NH3 because of the relatively low vapor pressure of TEOS. During H2O/NH3 exposures, the NH3 was introduced into the chamber before the H2O. The TEOS exposure was defined by a TEOS pressure of 0.85 Torr for 10 min. The H2O exposure was defined by an H2O pressure of 5.0 Torr for 15 min followed by an H2O pressure of 10.0 Torr for 60 min."
+}

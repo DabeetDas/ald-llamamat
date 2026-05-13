@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "ALD",
+  "main_precursors": ["molybdenum hexcarbonyl", "hexamethyldisilathiane (HMDST)"],
+  "temperature_range": "150 oC",
+  "summary": "The study describes the synthesis of high-quality, uniform, and thickness-controllable MoS2 films using atomic layer deposition (ALD) at 150 oC with molybdenum hexcarbonyl and hexamethyldisilathiane (HMDST) as precursors, followed by high-temperature annealing in sulfur atmosphere. The ALD process enables wafer-level homogeneity and excellent electrical performance in field-effect transistors (FETs) with high on/off current ratio and mobility.",
+  "evidence": "In this work, we synthesized large-scale and thickness-controllable MoS2 films on sapphire substrate by ALD at 150 oC with molybdenum hexcarbonyl and hexamethyldisilathiane (HMDST) as precursors followed by high-temperature annealing in sulfur atmosphere. The synthesized MoS2 retains the inherent benefits from the ALD process, including thickness controllability, reproducibility, wafer-level thickness uniformity, and high conformity. Finally, field-effect transistor (FET) arrays were fabricated based on the large-area ALD MoS2 films. The top-gate FETs exhibited excellent electrical performance such as high on/off current ratio over 103 and peak room-temperature mobility up to 11.56 cm2/Vs."
+}

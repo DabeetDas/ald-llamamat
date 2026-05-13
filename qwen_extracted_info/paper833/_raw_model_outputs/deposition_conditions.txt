@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": 30,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 30,
+  "number_of_cycles": "100",
+  "reactor_type": "hot-wall horizontal ﬂow-type",
+  "evidence": "TiO2 thin ﬁlms were deposited using the precursor combination TiI4 and H 2O in an onsite-built hot-wall horizontal ﬂow-type ALD reactor... All pulses were 30 s to ensure saturation of the surface. Cycles of 50, 75 and 100 were used to deposit TiO 2 on the CNS. The CNS were placed on TiN-coated titanium substrate holder and all depositions were made at a deposition temperature of 300 1C and a total pressure of 2 Torr."
+}<|im_end|>

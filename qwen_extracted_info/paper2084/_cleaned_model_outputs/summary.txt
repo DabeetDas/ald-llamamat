@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2–ultrathin-Al2O3–Si structures",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Hafnium tetrachloride (HfCl4)", "H2O"],
+  "temperature_range": "300 °C (deposition) and 600 to 800 °C (annealing)",
+  "summary": "The study investigates the suppression of parasitic Si substrate oxidation in HfO2–ultrathin-Al2O3–Si structures using atomic layer deposition (ALD). The use of H2O as an oxidizing agent in the ALD process is key to preventing the formation of an SiOx interlayer. An Al2O3 layer prepared with 10 cycles of ALD (0.74 nm) effectively suppressed substrate oxidation during rapid thermal annealing below 800 °C. The results suggest that an approximate minimal Al2O3 thickness is necessary for integrating HfO2 as a gate dielectric in silicon technology.",
+  "evidence": "We investigated the effects of Al2O3 thickness on the suppression of parasitic substrate oxidation in HfO2–ultrathin-Al2O3–Si structures. The use of H2O as oxidizing agent in the atomic layer deposition sALDd chemistry is considered key to preventing the formation of an SiOx interlayer during oxide deposition. An Al2O3 layer prepared with 10 cycles of atomic layer deposition sALD, ,0.74 nmd effectively suppressed substrate oxidation during rapid thermal annealing in N2 for 10 s below 800 °C."
+}

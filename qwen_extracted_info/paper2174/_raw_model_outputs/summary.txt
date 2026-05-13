@@ -1,0 +1,8 @@
+{
+  "target_material": "SrTiO3",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Sr(C11H19O2)2", "Ti(Oi–C3H7)4"],
+  "temperature_range": "225 °C",
+  "summary": "The study investigates the dielectric properties of SrTiO3 thin films deposited on Ru bottom electrodes using plasma-enhanced atomic layer deposition (PEALD). The presence of a SrO interlayer significantly improves the crystallinity and dielectric constant of the films, particularly for thinner films.",
+  "evidence": "SrTiO3 thin films were deposited on Ru using plasma-enhanced atomic layer deposition with and without a SrO interlayer. When the SrTiO3 films were deposited on Ru directly, the dielectric constants of the films decreased abruptly from 65 to 16 as the thickness fell below 20 nm. This change was related to film crystallinity. Conversely, when a seed layer was prepared by depositing 2.7 nm SrO and postannealing before SrTiO3 deposition, the crystallinity of the SrTiO3 films was enhanced and the thickness dependency of the dielectric constant was reduced."
+}<|im_end|>

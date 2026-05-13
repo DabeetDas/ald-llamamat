@@ -1,0 +1,7 @@
+{
+  "precursors": ["Triethylgallium (TEG)", "Trimethylindium (TMI)"],
+  "coreactants": ["N2/H2 plasma", "N2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Triethylgallium (TEG) and trimethylindium (TMI) were used as gallium and indium metal precursors; whereas N2/H2 and N2 plasma were used as nitrogen precursors for growth of GaN and InN films, respectively. Organometallic precursors and N2/H2 (or N2) were carried from separate lines using 30 and 100 sccm Ar, respectively."
+}

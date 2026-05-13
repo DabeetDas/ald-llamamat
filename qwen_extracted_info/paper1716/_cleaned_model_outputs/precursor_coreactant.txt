@@ -1,0 +1,7 @@
+{
+  "precursors": ["diethylzinc (DEZ, Zn(CH2CH3)2)", "trimethylaluminum (TMA, Al(CH3)3)"],
+  "coreactants": ["deionized water (H2O)"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Atomic layer deposition of ZnO and Al2O3 was performed using diethylzinc (DEZ, Zn(CH2CH3)2), trimethylaluminum (TMA, Al(CH3)3), and deionized water (H2O) as Zn, Al, and oxidant precursors, respectively. Argon was used as a carrier and purge gas."
+}

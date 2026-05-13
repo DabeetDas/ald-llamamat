@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD involve the formation of dangling bonds and surface reconstruction, which lead to deviations from the ideally close-packed configuration. The subsequent atom stacking can result in two crystal structures: one that eliminates dangling bonds to form an epitaxial layer with close-packed density, and another where atoms lie on top of the reconstructed monatomic layer, forming a heredity density lower than the close-packed density.",
+  "intermediate_species": [
+    "dangling bonds",
+    "surface reconstruction"
+  ],
+  "evidence": "The chemistry of the surface reactions is far more complicated than simply laying atomic layers on top of each other. A surface always creates a discontinuity of the bulk which means that either there are dangling bonds on the surface or the unsaturated bonds are terminated by surface reconstruction, etc. The dangling bonds on the surface and the surface reconstruction may result in the structure of the initial as-deposited monatomic layer deviating from the ideally close-packed configuration."
+}

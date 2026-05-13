@@ -1,0 +1,7 @@
+{
+  "precursors": ["Sb(NMe2)3", "H2S", "Ni(dmamb)2", "4MP"],
+  "coreactants": ["H2S", "4MP"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "In the first half cycle, dosing of Tris(dimethylamido)antimony(III) (Sb(NMe2)3 (99.99%, Sigma-Aldrich) vapor at 30 mTorr for 5 s, exposing the mp-TiO2 film for 180 s, and purging out the unreacted precursor for 700 s . In the second half of the cycle, dosing hydrogen sulfide (H2S, ≥99.5%, Sigma Aldrich) gas at 30 mTorr for 2 s, exposing the mp-TiO2 film for 120 s, and purging out for 360 s , thus completing one ALD cycle. Argon (Ar) was used as a carrier and purging gas at 350 mTorr ."
+}<|im_end|>

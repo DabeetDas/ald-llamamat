@@ -1,0 +1,7 @@
+{
+  "precursors": ["(tert-butylimido)-tris(diethylamido)-niobium(V) (TBTDEN)"],
+  "coreactants": ["mixed N2=H2 as the plasma gas"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The NbN films are prepared using an Ultratech/CNT Fiji ALD system with (tert-butylimido)-tris(diethylamido)-niobium(V) (TBTDEN) as the niobium precursor and mixed N2=H2 as the plasma gas. Ar purging is performed prior to each plasma step to remove residual TBTDEN."
+}<|im_end|>

@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Trimethylaluminum (TMA)"
+  ],
+  "coreactants": [
+    "N2-H2 gas mixture"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Trimethylaluminum from PURATREM (TMA, 99.99%) and a N2-H2 gas mixture (ALPHAGAZTM, 99.9999%) were used as Al and N precursors, respectively. The gas flow was set at 20 sccm and 10 sccm for N2 and H2, respectively."
+}

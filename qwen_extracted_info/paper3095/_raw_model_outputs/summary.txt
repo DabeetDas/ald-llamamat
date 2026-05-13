@@ -1,0 +1,8 @@
+{
+  "target_material": "Hafnium–zirconium–oxide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Zirconium tetrachloride (ZrCl4)", "Hafnium tetrachloride (HfCl4)", "Water (H2O)"],
+  "temperature_range": "300°C (deposition) and 800°C (annealing)",
+  "summary": "The study investigates the physical and electrical properties of hafnium–zirconium–oxide films deposited by atomic layer deposition (ALD) on silicon substrates. The films exhibit different crystalline phases (monoclinic and tetragonal) depending on the ZrO2 content, which affects their electrical properties. The addition of ZrO2 stabilizes the tetragonal phase, enhancing the dielectric constant and improving electrical characteristics such as leakage current and breakdown voltage.",
+  "evidence": "We deposited hafnium–zirconium–oxide films with different ZrO2 contents on Si substrates by atomic layer deposition at 300°C and investigated their physical and electrical characteristics. The HfO2 and ZrO2 films with thicknesses of about 20 nm exhibited crystalline structures composed of monoclinic and tetragonal phases, respectively. As the ZrO2 content in the hafnium–zirconium–oxide was increased, the ratio of the tetragonal phase seen in the crystal increased. These changes in crystal phase led to changes in electrical properties. The crystalline phases and electrical properties of the hafnium–zirconium–oxide films exhibited a strong dependence on their Hf/Zr composition ratio."
+}<|im_end|>

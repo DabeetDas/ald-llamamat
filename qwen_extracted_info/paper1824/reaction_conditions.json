@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process was used to conformally coat a uniform thin layer of Co9S8 on a carbon nanotube (CNT) scaffold. The ALD process involves surface reactions where the Co9S8 layer is deposited through self-limiting surface chemistry reactions, enabling precise control over the coating thickness and uniformity.",
+  "intermediate_species": [
+    "Co9S8"
+  ],
+  "evidence": "The ALD process was aimed to conformally coat the CNTs by a uniform thin Co9S8 layer with the layer thickness that can be precisely controlled by the total ALD cycle number. The ALD-synthesized Co9S8/CNT catalyst displayed remarkable electrocatalytic performance with excellent catalytic activity and stability toward both OER and ORR."
+}

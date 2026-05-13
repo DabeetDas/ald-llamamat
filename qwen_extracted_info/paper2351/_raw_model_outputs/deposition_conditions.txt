@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "480",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "modified vertical MOCVD reactor",
+ "evidence": "The susceptor is designed to allow rotation of the substrate between separated gas flows of column HI and V fluxes.3 During growth, AsH3 flows continuously on the column V side. While the substrate is under the AsH3 flow, the trimethylgallium (TMG) is turned on and allowed to stabilize prior to rotation through the flow, depositing one monolayer of GaAs. When the substrate is back under AsH3 again, the TMG is turned off and the triethylindium (TEI) is opened and stabilized during the time that trace TMG is purged."
+}<|im_end|>

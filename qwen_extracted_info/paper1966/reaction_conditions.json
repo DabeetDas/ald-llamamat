@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The formation of complexes between adsorbed GaCH3 and ASH molecules, followed by atomic-hydrogen-induced reaction of these complexes to GaAs, CH4, and H2.",
+  "intermediate_species": [
+    "adsorbed GaCH3",
+    "ASH molecules",
+    "GaCH3 monolayer",
+    "Ga(CH3)3 molecules"
+  ],
+  "evidence": "The various experimental results can be explained as follows. The low-temperature leveling-off below one monolayer per cycle in Fig. 2 is ascribable to a steric-hindrance effect of adsorbed Ga(CH3)3 molecules. The adsorption of these molecules may take place either on the As atoms of the surface or on an already ASH3-covered surface. From our data it cannot be decided whether the adsorption of the Ga-containing or of the As-containing molecules takes place first. In conclusion, self-limiting, monolayer ALE growth of GaAs has been realized at susceptor temperatures between 430 and 500 “C. In this interval thermal gas-phase decomposition of TMG to Ga is avoided, while sufficiently fast surface kinetics for growth is maintained by activation with atomic-hydrogen pulses which have no overlap with the TMG pulses."
+}

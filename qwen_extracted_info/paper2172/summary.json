@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "tetrakis-ethylmethylamino hafnium",
+    "H2O"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "HfO2 thin films were deposited using atomic layer deposition (ALD) with alternating pulses of tetrakis-ethylmethylamino hafnium and H2O precursors at 250 °C. The films were mainly amorphous and nearly stoichiometric. The study compared nucleation on OH- and H-terminated Si surfaces, revealing that the H-terminated surface initially had a nucleation barrier, which was overcome after the 7th cycle. An interfacial layer of SiOx/Hf-silicate was detected, and the films on H-terminated surfaces showed higher optical thickness and surface roughness compared to those on chemical oxide surfaces.",
+  "evidence": "HfO2 thin films have been deposited by an atomic layer deposition (ALD) process using alternating pulses of tetrakis-ethylmethylamino hafnium and H2O precursors at 250 °C. The as-deposited films are mainly amorphous and nearly stoichiometric HfO2 with low bonded carbon content. A comparison of the nucleation stage of the films on OH- and H-terminated Si surfaces has been performed... The interfacial layer thickness remains practically unchanged for the first 50 process cycles... The films deposited on the H-terminated surface are 5% optically thicker than similar films deposited on the SC1 surface."
+}

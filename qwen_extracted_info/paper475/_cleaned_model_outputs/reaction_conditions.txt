@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Growth of ZnS (or ZnSe) films by ALE is achieved using the following sequential steps at low growth temperature: DMZn is introduced in vapor phase, forming zinc bonds on the substrate surface. Excess unreacted DMZn molecules are eliminated from the reactor by H2 gas purge and then H2S (or H2Se) is introduced into the reactor. After purging the excess source gas, ZnS (or ZnSe) is formed when H2S (or H2Se) reacts with the adsorbed DMZn.",
+  "intermediate_species": ["DMZn", "H2S", "H2Se", "ZnS", "ZnSe"],
+  "evidence": "Growth of ZnS (or ZnSe) films by ALE is achieved using the following sequential steps at low growth temperature: DMZn is introduced in vapor phase, forming zinc bonds on the substrate surface. Excess unreacted DMZn molecules are eliminated from the reactor by H2 gas purge and then H2S (or H2Se) is introduced into the reactor. After purging the excess source gas, ZnS (or ZnSe) is formed when H2S (or H2Se) reacts with the adsorbed DMZn."
+}

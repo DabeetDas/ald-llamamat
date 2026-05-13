@@ -1,0 +1,11 @@
+{
+  "target_material": "long-chained alkylsiloxane self-assembled monolayers (SAMs)",
+  "process_type": "atomic-layer deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "de-ionized water (H2O)"
+  ],
+  "temperature_range": "200 ◦C to 30 ◦C",
+  "summary": "The study investigates the formation of long-chained alkylsiloxane self-assembled monolayers (SAMs) on aluminum oxide (alumina) surfaces prepared by atomic-layer deposition (ALD). The SAMs are formed through hydrolysis and subsequent aggregation of octadecyltrichlorosilane (OTS) molecules on the ALD alumina surface. The process involves ALD cycles with TMA and water as precursors, resulting in a conformal alumina film. The SAMs are characterized by their hydrophobicity, chemical stability, and dense packing, which are essential for applications in nanostructures and device engineering.",
+  "evidence": "The text describes the formation of long-chained alkylsiloxane self-assembled monolayers (SAMs) on aluminum oxide (alumina) surfaces prepared by atomic-layer deposition (ALD). The process involves the use of trimethylaluminum (TMA) and de-ionized water (H2O) as precursors, with the ALD process occurring at a temperature range of 200 ◦C to 30 ◦C. The SAMs are formed through hydrolysis and subsequent aggregation of octadecyltrichlorosilane (OTS) molecules on the ALD alumina surface, resulting in a conformal and densely packed monolayer."
+}

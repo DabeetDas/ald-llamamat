@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "ALD",
+  "main_precursors": ["MoCl5", "H2S"],
+  "temperature_range": "250 - 325 °C",
+  "summary": "The study explores the Atomic Layer Deposition (ALD) of MoS2 for understanding the interplay between the active area and hydrogen evolution reaction (HER). The non-ideal ALD growth mode on planar surfaces allows control over the relative ratios of edge-sites and basal planes of MoS2. The incorporation of chlorine impurities affects electron doping and the formation of mixed 2H and 1T phases. The resulting 1T phase is stable even after thermal annealing at 400 °C. The catalytic performance of the MoS2 films is evaluated, showing high current densities and low Tafel slopes, indicating efficient HER activity.",
+  "evidence": "The ALD of MoCl5 and H2S was studied as a model system, and non-ideality was observed between the growth rate and the number of cycles. The resulting 1T phase was stable even upon thermal annealing at 400 ºC. The catalytic performance of the MoS2 films showed current densities up to 20 mA cm-2 at -0.3 V versus the reversible hydrogen electrode (RHE), a Tafel slope of 50 to 60 mV/decade, and an onset potential of 143 mV versus RHE."
+}

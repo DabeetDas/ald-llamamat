@@ -1,0 +1,8 @@
+{
+  "target_material": "aluminum oxide",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Trimethyl aluminum (TMA)", "water"],
+  "temperature_range": "60 /C176C to 90 /C176C",
+  "summary": "The study investigates the temperature-dependent subsurface growth of aluminum oxide during atomic layer deposition (ALD) on polypropylene and cellulose fibers. It highlights the impact of processing temperature on nucleation and growth mechanisms, showing that higher temperatures lead to subsurface nucleation and enhanced precursor penetration, while lower temperatures result in more abrupt polymer/oxide interfaces. The study also demonstrates that cellulose fibers with hydroxyl groups support surface growth, whereas polypropylene, lacking reactive sites, leads to intermixed polymer/inorganic interfaces.",
+  "evidence": "Nucleation and subsequent growth of aluminum oxide by atomic layer deposition (ALD) on polypropylene fiber substrates is strongly dependent on processing temperature and polymer backbone structure. ... The strong temperature dependence of film nucleation and subsurface growth is ascribed to a relatively large increase in bulk species diffusivity that occurs upon the temperature-driven free volume expansion of the polypropylene. ... The temperature and nucleation dependence is also shown to vary with the bonding units available within the polymer structure."
+}

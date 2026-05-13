@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Scanning electron microscopy (SEM)",
+    "Atomic force microscopy (AFM)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Time-of-flight elastic recoil detection (ToF-ERD)",
+    "Spectroscopic ellipsometry",
+    "X-ray reflectivity (XRR)",
+    "X-ray diffraction (XRD)"
+  ],
+  "evidence": "Scanning electron microscopy (SEM) and atomic force microscopy (AFM) images indicate a smooth surface of the deposited films from all processes. X-ray photoelectron spectroscopy (XPS) analysis confirms the stoichiometric deposition of Al2O3 with carbon contamination below XPS detection limits (about 0.5 at. %) when an oxygen plasma was applied and only 1 –2 at. % carbon for low-temperature H2O-based thermal processes. The time-of-flight elastic recoil detection (ToF-ERD) confirms the presence of carbon impurities in the films deposited through thermal ALD and indicates varying degrees of hydrogen content in the deposited films depending on the process condition. A spectroscopic ellipsometer (J.A. Woollam M-200) was attached on the reactor to monitor aluminum oxide film growth in situ. The results were fitted with a Cauchy model for Al2O3, and the model parameters were optimized by inputting the final thickness of Al2O3 oxide films measured ex situ with x-ray reflectivity (XRR). A Bruker D8 diffractometer using Cu K-α radiation was used to obtain XRR patterns."
+}<|im_end|>

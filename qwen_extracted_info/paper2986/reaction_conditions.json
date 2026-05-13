@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Dynamic electron trapping in the CVD TiN sample, where most electron trapping occurs near the TiN/HfSiO interface. When a negative gate bias is applied, electrons from the CVD TiN fill the traps, shifting the C-V curve toward a more positive direction in the VFB region. When a positive bias is applied, trapped electrons are detrapped and flow back to the electrode, restoring the C-V curve to its original state in the Vt region.",
+  "intermediate_species": [
+    "electron traps",
+    "trapped electrons"
+  ],
+  "evidence": "The smaller difference in ΔVFB relative to ΔVt (seen in Fig. 2) can be explained by dynamic electron traps in the CVD TiN sample. Most electron trapping occurs near the TiN/HfSiO interface. Depending on gate voltage polarity, electrons from CVD TiN fill the traps or flow back to TiN gate. When the electrons are trapped, the C-V curve shifts more positively, which is the case for gate injection (VFB area) in the CVD TiN device."
+}

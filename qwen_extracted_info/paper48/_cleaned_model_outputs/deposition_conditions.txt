@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "about 5 mbar",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 1,
+  "number_of_cycles": 2000,
+  "reactor_type": "F-120",
+  "evidence": "Film deposition was performed under a pressure of about 5 mbar. Nitrogen (N2, AGA, 99.999%) at a flow rate of 400 sccm was used as carrier gas as well as for purging. Mo(thd)3 was sublimed from an open glass boat held at 115 °C, and pulsed with inert gas valving. Hydrogen sulfide (H2S, Messer-Griesheim, 99.99%) was fed into the reactor through needle and solenoid valves with its flow rate adjusted to 7 sccm during continuous flow. Purges of 1 s were used between the precursor pulses, whereas Mo(thd)3 and H2S pulse lengths of 0.5 and 2 s were used, unless otherwise noted."
+}

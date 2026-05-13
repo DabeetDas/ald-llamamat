@@ -1,0 +1,7 @@
+{
+  "precursors": ["MeCpPtMe3: (methylcyclopentadienyl) trimethyl platinum"],
+  "coreactants": ["O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ALD growth of platinum is from the metal–organic precursor [MeCpPtMe3: (methylcyclopentadienyl) trimethyl platinum] and oxygen. MeCpPtMe3 is a solid precursor, which is vaporized at room temperature. An evaporation temperature of 65 ◦C for the MeCpPtMe3 yielded a sufficient partial pressure for the ALD reaction. The precursor dose and purge times were determined using the on-line mass spectra. When Pt precursor was dosed into the reactor, there was an increase in the partial pressure of water and CO2. Soon after, the water and CO2 subsequently decreased, which indicated that the surface was saturated and the reaction had reached completion; the partial pressure of Pt precursor fragment (mass 66 and 79) began to increase, which signified the precursor breakthrough, and eventually reached a maximum. After the reactor was purged, oxygen was dosed and the partial pressure of water, CO2 and oxygen increased."
+}

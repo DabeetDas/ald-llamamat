@@ -1,0 +1,11 @@
+{
+  "target_material": "cobalt metal",
+  "process_type": "low temperature reduction (using deuterium atom and Al metal layer as oxygen scavenger)",
+  "main_precursors": [
+    "bis(N-tert-butyl-N0-ethylpropionamidinato) cobalt (II)",
+    "water"
+  ],
+  "temperature_range": "180–270 °C for ALD, 220 °C for deuterium atom reduction, 200 °C for Al capping",
+  "summary": "The study reports the atomic layer deposition (ALD) of cobalt oxide (CoO) on oxide substrates (SiO2/Si and MgO(001)) at 180–270 °C using bis(N-tert-butyl-N0-ethylpropionamidinato) cobalt (II) and water as precursors. The CoO films are then reduced to form ultrathin cobalt metal films using low-temperature methods: deuterium atom reduction at 220 °C and an Al metal layer as an oxygen scavenger. The low-temperature reduction suppresses dewetting, resulting in smooth and continuous cobalt films. The study also investigates the magnetic properties of the resulting cobalt films.",
+  "evidence": "The authors report the deposition of 4.5-nm-thick cobalt (II) oxide on SiO2/Si and MgO(001) substrates at 180–270 °C by atomic layer deposition using bis(N-tert-butyl-N0-ethylpropionamidinato) cobalt (II) and water as coreactants. The resulting CoO film is smooth and carbon-free. CoO can be reduced to Co metal using hydrogen or deuterium gas at 400–500 °C in a vacuum furnace, but the high temperature processing causes dewetting, leading to discontinuous Co metal islands rather than continuous films. Two low temperature ( ∼200 °C) reduction methods are reported: deuterium atom reduction and the use of an O-scavenging Al metal film. The low temperature methods can suppress dewetting to a large extent, and the resulting metallic cobalt film is smooth and continuous."
+}

@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "trimethylaluminium (TMA)"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "argon (Ar)"
+  ],
+  "carrier_gas": [
+    "argon (Ar)"
+  ],
+  "evidence": "Using trimethylaluminium and water in an atomic layer deposition (ALD) exposure sequence, reactions between vapor-phase trimethylaluminium and common polymers with different substituents are quantified using in situ infrared transmission analysis."
+}

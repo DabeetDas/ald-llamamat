@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "TMAA + NH3 -> trimethylamine + H2 + NH2-bound to Al",
+    "TMAA + NH3 -> NH2-bound to Al + H2",
+    "TMAA + NH3 -> NH2-bound to Al + H2",
+    "TMAA + NH3 -> NH2-bound to Al + H2",
+    "TMAA + NH3 -> NH2-bound to Al + H2"
+  ],
+  "surface_mechanism_description": "The TMAA reacts with the alumina surface at 300 K, leading to the formation of surface-bound NH2 species and the release of trimethylamine into the gas phase. Subsequent exposure to NH3 leads to further reaction with surface-bound species, forming extended Al-N networks. The process involves alternating exposures of TMAA and NH3, with the efficiency increasing at higher temperatures.",
+  "intermediate_species": [
+    "trimethylamine",
+    "NH2-bound to Al",
+    "surface-bound NH2",
+    "Al-NH2-Al networks",
+    "H2"
+  ],
+  "evidence": "Upon exposure of TMAA to the alumina surface at 300 K, infrared data show the presence of molecular trimethylamine alane on the surface. NH3 reacts with the TMAA derivatized surface at 300 K, removing all of the trimethylamine, and leaving a four-coordinate -NH2 species bound to aluminum in extended networks. Concurrently, the population of alane on the surface is greatly reduced as a result of reaction with NH3 to form -NH2 and liberate H2. Subsequent exposure of TMAA leads to reaction with the surface -NH2 species and the further adsorption of TMAA. These reactions continue to propagate following additional alternating exposures of NH3 and TMAA, although with decreasing efficiency. The efficiency is increased if the processing is carried out at 400 K."
+}

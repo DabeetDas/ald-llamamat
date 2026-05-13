@@ -1,0 +1,8 @@
+{
+  "target_material": "Si-rich Si xTi1−xO2",
+  "process_type": "plasma-enhanced ALD (PE-ALD) and thermal ALD (T-ALD)",
+  "main_precursors": ["tetrakis(dimethylamido)titanium (TDMAT)", "tris(dimethylamino)silane (TDMAS)"],
+  "temperature_range": "150 °C to 250 °C",
+  "summary": "This study investigates the tunable optical and electrical properties of Si-rich Si xTi1−xO2 thin films deposited using thermal and plasma-enhanced atomic layer deposition (ALD). The films were characterized for their refractive index, energy bandgap, reflectance, leakage current densities, and breakdown fields. PE-ALD films showed lower leakage current densities and higher breakdown fields compared to T-ALD films, making them suitable for advanced electronic and optical applications.",
+  "evidence": "Deposition rates of 0.67 –0.92 Å/cycle were obtained for Si xTi1−xO2 films with x = 0.5 –0.91 deposited using PE-ALD at 250 °C, which were higher than that of T-ALD at 200 °C (0.42 –0.05 Å/cycle). PE-ALD also exhibited a high deposition rate of 0.81 Å/cycle for Si xTi1−xO2 film with x = 0.91 at a low growth temperature of 150 °C. The PE-ALD Si-rich silica –titania films show substantially lower (100×) leakage current densities than the thermally deposited films, along with higher breakdown fields for decreasing deposition temperature. A dielectric constant as low as ∼5 was achieved for PE-ALD Si xTi1−xO2 films with high Si (x = 0.91) content."
+}<|im_end|>

@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Ni-bis-2,2,6,6-tetramethyl-heptane-3,5-dionate (Ni(tmhd)2)",
+    "Co-bis-2,2,6,6-tetramethyl-heptane-3,5-dionate (Co(tmhd)2)"
+  ],
+  "coreactants": [
+    "Ozone (O3)"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The precursors Ni-bis-2,2,6,6-tetramethyl-heptane-3,5-dionate (Ni(tmhd)2) and Co-bis-2,2,6,6-tetramethyl-heptane-3,5-dionate (Co(tmhd)2) were synthesized according to literature methods26 and purified by sublimation in vacuum before use. The precursors were placed in open glass boats within the reactor and N2 was used as a carrier and purging gas."
+}

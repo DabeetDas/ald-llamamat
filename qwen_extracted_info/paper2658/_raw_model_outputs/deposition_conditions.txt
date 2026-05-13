@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "160",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 1,
+  "number_of_cycles": 2408,
+  "reactor_type": "cross-flow",
+  "evidence": "Au thin films were deposited in an ASM Microchemistry F120 ALD reactor. This reactor is a cross-flow cassette reactor with substrates of 5 /C2 5c m 2 size. Purging between the precursor pulses was done with nitrogen (AGA 99.999%). Source temperature for Au(N(SiMe3)2)(PEt3) was 6 1 /C14 C. Used reducing agents and source temperatures were BH 3(NMe3) ( 2 0/C14 C), BH3(NHMe2) (31 /C14 C), hydroquinone (118 /C14 C), and Et 3SiH that was applied from an external source. Et 3SiH is a high vapor pressure liquid at room temperature. In depositions where H 2S( 9 9 . 5 % , Aldrich) was used, the flow rate of H 2S was about 6 sccm. The Au thin films were analyzed with energy dispersive x-ray spectroscopy (EDS) to define the composition and film thickness on Si(100)."
+}<|im_end|>

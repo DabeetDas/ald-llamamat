@@ -1,0 +1,8 @@
+{
+  "target_material": "PbI2",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Pb(btsa)2", "SnI4"],
+  "temperature_range": "70–155 °C, but deposition occurs below 90 °C",
+  "summary": "The study demonstrates an atomic layer deposition (ALD) process for PbI2 thin films using Pb(btsa)2 and SnI4 as precursors. The process operates at low temperatures below 90 °C and is compatible with various substrates. The crystalline texture and morphology of the films depend on the substrate surface roughness, with porous films formed on rough substrates and dense films on smooth substrates. The films show photodetection properties and can be converted into CH3NH3PbI3 perovskite, making them useful for optoelectronic applications.",
+  "evidence": "The process uses a lead silylamide Pb(btsa)2 and SnI4 as precursors and works at temperatures below 90 °C, on a variety of starting surfaces and substrates such as polymers, metals, metal sulfides and oxides. The starting surface defines the crystalline texture and morphology of the PbI2 films. Exposure to light increases conductivity of the ALD PbI2 films which enables their use in photodetectors. The films can be converted into CH3NH3PbI3 halide perovskite, an important solar cell absorber material."
+}<|im_end|>

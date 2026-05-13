@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.1",
+  "coreactant_pulse_time_s": "5",
+  "purge_time_s": "15",
+  "number_of_cycles": "500",
+  "reactor_type": "Savannah 100",
+  "evidence": "For the ZnO deposition, the precursor pulse time was 0.1 s, coreactant pulse time was 5 s, and purge time was 15 s. The ALD was performed in the Savannah 100 reactor."
+}<|im_end|>

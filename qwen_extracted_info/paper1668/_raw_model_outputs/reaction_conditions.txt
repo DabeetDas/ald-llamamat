@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "A: Hf-OH* + Hf[N(CH3)2]4 → Hf-O-Hf[N(CH3)2]3 + NH(CH3)2v",
+    "B: Hf-OH* + H2O → Hf-OH* + NH(CH3)2v",
+    "A: Pt(s) + O2(g) → Pt-Ox",
+    "B: Pt-Ox + CH3C5H4Pt(CH3)3 → Pt(s) + CO2(g) + H2O(g) + byproductv"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the self-limiting chemisorption of precursor molecules on the surface. For HfO2 deposition, the first step involves the reaction of Hf[N(CH3)2]4 with surface hydroxyl groups (Hf-OH*), forming a bridged structure (Hf-O-Hf[N(CH3)2]3) and releasing NH(CH3)2. The second step involves the reaction of H2O with the surface-bound Hf species, regenerating surface hydroxyl groups (Hf-OH*) and releasing NH(CH3)2. For Pt deposition, the first step involves the reaction of Pt precursors with surface oxide groups (Pt-Ox), forming a surface-bound Pt species. The second step involves the reaction of the surface-bound Pt species with the Pt precursor, regenerating surface oxide groups (Pt-Ox) and releasing CO2, H2O, and byproducts.",
+  "intermediate_species": [
+    "Hf-OH*",
+    "Hf-O-Hf[N(CH3)2]3",
+    "NH(CH3)2v",
+    "Pt-Ox",
+    "byproductv"
+  ],
+  "evidence": "The reaction equations and surface mechanism are described in the text as follows: 'The HfO2 deposition occurs according to the following half reactions1,2 where the asterisk represents the surface species. In both half reactions, a gas-phase molecular precursor reacts with the surface functional species and saturates the surface in a self-limiting manner. During ALD, the samples were alternatively exposed to Hf[N(CH3)2]4 and water vapor. The Hf[N(CH3)2]4 precursor was maintained at about 65 °C while the H2O was at room temperature. After each exposure, the reaction chamber and gas manifold were purged with nitrogen to avoid possible chemical vapor deposition-type reactions and physisorption of unreacted species onto the surface. The exposure time for Hf[N(CH3)2]4 and water vapor was 0.1 and 0.2 s, respectively, followed by 3 min of nitrogen purging after each precursor pulse. The substrate temperature was 250°C. This HfO2 ALD process was repeated for 50 cycles, resulting in a thin film 36-38 Å in thickness on reference native-oxide-passivated Si(100) substrates.' Additionally, 'For Pt ALD, the exposure time for both precursors (methylcyclopentadienyltrimethylplatinum and air) was 2 s, with a 90 s nitrogen purge time. The Pt ALD process also consists of two self-limiting chemical half-reactions27,28 where the asterisk represents the surface species. Pt deposition was carried out at a substrate temperature of 300°C. This Pt ALD process was repeated for 50 cycles, leading to the deposition of a 15 -20 Å thin film of Pt.'"
+}<|im_end|>

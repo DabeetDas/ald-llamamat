@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Rutherford backscattering spectrometry (RBS)",
+    "Time-of-flight elastic recoil detection analysis (TOF-ERDA)",
+    "Energy dispersive X-ray spectroscopy (EDX)",
+    "X-ray diffraction (XRD)",
+    "Scanning electron microscopy (SEM)",
+    "Four-point probe method",
+    "Atomic force microscopy (AFM)"
+  ],
+  "evidence": "Film thicknesses were determined in a routine manner with energy dispersive X-ray spectroscopy (EDX) using a Link ISIS EDX spectrometer installed to a Zeiss DSM 962 scanning electron microscope (SEM) and a GMRFILM program. Accuracies of the film thicknesses measured by EDX were verified with Rutherford backscattering spectrometry (RBS) using a 2.0 MeV 4He beam. Film crystallinity was examined with a Philips MPD 1880 powder X-ray diffractometer (XRD). Film surfaces and their fractured cross sections were viewed with a Hitachi S-4500 field emission scanning electron microscope (FE-SEM). Film resistivities were measured with a standard four-point probe method. The film growth was examined with scanning electron microscopy (SEM). Atomic force microscopy (AFM) studies were used to investigate the film morphology."
+}

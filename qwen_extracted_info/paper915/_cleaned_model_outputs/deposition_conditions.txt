@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.2-0.4",
+  "coreactant_pulse_time_s": "0.5",
+  "purge_time_s": "0.5",
+  "number_of_cycles": "85-170",
+  "reactor_type": "",
+  "evidence": "Each metal oxide growth cycle consisted of 0.2–0.4 s metal precursor pulse, first 0.5 s purge, 0.5 s (for ZrO2) or 2 s (for Ta2O5) water pulse, and the second 0.5 s purge."
+}

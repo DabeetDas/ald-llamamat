@@ -1,0 +1,23 @@
+{
+  "summary": [
+    {
+      "code": "evidence_not_found",
+      "path": "summary.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ],
+  "precursor_coreactant": [
+    {
+      "code": "evidence_not_found",
+      "path": "precursor_coreactant.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ],
+  "characterization": [
+    {
+      "code": "evidence_not_found",
+      "path": "characterization.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "target_material": "Copper",
+  "process_type": "plasma-enhanced atomic layer deposition (APP-ALD)",
+  "main_precursors": [
+    "[Cu(tBuNHC)(hmds)]"
+  ],
+  "temperature_range": "100 °C",
+  "summary": "This study demonstrates the spatial plasma-enhanced atomic layer deposition (APP-ALD) of copper thin films using the carbene-stabilized precursor [Cu(tBuNHC)(hmds)] at atmospheric pressure. The process results in conductive and pure copper layers with a growth rate of 0.23 Å/cycle. The precursor's high thermal stability and reactivity make it suitable for low-cost, high-throughput manufacturing of copper films for nano- and optoelectronic devices.",
+  "evidence": "This paper demonstrates a carbene stabilized precursor [Cu(tBuNHC)(hmds)] with suitable volatility, reactivity and thermal stability, that enables the spatial plasma-enhanced atomic layer deposition (APP-ALD) of copper thin films at atmospheric pressure. The resulting conductive and pure copper layers were thoroughly analysed and a comparison of precursor and process with the previously reported silver analogue [Ag(tBuNHC)(hmds)] revealed interesting similarities and notable differences in precursor chemistry and growth characteristics. This first report of APP-ALD grown copper layers is an important starting point for high throughput, low-cost manufacturing of copper films for nano- and optoelectronic devices."
+}

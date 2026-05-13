@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "plasma-assisted atomic layer deposition (PA-ALD)",
+  "main_precursors": ["trimethylaluminum (TMA)", "O2 plasma"],
+  "temperature_range": "room temperature (RT) to 100 °C",
+  "summary": "The study demonstrates the use of plasma-assisted atomic layer deposition (PA-ALD) to deposit Al2O3 moisture permeation barriers on poly(2,6-ethylenenaphthalate) (PEN) substrates at low temperatures. The process enables the creation of thin, high-quality barriers with excellent moisture permeation properties, essential for flexible electronic applications.",
+  "evidence": "In this letter, we show the ability of PA-ALD in obtaining good Al2O3 moisture permeation barriers films at low substrate temperature (from RT to 100 °C) on poly(2,6-ethylenenaphthalate) (PEN) substrates using short cycle times. A good WVTR of 5.0 × 10−3 gm−2 day−1 is obtained for a 20 nm thick film deposited at room temperature with a cycle time of 17 s."
+}

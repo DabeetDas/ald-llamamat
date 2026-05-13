@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "5 mbars",
+  "precursor_pulse_time_s": "2.0",
+  "coreactant_pulse_time_s": "0.50",
+  "purge_time_s": "3.5",
+  "number_of_cycles": "300",
+  "reactor_type": "liquid injection",
+  "evidence": "The number of ALD cycles was 300 and the /H20851precursor solution/purge/H2O/purge/¯/H20852pulse sequences were /H20851n/H20851/H20849iPrCp/H208503La/H20852/ 2.0 s / 0.50 s / 3.5 s //H20852 – /H20851m/H20851/H20849iPrCp/H208503La/H20852/ 2.0 s / 0.50 s / 3.5 s //H20852, where n and m were varied between n =2–8 s and m =2–4 s to control the precursor ratio used."
+}

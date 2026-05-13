@@ -1,0 +1,8 @@
+{
+  "target_material": "Titanium Dioxide (TiO2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "110–300 °C",
+  "summary": "The study investigates the growth, crystallinity, and roughness of TiO2 films deposited via ALD using TiCl4 and H2O precursors on different substrates (thermal SiO2, RCA-cleaned Si, and Al2O3) at temperatures ranging from 110 to 300 °C. The films' roughness and crystallinity are influenced by deposition temperature, film thickness, and substrate type. The goal is to develop anti-stiction coatings for MEMS by controlling surface roughness.",
+  "evidence": "The surface roughness of thin films is an important parameter related to the sticking behaviour of surfaces in the manufacturing of microelectromechanical systems (MEMS). In this work, TiO2 films made by atomic layer deposition (ALD) with the TiCl4–H2O process were characterized for their growth, roughness and crystallinity as function of deposition temperature (110–300 /compBC), film thickness (up to ∼100 nm) and substrate (thermal SiO2, RCA-cleaned Si, Al2O3/rparenori. TiO2 films got rougher with increasing film thickness and to some extent with increasing deposition temperature."
+}<|im_end|>

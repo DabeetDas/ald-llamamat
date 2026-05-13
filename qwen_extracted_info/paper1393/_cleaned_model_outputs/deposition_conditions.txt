@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 225,
+  "pressure": "0.25 Torr",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 0.3,
+  "purge_time_s": 25,
+  "number_of_cycles": null,
+  "reactor_type": "Savannah 200, Cambridge NanoTech",
+  "evidence": "In(amd)3 dose ( ∼0.04 Torr partial pressure), 25 s purge, a 0.3 s H2S dose ( ∼0.45 Torr partial pressure), and 25 s purge. This sequence, denoted 4 −25−0.3−25, was repeated throughout unless otherwise noted."
+}

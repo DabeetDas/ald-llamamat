@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "GaCH3 + AsH3 -> GaAs + CH3 + H2",
+    "In + AsH3 -> InAs + H2"
+  ],
+  "surface_mechanism_description": "Surface reactions are catalyzed on the metal-terminated In sites while the decomposition of AsH3 is incomplete on CH3-terminated Ga sites, which makes a difference in the incorporation kinetics of In and Ga.",
+  "intermediate_species": [
+    "GaCH3",
+    "In"
+  ],
+  "evidence": "It was reported that heterogeneous decomposition of hydrides is not strongly catalyzed on CH3-terminated surface while they decompose readily on metal surfaces. Thus, when AsH3 reaches the growing surface during InGaAs ALE, the surface reactions of AsH3 on the In sites readily occur and the growth rate of InAs is dominated by the In atoms available on the surface. On the other hand, the exchange reaction of AsH3 on the CH3-terminated Ga sites is so slow that the decomposition of AsH3 is incomplete for Ga species, which kinetically limits the incorporation of Ga into InGaAs."
+}

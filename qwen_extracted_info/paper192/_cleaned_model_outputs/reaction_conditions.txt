@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Self-terminating reactions for both TDMASn:N2:H2O:N2 and DEZ:N2:H2O:N2 cycles, where the Sn precursor enables self-limiting surface reactions, and the growth is controlled by the pulse lengths of the precursors.",
+  "intermediate_species": ["SnOx", "ZnO", "surface hydroxyls"],
+  "evidence": "In the study, it is mentioned that the TDMASn:N2:H2O:N2 process has self-terminating reactions, and the growth of the Zn–Sn–O films is controlled by the pulse lengths of the precursors. The SnOx and ZnO are the binary oxides involved in the process, and the surface hydroxyls are likely involved in the reaction mechanism."
+}

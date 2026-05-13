@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "575±C",
+  "pressure": "5:0£ 10¡4 Torr",
+  "precursor_pulse_time_s": "20",
+  "coreactant_pulse_time_s": "15",
+  "purge_time_s": "30",
+  "number_of_cycles": "100",
+  "reactor_type": "F-120",
+  "evidence": "DCS exposure duration t1 20 s, DCS evacuation duration t2 20 s, H2 pressure PH2 5:0£ 10¡4 Torr, W filament temperature Tfil 2000 K, Atomic H exposure duration tAH 15 s, H2 evacuation time t3 30 s"
+}<|im_end|>

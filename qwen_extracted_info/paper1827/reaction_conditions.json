@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "(OH)* + In(CH3)3(g) → (-O-)In(CH3)3-x + xCH4(g)",
+    "In-OH* + Zn(C2H5)2 → In-O-Zn-C2H5* + C2H6"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the reaction of trimethyl indium (TMI) with surface hydroxyl groups followed by oxidation with water to form indium oxide. Subsequently, diethyl zinc (DEZ) reacts with surface In-OH* groups to form Zn-O-In bonds. The process includes precursor exposure, purge steps, and water pulses to facilitate surface reactions and passivation.",
+  "intermediate_species": [
+    "In-CH3*",
+    "In-OH*",
+    "Zn-C2H5*",
+    "Zn-OH*"
+  ],
+  "evidence": "The first half of the supercycle (Step 1 and 2) comprises the exposure of the substrate to a TMI pulse (1 s) accompanied with an extended precursor exposure (1.5 s) and the subsequent oxidization with water. In the first step, TMI molecules react with surface OH-groups according to the following equation: (OH)x* + In(CH3)3 (g) → (-O-)x In(CH3)3-x + xCH4 (g) where the surface species are denoted by an asterisk (*). After purging the reactor with carrier gas (Ar), water is introduced into the chamber as an oxidizing agent. The latter exposure was used to provide sufficient adsorption time and to overcome adsorption delay of the precursor which is known to cause reduced deposition rates when mixed metal oxides are deposited via an ALD route. In order to oxidize the resulting Zn-C2H5* bound surface species, converting them into Zn-OH* species and providing new adsorption sites for the successive deposition step, a water pulse (0.015 s) was applied (step 5), accompanied by Ar purge (15 s)."
+}

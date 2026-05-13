@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "3 and 6 mbar",
+  "precursor_pulse_time_s": 1.5,
+  "coreactant_pulse_time_s": 2.5,
+  "purge_time_s": 3,
+  "number_of_cycles": 2000,
+  "reactor_type": "F-120 by ASM Microchemistry Ltd.",
+  "evidence": "The thin-film depositions were carried out in a commercial flow-type hot-wall ALD reactor (F-120 by ASM Microchemistry Ltd.) at 300 °C deposition temperature. The reactor pressure was maintained between 3 and 6 mbar and nitrogen ( > 99.999%; Schmidlin UHPN 3000 N2 generator) was used both as the purging and carrier gas. The pulse/purge lengths for the mixed Ln precursor were 1.5s/2s, while for O2 were 2.5s/3s."
+}

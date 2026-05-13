@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Water and oxygen play important roles in the chemical reaction. In the first step of the process, water is a catalyst to hydrolyze the organics. Second, the organics is then decomposed by oxygen. The presence of hydroxyl groups on the GaQ3 surface is also the reason why an alumina layer can be coated on the GaQ3 nanowires by ALD.",
+  "intermediate_species": ["hydroxyl groups"],
+  "evidence": "The primary role of water is to hydrolyze the GaQ3 nanowires to form hydroxyl groups. Once the GaQ3 molecules on the surface are completely reacted, the hydrolysis reaction stops. This explains why there is only a small PL degradation when tested in water vapor. The presence of hydroxyl groups on the GaQ3 surface is also the reason why an alumina layer can be coated on the GaQ3 nanowires by ALD."
+}<|im_end|>

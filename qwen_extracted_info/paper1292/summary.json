@@ -1,0 +1,11 @@
+{
+  "target_material": "Manganese oxynitride (MON)",
+  "process_type": "Plasma-enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": [
+    "bis(ethylcyclopentadienyl)manganese (Mn(EtCp)2)",
+    "NH3 plasma"
+  ],
+  "temperature_range": "225–300 °C",
+  "summary": "The study explores the use of plasma-enhanced atomic layer deposition (PE-ALD) to deposit low-resistivity and ultrathin manganese oxynitride (MON) films as effective barriers against copper diffusion. The films are grown using Mn(EtCp)2 and NH3 plasma precursors at temperatures between 225 and 300 °C, demonstrating a growth rate of ~0.39 Å/cycle and excellent barrier performance against Cu diffusion even after high-temperature annealing.",
+  "evidence": "The study explores the use of plasma-enhanced atomic layer deposition (PE-ALD) to deposit low-resistivity and ultrathin manganese oxynitride (MON) films as effective barriers against copper diffusion. The films are grown using Mn(EtCp)2 and NH3 plasma precursors at temperatures between 225 and 300 °C, demonstrating a growth rate of ~0.39 Å/cycle and excellent barrier performance against Cu diffusion even after high-temperature annealing."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the plasma-enhanced atomic layer deposition (PEALD) of vanadium nitride (VN) using tetrakis(dimethylamido)vanadium (TDMA V) and nitrogen plasma. The process occurs at temperatures between 150 and 350 °C, with saturative growth observed between 250 and 350 °C. The mechanism includes ligand exchange between TDMA V and surface hydroxyl groups, followed by a plasma step that introduces nitrogen radicals. The nitrogen radicals react with the surface to form VN, and the process is repeated in cycles. The crystallinity of the films increases with temperature, indicating a more ordered structure as the temperature rises.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "nitrogen radicals",
+    "unreacted precursor fragments"
+  ],
+  "evidence": "The surface reaction mechanism involves the plasma-enhanced atomic layer deposition (PEALD) of vanadium nitride (VN) using tetrakis(dimethylamido)vanadium (TDMA V) and nitrogen plasma. The process occurs at temperatures between 150 and 350 °C, with saturative growth observed between 250 and 350 °C. The mechanism includes ligand exchange between TDMA V and surface hydroxyl groups, followed by a plasma step that introduces nitrogen radicals. The nitrogen radicals react with the surface to form VN, and the process is repeated in cycles. The crystallinity of the films increases with temperature, indicating a more ordered structure as the temperature rises."
+}

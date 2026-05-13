@@ -1,0 +1,16 @@
+{
+ "characterization_methods": [
+    "X-ray Reflectivity",
+    "X-ray Diffraction (XRD)",
+    "Atomic Force Microscopy (AFM)",
+    "Time-of-Flight Elastic Recoil Detection Analysis (TOF-ERDA)",
+    "Dielectric Measurements (C-V and I-V)",
+    "Ellipsometry",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Four-point probe",
+    "Hall Effect",
+    "Scanning Electron Microscopy (SEM)",
+    "Transmission Spectroscopy"
+ ],
+ "evidence": "The film thickness was evaluated either from X-ray reflectivity data, obtained by a parallel beam Bruker D8 Advance X-ray diffractometer (XRD), or from transmission spectra obtained by means of a Hitachi U2000 spectrophotometer. The surface roughness of some selected samples was measured by means of Thermomicroscopes CP Research atomic force microscope (AFM). The structure of the films was determined either by means of a Bruker D8 Advance XRD set in the grazing incidence mode or by a Philips MPD 1880 powder XRD using CuK radiation and the Bragg–Brentano geometry. The residual contamination level and the film composition were evaluated by time-of-flight elastic recoil detection analysis (TOF-ERDA). Dielectric properties were measured either after e-beam evaporation of aluminium gate electrodes or using an MDC 818 three-function mercury probe. The backside of the silicon substrates was etched in hydrofluoric acid and metallized by evaporating a 100-nm thick Al layer. The film composition was analysed by TOF-ERDA. The effective permittivity was calculated from the accumulation capacitance at bias voltages ranging from y 2.5 to y 3.0 V. The C–V curves were recorded using a HP 4284A precision LCR-meter. The current–voltage curves were measured with a Keithley 2400 Source Meter. The leakage current density versus applied electric field was measured for AlyHfOySi capacitors. The films were grown in a hot-wall flow-type ALD reactor. The film thickness was evaluated from X-ray reflectivity data or transmission spectra. The surface roughness was measured by AFM. The structure of the films was determined by XRD. The residual contamination level and the film composition were evaluated by TOF-ERDA. The dielectric properties were measured by C-V and I-V measurements. The effective permittivity was calculated from the accumulation capacitance. The C–V curves were recorded using a precision LCR-meter. The current–voltage curves were measured with a Source Meter. The leakage current density versus applied electric field was measured for AlyHfOySi capacitors."
+}

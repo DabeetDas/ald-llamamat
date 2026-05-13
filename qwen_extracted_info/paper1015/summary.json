@@ -1,0 +1,12 @@
+{
+  "target_material": "Aluminum nitride (AlN)",
+  "process_type": "Plasma enhanced atomic layer deposition (PE-ALD) and thermal atomic layer deposition (T-ALD)",
+  "main_precursors": [
+    "Trimethylaluminum (TMA)",
+    "NH3",
+    "H2 plasma"
+  ],
+  "temperature_range": "325 °C to 350 °C for PE-ALD, 400 °C for T-ALD",
+  "summary": "The study explores the deposition of aluminum nitride (AlN) using plasma enhanced atomic layer deposition (PE-ALD) and thermal atomic layer deposition (T-ALD). PE-ALD utilizes trimethylaluminum (TMA), H2 plasma, and NH3, while T-ALD uses TMA and NH3. The ALD window for PE-ALD is between 325 °C and 350 °C, with a growth rate of 0.09 nm/cycle. The H2 flow rate significantly affects the preferred orientation of AlN films, with higher flow rates promoting (002) orientation. PE-ALD films show lower impurities compared to T-ALD. The study also demonstrates the infiltration of porous sintered silicon carbide (SiC) using AlN deposited by both PE-ALD and T-ALD operating in exposure mode.",
+  "evidence": "The text states: 'In this paper, we study the deposition of AlN by PE-ALD by using trimethylaluminum, H2 plasma and NH3 for deposition temperatures below 400 °C. The self-limiting ALD growth was achieved between 325 °C and 350 °C. As a comparison, AlN was also deposited by thermal ALD (T-ALD), where surface reactions between TMA and NH3 occurred with reasonable growth rates only at temperatures above 400 °C. The PE-ALD films showed low oxygen (1.5 at. %) and carbon contaminations (1 at. %). The T-ALD films contained carbon (5 at. %) mainly attributed to the presence of C-Al bonds that was insignificant in PE-ALD films. The flow rate of H2 used in H2 plasma was found to have a significant impact on the preferred orientation of AlN films, where higher H2 flow rate promoted the (002) preferred orientation. Besides, the electrical resistivities were probed to be 108 Ω cm, as expected in an insulating material. As an example, AlN was used to infiltrate porous sintered silicon carbide (SiC). Both AlN deposited by PE-ALD and by T-ALD operating with exposure mode deposited at 400 °C were attempted.'"
+}

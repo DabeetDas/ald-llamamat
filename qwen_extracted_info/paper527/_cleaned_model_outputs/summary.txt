@@ -1,0 +1,8 @@
+{
+  "target_material": "Si3N4",
+  "process_type": "thermal ALD",
+  "main_precursors": ["SiCl4", "NH3"],
+  "temperature_range": "500–900 K",
+  "summary": "Si3N4 thin films were deposited using atomic layer deposition (ALD) with sequential surface reactions involving SiCl4 and NH3. The process was carried out at temperatures between 500 and 900 K, with a maximum deposition rate of 2.45 Å per AB cycle at 700 K. The films exhibited a stoichiometric Si/N ratio of 1:1.35 and were found to be conformal and smooth, with surface roughness comparable to the Si(100) substrate.",
+  "evidence": "Si3N4 thin films were deposited with atomic layer control on Si(100) substrates using sequential surface chemical reactions. The Si3N4 film growth was accomplished by separating the binary reaction 3SiCl4+4NH3/DLE Si3N4+12HCl into two half-reactions. Successive application of the SiCl4 and NH3 half-reactions in an ABAB… sequence produced Si3N4 deposition at substrate temperatures between 500 and 900 K and SiCl4 and NH3 reactant pressures of 1–10 Torr. The maximum Si3N4 deposition rate per AB cycle was 2.45 Å per AB cycle at 700 K for reactant exposures >1010 L. Rutherford back scattering measurements revealed an Si/N ratio of 1:1.35 as expected for stoichiometric Si3N4 deposition. The surface topography of the Si3N4 films measured with atomic force microscopy (AFM) was nearly identical to the initial Si(100) substrate indicating extremely smooth and conformal Si3N4 deposition."
+}

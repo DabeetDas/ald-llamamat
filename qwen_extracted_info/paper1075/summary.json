@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "diethyl zinc (DEZ)",
+    "water"
+  ],
+  "temperature_range": "150 – 200 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to coat silica gel with ZnO. The process involves alternating exposures of diethyl zinc (DEZ) and water, with reactant exposure times of ∼90 s and purge times of 270 s. The ZnO films were found to be amorphous for films deposited using b5 ALD cycles, but became hexagonal, nanocrystalline ZnO for films deposited using N5 ALD cycles. The study also observed the formation of metallic Zn due to the thermal decomposition of DEZ at high temperatures.",
+  "evidence": "The ZnO ALD was performed using alternating exposures of diethyl zinc (DEZ) and water to coat 1 g quantities of silica gel in a conventional viscous flow reactor. The ZnO films were deposited at temperatures of 150 – 200 °C using alternating exposures to diethyl zinc (DEZ) and deionized water with exposure times of 90 s and purge times of 270 s between reactant exposures. The ALD ZnO was amorphous for films deposited using b5 ALD cycles, but became hexagonal, nanocrystalline ZnO for films deposited using N5 ALD cycles. In addition to the ZnO films, we also discovered that metallic Zn was deposited in the silica gel using very large DEZ exposures and deposition temperatures N 150 °C."
+}

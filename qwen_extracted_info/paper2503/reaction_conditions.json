@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ZnO shell layers were grown on the TiO2 nanoﬁbers using atomic layer deposition (ALD) with H2O and diethylzinc (DEZn) as precursors. The ALD process involved alternating pulses of DEZn and H2O, with N2 purging between each pulse. The formation of ZnO shell layers was confirmed by XRD and TEM analysis, indicating the successful deposition of ZnO on the TiO2 core.",
+  "intermediate_species": [
+    "ZnO shell layers"
+  ],
+  "evidence": "The ALD system used in this work had a horizontal wall reactor. H2O and diethylzinc (Zn(C2H5)2, DEZn) were used as the oxygen and zinc precursors, respectively. DEZn and H2O were separately introduced into the growth reactor, in order to prevent the vigorous pre-reaction of the two precursors, while keeping the temperature and pressure in the reactor at 1501C and 0.3 torr, respectively. The formation of ZnO shell layers was confirmed by XRD and TEM analysis, indicating the successful deposition of ZnO on the TiO2 core."
+}

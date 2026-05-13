@@ -1,0 +1,8 @@
+{
+  "target_material": "AlN",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["trimethylaluminum (TMA)", "ammonia (NH3)"],
+  "temperature_range": "100–500 °C",
+  "summary": "The study investigates the optical properties of AlN thin films grown by plasma-enhanced atomic layer deposition (PEALD) at varying temperatures. The films were characterized using techniques such as x-ray diffraction, spectroscopic ellipsometry, and photoluminescence. The refractive index and optical band edge were found to increase with temperature, and the films showed polycrystalline structures. The study also observed phonon modes and defect-related emissions, indicating the influence of growth temperature on the optical and structural properties of the AlN films.",
+  "evidence": "Crystalline aluminum nitride (AlN) films have been prepared by plasma enhanced atomic layer deposition within the temperature range of 100 and 500 °C. The AlN films were characterized by x-ray diffraction, spectroscopic ellipsometry, Fourier transform infrared spectroscopy, optical absorption, and photoluminescence. The authors establish a relationship between growth temperature and optical properties and in addition, the refractive indices of the AlN films were determined to be larger than 1.9 within the 300–1000 nm wavelength range."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "W (tungsten)",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "WF6",
+    "SiH4"
+  ],
+  "temperature_range": "325 °C",
+  "summary": "The study focuses on real-time sensing and metrology for atomic layer deposition (ALD) processes, specifically tungsten ALD using WF6 and SiH4. The process involves integrating quadrupole mass spectrometry (QMS) to monitor chemical reactions and film growth in real-time. The QMS signals are used to observe nucleation and steady-state growth kinetics, providing insights into film thickness and growth rate. The study also addresses the first-wafer effect and the impact of chamber wall conditions on the ALD process.",
+  "evidence": "The process investigated was tungsten ALD using WF6 and SiH4. The UHV-based substrate-heated ALD reactor incorporated a minireactor chamber. The integrated by-product QMS value changes with cycle number, directly reflecting the nucleation kinetics. The growth kinetics as measured by QMS is consistent with ex situ film characterization. The first wafer effect was apparent when the system was left idle for a few hours, resulting in an apparent QMS signal difference during the nucleation phase between the first wafer and non-first wafer cases."
+}

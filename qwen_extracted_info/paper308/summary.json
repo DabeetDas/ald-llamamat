@@ -1,0 +1,11 @@
+{
+  "target_material": "HfxTi1−x O2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "tetrakis(ethylmethylamido)hafnium(IV) (TEMAH)",
+    "titanium(IV) chloride (TiCl4)"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study describes the preparation of HfxTi1−x O2 films using atomic layer deposition (ALD) with tetrakis(ethylmethylamido)hafnium(IV) (TEMAH) and titanium(IV) chloride (TiCl4) as precursors. The films were annealed at 700 °C, and their optical properties were analyzed using spectroscopic ellipsometry. The Hf/Ti ratio was controlled by varying the ALD cycle ratio, and the optical constants were found to be tunable through composition and annealing.",
+  "evidence": "The optical quality HfxTi1−x O2 films with a wide range of the Hf/Ti ratio were prepared on Si (100) substrates by the ALD method with the use of tetrakis(ethylmethylamido)hafnium(IV) (Hf(NC2H5CH3)4, TEMAH) and titanium(IV) chloride TiCl4 as Hf and Ti precursors, respectively. The H2O vapor was applied as oxygen source. The dispersive optical constants were obtained by spectroscopic ellipsometry over the photon energy range of E = 1.12–4.96 eV. The specific growth kinetics is observed for 0 < x < 1. The optical constants wide-range tuning is reached in the Hf xTi1−x O2 (x = 0–1) films via the chemical composition variation and annealing."
+}

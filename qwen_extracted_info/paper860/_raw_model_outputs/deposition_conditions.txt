@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "5 × 10−3 mbar",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 20,
+  "number_of_cycles": 50,
+  "reactor_type": "home-built pump-type PE-ALD reactor",
+  "evidence": "A single cycle of a typical deposition process consisted of: TMP plasma / pumping / O 2 plasma / pumping / DEZn exposure / pumping. All precursors were introduced into the chamber while it was continuously pumped, reaching a partial pressure of 5×1 0 − 3 mbar in the deposition chamber. In between precursor pulses, pumping times of 20 s were found sufficient to bring residual pressures to below 4 × 10 − 5 mbar, thereby avoiding CVD side reactions."
+}<|im_end|>

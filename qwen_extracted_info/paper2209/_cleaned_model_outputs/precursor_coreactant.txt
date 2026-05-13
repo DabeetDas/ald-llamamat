@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3", "H2O", "O3", "O2 plasma"],
+  "coreactants": ["H2O", "O3", "O2 plasma"],
+  "purge_gas": ["O2"],
+  "carrier_gas": [],
+  "evidence": "The most common ALD process is the deposition of Al2O3 by alternating exposures of Al(CH3)3 and H2O. In addition to H2O, also other oxidation sources can be employed, such as O3 and an O2 plasma."
+}

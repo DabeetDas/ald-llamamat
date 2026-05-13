@@ -1,0 +1,11 @@
+{
+  "target_material": "Cu2S",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Cu(dmamb)2",
+    "H2S"
+  ],
+  "temperature_range": "120-200 oC",
+  "summary": "The study describes the atomic layer deposition (ALD) of Cu2S thin films using Cu(dmamb)2 and H2S as precursors. The process achieved a high growth rate of ~0.22-0.24 nm/cycle at 150-200 oC. Stoichiometric Cu2S films were formed at 120-150 oC, while sulfur-deficient films were formed at 200 oC. The films exhibited p-type electrical characteristics with high carrier concentrations and showed an optical band gap of 1.2 eV.",
+  "evidence": "In this study, atomic layer deposition (ALD) of Cu2S was explored using bis(dimethylamino-2-methyl-2-butoxy)copper(II) and 5% H2S combination as Cu and S sources, respectively. The reaction resulted in a high growth rate of ~0.22-0.24 nm/cycle at 150-200 oC owing to the high reactivity of the Cu precursor. At all investigated temperatures, Cu2S films with Cu oxidation state of +1 were obtained with negligible impurity levels. It was revealed that stoichiometric Cu2S films could be deposited at 120-150 oC, while sulfur deficient films was formed at 200 oC. Cu2S ALD process at low temperatures of 100-120 oC resulted in continuous film formation while the higher deposition temperatures of >150 oC led to island formation."
+}

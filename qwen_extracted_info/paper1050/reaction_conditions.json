@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of calcium cyclopentadienyl precursor (Ca(Cp3i)2) and water (H2O) on the substrate, followed by surface reactions leading to the formation of CaO. The reaction is likely a ligand exchange between the precursor and surface hydroxyl groups, with subsequent water pulse to regenerate OH sites. The formation of Ca(OH)2 is also mentioned, indicating hydroxylation of the CaO films upon exposure to air.",
+  "intermediate_species": [
+    "Calcium hydroxyls",
+    "Calcium carbonate",
+    "Calcium oxide (CaO) surface species",
+    "Calcium hydroxide (Ca(OH)2)"
+  ],
+  "evidence": "The text describes the formation of Ca(OH)2 upon exposure to air, indicating hydroxylation. It also mentions the use of Ca(Cp3i)2 precursor and water for ALD, suggesting ligand exchange and surface reactions. The formation of calcium carbonate during the process is noted, which converts to CaO after heat treatment. The presence of Ca(OH)2 is confirmed by XRD analysis."
+}

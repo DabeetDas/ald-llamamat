@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnO",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "diethylzinc",
+    "N2O",
+    "CO2"
+  ],
+  "temperature_range": "200 ◦C",
+  "summary": "The paper describes a plasma-enhanced atomic layer deposition (PEALD) process for depositing ZnO thin films at low temperatures. The process uses weak oxidants such as N2O and CO2 as both purge and reactive oxidation sources, enabling the fabrication of high-performance ZnO thin-film transistors (TFTs) and circuits with improved stability and performance. The PEALD process allows for the formation of highly crystalline (002) textured ZnO films with high field-effect mobility and low threshold voltage shifts under stress.",
+  "evidence": "Using PEALD, we have deposited highly crystalline (002) textured ZnO thin films at a low temperature (200 ◦C). Using PEALD ZnO films, we have fabricated high-mobility TFTs (20–30 cm2/V · s), which have <100-mV threshold voltage shifts after bias stress at 80◦C for 20 000 s. Using these high-performance TFTs, we have also fabricated simple 15-stage ring oscillator circuits with a propagation delay of 22 ns/stage for a supply voltage of 16 V, which, to the best of our knowledge, are the fastest ZnO TFT circuits reported to date."
+}

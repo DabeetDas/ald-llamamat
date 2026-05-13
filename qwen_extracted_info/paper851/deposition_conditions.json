@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "160–190",
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 60,
+  "number_of_cycles": 80,
+  "reactor_type": "hot wall laminar flow ALD reactor",
+  "evidence": "The deposition temperature (Tdep) was in the temperature range of 80–230 /C14C. Ni(dmamb)2 was retained in a stainless steel container/glass tube, which was heated to 80 /C14C for sufficient sublimation. ... The dosing time of Ni(dmamb)2 and H2S were varied between 0.5 to 8 s and 0.5 to 5 s under of sufficient purging times (Tpur1 and Tpur2) of 300 s, respectively. The film thickness obtained per cycle for Ni(dmamb)2 and H2S became saturated with the dosing times of 2 s and 1 s, respectively (Fig. 2a and b). ... The purge times of Tpur1 and Tpur2 were fixed at 60 s and 20 s hereafter, respectively to avoid CVD (chemical vapor deposition)-like reactions."
+}

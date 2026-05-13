@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Nitrogen incorporation during ALD using NH4OH as a single source for reactants, which produces a mixture of vapors of water and NH3. The nitrogen incorporation is attributed to the NH3 vapor produced by the NH4OH solution.",
+  "intermediate_species": [
+    "NH3 vapor",
+    "water vapor"
+  ],
+  "evidence": "Previously, it has been reported that NH4OH produces vapors composed of water and NH3 molecules, whose ratio is dependent on NH3 concentration and temperature. Thus, we can infer that the nitrogen incorporation in the current study is from the NH3 vapor produced by the NH4OH solution."
+}

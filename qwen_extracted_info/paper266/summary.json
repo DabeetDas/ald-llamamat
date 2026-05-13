@@ -1,0 +1,13 @@
+{
+  "target_material": "boron phosphate and titanium silicate",
+  "process_type": "molecular layering (chemisorption of ortho-esters and metal halides)",
+  "main_precursors": [
+    "titanium tetrachloride",
+    "tetraethoxysilane",
+    "trimethoxyborate",
+    "phosphoryl trichloride"
+  ],
+  "temperature_range": "600-750 °C for pre-evacuation, 350-570 °C for heating",
+  "summary": "The study describes the synthesis of boron phosphate and titanium silicate compounds on silica surfaces using a molecular layering process that eliminates the hydrolysis step. The process involves successive chemisorption of metal halides and ortho-esters, followed by treatment with water vapor and heating to form the desired compounds. The structures were characterized using IR, NMR, and mass-spectrometry techniques.",
+  "evidence": "The method proposed was utilized for the preparation of boron phosphate and titania-silica compounds on silica surface. The synthesis of titania-silica species was carried out by successive chemisorption of titanium tetrachloride and tetraethoxysilane vapors on silica surface. The investigations of the structure of the boron phosphate species was carried out by 11B and 31p MAS NMR spectroscopy. It is known that the synthesis of crystalline BPO4 in liquid phase must be followed by heating of the samples at 300-500 °C."
+}

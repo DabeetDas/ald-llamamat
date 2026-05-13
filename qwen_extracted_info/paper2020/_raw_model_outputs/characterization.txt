@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Ellipsometry",
+    "Cross-section high-resolution transmission electron microscopy (HRTEM)",
+    "Energy dispersive spectroscopy (EDS)",
+    "Atomic force microscopy (AFM)",
+    "Capacitance–voltage (C–V) measurement",
+    "Current density–voltage (J–V) measurement",
+    "High-resolution transmission electron microscopy (HRTEM)"
+  ],
+  "evidence": "The film thicknesses were measured by ellipsometry. However, it was found that the measured thickness contained an interfacial layer thickness since the measurement recipe was not optimized for the HfO2 films. Therefore, the actual HfO2 film thicknesses were calibrated using cross-section high-resolution transmission electron microscopy (HRTEM, JEOL JEM-3000F) equipped with a field-emission electron gun. The Hf and Si concentration in the films were measured by energy dispersive spectroscopy (EDS, Oxford EDS6989) with an electron probe diameter of 1 nm. The root-mean-squared (RMS) surface roughness of the films were measured by atomic force microscopy. A Hewlett-Packard 4194A impedance meter and a 4140B picoammeter were used for the capacitance–voltage (C–V) and current density–voltage (J–V) measurements, respectively. The film thickness was varied by controlling of number of cycles at each deposition temperature (200, 300, and 400 °C)."
+}<|im_end|>

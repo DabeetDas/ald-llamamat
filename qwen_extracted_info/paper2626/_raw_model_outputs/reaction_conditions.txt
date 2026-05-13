@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "TiCl4 þ 2H2S ! TiS2 þ 4HCl",
+    "Ti-SH þ TiCl4 ! Ti-S-TiCl3½/C138 /C3 þ HCl;",
+    "TiCl/C3 þ H2S ! TiSH/C3 þ HCl;"
+  ],
+  "surface_mechanism_description": "The proposed reaction is divided into two sequential surface-limited half reactions. Sequential execution of 1212 reactions leads to the controlled growth of TiS2 thin films.",
+  "intermediate_species": [
+    "Ti-SH",
+    "Ti-S-TiCl3½/C138 /C3",
+    "TiSH/C3"
+  ],
+  "evidence": "The overall chemical reaction involving TiCl4 and H2S to form TiS2 can be written as TiCl4 þ 2H2S ! TiS2 þ 4HCl. In ALD process, the proposed reaction is divided into two sequential surface-limited half reactions as Ti-SH þ TiCl4 ! Ti-S-TiCl3½/C138 /C3 þ HCl; (1) TiCl/C3 þ H2S ! TiSH/C3 þ HCl; (2), where \"*\" denote the surface species at the end of each half cycle. Sequential execution of 1212 reactions leads to the controlled growth of TiS2 thin films."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+ "characterization_methods": [
+   "Scanning Electron Microscopy (SEM)",
+   "Rutherford Backscattering Spectroscopy (RBS)",
+   "X-ray Photoelectron Spectroscopy (XPS)",
+   "X-ray Diffraction (XRD)",
+   "Atomic Force Microscopy (AFM)",
+   "High-resolution Transmission Electron Microscopy (HRTEM)"
+ ],
+ "evidence": "The thickness per cycle values for ALD WN films, as determined by scanning electron microscopy (SEM), was 0.05 nm at 300 °C, and 0.1 nm at 350 °C. Rutherford backscattering spectroscopy (RBS) showed that there was no appreciable oxygen in the film. X-ray photoelectron spectroscopy (XPS) confirmed that no carbon was detectable in the film. X-ray diffraction (XRD) confirmed that once the as-deposited amorphous films were annealed they contained the diffraction peaks corresponding to the known cubic, crystalline phase of WN. Atomic force microscopy (AFM) confirmed that the surface roughness of the deposited layer was very similar, if not equal to that of the substrate. High-resolution transmission electron microscopy (HRTEM) showed the film to be amorphous."
+}

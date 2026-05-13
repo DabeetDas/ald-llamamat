@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "switched laser metalorganic vapor phase epitaxy (SL MOVPE)",
+  "main_precursors": ["trimethylgallium (TMG)", "AsH3"],
+  "temperature_range": "365 to 430°C",
+  "summary": "The study describes the stepwise monolayer epitaxy of GaAs using switched laser metalorganic vapor phase epitaxy (SL MOVPE). The process involves alternating flows of trimethylgallium (TMG) and AsH3, with laser irradiation to suppress pyrolytic decomposition and favor photocatalytic decomposition of TMG at surface As atoms. The growth rate remains constant at one monolayer per cycle between 365 and 430°C, indicating successful stepwise monolayer growth.",
+  "evidence": "Growth of GaAs by repeated deposition of single atomic layers using the switched laser metalorganic vapor phase epitaxy technique is reported. ... The growth rate is independent of the growth temperature between 365 and 430°C, remaining constant at one monolayer/cycle (0.283 nm/cycle). This result suggests that stepwise monolayer epitaxy of GaAs is achieved in this temperature region."
+}<|im_end|>

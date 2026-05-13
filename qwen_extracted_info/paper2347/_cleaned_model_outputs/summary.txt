@@ -1,0 +1,8 @@
+{
+  "target_material": "Zn chalcogenide single crystalline films",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Zn", "Se", "Te"],
+  "temperature_range": "200-400°C for ZnTe and 280°C for ZnSe",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of Zn chalcogenide single crystalline films on (001) GaAs substrates. The process involves alternating deposition of Zn, Se, and Te molecular beams, with the growth mechanism transitioning from three-dimensional at the initial stage to pseudo-two-dimensional after deposition of more than 1000 monolayers. The study also highlights the importance of chemical-bond matching for two-dimensional growth in heteroepitaxy.",
+  "evidence": "We have grown ZnSe and ZnTe on a (001) GaAs substrate using a conventional molecular beam epitaxy system (ULVAC-MBC). The substrate temperatures during growth were in the range 200-400°C for ZnTe and at 280°C for ZnSe. ... The initial stage in ALE of Zn chalcogenides is dominated by the three-dimensional growth mechanism ... The observed change of the RHEED pattern is indicative of two-dimensional growth in both ZnTe on ZnSe and ZnSe on ZnTe."
+}

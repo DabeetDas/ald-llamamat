@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "250",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "cross flowtype",
+ "evidence": "Films were grown in a cross flowtype ASM Pulsar 3000 reactor on 5 nm Ru/10 nm TiN/Si(100) wafers (300 mm diameter) at 250 °C using Ti(OCH 3) 4 and with O 3 (delivered at 233 g/m 3 and generated from a mixture of N 2 and O 2 at 15% N 2) and/or H 2 O as oxidant."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100 −350",
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 0.25,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "Oxford Instruments OpAL open-load ALD reactor",
+  "evidence": "The optimized recipe consists of 5 s InCp dose −2 s InCp purge−5sO 2 flow stabilization −0.25 s O 2/H2O dose −10 s O 2/H2O purge."
+}<|im_end|>

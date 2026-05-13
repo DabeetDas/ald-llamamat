@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth model developed by Haukka et al. involves the reaction of ZrCl4 with Si11–(OH)21 species on the Si(100) surface, leading to the formation of amorphous ZrO2 (I-ZrO2) and crystalline ZrO2 (II-ZrO2) depending on the number of reactive sites. The decrease in (OH)21 species with increasing growth temperature (Tg) forces each ZrCl4 molecule to react with more than one (OH)21 species, promoting agglomeration and crystallization.",
+  "intermediate_species": ["Si11–(OH)21", "Si12–2(OH)21", "Zr–OH groups", "Cl2 species"],
+  "evidence": "The surface mechanism is discussed in the context of the growth model developed by Haukka et al.17, where ZrCl4 reacts with Si11–(OH)21 species to form amorphous ZrO2 (I-ZrO2) and with two Si11–(OH)21 species to form crystalline ZrO2 (II-ZrO2). The decrease in (OH)21 species with increasing Tg is correlated with the decrease in hydrogen observed in the TOF-SIMS profiles of films a–d. The reaction of ZrCl4 with Si11–(OH)21 species and the exchange between (OH)21 and Cl2 species are also mentioned."
+}<|im_end|>

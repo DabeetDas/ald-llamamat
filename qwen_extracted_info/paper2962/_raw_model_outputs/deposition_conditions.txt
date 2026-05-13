@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400-500",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 1.0,
+  "coreactant_pulse_time_s": 1.0,
+  "purge_time_s": 0.5,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "In both cases, NH3 pulse length (s) ... the growth rate is seen to saturate to about 0.12 A/cycle with pulse lengths exceeding 0.5 s. Thus, for the subsequent experiments, 1.0 s pulse lengths were chosen for both Ti14 and NH3. ... In Fig. 4, the pulse times of both TiI4 and NH3 were 1.0 s, and the purge times were 0.5 s. This results in a cycle time of 3.0 s, which means that the growth rates of 0.1 to 0.3 A/cycle correspond with effective deposition rates of 0.2 to 0.6 nm/mi. ... The films were grown onto 5 x 5 cm soda lime glass substrates using a PC-controlled flow-type F-120 ALE reactor (Microchemistry Ltd., Espoo, Finland) operated under a pressure of 10 mbar."
+}<|im_end|>

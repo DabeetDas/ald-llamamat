@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2 and Al2O3 gate dielectrics on GaAs",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Al(CH3)3 + H2O",
+    "HfCl4 + H2O"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study focuses on the deposition of HfO2 and Al2O3 gate dielectrics on GaAs using atomic layer deposition (ALD). The process involves the use of specific precursors and thermal treatments to improve the electrical quality and gate stack capacitance. The interfacial layer thickness and composition are influenced by surface preparation, growth chemistry, and thermal treatments. Thermal treatments at around 600 °C decompose interfacial As oxides and remove oxygen, enhancing the electrical properties of the structures.",
+  "evidence": "We have studied hafnium oxide and aluminum oxide grown on gallium arsenide by atomic layer deposition. Depositions were performed using alternating exposures of the common ALD precursors AlsCH3d3 +H2O or HfCl4 +H2Oi naN2 carrier gas at 300 °C, using a commercial ASM Pulsar3000™ ALD reactor. Thermal treatments at ,600 °C decompose arsenic oxides and remove interfacial oxygen. These observations explain the improved electrical quality and increased gate stack capacitance after thermal treatments."
+}

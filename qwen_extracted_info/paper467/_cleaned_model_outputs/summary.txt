@@ -1,0 +1,8 @@
+{
+  "target_material": "Ni4MP",
+  "process_type": "ALD/MLD",
+  "main_precursors": ["bis(dimethylamino-2-methyl-2-butoxo)nickel (Ni(dmamb)2)", "4-mercaptophenol (4MP)"],
+  "temperature_range": "180 ºC",
+  "summary": "The study describes the use of a Ni-4mercaptophenol (Ni4MP) interfacial layer in Sb2S3-sensitized solar cells to enhance photovoltaic performance. The Ni4MP interlayer was deposited using a combined atomic layer deposition (ALD) and molecular layer deposition (MLD) process. The introduction of the Ni4MP interlayer significantly improved the power conversion efficiency of the solar cells from 2.07% to 2.79%, attributed to enhanced charge transfer kinetics and reduced recombination. The Ni4MP interlayer was found to effectively extract photogenerated holes from the Sb2S3 sensitizer due to its favorable band alignment and hole scavenging properties.",
+  "evidence": "The Ni4MP interlayer was deposited using a combined ALD/MLD process. The Ni4MP interlayer was found to effectively extract photogenerated holes from the Sb2S3 sensitizer due to its favorable band alignment and hole scavenging properties. The power conversion efficiency of the solar cells was improved from 2.07% to 2.79% due to the insertion of the Ni4MP interlayer."
+}

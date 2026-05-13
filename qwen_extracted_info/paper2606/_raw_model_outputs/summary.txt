@@ -1,0 +1,8 @@
+{
+  "target_material": "Zn–Ti–O ternary compounds",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["diethylzinc (DEZ)", "titanium isopropoxide (TTIP)"],
+  "temperature_range": "200 /C14 C (deposition) and 600–900 /C14 C (postannealing)",
+  "summary": "The study investigates the preparation and phase structures of Zn–Ti–O ternary compounds using atomic layer deposition (ALD). Zn–Ti–O films with varying Zn/Ti cycle ratios were deposited on Si substrates using diethylzinc (DEZ) and titanium isopropoxide (TTIP) as precursors. The effects of Zn/Ti cycle ratio and postannealing temperature on the growth rate, composition, phase structure, and morphology of the films were analyzed. The results show that the postannealing temperature and ALD sequence significantly influence the phase evolution of the ZTO films, with different phases such as Zn2TiO4 and h-ZnTiO3 being formed under specific conditions.",
+  "evidence": "Zn–Ti–O (ZTO) ternary films with various Zn/Ti cycle ratios were deposited on Si substrates using diethylzinc and titanium isopropoxide as Zn and Ti sources by atomic layer deposition (ALD). The effect of Zn/Ti cycle ratio and postannealing temperature on the growth rate, composition, phase structure, and morphology of ZTO films were investigated by a series of analytical tools. It is found that for ALD ZTO films, the growth per cycle (GPC) of TiO2 deposited on ZnO-terminated surface is faster than that of pure TiO2, while the GPC of ZnO deposited on TiO2-terminated surface becomes slower than that of pure ZnO. This makes the Zn/Ti cycle ratio effect on the film composition become weak. The postannealing temperature and ALD sequence play important roles in facilitating the ZTO phase evolution."
+}<|im_end|>

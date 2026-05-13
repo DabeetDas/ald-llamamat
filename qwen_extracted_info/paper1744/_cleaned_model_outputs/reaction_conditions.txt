@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of tetrakis(dimethylamino)tin (TDMASn) and hydrogen sulfide (H2S) on the Ni-foam substrate, leading to the formation of SnSx films. The ALD process uses sequential surface chemical processing and self-limiting reactions to deposit the films. The reaction mechanism includes the adsorption of TDMASn and H2S, followed by surface reactions that form SnSx with the release of byproducts such as (CH3)2NH and H2S.",
+  "intermediate_species": ["TDMASn", "H2S", "SnSx"],
+  "evidence": "The text describes the ALD process using TDMASn and H2S as precursors, with the formation of SnSx films on Ni-foam. The surface reactions involve the adsorption of TDMASn and H2S, followed by surface reactions that form SnSx with the release of byproducts such as (CH3)2NH and H2S. The mechanism is supported by the discussion of the ALD process and the formation of SnSx films."
+}

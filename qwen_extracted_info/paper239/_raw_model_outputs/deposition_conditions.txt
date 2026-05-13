@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "96 mTorr",
+  "precursor_pulse_time_s": 0.6,
+  "coreactant_pulse_time_s": 0.6,
+  "purge_time_s": 10,
+  "number_of_cycles": 100,
+  "reactor_type": "stainless-steel tube in a tube furnace",
+  "evidence": "During each of the self-limited half reactions corresponding to the alternating exposures of TEMAH and water, reactants were dosed to achieve full surface saturation, which resulted in excellent thickness control at the atomic level as a submonolayer of oxide was consistently deposited for each cycle. A flow of nitrogen (30 sccm) was continuously fed into the reactor to maintain a reactor pressure of 96 mTorr. Prior to each pulse, a 10-s N2 purge was initiated to ensure that unreacted precursor and reaction by-product, mainly (CH3)(C2H5)NH, were adequately purged out of the reactor."
+}<|im_end|>

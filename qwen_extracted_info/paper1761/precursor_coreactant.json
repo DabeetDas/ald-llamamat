@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "(MeCp)Ir(CHD)"
+  ],
+  "coreactants": [
+    "ozone",
+    "H2"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "Nitrogen was used as both a carrier and a purging gas. The films were grown on Al2O3 deposited in situ by ALD from trimethylaluminium (TMA) and water. Nitrogen was produced with a Domnick Hunter G2100E nitrogen generator and was used as both a carrier and a purging gas."
+}

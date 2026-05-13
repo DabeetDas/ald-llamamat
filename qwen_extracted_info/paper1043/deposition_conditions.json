@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "160-210",
+  "pressure": "2 – 3 mbar",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 1,
+  "number_of_cycles": "500 to 10,000",
+  "reactor_type": "F120 Sat reactor",
+  "evidence": "The films were deposited at a total pressure of 2 – 3 mbar in the temperature range from 138 to 380 -C. The growth rate (as measured with X-ray reflectivity for deposition temperatures below 335 -C and estimated with XRF for deposition temperatures above 350 -C) as a function of the temperature in the deposition chamber is ... The ALD window for the deposition of the iron-oxide films was explored by varying one parameter at the time. The subsequent N 2 purging may conveniently be performed for 1 s (which is certainly more than sufficient to prevent CVD growth). Similarly, the ozone pulse time was chosen as 2 s with a following 1 s purge with N 2."
+}

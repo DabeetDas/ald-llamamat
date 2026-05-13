@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Sn-SH* + Sn(acac)2 → SnS-Sn(acac)* + Hacac",
+    "SnS-Sn(acac)* + H2S → SnS-SH* + Hacac"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the sequential exposure of Sn(acac)2 and H2S. The Sn(acac)2 precursor reacts with surface SH* groups to form SnS-Sn(acac)* species, followed by the reaction of H2S with SnS-Sn(acac)* to regenerate SH* groups and release Hacac. This ABAB sequence leads to atomic layer-by-layer growth of SnS.",
+  "intermediate_species": [
+    "Sn(acac)*",
+    "SnS-Sn(acac)*",
+    "Hacac",
+    "SnS-SH*"
+  ],
+  "evidence": "The surface chemistry for SnS ALD is proposed to occur in the following fashion where the surface species are marked with asterisks. Reaction 1 exposes the surface to the Sn(acac)2 precursor and converts the SH* surface to an Sn(acac)* surface. Reaction 2 exposes the surface to H2S and converts the Sn(acac)* surface back to the SH* surface. Following reaction 2, the surface is returned to the original state and is ready for another reaction 1. The repetition of these reactions in an ABAB... sequence will lead to SnS growth in an atomic layer-by-layer fashion."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the chemical adsorption of precursors on the carbon fiber paper (CFP) substrate, leading to the formation of MoS_x through the ALD process. The growth occurs via the adsorption of molybdenum hexacarbonyl (Mo(CO)6) and dimethyldisulfide (DMDS) on the surface, followed by the chemical reaction and desorption of byproducts. The mechanism is influenced by the limited number of adsorption sites on the CFP, resulting in particle-like growth of MoS_x.",
+  "intermediate_species": ["MoS_x", "surface hydroxyls", "formate species"],
+  "evidence": "The text describes the ALD process of MoS_x on CFP, where the growth occurs via the adsorption of Mo(CO)6 and DMDS on the surface, leading to the formation of MoS_x. The particle-like growth is attributed to the limited number of adsorption sites on the CFP. The surface reaction mechanism is influenced by the chemical adsorption of precursors and the subsequent reaction and desorption of byproducts."
+}

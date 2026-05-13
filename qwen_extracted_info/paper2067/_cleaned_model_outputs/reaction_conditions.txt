@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of O3 as an oxidant in ALD to reduce residual carbon concentration and leakage current density. The formation of a thin interfacial SiNx layer prevents Si diffusion and interfacial oxidation. The mechanism also involves the elimination of carbon and hydrogen from the films, which contributes to lower leakage current densities.",
+  "intermediate_species": ["SiNx layer", "carbon impurities", "hydrogen"],
+  "evidence": "The text discusses the use of O3 as an oxidant in ALD to reduce residual carbon concentration and leakage current density. It mentions the formation of a thin interfacial SiNx layer that prevents Si diffusion and interfacial oxidation. Additionally, it notes that hydrogen concentration in the films grown using O3 is lower, which contributes to smaller leakage current densities."
+}

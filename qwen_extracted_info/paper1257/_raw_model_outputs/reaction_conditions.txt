@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "InCl3 + 2 Li[1,3-diisopropyltriazenide] -> tris(1,3-diisopropyltriazenide)indium(III) + 3 LiCl"
+  ],
+  "surface_mechanism_description": "The precursor undergoes gas-phase thermal decomposition at higher temperatures to produce a more reactive In(III) compound while retaining self-limiting growth behavior. The decomposition liberates propene and dinitrogen molecules, forming a smaller tricoordinated In(III) species which contributes to the increased growth rate observed in the higher temperature interval.",
+  "intermediate_species": [
+    "tricoordinated In(III) species",
+    "propene",
+    "dinitrogen"
+  ],
+  "evidence": "The thermal decomposition of 1 was studied by DFT calculations at 300 °C showing two possible pathways. The first common step of both pathways is a transfer of a hydrogen from the methyl group of the iPr moiety to the endocyclic nitrogen, releasing a propene molecule to form A. Compound A can tautomerize through a hydrogen transfer to the exocyclic nitrogen to give B. The other possible path, which is more energetically favored, is migration of the hydrogen onto the exocyclic tertiary nitrogen while simultaneously releasing dinitrogen gas to form C. The energy for the final structure C (∆G = –245 kJ mol-1) is much lower than 1, due to the large increase of entropy when releasing two molecules."
+}<|im_end|>

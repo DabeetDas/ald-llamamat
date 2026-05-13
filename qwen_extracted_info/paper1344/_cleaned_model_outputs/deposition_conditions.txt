@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "75-250",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 7,
+  "number_of_cycles": 300,
+  "reactor_type": "tubular",
+  "evidence": "As the Ni(amd)2 pulse length increased from 1 to 9 s, the film growth rate first appreciably increased from 0.029 to 0.039 nm/cycle and then remained constant when the Ni(amd)2 pulse length exceeded 3 s. Similarly, Figure 1(b) shows the change of the growth rate with the pulse length of H2 plasma. As the plasma pulse was elongated from 3 to 10 s, the film growth rate first increased and then reached constant when the plasma pulse length exceeded 4 s. The effect of the H2 gas purging time was also investigated. As shown in Figure 1(c), by elongating the purge length after Ni(amd)2 from 1 to 15 s, the film growth rate first considerably decreased and then reached constant when the purge length exceeded 7 s."
+}

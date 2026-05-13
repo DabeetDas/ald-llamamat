@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "MeCpPtMe3"
+  ],
+  "coreactants": [
+    "O2",
+    "N2*"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Pt ALD was conducted using MeCpPtMe3 (Strem Chemicals, 99%) and either O2 or N2*. The Pt precursor was contained in a stainless steel container heated to 30 °C and Ar was used as a carrier gas."
+}

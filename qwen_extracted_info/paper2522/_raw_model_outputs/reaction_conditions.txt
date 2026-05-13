@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the incorporation of nitrogen into the HfO2 layer during post-deposition annealing (PDA) under NH3 atmosphere. The amorphous Al2O3 interlayer suppresses N diffusion into the Si substrate, while the crystalline HfO2 layer incorporates N at temperatures above 800 °C. The nitrogen incorporation affects the electrical properties by altering the fixed charge density and flat-band voltage.",
+  "intermediate_species": ["Nitrogen incorporated into HfO2 layer", "Amorphous Al2O3 interlayer", "Hf–N bonds", "Hf–O bonds"],
+  "evidence": "The text discusses the nitrogen incorporation into the HfO2 layer during post-deposition annealing under NH3 atmosphere. It mentions that the amorphous Al2O3 interlayer suppresses N diffusion into the Si substrate, while the crystalline HfO2 layer incorporates N at temperatures above 800 °C. The nitrogen incorporation affects the electrical properties by altering the fixed charge density and flat-band voltage. The binding energy shift from the Hf–N bond was located at a lower binding energy compared to that of the Hf–O bond."
+}<|im_end|>

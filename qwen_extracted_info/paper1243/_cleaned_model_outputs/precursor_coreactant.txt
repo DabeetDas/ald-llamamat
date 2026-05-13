@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ni(amd)2"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "During the deposition, Ni(amd)2 was mildly heated to 70 °C while H2O was kept at room temperature. The Ni precursor vapor was delivered into the deposition chamber with the assist of purified N2 gas (through a Gatekeeper inert gas purifier)."
+}

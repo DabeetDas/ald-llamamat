@@ -1,0 +1,8 @@
+{
+  "target_material": "Plexiglas",
+  "process_type": "Thermal neutron diffusion cooling",
+  "main_precursors": ["KCl solutions", "H3BO3 solutions", "Silicon"],
+  "temperature_range": "",
+  "summary": "The study investigates the thermal neutron diffusion cooling coefficient (C2) for Plexiglas in a two-region system, where the inner region contains hydrogenous materials like KCl solutions or H3BO3 solutions, or mixtures with non-hydrogenous substances like silicon. The research focuses on how the diffusion cooling coefficient is influenced by the neutron absorption properties and the geometry of the system. The experiments involve measuring the decay constant of the thermal neutron flux and adjusting the C2 value to match experimental results, leading to the determination of C2 as a function of the theoretical decay constant λ*.",
+  "evidence": "The study describes the use of a two-region cylindrical system where the inner region contains hydrogenous materials such as KCl solutions or H3BO3 solutions, and the outer region is made of Plexiglas. The thermal neutron diffusion cooling coefficient (C2) for Plexiglas is determined by measuring the decay constant of the thermal neutron flux and adjusting C2 to match experimental results. The research also examines the effect of different materials in the inner region, including mixtures of hydrogenous and non-hydrogenous substances, on the diffusion cooling coefficient."
+}

@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the deposition of ZnO using diethylzinc (DEZn) and H2O as reactant gases. The growth mechanism is influenced by the DEZn flow rate, with changes in the growth direction of ZnO films observed. The high resistivity of the ZnO films is attributed to the decrease in defects such as oxygen vacancies and/or interstitial zinc acting as donors.",
+  "intermediate_species": [
+    "oxygen vacancies",
+    "interstitial zinc"
+  ],
+  "evidence": "The deposition rate was determined by the average growth thickness per cycle. The deposition rate varied from 0.3 to 0.8 nm/cycle, depending on the DEZn flow rate. It can be observed that the deposition rate is close to the thickness of the ZnO (100)/(101) monolayer when the DEZn flow rate is between 40 and 53¹mol/min. However, further decrease in the flow rate resulted in an increase in the deposition rate. The reason why the deposition rate increases in this DEZn flow rate range is not clearly understood yet. A close examination of the crystal growth direction by XRD measurements reveals that the orientation of ZnO films depends on the DEZn flow rate. The (100) and (101) growth orientations are dominant at high DEZn flow rates (or low deposition rates), whereas the (100) orientation becomes predominant with decreasing DEZn flow rate (or high deposition rates). This result suggests that the difference in growth direction is correlated. DEZn flow rate can be attributed to the decrease in defects such as oxygen vacancies and/or interstitial zinc acting as donors in the film. A high resistivity ZnO (»103Ä¢cm) was obtained for the films prepared between the flow rates of 8 and 14.5¹mol/min."
+}

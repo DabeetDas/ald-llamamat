@@ -1,0 +1,11 @@
+{
+  "target_material": "α-Ga2O3",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "triethylgallium",
+    "O2 plasma"
+  ],
+  "temperature_range": "120 °C to 450 °C",
+  "summary": "The study investigates the growth of α-Ga2O3 thin films on c-plane sapphire substrates using plasma enhanced atomic layer deposition (PEALD). The films exhibit different crystalline phases depending on the substrate temperature, with α-Ga2O3 forming between 250 °C and 350 °C. The optical properties, including bandgap values, are analyzed, showing the highest bandgap of 5.2 eV for α-Ga2O3 films deposited at 250 °C. The study also examines the effects of plasma power and O2 flow rate on film strain and crystallinity.",
+  "evidence": "Plasma enhanced atomic layer deposition was used to deposit thin films of Ga2O3 on to c-plane sapphire substrates using triethylgallium and O2 plasma. The deposition temperature was found to have a significant effect on the film crystallinity. At temperatures below 200 °C amorphous Ga2O3 films were deposited. Between 250 °C and 350 °C the films became predominantly αGa2O3. Above 350 °C the deposited films showed a mixture of α-Ga2O3 and ε-Ga2O3 phases. Ultraviolet transmittance measurements on the Ga2O3 films showed that the bandgaps ranges from 5.0 eV to 5.2 eV with the largest bandgap of 5.2 eV occurring for the α-Ga2O3 phase deposited at 250 °C."
+}

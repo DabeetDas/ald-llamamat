@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "TTIP (Ti(OC3H7)4)",
+    "H2O"
+  ],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the crystalline structure of TiO2 films grown by ALD on Ru electrodes with and without O3 pretreatment. The formation of rutile-structured TiO2 films at low temperatures is attributed to the in situ formation of RuO2, which induces epitaxial growth. The dielectric constant of rutile-structured TiO2 is significantly higher than that of anatase-structured TiO2.",
+  "evidence": "The authors reported that the ALD process of TiO2 films on a Ru electrode using TTIP and O3 as precursor and oxidant, respectively, formed rutile-structured TiO2 films at a growth temperature as low as 250°C. The formation of the rutile-phase TiO2 film at such a low temperature was attributed to the in situ formed RuO2 which induced a local epitaxial growth of rutile TiO2 due to the small lattice mismatch between rutile TiO2 and RuO2. The dielectric constants of the 27-nm thick ALD film grown on the nontreated and pretreated Ru electrode were 35 and 68, respectively, corresponding to anatase and rutile structures."
+}

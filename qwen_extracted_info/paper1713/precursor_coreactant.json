@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "trimethylaluminum (Al(CH3)3, TMA)",
+    "diethyl zinc (Zn(C2H5)2, DEZ)"
+  ],
+  "coreactants": [
+    "deionized water vapor (DI H2O)"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The reactants included two organometallic precursors: trimethylaluminum (Al(CH3)3, TMA, 98%, Strem) and diethyl zinc (Zn(C2H5)2, DEZ, 96%, Strem) and deionized water vapor (DI H2O). High-purity Ar (99.999%) (National Welders Supply Co.) was used as the purge and carrier gas and further purified by a gas filter (DRIERITE Gas Purifier) before entering the reaction system."
+}

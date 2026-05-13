@@ -1,0 +1,8 @@
+{
+  "target_material": "Perovskite-type dielectrics (Sr-Ta-O, Ti-Ta-O, Sr-Ti-O, Ba-Hf-O, Nb-Ta-O, Ce-Al-O)",
+  "process_type": "ALD and A VD",
+  "main_precursors": ["Sr[Ta(OC2H5)5-(OC2H4OCH3)2]", "Ti(OPri)2(mmp)2", "Ta=NBu t(NEt2)3", "Ce(mmp)4", "Et2AlOEt", "Ba(thd)2", "Hf(thd)4", "TaF5", "NbF5", "O3", "Al(CH3)3"],
+  "temperature_range": "225–400 ◦C",
+  "summary": "The study investigates the deposition of perovskite-type dielectrics using Atomic Layer Deposition (ALD) and Atomic Vapor Deposition (A VD) techniques for Metal-Insulator-Metal (MIM) capacitors. The materials include Sr-Ta-O, Ti-Ta-O, Sr-Ti-O, Ba-Hf-O, Nb-Ta-O, and Ce-Al-O. The films were deposited on TiN/Si substrates at temperatures between 225–400 ◦C. Post-deposition annealing at 600 ◦C or higher resulted in crystallization of some materials, while others remained amorphous. The study evaluates the electrical and morphological properties of these dielectrics, focusing on their dielectric constants, leakage current densities, and capacitance-voltage linearity. The best performance was observed for crystalline SrTiO3, while Sr-Ta-O showed the lowest leakage current and lower capacitance-voltage nonlinearity.",
+  "evidence": "Atomic Vapour Deposition (A VD) and Atomic Layer Deposition (ALD) techniques were successfully applied for the depositions of perovskite type dielectrics... The depositions were carried out within the thermal budget of CMOS back end of line at 400 ◦C. The films were deposited on 200 mm Si(100) substrates, covered with TiN bottom electrodes. The study evaluates the electrical and morphological properties of these dielectrics, focusing on their dielectric constants, leakage current densities, and capacitance-voltage linearity."
+}<|im_end|>

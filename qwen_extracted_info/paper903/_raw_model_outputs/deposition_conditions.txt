@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "170 /C176C",
+  "pressure": "100 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 30,
+  "number_of_cycles": 20,
+  "reactor_type": "clustered reactor",
+  "evidence": "ALD of Al2O3 on InAs and InSb surfaces prepared using a gas phase process. One ALD cycle consisted of a 1 s TMA pulse, 30 s purge, 0.1 s H2O pulse, and 30 s purge."
+}<|im_end|>

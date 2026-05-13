@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "H2O",
+    "tetrakisdiethylaminohafnium (TDEAH)"
+  ],
+  "temperature_range": "150 °C",
+  "summary": "The study investigates the interface between HfO2 gate dielectric and NH42S passivated GaAs grown by atomic layer deposition (ALD). The HfO2 films were deposited using thermal ALD at 150 °C with H2O and TDEAH precursors. The interface was characterized using synchrotron radiation photoemission spectroscopy (SRPES), revealing the formation of passivating sulﬁdes on the GaAs surface and the presence of As2O3 at the interface. The study also examined the effects of post-deposition annealing on the interfacial properties and energy-band alignment.",
+  "evidence": "The HfO2 dielectric films were deposited on both chemically treated and nontreated GaAs pieces by 250 cycles of atomic layer deposition process at 150 °C using H2O and tetrakisdiethylaminohafnium (TDEAH) precursors."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "Chromium",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "Chromium(III) acetylacetonate (Cr(acac)3)",
+    "Trimethylaluminum (TMA)",
+    "Ammonia"
+  ],
+  "temperature_range": "200 ◦C",
+  "summary": "Chromium(III) acetylacetonate (Cr(acac)3) was chemisorbed on aluminum-nitride-surfaced alumina at 200 ◦C using atomic layer deposition (ALD). The process involved ligand exchange reactions with surface OH and NHx groups, and dissociation on coordinatively unsaturated sites. The chromium loading was 0.64 ± 0.06 atoms per nm2, and the ligand removal with ammonia, water, or oxygen resulted in active chromium sites for isobutane dehydrogenation. The study aimed to investigate the suitability of aluminum-nitride-surfaced alumina as a support for chromium-based dehydrogenation catalysts.",
+  "evidence": "Chromium(III) acetylacetonate (Cr(acac)3) was chemisorbed at 200 ◦C on n·AlN/Al2O3 samples and on alumina samples with different numbers of OH groups. The amount of chromium bonded per unit surface area was similar on all supports. The ligand removal with ammonia, water, or oxygen resulted in active chromium sites for isobutane dehydrogenation. The study aimed to investigate the suitability of aluminum-nitride-surfaced alumina as a support for chromium-based dehydrogenation catalysts."
+}

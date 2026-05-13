@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "2Si-OH → Si-O-Si + H2O(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between HfCl4 and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "oxygen bridges (Si–O–Si)"
+  ],
+  "evidence": "The dehydroxylation reaction eventually equilibrates and results in a stable surface hydroxyl density, depending on the ALD reactor temperature. During condensation, neighboring OH groups react with each other resulting in the formation of oxygen bridges (Si–O–Si) and the desorption of H2O from the surface."
+}

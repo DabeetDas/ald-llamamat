@@ -1,0 +1,7 @@
+{
+  "precursors": ["(C5iPr3H2)2Sr(THF) (1)", "(C5Me5)2Sr(THF)x (2)", "(C5Me5)2Ba(THF)x (3)"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "SrS and BaS thin films were grown on glass substrates using an atomic layer deposition (ALD) technique and (C5iPr3H2)2Sr(THF) (1), (C5Me5)2Sr(THF)x (2), (C5Me5)2Ba(THF)x (3), and H2S as precursors. N2 (99.999%) was used as a carrier and purging gas with the flow rate of 400 sccm."
+}

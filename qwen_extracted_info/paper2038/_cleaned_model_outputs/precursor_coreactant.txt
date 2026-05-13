@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3 (trimethylaluminum)", "HfCl4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "H2O is the most commonly used oxidizing agent while Al(CH3)3 [trimethylaluminum] and HfCl4 are the preferred metal precursors for Al2O3 and HfO2, respectively. In the present work, we use this information and combine other experimental techniques to demonstrate that proper functionalization of H/Si by TMA dramatically improves the growth characteristics of Al2O3 and HfO2 films. The IR transmission measurements are carried out at 70° off-normal incidence, with the sample temperature maintained at 50 °C, following each precursor exposure at 300 °C. Use of D2O instead of H2O ensures that all IR bands are separated from the signals caused by trace amounts of water in the optical system, and does not affect growth chemistry."
+}

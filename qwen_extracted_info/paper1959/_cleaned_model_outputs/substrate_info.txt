@@ -1,0 +1,7 @@
+{
+  "substrate_material": "GaAs",
+  "substrate_orientation": "(100)",
+  "pretreatment": "A 2000-A.-thick GaAs buffer layer was grown at 650 DC before the ALE InAs layer",
+  "surface_functionalization": "",
+  "evidence": "The ALE growth sequence consisted of ( 1) TMln exposure, (2) H2 purging, (3) AsH3 exposure, and (4) H2 purging. The exposure mode is expressed as TfvHn-H2-AsH3-H2 indicating the exposure times in seconds in this letter. The exposure of 10% AsH3 was fixed to 500 sccm for 2 s corresponding to 68.2pmollcyc1e of AsH, for all ALE epilayers. Part of the ALE layer was covered by black wax and selectively etched away in HCI. The thickness of the epilayer was measured by a surface profilometer (Dektak)."
+}

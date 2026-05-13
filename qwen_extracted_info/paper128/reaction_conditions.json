@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "Si + Hf(NO3)4 → SiO2 + HfO2 + 4NO2"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the direct oxidation of the silicon substrate by the Hf(NO3)4 precursor, leading to the formation of an interfacial SiO2 layer and the first HfO2 layer. This process is connected to the deposition of HfO2, where the oxidation of silicon by the precursor results in the simultaneous formation of SiO2 and HfO2 layers.",
+  "intermediate_species": [
+    "SiO2",
+    "HfO2"
+  ],
+  "evidence": "We believe the following observations provide strong support for the last of these options. Detailed modeling of the XRR measurements (Fig. 3c) and the microscopy image shown in Figure 6 established that an interfacial SiO2 layer was formed, and that the first layer of HfO2 deposited on hydrogenated Si(100) surfaces was thicker than subsequent HfO2 layers. We suggest that these two observations are connected by a common reaction, such as shown in Equation 2."
+}

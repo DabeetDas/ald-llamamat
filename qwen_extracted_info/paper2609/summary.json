@@ -1,0 +1,11 @@
+{
+  "target_material": "Tin oxide (SnO_x)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "tetrakis(dimethylamino)tin (TDMASn)",
+    "water"
+  ],
+  "temperature_range": "30–200 °C",
+  "summary": "This study explores the atomic layer deposition (ALD) of tin oxide using tetrakis(dimethylamino)tin and water as precursors. The process is conducted at low temperatures, with growth rates increasing as the temperature decreases. The films are amorphous when deposited but transform into polycrystalline rutile SnO2 after annealing. The ALD process is found to be saturated even at low temperatures, and the films exhibit tunable optical properties.",
+  "evidence": "The ALD process is established to be saturated even at the lowest temperature studied, for which the film contamination levels are below the detection limits of x-ray photoelectron spectroscopy. As-deposited films are smooth (rms roughness of 33 Å for a 460 Å thick film deposited on Si at 150 °C) and amorphous according to x-ray diffractometry. However, post-annealing to 600 °C in nitrogen leads to the formation of polycrystalline rutile SnO2."
+}

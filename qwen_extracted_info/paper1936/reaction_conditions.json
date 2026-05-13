@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "(s)#(TaOH)m + Ta(OEt)5 #> (s)#(Ta#O#)mTa(OEt)5#m+ mEtOH",
+    "(s)#Ta(OEt)5#m + (10 # 2m)H* #> (s)#Ta(OH)5#m + (5#m)EtH",
+    "(s)#Ta(OEt)5#m +(5#m)H* #> (s)#Ta + (5#m)EtOH",
+    "(s)#Ta(OH)5#m+(5#m)H* → (s)#Ta + (5#m)H2O"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the interaction of the tantalum ethoxide precursor with surface hydroxyl groups and active hydrogen species. The reactions lead to the formation of oxygen deficiency in the growing TaOx film, which is attributed to the removal of oxygen atoms through the reaction with active hydrogen species, resulting in the formation of defects in the band gap.",
+  "intermediate_species": [
+    "Ta(OEt)5#m",
+    "Ta(OH)5#m",
+    "EtOH",
+    "H2O",
+    "Ta(OEt)5#m + H*",
+    "Ta(OH)5#m + H*"
+  ],
+  "evidence": "The reaction pathways that are responsible for the film growth and that provide a saturation regime during the PEALD of TaOx are expected to be: (s)#(TaOH)m + Ta(OEt)5 #> (s)#(Ta#O#)mTa(OEt)5#m+ mEtOH (2) (s)#Ta(OEt)5#m + (10 # 2m)H* #> (s)#Ta(OH)5#m + (5#m)EtH (3) , where (s) and Et represent the substrate surface and an ethoxy group, respectively. However, some reactions can lead to oxygen deficiency in the growing film through the following mechanisms: (s)#Ta(OEt)5#m +(5#m)H* #> (s)#Ta + (5#m)EtOH (4) (s)#Ta(OH)5#m+(5#m)H* → (s)#Ta + (5#m)H2O (5)"
+}

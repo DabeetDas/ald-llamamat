@@ -1,0 +1,8 @@
+{
+  "target_material": "Tungsten Oxide (WO3-x)",
+  "process_type": "Radical-Enhanced Atomic Layer Deposition (REALD)",
+  "main_precursors": ["WH2(Cp)2", "O* (oxygen radicals)", "H* (hydrogen radicals)"],
+  "temperature_range": "175-325 °C",
+  "summary": "This study describes a radical-enhanced atomic layer deposition (REALD) process for growing tungsten oxide (WO3-x) films with tunable oxygen vacancy (VO) concentrations. The process uses WH2(Cp)2 as the W-precursor and O* and H* radicals as reactants. The VO concentration can be controlled by adjusting the O* and H* exposure times, with the highest VO concentration achieved at 5 at.%. The films exhibit good uniformity and can be used for electronic applications such as resistive random-access memory (ReRAM).",
+  "evidence": "The study reports a radical-enhanced atomic layer deposition (REALD) process using WH2(Cp)2O*-H* reaction cycles to grow WO3-x films with tunable oxygen vacancy (VO) concentrations. The process involves adjusting the O* and H* exposure times to control the VO concentration, with the highest VO concentration achieved at 5 at.%. The films are grown in a temperature range of 175-325 °C and exhibit good uniformity, making them suitable for electronic applications such as resistive random-access memory (ReRAM)."
+}

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethylaluminum (TMA)",
+    "water"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "Hydrogen"
+  ],
+  "evidence": "TMA (Al(CH3)3) and water (H2O) are kept in bubblers at 40 °C. Hydrogen as the carrier gas was chosen because of its high purity (enhanced by the use of a palladium membrane purifier) that helps preventing external contamination;"
+}

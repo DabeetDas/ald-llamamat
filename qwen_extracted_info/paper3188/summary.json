@@ -1,0 +1,11 @@
+{
+  "target_material": "Platinum (Pt)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "methylcyclopentadienyl platinum",
+    "oxygen"
+  ],
+  "temperature_range": "450°C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of platinum layers onto various sputtered porous metals (silver, palladium, ruthenium, and gold) as catalysts for solid oxide fuel cells (SOFCs). The ALD process is used to minimize platinum usage while enhancing surface kinetics. The thermal stability and chemical binding of the ALD Pt coatings are analyzed using X-ray photoelectron spectroscopy (XPS). The results show that ALD Pt coatings prevent thermal oxidation and maintain the porous structure of the base metals, leading to improved performance in SOFCs.",
+  "evidence": "We tested the atomic layer deposition of platinum layers onto various sputtered porous metals... ALD Pt surface coatings... prevented thermal degradation... XPS analyses confirmed good surface alloying... The surface composition of the metal–ALD Pt electrodes was measured using XPS... ALD Pt clearly enhanced the performance of fuel cells."
+}

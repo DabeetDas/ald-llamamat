@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "25-300",
+  "pressure": "10-3 Torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "Showerhead",
+  "evidence": "The experimental pressure was about 0.7 Torr during the TDMAH dose and 3.6 Torr for the D2O/H2O dose. The precursor pulse time was 0.1 s, coreactant pulse time was 0.1 s, and purge time was 5 s."
+}

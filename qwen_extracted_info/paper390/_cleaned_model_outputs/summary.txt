@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylgallium (TMGa)", "tertiarybutylarsine (TBAs)"],
+  "temperature_range": "500 °C",
+  "summary": "The study investigates surface reactions during atomic layer epitaxy (ALE) of GaAs using trimethylgallium (TMGa) as the gallium source. The self-limiting mechanism during TMGa exposure cycles is attributed to selective adsorption and reaction at As atoms and Ga-vacancy-induced Ga-rich surface reconstructions. The results support a reaction kinetics model and demonstrate the use of in situ real-time reflectance difference spectroscopy (RDS) for optimizing ALE growth conditions.",
+  "evidence": "The study reveals several phases in atomic layer epitaxy of GaAs and the self-limiting atomic layer deposition of epilayers using TMGa. The self-limiting mechanism which occurs during TMGa exposure cycles is believed to result from both selective adsorption and reaction of TMGa at As atoms and Ga-vacancy-induced Ga-rich surface reconstructions. It is also shown that strategies for optimal ALE growth of GaAs can be obtained through RDS monitoring."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.2,
+  "coreactant_pulse_time_s": 0.3,
+  "purge_time_s": 4,
+  "number_of_cycles": 2500,
+  "reactor_type": "Picosun SUNALE R-200",
+  "evidence": "Depositions were carried out at 150 ◦C with diethylzinc (DEZ) and 1,5-pentanedithiol (PDT) as precursors. Typical ALD deposition cycle consisted of DEZ pulse/purge/PDT pulse/purge with 0.2s/4s/0.3s/4s timing."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Si",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "SiH2Cl2",
+    "atomic hydrogen"
+  ],
+  "temperature_range": "550-650°C",
+  "summary": "The study presents a kinetic model for atomic layer epitaxy (ALE) of silicon using cyclic exposures of SiH2Cl2 and atomic hydrogen. The model considers both surface and gas-phase reactions, and the growth rate of one monolayer per cycle is achieved when the dominant precursor is SiHC1. The ALE window is limited by thermal desorption of surface species.",
+  "evidence": "The ideal growth rate of one monolayer per cycle is achieved only when the dominant precursor is SiHC1. Limiting factors of the ALE window are also discussed."
+}

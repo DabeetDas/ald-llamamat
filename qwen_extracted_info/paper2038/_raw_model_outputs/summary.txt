@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3 and HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["trimethylaluminum (TMA)", "HfCl4", "H2O"],
+  "temperature_range": "300 °C",
+  "summary": "The study explores the enhanced initial growth of atomic-layer-deposited metal oxides, specifically Al2O3 and HfO2, on hydrogen-terminated silicon (H/Si) surfaces. The process involves pre-exposure to trimethylaluminum (TMA) at 300 °C, which functionalizes the H/Si surface, leading to improved nucleation and nearly linear growth kinetics for high-k gate dielectrics. The research highlights the role of TMA in initiating oxide growth and the impact of varying TMA pulse durations on the growth characteristics of Al2O3 and HfO2 films.",
+  "evidence": "Narrow nuclear resonance profiling and Rutherford backscattering spectrometry show that surface functionalization by pre-exposure to 10^8 Langmuir trimethylaluminum at 300 °C leads to enhanced nucleation and to nearly linear growth kinetics of the high-permittivity gate dielectrics aluminum oxide and hafnium oxide."
+}<|im_end|>

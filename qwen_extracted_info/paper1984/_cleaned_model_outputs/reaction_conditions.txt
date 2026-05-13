@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The self-limiting growth mechanism in atomic layer epitaxy (ALE) of InP and InAs/InP heterostructures is characterized by the alternating introduction of PH3 and TM1 into the reactor, spaced by intervening H2 purge steps. The growth rate is determined by the number of deposition cycles and the lattice constant of the deposited material, with a self-limiting growth close to 1 monolayer per cycle. The interference of x-ray wave fields in the grown structures is used to measure the thickness of the deposited film with high precision.",
+  "intermediate_species": [],
+  "evidence": "The growth of InP was carried out by alternately introducing the reactants into the reactor in cycles of PH3 and TM1 spaced by intervening H2 purge steps. The use of this method allows us to find with relatively high accuracy the InP layer thickness and thus to characterize the growth per cycle. The self-limiting growth of InP using H2 as a carrier gas was observed in a narrow temperature range around 350-360 “C."
+}

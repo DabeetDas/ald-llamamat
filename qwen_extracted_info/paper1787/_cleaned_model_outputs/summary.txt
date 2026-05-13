@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "ALD",
+  "main_precursors": ["Triisopropyl borate (TIB)", "Diethylzinc (DEZ)"],
+  "temperature_range": "150 °C",
+  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of B-doped ZnO using triisopropyl borate (TIB) as the boron precursor and compares it with Al-doped ZnO. The process was carried out at 150 °C, and the results showed that TIB, along with DMAI, outperformed TMA in terms of doping efficiency. The films achieved low resistivities, with a doping fraction of 0.016 resulting in a resistivity of 3.5 mΩ⋅cm for 45 nm thick ZnO:B films. The study also highlights the advantages of TIB over traditional precursors like diborane(6) due to its lower vapor pressure and safer handling.",
+  "evidence": "The B source was triisopropyl borate, B(OiPr)3 (TIB), which has a significantly lower vapour pressure and is a safer alternative precursor to highly toxic diborane(6), B2H6. The doping fraction (DF) of the films was varied by the ratio of ZnO and dopant ALD cycles. Low resistivities of 3.5 mΩ⋅cm were achieved for 45 nm thick ZnO:B deposited at 150 °C with a doping fraction (DF) of 0.016, which was similar to the results obtained for ZnO:Al films prepared with DMAI and lower compared to the 8 mΩ⋅cm achieved for ZnO:Al prepared with TMA at an optimized DF of 0.040."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the alternating exposure of the precursor and water pulses, leading to the formation of PrAlOx and NdAlOx films. The mechanism includes the reaction of the precursor with surface hydroxyl groups, followed by a water pulse to regenerate the hydroxyl sites.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "Pr/Al heterometal alkoxide",
+    "Nd/Al heterometal alkoxide"
+  ],
+  "evidence": "The ALD process involves the alternating exposure of the precursor and water pulses, leading to the formation of PrAlOx and NdAlOx films. The mechanism includes the reaction of the precursor with surface hydroxyl groups, followed by a water pulse to regenerate the hydroxyl sites."
+}

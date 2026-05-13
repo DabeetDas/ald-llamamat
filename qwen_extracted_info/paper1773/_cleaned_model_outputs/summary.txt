@@ -1,0 +1,8 @@
+{
+  "target_material": "Er2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Er tris-guanidinate", "water"],
+  "temperature_range": "150 –275 /C14 C",
+  "summary": "The study describes the atomic layer deposition (ALD) of Er2O3 thin films using Er tris-guanidinate and water as precursors. The process was optimized to achieve high-quality, stoichiometric Er2O3 films with high growth rates (1.1 Å per cycle) and good crystallinity. The films were found to be suitable for gate dielectric applications, as evidenced by their electrical properties.",
+  "evidence": "For the first time, the combination of the homoleptic erbium tris-guanidinate metalorganic complex ([Er(NMe2-Guan)3]) simply with water yielded high quality Er2O3 thin films on Si(100) substrates employing the atomic layer deposition (ALD) process. The high reactivity of the Er compound towards water and good thermal stability in the temperature range of 150 –275 /C14 C resulted in homogeneous, stoichiometric Er2O3 layers with high growth rates (1.1 ˚A per cycle) and the as-deposited films crystallized in the cubic phase."
+}

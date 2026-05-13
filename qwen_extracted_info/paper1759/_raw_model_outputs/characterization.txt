@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Transmission Electron Microscopy (TEM)",
+    "X-ray Diffraction (XRD)",
+    "Atomic Force Microscopy (AFM)",
+    "Scanning Electron Microscopy (SEM)",
+    "Ellipsometry",
+    "UV-Vis Spectroscopy",
+    "High Resolution Transmission Electron Microscopy (HRTEM)",
+    "Selected Area Diffraction (SAD)",
+    "Fast Fourier Transformation (FFT)"
+  ],
+  "evidence": "The materials characterization includes studies of crystallinity, texturing, and surface morphology, and optical characterization comprises band gap and index of refraction. The observed data are explained by considering what is known about the deposition of pure ZnS and CdS via ALD. The crystal phases, grain sizes, and lattice constants of 500 cycle alloy films of varying stoichiometry were studied using XRD, and the diffraction patterns obtained at 150 /C14 C are shown in Fig. 4. The surface morphology and roughness of alloy films deposited for 100 cycles at 150 /C14 C were also examined as a function of composition, as shown in Fig. 12. The index of refraction of 500 cycle and 100 cycle films was determined from ellipsometry as shown in Fig. 11b. The lattice parameters and plane distances are affected by composition as is expected from Vegard’s law according to calculations from XRD. TEM images confirm the thickness established by ellipsometry and the lattice parameters calculated from XRD patterns. SAD patterns show that the direction of the c(111) planes normal to the surface changes with composition. Further, analysis of HRTEM images shows that the presence of stacking faults leads to the formation of both zincblende and wurtzite phases."
+}<|im_end|>

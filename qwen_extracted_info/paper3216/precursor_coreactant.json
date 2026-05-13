@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Titanium isopropoxide (TTIP)",
+    "tertiaryamylimidotris(dimethylamido)tantalum (TATDMT)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Titanium isopropoxide (TTIP) and tertiaryamylimidotris(dimethylamido)tantalum (TATDMT) were used as precursor reactant gases for TiO2 and Ta2O5, respectively. During deposition, 50 sccm of Ar gas was continuously supplied to the reactor. The unit cycle for TiO2 included a TTIP vapor pulse with 50 sccm of Ar carrier gas, a purge pulse with 50 sccm of Ar, a H2O vapor pulse with 50 sccm of Ar carrier gas, and another 50 sccm Ar purge pulse. The unit cycle for Ta was composed of a TATDMT vapor pulse with 50 sccm of Ar carrier gas, a purge pulse with 50 sccm of Ar, a H2O vapor pulse with 50 sccm of Ar carrier gas, and another 50 sccm Ar purge pulse."
+}

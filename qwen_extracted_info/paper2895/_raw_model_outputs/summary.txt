@@ -1,0 +1,8 @@
+{
+  "target_material": "Sb2Te3 and Bi2Te3 multilayer composite films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["(trimethylsilyl) telluride ((Me3Si)2Te)", "bismuth trichloride (BiCl3)", "antimony trichloride (SbCl3)"],
+  "temperature_range": "45-140°C for precursors, 165°C for chamber",
+  "summary": "The study investigates the ALD growth of Sb2Te3 and Bi2Te3 multilayer composite films for thermoelectric applications. The ALD process uses specific precursors for each material and addresses challenges in nucleation and surface chemistry to achieve uniform thin film growth.",
+  "evidence": "We have fabricated Sb2Te3 and Bi2Te3 thin films using (trimethylsilyl) telluride ((Me3Si)2Te), bismuth trichloride (BiCl3) and antimony trichloride (SbCl3) as precursors for telluride, bismuth and antimony respectively. The ALD experiments were conducted in a cross-flow ALD reactor from Cambridge Nanotech. The ALD film deposition studies were designed to improve the chemisorption at the interfaces of the multilayer composite films."
+}<|im_end|>

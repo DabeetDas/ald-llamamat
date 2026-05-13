@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnO and ZnO:Al",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethylzinc (DEZ)",
+    "trimethylaluminum (TMA)",
+    "deionized water (H2O)"
+  ],
+  "temperature_range": "125 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of ZnO and ZnO:Al, focusing on the incorporation and activation of dopant atoms during the process. The research highlights the effects of Al doping on surface charge transfer, mass uptake, and film growth mechanisms. It also explores the relationship between surface reactions, dopant activation, and conductance changes during ALD.",
+  "evidence": "Zinc oxide ALD was performed using diethylzinc (DEZ), trimethylaluminum (TMA), and deionized water (H2O) as Zn, Al, and oxidant precursor, respectively. The growth temperature was set at 125 °C. The study discusses the effects of Al doping on surface charge transfer, mass uptake, and film growth mechanisms."
+}

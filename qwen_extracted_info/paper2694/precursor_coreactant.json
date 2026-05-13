@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Sc(MeCp)2(Me2pz)"
+  ],
+  "coreactants": [
+    "ozone"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The deposition experiments consisted of sequential exposures of 1 and ozone (or water), with 10 min purges of purified N2 gas (500 sccm, <0.1 ppb O2) between each precursor pulse."
+}

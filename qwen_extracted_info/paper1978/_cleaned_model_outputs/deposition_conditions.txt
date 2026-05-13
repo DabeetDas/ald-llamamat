@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "520",
+ "pressure": "7’60 Torr",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "quartz reactor",
+ "evidence": "The GaAs surface under GaCl exposure was assumed to be a Ga-stabilized surface at 520 “C."
+}

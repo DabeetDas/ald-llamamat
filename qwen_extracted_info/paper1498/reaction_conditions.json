@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "→− + + − NHC Cu(I) N(SiMe3)2 [NHC Cu(I)] [N(SiMe3)2] (1)",
+    "→− + • NHC Cu(I) N(SiMe3)2 [NHC Cu(0)] [N(SiMe3)2] (2)",
+    "−− → + − NHC Cu(I) N(SiMe3)2 NHC Cu(I) N(SiMe3)2 (3)"
+  ],
+  "surface_mechanism_description": "The dissociation energy of each ligand from the copper center was calculated to determine which bond was likely to break upon chemisorption at a copper surface. The chemical equations considered were heterolysis of the amide bond, homolysis of the amide bond, and loss of the NHC. The amide will remain bound to the Cu atom during adsorption, which likely forms new Cu−Cu bonds with the surface, while the carbene may dissociate from the adsorbing molecule and bond separately to the surface or evaporate.",
+  "intermediate_species": [
+    "NHC",
+    "Cu(I)",
+    "N(SiMe3)2",
+    "Cu(0)",
+    "amide bond",
+    "carbene"
+  ],
+  "evidence": "The dissociation energy of each ligand from the copper center was calculated to determine which bond was likely to break upon chemisorption at a copper surface. The chemical equations considered were heterolysis of the amide bond, homolysis of the amide bond, and loss of the NHC. The amide will remain bound to the Cu atom during adsorption, which likely forms new Cu−Cu bonds with the surface, while the carbene may dissociate from the adsorbing molecule and bond separately to the surface or evaporate."
+}

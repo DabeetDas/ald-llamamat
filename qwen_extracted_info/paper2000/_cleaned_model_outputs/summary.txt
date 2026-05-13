@@ -1,0 +1,8 @@
+{
+  "target_material": "AlP",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["dimethylaluminum hydride (DMAH)", "phosphine (PH3)"],
+  "temperature_range": "580–590 °C",
+  "summary": "The study investigates the surface morphology of AlP grown by atomic layer epitaxy (ALE). It highlights the challenges in achieving atomic-scale flatness and proposes a model based on methyl adsorbate lifetime to explain surface roughness. The results show that controlling the gas feeding time and temperature can improve surface morphology.",
+  "evidence": "The ALE experiments were performed in a MOVPE system with a horizontal quartz reactor. The metalorganic gas source for the group-III element was dimethylaluminum hydride (DMAH), and phosphine (PH3) was used as a group-V gas source. The growth temperature was 580–590 °C. The surface morphology was observed using atomic force microscopy (AFM)."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD growth procedure involves the sequential self-limited and complementary surface chemisorption reactions of the precursors, which are sensitive to the growth surface and its chemical activity. The chemical activity difference between TTIP and DEZ sources may be responsible for the observed phenomena where the GPC of TiO2 deposited on ZnO-terminated surface is larger than that of pure TiO2, while the GPC of ZnO deposited on TiO2-terminated surface becomes smaller than that of pure ZnO.",
+  "intermediate_species": ["ZnO-terminated surface", "TiO2-terminated surface"],
+  "evidence": "ALD based on sequential self-limited and complementary surface chemisorption reactions is very sensitive to the growth surface and its chemical activity. During ALD cycles, the chemical activity difference between TTIP and DEZ sources may be responsible for this."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The adsorption of the Ru precursor molecules on the substrate rather than the dissociative adsorption of molecular oxygen governs the growth initiation of Ru films. The ligands of the metal precursor react with adsorbed oxygen atoms, producing a Ru metallic film. However, this reaction mechanism represents the growth behavior during the steady-state stage and cannot be applied to the initial growth stage on heterogeneous substrates.",
+  "intermediate_species": ["adsorbed oxygen atoms", "Ru precursor molecules"],
+  "evidence": "It was reported that molecular oxygen is adsorbed dissociatively on a Ru surface, which has catalytic activity for oxygen dissociation, and some of the atomic oxygen diffuses into the subsurface region. During the subsequent injection of a metal precursor, the metal precursor consumes the adsorbed oxygen atoms by a reaction between the ligands of the metal precursor and adsorbed oxygen atoms, producing a Ru metallic film. However, this reaction mechanism represents the growth behavior of Ru films during the steady-state stage of growth, where a Ru layer is grown on a predeposited Ru layer, and cannot be applied to the initial growth stage on heterogeneous substrates."
+}

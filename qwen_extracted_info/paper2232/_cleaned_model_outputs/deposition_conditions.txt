@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 225,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "25–75",
+  "reactor_type": "load-locked, warm-wall atomic layer deposition system with inductively coupled plasma remote plasma source (Advanced Energy, Inc., LB1501)",
+  "evidence": "Electrical properties were evaluated using MOS capacitors with HfO2 gate dielectric layers deposited at 225 °C using tetradimethylaminohafnium (TDMAHf, Air Liquide) and H2O by ALD for 25–75 cycles (3–6 nm) after in situ Ge substrate nitridation in the ALD chamber (no vacuum break)."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction between ligand exchange and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The chiral symmetry breaking is dynamically induced through the formation of a non-local Gross-Neveu (GN) model, where the quark condensate leads to the breaking of the chiral symmetry U(Nf)L × U(Nf)R → U(Nf)diag.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The text describes the surface reaction mechanism as involving ligand exchange between TMA and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The chiral symmetry breaking is dynamically induced through the formation of a non-local Gross-Neveu (GN) model, where the quark condensate leads to the breaking of the chiral symmetry U(Nf)L × U(Nf)R → U(Nf)diag."
+}

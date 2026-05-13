@@ -1,0 +1,7 @@
+{
+  "precursors": ["CoCp2"],
+  "coreactants": ["NH3 plasma", "SiH4"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "For this study, remote RF type PE-ALD system equipped with Au-coated stainless steel coil rapped quartz tube was used, which was used for Co PE-ALD in our previous paper. Further information on the chamber configurations can be found elsewhere. CoCp2 was used as a Co precursor, which was contained in a stainless bubbler heated up to 78 1C to obtain proper vapor pressure. NH3 plasma was used as a reduction agent for PE-ALD Co process and SiH4 (H2-diluted, 10%) was added during NH3 plasma exposure time as Si precursor for the formation of CoSi2. One cycle of optimized PE-ALD Co process was composed of precursor exposure step (ts ¼3 s), purging (tp ¼3 s), NH3 plasma exposure step (tr ¼3 s), and purging (tp ¼3s ). Ar gas with 50 sccm flow rate was used as a carrier gas and NH3 flow and plasma power were 200 sccm and 300 W, respectively."
+}<|im_end|>

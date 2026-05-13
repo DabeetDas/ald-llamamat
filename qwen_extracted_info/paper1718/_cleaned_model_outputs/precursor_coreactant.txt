@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3 (TMA)", "Zn(NO3)2 ·6 H2O", "NH4NO3"],
+  "coreactants": ["deionized water"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "ALD deposition was performed in a Savannah 100 atomic layer deposition system. Al(CH3)3 (TMA) and deionized water ( R /H1101518 M/H9024) were used as precursors for alumina growth. Ultrahigh purity N2 was used as carrying and purging gas with a flow rate of 20 sccm."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "SnSe",
+  "process_type": "ALD",
+  "main_precursors": ["Et4Sn", "H2Se"],
+  "temperature_range": "200–450 ◦C",
+  "summary": "The study describes the ALD synthesis of SnSe layers and nanostructures using Et4Sn and H2Se as precursors. The growth temperature range is 200–450 ◦C, with coverage observed above 250 ◦C. The morphology of the layers depends on the temperature, with sphere-shaped particles at 350 ◦C and petal-shaped crystal islands at 450 ◦C. The band gap energy of the ALD-grown SnSe film was found to be 1.15 eV, slightly higher than the bulk value of 0.95 eV.",
+  "evidence": "Growth of SnSe structures by the ALD method using Et4Sn and H2Se as precursors has been investigated. It was established that coverage occurs at a temperature above 250◦C and the morphology of the layer depends on the temperature. At 350 ◦C we have grown sphere-shaped particles 100–200 nm in diameter completely covering the substrate in one monolayer. For samples grown at 450 ◦C petal-shaped crystal islands were observed. The IR spectrum of SnSe grown at 350◦C shows a small shift (∼0.20 eV) of the room-temperature band gap energy."
+}<|im_end|>

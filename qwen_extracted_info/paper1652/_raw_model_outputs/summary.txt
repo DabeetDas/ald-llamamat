@@ -1,0 +1,8 @@
+{
+  "target_material": "In2S3",
+  "process_type": "ALD",
+  "main_precursors": ["In(acac)3", "H2S"],
+  "temperature_range": "130 to 170 °C",
+  "summary": "In2S3 atomic layer deposition (ALD) using In(acac)3 and H2S as precursors was studied. The process showed a nucleation period followed by linear growth, with a growth rate of 0.30-0.35 Å per cycle at 150 °C. The ALD was applied as a sensitizer on TiO2 nanotube arrays for solar energy conversion, and the photoelectrochemical properties were characterized.",
+  "evidence": "In2S3 ALD was studied with quartz crystal microbalance (QCM), X-ray reflectivity (XRR), and Fourier transform infrared (FTIR) spectroscopy techniques. The growth per cycle was 0.30 -0.35 Å per cycle at 150 °C as determined by QCM and XRR measurements. The In2S3 ALD was employed as a semiconductor sensitizer on TiO2 nanotube arrays for solar conversion."
+}<|im_end|>

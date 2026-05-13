@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["copper(I) di-sec-butylacetamidinate ([Cu(sBu-amd)]2)", "molecular hydrogen (H2)"],
+  "temperature_range": "185 /C176C",
+  "summary": "The study investigates the initial surface chemistry and growth mechanisms of atomic layer deposition (ALD) of copper on SiO2 surfaces using copper(I) di-sec-butylacetamidinate ([Cu(sBu-amd)]2) and molecular hydrogen (H2). The process involves ligand exchange, surface reactions, and hydrogenation, with temperature-dependent ligand rearrangement and copper agglomeration observed. The study highlights the role of surface hydroxyl groups in ligand hydrogenation and the formation of Si-O-Cu bonds.",
+  "evidence": "The initial surface reaction of [Cu(sBu-amd)]2 with hydroxylated SiO2 takes place by displacement of one of the sec-butylacetamidinate ligands at a surface -OH site, forming a Si-O-Cu-(sBu-amd) surface species. Molecular hydrogen exposure dissociates most of the sec-butylacetamidinate ligands bound to surface Cu, releasing free amidine vapor and allowing Cu atoms to agglomerate. The thermally activated ligand rearrangement from a bridging to a monodentate structure occurs above 220 /C176C through hydrogenation of the ligand by surface hydroxyl groups after exposure to [Cu(sBu-amd)]2 pulses. The activation temperature is lowered to 185 /C176C as Cu particles grow with further ALD cycles."
+}<|im_end|>

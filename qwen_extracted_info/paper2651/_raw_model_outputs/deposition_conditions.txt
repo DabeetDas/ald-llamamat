@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 10,
+  "number_of_cycles": 1000,
+  "reactor_type": "Fiji F200-LL ALD reactor with stainless-steel hollow-cathode plasma source",
+  "evidence": "Prior to growth experiments, Si (111), Si (100), and sapphire substrates were cleaned sequentially using isopropanol, acetone, methanol, and deionized water in an ultrasonic bath. In order to remove the native oxide layer on the substrate surface, an additional diluted HF (2%) cleaning process was applied for 2 min. Afterward, samples were loaded immediately to the reactor, and the process base pressure was adjusted to 150 mTorr. To prepare an enhanced nitridated surface in order to eliminate possible nucleation delays and to enhance the crystalline quality, a nitridation process step was utilized before the ALD cycles by applying 60 s of N2/H2 plasma and subsequently 60 s of N2 plasma. GaEt3 was used as organometallic precursor for Ga with a pulse length of 0.5 s. As nitrogen half-cycle, N2/H2 plasma exposure is applied with 50/50 sccm flow rate for 60 s under 300 W rf-plasma power. Ten seconds purge intervals were used in between the metal–organic precursor pulse and N2/H2 plasma exposures to evacuate the excess precursor molecules and reaction byproducts."
+}<|im_end|>

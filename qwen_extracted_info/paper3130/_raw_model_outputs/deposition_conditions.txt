@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "0.3 Pa",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 40,
+  "number_of_cycles": 150,
+  "reactor_type": "homebuilt ALD reactor",
+  "evidence": "The deposition temperature was fixed at 200°C, resulting in a saturated growth rate of approximately 1 Å per cycle on a flat surface, in agreement with literature data. The pulse and evacuation times were 4–15–5–40 s (TMA exposure–evacuation–H2O exposure–evacuation)."
+}<|im_end|>

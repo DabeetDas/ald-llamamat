@@ -1,0 +1,12 @@
+{
+  "target_material": "InSe and Sb2Se3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "InCl3",
+    "H2Se",
+    "SbCl3"
+  ],
+  "temperature_range": "310°C to 380°C for InSe and 270°C to 320°C for Sb2Se3",
+  "summary": "The study demonstrates the growth of InSe and Sb2Se3 layered semiconductors using atomic layer deposition (ALD) at relatively low temperatures. The films were grown on SiO2-coated Si and glass substrates, and their properties were compared to exfoliated films. The heterostructures of InSe (n-type) and Sb2Se3 (p-type) showed diode characteristics, indicating potential applications in optoelectronics and electronics.",
+  "evidence": "The text states: 'specular, large area films of γ-InSe and Sb2Se3 can be grown via atomic layer deposition (ALD) at relatively low temperatures.' It also mentions: 'Uniform films were produced over a temperature range of 270°C to 320°C' for Sb2Se3 and 'Uniform film growth occurred over a temperature range of 310°C to 380°C' for InSe. The study further notes: 'A combination of these two films shows pn diode characteristics.'"
+}

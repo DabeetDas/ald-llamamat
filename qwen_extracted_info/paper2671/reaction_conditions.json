@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of TEMAV precursor in the presence of phosphate, which inhibits thermal decomposition, enabling a plasma-enhanced atomic layer deposition process. The phosphate species formed during the plasma exposure react with the TEMAV precursor, leading to the formation of vanadium phosphate films.",
+  "intermediate_species": [
+    "TEMAV precursor",
+    "phosphate species"
+  ],
+  "evidence": "The text states: 'the decomposition of the TEMAV precursor was inhibited by the preceding TMP plasma/O2 plasma exposures. The TEMAV process showed linear growth, saturating behavior, and yielded uniform and smooth films; as such, it was regarded as a plasma-enhanced atomic layer deposition process.' Additionally, it mentions: 'the presence of phosphate on the substrate surface enhances the thermal decomposition rate' and 'the decomposition of TEMAV precursor does not exhibit significant thermal decomposition; otherwise, the GPC would be proportional to the TEMAV pulse duration.'"
+}

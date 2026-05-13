@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of trimethylgallium (TMG) with the (001) GaAs surface, leading to the formation of monomethylgallium (MMG) and CH3 radicals. The TMG decomposes on the Ga-rich (4X6) reconstruction, with a branching ratio of about 0.5. The CH3 radicals desorb more rapidly from the As-rich (2X4) reconstruction than from the Ga-rich (4X6) surface. The reaction is influenced by the partial pressure of TMG and the surface reconstruction, with the surface evolving through different reconstructions during the ALE cycle.",
+  "intermediate_species": ["monomethylgallium (MMG)", "CH3 radicals", "As dimers", "Ga dimers"],
+  "evidence": "The text describes the interaction of TMG with the (001) GaAs surface, leading to the formation of monomethylgallium (MMG) and CH3 radicals. It mentions that TMG decomposes on the Ga-rich (4X6) reconstruction with a branching ratio of about 0.5. The CH3 radicals desorb more rapidly from the As-rich (2X4) reconstruction than from the Ga-rich (4X6) surface. The surface evolves through different reconstructions during the ALE cycle, including the (2X4)-like, (4X6)-like, and (1X6)/(4X6)-like states."
+}<|im_end|>

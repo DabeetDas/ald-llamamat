@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 10,
+  "density_g_cm3": null,
+  "refractive_index": "smaller refractive index may be caused by the reduced density",
+  "surface_roughness_nm": "less than 0.3 nm",
+  "crystal_phase": "amorphous",
+  "evidence": "After removal of the surface NH4Cl contamination the films are generally very smooth with an RMS roughness value determined by atomic force microscopy of less than 0.3 nm on silicon substrates as it is expected for amorphous films."
+}

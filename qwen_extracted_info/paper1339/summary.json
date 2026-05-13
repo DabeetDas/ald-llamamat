@@ -1,0 +1,10 @@
+{
+  "target_material": "BeO",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Be(CH3)2"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study demonstrates the atomic layer deposition (ALD) of single-crystalline BeO on GaN substrates. The process uses dimethylberyllium as a precursor and achieves high-quality epitaxial growth. The BeO thin films show excellent thermal stability, low interface defect density, and high thermal conductivity, making them suitable for power semiconductor devices.",
+  "evidence": "The text states: 'BeO was deposited on GaN (001) at 250 °C employing ALD using dimethylberyllium as the precursor.' Additionally, it mentions: 'The thermal stability was measured by X-ray photoelectron spectroscopy (XPS)' and 'The Raman shift of ALD BeO was greater than those of GaN (567.28 cm⁻¹), and other high-k dielectrics, indicating a higher thermal conductivity of BeO.'"
+}

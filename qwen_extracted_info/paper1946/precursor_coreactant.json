@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Al(CH3)3",
+    "Ti(OC2H5)4",
+    "Ta(OC2H5)4",
+    "Nb(OC2H5)4"
+  ],
+  "coreactants": [
+    "D2O"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "nitrogen",
+    "argon"
+  ],
+  "evidence": "The metal precursors were Al(CH3)3, Ti(OC2H5)4, Ta(OC2H5)4, or Nb(OC2H5)4 while water served as an oxygen source in all the processes, and either nitrogen or argon were used as a carrier gas."
+}

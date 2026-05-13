@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The NH3 plasma pretreatment removes interfacial oxides and elemental As by reactive species such as H atoms and NH radicals during plasma exposure. The ALD process uses trimethylaluminum and water vapor as precursors, with the surface reactions involving the formation of Ga-O bonds and the suppression of GaAs oxides and As-As bonds.",
+  "intermediate_species": ["Ga-O bonds", "As-N bonds", "Ga-N bonds"],
+  "evidence": "The NH3 plasma pretreatment efficiently decreases the formation of GaAs oxides and suppresses the interfacial layer regrowth, and thus leads to a larger accumulation capacitance. The high-density reactive species such as H atoms and NH radicals remove the interfacial oxides and the elemental As during the plasma exposure. The Ga–O bonds disappear absolutely after NH3 plasma pretreatment. A new contribution at 19.8 eV corresponding to the Ga–N bonds is put in evidence except for Ga–As bonds."
+}

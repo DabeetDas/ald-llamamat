@@ -1,0 +1,8 @@
+{
+  "target_material": "Lanthanum oxide",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["La(iPr-MeAMD)3", "D2O"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of lanthanum oxide on H-terminated Si(111) using lanthanum tris(N,N′-diisopropylacetamidinate) (La(iPr-MeAMD)3) and water (D2O). The process involves the reaction of the precursor with surface hydrogen, leading to the formation of Si-O-La bonds. The study highlights the role of precursor dissociation, impurity incorporation, and the impact of annealing on film quality. The ALD process is self-limiting due to the removal of decomposed ligands by subsequent water pulses.",
+  "evidence": "Mechanisms of atomic layer deposition (ALD) growth of lanthanum oxide on H-terminated Si(111) using lanthanum tris(N,N′-diisopropylacetamidinate) (La(iPr-MeAMD)3) are investigated... The reactivity of this amidinate precursor is high, with almost all surface Si-H bonds consumed after 5 ALD cycles at 300 °C... Annealing to 500 °C in dry N2 removes these impurities but fosters the growth of interfacial SiO2. Deposition at 300 °C leads to decomposition of adsorbed ligands... Despite this decomposition, ideal self-limited ALD growth is maintained because the decomposed ligands are removed by the subsequent water pulse."
+}<|im_end|>

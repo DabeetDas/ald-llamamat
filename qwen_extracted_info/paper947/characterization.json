@@ -1,0 +1,9 @@
+{
+  "characterization_methods": [
+    "Internal Photoemission",
+    "Photoconductivity",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Capacitance–Voltage (C–V) measurement"
+  ],
+  "evidence": "The energy band alignment between Ge, HfO2 and Al2O3 was analyzed as influenced by passivating interlayers (ILs) of different composition (GeO2, Ge3N4, Si/SiOx). From internal photoemission and photoconductivity experiments we found no IL-sensitive dipoles at the Ge/HfO2 interfaces, the latter being universally characterized by conduction and valence band offsets of 2.1 and 3.0 eV, respectively. The IPE and PC measurements were conducted at room temperature with the sample kept in room ambient. The dependence of the quantum yield on photon energy was analyzed to determine the spectral thresholds of electron/hole photoemission into the insulating stack. The latter result indicates the necessity of transition to H-free gate stack processing if considering application of the GeO2 as a passivating layer in Ge MOS devices."
+}

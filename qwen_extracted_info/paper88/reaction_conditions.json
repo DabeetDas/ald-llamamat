@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "2AlOH* + 2Al(CH3)3 → 2[Al-O-Al(CH3)2]* + 2CH4",
+    "2[Al-O-Al(CH3)2]* + 3H2O → Al2O3 + 2AlOH* + 4CH4",
+    "2Al(CH3)3 + 3H2O → Al2O3 + 6CH4",
+    "Zn(C2H5)2 + H2S → ZnS + 2C2H6",
+    "(ZnS)n* + Zn(C2H5)2 → (ZnS)n . Zn(C2H5)*",
+    "(ZnS)n . Zn(C2H5)* + H2S → (ZnS)n+1 + 2C2H6"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites. The surface complex [Al-O-Al(CH3)2]* is formed and then dissolved in water to form the alumina (Al2O3) deposit. For ZnS, the surface complexes (ZnS)n* and (ZnS)n . Zn(C2H5)* are formed and used in the half-reactions.",
+  "intermediate_species": [
+    "AlOH*",
+    "[Al-O-Al(CH3)2]*",
+    "(ZnS)n*",
+    "(ZnS)n . Zn(C2H5)*"
+  ],
+  "evidence": "2AlOH* + 2Al(CH3)3 → 2[Al-O-Al(CH3)2]* + 2CH4\n2[Al-O-Al(CH3)2]* + 3H2O → Al2O3 + 2AlOH* + 4CH4\nThe Aluminum hydroxide formed in the second half reaction will be used again in the first half reaction when the cycle is repeated.\n(ZnS)n* + Zn(C2H5)2 → (ZnS)n . Zn(C2H5)*\n(ZnS)n . Zn(C2H5)* + H2S → (ZnS)n+1 + 2C2H6\nSimilarly to the Al2O3 cycle, the (ZnS)n* and (ZnS)n . Zn(C2H5)* surface complexes formed in the relevant half reactions will be used again while the cycle is repeated."
+}

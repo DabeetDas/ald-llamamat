@@ -1,0 +1,11 @@
+{
+  "target_material": "Sc2O3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Scandium tris(N,N-diisopropylacetamidinate)",
+    "Water"
+  ],
+  "temperature_range": "290°C",
+  "summary": "Sc2O3 films were deposited using atomic layer deposition (ALD) with scandium tris(N,N-diisopropylacetamidinate) and water as precursors. The process showed a growth rate of 0.3 Å/cycle at 290°C, and the films exhibited high purity and a refractive index of 1.8. The study aimed to develop a reliable ALD process for Sc2O3 films for use in microelectronics and optical applications.",
+  "evidence": "Sc2O3 films were deposited by atomic layer deposition from a new precursor scandium tris(N,N-diisopropylacetamidinate) and water. The precursor is thermally stable (350°C), volatile, with good reactivity to HF-last silicon. A growth rate of 0.3 Å/cycle was obtained at 290°C. The films were pure (C,N < 0.5 atom %) and had a refractive index of 1.8. Reactive ion etching tests on ALD scandia showed an etch rate 18 times slower than ALD hafnia. Electrical measurements showed a high permittivity of 17, and a leakage current density of 3×10−3 A/cm2 for an equivalent oxide thickness of 1.8 nm at 1.0 V."
+}

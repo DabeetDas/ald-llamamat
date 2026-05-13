@@ -1,0 +1,7 @@
+{
+  "precursors": ["La(thd)3"],
+  "coreactants": ["O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The reactant source materials were alternately introduced into the reactor while nitrogen with a purity of >99.999% (Schmidlin UHPN N2 generator) was used as a carrier and purging gas."
+}

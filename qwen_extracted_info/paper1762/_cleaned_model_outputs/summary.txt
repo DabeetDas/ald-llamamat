@@ -1,0 +1,8 @@
+{
+  "target_material": "Ti-doped a-Fe2O3",
+  "process_type": "ALD",
+  "main_precursors": ["ferrocene", "water and ozone", "titanium isopropoxide"],
+  "temperature_range": "200 °C",
+  "summary": "Ti-doped a-Fe2O3 thin film electrodes were deposited using atomic layer deposition (ALD). The incorporation of Ti atoms into hematite electrodes dramatically enhanced the water oxidation performance, with the best performance observed for the thinnest films. The improvement was attributed to the resurrection of a dead layer and a dead surface by the Ti dopant atoms, leading to enhanced bulk properties (hole collection length) and surface properties (water oxidation efficiency).",
+  "evidence": "Uniform thin films of hematite and Ti-doped hematite (a-Fe2O3) were deposited on transparent conductive substrates using atomic layer deposition (ALD). The incorporation of Ti atoms into hematite electrodes was found to dramatically enhance the water oxidation performance, with much greater enhancement found for the thinnest films. The improvement in both bulk and surface properties is attributed to the resurrection of a dead layer by the Ti dopant atoms."
+}

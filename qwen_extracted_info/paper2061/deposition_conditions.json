@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "318-380",
+  "pressure": "atmospheric",
+  "precursor_pulse_time_s": "0.001",
+  "coreactant_pulse_time_s": "0.02",
+  "purge_time_s": "30",
+  "number_of_cycles": null,
+  "reactor_type": "Nicolet Magna infrared spectrometer",
+  "evidence": "Al 2O3 is deposited by alternating exposures of trimethylaluminum (TMA) and D 2O (respectively 0.001 and 0.02 mole fraction in 0.81/min N 2 carrier gas, atmospheric pressure ), with at least 30 min purge time between precursor exposures."
+}

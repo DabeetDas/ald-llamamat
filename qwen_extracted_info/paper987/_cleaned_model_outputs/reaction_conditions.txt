@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Hydrogen doping is achieved by interleaving ZnO ALD cycles with H2 plasma treatments. The H2 plasma treatment has an etching component that can be employed to strongly enhance the structural and optoelectronic properties of the ZnO:H films. By growing ZnO:H films in a regime where film nucleation is in strong competition with etching from the H2 plasma, a strong enhancement of the grain size and a preferential c-axis orientation can be obtained.",
+  "intermediate_species": ["H-doped ZnO", "ZnO etched by H2 plasma"],
+  "evidence": "It has been shown that doping with H2 plasma offers key advantages over traditional doping by Al and B, and enables a high mobility value up to 47 cm2/Vs and a resistivity of 1.8 mΩ cm. By proper choice of a deposition regime where there is a strong competition between film growth and film etching by the H2 plasma treatment, a strongly enhanced grain size and hence increased carrier mobility with respect to undoped ZnO can be obtained."
+}

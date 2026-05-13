@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ge(guan)NMe2 + Te(SiMe3)2 + 2NH3 → GeTe + 2HNSiMe3 + guanH",
+    "2Sb(OEt)3 + Te(SiMe3)2 + 6NH3 → Sb2Te3 + 6EtOH + 6HNSiMe3"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves ligand exchange between the Ge precursor and surface hydroxyl groups, followed by the formation of a reactive intermediate (H2Te) through the reaction of Te(SiMe3)2 with NH3. The Ge-terminated surface reacts with H2Te to form GeTe, while the Sb-terminated surface reacts with Te(SiMe3)2 and NH3 to form Sb2Te3. The reaction equations are given above.",
+  "intermediate_species": [
+    "H2Te",
+    "HNSiMe3",
+    "guanH"
+  ],
+  "evidence": "The text describes the reaction mechanism for the ALD of GeTe and Sb2Te3, including the formation of H2Te and the ligand exchange process. The reaction equations and intermediate species are explicitly mentioned in the text."
+}

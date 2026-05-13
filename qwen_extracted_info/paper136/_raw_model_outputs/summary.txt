@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Hf(mp)4", "H2O"],
+  "temperature_range": "250–350 °C",
+  "summary": "This study describes the atomic layer deposition (ALD) of HfO2 thin films using the new alkoxide precursor Hf(mp)4 with water as the oxygen source. The ALD process was confirmed through thickness measurements, and the growth rate was found to be approximately 0.9 Å per cycle under optimal conditions. The films were found to be stoichiometric with minimal carbon impurities and exhibited amorphous structures across the temperature range. The study also demonstrated the effectiveness of the Hf(mp)4 precursor in achieving self-limiting ALD growth.",
+  "evidence": "A new alkoxide precursor, Hf(mp)4 [mp = 3-methyl-3-pentoxide, OC(CH3)(C2H5)2] has been employed in the atomic layer deposition (ALD) of HfO2 thin films using water (H2O) as the oxygen source. The ALD temperature window for this precursor is found to be between 250 and 350 °C. Under optimal reaction conditions, the growth rate of the HfO2 films is ∼0.9 Å per cycle. Amorphous films can be obtained across the entire temperature range with atomically flat and uniform surfaces. X-ray photoelectron spectroscopy (XPS) and depth-profiling Auger electron spectroscopy (AES) indicate that the films are stoichiometric with negligible amounts (less than 2 %) of carbon impurities."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the release of ligands from the Er precursors by reacting with –OH groups on the surface, leading to the formation of Er-O-Surface species. The high –OH coverage left on the surface after the water pulse compared to the ozone process allows more Er precursors to fit in the saturative surface layer, contributing to higher growth rates with water.",
+  "intermediate_species": [
+    "Er precursors",
+    "–OH groups",
+    "Er-O-Surface species"
+  ],
+  "evidence": "What is hard to explain at this point is the large difference in growth rates between the water processes of Er(iPrCp)3 and Er(nBuCp)3 at a deposition temperature of 250°C. In order to study the mechanisms in detail, in-situ and simulation experiments should be carried out. The high –OH coverage left on the surface after the water pulse as compared to the ozone process. Consequently, when adsorbing on these surfaces, the Er precursors can release their ligands by reacting with the –OH groups, and the decreased steric hindrance explains why more Er precursors can fit in the saturative surface layer in the water processes."
+}

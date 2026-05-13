@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": null,
+  "number_of_cycles": 700,
+  "reactor_type": "open-load ALD reactor",
+  "evidence": "The Pt depositions were performed in an open-load ALD reactor, consisting of a deposition chamber with a volume of 9 l that contained a substrate heating stage. On top of the chamber, an inductively coupled plasma source is located. The deposition chamber is connected to a turbo-molecular pump through a valve. The walls of the deposition chamber were heated to 80± 10◦C while the substrate stage was heated to 300± 5◦C during deposition."
+}

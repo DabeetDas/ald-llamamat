@@ -1,0 +1,8 @@
+{
+  "target_material": "Al-doped ZnO (ZnO:Al)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["diethylzinc (DEZ)", "H2O", "trimethylaluminum (TMA)"],
+  "temperature_range": "200 °C",
+  "summary": "The study investigates the effect of precursor-pulse ratios on the properties of Al-doped ZnO films grown by Atomic Layer Deposition (ALD). The films were deposited using diethylzinc (DEZ), H2O, and trimethylaluminum (TMA) as precursors. The resistivity and surface roughness of the films were found to vary with the TMA/DEZ pulse ratio, with lower resistivity and higher roughness observed at higher ratios. The process requires a sufficient Ar purge time to ensure self-limiting surface reactions and prevent pyrolytic gas-phase reactions. The films showed high transmittance (>80%) and were suitable for applications such as transparent conducting oxides and bottom electrodes for FBAR devices.",
+  "evidence": "Al-doped ZnO (ZnO:Al) films were grown by repeated sequential precursor reaction cycles (diethylzinc, Zn(C2H5)2; Ar purge; H2O; Ar purge; trimethylaluminum, Al(CH3)3) with a given pulse ratio of trimethylaluminum (TMA) to diethylzinc (DEZ). For a TMA/DEZ pulse ratio of 1 to 10, the film had a resistivity of 9:7 /C210/C04 /C10/C1cm and a roughness of 2.25 nm (rms), while for only DEZ injection, the film had a resistivity of 3:5 /C210/C03 /C10/C1cm and a roughness of 1.07 nm (rms). The transmittance of the films was in excess of 80% for all samples. For a successful atomic layer-controlled reaction, in order to avoid a pyrolytic gas-phase reaction, Ar purge time between the introduction of precursors is a key factor. The growth rate is 2.2 /C23A/cycle."
+}

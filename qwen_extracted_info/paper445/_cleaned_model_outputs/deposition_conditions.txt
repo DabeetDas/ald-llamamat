@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "540",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "gas source molecular beam epitaxy (MBE) system",
+  "evidence": "The ALE temperature was, however, more than 815°C for Si(100) and more than 890°C for Si(ll1) because Cl atoms which are strongly bonded to Si atoms are desorbed only at high temperature. A possible way to lower the ALE temperature is the use of a reducer which is much more active than H,. Atomic H has been reported to be effective for desorbing halogen atoms terminating an Si surface even at room temperature [8-lo]. H atoms are well known to be created without plasma by decomposition of H2 using a hot W filament [ll]."
+}

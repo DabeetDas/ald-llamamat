@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 70,
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 7,
+  "purge_time_s": 3,
+  "number_of_cycles": 100,
+  "reactor_type": "traveling-wave-type ALD equipment (SNTEK Co., LTD)",
+  "evidence": "The GeCl4 precursor was used in conjunction with a refrigerated bath circulator (RW3, Jeio Tech) that lowered the canister temperature to 5 1C due to a very high vapor pressure of approximately 70 torr at room temperature. The growth temperature was increased within a wide range between 50 1C and 500 1C. The GeS 2 thin film showed an RMS roughness of 0.29 nm and good conformality in the vertical 3D structure. The 100 cycle-deposited PE-ALD GeS 2 thin film was deposited at a growth temperature of 70 1C with 150 W H 2S plasma power."
+}

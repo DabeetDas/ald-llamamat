@@ -1,0 +1,13 @@
+{
+  "target_material": "aluminium oxide",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": [
+    "A1C13",
+    "H20",
+    "P205",
+    "trimethylphosphate"
+  ],
+  "temperature_range": "500 ~",
+  "summary": "Phosphorus-doped aluminium oxide thin films were deposited using atomic layer epitaxy (ALE) with precursors A1C13, H20, P205, and trimethylphosphate. The study aimed to develop methods for determining the P/A1 ratio in these films using XRF, RBS, and FTIR techniques. The films were grown on silicon and soda lime glass substrates, and the P/A1 ratio was correlated with the intensity ratios of phosphorus and aluminium peaks in FTIR spectra.",
+  "evidence": "Phosphorus-doped aluminium oxide thin films were deposited in a flow-type atomic layer epitaxy (ALE) reactor from A1C13, H20 and from either P205 or trimethylphosphate. The growth temperature was 500 ~. The aim of our work is to study the possibility to use thin phosphorus-doped aluminium oxide layers as catalyst supports. The P/A1 ratio was determined using XRF, RBS, and FTIR techniques."
+}

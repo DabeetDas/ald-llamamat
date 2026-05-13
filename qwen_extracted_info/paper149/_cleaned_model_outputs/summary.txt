@@ -1,0 +1,8 @@
+{
+  "target_material": "Iron oxide",
+  "process_type": "ALD",
+  "main_precursors": ["Ferrocene", "Oxygen"],
+  "temperature_range": "350–500 -C",
+  "summary": "Iron oxide thin films and nanotubes are deposited using atomic layer deposition (ALD) on Si(100) and anodic aluminum oxide (AAO) using ferrocene and oxygen as precursors. The growth per cycle values are around 0.14 nm on Si(100) and 0.06 nm on AAO. Below 500 -C, the films consist of a mixture of hematite and another phase, while above this temperature, phase-pure hematite is formed. The study also demonstrates the fabrication of free-standing iron oxide nanotubes using AAO templates.",
+  "evidence": "Thin ﬁlms and nanotubes of iron oxide are deposited using atomic layer deposition (ALD) on Si(100) and anodic aluminum oxide (AAO), respectively. Ferrocene, Fe(Cp)2, and oxygen are used as precursors. Successful depositions are carried out in the temperature range 350–500 -C on Si(100), while all depositions on AAO are made at 400 -C. The growth per cycle values are around 0.14 nm on Si(100) in the temperature range 350–500 -C and 0.06 nm on AAO. Below 500 -C, the iron oxide crystallizes as a phase mixture on both types of substrates. One of the phases is identiﬁed as the rhombohedral Fe 2O3 phase (hematite), but the second phase cannot be unambiguously identiﬁed. Above 500 -C, only phase pure hematite is detected. For deposition of nanotubes, in-house made AAO membranes are used, having an aspect ratio of 30."
+}

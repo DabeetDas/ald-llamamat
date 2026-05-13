@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "ZrCl4",
+    "HfCl4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The deposition of ZrO2 and HfO2 was performed at the same temperature (300 °C) using alternating surface-saturating reactions of metal chlorides (ZrCl4 and HfCl4, respectively) and H2O in a cold wall-type, high-vacuum ALD system. Each precursor was pulsed for 2 s, and N2 purging was followed for 30 and 60 s after H2O and metal precursor pulsing, respectively."
+}

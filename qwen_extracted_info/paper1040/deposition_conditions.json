@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200–450",
+  "pressure": "2–3 mbar",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": "1–2",
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The Nd2O3 film deposition was studied at a reduced pressure of 2–3 mbar in the temperature range of 200–450 8C while the effect of pulse and purge times was studied in detail at 310 8C. The reactant pulse times were 1 s for (CH3)3Al and H2O, 1 s for Nd(thd)3 and 1.5–2 s for O3. The purge times between the reactant pulses were 1–2 s."
+}

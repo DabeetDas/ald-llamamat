@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["Ti(O-iPr)4", "O3"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the effect of a Ru buffer layer on TiN electrode on the structural and electrical properties of TiO2 dielectric films grown by atomic layer deposition (ALD). The presence of a thin Ru layer alters the crystal structure of TiO2 from a mixed phase to almost pure rutile, significantly increasing the dielectric constant. The ALD process was performed at 250°C using O3 as the oxidant and Ti(O-iPr)4 as the titanium precursor.",
+  "evidence": "The growth of a TiO2 film directly on TiN resulted in a mixture of anatase and rutile TiO2 with a dielectric constant of only 42. However, interposing a thin Ru layer altered the crystal structure of TiO2 from a mixed phase to almost pure rutile, which was accompanied by an abrupt increase in the dielectric constant to /H11011130. The ALD process was performed at 250°C using O3 as the oxidant and Ti(O-iPr)4 as the titanium precursor."
+}<|im_end|>

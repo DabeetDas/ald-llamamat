@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "SnS sðÞ þ Ca F ‐amdðÞ 2 gðÞ ! CaS sðÞ þ Sn F ‐amdðÞ 2 gðÞ"
+  ],
+  "surface_mechanism_description": "Ligand exchange between Ca(F-amd)2 and surface SnS followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "Ca(F-amd)2",
+    "Sn(F-amd)2",
+    "surface hydroxyls"
+  ],
+  "evidence": "During this cation exchange reaction, Ca (atomic mass 4 0 ) replaces Sn(atomic mass 119 ), leading to a mass loss of /C0 79 g/mol; whereas during the Ca precursor adsorption step, there would be a mass gain of 166 g/mol, which could balance the mass decrease due to the cation replacement of Sn by Ca."
+}<|im_end|>

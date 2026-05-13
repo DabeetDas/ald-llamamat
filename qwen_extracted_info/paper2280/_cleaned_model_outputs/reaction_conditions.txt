@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Oxidation of the methyl-aluminum layer results in methoxy formation, which leads to adlayer reorganization and film densification through the formation of Al–O–CH3 → Al, covalent/dative linkages. The initial O3 pulse, following the TMA nucleation pulse, favors O insertion into the interfacial Si–Al linkages before Si lattice oxidation.",
+  "intermediate_species": ["Al–O–CH3", "Si–O–Al(CH3)2", "formate species"],
+  "evidence": "Oxidation of the methyl-aluminum layer results in methoxy formation, which leads to adlayer reorganization and film densification through the formation of Al–O–CH3 → Al, covalent/dative linkages. The initial O3 pulse, following the TMA nucleation pulse, favors O insertion into the interfacial Si–Al linkages before Si lattice oxidation."
+}

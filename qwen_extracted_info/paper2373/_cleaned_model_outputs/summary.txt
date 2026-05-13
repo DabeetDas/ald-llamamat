@@ -1,0 +1,8 @@
+{
+  "target_material": "IrO2 nanodots",
+  "process_type": "plasma enhanced atomic-layer deposition (PEALD)",
+  "main_precursors": ["Ethylcyclopentadienyl cyclohexadiene iridium (Ir(EtCp)(CHD))", "oxygen and hydrogen plasma"],
+  "temperature_range": "20 ◦C to 250 ◦C during deposition, annealing at 800 ◦C for 20 min",
+  "summary": "The study investigates the use of IrO2 nanodots as charge traps in charge-trap flash (CTF) memory devices. The nanodots are deposited using plasma enhanced atomic-layer deposition (PEALD) and are found to be thermally stable. The devices show enhanced capacitance–voltage (C–V) hysteresis and memory window, indicating their potential for next-generation nonvolatile memory applications.",
+  "evidence": "The IrO2 nanodots were deposited on a 5 nm SiO2/p-type silicon wafer by PEALD using Ir(EtCp)(CHD) as a precursor and a mixture of oxygen and hydrogen plasma as a reactant. The nanodots were annealed at 800 ◦C for 20 min, and their thermal stability was confirmed by XPS and HRTEM. The memory device with IrO2 nanodots showed much larger C–V hysteresis and memory window compared with the control sample without IrO2 nanodots."
+}

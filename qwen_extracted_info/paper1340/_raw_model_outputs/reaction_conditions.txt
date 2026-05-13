@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Silver(I) oxidizes to silver(II)-oxide employing low energy plasma at 130 W and 75 mTorr. After applying tris(dimethylamino)silane (TDMAS) during the PE-ALD step, the previously formed silver oxide (during exposure with oxygen plasma) decomposed to elemental silver due to the operating temperature (120 °C) within the PE-ALD process.",
+  "intermediate_species": ["silver oxide", "elemental silver"],
+  "evidence": "During the oxygen-plasma step which is associated with a higher energy as well as a higher pressure (300 W and 160 mTorr) during the PE-ALD process, the silver surface of the EGNPs is oxidized, resulting in exposed cracks on the EGNP surface and the creation of sponge-like nanostructures. This phenomenon was already observed by R. C. Ross and co-workers 53 . Here, silver(I) oxidizes to silver(II)-oxide employing low energy plasma at 130 W and 75 mTorr. After applying tris(dimethylamino)silane (TDMAS) during the PE-ALD step, the previously formed silver oxide (during exposure with oxygen plasma) decomposed to elemental silver due to the operating temperature (120 °C) within the PE-ALD process."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["CoCp2", "LiO tBu"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The CoCp2 and LiO tBu precursors (both 98%, Strem Chemicals) were heated to 80 ◦C and 120◦C respectively (Table II) and they were bubbled with Ar at a reactor pressure of 0.02 Torr."
+}

@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "trimethylaluminum + hydroxyl groups -> monolayer (Al-CH3) + methane",
+    "Al-CH3 + water -> Al-OH + methane"
+  ],
+  "surface_mechanism_description": "The aluminum precursor directly reacts with the hydroxyl groups of the LiCoO2 particles and KS-6 conductive carbon to form a monolayer (Al-CH3) and methane. The excess aluminum precursor and methane are removed with a vacuum. Then, while purging with water vapor, the electrode is exposed to steam that hydrolyzes the aluminum precursor layer, Al-CH3, on the LiCoO2 and KS-6 surface to form Al-OH and methane.",
+  "intermediate_species": [
+    "monolayer (Al-CH3)",
+    "Al-OH"
+  ],
+  "evidence": "First, as trimethylaluminum is forced into the reaction chamber, the aluminum precursor directly reacts with the hydroxyl groups of the LiCoO2 particles and KS-6 conductive carbon of the electrode to form a monolayer (Al-CH3) and methane. The excess aluminum precursor and methane were removed with a vacuum. Then, while purging with water vapor, the electrode is exposed to steam that hydrolyzes the aluminum precursor layer, Al-CH3, on the LiCoO2 and KS-6 surface to form Al-OH and methane."
+}

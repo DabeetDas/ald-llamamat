@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Atomic layer deposition is a surface-controlled approach for depositing material by a repetitive sequence of irreversible, self-terminating surface reactions. Each reaction yields a new surface condition for the subsequent surface reaction. The chemical vapors are alternately introduced into the reactor and separated by an evacuation or purge period. The repetitive sequence of reactions is called an ALD cycle.",
+  "intermediate_species": ["SiH4 base-ALD", "B2H6 base-ALD", "SiH4-NU", "PNL-NU"],
+  "evidence": "Atomic layer deposition is a surface-controlled approach for depositing material by a repetitive sequence of irreversible, self-terminating surface reactions. Each reaction yields a new surface condition for the subsequent surface reaction. The chemical vapors are alternately introduced into the reactor and separated by an evacuation or purge period. The repetitive sequence of reactions is called an ALD cycle."
+}<|im_end|>

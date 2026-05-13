@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "450-600",
+  "pressure": "atmospheric",
+  "precursor_pulse_time_s": 0.6,
+  "coreactant_pulse_time_s": 0.6,
+  "purge_time_s": 1.9,
+  "number_of_cycles": null,
+  "reactor_type": "atmospheric pressure ALE reactor",
+  "evidence": "The ALE growth of A1GaP proceeds by alternatively exposing the Si substrate to the TMG/TMA fluxes in the column III and the PH3 flux in the column V. A typical ALE growth cycle takes 5 sec with an exposure time of 0.6 sec for each column and a pause length of 1.9 sec between each exposure."
+}

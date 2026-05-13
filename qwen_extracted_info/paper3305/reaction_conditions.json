@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of tetrakis(ethylmethylamino)hafnium (TEMAH) and water (H2O) on the silicon surface, followed by surface reactions that form HfO2. The mechanism includes the formation of surface hydroxyl groups and the subsequent reaction with TEMAH to form Hf-O-Al species and the desorption of byproducts such as CH4 and NH3.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "Hf-O-Al species"
+  ],
+  "evidence": "The text describes the ALD process using TEMAH and H2O as precursors, with the formation of surface hydroxyl groups and the subsequent reaction with TEMAH to form Hf-O-Al species. The reaction equations and intermediate species are inferred from the description of the ALD process and the chemical nature of the precursors."
+}

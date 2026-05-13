@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(propyltetramethylcyclopentadienyl)barium (Ba(PrMe4Cp)2)", "tetrakis(dimethylamido)zirconium (Zr(NMe2)4)", "tris(methylcyclopentadienyl)yttrium (Y(MeCp)3)"],
+  "coreactants": ["distilled water"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "For this purpose, bis(propyltetramethylcyclopentadienyl)barium (Ba(PrMe4Cp)2) (Alfa Aesar), tetrakis(dimethylamido)zirconium (Zr(NMe2)4) (Sigma Aldrich), and tris(methylcyclopentadienyl)yttrium (Y(MeCp)3) (Strem Chemical) were used as precursors for BaO, ZrO2, and Y2O3 deposition, respectively. Distilled water was used as the oxidant for each deposition cycle. Argon gas (10 sccm) was used as the transport gas for delivering the precursor vapors into the reaction chamber."
+}

@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Ti(OCH(CH3)2)4(g) + ZrCl4(g) → ZrTiO4(s) + 4(CH3)2CHCl(g)"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the exchange between ZrCl4 and TiO2, leading to the formation of ZrO2 and TiCl4. The overall reaction suggests a surface exchange mechanism where ZrCl4 reacts with TiO2 to form ZrO2 and TiCl4, which is thermodynamically favorable.",
+  "intermediate_species": [
+    "TiO2(s)",
+    "ZrO2(s)",
+    "TiCl4(g)"
+  ],
+  "evidence": "The reactions between metal halides and alkoxides into oxides and alkyl halides are known from nonhydrolytic sol-gel processes. Similarly, the overall reaction in ALD of ZrTiO4 from Ti(OCH(CH3)2)4 and ZrCl4 can be suggested: Ti(OCH(CH3)2)4(g) + ZrCl4(g) → ZrTiO4(s) + 4(CH3)2CHCl(g). According to the EDX measurements, the chlorine content of the films deposited at 250 °C was quite high over 9 atomic % and was not affected by the Ti(OCH-(CH3)2)4 pulse length. This suggests that this temperature is too low to complete the surface reactions. The depth profiling of the films showed that the metal and oxygen contents were constant through the whole film thickness. The chloride content decreased from 1.0 to 0.2 atomic % when the Ti(OCH(CH3)2)4 pulse length was increased from 0.2 to 1.0 s. However, this had no effect on the Zr/(Zr+ Ti) ratio. The ZrCl4 is a very reactive precursor, so it is possible that zirconium replaces titanium during the ZrCl4 pulse according to the thermodynamically possible exchange reaction."
+}

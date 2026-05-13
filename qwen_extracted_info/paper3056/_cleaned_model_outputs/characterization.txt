@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "Field emission scanning electron microscopy (FE-SEM)",
+    "Four-point probe",
+    "Rutherford backscattering",
+    "Elastic recoil detection time-of-flight spectroscopy",
+    "Scanning electron microscopy (SEM)",
+    "Atomic force microscopy (AFM)",
+    "Auger electron spectroscopy (AES)"
+  ],
+  "evidence": "The thickness of deposited films was analyzed using field emission scanning electron microscopy. The film resistivity was calculated from the sheet resistance measured using a four-point probe and the film thickness. X-ray diffraction (XRD) analysis was used to determine the crystal structure of the deposited films. The film composition and impurities were measured using Rutherford backscattering and elastic recoil detection time-of-flight spectroscopy. To evaluate the O diffusion barrier properties of fabricated thin films, rapid thermal annealing experiments were performed with three kinds of samples (Ru, RuO2, and a stacked RuO2/Ru layer) at several temperatures under ambient O2 and Ar. Before and after annealing, surface morphology changes were estimated using scanning electron microscopy (SEM) and atomic force microscopy (AFM) and O diffusion barrier properties were evaluated using Auger electron spectroscopy (AES) depth analysis."
+}

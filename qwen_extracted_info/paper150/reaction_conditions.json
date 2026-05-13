@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the decomposition of the precursor complexes through b-H abstraction and dialkyamine elimination, leading to metallacycle formation. These metallacycles can further decompose to form alkylimido complexes and alkenes. The self-limiting surface reactions are crucial for ALD, with the surface-controlled growth observed through the conformal film formation and linear growth with respect to the number of cycles.",
+  "intermediate_species": [
+    "metallacycle",
+    "alkylimido complex",
+    "alkene"
+  ],
+  "evidence": "The reaction scheme is presented in Scheme 2. A metallacycle can further decompose to form an alkylimido complex, since the three-membered ring is strained. The rearrangement of a metallacycle into an imido complex and alkene has also been reported for pentakis(diethylamido)tantalum. In this study, the alkylimido complexes, in turn, are unsaturatively coordinated. This suggests that rather than being isolated, an imido complex formed from metallacycle could dimerize."
+}

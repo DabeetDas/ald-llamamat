@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80-165",
+  "pressure": "atmospheric",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "spatial ALD",
+  "evidence": "The deposition temperatures were varied between 80 and 165 /C14 C, and the substrate velocity was between 5 and 100 mm/s. N 2 was used as purge gas. Typically, a ﬂow of 200 sccm of N 2 through the TDMASnbubbler has been used and the plasma was ignited in a 2000/20 sccm Ar/O 2 gas mixture."
+}<|im_end|>

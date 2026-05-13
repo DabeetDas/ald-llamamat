@@ -1,0 +1,11 @@
+{
+  "target_material": "Sb2Se3",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "tris(dimethylamino) antimony (TDMASb)",
+    "selenium dimethyldithiocarbamate (SDMDTC)"
+  ],
+  "temperature_range": "150°C",
+  "summary": "The study demonstrates the atomic layer deposition (ALD) of antimony selenide (Sb2Se3) using selenium dimethyldithiocarbamate (SDMDTC) as a new Se precursor and tris(dimethylamino) antimony (TDMASb) as the metal source at 150°C. The ALD process is explored as an alternative to highly toxic H2Se. The study reveals the deposition mechanism through theoretical investigations using Density Functional Theory (DFT) and experimental findings. The saturated growth rate of approximately 0.28 Å/cycle is achieved, and the material is investigated as a photo-absorber layer in sensitized solar cells.",
+  "evidence": "Atomic layer deposition of antimony selenide (Sb2Se3) is demonstrated using selenium dimethyldithiocarbamate (SDMDTC) as new chalcogen precursor with tris(dimethylamino) antimony (TDMASb) as metal source at 150°C. The ALD chemistry with this organic-selenide precursor is explored as an alternative to highly toxic H2Se. The deposition mechanism during nucleation and linear growth regime is studied thoroughly with in-situ quartz crystal microbalance (QCM) illustrating a 'substrate-enhanced growth' during the initial deposition cycles. The saturated growth rate of ca. 0.28 Å/cycle is achieved. As-grown material is then investigated as the photon-absorber layer in the sensitized solar cell application."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reaction mechanism involves the interaction of tetrakis(dimethylamido)hafnium (TDMAHf) with water (H2O) during atomic layer deposition (ALD). The reaction is classified as an ALD process with hydrogen transfer. The reaction is described as a self-limiting process where the precursor and oxidant alternate in pulses, leading to the formation of HfO2 layers. The reaction is influenced by temperature, with higher temperatures leading to increased crystallinity and changes in the impurity levels. The reaction is also affected by the purging efficiency, which influences the removal of excess precursor and reaction by-products.",
+  "intermediate_species": ["TDMAHf", "H2O", "HfO2", "excess precursor", "reaction by-products"],
+  "evidence": "The reaction mechanism is described in the text as follows: \"The reaction of TDMAHf with water is shown by Hausmann et al. and is classified as ALD reaction with hydrogen transfer.\" Additionally, the text states: \"The reaction is influenced by temperature, with higher temperatures leading to increased crystallinity and changes in the impurity levels. The reaction is also affected by the purging efficiency, which influences the removal of excess precursor and reaction by-products.\""
+}

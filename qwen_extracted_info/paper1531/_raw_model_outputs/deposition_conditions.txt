@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 125,
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 20,
+  "number_of_cycles": 220,
+  "reactor_type": "hot-wall stainless tube reactor",
+  "evidence": "The growth temperature was set at 125 /C176C and the operating pressure was maintained at 2 Torr with a total gas flow rate of 100 sccm. The pressure increase during each precursor exposure was set at ∼0.1 Torr using metering valves. The precursor pulse and Ar purge time is fixed at 1 and 20 s, respectively."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnSe",
+  "process_type": "Atomic layer epitaxial (ALE) growth",
+  "main_precursors": [
+    "dimethylzinc (DMZn)",
+    "hydrogen selenide (H2Se)"
+  ],
+  "temperature_range": "200°C and above",
+  "summary": "The study investigates the atomic layer epitaxial (ALE) growth of ZnSe using dimethylzinc (DMZn) and hydrogen selenide (H2Se) in a low pressure horizontal metalorganic vapor phase epitaxial (MOVPE) reactor. The results indicate that true ALE growth is not achieved due to weak adsorption of the reactants on the substrate, leading to significant deposition on reactor walls and non-uniform growth.",
+  "evidence": "It was found that at a susceptor temperature of 200°C and above, the adsorption of either of the reactants is extremely small and hence self-limiting monolayer growth does not take place. Significant deposition of ZnSe took place on the reactor wall in front of the susceptor as well. A hot wall reactor with colder susceptor configuration was used to prevent deposition on the reactor walls and also to confirm the growth model proposed."
+}

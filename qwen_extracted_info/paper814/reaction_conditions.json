@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD of SnO2 films using SnI4 and O2 precursors involve the formation of a flat surface with low defect density, attributed to the use of a hydrogen-free oxygen precursor which eliminates hydrogen halide formation. The epitaxial growth is facilitated by the self-limiting surface reactions, leading to a single-crystalline structure with minimal defects.",
+  "intermediate_species": [
+    "(0 1 1) twin",
+    "(1 0 1) twin",
+    "anti-phase boundaries (APBs)"
+  ],
+  "evidence": "The text discusses the use of SnI4 as a tin precursor and O2 as an oxygen precursor, which eliminates the formation of hydrogen halides. It also mentions the resulting films having a flat surface, low density of APBs, and a single-crystalline structure, indicating a surface mechanism that minimizes defects and promotes epitaxial growth."
+}

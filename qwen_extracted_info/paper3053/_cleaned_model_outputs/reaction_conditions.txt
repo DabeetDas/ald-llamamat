@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "B2H6 was used as an additional reducing agent for WF6 to lower the resistivity of the ALD-WNx film. By allowing the B2H6 exposure to take place before the WF6 exposure, an ALD-W layer can be formed and this layer can be successfully converted to an ALD-WNx layer by the final exposure to NH3.",
+  "intermediate_species": ["W", "WNx"],
+  "evidence": "By allowing the B2H6 exposure to take place before the WF6 exposure, an ALD-W layer can be formed and this layer can be successfully converted to an ALD-WNx layer by the final exposure to NH3."
+}

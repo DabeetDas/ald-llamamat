@@ -1,0 +1,8 @@
+{
+  "target_material": "amorphous vanadium oxide",
+  "process_type": "ALCVD",
+  "main_precursors": ["vanadyl triisopropoxide", "water"],
+  "temperature_range": "105 °C",
+  "summary": "Amorphous vanadium oxide films were synthesized by atomic layer chemical vapour deposition (ALCVD) using vanadyl triisopropoxide and water as precursors. The films exhibited good electrochemical performance for lithium insertion, with an optimal thickness of 200 nm showing higher capacity and better cycle ability compared to crystalline V2O5 films. The study aimed to evaluate the electrochemical performance of these films as cathode materials in lithium batteries in the presence of a liquid electrolyte.",
+  "evidence": "The study addresses the lithium insertion performances of amorphous vanadium oxide films, synthesized by atomic layer chemical vapour deposition (ALCVD). The results show that the electrochemical performances obtained with amorphous vanadium oxide films, with an optimal thickness of 200 nm (455 mAh g−1, i.e. composition of Li2.9V2O5), were superior to crystalline V2O5 films."
+}<|im_end|>

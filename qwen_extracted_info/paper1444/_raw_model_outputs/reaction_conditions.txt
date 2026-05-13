@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Hf(N(C2H5)2)4 + Si-OH* -> Si-O-Hf(N(C2H5)2)3* + H(L)(g)",
+    "Si-O-Hf(N(C2H5)2)3* + Si-H* -> Si-O-Hf(Si)(N(C2H5)2)2* + H(L)(g)"
+  ],
+  "surface_mechanism_description": "Hydrogen abstraction from Si-H* sites by amine ligands of the Hf precursor, facilitated by the presence of OH groups on the Si surface, leading to the formation of a four-membered Si-O-Hf-Si bonding structure that can rapidly oxidize.",
+  "intermediate_species": [
+    "Si-O-Hf(N(C2H5)2)3*",
+    "Si-O-Hf(Si)(N(C2H5)2)2*",
+    "dimethylamine (Ads Prod)",
+    "Hf[N(CH3)2]3*"
+  ],
+  "evidence": "The calculations suggest that hydrogen removal proceeds by H abstraction by an amine ligand of the Hf precursor and that the abstraction reaction is made more facile by the presence of OH on the otherwise H-terminated Si surface."
+}<|im_end|>

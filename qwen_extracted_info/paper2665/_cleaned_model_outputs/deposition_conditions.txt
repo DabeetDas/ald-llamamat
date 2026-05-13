@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.1",
+  "coreactant_pulse_time_s": "0.1",
+  "purge_time_s": "10",
+  "number_of_cycles": "450",
+  "reactor_type": "Solar-ML",
+  "evidence": "The ALD timing sequence is compactly expressed as t1:t2:t3:t4, where t1 and t3 correspond to the pulse lengths of TET and those of coreactants, respectively, and t2 and t4 to nitrogen purge times following these doses. The pulse times of precursors and purge times were 2:10/2:10 s, 2:10/0.2:10 s, and 0.1:10/15:10 s for O3, H2O2, and oxygen plasma, respectively."
+}

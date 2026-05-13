@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Oxygen atoms adsorbed onto the reaction surface are reduced by ECH during the feeding step of the Ru solution, preventing the formation of RuO2 and resulting in metallic Ru films. The solvent ECH reacts with adsorbed oxygen atoms, reducing their availability for reaction with Ru(thd)3 precursor.",
+  "intermediate_species": ["adsorbed oxygen atoms", "Ru(thd)3 precursor", "ECH molecules"],
+  "evidence": "The reduction of the adsorbed oxygen by ECH during deposition can explain that the saturated growth rate of the films decreases with decreasing the concentration of the Ru solution. During the injection of the Ru solution, Ru(thd)3 precursor and ECH molecules compete to react with the adsorbed oxygen. To decrease the concentration of the Ru solution means to increase the relative amount of ECH toward Ru(thd)3. Thus, to decrease the concentration of the Ru solution means to decrease the number of effective oxygen sites adsorbed onto the reaction surface that are available to react with Ru(thd)3 precursor."
+}<|im_end|>

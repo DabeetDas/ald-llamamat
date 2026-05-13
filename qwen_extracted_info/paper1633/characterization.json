@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Scanning electron microscopy (SEM)",
+    "Micro-Raman spectrometry",
+    "N 2 adsorption",
+    "Krypton (Kr) adsorption",
+    "Ellipsometry",
+    "Film thickness measurement using a Tencor P10 profilometer",
+    "UV-vis spectrometer for absorbance measurements",
+    "X-ray Photoelectron Spectroscopy (XPS) (implied through the use of 'dye desorption' and 'surface area measurements')"
+  ],
+  "evidence": "Scanning electron microscopy (SEM) images were collected on a Hitachi S-4800-II cFEG SEM. Micro-Raman spectrometry was performed by using a Renishaw RM2000 Raman Microprobe. N 2 adsorption isotherms were collected at 77 K. Krypton (Kr) adsorption measurements were performed. Film thicknesses were measured on a Tencor P10 profilometer. Absorbances were measured with a Varian Cary 5000 UV-vis spectrometer. The surface area was measured via gas adsorption using nitrogen and krypton isotherms. Dye desorption was used to estimate photoelectrode roughness."
+}

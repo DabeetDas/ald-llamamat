@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "tantalum ethoxide (Ta(OEt)5)"
+  ],
+  "coreactants": [
+    "oxygen radicals"
+  ],
+  "purge_gas": [
+    "Argon"
+  ],
+  "carrier_gas": [
+    "Argon"
+  ],
+  "evidence": "Argon (AGA, 99.98%) was used as the carrier and purge gas and was purified with Aeronex GateKeeper inert gas purifier to decrease the impurity levels below 1 ppb. Tantalum ethoxide (Aldrich, 98%) was used as the tantalum precursor and was evaporated from an open boat at 95 °C inside the reactor. Oxygen radicals, produced from molecular oxygen gas (AGA, 99.999%) by the plasma discharge, were used as the oxygen source."
+}

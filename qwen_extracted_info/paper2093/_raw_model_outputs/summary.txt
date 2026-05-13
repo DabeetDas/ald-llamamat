@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis-ethylmethylamino hafnium (TEMAH)", "D2O"],
+  "temperature_range": "100 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of hafnium oxide (HfO2) on hydrogen-terminated silicon surfaces using tetrakis-ethylmethylamino hafnium (TEMAH) and deuterium oxide (D2O) as precursors. The process occurs at 100 °C, and the growth is monitored in situ with infrared spectroscopy. The results show that the HfO2 growth is initiated by the reaction of TEMAH with Si–H bonds, and no interfacial SiO2 formation is observed at moderate temperatures. Postdeposition annealing at 700 °C leads to the formation of an interfacial SiO2 layer. The study highlights the importance of understanding the mechanisms of SiO2 formation to minimize its impact on the performance of high-k dielectrics in MOSFETs.",
+  "evidence": "The HfO2 growth is initiated by the reaction of TEMAH with Si–H rather than D2O, and there is no evidence for SiO2 formation at moderate growth temperatures (100 °C). The substrates are kept at 100 °C during HfO2 deposition. Postdeposition annealing at 700 °C in ultrapure nitrogen leads to the formation of an interfacial SiO2 layer."
+}<|im_end|>

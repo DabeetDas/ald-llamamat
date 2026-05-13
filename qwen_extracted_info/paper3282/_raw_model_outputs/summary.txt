@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3 / HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["water", "trimethylaluminum (TMA)", "heated tetrakis(dimethylamido)hafnium"],
+  "temperature_range": "225° C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit Al2O3 and HfO2 films for creating a distributed Bragg reflector (DBR) with controlled thermal deformation and optical reflectivity. The ALD process was chosen for its high repeatability and precise control over film thickness and composition. The films were deposited at 225°C using specific precursors, and the resulting DBR was characterized for its optical and thermal properties.",
+  "evidence": "ALD has been chosen as the deposition process because of its high run-to-run repeatability. Films were deposited at 225° C in a commercial Savannah S200 reactor from Cambridge NanoTech. Al2O3 was deposited using water and trimethylaluminum (TMA) precursors kept at room temperature, and HfO2 with water and heated tetrakis(dimethylamido)hafnium at 75° C."
+}<|im_end|>

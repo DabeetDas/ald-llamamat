@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80-200",
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "SI ALD reactor (SENTECH Instruments GmbH)",
+  "evidence": "One ALD cycle includes a 10 ms pulse of TMGa followed by a purge pulse of 2 s, an oxygen plasma pulse of 5 s, and a 2 s N2 purge step."
+}

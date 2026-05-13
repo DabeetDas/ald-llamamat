@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ru(DMPD)(EtCp)"],
+  "coreactants": ["O2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The DER (purchased from Tosoh) precursor was dissolved in ethylcyclohexane (ECH) solution and delivered to the chamber through the DLI system. The vaporized DER molecules were carried to the main chamber by Ar gas at the flow rate of 50 sccm. Ar gas with the same flow rate was also used for the purging of excess gas molecules and byproducts between each precursor and reactant exposure steps."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Titanium phosphate",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Titanium tetrachloride", "Triethyl phosphate"],
+  "temperature_range": "200 °C",
+  "summary": "A thermal atomic layer deposition (ALD) process for depositing titanium phosphate onto carbon fibers using titanium tetrachloride and triethyl phosphate as precursors is presented. The process yields conformal coatings with a growth per cycle of 0.22 nm cycle−1. The coating provides oxidation protection for carbon fibers and can be used as a weak interface in fiber-reinforced composites. The coating is stable up to 1000 °C and increases the oxidation onset temperature of carbon fibers.",
+  "evidence": "A thermal atomic layer deposition (ALD) process for depositing titanium phosphate onto bundles of carbon fibers as well as flat silicon and germanium substrates using titanium tetrachloride and triethyl phosphate as precursors is presented. This process yields conformal coatings on all substrates used while having a growth per cycle of 0.22 nm cycle−1, which is relatively high compared to other metal phosphate ALD processes. The reactions of the precursors with the surface are shown to be self-limiting at 200 °C. Thermogravimetric analysis of coated carbon fibers shows that the coating increases the onset temperature of the carbon fiber oxidation, thus providing an oxidation protection to the fibers."
+}

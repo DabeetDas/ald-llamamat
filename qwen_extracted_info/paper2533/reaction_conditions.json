@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD involve the alternating pulsing of H2O/HfCl4 and H2O/TMA precursors. The HfCl4 precursor reacts with surface hydroxyl groups to form Hf-O-Hf species, while the TMA precursor reacts with surface hydroxyl groups to form Al-O-Hf species. The water pulse regenerates surface hydroxyl groups, completing the ALD cycle.",
+  "intermediate_species": [
+    "Hf-O-Hf",
+    "Al-O-Hf",
+    "surface hydroxyls"
+  ],
+  "evidence": "The text states: 'The latter was grown by using an equal number of pulses of H2O/HfCl4 and H2O/TMA...precursors in each deposition cycle for HfO2 and Al2O3, respectively.' Additionally, it describes the surface reactions as involving the alternating pulsing of H2O/HfCl4 and H2O/TMA precursors, with the water pulse regenerating surface hydroxyl groups."
+}

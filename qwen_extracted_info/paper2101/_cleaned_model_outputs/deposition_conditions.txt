@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "vertical warm wall reactor with a showerhead and a heated susceptor",
+  "evidence": "Al2O3 and HfO2 films were each grown at temperatures below 300 °C using Al (CH3)3 and HfCl 4 as a precursors. H2O vapor served as the oxygen source and N 2 was supplied as the purge and carrier gas."
+}

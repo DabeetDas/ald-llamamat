@@ -1,0 +1,11 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "triethylgallium (TEG)",
+    "arsine (AsH3)"
+  ],
+  "temperature_range": "350 °C",
+  "summary": "The study reports the realization of atomic layer epitaxy (ALE) of GaAs using triethylgallium (TEG) and arsine under conventional atmospheric pressure MOVPE conditions. The process is self-limiting, allowing precise control of layer thickness at the monolayer level. The growth rate was found to be independent of the amount of TEG supplied within a specific temperature range, indicating a self-limiting reaction between the source materials and the GaAs surface.",
+  "evidence": "Atomic layer epitaxy (ALE) of GaAs is realized using triethylgallium (TEG) and arsine in a conventional atmospheric pressure metalorganic vapor phase epitaxy reactor. It is shown that the use of TEG and arsine resulted in ALE growth of GaAs in rather limited ranges of substrate temperature and the TEG supply rate. The mechanism of ALE is also discussed with the aid of x-ray photoelectron spectroscopy on the surfaces of clean GaAs before and after exposure to TEG."
+}

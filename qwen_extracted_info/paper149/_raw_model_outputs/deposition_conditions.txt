@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350–500",
+  "pressure": "230–270 Pa",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "7",
+  "purge_time_s": "2",
+  "number_of_cycles": "200 to 700",
+  "reactor_type": "flow-type",
+  "evidence": "The precursors (Fe(Cp)2 of 99% purity and O2 of 99.999% purity) were carried to the substrates in a flow of N2 (99.999% purity). The total pressure of the carrier gas and precursors measured at the reactor outlet was kept at 230–270 Pa. The durations of the Fe(Cp)2 and O2 pulses were set at 3 and 7 s, respectively. After every precursor pulse the reaction zone was purged with nitrogen for 2 s."
+}<|im_end|>

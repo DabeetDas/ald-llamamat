@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200 −300",
+  "pressure": "80 mTorr",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Oxford Instruments Plasma Technology FlexAL ALD reactor",
+  "evidence": "The TiS x process consists of the TDMAT precursor and the coreactant gas exposure for 4 and 30 s, respectively. In the case of the NbSx process, the TBTDEN precursor exposure was 10 s, while the coreactant was dosed for 20 s."
+}

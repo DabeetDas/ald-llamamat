@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "140 -160",
+  "pressure": "2 -3 mbar",
+  "precursor_pulse_time_s": "2.0",
+  "coreactant_pulse_time_s": "2.0",
+  "purge_time_s": "2.0",
+  "number_of_cycles": "1000",
+  "reactor_type": "F-120",
+  "evidence": "The films were deposited in the temperature range 135-275 /C176C at a reduced pressure of 2 -3 mbar. A basic ALD cycle consisted of the following pulsing scheme: 2.0 s Mn(thd)3 or 1.5 s Co(thd)2 followed by 2.0 s purge, 2.0 s ozone, and 2.0 s purge."
+}<|im_end|>

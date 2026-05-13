@@ -1,0 +1,8 @@
+{
+  "target_material": "GaN",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["NH3", "trimethylgallium (TMGa)"],
+  "temperature_range": "550 °C",
+  "summary": "The study reports on the growth of device-quality GaN films at 550 °C using atomic layer epitaxy (ALE). The films exhibit optical and electrical properties comparable to those grown by MOCVD at 1000 °C, with background-carrier concentrations reduced to the 10^16/cm3 range. The ALE process uses NH3 and trimethylgallium (TMGa) as precursors, and the growth is carried out in a modified rotating susceptor reactor with a temperature range of 550–650 °C.",
+  "evidence": "GaN single crystal films were grown by atomic layer epitaxy at 550 °C. ... ALE growth was carried out at 700 Torr with an NH3 flow of 63104 mmol/min and a TMGa flow in the 40–60 mmol/min range. ... The ALE reaction chamber employed in the present work is a modified version of the rotating substrate approach ... The Group V source was NH3; Group III metalorganics were trimethylgallium (TMGa), trimethylaluminum (TMAI), or trimethylindium (TMIn). ... ALE of AlN was followed by ALE of GaN in the temperature range 550–650 °C. ... The films were characterized by double crystal x-ray diffraction, photoluminescence (PL), and Hall measurements. ... The PL spectrum is dominated by band edge emission at 3.42 eV. ... The films were found to have background-carrier concentrations of less than 10^16/cm3."
+}

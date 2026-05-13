@@ -1,0 +1,11 @@
+{
+  "target_material": "TiN",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Tetrakis(dimethylamido)titanium (TDMAT)",
+    "Ammonia (NH3)"
+  ],
+  "temperature_range": "700 ◦C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of titanium nitride (TiN) thin films using TDMAT and NH3. The process was confirmed successful through saturation of the deposition rate, linear relationship between film thickness and cycles, and perfect step coverage. Post-treatments like rapid thermal nitridation (RTN) and H2/N2 plasma treatment were evaluated for their effects on film properties, including carbon and oxygen removal, resistivity, and surface morphology. The ALD process was found to produce films with lower carbon content and resistivity compared to MOCVD, but with issues like cracks and voids at higher temperatures.",
+  "evidence": "The atomic layer deposition (ALD) of titanium nitride (TiN) thin films from tetrakis(dimethylamido)titanium (TDMAT) and ammonia (NH3) has been investigated, and the properties of ALD TiN films with and without post-treatments such as rapid thermal nitridation (RTN) and H2/N2 plasma treatment were evaluated and compared with those of metal organic chemical vapor deposition (MOCVD) TiN with and without RTN. Based on the saturation of the deposition rate as a function of TDMAT pulse time, the linear relationship between film thickness and the number of cycles, and the perfect step coverage, the success of the ALD process for TDMAT and NH3 was confirmed. For the ALD TiN film, an aging effect was observed and the carbon in the film was removed by RTN. Also, by plasma treatment, carbon and oxygen removal and surface nitridation were accomplished leading to the prevention of the aging effect, lower resistivity, and slight crystallinity. The cracks and voids were found on the ALD TiN film surface treated by RTN at 700 ◦C substrate temperature, however, they were not found for MOCVD TiN film."
+}

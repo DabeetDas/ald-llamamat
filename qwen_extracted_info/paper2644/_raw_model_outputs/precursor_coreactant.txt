@@ -1,0 +1,7 @@
+{
+  "precursors": ["DIPAS"],
+  "coreactants": ["NH3 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The RF frequency of CCP system was 13.56 MHz, and the available power ranged from 0 to 500 W. While the processing, the operating pressure was 3 Torr, the RF power was controlled from 100 to 300 W, and the substrate temperature was set to /C14 C. Ar gas was used as carrier as well as plasma activator for ignition of the NH 3 plasma."
+}<|im_end|>

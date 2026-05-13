@@ -1,0 +1,8 @@
+{
+  "target_material": "In2O3",
+  "process_type": "PEALD",
+  "main_precursors": ["ethylcyclopentadienyl indium (InEtCp)", "O2 plasma"],
+  "temperature_range": "200 ○C",
+  "summary": "The study describes the atomic layer deposition (ALD) of stoichiometric In2O3 films using liquid ethylcyclopentadienyl indium (InEtCp) as a precursor and combinations of H2O and O2 plasma as oxidants. The process involves self-limiting surface reactions, resulting in high-purity In2O3 films with a stoichiometric O/In ratio of 1.5 and minimal residual carbon and hydrogen impurities. The use of O2 plasma significantly affects the oxidation step, leading to improved film quality.",
+  "evidence": "A self-limiting surface reaction during the WpO process was observed with no delay in nucleation when the pulse times for InEtCp, H2O, and O2 plasma were 0.1, 2.0, and 14 s, respectively, at a growth temperature of 200 ○C. The O/In ratio in the In2O3 films was evaluated from elemental depth profiles generated using radio frequency glow discharge optical emission spectroscopy (rf-GDOES) at an applied power of 35 W and an Ar pressure of 600 Pa. The results indicate that the surface oxidation step is extremely important for obtaining high-purity, stoichiometric In2O3 films."
+}

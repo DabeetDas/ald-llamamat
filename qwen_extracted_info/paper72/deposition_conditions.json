@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "110",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "120",
+  "number_of_cycles": "200",
+  "reactor_type": "Savannah 100 ALD reactor",
+  "evidence": "For the ALD coating (Savannah 100 ALD reactor from Cambridge Nanotech Inc.), the silica nanowires were placed on TEM grids coated with holey carbon films and processed at 808C. The purging time was set to 120 s to ensure complete removal of water adsorbed to the chamber walls."
+}

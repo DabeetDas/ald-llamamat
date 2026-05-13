@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The ALD cycle was composed from the following steps:6 the substrates were first exposed for 2 s to the vapor of TiCl4, then the reactor was purged for 2 s by the flow of pure nitrogen, exposed to the vapor of H2O for 2 s and finally again purged in the flow of pure nitrogen for 5 s."
+}<|im_end|>

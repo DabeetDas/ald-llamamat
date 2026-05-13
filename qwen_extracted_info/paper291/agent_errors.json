@@ -1,0 +1,4 @@
+{
+  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{   \"deposition_temperature_C\": \"500\",   \"pressure\": \"1 mbar\",   \"precursor_pulse_time_s\": null,   \"coreactant_pulse_time_s\": null,   \"purge_time_s\": null,   \"number_of_cycles\": null,   \"reactor_type\": \"flow-type ALE reactor\",   \"evidence\": \"The SnO2 deposition process was performed in a flow-type A'",
+  "reaction_conditions": "Parsed successfully, but extracted content is empty."
+}

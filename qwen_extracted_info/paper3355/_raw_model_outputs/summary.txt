@@ -1,0 +1,8 @@
+{
+  "target_material": "SnS2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(dimethylamino)tin (TDMASn)", "hydrogen sulfide (H2S)"],
+  "temperature_range": "150 °C",
+  "summary": "This study investigates the deposition of tin disulfide (SnS2) thin films using thermal atomic layer deposition (ALD) at low temperatures. The films were analyzed for their structural, chemical, and electrical properties as a function of thickness. The results show that SnS2 films become crystalline above a thickness of 11.2 nm, with a decrease in band gap and resistivity as the thickness increases. The study highlights the potential of SnS2 for use in semiconductor devices due to its favorable properties.",
+  "evidence": "Tin disulﬁde (SnS2) thin ﬁlms were deposited by a thermal atomic layer deposition (ALD) method at low temperatures. ... The 150 °C is a process temperature that can be deposited high-quality as-deposition SnS2 ﬁlms. ... The critical thickness of crystallization of the SnS2 ﬁlms deposited by ALD is about 11.2 nm. ... The resistivity of the thin ﬁlm SnS2 decreased from 1011 to 106 Ω·cm as the ﬁlm thickness increased. ... These properties suggest that SnS2 can be applicable and compatible with future electronic device processes."
+}<|im_end|>

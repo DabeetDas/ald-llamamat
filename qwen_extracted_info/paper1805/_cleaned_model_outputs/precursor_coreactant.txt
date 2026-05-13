@@ -1,0 +1,7 @@
+{
+  "precursors": ["dimethyl cadmium (DMCd)", "diethyl zinc (DEZ)", "tris(dimethylamino)gallium (TDMAGa)", "H2S"],
+  "coreactants": [],
+  "purge_gas": ["nitrogen (N2)"],
+  "carrier_gas": ["nitrogen (N2)"],
+  "evidence": "The precursors for ALD growth were dimethyl cadmium (DMCd, Strem), diethyl zinc (DEZ, Aldrich), tris(dimethylamino)gallium (TDMAGa, Gelest), and H2S (15% H2S/N2 mixture, Matheson). Ultra-high purity nitrogen (99.999%) was used as the carrier and purge gas at a flow rate of 550 sccm and the reactor pressure was operated at ∼1 Torr."
+}

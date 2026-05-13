@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.5",
+  "coreactant_pulse_time_s": "0.25",
+  "purge_time_s": "0.75",
+  "number_of_cycles": "500",
+  "reactor_type": "Beneq TFS-500",
+  "evidence": "The deposition temperature was chosen to be 250 °C for all the experiments, unless otherwise specified. The H2O pulse was set to 0.25 s and all purge durations were chosen to be 0.75 s, ozone was supplied with a 2 s pulse for the Beneq reactor and 3 s for the ASM reactor."
+}<|im_end|>

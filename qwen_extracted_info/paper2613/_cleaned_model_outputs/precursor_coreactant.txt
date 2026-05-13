@@ -1,0 +1,7 @@
+{
+  "precursors": ["hafnium chloride (HfCl4)", "trimethylaluminum (TMA)"],
+  "coreactants": [],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Depositions were performed at a 270 /C14 C substrate temperature and using hafnium chloride (HfCl4) and trimethylaluminum (TMA) precursors, with the HfCl4 bubbler at 160 /C14 C and the TMA bubbler at room temperature. HfCl4 was delivered into the chamber using a carrier gas (Ar), and TMA was delivered using vapor draw without a carrier gas. During the ALD cycles, a 15 s Ar purge was used after the HfCl4 and TMA pulses."
+}

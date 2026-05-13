@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2",
+  "process_type": "Plasma-Assisted ALD",
+  "main_precursors": ["H2Si[N(C2H5)2]2", "O2 plasma"],
+  "temperature_range": "50–400 ◦C",
+  "summary": "Plasma-assisted atomic layer deposition (ALD) was used to deposit SiO2 films at low temperatures (50–400 ◦C) using H2Si[N(C2H5)2]2 as the Si precursor and O2 plasma as the oxidant. The process demonstrated high conformality, with a growth-per-cycle of ~1.2 Å at ~200 ◦C, and produced SiO2 films with an O/Si ratio of ~2.1. The study also showed that an ultrathin Al2O3 capping layer and annealing improved the interface quality, reducing interface defect densities and surface recombination velocities.",
+  "evidence": "H2Si[N(C2H5)2]2 and an O2 plasma were used as Si precursor and oxidant, respectively. The ALD growth process and material properties were characterized in detail. Ultrashort precursor doses (∼50 ms) were found to be sufficient to reach self-limiting ALD growth with a growth-per-cycle of ∼1.2 Å (Tdep = ∼200◦C) leading to SiO2 films with O/Si ratio of ∼2.1. The plasma ALD process led to a high conformality (95–100%) for trenches with aspect ratios of ∼30. The interface quality associated with SiO2 was improved significantly by using an ultrathin ALD Al2O3 capping layer and annealing."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["tetraethyltin (TET)", "diethylzinc (DEZ)"],
+  "coreactants": ["ozone (O3)"],
+  "purge_gas": ["high purity nitrogen"],
+  "carrier_gas": [],
+  "evidence": "The metal oxide films were deposited using DEZ and TET (Sigma Aldrich). Both metal precursors had sufficient volatility to be used without a carrier gas and were introduced into the reactor by vapor pressure draw from stainless steel precursor vessels."
+}

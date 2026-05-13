@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "200 /C176C and 250 /C176C",
+ "pressure": "150 Pa",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "6",
+ "number_of_cycles": null,
+ "reactor_type": "cross-ﬂow",
+ "evidence": "The Al 2O3 processes with 400 sccm Ar carrier and purge gas ﬂows and a working pressure of 80 Pa result in a ﬁlm growth of /C240.1 nm per cycle (GPC) with a cycle time of 6 s which enables sufﬁcient throughput even for high ﬁlm thicknesses which are needed for proper isolation and reduced parasitic capacitances to minimize RC delays."
+}

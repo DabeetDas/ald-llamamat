@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "diethylzinc (DEZ)"
+  ],
+  "coreactants": [
+    "concentrated H2O2 (50% in H2O)"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "ZnO ALD films were deposited using diethylzinc (DEZ) and concentrated H2O2 (50% in H2O) as precursors at substrate temperatures of 100 ◦C."
+}

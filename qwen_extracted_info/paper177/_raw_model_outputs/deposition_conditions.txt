@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-350",
+  "pressure": "2 mbar",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 20,
+  "number_of_cycles": 300,
+  "reactor_type": "Beneq TFS-200",
+  "evidence": "ALD of Fe2O3 was conducted based on a Beneq TFS-200 system using Fe(Cp)2 and O3 as the iron and oxygen sources, respectively. The reaction chamber was heated to 250°C. During the deposition, the reaction chamber was maintained at 2 mbar with a steady N2 stream at 250 sccm. Each Fe(Cp)2 half cycle consists of 100 T (100 ms filling of N2 R 100 ms wait time R 100 ms pulse time). Between the Fe(Cp)2 and O3 exposure, a 20 s purge with N2 was used."
+}<|im_end|>

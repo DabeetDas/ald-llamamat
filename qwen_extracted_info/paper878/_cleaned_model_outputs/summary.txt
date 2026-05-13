@@ -1,0 +1,8 @@
+{
+  "target_material": "PbS quantum dots",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["diethylzinc (DEZ)", "H2S gas"],
+  "temperature_range": "150 oC",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to grow an ultrathin and conformal ZnS interfacial layer on mesoporous TiO2 photoanodes for quantum dot-sensitized solar cells (QDSSCs). The ZnS interfacial layer enhances the nucleation sites for PbS quantum dot (QD) deposition, leading to increased light absorbance, photocurrent density, and power conversion efficiency (PCE) from 3.4% to 4.0%. However, the increased QD loading also leads to higher charge carrier recombination within the QDs.",
+  "evidence": "Ultrathin and conformal ZnS film grown by atomic layer deposition was employed in quantum dot-sensitized solar cells (QDSSCs) as an interfacial layer (IL) between mesoporous TiO2 photoanode and successive ionic layer adsorption and reaction (SILAR)-grown PbS QDs. ZnS IL provided more nucleation sites compared to a bare TiO2 photoanode, which enhanced PbS QDs loading remarkably. The power conversion efficiency of QDSSCs increased from 3.4% to 4% by introducing the ZnS IL. However, the β-recombination model obtained from electrochemical impedance spectroscopy revealed the evolution of charge carrier recombination inside QDs as a consequence of enhanced QD loading, which partly dilutes this benefit."
+}

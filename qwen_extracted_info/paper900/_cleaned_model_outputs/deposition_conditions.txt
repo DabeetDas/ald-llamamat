@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150–350",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Cambridge Nanotech Inc., Savannah 100",
+  "evidence": "All ZrO2 films were deposited onto p-type Si(1 0 0) substrates by a commercial reactor (Cambridge Nanotech Inc., Savannah 100) in the temperature range 150–350 /C176C. Prior to ALD deposition, the Si substrate was RCA cleaned, and then etched by diluted HF solution to remove the native oxide. Both Zr-AMD [tetrakis( N,N 0 -dimethylacetamidinate) zirconium] and TEMA-Zr [tetrakis(ethylmethylamino) zirconium] precursor prepared by Rohm and Haas Electronic Materials LLC were vaporized at 150 /C176C and 120/C176C, respectively. Distilled water was employed as the oxidizing agent."
+}

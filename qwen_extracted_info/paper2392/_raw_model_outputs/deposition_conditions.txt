@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "390",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.8",
+  "coreactant_pulse_time_s": "1.2",
+  "purge_time_s": "1.0",
+  "number_of_cycles": null,
+  "reactor_type": "Microchemistry F-120",
+  "evidence": "The pulse sequence per cycle was as follows; WCl 5 pulse width was 0.8 s, N 2 purge of 1.0 s, H 2Se pulse of 1.2 s, followed by a 1.0 s N 2 purge."
+}<|im_end|>

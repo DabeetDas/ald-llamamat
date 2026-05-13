@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Self-limiting chemisorption reactions take place on the substrate surface at temperatures ranging from 400 to 425 °C. The reaction of the Cp ligands with ammonia is kinetically limited, leading to self-limiting temperature dependent ALD growth. At higher temperatures, incorporation of partially decomposed precursor carbon containing ligands may rise during the growth.",
+  "intermediate_species": [
+    "Cp ligands",
+    "ammonia",
+    "precursor carbon containing ligands"
+  ],
+  "evidence": "Self-limiting chemisorption reactions are taking place on the substrate surface at temperatures ranging from 400 to 425 °C. The growth rate plotted against the deposition temperature ( Fig. 3 ) indicates that these reactions are temperature dependent. This observation supports self-limited competitive mechanisms of reaction in the ALD window. Indeed, depending on the deposition temperature, the steric hindrance of the Cp compound on the substrate surface may play an important role. It is believed that the reaction of the Cp ligands with ammonia is kinetically limited. This would be a probable cause of the high carbon contamination at low temperatures and self-limiting temperature dependent ALD growth observed at temperatures ranging from 400 to 425 °C. At higher temperatures, incorporation of partially decomposed precursor carbon containing ligands may rise during the growth."
+}

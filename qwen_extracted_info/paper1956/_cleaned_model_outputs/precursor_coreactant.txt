@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylgallium (TMG)", "triethylgallium (TEG)"],
+  "coreactants": ["arsine"],
+  "purge_gas": ["hydrogen"],
+  "carrier_gas": ["hydrogen"],
+  "evidence": "For the ALE experiment, the Ga or As source gases were introduced alternatively using a flow rate less than I seem, giving a system background pressure less than 1 X 10 -6 or 1 X 10- 5 Torr, depending on whether or not hydrogen was used as the carrier gas."
+}

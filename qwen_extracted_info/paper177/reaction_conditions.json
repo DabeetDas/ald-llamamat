@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of Fe(Cp)2 precursor, which leads to a self-catalytic process that reduces the growth rate after the first few hundred cycles. The introduction of TiO2 co-deposition passivates the chamber and substrate surface, retarding the autocatalytic decomposition process and maintaining a constant growth rate.",
+  "intermediate_species": [
+    "Fe(Cp)2 decomposition products",
+    "TiO2 co-deposition layer"
+  ],
+  "evidence": "The surface reaction mechanism was described in the text as follows: 'One possible reason for the growth rate reduction is the decomposition of the Fe(Cp)2 precursor. It has been reported that the decomposition of Fe(Cp)2 can be accelerated due to Fe- and C-coated vessels. Therefore, a self-catalytic process can occur such that the decomposition product (containing Fe and C) might, in turn, accelerate the decomposition of Fe(Cp)2 itself. Thus, the decomposition rate increases with ALD cycle number, resulting in a nonlinear growth. Interestingly, we found here that, by introducing one cycle of TiO2 using TiCl4 and H2O after each 20 Fe2O3 cycles, a linear growth can be obtained up to 600 cycles, resulting in a film thickness of 33 nm (see Fig. 1b). This linear growth could be related to an elimination of the self-decomposition of Fe(Cp)2. The one-cycle TiO2 layer might passivate the chamber and substrate surface and therefore retard the autocatalytic decomposition process.'"
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 500,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The ALD deposition sequence consisted of alternating 2 s pulses of ZnCl2 and H2S, each separated by a 2 s N2 purge, while maintaining the substrate at 500 °C."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMA", "H2O", "TDMA(Zr)", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "For the preparation of the Al2O3 layers, H2O and trimethylaluminum (TMA) were used as precursors. For the preparation of the ZrO2 layers, tetrakis(dimethylamido)zirconium(IV) (TDMA(Zr)) and H2O were used. TMA and water precursors were kept at room temperature while the TDMA(Zr) was heated to 75 8C. Al2O3 layers were prepared by repeated dosing of TMA and H2O each for 15 ms with 5 s N2 purging intervals (20 sccm) between. The reactor temperature was kept at 80 8C. ZrO2 layers were prepared by repeated dosing of TDMA(Zr) and H2O for 0.3 s and 30 ms, respectively. Between dosing pulses, the reactor was purged for 7 s with N2 (20 sccm)."
+}

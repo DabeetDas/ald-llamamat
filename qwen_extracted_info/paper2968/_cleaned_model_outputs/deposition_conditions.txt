@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "160-420",
+  "pressure": "100-500",
+  "precursor_pulse_time_s": "500",
+  "coreactant_pulse_time_s": "300",
+  "purge_time_s": "1000",
+  "number_of_cycles": "70",
+  "reactor_type": "Genus StrataGem",
+  "evidence": "Throughput.—A recipe with 2.8 s cycle time, where Hf pulse 5 500 ms, Hf purge 5 1000 ms, O 3 pulse 5 300 ms, O 3 purge 5 1000 ms, was used to deposit blanket films of HfO 2 on a 200 mm Si wafer."
+}

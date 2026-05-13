@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Grazing-incidence X-ray reflectivity (GIXRR)",
+    "UV-visible spectrophotometer",
+    "AC-field Hall effect measurement",
+    "Transmission electron microscopy (TEM)",
+    "Selected area electron diffraction (SAED)",
+    "Energy-dispersive X-ray spectroscopy (EDS)",
+    "Spectroscopic ellipsometry (SE)",
+    "Atomic force microscopy (AFM)"
+  ],
+  "evidence": "The crystallinities of the IGZO thin films were revealed by X-ray diffraction (XRD) (λ = 1.5406 Å) with the 2-theta method. Chemical bond states were analyzed by X-ray photoelectron spectroscopy (XPS) (Versaprobe II), which was carried out using a monochromatic Al Kα (1486.6 eV) source with a pass energy of 20 eV. Film thickness and roughness were evaluated using a grazing-incidence X-ray reflectivity instrument (GIXRR, SmartLab RIGAKU). Optical properties were investigated using an UV-visible spectrophotometer (Hitachi UH4150). Temperature dependent electrical properties such as carrier density, hall mobility, and resistivity were investigated by AC-field Hall effect measurement (ResiTest8400, Toyo Corp.) with the van der Pauw configuration. The microstructure of the IGZO thin films were investigated using TEM (JEM-2010F, JEOL)."
+}

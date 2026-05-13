@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of a low-oxidation-state molybdenum precursor (Mo(NMe2)4) in an ALD process with either water or ozone as oxidants. The growth is self-limiting, with alternating pulses of the precursor and oxidants leading to the formation of molybdenum oxides with tunable stoichiometry. The mechanism allows for the continuous tuning of carrier density in MoS2 by controlling the oxide composition, which affects the work function and thus the doping level.",
+  "intermediate_species": ["Mo(NMe2)4", "surface hydroxyls", "ozone", "water"],
+  "evidence": "The text describes the use of a low-oxidation-state molybdenum precursor (Mo(NMe2)4) in an ALD process with either water or ozone as oxidants. The growth is self-limiting, with alternating pulses of the precursor and oxidants leading to the formation of molybdenum oxides with tunable stoichiometry. The mechanism allows for the continuous tuning of carrier density in MoS2 by controlling the oxide composition, which affects the work function and thus the doping level."
+}

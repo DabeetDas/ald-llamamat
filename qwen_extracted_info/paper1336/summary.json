@@ -1,0 +1,11 @@
+{
+  "target_material": "AlON",
+  "process_type": "Plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "NH3",
+    "O2"
+  ],
+  "temperature_range": "185 oC",
+  "summary": "The study describes the low-temperature one-step growth of AlON thin films with a homogeneous nitrogen doping profile using plasma enhanced atomic layer deposition (PEALD). The AlON films are grown by introducing NH3 and O2 precursors simultaneously at a temperature of 185 oC. The NH3:O2 ratio is maintained at a relatively high level (>85 %) to ensure the formation of AlON. The films exhibit lower surface roughness compared to AlN and Al2O3, and the nitrogen doping is evenly distributed throughout the film. The AlON films are characterized by XPS and TEM, revealing a three-layer structure and confirming their composition. The films show improved electrical and optical properties, making them suitable for applications such as gate dielectrics and anti-reflective layers.",
+  "evidence": "The AlON film with homogenous nitrogen doping profile was grown by plasma enhanced atomic layer deposition (PEALD) at low temperature. In this work, the precursors of the NH3 and the O2 were simultaneously introduced into the chamber during the PEALD growth at a relatively low temperature of 185 oC. It is found that the composition of the obtained film quickly changes from AlN to Al2O3 when a small amount of O2 is added. Thus, the NH3:O2 ratio should be maintained at a relatively high level (>85 %) for realizing the AlON growth. Benefited from the growth method, the nitrogen can be doped evenly in the entire film. Moreover, the AlON films exhibit a lower surface roughness than the AlN as well as the Al2O3 ones. The Al2p and N1s x-ray photoelectron spectra show that the AlON film is composed of Al4N, Al4O, and N4Al4O bonds. Moreover, a three-layer construction of the AlON film is proposed through the Si2p spectra analyzation and reconfirmed by the transmission electron microscopy characterization. At last, the electrical and optical tests indicate that the AlON films prepared in this work can be employed as the gate dielectric in transistor application as well as the anti-reflective layer in photovoltaic application."
+}

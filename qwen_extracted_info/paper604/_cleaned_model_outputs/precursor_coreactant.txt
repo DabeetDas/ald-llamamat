@@ -1,0 +1,7 @@
+{
+  "precursors": ["TaCl5"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Tantalum oxide was deposited directly onto the sensor crystal of QCM. The experiments were carried out in a horizontal flow-type ALD reactor at the pressure of 250 Pa using N, as the carrier gas."
+}

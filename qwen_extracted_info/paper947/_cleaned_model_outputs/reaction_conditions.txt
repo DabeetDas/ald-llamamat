@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Formation of a narrow-gap Ge oxide interlayer (IL) during H2O-based atomic layer deposition (ALD) of HfO2, which leads to reduced energy barriers for electron and hole injection from Ge into the insulator. The presence of hydrogen during deposition facilitates the conversion of GeO2 into this narrow-gap phase, while hydrogen-free processes suppress its formation.",
+  "intermediate_species": ["Ge oxide interlayer (narrow-gap phase)"],
+  "evidence": "The text discusses the formation of a narrow-gap Ge oxide interlayer during H2O-based ALD of HfO2, which leads to reduced energy barriers for electron and hole injection from Ge into the insulator. It also mentions that the presence of hydrogen during deposition facilitates the conversion of GeO2 into this narrow-gap phase, while hydrogen-free processes suppress its formation."
+}

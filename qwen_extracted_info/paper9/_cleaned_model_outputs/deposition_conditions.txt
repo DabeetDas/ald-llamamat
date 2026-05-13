@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-350",
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 6,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The precursor pulse times were varied between 1 s and 5 s. The purge time after each precursor pulse was 6 s. The reaction temperatures were 150–350 C. Ti(OCH(CH3)2)4 (Aldrich, 97 %) was held inside the reactor in an open boat at 45 C. D2O (Euriso-top, 99.9 % D) was held outside the reactor in a glass bottle at room temperature (20–22 C) and the flow rate was controlled by a needle valve. The pulsing of both precursors was accomplished by solenoid valves. Argon (99.99 %) was used as both purging and carrier gas."
+}

@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD involve the adsorption of titanium isopropoxide (TIP) and subsequent hydrolysis by water, leading to the formation of TiO2. The growth rate of TiO2 on the protein surface was influenced by precursor exposure and purge length, with a maximum growth rate observed before settling to a constant value. The presence of water and TIP molecules in the gas phase led to self-limiting surface reactions, and the removal of water from the protein channels was crucial for core-shell nanoparticle formation.",
+  "intermediate_species": [
+    "TIP molecules",
+    "hydrolyzed TIP",
+    "adsorbed water molecules",
+    "precursor molecules"
+  ],
+  "evidence": "The surface reactions during ALD involve the adsorption of titanium isopropoxide (TIP) and subsequent hydrolysis by water, leading to the formation of TiO2. The growth rate of TiO2 on the protein surface was influenced by precursor exposure and purge length, with a maximum growth rate observed before settling to a constant value. The presence of water and TIP molecules in the gas phase led to self-limiting surface reactions, and the removal of water from the protein channels was crucial for core-shell nanoparticle formation."
+}

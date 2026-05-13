@@ -1,0 +1,19 @@
+{
+  "reaction_equations": [
+    "Sn(OEt)3 + 2 OH* → Sn(O)2* + 3 EtOH",
+    "Sn(O)2* + O3 → CO3* + H2O + SnO*",
+    "Sn(O)2* + CO3* → SnO* + CO2 + O*",
+    "Sn(O)2* + H2O → SnO* + 2 OH*"
+  ],
+  "surface_mechanism_description": "Ligand exchange between tributyltin ethoxide and surface hydroxyl groups followed by ozone pulse to form carbonate and formate species, which are then removed by subsequent tributyltin ethoxide pulse, leading to the formation of Sn-O-Sn bonds.",
+  "intermediate_species": [
+    "carbonate species",
+    "formate species",
+    "Sn(O)2*",
+    "CO3*",
+    "H2O",
+    "SnO*",
+    "OH*"
+  ],
+  "evidence": "Upon the first ozone pulse, the bands at ~2900 cm⁻¹ and 1465 cm⁻¹ disappear indicating that ozone completely reacts with the CH2 and CH3 groups. Initially, some formate species are formed, associated with a relatively strong loss of CH stretch modes. Thereafter, the carbonate bands become visible. The absorptions at 1241 cm⁻¹ and 1050 cm⁻¹ are assigned to C–O stretches from CO2 released during the ozone reaction re-absorbing to form a Sn–O–C–O–Sn functionalization. The appearance of a weak band at 3745 cm⁻¹ suggests that hydroxyl groups are formed upon ozone pulse due to a possible Sn–O–Si bond break at the interface. These OH groups are not observed in the latter cycles. During the second ozone pulse, strong bands for carbonate, formate, and TOT–C–O–T are formed with the complete consumption of the CHx groups that resulted from the previous tributyltin ethoxide exposure. This suggests the carbonate and formate products are strongly adsorbing to a tin oxide surface. In steady state, tributyltin ethoxide pulse fully removes surface carbonate and formate species. The reaction between formate and the ethoxide group of tributyltin ethoxide can be expected to leave an ester and forming Sn–O–Sn bond. The reaction between carbonate and tributyltin ethoxide may involve the reaction of the ethoxide group of the tributyltin ethoxide molecule with the OH of the carbonate releasing an ethanol molecule, and CO2 molecule with the tributyltin ligand attaching to the oxygen atom of the surface Sn. Two of the butyl groups of tributyltin ethoxide could also react with OH of carbonate releasing butane and carbon dioxide forming Sn–O–Sn bonds."
+}

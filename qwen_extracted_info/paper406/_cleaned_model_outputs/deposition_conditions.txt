@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "1000-1200",
+  "pressure": "10^-6-10^-5 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "gas source molecular beam epitaxy",
+  "evidence": "The chamber pressure during growth was about 10^-6-10^-5 Torr and was maintained by a turbomolecular pump and a liquid nitrogen shroud. The substrate temperature was in the range 1000-1200 °C, and almost all the experiments except the surface cleaning process were carried out at 1000 °C."
+}

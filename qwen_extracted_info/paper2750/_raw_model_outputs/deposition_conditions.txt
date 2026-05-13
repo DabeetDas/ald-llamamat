@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-175",
+  "pressure": "0.9 Torr",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 1,
+  "number_of_cycles": 200,
+  "reactor_type": "hot-walled, viscous flow reactor",
+  "evidence": "During deposition, a base pressure of 0.9 Torr was maintained in the reactor using a continuous laminar flow of 270 SCCM ultrahigh purity (99.999%) argon gas."
+}<|im_end|>

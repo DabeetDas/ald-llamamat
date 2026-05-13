@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The alkyl groups in TBTDET are easily reduced by hydrogen radicals into volatile compounds at a deposition temperature of 260°C. The Ta-N films become densified and show an excellent resistivity of 400 mV cm with no aging effect under exposure to air.",
+  "intermediate_species": ["TBTDET molecules", "hydrogen radicals", "volatile compounds"],
+  "evidence": "In TBTDET, four nitrogen atoms in the ligands are directly bonded to a tantalum atom and one of them is doubly bonded. Thus, it is reasonable to expect that when the TBTDET molecules adsorbed on the surface of the films are exposed to hydrogen radicals, the alkyl groups in TBTDET would be easily reduced to volatile compounds, at least leaving the nitrogen atom doubly bonded to the tantalum atom because the doubly bonded nitrogen atom should be bound more strongly to the tantalum atom than to the alkyl groups. As a result, the Ta-N films would be formed."
+}

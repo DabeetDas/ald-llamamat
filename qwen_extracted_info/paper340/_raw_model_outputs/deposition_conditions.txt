@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "550",
+  "pressure": "1 x 10 6 or 1 x 10 ~ Torr",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": "5",
+  "purge_time_s": "2",
+  "number_of_cycles": "3",
+  "reactor_type": "Riber MBE-2300",
+  "evidence": "The experiments were performed in a Riber MBE-2300 chamber modified for the chemical beam epitaxy (CBE) process. TMG, triethyl-Ga (TEG) and arsine were used as source gases. Arsine was thermally decomposed to provide primarily an As2 beam including some partially cracked hydrides. For the ALE experiment, TMG and arsine were introduced alternately using a flow rate less than 1 SCCM, giving a system background pressure below 1 x 10 6 or 1 x 10 ~ Torr, depending whether hydrogen was used as carrier gas. With the gas line valves closed, the pressure fell quickly below 8 X 10 ~ Torr."
+}<|im_end|>

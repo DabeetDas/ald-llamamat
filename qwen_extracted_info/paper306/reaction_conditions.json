@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the sequential introduction of precursors (diethylzinc and water vapor) and their separation by purging with nitrogen gas. The growth process is controlled by surface reconstruction mechanisms, as indicated by the decrease in growth rate with increasing aluminum content. The formation of zinc vacancies is associated with the decrease in electron mobility and is supported by EDS data.",
+  "intermediate_species": [
+    "zinc interstitials",
+    "zinc vacancies",
+    "native defects"
+  ],
+  "evidence": "The surface reaction mechanism involves the sequential introduction of precursors (diethylzinc and water vapor) and their separation by purging with nitrogen gas. The growth process is controlled by surface reconstruction mechanisms, as indicated by the decrease in growth rate with increasing aluminum content. The formation of zinc vacancies is associated with the decrease in electron mobility and is supported by EDS data."
+}

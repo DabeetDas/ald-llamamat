@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "0.5 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 3,
+  "number_of_cycles": 50,
+  "reactor_type": "F-120",
+  "evidence": "The sample surface was alternately exposed to HfCl4 and water vapor. After each exposure, the reaction chamber and the gas manifold were purged with nitrogen to avoid possible gas-phase reactions and to eliminate the possible physisorption of the precursors on the substrates. Deposition was carried out at a substrate temperature of 300 °C. The exposure times for HfCl4 and water vapor were both 2 s, followed by 3 min of nitrogen purging after each precursor was introduced into the chamber."
+}

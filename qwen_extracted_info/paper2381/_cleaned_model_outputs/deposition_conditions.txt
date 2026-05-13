@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80-350",
+  "pressure": "10−5–10−6 Pa",
+  "precursor_pulse_time_s": 50,
+  "coreactant_pulse_time_s": 50,
+  "purge_time_s": 10,
+  "number_of_cycles": 150,
+  "reactor_type": "home-made CVD/ALD reactor",
+  "evidence": "The ALD cycle consisted of 50 s of Mg(Cp)2 precursor pulse, 10 s N2 purge, 50 ms of H2O pulse and 10 s of N2 purge."
+}

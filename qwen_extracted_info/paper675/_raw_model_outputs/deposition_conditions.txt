@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "180",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.7",
+  "coreactant_pulse_time_s": "0.5",
+  "purge_time_s": "1",
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "To obtain In2S3 there we used the following pulsing order: 1. indium acetyl acetonate 0.7 s, 2. nitrogen (purge 1) 1 s, 3. hydrogen sulphur 0.5 s, 4. nitrogen (purge 2) 0.8 s."
+}<|im_end|>

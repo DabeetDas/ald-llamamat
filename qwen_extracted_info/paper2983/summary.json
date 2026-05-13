@@ -1,0 +1,11 @@
+{
+  "target_material": "Hf-silicate",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Hf(N(CH3)(C2H5))4",
+    "SiH(N(CH3)2)3"
+  ],
+  "temperature_range": "200 to 300°C",
+  "summary": "The study describes the atomic layer deposition (ALD) of Hf-silicate gate dielectric films using Hf(N(CH3)(C2H5))4 and SiH(N(CH3)2)3 precursors. The process involves alternating HfO2 and SiO2 ALD cycles at temperatures ranging from 200 to 300°C. The thickness and composition of the Hf-silicate films can be controlled by the number of deposition cycles. The SiH(N(CH3)2)3 precursor enables the deposition of SiO2 layers on both SiO2 and HfO2 films, allowing for the fabrication of ultrathin equivalent oxide thickness high-k gate stack structures.",
+  "evidence": "Hf-silicate gate dielectrics were formed by atomic layer deposition (ALD) technology using the liquid Hf(N(CH3)(C2H5))4 and SiH(N(CH3)2)3 precursors. HffNsCH3dsC2H5dg4 and SiHfNsCH3d2g3 precursors were used for HfO2 and SiO2 layers, respectively. Films were deposited at temperatures ranging from 200 to 300°C. The thickness and the Hf/(Hf + Si) compositions of Hf-silicate films could be easily controlled by the number of the deposition cycles."
+}

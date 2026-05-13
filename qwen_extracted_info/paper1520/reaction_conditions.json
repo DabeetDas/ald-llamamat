@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "5Mg(thd)2(g) + 2TaF5(g) → 5MgF2(s) + 2Ta(thd)5(g)"
+  ],
+  "surface_mechanism_description": "While the detailed reaction mechanism remains unidentified at the moment, the following net reaction is suggested: 5Mg(thd)2(g) + 2TaF5(g) → 5MgF2(s) + 2Ta(thd)5(g). A solid MgF2 is formed together with volatile Ta(thd)5 and possibly some other volatile by-product.",
+  "intermediate_species": [
+    "Ta(thd)5",
+    "volatile by-product"
+  ],
+  "evidence": "While the detailed reaction mechanism remains unidentified at the moment, the following net reaction (1) is suggested: 5Mg(thd)2(g) + 2TaF5(g) → 5MgF2(s) + 2Ta(thd)5(g). In the reaction of Mg(thd)2 and TaF5 (1), a solid MgF2 is formed together with volatile Ta(thd)5 and possibly some other volatile by-product."
+}

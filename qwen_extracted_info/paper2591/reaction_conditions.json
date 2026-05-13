@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of H2O as a co-reactant in the ALD process with CpHf(NMe2)3 and (CpMe)2Hf(OMe)Me precursors. The reaction is described as a ligand exchange between the precursor and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The process is compared to the conventional TEMAH/H2O process, where the use of a stronger oxidant like O3 can lead to oxidation of the underlying Si substrate, resulting in an increased thickness in the lower-k interfacial layer.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The surface reaction mechanism involves the use of H2O as a co-reactant in the ALD process with CpHf(NMe2)3 and (CpMe)2Hf(OMe)Me precursors. The reaction is described as a ligand exchange between the precursor and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The process is compared to the conventional TEMAH/H2O process, where the use of a stronger oxidant like O3 can lead to oxidation of the underlying Si substrate, resulting in an increased thickness in the lower-k interfacial layer."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "vanadium nitride (VN)",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["tetrakis(ethylmethylamino)vanadium (TEMAV)", "NH3 plasma"],
+  "temperature_range": "70 /C14 C to 150 /C14 C",
+  "summary": "The study describes the low-temperature plasma-enhanced atomic layer deposition (PEALD) of vanadium nitride (VN) layers for copper diffusion barriers. The process uses tetrakis(ethylmethylamino)vanadium (TEMAV) as a metal-organic precursor and NH3 plasma as a reactant. The deposited films showed good stoichiometry and crystallinity, with resistivity reduced through post-ALD annealing. The VN layer was effective as a diffusion barrier for copper up to 720 /C14 C.",
+  "evidence": "Thin vanadium nitride (VN) layers were grown by atomic layer deposition using tetrakis(ethylmethylamino)vanadium and NH3 plasma at deposition temperatures between 70 /C14 C and 150 /C14 C on silicon substrates and polymer foil. A 5 nm VN layer proved to be effective as a diffusion barrier for copper up to a temperature of 720 /C14 C."
+}

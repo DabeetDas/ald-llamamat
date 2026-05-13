@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Hf(N(CH3)2)4",
+    "H2O"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the structural and chemical properties of HfO2 thin films deposited on In0.53Ga0.47As surfaces using atomic layer deposition (ALD). The films are deposited using Hf(N(CH3)2)4 and H2O precursors at 250 °C. The surface preparation of In0.53Ga0.47As significantly affects the thickness of the HfO2 film and the interlayer oxide. The ALD process does not fully clean the native oxides of In0.53Ga0.47As, resulting in an interface oxide layer primarily composed of Ga oxides. The study also examines the impact of different surface treatments on the interface state densities and electrical properties of the HfO2/In0.53Ga0.47As interface.",
+  "evidence": "HfO2 thin films were deposited by ALD using Hf(N(CH3)2)4 and H2O at 250 °C on In0.53Ga0.47As/InP samples. The structural and chemical properties were investigated using high resolution cross-sectional transmission electron microscopy and electron energy loss spectroscopy. The interfacial oxide layer was found to consist primarily of Ga oxides. The study also found that the ALD process does not fully clean the native oxides of In0.53Ga0.47As, resulting in an interface oxide layer."
+}

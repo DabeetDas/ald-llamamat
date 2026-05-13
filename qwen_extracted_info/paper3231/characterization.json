@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "X-ray reﬂectivity (XRR)",
+    "Grazing incidence X-ray diffraction (GIXRD)",
+    "Time of ﬂight secondary ion mass spectrometry (ToF-SIMS)",
+    "Capacitance-voltage (C-V) measurements",
+    "Ellipsometry"
+  ],
+  "evidence": "XRR scans were collected in a specular ω-2 θ geometry, in the range ω = 0◦ ÷ 4◦, in steps /Delta1ω= 0.01◦. GIXRD scans were collected at ω = 1◦ incident angle. Film compositional uniformity and thermal stability versus thermal treatments were investigated by time of ﬂight secondary ion mass spectrometry (ToF-SIMS) depth proﬁles... Electrical characterization was performed using MOS capacitors incorporating as-deposited and annealed TbScO x ﬁlms... Capacitance-voltage (C-V) measurements were acquired at room temperature in a dark probe station using a HP4284A LCR meter in the 1 kHz - 1 MHz frequency range. The Equivalent Oxide Thickness (EOT) values were obtained from C-V data using the Metal-Insulator-Semiconductor CV Fitting (MISFIT) software..."
+}

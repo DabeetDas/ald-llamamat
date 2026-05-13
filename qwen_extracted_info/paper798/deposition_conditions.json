@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "2 mbar",
+  "precursor_pulse_time_s": 400,
+  "coreactant_pulse_time_s": 400,
+  "purge_time_s": 5,
+  "number_of_cycles": 400,
+  "reactor_type": "custom thermal ALD system",
+  "evidence": "The ALD process was carried out in a custom thermal ALD system at a chamber pressure of 2 mbar applying different deposition temperatures as a function of the Mo precursor: MoCl5 (300 °C), Mo(CO)6 (167 °C) and Mo(NMe2)2 (NtBu)2 (275 °C). The MoSe2 deposition was explored using different substrates: Si wafer (with thin native SiO2 on its surface), annealed Ti foils (with a thin anatase thermal TiO2 layer on the foil surface) and a soda lime glass. Regardless the precursors used, the same ALD parameters were applied in all the processes. Thus, one growth ALD cycle was defined by the following sequence: Se precursor (400 ms) – N2 purge (5 s) – Mo precursor (400 ms) – N2 purge (5 s)."
+}

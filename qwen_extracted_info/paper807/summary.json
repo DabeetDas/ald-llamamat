@@ -1,0 +1,11 @@
+{
+  "target_material": "SnO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "tetrakis (dimethylamino) tin (TDMASn)",
+    "ozone (O3)"
+  ],
+  "temperature_range": "100 /C14 C",
+  "summary": "Bicontinuous Tin oxide (SnO2) thin films were fabricated by atomic layer deposition (ALD), annealing, and acid washing with nanoporous gold (NPG) structure serving as templates. The resultant SnO2 films show high sensitivity on NO2 gas. The detection limit is as low as 170 ppb in dry N2 flow with a rapid response/recovery time of 40/130 s at the optimized working temperature of 300 /C14 C.",
+  "evidence": "Bicontinuous Tin oxide (SnO2) thin films were fabricated by atomic layer deposition (ALD), annealing, and acid washing with nanoporous gold (NPG) structure serving as templates. The resultant SnO2 films show high sensitivity on NO2 gas. The detection limit is as low as 170 ppb in dry N2 flow with a rapid response/recovery time of 40/130 s at the optimized working temperature of 300 /C14 C."
+}

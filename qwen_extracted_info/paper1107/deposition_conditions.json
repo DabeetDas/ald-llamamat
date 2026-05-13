@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "65 Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "100",
+  "reactor_type": "cross- ﬂow",
+  "evidence": "The ALD-tool is a self build cross- ﬂow reactor with a loadlock and three precursor-bubbler for HfCl 4, (CpCH3)3Y and water ( Fig. 1 )."
+}

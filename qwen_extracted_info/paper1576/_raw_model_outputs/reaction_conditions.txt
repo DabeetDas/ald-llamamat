@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Cu(sBu-amd) + COOH -> Cu-O-COOCu + byproducts"
+  ],
+  "surface_mechanism_description": "Cu is deposited with ALD, forming a bidentate complexation between the Cu and the COOH groups during the first half cycle of the ALD reaction.",
+  "intermediate_species": [
+    "Cu-O-COOCu",
+    "Cu precursor (Cu(sBu-amd))",
+    "COOH groups"
+  ],
+  "evidence": "During the first half cycle of the ALD reaction, a bidentate complexation occurs between the Cu and the COOH groups. The presence of ligands remaining at the surface, even after the H2 pulses, is evident by the observation of the mode at 1600 cm-1. These ligands are not bonded to Cu and therefore constitute an impurity trapped at the surface on or in the Cu layer."
+}<|im_end|>

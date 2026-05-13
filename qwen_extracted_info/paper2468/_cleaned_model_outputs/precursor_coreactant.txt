@@ -1,0 +1,7 @@
+{
+  "precursors": ["ferrocene (Cp2Fe)", "Fe2(OtBu)6"],
+  "coreactants": ["O3/O2 mixture", "water"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "Two thermally stable gaseous precursors are pulsed alternatively into the reaction chamber, whereby direct contact of both precursors in the gas phase is prevented. In method I, oxidation of ferrocene (also called bis(cyclopentadienyl)iron, usually abbreviated Cp2Fe) with an ozone/dioxygen (O3 / O2) mixture at 200 ° C yields a growth rate of ~0.2 Å per cycle. Method II consists of the reaction of the dimeric iron (III)tert-butoxide, Fe2(OtBu)6, with water at 140 ° C, with ~0.25 Å deposited per cycle."
+}

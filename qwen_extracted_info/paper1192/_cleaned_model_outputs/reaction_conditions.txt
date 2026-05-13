@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [
+    "Si-OH* + Al(CH3)3 -> Si-O-Al(CH3)2 + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "Si-OH* + Al(CH3)3 -> Si-O-Al(CH3)2 + CH4"
+}

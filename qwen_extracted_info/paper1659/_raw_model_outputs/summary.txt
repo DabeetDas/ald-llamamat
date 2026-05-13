@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TMA", "H2O"],
+  "temperature_range": "Not explicitly mentioned",
+  "summary": "The study investigates the effect of Al2O3 barrier layers prepared via atomic layer deposition (ALD) on the forward electron injection from Ru(dcbpy)2(NCS)2 dye to the conduction band of TiO2 in dye-sensitized solar cells (DSSCs). The results show that the Al2O3 barrier suppresses electron injection, particularly from the triplet state, and the suppression increases with the thickness of the barrier layer.",
+  "evidence": "The method allowed variation of barrier thicknesses at atomic resolution also deep in nanoporous structures, which makes it a superior method as compared to, e.g., sol-gel techniques. In this letter we present results on the effect of Al2O3 barriers of various thicknesses on forward electron injection in dye-sensitized solar cells. A decrease in the amplitude of the oxidized Ru(dcbpy)2(NCS)2 dye absorption signal due to singlet injection was observed already after one deposition cycle that produces a discontinuous layer with nominal thickness of 1 Å. More than two layer coatings also slowed down the triplet injection."
+}<|im_end|>

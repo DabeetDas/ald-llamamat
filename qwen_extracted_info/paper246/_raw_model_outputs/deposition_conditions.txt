@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": null,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.25,
+  "coreactant_pulse_time_s": 0.25,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "Beneq TFS200",
+  "evidence": "The Beneq TFS200 ALD equipment has been used for thin film deposition. An ALD cycle, consists of alternating TMA (Al(CH3)3, Strem Chemicals) (250 ms pulse, 2 s purge) and H2O (250 ms pulse, 2 s purge) under N2 (200/200 sccm flow rate)."
+}<|im_end|>

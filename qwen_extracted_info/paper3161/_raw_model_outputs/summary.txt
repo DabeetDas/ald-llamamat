@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru",
+  "process_type": "thermal ALD",
+  "main_precursors": ["C16H22Ru", "O2"],
+  "temperature_range": "220°C",
+  "summary": "The study describes the low-temperature atomic layer deposition (ALD) of Ru thin films using a metallorganic precursor, C16H22Ru, and O2 at 220°C. The process showed enhanced nucleation compared to traditional Ru precursors, with negligible incubation cycles and a high step coverage on high aspect-ratio structures. The Ru films were deposited on TiN and thermally grown SiO2 substrates, showing a linear growth rate and excellent conformality.",
+  "evidence": "Ru thin ﬁlms were deposited by atomic layer deposition through alternating exposures of a metallorganic precursor, C16H22Ru and O2 at 220°C. The growth rate was 0.1 and 0.086 nm/cycle on TiN and thermally grown SiO2, respectively. On both substrates, negligible incubation cycles were observed indicating that Ru nucleation was enhanced compared to the results obtained using the cyclopentadienyl-based Ru precursors."
+}<|im_end|>

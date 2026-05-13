@@ -1,0 +1,8 @@
+{
+  "target_material": "Nickel Sulfide (NiS)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["bis(N,N’-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2)", "H2S"],
+  "temperature_range": "200 °C",
+  "summary": "The study investigates the surface chemistry during the atomic layer deposition (ALD) of nickel sulfide (NiS) using bis(N,N’-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2) as the nickel precursor and H2S as the sulfur source. The process deviates from the conventional ligand-exchange scheme, with the formation of a non-volatile acid-base complex between the acidic surface sulfhydryl and the basic amidine, which prevents the release of the amidine and reduces the growth rate of NiS films.",
+  "evidence": "The ALD of NiS has been demonstrated with great promise for electrocatalytic water splitting applications. The ALD process used bis(N,N’-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2) as the nickel precursor and H2S gas as the sulfur source. Previously, this process was found to follow a typical layer-by-layer ALD growth mode and was able to produce fairly smooth, pure, and conformal NiS films at deposition temperature ranging from 90−200 °C. The growth rate of NiS was found fairly low (~0.015 nm/cycle), which implies that the surface reactions perhaps deviated from the conventional ligand-exchange scheme."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the oxidation of Ru surface by O3 during the initial growth stage, leading to the formation of RuO2, which is structurally compatible with rutile TiO2, promoting the growth of rutile structured TiO2 films. The O3 feeding time influences the surface roughness and local protrusions, which in turn affects the leakage current density.",
+  "intermediate_species": ["RuO2", "surface hydroxyls", "oxygen vacancies", "titanium interstitials"],
+  "evidence": "The formation of rutile structured TiO2 films is caused by the structural compatibility between the rutile TiO2 and in situ formed RuO2 at the interface during the growth, due to the strong oxidation potential of O3. The surface roughening and severe local protrusion of the films, which significantly increased their leakage current density, were attributed to the severe oxidation of the Ru electrode due to the excessive O3 feeding time."
+}<|im_end|>

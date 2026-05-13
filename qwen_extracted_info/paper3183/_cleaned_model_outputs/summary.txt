@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(ethylmethylamino)hafnium", "H2O"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the growth and interface evolution of HfO2 films on GaAs surfaces using atomic layer deposition (ALD). The process utilizes tetrakis(ethylmethylamino)hafnium and H2O as precursors at 250°C. The research focuses on the consumption of native oxides on GaAs surfaces, the removal of arsenic and gallium oxides, and the resulting interface characteristics. The study also compares the effects of different surface treatments (native oxide, HF, and NH4OH) on the ALD process and interface quality.",
+  "evidence": "The initial film growth and interface evolution of HfO2 thin films on GaAs surfaces were investigated for an atomic layer deposition chemistry that utilizes tetrakis(ethylmethylamino)hafnium and H2O at 250°C. Starting surfaces include native oxide and HF or NH4OH-etched substrates. X-ray photoelectron spectroscopy shows that deposition on native oxide GaAs surfaces results in the gradual consumption of the arsenic and gallium oxides."
+}

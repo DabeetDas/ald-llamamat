@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "(C5H5)2Mg",
+    "(CH3)3Al",
+    "H2O"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Commercial bis(cyclopentadienyl)magnesium ((C5H5)2Mg) (Morton International, #19612) and trimethyl aluminium ((CH3)3Al) (Witco GmbH, Bergkamen, Germany) were used as precursors. (C5H5)2Mg was transported from external cylinder through heated lines into the reactor by 60 sccm N2 flow while (CH3)3Al was transferred without carrier gas. Source material pulsing was achieved by inert gas valving with pure nitrogen (> 99.999%) as a carrier and purging gas."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 120,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 1,
+  "number_of_cycles": 1100,
+  "reactor_type": "F-120",
+  "evidence": "For ALD film deposition, titanium isopropoxide, Ti(OCH(CH3)2)4, was used as the precursor. One cycle of ALD process consists of precursor purging (1 s), vacuum (3 s), Ar purging (3 s), vacuum (3 s), O2 plasma (RF 120W) (7 s) and vacuum (3 s). The substrate temperature was 120 °C."
+}

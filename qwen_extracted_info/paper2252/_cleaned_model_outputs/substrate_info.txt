@@ -1,0 +1,7 @@
+{
+  "substrate_material": "n+-Si",
+  "substrate_orientation": "",
+  "pretreatment": "processed with a buffered oxide etchant (1:6 diluted HF in H2O) to remove the native oxide",
+  "surface_functionalization": "treated with plasma O2 for 3 min, immersed in 0.5 mM ODPA in THF/ethanol (1:1) for 16 h, rinsed with ethanol, dried with N2, annealed on a hot plate at 120 °C for 10 min in N2, and sonicated for 5 min in THF/ethanol (1:1)",
+  "evidence": "OFETs were built on heavily n-doped silicon substrates (n+-Si, 5×10−3 cm−1) with a top-contact bottom-gate device geometry. The wafers were processed with a buffered oxide etchant (1:6 diluted HF in H2O) to remove the native oxide."
+}

@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "BBr* + NH3 ⟶ BNH2* + HBr",
+    "BNH2* + BBr3 ⟶ BNBBr2* + HBr"
+  ],
+  "surface_mechanism_description": "The ALD process involves two half-reactions: the first is the reaction of BBr3 with surface hydroxyl groups, followed by the reaction of NH3 with the surface species formed in the first step. The surface species are denoted with an asterisk (*) to indicate they are surface-bound.",
+  "intermediate_species": [
+    "BNH2*",
+    "BNBBr2*"
+  ],
+  "evidence": "During the initial precursor exposure, BBr3 is expected to react efficiently with the hydroxyl groups of an oxide substrate surface. During growth, the ALD chemistry of this process is divided in the anticipated two-half reactions: BBr* + NH3 ⟶ BNH2* + HBr (1) and BNH2* + BBr3 ⟶ BNBBr2* + HBr (2), where the asterisks (*) denote the surface species."
+}<|im_end|>

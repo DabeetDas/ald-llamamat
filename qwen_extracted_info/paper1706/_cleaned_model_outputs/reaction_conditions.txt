@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of atomic layer deposition (ALD) to coat metal nanowires with sacrificial and shell layers. The sacrificial layers are then removed, creating free volume within the nanotubes. Annealing the nanowires induces Rayleigh instability, leading to the formation of nanoparticle chains. The process is described as involving the removal of sacrificial layers and subsequent annealing to create the instability.",
+  "intermediate_species": ["sacrificial layers", "shell layers", "free volume"],
+  "evidence": "The surface reaction mechanism involves the use of atomic layer deposition (ALD) to coat metal nanowires with sacrificial and shell layers. The sacrificial layers are then removed, creating free volume within the nanotubes. Annealing the nanowires induces Rayleigh instability, leading to the formation of nanoparticle chains. The process is described as involving the removal of sacrificial layers and subsequent annealing to create the instability."
+}

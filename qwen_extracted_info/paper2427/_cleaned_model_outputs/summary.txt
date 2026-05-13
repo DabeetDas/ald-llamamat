@@ -1,0 +1,8 @@
+{
+  "target_material": "Instrument transformer burdens (voltage and current transformers)",
+  "process_type": "Non-reactive resistor-based measurement",
+  "main_precursors": ["Non-reactive resistors"],
+  "temperature_range": "",
+  "summary": "The study describes methods to measure the burdens of voltage transformers (VTs) and current transformers (CTs) in situ using non-reactive resistors. The apparent power and power factor of the burdens are determined by analyzing the changes in ratio error and phase displacement as the resistance values are varied. The results are validated by comparing them with conventional measurement techniques.",
+  "evidence": "The study describes methods to measure the burdens of voltage transformers (VTs) and current transformers (CTs) in situ using non-reactive resistors. The apparent power and power factor of the burdens are determined by analyzing the changes in ratio error and phase displacement as the resistance values are varied. The results are validated by comparing them with conventional measurement techniques."
+}

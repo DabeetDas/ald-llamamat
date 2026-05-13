@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs and AlAs",
+  "process_type": "Atomic-layer epitaxy (ALE)",
+  "main_precursors": ["trimethylgallium (TMG)", "triethylgallium", "trimethylaluminum (TMA)", "arsine gas"],
+  "temperature_range": "450 to 550°C",
+  "summary": "The study investigates the kinetic processes in atomic-layer epitaxy (ALE) of GaAs and AlAs using a pulsed vapor-phase method with metal-organic compounds and hydrides. The growth rate is analyzed as a function of parameters such as gas pulse duration and pressure. The results show that the growth rate decreases drastically once a film thickness of 1 ML (for GaAs) or 2 ML (for AlAs) is reached. A model is proposed to explain the self-limiting growth behavior observed in the process.",
+  "evidence": "The film thickness per gas cycle monotonously increases with the gas-pulse duration of trimethylgallium, triethylgallium, or trimethylaluminum. However, when arsine gas-pulse duration is increased, the growth rate decreases drastically once a film thickness [1 ML for GaAs(100), (110), and (111)B, 2 ML for AlAs(100) and (111)B, and 3 ML for AIAs(110)] has been reached. A model has been suggested to explain the result."
+}

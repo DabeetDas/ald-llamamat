@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "1000",
+  "pressure": "10",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5—100",
+  "number_of_cycles": null,
+  "reactor_type": "MBE",
+  "evidence": "The growth temperature was ~ ~ ~ 10 Torr. Flux was controlled by a variable leak - ~~--~-- valve, and monitored by a quadrupole mass spectroscope and an ion gauge. The transition time to (I >< 1)was 5—100s."
+}<|im_end|>

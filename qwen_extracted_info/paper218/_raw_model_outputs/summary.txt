@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2 and ZrO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Si(OC2H5)4", "ZrCl4", "H2O"],
+  "temperature_range": "500 °C",
+  "summary": "The study investigates the crystallization of hafnia (HfO2) and zirconia (ZrO2) and their alloys with silica (SiO2) and lanthana (La2O3) using thermal analysis, X-ray diffraction, and electron microscopy. The crystallization temperatures of these materials increase with surface/interface area. The crystallization of HfO2 films was studied using atomic layer deposition (ALD) on silicon substrates, with a focus on the effects of surface area and dopant content on crystallization behavior. The study also highlights the role of surface energy in stabilizing different crystalline phases.",
+  "evidence": "The crystallization temperatures of hafnia and zirconia increase by more than 300 °C with increase of surface/interface area of the amorphous phase. An amorphous about 200 nm thick zirconium silicate film was grown by atomic layer deposition (ALD) at 500 °C on Pt foil in a F120 ALD reactor using 5500 cycles. The Si and Zr precursors used were Si(OC2H5)4 and ZrCl4, respectively, while H2O was applied as a complementary oxygen source after ZrCl4 pulses."
+}<|im_end|>

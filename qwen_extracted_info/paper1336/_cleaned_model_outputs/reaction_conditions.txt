@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The NH3 and O2 precursors are simultaneously introduced into the chamber during the PEALD growth. The O2 and NH3 only react with TMA when the plasma is turned on. The NH3/O2 mixed gas is passed over the wafer continually during the deposition. The AlON film is composed of Al4N, Al4O, and N4Al4O bonds. A three-layer construction of the AlON film is proposed through the Si2p spectra analysis and reconfirmed by the transmission electron microscopy characterization.",
+  "intermediate_species": ["Al4N", "Al4O", "N4Al4O"],
+  "evidence": "The Al2p and N1s X-ray photoelectron spectra show that the AlON film is composed of Al4N, Al4O, and N4Al4O bonds. Moreover, a three-layer construction of the AlON film is proposed through the Si2p spectra analysis and reconfirmed by the transmission electron microscopy characterization."
+}

@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Secondary Ion Mass Spectroscopy (SIMS)",
+    "Grazing Incidence X-ray Diffraction (GIXRD)",
+    "Ellipsometry",
+    "X-ray Reflectivity (XRR)",
+    "Atomic Force Microscopy (AFM)",
+    "High-Resolution XPS (HR-XPS)",
+    "Transmission Electron Microscopy (TEM)",
+    "High-Resolution Transmission Electron Microscopy (HR-TEM)",
+    "Scanning TEM (STEM)"
+  ],
+  "evidence": "X-ray photoelectron spectroscopy showed the presence of 2.5 –3 at.% O in AlN and 1.5 –1.7 at.% O in GaN films deposited using NH3 and N2/H2 plasma, respectively. Secondary ion mass spectroscopy analyses performed on the films deposited using NH3 plasma revealed the presence of O, C (both <1 at.%), and H impurities. GIXRD patterns indicated polycrystalline thin films with wurtzite crystal structure. Ellipsometric spectra of the samples were modeled using the Cauchy dispersion function, from which the refractive indices of 59.2 nm thick AlN and 20.1 nm thick GaN thin films were determined to be 1.94 and 2.17 at 632 nm, respectively. XRR data were fitted by the PANalytical X'Pert Reflectivity Software using a four-layer model. An FEI Tecnai G2 F30 transmission electron microscope (TEM) at an operating voltage of 300 kV was used for the imaging of samples prepared using an FEI Nova 600i Nanolab focused ion beam (FIB) system. An atomic force microscope (AFM, Park Systems Corp., XE-100) operating in the contact mode was used to reveal surface morphologies of the deposited thin films. High-resolution XPS (HR-XPS) data were corrected for charging by shifting peaks with respect to the adventitious C peak located at 284.8 eV. X-ray re ectivity (XRR) and grazing-incidence X-ray diffraction (GIXRD) measurements were carried out with a PANalytical X'Pert PRO MRD diffractometer using Cu Kα radiation. GIXRD patterns were obtained by performing 10 repeated scans within the 2theta range of 20 –80° with a step size of 0.1° and a counting time of 10 s. XRR data were fitted by the PANalytical X'Pert Reflectivity Software using a four-layer model, i.e. Al2O3 (or Ga2O3)/AlN (or GaN)/SiO2/Si. An FEI Tecnai G2 F30 transmission electron microscope (TEM) at an operating voltage of 300 kV was used for the imaging of samples prepared using an FEI Nova 600i Nanolab focused ion beam (FIB) system. The samples were prepared at an acceleration voltage of 30 kV, using various beam currents ranging from 50 pA to 21 nA. For the GaN and AlxGa1/C0xN thin film samples, damage layers formed at the film/substrate interfaces were treated by FIB milling using beam voltages of 5 and 2 kV, respectively. An atomic force microscope (AFM, Park Systems Corp., XE-100) operating in the contact mode was used to reveal surface morphologies of the deposited thin films."
+}

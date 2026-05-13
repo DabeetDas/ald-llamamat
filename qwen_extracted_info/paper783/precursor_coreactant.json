@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "Al(CH3)3",
+    "H2O"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The flow rate of precursors, TMA obtained from Sigma Aldrich and deionized H2O, is adjusted using needle valves to ensure that a precursor pressure is high enough for particle fluidization. Nitrogen gas is used as fluidization gas and purge gas."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "473-573",
+  "pressure": "1.0·10-5 to 1.0·10-6 Torr",
+  "precursor_pulse_time_s": 7,
+  "coreactant_pulse_time_s": 7,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "UHV multi-beam reactor",
+  "evidence": "The ALD processing sequence for Y2O3 thin film deposition on Si(100) substrate included a precursor pulse with a duration of tp, followed by a 10-s pump down period (Fig. 1(c)). During this pump down period, O2 was introduced into the radical source. The film compositions were characterized by ex situ X-ray photoelectron spectroscopy (XPS), using a VG ESCALAB 5 electron spectrometer with AlKα radiation (1486.6eV)."
+}<|im_end|>

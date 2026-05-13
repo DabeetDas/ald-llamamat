@@ -1,0 +1,11 @@
+{
+  "target_material": "Tantalum nitride (TaN)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "TBTDET",
+    "NH3"
+  ],
+  "temperature_range": "225–325 /C176 C",
+  "summary": "The study describes the growth of tantalum nitride (TaN) thin films using thermal atomic layer deposition (ALD) with TBTDET and NH3 as precursors. The films were deposited on 300 mm wafers with a saturated growth rate of approximately 0.55 A ˚/cycle at 270 /C176 C. The films showed high oxygen content, leading to high resistivity, and post-annealing reduced resistivity and improved film density. The process was monitored using in situ spectroscopic ellipsometry, AFM, and XPS.",
+  "evidence": "Ta–N based thin ﬁlms were grown by thermal atomic layer deposition (ALD) with an alternating supply of the reactant source TBTDET (tert-butylimidotris(diethylamido)tantalum) and NH3 (ammonia). The ﬁlms were deposited using a newly designed and constructed atomic layer deposition prototype tool combined with several in situ metrology. The temperature range to obtain uniform ﬁlms was between 225 and 325 /C176 C. The ﬁlm composition showed a high oxygen concentration, which led to high resistivities. Furthermore it was established that a post-anneal after the deposition without breaking the vacuum changed the optical properties of the thin ﬁlm which could indicate a rearrangement of the ﬁlm structure as well as a densiﬁcation of the ﬁlm."
+}

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "350",
+ "pressure": "atmospheric pressure",
+ "precursor_pulse_time_s": "5",
+ "coreactant_pulse_time_s": "5",
+ "purge_time_s": "5",
+ "number_of_cycles": "354",
+ "reactor_type": "atmospheric pressure MOVPE",
+ "evidence": "Typical one cycle of an alternate supply of TEG and arsine consists of a TEG supply period of t(i (= 5 s), a purging period tp of 5 s, an arsine supply period of t A ( = 5-15 s), and purging for tl\""
+}<|im_end|>

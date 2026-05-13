@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Si - OH + PbðtmhdÞ2 f Si - O - Pb - tmhd + H - tmhd",
+    "Si - O - Pb - tmhd + H2S f Si - O - Pb - SH + H - tmhd"
+  ],
+  "surface_mechanism_description": "The initial ALD cycle involves a pulse of Pb(tmhd)2 reacting with -OH groups on the SiO2 surface, followed by a second ligand-exchange reaction where remaining tmhd ligands are removed and replaced with -SH groups. This leads to the formation of Pb-S groups on the surface, which then undergo surface diffusion and coalescence to form PbS crystallites.",
+  "intermediate_species": [
+    "Pb - tmhd",
+    "Pb - SH",
+    "Pb-S groups",
+    "PbS clusters"
+  ],
+  "evidence": "The initial cycle consists of a pulse of Pb(tmhd)2, which has an energetically favorable reaction with -OH groups on the SiO2 surface. This reaction can be described as Si - OH + Pb(tmhd)2 → Si - O - Pb - tmhd + H - tmhd. During the subsequent H2S pulse, a second ligand-exchange reaction occurs, in which the remaining tmhd ligands on the surface are removed to the gas phase, and replaced with -SH groups bonded to the Pb atoms. This can be described as Si - O - Pb - tmhd + H2S → Si - O - Pb - SH + H - tmhd."
+}<|im_end|>

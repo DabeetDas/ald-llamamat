@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + OH* -> Al(CH3)2-O* + CH4"
+  ],
+  "surface_mechanism_description": "The growth of Al2O3 is initiated by the decomposition of trimethylaluminum on Ag, leading to the formation of surface species such as Al(CH3)2 and CH3, followed by the reaction with surface hydroxyl groups and subsequent water pulses to regenerate OH sites.",
+  "intermediate_species": [
+    "Al(CH3)2",
+    "CH3",
+    "surface hydroxyls",
+    "OH*"
+  ],
+  "evidence": "The initial nucleation may proceed via the thermal decomposition of trimethylaluminum (TMA) on Ag. During the initial Al2O3 ALD cycles on Ag, the thickness decreases during the TMA purge periods, which may be a result from the reaction of surface methyl groups and the subsequent desorption of methane. The net thickness change following the H2O doses and purges at early times reflects the density of surface OH groups."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The plasma process enhances the reactivity between the adsorbed precursor material and the reactant gas on the surfaces by generating new active functional groups, which provides additional available adsorption sites for precursors, resulting in an enhanced growth rate in the transient region. The plasma process also suppresses surface roughening by suppressing crystallization and improving the reactivity between adsorbed precursors and reducing agents during the initial growth stage, leading to a flat surface and a smooth interface between the TiO2 layer and the interfacial layer.",
+  "intermediate_species": ["new active functional groups", "precursor adsorption sites", "Si dangling bonds", "vacant spaces in the oxide network"],
+  "evidence": "The plasma process contributes to the enhancement in film growth rate and reliability. In particular, during the initial growth stage, the plasma process provides new available sites for the adsorption of precursors resulting in an enhancement in growth rate. It also suppresses surface roughening, resulting in a flat surface and a smooth interface between the TiO2 layer and the interfacial layer. Furthermore, even a small amount of N enhances film quality compared to a film prepared without using N2 plasma."
+}<|im_end|>

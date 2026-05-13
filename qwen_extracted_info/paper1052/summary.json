@@ -1,0 +1,13 @@
+{
+  "target_material": "dielectric oxide films",
+  "process_type": "thermal ALD and plasma-enhanced ALD (PEALD)",
+  "main_precursors": [
+    "Al(CH3)3",
+    "Ta(OC2H5)5",
+    "Zr(N(C2H5)(CH3))4",
+    "Ti(OCH(CH3)2)4"
+  ],
+  "temperature_range": "150 – 250 °C",
+  "summary": "The study evaluates the chemical stability of dielectric oxide films under HF wet and vapor etching for RF MEMS applications. The films were deposited using thermal ALD and PEALD, with different precursors and thicknesses. The chemical stability varied depending on the etching method and material, with some films showing better resistance to vapor etching than wet etching.",
+  "evidence": "ALD and PEALD are selected as deposition method because they are proper to obtain high-quality dielectric films at low temperature. The deposition cycle consisted of four steps: metal precursor pulse, Ar gas purge, oxidant gas pulse and Ar gas purge. For PEALD process, RF power (0.44 W/cm2) was applied to generate plasma between upper electrode and lower substrate holder during the oxidant gas pulse. After the deposition at 150 – 250 -C, the films were annealed at 350 -C in air for 60 min to increase etching resistance."
+}

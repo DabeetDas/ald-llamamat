@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "(MeCp)W(CO)2(NO)"
+  ],
+  "coreactants": [
+    "NH3 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The WNxCy films were deposited by remote plasma atomic layer deposition (RPALD) with (MeCp)W(CO)2(NO) as a tungsten source and NH3 plasma as a nitrogen source. Argon gas was used as the carrier gas and purge gas."
+}

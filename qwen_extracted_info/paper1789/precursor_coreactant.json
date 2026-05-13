@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Mn(CpEt)2"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "MnOx was deposited on the substrates using ALD, as described previously.36,37 Bis(ethylcyclopentadienyl) manganese (Mn(CpEt)2, Strem Chemicals) and water were used as the reactant and counter-reactant, respectively. The substrate was maintained at 175 1C and the Mn(CpEt)2 bubbler was kept between 72–82 1C. The reaction consisted of a 2 second dose of either Mn(CpEt)2 or H2O followed by a purge of at least 50 seconds."
+}

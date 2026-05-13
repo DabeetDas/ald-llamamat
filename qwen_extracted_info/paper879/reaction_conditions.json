@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "C12H30N4Mo + OH* → MoO* + CH3 + NH3 + C12H28N4",
+    "O2 plasma + MoO* → MoO3 + O*"
+  ],
+  "surface_mechanism_description": "The first stage of deposition involves the chemisorption of C12H30N4Mo molecules by the active sites on the metallic electrode. The presence of OH groups on the Au surface is expected since the surface is in contact with atmospheric conditions. The pre-exposure of bare Au surface by O2 plasma assists the formation of OH bonding on the Au surface. The first growth cycle is fundamentally affected by the existing number of active sites present on Au electrode. Then, after the introduction of C12H30N4Mo molecules into reaction chamber and the chemisorption of precursor molecules by OH groups of surface, the ligands exchange occurs within the designed ALD window. The process continues by the purge of remained products of the first ALD cycle to the outside of reaction chamber by using Ar gas. After purging, the O2 plasma is again conducted into ALD film. The plasma exposure is continued to complete the oxidation process.",
+  "intermediate_species": [
+    "MoO*",
+    "O*"
+  ],
+  "evidence": "The first stage of deposition involves the chemisorption of C12H30N4Mo molecules by the active sites on the metallic electrode. The presence of OH groups on the Au surface is expected since the surface is in contact with atmospheric conditions. The pre-exposure of bare Au surface by O2 plasma assists the formation of OH bonding on the Au surface. The first growth cycle is fundamentally affected by the existing number of active sites present on Au electrode. Then, after the introduction of C12H30N4Mo molecules into reaction chamber and the chemisorption of precursor molecules by OH groups of surface, the ligands exchange occurs within the designed ALD window. The process continues by the purge of remained products of the first ALD cycle to the outside of reaction chamber by using Ar gas. After purging, the O2 plasma is again conducted into ALD film. The plasma exposure is continued to complete the oxidation process."
+}

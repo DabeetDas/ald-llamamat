@@ -1,0 +1,8 @@
+{
+  "target_material": "layered cobalt oxides (Na xCoO2 and Ca3Co4O9)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Na(thd)", "Co(acac)3", "Ca(thd)2", "Co(thd)2", "O3"],
+  "temperature_range": "170–300 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of layered cobalt oxides, specifically Na xCoO2 and Ca3Co4O9, as thermoelectric materials. The ALD process uses diketonate precursors for metal constituents and ozone as the oxygen source. Postdeposition heat-treatment in O2 is applied to achieve crystalline coatings. The Na xCoO2 films exhibit a unique channel-like island morphology, while Ca3Co4O9 films are smooth and continuous. The study characterizes the chemical, structural, and physical properties of the ALD-grown Ca3Co4O9 films.",
+  "evidence": "The text describes the ALD process for Na xCoO2 and Ca3Co4O9 using diketonate precursors and ozone. It mentions the use of O3 as the oxygen source, postdeposition heat-treatment in O2, and the resulting morphologies of the films. The study also details the characterization of the films' properties."
+}<|im_end|>

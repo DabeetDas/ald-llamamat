@@ -1,0 +1,12 @@
+{
+  "target_material": "Cadmium chalcogenides (CdSe and CdTe)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Cadmium",
+    "Selenium",
+    "Tellurium"
+  ],
+  "temperature_range": "423–623 K",
+  "summary": "The study investigates the atomic layer deposition of cadmium chalcogenides (CdSe and CdTe) on silicon substrates. The process involves alternating exposure to molecular beams of cadmium, selenium, and tellurium, with the synthesis temperature and flow density influencing layer growth. The results show that the layer thickness is proportional to the number of exposure cycles and that the process allows for the formation of epitaxial structures with orientations matching the substrate.",
+  "evidence": "The formation of a chalcogenide layer (for CdSe) on a substrate subjected to alternating exposure to component flows on a hydroxylated silicon surface can be represented by the following surface reactions. The experiments showed that the metal and chalcogen coverage of the surface occurred at different rates and chalcogen chemisorption was the limiting stage in all cases. The growth parameter (d0) for solid solution layers under the ALE window conditions was also close to the calculated interplanar distances for this composition."
+}

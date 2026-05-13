@@ -1,0 +1,8 @@
+{
+  "target_material": "CoSi2 nanocrystals",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["CoCp2", "NH3 plasma", "SiH4"],
+  "temperature_range": "300 1C",
+  "summary": "Dielectric layer containing CoSi2 nanocrystals was directly fabricated by plasma-enhanced atomic layer deposition using CoCp2 and NH3 plasma mixed with SiH4 without annealing process. The formation of CoSi2 nanocrystals was confirmed by XPS and GI-XRD. The process provides a simple route for the fabrication of nanocrystal memory compatible with current Si device unit processes.",
+  "evidence": "Dielectric layer containing CoSi2 nanocrystals was directly fabricated by plasma-enhanced atomic layer deposition using CoCp2 and NH3 plasma mixed with SiH4 without annealing process. Synchrotron radiation X-ray diffraction and X-ray photoelectron spectroscopy results confirmed the formation of CoSi2 nanocrystal. The current process provides simple route for the fabrication of nanocrystal memory compatible with the current Si device unit processes."
+}

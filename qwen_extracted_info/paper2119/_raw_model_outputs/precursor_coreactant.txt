@@ -1,0 +1,18 @@
+{
+  "precursors": [
+    {
+      "name": "tetrakis-diethylamido-hafnium",
+      "abbreviation": "Hf(NC2H5)4"
+    },
+    {
+      "name": "tetra-n-butyl-orthosilicate",
+      "abbreviation": "Si(OC4H9)4"
+    }
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Hf-silicate layers were grown by atomic layer chemical vapor deposition using alternate supply of tetrakis-diethylamido-hafnium /H20849Hf/H20851N/H20849C2H5/H208502/H208524/H20850and tetra- n-butyl-orthosilicate /H20851Si/H20849OnBu/H208504/H20852precursors. The Ar ﬂow rates of Hf /H20851N/H20849C2H5/H208502/H208524 and Si /H20849OC4H9/H208504 were 20 SCCM."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2/Al2O3/TiO2 nanolaminated thin films",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Titanium isopropoxide (TTIP)"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the use of TiO2/Al2O3/TiO2 nanolaminated thin films for DRAM capacitor dielectrics. The process involves plasma-enhanced atomic layer deposition (PEALD) using trimethylaluminum (TMA) and titanium isopropoxide (TTIP) as precursors. The optimal structure is an anatase-TiO2/Al2O3/rutile-TiO2 nanolaminated film with a 12.5 Å Al2O3 sublayer, achieving a dielectric constant of 44 and a leakage current of 6.46×10−7 A/cm2 at 1 MV/cm.",
+  "evidence": "TiO2 and Al2O3 films were deposited on an Ir/p-type Si substrate for capacitance–voltage and current–voltage measurements, and on a p-type Si substrate for X-ray diffraction analysis at a deposition temperature of 250°C. The deposition conditions and properties of the TiO2 and Al2O3 films were evaluated prior to depositing the TiO2/Al2O3/TiO2 nanolaminated film. The anatase-TiO2/Al2O3/rutile-TiO2 nanolaminated film is suggested as an optimal structure that gives k = 44 with a leakage current of 6.46×10−7 A/cm2 at 1 MV/cm."
+}<|im_end|>

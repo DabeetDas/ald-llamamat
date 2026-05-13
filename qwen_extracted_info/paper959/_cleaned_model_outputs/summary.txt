@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["trimethyl aluminum (TMA)", "H2O"],
+  "temperature_range": "125 /C176 C",
+  "summary": "The study explores the use of atomic layer deposition (ALD) to deposit Al2O3 as a capping layer for organic/polymeric semiconductors, specifically poly-3-hexyltiophene (P3HT). The ALD process uses trimethyl aluminum (TMA) and H2O as precursors. The deposition of Al2O3 directly on P3HT leads to rough interfaces and intermixing, degrading transistor performance. However, an interlayer of poly-vinylphenol (PVP) prevents Al2O3 diffusion, resulting in stable, air-resistant devices. The study highlights the effectiveness of ALD-deposited Al2O3 as an oxygen and moisture barrier for organic field-effect transistors (OTFTs).",
+  "evidence": "The deposition of Al2O3 on polymeric materials has been studied by different groups for various applications such as adhesion layer for organic based low-k dielectrics and gas permeation barriers most notably for OLED. The preferred technique for the deposition of Al2O3 on polymers is atomic layer deposition, by using trimethyl aluminum (TMA) and H2O as aluminum and oxygen precursors, respectively, or plasma enhanced ALD, by using oxygen or ozone instead of the H2O as oxygen precursor."
+}

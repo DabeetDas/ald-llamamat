@@ -1,0 +1,7 @@
+{
+  "precursors": ["(CpMe)2Zr(OMe)Me"],
+  "coreactants": ["D2O", "O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Nitrogen (Oy AGA Ab, 99.999%) was used as a carrier gas, except for a few measurements where argon (Oy AGA Ab, 99.999%) was used."
+}

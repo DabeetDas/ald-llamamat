@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnS",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Zn(TMHD)2", "H2S"],
+  "temperature_range": "150–375 /C14 C",
+  "summary": "The study demonstrates the atomic layer deposition (ALD) of ZnS using Zn(TMHD)2 and in situ generated H2S as precursors. The process was investigated over a temperature range of 150–375 /C14 C, and the films were characterized for their properties, including band gap, stoichiometry, and surface roughness. The ZnS films were used as buffer layers in solar cell devices.",
+  "evidence": "The atomic layer deposition (ALD) of ZnS films with Zn(TMHD)2 and in situ generated H2S as precursors was investigated, over a temperature range of 150–375 /C14 C. The results demonstrate a film that can penetrate a porous matrix, with a local Zn structure of bulk ZnS, and a band gap between 3.5 and 3.6 eV. The ZnS film was used as a buffer layer in nanostructured PbS quantum dot solar cell devices."
+}

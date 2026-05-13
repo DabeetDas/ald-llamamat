@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "HfCl4",
+    "TDEAH",
+    "(CH3)3Al (trimethyl aluminium, TMA)"
+  ],
+  "coreactants": [
+    "H2O",
+    "O radicals in an O2 plasma"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The thermal ALD Al2O3 growth process from (CH3)3Al and H2O is a pure ligand exchange-based process, in which CH3 groups from TMA are exchanged for OH from H2O, releasing CH4 as reaction product. In the plasma-enhanced ALD (PE-ALD) process, the CH3 ligands undergo a combustion-like process with the O radicals formed in the remote plasma."
+}

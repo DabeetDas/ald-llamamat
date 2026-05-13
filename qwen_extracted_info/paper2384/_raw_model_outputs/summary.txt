@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["TiCl4", "Ti(OC2H5)4", "H2O", "H2O2"],
+  "temperature_range": "225-275 ◦C",
+  "summary": "The study compares the electrical properties of TiO2 films grown by high-pressure reactive sputtering (HPRS) and atomic layer deposition (ALD). The focus is on the interface quality, interfacial state density, and disorder-induced gap state (DIGS) density. The ALD films were grown at 225 or 275 ◦C using different precursor combinations, and annealed at 750 ◦C in O2. The results show that ALD films with Ti(OC2H5)4 and H2O2 precursors at 275 ◦C exhibit lower interfacial state density (Dit) and DIGS density compared to other ALD films. The best results were obtained for HPRS films annealed at 900 ◦C, which showed the lowest Dit density and undetectable conductance transients.",
+  "evidence": "The study compares the electrical properties of TiO2 films grown by high-pressure reactive sputtering (HPRS) and atomic layer deposition (ALD). The focus is on the interface quality, interfacial state density, and disorder-induced gap state (DIGS) density. The ALD films were grown at 225 or 275 ◦C using different precursor combinations, and annealed at 750 ◦C in O2. The results show that ALD films with Ti(OC2H5)4 and H2O2 precursors at 275 ◦C exhibit lower interfacial state density (Dit) and DIGS density compared to other ALD films. The best results were obtained for HPRS films annealed at 900 ◦C, which showed the lowest Dit density and undetectable conductance transients."
+}<|im_end|>

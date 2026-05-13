@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the dissociation of dpdab ligands from Co(dpdab)2, followed by the adsorption and removal of these ligands during the ALD process. The decomposition of dpdab ligands leads to the formation of C2N2H4 and the release of one dpdab ligand per Co atom. The presence of N–H stretching in FTIR spectra indicates the decomposition of dpdab ligands on the substrate surface.",
+  "intermediate_species": ["dpdab ligands", "C2N2H4"],
+  "evidence": "When the Co precursor was introduced into the reactor, positive absorbance peaks were observed at 1550–1600 cm−1, 1620–1680 cm−1 and 1700–1730 cm−1, corresponding to N–H, –C_N, (C_N)Co stretching vibrations. In contrast, negative absorbance peaks were observed at the same positions when O3/O2 was supplied. The existence of N–H stretching is the evidence for the decomposition of dpdab ligand to C2N2H2 on the substrate surface."
+}

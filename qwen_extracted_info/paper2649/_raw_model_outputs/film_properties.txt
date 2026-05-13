@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 27,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "hexagonal-close-packed (HCP) Ru",
+  "evidence": "Figure 3 presents the GIAXRD results of the ALD-Ru films deposited using H2 molecules at various chamber pressures. In the case of the ALD-Ru film deposited at 10 Torr (lowest pressure among tested), a broad hump with a very low intensity was observed at /C24 43 /C14 , indicating that the film has poor crystallinity or is not crystalline. On the other hand, with increasing chamber pressure, the intensity of the broad hump increased continuously, indicating a slight improvement in film crystallinity with the increase in the chamber pressure. For example, in the case of the ALD-Ru film deposited at a chamber pressure of 150 Torr, three XRD peaks from hexagonal-close-packed (HCP) Ru were clearly observed. Further increases in the chamber pressure for up to 300 Torr resulted in a sharpening of the HCP Ru peaks with significantly enhanced intensities, indicating the improvement on film crystallinity or increase in the grain size, which explains the drastic decrease in film resistivity with the increase in the chamber pressure."
+}<|im_end|>

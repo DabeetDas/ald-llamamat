@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum Oxide (Al2O3)",
+  "process_type": "Spatial ALD (gas-bearing technology)",
+  "main_precursors": ["Trimethyl aluminum (TMA)", "Water (H2O)"],
+  "temperature_range": "200 °C (deposition) and 350 °C (post-deposition anneal)",
+  "summary": "The paper describes a high-speed spatial ALD process for depositing aluminum oxide (Al2O3) layers on silicon solar cells for surface passivation. The process utilizes gas-bearing technology to enable high deposition rates of 1.2 nm/s, with excellent surface passivation (surface recombination velocities < 2 cm/s). The process involves spatial separation of ALD half-reactions, eliminating purge steps and enabling high throughput.",
+  "evidence": "In this Communication we show that with spatially separated ALD of Al2O3, growth rates of 1.2 nm s−1 can be achieved, showing excellent surface passivation (surface recombination velocities of < 2 cm s−1). The main advantage of spatially separating the half-reactions is that the purge steps between the precursor dosages in conventional ALD become obsolete. The optimum deposition temperature as well as post-deposition anneal temperature for thermal ALD of Al2O3 passivation layers has been determined to be 200 °C and 350 °C, respectively."
+}<|im_end|>

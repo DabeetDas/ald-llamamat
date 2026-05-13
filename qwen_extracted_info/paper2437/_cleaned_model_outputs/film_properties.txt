@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 25,
+  "density_g_cm3": 3.2,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.534,
+  "crystal_phase": "Amorphous",
+  "evidence": "The thickness of Al2O3 passivation layer was chosen to be 25 nm to ensure suppressed migration of OH – and to require minimal cycles and deposition time. The Al2O3 film formed at 200°C demonstrates the smallest Al–OH composition (10.4 %), and thus, has the most complete Al–O bonding (89.6 %). The film roughness was also measured to be 0.534 nm, 0.552 nm, 0.539 nm, and 0.615 nm for 100°C, 200°C, 250°C, and 300°C, respectively."
+}

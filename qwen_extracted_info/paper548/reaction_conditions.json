@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "During annealing in H2S, H2S molecules at the surface are decomposed. The resulting free H atoms remove S atoms from the lattice, which is relatively easy due to the low enthalpy of formation for sulfur ion vacancies (0.09 eV). HS(g) adsorbs on the surface and decomposes into H and S(g). The resulting free H atoms remove S atoms from the lattice. If sulfur ion vacancies are removed, the remaining ionic defects are V- and Cu0V9, which are charge compensated with holes leading to p-type conductivity.",
+  "intermediate_species": [
+    "HS(g)",
+    "H",
+    "S(g)",
+    "V- ",
+    "Cu0V9"
+  ],
+  "evidence": "If: ØØwx w x w x w x2 V ) 3V - q 2 Cu0 q V9 (4)SI n I n C u the ionic charge is compensated by electrons instead of holes, and the conductivity changes to n-type. When the samples that have been annealed first in H2S receive a second anneal in O2 at 200 8C the conductivity changes from n- to p-type. According to the literature O2 can passivate the defects ØØV2S according to the reaction: ØØ y xV q 1y2O2(g)q 2e ™O2S (5) If the sulfur ion vacancies are removed, the remaining ionic defects are and which are chargeV- ,Cu0V9In In Cu compensated with holes leading to p-type conductivity."
+}

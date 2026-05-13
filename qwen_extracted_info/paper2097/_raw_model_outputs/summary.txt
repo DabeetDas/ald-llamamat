@@ -1,0 +1,8 @@
+{
+  "target_material": "Ta penetration into template-type porous low-k material",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["pentakisdimethylaminotantalum (PDMAT)", "NH3"],
+  "temperature_range": "250–300 °C",
+  "summary": "The study investigates Ta penetration into template-type porous low-k material during atomic layer deposition of TaN. The precursors used are pentakisdimethylaminotantalum (PDMAT) and NH3. The process involves gas phase diffusion through open pores, and the penetration depth and amount depend on porosity and deposition conditions. The study also discusses the self-limiting nature of the film growth and the effect of precursor concentration on penetration characteristics at the wafer center and edge.",
+  "evidence": "The precursors were pentakisdimethylaminotantalum (PDMAT) and NH3. The temperature of the substrate was from 250 to 300 °C. The penetration depth was independent of the temperature, indicating gas phase diffusion. The study discusses the self-limiting nature of the film growth and the effect of precursor concentration on penetration characteristics."
+}<|im_end|>

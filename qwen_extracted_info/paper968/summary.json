@@ -1,0 +1,12 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "titanium tetraisopropoxide",
+    "H2O",
+    "H2O2"
+  ],
+  "temperature_range": "100–275 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of TiO2 films on particle substrates in a fluidized bed reactor. The process uses titanium tetraisopropoxide as a metalorganic precursor and either H2O or H2O2 as oxidizers. The ALD process was applied to 550 nm SiO2 spheres and 65 nm ZnO nanoparticles to enhance optical properties. The study reports growth rates of 0.01 nm/cycle and 0.04 nm/cycle for H2O and H2O2, respectively, and confirms the successful deposition of conformal TiO2 films using HRTEM, ICP–AES, XPS, and UV absorbance measurements. The purpose of the study is to functionalize particle substrates with TiO2 for applications such as UV protection in sunscreens and optical properties in pigments.",
+  "evidence": "Atomic layer deposition (ALD) of controlled-thickness TiO2 films was carried out on particle substrates in a fluidized bed reactor for the first time. Films were deposited on 550 nm SiO2 spheres and 65 nm ZnO nanoparticles for enhanced optical properties. The metalorganic precursor titanium tetraisopropoxide was used here followed by either H2O or H2O2 to deposit TiO2 at various substrate temperatures. Growth rates of 0.01 nm/cycle and 0.04 nm/cycle were achieved when using H2O and H2O2 as the oxidizer, respectively. These conformal TiO2 films were verified using HRTEM, ICP–AES, XPS and UV absorbance measurements."
+}

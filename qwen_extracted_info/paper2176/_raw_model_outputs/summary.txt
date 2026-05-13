@@ -1,0 +1,8 @@
+{
+  "target_material": "Hf silicates (HfO2)x(SiO2)1−x",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Tris(dimethylamido)silane", "Tetrakis(ethylmethylamido)hafnium"],
+  "temperature_range": "below 280 °C",
+  "summary": "The study investigates the electronic properties of ultrathin Hf silicate dielectrics deposited by atomic layer deposition (ALD) on Si(100). The films have a thickness of 6 nm and are composed of HfO2 and SiO2 with varying Hf/Si ratios. The electronic structure and band gap energy are analyzed using XPS and REELS techniques. The band gap is found to depend on the Hf concentration, with higher band gaps observed for lower Hf concentrations.",
+  "evidence": "Hf silicate gate-dielectric thin films, with stoichiometry (HfO2)x(SiO2)1−x, were deposited by atomic layer deposition (ALD). SiO2 and HfO2 films were grown at temperatures below 280 °C using Tris(dimethylamido)silane and Tetrakis(ethylmethylamido)hafnium, respectively, as precursors."
+}<|im_end|>

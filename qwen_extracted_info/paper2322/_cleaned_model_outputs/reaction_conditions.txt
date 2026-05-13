@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The crystallization process involves grain growth from embedded crystallites without additional nucleation. The growth occurs isotropically from the embedded crystallites, and the presence of hydrogen hampers additional nucleation from the amorphous phase.",
+  "intermediate_species": ["crystallites"],
+  "evidence": "The text states that 'the crystallization proceeds merely from isotropic crystal grain growth of these embedded crystallites rather than by the formation of additional crystallites' and 'the presence of hydrogen hampers additional nucleation from the amorphous phase.'"
+}

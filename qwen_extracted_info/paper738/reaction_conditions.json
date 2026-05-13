@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Cu(dmamb)2 precursor and subsequent reaction with H2S. The high reactivity of the Cu precursor leads to a self-limiting growth process, forming Cu2S films with a high growth rate of ~0.22-0.24 nm/cycle at 150-200 oC. The reaction is facilitated by the surface hydroxyl groups, and the process is self-limiting due to the saturation of surface sites.",
+  "intermediate_species": [
+    "Cu-O bond",
+    "Cu-N coordinate bonds",
+    "surface hydroxyl groups",
+    "Cu vacancies"
+  ],
+  "evidence": "The reaction resulted in a high growth rate of ~0.22-0.24 nm/cycle at 150-200 oC owing to the high reactivity of the Cu precursor. At all investigated temperatures, Cu2S films with Cu oxidation state of +1 were obtained with negligible impurity levels. It was revealed that stoichiometric Cu2S films could be deposited at 120-150 oC, while sulfur deficient films was formed at 200 oC. The Cu(dmamb)2/H2S chemistry yielded high Cu2S film growth rate at 120-200 oC."
+}

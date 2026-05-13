@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "HfCl4"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "HfC14 (98% purity, Aldrich) was evaporated from an open boat held at 130 °C inside the reactor. Water vapor was generated in an external reservoir at 20 °C and led into the reactor through a capillary and a needle valve. Nitrogen served both as a carrier and a purging gas."
+}

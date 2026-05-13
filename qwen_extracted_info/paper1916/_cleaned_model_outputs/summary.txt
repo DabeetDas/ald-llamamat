@@ -1,0 +1,8 @@
+{
+  "target_material": "AlN, GaN and Al xGa1/C0 xN",
+  "process_type": "Hollow cathode plasma-assisted atomic layer deposition (HCPA-ALD)",
+  "main_precursors": ["trimethylaluminum (AlMe3)", "trimethylgallium (GaMe3)"],
+  "temperature_range": "200 /C14 C",
+  "summary": "The study reports on the low-temperature hollow cathode plasma-assisted atomic layer deposition (HCPA-ALD) of crystalline AlN, GaN, and Al xGa1/C0 xN thin films. The process uses trimethylaluminum (AlMe3) and trimethylgallium (GaMe3) as precursors with NH3 or N2/H2 plasma. The films were deposited at 200 /C14 C, and the study highlights the self-limiting growth mechanism, uniformity, and low impurity concentrations. The results show that the process can produce high-quality, polycrystalline films with controlled composition and minimal impurities.",
+  "evidence": "The authors report on the use of hollow cathode plasma for low-temperature plasma-assisted atomic layer deposition (PA-ALD) of crystalline AlN, GaN and Al xGa1/C0 xN thin films with low impurity concentrations. Depositions were carried out at 200 /C14 C using trimethylmetal precursors and NH3 or N2/H2 plasma."
+}

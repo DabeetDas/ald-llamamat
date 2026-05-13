@@ -1,0 +1,7 @@
+{
+  "precursors": ["SnI4", "O2"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The metal precursor, SnI4 of 95% purity, was evaporated... N2 (99.9999%) performed the carrying/purging function."
+}

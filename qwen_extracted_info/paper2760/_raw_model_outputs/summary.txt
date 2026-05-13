@@ -1,0 +1,8 @@
+{
+  "target_material": "Nitride",
+  "process_type": "Plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Titanium tetrachloride (TiCl4)", "Tetrakis-dimethylamino titanium (TDMAT)", "Trimethylaluminum (TMA)", "Tris-dimethylamino silane (3DMAS)"],
+  "temperature_range": "300-350 °C",
+  "summary": "The study focuses on achieving ultrahigh purity (UHP) conditions in plasma-enhanced atomic layer deposition (PEALD) to minimize oxygen incorporation in nitride thin films. The research identifies sources of background oxygen impurities and describes measures to achieve UHP reactor conditions, including process gas purification and elimination of elastomer permeation. The effectiveness of UHP conditions is demonstrated through X-ray photoelectron spectroscopy (XPS) and secondary ion mass spectroscopy (SIMS) depth profiles, showing bulk oxygen levels below 1 at. % in titanium nitride (TiN x), aluminum nitride (AlN x), and silicon nitride (SiN x) films.",
+  "evidence": "Ultrahigh purity (UHP) reactor conditions provide a process environment for growth of nitride thin films with low oxygen content by plasma-enhanced atomic layer deposition (PEALD). X-ray photoelectron spectroscopy (XPS) depth profile data for titanium, aluminum, and silicon nitride by PEALD reveal bulk oxygen levels below 1 at. %, thereby demonstrating the effectiveness of UHP reactor conditions at reducing oxygen incorporation."
+}<|im_end|>

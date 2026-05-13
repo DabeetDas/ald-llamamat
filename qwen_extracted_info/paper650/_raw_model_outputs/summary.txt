@@ -1,0 +1,8 @@
+{
+  "target_material": "Co/SiO2",
+  "process_type": "Atomic layer epitaxy (ALE)",
+  "main_precursors": ["Co(acac)3"],
+  "temperature_range": "600 C for pre-treatment, 180 C and 450 C for heating before chemisorption, 550 C for reduction",
+  "summary": "Silica supported cobalt catalysts were prepared using atomic layer epitaxy (ALE) with Co(acac)3 as the precursor. The study focused on the interaction between cobalt species and silica, examining the distribution, reducibility, and catalytic activity of the catalysts in toluene hydrogenation. The results indicated that cobalt species were well dispersed on the support, but their reducibility was low, likely due to the formation of cobalt silicates. The reaction rate increased with cobalt loading, but the turnover frequency remained constant, suggesting that the surface area of metallic cobalt is the main factor in determining catalytic activity.",
+  "evidence": "Silica supported cobalt catalysts prepared by a chemical vapour deposition technique, atomic layer epitaxy (ALE), were characterised in order to study the interaction between cobalt species and silica. The catalysts were prepared by chemisorption of cobalt(III)acetylacetonate from the gas phase onto silica. The metal loading on the catalysts varied from 5.7 to 19.5 wt.%. The reducibility of cobalt can be strongly influenced by the drying procedure. High temperature calcination both in oxygen (940–1000 C) and in an inert atmosphere (810 C) can form silicates. The catalysts were tested for gas phase toluene hydrogenation in a microreactor system. The reaction rate per gram sample increased with cobalt loading but the turn over frequency remained essentially constant on all samples."
+}<|im_end|>

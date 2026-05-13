@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process using TMA and O3 is based on the oxidation of the chemically adsorbed TMA molecules as a result of the strong oxidation power of O3. The Al2O3 films grown using O3 exhibited a better electrical performance, such as a smaller leakage current at a similar equivalent oxide thickness (EOT). This can be attributed to the higher oxidizing power of O3 than that of H2O.",
+  "intermediate_species": [
+    "chemically adsorbed TMA molecules"
+  ],
+  "evidence": "The ALD process using TMA and O3 is based on the oxidation of the chemically adsorbed TMA molecules as a result of the strong oxidation power of O3. The Al2O3 films grown using O3 exhibited a better electrical performance, such as a smaller leakage current at a similar equivalent oxide thickness (EOT). This can be attributed to the higher oxidizing power of O3 than that of H2O."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves the exposure of biomolecules to a precursor molecule from the gas phase, allowing the precursor to build a layer on the substrate. Subsequent purging of excess precursor gas and exposure to a second precursor lead to a reaction on the substrate, building a layer of the target material. Water, in particular, can instantaneously react with TIP or TMA to build the first metal oxide layer on the biomolecules. The precursor layers in the successive cycles are hydrolyzed with the second precursor. After the hydrolysis reaction, the excess water molecules and the reaction products are removed by purging, to prevent side reactions during the next cycle.",
+  "intermediate_species": ["TMA", "TIP", "water", "metal oxide"],
+  "evidence": "The precursor layers in the successive cycles are hydrolyzed with the second precursor. After the hydrolysis reaction, the excess water molecules and the reaction products are removed by purging, to prevent side reactions during the next cycle. Water, in particular, can instantaneously react with TIP or TMA to build the first metal oxide layer on the biomolecules."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "High-K materials such as Al2O3, ZrO2, HfO2, and Y2O3 were deposited on silicon using atomic layer deposition (ALD). The growth of interfacial SiO2 was observed when thin Al2O3 layers were exposed to low partial pressures of oxygen at 600°C. The interfacial SiO2 thickness was approximately 4 Å, and during post-deposition anneals, the equivalent electrical thickness increased by 3–5 Å due to SiO2 formation.",
+  "intermediate_species": ["interfacial SiO2"],
+  "evidence": "High diffusivity of oxygen was observed for thin ZrO2 layers on Si. We found the growth of interfacial SiO2 of the thickness of |4 A when thin Al2O3 layers were exposed at 600 8C to low partial pressures of oxygen, as low as 10 Torr. While this effect may be insigni®cant for thicker ®lms, it can not be ignored for ultrathin ®lms where the thickness (capacitance) of the SiO2 layer will dominate the capacitance of the gate stack."
+}<|im_end|>

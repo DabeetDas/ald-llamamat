@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "TDEAH (Hf(NC2H5)4)",
+    "TMA (Al(CH3)3)"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Tetrakis (diethylamino)hafnium (TDEAH, Hf(NC2H5)4), as the Hf precursor and trimethylaluminum (TMA, Al(CH3)3), as the Al precursor were introduced into the reactant chamber via a bubbler using Ar carrier gas. O2 plasma was used as the oxygen reactant. Ar purge gas was introduced for the complete separation of the precursor and O2 plasma."
+}

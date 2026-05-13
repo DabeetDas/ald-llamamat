@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + H2O -> AlO + CH4"
+  ],
+  "surface_mechanism_description": "The ALD process involves alternating saturative surface reactions where the metal precursor (trimethylaluminum) is first adsorbed onto the surface, followed by a reaction with the oxygen precursor (water). The surface is then purged to remove excess precursor and byproducts, and the cycle is repeated.",
+  "intermediate_species": [
+    "AlO",
+    "CH4"
+  ],
+  "evidence": "The ALD process involves alternating saturative surface reactions where the metal precursor (trimethylaluminum) is first adsorbed onto the surface, followed by a reaction with the oxygen precursor (water). The surface is then purged to remove excess precursor and byproducts, and the cycle is repeated."
+}

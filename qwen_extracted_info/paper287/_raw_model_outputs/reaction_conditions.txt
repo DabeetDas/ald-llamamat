@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Oxygen molecules adsorbed on the surface of a n-type oxide semiconductor become negatively charged (O− or O2−) by electrons acquired from the oxide film and an electron depletion layer is formed at the surface of the oxide film. When exposed to certain gases (e.g., ethanol), these gases become oxidized from the physi-sorbed oxygen species, releasing electrons back into the previously formed electron-depletion layer.",
+  "intermediate_species": ["O− or O2−", "electron-depletion layer"],
+  "evidence": "At elevated temperatures (typically > 200oC) oxygen molecules adsorbed (physi-sorbed) on the surface of a n-type oxide semiconductor become negatively charged (O− or O2− ) by electrons acquired from the oxide film and an electron depletion layer is formed at the surface of the oxide film (i.e., formation of positively charged layer just below the surface). On such surfaces, reductive interaction occurs when they are exposed to certain gases (e.g., ethanol) which become oxidised from the physi-sorbed oxygen species subsequently releasing electrons back into the previously formed electron-depletion layer."
+}<|im_end|>

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "tetrakis(ethyl-methyl-amino)hafnium (TEMAH)",
+    "ozone (O3)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Growth is performed by using alternative pulses of 5 s TEMAH (carried with ultra pure N2 gas) and 1 s O3 /O2 mixture gas (15%, w/w, In-USA ozone generator) in a home-built ALD reactor connected to a FTIR spectrometer. The ALD chamber is purged and pumped for 5 min with ultra pure N2 gas after each precursor exposure."
+}

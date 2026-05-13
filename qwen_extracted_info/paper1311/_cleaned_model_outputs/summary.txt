@@ -1,0 +1,8 @@
+{
+  "target_material": "α-Fe2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["iron bisamidinate (FeAMD)", "water"],
+  "temperature_range": "lower than 200 °C",
+  "summary": "The study demonstrates the use of iron bisamidinate (FeAMD) and water for the atomic layer deposition (ALD) of α-Fe2O3 under mild growth conditions. The process allows for conformal and self-limiting growth of FeOx at temperatures below 200 °C, with subsequent annealing at 500 °C converting FeOx to α-Fe2O3. The ALD process using FeAMD provides a viable method for fabricating thin films of catalytically promising iron oxide materials.",
+  "evidence": "Using in situ QCM analysis, we show outstanding conformal self-limiting growth of FeOx using FeAMD and water at temperatures lower than 200 °C. By annealing thin films of FeOx at 500 °C, we observe the formation of αFe2O3, confirming that we can use FeAMD to fabricate thin films of catalytically promising iron oxide materials using moderate growth conditions."
+}

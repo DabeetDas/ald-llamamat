@@ -1,0 +1,45 @@
+{
+  "precursors": [
+    {
+      "name": "Sodium tert-butoxide",
+      "formula": "NaOC(CH3)3",
+      "supplier": "Aldrich",
+      "purity": "97%"
+    },
+    {
+      "name": "Potassium tert-butoxide",
+      "formula": "KOC(CH3)3",
+      "supplier": "Aldrich",
+      "purity": "98%"
+    },
+    {
+      "name": "Niobium ethoxide",
+      "formula": "Nb(OCH2CH3)5",
+      "supplier": "Aldrich",
+      "purity": "99.9%"
+    },
+    {
+      "name": "Tantalum ethoxide",
+      "formula": "Ta(OCH2CH3)5",
+      "supplier": "Aldrich",
+      "purity": "99.9%"
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "Distilled water",
+      "formula": "H2O"
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "N2"
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "N2"
+    }
+  ],
+  "evidence": "Sodium- and potassium tert-butoxide were used as alkali metal sources, supplied from HS-300 sources at 140 and 150 /C14 C, respectively. Niobium- and tantalum ethoxide was used as group V metal sources, supplied from a HS-500 source at 68 and 70 /C14 C, respectively. The precursors were supplied through heated valves. Distilled water was used as the oxygen source. The water pulse was set to 0.25 s, and the purge duration to 1 s for all experiments. The tert-butoxides were pulsed for 3 s whereas the ethoxides were pulsed for 2 s. Nitrogen gas was supplied from a SchmidelinSirrco 5 generator providing >99.9995% (N2 þ Ar) before purification through a Mykrolis purifier."
+}<|im_end|>

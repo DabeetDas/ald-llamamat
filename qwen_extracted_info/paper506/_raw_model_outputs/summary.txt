@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe",
+  "process_type": "atomic layer epitaxy",
+  "main_precursors": ["Cd", "Te"],
+  "temperature_range": "2 K to 100 K",
+  "summary": "The study investigates the insertion of CdTe half-monolayers in ZnTe/(Zn,Mg)Te quantum wells using molecular beam epitaxy (Sample 1) and atomic layer epitaxy (Sample 2). The CdTe inserts act as artificial isoelectronic traps, leading to exciton localization and efficient recombination. The photoluminescence (PL) spectra reveal spectral features corresponding to excitons trapped on CdTe islands and the center-of-mass quantization of excitons in the ZnTe quantum well. The temperature dependence of the PL intensity shows a significant decrease above 60 K, attributed to the potential barrier surrounding the ZnTe well.",
+  "evidence": "The text states that the CdTe inserts act as artificial isoelectronic traps, providing very efficient recombination centers for excitons. The PL spectra reveal spectral features corresponding to excitons trapped on CdTe islands and the center-of-mass quantization of excitons in the ZnTe quantum well. The temperature dependence of the PL intensity shows a significant decrease above 60 K, attributed to the potential barrier surrounding the ZnTe well."
+}<|im_end|>

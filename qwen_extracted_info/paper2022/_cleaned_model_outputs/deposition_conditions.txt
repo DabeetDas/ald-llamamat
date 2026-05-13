@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "0.04 and 0.13–1.05 kPa",
+  "precursor_pulse_time_s": 60,
+  "coreactant_pulse_time_s": 60,
+  "purge_time_s": null,
+  "number_of_cycles": 15,
+  "reactor_type": "F-120",
+  "evidence": "ZrO2 layers was carried out by alternately supplying ZTB and H2O gases on p-type Si (001) wafers (~10 V cm!). The wafers were cleaned with an NH4OH:H2O2:H2O50.15:3:7 solution at 80 °C for 10 min and were terminated with hydrogen in a 0.5% HF solution, in order to suppress native oxidation before the ALD. ZTB exposure followed by H2O exposure was cyclically repeated 2–15 times at the substrate temperature (Tsub) of 200 °C. The H2O exposure time was 60 s. The vapor pressures of ZTB and H2O during the deposition were controlled to 0.04 and 0.13–1.05 kPa, respectively."
+}

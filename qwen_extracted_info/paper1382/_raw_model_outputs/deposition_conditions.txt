@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 95,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.7,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": 20,
+  "number_of_cycles": 80,
+  "reactor_type": "homemade",
+  "evidence": "The molybdenum precursor was heated up to 65 °C, and the reactor chamber was kept at 95 °C. For the deposition on planar substrates, a 0.7 s pulse of the molybdenum precursor was first inserted into the chamber and stayed in the chamber for 20 s (exposure time) to let the precursor react with the wafer and planar TiO2 surface; then, the molybdenum precursor was flushed away completely by 40 s of pumping (pumping time). In the next step, a 0.2 s H2S pulse was introduced to the chamber and reacted with the molybdenum precursor for 20 s and the remaining H2S was also pumped away (40 s)."
+}<|im_end|>

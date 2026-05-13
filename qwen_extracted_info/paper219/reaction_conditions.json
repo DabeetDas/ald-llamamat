@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "silane precursor (100 8C, 2 s) + water (40 8C, 0.5 s) -> SiO2"
+  ],
+  "surface_mechanism_description": "The hydroxyl-terminated surface of silica first reacts with 3-aminopropyltriethoxysilane: the catalytic amino moiety enables the hydrolysis of the ethoxy arms, and thereby the chemisorption of the silane center to the surface. Water then releases any remaining ethoxy units. Finally, ozone is used to remove the aminoalkyl group oxidatively and regenerate the hydroxyl-terminated surface, which can be subjected to the next ALD cycle.",
+  "intermediate_species": [
+    "3-aminopropyltriethoxysilane",
+    "silane center",
+    "ethoxy units",
+    "aminoalkyl group"
+  ],
+  "evidence": "The hydroxyl-terminated surface of silica first reacts with 3-aminopropyltriethoxysilane: the catalytic amino moiety enables the hydrolysis of the ethoxy arms, and thereby the chemisorption of the silane center to the surface. Water then releases any remaining ethoxy units. Finally, ozone is used to remove the aminoalkyl group oxidatively and regenerate the hydroxyl-terminated surface, which can be subjected to the next ALD cycle."
+}

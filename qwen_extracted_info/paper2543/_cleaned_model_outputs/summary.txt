@@ -1,0 +1,8 @@
+{
+  "target_material": "Ta2O5",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD) and thermal ALD",
+  "main_precursors": ["tantalum pentaethoxide", "water (H2O)"],
+  "temperature_range": "300 °C",
+  "summary": "The study examines the properties of Ta2O5 films deposited by plasma-enhanced atomic layer deposition (PEALD) and thermal atomic layer deposition (ALD) on a native oxide surface (SiOx/Si). The films were analyzed for nanostructural, nanochemical, and electrical properties, including capacitance-voltage (C-V) and leakage-current-voltage (JL-V) characteristics. The results show that PEALD films have a higher fixed charge density and different defect densities compared to ALD films, which are attributed to the presence of water as an oxidant in the thermal ALD process.",
+  "evidence": "Ta2O5 films were deposited by plasma-enhanced atomic layer deposition (PEALD) and thermal ALD on native oxide surface (SiOx/Si). The properties of as-deposited and forming gas annealed films were examined and qualitatively compared with respect to nanostructural, nanochemical, capacitance-voltage and leakage-current–voltage, and oxide breakdown characteristics. The fixed charge density (Qf = 5 × 10^−11 q C/cm−2) was thickness invariant in PEALD Ta2O5. For similar PEALD and ALD Ta2O5 thickness in Ta2O5/SiOx/Si stacks, the latter showed a lower Dit and higher defect density, results attributed to protons and hydroxyl groups, respectively, which stem from water used as an oxidant for the thermal ALD process."
+}

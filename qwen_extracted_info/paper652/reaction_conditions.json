@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "In ligand exchange reactions, metal /H9252-diketonates react with one or more OH groups on the surface with the release of ligands (e.g. Hacac or Hthd) into vapour phase. In these reactions covalent oxygen–metal bonds are formed. Ligand exchange reactions have also been shown to take place during the heating of associatively adsorbed metal /H9252-diketonates (proton-assisted thermolysis)."
+}

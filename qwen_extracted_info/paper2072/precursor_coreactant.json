@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "All depositions were performed at 300 °C with HfCl4 and H2O precursors. The pressure in the reactor was 1 Torr. The pulse and purge times were optimized for HfO2 films grown in tens to hundreds of ALD reaction cycles."
+}

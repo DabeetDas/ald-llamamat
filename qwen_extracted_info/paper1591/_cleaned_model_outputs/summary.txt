@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["SiCl4", "H2O"],
+  "temperature_range": "room temperature",
+  "summary": "The study investigates the mechanism of pyridine-catalyzed SiO2 atomic layer deposition (ALD) using Fourier transform infrared (FTIR) spectroscopy. The catalytic role of pyridine in enhancing the nucleophilic attack of oxygen on SiCl4 and facilitating the reaction with hydroxyl groups on the SiO2 surface is explored. The process allows for SiO2 deposition at room temperature with significantly reduced precursor exposures compared to uncatalyzed ALD. The study also identifies the formation of a pyridinium salt on the surface, which can desorb at temperatures above 340 K.",
+  "evidence": "Catalyzed SiO2 ALD can deposit SiO2 thin films at room temperature with SiCl4 and H2O as the reactants and pyridine as the catalyst.7-9 The reaction mechanism during uncatalyzed SiO2 ALD can be understood by theoretical simulations.11 With the catalyst, the SiO2 deposition can be performed at room temperature and reactant exposures as low as 104 L.6-8 SiO2 growth rates of 1.3-2.1 Å per AB cycle can be obtained at room temperature.6-9 The pyridinium salt can desorb from the SiO2 surface and no pyridinium salt was observed for surface temperatures >340 K after either the SiCl4 or H2O reactions."
+}

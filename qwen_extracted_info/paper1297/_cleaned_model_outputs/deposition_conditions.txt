@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "FlexAL ALD reactor from Oxford Instruments",
+  "evidence": "The main parameters of the ALD process are listed in Table 2. The plasma enhanced ALD process is described in detail in40.\n\nALD process parameters for WO3 deposition.\nParameter Value\nBase pressure <10-6 mbar\nTable temperature 300℃\nO2 plasma power 250 W\nPrecursor dosing 3 s\nCoreactant O2 plasma exposure 3 s"
+}

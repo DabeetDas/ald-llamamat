@@ -1,0 +1,11 @@
+{
+  "target_material": "Aluminum oxide (Al2O3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum",
+    "H2O"
+  ],
+  "temperature_range": "270 °C",
+  "summary": "The study investigates the origin and passivation of fixed charge in atomic layer deposited aluminum oxide (Al2O3) gate insulators on chemically treated InGaAs substrates. The fixed charge is attributed to oxygen and aluminum dangling bonds, which can be neutralized through hydrogen passivation. The process involves ALD at 270 °C using trimethylaluminum and H2O precursors, and postmetallization forming gas anneal (FGA) at 400 °C reduces fixed charge.",
+  "evidence": "Al2O3 films of different thicknesses, 2.4–16 nm, were prepared by ALD at 270 °C using trimethylaluminum and H2O precursors. Postmetallization forming gas anneal was carried out under forming gas (95%N2 + 5%H2) flowing at a rate of 2L/min at 400 °C for 50 min."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Ge",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["digermane"],
+  "temperature_range": "950 K",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of Ge on Si(100) using digermane as the source gas. The process involves saturating the surface with digermane at 950 K, followed by thermal annealing to desorb hydrogen, resulting in a quantized deposition of 0.4 atomic layers per cycle. The deposited Ge atoms replace Si atoms at random positions, forming a mixed surface alloy with a graded interface and a short intermixing length scale of about one monolayer.",
+  "evidence": "The text states: 'A LE offers an important advantage over the standard molecular beam epitaxy method in that the amount of deposition is quantized (0.4 atomic layer per cycle for the present case). Therefore, process control is easily achieved under wide ranges of experimental conditions.' Additionally, it mentions: 'Deposition of Ge was performed by ALE. Each deposition cycle involved saturating the surface with 15 L (1L = 0.013610/0.02556 torr/0.0001 sec) of digermane exposure at 0.0024350 K. This was followed by thermal annealing at 950 K to desorb the hydrogen, leaving behind a net deposition of 0.4 ML of Ge.'"
+}<|im_end|>

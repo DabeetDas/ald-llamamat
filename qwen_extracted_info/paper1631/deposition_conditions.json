@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 325,
+  "pressure": "20 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 60,
+  "number_of_cycles": 16,
+  "reactor_type": "viscous-flow ALD reactor",
+  "evidence": "The SnOx ALD films were deposited on the SiO2 nanoparticles at 325 °C using ALD techniques. The ALD process was conducted in a sequence as SnCl4 exposure, N2 purge and evacuation, H2O2 exposure, and N2 purge and evacuation. During the reactant exposures, the reactor was closed to the mechanical pump and exposed to the reactants for 60 s."
+}

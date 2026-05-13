@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Bi(TMHD)3",
+    "Fe(TMHD)3"
+  ],
+  "coreactants": [
+    "oxygen radicals"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "The metal β-diketonate precursors tris(2,2,6,6-tetramethyl-3,5-heptanedionato) bismuth(III) [Bi(TMHD)3] and Fe(TMHD)3 were used. Oxygen radicals (produced by a coaxial microwave cavity) as the oxidation source."
+}

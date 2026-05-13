@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-350",
+  "pressure": "1 −3 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The ALD growth of Gd2O3 and Dy2O3 were studied at substrate temperatures ranging from 150 to 350 °C using the following standard pulsing sequence (ALD growth cycle): 3 s of metal precursor pulse, followed by 20 s of nitrogen purge, 1 s of water pulse, and finally 10 s of nitrogen purge."
+}<|im_end|>

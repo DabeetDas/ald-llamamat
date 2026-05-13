@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Si(OBu)4 + AlCl3 -> Si-O-Al(CH3)2 + CH4",
+    "Si(OBu)4 + H2O -> Si-OH + BuO-"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "Hausmann et al. 23 introduced an Al XSiYOZ ALD process where alternating tris/(tert-butoxy/silanol and trimethylaluminum pulses produced the growth rates up to 12 nm /cycle by a catalytic reaction between the precursors."
+}<|im_end|>

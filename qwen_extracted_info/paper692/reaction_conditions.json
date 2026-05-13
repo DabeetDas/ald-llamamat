@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of HfCl4 and H2O on the film surface, leading to the formation of surface species such as HfO and HCl. The reaction proceeds through a surface limiting process, where the adsorption of H2O regenerates surface hydroxyl groups, facilitating the growth of the HfO2 film. The surface reactions are described as a sequence of adsorption, surface reaction, and desorption steps, with the formation of a surface oxide layer.",
+  "intermediate_species": [
+    "HfO",
+    "HCl",
+    "surface hydroxyl groups",
+    "HfO2"
+  ],
+  "evidence": "The surface reaction mechanism is described as follows: 'The surface limiting nature of the reactions leads to highly conformal films, permitting deposition even within high aspect ratio structures.' Additionally, the text mentions that 'the adsorption of H2O regenerates surface hydroxyl groups, facilitating the growth of the HfO2 film.'"
+}

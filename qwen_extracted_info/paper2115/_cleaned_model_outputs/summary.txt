@@ -1,0 +1,8 @@
+{
+  "target_material": "Y2O3",
+  "process_type": "radical-enhanced atomic layer deposition",
+  "main_precursors": ["Y", "Er"],
+  "temperature_range": "350 °C",
+  "summary": "The study investigates the coordination of Er in Y2O3 thin films using EXAFS spectroscopy. Er is found to be in the trivalent state with octahedral coordination, and its incorporation is achieved through radical-enhanced atomic layer deposition at 350 °C. The results indicate that Er is miscible in the Y2O3 matrix and that photoluminescence quenching at high Er concentrations is due to ion-ion interactions rather than immiscibility.",
+  "evidence": "Incorporation of Er with concentrations varying from 6 to 14 at. % was achieved by radical-enhanced atomic layer deposition at 350 ° C. The Er was found to be in the optically active trivalent state, confirmed by their x-ray absorption near-edge spectroscopy spectra. The critical interionic distance between two Er 3+ was determined to be ~11.014 Å, setting an upper limit on the Er 3+ concentration in Y2O3."
+}

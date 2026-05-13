@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The WCN diffusion barrier prevents Cu migration through stress evolution from tensile to compressive, which suppresses Cu diffusion and maintains a reliable contact resistance.",
+  "intermediate_species": ["WCN"],
+  "evidence": "The stress evolution of Cu =WCN is compared with that of Cu =TaN because TaN is popularly used as a diffusion barrier for Cu via plugs and interconnects as the annealing temperature increases from room temperature to 500 °C. Figure 6 shows the stress evolution measured by Raman spectroscopy. The stress of the Cu=WCN=ILD (MSQ) =Si interconnect decreases from 148 to 61 MPa, whereas that of the Cu =TaN=ILD (MSQ) =Si interconnect increases from 200 to 213 MPa. This means that the stress of Cu =WCN=ILD=Si becomes compressive, whereas that of the Cu =TaN=ILD=Si remains the same and moves toward high tensile stress."
+}<|im_end|>

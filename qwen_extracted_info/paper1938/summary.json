@@ -1,0 +1,11 @@
+{
+  "target_material": "AlN",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "Trimethylaluminum (TMA)",
+    "Nitrogen (N2)/Hydrogen (H2) plasma"
+  ],
+  "temperature_range": "300 /C14C",
+  "summary": "The study describes the epitaxial growth of AlN on 4H-SiC using low-temperature atomic layer deposition (ALD) with in situ atomic layer annealing (ALA) via He/Ar plasma treatment. The ALA process enhances crystal quality, achieving a highly crystalline AlN layer at low temperatures.",
+  "evidence": "AlN thin films were epitaxially grown on a 4H-SiC substrate via atomic layer deposition (ALD) along with atomic layer annealing (ALA). By applying the layer-by-layer, in situ ALA treatment using helium/argon plasma in each ALD cycle, the as-deposited film gets crystallization energy from the plasma, which results in significant enhancement of the crystal quality to achieve a highly crystalline AlN epitaxial layer at a deposition temperature as low as 300 /C14C."
+}

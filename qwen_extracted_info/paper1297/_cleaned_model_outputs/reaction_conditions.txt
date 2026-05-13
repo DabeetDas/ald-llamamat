@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of oxygen vacancies and hydroxyl groups, which act as electron donors and enhance the PEC efficiency. The presence of oxygen vacancies can also inhibit electron transfer if in excess, decreasing the photocurrent generation.",
+  "intermediate_species": ["oxygen vacancies", "surface hydroxyls"],
+  "evidence": "The text states: 'Chemical defects, such as oxygen vacancies, play a sensitive role in photocatalysis... Oxygen vacancies in WO3 films can act for example as electron donor to enhance the PEC efficiency... The overpotential is a measure for the electrochemical activity and has therefore direct impact on the performance. Hence, the performance can be tailored by the chemical defects.'"
+}

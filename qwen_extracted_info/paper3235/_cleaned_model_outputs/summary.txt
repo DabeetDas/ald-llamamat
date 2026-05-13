@@ -1,0 +1,8 @@
+{
+  "target_material": "Bi2Te3/Sb2Te3 nanolaminates",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Trimethylsilyl telluride ((Me3Si)2Te)", "Bismuth trichloride (BiCl3)", "Antimony trichloride (SbCl3)"],
+  "temperature_range": "65–70°C for Sb2Te3, 170°C for Bi2Te3",
+  "summary": "This study reports the successful growth of thermoelectric nanolaminates of alternating Bi2Te3 and Sb2Te3 layers using Atomic Layer Deposition (ALD). The ALD process utilized trimethylsilyl telluride, bismuth trichloride, and antimony trichloride as precursors. The study aimed to investigate the fabrication of these nanolaminates for thermoelectric applications, focusing on the growth mechanisms and structural properties of the ALD-deposited layers.",
+  "evidence": "The fabrication of thermoelectric nanolaminate structures of alternating Bi2Te3 and Sb2Te3 ALD layers for thermoelectric application is reported. Trimethylsilyl telluride ((Me3Si)2Te), bismuth trichloride (BiCl3) and antimony trichloride (SbCl3) were utilized as chemical ALD precursors for telluride, bismuth and antimony, respectively. The optimum ALD conditions were 45°C for the (Me3Si)2Te precursor temperature with a 1 s pulse and 70°C for the SbCl3 precursor temperature with a 2 sec pulse width and 65–70°C ALD deposition temperatures. The study aimed to investigate the fabrication of nanolaminates consisting of alternating semiconducting Bi2Te3 and Sb2Te3 thin films synthesized by ALD processes."
+}

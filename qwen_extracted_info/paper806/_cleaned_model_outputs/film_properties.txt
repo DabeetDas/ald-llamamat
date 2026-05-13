@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 40,
+  "density_g_cm3": 5.7,
+  "refractive_index": "2.05~2.15",
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The InO x film grown with TEIn has a relatively low resistivity even with an amorphous structure. At a deposition temperature of 100 °C, the refractive index is still preserved at 100 °C. The refractive index is usually related to the carrier concentration or film density. The films deposited above 100 °C have slightly lower transmittance values, however still higher than 80 % at 550 nm. The latter is a sufficiently low temperature for mechanically flexible applications."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["DEZn", "H2O"],
+  "temperature_range": "165 8C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to grow high-resistivity ZnO buffer layers for Cu(InGa)Se2 (CIGS) thin-film solar cells. The process uses diethylzinc (DEZn) and water (H2O) as precursors, with the flow rates adjusted to control the resistivity and deposition rate. The optimal conditions for high resistivity ZnO were achieved by varying the DEZn flow rate while maintaining a constant H2O flow rate. The resulting ZnO buffer layers improved the performance of CIGS solar cells by reducing recombination at the heterojunction and enhancing the open-circuit voltage and fill factor.",
+  "evidence": "In ALD, we alternatively supplied source gases, DEZn and H2O. When the H2O flow rate was kept at 24.2mmol/min and the DEZn flow rate was ranged between 40 and 53mmol/min, we obtained ALD growth of ZnO. The increase of growth rate was observed by the decrease of DEZn flow rate down to 15 mmol/min and we obtained high resistive ZnO (1 KV cm) at these growth conditions. The substrate temperature was kept at 165 8C."
+}

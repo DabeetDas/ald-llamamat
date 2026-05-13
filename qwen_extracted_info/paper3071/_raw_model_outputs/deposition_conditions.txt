@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225",
+  "pressure": "3",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "250",
+  "number_of_cycles": "500",
+  "reactor_type": "Showerhead",
+  "evidence": "The experimental conditions in the TiO2 system.— The step-coverage model was applied to the deposition of TiO2 films using TTIP and oxygen plasma on 0.15 μm diameter holes with an aspect ratio of 8.7 at deposition temperatures of 150 and 225°C and a deposition pressure of 3 Torr. One deposition cycle of TiO2 consisted of a TTIP vapor pulse, a purge pulse, a pulse for an exposure to oxygen plasma, and another purge pulse. The flow rates of purge argon and oxygen were 250 and 100 sccm, respectively."
+}<|im_end|>

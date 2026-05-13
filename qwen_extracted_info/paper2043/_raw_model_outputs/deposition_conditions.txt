@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-300",
+  "pressure": "350 Pa",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 1.5,
+  "number_of_cycles": null,
+  "reactor_type": "ASM Microchemistry F-120 ALCVD™ SAT Reactor",
+  "evidence": "Samples were cleaned by conventional RCA chemical cleaning and etched in 1% hydrofluoric acid for 30 s to hydrogen passivate the Si (001) surface. Trimethyl aluminum, Al(CH3)3, was used as the metal source and pulsed into the reactor for 0.5 s per pulse. Flow rates were varied over a range of 100–220 sccm. H2O vapor was used to oxidize chemisorbed Al(CH3)x. Flow rate range and duration of the H2O pulses were 6–40 sccm and 0.5 s per pulse, respectively. Argon was used as a carrier gas to transport precursor vapors to the wafer surface and purge reaction gases from the reactor during each reaction half-cycle. Ar flow rate and purge cycle time were 500 sccm and 1.5 s, respectively, for all depositions. Deposition temperatures were varied over a range of 200–300 °C."
+}<|im_end|>

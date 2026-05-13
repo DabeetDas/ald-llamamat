@@ -1,0 +1,8 @@
+{
+  "target_material": "Lithium silicates",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["lithium tertbutoxide", "tetraethylorthosilane", "H2O"],
+  "temperature_range": "225 to 300 °C",
+  "summary": "Lithium silicates thin films were deposited using atomic layer deposition (ALD) with lithium tertbutoxide, tetraethylorthosilane, and H2O as precursors. The films exhibited uniform growth at temperatures between 225 and 300 °C. The study aimed to develop lithium silicate thin films as solid-state electrolytes for all-solid-state batteries, showing high ionic conductivity and amorphous structure.",
+  "evidence": "Lithium silicates thin films were deposited by combining ALD Li2O and SiO2 subcycles using lithium tertbutoxide, tetraethylorthosilane, and H2O as precursors. Uniform and self-limiting growth was achieved at temperatures between 225 and 300 °C. The lithium silicate thin films prepared at 250 °C exhibited an ionic conductivity of 1.45× 10−6 S cm−1 at 373 K."
+}<|im_end|>

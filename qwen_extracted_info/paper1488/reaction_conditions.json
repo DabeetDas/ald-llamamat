@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "OH(s) + Ga(CH3)3(g) → Ga(CH3)2(s) + CH4(g)",
+    "Ga(CH3)2(s) + O3(g) → Ga(OH)(s) + CH2O(g)"
+  ],
+  "surface_mechanism_description": "TMGa dissociatively adsorbs onto the Ga2O3 surface to form Ga(CH3)2 surface species and liberate ∼20% of the methyl ligands as CH4. Ozone reacts with these methyl species to form hydroxyl and formate surface groups and liberate CH2O.",
+  "intermediate_species": [
+    "Ga(CH3)2",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "We found that TMGa dissociatively adsorbs onto the Ga2O3 surface to form Ga(CH3)2 surface species and liberate ∼20% of the methyl ligands as CH4. Next, the ozone reacts with these methyl species to form hydroxyl and formate surface groups and liberate CH2O."
+}

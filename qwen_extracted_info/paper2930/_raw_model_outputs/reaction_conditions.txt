@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "ZnOH* + Al(CH3)3 -> Al(OH)(CH3)* + Zn(CH3)2",
+    "AlCH3* + H2O -> AlOH* + CH3CH3"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "ZnOH* 1 Al(CH3)3 ! Al(OH)(CH3)* 1 Zn(CH3)2 @1# ~B! Al(CH3)* 1 H2O ! AlOH* 1 CH3CH3 @2# where the asterisks represent the surface species."
+}<|im_end|>

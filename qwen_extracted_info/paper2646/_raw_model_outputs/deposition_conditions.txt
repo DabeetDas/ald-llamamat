@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175–250",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "hot wall viscous flow ALD reactor",
+  "evidence": "Films were grown by sequential exposures of bis(2,2,6,6-tetramethylheptane-3,5-dionate)nickel(II) [Ni(thd)2] and hydrogen sulﬁde (H2S) in the temperature range of 175–350 /C14 C. A continuous ﬂow of 250 sccm of N2 was maintained using MKS mass ﬂow controllers to retain a constant base pressure of /C24 1 Torr in the reactor during the reaction to maintain the laminar ﬂow. The NiS ALD ﬁlms were grown by a pulsing sequence of Ni(thd)2 dose, N2 purge, H2S dose, and N2 purge. This exposure sequence is described as [n /C2 (t1,t2), m /C2 (t3,t4)], where n and m are the number of exposures of Ni(thd)2 and H2S, respectively, while t1 is the Ni(thd)2 dose time, t2 is the N2 purge time after Ni(thd)2, t3 is the H2S dose time, and t4 is the N2 purge after H2S pulse where all the times are given in seconds. A standard pulsing sequence of (1,30, 1,30) was used for many of the experiments, unless otherwise stated."
+}<|im_end|>

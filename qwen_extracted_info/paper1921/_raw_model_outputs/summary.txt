@@ -1,0 +1,8 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["RuO4", "H2-plasma"],
+  "temperature_range": "50 8C to 100 8C",
+  "summary": "This study reports a plasma enhanced ALD process for depositing ruthenium using RuO4 precursor and H2-plasma. The process operates at temperatures ranging from 50 8C to 100 8C, with a saturated growth rate of 0.11 nm per cycle at 50 8C. The process allows for the deposition of high-purity, uniform ruthenium thin films on complex substrates, making it suitable for applications in microelectronics.",
+  "evidence": "A plasma enhanced ALD process for Ru using RuO4 and H2-plasma is reported at sample temperatures ranging from 50 8C to 100 8C. At 50 8C, low impurity content Ru thin films were grown with a saturated growth rate of 0.11 nm per cycle. The self-limited surface chemistry of atomic layer deposition (ALD) results in atomic level control over film thickness and ensures excellent uniformity and conformality on complex 3D substrates, rendering the technique uniquely suited for functionalization of nanostructures and nanomaterials."
+}<|im_end|>

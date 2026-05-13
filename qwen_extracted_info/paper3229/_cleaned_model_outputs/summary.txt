@@ -1,0 +1,8 @@
+{
+  "target_material": "Cobalt oxide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["dicobalt hexacarbonyl tert-butylacetylene (CCTBA)", "ozone (O3)"],
+  "temperature_range": "68 ◦C–138◦C",
+  "summary": "The study reports the low-temperature ALD of cobalt oxide thin films using dicobalt hexacarbonyl tert-butylacetylene (CCTBA) and ozone. The films consist of Co3O4 and CoO, with excellent step coverage at low temperatures. The process involves alternating exposures to CCTBA and O3/O2, with growth rates dependent on temperature and precursor exposures.",
+  "evidence": "We report the deposition of cobalt oxide thin films at 68 ◦C–138◦C using alternating injections of dicobalt hexacarbonyl tertbutylacetylene (CCTBA) and ozone. The films consisted of Co3O4 and CoO... The films were grown in atomic layer deposition mode at 68 ◦C with a growth rate of 0.083 nm/cycle... The use of CCTBA as a cobalt precursor has been reported for the preparation of metallic cobalt films by thermal CVD or plasma-enhanced ALD. However, no prior study has reported on ALD of cobalt oxide using this cobalt precursor."
+}

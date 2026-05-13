@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The formation of elemental tantalum by reducing tantalum pentafluoride with hydrogen plasma followed by nitridation of the preformed Ta with NH3.",
+  "intermediate_species": ["Ta", "TaN0.1", "Ta3N5"],
+  "evidence": "The deposition cycle involved two chemical reaction steps: The formation of elemental tantalum by reducing tantalum pentafluoride with hydrogen plasma and the subsequent nitridation of the preformed Ta with NH3 at 200–350°C. The microstructure of the preformed Ta was Ta phase with an electrical resistivity of 220 /cm, which was formed without regard to the deposition temperature. At a deposition temperature of less than 250°C, cubic TaN with a Ta/N ratio of 1 was achieved independent of the NH3 dosage. However, at a deposition temperature of greater than 300°C, the resistivity of Ta–N-based thin film increased abruptly as the NH3 dosage exceeded 16.08 molecules/cm3 due to the formation of Ta3N5."
+}

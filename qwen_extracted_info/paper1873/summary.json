@@ -1,0 +1,11 @@
+{
+  "target_material": "Silica-supported cobalt catalysts (Co/SiO2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Co(acac)2",
+    "Co(acac)3"
+  ],
+  "temperature_range": "170–220 /C14 C",
+  "summary": "Silica-supported cobalt catalysts were prepared using atomic layer deposition (ALD) with cobalt acetylacetonate precursors, Co(acac)2 and Co(acac)3. The process involves chemisorption of the reactants on silica surfaces at specific temperatures, followed by calcination to remove ligands. The study explores the interaction mechanisms between the cobalt acetylacetonates and silica, including ligand exchange and surface association, and demonstrates the saturation level of cobalt loading on the silica support.",
+  "evidence": "Silica-supported cobalt catalysts, Co/SiO2, were prepared by the saturating chemisorption of gaseous cobalt acetylacetonate reactants, Co(acac)2 and Co(acac)3. The preparation of catalysts by ALD from acetylacetonate precursors has often been demonstrated. The reaction of vaporised Cr(acac)3 with silica has been investigated most thoroughly. The preparation of Co/SiO2 catalysts by ALD consisted of the following steps: (a) pre-heating of the support, (b) chemisorption of the gaseous Co(acac)n (n = 2 or 3) reactant up to surface saturation, and (c) removal of the remaining ligands by calcination in air."
+}

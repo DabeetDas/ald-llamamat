@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "4Cu+O2=2Cu2O (1)",
+    "2Cu2O+O2=4CuO. (2)"
+  ],
+  "surface_mechanism_description": "The oxidation reaction of copper can be expressed as follows: 4Cu+O2=2Cu2O (1) and 2Cu2O+O2=4CuO. (2). When copper is oxidized in the air, the major product is Cu2O as in Reaction 1, and CuO forms slowly only through the second step of oxidation as in Reaction 2 in which Cu2O serves as a precursor to CuO.",
+  "intermediate_species": [
+    "Cu2O"
+  ],
+  "evidence": "The oxidation reaction of copper can be expressed as follows: 4Cu+O2=2Cu2O (1) and 2Cu2O+O2=4CuO. (2). When copper is oxidized in the air, the major product is Cu2O as in Reaction 1, and CuO forms slowly only through the second step of oxidation as in Reaction 2 in which Cu2O serves as a precursor to CuO."
+}<|im_end|>

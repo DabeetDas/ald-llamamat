@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALE growth of cubic-GaN on GaAs substrates involves alternating supply of GaCl and NH3, with growth monitored in situ. The growth process on GaN buffer layer rGaAs substrate allows for 1 ML rcycle growth, indicating complete adsorption of nitrogen and reaction with Ga or GaCl atoms. On GaAs substrates, 3D island growth occurs instead of ideal layer-by-layer growth, suggesting incomplete surface saturation.",
+  "intermediate_species": ["GaCl", "NH3", "Ga or GaCl atoms", "nitrogen atoms"],
+  "evidence": "The ALE growth of cubic-GaN on GaAs 001 substrates is tried by alternate supply of GaCl and NH3, and the growth process is monitored in situ using gravimetric monitoring. It is found that one monolayer rcycle growth of a pure cubic-GaN is possible when the growth is performed at 400 8C on 25-nm-thick GaN buffer layer GaAs 001 substrate. On the other hand, three-dimensional 3D growth occurs when the growth is performed directly on GaAs substrate, and crystallinity of the grown layer is amorphous."
+}<|im_end|>

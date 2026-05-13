@@ -1,0 +1,8 @@
+{
+  "target_material": "WS2",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["bis(tert-butylimido)-bis(dimethylamido)-tungsten", "H2S plasma", "Ar plasma", "H2 plasma"],
+  "temperature_range": "450 °C",
+  "summary": "The study investigates the formation and suppression of vertical nanostructures during plasma-enhanced atomic layer deposition (PEALD) of WS2. The process involves a two-step (AB-type) PEALD process with an additional step (C) using either Ar plasma or H2 plasma. The addition of plasma steps significantly reduces the density of vertical nanostructures by 80%, leading to a substantial decrease in film resistivity. The suppression of vertical nanostructures is linked to grain size enhancement and other physicochemical effects.",
+  "evidence": "The study discusses the formation and suppression of vertical nanostructures during plasma-enhanced atomic layer deposition (PEALD) of WS2. The process involves a two-step (AB-type) PEALD process with an additional step (C) using either Ar plasma or H2 plasma. The addition of plasma steps significantly reduces the density of vertical nanostructures by 80%, leading to a substantial decrease in film resistivity. The suppression of vertical nanostructures is linked to grain size enhancement and other physicochemical effects."
+}

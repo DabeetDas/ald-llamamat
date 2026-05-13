@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the sequential exposure of the fabric to trimethylaluminum (TMA) and water, leading to the formation of an aluminum oxide (Al2O3) layer. The reaction mechanism is described as a self-limiting process where the surface reactions are controlled by the alternating pulses of TMA and water, resulting in the deposition of Al2O3 on the fabric surfaces.",
+  "intermediate_species": ["Al-OH*", "surface hydroxyls", "formate species"],
+  "evidence": "A typical reaction for ALD of aluminum oxide from trimethylaluminum (TMA) and water reactants, which proceeds readily at ≤100°C and can be used for the modification of textile materials, has been described in detail elsewhere."
+}<|im_end|>

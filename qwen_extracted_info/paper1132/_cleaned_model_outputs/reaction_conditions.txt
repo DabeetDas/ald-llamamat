@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The Ga2O3 ALD process involves a self-limiting surface reaction where gallium tri-isopropoxide (GTIP) reacts with water (H2O) at a low temperature (150 °C). The growth rate becomes saturated at 0.25 nm/cycle when the GTIP dose exceeds 2.0 × 10−6 mol/cm2, indicating a typical ALD behavior with both half-reactions becoming saturated. The reaction is governed by the sequential, self-limiting surface reactions of GTIP and H2O, leading to the formation of Ga2O3 without by-products.",
+  "intermediate_species": ["GTIP precursor", "surface hydroxyls", "oxygen-rich phase"],
+  "evidence": "The Ga2O3 ALD process involves a self-limiting surface reaction where gallium tri-isopropoxide (GTIP) reacts with water (H2O) at a low temperature (150 °C). The growth rate becomes saturated at 0.25 nm/cycle when the GTIP dose exceeds 2.0 × 10−6 mol/cm2, indicating a typical ALD behavior with both half-reactions becoming saturated. The reaction is governed by the sequential, self-limiting surface reactions of GTIP and H2O, leading to the formation of Ga2O3 without by-products."
+}

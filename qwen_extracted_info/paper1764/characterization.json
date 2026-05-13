@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Spectroscopic ellipsometry",
+    "X-ray diffraction (XRD)",
+    "X-ray reflectometry (XRR)",
+    "Atomic force microscopy (AFM)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Thermogravimetric analysis (TGA)",
+    "Raman spectroscopy"
+  ],
+  "evidence": "Spectroscopic ellipsometry data were collected with a Woollam Alpha SE ellipsometer between 380 and 900 nm and analyzed by fitting a Cauchy model to the whole dataset. Characterization by X-ray diffraction (XRD) in h-2h-mode was performed with a Bruker AXS D8 powder diffractometer... Surface topography was studied for selected samples with atomic force microscopy (AFM) using a Park Instruments XE70 and analyzed using the XEI software. XPS spectra were collected with a Kratos Axis Ultra DLD instrument... Raman spectroscopy was preformed with a Spectra-Physics Millennia Pro 12sJS Nd:YVO4 solid state laser..."
+}

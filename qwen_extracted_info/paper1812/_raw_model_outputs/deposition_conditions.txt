@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 20,
+  "number_of_cycles": 120,
+  "reactor_type": "home-built pump-type PE-ALD reactor",
+  "evidence": "A single cycle of a typical deposition process consisted of: TMP plasma exposure – pumping – O2 plasma exposure – pumping – TTIP exposure – pumping. In between precursor pulses, pumping times of 20 s were found sufficient to bring residual pressures to below 4 × 10−5 mbar, thereby avoiding CVD side reactions."
+}<|im_end|>

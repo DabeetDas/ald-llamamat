@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 80,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 1000,
+  "reactor_type": "Savannah100",
+  "evidence": "A Savannah100 ALD system from Cambridge Nanotech Inc. was used to deposit Al 2O3 dielectric films. The Al 2O3 films were deposited at 80 ° C using alternating exposures of trimethyl aluminum and H 2O vapor at a deposition rate of approximately 0.1 nm per cycle. Each deposition cycle lasted 24 s, yielding a total deposition time of around 6 h for 1000 cycles."
+}<|im_end|>

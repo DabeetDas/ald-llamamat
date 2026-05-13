@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "water"],
+  "coreactants": [],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "TiO2 coating was deposited in a SUNALE ALD reactor (Picosun Oy, Espoo, Finland) using TiCl4 and water as precursors, and nitrogen as carrier and purging gas."
+}

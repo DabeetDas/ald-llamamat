@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the zero metal valence Ru precursor (IMBCHRu) and molecular oxygen (O2) on the substrate. The Ru precursor is reduced by O2 to form Ru metal, with the reaction being self-limiting due to the surface-saturated reactions characteristic of ALD. The process is enhanced by the use of a zero metal valence precursor, which increases the nucleation rate and improves the conformality of the deposited film.",
+  "intermediate_species": ["Ru precursor", "surface hydroxyls", "oxygen species"],
+  "evidence": "A recent investigation reported that Ru film nucleation was enhanced considerably using a zero metal valence precursor, isopropyl-methylbenzene-cyclohexadiene Ru(0) (IMBCHRu) and molecular oxygen (O2), compared to the utilization of precursors with higher metal valences, such as Cp-based Ru precursors, which have a metal valence of 2, or beta-diketonate Ru precursors, which have a metal valence of 3. There was negligible and no incubation time for Ru film growth on the covalent SiO2 and ionic TiN substrate, respectively. This suggests that adsorption of the Ru precursor was increased when a Ru precursor with zero metal valence was used."
+}

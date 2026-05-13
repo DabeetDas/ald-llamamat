@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 8,
+  "number_of_cycles": 1200,
+  "reactor_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "evidence": "The substrates used were (1 1 0) (a-cut) and (1 0 0) (m-cut) Al2O3. The Sn precursor was dibutyl tin diacetate ((CH3CO2)2Sn [(CH2)3–CH3]2), which was evaporated at 50 1C and transported to the deposition chamber by Ar (99.99%) gas of 20 sccm. The O 2 (99.99%) and Ar (99.99%) gases of 50 sccm were used as plasma and purge gases, respectively. The time sequence for source pulse, first purge, plasma pulse, and second purge was 2, 8, 12, and 8 s, respectively. The deposition was conducted with an rf power of 100 W at 240 m Torr for 1200 cycles. The substrate temperature during deposition was maintained at 300 1C."
+}

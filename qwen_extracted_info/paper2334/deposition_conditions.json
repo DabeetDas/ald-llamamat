@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "120-220",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 1,
+  "number_of_cycles": null,
+  "reactor_type": "SUNALE R-200 ALD reactor",
+  "evidence": "Typical single growth cycles are {ZnO} ¼ {DEZ/N2/O2 plasma/N2 ¼ 0.5/2/4/1s} and {ZnS}¼ {DEZ/N2/H2S/N2 ¼ 0.1/4/0.1/4s}."
+}

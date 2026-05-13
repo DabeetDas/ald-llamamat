@@ -1,0 +1,8 @@
+{
+  "target_material": "CaS",
+  "process_type": "atomic layer epitaxy",
+  "main_precursors": ["Ca(thd)2", "H2S"],
+  "temperature_range": "source temperature 180-200°C, substrate temperature 325-400°C",
+  "summary": "The study investigates the deposition of CaS thin films using atomic layer epitaxy (ALE) with Ca(thd)2 and H2S as precursors. The optimal growth conditions were found to be a source temperature of 180-200°C and a substrate temperature of 325-400°C. The films produced under these conditions were crystalline and smooth.",
+  "evidence": "The growth on soda lime glass with and without alumina coating was studied by varying source furnace and substrate temperatures. A narrow processing window for the ALE growth was found when the source and substrate temperatures were 180-200°C and 325-400°C, respectively. The CaS thin films processed under optimized conditions were crystalline and smooth."
+}<|im_end|>

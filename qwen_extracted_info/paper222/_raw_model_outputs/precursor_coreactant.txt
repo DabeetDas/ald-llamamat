@@ -1,0 +1,7 @@
+{
+  "precursors": ["ZnCl2", "Zn(CH3COO)2", "Mn-thd", "Mn(acac)3"],
+  "coreactants": ["H2O", "O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "In the first processes we used elemental precursors, i.e., metallic Zn and oxygen: 2 Zn + O2 -> 2 ZnO at the substrate temperature of 480 oC. We first tested two processes using zinc chloride as zinc precursor and either a double exchange chemical reaction: ZnCl2 + H2O -> ZnO + 2HCl with ZnCl2 at the temperature of 390 °C and the substrate temperature of 500 oC, or a single exchange chemical reaction: 2 ZnCl2 + O2 -> 2 ZnO + 2 Cl2 with the ZnCl2 source kept at the temperature of 390 °C and the substrate temperature of 480 °C. In this case ZnO films were obtained by hydrolysis of zinc acetate, since we used deionized water as oxygen source. An advantageous property of ZnO films obtained using zinc chloride was their good surface morphology. It was essential to use organic precursors to grow thicker ZnO films. As organic zinc precursor we used zinc acetate (Zn(CH3COO)2) and a double exchange chemical reaction: Zn(CH3COO)2 + H2O -> ZnO + 2 CH3COOH. The so-obtained films contained larger Mn fractions, with Mn-thd being slightly more efficient than Mn-acac precursor, and significantly more efficient than Mn, MnCl2 and MnI2."
+}<|im_end|>

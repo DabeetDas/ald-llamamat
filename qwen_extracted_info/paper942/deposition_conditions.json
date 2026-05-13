@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "3",
+  "coreactant_pulse_time_s": "35",
+  "purge_time_s": "300",
+  "number_of_cycles": null,
+  "reactor_type": "vertical-flow",
+  "evidence": "The films were deposited at temperature of 175 jC and 1 Torr total pressure. One deposition cycle consisted of exposure to the precursor, argon (Ar) purge, plasma exposure, and Ar purge. For all experiments, the pulse length of TDMA T and the Ar purge (300 sccm) time were fixed to 3 and 35 s, respectively."
+}

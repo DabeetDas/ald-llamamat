@@ -1,0 +1,8 @@
+{
+  "target_material": "Ruthenium (Ru) nanocrystals",
+  "process_type": "Hybrid CVD/ALD",
+  "main_precursors": ["bis(N,N-di-tert-butylacetamidinato) ruthenium(II) dicarbonyl", "ammonia (NH3)"],
+  "temperature_range": "300 °C",
+  "summary": "The study describes the deposition of high-density Ru nanocrystals using a hybrid chemical vapor deposition (CVD)/atomic layer deposition (ALD) process. The nanocrystals are deposited on Al2O3 surfaces, which provide a high nucleation density, leading to a maximum density of 7–8 × 1012 cm−2. The nanocrystals are used in floating-gate memory cells, where their electrical properties and charge storage capabilities are analyzed. The study also investigates the leakage mechanisms and charge retention properties of the nanocrystal arrays.",
+  "evidence": "Ruthenium nanocrystals are deposited using the ruthenium precursor bis(N,N-di-tert-butylacetamidinato) ruthenium(II) dicarbonyl and ammonia at a substrate temperature of 300 °C. The nucleation site density on Al2O3 is large enough to cause the nanocrystals to agglomerate into a continuous thin film, while the nanocrystals on SiO2 are still well separated. The bilayer of Al2O3 and SiO2 serves as the tunnel layer of the device. The 5 cycle sample exhibits negligible hysteresis, indicating that only a very small amount of charge is stored in the dielectric. The maximum value of ΔVFB corresponds to a charge density of 8 × 1012 –1 × 1013 cm−2."
+}

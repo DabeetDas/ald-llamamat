@@ -1,0 +1,11 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Cd",
+    "Te"
+  ],
+  "temperature_range": "0.36 to 0.44 (dimensionless units of uedu=1)",
+  "summary": "The study presents a kinetic model of II-VI semiconductor surfaces, focusing on the growth of CdTe (001) surfaces through atomic layer epitaxy (ALE). The model incorporates a zinc-blende lattice and considers the role of weakly bound Te* atoms in facilitating growth. The growth rate is temperature-dependent, with a transition from a self-limited growth rate of 0.5 layers per ALE cycle at high temperatures to a complete layer growth at low temperatures. The presence of a Te* reservoir is crucial for enabling the self-regulated growth process.",
+  "evidence": "The study discusses the temperature-driven transition in the growth rate of CdTe surfaces during ALE, with a characteristic temperature Tres where the growth rate drops. The model includes a Te* reservoir that facilitates growth by neutralizing repulsions and enabling the formation of layers. The results show that the growth rate is significantly affected by the presence of Te* atoms, which are weakly bound and contribute to the surface reconstruction and layer formation."
+}

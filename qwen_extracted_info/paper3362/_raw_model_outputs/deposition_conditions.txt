@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "100-3000 mtorr",
+  "precursor_pulse_time_s": 40,
+  "coreactant_pulse_time_s": 90,
+  "purge_time_s": 180,
+  "number_of_cycles": 5,
+  "reactor_type": "fluidized bed",
+  "evidence": "ALD was performed in a stainless steel fluidized bed reactor under vacuum conditions between 100 and 3000 mtorr (King et al. 2007). A cycle of ALD consisted of a platinum precursor dose for 40 min, a nitrogen purge for 70 min, a second precursor dose (oxygen or hydrogen) for 90 min, and a nitrogen purge for 180 min; one cycle duration was 380 min (6.33 h)."
+}<|im_end|>

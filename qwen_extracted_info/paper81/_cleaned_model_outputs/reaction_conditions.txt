@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD processes use H2S plasma as the sulfur source, which contains energetic and reactive species such as electrons, ions, and radicals. The metal amidinate precursors (M(amd)2) are used as metal sources. The plasma enables the formation of the dimeric S−S bonds necessary for the pyrite structure, which is not achievable with molecular H2S.",
+  "intermediate_species": ["M(amd)2", "surface hydroxyls", "reactive sulfur species"],
+  "evidence": "To address this issue, we propose to use the H2S plasma instead, since the plasma contains many energetic and reactive species, such as electrons, ions, and radicals."
+}

@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "N2 plasma generates N and N+ species which react with Si-H surface bonds to abstract hydrogen, forming Si-N bonds and generating H2O."
+  ],
+  "surface_mechanism_description": "The PEALD process involves alternating N2 plasma exposures and SiH4 gas exposures. The N2 plasma generates nitrogen species that react with the Si surface to form nitrogen-terminated sites. Subsequent SiH4 exposure leads to the formation of Si-N bonds through surface reactions, with hydrogen abstraction and water evolution. The process is self-limiting due to surface saturation and hydrogen desorption kinetics.",
+  "intermediate_species": [
+    "Nitrogen radicals (N)",
+    "Nitrogen ions (N+)",
+    "Surface hydrogen (Si-H)",
+    "Adsorbed Si-Hx and NHx species",
+    "Surface nitrogen dangling bonds"
+  ],
+  "evidence": "In Fig. 9, we summarize our proposed growth mechanism for the PEALD N2 plasma/SiH4 sequence. The first step of the sequence consists of an N2 plasma treatment. RF N2 plasmas are known to create predominantly molecular N2 ions such as N2+ and some atomic nitrogen species such as N and N+. We believe that atomic N and N+ are the key growth species. In this case, atomic N radicals exit the plasma and diffuse across the gas phase boundary layer and adsorb on the wafer surface. The N+ (and N2+) ions instead are accelerated across the plasma sheath where they either adsorb or elastically/inelastically scatter from the wafer surface. The adsorbed species react to form Si–N. In addition, N+ ions probably also collide with enough energy to break some surface Si–Si and Si–N bonds that leads to increased Si–N bond formation and film densification. This may partially explain the slow saturation in growth rate with N2 plasma time observed for the exposure times investigated. It is also believed that atomic N and N+ and N2+ ions react with Si–H surface bonds and abstract hydrogen from the growth surface. This assertion is supported by the FTIR data in Fig. 4 that shows significantly less Si–H bonding in the PEALD film relative to PECVD SiNx:H. As shown in Fig. 9(a), the N2 plasma step is believed to generate a nitrogen terminated surface with several nitrogen dangling bonds. As N2 gas is the equilibrium phase for nitrogen at temperatures of 250–400/C14 C, the N2 plasma step should self-limit at one nitrogen monolayer."
+}

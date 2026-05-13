@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "600–700",
+  "pressure": "100 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "rotating susceptor",
+  "evidence": "ALE growth of InGaN was carried out in the 600–700 °C temperature range at 100 Torr."
+}

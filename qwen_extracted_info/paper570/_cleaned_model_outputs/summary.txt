@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["HfCl4", "H2O"],
+  "temperature_range": "180±600 8C",
+  "summary": "The study investigates the atomic layer deposition of HfO2 thin films using HfCl4 and H2O as precursors at substrate temperatures ranging from 180 to 600 8C. The research focuses on the influence of temperature on film properties, including structure, density, optical properties, and surface morphology. The results show that the growth is self-limited at temperatures above 180 8C, and the films' properties vary with temperature.",
+  "evidence": "Atomic layer growth of hafnium dioxide from HfCl4 and H2O has been studied at substrate temperatures ranging from 180±600 8C. The data of ex situ measurements revealed that the structure, density and optical properties of the films depended on the growth temperature."
+}

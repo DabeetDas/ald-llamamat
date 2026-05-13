@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "200",
+ "pressure": "Atmospheric",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "Atmospheric pressure",
+ "evidence": "The ALE system, operating at atmospheric pressure, uses dimethylzinc (DMZ) and hydrogen sulphide (H2S) as reactants."
+}<|im_end|>

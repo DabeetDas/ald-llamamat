@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The phosphate starting materials were converted into phosphide catalysts either by thermal annealing or by electrochemical treatment. The hydrogen in the reducing atmosphere removes oxygen from the film by converting it to water vapor and removes excess phosphorus by converting it to phosphine gas (PH3).",
+  "intermediate_species": ["phosphorus", "oxygen", "phosphine gas (PH3)"],
+  "evidence": "The hydrogen in the reducing atmosphere removes oxygen from the lm by converting it to water vapor and removes excess phosphorus by converting it to phosphine gas (PH3)."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "SrS1/C0xSex and ZnS1/C0xSex",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["elemental selenium", "Sr(thd)2", "H2S", "ZnCl2"],
+  "temperature_range": "220–380 °C",
+  "summary": "SrS1/C0xSex and ZnS1/C0xSex thin films were deposited using atomic layer deposition (ALD) with elemental selenium as the Se source. The films were solid solutions, and XPS analysis showed surface oxidation and carbon contamination. Electroluminescence studies indicated that selenium addition slightly altered emission color and intensity, with ZnS1/C0xSex:Mn devices showing similar performance to ZnS:Mn.",
+  "evidence": "SrS1/C0xSex and ZnS1/C0xSex thin films were deposited by the atomic layer deposition (ALD) technique using elemental selenium as the Se source. XRD analysis showed that the films were solid solutions and XPS analysis did not detect the presence of elemental Se within the film. The blue-shift of the emission peak due to Se has been shown to result from a decrease in localized phonon frequencies. Luminance measurements showed that emission intensity of the ZnS1/C0xSex:Mn alternating current thin film electroluminescent (ACTFEL) devices at fixed voltage was almost the same as that of the ZnS:Mn device."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of triethylgallium (TEG) and nitrogen/hydrogen plasma, leading to the formation of GaN. The hydrogen composition of the forming gas was chosen based on an estimate of the quantity of hydrogen atoms needed to reduce the ethyl groups during the second ALD half reaction. The presence of oxygen and carbon impurities is attributed to incomplete reaction between the nitrogen plasma and the chemically adsorbed TEG.",
+  "intermediate_species": ["carbon", "oxygen", "monomethyl aluminum", "surface hydroxyls"],
+  "evidence": "The XPS spectrum of an ALD GaN film after B5 nm of the film surface was argon ion sputter etched to remove any organic or atmospheric post-deposition contamination is shown in Fig. 1. In addition to Ga XPS peaks, Ga Auger peaks, and the nitrogen XPS peak, those from O 1s and C 1s are present. The carbon is due to remnants of the ethyl groups in the TEG precursor, and its presence indicates some degree of incomplete reaction between the nitrogen plasma and the chemically adsorbed TEG."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "225",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "40",
+ "number_of_cycles": "1000",
+ "reactor_type": "F120",
+ "evidence": "Iridium was grown at 225 °C and TiO 2 at 250 °C. ... Iridium was deposited for 1000 cycles and TiO2 for 300 cycles. ... In the TiO 2 process the purge duration was lengthened substantial to 40 s in order to ensure complete removal of excess precursors, water in particular."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": "0.2",
+  "coreactant_pulse_time_s": "0.5",
+  "purge_time_s": "0.5",
+  "number_of_cycles": "2000",
+  "reactor_type": "F-120",
+  "evidence": "The Al2O3 films were deposited on 535 cm2 soda lime glass or silicon wafer pieces using AlCl3 (Aldrich, 99.9%) and Al(OiPr)3 (Strem, 198%) as precursors. The pulse times were varied between 0.2 and 1.0 s. The purging time was constant at 0.5 s. The number of deposition cycles was varied between 64 and 2000 and the growth temperature from 150 to 375 uC."
+}

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "300",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "ALD",
+ "evidence": "Nanolaminate samples were deposited at 300 ° C by atomic layer deposition (ALD) on Pt / Ti/ SiO2 / Si substrates, using trimethylaluminum (Al(CH3)3) and TiCl 4 as Al and Ti precursors, and H 2O as oxidant."
+}

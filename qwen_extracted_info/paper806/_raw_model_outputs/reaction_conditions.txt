@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the chemical interaction between the indium precursors and ozone, leading to the formation of indium oxide. The ALD process uses ozone as the oxidant, and the reaction is facilitated by the high reactivity of the TEIn precursor with ozone, which allows for the formation of dense indium oxide films at low temperatures.",
+  "intermediate_species": ["In-OH", "surface hydroxyls", "formate species"],
+  "evidence": "The text discusses the use of ozone as the oxidant and the high reactivity of TEIn with ozone, which facilitates the chemical reactions to yield dense indium oxide films. It also mentions the formation of surface hydroxyls and the role of ozone in the reaction mechanism."
+}<|im_end|>

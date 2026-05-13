@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "Ge(N(Si(CH3)3)2)2 + 6CH3OH → Ge(OCH3)2 + 2NH4CHOSi(CH3)3",
+    "Ge(OCH3)2 + ((CH3)3Si)2Te → GeTe + 2CH3OSi(CH3)3",
+    "H2Te + Ge(OCH3)2 → GeTe + 2CH3OH"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the formation of reactive intermediates through the interaction of Ge precursor and methanol in the gas phase. These intermediates, such as Ge(OCH3)2 and H2Te, react with the Te precursor to form GeTe films. The reaction pathways include the formation of various methoxygermane and methoxygermylene species, which can further react to form GeTe or Ge2Te. The process is influenced by the injection rate of the precursors and the temperature, with the formation of Ge-Ge bonds observed in some cases.",
+  "intermediate_species": [
+    "Ge(OCH3)2",
+    "H2Te",
+    "monomethoxygermylene",
+    "trimethoxygermane",
+    "H(OCH3)GeGe(OCH3)2"
+  ],
+  "evidence": "The text describes the formation of reactive intermediates such as Ge(OCH3)2 and H2Te through the reaction of the Ge precursor with methanol in the gas phase. These intermediates then react with the Te precursor to form GeTe films. The reaction pathways include the formation of various methoxygermane and methoxygermylene species, which can further react to form GeTe or Ge2Te. The text also mentions the formation of Ge-Ge bonds through the reaction of monomethoxygermylene and trimethoxygermane."
+}<|im_end|>

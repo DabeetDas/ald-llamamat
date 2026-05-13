@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250 - 325",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "flow-through type reactor",
+  "evidence": "The ALD chamber was heated and stabilized for 30 min before supplying the reactants. A full cycle of ALD consisted of injecting MoCl5 for 0.5-5 s and H2S for 1 s, followed by purging with N2 for 30 s."
+}<|im_end|>

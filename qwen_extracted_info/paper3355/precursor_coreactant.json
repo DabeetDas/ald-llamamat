@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "tetrakis(dimethylamino)tin (TDMASn)"
+  ],
+  "coreactants": [
+    "hydrogen sulfide (H2S)"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "SnS2 thin films were deposited using a thermal ALD system with tetrakis(dimethylamino)tin (TDMASn, [(CH3)2N]4Sn) as the Sn source and hydrogen sulfide (H2S) reactant gas as the sulfur source. An Ar flow of 30 sccm was used for the source delivery and an Ar flow of 250 sccm was used for purging."
+}

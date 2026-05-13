@@ -1,0 +1,7 @@
+{
+  "precursors": ["Sc(MeCp)3", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The Sc2O3 films with thickness d=20–100 nm were deposited by atomic layer deposition (ALD) using tris(methylcyclopentadienyl) scandium (III) Sc(MeCp)3 and water vapors as precursors at reactor temperature range of 200–400°C. Pure 99.999% nitrogen N2 was used as a carrier gas and for reactor purging after each reagent pulse."
+}

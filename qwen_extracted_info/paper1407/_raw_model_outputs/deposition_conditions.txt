@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 700,
+  "pressure": "0.01 to 10 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 32,
+  "reactor_type": "vacuum apparatus with in situ transmission FTIR vibrational spectroscopy",
+  "evidence": "The sample was held at 700 K during all of the SiCl4 and H2O exposures. ... The SiO2 films on the BN particles after 32 AB reaction cycles are then analyzed using transmission electron microscopy (TEM) and X-ray photoelectron spectroscopy (XPS)."
+}<|im_end|>

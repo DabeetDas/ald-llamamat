@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "160–250",
+  "pressure": "2–3 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 4,
+  "number_of_cycles": 500,
+  "reactor_type": "F-120",
+  "evidence": "The pulsing sequence of our deposition process could be described as follows : m x [n x (Cu(acac)2—H2O)—HQ]. In other words, a single HQ pulse was applied after n cycles of (Cu(acac)2—H2O), such that the frequency of the HQ pulse, 1 /n, varied from 1/1 to 1/20 in our experiments. Then the sequence [n x (Cu(acac)2—H2O)—HQ] was repeated m times to obtain a film of the targeted thickness . In this work we define the basic cycle as (Cu(acac)2—H2O) or (Cu(acac)2—H2O—HQ), and express the so-called growth-per-cycle as GPC = t / (m x n) where t is the measured film thickness and m x n is the total number of the basic cycles applied . As common to all ALD processes, every precursor pulse was followed by a subsequent N2 purge pulse (though not indicated above). The depositions were carried out at various temperatures (160–250 oC) on 35×35 mm2 borosilicate glass and silicon (without removing the native oxide layer ) substrates in a commercial hot-wall flow-type F-120 ALD reactor (ASM Microchemistry Ltd., Finland) operated under an N2 working pressure of 2–3 mbar."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["TiCl4", "water"],
+  "temperature_range": "250 8C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to coat porous steel fiber supports with TiO2 thin films for photocatalytic applications. The ALD process was optimized to ensure uniform and conformal coating, maintaining the porosity and gas permeability of the support. Noble metals (Au and Pt/Pd) were sputtered onto the TiO2 films to enhance photocatalytic activity. The results showed that Pt/Pd significantly improved the photocatalytic degradation of methyl orange compared to Au, and the optimal deposition thickness for Pt/Pd was found to be around 0.4 nm.",
+  "evidence": "TiO2 was uniformly and conformally deposited onto the surface of the metal skeleton of the porous steel fiber matrix via atomic layer deposition method so that the porosity as well as gas permeability of the matrix is maintained. The growth cycle was repeated 1000 times at 250 8C. The photocatalytic activity of TiO2 on porous support was not enhanced by Au, while it was remarkably improved by Pt/Pd. The optimum NDT is at about 0.4 nm."
+}<|im_end|>

@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "Al(CH3)3"
+  ],
+  "coreactants": [
+    "H2O",
+    "O2 plasma"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "For both ALD methods, trimethylaluminum /H20851Al/H20849CH3/H208503/H20852was used as the Al precursor in the first half cycle of the ALD process. During the second half cycle, either H2O or an O2 plasma was used for thermal and plasma ALD, respectively. The PECVD process employed a continuous remote O2 /Ar plasma and Al/H20849CH3/H208503 as the Al precursor."
+}

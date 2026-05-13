@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 10,
+  "number_of_cycles": 500,
+  "reactor_type": "Picosun ALD R150 thermal tool",
+  "evidence": "Aluminum oxide films were grown thermally at 250 /C14 C with water as a coreagent and a saturating pulse for TDMAA of 4 s. All experiments consisted of 500 cycle depositions and all pulses were followed by a 10 s nitrogen purge."
+}

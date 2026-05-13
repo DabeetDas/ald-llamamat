@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Mo(CO)6(g) → Mo(CO)x(a) + (6 - x)CO(g)",
+    "Mo(CO)x(a) → Mo(CO)δ(a) + (x - δ)CO(g)",
+    "Mo(CO)δ(a) + 2H2S(g) → MoS2(s) + δCO(g) + 2H2(g)"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves the adsorption of Mo(CO)6 on the surface, followed by the dissociation of CO ligands during purge and soak times. The co-reactant H2S then reacts with the surface-bound Mo species to form MoS2, with the dissociation of CO ligands being accelerated by increasing the temperature to 190 °C, which reduces the presence of undesired MoOx and carbon residues.",
+  "intermediate_species": [
+    "Mo(CO)x",
+    "Mo(CO)δ",
+    "subcarbonyl species (e.g., Mo(CO)3)"
+  ],
+  "evidence": "The text describes the reaction mechanism as follows: 'Step 1: the adsorption of the Mo(CO)6 molecule on the surface of a Si substrate or onto the growing MoS2 leads to the formation of Mo subcarbonyl, Mo(CO)6(g) → Mo(CO)x(a) + (6 - x)CO(g). Step 2: CO ligands gradually disassociate from the Mo subcarbonyl species during the subsequent purge time and soaking time, Mo(CO)x(a) → Mo(CO)δ(a) + (x - δ)CO(g). Step 3: the introduction of the co-reactant H2S reacts and produces MoS2, Mo(CO)δ(a) + 2H2S(g) → MoS2(s) + δCO(g) + 2H2(g).'"
+}<|im_end|>

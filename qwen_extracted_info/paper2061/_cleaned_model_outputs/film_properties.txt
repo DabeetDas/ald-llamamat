@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 1.2,
+  "density_g_cm3": 3.3,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "We use the Si–N–Si mode IR absorption area as a quantitative measurement of SixNy thickness by calibrating it with medium energy ion scattering (MEIS) for two Si xNy films grown by exposing an H-terminated Si s100d surface to 4% NH3 /N 2 at 605 and ,825 °C. The MEIS spectra are best modeled by a thick SiO xNy layer on a thin Si xNy layer, in contrast to the IR data which do not exhibit a strong SiO xNy peak at 950 cm −1.22 This apparent discrepancy indicates that the as grown, predominantly Si xNy film is heavily oxidized to form oxynitride during the transfer from the growth to the MEIS chamber. We used the MEIS measured areal density of nitrogen and assumed a film density of bulk Si3N4 (3.3 g/cm 3) to determine the thickness of the Si xNy layers grown at 605 and 825 °C."
+}

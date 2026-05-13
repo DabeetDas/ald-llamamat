@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 53,
+  "density_g_cm3": 5.5,
+  "refractive_index": "increases with increasing deposition temperature",
+  "surface_roughness_nm": null,
+  "crystal_phase": "amorphous",
+  "evidence": "The density of the X-ray amorphous SnOx and the ZTO films increases more or less linearly with temperature, by about 1 g/cm 3 in total, when the deposition temperature increases from 90 to 180 °C. Meanwhile, the crystalline ZnO film stays at a constant value of about 5.5 g/cm 3, which is close to the bulk value of 5.6 g/cm3 for ZnO."
+}

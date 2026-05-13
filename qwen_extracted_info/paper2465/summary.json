@@ -1,0 +1,10 @@
+{
+  "target_material": "Ge",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Ge2H6"
+  ],
+  "temperature_range": "300-900 K",
+  "summary": "The study investigates the growth process of Ge on Si(100) using atomic-layer epitaxy (ALE) with digermane as the precursor. The process involves cyclic adsorption of digermane at near room temperature followed by thermal annealing. The surface morphology and atomic structure are analyzed using scanning tunneling microscopy (STM) and photoemission spectroscopy. The results show the formation of Ge layers with a 2×n structure and the presence of Ge-Ge or mixed Ge-Si dimers.",
+  "evidence": "The study investigates the growth process of Ge on Si(100) during atomic-layer epitaxy (ALE) utilizing digermane. The surface ordering, morphology, and stoichiometry of the digermane saturated Si(100) surface at temperatures between 300 and 900 K, as well as the grown films are examined both by scanning tunneling microscopy (STM) and high-resolution core-level photoemission spectroscopy employing synchrotron radiation. Multilayer Si deposition is performed by ALE, i.e., cyclic digermane adsorption at near room temperature, followed by thermal annealing at 900 K."
+}

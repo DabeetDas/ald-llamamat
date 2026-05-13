@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "surface-OH + CH2-Zn-CH3 -> surface-O-Zn-CH3 + CH4",
+    "-O-Zn-CH3 + H2O -> O-Zn-OH + CH4"
+  ],
+  "surface_mechanism_description": "The surface reaction proceeds in two phases: first, surface hydroxyl groups react with dimethyl zinc to form surface-bound zinc alkoxide and methane, followed by a reaction between the surface-bound zinc alkoxide and water to regenerate surface hydroxyl groups and release methane.",
+  "intermediate_species": [
+    "surface-bound zinc alkoxide (surface-O-Zn-CH3)",
+    "surface hydroxyl groups (surface-OH)",
+    "methane (CH4)"
+  ],
+  "evidence": "The surface reaction has not been studied, but for example in the case of dimethyl zinc and water the surface reaction is proposed to proceed according to: Phase 1: surface-OH + CH2-Zn-CH3 -> surface-0-Zn-CH3 + CH4, Phase 2: -0-Zn-CH3 + H2O -> 0-Zn-OH + CH4."
+}

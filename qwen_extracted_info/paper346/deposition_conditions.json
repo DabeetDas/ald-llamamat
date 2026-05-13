@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "275",
+  "pressure": "108 Torr",
+  "precursor_pulse_time_s": 0.8,
+  "coreactant_pulse_time_s": 0.8,
+  "purge_time_s": 0.2,
+  "number_of_cycles": "2500",
+  "reactor_type": "work chamber",
+  "evidence": "The deposition experiments were performed in a work chamber providing a background pressure of 108 Torr. The effusion cells were especially designed for ALE use and show excellent pulse-to-pulse and long-term stability even at high pulsing rates. The molecular beams were monitored during growth with a calibrated ionization gauge. The substrate temperature was measured with a thermocouple and calibrated by comparing the isothermal evaporation rates of Te and CdTe deposits with separately measured values obtained by quadrupole mass spectrometry. Before growth, the (100) GaAs substrates were chemically etched, loaded into the chamber, preheated to 580°C for 2 mm and cooled to the desired substrate temperature. Then Cd and Te were deposited in alternating reaction pulses of 0.8 s duration with 0.2 s dead times between them."
+}

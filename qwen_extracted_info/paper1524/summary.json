@@ -1,0 +1,11 @@
+{
+  "target_material": "Platinum (Pt)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Trimethyl)methylcyclopentadienylplatinum (IV) (MeCpPtMe3)",
+    "oxygen"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of platinum on SrTiO3 (001) substrates, focusing on the early stages of nucleation and growth. Platinum nanoparticles nucleate and coalesce into a continuous film after approximately 40 cycles. The process involves alternating exposures to MeCpPtMe3 and oxygen, with the growth dynamics influenced by surface reactivity and Pt diffusion. The study highlights the formation of either Pt nanoparticles or continuous Pt films depending on the ALD cycle count, with implications for catalysis and microelectronics.",
+  "evidence": "The early stages of nucleation and growth of atomic layer deposition (ALD) platinum on SrTiO3 (001) have been studied. Scanning electron microscopy reveals the ALD Pt deposits as discrete nanoparticles that grow and coalesce with increasing number of ALD cycles, ultimately resulting in a continuous film after ∼40 cycles. Atomic force microscopy shows the films to be fine-grained and highly conformal such that the 0.4 nm atomic steps of the underlying SrTiO3 (001) surface remain visible even after 80 Pt ALD cycles."
+}

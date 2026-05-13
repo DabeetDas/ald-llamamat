@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2–HfO2 nanolaminate",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["ZrCl4/HfCl4", "H2O"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the microstructural evolution of ZrO2–HfO2 nanolaminate structures grown by atomic layer deposition (ALD) with different stacking sequences and layer thicknesses. The microstructural characteristics of single-layer ZrO2 and HfO2 films were examined, and the effects of layer sequence on the final microstructure were analyzed using transmission electron microscopy (TEM) and atomic force microscopy (AFM). The results show that the microstructure and surface roughness of the nanolaminates are influenced by the starting layer material, with significant differences in grain size and surface roughness observed depending on the deposition sequence.",
+  "evidence": "Deposition of each film was performed at 300 °C using alternating surface-saturating reactions of ZrCl4/HfCl4 and H2O for ZrO2 and HfO2 depositions, respectively. The microstructural evolution of nanolaminates that had different starting layers (i.e., ZrO2 or HfO2) was studied by transmission electron microscopy (TEM) and atomic force microscopy (AFM). The effect of the microstructure of the starting layer material becomes increasingly important as the individual layer thicknesses increase."
+}

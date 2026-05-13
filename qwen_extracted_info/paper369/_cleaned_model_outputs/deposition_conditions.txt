@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "300",
+ "pressure": "200 Pa",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "flow-type",
+ "evidence": "The experiments were performed in a flow-type reactor [61using N2 as the carrier gas. The pressure and velocity of the carrier gas were equal to 200 Pa and 4 m/s, respectively, inside the reactor tube."
+}

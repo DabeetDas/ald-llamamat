@@ -1,0 +1,3 @@
+{
+  "film_properties": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": null,   \"density_g_cm3\": null,   \"refractive_index\": null,   \"surface_roughness_nm\": null,   \"crystal_phase\": \"Single crystalline\",   \"evidence\": \"The growth mechanism for the GeNWs involves the vapor-liquid-solid (VLS) process, as described previously. Shown in Figure 1 is '"
+}

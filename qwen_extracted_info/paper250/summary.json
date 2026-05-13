@@ -1,0 +1,11 @@
+{
+  "target_material": "Amorphous MoS2",
+  "process_type": "Pressure-tuned stop-flow atomic layer deposition (ALD)",
+  "main_precursors": [
+    "Mo(CO)6",
+    "C2H6S2"
+  ],
+  "temperature_range": "150 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit an amorphous MoS2 layer on a 3D carbon scaffold for use in Li–O2 batteries. The ALD process employs Mo(CO)6 and C2H6S2 as precursors, and the resulting cathode demonstrates enhanced energy efficiency and cycle life.",
+  "evidence": "An advanced pressure-tuned stop-flow atomic layer deposition (ALD) method is employed to deposit a ≈5 nm thick amorphous MoS2 layer on carbon nanotube forest-covered graphite foam. The precursors used are Mo(CO)6 and C2H6S2. The reaction chamber was held at 150 °C."
+}

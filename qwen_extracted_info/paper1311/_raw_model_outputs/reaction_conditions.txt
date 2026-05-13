@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the reaction of the iron bisamidinate (FeAMD) precursor with water, leading to the formation of iron oxide (FeOx) films. The reaction is self-limiting and occurs at temperatures below 200 °C. The mechanism is characterized by the exchange of ligands on the surface and the subsequent regeneration of surface hydroxyl groups through water pulses.",
+  "intermediate_species": ["amidinate ligand", "aqua and/or hydroxy groups"],
+  "evidence": "The text states: 'The trace in Figure 2 d indicates a deposition of approximately 71 ng/cm2 with the FeAMD (Δm1) pulse and loss of ∼42 ng/cm2 during water pulsing (Δm2). The observed 58% drop in mass upon exposure to water is in good agreement with that expected from the loss of the amidinate ligand in addition together with the acquisition of 2 or 3 aqua and/or hydroxy groups per iron center (53 −63% mass loss).'"
+}<|im_end|>

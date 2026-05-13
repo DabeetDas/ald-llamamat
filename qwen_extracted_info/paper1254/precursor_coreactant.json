@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Ti(OCH(CH3)2)4",
+    "Ti(N(CH3)2)4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The TiO2 thin films were grown by ALD in a Fiji 200 reactor from Veeco/Cambridge Nanotech using TTIP (titanium isopropoxide) or TDMAT (tetrakis(dimethylamino)titanium) as Ti precursors and ultrapure water as oxygen source. The TTIP and TDMAT canisters were heated at 80◦C while the water tank was left at room temperature."
+}

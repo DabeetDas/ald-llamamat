@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The self-limiting mechanism in ALE results from the thermal boundary layer being quite thin and the TMG molecule not decomposing until it is very near to, or on, the substrate surface. At this point, the TMG molecule may be partially or fully cracked or re-evaporate undissociated. The cracking efficiency of TMG on GaAs at 630°C can be quite high, resulting in a monolayer of Ga or perhaps some intermediate compound being deposited on the substrate. The cracking efficiency or condensation coefficient of subsequent TMG molecules on this initial layer may be small, allowing these molecules to re-evaporate before they have a chance to crack.",
+  "intermediate_species": ["TMG molecule", "monolayer of Ga", "intermediate compound"],
+  "evidence": "The cracking efficiency of TMG on GaAs at 630°C can be quite high, and this will result in a monolayer of Ga, or perhaps some intermediate compound, being deposited on the substrate. The cracking efficiency or condensation coefficient of subsequent TMG molecules on this initial layer may be small, allowing these molecules to re-evaporate before they have a chance to crack."
+}<|im_end|>

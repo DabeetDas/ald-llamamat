@@ -1,0 +1,5 @@
+{
+  "precursor_coreactant": "Parsed successfully, but extracted content is empty.",
+  "reaction_conditions": "Parsed successfully, but extracted content is empty.",
+  "characterization": "ValueError: Could not parse model output as JSON. Preview: '{   \"characterization_methods\": [     \"X-ray Photoelectron Spectroscopy (XPS)\",     \"Confocal laser scanning microscope\",     \"Dosimetry using silicon PIN x-ray photodiode\",     \"Crystal spectrometer with Beryl crystal\",     \"X-ray energy fluence measurements using ionization chamber\",     \"X-ray en'"
+}

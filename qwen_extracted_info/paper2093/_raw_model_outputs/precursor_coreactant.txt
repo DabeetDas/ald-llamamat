@@ -1,0 +1,7 @@
+{
+  "precursors": ["TEMAH"],
+  "coreactants": ["D2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The H-terminated silicon samples are immediately loaded in a nitrogen (oxygen impurity ≤10−5 ppm) purged reactor chamber for HfO2 deposition. Growth is performed by using alternative pulses of tetrakis-ethylmethylamino hafnium (TEMAH) and D2O for Hf and O deposition, respectively, in a home-built ALD reactor connected to an FTIR spectrometer. TEMAH (carried with ultrapure N2 gas) and heavy water (D2O) precursors are delivered alternatively to the ALD reactor through stainless steel tubing with VCR fittings. After each precursor exposure, the ALD chamber is purged and pumped for at least 5 min with ultrapure N2 gas to prevent cross contamination from residual precursors and gas phase products."
+}<|im_end|>

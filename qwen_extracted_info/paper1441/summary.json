@@ -1,0 +1,11 @@
+{
+  "target_material": "W/Al2O3 nanolaminates",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "WF6 and Si2H6 for W ALD",
+    "Al(CH3)3 and H2O for Al2O3 ALD"
+  ],
+  "temperature_range": "177 °C",
+  "summary": "The study describes the fabrication of W/Al2O3 nanolaminates using atomic layer deposition (ALD) techniques. The ALD of tungsten was performed using alternating exposures of WF6 and Si2H6, while the ALD of Al2O3 was performed using alternating exposures of Al(CH3)3 and H2O. The nucleation process during ALD was found to be critical for the formation of nanolaminates, with different nucleation behaviors observed for Al2O3 on W and W on Al2O3. The nanolaminates were characterized using various techniques, including transmission electron microscopy (TEM), secondary ion mass spectrometry (SIMS), and X-ray reflectivity (XRR). The results showed that the nanolaminates exhibited sharp interfaces when W ALD nucleated on Al2O3 and rougher interfaces when Al2O3 ALD nucleated on W. The thermal stability of the nanolaminates was also investigated, revealing that they may have potential applications as thermal barrier coatings and X-ray mirrors.",
+  "evidence": "The text describes the fabrication of W/Al2O3 nanolaminates using ALD techniques, with the ALD of tungsten performed using WF6 and Si2H6, and the ALD of Al2O3 using Al(CH3)3 and H2O. The study highlights the importance of nucleation during the ALD process and the different nucleation behaviors observed for Al2O3 on W and W on Al2O3. The nanolaminates were characterized using TEM, SIMS, and XRR, and the thermal stability was investigated, with the potential applications of the nanolaminates as thermal barrier coatings and X-ray mirrors discussed."
+}

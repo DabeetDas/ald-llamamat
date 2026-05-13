@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ga(N(CH3)2)3"],
+  "coreactants": ["NH3 plasma"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ALD process shows self-limiting behaviour between 130–250 1C with a growth rate of 1.4 Å per cycle. The GaN films produced were crystalline on Si (100) at all deposition temperatures with a near stochiometric Ga/N ratio with low carbon and oxygen impurities. When GaN was deposited on 4H-SiC, the films grew epitaxially without the need for an AlN buffer layer, which has never been reported before."
+}<|im_end|>

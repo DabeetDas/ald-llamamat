@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "WF6 + H2S → WS2 + 2HF + 4F",
+    "WSH* + WF6 → WSWFx* + HF",
+    "WFx* + H2S → WSHy* + HF"
+  ],
+  "surface_mechanism_description": "The ALD process for WS2 involves two half-reactions where WF6 and H2S sequentially react on the surface. The first half-reaction involves the surface hydroxyl groups (WSH*) reacting with WF6 to form surface species (WSWFX*) and HF. The second half-reaction involves the surface species (WFx*) reacting with H2S to form WSHy* and HF. The exact stoichiometry is undetermined due to the unknown identity of the surface species.",
+  "intermediate_species": [
+    "WSH*",
+    "WSWFX*",
+    "WFx*",
+    "WSHy*"
+  ],
+  "evidence": "We do not know the precise identity of the surface species present, so the stoichiometry of Eqs. (1) and (2) is undetermined. The exposure time was 2 s and the purge times were 5 and 25 s for WF6 and H2S, respectively."
+}

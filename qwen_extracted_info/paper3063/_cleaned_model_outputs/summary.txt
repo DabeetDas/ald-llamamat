@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "ozone (O3)"],
+  "temperature_range": "320°C to 460°C",
+  "summary": "The study investigates the effect of process pressure on the atomic layer deposition (ALD) of Al2O3 thin films using trimethylaluminum (TMA) and ozone (O3) as precursors. It explores how varying process pressure influences film growth rate, thickness uniformity, impurity content, and step coverage in high-aspect-ratio structures. The results show that increasing process pressure at lower temperatures can enhance film properties and growth rate, potentially reducing cycle time and improving throughput for semiconductor applications.",
+  "evidence": "The study investigates the effect of process pressure on the atomic layer deposition (ALD) of Al2O3 thin films using trimethylaluminum (TMA) and ozone (O3) as precursors. It explores how varying process pressure influences film growth rate, thickness uniformity, impurity content, and step coverage in high-aspect-ratio structures. The results show that increasing process pressure at lower temperatures can enhance film properties and growth rate, potentially reducing cycle time and improving throughput for semiconductor applications."
+}

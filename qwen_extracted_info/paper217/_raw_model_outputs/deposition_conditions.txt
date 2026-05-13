@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "260-290",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "16-25",
+  "number_of_cycles": "2-8",
+  "reactor_type": "ALE",
+  "evidence": "The amplitude of the intensity oscillations of the reconstruction streaks during the CdTe QWs growth remained without significant changes between the first and fifth UTQW of each sample, even in the case of the 8 cycles (nominal 4 ML) UTQWs. The critical thickness of CdSe/ZnSe grown by ALE is estimated to be 5 ML. The samples were excited with HeCd or Ar lasers in order to optimize the luminescence emission. The 1 ML nominal UTQWs present blue shifts of 0.74 and 0.92 eV in respect to the infrared band gaps of CdTe and CdSe, respectively. The 2 and 4 cycles CdSe QWs and the 4 cycles CdTe QW presented only one intense and well defined peak with very high intensity in the spectral range from above the energy gap of the QW material (Eg = 1.60 eV for CdTe, and 1.77 eV for CdSe at 15 K) to below the energy gap of the barrier material (Eg = 2.39 eV for ZnTe and 2.82 eV for ZnSe at 15 K)."
+}<|im_end|>

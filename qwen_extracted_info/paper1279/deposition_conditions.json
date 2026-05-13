@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400-600",
+  "pressure": "0.7×10-3 to 7.25 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The depositions were performed between 400 – 600 oC, at a range of reactor pressures between 0.01 and 10 mbar, corresponding to NH3 partial pressures between 0.7x10-3 and 7.25 mbar, respectively."
+}

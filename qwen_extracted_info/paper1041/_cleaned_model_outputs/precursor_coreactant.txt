@@ -1,0 +1,7 @@
+{
+  "precursors": ["TaF5", "Si2H6"],
+  "coreactants": [],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "A research-scale ALD reactor was constructed and equipped with computer-controlled precursor delivery. ... The vessel was heated between 353 and 363 K in an oil bath, and the delivery lines were heated higher (395 K). Pure TaF5 sublimation vapor was delivered to the chamber during the programmed TaF5 exposures. Since no carrier gas was used with the TaF5, diversion to the exhaust pump after the exposure was not necessary. A 4% Si2H6 in He mixture was used to deliver Si2H6."
+}

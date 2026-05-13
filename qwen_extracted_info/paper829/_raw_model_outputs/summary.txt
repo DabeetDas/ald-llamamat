@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2 and Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis-diethylamino hafnium", "tris-diethylamino aluminum"],
+  "temperature_range": "250 1C",
+  "summary": "The study investigates the effect of film thickness on the breakdown temperature of atomic layer deposited ultrathin HfO2 and Al2O3 diffusion barriers in copper metallization. The films are deposited using tetrakis-diethylamino hafnium and tris-diethylamino aluminum as metal precursors and ozone as the oxidizer at 250 1C. The results show that both 1 and 2 nm-thick HfO2 and Al2O3 barrier films are capable of restricting the diffusion of Cu at high annealing temperatures, making them effective diffusion barriers between Cu and Si.",
+  "evidence": "The HfO2 and Al2O3 films are deposited using tetrakis-diethylamino hafnium and tris-diethylamino aluminum, respectively, as the metal precursors and ozone as the oxidizer at 250 1C. Our results show that both 1 and 2 nm-thick HfO2 and Al2O3 barrier films are capable of restricting the diffusion of Cu at high annealing temperatures; therefore, they could be used as effective diffusion barriers between Cu and Si."
+}<|im_end|>

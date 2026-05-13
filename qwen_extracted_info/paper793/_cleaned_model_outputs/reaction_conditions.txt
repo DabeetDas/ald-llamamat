@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the sequential deposition of NiO using bis(ethylcyclopentadienyl)nickel (Ni(EtCp)2) and ozone (O3), and the deposition of Sb2S3 using tris(dimethylamido)antimony (Sb(NMe2)3) and hydrogen sulfide (H2S). The surface reactions are self-limiting and involve the formation of surface species such as Ni-OH* and Sb-OH* which are then reacted with the precursor gases.",
+  "intermediate_species": ["Ni-OH*", "Sb-OH*", "NiO", "Sb2S3"],
+  "evidence": "The ALD process involves the sequential deposition of NiO using bis(ethylcyclopentadienyl)nickel (Ni(EtCp)2) and ozone (O3), and the deposition of Sb2S3 using tris(dimethylamido)antimony (Sb(NMe2)3) and hydrogen sulfide (H2S). The surface reactions are self-limiting and involve the formation of surface species such as Ni-OH* and Sb-OH* which are then reacted with the precursor gases."
+}

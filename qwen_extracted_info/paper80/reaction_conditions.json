@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process follows ideal self-limiting growth behavior, where the surface reactions are saturated and self-limiting, allowing for layer-by-layer growth. The mechanism involves the use of bis(N,N’-di-tert-butylacetamidinato)iron(II) (Fe(amd)2) and H2S as reactants, with the growth behavior observed over a wide temperature range.",
+  "intermediate_species": [
+    "Fe(amd)2",
+    "H2S"
+  ],
+  "evidence": "The ALD process follows ideal self-limiting ALD growth behavior to produce fairly pure, smooth, and well-crystallized FeSx films. The process employed bis(N,N’-di-tert-butylacetamidinato)iron(II) (Fe(amd)2) and H2S as the reactants, and followed ideal self-limiting ALD growth behavior over a wide temperature range."
+}

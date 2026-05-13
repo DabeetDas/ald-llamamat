@@ -1,0 +1,6 @@
+{
+  "reaction_equations": ["TDMA T + NH3 -> TiN + byproducts"],
+  "surface_mechanism_description": "The transamination reaction between chemisorbed TDMA T on the substrate and NH3 forms TiN, with subsequent purging steps removing reaction products. Plasma treatment aids in reducing carbon impurities by removing dimethylamino species.",
+  "intermediate_species": ["chemisorbed TDMA T", "dimethylamino species"],
+  "evidence": "When NH3 was pulsed into the reactor, TiN was formed via the well-known transamination reaction with chemisorbed TDMA T on the substrate and purged with Ar–H2 for 15 s. One of the reasons for the decrease [in carbon impurities] is thought to be that Ar–NH3–H2 radicals help to remove the dimethylamino species remaining in the TiN film."
+}<|im_end|>

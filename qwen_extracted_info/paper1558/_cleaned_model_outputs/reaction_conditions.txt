@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Si-OH + TiCl4 -> Si-O-TiCl3 + HCl (monofunctional)",
+    "Si-OH + TiCl4 -> Si-O-TiCl3 + HCl (bifunctional)"
+  ],
+  "surface_mechanism_description": "TiCl4 reacts with the OH groups of silica either monofunctionally or bifunctionally depending on the preheat temperature of silica. A bifunctional reaction occurs with strongly H-bonded OH groups, verified by using HMDS to prevent TiCl4 from reacting with isolated OH groups. The reaction mechanism was elucidated by the Cl/Ti ratio, which showed a constant value of 2, indicating a bifunctional reaction at higher temperatures due to agglomeration into TiO2.",
+  "intermediate_species": [
+    "Ti-OH",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The reaction mechanism was elucidated by the Cl/Ti ratio, which showed a constant value of 2, indicating a bifunctional reaction at higher temperatures due to agglomeration into TiO2. The reaction of TiCl4 with the OH groups of silica was confirmed by determining the number of OH groups of silica before and after the reaction by IH MAS NMR. The bifunctional reaction took place with strongly H-bonded OH groups and was confirmed by using hexamethyldisilazane (HMDS) to prevent TiCl4 from reacting with the isolated OH groups."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ce(iPrCp)2(N-iPr-amd)"],
+  "coreactants": ["Water"],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Nitrogen"],
+  "evidence": "Ultrahigh purity nitrogen was used both as a carrier gas to transfer precursor into the reaction zone and as a purging gas to remove reaction byproducts and excess gases from the reactor."
+}

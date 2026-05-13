@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 94,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.451,
+  "crystal_phase": "trigonal Ni3S2 and orthorhombic Ni3S2",
+  "evidence": "The thickness obtained from this figure is 94 nm, which is in agreement with the calculated thickness based on the steady-state growth rate of ca. 3.7 Å/cycle obtained by ellipsometry. The diffraction peaks at 31.2°, 49.8°, 50.3°, and 55.3° can be indexed to the (1 10), (1 13), (21 1) and (122) planes of trigonal Ni3S2 (JCPDS 00-044-1418). Also, the diffraction peaks at 33.1, 61.7 , and 66.0 correspond to the (040), (220), and (202) planes of orthorhombic Ni3S2 (JCPDS 01-080-3654)."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of precursor molecules and water vapor, leading to the formation of surface species that undergo reactions to form TiO2. The process includes the adsorption of precursor molecules, followed by a water pulse to regenerate OH sites, and the subsequent formation of Ti-O bonds. The exact mechanism involves the ligand exchange between the precursor and surface hydroxyl groups, followed by a water pulse to regenerate the OH sites.",
+  "intermediate_species": ["surface hydroxyls", "chemisorbed precursor species", "hydroxylic groups"],
+  "evidence": "The surface reactions are described as involving the adsorption of precursor molecules and water vapor, leading to the formation of surface species that undergo reactions to form TiO2. The process includes the adsorption of precursor molecules, followed by a water pulse to regenerate OH sites, and the subsequent formation of Ti-O bonds. The exact mechanism involves the ligand exchange between the precursor and surface hydroxyl groups, followed by a water pulse to regenerate the OH sites."
+}<|im_end|>

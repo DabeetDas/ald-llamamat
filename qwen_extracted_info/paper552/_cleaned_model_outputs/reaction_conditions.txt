@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "TiCl4 reacts with surface hydroxyls (Si-OH) to form a bidentate Ti species ((–O–)–Ti–Cl2), which leads to continuous layer formation. The presence of H-bonded hydroxyls increases the reactivity and surface coverage, resulting in a continuous layer. In contrast, on a HF-cleaned surface, the majority of hydride species are not reactive towards TiCl4, and film growth initiates via reaction with the minority hydroxyl surface species, leading to island-like growth.",
+  "intermediate_species": ["Si–OH", "O–Si–H", "Si–Si–H", "–O–Ti–Cl", "–O–Ti–Cl2"],
+  "evidence": "The text discusses the reaction of TiCl4 with surface hydroxyls (Si-OH) to form a bidentate Ti species ((–O–)–Ti–Cl2), which leads to continuous layer formation. It also mentions the presence of H-bonded hydroxyls and hydride species (Si–Si–H and O–Si–H) on the surface, as well as the formation of isolated Si–OH groups and the interaction of TiCl4 with these species. The text further explains that the presence of H-bonded hydroxyls increases the reactivity and surface coverage, resulting in a continuous layer, while the HF-cleaned surface, with its hydride species, leads to island-like growth due to the limited reactivity of hydrides with TiCl4."
+}

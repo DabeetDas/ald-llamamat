@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface passivation mechanism involves the incorporation of Mg ions into AlOx thin films through super-cycle PE-ALD, which enhances interface properties (i.e., enhanced Qeff and Dit) by Mg ion doping into AlOx, leading to improved passivation quality on p-type silicon.",
+  "intermediate_species": [
+    "MgOx",
+    "AlOx",
+    "surface hydroxyls"
+  ],
+  "evidence": "The surface passivation mechanism involves the incorporation of Mg ions into AlOx thin films through super-cycle PE-ALD, which enhances interface properties (i.e., enhanced Qeff and Dit) by Mg ion doping into AlOx, leading to improved passivation quality on p-type silicon."
+}

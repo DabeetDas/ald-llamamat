@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Scanning electron microscopy (SEM)",
+    "Atomic force microscopy (AFM)",
+    "High-resolution transmission electron microscopy (TEM)",
+    "Auger electron spectroscopy (AES)",
+    "X-ray diffraction (XRD)",
+    "Capacitance–voltage measurement",
+    "Leakage current density–voltage measurement",
+    "Electron spin resonance (ESR) or related techniques (implied by 'interface trap density')"
+  ],
+  "evidence": "The morphology and surface roughness of the films were investigated by scanning electron microscopy (SEM) and atomic force microscopy (AFM), respectively. The thicknesses of the nanomixed films and interfacial layers were identified by high-resolution transmission electron microscopy (TEM). The composition of the films was investigated by auger electron spectroscopy (AES). XRD patterns of TiO2, Ga2O3, and Ga2O3–TiO2 nanomixed films grown on Si substrates as a function of an annealing temperature were investigated. Capacitance–voltage and leakage current density–voltage measurements on 100 μm2 capacitors were performed using an HP4194A impedance/gain-phase analyzer and a Kethley 617 programmable electrometer, respectively. Interface trap density of the films was measured by a high-frequency method developed by Terman."
+}

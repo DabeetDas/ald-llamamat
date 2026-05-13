@@ -1,0 +1,7 @@
+{
+  "precursors": ["Si2Cl6", "NH3"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "Si2Cl6 (99.99%, UP Chemical Co., Korea) and NH3 (99.9999%) was used as precursors, and Ar (99.9999%) was used as a purging gas between the pulses of precursors."
+}

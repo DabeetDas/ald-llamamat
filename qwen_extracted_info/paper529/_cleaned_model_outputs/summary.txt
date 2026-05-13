@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["SiCl4", "H2O", "NH3"],
+  "temperature_range": "300–338 K",
+  "summary": "The study describes the atomic layer deposition (ALD) of SiO2 at room temperature using NH3-catalyzed sequential surface reactions. The process involves splitting the reaction SiCl4 + 2H2O into two half-reactions, SiCl4 and H2O, which are alternately applied in an ABAB sequence. The NH3 catalyst significantly lowers the deposition temperature from >600 K to 300 K and reduces the required reactant fluxes. The maximum SiO2 growth rate of 2.16 Å per AB cycle was achieved at 303 K. The deposited films showed smooth surface topography with low roughness, comparable to the starting Si(100) substrate.",
+  "evidence": "Ultrathin SiO2 films were deposited at 300–338 K with atomic layer control using NH3-catalyzed sequential surface reactions. The SiO2 deposition was achieved by splitting the reaction SiCl4+2H2O/DLE SiO2+4HCl into two separate SiCl4 and H2O half-reactions. Successive application of the half-reactions in an ABAB sequence produced atomic layer controlled SiO2 growth. The NH3 catalyst dramatically lowered the necessary deposition temperature from >600 to 300 K and reduced the required reactant fluxes from ~109 to ~105 L. The ellipsometric measurements obtained a maximum SiO2 growth rate of 2.16 Å per AB reaction cycle at 303 K. Atomic force microscopy images of the deposited surface topography indicated smooth SiO2 films with a roughness similar to the starting Si(100) substrate."
+}

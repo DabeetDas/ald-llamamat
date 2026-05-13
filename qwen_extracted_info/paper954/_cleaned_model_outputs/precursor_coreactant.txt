@@ -1,0 +1,7 @@
+{
+  "precursors": ["Tin(IV)-butoxide"],
+  "coreactants": ["O /C0 ions created by remote RF plasma generator"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "Plasma-enhanced atomic layer deposition of SnO 2 was done in Cambridge Fiji F200 ALD system, using Tin(IV)-butoxide (Strem Chemicals Inc. USA) as the tin precursor and O /C0 ions created by remote RF plasma generator as the oxygen precursor . The tin precursor was kept at 90 1C to achieve sufficient vapor pressure for pulsing. The deposition was carried out at 200 1C. In order to ensure that the deposition is not in chemical vapor deposition (CVD) mode, each argon (Ar) purging duration was kept sufficiently long, with each cycle consisting of Sn pulse (0.04 s)–Ar purge (10 s)–Oxygen plasma (20 s)–Ar purge (10 s)."
+}

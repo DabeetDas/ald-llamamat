@@ -1,0 +1,11 @@
+{
+  "target_material": "copper nitride",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "bis(1-dimethylamino-2-methyl-2-butoxy)copper(II)",
+    "NH3"
+  ],
+  "temperature_range": "100–140 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of copper nitride films using bis(1-dimethylamino-2-methyl-2-butoxy)copper(II) and NH3 at 100–140 °C. The films were then reduced to metallic copper by annealing at 200 °C or higher. The ALD copper nitride films showed a growth rate of 0.1 nm/cycle and exhibited smooth surfaces and excellent step coverage. The reduced copper films had lower resistivity and smoother surfaces compared to those deposited using alternating exposures to the copper precursor and H2.",
+  "evidence": "The ALD copper nitride ﬁlm was prepared at 100–140 °C using bis(1-dimethylamino-2-methyl-2-butoxy)copper(II) and NH3, and reduced to metallic copper ﬁlm by annealing at 200 °C or higher temperatures. The growth rate of ALD copper nitride was 0.1 nm/cycle at 120–140 °C on both ruthenium and silicon oxide substrates, and the thickness of ﬁlm was reduced approximately 20% by annealing. The resistivity of the 4.2 nm-thick copper ﬁlm was 30 μΩ·cm. Both the ALD copper nitride and the reduced copper ﬁlms exhibited extremely smooth surface and excellent step coverage, whereas the copper ﬁlm deposited using alternating exposures to the copper precursor and H2 showed a rough surface."
+}

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "bis(2,2,6,6-tetramethyl-3,5-heptanedionato)lead(II) (Pb(tmhd)2)",
+    "3.5% H2SiN2"
+  ],
+  "coreactants": [
+    "DI water"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "argon"
+  ],
+  "evidence": "PbS was deposited using bis(2,2,6,6-tetramethyl-3,5-heptanedionato)lead(II) (Pb(tmhd)2) and 3.5% H2SiN2 as precursors. Al2O3 was deposited using trimethylaluminum (Aldrich) and DI water, and ZnO using diethylzinc (Aldrich) and DI water. Depositions were performed in a customized flow-type ALD reactor with argon carrier gas at 10 sccm."
+}

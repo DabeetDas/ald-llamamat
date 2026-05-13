@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "Raman spectroscopy",
+    "High-resolution transmission electron microscopy (HRTEM)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Atomic force microscopy (AFM)",
+    "Optical microscopy"
+  ],
+  "evidence": "The uniformity achieved by the SLS process was assessed by synthesizing three layers of WSe2 onto 2×8 cm2 SiO2 substrates; the substrate size being limited in this instance by the diameter (∼3 cm) and length (10 cm hot zone) of the tube furnace used. To assess the cm-scale uniformity, Raman spectra (HORIBA, Lab Ram ARAMIS; 532 nm laser excitation wavelength) were obtained from eight different positions along the length of the sample. The crystallinity and atomic arrangement of the WSe2 were also evaluated through high-resolution TEM (HRTEM) analysis (FEI Titan G2 Cube 60-300, accelerating voltage=80 kV). Optical microscopy (Nikon ECLIPSE LV100ND ), x-ray photoelectron spectroscopy (XPS: Thermo U.K., K-alpha radiation ) and a voltage/current meter (Keithley 4200, Keithley Instruments) were also used in characterizing the WSe2 produced by SLS."
+}

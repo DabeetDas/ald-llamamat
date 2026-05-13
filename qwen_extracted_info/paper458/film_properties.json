@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": null,
+  "density_g_cm3": null,
+  "refractive_index": "The refractive indices of the synthesized layers were in the range of 1.8 to 1.9",
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The refractive indices of the synthesized layers were in the range of 1.8 to 1.9, which is in between the values corresponding to Al2O3 and Cr2O3. The specific conductivity of the layers was on the order of 10-10^10 0. cm and the threshold voltage was about 1.0 MV cm-1. That value is much higher than for Cr2O3 but a little bit lower then for Al2O3. The density of the surface states for the silicon-superalloy interface was about 10^10 cm^-1. The etching rate of these superalloys in liquid HF was 2-3 orders of magnitude lower than for Al2O3. This property may possibly be useful in lithographic applications."
+}

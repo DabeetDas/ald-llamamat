@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2",
+  "process_type": "Non-aqueous ALD",
+  "main_precursors": ["tin(IV) tert-butoxide", "acetic acid"],
+  "temperature_range": "75 °C to 250 °C",
+  "summary": "A non-aqueous atomic layer deposition (ALD) process for the deposition of nanocrystalline tin dioxide (SnO2) films at low and moderate temperatures is reported. The process uses tin(IV) tert-butoxide and acetic acid as precursors. The ALD-coated tubes are investigated as active components in gas-sensor devices. The study demonstrates that the use of a tin(IV) alkoxide and a carboxylic acid as the metal and oxygen source is highly suitable for the deposition of SnO2 films at temperatures as low as 75 °C onto various substrates. The deposited SnO2 films show a granular-like structure composed of nanocrystals and are used for gas sensing applications, particularly for oxygen and nitrogen dioxide (NO2) detection.",
+  "evidence": "A new atomic layer deposition (ALD) process for nanocrystalline tin dioxide films is developed and applied for the coating of nanostructured materials. This approach, which is adapted from non-hydrolytic sol-gel chemistry, permits the deposition of SnO2 at temperatures as low as 75 °C. It allows the coating of the inner and outer surface of multiwalled carbon nanotubes with a highly conformal film of controllable thickness. The ALD-coated tubes are investigated as active components in gas-sensor devices. Due to the formation of a p-n heterojunction between the highly conductive support and the SnO2 thin film an enhancement of the gas sensing response is observed."
+}<|im_end|>

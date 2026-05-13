@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["[Ti(OCH(CH3)2)4]", "water"],
+  "temperature_range": "150 °C",
+  "summary": "The paper describes the use of light-stamping lithography (LSL) to create PDMS patterns on various substrates, which are then used as templates for the selective deposition of TiO2 thin films via atomic layer deposition (ALD). The ALD process uses Ti(OCH(CH3)2)4 and water as precursors at 150 °C. The PDMS patterns act as resists for selective wet etching of TiO2 films.",
+  "evidence": "The TiO2 thin films were deposited onto the Si substrates with PDMS patterns by atomic layer deposition using [Ti(OPr i)4] and water as ALD precursors. The TiO2 thin films were grown at 150 °C under 2 Torr. The Ti(OCH(CH3)2)4 and water were evaporated at 80 and 20 °C, respectively."
+}

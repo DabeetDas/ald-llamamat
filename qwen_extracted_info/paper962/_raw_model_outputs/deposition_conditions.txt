@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.5",
+  "coreactant_pulse_time_s": "8",
+  "purge_time_s": "8",
+  "number_of_cycles": "5",
+  "reactor_type": "room temperature",
+  "evidence": "Each ALD cycle of metal precursor pulsing/purging/H 2O pulsing/purging was composed of 2s/3s/3s/3s for Ta 2O5 and TiO 2 deposition, and 0.5s/8s/2s/8s for Al 2O3 deposition, respectively."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 140,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 500,
+  "reactor_type": "ALD",
+  "evidence": "The TTIP was carried by an inert Ar gas stream. One deposition cycle of TiO2 consisted of four steps: (i) deposition of the TTIP precursor, (ii) a purge pulse of Ar, (iii) an injection of reactive NH3 gas and (iv) another purge pulse of Ar. The flow rates were 50 sccm for the Ar purge and 25 sccm for the NH3 purge. During the deposition, 100 sccm of Ar gas was continuously supplied into the reactor as a carrier gas."
+}<|im_end|>

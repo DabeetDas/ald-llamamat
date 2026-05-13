@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [
+    "𝑥( ― OH) + Be(C2H5)2 → O𝑥 ― Be(C2H5)2 ― 𝑥 + 𝑥C2H6",
+    "O𝑥 ― Be(C2H5)2 ― 𝑥 + H2O → O ― Be ― (OH) + (2 ― 𝑥)C2H6",
+    "(net)Be(C2H5)2 + H2O → BeO + 2C2H6"
+  ],
+  "surface_mechanism_description": "The ALD BeO film growth mechanism involves alternating surface hydroxyl (-OH) and ethyl termination. The first step is the chemisorption of DEB molecules by the active site (-OH) of the surface. The next step involves ligand (C2H5) exchange attributed to the high reactivity of both DEB and OH groups. The subsequent step corresponds to the purge of remaining DEB and reaction products and ethane (C2H6) from the ALD chamber. During the next step, H2O is injected into the reaction chamber, and the oxidation process subsequently proceeds. The final step involves purging the remaining oxidant and ethane gas from the reaction chamber.",
+  "intermediate_species": ["O𝑥 ― Be(C2H5)2 ― 𝑥", "O ― Be ― (OH)", "C2H6"],
+  "evidence": "The reaction mechanism and process conditions of ALD BeO are described in the text. The reaction equations and surface mechanism are detailed in the section '3. RESULTS AND DISCUSSION', specifically in the paragraph starting with 'A simplified first-order approximation of the reaction mechanism of ALD BeO occurs by alternating surface hydroxyl (-OH) and ethyl termination, and this is expressed as follows:'"
+}

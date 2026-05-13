@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "8–12 hPa",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 6,
+  "number_of_cycles": 1200,
+  "reactor_type": "Picosun R-150",
+  "evidence": "The deposition of Li-Ni-O and Li-Sn-O films was conducted by ALD method with the use of Picosun R-150 setup at 300 /C176C and at a base pressure in the reactor of 8–12 hPa. Lithium hexamethyldisilazide (LiHMDS, 97%, Sigma Aldrich), bis (cyclopentadienyl)nickel (II) (NiCp2, 99% Sigma-Aldrich), tetraethyl tin (TET, 99.999%, ELMOS Co., LTD, Russia) were used as metal-containing reagents. Remote oxygen plasma applied as a counter-reactant. To deposit Li-Me-O (there Me is Ni or Sn) every supercycle consist of 1–3 cycles (nA) of Me-O deposition followed by one cycle of Li-O deposition. The conditions of Li-O, Me-O deposition given in Table 1 and were selected considering results reported elsewhere."
+}

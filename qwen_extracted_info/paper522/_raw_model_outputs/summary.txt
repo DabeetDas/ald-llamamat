@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2/SiO2",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["HfCl4", "H2O"],
+  "temperature_range": "350 /C176C",
+  "summary": "The study investigates the HfO2/SiO2 gate oxide stacks prepared by atomic layer deposition (ALD) and their interfacial layer characteristics. The interfacial layer is composed of a SiOx layer underneath a Si-rich Hf-silicate layer. Annealing at 800 /C176C under nitrogen leads to a decrease in the interfacial layer electrical thickness and an improvement in the equivalent oxide thickness (EOT) of the stack. The study also highlights the role of –OH groups in the interfacial layer regrowth and the effect of shorter water pulse times on reducing SiOx regrowth.",
+  "evidence": "Hafnium oxide thin films were grown by ALD on low doped p-type 200 mm Si (1 0 0) substrates at 350 /C176C using HfCl4/H2O as pre-cursors. The interfacial layer electrical thickness extrapolated from these curves vary from 0.67 nm for as-deposited samples, 0.91 for 600 /C176C annealed stacks and up to 1.5 nm for 800 /C176C annealed layers. Using shorter water pulse time, we were able to limit the SiOx growth during deposition. After annealing at 800 /C176C under nitrogen, a decreasing of the interfacial layer electrical thickness as well as an improvement of the equivalent oxide thickness of the stack was observed."
+}<|im_end|>

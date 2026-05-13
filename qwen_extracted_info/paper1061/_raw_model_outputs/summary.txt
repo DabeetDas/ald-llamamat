@@ -1,0 +1,8 @@
+{
+  "target_material": "Palladium",
+  "process_type": "ALD",
+  "main_precursors": ["Pd(II) hexafluoroacetylacetonate (Pd(hfac)2)", "formalin"],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of palladium (Pd) films on Al2O3 surfaces using sequential exposures of Pd(hfac)2 and formalin. The process enables efficient nucleation of Pd on Al2O3, with a growth rate of 0.2 Å/cycle following a nucleation period. The deposited films are cubic Pd with a roughness of 4.2 nm and a resistivity of 11 μΩ cm at 42 nm thickness. The method allows conformal Pd deposition on mesoporous anodic alumina (AAO) membranes with high aspect ratios, showing promise for hydrogen sensors.",
+  "evidence": "We examined the atomic layer deposition (ALD) of Pd films using sequential exposures of Pd(II) hexafluoroacetylacetonate (Pd(hfac)2) and formalin and discovered that formalin enables the efficient nucleation of Pd ALD on Al2O3. ... The Pd ALD growth rate was measured at 0.2 Å/cycle following a nucleation period of slower growth. The deposited films are cubic Pd with a roughness of 4.2 nm and a resistivity of 11 μΩ cm at 42 nm thickness. Using this method, Pd deposits conformally on the inside of mesoporous anodic alumina membranes with aspect ratio ∼1500 yielding promising hydrogen sensors."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "CuGaS2",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "metal chlorides",
+    "H2S"
+  ],
+  "temperature_range": "atmospheric pressure",
+  "summary": "The study describes the vapor-phase atomic layer epitaxy of CuGaS2 at atmospheric pressure using metal chlorides and H2S.",
+  "evidence": "Vapor-Phase Atomic Layer Epitaxy of CuGaS2 at Atmospheric Pressure Using Metal Chlorides and H2S"
+}

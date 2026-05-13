@@ -1,0 +1,7 @@
+{
+  "substrate_material": "Si",
+  "substrate_orientation": "p-type (100), 4° off toward [001] direction",
+  "pretreatment": "H2O:H2O2:NH4OH5100:20:1, followed by a dilute HF (0.5 wt.% in H2O) dipping and a final de-ionized water rinsing for 1 min",
+  "surface_functionalization": "hydrogen terminated",
+  "evidence": "The Si substrate (p-type (100), 4° off toward [001] direction, resistivity: 10 V cm) was quickly set in the loadlock chamber of the remote-plasma chemical vapor deposition (CVD) apparatus after cleaning by a solution composed of H2O:H2O2:NH4OH5100:20:1, followed by a dilute HF (0.5 wt.% in H2O) dipping and a final de-ionized water rinsing for 1 min. By this treatment the hydrogen terminated Si surface is obtained."
+}

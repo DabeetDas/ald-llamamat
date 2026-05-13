@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO-TiO2 core-shell nanorod/P3HT",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["TiCl4", "water"],
+  "temperature_range": "300 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to coat ZnO nanorod arrays with a thin shell of TiO2, significantly improving the performance of P3HT-based solar cells. The TiO2 shell enhances the voltage and fill factor, leading to higher efficiency. The process involves ALD using TiCl4 and water at 300 °C. The study highlights the importance of air exposure for achieving reproducible efficiencies.",
+  "evidence": "TiO2 shells were grown on the arrays in a homemade traveling-wave ALD system using TiCl4 (99.999%, Alfa) and water at 300 °C with a process pressure of 300 -500 mTorr, yielding an average growth rate of 0.9 Å per cycle."
+}

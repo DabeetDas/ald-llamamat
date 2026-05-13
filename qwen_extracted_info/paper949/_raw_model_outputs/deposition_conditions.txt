@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80-300",
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 15,
+  "number_of_cycles": 50,
+  "reactor_type": "multi-channel AVD system",
+  "evidence": "The precursors were alternately injected with pulse times of 1, 2, and 4 s, and purge times of 5, 10, 15, and 20 s. The films were deposited over a temperature range of 80 – 300 °C at a working pressure of 3 Torr."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200 /C176 C",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "300",
+  "coreactant_pulse_time_s": "150",
+  "purge_time_s": "150",
+  "number_of_cycles": "4",
+  "reactor_type": "viscous flow reactor",
+  "evidence": "The ALD reactor temperature was 200 /C176 C. Reactants were introduced into the reactor using continuously flowing ultrahigh purity (99.999%) nitrogen as the carrier gas at a flow rate of 360 sccm and a pressure of 1 Torr. Each ALD cycle consisted of (a) 300 s exposure to Fe(thd)3, (b) 150 s purge, (c) 150 s ozone exposure, and (d) 150 s purge."
+}

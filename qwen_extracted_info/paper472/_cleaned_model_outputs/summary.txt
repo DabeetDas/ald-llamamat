@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnSxSe1~x",
+  "process_type": "Atomic layer epitaxy (ALE)",
+  "main_precursors": ["dimethylzinc (DMZn)", "hydrogen sulfide (H2S)", "hydrogen selenide (H2Se)"],
+  "temperature_range": "150°C",
+  "summary": "The study describes the atomic layer epitaxy (ALE) growth of ZnSxSe1~x epitaxial layers on Si substrates. The material with a sulfur content of approximately 93% (ZnS0.93Se0.07) showed the best lattice match to the Si substrate, resulting in high crystalline quality, low defect density, and excellent electrical properties. The process used DMZn, H2S, and H2Se as precursors at a growth temperature of 150°C. The ALE technique enabled precise control of layer thickness and uniform growth, leading to improved optical and electrical characteristics.",
+  "evidence": "The text states: 'undoped ZnSxSe1~x films were grown on (1 00)-Si substrates with dimethylzinc (DMZn), hydrogen sulfide (H2S) and hydrogen selenide (H2Se) source gases... ALE technique at a growth temperature of 150°C... The lattice of a ZnSxSe1~x layer with a sulfur content estimated to be about 93% is found to have the best match to the Si substrate... High crystalline quality of the lattice-matched layers is evident from the narrow widths of their X-ray di!raction lines, photoluminescence and good electrical characteristics.'"
+}

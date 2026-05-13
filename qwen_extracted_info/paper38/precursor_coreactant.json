@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Zn(C2H5)2",
+    "deionized water"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "We exploited the internal mesopore structures in ethanol-treated PS-b-P2VP nanorods derived from confinement-induced nanoscopic domain structures as templates for low-temperature ZnO ALD at 60 8C using Zn(C2H5)2 and deionized water as precursors, thus adapting a process previously applied to inorganic substrates."
+}

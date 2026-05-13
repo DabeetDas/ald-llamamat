@@ -1,0 +1,29 @@
+{
+  "precursors": [
+    {
+      "name": "M(amd)2",
+      "abbreviation": "M(amd)2",
+      "evidence": "Bis(N,N′-di-tert-butylacetamidinato)M(II) (M = Fe, Co, Ni) (i.e., M(amd) 2) was used as the corresponding metal precursor."
+    },
+    {
+      "name": "DEDSe",
+      "abbreviation": "DEDSe",
+      "evidence": "diethyldiselenide (DEDSe) was used as the selenium precursor."
+    }
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    {
+      "name": "Ar",
+      "evidence": "Puriﬁed Ar gas (70 sccm) was used as the purge gas, and 30 s of Ar purging was found to be suﬃcient to completely remove the byproducts and excess precursors."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "Ar/H2 mixture",
+      "abbreviation": "Ar/H2 (95%:5%)",
+      "evidence": "The selenium precursor, DEDSe, was heated to 51 °C (1.9 Torr in vapor pressure), and its vapor was ﬁrst delivered into a ca. 5 mL gas trap and then pulsed into the deposition chamber with the use of 30 sccm puriﬁed Ar/H2 (95%:5%) mixture gas as the carrier gas."
+    }
+  ],
+  "evidence": "Bis(N,N′-di-tert-butylacetamidinato)M(II) (M = Fe, Co, Ni) (i.e., M(amd) 2) was used as the corresponding metal precursor. diethyldiselenide (DEDSe) was used as the selenium precursor. Puriﬁed Ar gas (70 sccm) was used as the purge gas. The selenium precursor, DEDSe, was heated to 51 °C (1.9 Torr in vapor pressure), and its vapor was ﬁrst delivered into a ca. 5 mL gas trap and then pulsed into the deposition chamber with the use of 30 sccm puriﬁed Ar/H2 (95%:5%) mixture gas as the carrier gas."
+}

@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray Fluorescence Spectroscopy (XRF)",
+    "X-ray Reflectance (XRR)",
+    "Grazing Incidence X-ray Diffraction (GIXRD)",
+    "μ-Raman Spectroscopy",
+    "Atomic Force Microscopy (AFM)",
+    "Scanning Electron Microscopy (SEM)",
+    "X-ray Photoelectron Spectroscopy (XPS)"
+  ],
+  "evidence": "The Ti mass layer density was determined by X-ray fluorescence spectroscopy (XRF) on a Rigaku ZSX100e tool applying the fundamental parameter analysis method. An X ’ Pert MRD system from Pananalytical was used to measure thickness and structural properties by means of X-ray reflectance (XRR) and grazing incidence X-ray diffraction (GIXRD). Additional structural information was obtained from μ-Raman spectroscopy using a Renishaw inVia Raman Microscope. The surface morphology was characterized by atomic force microscopy (AFM). The residual carbon and nitrogen contents within the grown TiO2 thin films were analyzed by X-ray photoelectron spectroscopy (XPS) after the removal of the adsorbed surface species by Ar+ ion bombardment for 15 s at 4 keV using an XPS 5600 instrument from Physical Electronics. To verify the evidence of ALD growth for the TiO2 layers obtained from the two different processes, conformal deposition into pinhole test structures was analyzed by means of a scanning electron microscope (SEM), Hitachi SU-8000, on cross sections of broken wafers."
+}

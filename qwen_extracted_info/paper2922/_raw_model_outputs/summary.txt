@@ -1,0 +1,8 @@
+{
+  "target_material": "Titanium nitride (TiN)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["titanium tetrachloride (TiCl4)", "titanium tetraiodide (TiI4)", "tert-butylamine (tBuNH2)", "allylamine (allylNH2)"],
+  "temperature_range": "400 to 500°C",
+  "summary": "Titanium nitride thin films were deposited using titanium tetrachloride and titanium tetraiodide as metal sources, and tert-butylamine or allylamine as reductive nitrogen sources. The study aimed to explore the potential of amines as nitrogen sources for low-temperature ALD of TiN, with a focus on achieving low impurity content and resistivity while maintaining good film quality.",
+  "evidence": "Titanium nitride films were deposited by the atomic layer deposition within a temperature range of 400 to 500°C from titanium tetrachloride and titanium tetraiodide using tert-butylamine or allylamine as a reductive nitrogen source with and without ammonia. The aim of the present study was to explore the potential of amines as reductive nitrogen sources in the low temperature ALD of TiN."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu and Cu3N",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["[Cu(sBu-Me-amd)]2", "H2/NH3"],
+  "temperature_range": "185-190 °C",
+  "summary": "The study investigates the ALD of Cu and Cu3N on the inner surfaces of low-density silica aerogel monoliths with ultrahigh aspect ratios. It highlights the challenges of uniform coating due to precursor interactions with pore walls and the influence of surface chemistry. The results show that the penetration depth is limited not only by Knudsen diffusion but also by other processes such as precursor and reaction product interactions with pore walls.",
+  "evidence": "Results show that Cu depth profiles in nanoporous monoliths are limited not only by Knudsen diffusion of heavier precursor molecules into the pores, as currently believed, but also by other processes such as the interaction of precursor and reaction product molecules with pore walls. Similar behavior has also been observed for Fe, Ru, and Pt ALD on aerogels."
+}<|im_end|>

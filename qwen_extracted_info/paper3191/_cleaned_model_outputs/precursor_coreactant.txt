@@ -1,0 +1,7 @@
+{
+  "precursors": ["diethylzinc (DEZ)", "H2O", "NH3"],
+  "coreactants": ["H2O", "NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The 60 nm thick ZnO:N thin film was grown by atomic layer deposition (ALD) on ITO-coated plastic film with a root-mean-square roughness at less than 100°C, which is marginal for PET substrate, under 2 Torr using diethylzinc (DEZ, 52.0 wt %, Aldrich), H2O, and ammonia (NH3, 99.999%) gas as ALD precursors. Argon (Ar) gas served as a carrier and purging gas at a rate of 50 sccm."
+}

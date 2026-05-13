@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "ZrCl4"
+  ],
+  "coreactants": [
+    "D2O"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "ZrCl4 (Strem, 99.95 1%) was held inside the reactor in an open boat at 165 uC and the pulsing was accomplished with inert gas valving.29 ZrCl4 is moisture sensitive and therefore the precursor boat was loaded in a glove box and exposed to air only for a couple of seconds before inserting it into the reactor. D2O (Euriso-top, 99.9% D) was held outside the reactor in a glass bottle at room temperature (20–22 uC), the flow rate was controlled by a needle valve and the pulsing was accomplished using a solenoid valve. Nitrogen (99.999%) was used as a purging and carrier gas."
+}

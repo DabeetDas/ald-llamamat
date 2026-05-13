@@ -1,0 +1,8 @@
+{
+  "target_material": "Indium oxide/zinc oxide heterostructures",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Trimethyl indium (TMI)", "Diethyl zinc (DEZ)", "Water"],
+  "temperature_range": "200°C for deposition, 250-300°C for annealing",
+  "summary": "The study investigates the use of atomic layer deposition (ALD) to create indium oxide/zinc oxide heterostructures for thin film transistor (TFT) applications. The ALD process employs trimethyl indium (TMI), diethyl zinc (DEZ), and water as precursors. The deposited films show improved TFT performance with a saturation field-effect mobility of 6.5 cm²/(V.s) and an on/off ratio of 4.6 x 10⁷ after annealing at 300°C. The performance is influenced by the layer sequence and thickness of the heterostructures.",
+  "evidence": "The successful deposition of uniform film thickness across the alternating indium oxide and zinc oxide deposition at 200°C is achieved using trimethyl indium (TMI), diethyl zinc (DEZ) and water as oxidizing agent. The as-prepared polycrystalline material shows a conductive behaviour which upon additional mild annealing between 250-300°C demonstrates a high TFT device performance."
+}<|im_end|>

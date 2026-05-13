@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu(I) oxide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Cu(II) bis(dimethylamino-2-propoxide)", "Water"],
+  "temperature_range": "110 to 175 °C",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of Cu(I) oxide films using Cu(II) bis(dimethylamino-2-propoxide) as a precursor and water as a co-reactant. The process occurs within a temperature range of 110 to 175 °C, with a growth rate of 0.12±0.02 Å/cycle. The ALD process is self-limiting and allows for precise control over film thickness. X-ray photoelectron spectroscopy confirms the formation of Cu(I) oxide films. The study also explores the reduction of Cu(II) to Cu(I) during the ALD process, which is facilitated by the reaction of the precursor with water.",
+  "evidence": "To grow films of Cu2O, bis-(dimethylamino-2-propoxide)Cu(II), or Cu(dmap), is used as an atomic layer deposition precursor using only water vapor as a co-reactant. Between 110 and 175 °C, a growth rate of 0.12±0.02 Å/cycle was measured using an in-situ quartz crystal microbalance (QCM). X-ray photoelectron spectroscopy (XPS) confirms the growth of metal-oxide films featuring Cu(I)."
+}<|im_end|>

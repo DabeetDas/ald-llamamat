@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "WF6 (Tungsten Hexaﬂuoride)"
+  ],
+  "coreactants": [
+    "SiH4 (Silane)"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "We used 2% (w/w) SiH4 in Ar as a coreactant in the tungsten ALD process. The carrier and purge gas was 99.999% pure N2."
+}

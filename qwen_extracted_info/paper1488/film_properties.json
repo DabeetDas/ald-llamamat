@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 100,
+  "density_g_cm3": 5.5,
+  "refractive_index": "1.88 at 589 nm",
+  "surface_roughness_nm": null,
+  "crystal_phase": "amorphous as-deposited, β-Ga2O3 after annealing",
+  "evidence": "The as-deposited films were amorphous and exhibited no observable diffraction peaks, which is similar to ALD Ga2O3 films prepared using Ga(acac)3 and Ga2(N(CH3)2)6. After annealing at 900 °C for 20 min under Ar, the films exhibited diffraction peaks characteristic of β-Ga2O3."
+}

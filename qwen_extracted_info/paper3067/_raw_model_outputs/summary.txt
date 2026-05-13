@@ -1,0 +1,8 @@
+{
+  "target_material": "Lead oxide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Pb(DMAMP)2", "H2O"],
+  "temperature_range": "200°C",
+  "summary": "This study examines the growth behavior of lead oxide thin films on Ir substrates using atomic layer deposition (ALD) at 200°C. The growth rate changes abruptly from a high to low value at a film thickness of approximately 1 nm, attributed to the active oxidant adsorption properties of the Ir substrate during initial film growth. The study highlights the importance of controlling the initial growth stage for better leakage current properties in ferroelectric devices.",
+  "evidence": "In summary, this study examined the growth behaviors of lead oxide thin films on an Ir thin-film substrate by ALD using Pb(DMAMP)2 and H2O as the Pb precursor and oxidant, respectively, at a substrate temperature of 200°C. The growth rate changed abruptly from a high to low value at a film thickness of 1 nm. This appears to be due to the active oxidant adsorption properties of the Ir substrate during the initial period of film growth. When the Ir surface was fully covered with lead oxide, the active oxidant adsorption property disappeared resulting in a decrease in growth rate. The film contains a metallic Pb component after the critical thickness, which needs to be alleviated in the future for better leakage current properties."
+}<|im_end|>

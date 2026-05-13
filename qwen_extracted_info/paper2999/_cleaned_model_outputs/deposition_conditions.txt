@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500~",
+  "pressure": "7 x 10-3 Pa",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 4,
+  "number_of_cycles": null,
+  "reactor_type": "gas admittance system",
+  "evidence": "After heating the substrate up to 600~ for evacuating the surface contaminants mainly consisting of oxides, AsH:~ gas is admitted for 2-200s at the pressure of 10-'-10 -~ Pa and evacuated; then TMG is admitted for 0.5-20s at the rate of 10-3-10 ~' Pa-liter/s and evacuated."
+}

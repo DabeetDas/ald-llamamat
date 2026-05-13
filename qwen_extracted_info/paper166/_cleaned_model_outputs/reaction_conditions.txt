@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the self-limiting reaction of TMA and water on the cotton template. The growth of Al2O3 layers is influenced by the surface area and the presence of residual water on the rough surfaces of the cotton fibers, which affects the growth rate during the initial stages.",
+  "intermediate_species": ["Al-OH species", "residual water"],
+  "evidence": "Groner et al. concluded from forward recoil spectrometry that 15 at.-% of H atoms were incorporated into Al2O3 films in the form of Al-OH species from low-temperature ALD at 100 8C using TMA as a precursor, and that no other impurities such as C were identified within the detection limits of Rutherford backscattering spectrometry."
+}

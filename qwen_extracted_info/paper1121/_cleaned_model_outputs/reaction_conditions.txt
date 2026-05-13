@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of La(iPrCp)3 as a precursor and H2O or O2 plasma as reactants. The PE-ALD process utilizes highly reactive oxygen radicals, which contribute to higher reactivity and better electrical properties compared to T-ALD. The growth mechanism is self-limited, with good saturation behavior, and the use of plasma enhances the growth rate and film quality.",
+  "intermediate_species": ["La(iPrCp)3", "surface hydroxyls", "oxygen radicals"],
+  "evidence": "The surface reaction mechanism involves the use of La(iPrCp)3 as a precursor and H2O or O2 plasma as reactants. The PE-ALD process utilizes highly reactive oxygen radicals, which contribute to higher reactivity and better electrical properties compared to T-ALD. The growth mechanism is self-limited, with good saturation behavior, and the use of plasma enhances the growth rate and film quality."
+}

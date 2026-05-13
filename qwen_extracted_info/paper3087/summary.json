@@ -1,0 +1,11 @@
+{
+  "target_material": "Silicon dioxide (SiO2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Si2Cl6",
+    "O3"
+  ],
+  "temperature_range": "403–453°C",
+  "summary": "The study reports the atomic layer deposition of silicon dioxide thin films using alternating exposures to Si2Cl6 and O3. The process was governed by a self-limiting ALD reaction at temperatures ranging from 403 to 453°C. At higher temperatures, thermal decomposition of Si2Cl6 and oxidation by O3 dominated, leading to increased growth rates and Si-rich films. The ALD films exhibited excellent electrical properties comparable to those of low-pressure chemical vapor deposition films.",
+  "evidence": "We report the process for the atomic layer deposition /H20849ALD/H20850 of silicon dioxide thin films on a silicon wafer by alternating exposures to Si2Cl6 and O3. The deposition was governed by a self-limiting ALD reaction at 403–453°C, and the growth rate at 453°C was saturated at 0.32 nm /cycle for Si2Cl6 exposures over 1 /H11003108 L. However, at 471°C or higher temperatures, the thermal decomposition of Si2Cl6 and the oxidation of Si by O3 dominated the deposition, resulting in high growth rates and Si-rich films. The ALD films exhibited excellent electrical properties that were equivalent to those of low-pressure chemical vapor deposition films."
+}

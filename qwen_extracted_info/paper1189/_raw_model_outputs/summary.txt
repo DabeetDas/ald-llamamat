@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper (Cu)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Copper(I) N,N’-diisopropylacetamidinate (Cu(amd))", "Hydrogen (H2) plasma"],
+  "temperature_range": "50 °C",
+  "summary": "This study describes a low-temperature plasma-enhanced atomic layer deposition (PEALD) process for depositing high-purity, smooth, and low-resistivity copper films. The process uses copper(I) N,N’-diisopropylacetamidinate as the precursor and hydrogen plasma as the reducing agent. The process operates at 50 °C, which suppresses copper agglomeration, resulting in continuous, conformal, and high-quality copper films with resistivity comparable to physical vapor deposition (PVD) films. The study also highlights the successful implementation of metal amidinate precursors for low-temperature ALD and the potential for extending this strategy to other metals.",
+  "evidence": "The deposition process proceeds in an ideal self-limiting ALD fashion with a saturated growth rate of 0.071 nm/cycle. The Cu films deposited at 50 °C are pure, continuous, smooth, and highly conformal, with the resistivity comparable to PVD Cu films. The process temperature could even be as low as 50 °C, so the critical agglomeration issue associated with the Cu thin films was largely suppressed."
+}<|im_end|>

@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Ellipsometry",
+    "X-ray Fluorescent Spectroscopy (XRF)",
+    "Scanning Electron Microscopy (SEM)",
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Diffraction (XRD)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Transmission Electron Microscopy (TEM)",
+    "Local Conducting AFM (LCAFM)"
+  ],
+  "evidence": "The ﬁlm surface morphology was examined by scanning electron microscopy (SEM) and atomic force microscopy (AFM). The crystal structure of the ﬁlm was investigated by X-ray diffraction (XRD) in θ-2θ mode using a Cu Kα X-ray source. The change in morphology and chemical structure of the seed layers by PDA was examined by AFM, X-ray photoelectron spectroscopy (XPS, ThermoVG) and transmission electron microscopy (TEM, Tecnai, F-20). The local current conduction along the ﬁlm-thickness direction was investigated by the local conducting AFM (LCAFM) using a Pt-coated AFM tip. The electrical properties, including the capacitance–voltage (C-V) and the leakage current density–voltage (J-V), were measured using an HP 4194A impedance analyzer at 10 kHz and an HP 4140B picoammeter, respectively."
+}

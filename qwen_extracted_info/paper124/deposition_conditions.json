@@ -1,0 +1,12 @@
+{
+  "deposition_temperature_C": null,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "",
+  "evidence": null,
+  "_error": "ValueError: Could not parse model output as JSON. Preview: '01/C102/C114/C97/C99/C116/C105/C118/C101 /C105/C110/C100/C101/C120 /C97/C116 /C116/C104/C101 /C100/C101/C99/C111/C109/C112/C111/C115/C105/C116/C105/C111/C110 /C114/C97/C116/C101 /C111/C98/C116/C97/C105/C110/C101/C100 /C98/C121 /C112/C117/C108/C115/C105/C110/C103 /C111/C110/C108/C121 /C116/C104/C101 '",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 293, in deposition_conditions_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '01/C102/C114/C97/C99/C116/C105/C118/C101 /C105/C110/C100/C101/C120 /C97/C116 /C116/C104/C101 /C100/C101/C99/C111/C109/C112/C111/C115/C105/C116/C105/C111/C110 /C114/C97/C116/C101 /C111/C98/C116/C97/C105/C110/C101/C100 /C98/C121 /C112/C117/C108/C115/C105/C110/C103 /C111/C110/C108/C121 /C116/C104/C101 '\n"
+}

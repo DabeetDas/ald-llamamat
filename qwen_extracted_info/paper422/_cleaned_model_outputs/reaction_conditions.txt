@@ -1,0 +1,6 @@
+{
+  "reaction_equations": ["2SBC15 + 5H20 ~ Sb205 + 10HC1"],
+  "surface_mechanism_description": "The exchange reaction between SbCl5 and H2O to form Sb2O5 and HCl, indicating a surface reaction mechanism where SbCl5 reacts with surface hydroxyl groups and water to form Sb2O5.",
+  "intermediate_species": ["Sb2O5"],
+  "evidence": "In the preliminary studies the growth of Sb2O5 films at 500 °C was studied by using the exchange reaction 2SBC15 + 5H20 ~ Sb205 + 10HC1."
+}

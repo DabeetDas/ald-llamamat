@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "AlOH* + Al(CH3)3 → AlOAl(CH3)2* + CH4",
+    "AlCH3* + H2O → AlOH* + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "AlOH*",
+    "AlOAl(CH3)2*",
+    "AlCH3*"
+  ],
+  "evidence": "One of the most straightforward in-situ analysis variables is pressure. During Al2O3 ALD using Al(CH3)3 and H2O, two separate, sequential self-limiting surface reactions occur, as shown in Reactions 1 and 2. A) AlOH* + Al(CH3)3 → AlOAl(CH3)2* + CH4 (1) B) AlCH3* + H2O → AlOH* + CH4 (2) The asterisks (*) designate the surface species."
+}

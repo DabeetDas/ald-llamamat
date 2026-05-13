@@ -1,0 +1,10 @@
+{
+  "target_material": "Si",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Si2H6"
+  ],
+  "temperature_range": "250 °C - 410 °C",
+  "summary": "The study demonstrates atomic layer epitaxy (ALE) of silicon using Si2H6 as a precursor and remote He plasma bombardment for H desorption. The process involves alternating cycles of He plasma bombardment to remove H from a H-passivated Si(100) surface and Si2H6 dosing to chemisorb in a self-limiting manner, restoring the H-passivated surface. The optimal He bombardment parameters were determined to be 30 W at 100 mTorr pressure and 400 °C for 1-3 min. The growth rate was found to saturate with increasing Si2H6 dosing and He bombardment time, and the process was confirmed to be effective without significant thermal or sputtering effects.",
+  "evidence": "Atomic layer epitaxy (ALE) of Si has been demonstrated by using remote He plasma low energy ion bombardment to desorb H from an H-passivated Si(100) surface at low temperatures and subsequently chemisorbing Si2H6 on the surface in a self-limiting fashion. It was found that as He pressures and r.f. powers are raised the plasma potential and mean free paths are reduced, leading to lower He bombardment energies but higher fluxes. Optimal He bombardment parameters were determined to be 30 W at 100 mTorr process pressure at 400 °C for 1-3 min. The growth per cycle saturates with long Si2H6 dosing at a level which increases slightly with He bombardment time. It was also confirmed that the growth is achieved only by using alternate He bombardment and Si2H6 dosing."
+}

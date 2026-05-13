@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "GeCl2-dioxane",
+    "Sb(SiEt3)3"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The GeCl2-dioxane and Sb(SiEt3)3 precursors were used for the ALD process. The carrier gas was argon (Ar), which was also used as the purge gas between precursor pulses."
+}

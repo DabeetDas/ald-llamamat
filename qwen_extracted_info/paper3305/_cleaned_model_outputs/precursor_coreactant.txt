@@ -1,0 +1,7 @@
+{
+  "precursors": ["Tetrakis(ethylmethylamino)hafnium", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The HfO2 thin films were grown at 200 °C on a p-type (the Si water is doped with boron) (100) Si substrate in a vertical-type ALD reactor... Tetrakis(ethylmethylamino)hafnium [TEMAH; Hf[N(C2H5)(CH3)]4] and water (H2O) were used as precursors, and argon was used as the carrier and purge gas."
+}

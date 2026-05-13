@@ -1,0 +1,11 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "dimethylcadmium (DMCd)",
+    "diisopropyltelluride (DIPTe)"
+  ],
+  "temperature_range": "300–325 °C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of CdTe on GaAs (100) substrates using in-situ spectroscopic ellipsometry (SE). The process involves alternating exposures to Cd and Te precursors, with flushing periods to remove excess precursors. The growth occurs at temperatures between 300–325 °C, and the study highlights the role of surface reactions and desorption mechanisms in the ALE process. The in-situ SE monitoring confirms the monolayer-by-monolayer growth and provides insights into the process window and growth dynamics.",
+  "evidence": "The study investigates the atomic layer epitaxy (ALE) growth of CdTe on GaAs (100) substrates using in-situ spectroscopic ellipsometry (SE). The process involves alternating exposures to Cd and Te precursors, with flushing periods to remove excess precursors. The growth occurs at temperatures between 300–325 °C, and the study highlights the role of surface reactions and desorption mechanisms in the ALE process. The in-situ SE monitoring confirms the monolayer-by-monolayer growth and provides insights into the process window and growth dynamics."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "425°C",
+  "summary": "The study investigates refractive index gradients in TiO2 thin films grown by atomic layer deposition (ALD) on fused silica substrates. The films were grown using TiCl4 and H2O as precursors, with varying carrier gas flow rates and process parameters. The results show that the deposition parameters significantly influence the refractive index gradient, with lower carrier gas flow leading to a 35 nm sublayer with low refractive index at the substrate and higher refractive index at the film surface. The study also highlights the formation of different crystalline phases (anatase, rutile, and TiO2-II) and their impact on the refractive index and optical properties of the films.",
+  "evidence": "The text states that TiO2 thin films were grown by atomic layer deposition using TiCl4 and H2O as precursors. It also mentions that the deposition parameters significantly influenced the refractive index gradient, with lower carrier gas flow leading to a 35 nm sublayer with low refractive index at the substrate and higher refractive index at the film surface. The process temperature was 425°C."
+}

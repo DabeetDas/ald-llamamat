@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Bis(N,N′-diisopropylformamidinato)tin(II)"
+  ],
+  "coreactants": [
+    "H2S"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The text states: 'ALD of SnS using 1 and H2S could be operated even at the low temperature of 65 °C without precursor condensation... The growth per cycle was found to decrease linearly with increasing temperature from 65 to 200 °C.'"
+}

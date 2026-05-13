@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "NO2 + e/C0 → NO2/C0"
+  ],
+  "surface_mechanism_description": "The resistance increase of the gas sensor upon the exposure of oxidizing gas NO2 can be ascribed to the following reactions: NO2 + e/C0 → NO2/C0. The physisorbed NO2 molecules, besides physisorbed O2, on the surface of bicontinuous structure simultaneously pick up electrons from the conduction band of tin oxide which is a typical n-type semiconductor, giving rise to the higher potential barrier and the formation of NO2/C0 anions. With an increasing concentration of NO2, more electrons are trapped in the anions, resulting in higher gas response. When NO2 gas is removed, the NO2/C0 species desorb as NO2 gas molecule from the SnO2 surface. Besides, the desorption of NO2/C0 donate electrons to the SnO2 film surface thereby causing the sensor resistance recovery.",
+  "intermediate_species": [
+    "NO2/C0",
+    "O2/C0",
+    "O/C0"
+  ],
+  "evidence": "In principle, the resistance increase of the gas sensor upon the exposure of oxidizing gas NO2 can be ascribed to the following reactions: NO2 + e/C0 → NO2/C0. The physisorbed NO2 molecules, besides physisorbed O2, on the surface of bicontinuous structure simultaneously pick up electrons from the conduction band of tin oxide which is a typical n-type semiconductor, giving rise to the higher potential barrier and the formation of NO2/C0 anions. With an increasing concentration of NO2, more electrons are trapped in the anions, resulting in higher gas response. When NO2 gas is removed, the NO2/C0 species desorb as NO2 gas molecule from the SnO2 surface. Besides, the desorption of NO2/C0 donate electrons to the SnO2 film surface thereby causing the sensor resistance recovery."
+}

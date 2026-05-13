@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + -OH -> (-O-)nAl(CH3)3-n + CH4",
+    "H2O + (-O-)nAl(CH3)3-n -> -OH + nAl(CH3)3"
+  ],
+  "surface_mechanism_description": "The growth mechanism involves the chemisorption of trimethylaluminum (TMA) on hydroxyl surface groups, forming adsorbed (-O-)nAl(CH3)3-n with methane as a byproduct. Subsequent water exposure oxidizes the aluminum, recreating hydroxyl groups and forming additional methane.",
+  "intermediate_species": [
+    "(-O-)nAl(CH3)3-n",
+    "monomethyl aluminum"
+  ],
+  "evidence": "Cellulose fibers (C6H10O5)n are the primary constituent in natural cotton, and the cellulose polymer presents a large number of -OH groups on the surface to react with the TMA. The growth mechanism is based on the chemisorption of Al(CH3)3 on -OH surface groups. This reaction forms adsorbed (-O-)nAl(CH3)3-n with CH4 as a byproduct. The H2O then recreates -OH surface groups by oxidation of the Al while also forming CH4."
+}

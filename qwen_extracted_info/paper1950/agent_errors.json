@@ -1,0 +1,5 @@
+{
+  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{   \"deposition_temperature_C\": \"250\",   \"pressure\": \"25,0+20 Pa\",   \"precursor_pulse_time_s\": 0.1,   \"coreactant_pulse_time_s\": 0.1,   \"purge_time_s\": 4,   \"number_of_cycles\": null,   \"reactor_type\": \"horizontal flow-type ALD reactor\",   \"evidence\": \"Pl;~nc s~lbqtr:~tc~; of l:inl:~lum foil nrcr-c p'",
+  "film_properties": "Parsed successfully, but extracted content is empty.",
+  "characterization": "ValueError: Could not parse model output as JSON. Preview: '{   \"characterization_methods\": [     \"Quartz Crystal Microbalance\",     \"Chemisorption kinetics\"   ],   \"evidence\": \"Tlic chcmisorpticln kinetic!; ivns )ncasurctl ;!t thc oi~tlcl of !I!c clianncls using quartz 1nicl.oi-):~lancc. Bcfore starling Ihc mcasur.crncnts I00 nntl .i nrn I hick huffcr Inycr'"
+}

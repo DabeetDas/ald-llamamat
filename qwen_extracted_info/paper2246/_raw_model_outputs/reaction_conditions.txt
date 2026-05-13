@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the exposure of the In0.53Ga0.47As substrate surface to H2O at 250 °C, which results in the formation of an interfacial oxide layer. The text indicates that the ALD process using Hf(NMe2)4 and H2O does not fully self-clean the In0.53Ga0.47As native oxides, leading to an interface oxide layer primarily composed of Ga oxides.",
+  "intermediate_species": ["Ga oxides"],
+  "evidence": "The text states: 'The complete interfacial self-cleaning of the In0.53Ga0.47As native oxides is not observed using an ALD process based on the Hf(NMe2)4 precursor and H2O. Elemental profiling of the HfO2/In0.53Ga0.47As interface region by electron energy loss spectroscopy reveals an interface oxide layer of 1–2 nm in thickness, which consists primarily of Ga oxides.'"
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "plasma-enhanced ALD",
+  "main_precursors": ["tetrakis(ethylmethylamino)hafnium (TEMAHf)", "oxygen plasma"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the formation of interfacial oxide layers in HfO2 films deposited by plasma-enhanced atomic layer deposition (PEALD) and conventional atomic layer deposition (ALD) using water. The interfacial oxide layer formed by PEALD has a higher dielectric constant compared to ALD, and the films exhibit improved electrical properties such as lower leakage current density.",
+  "evidence": "The interfacial oxide layers, generated on Si substrates during the initial stage of HfO2 atomic layer deposition, have been investigated depending on the oxygen reactants, oxygen plasma and water. In the plasma-enhanced ALD using oxygen plasma, a 2-nm-thick interfacial layer, which was intermixed with Hf–Si–O and SiO2 having a dielectric constant of 6.5, was formed, while water made a 1.5-nm-thick interfacial layer composed mainly of SiO2. Additionally, by utilizing oxygen plasma, the k of the HfO2 film itself was increased up to 22.2 resulting in a higher effective k, and a much lower leakage current density was also obtained."
+}<|im_end|>

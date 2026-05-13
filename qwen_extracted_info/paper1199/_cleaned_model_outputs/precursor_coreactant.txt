@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethyl phosphate (TMP)", "tert-butylferrocene (TBF)"],
+  "coreactants": ["O2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The TMP precursor (Sigma-Aldrich, 97%) was heated to 45 °Ci na stainless steel container. The TBF precursor (Alfa Aesar, 98%) was heated to 75 °C in a fused quartz vial with an argon inlet and a precursor vapor outlet. All vapor and gas ﬂows (TMP, O2, and Ar carrier gas) were adjusted to reach a partial pressure of 5 × 10−3 mbar in the deposition chamber."
+}

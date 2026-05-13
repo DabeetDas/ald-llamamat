@@ -1,0 +1,8 @@
+{
+  "target_material": "Mg-doped hematite (α-Fe2O3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["bis(ethylcyclopentadienyl) magnesium", "iron tertbutoxide"],
+  "temperature_range": "Not explicitly mentioned",
+  "summary": "The study describes the synthesis of p-type Mg-doped hematite (α-Fe2O3) using atomic layer deposition (ALD). The p-type layer was found to create a built-in field that assists in photoelectrochemical water splitting. The results suggest that this approach can help mitigate energy mismatch issues between water redox potentials and the band edges of hematite, enabling practical solar water splitting.",
+  "evidence": "Mg-doped hematite (α-Fe2O3) was synthesized by atomic layer deposition (ALD). The resulting material was identified as p-type with a hole concentration of ca. 1.7 × 10^15 cm−3. When grown on n-type hematite, the p-type layer was found to create a built-in field that can be used to assist in photoelectrochemical water splitting reactions."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The H2O-based process leads to much better dielectric properties of the films due to a much reduced C content with respect to an O3-based process; however the hygroscopic nature of Gd2O3 complicates the H2O-based process, leading to CVD contributions during the ALD cycle for films with high Gd content. The CVD component leads to a large WIW non-uniformity and increased C incorporation and effectively limits the accessible Gd xAl2-xO3 composition range for the H2O-based process.",
+  "intermediate_species": ["Gd(iPrCp)3", "TMA", "H2O", "Gd2O3"],
+  "evidence": "The H2O-based process leads to much better dielectric properties of the films due to a much reduced C content with respect to an O3-based process; however the hygroscopic nature of Gd2O3 complicates the H2O-based process, leading to CVD contributions during the ALD cycle for films with high Gd content. The CVD component leads to a large WIW non-uniformity and increased C incorporation and effectively limits the accessible Gd xAl2-xO3 composition range for the H2O-based process."
+}<|im_end|>

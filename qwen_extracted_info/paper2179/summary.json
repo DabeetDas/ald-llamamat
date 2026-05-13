@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Ti isopropoxide",
+    "tetrakis-dimethylamido titanium (TDMA T)"
+  ],
+  "temperature_range": "190 °C to 260 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of TiO2 using Ti isopropoxide and tetrakis-dimethylamido titanium (TDMA T) as precursors with water as the oxidant. The growth behavior was analyzed as a function of deposition temperature, revealing different growth rate per cycle (GPC) trends for the two precursors. The process window and growth mechanisms were explained through an energetic model and density functional theory (DFT) calculations.",
+  "evidence": "The study investigates the atomic layer deposition (ALD) of TiO2 using Ti isopropoxide and tetrakis-dimethylamido titanium (TDMA T) as precursors with water as the oxidant. The growth behavior was analyzed as a function of deposition temperature, revealing different growth rate per cycle (GPC) trends for the two precursors. The process window and growth mechanisms were explained through an energetic model and density functional theory (DFT) calculations."
+}

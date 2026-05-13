@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["tetrakis-diethyl-amino-hafnium (TDEAH)"],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the characteristics of HfO2 thin films grown by remote plasma atomic layer deposition (RPALD) and direct plasma atomic layer deposition (DPALD). The films were deposited on p-type Si substrates at 250 °C using TDEAH as the hafnium precursor and O2 plasma as the oxygen source. The RPALD films exhibited an amorphous structure, while DPALD films showed a polycrystalline structure. The study also analyzed the interfacial layers, electrical properties, and the effects of plasma on the films.",
+  "evidence": "The HfO2 thin films were deposited on p-type Si substrates with a 100 orientation and a resistivity of 6–12 Ω·cm. The HfO2 films of about 5.0-nm-thick films were prepared at a substrate temperature of 250 °C. The hafnium precursor, tetrakis-diethyl-amino-hafnium (TDEAH), was introduced into the ALD chamber by a bubbler using argon as the carrier gas. The oxygen reactant was produced during the pulse of the O2 plasma."
+}<|im_end|>

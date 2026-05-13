@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of TiCl4 and water on the TiO2 surface, followed by the formation of surface hydroxyl groups and the subsequent reaction to form TiO2. The ALD process ensures a self-limiting growth mechanism where each cycle deposits a monolayer of material on the support surface.",
+  "intermediate_species": ["surface hydroxyl groups", "TiO2 surface"],
+  "evidence": "The text describes the ALD process for depositing TiO2 on porous steel fibers, mentioning the use of TiCl4 and water as precursors. It explains the self-limiting growth mechanism where each cycle deposits a monolayer on the support surface, indicating the formation of surface hydroxyl groups and the subsequent reaction to form TiO2."
+}

@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "SiOH* + SiCl4/DLE SiOSiCl3* + HCl",
+    "SiOSiCl3* + NH3/DLE SiOSiH2* + HCl"
+  ],
+  "surface_mechanism_description": "The Si3N4 growth occurs via the exchange of surface functional groups through sequential half-reactions. The first half-reaction involves the reaction of SiCl4 with surface hydroxyl groups (SiOH*), forming SiOSiCl3* and HCl. The second half-reaction involves the reaction of NH3 with SiOSiCl3*, forming SiOSiH2* and HCl. The surface reactions are self-limiting and complete when the reactant exposures are sufficient.",
+  "intermediate_species": [
+    "SiOSiCl3*",
+    "SiOSiH2*"
+  ],
+  "evidence": "The surface reactions continue until all of the initial surface functional groups are reacted and replaced with the new functional group. Once the surface achieves the new functionality, no further reaction occurs because the remaining reactant has no reactivity towards the newly deposited surface species. The surface half-reactions have not saturated in this regime. In contrast, both half-reactions have saturated for reactant exposures >1.0×1010 L and additional reactant exposure results in no additional growth."
+}<|im_end|>

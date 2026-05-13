@@ -1,0 +1,14 @@
+{
+ "characterization_methods": [
+   "field emission scanning electron microscopy (FESEM)",
+   "four-point probe",
+   "Auger electron spectroscopy (AES)",
+   "X-ray reflectivity (XRR)",
+   "X-ray diffraction (XRD)",
+   "scanning electron microscopy (SEM)",
+   "atomic force microscopy (AFM)",
+   "high-resolution transmission electron microscopy (HRTEM)",
+   "warpage method"
+ ],
+ "evidence": "The film thickness was measured using field emission scanning electron microscopy (FESEM, Hitachi S-4800, Hitachi), and the sheet resistance of the films was measured with a four-point probe. Then, the film resistivity was calculated as the sheet resistance multiplied by the film thickness. The film composition and impurity were analyzed using Auger electron spectroscopy (AES, PHI-680 Physical Electronics). X-ray reflectivity (XRR, X-pert MRD, PANalytical) was measured to study the density of the films. The crystal structure of the deposited films was investigated using an X-ray diffractometer (XRD, X-pert APD, Philips) with Cu Kα radiation at 0.15405 nm. The film surface was observed using SEM, and the roughness of the films was measured using atomic force microscopy (AFM, SPA-300, Seiko). The film stress was analyzed using the warpage method, which can extract the wafer curvature using laser scanning. The microstructure of the films was detected using high-resolution transmission electron microscopy (HRTEM, Image Cs Titan, FEI)."
+}<|im_end|>

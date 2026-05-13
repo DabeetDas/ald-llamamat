@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "O –Sc(MeCp)2 + O3 -> surface carbonates + SiO2 phonon mode gains",
+    "Me2pz + surface carbonates -> Sc–O–Sc bond formation (Sc2O3 deposition) + O–Sc(MeCp)2 surface restoration"
+  ],
+  "surface_mechanism_description": "The reaction of the SiO2 substrate with 1 and the oxidation of silicon by ozone are temperature-dependent processes that occur during the initial cycles of film growth and directly impact the changes in the intensities of the SiO2 phonon modes. The Me2pz group from the next pulse of 1 reacts with these surface carbonates, leading to Sc–O–Sc bond formation (Sc2O3 deposition) and the restoration of an O–Sc(MeCp)2 surface.",
+  "intermediate_species": [
+    "surface carbonates",
+    "O–Sc(MeCp)2",
+    "ScSixOy interface layer"
+  ],
+  "evidence": "The reaction of the SiO2 substrate with 1 and the oxidation of silicon by ozone are temperature-dependent processes that occur during the initial cycles of film growth and directly impact the changes in the intensities of the SiO2 phonon modes. The Me2pz group from the next pulse of 1 reacts with these surface carbonates, leading to Sc–O–Sc bond formation (Sc2O3 deposition) and the restoration of an O–Sc(MeCp)2 surface."
+}

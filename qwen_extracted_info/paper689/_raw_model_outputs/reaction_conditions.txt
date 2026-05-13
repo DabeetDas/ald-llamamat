@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "2VO(OC3H7)3 + 3H2O → V2O5 + 6HOC3H7"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the reaction of VTOP with water to form a V2O5 gel through a condensation reaction between –OH and –OR species, followed by the evaporation of water to obtain vanadium oxide. The reorganisation process results from an increase in the high surface atomic mobilities with increasing temperature, leading to 2D reorganisation of the film.",
+  "intermediate_species": [
+    "V2O5 gel",
+    "monomethyl aluminum",
+    "surface hydroxyls"
+  ],
+  "evidence": "VTOP (vapour pressure of 0.29 Torr at 45 8C) reacts rapidly with water at room temperature to form a V2O5 gel by a condensation reaction between –OH and –OR species; vanadium oxide is then obtained after evaporation of water. The global reaction of the precursor with water is 2VO(OC3H7)3 + 3H2O → V2O5 + 6HOC3H7. The reorganisation process results from an increase in the high surface atomic mobilities with increasing temperature, leading to 2D reorganisation of the film."
+}<|im_end|>

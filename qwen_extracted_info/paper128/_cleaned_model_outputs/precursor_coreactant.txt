@@ -1,0 +1,7 @@
+{
+  "precursors": ["Hf(NO3)4", "(tBuO)3SiOH", "Hf(NO3)4", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Successive exposure of substrates maintained at 120 or 160 °C to nitrogen flows containing Hf(NO 3)4 and (tBuO)3SiOH led to typical bilayer spacings of 2.1 nm, with the majority of each bilayer being SiO 2. The deposition rate of 0.2 nm per cycle was linear for at least 170 cycles at a substrate temperature of 120 °C. These results were similar to those reported by others using Hf(NO 3)4 and H2O for the ALD of HfO 2. High-purity N 2 was used as both carrier and purge gas."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "5 mbar",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 2.0,
+  "purge_time_s": 3,
+  "number_of_cycles": 500,
+  "reactor_type": "cross-flow F120 ALD reactor",
+  "evidence": "Saturation of the growth rate, as is characteristic to ALD, was reached at 150 °C using W 2(NMe2)6 and H 2S pulses of at least 0.5 and 2.0 s, respectively [Figs.2(a) and 2(b)]."
+}<|im_end|>

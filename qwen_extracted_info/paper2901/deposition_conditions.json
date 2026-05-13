@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "12 Torr",
+  "precursor_pulse_time_s": "0.5",
+  "coreactant_pulse_time_s": "3",
+  "purge_time_s": "15",
+  "number_of_cycles": "300",
+  "reactor_type": "SUNALE R-150B",
+  "evidence": "SUNALE R-150B reactor at ~12 Torr using cycles of 0.5 s Co(Cp)2 / 15 s N2 / 3 s O3 / 15 s N2."
+}

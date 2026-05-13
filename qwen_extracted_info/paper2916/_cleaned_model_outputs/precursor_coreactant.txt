@@ -1,0 +1,7 @@
+{
+  "precursors": ["WF6", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Ar (AGA, claimed purity 99.9999%) was used for bulk flow and as carrier gas for the reactants."
+}

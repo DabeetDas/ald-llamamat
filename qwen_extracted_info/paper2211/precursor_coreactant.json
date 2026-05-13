@@ -1,0 +1,11 @@
+{
+  "precursors": [
+    "Al(CH3)3"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The precursors Al(CH3)3 and NH3 were converted to AlN and methane gas, Al(CH3)3 + NH3 → AlN + 3CH4."
+}

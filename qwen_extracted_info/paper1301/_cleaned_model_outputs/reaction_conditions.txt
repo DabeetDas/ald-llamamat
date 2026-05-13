@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The incorporation of sulfur into NiO films facilitates the stable phase transformation from cubic NiO to layered Ni(OH)2/NiOOH structures during electrochemical conditioning processes, avoiding cracks and delamination. Sulfate ions formed in the NiO film dissolve into the electrolyte and move freely between the catalyst/electrolyte interfaces, increasing surface area and catalytic active sites. The phase transformation process is accompanied by reduced strains and gradual thickening of the Ni(OH)2/NiOOH layer, as evidenced by cyclic voltammetric measurements.",
+  "intermediate_species": ["NiSO4", "sulfate ions (SO4^2-)", "Ni(OH)2", "NiOOH"],
+  "evidence": "The surface mechanism description is derived from the text discussing the role of sulfur incorporation in NiO films, the phase transformation process, and the formation of Ni(OH)2/NiOOH structures. The intermediate species are identified from the discussion of NiSO4 formation, sulfate ions, and the transformation into Ni(OH)2 and NiOOH."
+}

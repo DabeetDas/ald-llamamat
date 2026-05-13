@@ -1,0 +1,11 @@
+{
+  "target_material": "Ag −silica hybrid structures",
+  "process_type": "metastable atomic layer deposition (MS-ALD)",
+  "main_precursors": [
+    "tri(dimethylamino)silane (TDMAS)",
+    "oxygen plasma"
+  ],
+  "temperature_range": "120 °C",
+  "summary": "The study describes the use of metastable atomic layer deposition (MS-ALD) to fabricate 3D hierarchical silica structures loaded with silver (Ag) nanoparticles, resulting in broadband absorption of light from the UV to near-infrared range. The process involves the oxidation and decomposition of Ag templates, leading to the self-assembly of 3D nanostructures. The high absorption is attributed to multiple scattering and absorption by the spatially distributed Ag nanoparticles, as well as plasmon hybridization effects.",
+  "evidence": "The resulting structures are highly absorbent from the VIS to the NIR region (>98% in the range of 220 to 2500 nm). The high broadband absorption stems from the complex optical behaviors in the self-assembled 3D hierarchical silica structures loaded with silver (Ag) nanoparticles. The process involves the oxidation and decomposition of Ag templates, leading to the self-assembly of 3D nanostructures."
+}

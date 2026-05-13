@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350-500",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": "0.5",
+  "coreactant_pulse_time_s": "1.0",
+  "purge_time_s": "0.5",
+  "number_of_cycles": null,
+  "reactor_type": "F120",
+  "evidence": "MoN x ﬁlms were deposited at 350-500°C, and the pulse times for MoCl5 and NH3 were 0.5 and 1.0 s, respectively. The purge time was 0.5 s."
+}<|im_end|>

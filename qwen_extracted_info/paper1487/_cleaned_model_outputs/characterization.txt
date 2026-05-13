@@ -1,0 +1,18 @@
+{
+  "characterization_methods": [
+    "X-ray Fluorescence Spectroscopy (XRF)",
+    "Auger Electron Spectroscopy (AES)",
+    "X-ray Diffraction (XRD)",
+    "X-ray Reflectivity (XRR)",
+    "Atomic Force Microscopy (AFM)",
+    "Scanning Electron Microscopy (SEM)",
+    "Conductive Atomic Force Microscopy (CAFM)",
+    "Energy Dispersive Spectroscopy (EDS)",
+    "Transmission Electron Microscopy (TEM)",
+    "X-ray Absorption Near-Edge Spectroscopy (XANES)",
+    "Ellipsometry",
+    "Field Emission Transmission Electron Microscopy (TEM)",
+    "Resistivity-Temperature Measurement System"
+  ],
+  "evidence": "The film composition and layer density was measured by X-ray fluorescence spectroscopy (XRF, Thermo scientific, ARL Quant ’ X). Here, the layer density represents the total mass of the selected unit area regardless of layer morphology; therefore it can show more accurate growth properties. The impurity level was checked by Auger electron spectroscopy (AES, Perkin-Elmer, PHI 660). X-ray diffraction in the θ − 2θ and glancing angle incidence modes, and X-ray reflectivity (XRD, XRR, PANalytical, X ’ pert PRO MPD) were used to confirm the crystal structure and density of the films. Atomic force microscopy (AFM, JEOL JSPM 5 400) and scanning electron microscopy (SEM, Hitachi, S-4800) were used to observe the film surface morphology. Conductive AFM (CAFM) under vacuum conditions was used to check the PC characteristics of the thin films in the nanoscale. X-ray absorption near-edge spectroscopy (XANES) analysis was performed using a synchrotron X-ray source (Pohang light source, beamline 3C1) to examine the local bonding structure of the (GeTe 2)(1−x)(Sb2Te3)x layers and compare them with Ge 2Sb2Te5. The resistivity − temperature curves of the film were achieved by a real-time resistivity-temperature measurement system (homemade) at temperatures ranging from 100 to 260 °C with a heating rate of 8.8 °C min −1. Laser induced crystallization time tests were performed using a nano pulse laser irradiation tester (Nanostorage, PSI-1) with a 650 nm pulse laser for crystallization and a 750 nm laser for reflectivity measurement. X-ray absorption near-edge spectroscopy (XANES) analysis was performed using a synchrotron X-ray source (Pohang light source, beamline 3C1) to examine the local bonding structure of the (GeTe 2)(1−x)(Sb2Te3)x layers and compare them with Ge 2Sb2Te5."
+}

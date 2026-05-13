@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves the thermal nitridation of H-terminated Si(100) surfaces with NH3 gas, forming a Si_xNy layer that acts as a barrier against interfacial SiO2 formation. The Al2O3 growth is initiated on the nitrided surface, and the formation of SiO2 is prevented by the nitride layer. The nitride layer promotes nucleation and linear growth of Al2O3 similar to hydrophilic SiO2 surfaces.",
+  "intermediate_species": [
+    "Si–N–Si bonds",
+    "Si–NHx"
+  ],
+  "evidence": "Exposure of Si to NH3 at high temperatures is a standard process for growing Si_xNy, which has been shown to be an effective oxygen diffusion barrier. The H-terminated surface is inert to NH3 at low temperatures and the surface only begins to react at temperatures where hydrogen begins to desorb from the surface. At no time during our experiment do we observe Si–NHx absorption modes because the temperatures at which NH3 reacts with the H-terminated surface are above the NHx decomposition temperatures observed for NH3 absorption on porous Si."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involved in the ALD process for Co-doped TiO2 films were conducted using Ti(OMe)4 and Co(acac)3 as metal precursors, with H2O or O3 as oxygen precursors. The Co content was controlled by the relative amounts of constituent oxide deposition cycles applied alternately. The process involved the adsorption of metal and oxygen precursors alternately, leading to the formation of Co-doped TiO2 films.",
+  "intermediate_species": ["Co(acac)3", "Ti(OMe)4", "H2O", "O3"],
+  "evidence": "The text states: 'The films were grown by alternate deposition of constituent metal oxides, varying the number of TiO2 deposition cycles, i.e. one Co3O4 cycle interrupted the TiO2 growth after every 100, 20, 10, 5, 2 or 1 TiO2 cycles.' Additionally, it mentions: 'Binary cobalt oxide deposition experiments were first conducted using cobalt(III)acetylacetonate, Co(acac)3, and H2O or O3 as precursors.'"
+}<|im_end|>

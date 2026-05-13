@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "X-ray Reflectivity (XRR)",
+    "Atomic Force Microscopy (AFM)",
+    "Quartz Crystal Microbalance (QCM)",
+    "Spectroscopic Ellipsometry",
+    "Fourier Transform Infrared Spectroscopy (FTIR)"
+  ],
+  "evidence": "The SiO2 ALD growth rate was verified by ex situ X-ray reflectivity, spectroscopic ellipsometry and surface profilometry measurements. The SiO2 ALD films contained negligible C, N, or Cl impurities as determined by X-ray photoelectron spectrometry. ... AFM was conducted using a Park Autoprobe CP from Thermomicroscopes. AFM measurements were conducted using the contact mode to determine the surface morphology of the SiO2 ALD films. ... XRR measurements of film thickness were collected on a Bede Scientific Inc. D1 instrument. ... A Dektak3 profilometer was used to measure the thicknesses of the SiO2 films grown on the Si wafers. ... SiO2 films deposited on the silicon wafers were also characterized using a M-44 spectroscopic ellipsometer from the J.A. Woolam Company. ... The SiO2 ALD growth rate was measured using QCM, spectroscopic ellipsometry and X-ray reflectivity techniques. ... FTIR studies were performed to measure the pyridine coverage on the SiO2 substrate vs. substrate temperature."
+}

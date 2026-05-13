@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ozone was used as a reactant for Ru(EtCp)2, providing oxygen radicals directly from the gas phase to facilitate nucleation. The ozone-based process resulted in a reduction in nucleation delay and improved surface smoothness compared to oxygen gas.",
+  "intermediate_species": ["oxygen radicals"],
+  "evidence": "Ozone was selected as a reactant because it could facilitate the nucleation of Ru films by providing oxygen radicals directly from the gas phase, as was reported for an oxygen plasma reactant with Ru and Pt. Moreover, ozone is expected to be compatible with high-k dielectrics."
+}<|im_end|>

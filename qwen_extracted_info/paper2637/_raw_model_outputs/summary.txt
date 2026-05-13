@@ -1,0 +1,8 @@
+{
+  "target_material": "SnTiOx",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tetrakis(diethylamino)titanium (TDEAT)", "tin(II)acetylacetonate [Sn(acac)2]", "ozone"],
+  "temperature_range": "200 /C14 C",
+  "summary": "The study reports the atomic layer deposition of SnTiOx as a potential ferroelectric material. The process uses TDEAT, Sn(acac)2, and ozone as precursors, with deposition at 200 /C14 C. Postdeposition annealing at 350 /C14 C in O2 environment showed piezoresponse hysteresis loops, indicating switchable polarization. The films were grown on Si(100) substrates and exhibited anatase phase structure.",
+  "evidence": "In order to establish the growth conditions and probe the ﬁlm structure and ferroelectric behavior, the authors grew SnTiO x ﬁlms on the commonly used Si(100) substrate. Thin ﬁlms of SnTiO x have been successfully grown at a deposition temperature of 200 /C14 C, with a Sn/Ti atomic layer deposition (ALD) cycle ratio of 2:3 and postdeposition heat treatments under different conditions. The ﬁlm annealed in O 2 at 350 /C14 C exhibited piezoresponse amplitude and phase hysteresis loops, indicative of the existence of switchable polarization."
+}<|im_end|>

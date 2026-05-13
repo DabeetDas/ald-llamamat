@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["HfCl4", "H2O"],
+  "temperature_range": "300°C",
+  "summary": "The study investigates the nucleation and growth behavior of atomic layer deposited HfO2 films on silicon oxide starting surfaces. The process uses HfCl4 and H2O as precursors at 300°C. The growth is influenced by the density of reactive OH sites on the surface, with saturation occurring at an ellipsometric oxide thickness of approximately 0.8 nm. The study compares wet chemical oxides and thermal oxides, showing similar behavior in HfO2 deposition and electrical properties.",
+  "evidence": "Growing nanometer-thin HfO2 films by atomic layer deposition for implementation in advanced transistor structures is controlled by the density of reactive OH sites on the surface. The impact of thin SiO2 starting surfaces, grown by wet chemical processes and by wetting a thermal oxide, on the nucleation and growth of ALD HfO2 has therefore been evaluated. Our results demonstrate that both surface pretreatments display the same dependence of the initial HfO2 growth on the interfacial layer thickness. This correlation is first characterized by a linear increase, which can be interpreted in terms of increasing OH surface concentration. Once an ellipsometric oxide thickness of approximately 0.8 nm is reached, saturation of the HfO2 deposition occurs."
+}<|im_end|>

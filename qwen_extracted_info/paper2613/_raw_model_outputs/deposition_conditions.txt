@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "270",
+  "pressure": "",
+  "precursor_pulse_time_s": "10-60",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "15",
+  "number_of_cycles": null,
+  "reactor_type": "single-wafer",
+  "evidence": "Depositions were performed at a 270 /C14 C substrate temperature and using hafnium chloride (HfCl4) and trimethylaluminum (TMA) precursors, with the HfCl4 bubbler at 160 /C14 C and the TMA bubbler at room temperature. HfCl4 pulse times in the range of 10–60 s were used, while the TMA pulse times were typically 1 s. During the ALD cycles, a 15 s Ar purge was used after the HfCl4 and TMA pulses."
+}<|im_end|>

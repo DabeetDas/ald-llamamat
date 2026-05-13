@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "185-200",
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 30,
+  "number_of_cycles": 50,
+  "reactor_type": "Picosun SUNALE R-150B",
+  "evidence": "ALD of NiO was carried out in a Picosun SUNALE R-150B reactor at ~1 Torr using alternating N2-purge-separated pulses of Ni(tBu2DAD)2 and O3/O2."
+}

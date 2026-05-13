@@ -1,0 +1,11 @@
+{
+  "target_material": "MoOx",
+  "process_type": "plasma-enhanced ALD (PE-ALD)",
+  "main_precursors": [
+    "(NtBu)2(NMe2)2Mo",
+    "O2 plasma"
+  ],
+  "temperature_range": "50 °C to 200 °C",
+  "summary": "The study presents a plasma-enhanced atomic layer deposition (PE-ALD) process for depositing high-quality MoOx at low temperatures down to 50 °C. The process is aimed at creating hole-selective contacts for silicon heterojunction solar cells by replacing doped a-Si:H layers with MoOx, which provides charge carrier selectivity through band alignment and offsets. The films are amorphous, slightly substoichiometric, and transparent, with high compatibility with a-Si:H passivation layers. The process enables the deposition of ultrathin, conformal films with excellent optical properties and surface passivation.",
+  "evidence": "The preparation of high-quality molybdenum oxide (MoOx) is demonstrated by plasma-enhanced atomic layer deposition (ALD) at substrate temperatures down to 50 °C. The films are amorphous, slightly substoichiometric with respect to MoO3, and free of other elements apart from hydrogen (<11 at%). The films have a high transparency in the visible region and their compatibility with a-Si:H passivation schemes is demonstrated. It is discussed that these aspects, in conjunction with the low processing temperature and the ability to deposit very thin conformal films, make this ALD process promising for the future application of MoOx in hole-selective contacts for silicon heterojunction solar cells."
+}

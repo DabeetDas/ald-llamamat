@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "180–750 ◦C",
+  "summary": "HfO2 films were grown by atomic layer deposition using HfCl4 and H2O precursors on Si(1 0 0), Si(1 1 1), and amorphous SiO2 substrates at temperatures ranging from 180 to 750 ◦C. The study investigated the effect of deposition temperature and film thickness on growth rate, morphology, and optical properties. Crystallization, texture development, and surface roughening were found to influence growth rate and optical properties, with significant changes in surface roughness and refractive index observed.",
+  "evidence": "HfO2 films were grown by atomic layer deposition from HfCl4 and H2O on Si(1 0 0), Si(1 1 1) and amorphous SiO2 substrates at 180–750 ◦C and the effect of deposition temperature and film thickness on the growth rate and optical properties of the film material was studied."
+}

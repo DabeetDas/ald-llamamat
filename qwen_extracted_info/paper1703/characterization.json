@@ -1,0 +1,17 @@
+{
+  "characterization_methods": [
+    "X-ray re ﬂectivity",
+    "X-ray di ﬀraction (XRD)",
+    "Transmission electron microscopy (TEM)",
+    "Selected-area electron di ﬀraction",
+    "High-resolution TEM",
+    "Fourier ﬁltering",
+    "Piezoresponse force microscopy (PFM)",
+    "Scanning electron microscopy (SEM)",
+    "Energy-disp ersive X-ray spectroscopy (EDS)",
+    "X-ray ﬂuorescence (XRF)",
+    "Atomic force microscopy (AFM)",
+    "Dual ampplitude resonance tracking (DART)"
+  ],
+  "evidence": "Characterization and Analysis. Compositional analysis was collected within a dual-beam scanning electron-focused ion beam microscope (FEI Strata DB235) equipped with an X-ray ﬂuorescence (XRF) spectroscopy source and detector (iXRF) and within an electron microscope (Zeiss Supra 50VP) equipped with an energy-disp ersive X-ray spectroscopy (EDS) system. Thin ﬁlm structure and thickness were analyzed using XRD and X-ray re ﬂectivity (XRR) of thin ﬁlm samples, collected in a 4-circle X-ray di ﬀractometer (Rigaku Smartlab and Bruker D8 Advance, 40 kV, 44 mA, Cu K α) equipped with a double (220)Ge monochromator in a parallel beam geometry. Sample preparation for TEM was done by mechanical polishing and ion milling (Fishione 1010 Low-angle ion mill) and bright- ﬁeld imaging was performed using TEM (JEOL JEM2100) operated at 200 kV. Fourier ﬁltering of the TEM images was done using Gatan DigitalMicrograph software; Wiener ﬁltering was done using a script “HRTEM ﬁlters” written by D.R.G. Mitchell. Topographic height, local ferroelectric piezoelectric hystereses and piezoresponse force microscopy (PFM) were collected using atomic force microscopy, the latter two data types collected using dual ampplitude resonance tracking (DART) as implemented on an atomic force microscope (Cypher and MFP-3D, Asylum Research, Santa Barbara CA) using a Pt-coated cantilever (Olympus AC240TM, nominal sti ﬀness 2 N/m and DART frequency of ∼300 kHz)."
+}

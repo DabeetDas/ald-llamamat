@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100 −400",
+  "pressure": "0.01 mbar",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "temperature-controllable ALD chamber",
+  "evidence": "A typical ALD cycle lasted 20 s (5 s pulse time for both the precursor and the reactant and 5 s evacuation time after each pulse)."
+}

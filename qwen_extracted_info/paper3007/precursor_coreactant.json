@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "TMA"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Al2O3 films were deposited by atomic layer deposition using trimethylaluminum and O3 as precursor and oxidant, respectively, at growth temperatures ranging from room temperature to 300°C on Si substrates. Ar (900 sccm) was used as purge gas."
+}

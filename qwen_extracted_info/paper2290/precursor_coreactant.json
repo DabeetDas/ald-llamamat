@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Ti(NEtMe)4 (TEMATi)",
+    "Sr(iPr3Cp)2 (AbsoluteSr)"
+  ],
+  "coreactants": [
+    "ozone"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "TEMATi [Ti(NEtMe)4] and AbsoluteSr 13 [Sr(iPr3Cp)2], respectivly, were applied as metalorganic precursors, whereas ozone was used as an oxidant."
+}

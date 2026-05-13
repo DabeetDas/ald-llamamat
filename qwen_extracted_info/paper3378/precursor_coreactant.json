@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "py-Ba"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "We used a customized reactor for four inch wafers equipped with automated temperature, pressure and mass flow controllers (MFCs, Alicat Scientific, USA) for the deposition of BaO and BTO films (Fig. 1). BASF (Ludwigshafen, Germany) developed and supplied the proprietary py-Ba precursor. Alfa-Aesar (USA) supplied titanium(IV) isopropoxide (TTIP). All precursors and oxidants were kept in 50 cm3 stainless steel sample cylinders and heated to 175 1C (py-Ba, based on thermo-gravimetric analysis (TGA), Fig. S1, ESI†) and 70 1C (TTIP), respectively. The chamber had three inlet ports. The first attached py-Ba to the chamber and was backed by an Ar line. The second port connected the manifold containing the oxidant (H2O), trimethylaluminium (TMA) and the purge gas (Ar). The third port attached TTIP. A constant flow of 10 sccm of Ar flowing through the manifold resulted in a chamber pressure of 0.6 Torr (measured by a Pirani gauge, Kurt Lesker Company, USA)."
+}

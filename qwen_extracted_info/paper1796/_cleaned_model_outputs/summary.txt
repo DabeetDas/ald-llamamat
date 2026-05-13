@@ -1,0 +1,8 @@
+{
+  "target_material": "Sb2S3",
+  "process_type": "ALD",
+  "main_precursors": ["Sb(NMe2)3", "H2S"],
+  "temperature_range": "120 /C14 C",
+  "summary": "The text describes the use of Atomic Layer Deposition (ALD) to deposit Sb2S3 as a light absorber in coaxial nanocylindrical arrays for photovoltaic devices. The ALD process uses Sb(NMe2)3 and H2S as precursors, and is performed at 120 /C14 C. The study focuses on the preparation of functional 'extremely thin absorber' solar cells with Sb2S3 as the light absorber, n-TiO2 as the electron conductor, and p-CuSCN as the hole conductor. The ALD process is used to coat the pores of anodic alumina templates with thin layers of the functional materials, and the crystallization of the initially amorphous Sb2S3 is promoted by an underlying crystalline TiO2 layer.",
+  "evidence": "The ALD reaction between Sb(NMe2)3 and H2S delivers reproducible Sb2S3 coatings in cylindrical, straight pores of 80 nm diameter and 30 mm length. The ALD process is performed at 120 /C14 C. The crystallization of the initially amorphous Sb2S3 upon annealing is strongly promoted by an underlying crystalline TiO2 layer."
+}

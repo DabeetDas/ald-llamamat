@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-420",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 20,
+  "number_of_cycles": 200,
+  "reactor_type": "traveling-wave type thermal ALD system (ISAC Research, iOV n100)",
+  "evidence": "The ALD process was conducted at various substrate temperatures of 200420 °C under a process pressure of ~1 Torr. During the purging steps following the alternating MoCl 5 (2 s) and H 2S (10 s) pulses, N2 gas (1000 sccm) was introduced for 20 s."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 275,
+  "pressure": "200–220 Pa",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 2,
+  "number_of_cycles": 1000,
+  "reactor_type": "flow-type ALD reactor",
+  "evidence": "During the deposition, the total gas pressure in the reaction zone was maintained at 200–220 Pa. The ALD process time parameters of 5 s for the Pr(thd) pulse, 2 s for the first purge, 5 s for the O pulse, and 5 s for the second purge were selected to deposit films for post-growth studies."
+}<|im_end|>

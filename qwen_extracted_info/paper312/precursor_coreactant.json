@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethyl aluminum (TMA)",
+    "tris(iso-propylcyclopentadienyl)lanthanum"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "ultrahigh-purity argon"
+  ],
+  "carrier_gas": [],
+  "evidence": "The ALD precursors were trimethyl aluminum (TMA) (Strem 98%) and tris(iso-propylcyclopentadienyl)lanthanum, La(i-PrCpd)3 (Strem 99.9%). Water was used as the oxidizer."
+}

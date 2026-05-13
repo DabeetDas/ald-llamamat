@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnS",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["dimethyl zinc (DMZn)", "H2S"],
+  "temperature_range": "200 to 340°C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of ZnS using a new gas supplying system in low-pressure metalorganic vapor phase epitaxy (MOVPE). The process involves dimethyl zinc (DMZn) and H2S as reactants, with a focus on optimizing purge conditions to achieve ALE growth over a wide temperature range. The results show that the film thickness can be controlled at the monolayer level, and the process is effective for growing ZnS films on glass substrates.",
+  "evidence": "Atomic layer epitaxy (ALE) for ZnS has been investigated by low-pressure metalorganic vapor phase epitaxy (MOVPE) using dimethyl zinc (DMZn) and H2S as reactants. A new gas supplying system was developed for the ALE growth of ZnS. By optimizing the purge conditions, ALE growth of ZnS on glass substrate can be achieved over a wide temperature range. It was found that the film thickness is almost equal to the 'monolayer growth level' from 200 to 340°C. The most specific feature of the ALE growth is the 'self-limiting' growth."
+}<|im_end|>

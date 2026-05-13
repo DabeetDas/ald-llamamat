@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves a cyclic sequence of gas–surface interactions. A substrate is exposed to a reactive precursor, followed by an inert gas purge to remove all but the chemisorbed species. A second reactant is then admitted to form the film at monolayer or sub-monolayer thickness.",
+  "intermediate_species": [
+    "TiO2",
+    "Al2O3",
+    "SiO2"
+  ],
+  "evidence": "The ALD process involves a cyclic sequence of gas–surface interactions. A substrate is exposed to a reactive precursor, followed by an inert gas purge to remove all but the chemisorbed species. A second reactant is then admitted to form the film at monolayer or sub-monolayer thickness. The presence of a native oxide layer on silicon and the crystallisation behavior under electron beam irradiation are discussed, indicating the influence of surface conditions on crystallisation."
+}

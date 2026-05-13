@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of different reactants (O2 and N2 plasma) in ALD processes for Pt. The O2-based process leads to nanoparticle ripening through surface diffusion and atom clustering, while the N2*-based process suppresses surface diffusion, resulting in static particle growth. The mechanism is characterized by the formation of Pt nanoparticles through surface reactions with the precursor MeCpPtMe3 and the respective reactants.",
+  "intermediate_species": [
+    "PtOx species",
+    "surface hydroxyls",
+    "monomethyl aluminum"
+  ],
+  "evidence": "The text describes the surface reaction mechanism for Pt ALD using O2 and N2 plasma as reactants. It mentions that the O2-based process involves surface diffusion and atom clustering, while the N2*-based process suppresses surface diffusion. The formation of PtOx species during O2 exposure is noted, and the use of surface hydroxyls and monomethyl aluminum is implied through the ALD process description."
+}

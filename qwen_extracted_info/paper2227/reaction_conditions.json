@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The key idea enabling the high-k dielectric layer growth on graphene by ALD is to provide intentional nucleation sites on the inert surface of graphene. Prior to the Al2O3 layer growth by ALD, we deposit a 1–2 nm thick Al layer on the graphene surface by e-beam evaporation. After the Al deposition, the samples are taken out in air and transferred to the ALD chamber for the deposition of Al2O3 using trimethyl aluminum as the Al source and H2O as oxidizer. Based on x-ray photoelectron spectroscopy and electrical measurement results, the Al nucleation layer is completely oxidized as soon as the sample is exposed in air to be transferred to ALD chamber. The initial stage of ALD growth starts with an H2O oxidizing cycle at elevated temperatures to further complete the oxidation step.",
+  "intermediate_species": [
+    "Al nucleation layer",
+    "oxidized Al"
+  ],
+  "evidence": "The key idea enabling the high-k dielectric layer growth on graphene by ALD is to provide intentional nucleation sites on the inert surface of graphene. Prior to the Al2O3 layer growth by ALD, we deposit a 1–2 nm thick Al layer on the graphene surface by e-beam evaporation. After the Al deposition, the samples are taken out in air and transferred to the ALD chamber for the deposition of Al2O3 using trimethyl aluminum as the Al source and H2O as oxidizer. Based on x-ray photoelectron spectroscopy and electrical measurement results, the Al nucleation layer is completely oxidized as soon as the sample is exposed in air to be transferred to ALD chamber. The initial stage of ALD growth starts with an H2O oxidizing cycle at elevated temperatures to further complete the oxidation step."
+}

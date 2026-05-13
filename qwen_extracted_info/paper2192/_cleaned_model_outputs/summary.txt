@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "ALD",
+  "main_precursors": ["diethyl zinc", "water"],
+  "temperature_range": "100 to 200 °C",
+  "summary": "The study reports on the growth of ZnO thin films using atomic layer deposition (ALD) with diethyl zinc and water precursors at temperatures as low as 100 °C. The films are polycrystalline and show excitonic photoluminescence at room temperature, indicating high quality with minimal nonradiative decay channels. The process allows for low-temperature growth, which is crucial for applications involving plastic substrates.",
+  "evidence": "We report on the zinc oxide ZnO thin films obtained by the atomic layer deposition ALD method using diethyl zinc and water precursors, which allowed us to lower deposition temperature to below 200 °C. The so-obtained \"as grown\" ZnO layers are polycrystalline and show excitonic photoluminescence PL at room temperature, even if the deposition temperature was lowered down to 100 °C."
+}

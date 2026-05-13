@@ -1,0 +1,7 @@
+{
+  "precursors": ["ruthenocene (RuCp2)"],
+  "coreactants": ["oxygen", "air"],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Argon"],
+  "evidence": "In both reactor systems, deposition is done using bis-(cyclopetadienyl)ruthenium (ruthenocene, RuCp2) precursor and dry air or oxygen as the second reagent. Argon was used as the precursor carrier gas. ... Nitrogen was used as the purge gas during the entire process, and all gas flows were set at 100 sccm."
+}

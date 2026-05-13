@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "1 - 2 mbar",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.05,
+  "purge_time_s": 0.5,
+  "number_of_cycles": 44,
+  "reactor_type": "BENEQ TFS-200",
+  "evidence": "TZO film depositions were performed with the following program: [TZO] = n . (n 1 . {ZnO} + {TiO2}) where n and n 1 are the number of supercycles and the ratio of ZnO and TiO 2 cycles {ZnO}:{TiO2}, respectively. The former was varied in a range of values from 22 to 445 whereas for the latter values of 1, 2, 5, 10, 20 were selected. The zinc oxide growth cycle, i.e. {ZnO}, was performed according to reported procedure. 13 Two precursor sequences were investigated and referred to as sequence A (H2O pulse / N2 purge / DEZ pulse / N2 purge) where the first pulse is a H 2O pulse; and sequence B (DEZ pulse / N 2 purge / H 2O pulse / N 2 purge), where the first pulse is a DEZ pulse. A titanium oxide growth cycle, i.e. {TiO 2}, corresponds to {TiO 2} = {[TTIP]/N 2/H2O/N2 = [0.5/0.05/0.5/0.5]/5/2/5 s} and \"combination\" mode was chosen to ensure proper mass transport of TTIP. \"Combination\" mode is composed of four steps ([t 1/t2/t3/t4]). First, N2 is injected in the TTIP source (t 1), then all valves are kept closed (t 2), TTIP precursor is pulsed (t3). Finally, N2 is injected with simultaneous precursor pulse (t4)."
+}<|im_end|>

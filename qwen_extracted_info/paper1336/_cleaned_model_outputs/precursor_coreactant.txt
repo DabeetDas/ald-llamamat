@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminium (TMA)", "NH3", "O2"],
+  "coreactants": ["O2", "NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The trimethylaluminium (TMA), O2 and NH3 are selected as the Al, oxygen and nitrogen sources, respectively. Each ALD cycle contains 4 steps: TMA pulse (50 ms)/Ar purge (6 s)/plasma processing (10 s)/Ar purge (12 s)."
+}

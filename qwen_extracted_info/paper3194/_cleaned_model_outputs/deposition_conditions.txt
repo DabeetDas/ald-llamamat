@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-300",
+  "pressure": "0.6 Torr",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "3",
+  "purge_time_s": "3",
+  "number_of_cycles": null,
+  "reactor_type": "hot-walled",
+  "evidence": "The sequential processing times of each step were as follows: TDMA T /H208491s /H20850, Ar purge /H208493s /H20850,H 2 plasma /H208493s /H20850,H 2–NH3 preflow /H208491s /H20850,H 2–NH3 plasma /H208493s /H20850, and Ar purge /H208493s /H20850again. The deposition temperatures for TiN and TiC–TiN films ranged from 150 to 300°C and the deposition pressure was 0.6 Torr in a hot-walled reactor."
+}

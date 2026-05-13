@@ -1,0 +1,21 @@
+{
+  "precursors": [
+    "Ir(acac)3"
+  ],
+  "coreactants": [
+    "O2",
+    "air",
+    "O2",
+    "H2",
+    "O3",
+    "H2",
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Nitrogen (N2, AGA, 99.999%) was used as the carrier and purge gas with a continuous flow rate of 400 sccm, leading to a pressure of about 10 mbar inside the reactor."
+}

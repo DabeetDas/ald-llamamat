@@ -1,0 +1,11 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "ZrCl4",
+    "H2O"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "Zirconia-modified silica and alumina samples were prepared using atomic layer epitaxy (ALD) with successive saturating reactions of ZrCl4 and H2O vapors. The growth of ZrO2 was monitored using X-ray diffraction, diffuse reflectance IR Fourier transform spectroscopy, and 1H magic angle spinning NMR. The reaction at 300 °C involved the formation of amorphous ZrClx species and ZrO2 agglomerates, with water treatment removing Cl and leaving Zr-OH groups. The study showed that the Zr concentration increased with repeated cycles, and the surface coverage was estimated using low-energy ion scattering (LEIS).",
+  "evidence": "Zirconia-modified silica and alumina samples were prepared by the atomic layer epitaxy technique using successive saturating reactions of ZrCl4 and H2O vapors. The growth of ZrO2 was followed by X-ray diffraction, diffuse reflectance IR Fourier transform spectroscopy, and 1H magic angle spinning NMR measurements. At the reaction temperature of 300 °C the main reaction of ZrCl4, on both supports, occurred with surface OH groups, leading to amorphous ZrClx species. In addition, part of the molecules reacted to form ZrO2 agglomerates while simultaneously chlorinating OH groups of the supports. Water treatment removed Cl from the ZrClx surface species, leaving behind Zr-OH groups, and released the directly chlorinated OH groups."
+}

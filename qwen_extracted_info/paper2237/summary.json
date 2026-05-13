@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "water",
+    "diethylzinc"
+  ],
+  "temperature_range": "60 to 200 °C",
+  "summary": "ZnO thin films were grown by atomic layer deposition (ALD) using water and diethylzinc precursors at low temperatures (60 to 200 °C). The study focused on controlling electrical parameters and minimizing defect-related photoluminescence (PL) bands. The films showed an anticorrelation between free-electron concentration and mobility, indicating reduced defects rather than self-compensation. These films were suitable for low-thermal-budget applications such as cross-bar memories and hybrid organic/ZnO junctions.",
+  "evidence": "We report on zinc oxide thin films grown by atomic layer deposition at a low temperature, which is compatible with a low thermal budget required for some novel electronic devices. ... The temperature range used in the ALD processes described above is fully compatible with a low thermal budget required for such novel electronic devices as cross-bar memories and hybrid organic/ZnO junctions."
+}

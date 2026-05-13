@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 335,
+  "pressure": "800 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Atomic Classic; CN-1 Co. Ltd.",
+  "evidence": "The temperature was ramped up to 335 °C to deposit ~ 20-nm-thick AlN and AlGaN layers using trimethylaluminum (TMA), TEG, and NH3 as precursors. The base pressure and processing pressure of the chamber were ~ 90 and ~ 800 mTorr, respectively."
+}

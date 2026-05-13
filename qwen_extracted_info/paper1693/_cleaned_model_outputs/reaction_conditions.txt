@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the alternating exposure of the surface to two precursors, bis(tert-butylimido)bis-(dimethylamido)tungsten(VI) and ammonia. The surface is first saturated with one precursor, followed by the second, leading to a self-limiting reaction that forms a conformal layer. The reaction is self-limiting, allowing only a certain maximum thickness to form in each cycle.",
+  "intermediate_species": ["bis(tert-butylimido)bis-(dimethylamido)tungsten(VI)", "ammonia"],
+  "evidence": "The surface or template onto which the film is to be deposited is exposed to a dose of vapor from one precursor until it becomes saturated with up to one monolayer of coverage. Any excess unreacted vapor from that precursor is then pumped away. Next, a vapor dose from the second precursor is brought to the surface and allowed to react to reactivate the surface toward the first precursor."
+}

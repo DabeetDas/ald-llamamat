@@ -1,0 +1,8 @@
+{
+  "target_material": "Hf3N4 and Zr3N4",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["homoleptic tetrakis(dialkylamido)-metal(IV) complexes", "ammonia"],
+  "temperature_range": "150 - 250 °C",
+  "summary": "Highly uniform, smooth, and conformal coatings of higher nitrides of hafnium and zirconium were produced by atomic layer deposition from homoleptic tetrakis(dialkylamido)-metal(IV) complexes and ammonia at low substrate temperatures (150 -250 °C). The films were amorphous as deposited and showed good adhesion to substrates such as silicon, glass, quartz, and glassy carbon. The process yielded 1.15-1.20 Å of metal nitride film per cycle.",
+  "evidence": "Highly uniform, smooth, and conformal coatings of higher nitrides of hafnium and zirconium were produced by atomic layer deposition from homoleptic tetrakis(dialkylamido)-metal(IV) complexes and ammonia at low substrate temperatures (150 -250 °C). The precursor vapors were alternately pulsed into a heated reactor, yielding 1.15-1.20 Å of metal nitride film for every cycle. All of the films showed good adhesion to the substrates, were chemically resistant, and did not oxidize over time."
+}

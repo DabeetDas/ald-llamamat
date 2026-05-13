@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "138-210",
+  "pressure": "1.8 mbar",
+  "precursor_pulse_time_s": 1.5,
+  "coreactant_pulse_time_s": 6,
+  "purge_time_s": 3,
+  "number_of_cycles": 1000,
+  "reactor_type": "F-120 Sat",
+  "evidence": "Fig.1 shows that a 1. 5 s Mn (thd) pulse is sufficient at a precursor sublimation temperature of 133 8C.The subsequent purging can safely be limited to just 0.1 s and still prevent CVD growth.The ozone pulse provides a modest increase in growth rate with the pulse time.On this basis a pulse time of 6 s was chosen.Due to the large ozone flow chosen, the reactor pressure increased to 3.5 mbar during the ozone pulse. Although the subsequent purge time can be chosen as short as 0.5 s without indication of CVD growth, a longer purge time of 3 s was chosen in order to sufficiently lower the reactor pressure."
+}<|im_end|>

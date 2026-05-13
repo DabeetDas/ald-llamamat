@@ -1,0 +1,11 @@
+{
+  "target_material": "SrO and SrTiO3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "{Sr(demamp)(tmhd)}2",
+    "Ti(CpMe5)(OMe)3"
+  ],
+  "temperature_range": "370 °C",
+  "summary": "The study describes the development of an ALD process for SrTiO3 (STO) thin film growth using a newly designed Sr-precursor, {Sr(demamp)(tmhd)}2, and Ti(CpMe5)(OMe)3 as the Ti-precursor. The process aimed to address issues like abnormal initial growth and low step coverage by optimizing precursor reactivity and oxygen source. The ALD process achieved a growth rate of 0.05 nm/cycle and ∼85% step coverage on a capacitor hole structure with an aspect ratio of 10. The minimum equivalent oxide thickness (tox) was 0.46 nm with a leakage current of <10−7 A/cm2 at 0.8 V.",
+  "evidence": "The ALD process for SrTiO3 (STO) thin film growth was developed using a newly designed and synthesized heteroleptic Sr-precursor, {Sr(demamp)(tmhd)}2, which offered an intermediate reactivity toward oxygen between Sr(tmhd)2 and Sr(iPr3Cp)2. The abnormal initial growth behavior became negligible during the growth of the SrO and STO films on the Ru electrode, allowing the growth of the SrO and STO films to be highly controllable with a moderate growth rate. The ALD process of the STO film revealed a growth rate of 0.05 nm/cycle and ∼80% of step coverage in terms of the thickness and cation composition on a capacitor hole structure with an aspect ratio of 10 (opening diameter of 100 nm and depth of 1 μm)."
+}

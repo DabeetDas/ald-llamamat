@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "100, 200, and 300",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "75",
+ "reactor_type": "Cambridge NanoTech Savannah 100",
+ "evidence": "Hafnium dioxide films were grown using a Cambridge NanoTech Savannah 100 (ALD) system using TDMA-Hf [tetrakis(dimethylamido)hafnium, Hf(NMe2)4] and water vapor as source materials."
+}<|im_end|>

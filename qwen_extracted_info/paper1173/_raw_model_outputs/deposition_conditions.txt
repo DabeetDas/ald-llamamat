@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "240-285",
+  "pressure": "0.550 ± 0.005 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "An ALD cycle consisted of Sn(dmamp) 2 feeding (2 s), purging (10 s), H 2S feeding (2 s), and purging (20 s)."
+}<|im_end|>

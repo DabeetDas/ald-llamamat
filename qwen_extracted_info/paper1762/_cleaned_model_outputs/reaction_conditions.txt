@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves the resurrection of a dead layer by Ti dopant atoms, which improves water oxidation efficiency by increasing the concentration of active surface species such as Fe(III)-OH capable of participating in further water oxidation reactions.",
+  "intermediate_species": ["Fe(III)-OH", "Fe(IV)O species"],
+  "evidence": "The text states: 'We hypothesize that Ti doping results in a higher surface concentration of Fe( III)–OH capable of participating in further water oxidation reactions.' Additionally, it mentions 'the first step in water oxidation with hematite electrodes as Fe(III)–OH terminations being oxidized to form an Fe(IV)O species.'"
+}

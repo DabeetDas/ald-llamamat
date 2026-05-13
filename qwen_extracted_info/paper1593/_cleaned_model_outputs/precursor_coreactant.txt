@@ -1,0 +1,7 @@
+{
+  "precursors": ["SiCl4"],
+  "coreactants": ["DI water"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "SiO2 ALD was carried out in a home-built setup at room temperature using sequential SiCl4 (Sigma-Aldrich, 99.998%) and DI water exposures."
+}

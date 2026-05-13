@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "Scanning electron microscopy (SEM)",
+    "Scanning transmission electron microscopy ((S)TEM)",
+    "High-angle annular dark-field STEM (HAADF-STEM)",
+    "Energy-dispersive X-ray spectroscopy (EDX)",
+    "In situ spectroscopic ellipsometry (SE)",
+    "Gonio and grazing-incident X-ray diffraction (XRD)",
+    "Rutherford backscattering spectroscopy (RBS)",
+    "Elastic recoil detection (ERD)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Four-point probe"
+  ],
+  "evidence": "Scanning electron microscopy (SEM) was employed to investigate the surface morphology of the films. A Zeiss Sigma SEM with an in-lens detector and operating at an accelerating voltage of 3 kV was used for SEM studies. The microstructures of the thin film and the heterostructures were studied using (scanning) transmission electron microscopy [(S)TEM] with a JEOL ARM 200F microscope operated at 200 kV. High-angle annular dark-field STEM (HAADF-STEM) combined with energy-dispersive X-ray spectroscopy (EDX) was used to study the chemical composition of the TiSx-NbSx heterostructures on both the planar Si and 3D nanowire substrates. The growth of the TiSx and NbSx thin films was investigated using in situ spectroscopic ellipsometry (SE) where the film thickness was measured as a function of the number of ALD cycles. Data were collected every 10 ALD cycles by a J.A. Woollam Co., Inc., M2000U spectroscopic ellipsometer with a photon energy range of 0.7 −5 eV. The crystallinity of the thin films was studied by Gonio and grazing-incident X-ray diffraction (XRD) with a PANalytical X′Pert Pro MRD analyzer using a Cu Kα (λ = 1.54 Å) X-ray source operated at 40 mA and 45 kV. The composition and purity of the thin films were determined using Rutherford backscattering spectroscopy (RBS) and elastic recoil detection (ERD) by Detect 99 B.V. Eindhoven, The Netherlands, using a 2 MeV He+ beam source and with the detectors at scattering angles of 105 and 170° for RBS and 25° for ERD. X-ray photoelectron spectroscopy (XPS) data were collected on a Thermo Scientific KA1066 spectrometer with monochromatic Al Kα (hν = 1486.6 eV) X-ray radiation to determine the binding environment and valence band spectra for the deposited thin films. Resistivity measurements were performed ex situ in ambient conditions using a Signatone Four-Point Probe method in combination with a Keithley 2400 sourcemeter acting both as the current source and voltmeter."
+}

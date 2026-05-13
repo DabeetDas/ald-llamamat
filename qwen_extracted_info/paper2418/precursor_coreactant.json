@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Hf(NMe2)4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "AHfO2 layer with a thickness of 12 nm was deposited on the CNFETs by ALD (Cambridge NanoTech Inc., Savannah 100) at 250 ◦C with tetrakis(dimethylamido)hafnium (Hf(NMe2)4) and water as the precursors [ 12]. The sample was put in the ALD chamber heated at the deposition temperature, after cleaning with acetone. Next, the chamber was evacuated to 0.2 Torr with a 20 sccm N 2 flow for 10 min. H 2O and Hf(NMe2)4 were introduced alternately for 5 s intervals over 160 cycles."
+}

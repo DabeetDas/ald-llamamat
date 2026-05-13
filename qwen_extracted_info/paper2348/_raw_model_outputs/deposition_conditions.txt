@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "480",
+ "pressure": "",
+ "precursor_pulse_time_s": "0.3",
+ "coreactant_pulse_time_s": "0.3",
+ "purge_time_s": "2.6",
+ "number_of_cycles": "1200",
+ "reactor_type": "Cross-flow",
+ "evidence": "The substrate makes one rotation (controlled by a stepping motor) in 2.6 s and the exposure time to each gas is 0.3 s."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "AlN",
+  "process_type": "PEALD",
+  "main_precursors": ["Trimethylaluminum (TMA)", "N2/H2 plasma"],
+  "temperature_range": "300 °C",
+  "summary": "The study describes the low-temperature atomic layer epitaxy of AlN ultrathin films using plasma-enhanced atomic layer deposition (PEALD) with in-situ atomic layer annealing (ALA). The process involves Ar plasma treatment during each ALD cycle to enhance crystallinity, enabling the formation of high-quality single-crystalline AlN layers at a low temperature of 300 °C. The ALA treatment significantly improves the crystallinity and reduces defects, leading to enhanced optical and electrical properties.",
+  "evidence": "By applying the ALA with the Ar plasma treatment in each ALD cycle, the AlN thin film was converted dramatically from the amorphous phase to a single-crystalline epitaxial layer, at a low deposition temperature of 300 °C. The energy transferred from plasma not only provides the crystallization energy but also enhances the migration of adatoms and the removal of ligands, which significantly improve the crystallinity of the epitaxial layer."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectometry (XRR)",
+    "X-ray Diffraction (XRD)",
+    "Atomic Force Microscopy (AFM)",
+    "Time-of-Flight Elastic Recoil Detection Analysis (TOF-ERDA)",
+    "Capacitance-Voltage (C−V) measurement",
+    "Current-Voltage (I−V) measurement"
+  ],
+  "evidence": "Film thickness measurements, reflectance spectra of the thicker films (>40 nm) were measured with a Hitachi U-2000 double beam spectrophotometer. Thicknesses were then evaluated by the optical fitting method originally described by Ylilammi and Ranta-aho. The thicknesses below 40 nm were evaluated by X-ray reflectometry (XRR) using a Bruker D8 Advance X-ray diffractometer. Crystallinity of the films was studied using a Panalytical X ’pert Pro MPD X-ray diffractometer (XRD). Film morphology was studied with an atomic force microscope (Nanoscope V, Veeco Instruments), operated in the tapping mode with a scanning frequency of 1 kHz. Chemical compositions of the films were measured by time-of- flight elastic recoil detection analysis (TOF-ERDA), The electrical measurements were carried out on Al/Ti/ZrO2/TiN/p-Si(100)/Al capacitors with top electrodes consisting of 25 nm thick Ti and 100 −130 nm thick Al layers with an area of 0.204 mm2, electron-beam evaporated through a shadow mask. Capacitance − voltage (C−V) curves were recorded using a HP4284A precision LCRmeter in a two-element series circuit mode. The stair-sweep voltage step was 0.05 V. The period between voltage steps was 0.5 s. The AC voltage applied to the capacitor was 0.05 V, while the frequency of the AC signal was 1 kHz. The current −voltage (I −V) curves were measured with a Keithley 2400 Source Meter in the stair sweep voltage mode, while the voltage step used was 0.05 V and the top electrode dots were biased negatively in relation to the TiN/Si substrate,"
+}

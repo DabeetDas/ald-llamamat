@@ -1,0 +1,7 @@
+{
+  "precursors": ["Hf /H20849N/H20849CH3/H20850/H20849C2H5/H20850/H208504", "BDMAS: SiH2/H20849N/H20849CH3/H208502/H208502", "TDMAS: SiH/H20849N/H20849CH3/H208502/H208503"],
+  "coreactants": ["O3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "A single ALD cycle for HfO2 consisted of the following process: Hf /H20849N/H20849CH3/H20850/H20849C2H5/H20850/H208504 precursor was introduced into the reactor chamber for 20 s, and this was then purged for 30 s. This precursor was introduced using liquid flow meter system and vaporized at 120°C with Ar as a carrier gas. Following this, an oxidant O3 was introduced for 5 s, and purged for 30 s. The Hf/H20849N/H20849CH3/H20850/H20849C2H5/H20850/H208504 and carrier gas have flow rates of 75 mg/min and 300 standard cubic centimeter/min (sccm), respectively. In this ALD SiO2 process, BDMAS was directly introduced into the reactor chamber and controlled using a mass flow system at 50 °C, because the vapor pressure of BDMAS is very high. The BDMAS have flow rate of 20 sccm to obtain the good uniformity of better than 95%. On the other hand, TDMAS was introduced into the reactor chamber using a liquid mass flow system and vaporized at 80°C with Ar as a carrier gas. The TDMAS and carrier gas have flow rates of 10 and 300 sccm, respectively. In the process, a buffer gas of Ar always flowed at 700 sccm into the reactor chamber."
+}<|im_end|>

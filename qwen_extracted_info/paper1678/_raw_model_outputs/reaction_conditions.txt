@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "TMA + COOH-SAM → Al-CH3 + CH3 + COOH-SAM",
+    "Al-CH3 + D2O → Al-OH + CH4",
+    "Al-OH + D2O → Al-O-Al + OH- + H+"
+  ],
+  "surface_mechanism_description": "The ALD process involves the reaction of trimethylaluminum (TMA) with carboxylic acid-terminated self-assembled monolayers (COOH-SAMs), forming Al-CH3 species and releasing CH4. Subsequent exposure to water (D2O) hydrolyzes the Al-CH3 to form Al-OH groups, which then react with additional D2O to form Al-O-Al bridges and release OH- and H+ ions. This mechanism is supported by in situ infrared absorption spectroscopy observations.",
+  "intermediate_species": [
+    "Al-CH3",
+    "Al-OH",
+    "Al-O-Al"
+  ],
+  "evidence": "The reaction of TMA with COOH-SAMs forms Al-CH3 species, as evidenced by the disappearance of the CdO stretch mode at 1718 cm-1 after TMA exposure. The hydrolysis of Al-CH3 by D2O is indicated by the decrease in intensity of the Al-CH3 umbrella mode at 1213 cm-1 and the appearance of a broad peak at 2743 cm-1 (OD stretch), confirming hydrolysis. The formation of Al-O-Al bridges is supported by the appearance of a broad Al2O3 band at 700-800 cm-1 after the second TMA exposure."
+}<|im_end|>

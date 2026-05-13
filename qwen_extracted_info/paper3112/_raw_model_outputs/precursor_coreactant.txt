@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMAT", "TDEAT", "TEMAT", "PrimeTi TM", "StarTiTM", "TyALDTM"],
+  "coreactants": ["O3", "H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "TiO2 thin films are deposited using TDMAT, TDEAT, TEMAT, PrimeTi TM, StarTiTM and TyALD TM. O3 and H2O are used as the oxidizing agent. ... 8 % O3/O2 was pulsed for 2 s to oxidize the chemisorbed metal precursor followed by 5 s N2 purge during ALD of all films."
+}<|im_end|>

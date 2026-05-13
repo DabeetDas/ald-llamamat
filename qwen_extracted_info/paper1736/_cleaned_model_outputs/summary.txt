@@ -1,0 +1,8 @@
+{
+  "target_material": "Pt",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["[(1,2,5,6-η)-1,5-hexadiene]dimethylplatinum(II) (HDMP)", "O2"],
+  "temperature_range": "80 °C",
+  "summary": "The study describes the successful atomic layer deposition (ALD) of platinum (Pt) at a low temperature of 80 °C using [(1,2,5,6-η)-1,5-hexadiene]dimethylplatinum(II) (HDMP) as the precursor and O2 as the counter reactant. This process enables the deposition of continuous Pt layers on thermally fragile substrates, leading to the fabrication of highly conductive and flexible cotton fibers. These fibers are used to create a capacitive-type textile pressure sensor with high sensitivity and durability.",
+  "evidence": "Here, the growth of metallic Pt layers by ALD at a low temperature of 80 °C is achieved by using [(1,2,5,6-η)-1,5-hexadiene]dimethylplatinum(II) (HDMP) and O2 as the Pt precursor and counter reactant, respectively. ... the successful growth of continuous Pt layers at the low temperature without any reactive reactants owing to the low activation energy of the HDMP precursor for surface reactions. ... the fabrication of high-performance conductive cotton fibers by ALD. A capacitive-type textile pressure sensor is successfully demonstrated by stacking elastomeric rubber-coated conductive cotton fibers perpendicularly and integrating them onto a fabric with a 7 × 8 array configuration to identify the features of the applied pressure."
+}

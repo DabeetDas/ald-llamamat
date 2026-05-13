@@ -1,0 +1,8 @@
+{
+  "target_material": "WNxCy",
+  "process_type": "Remote plasma atomic layer deposition (RPALD)",
+  "main_precursors": ["bis(tert-butylimido) bis (dimethylamido) tungsten (BTBMW)", "hydrogen plasma"],
+  "temperature_range": "200 to 400 8C",
+  "summary": "The study investigates the annealing effect on the work function variation of WNxCy films deposited by remote plasma atomic layer deposition (RPALD). The films were deposited using a BTBMW precursor and hydrogen plasma. The work function of the films was measured using MOSCAP stacks and C–V measurements. The work function was found to vary with annealing treatment, and the films showed suitable work function values for pMOS applications.",
+  "evidence": "Tungsten-nitrogen-carbide (WNxCy) thin films were deposited by employing the remote plasma atomic layer deposition (RPALD) using a bis(tert-butylimido) bis (dimethylamido) tungsten (BTBMW) precursor and hydrogen plasma as a reactant. The work functions of the WNxCy films were measured by flat band voltages of the C–V curves. The work functions of the films were collected from various carbon and nitrogen concentrations and heat treatment conditions. The work function of the as-deposited WNxCy film was 4.886 eV, and the work function of the annealed WNxCy film was 4.91 eV."
+}

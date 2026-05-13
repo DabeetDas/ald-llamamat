@@ -1,0 +1,31 @@
+{
+  "precursors": [
+    {
+      "name": "(tBuN)2(NMe2)2Mo",
+      "evidence": "Synthesis of the TMD MoS2 from sulﬁdation of oxide deposited by both thermal ALD from (tBuN)2(NMe2)2Mo and O3 and plasma enhanced ALD (PEALD) from (tBuN)2(NMe2)2Mo and remote O2 plasma was performed."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "O3",
+      "evidence": "Synthesis of the TMD MoS2 from sulﬁdation of oxide deposited by both thermal ALD from (tBuN)2(NMe2)2Mo and O3 and plasma enhanced ALD (PEALD) from (tBuN)2(NMe2)2Mo and remote O2 plasma was performed."
+    },
+    {
+      "name": "O2 plasma",
+      "evidence": "Synthesis of the TMD MoS2 from sulﬁdation of oxide deposited by both thermal ALD from (tBuN)2(NMe2)2Mo and O3 and plasma enhanced ALD (PEALD) from (tBuN)2(NMe2)2Mo and remote O2 plasma was performed."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Ar",
+      "evidence": "The argon gas ﬂow for the process was 20 sccm of Ar carrier gas with 200 sccm of plasma Ar continuously ﬂowing through the chamber."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "Ar",
+      "evidence": "The argon gas ﬂow for the process was 20 sccm of Ar carrier gas with 200 sccm of plasma Ar continuously ﬂowing through the chamber."
+    }
+  ],
+  "evidence": "Synthesis of the TMD MoS2 from sulﬁdation of oxide deposited by both thermal ALD from (tBuN)2(NMe2)2Mo and O3 and plasma enhanced ALD (PEALD) from (tBuN)2(NMe2)2Mo and remote O2 plasma was performed."
+}<|im_end|>

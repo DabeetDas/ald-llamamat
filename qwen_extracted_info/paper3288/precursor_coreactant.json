@@ -1,0 +1,18 @@
+{
+  "precursors": [
+    "MeCpPtMe3",
+    "RuCp2",
+    "Ru(thd)3",
+    "Pd(keim2)2"
+  ],
+  "coreactants": [
+    "oxygen"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "The noble metal films were grown on 5 cm × 5 cm borosilicate glass and silicon substrates with an as-deposited 2 –4 nm thick, amorphous Al2O3 layer. The Al2O3 layer was grown by ALD from AlCl3 and H2O. Platinum films were grown by ALD from MeCpPtMe3 (Strem Chemicals, Newburyport, MA) and oxygen (99.999%). MeCpPtMe3 was evaporated at room temperature inside the reactor. The oxygen flow rate was 20 sccm. Palladium was deposited by ALD from Pd(keim2)2, whose structure is shown in Fig. 1, and oxygen (99.999%). The palladium precursor was synthesized as described by Liu et al. 27 Pd(keim2)2 was evaporated at 60 °C, which is also the melting point of the compound. Oxygen flow rates of 20 and 40 sccm were used. Iridium films were grown from Ir(acac)3 (acac /H11505acetylacetonato) (Strem Chemicals), and ruthenium films from RuCp2 (Strem Chemicals) and Ru(thd)3 (Volatec, Porvoo, Finland) by similar ALD processes as described earlier 15,16,18 with the exception that oxygen (99.999%) instead of air was used as the other reagent. Oxygen flow rates of 5 and 20 sccm were used in the RuCp2 and Ru(thd)3 processes, respectively. Ir(acac)3 was evaporated at 150 °C, RuCp2 at 60 °C, and Ru(thd)3 at 100 °C. The oxygen flow rate in the iridium process was varied between 5 and 20 sccm, and was the same as in the subsequent metal process."
+}

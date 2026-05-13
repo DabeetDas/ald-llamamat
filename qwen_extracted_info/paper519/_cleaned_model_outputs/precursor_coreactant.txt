@@ -1,0 +1,7 @@
+{
+  "precursors": ["Aluminum chloride", "aluminum n-propoxide", "P2O5"],
+  "coreactants": ["water", "2-methyl-2-propanol"],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Nitrogen"],
+  "evidence": "The source materials for aluminum were aluminum chloride and aluminum n-propoxide and for oxygen, water and 2-methyl-2-propanol. The phosphorus source was P2O5. Nitrogen (99.999%) was used as a carrier and purging gas."
+}

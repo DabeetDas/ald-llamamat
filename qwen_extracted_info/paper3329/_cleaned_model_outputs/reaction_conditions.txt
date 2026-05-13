@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Surface Ni atoms are first partially oxidized into NiOOH, which is evidenced by the oxidation peak at around 1.51 V. Then the NiOOH is further oxidized to NiOO2 for a NiO/Ni/C sample with higher potential, which leads to oxygen evolution.",
+  "intermediate_species": ["NiOOH", "NiOO2"],
+  "evidence": "According to the OER mechanistic studies of Ni-based catalysts in alkaline electrolytes, it involves four consequent elementary steps and can be depicted as follows: Ni2+ + 3OH− ↔ NiOOH + H2O + e− (1) NiOOH + OH− ↔ NiO(OH)2 + e− (2) NiO(OH)2 + 2OH− ↔ NiOO2 + 2H2O +2e− (3) NiOO2 + OH− → NiOOH + O2 + e− (4) Overall OER: 4OH− → O2 + 2H2O + 4e− (5) Surface Ni atoms on the catalyst surface are first partially oxidized into NiOOH, which is evidenced by the oxidation peak at around 1.51 V in Figure 4c. Then the NiOOH is further oxidized to NiOO2 for a NiO/Ni/C sample with higher potential, which lead to oxygen evolution."
+}

@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "TiCl4(g) → TiCl3(ads) + Cl(ads)",
+    "3TiCl4(g) + 4NH3(g) → 3TiN(s) + 12HCl(g) + 1/2N2(g)",
+    "2TiCl4(g) + 2NH3(g) → 2TiN(s) + 6HCl(g) + Cl2(g)"
+  ],
+  "surface_mechanism_description": "The reduction of titanium occurs during the TiCl4 dosing step, not the NH3 step. The initial adsorption of TiCl4 is self-limiting and partially dissociative, leading to the formation of TiCl3(ads) and Cl(ads) species. Ammonia treatment removes most of the chlorine, leading to the formation of a nitride. A Ti3N4 layer forms on top of the TiN film.",
+  "intermediate_species": [
+    "TiCl3(ads)",
+    "Cl(ads)",
+    "Ti3+",
+    "Ti4+",
+    "Ti3N4"
+  ],
+  "evidence": "The text states: 'The data suggest that the reduction of the Ti4+ species may therefore occur during the TiCl4, not NH3, dosing step.' It also mentions: 'the initial titanium is deposited in the form of Ti3+ but is converted to a +4 oxidation at saturation' and 'the formation of a nitride' after ammonia treatment. Additionally, 'the Ti3N4 layer sits on top of the TiN films' is noted."
+}

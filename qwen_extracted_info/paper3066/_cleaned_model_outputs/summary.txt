@@ -1,0 +1,8 @@
+{
+  "target_material": "Hf xZr1−xO2",
+  "process_type": "ALD",
+  "main_precursors": ["hafnium tetrachloride (HfCl4)", "zirconium tetrachloride (ZrCl4)", "deuterated water (D2O)", "tetrakis(ethylmethylamino)hafnium (TEMAHf)", "tetrakis(ethylmethylamino)zirconium (TEMAZr)", "ozone (O3)", "oxygen plasma (O2 plasma)"],
+  "temperature_range": "250°C to 300°C",
+  "summary": "The study investigates the impact of different precursor combinations on the properties of atomic-layer-deposited Hf xZr1−xO2 high-k dielectrics. Three precursor combinations were used: HfCl4/ZrCl4/D2O at 300°C, TEMAHf/TEMAZr/O3 at 275°C, and TEMAHf/TEMAZr/O2 plasma at 250°C. The films were characterized for their physical and electrical properties, including tetragonal phase stabilization, charge-trapping characteristics, and leakage current. The results show that the choice of precursor significantly affects the microstructure and electrical performance of the Hf xZr1−xO2 films.",
+  "evidence": "The HfxZr1−xO2 films were formed by ALD using three different precursor combinations: hafnium tetrachloride (HfCl4), zirconium tetrachloride (ZrCl4), and deuterated water (D2O) at 300°C (denoted as HfxZr1−xO2 A), tetrakis(ethylmethylamino)hafnium (TEMAHf), tetrakis(ethylmethylamino)zirconium (TEMAZr), and ozone (O3) at 275°C (denoted as HfxZr1−xO2 B), and TEMAHf, TEMAZr, and O2 plasma at 250°C (denoted as HfxZr1−xO2 C). The use of D2O rather than H2O has been shown to improve interface quality and, in turn, improve device reliability. Each of the three processes is accomplished using a deposition temperature that is optimized for the chosen precursor."
+}

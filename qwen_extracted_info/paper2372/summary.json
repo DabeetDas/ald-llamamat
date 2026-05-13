@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "TMA",
+    "H2O"
+  ],
+  "temperature_range": "150 ◦C",
+  "summary": "Amorphous Al2O3 thin films were deposited on a Si (1 1 1) substrate at 150 ◦C using atomic layer deposition (ALD) with TMA and H2O as precursors. The films were then annealed at temperatures ranging from 1000 to 1200 ◦C to study crystallization characteristics. The optimal annealing temperature for crystallization was found to be 1150 ◦C, which resulted in the best insulating properties. The study also observed the formation of an SiO2 interfacial layer after annealing.",
+  "evidence": "Amorphous Al2O3 thin films were deposited on a Si (1 1 1) substrate at 150 ◦C in oxygen-rich conditions by atomic layer deposition. Rapid thermal annealing was performed at high temperatures, ranging from 1000 to 1200 ◦C to study the crystallization characteristics of the Al2O3 films. It was found that the best crystallization of the Al2O3 film was achieved after annealing at 1150 ◦C, corresponding to a minimum of full width at half maximum (FWHM) of the Al2O3 (012) XRD peak and the maximum of surface roughness and the capacitances. The formation of the SiO2 interfacial layer after annealing has been observed by HRTEM for the annealed sample, accompanied by a decrease in the thickness of Al2O3 films."
+}

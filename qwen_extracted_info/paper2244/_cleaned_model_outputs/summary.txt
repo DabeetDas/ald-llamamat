@@ -1,0 +1,8 @@
+{
+  "target_material": "Palladium (Pd)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Pd(hfac)2", "formalin", "trimethylaluminum (TMA)"],
+  "temperature_range": "130 °C to 150 °C",
+  "summary": "This study investigates the enhancement of palladium atomic layer deposition (ALD) on Al2O3 surfaces by using trimethylaluminum (TMA) to prevent surface poisoning by reaction products. The process involves the use of Pd(hfac)2 and formalin as precursors, with TMA exposure during the ALD cycle to remove surface-blocking species, thereby reducing the nucleation period and growth temperature. The results show that TMA facilitates Pd ALD by removing Al(hfac) species that block surface sites, allowing for lower growth temperatures and improved nucleation.",
+  "evidence": "Exposures of trimethylaluminum during Pd ALD using Pd(hfac)2 and formalin on Al2O3 surfaces can shorten the nucleation period and reduce the growth temperatures. Fourier transform infrared spectroscopy studies indicate that TMA removes Al(hfac) species that block surface sites. Pd ALD nucleates more readily and grows at lower temperatures because higher temperatures are not needed to desorb Al(hfac) species."
+}

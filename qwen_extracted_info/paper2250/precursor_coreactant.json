@@ -1,0 +1,36 @@
+{
+  "precursors": [
+    {
+      "name": "Al(CH3)3",
+      "abbreviation": "TMA",
+      "evidence": "For the plasma-assisted ALD process of Al2O3, more extensively described in Ref. 14, started with a saturated dose of Al(CH3)3 (trimethylaluminum or TMA from Akzo-Nobel, semiconductor grade)."
+    },
+    {
+      "name": "TiCl4",
+      "abbreviation": "TiCl4",
+      "evidence": "For the plasma-assisted ALD process of TiN, first TiCl4 (titanium tetrachloride, from Sigma-Aldrich with 99.995% purity) was dosed into the reactor by two subsequent 40 ms vapor injections."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "O2",
+      "evidence": "O2 also served as a purging gas because O2 does not react with Al(CH3)3."
+    },
+    {
+      "name": "H2–N2 gas mixture",
+      "evidence": "The plasma was ignited in a H2–N2 gas mixture in a ratio of 8:1 (68 SCCM in total) and was sustained for a duration of 10 s."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "O2",
+      "evidence": "O2 also served as a purging gas because O2 does not react with Al(CH3)3."
+    },
+    {
+      "name": "Ar",
+      "evidence": "Argon was used as a purge gas at 150 SCCM flow rate."
+    }
+  ],
+  "carrier_gas": [],
+  "evidence": "For the plasma-assisted ALD process of Al2O3, more extensively described in Ref. 14, started with a saturated dose of Al(CH3)3 (trimethylaluminum or TMA from Akzo-Nobel, semiconductor grade). For the plasma-assisted ALD process of TiN, first TiCl4 (titanium tetrachloride, from Sigma-Aldrich with 99.995% purity) was dosed into the reactor by two subsequent 40 ms vapor injections. O2 also served as a purging gas because O2 does not react with Al(CH3)3. Argon was used as a purge gas at 150 SCCM flow rate."
+}

@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "x(–OH)(s) + Hf[N(CH3)(C2H5)]4(g) → (–O–)xHf[N(CH3)(C2H5)]4−x(s) + x(CH3)(C2H5)NH(g)",
+    "(–O–)xHf[N(CH3)(C2H5)]4−x(s) + (4 − x)H2O(g) → (–O–)xHf(OH)4−x(s) + (4 − x)(CH3)(C2H5)NH(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "alkylamido ligands",
+    "surface hydroxyls",
+    "formate species",
+    "alkylammonium ions",
+    "metal-bound cyano groups",
+    "metal-bound carbonyl groups"
+  ],
+  "evidence": "The surface reaction during the water pulse should ideally proceed as (–O–)xHf[N(CH3)(C2H5)]4−x(s) + (4 − x)H2O(g) → (–O–)xHf(OH)4−x(s) + (4 − x)(CH3)(C2H5)NH(g). The spectra we obtain after the water pulse indicates that this is indeed what occurs. A negative peak at 2040 cm−1 is noted in the spectra obtained at 320 ◦C. As will be discussed in Section 3.3, subsequent experiments have found that the 2040 cm−1 peak decays within minutes after a TEMAH pulse, which indicates that the species either desorbs or decomposes further."
+}

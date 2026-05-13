@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "WX2Y2(g) + SH(s) → WHX2Y2(s) + S(s)"
+  ],
+  "surface_mechanism_description": "The W precursor adsorption is stronger at the edge structure than at the basal plane. The abundantly adsorbed H-atoms as well as S-deficiency that result from the H2+H2S plasma, further increase the adsorption rate, and consequently, lead to a higher GPC than in the case of H2S plasma. Adsorbed H-atoms are transferred to the ligands of W precursor and make a large contribution in the adsorption energy of W precursor upon the inclusion of van der Waals interactions.",
+  "intermediate_species": [
+    "WHX2Y2",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The W precursor adsorption is stronger at the edge structure than at the basal plane. The abundantly adsorbed H-atoms as well as S-deficiency that result from the H2+H2S plasma, further increase the adsorption rate, and consequently, lead to a higher GPC than in the case of H2S plasma. Adsorbed H-atoms are transferred to the ligands of W precursor and make a large contribution in the adsorption energy of W precursor upon the inclusion of van der Waals interactions."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Formation of Si-O-Ti bonds at the interface between SiO2 and TiO2, with direct Si-Ti bond formation on hydrogen-terminated silicon surfaces. The growth mechanism involves ligand exchange between TiCl4 and surface hydroxyl groups, followed by water pulse to regenerate OH sites. The presence of hydroxyl groups on the oxide-terminated surface enhances the growth rate compared to the hydrogen-terminated surface.",
+  "intermediate_species": ["TiCl4", "surface hydroxyls", "Si-O-Ti bonds", "Si-Ti bonds"],
+  "evidence": "The XPS results provide evidence of direct Si-Ti bond formation without traces of interfacial oxide on the hydrogen-terminated silicon surface. The chemical shifts of core levels indicate the formation of Si-O-Ti bonds at the interface. The ligand exchange between OH and Cl is apparent from the fluctuation of Cl composition between half and full ALD cycles. The presence of hydroxyl groups on the oxide-terminated surface enhances the growth rate compared to the hydrogen-terminated surface."
+}

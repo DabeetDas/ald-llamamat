@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "In the atomic layer deposition (ALD) process, two separate reactants are alternately pulsed onto the substrate, and a film is deposited by means of a set of self-limiting reactions. Each cycle consists of a pulse of the first reactant, an inert gas purge, a pulse of the second reactant, and a second purge. This process deposits only a submonolayer of film, allowing for a highly conformal and uniform film even on small feature sizes and high aspect ratio structures.",
+  "intermediate_species": [
+    "iridium precursor",
+    "oxygen"
+  ],
+  "evidence": "In this technique, two separate reactants are alternately pulsed onto the substrate and deposit a film by means of a set of self-limiting reactions [12–14]. Because of the self-limiting nature, each cycle (consisting of a pulse of the first reactant, an inert gas purge, a pulse of the second reactant, and a second purge) deposits only a submonolayer of film [15]. In this way, a highly conformal and uniform film can be deposited even into very small feature sizes and high aspect ratio structures [16]."
+}

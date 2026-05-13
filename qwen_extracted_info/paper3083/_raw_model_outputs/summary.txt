@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "150 up to 600°C",
+  "summary": "Titanium dioxide (TiO2) films were grown on RuO2 layers using atomic layer deposition (ALD). The growth of rutile-phase TiO2 films was stabilized by the presence of a RuO2 seed layer, allowing for high dielectric constant (up to 155) and low equivalent oxide thickness (as low as 0.5 nm) at temperatures above 275°C. The study aimed to develop high-performance dielectric materials for DRAM capacitors.",
+  "evidence": "Titanium dioxide thin films were grown on RuO2 layers by atomic layer deposition. The stabilizing effect of the bottom rutile-type RuO2 layer resulted in growth of the TiO2 rutile films at temperatures above 275°C. A dielectric constant as high as 155 and equivalent oxide thickness /H20849EOT/H20850as low as 0.5 nm were determined from the capacitance–voltage measurements for the TiO2 films grown above 275°C. In our work we have extended the approach of Kim et al. 7 to use RuO2 as a seed layer for the TiO2 rutile phase growth. The TiO2 films were grown by ALD in a flow-type reactor 11 at temperatures from 150 up to 600°C."
+}<|im_end|>

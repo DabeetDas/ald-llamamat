@@ -1,0 +1,7 @@
+{
+  "precursors": ["(NtBu)2(NMe2)2Mo"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["Ar", "O2"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Due to the low vapor pressure of the used liquid Mo precursor (NtBu)2(NMe2)2Mo; the source is heated to 50 /C14 C and transported to the reactor chamber by Ar gas (step 1). After the first precursor dose, the reactor chamber is purged by Ar only (step 2), while later in the purge step the Ar flow through the ICP source is changed to O2 to get a stable O2 flow trough the plasma source (step 3)."
+}<|im_end|>

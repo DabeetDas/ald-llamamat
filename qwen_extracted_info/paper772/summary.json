@@ -1,0 +1,11 @@
+{
+  "target_material": "In2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "In(DMAMP)2(OiPr)",
+    "O3"
+  ],
+  "temperature_range": "150–300 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of pure In2O3 films using a newly synthesized heteroleptic In precursor, In(DMAMP)2(OiPr), and O3. The process was conducted within a temperature range of 150–300 °C, resulting in high-quality polycrystalline In2O3 films with high densities and low impurity levels. The ALD process showed a wide temperature range with a growth rate of 0.029–0.033 nm/cycle and produced films with excellent electronic properties suitable for transparent electronics and optoelectronics applications.",
+  "evidence": "In2O3 films were deposited by atomic layer deposition (ALD) using a newly synthesized heteroleptic In precursor, In(DMAMP)2(OiPr), and O3 at 150–300 °C. Self-limiting growth characteristics were exhibited for a wide ALD temperature range of 200–300 °C and growth rate of 0.029–0.033 nm/cycle. At a low temperature of 150 °C, the amorphous In2O3 film was deposited, while polycrystalline In2O3 films were achieved at 200–300 °C. The In2O3 films grown in this ALD temperature range had high densities of 7.0–7.2 g/cm3, which are comparable to those of bulk In2O3. At all growth temperatures (150–300 °C), no carbon or nitrogen impurities were detected, suggesting high reactivity of the In(DMAMP)2(OiPr) precursor. The ALD In2O3 films showed n-type electronic property with high electron concentrations of 1.6 × 1020–3.6 × 1020/cm3 and a Hall mobility of 31–39 cm2/V·s."
+}

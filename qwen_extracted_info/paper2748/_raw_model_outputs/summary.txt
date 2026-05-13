@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "atomic layer epitaxy",
+  "main_precursors": ["trimethylgallium", "arsine"],
+  "temperature_range": "430-470°C",
+  "summary": "The study investigates the surface morphology of GaAs epilayers grown by atomic layer epitaxy (ALE) using trimethylgallium and arsine. AFM analysis reveals that the surface morphology changes with temperature, showing smoother surfaces at lower temperatures and rougher surfaces at higher temperatures due to arsenic desorption. The results suggest that the growth occurs in a migration-enhanced epitaxy (MEE)-like mode rather than an ideal self-limiting ALE mode.",
+  "evidence": "We have investigated the surface morphologies of GaAs epilayers grown by atomic layer epitaxy (ALE) with atomic force microscopy (AFM) in air, GaAs epitaxial layers were prepared by the ALE technique using trimethylgallium and arsine in an ultrahigh vacuum chemical vapor deposition system, AFM images of ALE epilayers grown at temperatures of 430 and 470°C showed smooth surfaces with two-dimensional islands, Furthermore, surface morphology of ALE samples grown at 470°C was rougher than that at 430 °C presumably due to the desorption of arsenics at higher temperature, These results suggest that the films have been grown in migration-enhanced epitaxy-like mode rather than in an ideal self-limiting ALE mode."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "ALD",
+  "main_precursors": ["Ti[N(CH3)2]4", "NH3"],
+  "temperature_range": "167-207 °C",
+  "summary": "The study investigates the effects of interfacial organic layers on the nucleation, growth, and morphological evolution of TiN thin films deposited via atomic layer deposition (ALD). The interfacial organic layers, which include self-assembled monolayers (SAMs) with different structures and functional terminations, significantly influence the growth of TiN. The initial growth rate is strongly attenuated for layers with unreactive end groups (-CH3), leading to 3-D islanded growth, while layers with reactive end groups (-NH2 and -OH) show less attenuation. The study also highlights the correlation between the saturation density of adsorbed Ti species and the degree of attenuation of the initial growth rate.",
+  "evidence": "The interfacial organic layers have a profound effect on subsequent growth of TiN via ALD. For organic layers possessing unreactive end groups, the initial rate of growth (thickness deposited per cycle) is strongly attenuated, and growth on these surfaces is 3-D and severely islanded, emanating from defects in the adlayer. For organic layers that possess reactive end groups ( -NH2 and -OH), growth is also attenuated, but less so, and the degree of attenuation is essentially independent of the layer thickness and structure. The dependence of the attenuation on the substrate temperature (decreased at higher values) suggests that some degradation of the interfacial layer may occur in these cases, where fragments of the decomposition reaction(s) are retained at the surface, leading to attenuation of the rate of deposition."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "deionized water"
+  ],
+  "temperature_range": "50 °C",
+  "summary": "The study describes the use of Atomic Layer Deposition (ALD) to deposit Al2O3 monolayers on Ag nanotriangles to investigate the localized surface plasmon resonance (LSPR) nanosensor's distance dependence. The ALD process allows for the deposition of sub-angstrom thick layers, enabling high-resolution spatial analysis of LSPR shifts. The growth mechanism involves the decomposition of trimethylaluminum on Ag surfaces, and the process provides a 10x increase in spatial resolution compared to previous methods.",
+  "evidence": "Atomic layer deposition (ALD) is used to deposit 1-600 monolayers of Al2O3 on Ag nanotriangles... The use of ALD enables the study of both the long- and short-range distance dependence of the LSPR nanosensor in a single unified experiment. It is proposed that the growth of Al2O3 is initiated by the decomposition of trimethylaluminum on Ag."
+}

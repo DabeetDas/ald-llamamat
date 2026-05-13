@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "13.33 Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "inductively-coupled PECVD",
+  "evidence": "For pulsed PECVD, the plasma was pulsed between on and off states using square wave modulation with the plasma power set at 200 W for 5 s. PEALD was achieved in the same reactor at the same deposition conditions. However, the TiCl4 dose was isolated from plasma exposure using purge steps as shown in Fig. 1. For all experiments the TiCl4 dose was followed by a 5 s purge, 5 s plasma exposure, and 2 s purge."
+}

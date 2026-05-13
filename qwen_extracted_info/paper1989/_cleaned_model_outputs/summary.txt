@@ -1,0 +1,8 @@
+{
+  "target_material": "Si",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Si2Cl6", "H2"],
+  "temperature_range": "400 “C",
+  "summary": "The study demonstrates the atomic layer epitaxy (ALE) of silicon (Si) on a Ge(100) substrate using Si2Cl6 and atomic hydrogen (H2) at 400 “C. The process involves self-limiting adsorption of Si2Cl6, followed by removal of the chlorine layer using H2, enabling the growth of a thin Si/Ge alloy with a linear increase in Si content per cycle. The self-limiting nature of the process ensures a constant amount of Si deposition per cycle, and the epitaxial quality of the deposited Si was confirmed using RHEED.",
+  "evidence": "During each Si2Cl6 exposure, Si is adsorbed until Cl fully terminates the surface, making the Si deposition step self-limiting. The terminating Cl layer is removed by H2 exposure. At 400 “C, H2 rapidly desorbs from Ge(100) and Si/Ge alloy surfaces, regenerating the surface dangling bonds for the next Si2Cl6 adsorption cycle. A thin alloy is grown epitaxially on the Ge(100) substrate, which displays a linear increase in Si content and a linear decrease in Ge content, measured over 1-20 Si ALE cycles."
+}

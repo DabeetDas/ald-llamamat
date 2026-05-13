@@ -1,0 +1,11 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "trimethylgallium (TMG)",
+    "arsine (AsH3)"
+  ],
+  "temperature_range": "425 to 500~",
+  "summary": "GaAs was grown using atomic layer epitaxy (ALE) in a conventional low-pressure vertical organometallic vapor phase epitaxy (OMVPE) reactor. The growth rate R was adjusted by varying the TMG injection time, allowing R to reach 1 monolayer/cycle over a wide temperature range from 425 to 500~. The process was not self-limiting, and the activation energy for monolayer growth was found to be 36 kcal/mol.",
+  "evidence": "In experiments employing a conventional low-pressure, rotating-disk organometallic vapor phase epitaxy reactor, GaAs epilayers have been grown at substrate temperatures ranging from 425 to 500~ by exposing the substrate alternately to trimethylgallium (TMG) and AsH~. The GaAs growth rate R was approximately constant with TMG flow rate, but with increasing TMG injection time t, it increased to more than one monolayer per TMG/AsH3 cycle without saturating. Although growth was not self-limiting, for one specific combination of temperature and t, a value of R = 1 monolayer/cycle could be achieved by using t values decreasing from 10.8 s at 425~ to 0.9 s at 500~ in accordance with an Arrhenius relationship between 1/t and absolute temperature."
+}

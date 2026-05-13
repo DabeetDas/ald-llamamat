@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 225,
+ "pressure": "",
+ "precursor_pulse_time_s": 2,
+ "coreactant_pulse_time_s": 2,
+ "purge_time_s": 2,
+ "number_of_cycles": 30,
+ "reactor_type": "hot-wall horizontal flow-type F-120",
+ "evidence": "A deposition cycle of MgO growth consisted of a pulse of Mg/Cp2 vapor (2s), a pure nitrogen purge (2s), a pulse of H2O vapor (2s), and a final pure nitrogen (2s)."
+}<|im_end|>

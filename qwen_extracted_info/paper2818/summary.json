@@ -1,0 +1,10 @@
+{
+  "target_material": "Gallium",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "Laser"
+  ],
+  "temperature_range": "Not specified",
+  "summary": "The study focuses on the self-limiting deposition of gallium on GaAs using laser-atomic layer epitaxial processing.",
+  "evidence": "Direct Observation of Self-Limiting Gallium Deposition on GaAs during Laser-Atomic Layer Epitaxial Processing"
+}

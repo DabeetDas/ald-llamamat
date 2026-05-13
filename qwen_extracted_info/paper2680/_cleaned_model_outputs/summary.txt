@@ -1,0 +1,8 @@
+{
+  "target_material": "SnxTi1-xOy",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Tetrakis(diethylamino)titanium (TDEAT)", "tin(II) acetylacetonate [Sn(acac)2]", "ozone"],
+  "temperature_range": "200 /C14 C",
+  "summary": "The study investigates the growth behavior and structural analysis of SnxTi1-xOy films deposited via atomic layer deposition (ALD) using TDEAT, Sn(acac)2, and ozone. The ALD process was conducted at 200 /C14 C, and the growth rates and film compositions were analyzed using spectroscopic ellipsometry, X-ray reflectivity, and X-ray photoelectron spectroscopy. The results show that the growth rates deviate from linear interpolation, and the film composition is influenced by the ALD cycle ratio (ALDCR). Structural analysis revealed a transition from anatase to rutile phases as the Sn content increased.",
+  "evidence": "The study investigates the growth behavior and structural analysis of SnxTi1-xOy films deposited via atomic layer deposition (ALD) using TDEAT, Sn(acac)2, and ozone. The ALD process was conducted at 200 /C14 C, and the growth rates and film compositions were analyzed using spectroscopic ellipsometry, X-ray reflectivity, and X-ray photoelectron spectroscopy. The results show that the growth rates deviate from linear interpolation, and the film composition is influenced by the ALD cycle ratio (ALDCR). Structural analysis revealed a transition from anatase to rutile phases as the Sn content increased."
+}

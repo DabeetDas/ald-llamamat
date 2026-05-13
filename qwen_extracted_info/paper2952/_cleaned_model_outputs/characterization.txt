@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Rutherford Backscattering Spectrometry (RBS)",
+    "High-resolution Transmission Electron Microscopy (HR-TEM)",
+    "X-ray Diffraction (XRD)",
+    "Ellipsometry",
+    "Four-point probe",
+    "Capacitance-voltage (C-V) measurement",
+    "Current-voltage (I-V) measurement"
+  ],
+  "evidence": "X-ray photoelectron spectroscopy and channeling Rutherford backscattering spectrometry show that these processes result in layers with Hf/(Hf + Si) ratios of 0.56 and 0.34-0.37, respectively. X-ray diffraction measurements showed formation of a HfO2 cubic phase in HfO2-rich layers starting at 850°C. A high-resolution transmission electron microscopy study revealed phase segregation in thick SiO2-rich layers. X-ray diffraction (XRD) measurements were done in the same system. Diffraction patterns were determined after heating the samples for 30 min at a given temperature. The composition of the layers was determined by X-ray photoelectron spectroscopy (XPS, Quantum 2000 from Phi) using Al Ka radiation with a spot size of 100 mm2. For comparison with the XPS results, channeling Rutherford backscattering spectrometry (RBS) measurements were taken from relatively thick (24-31 nm) layers which had received various PDAs. A high-resolution transmission electron microscopy (HR-TEM, TECNAI F30ST) study was done to study the HfSiO4 dielectrics and the HfSiO4/silicon and HfSiO4/polysilicon interfaces as a function of annealing temperature. Capacitance-voltage (C-V) measurements were done at 10 and 100 kHz using a HP4284A impedance analyzer. For current-voltage (I-V) measurements, an HP4155 analyzer was used. All electrical measurements were done on a four-point probe station at constant temperature and under constant N2 flow."
+}

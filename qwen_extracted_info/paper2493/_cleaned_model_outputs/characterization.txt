@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "Atomic force microscopy (AFM)",
+    "Spectroscopic ellipsometry",
+    "Capacitance–voltage (C−V) measurements",
+    "Photoluminescence",
+    "Electrical measurements (leakage current, breakdown field, threshold voltage shift)",
+    "Hall Effect measurements"
+  ],
+  "evidence": "X-ray diffraction (XRD) results for a 20-nm PEALD ZnO film deposited on PEALD Al2O3 shows that the film is strongly (002) textured... From XRD and atomic force microscopy, we estimate the grain size of the thin films from PEALD to be about 10–20 nm... The relative dielectric constant of the PEALD Al2O3, which was determined from capacitance measurements, was ∼ 8... Room temperature capacitance–voltage(C− V ) bias stress measurements were done to estimate the mobile charge density... The flatband voltage shift was ∼ 60 mV... The TFT has a saturation field-effect mobility of 20–30 cm2/V · s, a threshold voltage of 4.5 V... The leakage current was measured to be < 10−7 A/cm2 at an electric field of 6 MV/cm, and the breakdown field was > 7 MV/cm... Using these high-performance TFTs, we have also fabricated simple 15-stage ring oscillator circuits with a propagation delay of 22 ns/stage... After 20 000 s of bias stress at 80 ◦C showed a threshold voltage shift of about 50 mV."
+}

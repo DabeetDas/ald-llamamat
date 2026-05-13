@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum (TMA)"],
+  "temperature_range": "200°C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of Al2O3 on InSb substrates with or without surface pretreatments. The process uses trimethylaluminum (TMA) as a metal precursor. Two surface pretreatments are introduced: an in situ TMA/Ar purge and ex situ CP4A chemical etching. These pretreatments help remove native oxides from InSb, leading to a native-oxides-free Al2O3/InSb structure. The study also evaluates the insulative and interface quality of the resulting Pt/Al2O3/InSb metal-oxide-semiconductor (MOS) structure.",
+  "evidence": "The atomic layer deposition /H20849ALD/H20850of Al2O3 using trimethylaluminum /H20849TMA/H20850as a metal precursor on an InSb substrate with or without surface pretreatments was investigated. The deposition temperature was carried out at 200°C to meet the low process temperature requirement for InSb. The main precursors used are trimethylaluminum (TMA)."
+}

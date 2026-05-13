@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Selective adsorption of group III metal-organic molecules on surface arsenic atoms enables the growth of high purity thin films with a clear self-limiting mechanism (SLM).",
+  "intermediate_species": ["gallium atoms", "arsenic atoms", "gallium clusters", "TMGa molecules", "adsorbed TMGa"],
+  "evidence": "The growth mechanism was studied and a model based on selective adsorption of group III metal organic molecules on surface arsenic atoms was proposed. The decomposition of TMGa on the surface arsenic and gallium atoms was considered, where TMGa adsorbs on arsenic atoms with a time constant zaa, but not onto the gallium atoms, or is easily removed from the gallium atoms with a small desorption time constant Za~. The decomposition time constant of TMGa was about 1.4 s at 500 °C."
+}<|im_end|>

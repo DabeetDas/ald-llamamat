@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 90,
+  "coreactant_pulse_time_s": 90,
+  "purge_time_s": null,
+  "number_of_cycles": 1000,
+  "reactor_type": "Savannah100",
+  "evidence": "The deposition of TiO2 was performed following the work of Aarik et al. [ 22]. For the process a commercial reactor (Savannah100, Cambridge NanoTech Inc.) was used. The two reactants are titanium isopropoxide (Ti(OCH(CH3)2)4) and H2O. The temperature in the reaction chamber was 150◦C and the half-cycle time for each precursor was chosen to be 90 s."
+}<|im_end|>

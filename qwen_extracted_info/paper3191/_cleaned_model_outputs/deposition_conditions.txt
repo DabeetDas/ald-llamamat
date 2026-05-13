@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "100",
+ "pressure": "",
+ "precursor_pulse_time_s": "0.5",
+ "coreactant_pulse_time_s": "1",
+ "purge_time_s": "5",
+ "number_of_cycles": null,
+ "reactor_type": "F-120",
+ "evidence": "The 60 nm thick ZnO:N thin ﬁlm was grown by atomic layer deposition (ALD) on ITO-coated plastic ﬁlm (polyethylene terephthalate, PET), with a root-mean-square roughness (13 nm) at less than 100°C, which is marginal for PET substrate, under 2 Torr using diethylzinc (DEZ, 52.0 wt %, Aldrich), H2O, and ammonia (NH3, 99.999%) gas as ALD precursors. Argon (Ar) gas served as a carrier and purging gas at a rate of 50 sccm. DEZ and H2O were evaporated at 20°C. NH3 gas was pulsed at a rate of 10 sccm. The cycle consisted of 0.5 s exposure to DEZ, 5 s Ar purge, 1 s exposure to H2O, 5 s Ar purge, 1 s exposure to NH3, and 7 s Ar purge."
+}

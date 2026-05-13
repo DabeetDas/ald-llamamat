@@ -1,0 +1,10 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "trimethylgallium (TMGa)"
+  ],
+  "temperature_range": "440 °C",
+  "summary": "The study investigates the decomposition of trimethylgallium (TMGa) on gallium-rich GaAs(100) surfaces, showing that it dissociatively chemisorbs at gallium vacancies, leading to the formation of methyl radicals that desorb at ~440 °C. This process is crucial for understanding the self-limiting nature of gallium deposition during atomic layer epitaxy (ALE).",
+  "evidence": "The decomposition of trimethylgallium (TMGa) on the gallium-rich GaAs(100) surface was studied... We have unambiguously identified methyl radicals desorbing from the surface with the maximum rate at ~440 °C... The methyl radicals arising from dissociative chemisorption of TMGa desorb from the surface around 440 °C with an activation energy of 44 kcal/mole."
+}

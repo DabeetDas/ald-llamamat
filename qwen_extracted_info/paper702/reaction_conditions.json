@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "C2H5–Zn + O-terminated ZnO surface -> C2H5–Zn/C15 radicals + Zn-terminated surface",
+    "N2O -> O radicals + N2"
+  ],
+  "surface_mechanism_description": "The ALD surface kinetics of ZnO growth can be depicted by the following four reaction steps: (A) DEZn molecules are admitted to the O-terminated ZnO surface, leading to the thermal cracking of C2H5–Zn bonds and the chemical adsorption of C2H5–Zn/C15 radicals on the O-terminated ZnO surface. (B) Surplus C2H5–Zn/C15 radicals are physically adsorbed and removed by N2 purge. (C) N2O molecules are injected into the Zn-terminated ZnO surface, leading to the thermal cracking of N–O bonds and the chemical adsorption of oxygen radicals on the Zn-terminated ZnO surface. (D) A final N2 purge removes excess oxygen radicals to complete an ALD cycle of ZnO growth.",
+  "intermediate_species": [
+    "C2H5–Zn/C15 radicals",
+    "O radicals",
+    "N2 molecules",
+    "physical adsorption of C2H5–Zn/C15 radicals"
+  ],
+  "evidence": "As shown in Fig. 2(A), when DEZn molecules are admitted to the O-terminated ZnO surface, part of the C2H5–Zn bonds in DEZn molecules are thermally cracked so that the C2H5–Zn/C15 radicals tend to adsorbed chemically on the atomic sites available on the O-terminated ZnO surface. The cracked ethyl (C2H5) radicals may react to form stable butane (C4H10) molecules. Surplus C2H5–Zn/C15 radicals are adsorbed physically and can be wiped out by N2 purge in the next step due to the nature of weak bond energy of physical adsorption [Fig. 2(B)]. As revealed in Fig. 2(C), when N2O molecules are injected into the Zn-terminated ZnO surface, part of the N–O bonds of N2O(N/C17 N–O) molecules are then thermally cracked with the oxygen radicals being fed to the Zn-terminated ZnO surface and adsorb chemically on the atomic sites available on the Zn-terminated ZnO surface. A final N2 purge is conducted to remove the excess oxygen radicals to complete an ALD cycle of ZnO growth [Fig. 2 (D)]."
+}

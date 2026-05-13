@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions for Y(EtCp)2(iPr-amd) are self-terminating, with Y(EtCp)2(iPr-amd) undergoing a self-terminating reaction with the Y2O3 surface prepared by reaction with H2O, and H2O undergoing a self-terminating reaction with surface absorbed Y(EtCp)2(iPr-amd) molecular.",
+  "intermediate_species": ["Y(EtCp)2(iPr-amd)"],
+  "evidence": "The surface reaction for Y(EtCp)2(iPr-amd) is really self-terminating, the effects of pulse time and substrate temperature were investigated. The GPC for Y(EtCp)2(iPr-amd) is saturated when the pulse time exceeds 15 s. This result indicates that Y(EtCp)2(iPr-amd) undergoes a self-terminating reaction with the Y2O3 surface prepared by reaction with H2O. The H2O pulse time is saturated when exceeds at 10 s. This suggests that H2O undergoes a self-terminating reaction with surface absorbed Y(EtCp)2(iPr-amd) molecular."
+}

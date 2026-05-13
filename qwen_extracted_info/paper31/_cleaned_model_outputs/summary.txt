@@ -1,0 +1,8 @@
+{
+  "target_material": "Pt",
+  "process_type": "ALD",
+  "main_precursors": ["1-octadecene", "high-purity methylcyclopentadienyl(platinum)trimethyl"],
+  "temperature_range": "Not explicitly mentioned",
+  "summary": "The paper describes a chemically selective method for achieving high-resolution, area-selective atomic layer deposition (ALD) of Pt thin films on dielectrics. A monolayer resist is formed using 1-octadecene, which selectively attaches to hydride-terminated silicon surfaces, allowing Pt deposition only on oxide regions. The Pt ALD process involves two self-limiting chemical reactions, and the results show selective Pt deposition on oxide areas.",
+  "evidence": "We have focused on the deposition of Pt for the positive-patterning area-selective ALD method presented here. Pt is a promising electrode material... Following monolayer attachment onto oxide-patterned silicon wafers, ∼ 25 Å Pt thin films were selectively deposited onto the substrates by ALD. The Pt ALD process includes two self-limiting chemical reactions..."
+}

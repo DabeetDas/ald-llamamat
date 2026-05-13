@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 190,
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 3000,
+  "reactor_type": "flow-type F-120",
+  "evidence": "The Bi -Ti-O thin films were grown on silicon substrates in a flow-type F-120 reactor with a chamber pressure of roughly 10 mbar."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 177,
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 30,
+  "number_of_cycles": 1000,
+  "reactor_type": "viscous-flow",
+  "evidence": "The AAO substrates were placed in the reactor with the long axes of the nanopores oriented perpendicular to the carrier gas flow. Alternating exposures to trimethyl aluminum (TMA, Aldrich) and water vapor from deionized water were used for performing the Al2O3 ALD while the TiO2 ALD utilized alternating titanium tetrachloride (TiCl4, Aldrich) and deionized water exposures. During each ALD cycle, the reactor was first evacuated using a mechanical pump to a pressure below 0.02 Torr. Next, the reactor was filled with the first ALD precursor to a pressure of 5 Torr for time t1. Following this exposure, the reactor was evacuated and then purged with ultrahigh purity nitrogen at a mass flow rate of 200 sccm and a pressure of 1 Torr for time t2. The initial cycles used t1 ) 10 s and t2 ) 30 s, while the final cycles used t1 ) 45 s and t2 ) 60 s."
+}<|im_end|>

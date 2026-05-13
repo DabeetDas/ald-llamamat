@@ -1,0 +1,11 @@
+{
+  "target_material": "MgAl2O4 spinel",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylaluminium [Al(CH3)3]",
+    "water"
+  ],
+  "temperature_range": "200 ◦C",
+  "summary": "Single-crystalline MgAl2O4 spinel nanotubes were fabricated using MgO nanowires as a reactive template. The MgO nanowires were coated with an amorphous Al2O3 layer via atomic layer deposition (ALD). Subsequent annealing at 700 ◦C transformed the Al2O3 shell into a spinel shell, and the remaining MgO core was etched away to form nanotubes.",
+  "evidence": "The MgO nanowires were coated with an amorphous Al2O3 layer via atomic layer deposition (ALD). The deposition took place at 200 ◦C using trimethylaluminium [Al(CH3)3] and water as the aluminium and oxygen source, respectively. The sample was then annealed at 700 ◦C for 7 h to initiate the interfacial solid-state reaction, MgO + Al2O3 = MgAl2O4."
+}

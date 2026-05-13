@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the decomposition of the precursors and the incorporation of nitrogen and oxygen into the titanium oxide films. The TDMAT/N2 process incorporates nitrogen via Ti–N and Ti–ON bonds, while the TTIP/NH3 process incorporates more oxygen, with nitrogen bonded via Ti–ON. The nitrogen-rich TDMAT/N2 process results in TiN contributions, while the oxygen-rich TTIP/NH3 process results in TiO2 and TiON contributions.",
+  "intermediate_species": ["TiON", "TiO2", "TiN"],
+  "evidence": "The XPS measurements showed that the TTIP/NH3 processed samples contain TiO2 and TiON components, while the TDMAT/N2 process delivers TiO2, TiON, and TiN contributions. The nitrogen-rich TDMAT/N2 process incorporates nitrogen via Ti–N and Ti–ON bonds, while the TTIP/NH3 process incorporates more oxygen, with nitrogen bonded via Ti–ON."
+}

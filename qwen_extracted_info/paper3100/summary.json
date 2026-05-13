@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "plasma-enhanced ALD (PEALD)",
+  "main_precursors": [
+    "tetrakis(dimethylamido)titanium (TDMA T)",
+    "titanium tetraisopropoxide (TTIP)"
+  ],
+  "temperature_range": "50°C to 210°C",
+  "summary": "The study investigates the growth kinetics and crystallization behavior of TiO2 films prepared by plasma-enhanced atomic layer deposition (PEALD) using TDMA T or TTIP as precursors with H2O plasma, H2O vapor, or O2 plasma as oxidants. The crystallization temperature of the films depends on film thickness and deposition conditions, with H2O plasma providing the lowest crystallization temperature and no detectable carbon impurities.",
+  "evidence": "The TiO2 films grown using a H2O plasma exhibit the lowest crystallization temperature and have no detectable C impurities. It was found that the crystallization temperature of the TiO2 films depends both on film thickness and on the deposition conditions. A correlation was observed between the TiO2 crystallization temperature and the C impurity concentration in the film."
+}

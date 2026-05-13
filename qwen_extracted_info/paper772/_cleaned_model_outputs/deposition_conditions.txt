@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200–300",
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "4-in thermal ALD reactor",
+  "evidence": "The ALD of In2O3 was performed in a 4-in thermal ALD reactor using In(DMAMP)2(OiPr) combined with O3 as the oxygen source. The deposition temperature was varied within a wide range of 150 –300 °C. ... With the optimized ALD pulse condition of 4 s (In precursor) - 10 s (Ar purge) - 5 s (O3 pulse) - 10 s (Ar purge), the In2O3 films were deposited by varying the number of ALD cycles at 200 °C"
+}

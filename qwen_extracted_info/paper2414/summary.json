@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnS",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "diethylzinc",
+    "hydrogen sulfide"
+  ],
+  "temperature_range": "75–180 ◦C",
+  "summary": "The study reports on the growth of high-aspect-ratio zinc sulfide (ZnS) nanotubes with tunable wall thicknesses and diameters using atomic layer deposition (ALD) at low temperatures as low as 75 ◦C. The nanotubes were synthesized within anodic alumina templates, and the process involved the use of diethylzinc and hydrogen sulfide as precursors. The ALD process allowed for precise control over the nanotube dimensions and was found to produce high-quality ZnS nanotubes with good stoichiometry and crystallinity.",
+  "evidence": "We report on the growth of high-aspect-ratio (≳300) zinc sulﬁde nanotubes with variable, precisely tunable, wall thicknesses and tube diameters into highly ordered pores of anodic alumina templates by atomic layer deposition (ALD) at temperatures as low as 75 ◦C. ... The wall thickness of the tubes, subsequently, is deﬁned through the chemical deposition parameters such as the type of the precursors used, the growth temperature and the deposition time. ... The deposition temperature (temperature of the AAO template) was set by regulating the heating power through the hot plate of the ALD chamber. ... The pulse, exposure and purging durations were, respectively, 50 ms, 20 s and 40 s for both precursors. ... The obtained nanotubes with lengths as long as 50 μm did not exhibit any traceable variation in their wall thickness distribution along the tube axes. ... The ratio Zn:S is in good agreement with the ideal 1:1 stoichiometric value."
+}

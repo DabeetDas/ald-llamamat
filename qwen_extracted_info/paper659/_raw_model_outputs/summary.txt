@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "300 8C",
+  "summary": "Atomic layer deposition (ALD) is used to deposit a titanium dioxide (TiO2) layer onto the surfaces of silica and kaolin pigments. The reactive vapors of TiCl4 and H2O are used in a cyclic reaction sequence to grow the titania layer. The formation of Si/C3/O/C3/Ti surface bonds through the reaction with the silica surface silanols is detected, and it is found that three complete reaction cycles are necessary to fully cover the silica surface. Similarly, three complete reaction cycles are necessary to fully cover the kaolin surface. The behavior of the modified kaolin in water is determined through measurement of its electrophoretic mobility and its dispersion stability.",
+  "evidence": "Atomic layer deposition (ALD) is used to deposit a titanium dioxide (TiO2) layer onto the surfaces of both a silica and kaolin pigment. The reactive vapors of TiCl4 and H2O are used in a cyclic reaction sequence to grow the titania layer. The formation of Si/C3/O/C3/Ti surface bonds, through the reaction with the silica surface silanols, is detected and shows that three complete reaction cycles are necessary to fully cover the silica surface. Detection of a covalent surface bond to the kaolin is difficult due to the intensity and number of kaolin lattice vibrations in the low frequency region. Differences in the structure of adsorbed water were, therefore, used to monitor the extent of titania surface coverage on the kaolin. Again it is found that three complete reaction cycles are necessary to fully cover the kaolin surface."
+}<|im_end|>

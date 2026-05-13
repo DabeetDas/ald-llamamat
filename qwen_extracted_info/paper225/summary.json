@@ -1,0 +1,11 @@
+{
+  "target_material": "amorphous titanium oxide",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "titanium tetra-iso-propoxide (TTIP)",
+    "O2 plasma"
+  ],
+  "temperature_range": "180 °C",
+  "summary": "The study investigates the bipolar resistive switching behavior in amorphous titanium oxide thin films deposited using plasma-enhanced atomic layer deposition (PEALD). The films were grown at 180 °C using titanium tetra-iso-propoxide (TTIP) and O2 plasma. The resistive switching mechanism is attributed to the movement of oxygen ions and the resulting changes in the oxygen vacancy concentration, which affect the carrier transport properties and the activation energies in the high and low resistance states.",
+  "evidence": "Using a plasma-enhanced atomic layer deposition (PEALD) method, amorphous TiO2 thin films were deposited onto an Al bottom electrode... We used titanium tetra-iso-propoxide (TTIP) and O2 plasma as Ti precursor and oxygen source, respectively... The growth rate of 0.045 nm/cycle at 180 °C. We found a bipolar resistive switching (BRS) behavior only in the high temperature region (>140 K) and two activation energies (0.055 eV and 0.13 eV) for the carrier transport in the ohmic current regime."
+}

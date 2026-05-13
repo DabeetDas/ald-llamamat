@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "2OH* + Al(CH3)3 → OAl(CH3)2 + CH4",
+    "2Al(CH3)* + H2O → 2AlOH* + CH4"
+  ],
+  "surface_mechanism_description": "A binary reaction sequence for deposition of Al2O3 using trimethyl aluminum (TMA) and water as precursors is as follows: (A) 2OH* + Al(CH3)3 → OAl(CH3)2 + CH4, (B) 2Al(CH3)* + H2O → 2AlOH* + CH4. Each half-reaction involves the reaction between a gas-phase precursor and a surface functional group. The surface reaction continues until all functional groups are consumed, and replaced with a new functional group.",
+  "intermediate_species": [
+    "Al(CH3)*",
+    "OH*",
+    "AlOH*"
+  ],
+  "evidence": "A binary reaction sequence for deposition of Al2O3 using trimethyl aluminum (TMA) and water as precursors is as follows: (A) 2OH* + Al(CH3)3 → OAl(CH3)2 + CH4, (B) 2Al(CH3)* + H2O → 2AlOH* + CH4. Each half-reaction involves the reaction between a gas-phase precursor and a surface functional group. The surface reaction continues until all functional groups are consumed, and replaced with a new functional group."
+}<|im_end|>

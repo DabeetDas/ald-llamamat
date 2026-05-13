@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 30,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "coaxial waveguide microwave source",
+  "evidence": "During the RE-ALD process, the metal precursor and oxygen atoms were alternatively pulsed into the reactor at 250 C, initiating self-limiting half-reactions which simultaneously deposited a monolayer of thin film and created the reactive surface sites for the next complimentary half-reaction; which were then repeated in a cyclical fashion. The RE-ALD cycle sequences were composed of a 30-sec Y(TMHD)3/ Y(TMHD) 3 pulse followed by a 30-sec purge/pump-down, a 30-sec exposure to oxygen atoms, and then another 30-sec purge/pump-down."
+}<|im_end|>

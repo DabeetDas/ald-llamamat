@@ -1,0 +1,7 @@
+{
+  "precursors": ["tetrakis(dimethylamido)hafnium(IV)"],
+  "coreactants": ["water"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": [],
+  "evidence": "The HfO2 deposition was performed at 200°C using tetrakis(dimethylamido)hafnium(IV) and water as the hafnium and oxygen precursors, respectively. A similar process of pulse, exposure, and purge was also followed for the hafnium precursor. The reactor chamber is purged with an inert gas in between two precursor pulses during an ALD run. A steady flow of nitrogen (20 sccm) was used."
+}

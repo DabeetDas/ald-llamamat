@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "325-350",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 4,
+  "number_of_cycles": null,
+  "reactor_type": "ALD R200 Advanced Picosun System",
+  "evidence": "The pulsing sequence of the PE-ALD of AlN consists of the following steps: (1) TMA pulse, 0.1 s, (2) N 2 purge, 4s, (3) remote H 2 plasma, 12s, (4) N2 purge, 2 s , (5) NH3 pulse, 5 s and (6) N 2 purge, 4 s."
+}

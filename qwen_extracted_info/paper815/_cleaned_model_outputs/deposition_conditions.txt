@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "380/C14C",
+  "pressure": "2–10mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall ﬂow type F-120",
+  "evidence": "The SrS1/C0xSex ﬁlms were deposited on Al2O3 coated soda lime glass substrates by pulsing sequentially Sr(thd)2 (thd=2,2,6,6-tetramethyl-3,5-heptanedionato) (Volatec), H2S (Messer Griesheim, 99.99%) and Se using 99.999% N2 as a carrier and purging gas. Selenium was always pulsed after the H2S pulse so that substitution of the surface sulfur by selenium was possible. Sr(thd)2 and Se were evaporated inside the reactor at 220/C14C and the glass substrate temperature was 380/C14C."
+}

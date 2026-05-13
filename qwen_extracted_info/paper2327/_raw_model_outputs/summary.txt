@@ -1,0 +1,8 @@
+{
+  "target_material": "SiNx interfacial diffusion barrier and interface passivation layer",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Si2Cl6", "N2H4"],
+  "temperature_range": "285 ◦C",
+  "summary": "The study describes the low-temperature thermal ALD of a silicon-rich SiNx interfacial diffusion barrier and interface passivation layer on SixGe1-x(001) and SixGe1-x(110) surfaces using Si2Cl6 and N2H4 precursors at 285 ◦C. The SiNx layer effectively prevents Ge out-diffusion and reduces interface state density, as evidenced by XPS and STS measurements. The ALD process results in a substoichiometric SiOxNy film that minimizes strain and bond breaking in the SiGe substrate, leading to improved electronic properties and reduced defect density.",
+  "evidence": "Atomic layer deposition of a silicon rich SiN x layer on Si 0.7Ge0.3(001), Si 0.5Ge0.5(001), and Si0.5Ge0.5(110) surfaces has been achieved by sequential pulsing of Si2Cl6 and N2H4 precursors at a substrate temperature of 285 ◦C. XPS spectra show a higher binding energy shoulder peak on Si 2p indicative of SiOxNyClz bonding while Ge 2p and Ge 3d peaks show only a small amount of higher binding energy components consistent with only interfacial bonds, indicating the growth of SiOxNy on the SiGe surface with negligible subsurface reactions. Scanning tunneling spectroscopy measurements confirm that the SiNx interfacial layer forms an electrically passive surface on p-type Si0.70Ge0.30(001), Si0.50Ge0.50(110), and Si0.50Ge0.50(001) substrates as the surface Fermi level is unpinned and the electronic structure is free of states in the band gap."
+}<|im_end|>

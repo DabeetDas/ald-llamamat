@@ -1,0 +1,6 @@
+{
+  "reaction_equations": ["In-(CH3)* + H2O -> In-OH* + CH4"],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of trimethylindium (TMIn) onto surface hydroxyl groups, followed by a reaction with water vapor (H2O) to form indium hydroxide species. The reaction is self-limiting due to the surface-saturated reaction mechanism, where the film growth is controlled by the adsorption of TMIn molecules onto the surface hydroxyl groups. The reaction requires an extremely large Langmuir exposure of H2O (~2 Torr s) to fully convert surface-adsorbed In-(CH3)* groups to In-OH* groups.",
+  "intermediate_species": ["In-(CH3)*", "In-OH*"],
+  "evidence": "The reaction mechanism was discussed in the context of ALD-In2O3 using TMIn and H2O, where the authors reported that an extremely large Langmuir exposure of H2O (~2 Torr s) was required to fully convert surface-adsorbed In-(CH3)* groups to In-OH* groups. The self-limiting nature of the film growth was attributed to the surface-adsorption of TMIn molecules."
+}

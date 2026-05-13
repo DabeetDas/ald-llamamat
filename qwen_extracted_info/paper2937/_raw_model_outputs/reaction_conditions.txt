@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "NH3 plasma reduces Ru(EtCp)2, which interacts with the surface and facilitates the deposition of ruthenium without forming an interfacial metal oxide layer. The NH3 plasma likely weakens the Ru-EtCp bond and promotes the formation of volatile compounds with the ligands in Ru(EtCp)2.",
+  "intermediate_species": ["Ru(EtCp)2", "NH3 plasma", "volatile compounds with ligands in Ru(EtCp)2"],
+  "evidence": "It is reasonable to postulate that the lone-pair electron in the NH3 will interact with the ruthenium in Ru(EtCp)2 and weakens the Ru-~EtCp! bond. Also, the excited species in NH3 plasma will help the reaction by easily making volatile compounds with the ligands in Ru(EtCp)2."
+}<|im_end|>

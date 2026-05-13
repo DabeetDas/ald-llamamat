@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "150",
+ "pressure": "10 mbar",
+ "precursor_pulse_time_s": "2",
+ "coreactant_pulse_time_s": "2",
+ "purge_time_s": "4",
+ "number_of_cycles": "1000",
+ "reactor_type": "",
+ "evidence": "The TiO2/cellulose composites and replicas were prepared by depositing thin (30 -55 nm) TiO2 films on an ashless filter paper (Schleicher & Schuell 589/2, measured BET surface area 1.4 m2/g) by ALD at 150 and 250 °C. Ti(OMe)4 (Aldrich, 95%) and H2O as the titanium and oxygen precursors, respectively, were alternately supplied on the paper in 2 s pulses.4 Between the precursor pulses, the reactor was purged for 4 s with nitrogen, which served as the carrier and purging gas. The process was run under a pressure of about 10 mbar."
+}<|im_end|>

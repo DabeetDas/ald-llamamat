@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 180,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 60,
+  "coreactant_pulse_time_s": 60,
+  "purge_time_s": 60,
+  "number_of_cycles": 50,
+  "reactor_type": "rotary reactor",
+  "evidence": "The ALD reactions were carried out at 180°C using static, sequential exposures of TMA (97 %, Sigma-Aldrich, St, Louis, MO) and H 2O (HPLC Grade, Fischer Scientific, Hampton, NH). Nitrogen (UHP , Airgas, Radnor, PA) was used to purge the system between reactant doses. This reaction has been used to deposit Al 2O3 ALD films at a growth rate of 1.1 Å per cycle on Si wafers. This reaction has also been used to deposit Al 2O3 thin-films on nanoparticles with growth rates varying from 1.1 to 2.0 Å per cycle."
+}

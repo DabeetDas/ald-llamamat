@@ -1,0 +1,7 @@
+{
+  "precursors": ["MoO2(Cy2AMD)2 (2)", "MoO2(iPr2AMD)2 (3)"],
+  "coreactants": ["O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Quartz-crystal microbalance and X-ray photoelectron spectroscopic studies confirm that 3 is an improved ALD precursor versus the R = t-butyl derivative for MoO3 film growth. Complex 3 is accessible in higher yields (80%+), is easier to handle without mass loss, and in conjunction with O3 as the second ALD reagent, yields nitride-free MoO3 films."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "/g4666/g3398SH/g466,/g28,1∗/g339,V/g4666amd /g466,/g28,1→ /g4666/g3398S/g466,/g28,1V∗/g339, 3 /g46,∑H/g4666amd /g466,/g46,1 /g46661/g466, 2 /g4666/g3398S/g466,/g28,1V∗/g339, /g18,6 H/g28,∑S → 2 /g4666/g3398S/g466,/g28,1/g28,9/g3∑51V/g4666SH/g466,/g3∑51∗ /g46662/g466,"
+  ],
+  "surface_mechanism_description": "The H2S half-cycle surface reaction mechanism follows two distinct pathways. Until 200 ˚C, an oxidative mechanism occurs which generates S–S bonds, and thus disulfide dimer moieties, S2T2, as shown in equation 3. Above 200 ˚C, the surface chemistry may follow equation 2, in which repopulation of the surface sulfhydryl species occurs without a change in precursor oxidation states (formally V 3+ and S T1), resulting in growth of V2S 3.",
+  "intermediate_species": [
+    "surface sulfhydryl species",
+    "bridging sulfur surface species",
+    "disulfide dimer moieties",
+    "sulfanyl radicals (SH •)"
+  ],
+  "evidence": "In order to better understand the nature of synthesized films, and thereby the surface chemistries purposed from QCM and QMS data, ex situ characterization of films grown on native oxide Si(100), quartz, and AAO substrates at 150, 200, and 250 ˚C were performed. The growth rate per cycle was constant over long depositions and no nucleation delay was noted by QCM on a fresh ALD Al2O3 surface. The first non-beam damaged VS4 Raman spectrum was acquired and corroborated with DFT calculations. The novel low temperature ALD process adds two new metal sulfides phases to the list of ALD-accessible materials."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 285,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "custom-built ALD flow reactor",
+  "evidence": "A regular ALD cycle consisted o fa2s exposure to MeCpPtMe 3,a 1 2sN 2 purge,a2s exposure to dry air, and a 12 s N 2 purge. For the area-selective ALD process, the N 2 purging time after each precursor dose was extended to 30 s to ensure removal of any unreacted precursor or physisorbed byproduct from the substrate. In all of the ALD Pt processes, the Pt precursor temperature and substrate temperature were kept at 50 and 285 °C, respectively."
+}<|im_end|>

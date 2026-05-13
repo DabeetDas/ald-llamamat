@@ -1,0 +1,8 @@
+{
+  "target_material": "Ga2O3-TiO2",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["[(CH3)2GaNH2]3", "O2 plasma", "Ti(N(CH3)2)4", "O2 plasma"],
+  "temperature_range": "200°C",
+  "summary": "The study investigates the deposition of ultrathin Ga2O3-TiO2 gate dielectrics on Si (001) substrates using plasma-enhanced atomic layer deposition (PEALD). The films remain amorphous after thermal annealing up to 800°C due to Ga2O3 acting as a crystallization inhibitor. The equivalent oxide thickness (EOT) remains stable up to 700°C, but increases above this temperature due to interfacial layer formation. The films show good thermal stability and electrical characteristics, making them a potential candidate for gate dielectric applications.",
+  "evidence": "The 5 nm thick nanomixed Ga2O3-TiO2 films were deposited at 200°C on Si (001) substrates using plasma-enhanced atomic-layer deposition for gate dielectric applications. The Ga2O3-TiO2 films still remain in amorphous phase after thermal annealing at 800°C due to Ga2O3 acting as a crystallization inhibitor in the nanomixed films. The equivalent oxide thickness (EOT) of 6 Å of the TaN/Ga2O3-TiO2/Si capacitors was not changed significantly till annealing temperature of 700°C. Above 700°C, however, the EOT was increased with increasing annealing temperature probably due to enhanced interfacial layer formation."
+}<|im_end|>

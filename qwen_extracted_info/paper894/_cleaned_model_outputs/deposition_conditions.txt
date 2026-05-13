@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-300",
+  "pressure": "1-5 Torr",
+  "precursor_pulse_time_s": "0.8",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "6",
+  "number_of_cycles": null,
+  "reactor_type": "cold-wall type",
+  "evidence": "Depositions were typically performed at temperatures between 200 and 300 /C176C and at pressures ranging from 1 to 5 Torr. The self-limiting characteristic of the ALD regime was clearly established as the deposition rate stays constant as the ToRuS pulse length increases (in this case, the self-limiting state is obtained above 0.8 s pulses of ToRuS). The observed incubation time was always small (model curves gave a negligible delay value of 1 cycle), as shown in Fig. 3. The film thickness vs. number of cycles on SiO2(1000 A˚)/Si (ToRuS pulse: 2 s, H2 pulse: 1 s, Purge: 6 s, P: 3 Torr, Temp.: 200 /C176C)."
+}

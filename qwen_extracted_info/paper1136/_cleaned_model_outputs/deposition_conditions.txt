@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "10− 2 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "high-vacuum reactor",
+  "evidence": "ALD of VO2 was performed in an experimental high-vacuum reactor, using TEMAV as metal– organic precursor and ozone as reactant gas. During the deposition, which was carried out at 150 °C substrate temperature, each ALD cycle consisted of a 2 s TEMAV pulse at 10− 2 Pa partial pressure, with Ar as a carrier gas, 20 s pumping, 5 s O3 pulse at 50 Pa and 15 s pumping."
+}

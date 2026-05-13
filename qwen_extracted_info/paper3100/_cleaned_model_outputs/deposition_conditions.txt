@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 210,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "inductively coupled plasma source",
+  "evidence": "A typical thermal ALD cycle consists of a 2 s pulse of the precursor vapor, followed by8st oevacuate the chamber, then a pulse of 3 s to provide the second reactant, and 10 s to evacuate the chamber."
+}

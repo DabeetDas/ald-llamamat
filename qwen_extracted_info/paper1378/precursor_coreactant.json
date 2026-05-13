@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "Co(amd)2",
+    "H2S"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Alternating doses of Co(amd)2 and H2S were pulsed using the timing sequence of t1/C0 t2/C0 t3/C0 t4 (all times in s): corresponding to pulse time of Co(amd)2, the purge time after the cobalt pulse, the pulse time of H2S, and the subsequent purge time after the H2S pulse, respectively."
+}

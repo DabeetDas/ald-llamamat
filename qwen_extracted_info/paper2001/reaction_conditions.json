@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD involve the alternating exposure of the substrate to TMA and DIW. The reactions are highly exothermic and occur readily with a low activation energy. The process is surface-controlled, ensuring uniform and conformal film growth.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "monomethyl aluminum"
+  ],
+  "evidence": "It is well known that reactions of TMA with DIW to form Al2O3 and CH4 are highly exothermic and occur readily with a low activation energy. The substrate temperature was fixed at 370 °C, while the chamber wall was maintained at 150 °C to minimize reactant condensation."
+}

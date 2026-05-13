@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "TaCl5",
+    "H2O"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The \"lms deposited from TaCl5 and H2O [16 }21], Ta(OC2H5)5/H2O [5,22 }24] and Ta(OC2H5)5/ NH3 precursor systems have been applied. Nitrogen was used as a precursor carrier and purge gas."
+}

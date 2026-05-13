@@ -1,0 +1,8 @@
+{
+  "target_material": "Ir / TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["(EtCp)Ir(CHD)", "O3"],
+  "temperature_range": "220°C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to coat TiO2 nanotubes with iridium (Ir) to create highly active electrodes for the oxygen evolution reaction (OER). The ALD process uses (EtCp)Ir(CHD) and ozone as precursors at 220°C. The electrodes show enhanced electrocatalytic performance with a low overpotential, achieving a current density of 31.3 mA cm−2 at an overpotential of 0.34 V. The study emphasizes the importance of minimizing catalyst loading while maintaining high activity.",
+  "evidence": "Finally, the tubes are coated with iridium by atomic layer deposition (ALD, from (EtCp)Ir(CHD) + O3 at 220°C).7 ALD enables a systematic control of the amount deposited. The chemical identity of the ALD deposit transpires in X-ray diffraction (XRD). The XRD pattern shows broad peaks consistent with nanocrystalline metallic Ir at 2θ ≈ 40°, ≈ 46° and ≈ 68° (attributed to the (111), (200) and (220) reflexes, COD 9008470). 13-14 Energy-dispersive X-ray analysis exhibits signals for the expected elements Ti, O and Ir (Figure 3)."
+}

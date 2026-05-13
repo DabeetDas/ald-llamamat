@@ -1,0 +1,6 @@
+{
+  "reaction_equations": ["(Me2N)3Bi + (Et3Si)2Te -> Bi2Te3 + Me2NSiEt3"],
+  "surface_mechanism_description": "The reaction proceeds with the elimination of silylamine species, forming Bi2Te3 films through the reaction of bismuth amides with (Et3Si)2Te.",
+  "intermediate_species": ["Me2NSiEt3", "silylamine species"],
+  "evidence": "Previous studies showed that 1 readily reacts with (R3Si)2Te (R = Me, Et) at ambient temperature with elimination of the expected silylamine Me2NSiR3."
+}<|im_end|>

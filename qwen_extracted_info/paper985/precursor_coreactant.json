@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "CdSO4",
+    "thiourea",
+    "dimethyl cadmium"
+  ],
+  "coreactants": [
+    "H2S",
+    "H2O"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The CBD CdS, was deposited on ﬂuorine doped tin oxide glass, using a bath of ammonium hydroxide solution with cadmium sulfate and thiourea stirred at 65 °C. The ALD CdS was grown at 140 °C using alternating pulses of dimethyl cadmium and 15% hydrogen sulﬁde/85% N2 in a Beneq TFS 200 ALD system."
+}

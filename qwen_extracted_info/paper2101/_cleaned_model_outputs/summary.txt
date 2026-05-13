@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2–Al2O3 laminate films",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["Al(CH3)3", "HfCl4"],
+  "temperature_range": "below 300 °C",
+  "summary": "The study investigates the characteristics of HfO2–Al2O3 laminate films with incorporated nitrogen as a function of stack structure and annealing temperature. The films were grown using atomic layer deposition (ALD) with Al(CH3)3 and HfCl4 as precursors, and H2O vapor as the oxygen source. The films were annealed in an NH3 ambient at temperatures ranging from 700 to 900 °C. The study focuses on the structural changes, nitrogen incorporation, and thermal stability of the films.",
+  "evidence": "Al2O3 and HfO2 films were each grown at temperatures below 300 °C using Al(CH3)3 and HfCl4 as precursors. H2O vapor served as the oxygen source and N2 was supplied as the purge and carrier gas."
+}

@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 13,
+  "density_g_cm3": 5.8,
+  "refractive_index": null,
+  "surface_roughness_nm": 14,
+  "crystal_phase": "Polycrystalline",
+  "evidence": "XRR analysis was carried out to study film density. Figure 2 plots XRR density as a function of deposition temperature and film composition. The ZrO2 content was determined from RBS analysis on 20 nm films. The amount of ZrO2 in HfO2 is varied from -0.2% to 98%. As expected, density decreases monotonically with increasing ZrO2 content. A decrease in film density is also observed as the deposition temperature is lowered from 350 to 200 °C. The decrease in density as more zirconium is alloyed is consistent with the fact that ZrO2 has lower density (5.8 g/cc) than HfO2 (9.6 g/cc)."
+}

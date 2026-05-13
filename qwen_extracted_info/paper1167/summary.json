@@ -1,0 +1,12 @@
+{
+  "target_material": "Al2O3 and TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "deionized water",
+    "titanium tetrachloride (TiCl4)"
+  ],
+  "temperature_range": "100-500 °C, up to 450 °C",
+  "summary": "The study investigates the use of GaPO4 sensors for in situ monitoring of ALD processes at high temperatures. GaPO4 sensors demonstrate superior temperature stability compared to conventional AT-quartz sensors, making them suitable for ALD monitoring at temperatures up to 450 °C. The ALD processes of Al2O3 and TiO2 were monitored using these sensors, showing well-defined growth steps and reduced temperature-induced mass transients.",
+  "evidence": "The text discusses the use of GaPO4 sensors for ALD monitoring at high temperatures, comparing their performance with AT-quartz sensors. It details the ALD processes of Al2O3 and TiO2 using specific precursors and temperature ranges, and highlights the advantages of GaPO4 sensors in high-temperature environments."
+}

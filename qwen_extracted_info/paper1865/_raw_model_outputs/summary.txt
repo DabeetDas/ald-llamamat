@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminium nitride (AlN)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Trimethylaluminium (TMA)", "Ammonia"],
+  "temperature_range": "353–573 K for TMA reaction; 723 K or above for ammonia reaction",
+  "summary": "The study investigates the Atomic Layer Deposition (ALD) of aluminium nitride (AlN) on porous alumina using trimethylaluminium (TMA) and ammonia as precursors. TMA reacts with dehydroxylated alumina at 353–573 K, forming methyl groups, while ammonia reacts at 423–823 K to replace these methyl groups with amino groups. The optimal temperature range for TMA is up to 573 K, and for ammonia, temperatures above 723 K are required to fully remove methyl groups. The process involves separate saturating gas-solid reactions, with controlled pre-heating and purging to ensure reproducibility.",
+  "evidence": "Successive reactions of gaseous trimethylaluminium (TMA) and ammonia on porous alumina were studied with the goal of finding suitable process conditions for preparing aluminium nitride (AlN) by atomic layer deposition (ALD). The reaction of TMA was studied at 353–623 K on alumina dehydroxylated at 473–1073 K, and the following reaction of ammonia at 423–823 K. Good temperatures for AlN deposition by ALD seem to be any temperature up to 573 K for the TMA reaction and 723 K or above for the ammonia reaction."
+}<|im_end|>

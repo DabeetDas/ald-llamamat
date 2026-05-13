@@ -1,0 +1,11 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Cd",
+    "Te"
+  ],
+  "temperature_range": "553 K",
+  "summary": "The study describes a realistic model of CdTe growth by atomic layer epitaxy (ALE) on CdTe(111)B substrates. The model includes transition layers of Cd and Te species, partial re-evaporation of the first chemisorbed monolayer, and the influence of timing and dose of precursor pulses on film quality. The process involves alternating pulses of Cd and Te to form monolayers, with optimal conditions yielding smooth surfaces and improved crystal structure.",
+  "evidence": "The study describes a realistic model of CdTe growth by atomic layer epitaxy (ALE) on CdTe(111)B substrates. The model includes transition layers of Cd and Te species, partial re-evaporation of the first chemisorbed monolayer, and the influence of timing and dose of precursor pulses on film quality. The process involves alternating pulses of Cd and Te to form monolayers, with optimal conditions yielding smooth surfaces and improved crystal structure."
+}

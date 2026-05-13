@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 140,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 10,
+  "number_of_cycles": 1200,
+  "reactor_type": "traveling wave type Lucida D100 system",
+  "evidence": "Undoped ZnO and ZnO:F thin films were deposited on thermally oxidized SiO2 (100 nm) on Si substrates, Si substrates, and LCD glass (Fusion 1737) substrates via ALD using a traveling wave type Lucida D100 system (NCD Technology, Inc. Korea) at a deposition temperature of 140 /C14 C and a working pressure of less than 1 Torr."
+}

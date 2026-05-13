@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 25,
+  "pressure": "10-7 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": 50,
+  "reactor_type": "F-120",
+  "evidence": "The sample is placed in the reaction chamber, and the sample, container, and main body are heated to the desired temperatures Ts, Tc, and Tm, respectively. After temperature stabilization, Fe(acac)3, obtained from Acros Organics, Belgium, is admitted to the buffer chamber. Next, the valves between the buffer chamber and container are closed, and the valve between the buffer chamber and reaction chamber is opened for a fixed time interval (te). Hereafter, the redundant Fe(acac)3 is removed by flushing with N2 for 5 min."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 473,
+  "pressure": "4.2 31027 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 10,
+  "reactor_type": "UHV chamber with differentially pumped Dycor mass spectrometer and Auger electron spectrometer",
+  "evidence": "The WF6 reaction at 473 K required approximately 30 seconds to reach completion at 4.2 31027 Torr. The sample was heated from ambient temperature of 298 K to 473 K. Ten AB cycles of W ALD were necessary to bury the molybdenum substrate."
+}

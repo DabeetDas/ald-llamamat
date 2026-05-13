@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Hf(N(CH3)2)4",
+    "O3"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the effects of carbon residue on the reliability of HfO2 thin films deposited by atomic layer deposition (ALD). The films were deposited at 250 °C using Hf(N(CH3)2)4 and O3 oxidant with different densities. The presence of carbon residue was found to affect leakage current and time-dependent dielectric breakdown (TDDB) reliability. Higher O3 density reduced carbon content, leading to improved reliability.",
+  "evidence": "HfO2 films were deposited on Si wafers by atomic layer deposition at a wafer temperature of 250 °C using Hf/H20851N/H20849CH3/H208502/H208524 and O3 oxidant with two different densities /H20849160 and 390 g / m3/H20850. The films deposited at the higher O3 density contained a lower concentration of carbon impurities. The leakage current density was lower and the time-dependent dielectric breakdown was improved in the higher O3 density films."
+}

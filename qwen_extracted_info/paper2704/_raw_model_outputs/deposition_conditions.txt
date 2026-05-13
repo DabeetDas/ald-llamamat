@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 180,
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "flow-through type",
+  "evidence": "ALD reactions were carried out in the flow-through type reactor. Temperature of the chamber was maintained at 180 °C. TDMATi and H2S were used as precursors for TiO 2−xSx ALD chemistry. High purity argon gas was used for purging gas with the flow of 200 sccm. An ALD cycle of TiO 2−xSx thin film consists of TDMATi–Ar purge–H2S–Ar purge (1 s–10 s– 0.1 s–10 s)."
+}<|im_end|>

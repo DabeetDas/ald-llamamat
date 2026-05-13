@@ -1,0 +1,8 @@
+{
+  "target_material": "InAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylindium (TMIn)", "arsine (AsH3)"],
+  "temperature_range": "480 °C",
+  "summary": "Self-limited growth of InAs at 480 °C was achieved using a rotating substrate method with a specially designed susceptor. The mechanical shear-off of residual precursors and boundary layers prevented precursor carryover and gas-phase decomposition, enabling monolayer controllability necessary for the growth of (InAs)m(GaAs)n superalloys.",
+  "evidence": "Self-limited growth of InAs at 480 °C is achieved by a rotating substrate method with a specially designed susceptor. The residual precursors and the boundary layer are removed by the mechanical shear-off. Prevention of the precursor carryover and the gas-phase decomposition are thought to result in the self-limited growth of InAs at temperatures as high as 480 °C."
+}

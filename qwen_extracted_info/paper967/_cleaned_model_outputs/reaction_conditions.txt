@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [
+    "AÞSnOH4 þ SnCl4 Y SnOSnCl34 þ HCl",
+    "B1ÞSnCl* þ H2O2 Y SnOH* þ HCl þ 1=2 O2",
+    "B2ÞSnCl* þ H2O Y SnOH* þ HCl"
+  ],
+  "surface_mechanism_description": "Ligand exchange between SnCl4 and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": ["SnCl*", "SnOH*"],
+  "evidence": "The growth conditions for SnO2 ALD using SnCl4 and H2O2 are fairly mild and may be utilized to coat an oxidizer on the Al nanoparticles without oxidizing the Al. Sequential exposures of SnCl4 and H2O2 are utilized to deposit SnO2 with atomic layer control according to the following reactions: AÞSnOH4 þ SnCl4 Y SnOSnCl34 þ HCl (1) B1ÞSnCl* þ H2O2 Y SnOH* þ HCl þ 1=2 O2 (2) B2ÞSnCl* þ H2O Y SnOH* þ HCl (3) where the asterisks represent the surface species. Reactions B1 and B2 given by Eqs. (2) and (3), respectively, can occur simultaneously."
+}

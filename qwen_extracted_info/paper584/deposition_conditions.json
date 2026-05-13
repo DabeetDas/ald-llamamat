@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100±250",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall flow-type reactor",
+  "evidence": "The TiO thin films were grown in a hot-wall flow-type reactor 14 . N gas with 99.999% purity2 was used as a carrier leading titanium isopropoxide and the oxygen precursor H O or H O vapors22 2 alternately to the substrate. The carrier gas pressure measured at the reactor outlet was kept at about 250 Pa. After each precursor pulse the reactor was purged with pure carrier gas in order to remove the gaseous reaction products and avoid overlapping the precursor pulses. Therefore, an ALD cycle consisted of a Ti OCH CH pulse, purge time, oxygen precursor pulse and another purge time."
+}

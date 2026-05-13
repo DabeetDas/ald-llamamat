@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "trimethylgallium (TMG)"
+  ],
+  "coreactants": [
+    "arsine (AsH3)"
+  ],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [
+    "H2"
+  ],
+  "evidence": "The sources of Ga and As were TMG and 100% arsine (AsH3), respectively, and H2 was used as the carrier gas."
+}

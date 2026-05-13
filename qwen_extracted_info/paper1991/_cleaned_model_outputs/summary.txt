@@ -1,0 +1,8 @@
+{
+  "target_material": "AlAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["ethyldimethylamine alane (EDMAAl)", "arsine"],
+  "temperature_range": "250-650 °C",
+  "summary": "The study demonstrates the successful atomic layer epitaxy (ALE) growth of AlAs layers with reduced carbon content using ethyldimethylamine alane (EDMAAl) as a new aluminum source. The process involves alternating supplies of EDMAAl and arsine, with self-limiting growth observed at one- or two-monolayer per cycle depending on growth conditions. The temperature range for self-limiting growth is wide (250-650 °C), and the use of EDMAAl significantly reduces carbon concentration in the layers.",
+  "evidence": "Atomic layer epitaxy (ALE) of AlAs layers has been studied with the alternate supplies of ethyldimethylamine alane (EDMAAl) and arsine as aluminum and arsenic sources. Self-limiting growth at either one- or two-monolayer per source supply cycle is clearly observed under the specific growth conditions defined by the substrate temperatures (250-650 °C) and the flow rates of EDMAAl. The growth rate of AlAs as a function of substrate temperature shows a plateau between 250 and 650 °C, characteristic of the one-monolayer self-limiting growth mode of ALE. The use of EDMAAl as a new aluminum source material results in a significant reduction of carbon concentration in the layers."
+}

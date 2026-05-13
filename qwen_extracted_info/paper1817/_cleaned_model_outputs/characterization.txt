@@ -1,0 +1,18 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectivity (XRR)",
+    "Grazing-incidence X-ray Diffraction (GIXRD)",
+    "Transmission Electron Microscopy (TEM)",
+    "Selected-area electron diffraction",
+    "Energy-dispersive X-ray spectroscopy (EDS)",
+    "Electron Energy Loss Spectroscopy (EELS)",
+    "UV-VIS-NIR absorption spectroscopy",
+    "Raman spectroscopy",
+    "Four-probe test unit",
+    "Seebeck coefficient measurement",
+    "Vibrating Sample Magnetometry (VSM)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Scanning Electron Microscopy (SEM)"
+  ],
+  "evidence": "The thickness of the films was determined by X-ray reflectivity (XRR) measurements. The same instrument was also used for grazing-incidence X-ray diffraction (GIXRD). The crystal structures were further investigated using a JEOL JEM-2200FS double aberration corrected transmission electron microscope. The chemical composition of the cross-section was explored with a JEOL lithium-drifted silicon (Si-Li) energy dispersive X-ray spectrometer and by electron energy loss spectroscopy (EELS). The optical properties were evaluated by absorption spectroscopy. Raman spectra were recorded. The sheet resistance of the samples was measured with an Jandel RM3000 four probe test unit. The Seebeck coefficient (S) was determined using a home-made setup based upon an equilibrium measurement technique. The magnetic moment at various temperatures was measured with the physical property measurement system (PPMS) Dynacool using vibrating sample magnetometry (VSM)."
+}

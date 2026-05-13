@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 100,
+ "pressure": "",
+ "precursor_pulse_time_s": 0.1,
+ "coreactant_pulse_time_s": 5,
+ "purge_time_s": 5,
+ "number_of_cycles": null,
+ "reactor_type": "SUNALETM R-series",
+ "evidence": "For Al 2O3 depositions the precursor pulses lasted 0.1 s and the purges 5 s."
+}<|im_end|>

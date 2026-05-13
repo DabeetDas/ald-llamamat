@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "300˚C",
+  "summary": "The study focuses on the atomic layer deposition (ALD) of HfO2 using HfCl4 and H2O as precursors at 300°C. The research evaluates the use of grazing incidence–X-ray fluorescence (GI-XRF) and total reflection–X-ray fluorescence (TXRF) for analyzing Cl contamination in HfO2 layers. The study also investigates the relationship between process conditions, Cl content, and the electrical properties of the devices.",
+  "evidence": "During the ALD of HfO2, these precursors are often HfCl4 and H2O. Standard depositions were performed from HfCl4 and H2O precursors at 300°C and 1 Torr. The introduction of these new materials requires the development of chemical-deposition methods as well as physical and electrical characterization of the deposited layers. The research evaluates the use of GI-XRF and TXRF for Cl trace analysis in nanometer-thin HfO2 films deposited using ALD."
+}

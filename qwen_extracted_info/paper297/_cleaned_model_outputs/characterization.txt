@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "Field-emission scanning electron microscopy (FESEM)",
+    "9.0 MeV He 2+ Rutherford backscattering spectroscopy (RBS)",
+    "Auger electron spectroscopy (AES)",
+    "X-ray diffraction (XRD)",
+    "Peel-off test",
+    "Four-point probe"
+  ],
+  "evidence": "The film thickness was analyzed by field-emission scanning electron microscopy (FESEM), and the film composition was analyzed by 9.0 MeV He 2+ Rutherford backscattering spectroscopy (RBS) and Auger electron spectroscopy (AES). The sheet resistance was measured using a four-point probe, and the film resistivity was calculated from the sheet resistance and the measured film thickness. The microstructures of the films were studied by X-ray diffraction (XRD) with Cu-K α radiation at λ = 0.15405 nm. A peel-off test [ 4] using 3 M scotch tape was performed to evaluate the relative adhesion strength between TaN thin films and 500 nm-thick Cu films prepared by MOCVD."
+}

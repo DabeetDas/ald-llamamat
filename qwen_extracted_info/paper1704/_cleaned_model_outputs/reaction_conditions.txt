@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves sequential, self-limiting surface reactions where Pt is deposited on the inner surfaces of carbon aerogels. The process uses (methylcyclopentadienyl)-trimethylplatinum (MeCpPtMe3) and oxygen (dry air) as precursors. The reaction mechanism includes the adsorption of MeCpPtMe3 followed by a water pulse to regenerate OH sites, leading to the formation of Pt nanoparticles on the surface.",
+  "intermediate_species": ["MeCpPtMe3", "surface hydroxyls", "Pt nanoparticles"],
+  "evidence": "The ALD process involves sequential, self-limiting surface reactions where Pt is deposited on the inner surfaces of carbon aerogels. The process uses (methylcyclopentadienyl)-trimethylplatinum (MeCpPtMe3) and oxygen (dry air) as precursors. The reaction mechanism includes the adsorption of MeCpPtMe3 followed by a water pulse to regenerate OH sites, leading to the formation of Pt nanoparticles on the surface."
+}

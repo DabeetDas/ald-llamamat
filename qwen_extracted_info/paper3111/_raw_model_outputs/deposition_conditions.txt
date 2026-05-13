@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "165-175",
+  "pressure": "15 mTorr",
+  "precursor_pulse_time_s": "0.3-0.7",
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "400",
+  "reactor_type": "Cambridge NanoTech Savannah 200",
+  "evidence": "The lead precursor was volatilized at temperatures of 165175 °C. Reactions were carried out in a Cambridge NanoTech Savannah 200 reactor with no carrier gas at a pressure of 15 mTorr. In order to test for saturation of growth rate with pulse time, the precursor pulse was varied from 0.3-0.7 s with a precursor source temperature of 165 °C."
+}<|im_end|>

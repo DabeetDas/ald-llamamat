@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2-based organic–inorganic nanohybrid thin films",
+  "process_type": "MLD-ALD",
+  "main_precursors": ["Zr(OC(CH3)3)4", "H2O", "C_C-terminated alkylsilane", "zirconium hydroxyl", "ozone"],
+  "temperature_range": "170 °C",
+  "summary": "The study describes the fabrication of ZrO2-based organic–inorganic nanohybrid thin films using molecular layer deposition (MLD) combined with atomic layer deposition (ALD). The process involves the sequential adsorption of C_C-terminated alkylsilane and zirconium hydroxyl with ozone activation for the organic layer, and alternating surface-saturating reactions of Zr(OC(CH3)3)4 and H2O for the inorganic ZrO2 layer. The resulting films exhibit good mechanical stability, excellent insulating properties, and a relatively high dielectric constant, making them suitable for use as a dielectric in low-voltage pentacene-based thin film transistors.",
+  "evidence": "A ZrO2 inorganic nanolayer was deposited at the same temperature using ALD with alternating surface-saturating reactions of Zr(OC(CH3)3)4 and H2O. The SAOLs-ZrO2 organic–inorganic nanohybrid films exhibited good mechanical stability, excellent insulating properties, and relatively high dielectric constant k (~16). They were then used as a 23 nm-thick dielectric for low voltage pentacene-based thin film transistors."
+}

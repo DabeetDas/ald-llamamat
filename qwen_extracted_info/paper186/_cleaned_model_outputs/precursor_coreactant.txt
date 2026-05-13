@@ -1,0 +1,7 @@
+{
+  "precursors": ["Gd(iPrCp)3"],
+  "coreactants": ["O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "O3 was generated from O2 and N2 admixtures with different N2 concentrations, leading to different concentrations of NOx species in O3. The Gd2O3 ALD cycles consisted of four steps: Gd(iPrCp)3 precursor pulse (0.5–6 s); N2 purge (10 s); O3 pulse (1–30 s); N2 purge (10 s)."
+}

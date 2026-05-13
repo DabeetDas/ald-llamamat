@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The NH3 reactivity at 475 /C14 C is not high enough to completely remove Cl ligands from the surface even with long NH3 pulses. The incomplete removal of Cl ligands leads to the incorporation of Cl and may prevent the rearrangement of atoms on the surface, impairing crystallization and producing a less dense structure which results in an increase of the GPC. The remaining Cl ligands also block growth in the subsequent pulse. When the surface coverage becomes large enough, the remaining Cl ligands start to limit the GPC, explaining the lower GPC of the 450 /C14 C thermal process compared to the thermal process at 475 /C14 C. In contrast to the thermal process, in the plasma process, not only the Cl ligands are effectively removed from the surface but also the ion bombardment further contributes to the densification of the film.",
+  "intermediate_species": [
+    "Cl ligands",
+    "surface hydroxyls",
+    "NHx surface species"
+  ],
+  "evidence": "The NH3 reactivity at 475 /C14 C is not high enough to completely remove Cl ligands from the surface even with long NH3 pulses. The incomplete removal of Cl ligands leads to the incorporation of Cl and may prevent the rearrangement of atoms on the surface, impairing crystallization and producing a less dense structure which results in an increase of the GPC. The remaining Cl ligands also block growth in the subsequent pulse. When the surface coverage becomes large enough, the remaining Cl ligands start to limit the GPC, explaining the lower GPC of the 450 /C14 C thermal process compared to the thermal process at 475 /C14 C. In contrast to the thermal process, in the plasma process, not only the Cl ligands are effectively removed from the surface but also the ion bombardment further contributes to the densification of the film."
+}

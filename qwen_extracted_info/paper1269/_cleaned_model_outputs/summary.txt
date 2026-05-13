@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tetrakis(dimethylamino)tin(IV) (TDMASn)", "ozone"],
+  "temperature_range": "118 °C (deposition) and 450 °C (annealing)",
+  "summary": "This study investigates the use of ultrathin SnO2 layers deposited by atomic layer deposition (ALD) as electron selective layers in perovskite solar cells. The ALD SnO2 layers demonstrate excellent blocking properties, are pinhole-free down to 2 nm thickness, and maintain their blocking function even after annealing at 450 °C. The study also highlights the importance of band alignment and the electrochemical stability of ALD SnO2 films compared to other oxides like TiO2.",
+  "evidence": "The text states that 'low-temperature ALD-grown SnO2 layers are amorphous and perfectly pinhole-free for thicknesses down to 2 nm' and 'the blocking function of ALD SnO2 compares favorably to ALD TiO2 films'. Additionally, it mentions that 'the annealed SnO2 films are of high interest as they could potentially replace the compact TiO2 blocking layer in mesoporous dye-sensitized and perovskite solar cells where the 450 °C calcination treatment is part of the standard protocol for the fabrication of the mesoporous layer'."
+}

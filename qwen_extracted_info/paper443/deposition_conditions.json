@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 275,
+  "pressure": "less than 5 X 10^-10 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "dual-chamber-MBE system (Riber 32PI)",
+  "evidence": "The substrate temperature during the MBE and ALE growth was maintained at 275°C. The background pressure was kept at less than 5 X 10^-10 Torr."
+}

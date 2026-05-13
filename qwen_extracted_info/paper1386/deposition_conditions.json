@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 110,
+  "pressure": "100 mTorr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 0.25,
+  "purge_time_s": 30,
+  "number_of_cycles": "50-500",
+  "reactor_type": "viscous flow reactor",
+  "evidence": "The ALD cycle consisted of a 1 s tin precursor pulse, followed by a 30 s purging step, a 0.25 s hydrogen sulfide pulse and another 30 s purge."
+}

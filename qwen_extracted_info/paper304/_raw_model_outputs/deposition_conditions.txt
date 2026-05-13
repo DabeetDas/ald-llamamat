@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "250",
+ "pressure": "5 · 10–6 mbar",
+ "precursor_pulse_time_s": "5",
+ "coreactant_pulse_time_s": "1",
+ "purge_time_s": "5",
+ "number_of_cycles": "600",
+ "reactor_type": "Oxford Instruments System 100 PECVD",
+ "evidence": "In the early stages of this work, a typical HfO2 ALD cycle consisted of six steps as shown below: TEMAH pulse using bubbled argon (10 s) N2 purge (10 s) Pump (5 s) H2O pulse by vapour draw (1 s) N2 purge (10 s) Pump (5 s)"
+}<|im_end|>

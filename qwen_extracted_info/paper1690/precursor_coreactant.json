@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "TiCl4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "In the case of a TiO2 coating on silica, TiCl4 and H2O are used as the reactive vapors. First, reaction with TiCl4 results in the removal of the OH groups on the silica, creating titanium chloride groups on the surface. In a second step, these titanium species are hydrolyzed with water vapor in order to re-create OH groups necessary for the next TiCl4 treatment."
+}

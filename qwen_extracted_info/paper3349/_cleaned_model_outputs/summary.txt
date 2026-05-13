@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminium (TMA: Al(CH3)3)", "water"],
+  "temperature_range": "300°C",
+  "summary": "The study investigates the effect of post-growth annealing in a hydrogen atmosphere on Al2O3 films deposited by atomic layer deposition (ALD) on 6H-SiC(0001). The annealing process reduces interface trap density (Dit) near the mid-gap but increases it near the conduction band edge. The formation of a top SiO2 layer and a rougher interfacial layer with Si+ and Si4+ is observed, which may contribute to the increase in Dit.",
+  "evidence": "Al2O3 was deposited by atomic layer deposition (ALD) using trimethylaluminium (TMA: Al(CH3)3) and water at a substrate temperature of 300°C. The samples were annealed in ultra-pure hydrogen atmosphere at 300°C, 400°C, 500°C, and 600°C. The density of interface traps (Dit) was measured by admittance spectroscopy, and the chemical properties were analyzed using photoelectron spectroscopy (PES)."
+}

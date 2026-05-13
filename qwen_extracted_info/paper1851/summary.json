@@ -1,0 +1,11 @@
+{
+  "target_material": "Ruthenium (Ru)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "(2,4-dimethyloxopentadienyl)(ethylcyclopentadienyl)Ru (Rudense®)",
+    "oxygen"
+  ],
+  "temperature_range": "250 ℃ to 270 ℃",
+  "summary": "Ruthenium (Ru) thin films were deposited using (2,4-dimethyloxopentadienyl)(ethylcyclopentadienyl)Ru (Rudense®) and oxygen as precursors through atomic layer deposition (ALD) at temperatures ranging from 250 ℃ to 270 ℃. The study aimed to investigate the growth behavior, surface morphology, and the effect of ammonia (NH3) treatment on the Ru films. The films showed a high growth rate of 0.83 Å/cy on Ta2O5, Si, and Ru substrates, with significant surface roughness observed on oxide substrates as the thickness increased. NH3 treatment was introduced to suppress excessive RuOx layer growth, improving surface morphology by reducing surface roughness and protrusions.",
+  "evidence": "Ruthenium (Ru) thin films were grown on Ta2O5, Si, Ru, and Pt substrates through atomic layer deposition (ALD) using (2,4-dimethyloxopentadienyl)(ethylcyclopentadienyl)Ru and oxygen as the Ru precursor and reactant, respectively, at substrate temperatures ranging from 250 ℃ to 270 ℃. The Ru films showed a high growth rate of 0.83 Å/cy except on Pt substrates and negligible incubation cycles. The surface morphology was improved by NH3 treatment, which suppressed the excessive growth of RuOx layer."
+}

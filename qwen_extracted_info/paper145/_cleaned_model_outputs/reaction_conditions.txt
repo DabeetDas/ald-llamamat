@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reaction between titanium isopropoxide and oxygen radicals occurs on the surface, with radicals being generated from molecular oxygen via a remote microwave plasma discharge. The growth occurs in ALD mode, with the films growing only on the side exposed to radicals, indicating the reaction is between titanium isopropoxide and oxygen radicals. The process circumvents plasma effects by placing substrates outside the plasma zone, exposing them only to radicals.",
+  "intermediate_species": ["titanium isopropoxide", "oxygen radicals"],
+  "evidence": "The films were deposited near room temperature allowing deposition also on heat sensitive materials such as plastics and natural fibers. The growth occurred only on the side exposed to radicals, indicating the reaction between titanium isopropoxide and oxygen radicals. The films were grown on substrates such as silicon, glass, platinum, and RuO2, and the process circumvents plasma effects by placing substrates outside the plasma zone, exposing them only to radicals."
+}

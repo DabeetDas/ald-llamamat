@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["Hf(NO3)4", "H2O"],
+  "temperature_range": "180 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of hafnium oxide (HfO2) films using anhydrous hafnium nitrate (Hf(NO3)4) as a precursor. The films were deposited on hydrogen-terminated silicon surfaces without the need for an SiO2 layer. The process allows for smooth and uniform film growth, with the films being amorphous and oxygen-rich. The films showed crystallization at approximately 700 °C and exhibited a lower dielectric constant due to the presence of an interfacial layer. The study also highlights the importance of post-deposition annealing in reducing interface trap density and improving film properties.",
+  "evidence": "Thin HfO2 films have been deposited on silicon via atomic layer deposition using anhydrous hafnium nitrate (Hf(NO3)4). ... The use of Hf(NO3)4 allows deposition of HfO2 directly on H-terminated silicon without the need for an SiO2 layer. ... The films remained oxygen rich. Crystallization of thin films (,10 nm) occurred at roughly 700 °C. ... The lower than expected dielectric constant of the film stack is due in part to the presence of an interfacial layer (likely HfSiOx)."
+}<|im_end|>

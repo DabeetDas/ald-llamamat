@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Sn(edpa)2 + O2-plasma -> SnO2 + by-products",
+    "Sn(edpa)2 + H2O -> SnO + edpaH"
+  ],
+  "surface_mechanism_description": "The Sn(edpa)2/O2-plasma ALD process involves oxidation of the chemisorbed Sn-precursor, leading to the formation of combustion by-products. The Sn(edpa)2/H2O ALD process is governed by a ligand exchange reaction, maintaining the original oxidation state of Sn2+.",
+  "intermediate_species": [
+    "edpaH",
+    "surface hydroxyls",
+    "carbonate surface groups"
+  ],
+  "evidence": "The in-situ quadrupole mass spectrometry analysis performed during ALD revealed that the oxidation of chemisorbed Sn-precursor occurs dominantly during the Sn(edpa)2/O2-plasma ALD process, resulting in the production of combustion by-products, whereas the Sn(edpa)2/H2O ALD process was governed by a ligand exchange reaction with the maintenance of the original oxidation state of Sn2+."
+}

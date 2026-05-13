@@ -1,0 +1,20 @@
+{
+  "characterization_methods": [
+    "Transmission electron microscopy",
+    "Electrical analysis",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Rutherford backscattering",
+    "X-ray Reflectivity (XRR)",
+    "Variable angle scanning ellipsometry (VASE)",
+    "Cross-sectional transmission electron microscopy (XTEM)",
+    "Capacitance-voltage (C-V) measurement",
+    "MISFIT program (Metal-Insulation-Semiconductor CV Fitting)",
+    "Four-point probe",
+    "Ellipsometry",
+    "X-ray Diffraction (XRD)",
+    "Scanning Electron Microscopy (SEM)",
+    "Atomic Force Microscopy (AFM)",
+    "Profilometry"
+  ],
+  "evidence": "Transmission electron microscopy and electrical analysis show the absence of interfacial layers. The impurity contents, including carbon and nitrogen, are below the detection limit of X-ray photoelectron spectroscopy. The film composition by Rutherford backscattering... The thickness was measured by both X-ray reflectivity and variable angle scanning ellipsometer. Figure 2a shows a sharp interface... XTEM image of a WN /LaScO3 stack on Si substrate. Figure 3a shows the high-frequency capacitance-voltage curves... The EOT was obtained by fitting the C-V data to ideal simulation curves using the Metal-Insulation-Semiconductor CV Fitting program. The dielectric constants, extracted from the slopes, are 28 and 17 for LaLuO3 and La1.23Y0.77O3 films, respectively. The leakage current density scaling of our ALD films compared to that of thermal SiO2 films with the same EOT. The dynamic refraction index calculated from the slopes is... The leakage currents also obey the Arrhenius law at different fixed voltages. Combining these two observations, we conclude that J = cV exp(−(B − PFV1/2)/kBT)."
+}<|im_end|>

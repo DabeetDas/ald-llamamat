@@ -1,0 +1,8 @@
+{
+  "target_material": "Sb2S3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Sb(NMe3)", "H2S"],
+  "temperature_range": "120 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit an antimony sulfide (Sb2S3) layer in extremely thin absorber (ETA) solar cells. The ALD process was performed at 120 °C using Sb(NMe3) and H2S as precursors. The deposited Sb2S3 layer was found to be homogeneous, free of oxide, and enabled the achievement of a maximum efficiency of 2.6%.",
+  "evidence": "The ALD of amorphous antimony sulﬁde (a-Sb2S3) was performed at 120 °C in a home-made hot-wall reactor from Sb(NMe3) and H2S gas. The results presented demonstrate that ALD is applicable to the deposition of a Sb2S3 layer in 'ETA' sensitized cells based on nanocrystalline TiO2, and to the accurate tuning of the amount deposited. We reach a maximum efficiency of 2.6% based on colloidal TiO2 nanocrystals, a 9 nanometer thick layer of Sb2S3 by ALD, and CuSCN infiltrated from the solution."
+}<|im_end|>

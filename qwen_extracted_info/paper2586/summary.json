@@ -1,0 +1,11 @@
+{
+  "target_material": "amorphous lithium silicate",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "lithium hexamethyldisilazide (LiHMDS)",
+    "ozone"
+  ],
+  "temperature_range": "150–400 °C",
+  "summary": "Amorphous lithium silicate thin films were grown by atomic layer deposition (ALD) using lithium hexamethyldisilazide (LiHMDS) and ozone precursors. The films were deposited over a wide temperature range of 150–400 °C. The growth rate and refractive index were found to be temperature-dependent, with the highest growth rate observed at 400 °C. The films deposited at 250 °C showed a stoichiometry close to lithium metasilicate (Li2SiO3) with a growth rate of 0.8 Å/cycle and a refractive index of about 1.55. The study aimed to investigate the properties of these films for potential applications in lithium ion batteries and other electrochemical devices.",
+  "evidence": "Lithium silicate thin films, which are interesting materials for example in lithium ion batteries, were grown by the atomic layer deposition technique from lithium hexamethyldisilazide [LiHMDS, Li(N(SiMe3)2)] and ozone precursors. Films were obtained at a wide deposition temperature range between 150 and 400 /C14 C. The growth rate of the LiHMDS–O3 process was strongly dependent on the deposition temperature and increased from 0.3 up to 1.7 A˚ /cycle between 150 and 400 /C14 C. The amorphous films deposited at 250 /C14 C had a growth rate of 0.8 A˚ /cycle, refractive index of about 1.55 (n580), and a stoichiometry close to lithium metasilicate (Li2SiO3)."
+}

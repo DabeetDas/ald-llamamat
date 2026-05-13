@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "370",
+  "pressure": "0.3",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "8",
+  "number_of_cycles": null,
+  "reactor_type": "UV source",
+  "evidence": "TMA, vaporized at 5°C, and NH3, with a flow rate of 300 standard cubic centimeters per min (sccm), were used as Al precursor and reactant, respectively. TMA and NH3 were sequentially injected with a purge step intervening between them using Ar (600 sccm) as purge gas. The purge durations for TMA and NH were 8 and 30 s, respectively."
+}

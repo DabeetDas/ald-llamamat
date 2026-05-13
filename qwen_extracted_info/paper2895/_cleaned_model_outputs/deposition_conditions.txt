@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "45",
+ "pressure": "",
+ "precursor_pulse_time_s": "0.125",
+ "coreactant_pulse_time_s": "0.5",
+ "purge_time_s": "0",
+ "number_of_cycles": null,
+ "reactor_type": "cross-flow",
+ "evidence": "Table I: Experimental parameters of ALD Bi2Te3 thin film growth on Si substrate.\nPrecursors Temp. oC Valve Pulse(s) Expo(s) Pump(s) N 2 flow(sccm)\n(Me3Si)2Te 45 0 0.125 0 20 10\nBiCl3 140 1 0.5 0 20 10\nChamber 165"
+}

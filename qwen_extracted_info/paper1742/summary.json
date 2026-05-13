@@ -1,0 +1,11 @@
+{
+  "target_material": "NbN",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "(tertbutylimido)-tris (diethylamino)-niobium (TBTDEN)",
+    "hydrogen plasma"
+  ],
+  "temperature_range": "Not explicitly mentioned",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to create superconducting NbN films for the fabrication of a charge quantum interference device (CQUID). The ALD process was used to deposit NbN films with a thickness of 3.3 nm, which are essential for the CQUID device. The process involves plasma-enhanced atomic layer deposition (PEALD) using specific precursors.",
+  "evidence": "The NbN thin films were deposited on undoped Si(100) by plasma-enhanced atomic layer deposition (PEALD). The metal–organic compound (tertbutylimido)-tris (diethylamino)-niobium (TBTDEN) and an hydrogen plasma were applied as precursors."
+}

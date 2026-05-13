@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "180-250",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.14,
+  "coreactant_pulse_time_s": 0.19,
+  "purge_time_s": null,
+  "number_of_cycles": 500,
+  "reactor_type": "home-built ALD system",
+  "evidence": "The precursors of Ni(amd)2 and TBDS were both mildly heated, to 70 and 35 °C, respectively. To study the film growth behavior, UV-treated SiOx/Si wafer substrates were used, and the deposition temperature was varied from 150 to 250 °C as previous studies suggested that above 250 °C the Ni(amd)2 precursor suffers from partial decomposition on surface. 30, 46 Figure 1a,b displays a typical ALD saturation growth behavior for the depositions at 200 °C by 300 ALD cycles. As shown in Figure 1a, under a fixed TBDS vapor exposure of ~0.15 Torr s in each ALD cycle, the afforded NiSx film thickness initially increased with the Ni(amd)2 vapor exposure and then saturated as the Ni(amd)2 exposure exceeded ~0.12 Torr s. Likewise, under a fixed Ni(amd)2 exposure of ~0.12 Torr s, the afforded film thickness also initially increased and then saturated as the TBDS exposure exceeded ~0.15 Torr s (Figure 1b). These results clearly indicate an ideal ALD behavior of saturated self-limiting film growth in each cycle, and the minimum precursor exposures for the saturated growth were ~0.12 and ~0.15 Torr s for Ni(amd)2 and TBDS, respectively. Unless otherwise specified, these minimum exposures were used in the following experiments."
+}

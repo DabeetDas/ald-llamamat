@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu-S:Al-S",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Copper acetylacetonate (Cu(acac)2)", "Trimethylaluminum (TMA)", "Hydrogen sulfide (H2S)"],
+  "temperature_range": "150°C",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of Cu-S:Al-S thin films as a transparent ohmic contact for CIGS solar cells. The films were synthesized using copper acetylacetonate, trimethylaluminum, and hydrogen sulfide precursors at 150°C. The films exhibited high transparency and conductivity, with contact resistances between 0.1 and 0.7 Ω.cm-2. The ALD process allowed for the tuning of film composition and optoelectronic properties, resulting in a p-type transparent conducting material suitable for use as a back contact in CIGS solar cells.",
+  "evidence": "Cu-S:Al-S thin films were synthetized by atomic layer deposition at temperature Tdep = 150°C, by combining Cu xS and Al 2S3 cycles obtained from copper acetylacetonate (Cu(acac)2), trimethyl aluminum (TMA) and hydrogen sulfide (H 2S). The best candidates were successfully applied as transparent ohmic contacts with CIGS with contact resistance between 0.1 and 0.7 Ω.cm-2."
+}<|im_end|>

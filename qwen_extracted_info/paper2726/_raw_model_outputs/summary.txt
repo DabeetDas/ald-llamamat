@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Te2", "Cd"],
+  "temperature_range": "higher than 390 K, mostly at 540 K",
+  "summary": "The paper discusses the use of Atomic Layer Epitaxy (ALE) for growing high-quality CdTe films on p-type CdTe substrates. The process involves alternating pulses of Te2 and Cd beams, resulting in epitaxial growth with high structural perfection. The films are grown at temperatures above 390 K, with optimal results at 540 K. The study also examines the electronic structure and surface properties of the films using techniques such as LEED and angle-resolved photoemission.",
+  "evidence": "The growth of CdTe films on p-type CdTe(110) and (111)A substrates by ALE is shown to lead to high structural perfection. The films were grown at the substrate temperatures of higher than 390 K, mostly at 540 K. The best crystal structure was obtained in the temperature range from 500 to 540 K."
+}<|im_end|>

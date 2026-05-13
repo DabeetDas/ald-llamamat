@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The La2O3 layer is mismatched dimensionally with HfO2, leading to a different structure. The Hf precursor adsorbs on a heterogeneous (OH-Hf+La-OH) surface, causing packing mismatch due to different cation radii and coordination number of Hf and La. The mismatch affects the film structure and decreases the film density. After the third ALD layer of HfO2 is deposited, the heterogeneous surface changes to a continuous Hf-OH surface, enhancing the adsorption of Hf precursors, which leads to a different structure with a different dielectric function and lower void fraction compared with the La2O3-HfO2 mixture during the deposition of the first three Hf cycles.",
+  "intermediate_species": ["Hf-OH", "La-OH", "HfLa xOy", "HfO2"],
+  "evidence": "The surface mechanism description is derived from the text discussing the mismatch between HfO2 and La2O3, the adsorption of Hf precursor on heterogeneous surfaces, and the resulting structural changes. The text explains how the Hf precursor interacts with the surface, leading to different structures and affecting the film density and void fraction."
+}

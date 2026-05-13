@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process uses a self-limiting film growth mechanism caused by surface saturated reactions through the sequential exposure of the precursor and reactant at each ALD cycle. One ALD cycle typically consists of precursor pulsing for precursor adsorption, purging of the physisorbed precursors, reactant pulsing for surface reaction, and purging of the by-product.",
+  "intermediate_species": ["Ru precursor", "NH3 plasma"],
+  "evidence": "The ALD process uses a self-limiting film growth mechanism caused by surface saturated reactions through the sequential exposure of the precursor and reactant at each ALD cycle. One ALD cycle typically consists of precursor pulsing for precursor adsorption, purging of the physisorbed precursors, reactant pulsing for surface reaction, and purging of the by-product."
+}

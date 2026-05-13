@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Pt-O∗+ (MeCp)Pt(CH3)3 → (CH3)2Pt-(MeCp)∗+ CO2 + H2O + other product",
+    "(CH3)2Pt-(MeCp)∗+ O2 → Pt-O∗+ CO2 + H2O + other product"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Pt-O*",
+    "(CH3)2Pt-(MeCp)*"
+  ],
+  "evidence": "The Pt ALD mechanism using (methylcyclopentadienyl) trimethyl platinum and O2 as precursor is: 1st half cycle: Pt-O∗+ (MeCp)Pt(CH3)3 → (CH3)2Pt-(MeCp)∗+ CO2 + H2O + other product 2nd half cycle: (CH3)2Pt-(MeCp)∗+ O2 → Pt-O∗+ CO2 + H2O + other product where ‘*’ represents an active surface species, and Pt-O* represents oxygen that is adsorbed on the platinum surface."
+}

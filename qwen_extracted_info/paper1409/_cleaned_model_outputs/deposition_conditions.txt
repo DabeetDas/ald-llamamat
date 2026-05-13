@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 600,
+  "pressure": "1-Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 5,
+  "reactor_type": "F-120",
+  "evidence": "The sequential reactions of trimethylaluminum (TMA) and ammonia have been studied in the 1-Torr pressure regime at 600 K with FTIR (Fourier transform infrared spectroscopy) and XPS (X-ray photoelectron spectroscopy)."
+}

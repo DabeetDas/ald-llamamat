@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["ZrO2", "Si"],
+  "temperature_range": "860 °C",
+  "summary": "The study investigates the thermal stability of ZrO2 gate dielectrics on Si, focusing on the formation of metallic Zr components and clusters through annealing. The interfacial Zr-silicate layer thickness decreases below 860 °C, while above this temperature, metallic Zr-silicide clusters form due to the reduction process involving SiO gas desorption.",
+  "evidence": "By the annealing below 860 °C, the interfacial layer thickness of the Zr–silicate decreased although the ZrO2 top layer was not affected. The annealing at 860 °C caused the interfacial Zr–silicate layer to disappear. By the annealing above 860 °C, the metallic Zr components appeared and the metallic clusters were formed."
+}<|im_end|>

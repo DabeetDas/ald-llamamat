@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 21,
+  "density_g_cm3": 6.51,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "polycrystalline",
+  "evidence": "The results in Figure 3b suggest that the incorporation of impurities can be substantially decreased by heating the substrate at moderate temperatures (e400 °C) without substantially increasing the interfacial SiO2 layer. Indeed, the intensities in the regions 1300 -1600 and 2800 -3000 cm-1 for acetate/carbonate and 2400 -2700 cm-1 for D2O are weakened substantially for ALD growth at 300 °C (Figure 4). The inset of Figure 4 shows the differential spectra around the Si-H stretching mode, each of which is referenced to the previous spectrum. La(iPr-MeAMD)3 reacts with surface hydrogen very strongly at 300 °C, consuming almost all Si-H bonds in five ALD cycles. Although the amount of interfacial SiO2 is increased as compared to the same treatment with Si at 200 °C (∼ 100% increase), the total average thickness of that interfacial layer is estimated to be only ∼ 5 Å, according to the integrated area under SiO2 modes, which has been normalized with respect to a chemical oxide grown by wet chemical oxidation of H-terminated Si using the RCA method (∼ 10 Å). These observations suggest that 300 °C is a good substrate temperature for optimum growth."
+}

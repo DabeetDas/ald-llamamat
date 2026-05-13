@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the conversion of MoOx under flowing H2S to form MoS2, with the formation of surface species such as MoS2 and the subsequent degradation of the MoS2/TiO2/CdS/CGSe photocathode due to electrolyte infiltration and dissolution of the MoS2 and TiO2 layers, exposing the underlying CGSe absorber.",
+  "intermediate_species": [
+    "MoOx",
+    "MoS2",
+    "CdS",
+    "CGSe"
+  ],
+  "evidence": "The surface reaction mechanism involves the conversion of MoOx under flowing H2S to form MoS2, with the formation of surface species such as MoS2 and the subsequent degradation of the MoS2/TiO2/CdS/CGSe photocathode due to electrolyte infiltration and dissolution of the MoS2 and TiO2 layers, exposing the underlying CGSe absorber."
+}

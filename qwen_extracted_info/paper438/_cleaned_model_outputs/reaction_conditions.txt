@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth process involves the reaction of InCl3 and H2S precursors, with the thermodynamic favorability of the reaction being compared to the In2O3 process. The reaction equation provided is 2 InCl3(g) + 3 H2S(g) = In2S3(s) + 6 HCl(g), with a negative Gibbs free energy change indicating a favorable reaction.",
+  "intermediate_species": ["HCl(g)"],
+  "evidence": "2 InCl3(g) + 3 H2S(g) = In2S3(s) + 6 HCl(g), (1), AG( 300°C) = - 94.5 kJ mol-1 . AG(500°C) = -94.1 kJ mol-1 [s], 2 InCl3(g) + 3 H+(g) = In2O3(s) + 6 HCl(g), AG( 300°C) = + 3.03 kJ mol-1 . AG(500°C) = + 2.90 kJ mol-1 ."
+}

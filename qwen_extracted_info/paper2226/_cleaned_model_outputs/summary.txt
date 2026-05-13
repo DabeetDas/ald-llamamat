@@ -1,0 +1,8 @@
+{
+  "target_material": "indium-gallium-zinc oxide (a-IGZO)",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Titanium isopropoxide (TTIP)", "oxygen plasma"],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the impact of high-k TiOx dielectric on the mobility of a-IGZO transistors. The TiOx layer was deposited using PEALD at 250 °C with titanium isopropoxide and oxygen plasma as precursors. The mobility degradation was attributed to Coulomb scattering due to the high-permittivity TiOx layer, and the temperature-dependent mobility behavior confirmed this mechanism.",
+  "evidence": "High-k TiOx films were deposited on SiNx film by plasma enhanced atomic layer deposition (PEALD) at a deposition temperature of 250 °C and a chamber pressure of 3 Torr. Titanium isopropoxide (TTIP) and oxygen plasma were used as the Ti precursor and oxygen reactant gas, respectively. The mobility degradation was attributed to the Coulomb scattering mechanism rather than the phonon scattering mechanism of the high-k TiOx layer based on the behavior of the temperature-dependent mobilities for all of the IGZO transistors."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["AlCl3"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "AlCl3 (>99.99%, Sigma-Aldrich) delivery from a heated source to the reactor was boosted with N2 (99.9999%, Aga) by closing the pulsing valve at high line flow and opening at low line flow. NH3 (99.999%, Aga) was used for both thermal and plasma processes. Ar (99.9999%) was constantly flowing through the plasma generator and N2 through other precursor delivery lines."
+}

@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the chemisorption of TEB (triethylborane) on silanol and siloxane groups, followed by reaction with WF6 to start the growth. The TaN chemistry does not utilize siloxane functions for initial deposition. Post purge WF6 residuals may react with NH3 in a CVD type reaction to form tungsten nitride, e.g., WF6 + NH3 → W2N + 3HF + 4.5F2. The release/formation of HF during film growth alters SiO-like materials through etching, causing a reduction in dielectric density.",
+  "intermediate_species": [
+    "silanol groups",
+    "siloxane groups",
+    "TEB surface",
+    "WF6 residuals",
+    "NH3"
+  ],
+  "evidence": "While B(C2H5)3 may react with both silanol and siloxane groups, the TaN chemistry does not utilize the siloxane functions for the initial deposition. Besides, post purge WF6 residuals may react with NH3 in a CVD type reaction to form tungsten nitride, e.g., WF6 + NH3 → W2N + 3HF + 4.5F2. In any case, the deposition of ALD WNC is accompanied by the release/formation of HF, which in certain conditions alters SiO-like materials. Oxide surface alteration proceeds through etching by HF, which causes a reduction in dielectric density."
+}

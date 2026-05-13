@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 80,
+  "number_of_cycles": 430000,
+  "reactor_type": "Cambridge NanoTech Savannah",
+  "evidence": "The substrate temperature was 150 ° C. The precursors were zirconium tetra-tert-butoxide and H2O for the ZrO2 films and Ti-iso-propoxide and H2O for the TiO2 films, respectively. Typical Zr precursor/purge/H2O/purge times in one deposition cycle were 2 sec/ 80 sec/ 2 sec/ 240 sec, while the Ti precursor/purge/H2O/purge times in one deposition cycle were 2 sec/ 27 sec/ 2 sec/ 40 sec, consecutively."
+}

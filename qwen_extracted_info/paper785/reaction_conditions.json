@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "W(CO)6(g) + |-O Æ |-O-W(CO)x + (6-x)CO(g)",
+    "|-O-W(CO)x + O3(g) Æ |-O-W-O3 + x CO(g)"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves the first half-cycle where tungsten hexacarbonyl (W(CO)6) reacts with surface hydroxyl groups to form surface-bound tungsten carbonyl species (W(CO)x) and release carbon monoxide (CO). In the second half-cycle, ozone (O3) reacts with the surface-bound tungsten carbonyl species to form tungsten oxide (WO3) and release CO.",
+  "intermediate_species": [
+    "W(CO)x",
+    "surface-bound tungsten carbonyl species",
+    "CO"
+  ],
+  "evidence": "The reaction mechanism can be predicted as W(CO)6(g) + |-O Æ |-O-W(CO)x + (6-x)CO(g) (A) |-O-W(CO)x + O3(g) Æ |-O-W-O3 + x CO(g) ; ( B )"
+}

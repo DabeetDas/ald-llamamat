@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "1 atm",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Showerhead",
+  "evidence": "Films were deposited using tetrakis(diethylamino)hafnium, Hf(DEA)4, (with Ar carrier) and H2O vapor in alternating pulses with N2 purge of the reaction chamber in between pulses."
+}

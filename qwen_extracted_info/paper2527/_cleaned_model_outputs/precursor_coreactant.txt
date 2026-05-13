@@ -1,0 +1,7 @@
+{
+  "precursors": ["TaCl5"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "A metal halide ALD process, TaCl5 + NH3 → Ta(N) + HCl, was chosen for its chemical simplicity. Typical process conditions were 2–3 s of precursor, 4 s of purging, 4 s of ammonia, and the n 3 s of purging in each ALD cycle."
+}

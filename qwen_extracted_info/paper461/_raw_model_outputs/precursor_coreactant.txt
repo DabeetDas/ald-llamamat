@@ -1,0 +1,7 @@
+{
+  "precursors": ["InCl3", "SnCl2", "H2O"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "InCl3 (Strem, 99.999%) and SnCl2 (Fluka, 99%) and distilled water were used as reactants."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": 30,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 30,
+  "number_of_cycles": 50,
+  "reactor_type": "F-120",
+  "evidence": "The iron oxide was deposited using ferrocene, Fe(Cp)2, and oxygen as precursors at deposition temperatures (TD) of 400 and 500 °C and at a total pressure of 10 Torr. For both oxides, a deposition cycle consists of a metal precursor pulse, a purge pulse, an oxygen precursor pulse, and a second purge pulse. To ensure saturation and a uniform growth, all pulse lengths were kept at 30 s, except for the outer TiO2 layer where 60 s pulse length was used."
+}<|im_end|>

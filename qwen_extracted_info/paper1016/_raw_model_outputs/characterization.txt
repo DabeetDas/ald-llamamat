@@ -1,0 +1,16 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "Scanning electron microscopy (SEM)",
+    "Atomic Force Microscopy (AFM)",
+    "Fourier transform infrared spectroscopy (FTIR)",
+    "Ultraviolet-visible spectrophotometry",
+    "Hall measurement system",
+    "Raman spectroscopy",
+    "XPS (X-ray Photoelectron Spectroscopy)",
+    "Vector network analyzer",
+    "Film residual stress meter",
+    "Electromagnetic shielding measurement"
+  ],
+  "evidence": "Scanning electron microscopy (SEM) images and mapping were conducted using a Zeiss Super 55 field emission scanning electron microscope. The transmittance spectra of films deposited on sapphire substrates were detected by Fourier transform infrared spectroscopy (PerkinElmer). Ultraviolet-visible spectrophotometry was used to collect the visible-region transmission properties of quartz substrates. The electrical properties, including hall mobility, carrier concentration, and resistivity, of SnOx thin films were characterized using an Ecopia HMS3000 Hall measurement system. Raman test with the advantage of \"fingerprint spectroscopy\" was used to analyze the composition of the synthesized films. XPS can be used to find contaminants or trace residual elements in the film. The electromagnetic shielding properties of the infrared transparent conductive thin films were measured using a vector network analyzer (Keysight Technologies N5234A). The residual stress was tested using a film residual stress meter (SuPro Instruments FST2000)."
+}<|im_end|>

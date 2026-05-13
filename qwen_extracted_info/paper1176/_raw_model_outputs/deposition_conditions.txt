@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-240",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "quartz tubular reactor",
+  "evidence": "During ALD, the vapors of M(amd)2 and DEDSe were alternatively pulsed into the deposition chamber with the use of purified Ar and Ar/H2 mixture (95%:5%), respectively, as the carrier gases. Puriﬁed Ar gas (70 sccm) was used as the purge gas, and 30 s of Ar purging was found to be sufﬁcient to completely remove the byproducts and excess precursors."
+}<|im_end|>

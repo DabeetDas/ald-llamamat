@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Li+ + e- + MoO3 ↔ MoO3-",
+    "Li+ + e- + MoO2 ↔ MoO2-"
+  ],
+  "surface_mechanism_description": "Lithium intercalation reactions occur at the negative electrode, with the potential range between 3 V and 1 V vs. Li/Li+ for MoO3 and below 1 V vs. Li/Li+ for MoO2. The intercalation reaction involves up to one electron transfer for MoO3 and up to six electrons for MoO2 depending on the oxidation state of molybdenum oxide.",
+  "intermediate_species": [
+    "MoO3-",
+    "MoO2-"
+  ],
+  "evidence": "The intercalation reaction involves up to one electron transfer according to: Li+ + e- + MoO3 ↔ MoO3-. The conversion reaction below 1 V yields a transfer of up to six electrons depending on the oxidation state of molybdenum oxide: MoO3 + 4Li+ + 4e- ↔ Mo + 2Li2O (Eq. 2) and MoO3 + 6Li+ + 6e- ↔ Mo + 3Li2O (Eq. 3)."
+}<|im_end|>

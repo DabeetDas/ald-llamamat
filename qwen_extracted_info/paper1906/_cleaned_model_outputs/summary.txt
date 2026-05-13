@@ -1,0 +1,8 @@
+{
+  "target_material": "CaB2O4",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["bis(tris(pyrazolyl)borate)calcium (CaTp2)", "water"],
+  "temperature_range": "300–375 /C14 C",
+  "summary": "The study describes the atomic layer deposition (ALD) of CaB2O4 films using bis(tris(pyrazolyl)borate)calcium (CaTp2) and water as precursors. The process was carried out within a temperature range of 300–375 /C14 C, with self-limited growth observed at 350 /C14 C. The films were characterized by techniques such as elastic recoil detection analysis (ERDA), X-ray photoelectron spectroscopy (XPS), and X-ray diffraction, revealing amorphous structures with precise boron-to-calcium ratios. The study highlights the thermal stability and volatility of CaTp2, making it a suitable precursor for ALD.",
+  "evidence": "The atomic layer deposition of CaB2O4 was carried out using bis(tris(pyrazolyl)borate)calcium (CaTp2) and water as precursors. Self-limited ALD growth was established at 350 /C14 C with CaTp2 and water pulse lengths of $2.0 and $0.3 s, respectively. An ALD window was observed from 300 to 375 /C14 C, in which the growth rate was between 0.34 and 0.36 /C23A per cycle. The B/Ca ratios for CaB2O4 films deposited at 275, 325, 350, and 400 /C14 C were 1.84(11), 1.85(11), 1.89(13), and 1.42(10), respectively, as determined by ERDA. The films were amorphous and showed low impurity levels, indicating efficient ligand elimination during film growth."
+}

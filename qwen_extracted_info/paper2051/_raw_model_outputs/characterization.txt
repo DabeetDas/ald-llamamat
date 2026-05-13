@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Auger Electron Spectroscopy (AES)",
+    "Secondary Ion Mass Spectrometry (SIMS)",
+    "X-ray Diffraction (XRD)",
+    "Transmission Electron Microscopy (TEM)",
+    "Selected Area Electron Diffraction (SAED)",
+    "Scanning Tunneling Microscopy (STM)",
+    "X-ray Photoelectron Spectroscopy (XPS) with angular dependence",
+    "X-ray Photoelectron Spectroscopy (XPS) with takeoff angle",
+    "X-ray Photoelectron Spectroscopy (XPS) with different takeoff angles"
+  ],
+  "evidence": "X-ray photoelectron spectroscopy (XPS) was applied to determine the chemical states of the films. XPS measurements were performed using a 400 mm x-ray beam from an Al Ka monochromatic source (1486.6 eV) in a Thermo VG Scientific Sigma probe system. The measurements were done at a 10 eV pass energy with a 0.05 eV/step interval. Due to intensive preferential sputtering of light components in alloys, angular dependent XPS spectra were measured in order to obtain the compositional depth distribution at various takeoff angles without sputtering the films. The takeoff angle is with respect to the sample surface. All the binding energies (BE) of XPS were calibrated with the C 1 s 285 eV binding energy peak. Auger electron spectroscopy (AES) was used to quantitatively measure the composition of the films. AES measurements were performed in a Thermo VG Scientific Microlab 350 system. The atomic concentrations were calculated using elemental sensitivity factors calibrated by a reference of hexagonal close packed (HCP) TaN powder with a N/Ta ratio of 1 (CERAC Inc., Milwaukee, Wisconsin). Impurities incorporated in the films were measured by secondary ion mass spectrometry (SIMS, Cameca IMS 4 f Ion Spectrometer). A Cs+ primary ion beam with an impact energy of 3 KeV was used to analyze an area of 50 mm in diameter. X-ray diffraction and transmission electron microscopy (TEM) techniques were used to identify the structure of the ALD TaNx films. X-ray diffraction was performed in a Philips PW-1820 x-ray diffractometer in a grazing angle mode (grazing angle: 1.5°). CuKα radiation was used as the x-ray source. The data was collected at angle intervals of 0.05°. TEM observations were carried out in JEOL 2000FX and JEOL 3010 UHR microscopes operating at accelerating voltages of 200 and 300 kV, respectively. In order to identify the structure, the radial intensity (RI) of selected area electron diffractions (SAEDs) was summed as a function of the scattering vector, which we defined here as usu52p/d (where d is the corresponding interplanar spacing) using a numerical analysis procedure. The camera length used in this process was calibrated using the diffraction patterns of Si single crystal under identical experimental conditions."
+}<|im_end|>

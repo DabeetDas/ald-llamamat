@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Zn sCH2CH3d2 + H2O -> ZnO + 2 C2H6",
+    "ZnOH* + Zn sCH2CH3d2 -> ZnOZn sCH2CH3d* + C2H6",
+    "Zn sCH2CH3d* + H2O -> ZnOH* + C2H6"
+  ],
+  "surface_mechanism_description": "Ligand exchange between diethylzinc (DEZ) and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Zn sCH2CH3d*",
+    "ZnOH*"
+  ],
+  "evidence": "The surface chemistry during ZnO ALD was monitored in vacuum using Fourier transform infrared spectroscopy. The BaTiO3 and ZrO2 particles initially displayed vibrational features consistent with surface hydroxyl (-OH) groups. Zn sCH2CH3d2 exposure removed the surface hydroxyl groups and created Zn sCH2CH3d* surface species. The subsequent H2O exposure removed the Zn sCH2CH3d* surface species and produced ZnOH* surface species."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The photogenerated hole is efficiently trapped at the surface species (hole trap). A photo-generated electron is trapped at the shallow donor level or the surface species. The electron trapped at the shallow donor relaxes to the deep level acceptor. This is followed by tunnelling emission of surface trapped hole to the acceptor level (hole detrap) and subsequent radiative recombination with the waiting electron resulting in green band luminescence and relatively short decay time.",
+  "intermediate_species": [
+    "surface species",
+    "shallow donor",
+    "deep level acceptor"
+  ],
+  "evidence": "The transition events leading to the broad visible luminescence is shown in Fig. 10 and explained as follows: i) The photogenerated hole is efficiently trapped at the surface species (hole trap). ii) A photo-generated electron is trapped at the shallow donor level or the surface species. iii) The electron trapped at the shallow donor relaxes to the deep level acceptor. This is followed by tunnelling emission of surface trapped hole to the acceptor level (hole detrap) and subsequent radiative recombination with the waiting electron resulting in yellow band luminescence and as well as a longer decay time. iv) Direct transition of electrons from conduction band to the deep level acceptor, followed by emission of the surface trapped hole and subsequent radiative recombination with the waiting electron resulting in green band luminescence and relatively short decay time."
+}

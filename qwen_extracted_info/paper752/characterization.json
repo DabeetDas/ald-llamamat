@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "SEM",
+    "XRD",
+    "EDX",
+    "profilometer",
+    "ImageJ"
+  ],
+  "evidence": "The film thickness as well as the pillar diameter was calculated by image processing of SEM images using ImageJ. XRD measurements were conducted using a PANalytical X’PERT Pro XRD setup in theta-2theta configuration. The Dektak XT measurements were non-reliable and irreproducible, making it hard to interpret the data. The film thickness is the mean value of all pillars depicted in the SEM images. The growth per cycle (GPC) was calculated by dividing the resulting film thickness by the number of applied cycles. XRD measurements were conducted using a PANalytical X’PERT Pro XRD setup in theta-2theta configuration."
+}

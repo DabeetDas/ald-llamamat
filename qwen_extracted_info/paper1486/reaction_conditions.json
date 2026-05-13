@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the coordination of the cycloheptatrienyl (CHT) and cyclopentadienyl (Cp) ligands with the metal center, followed by the reaction with ozone (O3) to form the oxide layer. The process is self-limiting, with the ligands being removed by ozone, allowing for the formation of ZrO2 and TiO2 films.",
+  "intermediate_species": [
+    "CpMeZrCHT",
+    "CpTiCHT",
+    "surface hydroxyls"
+  ],
+  "evidence": "The surface reactions involve the coordination of the cycloheptatrienyl (CHT) and cyclopentadienyl (Cp) ligands with the metal center, followed by the reaction with ozone (O3) to form the oxide layer. The process is self-limiting, with the ligands being removed by ozone, allowing for the formation of ZrO2 and TiO2 films."
+}

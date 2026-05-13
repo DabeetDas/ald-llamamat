@@ -1,0 +1,11 @@
+{
+  "target_material": "La2O3",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "tris(cyclopentadienyl)lanthanum III",
+    "O2 plasma"
+  ],
+  "temperature_range": "150 °C",
+  "summary": "The study investigates the structural and electrical properties of La2O3 ultra-thin films deposited on Si and 6H–SiC using plasma-enhanced atomic layer deposition (PEALD). The films were characterized using XPS, HRTEM, AFM, and XRD. The growth rate was determined to be 0.5 ± 0.05 Å per cycle. The results show the formation of lanthanum silicate on Si but not on SiC. Leakage current densities were measured for capacitors formed with La2O3 on Si and SiC.",
+  "evidence": "The tris(cyclopentadienyl)lanthanum III precursor and O2 plasma as an oxidant were used as starting materials. The deposited La2O3 ultra-thin films were characterized by means of X-ray photoelectron spectroscopy, high-resolution transmission electron microscopy, atomic force microscopy and X-ray diffraction. The growth rate of 0.5 ± 0.05 Ǻ per cycle was determined from optimized process parameters. The XPS and XRD results show the formation of lanthanum silicate on Si, while no formation of silicate was found on SiC. Leakage current densities of 9.58 × 10–3 A/cm 2 and 2.07 A/cm 2 at a bias voltage of 1 V have been determined for the Au/Cr/La2O3/Si and Au/Cr/La2O3/SiC capacitors, respectively."
+}

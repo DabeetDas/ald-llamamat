@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 0.3,
+  "coreactant_pulse_time_s": 0.3,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "hot-walled viscous flow",
+  "evidence": "Using the alternating cycle method, ZnO, ZnS and Zn(O,S) thin films were grown using 0.3 s reactant doses followed by 30 s purges."
+}

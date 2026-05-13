@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "140 /C176C",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.015,
+  "coreactant_pulse_time_s": 0.015,
+  "purge_time_s": 5,
+  "number_of_cycles": 210,
+  "reactor_type": "Savannah100",
+  "evidence": "A typical ALD cycle comprised an initial pulse of TMA for 0.015 s followed by a 5 s purge with N 2 and a subsequent pulse of O 3/H2O for 0.015 s followed by a 5 s purge with N2."
+}

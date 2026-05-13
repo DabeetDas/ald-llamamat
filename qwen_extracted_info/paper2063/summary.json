@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "atomic-layer deposition",
+  "main_precursors": [
+    "TisOC3H7 (TTIP)",
+    "O3"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "TiO2 thin films with high dielectric constants (83–100) were grown on a Ru electrode at a growth temperature of 250 °C using atomic-layer deposition (ALD). The use of O3 with a high concentration was crucial for obtaining the rutile phase and the high dielectric constant. The films showed excellent electrical properties and were suitable for use as capacitor dielectrics in DRAMs.",
+  "evidence": "TiO2 thin films with high dielectric constants (83–100) were grown on a Ru electrode at a growth temperature of 250 °C using the atomic-layer deposition method. The as-deposited films were crystallized with rutile structure. Adoption of O3 with a very high concentration was crucial for obtaining the rutile phase and the high dielectric constant."
+}

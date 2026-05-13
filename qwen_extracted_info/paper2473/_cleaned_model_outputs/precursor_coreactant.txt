@@ -1,0 +1,7 @@
+{
+  "precursors": ["Be(CH3)2 (dimethyl beryllium)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "For ALD BeO growth, Be(CH3)2 precursor was heated up to about IS0°C and pulsed into the ALD chamber for O.4s alternating with 0.02Ss water pulses. Next, a post-deposition (rapid thermal) annealing (PDA) step was performed at SOO°C for 2 minutes in N2 ambient"
+}

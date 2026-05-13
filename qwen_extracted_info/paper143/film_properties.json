@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 104,
+  "density_g_cm3": 3.255,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "hexagonal",
+  "evidence": "The film on soda-lime glass is obviously very porous, the true physical thickness is much higher. This can be seen from the cross-section image in Figure 3a. The thickness of the TiS2 layer is well over 300 nm, although the thickness determined by EDX was 104 nm. On the other hand, the growth of TiS2 on ZnS resulted in much denser films. The thickness of the film determined from Figure 3b is roughly 100 nm, while the thickness of the same film measured by EDX was 72 nm. Although the EDX measurements do not give an accurate physical thickness, they can be used to compare the amount of material deposited."
+}

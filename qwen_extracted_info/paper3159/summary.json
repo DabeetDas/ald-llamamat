@@ -1,0 +1,11 @@
+{
+  "target_material": "Tantalum carbonitride (Ta2CN)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": [
+    "tert-butylimido tris(diethylamido)tantalum (TBTDET)",
+    "hydrogen/argon plasma"
+  ],
+  "temperature_range": "200 to 260°C",
+  "summary": "The study describes a stable PEALD process for depositing tantalum carbonitride thin films with stoichiometry Ta2CN. The process uses TBTDET as a precursor and hydrogen/argon plasma. The films exhibit excellent properties such as low resistivity, high density, and good copper diffusion barrier performance. The process operates within a temperature range of 200 to 260°C, with a standard temperature of 250°C. The films show a cubic nanocrystalline structure and a low oxygen impurity content of below 5 atom %.",
+  "evidence": "Tantalum carbonitride thin films were deposited by plasma-enhanced atomic layer deposition using the metallorganic precursor tert-butylimido tris(diethylamido)tantalum and hydrogen/argon direct plasma with 600 W radio frequency power. Within the atomic layer deposition temperature window, which ranges from below 200 to 260°C, films grow with 0.35 Å/cycle. At a substrate temperature of 250°C, the process yields Ta2CN films with an oxygen impurity content of below 5 atom %."
+}

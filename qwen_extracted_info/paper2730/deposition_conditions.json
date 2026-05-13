@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "613",
+  "pressure": "101.3 kPa or 760 Torr",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "2",
+  "number_of_cycles": "1080",
+  "reactor_type": "Crystal Specialties model 425 all-quartz, horizontal laminar flow MOCVD reactor",
+  "evidence": "Films were deposited using two different process sequences, 1-1-1-1 and 4-2-2-2, where the numbers represent the duration of the individual dosing steps in seconds. The order of the sequence was DMEAA–H2 flush–NH3–H2 flush. The sequential process was cycled for at least 90 min, with some runs lasting 180 min."
+}

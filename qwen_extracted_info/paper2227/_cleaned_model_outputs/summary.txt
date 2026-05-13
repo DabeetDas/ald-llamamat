@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethyl aluminum", "H2O"],
+  "temperature_range": "elevated temperatures",
+  "summary": "The study describes the realization of a high mobility dual-gated graphene field-effect transistor with an Al2O3 dielectric deposited via atomic layer deposition (ALD). The ALD process uses a thin Al nucleation layer to enable the deposition of Al2O3 on graphene, which is critical due to the hydrophobic nature of graphene. The process involves the deposition of a 1–2 nm thick Al layer, followed by ALD of Al2O3 using trimethyl aluminum as the Al source and H2O as the oxidizer. The resulting Al2O3 layer shows minimal degradation of graphene's carrier mobility, with a measured mobility of over 8000 cm2/Vs at room temperature.",
+  "evidence": "We fabricate and characterize dual-gated graphene field-effect transistors using Al2O3 as top-gate dielectric. We use a thin Al film as a nucleation layer to enable the atomic layer deposition of Al2O3. The key idea enabling the high-k dielectric layer growth on graphene by ALD is to provide intentional nucleation sites on the inert surface of graphene. Prior to the Al2O3 layer growth by ALD, we deposit a 1–2 nm thick Al layer on the graphene surface by e-beam evaporation. After the Al deposition, the samples are taken out in air and transferred to the ALD chamber for the deposition of Al2O3 using trimethyl aluminum as the Al source and H2O as oxidizer."
+}

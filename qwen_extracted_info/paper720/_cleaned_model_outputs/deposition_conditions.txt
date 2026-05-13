@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 332,
+  "pressure": "1 torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": 250,
+  "reactor_type": "showerhead-type",
+  "evidence": "The AlN ﬁlms were prepared on Si(1 0 0) and Pt(1 1 1)/Ti/SiO2/Si substrates using a showerhead-type ALD system (Kurt J. Lesker Co. ALD-150LX), which has a remote plasma generation conﬁguration. ... The ﬁlms were deposited for 250 ALD cycles."
+}

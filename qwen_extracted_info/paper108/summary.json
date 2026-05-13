@@ -1,0 +1,11 @@
+{
+  "target_material": "SrS",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Sr(thd)2",
+    "H2S"
+  ],
+  "temperature_range": "350-450°C",
+  "summary": "SrS thin films were grown using in situ synthesized Sr precursors and H2S. The study focused on the synthesis of Sr(thd)2 from Sr, SrO, Sr(OH)2, or SrCO3 within the reactor, and the effects of different source chemicals on the growth rate and crystallinity of SrS films. The process involved alternating pulses of metal precursors and H2S, with the aim of achieving high-quality SrS thin films for electroluminescent applications.",
+  "evidence": "SrS thin films were grown on uncoated or A1203-coated soda lime glass substrates from hydrogen sulfide and Sr(thd)2 by the atomic layer epitaxy (ALE) process. Sr(thd)2 was prepared from Sr, SrO, Sr(OH)2 or SrCO3 and Hthd inside the reactor during the deposition process. The deposition temperature for crystalline SrS thin films by ALE has been as low as 300°C."
+}

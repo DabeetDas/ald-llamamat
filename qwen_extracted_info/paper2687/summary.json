@@ -1,0 +1,11 @@
+{
+  "target_material": "B2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "BCl3",
+    "H2O"
+  ],
+  "temperature_range": "room temperature (300 K) and 650 K",
+  "summary": "The study investigates the low-temperature atomic layer deposition (ALD) of B2O3 films on Si using BCl3 and H2O precursors. It demonstrates that B2O3 films can be formed at room temperature with an average growth rate of ~2.5 Å/cycle, but Cl contamination from BCl3 interactions with the Si substrate affects initial oxide nucleation. At 650 K, B2O3 growth is observed with a decreasing growth rate, indicating Cl's role in inhibiting oxide growth. The study highlights the importance of Cl in the ALD process and its impact on film uniformity and growth.",
+  "evidence": "In this study, atomic layer deposition (ALD) of nanoscale boron oxide (B2O3) films on Si using BCl3/H2O precursors at room temperature was investigated using in situ x-ray photoelectron spectroscopy (XPS). B2O3 thin films are of considerable interest in ultra-shallow Si doping applications... The data in Fig. 5(a) shows a linear, ALD-type growth of B2O3 with growth rates directly proportional to the number of BCl3/H2O cycles at room temperature. The data in Figs. 6 and 7 therefore indicate that BCl3/O2 cycles at 650 K do not lead to B2O3 formation by an ALD-type growth mechanism."
+}

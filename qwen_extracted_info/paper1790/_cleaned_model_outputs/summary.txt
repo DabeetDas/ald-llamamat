@@ -1,0 +1,8 @@
+{
+  "target_material": "Tungsten nitride (WNx)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tungsten hexacarbonyl [W(CO)6]", "ammonia [NH3]"],
+  "temperature_range": "180-195 oC",
+  "summary": "This study demonstrates the atomic layer deposition (ALD) of tungsten nitride (WNx) using tungsten hexacarbonyl and ammonia as precursors. The ALD process was carried out within a narrow temperature range of 180-195 oC, achieving a saturated growth rate of approximately 0.35 Å per ALD cycle. The as-deposited material was found to be amorphous and crystallized to h-W2N upon annealing. The material showed high electronic conductivity and was tested as an anode material for lithium-ion batteries, showing promising electrochemical performance with a coulombic efficiency exceeding 99%.",
+  "evidence": "This article demonstrates atomic layer deposition (ALD) of tungsten nitride using tungsten hexacarbonyl [W(CO)6] and ammonia [NH3] and its use as lithium-ion battery anode. A saturated growth rate of ca. 0.35 Å per ALD cycle is found within a narrow temperature window of 180-195 oC. The as-deposited material is found amorphous that crystallized to h-W2N upon annealing at an elevated temperature under ammonia atmosphere. Electrochemical studies of the as-deposited films opens up the possibility of this material to be used as an anode material in Li-ion battery."
+}

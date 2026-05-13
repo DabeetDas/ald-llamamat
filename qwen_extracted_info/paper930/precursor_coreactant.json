@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "trimethylaluminum (TMA)"
+  ],
+  "coreactants": [
+    "deionized water"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Alumina ALD was carried out by alternating reactions of trimethylaluminum (TMA, 97%, Sigma–Aldrich) with deionized water at 65 ◦C. N2 stream with a flow rate of 5 sccm was then fed as the purge gas to help remove unreacted precursor and any by-products formed during the reaction."
+}

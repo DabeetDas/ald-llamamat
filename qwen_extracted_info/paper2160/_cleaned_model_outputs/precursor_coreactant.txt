@@ -1,0 +1,7 @@
+{
+  "precursors": ["HfI4", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The deposition sequence consisted of a precursor pulse (HfI4)–purging pulse (N2)–oxygen pulse (H2O)–purging pulse (N2)."
+}

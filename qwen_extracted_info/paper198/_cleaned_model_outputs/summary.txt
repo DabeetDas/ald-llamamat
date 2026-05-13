@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "Plasma-Assisted ALD (PA-ALD)",
+  "main_precursors": ["TMA", "O2 plasma"],
+  "temperature_range": "Room temperature",
+  "summary": "The study describes the plasma-assisted atomic layer deposition (PA-ALD) of Al2O3 films at room temperature using TMA and O2 plasma as precursors. The process involves a capacitively coupled plasma source, and the growth rate is influenced by plasma power, O2 pulse length, and the distance between the plasma source and the substrate. The films are oxygen-rich with carbon impurities, and nitrogen incorporation is observed at higher plasma powers. The growth rate saturates at 1.78 Å per cycle.",
+  "evidence": "A new design of plasma source has been used for the plasma-assisted atomic layer deposition (PA-ALD) of Al2O3 films at room temperature. ... The growth rate saturated at the level of 1.78 A˚ /C1 cycle/C0 1. EDS analysis showed that the films were oxygen rich and had carbon as an impurity. ... The growth rate increases with increasing plasma power. ... The films are oxygen rich and the carbon content of the film decreased with increasing O2 pulse length consistent with a more complete precursor reaction. There was significant nitrogen concentration in the film in particular at higher powers and longer pulse times."
+}

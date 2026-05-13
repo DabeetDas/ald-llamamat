@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMA)"],
+  "coreactants": ["H2O vapor", "O2 gas mixed with N2 gas"],
+  "purge_gas": ["Ar gas"],
+  "carrier_gas": ["Ar gas"],
+  "evidence": "H2O vapor and O 2 gas mixed with N 2 gas as the oxidants in ALD and PEALD, respectively, and trimethylaluminum (TMA) was used as the source of Al in both cases. TMA was cooled at 15°C and introduced into the reaction chamber with Ar carrier gas. H 2O and O2 gas mixed with N 2 gas were also introduced into the reaction chamber with Ar carrier gas."
+}

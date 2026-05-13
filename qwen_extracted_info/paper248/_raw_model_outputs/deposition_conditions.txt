@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 120,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "laminar-flow-type thermal reactor (NCD, Lucida D100, Korea)",
+  "evidence": "All the film depositions were performed at a substrate temperature of 120 °C using diethylzinc (DEZ; EG Chem., Korea) as the common precursor for Zn while deionized H2O and 10% hydrogen sulfide (H2S mixed with N2, Gaschem., Korea) gas were used as the reactants for the oxide and sulfide films, respectively."
+}<|im_end|>

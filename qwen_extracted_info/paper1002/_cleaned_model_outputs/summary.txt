@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "ALD and MOCVD",
+  "main_precursors": ["(MeCp)2ZrMe(OMe)", "(MeCp)2ZrMe(OBut)"],
+  "temperature_range": "ALD: 250 – 450 °C; MOCVD: 350 – 650 °C",
+  "summary": "The study investigates the deposition of ZrO2 thin films using liquid injection MOCVD and ALD with cyclopentadienyl-based Zr precursors [(MeCp)2ZrMe(OMe)] and [(MeCp)2ZrMe(OBut)]. Films grown by ALD at low temperatures (300 °C) were amorphous, while those deposited by MOCVD at higher temperatures (600 °C) were in the tetragonal phase. The presence of alkoxide ligands reduced carbon contamination compared to previous studies.",
+  "evidence": "Analysis by X-ray diffraction showed that films grown at low temperature (300 °C) by ALD were amorphous, whist films deposited at higher temperature (600 °C) by MOCVD exist in the tetragonal phase. Auger electron spectroscopy showed that residual carbon (1.4 – 7.0 at.%) was present in the oxide films and that the MOCVD-grown films contained more carbon contamination than those grown by ALD."
+}

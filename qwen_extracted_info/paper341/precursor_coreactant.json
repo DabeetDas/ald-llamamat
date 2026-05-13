@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Trimethylgallium (TMG)",
+    "Trimethylaluminum (TMA)",
+    "10% AsH3 in H2"
+  ],
+  "coreactants": [
+    "H2"
+  ],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [
+    "H2"
+  ],
+  "evidence": "The source gases supplied to the reactor were exchanged by a pressure-balanced vent and run gas manifold. Trimethylgallium (TMG), trimethylaluminum (TMA) and 10% AsH3 in H2 were used as sources for Ga, Al, and As. The carrier gas was H2 and the total gas flow rate was 2 SLM."
+}

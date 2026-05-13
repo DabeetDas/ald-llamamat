@@ -1,0 +1,19 @@
+{
+  "precursors": [
+    "Sr(thd)2",
+    "ZnCl2",
+    "Ce(thd)4",
+    "Mn(thd)3"
+  ],
+  "coreactants": [
+    "H2S",
+    "Se"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The SrS1/C0xSex films were deposited on Al2O3 coated soda lime glass substrates by pulsing sequentially Sr(thd)2 (thd=2,2,6,6-tetramethyl-3,5-heptanedionato) (Volatec), H2S (Messer Griesheim, 99.99%) and Se using 99.999% N2 as a carrier and purging gas. Selenium was always pulsed after the H2S pulse so that substitution of the surface sulfur by selenium was possible. Sr(thd)2 and Se were evaporated inside the reactor at 220/C14C and the glass substrate temperature was 380/C14C. The ZnS1/C0xSex films were deposited in the same way as the SrS1/C0xSex films except that Sr(thd)2 was replaced by ZnCl2 (Merck, >98%)."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Titanium oxide (TiO2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TiCl4", "Ti(OC2H5)4", "H2O"],
+  "temperature_range": "125 to 500 °C",
+  "summary": "The study investigates the conformal growth of titanium oxide (TiO2) films using atomic layer deposition (ALD) on silicon substrates. The films were grown using TiCl4 and Ti(OC2H5)4 as titanium precursors with H2O as the oxidizing agent. The process was carried out in a temperature range of 125 to 500 °C. The films showed perfect conformal growth on patterned substrates with elliptical holes of 7.5 μm depth and an aspect ratio of about 1:40. The dominant crystalline phase in the as-grown films was anatase, with some contribution from rutile at higher temperatures. Post-deposition annealing in an oxygen ambient resulted in (re)crystallization, and the effect of annealing varied depending on the precursor used. The study aimed to examine ALD process regimes allowing the growth of conformal films and study their structural properties.",
+  "evidence": "The films were grown using TiCl4 and Ti(OC2H5)4 as titanium precursors in the temperature range from 125 to 500 °C. In all cases perfect conformal growth was achieved on patterned substrates with elliptical holes of 7.5 μm depth and aspect ratio of about 1:40. The dominant crystalline phase in the as-grown films was anatase, with some contribution from rutile at relatively higher temperatures. Annealing in the oxygen ambient resulted in (re)crystallization whereas the effect of annealing depended markedly on the precursors used in the deposition process."
+}<|im_end|>

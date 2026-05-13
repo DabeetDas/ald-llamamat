@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnTe–ZnO core–shell",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["diethyl zinc", "deionized water"],
+  "temperature_range": "60–200 ◦C",
+  "summary": "ZnTe–ZnO core–shell radial heterostructures were grown by combining molecular beam epitaxy (MBE) and atomic layer deposition (ALD). ZnTe nanowires were grown on a GaAs substrate using the vapor–liquid–solid mechanism, and ZnO shells were deposited via ALD using diethyl zinc and deionized water as precursors. The study focused on the structural and optical properties of the resulting core–shell structures, with an emphasis on the impact of ALD temperature on the quality and performance of the ZnO shells.",
+  "evidence": "An atomic layer deposition technique using diethyl zinc and deionized water as precursors was applied for zinc oxide shell formation. The ALD process was performed at 60, 100, 150 and 200 ◦C using 400 ALD growth cycles. The low-temperature photoluminescence spectra showed that the PL spectrum and its intensity are strongly dependent on the ALD process temperature."
+}<|im_end|>

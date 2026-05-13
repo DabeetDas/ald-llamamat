@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "773",
+ "pressure": "atmospheric",
+ "precursor_pulse_time_s": "10",
+ "coreactant_pulse_time_s": "10",
+ "purge_time_s": "10",
+ "number_of_cycles": "100-1000",
+ "reactor_type": "horizontal quartz hot-wall type",
+ "evidence": "The gas-flow sequence of the growth per cycle consists of four steps as follows: supply ZrCl4 for 10 s ~step 1!, purge with N 2 for 10 s ~step 2!, supply O2 for 10 s ~step 3!, and then purge with N2 for 10 s ~step 4!."
+}<|im_end|>

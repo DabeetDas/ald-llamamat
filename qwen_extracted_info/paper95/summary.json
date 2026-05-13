@@ -1,0 +1,11 @@
+{
+  "target_material": "metal pyrites (FeS2, CoS2, NiS2)",
+  "process_type": "plasma-assisted ALD",
+  "main_precursors": [
+    "metal amidinates (bis(N,N’-di-tert-butylacetamidinato) M(II))",
+    "H2S plasma"
+  ],
+  "temperature_range": "80~300 °C",
+  "summary": "The paper describes the synthesis of metal pyrites (FeS2, CoS2, NiS2) using plasma-assisted atomic layer deposition (ALD). The process involves using H2S plasma as a sulfur source to overcome the limitations of molecular H2S gas, enabling the formation of stoichiometric metal disulfides. The ALD process allows for atomic-level control over film composition and thickness, ensuring uniform and conformal coatings on complex structures.",
+  "evidence": "The ALD process was performed using metal amidinates (bis(N,N’-di-tert-butylacetamidinato) M(II)) and H2S plasma as the sulfur source. The process temperature range was 80~300 °C. The results showed the successful synthesis of stoichiometric FeS2, CoS2, and NiS2 thin films with high purity and uniformity."
+}

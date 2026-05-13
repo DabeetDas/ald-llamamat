@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "Cd + Se2 -> CdSe",
+    "Cd + Te -> CdTe"
+  ],
+  "surface_mechanism_description": "The formation of a chalcogenide (e.g., CdSe) layer on a hydroxylated silicon surface exposed to alternating Cd and Se beams can be represented by the following surface reactions: The initial stage of the process is dominated by metal chemisorption. At a later stage, the process involves attachment of adsorbed atoms to the chemisorbed component.",
+  "intermediate_species": [
+    "Cd",
+    "Se2",
+    "Te",
+    "CdSe",
+    "CdTe"
+  ],
+  "evidence": "The formation of a chalcogenide (e.g., CdSe) layer on a hydroxylated silicon surface exposed to alternating Cd and Se beams can be represented by the following surface reactions: The initial stage of the process is dominated by metal chemisorption. At a later stage, the process involves attachment of adsorbed atoms to the chemisorbed component."
+}<|im_end|>

@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Rutherford Backscattering Spectrometry (RBS)",
+    "Nuclear Reaction Analysis (NRA)",
+    "X-ray Diffraction (XRD)",
+    "Scanning Electron Microscopy (SEM)",
+    "Transmittance Spectroscopy",
+    "Ellipsometry",
+    "Four-point probe",
+    "Capacitance measurements",
+    "Current-voltage (I-V) measurements"
+  ],
+  "evidence": "The films were analyzed by X-ray diffraction (XRD), X-ray photoelectron spectroscopy (XPS), Rutherford backscattering spectrometry (RBS), and nuclear reaction analysis (NRA). Scanning electron microscopy (SEM) was used to examine surface morphology. Transmittance spectra were measured to evaluate film thicknesses and refractive indexes. Capacitance and loss factors were measured at a frequency of 100 kHz using an impedance analyzer, and current-voltage characteristics were measured with an HP 4142B modular dc source. The refractive index was determined using transmittance spectra. The permittivity was evaluated from capacitance measurements. The leakage current densities were measured at 1 MV/cm electric field strength."
+}<|im_end|>

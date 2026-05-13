@@ -1,0 +1,11 @@
+{
+  "target_material": "Magnesium phosphate",
+  "process_type": "Plasma-assisted ALD",
+  "main_precursors": [
+    "Bis(ethylcyclopentadienyl)magnesium (Mg(EtCp)2)",
+    "Tris(dimethylamino)phosphine (TDMAP)"
+  ],
+  "temperature_range": "125 to 300 °C",
+  "summary": "Atomic Layer Deposition (ALD) was used to fabricate magnesium phosphate thin films as a magnesium-ion conducting solid electrolyte. The films were deposited at lower temperatures ranging from 125 to 300 °C. The films exhibited an amorphous nature and excellent step coverage, even in narrow trenches with high aspect ratios. The ionic conductivity and activation energy were found to be higher at lower deposition temperatures, attributed to increased disordering of the phosphate matrix, which enhances hopping conduction of magnesium ions. The film deposited at 125 °C showed an ionic conductivity of 1.6 × 10^-7 S cm^-1 at 500 °C with an activation energy of 1.37 eV, which is better than that of the film deposited at 250 °C and a sputtered film. The study highlights the potential of ALD for fabricating magnesium-based solid electrolyte films.",
+  "evidence": "The text states: 'Atomic layer deposition (ALD) was used to fabricate magnesium phosphate thin films as a magnesium-ion conducting solid electrolyte. The deposition was carried out at lower deposition temperatures, ranging from 125 to 300 °C. The film deposited at 125 °C showed an ionic conductivity of 1.6 × 10^-7 S cm^-1 at an ambient temperature of 500 °C, with an activation energy of 1.37 eV. These values are better than those of the film deposited at 250 °C as well as of a sputtered film. Our results indicate that ALD has great potential for the fabrication of magnesium-based solid electrolyte films.'"
+}

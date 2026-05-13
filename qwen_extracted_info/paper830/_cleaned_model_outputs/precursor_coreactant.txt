@@ -1,0 +1,7 @@
+{
+  "precursors": ["zinc acetate"],
+  "coreactants": ["water vapor"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "Oxygen source (water vapor) was kept at room temperature and zinc precursor (zinc acetate) at 230–250 1C. Pulsing time for both the precursors was 0.5 s and purging time was about 1 s. We used nitrogen was used as purging and transport gas."
+}

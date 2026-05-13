@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": [
+    "Hf(NC2H5)4",
+    "N2O plasma"
+  ],
+  "temperature_range": "340°C",
+  "summary": "The study investigates the effect of nitrogen incorporation in HfO2 films deposited by plasma-enhanced atomic layer deposition (PEALD) using N2O plasma. The PEALD process with N2O plasma showed a wider process window and higher growth rate compared to N2O gas. Nitrogen atoms were incorporated into the interface between HfO2 films and Si substrates during PEALD, effectively blocking oxygen diffusion during annealing. The films deposited with N2O plasma had a polycrystalline structure and lower oxide-trapped charge density, leading to improved electrical properties.",
+  "evidence": "The HfO2 films deposited with N2O plasma showed a wider atomic layer deposition process window and a higher growth rate than those deposited with N2O gas. Nitrogen atoms were successfully incorporated into the interface between the HfO2 films and Si substrate during the PEALD process without requiring an additional nitridation process prior to the HfO2 deposition. The nitrogen atoms in the interfacial region of the HfO2 effectively blocked oxygen diffusion during subsequent annealing in a N2 atmosphere. The as-deposited HfO2 films with N2O gas had an amorphous structure while those with N2O plasma contained a randomly oriented polycrystalline phase of HfO2."
+}

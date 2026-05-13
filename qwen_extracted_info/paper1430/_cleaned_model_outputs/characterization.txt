@@ -1,0 +1,13 @@
+{
+ "characterization_methods": [
+   "Rutherford backscattering spectrometry",
+   "Ellipsometry",
+   "X-ray diffraction (XRD)",
+   "Atomic force microscopy (AFM)",
+   "Scanning electron microscopy (SEM)",
+   "Cross-sectional SEM",
+   "X-ray scattering",
+   "RBS (Rutherford backscattering spectrometry)"
+ ],
+ "evidence": "Rutherford backscattering spectrometry was performed using a spectrometer purchased from NEC and equipped with a MAS 1700 end station. Ellipsometry at a 70° incident angle where λ = 6328 Å was used to measure the film thickness and refractive index simultaneously at three or more locations on each wafer. X-ray diffraction measurements were carried out using a Siemens D5005 X-ray diffractometer. Surface roughness was measured with an atomic force microscope (Digital Instruments Nanoscope III). The cross-sectional SEM backscattered electron image was collected on an Hitachi S-900 scanning electron microscope. Low-angle X-ray scattering measurements were carried out at the 2-BM bending magnet beamline of the Advanced Photon Source (APS)."
+}

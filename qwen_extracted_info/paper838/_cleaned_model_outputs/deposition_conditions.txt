@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350-410",
+  "pressure": "9N4 helium",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 1.5,
+  "number_of_cycles": 100,
+  "reactor_type": "Quartz reactor with graphite crucible",
+  "evidence": "The growth parameters are summarized in Table 1 . The exposure and purge times were selected according to the vapor pressure of the reactants and growth temperatures. Pure selenium and tellurium pieces were weighed in a molar fraction proportion of 2:3, respectively. The SeTe alloy was formed during the heating up of the system. GaAs(0 0 1) oriented substrates were previously etched in a H2SO4:H2O2:H2O (5:1:1) solution for 120 s; in HF for 15 s, and thoroughly rinsed in bidistilled water. Thermal pre-treatments were carried out to the graphite crucible at 700 1C in helium atmosphere before every growth process to remove material deposited in previous growth experiments."
+}

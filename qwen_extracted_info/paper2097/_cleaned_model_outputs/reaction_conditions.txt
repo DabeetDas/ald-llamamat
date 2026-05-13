@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ta penetration is due to the TaN film growth by saturation adsorption of Ta precursors on the inner surface of the pores followed by reduction by NH3. Self-limiting film growth results in a uniform film formation on the inner surface of the pores.",
+  "intermediate_species": ["Ta precursors", "NH3"],
+  "evidence": "The self-limiting characteristics of the penetration at the center indicate that the penetration mechanism at the wafer center is a self-limiting film growth on the inner surface of the pores. Namely, Ta penetration is due to the TaN film growth by saturation adsorption of Ta precursors on the inner surface of the pores followed by reduction by the NH3. Self-limiting film growth results in a uniform film formation on the inner surface of the pores."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2/SiO2 nanolaminates",
+  "process_type": "ALD",
+  "main_precursors": ["Hf(NO3)4", "(tBuO)3SiOH"],
+  "temperature_range": "120 °C or 160 °C",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of HfO2/SiO2 nanolaminates using Hf(NO3)4 and (tBuO)3SiOH precursors at 120 °C or 160 °C. The nanolaminates exhibit a bilayer spacing of 2.1 nm, with the majority of each bilayer being SiO2. The study also explores the dielectric properties and crystallization behavior of the nanolaminates under different annealing conditions.",
+  "evidence": "Successive exposure of substrates maintained at 120 or 160 °C to nitrogen flows containing Hf(NO3)4 and (tBuO)3SiOH led to typical bilayer spacings of 2.1 nm, with the majority of each bilayer being SiO2. Combining the ALD of Hf(NO3)4/(tBuO)3SiOH with ALD cycles involving Hf(NO3)4 and H2O allowed the systematic variation of the HfO2 thickness within the nanolaminate structure."
+}

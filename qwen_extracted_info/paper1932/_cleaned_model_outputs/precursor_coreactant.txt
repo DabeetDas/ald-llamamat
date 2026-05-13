@@ -1,0 +1,7 @@
+{
+  "precursors": ["LiOtBu"],
+  "coreactants": ["H2O", "CO2", "O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The ALD processes developed in this work are shown in Fig. 1. For thermal ALD (Fig. 1a), the cycle consists of the exposure of the substrate to LiOtBu (97%, Sigma Aldrich) lithium precursor, H2O gas and CO2 gas respectively, alternated by argon purges. The plasma-assisted ALD process (Fig. 1b) consists of a combination of the substrate exposure to the same lithium precursor and to an O2-fed plasma with a plasma power of 100 W, alternated by argon purging steps."
+}

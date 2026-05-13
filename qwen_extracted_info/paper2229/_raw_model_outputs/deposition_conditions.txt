@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "130",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "15",
+  "purge_time_s": "15",
+  "number_of_cycles": null,
+  "reactor_type": "custom viscous flow ALD reactor",
+  "evidence": "The ALD timing sequences can be expressed as t1-t2-t3-t4, where t1 is the exposure time for the first precursor, t2 is the purge time following the first exposure, t3 is the exposure time for the second precursor, and t4 is the purge time following the exposure to the second precursor, where units are in seconds. The timing sequence was 15-15-1-10 unless otherwise stated."
+}<|im_end|>

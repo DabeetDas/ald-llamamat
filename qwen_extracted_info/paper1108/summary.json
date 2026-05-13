@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "tetrakis-di-methylamido-Hf",
+    "water"
+  ],
+  "temperature_range": "230 °C",
+  "summary": "The study investigates the in situ atomic layer deposition (ALD) of HfO2 on a Si(001)/SiO2 substrate using tetrakis-di-methylamido-Hf and water as precursors at 230 °C. The research focuses on the initial stages of ALD, analyzing surface morphology through AFM topography, surface height histogram, root mean square roughness, surface fractal dimension, and autocorrelation function. The completion of the first HfO2 layer is confirmed after four ALD cycles.",
+  "evidence": "The ALD cycles, made by using tetrakis-di-methylamido-Hf and water as precursors, were performed on the Si(001)/SiO2 substrate maintained at 230 °C. After each ALD cycle we studied the influence of the HfO2 growth on the surface height histogram, the root mean square roughness, the surface fractal dimension and the autocorrelation function. This detailed analysis of the surface topography allowed us to confirm the completion of the first HfO2 layer after four ALD cycles."
+}

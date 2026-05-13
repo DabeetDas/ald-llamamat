@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "tetrakis(dimethylamido) titanium (TDMAT)"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "All ALD TiO2 films were deposited on double-side polish, on-axis sapphire substrates (c-, m-, and a-plane oriented – MTI Corp) in a commercial Veeco Fiji G2 system using high purity tetrakis(dimethylamido) titanium (TDMAT, 99.99%-Ti, Strem Chemical) as a Ti source, an ultra-high purity O2 plasma as the co-reactant, and ultra-high purity Ar as a carrier gas for the Ti source."
+}

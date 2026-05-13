@@ -1,0 +1,11 @@
+{
+  "target_material": "CH3NH3PbI3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "H2S",
+    "Pb(tmhd)2"
+  ],
+  "temperature_range": "150 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of CH3NH3PbI3 perovskite thin films. The process involves depositing a PbS seed layer using ALD with H2S and Pb(tmhd)2 precursors, followed by conversion to PbI2 through iodine gas exposure and subsequent conversion to CH3NH3PbI3 via dip in methylammonium iodide (MAI) solution. The ALD process ensures controlled thickness, high purity, and crystallographic orientation of the films.",
+  "evidence": "ALD of lead sulﬁ de has yielded thin ﬁ lms with controlled thickness, high purity, and distinct crystallographic orientations. [...] We begin with ALD of a seed ﬁ lm of lead sulﬁ de from controlled alternating pulses of H2S and Pb(tmhd)2 ALD precursors. [...] The PbS sample is sealed in a nitrogen-atmosphere closed system with iodine chips sublimated at 120 °C to generate I2(g), converting the ﬁ lm to PbI2. [...] The PbI2 ﬁ lms are dipped in CH3NH3I in IPA, resulting in full conversion to MAPbI3."
+}

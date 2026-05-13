@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(tert-butylimido)-bis(dimethylamido)molybdenum"],
+  "coreactants": ["ammonia"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": [],
+  "evidence": "Atomic layer deposition (ALD) was used to deposit thin films of molybdenum nitride from a new precursor, bis(tert-butylimido)-bis(dimethylamido)molybdenum, and ammonia."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100–400",
+  "pressure": "0.01 mbar",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "open-load ALD setup (ALD-I)",
+  "evidence": "The second half-cycle consists of an O2 exposure at 0.01 mbar chamber pressure while applying a 100 W plasma power for 5 s."
+}

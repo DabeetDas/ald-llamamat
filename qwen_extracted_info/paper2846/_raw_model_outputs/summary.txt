@@ -1,0 +1,8 @@
+{
+  "target_material": "Si",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Si2H6"],
+  "temperature_range": "675 K",
+  "summary": "The study describes the successful realization of atomic-layer epitaxy (ALE) for silicon (Si) using thermally cracked Si2H6 as a precursor on Ge(001) and Si(001) surfaces. The process involves monolayer-by-monolayer growth with a saturation coverage of approximately 1 ML, achieved through controlled exposure, evacuation, annealing, and cooling steps. The results indicate that annealing at 675 K allows for a growth rate of 1 ML per cycle, while deviations from this temperature lead to submonolayer growth due to factors such as Si-Ge intermixing or adsorption interruption by higher hydrides.",
+  "evidence": "We propose a novel atomic-layer epitaxy (ALE) method for group IV element semiconductors with which thermally cracked hydride molecules are applied as a precursor. We demonstrate for the first time that with thermally cracked Si2H6 as a precursor, monolayer-by-monolayer Si ALE growth is successfully realized on Ge(001). The results also indicate that Si ALE growth is realized on both Si(001) and Ge(001)."
+}<|im_end|>

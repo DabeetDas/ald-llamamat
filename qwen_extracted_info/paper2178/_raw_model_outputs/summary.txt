@@ -1,0 +1,8 @@
+{
+  "target_material": "Lanthanum zirconium oxide (La xZr1−xO2−/H9254)",
+  "process_type": "Liquid injection atomic layer deposition (ALD)",
+  "main_precursors": ["iPrCp3La", "MeCp2ZrMeOMe"],
+  "temperature_range": "300 °C (growth temperature), 700 °C (annealing)",
+  "summary": "Lanthanum zirconium oxide (La xZr1−xO2−/H9254) films were deposited by liquid injection atomic layer deposition (ALD) using iPrCp3La and MeCp2ZrMeOMe precursors. The films were annealed at 700 °C, resulting in crystallization for lower La content films and amorphous structure for higher La content films. The films exhibited good dielectric properties with low leakage currents and hysteresis voltages.",
+  "evidence": "LaxZr1−xO2−/H9254 films were deposited on n-type Si(100)/SiO2 substrates by liquid injection ALD using 0.05M solutions of iPrCp3La and MeCp2ZrMeOMe in toluene. The films were annealed in air at 700 °C for 15 min. The lower La content (x = 0.22) films crystallized in the form of a stabilized cubic zirconia phase, while higher La content (x = 0.35 and 0.63) films remained amorphous. The films showed good dielectric properties with low hysteresis voltages and negligible flatband voltage shifts."
+}<|im_end|>

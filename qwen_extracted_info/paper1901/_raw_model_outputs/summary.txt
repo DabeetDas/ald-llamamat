@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TiO2"],
+  "temperature_range": "450 1C",
+  "summary": "The study describes the synthesis of Ni/TiO2 nanocomposite anodes using atomic layer deposition (ALD) on Tobacco mosaic virus (TMV) scaffolds. The ALD process was used to deposit a 20 nm thick TiO2 layer on nickel-coated TMV, resulting in high-capacity and long-cycle-life anodes for Li-ion batteries. The ALD process was chosen for its ability to produce uniform coatings on complex three-dimensional structures.",
+  "evidence": "The material selected to demonstrate the concept of this synthetic pathway is titanium dioxide. TiO2 has attracted attention as an anode alternative to carbon due to its safety and cyclic stability. Even though it has higher Li+ insertion/deinsertion potential which reduces the energy density of the battery, lithium plating can be avoided; this results in cells with increased safety and stability. ALD was chosen due to its unique ability to produce uniform coatings on complex three-dimensional architectures."
+}<|im_end|>

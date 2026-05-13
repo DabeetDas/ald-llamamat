@@ -1,0 +1,8 @@
+{
+  "target_material": "W/Al2O3 nanolaminates",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["Al(CH3)3 and H2O", "WF6 and Si2H6"],
+  "temperature_range": "177°C and 300°C",
+  "summary": "The study describes the synthesis of W/Al2O3 nanolaminates using atomic layer deposition (ALD) and magnetron sputter deposition. The ALD process involved alternating exposures to Al(CH3)3 and H2O to deposit Al2O3, and WF6 and Si2H6 to deposit W. The nanolaminates exhibited ultra-low thermal conductivity due to the high interface density, which impeded heat transfer. The thermal conductivity was found to be significantly lower than that of amorphous oxides and strongly disordered crystalline oxides.",
+  "evidence": "Atomic layer deposition and magnetron sputter deposition were used to synthesize thin-film multilayers of W/Al2O3. With individual layers only a few nanometers thick, the high interface density produced a strong impediment to heat transfer, giving rise to a thermal conductivity of 0.6 watts per meter per kelvin. This result suggests that high densities of interfaces between dissimilar materials may provide a route for the production of thermal barriers with ultra-low thermal conductivity."
+}

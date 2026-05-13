@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "BiPh3",
+    "VTIP"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "nitrogen"
+  ],
+  "carrier_gas": [
+    "nitrogen"
+  ],
+  "evidence": "The ALD of bismuth vanadates is reported from BiPh3, vanadium(V) oxytriisopropoxide (VTIP), and water. The films had tunable stoichiometry and were crystallized to form the photoactive scheelite structure of BiVO4. Nitrogen was used as the carrier gas as well as the purging gas."
+}

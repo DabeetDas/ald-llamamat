@@ -1,0 +1,10 @@
+{
+  "target_material": "Si",
+  "process_type": "synchrotron-radiation-excited atomic layer epitaxy (SR-ALE)",
+  "main_precursors": [
+    "SiH2Cl2"
+  ],
+  "temperature_range": "below 400 °C and between 470 and 530 °C",
+  "summary": "The study investigates bistable Si growth conditions on Ge(100) using synchrotron-radiation-excited atomic layer epitaxy (SR-ALE) from SiH2Cl2. Two growth regimes were identified: one below 400 °C resulting in Stranski–Krastanov-type growth and another between 470 and 530 °C leading to Volmer–Weber-type growth. The growth rate and morphology depend on temperature and SR irradiation time.",
+  "evidence": "When Si layers were grown on Ge(100) by alternating SiH2Cl2 gas exposure and irradiation with synchrotron radiation, bistable growth occurred at temperatures (i) below 400 °C (0.21 Å/cycle) and (ii) between 470 and 530 °C (0.42 Å/cycle). The growth rate saturated for both SiH2Cl2 exposures and synchrotron-radiation (SR) irradiation time. In regime (i) chemisorption and photon-stimulated desorption of H and Cl atoms on the Si overlayer resulted in Stranski–Krastanov-type growth. In regime (ii) chemisorption on a bare Ge surface, removal of the ligands by photothermal desorption, and enhanced migration of Si adatoms resulted in Volmer–Weber-type growth."
+}

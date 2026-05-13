@@ -1,0 +1,8 @@
+{
+  "target_material": "Ta2O5",
+  "process_type": "ALD and CVD",
+  "main_precursors": ["TaCl5", "Ta(OC2H5)5"],
+  "temperature_range": "275 - 450 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) and chemical vapor deposition (CVD) of tantalum oxide (Ta2O5) using successive and simultaneous pulsing of TaCl5 and Ta(OC2H5)5. The process involves the reaction between these precursors and the growth of amorphous Ta2O5 films. The growth rate in CVD using simultaneous pulsing was found to be higher than in ALD. The refractive index and permittivity of the films increased with growth temperature and precursor pulse frequency, approaching values characteristic of conventional ALD or CVD processes.",
+  "evidence": "Amorphous Ta2O5 films were grown by atomic layer deposition (ALD) or pulsed chemical vapor deposition (CVD) processes as a result of reactions between Ta(OC2H5)5 and TaCl5. Pulses of evaporized Ta precursors were led into the reactor successively or simultaneously. The growth rate of the films obtained by CVD using simultaneous pulsing of precursors exceeded 2.5 times that of the films obtained in the ALD process, where only one metal precursor was applied at a time. The refractive index and permittivity of the films increased with the growth temperature and frequency of Ta precursor pulses, approaching the values characteristic of the films obtained in the conventional ALD or CVD processes."
+}<|im_end|>

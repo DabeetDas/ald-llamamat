@@ -1,0 +1,11 @@
+{
+  "target_material": "Aluminum phosphate (AlxPOy)",
+  "process_type": "Plasma-assisted ALD",
+  "main_precursors": [
+    "PO(OMe)3",
+    "AlMe3"
+  ],
+  "temperature_range": "25-300 °C",
+  "summary": "The study describes the Atomic Layer Deposition (ALD) of aluminum phosphate (AlxPOy) using plasma-assisted ALD with PO(OMe)3 and AlMe3 as precursors. The process involves alternating exposures of PO(OMe)3 with O2 plasma and AlMe3 with O2 plasma. The use of O2 plasma enhances phosphorus incorporation and allows for a higher phosphorus-to-aluminum ratio compared to previous methods. The process is capable of depositing uniform and conformal films over a wide temperature range, with a growth per super-cycle of 1.8 Å at 150 °C and a [P]:[Al] atomic ratio of approximately 0.5.",
+  "evidence": "Atomic Layer Deposition of Aluminum Phosphate using AlMe3, PO(OMe)3 and O2 Plasma: Film Growth and Surface Reactions. The study demonstrates that the use of an oxygen plasma leads to higher growth per cycle values and promotes phosphorus incorporation in the film. The [P]:[Al] atomic ratio for the saturated process at 150 °C is approximately 0.5 (~ Al2PO6)."
+}

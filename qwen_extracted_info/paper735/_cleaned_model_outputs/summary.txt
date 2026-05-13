@@ -1,0 +1,8 @@
+{
+  "target_material": "In2O3",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["dimethyl(N-ethoxy-2,2-dimethylcarboxylicpropanamide)indium (Me2In(EDPA))", "H2O"],
+  "temperature_range": "150–300 ◦C",
+  "summary": "Indium oxide (In2O3) thin films were deposited using thermal atomic layer deposition (ALD) with dimethyl(N-ethoxy-2,2-dimethylcarboxylicpropanamide)indium (Me2In(EDPA)) as the In-precursor and H2O as the reactant. The films exhibited a saturated growth rate of 0.083 nm/cycle at 300 ◦C. Films deposited at 150 ◦C were porous and amorphous, while those at 200–300 ◦C were dense and polycrystalline. The films showed high transmittance (>94% in visible light) and good electrical properties, making them suitable for optoelectronic applications.",
+  "evidence": "Indium oxide (In2O3) thin films were deposited by atomic layer deposition using dimethyl(N-ethoxy-2,2-dimethylcarboxylicpropanamide)indium (Me2In(EDPA)) and H2O as the In-precursor and reactant, respectively. The In2O3 films exhibited a saturated growth rate of 0.083 nm/cycle at a deposition temperature of 300 ◦C. Porous and amorphous films were grown at 150 ◦C, whereas dense polycrystalline films were deposited at higher deposition temperatures of 200–300 ◦C. The high transmittance (>94% in visible light) and good electrical properties (resistivity ∼ 1.2–7 m/DEL cm, Hall mobility ∼ 28–66 cm2 /V s) of the In2O3 films make them a viable option for optoelectronic applications."
+}

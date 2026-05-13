@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "",
+  "precursor_pulse_time_s": 1.0,
+  "coreactant_pulse_time_s": 1.2,
+  "purge_time_s": 1.0,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type hot-wall ALD reactor MC-120",
+  "evidence": "Pulsing times were 1.0 s for the zirconium precursor but slightly larger or 1.2 for H2O and 1.5 s for O3 . Purging times were 1.0 s after the zirconium precursor pulse and 1.0 and 1.5 after the water and ozone pulse, respectively. ZrO2 films were deposited in a flow-type hot-wall ALD reactor MC-120 manufactured by ASM Microchemistry Ltd."
+}

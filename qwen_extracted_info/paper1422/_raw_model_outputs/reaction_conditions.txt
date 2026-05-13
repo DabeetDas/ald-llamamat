@@ -1,0 +1,19 @@
+{
+  "reaction_equations": [
+    "AlMe3 + OH* -> Al-O-AlMe2 + CH4",
+    "AlMe3 + NH3 -> Al-NH2 + CH4",
+    "AlMe3 + Si-O-Si -> Si-O-AlMe2 + Si-OH"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites. The aluminum-bonded methyl groups are replaced with primary amino groups (NH2) and methane is released. The NH2 groups may condense to secondary and tertiary amino groups, or they may react further with methyl groups to release methane and form secondary and tertiary amino groups.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species",
+    "Si-O-AlMe2",
+    "Si-OH",
+    "Al-NH2",
+    "Si-NHx",
+    "Al-NHx"
+  ],
+  "evidence": "The reaction mechanism was described as follows: 'Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.' Additionally, 'the aluminum-bonded methyl groups are replaced with primary amino groups (NH2) and methane is released. The NH2 groups may condense to secondary and tertiary amino groups, or they may react further with methyl groups to release methane and form secondary and tertiary amino groups.'"
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO and W",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["diethyl zinc (DEZ)", "water (H2O)", "tungsten hexafluoride (WF6)", "disilane (Si2H6)"],
+  "temperature_range": "177 °C for ZnO, 300 °C for W",
+  "summary": "The study investigates the in situ resistivity measurements during the atomic layer deposition (ALD) of ZnO and W thin films. The ZnO films were grown using diethyl zinc and water at 177 °C, while the W films were deposited using tungsten hexafluoride and disilane at 300 °C. The resistivity changes during the ALD process were monitored, showing oscillations for ZnO and a step-like pattern for W, which are attributed to the ALD reactant pulse sequence and surface chemistry changes.",
+  "evidence": "ZnO ALD films were grown using diethyl zinc (DEZ) and water at 177 °C with exposure times of 1 s and purge times of 5 s. W ALD was performed using tungsten hexafluoride (WF6) and disilane (Si2H6) exposures of 2 s and purge times of 5 s at 300 °C."
+}<|im_end|>

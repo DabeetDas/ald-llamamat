@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "185-310",
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "travelling-wave type ALD reactor (Lucida-D100, NCD Technology, Korea)",
+  "evidence": "The basic pulsing condition for the gases, which guaranteed self-limiting film growth, was set based on a previous study as follows; precursor pulse of 5 s, reactant pulse of 0.5 s, and precursor and reactant purge of 10 s."
+}<|im_end|>

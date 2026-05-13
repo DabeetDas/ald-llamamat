@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "ALD",
+  "main_precursors": ["Al(CH3)3 (trimethylaluminum)", "H2O"],
+  "temperature_range": "33 °C to 177 °C",
+  "summary": "Low-temperature Al2O3 Atomic Layer Deposition (ALD) was demonstrated using alternating exposures of Al(CH3)3 and H2O in a viscous-flow reactor. The process was applied to thermally fragile substrates such as poly(ethylene terephthalate) (PET) to reduce CO2 gas permeability. The study investigated the properties of Al2O3 ALD films grown at varying temperatures, including film thickness, density, surface roughness, and electrical properties.",
+  "evidence": "Al2O3 films were deposited by atomic layer deposition (ALD) at temperatures as low as 33 °C in a viscous-flow reactor using alternating exposures of Al(CH 3)3 (trimethylaluminum [TMA]) and H 2O. Low-temperature Al 2O3 ALD films have the potential to coat thermally fragile substrates such as organic, polymeric, or biological materials. Al2O3 ALD coatings on PET bottles resulted in reduced CO 2 gas permeabilities."
+}<|im_end|>

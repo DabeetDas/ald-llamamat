@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "20 Torr (2600 Pa)",
+  "precursor_pulse_time_s": "4",
+  "coreactant_pulse_time_s": "4",
+  "purge_time_s": "1",
+  "number_of_cycles": null,
+  "reactor_type": "low pressure chimney-type reactor",
+  "evidence": "The growth temperature was 500 o C, and the substratc was (I09) GaAs. ... The TMG pulse duration was 4 s and the arsine pulse duration was 4 s. ... The purge time after TMG or arsine pulse was increased. ... The TMG pulse duration was 4 s. The TMG mole fraction was 2 × 10 -4 and the arsine mole fraction was 2.4× 10 -2."
+}<|im_end|>

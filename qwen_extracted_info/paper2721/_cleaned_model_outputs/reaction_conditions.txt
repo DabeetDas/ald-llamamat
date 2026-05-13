@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "-Ga–O* þ Ga–C5(CH3)5 ! –Ga–O–Ga–C5(CH3)5*",
+    "-Ga–O–Ga–C5(CH3)5* þ H2O ! –Ga–O–Ga–OH* þ C5(CH3)5H",
+    "-Ga–O–Ga–OH* þ 1/2O /C1! –Ga–O–Ga–O* þ 1/2H2O",
+    "-Ga–O–Ga–O* þ O/C1! –Ga–O–Ga(–O*–)2"
+  ],
+  "surface_mechanism_description": "The WpO process mechanism involves the adsorption of GaCp* onto surface oxygen atoms, followed by ligand exchange with H2O to form a surface hydroxyl group and desorb the ligand. The surface hydroxyl groups are then oxidized by O2 plasma, leading to full oxidation of the surface Ga species.",
+  "intermediate_species": [
+    "-Ga–O–Ga–C5(CH3)5*",
+    "-Ga–O–Ga–OH*",
+    "-Ga–O–Ga–O*"
+  ],
+  "evidence": "(H2O pulse)\n–Ga–O–Ga–C5(CH3)5* þ H2O ! –Ga–O–Ga–OH* \nþ C5(CH3)5H \n(O2 plasma pulse)\n–Ga–O–Ga–OH* þ 1/2O /C1! –Ga–O–Ga–O* \nþ 1/2H2O \n–Ga–O–Ga–O* þ O/C1! –Ga–O–Ga(–O*–)2"
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Titanium Dioxide (TiO2)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Cp*Ti(OMe)3", "Ozone"],
+  "temperature_range": "235 °C to 350 °C",
+  "summary": "The study describes the thermal atomic layer deposition (ALD) of titanium dioxide (TiO2) using Cp*Ti(OMe)3 and ozone as precursors. The process was investigated in a 300 mm wafer reactor, and the films were analyzed for their stoichiometry, crystal structure, and contamination levels. The results showed that nearly stoichiometric TiO2 films were grown in a self-limiting mode, with the growth per cycle increasing with temperature. The study also highlighted the importance of deposition temperature in reducing carbon contamination and the role of QMS in analyzing surface reactions.",
+  "evidence": "The thermal atomic layer deposition of TiO2 from Cp*Ti(OMe)3 and ozone was studied in a 300 mm wafer reactor by quadrupole mass spectrometry (QMS). The XRR and XPS measurements revealed that nearly stoichiometric TiO2 films were grown in a self-limiting growth mode. The growth per cycle increased from 0.22 Å at 235 °C to 0.29 Å at 330 °C. The ToF-SIMS analysis indicated that the carbon contamination reduced to very low levels at a deposition temperature of 295 °C."
+}<|im_end|>

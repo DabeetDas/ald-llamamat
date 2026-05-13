@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-350",
+  "pressure": "0.34 Torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 10,
+  "number_of_cycles": "20 -3000",
+  "reactor_type": "flow reactor",
+  "evidence": "The flow reactor shown in Figure 1 was used to deposit the tungsten nitride coatings by ALD. ... The total pressure in the system was 0.34 Torr. ... The on-off diaphragm valve, \"empty precursor\", was opened for 1 s, releasing a dose of about 0.3 nmol/cm² ... Then nitrogen flowed for 10 s to purge the chamber of excess tungsten precursor ... To deliver a pulse of ammonia gas, the two-position valve ... was opened to ammonia for 1 s ... Then the two-position valve was turned to allow the flow of nitrogen carrier gas for 10 s to purge the chamber of residual ammonia gas."
+}<|im_end|>

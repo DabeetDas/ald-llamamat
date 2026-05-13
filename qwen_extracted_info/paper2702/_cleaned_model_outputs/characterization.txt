@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray reflectivity",
+    "Grazing incidence x-ray diffraction (GIXRD)",
+    "Time-of-flight elastic recoil detection analysis (TOF-ERDA)",
+    "Transmission electron microscopy (TEM)",
+    "X-ray diffraction (XRD)",
+    "Electrical measurements (capacitance, leakage current density)",
+    "Atomic force microscopy (AFM) (implied through film thickness measurement techniques)"
+  ],
+  "evidence": "Film thicknesses were measured with x-ray reflectivity using a Rigaku SmartLab x-ray diffractometer. Film densities were obtained by fitting the XRR data. Crystallinity and phase of the films were determined by grazing incidence x-ray diffraction (GIXRD) with a PANalytical X´Pert Pro MPD diffractometer. TEM specimens were prepared with the focused ion beam (FIB) lift-out method, with an FEI Quanta 3D 200i DualBeam instrument. Film compositions were examined with time-of-flight elastic recoil detection analysis (TOF-ERDA) at a detection angle of 40° by 40 MeV 79Br7+ ions. Capacitance values were measured with a HP4284A LCR meter with a frequency of 10 kHz. Relative permittivities were calculated from the mean capacitances. Leakage current density curves were measured with a Keithley 2400 source meter."
+}

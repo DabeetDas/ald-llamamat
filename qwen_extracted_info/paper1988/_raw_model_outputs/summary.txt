@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylgallium (TMG)", "AsH3"],
+  "temperature_range": "530 to 570 °C",
+  "summary": "The study investigates the crystallographic selective growth of GaAs using atomic layer epitaxy (ALE) on different GaAs substrates. The process involves alternating exposure to trimethylgallium (TMG) and AsH3 with hydrogen purge times. The growth rate varies with temperature and crystallographic orientation, showing a high selectivity for the (100) plane. The self-limiting effect and As desorption are identified as key factors in the growth mechanism. The results demonstrate the fabrication of GaAs/AlGaAs quantum wire structures with controlled dimensions.",
+  "evidence": "GaAs growth was carried out using trimethylgallium (TMG) as the Ga source and AsH3 as the As source. These were alternately fed into the growth chamber for 1 and 2 s, respectively, with a hydrogen purge time between each gas supply. The growth rate on the (100) GaAs substrate had a constant value of 1 monolayer cycle-1 in the temperature range from 530 to 570 °C. The temperature dependence of the growth rate on the GaAs (111)A and (110) substrates showed a decrease in growth rate with increasing purge time, indicating As atom desorption during hydrogen purging."
+}<|im_end|>

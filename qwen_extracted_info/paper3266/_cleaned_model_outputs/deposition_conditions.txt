@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "280",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.3",
+  "coreactant_pulse_time_s": "0.3",
+  "purge_time_s": "8",
+  "number_of_cycles": "100",
+  "reactor_type": "Picosun R-200",
+  "evidence": "For ALD film deposition, trimethylaluminum (TMA) and tris(isopropylcyclopentadienyl) lanthanum [La(iPrCp) 3] were used as precursors, H 2O was used as oxidant, and ultra-high purity nitrogen (N 2, 99.999%) was employed as carrier and purge gas. The Al-injection, purge, oxidant injection, and purge times were 0.1, 3, 0.1, and 4 s. For each experiment, 100 cycles of La 2O3 and Al 2O3 films were deposited by ALD."
+}

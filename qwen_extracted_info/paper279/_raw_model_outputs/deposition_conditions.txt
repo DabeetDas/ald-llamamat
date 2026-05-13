@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-320",
+  "pressure": "atmospheric",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 8,
+  "number_of_cycles": 50,
+  "reactor_type": "horizontal vapor phase epitaxial reactor",
+  "evidence": "A typical ALE cycle consists of 4 s of DMCd or DMZn with hydrogen flow, 8 s of hydrogen purge, 4 s of MATe or DETe with hydrogen flow followed by 8 s of hydrogen purge."
+}<|im_end|>

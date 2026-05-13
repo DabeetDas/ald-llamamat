@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ta(OC2H5)", "ZrCl4", "AlCl3", "Al(CH3)3"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Nitrogen was used as a carrier and purging gas. The total pressure in the reactor was about 10 mbar. Ta(OC2H5), ZrCl4, and AlCl3 were evaporated from open boats held at 105, 150, and 95°C, respectively, inside the reactor. Trimethylaluminum, Al(CH3)3, was led into the reactor from an external reservoir held at room temperature. Water vapor was generated in an external reservoir thermostated at 20°C and led into the reactor through needle and solenoid valves."
+}

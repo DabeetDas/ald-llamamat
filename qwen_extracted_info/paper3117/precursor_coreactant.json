@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "HfCl4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The HfCl4 chemisorption reaction was performed in an ALCVD PULSAR 2000 reactor, attached to the Polygon platform. c HfCl4 was heated to approximately 185°C to achieve sufficient vapor pressure for the HfCl4 pulses. Pulse lengths of 0.1 s were applied to saturate the surface. The HfCl4 reaction was investigated at a reactor temperature of 300°C."
+}

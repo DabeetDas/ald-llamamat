@@ -1,0 +1,8 @@
+{
+  "target_material": "Fe3O4",
+  "process_type": "thermal ALD",
+  "main_precursors": ["iron tert-butoxide (tBuO)6Fe2", "ozone (O3)"],
+  "temperature_range": "140 °C and 200 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to create ordered arrays of magnetic nanotubes with controlled geometry. The process involves depositing Fe2O3 using two precursors, which is then reduced to Fe3O4. The ALD process allows precise control over the wall thickness of the nanotubes, enabling systematic investigation of size effects on magnetic properties.",
+  "evidence": "We found that thin films of Fe2O3 can be obtained in ALD mode from either the hydrolysis of iron tert-butoxide, (tBuO)6Fe2, or the ozone combustion of ferrocene, Cp2Fe, with similar results; they are smooth and very homogeneously thick. When the reactions are applied to a porous alumina template, tubes are obtained with conformal wall thickness up to aspect ratios of approximately 100 (if the hydrolysis is used) and 1000 (with the combustion)."
+}<|im_end|>

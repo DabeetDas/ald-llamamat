@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "SnO2 + 4Li+ + 4e- → Sn + 2Li2O",
+    "Sn + xLi+ + xe- → Li_xSn",
+    "Li_xSn → Sn + Li2O",
+    "Li_xSn → SnO + Li2O"
+  ],
+  "surface_mechanism_description": "The SnO2 anodes undergo alloying and conversion reactions. During the alloying reaction, SnO2 is reduced to metallic Sn particles and forms an alloy with Li. The conversion reaction involves the oxidation of Sn to SnO and further to SnO2, which results in higher capacity but severe capacity fade during cycling. The restricted cycling potential (0.005–0.8 V vs. Li) prevents aggregation of Sn particles and oxidation, ensuring excellent cycleability.",
+  "intermediate_species": [
+    "SnO",
+    "Sn",
+    "Li_xSn",
+    "Li2O"
+  ],
+  "evidence": "The reaction mechanism is described in the text as follows: 'SnO2 is reduced to metallic Sn particles and forms an alloy with Li' and 'SnO2 anodes undergo alloying and conversion reactions. During the alloying reaction, SnO2 is reduced to metallic Sn particles and forms an alloy with Li. The conversion reaction involves the oxidation of Sn to SnO and further to SnO2, which results in higher capacity but severe capacity fade during cycling.'"
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350°C",
+  "pressure": "20 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "metalorganic vapor phase epitaxy system",
+  "evidence": "The reactant gases were exchanged by a vent/run system equipped with a pressure-balanced manifold. The growth temperature was 350°C for InP and 500°C for GaAs. We confirmed that the species supplied to the substrate surface are Me(CH3)~ precursors by the occurrence of the self-limited deposition of column III species."
+}

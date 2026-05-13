@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ni/H20849dmamb/H20850", "water"],
+  "coreactants": ["water"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The current ALD employed Ni/H20849dmamb/H20850 2 as a precursor in Ni, where dmamb is described as 1-dimethylamino-2-methyl-2-butanolate, and water as a precursor in oxygen. One basic ALD cycle was performed according to the standard sequence: A /H20851Ni/H20849dmamb/H20850 2 supply: 4 s /H20852-/H20851Ar purge: 5 s/H20852-B/H20851H2O supply: 3 s /H20852-/H20851Ar purge: 5 s/H20852."
+}

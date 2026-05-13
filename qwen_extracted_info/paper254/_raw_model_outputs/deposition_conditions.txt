@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "5–10 kPa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 2,
+  "number_of_cycles": 7,
+  "reactor_type": "fixed-bed flow-type reactor",
+  "evidence": "The reaction of Cr(acac)3 was carried out at 200◦C. This reaction sequence was followed by a nitrogen purge for at least 2 h at the reaction temperature."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3/TiO2 nanolaminates",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum", "TiCl4", "H2O"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates Al2O3/TiO2 nanolaminates synthesized by atomic layer deposition (ALD) to explore their dielectric properties. The nanolaminates exhibit a giant dielectric constant due to Maxwell–Wagner relaxation at interfaces, which is attributed to the interfacial charge accumulation between Al2O3 and TiO2 layers. The ALD process allows precise thickness control of sublayers, and the dielectric behavior is influenced by sublayer thickness and interfacial effects.",
+  "evidence": "Nanolaminate samples were deposited at 300 °C by atomic layer deposition (ALD) on Pt/Ti/SiO2/Si substrates, using trimethylaluminum and TiCl4 as Al and Ti precursors, and H2O as oxidant. The ALD deposition rate was about 1 Å/cycle for Al2O3 and 0.3 Å/cycle for TiO2. The dielectric properties were measured using an HP4294A precision impedance analyzer at various temperatures."
+}<|im_end|>

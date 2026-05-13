@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "450",
+  "pressure": "",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": "5",
+  "purge_time_s": "6",
+  "number_of_cycles": null,
+  "reactor_type": "flow type ASM-Microchemistry F-120",
+  "evidence": "Substrates covered with a thin chemical oxide layer, were inserted in the reactor and heated in situ at 450 ◦C for 5 min before deposition in the attempt of eliminating carbon. The first 12 cycles consisted of rather long precursor (5 s, for both HfCl4 and H2O) and N2 purging gas injection (6 s) times."
+}

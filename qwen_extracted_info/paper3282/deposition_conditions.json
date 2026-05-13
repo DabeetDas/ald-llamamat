@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225",
+  "pressure": "133 Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "Savannah S200",
+  "evidence": "A process pressure of approximately 133 Pa and purge time o f 5 s between pulses was used."
+}

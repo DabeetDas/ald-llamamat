@@ -1,0 +1,7 @@
+{
+  "precursors": ["Diethlyl zinc"],
+  "coreactants": ["water", "ammonia"],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": [],
+  "evidence": "Diethlyl zinc was used as the zinc source, with water as the oxygen source and ammonia as the nitrogen source. Nitrogen was used as a flowing purge gas."
+}

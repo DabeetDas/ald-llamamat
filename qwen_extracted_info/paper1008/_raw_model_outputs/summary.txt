@@ -1,0 +1,8 @@
+{
+  "target_material": "Ni/NiO",
+  "process_type": "ALD and CVD",
+  "main_precursors": ["Ni(thd)2", "H2O", "NH3"],
+  "temperature_range": "250 °C",
+  "summary": "The study describes the growth of dual layers of NiO and Ni3N using ALD and CVD techniques. The Ni3N layers act as precursors for Ni film growth, and the process involves annealing at specific temperatures to decompose Ni3N into Ni. The NiO layers serve as sacrificial layers for Ni3N growth and are stable under annealing conditions. The study highlights the formation of well-defined Ni/NiO layers with controlled interfaces and microstructures.",
+  "evidence": "The text states: 'Multilayers of combinations of NiO, Ni3N and Ni have been grown by ALD and CVD techniques at 250 °C.' It also mentions: 'The Ni3N layer could be decomposed to Ni by annealing in 1 Torr hydrogen at 180 °C for 3 h.' Additionally, 'NiO can be grown epitaxially on α-Al2O3 (00l) substrates at reasonable rates by ALD.'"
+}<|im_end|>

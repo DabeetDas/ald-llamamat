@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-250",
+  "pressure": "1.1 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 5,
+  "number_of_cycles": 300,
+  "reactor_type": "cross-flow",
+  "evidence": "The In2O3 ALD cycles were performed in three ways: simultaneous exposure (SE), A/(B1 þB2); oxygen followed by water (OW), A/B1/B2; and water followed by oxygen (WO), A/B2/B1. The InCp exposure times were 3 s, and the water and oxygen exposure times were 4 s. Purge times of 5 s were used between each exposure."
+}

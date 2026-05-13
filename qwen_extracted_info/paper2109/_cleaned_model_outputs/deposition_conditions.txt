@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.7,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 1,
+  "number_of_cycles": null,
+  "reactor_type": "ASM Pulsar®2000",
+  "evidence": "The ALD WN xCy deposition was carried out in an ASM Pulsar®2000 reactor integrated with an automated wafer handling platform (ASM Polygon®8200). This was achieved with a repetitive ABC A ¯-type pulse sequence of surface reactions, where individual A, B, and C stand for the precursors triethylborane (C2H5)3B, tungsten hexafluoride (WF6), and ammonia (NH3), respectively. The (C2H5)3B, WF6, and NH3 precursors were pulsed for 0.7, 0.1, and 1 s, respectively."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "W(CO)x* + H2S -> W–SH* + CO + H2",
+    "W–SH* + W(CO)6 -> W–S–W(CO)x* + CO + H2"
+  ],
+  "surface_mechanism_description": "The ALD reaction mechanism involves two half-reactions: the first half-reaction is the surface reaction between the carbonyl precursor (W(CO)x*) and hydrogen sulfide (H2S), leading to the formation of surface-bound sulfide species (W–SH*) and the release of carbon monoxide (CO) and hydrogen (H2). The second half-reaction involves the reaction between the surface-bound sulfide species (W–SH*) and the second precursor (W(CO)6), resulting in the formation of a tungsten-sulfur-tungsten bond (W–S–W) and the release of CO and H2. The self-limiting nature of the ALD growth is confirmed by the saturation of the surface species after a certain number of precursor doses.",
+  "intermediate_species": [
+    "W(CO)x*",
+    "W–SH*",
+    "W–S–W(CO)x*"
+  ],
+  "evidence": "The two-half reaction mechanism was determined using in situ FTIR and RGA studies. The appearance and disappearance of characteristic FTIR peaks and the detection of by-products such as CO and H2 confirmed the surface reactions. The self-limiting nature of the ALD growth was further supported by the saturation of the surface species after a certain number of precursor doses."
+}<|im_end|>

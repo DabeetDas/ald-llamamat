@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2",
+  "process_type": "ALD",
+  "main_precursors": ["diisopropylaminosilane (DIPAS)", "ozone (O3)"],
+  "temperature_range": "100–250 °C",
+  "summary": "The study describes the low-temperature atomic layer deposition (ALD) of SiO2 thin films using diisopropylaminosilane (DIPAS) as the silicon precursor and ozone as the reactant. The process is carried out at temperatures ranging from 100 to 250 °C, with a growth rate of 1.2 Å/cycle at 150 °C and increasing to 2.3 Å/cycle at 250 °C. The films exhibit properties comparable to conventionally deposited SiO2, including refractive index, density, and roughness, as well as low leakage current and high breakdown field. The study also highlights the temperature dependence of the growth rate and the role of surface reactions in the ALD process.",
+  "evidence": "Silicon dioxide (SiO2) films are deposited by atomic layer deposition (ALD) at low temperatures from 100 to 200 °C using di-isopropylaminosilane (DIPAS) as the Si precursor and ozone as the reactant. The SiO2 films exhibit saturated growth behavior confirming the ALD process, showing a growth rate of 1.2 Å/cycle at 150 °C, which increases to 2.3 Å/cycle at 250 °C. The activation energy of 0.24 eV, extracted from temperature range of 100 –200 °C, corresponds to the reported energy barrier for reaction between DIPAS and surface –OH. The temperature dependence of the growth rate can be explained in terms of the coverage and chemical reactivity of the thermally activated precursor on the surface. The ALD-SiO2 films deposited at 200 °C show properties such as refractive index, density, and roughness comparable to those of conventionally deposited SiO2, as well as low leakage current and high breakdown field."
+}

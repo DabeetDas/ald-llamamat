@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "Si/C3OH)n /C27TiCl4 0 (Si/C3O/C3)nTiCl4/C28n /C27nHCl n /C301; 2 (1)",
+    "(Si/C3O/C3)nTiCl4/C28n /C27(4/C28n)H2O 0 (Si/C3O/C3)nTi(OH)4/C28n /C27(4/C28n)HCl (2)",
+    "(Si/C3O/C3)nTi(OH)4/C28n 0 (Si/C3O/C3)nTiO2(OH)/C27H2O (3)",
+    "(Si/C3O/C3)nTi(OH)4/C28n /C27TiCl4 0 (Si/C3O/C3)n(TiO)4/C28nTiCl4/C28n /C27nHCl (4)"
+  ],
+  "surface_mechanism_description": "The cyclic reactions of TiCl4 and H2O with a fully dehydrated metal oxide surface involve the formation of surface Si/C3/O/C3/Ti bonds through the reaction with surface hydroxyl groups. The hydrolysis of these groups forms new /C3/OH groups, which self-condense to form an amorphous TiO2 layer. Subsequent doses of TiCl4 continue the propagation of a TiO2 network. The pretreatment of the metal oxide surface is crucial in determining the nature of the attached groups, as it dictates the initial type of surface hydroxyl groups and adsorbed water available for reaction.",
+  "intermediate_species": [
+    "Si/C3/O/C3/Ti",
+    "TiClx",
+    "Ti/C3/O/C3/Ti",
+    "Ti/C3/OH"
+  ],
+  "evidence": "The cyclic reactions of TiCl4 and H2O with a fully dehydrated metal oxide surface can be described by the following reactions: (Si/C3OH)n /C27TiCl4 0 (Si/C3O/C3)nTiCl4/C28n /C27nHCl n /C301; 2 (1) (Si/C3O/C3)nTiCl4/C28n /C27(4/C28n)H2O 0 (Si/C3O/C3)nTi(OH)4/C28n /C27(4/C28n)HCl (2) (Si/C3O/C3)nTi(OH)4/C28n 0 (Si/C3O/C3)nTiO2(OH)/C27H2O (3) (Si/C3O/C3)nTi(OH)4/C28n /C27TiCl4 0 (Si/C3O/C3)n(TiO)4/C28nTiCl4/C28n /C27nHCl (4) In the first step of this idealized scheme, the TiCl4 reacts with the surface hydroxyl groups to form a covalently attached TiClx group. The second step, addition of water vapor, hydrolyses these TiClx groups to form new /C3/OH groups at the surface. A portion of these new /C3/OH groups self-condense to form an amorphous TiO2 layer. Subsequent doses of TiCl4 continue the propagation of a TiO2 network, as shown in the fourth step."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200 /C14 C",
+  "pressure": "500 mTorr",
+  "precursor_pulse_time_s": "6",
+  "coreactant_pulse_time_s": "8",
+  "purge_time_s": "null",
+  "number_of_cycles": "null",
+  "reactor_type": "custom-built reactor",
+  "evidence": "Precursor pulses for TDEAT and Sn(acac)2 were set to 6 and 8 s, respectively, to saturate the surface."
+}<|im_end|>

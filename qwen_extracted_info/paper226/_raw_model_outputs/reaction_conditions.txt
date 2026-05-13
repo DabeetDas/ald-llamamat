@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The O3 based process forms rutile TiO2 due to the presence of a thin RuO2 layer and oxidation of the Ru during the first O3 pulses of the TiO2 deposition. The H2O based process acts as a protective layer against etching by O3.",
+  "intermediate_species": ["RuO2"],
+  "evidence": "The formation of the rutile TiO2 for the O3 based process is due to the presence of a thin RuO2 layer and oxidation of the Ru during the first O3 pulses of the TiO2 deposition. However, thickness measurements of the Ru layer along the gas flow direction revealed that the Ru bottom electrode was heavily etched at the inlet of the reactor, resulting in a highly non-uniform layer. Therefore, an etch stop layer of ~0.3 nm TiO2 using H2O (6 cycles) was deposited prior to the bulk TiO2 layer using an O3 based process. The H2O based part of the deposition process prevented the etching, while the O3 yielded the desired rutile phase."
+}<|im_end|>

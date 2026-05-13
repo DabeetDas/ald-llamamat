@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2-II",
+  "process_type": "Atomic-layer deposition (ALD)",
+  "main_precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "375 to 550 °C",
+  "summary": "TiO2-II thin films were grown using atomic-layer deposition (ALD) with TiCl4 and H2O as precursors. The films were synthesized at substrate temperatures ranging from 375 to 550 °C. The study demonstrated that pure TiO2-II can be formed under these conditions, and the structure was found to be stable under normal conditions but transformed into rutile upon post-growth annealing at 700 °C.",
+  "evidence": "AbstractThin films of the high-pressure polymorph of titania, TiO2-II, were grown by atomic-layer deposition (ALD) using TiCl4 and H2O as precursors. Pure TiO2-II was synthesized at substrate temperatures ranging from 375 to 550 °C while the films grown at 350 and 600 °C contained mixed anatase±TiO2-II and rutile±TiO2-II phases respectively. Transformation of ALD-grown TiO2-II into rutile occurred on post-growth annealing at temperatures as high as 700 °C."
+}

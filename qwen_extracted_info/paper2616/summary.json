@@ -1,0 +1,11 @@
+{
+  "target_material": "Beryllium oxide (BeO)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Be(C2H5)2 (DEBe)",
+    "H2O"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the properties of beryllium oxide (BeO) thin films deposited via atomic layer deposition (ALD) for high-k dielectric applications. The films are nearly stoichiometric with a low hydrogen content (<5%) and exhibit a wide band gap of 8.0 ± 0.14 eV. The material shows high Young's modulus and hardness, making it a promising candidate for gate dielectrics in MOSFET devices due to its mechanical and electrical properties.",
+  "evidence": "The text states: 'Beryllium oxide (BeO) is a wide band gap alkaline earth oxide material that has recently shown significant promise as a high-k dielectric material in Si and III-V metal–oxide–semiconductor field effect transistor devices.' It also mentions: 'The ALD growth sequence consisted of DEBe pulse and purge times of 0.4 and 5 s, respectively, followed by H2O pulse and purge times of 0.4 and 5 s, respectively.'"
+}

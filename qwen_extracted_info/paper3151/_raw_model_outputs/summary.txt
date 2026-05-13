@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(dimethylamido)zirconium", "water"],
+  "temperature_range": "200°C for the substrate and 80°C for the precursor",
+  "summary": "The paper describes the use of area-selective atomic layer deposition (ALD) of zirconia (ZrO2) using a self-assembled monolayer (SAM) and scanning probe lithography. The process involves creating oxide patterns on a silicon substrate using AFM oxidation lithography, followed by HF etching to remove the oxide patterns and expose the silicon substrate. ZrO2 is then deposited via ALD on the patterned substrate, resulting in nanostructures with high spatial resolution.",
+  "evidence": "The sequence of process steps for ALD nanopatterning is illustrated in Fig. 1. First, a uniform and densely packed ODTS SAM is formed on a clean silicon substrate. When an electric field is applied through a conductive AFM tip, an anodic bias can induce a local oxidation of an ODTS-grown silicon substrate, forming silicon oxide patterns and simultaneously removing SAMs that are located on top of the created oxide patterns. The samples were loaded into a custom-built, flow-type ALD system for ZrO2 thin films. The base pressure of the ALD chamber was 2×10−2 Torr. The temperatures were set to 200°C for the substrate and to 80°C for the precursor. A tetrakis(dimethylamido)zirconium precursor and water were used to deposit ZrO2 thin films."
+}<|im_end|>

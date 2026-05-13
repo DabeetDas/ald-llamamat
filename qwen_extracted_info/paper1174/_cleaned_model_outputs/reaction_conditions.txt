@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the termination of surface tungsten by imido ligands prior to NO2 exposure, and the reaction of NO2 with surface-reacted (tBuN)2(Me2N)2W. The reaction rate of NO2 with tungsten terminated by N−H may be much slower than with tungsten terminated by imido ligands, resulting in trapped nitrogen in the film for the former case when normal dosing conditions are used.",
+  "intermediate_species": ["imido ligands", "N−H groups", "N−C(CH3)3"],
+  "evidence": "The surface reaction mechanism involves the termination of surface tungsten by imido ligands prior to NO2 exposure, and the reaction of NO2 with surface-reacted (tBuN)2(Me2N)2W. The reaction rate of NO2 with tungsten terminated by N−H may be much slower than with tungsten terminated by imido ligands, resulting in trapped nitrogen in the film for the former case when normal dosing conditions are used."
+}

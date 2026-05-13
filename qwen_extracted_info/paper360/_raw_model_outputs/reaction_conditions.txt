@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the alternating supply of Se and Zn, where Se atoms are physisorbed on the growing surface, migrate to lattice sites to be chemisorbed, and form one monolayer. Excess Se atoms cannot be situated at the lattice sites, and the self-limiting mechanism ensures that only a monolayer is deposited per cycle.",
+  "intermediate_species": ["incident Se atoms", "lattice sites"],
+  "evidence": "With an adequate beam flux of DESe, the incident Se atoms are physisorbed on the growing surface, migrate quickly to the lattice sites to be chemisorbed and then form one monolayer. Excess incident Se atoms cannot be situated at the lattice sites."
+}<|im_end|>

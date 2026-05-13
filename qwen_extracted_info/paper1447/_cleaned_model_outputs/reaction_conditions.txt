@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "5OH* + O* + 6InCp → 5O-In* + O-In(Cp)* + 5C5H6",
+    "5O-In* + O-In(Cp)* + 19O* → 5O-In(O)0.5-OH* + O-In(O)1.5* + 5CO2"
+  ],
+  "surface_mechanism_description": "The ALD process involves the adsorption of cyclopentadienyl indium (InCp) onto surface hydroxyl groups (OH*), followed by oxidation with ozone (O3). The InCp molecules react with surface hydroxyl groups, releasing cyclopentadiene (C5H6) and leaving a remaining Cp ligand on the surface. Subsequent ozone exposure oxidizes the remaining Cp ligand, releasing CO2 and regenerating hydroxyl groups, which completes the ALD cycle.",
+  "intermediate_species": [
+    "Cyclopentadiene (C5H6)",
+    "Surface hydroxyl groups (OH*)",
+    "Surface-bound oxygen species (O*)",
+    "Cp ligands",
+    "CO2"
+  ],
+  "evidence": "The reaction mechanism is described in the text as follows: 'In reaction 3, the initial reactive sites are five OH groups and one surface oxygen species. Six InCp molecules react with the surface liberating five cyclopentadiene molecules and leaving one Cp ligand on the surface. In reaction 4, surface-bound oxygen species formed by the decomposition of O3 release the carbon from the remaining Cp ligand as five CO2, but the hydrogen atoms remain to reform five new hydroxyl groups.'"
+}

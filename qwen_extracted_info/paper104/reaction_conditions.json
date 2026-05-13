@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALE growth proceeds via two steps: a precursor state involving fast surface migration, re-evaporation, and chemisorption, and a crystallization state characterized by slow surface migration and partial re-evaporation of the first, chemisorbed monolayer at the interface. The growth model involves the formation of transition layers of both Cd and Te species, intermediate between a chemisorbed and a bulk-like film, which create a reaction zone near the substrate surface. These transition layers allow for the migration, re-evaporation, and adsorption of Te molecules, creating Cd-Te bonds with the Cd layer underneath. The chemisorbed Cd monolayer completes the formation of the double-layer structure, making it more stable than the Te monolayer on (111)A.",
+  "intermediate_species": [
+    "transition layers of Cd and Te species",
+    "chemisorbed monolayer",
+    "loosely bound atoms",
+    "precursor states"
+  ],
+  "evidence": "The ALE growth proceeds via two steps which may be called a precursor state and crystallization state. The ALE precursor state involves fast surface migration, re-evaporation and chemisorption. The ALE crystallization state is characterized by slow surface migration and partial re-evaporation of the first, chemisorbed monolayer at the interface. A structurally perfect CdTe(ll1)A surface exposed to a Cd vapor at T, high enough for breaking quasi-metallic Cd-Cd bonds does not accept the incident atoms, i.e., the sticking coefficient of Cd is zero. The subsequent Te, molecules striking the substrate form a transition layer, 3-4 monolayers thick. This transition layer, intermediate between a chemisorbed and a bulk-like film, create a reaction zone near the substrate surface where Te, molecules can migrate, re-evaporate and adsorb dissociatively creating the Cd-Te bonds with the Cd layer underneath. These Cd-Te bonds are weaker than those in the bulk and thus relatively unstable at T,, due to the absence of the double-layer zincblende structure. Re-evaporation of Te continues until all loosely bound atoms are removed and a persistent submonolayer coverage is left behind."
+}

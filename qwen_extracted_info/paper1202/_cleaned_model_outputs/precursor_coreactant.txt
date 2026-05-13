@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ge(N(Si(CH3)3)2)2", "((CH3)3Si)2Te"],
+  "coreactants": ["methanol"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The precursors of Ge and Te were Ge(N(Si(CH3)3)2)2 and ((CH3)3Si)2Te, respectively. The vapors of Ge- and Te-precursors were carried into the reactor by 100, 50 standard cubic centimeters per minute (sccm) of Ar gas, respectively. Thermally evaporated methanol vapor at room temperature was injected into the reactor with the help of 200 sccm of Ar carrier gas."
+}

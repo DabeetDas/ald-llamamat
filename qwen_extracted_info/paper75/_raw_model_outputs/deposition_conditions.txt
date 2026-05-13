@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100–120",
+  "pressure": "0.3 T orr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 5,
+  "number_of_cycles": 900,
+  "reactor_type": "ALD system Cyclic 4000",
+  "evidence": "The cycle consisted of exposure to [Cu(dmap) 2] for 2 s, purging with Ar for 5 s, exposure to Et2Zn for 0.5 s, and purging with Ar for 5 s. The Cu thin films were grown at temperatures of 80–200 8C under a pressure of 0.3 T orr."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of cation precursors followed by oxidation with H2O vapor and O3 gas. The cation precursors, such as tetrakis dimethylamino titanium (TDMAT), tetrakis dimethylamino zirconium (TDMAZ), and tetrakis dimethylamino hafnium (TDMAH), are adsorbed on the surface and react with water or ozone to form metal oxides. The reaction equations are not explicitly provided in the text, but the general mechanism involves the sequential adsorption and reaction of metal precursors with oxidizing agents.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The text describes the use of alkyl-amide ALD precursors for the 4+ cations (TDMAT, TDMAZ, TDMAH) and Pb(DMAMP)2 as the lead precursor. The surface reactions involve the adsorption of cation precursors followed by oxidation with H2O vapor and O3 gas. The specific intermediate species formed on the surface during the pulse and purge cycles are not explicitly detailed in the text, but the general mechanism involves the sequential adsorption and reaction of metal precursors with oxidizing agents."
+}<|im_end|>

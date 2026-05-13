@@ -1,0 +1,7 @@
+{
+  "precursors": ["[Ca(thd)2(tetraen)]", "[Ca3(thd)6]"],
+  "coreactants": ["H2S"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The growth rate with [Ca(thd)2(tetraen)] is lower (0.43 Å/cycle) than that with [Ca3(thd)6] (0.50 Å/cycle). In the ALE deposition volatile [Ca3(thd)6] and H2S have been used as precursors."
+}

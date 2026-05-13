@@ -1,0 +1,9 @@
+{
+  "characterization_methods": [
+    "Quadrupole Mass Spectrometry (QMS)",
+    "Temperature Programmed Desorption (TPD)",
+    "Reflection High Energy Electron Diffraction (RHEED)",
+    "X-ray Photoelectron Spectroscopy (XPS)"
+  ],
+  "evidence": "The reactions of trimethyl gallium (TMG) on a gallium-rich surface (Ga surface) and an arsenic-rich surface (As surface) of (001)GaAs were studied using quadrupole mass spectrometry (QMS) by temperature programmed desorption (TPD) and the response of desorbed species from the surfaces during the exposure of TMG under a constant temperature. A (2 x 4) arsenic-rich (001) GaAs surface was prepared by an exposure of 1.3 x 10^-6 Pa AsH3 for 10 mm at 650°C in the reaction chamber after etching with a H2SO4—H2O2—H2O solution. The surface structure was monitored by reflection high energy electron diffraction (RHEED) observations. The QMS was wrapped in a liquid-nitrogen cooled shroud. The following TPD experiments were performed. After TMG was exposed at 0.1 Pa for 1 mm on each of the above surfaces at room temperature and the chamber was evacuated, the TMG adsorbed surface was heated at 0.7 K/s to 600°C. The desorbed species were analyzed using the QMS system. The activation energy, E_a, of TMG desorption can be computed from the TPD data using the relationship concerning the desorption rate du/dt, -d(f/dt) = k * exp(-E_a/RT)."
+}

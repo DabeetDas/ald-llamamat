@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of precursor gases followed by surface reactions. For TiO2, the unit cycle includes a TTIP vapor pulse, a purge, a H2O vapor pulse, and another purge. For Ta2O5, the unit cycle includes a TATDMT vapor pulse, a purge, a H2O vapor pulse, and another purge. The Ta content is controlled by varying the number of unit cycles in the Ta2O5 subcycle.",
+  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum", "formate species"],
+  "evidence": "The unit cycle for TiO2 included a TTIP vapor pulse with 50 sccm of Ar carrier gas, a purge pulse with 50 sccm of Ar, a H2O vapor pulse with 50 sccm of Ar carrier gas, and another 50 sccm Ar purge pulse. The unit cycle for Ta was composed of a TATDMT vapor pulse with 50 sccm of Ar carrier gas, a purge pulse with 50 sccm of Ar, a H2O vapor pulse with 50 sccm of Ar carrier gas, and another 50 sccm Ar purge pulse. Ta content in the Ta-doped TiO2 films was controlled by varying the number of unit cycles in a TiO2 subcycle, whereas the number of unit cycles allocated for a Ta2O5 subcycle was fixed at one."
+}

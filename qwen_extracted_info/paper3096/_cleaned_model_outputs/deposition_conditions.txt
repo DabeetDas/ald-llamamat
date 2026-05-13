@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": "3",
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "cold-walled",
+  "evidence": "The same O 3 pulsing parameters were used for ALD of SiO 2,H f O2, and HfSiO x. Ozone saturation for ALD of HfO 2 was achieved with 3 s O 3 pulse, followed by 5 s inert gas purge."
+}

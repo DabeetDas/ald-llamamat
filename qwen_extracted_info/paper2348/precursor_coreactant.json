@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "triethylindium (TEI)",
+    "trimethylgallium (TMG)"
+  ],
+  "coreactants": [
+    "AsH3"
+  ],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [
+    "H2"
+  ],
+  "evidence": "The TEl and AsH) enter the growth chamber through two separate inlet tubes. These gases flow through holes in the susceptor and only impinge on the substrate when it is rotated directly under a gas stream. The H2 flows through the TEl (20 ·C) bubbler were 350 and 450 sccm. The AsH) (5% in H2) flow was 200 sccm. The H2 carrier gas flows for the TEl and AsH) were 800 sccm each."
+}

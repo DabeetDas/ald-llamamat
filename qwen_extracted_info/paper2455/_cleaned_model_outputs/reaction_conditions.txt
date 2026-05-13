@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the epitaxial growth of 2D materials through van der Waals epitaxy using atomic layer deposition (ALD). The growth occurs through the alignment of the crystal lattices between the 2D material and the substrate, with specific epitaxial relationships such as (0001)[2¯1¯10]MS2 ‖ (001)[100]mica for metal sulfides on mica. The process includes the formation of different domain orientations, such as 0°/60° and 30°/90°, due to the symmetry of the materials and the substrate.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The text discusses the epitaxial growth of 2D materials through van der Waals epitaxy using ALD, with specific epitaxial relationships and domain orientations. It mentions the alignment of crystal lattices and the formation of different domain orientations due to the symmetry of the materials and the substrate. The text also refers to the use of ALD processes for depositing 2D materials on substrates like mica and sapphire, with specific examples of metal sulfides and PbI2."
+}

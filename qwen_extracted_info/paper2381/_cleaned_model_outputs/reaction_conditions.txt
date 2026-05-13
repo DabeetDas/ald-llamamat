@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Mg(Cp)2 precursor followed by a water pulse (H2O) to complete the surface reaction. The MgO growth occurs through a surface-controlled process where the Mg precursor reacts with surface hydroxyl groups, and subsequent water pulses regenerate the hydroxyl sites. The reaction is self-limiting due to the ALD process, ensuring monolayer-by-monolayer growth.",
+  "intermediate_species": ["surface hydroxyl groups", "Mg species", "surface-adsorbed Mg(Cp)2"],
+  "evidence": "The text describes the ALD process using Mg(Cp)2 and H2O precursors, where the MgO growth occurs through a surface-controlled mechanism. It mentions that the Mg precursor reacts with surface hydroxyl groups, and subsequent water pulses regenerate the hydroxyl sites. The process is self-limiting, ensuring monolayer-by-monolayer growth."
+}

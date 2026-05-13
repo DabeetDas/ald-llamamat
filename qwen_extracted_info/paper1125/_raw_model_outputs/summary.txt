@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu seed layer",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Bis(1-dimethylamino-2-methyl-2-butoxy)copper (MABOC)"],
+  "temperature_range": "100 °C to 200 °C",
+  "summary": "The study investigates the effects of substrate temperature on the Cu seed layer formed using plasma enhanced atomic layer deposition (PEALD). The Cu thin films were deposited at various temperatures, and the resistivity, impurity content, and morphology of the films were analyzed. The results show that a substrate temperature of 150 °C produced a continuous Cu seed layer with low resistivity and minimal impurities, making it suitable for electrochemical plating (ECP) in sub-32 nm trench structures.",
+  "evidence": "At a deposition temperature of 150 °C, the resistivity of Cu thin films was 5.2 μΩ-cm and the impurity content was below 5 atomic %. Cu seed layers were deposited on 32-nm Ta/SiO2 trench substrates, and electrochemical plating was performed under conventional conditions. A continuous seed layer was deposited using PEALD, resulting in a perfectly filling of the 32-nm sized trench."
+}<|im_end|>

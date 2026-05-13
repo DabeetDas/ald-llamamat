@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 150,
+  "density_g_cm3": null,
+  "refractive_index": "2.0 at 632 eV",
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The measured spectral ellipsometry data are modelled as Si/ZnO/surface roughness layer. The dielectric function of ZnO (εZnO) is modelled as a combination of Psemi-M0, Gauss and Drude oscillator functions. The Psemi-M0 oscillator function has been developed to model the oscillator function shape for direct and wide bandgap crystalline semiconductors. The Drude oscillator accounts for the free-carrier absorption near long wavelength tail, and the Gaussian oscillator is useful to explain the UV absorption. The surface roughness layer is defined by the effective medium approach (EMA) which is combination of 50% of the material and 50% of the voids. The latter eventually lowers the refractive index."
+}

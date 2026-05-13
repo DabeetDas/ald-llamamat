@@ -1,0 +1,12 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "Ti(OCH3)4",
+    "O3",
+    "H2O"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study describes the controlled growth of rutile TiO2 on oxidized ruthenium using atomic layer deposition (ALD). The process involves using Ti(OCH3)4 as the metal precursor and O3 as the oxidant, with a protective H2O-based intermediate layer to prevent etching of the Ru electrode. The rutile phase is achieved through the presence of a RuO2 template formed in situ during the ALD process.",
+  "evidence": "Crystalline rutile TiO2 films were grown by atomic layer deposition on oxidized Ru electrodes using a titanium methoxide as the metal precursor and O3 as the oxidant. A protective layer of ~0.3 nm TiO2 grown with H2O as the oxidant was first deposited in order to avoid etching of the Ru bottom electrode by the O3 used for the growth of the TiO2 (bulk) layer."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the sequential deposition of ZnO and Ga2O3 layers using DEZ, H2O, TMG, and O3. The growth temperature was 250 °C, and the growth rates were 1.36 Å/cycle for ZnO and 0.67 Å/cycle for Ga2O3. The Ga concentration was controlled by varying the ratio of ZnO and Ga2O3 cycles.",
+  "intermediate_species": [
+    "Ga dopant",
+    "neutral atoms",
+    "grain boundaries"
+  ],
+  "evidence": "The ALD method has many advantages. First, thin film deposited by ALD has fewer impurities due to the surface reaction. Second, regulation of the thickness in the angstrom scale can be realized by a self-limited reaction. Lastly, the film can be deposited conformally and with high quality by the self-limited reaction on the surface. Therefore, the GZO film deposited by ALD is expected to exhibit good thermoelectric properties."
+}

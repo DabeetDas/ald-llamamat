@@ -1,0 +1,11 @@
+{
+  "target_material": "Oxide thin films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "metal alkoxides",
+    "metal chlorides or metal alkyls"
+  ],
+  "temperature_range": "300°C to 500°C",
+  "summary": "The text describes a chemical approach to atomic layer deposition (ALD) of oxide thin films using metal alkoxides as oxygen sources. This method avoids the formation of an interfacial silicon oxide layer, enabling the deposition of high-permittivity oxides on silicon without creating an interfacial layer. The process uses metal alkoxides and metal chlorides or alkyls, with reactions occurring at temperatures between 300°C and 500°C. The study highlights the benefits of ALD, including atomic-level thickness control and uniformity, and its potential for replacing silica as a gate dielectric in future microelectronics.",
+  "evidence": "A chemical approach to atomic layer deposition (ALD) of oxide thin films is reported here. Instead of using water or other compounds for an oxygen source, oxygen is obtained from a metal alkoxide, which serves as both an oxygen and a metal source when it reacts with another metal compound such as a metal chloride or a metal alkyl. These reactions generally enable deposition of oxides of many metals. With this approach, an alumina film has been deposited on silicon without creating an interfacial silicon oxide layer that otherwise forms easily."
+}

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "320-540",
+ "pressure": "10 - 5 Torr",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "UHV",
+ "evidence": "The sample temperature is monitored by an infrared pyrometer calibrated against the melting point of InSb at -525 “C. The sample temperature is varied between 320 and 540°C."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["dimethyl cadmium (DMCd)", "thioacetamide (C2H5NS)"],
+  "coreactants": ["hydrogen sulfide (H2S)"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The precursors for this reaction were dimethyl cadmium (DMCd) and in situ generated hydrogen sulfide (H2S) which had been produced by decomposition of thioacetamide (C2H5NS) as described in earlier work. N2 was used as the carrier and purge gas at a constant flow rate of 60 SCCM."
+}

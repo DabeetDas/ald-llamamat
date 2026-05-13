@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Hf[N(CH3)2]4", "O3"],
+  "temperature_range": "300 °C",
+  "summary": "The study compares the properties of HfO2 films deposited using O3 or H2O as oxidants with a N-containing Hf[N(CH3)2]4 precursor. The films deposited with O3 showed lower carbon impurity concentration, more amorphous structure, and significantly reduced leakage current density. The process was carried out at 300 °C, and the films exhibited improved dielectric properties and interfacial characteristics.",
+  "evidence": "The dielectric properties of HfO2 thin films, which were deposited on Si wafers by an atomic layer deposition (ALD) technique at a wafer temperature of 300 °C using a N-containing, tetrakis dimethylamido hafnium precursor, were highly improved by adopting O3 as the oxidant during the ALD instead of H2O. The films contained a much smaller carbon impurity concentration and were of more amorphous nature compared to the films grown using H2O as oxidant. The leakage current density was three orders of magnitude smaller than that of the films grown using H2O."
+}

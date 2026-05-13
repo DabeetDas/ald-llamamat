@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-290",
+  "pressure": "1.3 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": 200,
+  "reactor_type": "custom viscous-flow reactor",
+  "evidence": "The timing sequence was (1/C010/C02/C010) where all times are given in seconds."
+}

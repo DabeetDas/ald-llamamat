@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Ellipsometry",
+    "X-ray Diffraction (XRD)",
+    "Photoluminescence (PL)",
+    "UV-Vis Spectrophotometry",
+    "Hall Measurement",
+    "Current-Voltage (I-V) Measurement",
+    "Lock-in Amplifier Technique"
+  ],
+  "evidence": "The thickness of the ZnO films was characterized using a JY DeltaPsi ellipsometer. The structural properties were studied using a Rigaku D/max-RA x-ray diffractometer (XRD) with Cu K line (λ = 0.154 nm) as the irradiation source. A JY630 microRaman spectrometer was used to measure the photoluminescence (PL) spectrum of the ZnO films, and the 325 nm line of a He–Cd laser was employed as the excitation source. Both optical transmission and absorption spectra were recorded in a Shimadzu UV-3101PC scanning spectrophotometer. The dark current was obtained by measuring the current-voltage (I-V) characteristics of the photodetector in a Hall measurement system (LakeShore 7707) under van der Pauw configuration at room temperature. A standard lock-in amplifier technique was employed to measure the photoresponse properties of the photodetector, where a 150 W xenon lamp was used as the illumination source."
+}<|im_end|>

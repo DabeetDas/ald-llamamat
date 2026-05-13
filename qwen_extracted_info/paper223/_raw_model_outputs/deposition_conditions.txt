@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 8,
+  "purge_time_s": 4,
+  "number_of_cycles": 300,
+  "reactor_type": "remote-plasma",
+  "evidence": "The ALD window was identified in terms of the process parameters, and it showed that a 0.1 s of TMA pulse, 8 s of NH3-plasma pulse, and 350 oC were the optimal conditions for ALD to occur. In between precursor doses, the reactor was cleaned from the volatile reaction products and the excess (unreacted) precursors, by purging with N2 for 4 s after each cycle. The ALD experiments were carried out at a substrate temperature of 350 oC, under a reactor pressure of 1 mbar."
+}<|im_end|>

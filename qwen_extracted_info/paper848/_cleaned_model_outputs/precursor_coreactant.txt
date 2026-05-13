@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum"],
+  "coreactants": ["N2/5% H2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The deposition consisted of four stages: 0.02s trimethylaluminum dose, 7s Ar gas purge, 10s N2/5% H2 plasma, followed by another 7s Ar purge."
+}

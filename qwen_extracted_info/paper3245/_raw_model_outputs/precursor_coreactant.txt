@@ -1,0 +1,7 @@
+{
+  "precursors": ["Li(t-OBu) (Trimethyl(t-butyl)silane lithium)", "TDMAP (Trisdimethylaminophosphorus)"],
+  "coreactants": ["O2 (Oxygen gas)"],
+  "purge_gas": ["Ar (Argon gas)"],
+  "carrier_gas": ["Ar (Argon gas)"],
+  "evidence": "The chemicals (CH3)3COLi (Li(t-OBu)) and P(N(CH3)2)3 (trisdimethylaminophosphorus, TDMAP) were used as precursors, and the precursor bottles were manufactured by Japan Advanced Chemicals Ltd. NH3 gas (100%) was used for nitriding. For oxidation, we avoided the use of H2O, O3, and other intensively oxidative substances, using oxygen gas (100%) instead to suppress complete oxidation and promote nitriding. Ar gas was used as a purge, carrier, and bubbling gas."
+}<|im_end|>

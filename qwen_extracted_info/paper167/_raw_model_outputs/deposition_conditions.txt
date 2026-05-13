@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300-375",
+  "pressure": "8–12 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 0.3,
+  "purge_time_s": 5,
+  "number_of_cycles": 1500,
+  "reactor_type": "Picosun R-75BE",
+  "evidence": "The conditions in these depositions consisted of SrTp2 and water pulse lengths of 3.0 and 0.3 s, respectively, purge lengths of 5.0 s between pulses, and 1500 deposition cycles."
+}<|im_end|>

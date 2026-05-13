@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 7,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "tetragonal",
+  "evidence": "XRD was used to determine the crystalline structure of ALD-grown BTO films on STO-buffered Si(001). Figure 2(a) shows h-2h scan of an as-deposited 20-nm thick BTO on 1.6-nm STO-buffered Si(001). The (001) and (002) Bragg peaks from BTO are present, confirming the c-axis orientation of the BTO layer. The (002) Bragg peak position at 2θ = 45.10° corresponds to an out-of-plane lattice constant of 4.018 Å ± 0.005, which is slightly bigger than the bulk value of BTO cubic structure (4.005 Å). Figure 2(b) shows a reciprocal space map around the (103) BTO Bragg peak. A two-dimensional Gaussian fit was used to find the center of the peak, which was found to be at 2θ = 74.632° and x = 18.472°. This corresponds to in-plane and out-of-plane lattice constants of a = 3.93 ± 0.01 and c = 4.02 ± 0.01 Å, respectively. Different thicknesses of BTO films were grown to study the dependence of the c lattice constant on thickness. It is found that for film thickness ranging from 7 to 20 nm, the c lattice constant varies from 4.095 to 4.018 ± 0.005 Å, consistent with BTO relaxation with increasing thickness."
+}

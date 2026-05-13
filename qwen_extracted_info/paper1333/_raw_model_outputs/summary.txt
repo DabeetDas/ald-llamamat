@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru (Ruthenium)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["(ethylbenzyl) (1-ethyl-1,4-cyclohexadienyl) Ru(0)", "O2"],
+  "temperature_range": "245 °C to 325 °C",
+  "summary": "The study demonstrates the use of Ru ALD as a catalyst for sub 7 nm bottom-up metal interconnects in microelectronics. The process involves plasma surface modification to achieve selectivity between SiCN and a-C:H surfaces, enabling selective Ru deposition and subsequent electroless deposition of Cu. The ALD Ru process is optimized for low-temperature conditions to maintain compatibility with BEOL processes.",
+  "evidence": "The text states: 'A broad variety of thermal and plasma-enhanced ALD Ru processes are available.33 The relatively low thermal budget limitation of 420 °C associated with the damascene integration, makes low temperature ALD Ru processes particularly interesting.34,35' and 'The temperature in the reactor was maintained at 325 °C, unless otherwise stated.'"
+}<|im_end|>

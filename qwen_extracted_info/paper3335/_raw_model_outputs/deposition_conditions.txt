@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 180,
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "Beneq TFS-200",
+  "evidence": "In2S3 and CuxS thin films were grown in a Beneq TFS-200 ALD reactor (15 × 15 cm²; Beneq Oy, Espoo, Finland), at T dep = 180 °C for In 2S3 and T dep = 160 ° C for CuxS, respectively. High purity nitrogen 99.9999% (N2, Air Liquide, Paris, France) was used as carrier and purge gas. The carrier gas flow rate was set at 600 sccm . In the reaction chamber, the pressure was kept around 1 mbar."
+}<|im_end|>

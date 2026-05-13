@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Light is absorbed by WO3 to generate electrons and holes. The built-in field in WO3 helps concentrate electrons away from the solid/liquid interface to be collected by the supporting substrate, which is indium tin oxide (ITO). Holes are driven by the built-in field toward the solid/liquid interface, where they transfer to the solution to oxidize H2O. The oxidation process is mediated by the catalyst, which works in a fashion similar to the oxo-bridged Mn2 catalyst, that is, mixed-valent Mn III and Mn IV are oxidized by the photogenerated holes from the semiconductor, and the product of the oxidation process is reduced by H2O to produce O2.",
+  "intermediate_species": [
+    "mixed-valent Mn III and Mn IV"
+  ],
+  "evidence": "Figure 2. Proposed working mechanism of the WO3/Mn catalyst system. WO3 absorbs photons to create electrons and holes, separation of which is assisted by the built-in field within the semiconductor. Electrons are collected, and holes transferred to the catalyst to oxidize H2O. The oxidation process is mediated by the catalyst, which we suggest works in a fashion similar to the oxo-bridged Mn2 catalyst, that is, mixed-valent Mn III and Mn IV are oxidized by the photogenerated holes from the semiconductor, and the product of the oxidation process is reduced by H2O to produce O2."
+}

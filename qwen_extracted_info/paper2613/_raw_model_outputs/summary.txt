@@ -1,0 +1,8 @@
+{
+  "target_material": "Hf xAlyCz",
+  "process_type": "thermal ALD",
+  "main_precursors": ["hafnium chloride (HfCl4)", "trimethylaluminum (TMA)"],
+  "temperature_range": "270 /C14 C",
+  "summary": "The study describes the atomic layer deposition (ALD) of Hf xAlyCz as a work function material for metal gate MOS devices. The process uses hafnium chloride and trimethylaluminum precursors, with postdeposition anneals and ALD liners to control device characteristics. The effective work function of the Hf xAlyCz layer was found to be mid-gap at 4.6 eV, making it a promising material for tuning device threshold voltages in multi-Vth integrated circuits.",
+  "evidence": "ALD Hf xAlyCz was deposited in an ALD single-wafer chamber with gas delivery through a showerhead above the 300 mm diameter silicon wafer. Depositions were performed at a 270 /C14 C substrate temperature and using hafnium chloride (HfCl4) and trimethylaluminum (TMA) precursors... The effective work function in metal–oxide–semiconductor capacitor devices with the Hf xAlyCz layer coupled with an ALD HfO 2 dielectric was quantiﬁed to be mid-gap at /C24 4.6 eV."
+}<|im_end|>

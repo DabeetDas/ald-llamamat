@@ -1,0 +1,11 @@
+{
+  "target_material": "Sb2Te3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "SbCl3",
+    "(Me3Si)2Te"
+  ],
+  "temperature_range": "70 /C14 C",
+  "summary": "The paper describes the direct growth of Sb2Te3 on graphene using atomic layer deposition (ALD) with pre-(Me3Si)2Te treatment. The study highlights the use of ALD to achieve high-quality Sb2Te3 at low temperatures, avoiding issues like interlayer outdiffusion and thermal lattice mismatch. The process involves the use of specific precursors and demonstrates the effectiveness of graphene in maintaining the integrity of Sb2Te3 by preventing oxidation and interface layer formation.",
+  "evidence": "The direct growth of Sb2Te3 on graphene is achieved by atomic layer deposition (ALD) with pre-(Me3Si)2Te treatment. The results of atomic force microscopy (AFM) indicate Volmer–Weber island growth is the dominant growth mode for ALD Sb2Te3 growth on graphene. High resolution transmission electron microscopy (HRTEM) analysis reveals perfect crystal structures of Sb2Te3 on graphene and no interface layer generation. The characterization of X-ray photoelectron spectroscopy (XPS) implies the impermeability of graphene can maintain Sb2Te3 intact and isolate the adverse effects of substrates. Our study provides a step forward to grow high quality Sb2Te3 at low temperature and expand the potential applications of graphene in ALD techniques."
+}

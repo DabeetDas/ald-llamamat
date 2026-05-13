@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": null,
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "40",
+ "reactor_type": "ALCVD",
+ "evidence": "The metal oxide layers were prepared by means of atomic layer chemical vapor deposition (ALCVD). As metal precursors, we use trimethyl aluminum (TMA) and ZrCl4, and H2O as O source. The sample of interest was made with 20 cycles of Al2O3 and 40 cycles of ZrO2."
+}

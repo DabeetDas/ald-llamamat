@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 60,
+  "pressure": "10 −2−10−3 mbar",
+  "precursor_pulse_time_s": 2000,
+  "coreactant_pulse_time_s": 500,
+  "purge_time_s": 4500,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall stainless steel reactor chamber with top-to-bottom ﬂow geometry",
+  "evidence": "The optimized pulse/purge sequence for the deposition process was (2000 ms precursor pulse/4500 ms argon purge/1000 ms oxygen pulse with 500 ms plasma ignition/1000 ms argon purge) and is visualized in Scheme S1 in the SI."
+}<|im_end|>

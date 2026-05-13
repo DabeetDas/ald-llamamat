@@ -1,0 +1,10 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "titanium isopropoxide (Ti(OCH(CH3)2)4)"
+  ],
+  "temperature_range": "120 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to fabricate sub-10 nm nanopores embedded with electrodes for ionic field effect transistors (IFETs). The ALD process shrinks nanopores created by e-beam lithography and reactive ion etching (RIE) to sub-10 nm sizes using a self-limiting deposition of TiO2. The process enables precise control over nanopore dimensions and is compatible with CMOS fabrication techniques.",
+  "evidence": "The ALD process compensates for the limitation of top-down drilling by allowing highly controllable and conformal film deposition at the nanometer scale, which is used to shrink the pore size. TiO2 ALD deposition was performed on nanopore-membrane samples. For ALD film deposition, titanium isopropoxide, Ti(OCH(CH3)2)4, was used as the precursor. The substrate temperature was 120 °C."
+}

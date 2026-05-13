@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "ZrCl4",
+    "Al(CH3)3",
+    "TMA"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The investigated samples consist of ZrO2 and Al2O3 films deposited by ALCVD in a Pulsar 2000 ALCVD reactor attached to an ASM P8200 polygon cluster tool, using alternating surface saturating reactions between ZrCl4 (or Al(CH3)3) and H2O at 300/C176C."
+}

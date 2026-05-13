@@ -1,0 +1,7 @@
+{
+  "precursors": ["DMZn", "H2S", "H2Se"],
+  "coreactants": [],
+  "purge_gas": ["H2"],
+  "carrier_gas": [],
+  "evidence": "DMZn, H2S and H2Se were used as the source gases for Zn, S and Se, respectively. The purge gas (H2) is made to continuously flow through the source gas line during growth."
+}

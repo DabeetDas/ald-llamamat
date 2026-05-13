@@ -1,0 +1,8 @@
+{
+  "target_material": "La2O3",
+  "process_type": "remote plasma atomic layer deposition (RPALD)",
+  "main_precursors": ["Tris(isopropylcyclopentadienyl) La", "O2 plasma", "trimethylaluminum (TMA)"],
+  "temperature_range": "300 ˚C",
+  "summary": "The study investigates the effects of an Al2O3 capping layer on La2O3 films deposited by remote plasma atomic layer deposition (RPALD). The La2O3 films degrade when exposed to air due to the formation of lanthanum hydroxide, which reduces their electrical properties. The Al2O3 capping layer suppresses this degradation by preventing moisture absorption, maintaining the film's electrical properties and permittivity.",
+  "evidence": "The La2O3 films degraded when exposed to air due to the formation of lanthanum hydroxide, which reduces their electrical properties. The Al2O3 capping layer suppresses this degradation by preventing moisture absorption, maintaining the film's electrical properties and permittivity."
+}<|im_end|>

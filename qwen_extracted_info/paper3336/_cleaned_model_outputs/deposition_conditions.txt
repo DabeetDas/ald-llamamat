@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 1000,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 110,
+  "number_of_cycles": null,
+  "reactor_type": "Gemstar XT",
+  "evidence": "The TiN thin films are grown directly onto the MgO and Si <100> substrates. Similar to a previously established method to produce metallic TiN, Tetrakis (dimethylamido) titanium(IV) (99%, Strem Chemical, Newburyport, MA, USA), known as TDMATi, is used as the titanium precursor and heated to 65 °C to increase its vapor pressure. TDMATi is exposed to the chamber for 1000 milliseconds, followed by a 10 s purge under 110 sccm argon."
+}

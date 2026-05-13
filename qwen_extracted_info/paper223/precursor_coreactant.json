@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "TMA",
+    "NH3-plasma"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2",
+    "Ar"
+  ],
+  "evidence": "The PEALD of AlN was performed in a commercial ALD reactor (Picosun), using tri-methyl aluminium (TMA) and NH3-plasma as the precursors; with pulse durations of 0.1 s for TMA and 8 s for the plasma. The precursor molecules were transported to the reactor using carrier gases: N2 (for TMA) and Ar (for NH3-plasma). In between precursor doses, the reactor was cleaned from the volatile reaction products and the excess (unreacted) precursors, by purging with N2 for 4 s after each cycle."
+}

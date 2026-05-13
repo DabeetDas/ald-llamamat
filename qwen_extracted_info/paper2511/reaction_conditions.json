@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Al2(CH3)6(g) + 10H2(g) → ;1.0AlH3(g) + ;3.0CH4(g) + ;7.0H2(g) + ;0.25Al4C3(s) + ;2.2CH4(g)"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of TMA with hydrogen plasma, leading to the formation of AlH3 and CH4. The AlH3 molecules are adsorbed on the substrate, and the carbon content in the film is reduced by increasing the H2/PTMA ratio, which helps in minimizing the formation of Al4C3 through heterogeneous reactions.",
+  "intermediate_species": [
+    "AlH3",
+    "CH4",
+    "Al4C3",
+    "surface hydroxyls"
+  ],
+  "evidence": "The overall reaction of TMA 110H2 at 100 °C with a total pressure of 133 Pa is summarized as Al2(CH3)6(g) + 10H2(g) → ;1.0AlH3(g) + ;3.0CH4(g) + ;7.0H2(g) + ;0.25Al4C3(s) + ;2.2CH4(g)."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "3Si + 2WF6 = 2W + 3SiF4"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of WF6 with Si nucleation layer, followed by the sequential pulsing of NH3, C2H4, SiH4, and NH3. The W surface is terminated by fluorine, which is reactive with NH3, SiH4, and C2H4. The sequence WF6/NH3/C2H4/SiH4/NH3 leads to the highest N content and lowest Si content due to the reactivity of the W-F bond with the different precursors.",
+  "intermediate_species": [
+    "SiF4",
+    "NHx radicals",
+    "CH2 adsorbed on W surface",
+    "SiH4 adsorbed species"
+  ],
+  "evidence": "The surface reaction mechanism involves the interaction of WF6 with Si nucleation layer, followed by the sequential pulsing of NH3, C2H4, SiH4, and NH3. The W surface is terminated by fluorine, which is reactive with NH3, SiH4, and C2H4. The sequence WF6/NH3/C2H4/SiH4/NH3 leads to the highest N content and lowest Si content due to the reactivity of the W-F bond with the different precursors."
+}

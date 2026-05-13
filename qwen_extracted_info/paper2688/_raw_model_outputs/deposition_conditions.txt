@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 160,
+  "pressure": "0.5 mbar",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 0.1,
+  "number_of_cycles": null,
+  "reactor_type": "SUNALE R-200 ALD reactor",
+  "evidence": "The films were deposited at 160 °C on borosilicate glass, non-pre-etched or etched Si (100) substrates. Typical In xSy growth cycle is {In 2S3} = {In(acac)3/N2/H2S/N2 = 0.1/5/0.1/5 s}, with average growth per cycle (GPC) = 0.3 Å/cycle."
+}<|im_end|>

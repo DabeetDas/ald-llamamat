@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["TEMAH", "deionized water"],
+  "temperature_range": "200 °C",
+  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of HfO2 nanotubes within anodic aluminum oxide (AAO) nanopore templates. The research explores the conformality of ALD in high-aspect-ratio nanopores and develops a TEM-based metrology technique to quantify the thickness variation of the deposited films along the nanotube axis. The findings demonstrate agreement between experimental data and theoretical models for ALD conformality.",
+  "evidence": "ALD HfO2 nanotubes formed in AAO templates are released by dissolution of the Al2O3, transferred to a grid, and imaged by TEM. An algorithm is devised to automate the quantification of nanotube wall thickness as a function of position along the central axis of the nanotube, by using a cylindrical model for the nanotube. Diffusion-limited depletion occurs in the lower portion of the nanotubes and is characterized by a linear slope of decreasing thickness. Experimentally recorded slopes match well with two simple models of ALD within nanopores presented in the literature."
+}

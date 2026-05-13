@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 10,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": 10,
+  "crystal_phase": "Amorphous",
+  "evidence": "The Zn edge data look very similar to bulk ZnS but the Cu edge plot is disordered. The Zn edge data show a distorted Zn environment in ZnS with an r-shift of /C0 0.16 A˚ and a change in the phase of the function R, which is again close to Zn-O in ZnO. The data for the Cu edge were fit using a linear combination of bulk data for CuS and Cu 2S. In this case, the ratio of CuS:Cu 2S is close to 50/50, with possibly slightly more Cu2S. The codeposited samples (configuration 4) also highly favor Cu, with approximately no Zn and mostly Cu xS in the sample. The samples contain more CuS than Cu 2S (/C24 85/15), and this ratio is independent of the fit range."
+}

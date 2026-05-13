@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALE growth of ZnS is achieved by alternating pulses of dimethyl zinc (DMZn) and hydrogen sulfide (H2S) with purge steps. The purge gas (H2) is continuously flowed through the source gas line during growth to sweep away residual source gases. The film thickness is controlled by the purge duration and flow rate, and the growth is self-limiting, indicating that the surface reactions are terminated once the reactants are exhausted.",
+  "intermediate_species": ["DMZn molecules", "H2S molecules", "source gas molecules"],
+  "evidence": "The ALE growth of ZnS is achieved by alternating pulses of dimethyl zinc (DMZn) and hydrogen sulfide (H2S) with purge steps. The purge gas (H2) is continuously flowed through the source gas line during growth to sweep away residual source gases. The film thickness is controlled by the purge duration and flow rate, and the growth is self-limiting, indicating that the surface reactions are terminated once the reactants are exhausted."
+}<|im_end|>

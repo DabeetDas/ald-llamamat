@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Ni(dmamb)2"
+  ],
+  "coreactants": [
+    "H2O",
+    "H2S"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Nickel sulfide and nickel oxide thin films were deposited using atomic layer deposition (ALD), which employed Ni(dmamb)2 (DNF, Korea) as a nickel precursor, with H2S as a sulfur source and H2O as an oxygen source. The Ni(dmamb)2 precursor was held at 80°C to guarantee sufficient reactant molecules in the ALD reaction chamber, and the connecting lines were maintained at 100°C. The oxygen source was supplied using distilled water, and the sulfur source was provided using a pre-mixture gas composed of 4% H2S balanced by Ar. One basic ALD cycle was performed based on the following sequence: [Ni(dmamb)2 supply]-[Ar purge]-[H2S (or H2O) supply]-[Ar Purge]."
+}

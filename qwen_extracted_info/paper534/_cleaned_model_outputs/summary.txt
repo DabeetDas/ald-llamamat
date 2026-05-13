@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO and indium sulﬁde",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["diethyl zinc", "water", "trimethyl aluminium", "indium acetylacetonate", "hydrogen sulﬁde"],
+  "temperature_range": "130–180 °C",
+  "summary": "The study investigates the atomic layer deposition of ZnO and indium sulﬁde layers for Cu(In,Ga)Se2 thin-film solar cells. The process involves using specific precursors and temperature ranges to achieve high efficiency, with a focus on doping ZnO with Al and analyzing the properties of indium sulﬁde layers.",
+  "evidence": "Depositions are carried out in an ALD machine F120 from ASM-Microchemistry. Zinc oxide layers are prepared from diethyl zinc and water precursors. Indium sulﬁde layers are prepared from an indium acetylacetonate solid source at 130 °C and hydrogen sulﬁde. Deposition temperature is mostly approximately 150–160 °C."
+}

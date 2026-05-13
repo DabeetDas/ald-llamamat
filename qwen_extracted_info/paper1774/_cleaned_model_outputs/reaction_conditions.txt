@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "ZnOH* + Zn(C2H5)2 / ZnOZnC2H5* + C2H6 [DEZ pulse]",
+    "ZnOZnC2H5* + H2O / ZnOZnOH* + C2H6 [H2O pulse]",
+    "ZnOZnC2H5* + H2O + HF / ZnOZnOH* + HF + C2H6 [H2O/HF pulse]",
+    "ZnOZnC2H5* + HF / ZnOZnF + C2H6 [F doping in ZnO matrix]"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the substitution of oxygen sites in ZnO with F anions through a series of surface reactions. The F anions fill oxygen-related defect sites in the ZnO lattice, leading to a perturbation and passivation effect. This process is facilitated by the ALD technique, where the F source (H2O/HF) is alternated with the Zn source (DEZ) in a controlled pulse sequence. The F anions replace O sites, which reduces the number of O vacancies and enhances the electrical conductivity of the ZnO matrix.",
+  "intermediate_species": [
+    "ZnOH*",
+    "ZnOZnC2H5*",
+    "ZnOZnOH*",
+    "ZnOZnF"
+  ],
+  "evidence": "The general overall reaction schemes for ZnO:F films (Fig. 2b and c) are given as follows: ZnOH* + Zn(C2H5)2 / ZnOZnC2H5* + C2H6 [DEZ pulse] (3) ZnOZnC2H5* + H2O + HF / ZnOZnOH* + HF + C2H6 [H2O/HF pulse] (4) ZnOZnC2H5* + HF / ZnOZnF + C2H6 [F doping in ZnO matrix] (5) when DEZ and H2O/HF were pulsed, ZnO and ZnO:F layers are formed simultaneously by reactions (3), (4), and (5). Thus, it is clearly the F doping step that supplies the F doping source through the injection sequence of H2O/HF."
+}

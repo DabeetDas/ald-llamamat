@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "3-10 kPa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 10,
+  "reactor_type": "MC 120 flow-type reactor",
+  "evidence": "The catalysts were prepared in a modified MC 120 flow-type reactor (Microchemistry Ltd.) (fig. 1). The gaseous reactants were passed through a stationary bed of alumina. The reactions were carried out at a pressure of 3-10 kPa in nitrogen atmosphere."
+}

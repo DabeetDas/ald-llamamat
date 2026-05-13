@@ -1,0 +1,18 @@
+{
+  "characterization_methods": [
+    "Ellipsometry",
+    "X-ray Reflectivity (XRR)",
+    "Scanning Electron Microscopy (SEM)",
+    "Energy Dispersive X-Ray Spectroscopy (EDS)",
+    "UV-Vis-NIR Spectrophotometry",
+    "Hall Effect Measurement",
+    "Four-point probe measurement",
+    "Raman Spectroscopy",
+    "X-ray Diffraction (XRD)",
+    "Spectroscopic Ellipsometry (SE)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Atomic Force Microscopy (AFM)",
+    "Quartz Crystal Microbalance (QCM)"
+  ],
+  "evidence": "TZO thin film characterization was performed on samples deposited on silicon wafer (ellipsometry, GIXRD, XRR) or borosilicate glass (Raman, Hall effect measurement, spectrophotometry). Thin film thicknesses were determined by spectroscopic ellipsometry (SE) performed with a Horiba Jobin Yvon Uvisel 2 ellipsometer, and X-ray reflectivity (XRR) using a PANalytical Empyrean equipment using Cu-Kα radiations. Thin film compositions and morphologies were obtained using a Merlin VP Compact scanning electron microscope (SEM) provided by Zeiss equipped with an energy dispersive X-Ray spectroscopy (EDS) detector from Bruker. Transmittance and reflectance spectra were obtained using an Agilent Cary 500 UV-Vis-NIR spectrophotometer equipped with an Agilent Diffuse Reflectance accessory. Electrical measurements were performed on samples with an area of 2.25 cm 2 at room temperature using four-point probe measurement setup (LucasLab Probe 4 apparatus) and an ECOPIA HMS-5000 system with a 0.556T permanent magnet was used for Hall effect measurement. Raman spectra were recorded using a Horiba Labram HR spectrometer in the micro-Raman mode (backscattering geometry) at room temperature. In-situ QCM measurements were acquired with a Colnatec Eon-LT monitor system, using a HT quartz crystal covered by an aluminum alloy (6 MHz initial oscillation frequency) located on the cover lid of the reactor."
+}

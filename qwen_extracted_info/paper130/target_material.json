@@ -1,0 +1,10 @@
+{
+  "target_material": {
+    "chemical_formula": null,
+    "material_name": null,
+    "material_class": null
+  },
+  "evidence": null,
+  "_error": "ValueError: Could not parse model output as JSON. Preview: '1/C110/C116 /C116/C104/C101 /C115/C105/C108/C105/C99/C97/C116/C101 /C116/C104/C105/C110 /C102/C105/C108/C109/C115 /C104/C97/C118/C101 /C98/C101/C101/C110 /C100/C101/C112/C111/C115/C105/C116/C105/C111/C110 /C116/C101/C109/C112/C101/C114/C97/C116/C117/C114/C101 /C111/C102 /C116/C104/C101 /C115/C105/C1'",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 223, in target_materials_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '1/C110/C116 /C116/C104/C101 /C115/C105/C108/C105/C99/C97/C116/C101 /C116/C104/C105/C110 /C102/C105/C108/C109/C115 /C104/C97/C118/C101 /C98/C101/C101/C110 /C100/C101/C112/C111/C115/C105/C116/C105/C111/C110 /C116/C101/C109/C112/C101/C114/C97/C116/C117/C114/C101 /C111/C102 /C116/C104/C101 /C115/C105/C1'\n"
+}

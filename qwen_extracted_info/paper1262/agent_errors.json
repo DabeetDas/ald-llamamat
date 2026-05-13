@@ -1,0 +1,3 @@
+{
+  "film_properties": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": 10,   \"density_g_cm3\": 3.4,   \"refractive_index\": \"1.633\",   \"surface_roughness_nm\": 14.01,   \"crystal_phase\": \"Amorphous\",   \"evidence\": \"The refractive index of the thin film and calculated porosity and film density using Lorentz−Lorenz formula 48 =− + ×P n n n n 1 2 100(%'"
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD involve the adsorption of metal precursors and oxidants on the substrate, followed by surface reactions and desorption. The text mentions the use of tris(methylcyclopentadienyl)erbium [(CpMe)3Er] and tetrakis(diethylamino)titanium [TDEA T] as metal precursors with O3 as oxidant. The growth rates of Er2O3 and TiO2 were observed to depend on temperature, indicating surface reactions that are temperature-sensitive. The text also discusses the formation of silicate and silicon oxide at the interface, suggesting surface reactions between the deposited films and the Si substrate.",
+  "intermediate_species": ["Er silicate", "silicate", "SiO2"],
+  "evidence": "The text discusses the formation of silicate and silicon oxide at the interface, suggesting surface reactions between the deposited films and the Si substrate. It also mentions the presence of Er silicate at the interface during deposition and the increased formation of SiO2 after RTP treatment. The growth rates of Er2O3 and TiO2 were observed to depend on temperature, indicating surface reactions that are temperature-sensitive."
+}<|im_end|>

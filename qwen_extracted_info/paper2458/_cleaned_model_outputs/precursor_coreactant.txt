@@ -1,0 +1,7 @@
+{
+  "precursors": ["nickelocene (NiCp2)", "O2"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The gaseous NiCp2 was transported into the reaction chamber by a high purity N2 carrier gas with a flow rate of 50 sccm. During the film growth, ... a pulse of NiCp2, 10 s of N2 purging to remove the residual precursor and byproducts, a pulse of O2-plasma, and 10 s of N2 purging in sequence, in which the pulse times of NiCp2 and O2 plasma were optimized, respectively."
+}

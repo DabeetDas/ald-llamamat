@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "Scanning Electron Microscopy (SEM)",
+    "UV-vis spectrophotometry",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Four-point probe measurement",
+    "Hall effect measurement",
+    "Ellipsometry",
+    "XRR",
+    "Atomic Force Microscopy (AFM)",
+    "Profilometry"
+  ],
+  "evidence": "Thin films were characterized notably by X-ray diffraction, Scanning Electron Microscopy and UV-vis spectrophotometry. The chemical compositions of films deposited on glass substrates were investigated by XPS. Electrical measurements were performed on 2.25 cm2 samples at room temperature using four-point probe measurement setup and an ECOPIA HMS-3000 Hall effect measurement system. XPS depth profile measurements were performed to determine the surface and in-depth composition and chemical environments of the three films. The chemical environment study was performed on conventional C 1s, O 1s, S 2p and Cu 2p peaks. The evolution of the Cu 3s-Al 2s and S 2p peaks (normalized in intensity) with depth of Cu-S:Al-S 1:1 and 2:5 films are presented. The I-V characteristics of the Mo/CIGSe/ALD-p+ interfacial layer/ZnO:Al samples were compared."
+}

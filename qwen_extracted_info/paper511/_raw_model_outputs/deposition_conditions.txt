@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "320",
+  "pressure": "10~9 Torr",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "30",
+  "purge_time_s": "2",
+  "number_of_cycles": "200",
+  "reactor_type": "UHV",
+  "evidence": "The pressures of TMI (PM), TEI (PE), and TBP (PP) in the growth chamber are controlled using variable leak valves. The #ows of TMI or TEI, as a group III precursor, and TBP, as a group V precursor, are alternately introduced into the growth chamber with a TMI or TEI injection time (tM*, tE*), a TMI or TEI evacuation time ( tM%, tE%), a TBP injection time (tP*), and a TBP evacuation time (tP%), as one injection cycle. The numbers of injection cycles (N#) are 200 and 500."
+}<|im_end|>

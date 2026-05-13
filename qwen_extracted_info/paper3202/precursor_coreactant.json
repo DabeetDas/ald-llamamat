@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "tert-butylimido/tri-diethylamido tantalum (TBTDET)"
+  ],
+  "coreactants": [
+    "methane/hydrogen mixture"
+  ],
+  "purge_gas": [
+    "pure argon"
+  ],
+  "carrier_gas": [
+    "pure argon"
+  ],
+  "evidence": "TBTDET, a liquid precursor at room temperature with high vapor pressure (0.1 Torr at 336 K), was evaporated in a bubbler at 70°C. A mixture of 5 mol % methane in hydrogen and pure hydrogen was used to adjust the methane content in the mixture. Pure argon (99.9999%) was used as a purge gas and as a carrier gas of TBTDET."
+}

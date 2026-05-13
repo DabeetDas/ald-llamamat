@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Octamethyl cyclotetrasiloxane (OMCTS)"
+  ],
+  "coreactants": [
+    "Ar plasma",
+    "CH4 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The OMCTS canister was maintained at 40 °C to maintain a vapor pressure suitable for the ALD process. OMCTS was injected from the showerhead using Ar carrier gas. The SiCOH RPALD recipe proceeds with (1) injecting the OMCTS precursor into the chamber, (2) Ar purge to remove residues and byproducts, (3) Ar or CH4 plasmas, and (4) Ar purge to remove residues and byproducts."
+}

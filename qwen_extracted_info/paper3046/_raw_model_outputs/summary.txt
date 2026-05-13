@@ -1,0 +1,8 @@
+{
+  "target_material": "amorphous silicon (a-Si)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["nickel aminoalkoxide (Ni/dmamb2)", "water (H2O)"],
+  "temperature_range": "575°C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) of nickel oxide to induce crystallization in amorphous silicon thin films. Nickel oxide layers were deposited using nickel aminoalkoxide as a precursor in Ni and water as a precursor in oxygen. The presence of nickel oxide significantly promoted crystallization of a-Si at 575°C under a reducing atmosphere. Even a single ALD layer of nickel oxide was sufficient to crystallize the a-Si thin films. The self-limiting nature of ALD allowed for precise control of the nickel oxide layer, which acted as a catalytic layer for the formation of polycrystalline Si thin films for applications in large-scale flat panel displays.",
+  "evidence": "The crystallization of amorphous Si/H20849a-Si/H20850 thin films was performed using atomic layer deposition /H20849ALD/H20850 of nickel oxide. Nickel oxide layers were deposited using nickel aminoalkoxide as a precursor in Ni and water as a precursor in oxygen. The presence of nickel oxide caused significant crystallization to occur in a-Si at 575°C under a reducing atmosphere. Even one single ALD layer of nickel oxide was high enough to crystallize the a-Si thin films. Self-limiting layer controllability in ALD is useful in providing a catalytic layer for formation of polycrystalline Si thin films for application to large-scale flat panel displays."
+}<|im_end|>

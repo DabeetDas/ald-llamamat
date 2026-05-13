@@ -1,0 +1,11 @@
+{
+  "target_material": "Zr-oxide",
+  "process_type": "remote plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "Zr(N(C2H5)2)4",
+    "O2 remote plasma"
+  ],
+  "temperature_range": "250°C",
+  "summary": "Zr-oxide films were deposited using remote plasma-enhanced atomic layer deposition (PEALD) with Zr(N(C2H5)2)4 as the Zr precursor and O2 remote plasma as the reactant. The process showed low impurity contamination, and the carbon content decreased with increasing rf power. The study focused on understanding the plasma characteristics and reaction mechanisms during Zr-oxide deposition.",
+  "evidence": "Zr-oxide ﬁlm was deposited by remote plasma-enhanced atomic layer deposition ~PEALD! and showed relatively low impurity contamination. Zr-oxide ﬁlms were deposited on p-type Si (100) substrates by remote PEALD using Zr(N(C2H5)2)4 as a Zr-precursor and oxygen remote plasma as a reactant gas source."
+}

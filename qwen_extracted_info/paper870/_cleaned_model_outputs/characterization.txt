@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectivity (XRR)",
+    "X-ray Diffraction (XRD)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Elastic Recoil Detection (ERD)",
+    "In situ spectroscopic ellipsometry",
+    "Electrochemical testing with planar electrodes",
+    "Electrochemical testing with porous electrode",
+    "Cyclic voltammogram",
+    "Impedance measurements",
+    "Scanning Electron Microscopy (SEM)/Energy-Dispersive X-ray Spectroscopy (EDX)"
+  ],
+  "evidence": "Material characterisation. In situ spectroscopic ellipsometry was performed using a J.A. Woollam M-2000 ellipsometer, while fitting was done using the CompleteEASE software. Film thickness was measured on p-type Si(100) using X-ray Reflectivity (XRR). Both XRR and X-ray Diffraction (XRD, in a Bragg–Brentano 𝜃: 𝜃 geometry) were carried out using a Bruker D8 diffractometer using Cu K 𝛼 radiation. X-ray Photoelectron spectroscopy (XPS) was performed using a Thermo Scientific Theta Probe XPS using Al K 𝛼 radiation. Elastic Recoil Detection [ 26] (ERD) was carried out using a 8.0 MeV 35Cl4+ beam, with a sample tilt of 15 ◦ and a scatter angle of 40.5 ◦. Electrochemical testing with planar electrodes . Planar electrochemical tests were performed in a argon filled glovebox... Electrochemical testing with porous electrode . Li(Ni 0.6Mn0.2 Co0.2)O2... The impedance measurements were performed in a two-electrode set-up at a potential of 4.2 V vs. Li +/Li. The surface of the particle was then studied using SEM/EDX to see if deposition on the complex powder surface is possible."
+}

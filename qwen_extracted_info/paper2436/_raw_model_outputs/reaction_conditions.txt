@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "TiCl4 + surface OH* → Ti-OH* + Cl4",
+    "Al(CH3)3 + surface OH* → Al-OH* + 3CH4",
+    "Ti-OH* + H2O → TiO2 + OH*",
+    "Al-OH* + H2O → AlO2- + OH* + H+"
+  ],
+  "surface_mechanism_description": "The ALD process involves the sequential adsorption of precursor molecules onto the surface, followed by a purge step to remove excess precursor. The surface reaction mechanism involves the chemisorption of TiCl4 and Al(CH3)3 onto surface hydroxyl groups, followed by a water pulse to regenerate surface hydroxyls and form the desired oxide phases. The surface reactions are self-limiting, ensuring uniform film growth.",
+  "intermediate_species": [
+    "Ti-OH*",
+    "Al-OH*",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The text describes the ALD process for TiO2 and Al2O3, detailing the chemisorption of TiCl4 and Al(CH3)3 onto surface hydroxyl groups, followed by a water pulse to regenerate surface hydroxyls. The surface reactions are self-limiting, ensuring uniform film growth. The text also mentions the formation of intermediate species such as Ti-OH* and Al-OH* during the ALD process."
+}<|im_end|>

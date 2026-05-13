@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "115",
+  "pressure": "5.0% O2/Ar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Altamira Instruments AMI-100",
+  "evidence": "The H2-TPR measurements were performed with the Altamira Instruments AMI-100 catalyst characterization system. The catalyst samples (30 mg) were flushed with argon and heated from 30 to 115 °C at a rate of 11 °C/min, and the samples were held at 115 °C for 60 min."
+}<|im_end|>

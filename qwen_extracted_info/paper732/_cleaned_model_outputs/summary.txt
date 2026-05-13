@@ -1,0 +1,8 @@
+{
+  "target_material": "tungsten oxide (WO3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["(tBuN)2W(NMe2)2", "H2O"],
+  "temperature_range": "350°C",
+  "summary": "The text describes the use of Atomic Layer Deposition (ALD) to deposit ultra-thin tungsten oxide (WO3) nano-structures on a silicon substrate. The ALD process involves the use of specific precursors, (tBuN)2W(NMe2)2 and H2O, and is performed at a temperature range of 350°C. The study highlights the advantages of ALD in achieving precise control over the thickness and uniformity of the deposited films, which is crucial for applications in nanoelectronics and sensors. The ALD process is shown to produce conformal and pinhole-free films, even on complex substrates, making it suitable for the development of 2D nano-structures with unique properties.",
+  "evidence": "The text states, 'ALD of 2D WO3 was developed on the prepared substrate... (tBuN)2W(NMe2)2 as tungsten precursor and H2O as oxygen precursor were respectively employed.' It also mentions, 'the optimum growth conditions were found as follows: [(tBuN)2W(NMe2)2 pulse 2 s, N2 purge 10 s, H2O pulse 50 ms, N2 flow 5 s without pumping and then 10 s with pumping, T=350°C] yielding a stable WO3 growth (1.01 ± 0.05 Å/cycle).'"
+}

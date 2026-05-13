@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the formation of hafnium silicate at the HfO2/Si interface during annealing, which decomposes into hafnium oxide and silicon oxide at 1000 °C, along with the formation of hafnium silicide. The interdiffusion of hafnium oxide and silicon oxide occurs during annealing, leading to the growth of the interfacial layer.",
+  "intermediate_species": ["Hf–O–Si", "silicon oxide", "hafnium silicate", "hafnium silicide"],
+  "evidence": "The XPS data shows decomposition of the interfacial hafnium silicate layer into hafnium oxide and silicon oxide at 1000 °C along with increasing formation of hafnium silicide. The ToF-SIMS data suggest interdiffusion of the hafnium oxide film and the interfacial silicon oxide during the annealing process."
+}<|im_end|>

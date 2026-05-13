@@ -1,0 +1,11 @@
+{
+  "target_material": "Bi2Te3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "BiCl3",
+    "(Et3Si)2Te"
+  ],
+  "temperature_range": "160−350 °C",
+  "summary": "Bi2Te3 thin films were deposited by atomic layer deposition (ALD) using BiCl3 and (Et3Si)2Te precursors at temperatures ranging from 160 to 350 °C. The films were found to be stoichiometric with low impurity content and exhibited good thermoelectric properties comparable to literature values. The process allows for precise control of film thickness through the number of deposition cycles.",
+  "evidence": "ABSTRACT: Bi2Te3 thin films were deposited by atomic layer deposition (ALD) from BiCl3 and (Et3Si)2Te at 160−300 °C. The process was studied in detail, and growth properties typical of ALD were verified. Films were stoichiometric with low impurity content. The film thickness was easily controlled with the number of deposition cycles. Properties of the ALD Bi2Te3 thin films were found to be comparable to those reported in literature for Bi2Te3 films made by other methods."
+}

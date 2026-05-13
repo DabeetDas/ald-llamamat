@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "TMA + OH* -> Al-O-Al(CH3)2 + CH4"
+  ],
+  "surface_mechanism_description": "The ALD process involves sequential dosing of the wafer with trimethylaluminum (TMA) and water. The TMA molecules chemisorb onto hydroxylated surface sites, forming a monolayer. Water is used as the oxidant, leading to the formation of Al-O-Al bonds and the desorption of methyl groups as methane. The process ensures a continuous monolayer of precursor on the wafer surface, which is crucial for achieving high conformality and uniformity.",
+  "intermediate_species": [
+    "Al-O-Al(CH3)2",
+    "surface hydroxyls (OH*)",
+    "monomethyl aluminum"
+  ],
+  "evidence": "When water is used as the oxidant, OH groups are chemisorbed on the wafer surface that bond with the TMA molecule. This results in a continuous monolayer of precursor on the wafer surface. The bonding ensures that the precursor is not desorbed from the wafer during the purge step that reduces precursor concentration in the gas phase to trace levels before the introduction of the oxidant."
+}<|im_end|>

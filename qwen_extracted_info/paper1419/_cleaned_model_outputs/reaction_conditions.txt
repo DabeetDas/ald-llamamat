@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth of SrS and BaS thin films via ALD involves the reaction of metal precursors with H2S. The surface reaction mechanism includes the formation of surface -SH groups, which are then replaced by sulfur atoms. The reaction of the metal precursor with H2S leads to the formation of sulfide films. The surface -SH groups decompose into -S groups, leaving the surface covered with sulfur. The growth rate is constant in a temperature range where the surface termination does not change, indicating self-limiting surface reactions.",
+  "intermediate_species": ["-SH groups", "surface -S groups"],
+  "evidence": "The surface reaction mechanism involves the formation of surface -SH groups, which are then replaced by sulfur atoms. The reaction of the metal precursor with H2S leads to the formation of sulfide films. The surface -SH groups decompose into -S groups, leaving the surface covered with sulfur. The growth rate is constant in a temperature range where the surface termination does not change, indicating self-limiting surface reactions."
+}

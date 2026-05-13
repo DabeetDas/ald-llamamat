@@ -1,0 +1,11 @@
+{
+  "target_material": "In2S3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "indium acetylacetonate (In(acac)3)",
+    "H2S"
+  ],
+  "temperature_range": "130–260°C",
+  "summary": "The study focuses on the atomic layer deposition (ALD) of In2S3 thin films using indium acetylacetonate and H2S precursors. The process was optimized for temperature and precursor conditions to achieve a maximum growth rate of 0.7 Å per cycle at 180°C. The films were characterized for structural, optical, and electrical properties, showing good performance as buffer layers for solar cells.",
+  "evidence": "An increased attention is devoted to interfacial In2S3 thin films because of their potential application as a new generation of buffer layer in copper indium gallium diselenide (CIGS)-based solar cells. In this paper, thin films of In2S3 were deposited on soda lime glass and SnO2-coated glass using indium acetylacetonate (In(acac)3) and H2S precursors by atomic layer deposition (ALD). The effect of temperature on the film kinetics has been studied. In a temperature window between 130 and 260°C, a maximum growth rate of about 0.7 Å per cycle is obtained at 180°C. The ALD-In2S3 thin films are crystallised in a tetragonal form with band gap values of about 2.7 eV. Electrical properties have been addressed by using impedance measurements on semiconductor electrolyte junctions. The films are n-type semiconductors with a doping level around 1016–1017 cm−3 and possess a good blocking behaviour under reverse bias."
+}

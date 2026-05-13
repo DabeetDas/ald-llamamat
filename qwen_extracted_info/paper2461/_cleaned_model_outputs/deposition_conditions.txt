@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 820,
+  "pressure": "10 —10 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 18,
+  "reactor_type": "Cambridge NanoTech Savannah",
+  "evidence": "Multilayer Si deposition was performed by atomic layer epitaxy, i.e., cyclic disilane adsorption at -340 K followed by thermal conversion at 820 K. For up to 18 cycles, the resulting surface consists of Ge only."
+}

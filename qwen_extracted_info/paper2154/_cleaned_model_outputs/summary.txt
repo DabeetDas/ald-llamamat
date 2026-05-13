@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "PEALD",
+  "main_precursors": ["isopropylimido (bisethylmethylamido)tantalum", "NH* radicals"],
+  "temperature_range": "400 °C",
+  "summary": "The study investigates the electrical properties of germanium/metal-oxide gate stacks with atomic layer deposition (ALD) grown hafnium dioxide (HfO2) and plasma-synthesized interface layers. The focus is on the impact of different interface layers, such as GeO2, GeON, and TaON, on the electrical characteristics of MOS capacitors. The results show that the selection of the interface layer significantly influences the electrical properties of germanium MOS capacitors.",
+  "evidence": "Germanium MOS capacitors with a PEALD-grown TaON interface layer showed very promising electrical properties. These results indicate that the selection of interface layer between high-k gate dielectric and germanium surface strongly influences germanium MOS capacitor electrical properties."
+}

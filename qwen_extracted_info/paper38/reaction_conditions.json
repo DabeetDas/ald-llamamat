@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves the selective swelling of P2VP domains with ethanol to convert them into mesopores, while the PS matrix undergoes reconstruction to accommodate the increased volume of the swollen P2VP domains. The ALD process then deposits ZnO on the walls of the internal mesopores.",
+  "intermediate_species": [
+    "P2VP domains",
+    "swollen P2VP domains",
+    "mesopores"
+  ],
+  "evidence": "The glassy PS matrix undergoes reconstruction processes to accommodate the increased volume of the swollen P2VP domains and retains its altered shape when the swollen P2VP domains collapse upon drying. The mesoscopic polymeric scaffold surrounding the internal mesopores of the PS-b-P2VP nanorods is permeable to the ALD precursors, so that even the walls of discrete internal cavities can be coated."
+}

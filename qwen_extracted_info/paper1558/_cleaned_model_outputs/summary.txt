@@ -1,0 +1,8 @@
+{
+  "target_material": "Silica",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "175 OC and 450 OC",
+  "summary": "The study investigates the chemisorption of TiCl4 on silica at 175 and 450 OC using atomic layer epitaxy (ALE) reactions. The reactions were analyzed using FTIR spectroscopy, NMR, and etching experiments. At 175 OC, TiCl4 reacts with OH groups of silica, forming amorphous titanium species, while at 450 OC, agglomeration into TiO2 with anatase and rutile structures occurs. The Cl/Ti ratio remains constant at 2, indicating chlorination rather than bifunctional reaction. The study also explores the role of H-bonded OH groups and the effect of preheat temperature on reaction mechanisms.",
+  "evidence": "The atomic layer epitaxy (ALE) reactions, i.e., the saturating gas-solid reactions of TiCl4 at 175 and 450 OC with silica preheated at 200-820 OC, were studied by nuclear magnetic resonance and Fourier transform infrared spectroscopy. The reaction of TiCl4 with silica at 175 OC led to the formation of amorphous titanium species, while at 450 OC, agglomeration into TiO2 with anatase and rutile structures occurred. A constant Cl/Ti ratio of 2 was obtained independent of the preheat temperature of silica, indicating chlorination rather than bifunctional reaction."
+}

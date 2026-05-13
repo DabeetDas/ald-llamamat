@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 100,
+  "density_g_cm3": 2.8,
+  "refractive_index": "2.16",
+  "surface_roughness_nm": null,
+  "crystal_phase": "",
+  "evidence": "Film density is determined using X-Ray Reflectivity (XRR) for PECVD SiN is 2.5 g/cm³ whereas PEALD SiN films have a density of 2.8 g/cm³. Refractive index for 300◦C and 400◦C films are ∼2.16 whereas the 300◦C comp. and 400◦C comp. films have slightly lower refractive indexes of 2.04 and 2.06, respectively."
+}

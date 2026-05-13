@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "Methyltrioxorhenium (ReO3Me)",
+    "Trimethylaluminum (TMA)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The growth of rhenium aluminum oxide thin films was achieved using methyltrioxorhenium (ReO3Me) as the rhenium precursor and trimethylaluminum (TMA) as the co-reactant. The ALD process involved alternating doses of ReO3Me and TMA, with the ReO3Me pulse time and purge time specified as 2s and 30s, respectively, and the TMA pulse time and purge time as 0.015s and 30s. The purge gas used was N2."
+}

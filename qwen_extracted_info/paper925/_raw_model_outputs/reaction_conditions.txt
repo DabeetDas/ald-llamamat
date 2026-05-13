@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the zero-valent Ru precursor (EBBDRu) followed by the reaction with O2 molecules. The Ru precursor is oxidized to form RuO2, which is facilitated by the O2 pulsing time and the absence of nitrogen dilution. The growth rate is enhanced due to the high adsorption probability of the precursor and its reactivity with O2.",
+  "intermediate_species": ["Ru precursor (EBBDRu)", "O2 molecules", "RuO2"],
+  "evidence": "The surface reaction mechanism involves the adsorption of the zero-valent Ru precursor (EBBDRu) followed by the reaction with O2 molecules. The Ru precursor is oxidized to form RuO2, which is facilitated by the O2 pulsing time and the absence of nitrogen dilution. The growth rate is enhanced due to the high adsorption probability of the precursor and its reactivity with O2."
+}<|im_end|>

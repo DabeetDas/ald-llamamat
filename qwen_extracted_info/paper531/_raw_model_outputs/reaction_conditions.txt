@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "n(OH)2(s) + Ti(OCH2CH3)4(g) -> (O2)nTi(OCH2CH3)4-2n(s) + nCH3CH2OH(g)",
+    "2(O2)nTi(OCH2CH3)4-2n(s) + (4 - 2n)H2O(g) -> 2(O2)nTi(OH)4-2n(s) + (4 - 2n)CH3CH2OH(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between titanium ethoxide and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Surface hydroxyls",
+    "Surface intermediate species",
+    "Ligands (OCH2CH3)"
+  ],
+  "evidence": "The chemisorption of titanium ethoxide can be described as n(2OH)(s) + Ti(OCH2CH3)4(g) -> (2O2)nTi(OCH2CH3)4-2n(s) + nCH3CH2OH(g). The following H2O pulse should result in the hydrolysis of the surface intermediates and recover the concentration of the hydroxyl groups on the film surface. The reaction can be written as 2(O2)nTi(OCH2CH3)4-2n(s) + (4 - 2n)H2O(g) -> 2(O2)nTi(OH)4-2n(s) + (4 - 2n)CH3CH2OH(g)."
+}<|im_end|>

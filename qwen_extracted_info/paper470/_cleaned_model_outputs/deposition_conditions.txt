@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150}225",
+  "pressure": "30 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "3-5",
+  "number_of_cycles": null,
+  "reactor_type": "horizontal quartz reactor",
+  "evidence": "Supply duration for DMZn (tZ/) and H2Se (tS%) was 3 s. The total H2 #ow rate was #xed at 2.0 l/min, and the pressure in the reaction chamber was set at 30 Torr. Fig. 4 shows the dependence of the growth rate on purge H2 duration. It is clearly shown that ALE growth can be achieved in a H2 purge duration (t163’%) range between 3 and 5 s."
+}

@@ -1,0 +1,13 @@
+{
+  "target_material": "Palladium (Pd) nanoparticles",
+  "process_type": "ABC-type atomic layer deposition (ALD)",
+  "main_precursors": [
+    "Pd(hfac)2",
+    "trimethylaluminum (TMA)",
+    "titanium isopropoxide (TTIP)",
+    "water"
+  ],
+  "temperature_range": "80 8C to 110 8C",
+  "summary": "The study describes the synthesis of highly uniform ultrafine supported metal nanoparticles using low-temperature ABC-type atomic layer deposition (ALD). The process involves the sequential exposure of a metal precursor (Pd(hfac)2), a reagent (TMA or TTIP), and water to grow both protected metal nanoparticles and support simultaneously. The protective ligands are removed by calcination or reduction to activate the nanoparticles. The method allows for the creation of nanoparticles with a narrow size distribution on high surface area supports, regardless of loading.",
+  "evidence": "Here we report that highly uniform, ultrafine supported metal nanoparticles, regardless of loading, can be directly synthesized on high surface area supports by growing both protected metal nanoparticles and support simultaneously using low temperature, ABC-type atomic layer deposition. [...] The presence and removal of protective ligands on the as-prepared samples after formalin exposure are indicated by a strong increase in the CO chemisorption capacity. [...] To the best of our knowledge, this is the first example of directly synthesizing highly uniform ultrafine supported metal nanoparticles on high surface area supports, regardless of loading."
+}

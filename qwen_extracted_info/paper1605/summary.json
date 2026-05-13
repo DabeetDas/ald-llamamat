@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "stop-flow ALD",
+  "main_precursors": [
+    "Titanium tetrachloride (TiCl4)",
+    "Deionized water (H2O)"
+  ],
+  "temperature_range": "70 °C",
+  "summary": "The study investigates the kinetics of stop-flow atomic layer deposition (ALD) for high aspect ratio (AR) template filling using TiO2 in opal photonic crystal templates. The stop-flow process, which includes fill-hold-purge steps, is compared with continuous flow pulse-purge processes. The study highlights the advantages of the stop-flow process in achieving homogeneous and complete filling at lower cycle times, particularly due to higher Knudsen flow rates of precursor gases. The research also explores the effect of process parameters on deposition uniformity and the role of photonic band gap (PBG) measurements in quantifying filling kinetics.",
+  "evidence": "Atomic layer deposition (ALD) is shown as a unique method to produce high aspect ratio (AR) nanostructures through conformal filling and replication of high AR templates. The stop-flow process is often used as an alternative to the conventional continuous flow process to obtain high step coverage. It was found that the stop-flow process attains higher Knudsen flow rates of precursor gases, thereby achieving homogeneous and complete filling at considerably lower cycle time."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylgallium (TMG)"],
+  "coreactants": ["AsH3"],
+  "purge_gas": ["H2"],
+  "carrier_gas": [],
+  "evidence": "Flows of trimethylgallium (TMG) and AsH3 (20% in H2) were switched on and off alternately, each lasting for one second. In the interval between the flow of source gases, the growth chamber was purged with H2 for 1 s in order to minimize gas mixing."
+}<|im_end|>

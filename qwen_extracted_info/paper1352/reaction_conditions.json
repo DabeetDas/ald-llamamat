@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Sn(OH)2 + Sn precursor -> 2SnO + H2",
+    "Sn precursor + O3 -> SnO2 + byproducts"
+  ],
+  "surface_mechanism_description": "The formation of SnO and SnO2 films exhibited typical surface-limiting reaction characteristics, although their growth behaviors differ from one another. The difference in growth behavior of the SnO and SnO2 films can be attributed to the stability of ozone and water on the SnO2 and SnO films. The DFT calculations revealed that the oxidative power of ozone and water, and their chemical affinity to the preformed SnO2 and SnO films determine the growth behavior of SnOx films.",
+  "intermediate_species": [
+    "Sn(OH)2",
+    "SnOOH",
+    "SnO2-like local structural motif"
+  ],
+  "evidence": "The DFT calculations revealed that the oxidative power of ozone and water, and their chemical affinity to the preformed SnO2 and SnO films determine the growth behavior of SnOx films. The formation of a SnO2 unit is thermodynamically driven and simple. The sequential reaction between two Sn precursors and two water molecules. Because of the relatively weaker oxidation power of water, two water molecules are required to break the two SnON bonds of a Sn precursor. The further interaction between a preformed Sn(OH)2 and a Sn precursor facilitates the dehydrogenation of a Sn(OH)2 unit and the subsequent production of a 2SnO unit."
+}

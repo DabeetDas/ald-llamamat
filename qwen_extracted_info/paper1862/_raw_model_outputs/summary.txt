@@ -1,0 +1,8 @@
+{
+  "target_material": "LaMnO3",
+  "process_type": "ALE",
+  "main_precursors": ["La(thd)3", "Mn(thd)3", "ozone"],
+  "temperature_range": "200–400 °C",
+  "summary": "The study demonstrates the deposition of LaMnO3 thin films using atomic layer epitaxy (ALE) with La(thd)3 and Mn(thd)3 precursors and ozone. The process shows good stoichiometry control between 300–400°C, with crystalline films formed above 350°C. Amorphous films can be deposited at as low as 250°C.",
+  "evidence": "Deposition of thin films of LaMnO3 from b-diketonate-type (thd) precursors and ozone in an ALE reactor has been demonstrated. At low temperatures, the Mn–O growth from the Mn(thd)3 precursor is retarded by the growth of the La–O deposit. By tuning of the pulsing ratio, full control of the stoichiometry of the deposited film is achieved in the temperature interval 300–400°C. LaMnO3 can be deposited at temperatures as low as 250°C, but crystalline films can be achieved at temperatures above 350°C."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "TbScOx",
+  "process_type": "ALD",
+  "main_precursors": ["Sc(thd)3", "Tb(thd)3", "ozone"],
+  "temperature_range": "300 ◦C",
+  "summary": "TbScOx thin films were deposited by atomic layer deposition (ALD) using β-diketonate-based precursors and ozone at 300 ◦C. The films were investigated for their structural and electrical properties as a function of annealing temperature. The films showed good thermal stability up to 600 ◦C and a dielectric constant of 16-18. However, annealing at 900 ◦C caused intermixing at the TbScOx/SiO2 interface and reduced the dielectric constant to 12. The films remained stable on Si3N4 up to 900 ◦C, indicating their potential for use as a high-k dielectric in charge trap memory devices.",
+  "evidence": "Films were grown using β-diketonate-based precursors and ozone at 300 ◦C. The thermal stability of ALD TbScOx films and of their interfaces with SiO2 and Si3N4 is preserved after thermal treatment at 600◦C, and their electrical characterization shows well-shaped capacitance-voltage curves, from which a k value of 16-18 is extracted. Annealing at 900 ◦C largely affects the TbScOx/SiO2 interface, causing the formation of an intermixed layer and silicon diffusion in the film resulting in a reduction of its k value down to 12. On the contrary TbScOx/Si3N4 stack results stable upon 900 ◦C thermal treatment, indicating the feasibility for terbium scandate integration as high k dielectric in charge trap memory devices."
+}

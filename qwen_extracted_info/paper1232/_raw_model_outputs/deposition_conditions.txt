@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 125,
+  "pressure": "10^-7 mbar",
+  "precursor_pulse_time_s": 8,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 10,
+  "number_of_cycles": 200,
+  "reactor_type": "high vacuum ALD reactor",
+  "evidence": "The ALD depositions were performed in an experimental high vacuum ALD reactor with a base pressure of 10^-7 mbar. This pressure is achieved by using a turbomolecular pump in combination with a rotary vane backing pump. Samples were resistively heated inside the reactor chamber to a temperature of 125°C, and it was verified that RuO4 did not thermally decompose at this temperature."
+}<|im_end|>

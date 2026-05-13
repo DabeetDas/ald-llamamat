@@ -1,0 +1,8 @@
+{
+  "target_material": "Ta2O5, ZrO2, Ta–Nb–O, Zr–Al–O, Zr–Al–Nb–O",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Ta(OC2H5)5", "Nb(OC2H5)5", "Al(CH3)3", "water vapors", "ZrCl4", "HF"],
+  "temperature_range": "300–350 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of Ta2O5, ZrO2, Ta–Nb–O, Zr–Al–O, and Zr–Al–Nb–O nanolayered dielectrics on Si(100) substrates. The equivalent oxide thickness (CET) and dielectric properties were evaluated, with the lowest CET achieved for Ta2O5 and Zr–Al–Nb–O films. The process involved varying pulsing ratios and precursor combinations to tailor the physical and electrical properties of the films.",
+  "evidence": "The films were grown in an ALD reactor (ASM-Microchemistry) onto (100)p-Si substrates at 300–350 °C. Native SiO2 was etched in HF/ZrCl4. Ta(OC2H5)5, Nb(OC2H5)5, and Al(CH3)3 were used as precursors. The equivalent oxide thickness of Ta2O5 based capacitors was between 1 and 3 nm. The study aimed at the ALD processing of Ta2O5, Ta–Nb–O, Zr–Al–O, and Zr–Al–Nb–O films and investigation of the effect of layer thickness on their dielectric performance."
+}

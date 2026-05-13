@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-230",
+  "pressure": "0.9 Torr",
+  "precursor_pulse_time_s": 1.5,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 60,
+  "number_of_cycles": 100,
+  "reactor_type": "hotwall vacuum chamber",
+  "evidence": "The ALD films prepared from Me3Al and NH3 contained from 4 to 7 at % of carbon and hydrogen impurities, presumably as a result of thermal decomposition of Me3Al and low reactivity of ammonia. The results shown in Fig. 1 were obtained at a varied Al2(NMe2)6 exposure time t1 (x, s), purge times t2 = 60 and t4 = 60 s, and NH3 exposure time t3 = 1 s; i.e., x /60/1/60 per ALD cycle. The AlN deposition rate reached a plateau (~0.87 Å per cycle) at an Al2(NMe2)6 exposure time of ~1 s. The setup ALD apparatus was equipped with a hotwall vacuum chamber where a dense inert gas flow was supplied. Nitrogen of ultrapure grade (99.999%) was used as carrier gas. The nitrogen pressure in the ALD reactor was maintained within 0.9 Torr (~120 Pa)."
+}

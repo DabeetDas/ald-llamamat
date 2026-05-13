@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Termination by -H and -NH species of surface groups limiting BTBAS precursor adsorption is believed to be the main mechanism for this suppressed growth. The process showed linear growth with no growth delay at all table temperatures. The use of H-containing plasmas (e.g., H2−N2 plasmas or NH3 plasmas) led to very low growth-per-cycle (GPC) values of 0.05 ± 0.02 Å at both 200 and 500 °C.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "ligands"
+  ],
+  "evidence": "The use of H-containing plasmas (e.g., H2−N2 plasmas or NH3 plasmas) led to very low growth-per-cycle (GPC) values of 0.05 ± 0.02 Å at both 200 and 500 °C. Note that termination by -H and -NH species of surface groups limiting BTBAS precursor adsorption is believed to be the main mechanism for this suppressed growth."
+}

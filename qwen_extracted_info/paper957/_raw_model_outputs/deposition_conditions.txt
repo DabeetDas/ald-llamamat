@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "300",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "20",
+ "number_of_cycles": null,
+ "reactor_type": "",
+ "evidence": "Atomic layer deposition of aluminum oxide was performed by introducing sequentially trimethylaluminum (TMA) and deuterium oxide (D2O) precursors to the silicon nitride surface maintained at 300 /C176 C, separated by a 20 min nitrogen gas purge to remove residual precursor and reaction products."
+}<|im_end|>

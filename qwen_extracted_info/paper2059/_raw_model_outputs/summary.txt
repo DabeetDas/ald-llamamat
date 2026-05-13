@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["HfCl4", "H2O"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the interfacial characteristics of HfO2 grown on nitrided Ge (100) substrates using atomic layer deposition (ALD). The process involves depositing a 4.4–4.6-nm-thick HfO2 layer at 300 °C using alternating surface-saturating reactions of HfCl4 and H2O. The nitridation of the Ge substrate at 600 °C in NH3 ambient before HfO2 deposition improves the electrical properties by reducing Hf diffusion into the Ge substrate. The study highlights the role of the GeOxNy interfacial layer in blocking Hf diffusion and enhancing the dielectric integrity.",
+  "evidence": "Atomic-layer deposited HfO2 on a chemical oxide-terminated Ge (100) surface exhibited poor capacitance–voltage behavior; however, direct substrate surface nitridation at 600 °C in NH3 ambient before HfO2 deposition improved the carrier trapping characteristics. Diffusion of metal impurities (including Hf) into the interfacial oxide/Ge-substrate may be an important source of the measured degradation of electrical properties. MEIS results suggested that the GeOxNy interface layer may inhibit Hf diffusion into the underlying semiconductor at the temperatures investigated."
+}<|im_end|>

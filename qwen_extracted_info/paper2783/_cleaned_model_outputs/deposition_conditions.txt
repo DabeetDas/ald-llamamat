@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "170-220",
+ "pressure": "10–1 Pa",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "4, 8, 12",
+ "reactor_type": "flow-vacuum unit",
+ "evidence": "The thickness of the layer was controlled by varying the number of cycles of sequential processing of the matrix with TiCl or CrO Cl and H O or CH OH vapors."
+}

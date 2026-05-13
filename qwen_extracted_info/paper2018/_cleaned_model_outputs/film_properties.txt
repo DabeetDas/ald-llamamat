@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 101.4,
+  "density_g_cm3": 3.5,
+  "refractive_index": "1.64 at 633 nm",
+  "surface_roughness_nm": 0.5,
+  "crystal_phase": "Amorphous",
+  "evidence": "The QCM results indicate that the Al2O3 ALD growth rate is 1.07 Å/cycle. In addition, the QCM measurements show that the Al2O3 ALD growth is extremely linear and occurs in discrete steps. The QCM pulse shape for the Al2O3 ALD shown in Fig. 6 agrees with previously reported QCM measurements. A majority of the mass increase occurs during the TMA exposure portion of the ALD cycle. A slight net increase in mass also occurs following the H2O exposure. The slight decrease in mass following the end of the H2O exposure may result from the recombinative desorption of surface hydroxyl groups or the desorption of molecular water. The 1.2 Å/cycle Al2O3 growth rate shown in Fig. 7 following saturation reactant exposures also agrees with previous measurements. Earlier ellipsometric investigations measured an Al2O3 growth rate of 1.1 Å/cycle under molecular flow conditions. Additional studies obtained a growth rate of ;1.2 Å/cycle from optical reflectivity measurements under viscous flow conditions using 3.5 s H2O exposures. In addition, the saturation growth rate of 1.2 Å/cycle agrees well with the 1.29 Å/cycle growth rate measured using ex situ ellipsometry and stylus profilometry for Al2O3 films deposited in the ALD flow reactor using the timing sequence 1,5,1,5."
+}

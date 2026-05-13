@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "(tert-butylimido)-tris (diethylamino)-niobium (TBTDEN)"
+  ],
+  "coreactants": [
+    "remote hydrogen plasma"
+  ],
+  "purge_gas": [
+    "argon"
+  ],
+  "carrier_gas": [],
+  "evidence": "The precursors used were (tert-butylimido)-tris (diethylamino)-niobium (TBTDEN) (supplied by Heraeus Precious Metals GmbH, Leverkusen, Germany) and remote hydrogen plasma composed to a cycle. Then, the residual TBTDEN is purged with argon to avoid additional chemical vapor deposition."
+}

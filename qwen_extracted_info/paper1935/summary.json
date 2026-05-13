@@ -1,0 +1,11 @@
+{
+  "target_material": "titanium carbonitride",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "TiCl4",
+    "AlH2(tBuNCH2CH2NMe2)"
+  ],
+  "temperature_range": "220 –400 °C",
+  "summary": "The study describes the thermal ALD growth of titanium carbonitride films using TiCl4 and AlH2(tBuNCH2CH2NMe2) as precursors. The films exhibit high growth rates, low resistivity, and self-limited surface reactions, with low Al content despite deposition temperatures above the thermal decomposition point of the Al dihydride precursor.",
+  "evidence": "ALD film growth experiments using TiCl4 and AlH2(tBuNCH2CH2NMe2) produced titanium carbonitride films with a high growth rate of 1.6 –2.0 Å per cycle and resistivities around 600 μΩ cm within a very wide ALD window of 220 –400 °C. Importantly, film growth proceeded via self-limited surface reactions, which is the hallmark of an ALD process."
+}

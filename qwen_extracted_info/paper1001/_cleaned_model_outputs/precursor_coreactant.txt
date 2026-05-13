@@ -1,0 +1,7 @@
+{
+  "precursors": ["PdII(hfac)2"],
+  "coreactants": ["H2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "During each deposition for Pd, 55 sccm Ar (99.999%) was flowed as a purge gas, 13 sccm Ar as a carrier gas for Pd II(hfac)2, and 105.0 sccm H2 as a reducing gas."
+}

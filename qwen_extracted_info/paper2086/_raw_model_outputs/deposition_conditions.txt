@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 10,
+  "reactor_type": "radical-enhanced ALD",
+  "evidence": "To deposit an Er-doped Y2O3 film with a higher Er concentration, the deposition was carried out with one cycle of Y2O3 alternating with five cycles of Er2O3. A pronounced increase in the Er 4d peak intensity with the corresponding decrease in the Y 3d peak intensity was observed. Specifically, the amount of Er increased from 9 to 15 at. %, while that of Y decreased from 25 to 18 at. %."
+}<|im_end|>

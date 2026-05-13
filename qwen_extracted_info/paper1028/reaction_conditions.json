@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface states present in the surfaces of the as-synthesized GaN nanowires are caused by dangling bonds, defects, or impurities. For the GaN nanowires with oxidized surface, the surface states are present within the Ga2O3 layer, and the potential barriers of the Ga2O3 layer do not allow the photoexcited excitons to reach the fixed charges. The Al2O3-coating passivates some of the surface states.",
+  "intermediate_species": [
+    "Ga2O3",
+    "Al2O3"
+  ],
+  "evidence": "The surface states present in the surfaces of the as-synthesized GaN nanowires are caused by dangling bonds, defects, or impurities. For the GaN nanowires with oxidized surface, the surface states are present within the Ga2O3 layer, and the potential barriers of the Ga2O3 layer do not allow the photoexcited excitons to reach the fixed charges. The Al2O3-coating passivates some of the surface states."
+}

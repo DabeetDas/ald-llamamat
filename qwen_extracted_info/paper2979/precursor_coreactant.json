@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "trimethylaluminum (TMA)"
+  ],
+  "coreactants": [
+    "oxygen radicals"
+  ],
+  "purge_gas": [
+    "argon"
+  ],
+  "carrier_gas": [
+    "argon"
+  ],
+  "evidence": "Aluminum oxide was deposited by radical enhanced atomic layer deposition using trimethylaluminum ~TMA! and oxygen radicals in the temperature range 25-300°C. The radicals were produced by dissociating oxygen gas in a remote microwave plasma discharge. Oxygen was mixed with argon which was also used as the carrier and purge gas."
+}

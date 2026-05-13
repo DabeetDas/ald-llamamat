@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of the cyclopentadienyl-type yttrium precursors (Cp3Y and (CpCH3)3Y) on the substrate surface, followed by the reaction with water. The self-limiting growth mode is achieved through the sequential saturation of precursor pulses and purging with nitrogen, leading to the formation of Y2O3 films with low impurity levels.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The text describes the use of cyclopentadienyl-type compounds as precursors for Y2O3 thin films via ALD, with water as the oxygen source. It mentions the self-limiting growth mode and the formation of Y2O3 films with low impurity levels, indicating the reaction steps and intermediate species formed on the surface during the pulse and purge cycles."
+}<|im_end|>

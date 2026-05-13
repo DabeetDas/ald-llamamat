@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 50,
+  "density_g_cm3": 3100,
+  "refractive_index": null,
+  "surface_roughness_nm": 2.8,
+  "crystal_phase": "Amorphous",
+  "evidence": "The surface roughness was measured by using a PSIA XE-100 atomic force microscope (AFM). The surface topography was measured by using a PSIA XE-100 atomic force microscope (AFM). Non-contact mode and standard types of AFM tips were used in the measurements. The saturation profiles of ALD Al2O3 films were measured by a spectroscopic reflectometer line scan (FilmTek 2000M wavelength range of 380 to 800 nm). The line scans began outside the channel in Region I of Fig. 3 ( ca. 13 mm before channel entry). The total scan length was 198 or 398 mm with a step of 2 mm, and 100 to 200 data points were obtained. If not otherwise stated, a 50/C2 objective lens with an estimated spot size of 5–6 mm was used. To study the effect of spot size on the saturation profile, 10/C2 and 5 /C2 objective lenses with an estimated spot size of 25 and 50 mm, respectively, were used. To analyze the repeatability of the measurement at one location and within-chip reproducibility, the reflectometry measurements were repeated several times on each of the lateral lengths (pillar layout v1b). The thickness of the films coated on LHAR channels having different lateral lengthsL (0.1 to 5 mm) was measured several times. Then we excluded outliers and averaged the thickness except for the Series B in Table 1 for which L of 5 mm data was used. This method gave us more representative results than treating single thickness scans."
+}<|im_end|>

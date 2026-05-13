@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["HfCl4", "O3", "H2O"],
+  "temperature_range": "300 °C, 375 °C",
+  "summary": "The study investigates the effects of using different oxygen precursors (O3 and H2O) on the electrical and structural properties of HfO2 films grown by atomic layer deposition (ALD) on Ge substrates. The results show that films grown with O3 are smoother, have lower contaminant content, and exhibit better electrical characteristics compared to those grown with H2O. However, the use of O3 leads to the formation of a 2 nm thick interfacial layer (IL) at the HfO2/Ge interface. The study also highlights the importance of the oxygen precursor in determining the microstructure, surface morphology, and electrical properties of the HfO2 films.",
+  "evidence": "We report on the growth by atomic layer deposition of HfO2 films on HF-last treated Ge substrates using HfCl4 as a Hf source and either O3 or H2O as oxygen sources. The choice of the oxygen precursor strongly influences the structural, chemical, and electrical properties of the HfO2 films: Those grown using H2O exhibit local epitaxial growth, a large amount of contaminants such as chlorine and carbon, and a large frequency dispersion of the capacitance-voltage characteristics. Films grown using O3 are good insulators and exhibit well-shaped C–V curves with a minimum frequency dispersion of the accumulation capacitance. Moreover, they are smoother, less crystallized, and with a lower contaminant content than those grown using H2O. However, the use of O3 leads to the formation of a 2 nm thick layer, possibly GeOx, at the HfO2/Ge interface."
+}<|im_end|>

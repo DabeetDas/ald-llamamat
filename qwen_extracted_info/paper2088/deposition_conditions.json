@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "remote plasma ALD (RPALD) and direct plasma ALD (DPALD)",
+  "evidence": "The HfO2 films of about 5.0-nm-thick films were prepared at a substrate temperature of 250 °C."
+}

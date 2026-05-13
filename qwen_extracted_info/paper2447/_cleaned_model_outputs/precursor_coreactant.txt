@@ -1,0 +1,7 @@
+{
+  "precursors": ["(t-butylimido) tris(diethyamido) niobium(V) (TBTDEN)", "tetrakis (dimethylamido) titanium (TDMAT)"],
+  "coreactants": ["H2/N2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "TBTDEN and TDMAT, supplied by Strem Chemicals, were used as the niobium and titanium precursors, respectively. TDMAT was maintained at 75 ◦C. TBTDEN was maintained at 100 ◦C and delivered to the system with a precursor Boost TM system 35. The Boost system introduces a charge of argon gas into the precursor cylinder prior to pulsing the precursor into the ALD reactor, substantially improving the transfer of low vapor pressure material from the cylinder to the substrate surface."
+}

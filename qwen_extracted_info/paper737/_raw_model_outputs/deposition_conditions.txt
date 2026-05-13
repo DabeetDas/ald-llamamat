@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "120 /C176C",
+  "pressure": "1.0 Torr",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 8,
+  "number_of_cycles": "50–200",
+  "reactor_type": "cross-flow",
+  "evidence": "The ALD reaction byproducts, together with the remaining precursors, were purged and pumped out the growth chamber through an outlet located at the back edge of the circular deposition area using a rotary oil pump. To grow the MoO3, a typical ALD sequence of |0.5 s O 3 pulse/2 s dwelling/8 s N 2 purge/2 s Mo(CO) 6 pulse/2 s dwelling/8 s N 2 purge| was used and periodically repeated. The flow rate of nitrogen was 30 sccm, which results in a base chamber pressure of /C24 1.0 Torr during the ALD process."
+}<|im_end|>

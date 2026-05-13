@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Applied Materials 300mm ALD chamber",
+  "evidence": "The development is done in an Applied Materials 300mm ALD chamber. Precursors and H2O are introduced into the process chamber separately and sequentially according to the different ALD pulse settings."
+}<|im_end|>

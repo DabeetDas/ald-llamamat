@@ -1,0 +1,8 @@
+{
+  "target_material": "CdSe",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": ["Cd", "Se"],
+  "temperature_range": "300°C",
+  "summary": "The study describes the growth of self-organized CdSe quantum dots (SQDs) on a ZnSe (1 1 1)A surface using atomic layer epitaxy (ALE). The formation of coherently strained islands occurs well below the critical thickness due to enhanced surface diffusion. The emission energy corresponds to an alloy with approximately 50% Zn, and the wetting layer is estimated to be 1 ML with a Cd concentration of about 30%.",
+  "evidence": "Self-organized CdSe quantum dots (SQDs) were grown by atomic layer epitaxy (ALE). ... The CdSe SQDs were deposited by means of atomic layer epitaxy (ALE) at 300°C ... The emission energies suggest a Zn concentration of the order of 50%. ... The wetting layer observed from our structures seems to consist of only 1 ML with a Cd concentration of about 30%."
+}<|im_end|>

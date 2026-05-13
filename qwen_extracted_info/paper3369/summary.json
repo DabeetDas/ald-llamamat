@@ -1,0 +1,13 @@
+{
+  "target_material": "Nickel-Aluminum Oxide (Ni-Al-O)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "water (H2O)",
+    "nickelocene (NiCp2)",
+    "ozone (O3)"
+  ],
+  "temperature_range": "200°C",
+  "summary": "The study demonstrates the first report of nickel-aluminum oxide (Ni-Al-O) films deposited by atomic layer deposition (ALD) using nickelocene-ozone and trimethylaluminum-water as reactants. The work investigates the nucleation effects during the deposition of ternary materials and shows that the growth per cycle (GPC) does not follow the simple combination of GPCs observed for binary ALD processes. The study also explores the use of Al-doped NiO as a hole-selective transport layer in perovskite solar cells, showing that Al doping improves power conversion efficiency.",
+  "evidence": "Atomic layer deposition (ALD) has become an important technique to synthesize a wide variety of materials on the sub-nanometer length scale. Expanding the library of ALD into ternary materials is vital for applications in which ternary materials allow for tuning of physical, optical, and electronic properties. In this work, we demonstrate the first report of nickel-aluminum oxide (Ni-Al-O) films deposited by atomic layer deposition (ALD), using nickelocene-ozone and trimethylaluminum-water as reactants. While deposition of a wide range of compositions is achieved, the observed growth per cycle (GPC) did not follow the simple combination of GPCs observed for the binary ALD processes. Nucleation studies performed to better understand this behavior reveal that the deposition of aluminum oxide is greatly enhanced on a NiO surface prepared by nickelocene and ozone."
+}

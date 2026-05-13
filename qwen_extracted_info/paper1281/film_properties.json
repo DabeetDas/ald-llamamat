@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 18.4,
+  "density_g_cm3": 12.0,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.5,
+  "crystal_phase": "metal-phase Ru films",
+  "evidence": "The films shown in Figure 1 are typically 3-4 nm thick, which are too thin to achieve reasonable XRD data; thus, a thicker film was grown for this experiment. As can be seen in the glancing angle XRD (GAXRD) spectra in Figure 2(a), clear peaks were observed at 38.5, 42.2, and 44.3° in both step S and L films. Such peaks corresponded to the (100), (002), and (101) planes of Ru metal, respectively, meaning that the deposited films were metal-phase Ru films, with minimal inclusion of RuO2."
+}

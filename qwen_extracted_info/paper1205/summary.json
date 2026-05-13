@@ -1,0 +1,11 @@
+{
+  "target_material": "Ruthenium and Ruthenium Oxide",
+  "process_type": "Thermal ALD and PEALD",
+  "main_precursors": [
+    "Ru(DMBD)(CO)3",
+    "O2"
+  ],
+  "temperature_range": "290 to 320°C for Ru, 220 to 240°C for RuO2",
+  "summary": "The study reports the Atomic Layer Deposition (ALD) of ruthenium (Ru) and ruthenium oxide (RuO2) using a zero oxidation state precursor, η4-2,3-dimethylbutadiene ruthenium tricarbonyl [Ru(DMBD)(CO)3]. Ru films were deposited via thermal ALD with a temperature range of 290 to 320°C, showing a hexagonal crystal structure and low resistivity. RuO2 films were deposited using both thermal ALD and plasma-enhanced ALD (PEALD), with thermal ALD showing a rutile phase microstructure and lower resistivity compared to PEALD. The process offers improved nucleation behavior and resistivity compared to other known methods.",
+  "evidence": "The study reports the Atomic Layer Deposition (ALD) of ruthenium (Ru) and ruthenium oxide (RuO2) using a zero oxidation state precursor, η4-2,3-dimethylbutadiene ruthenium tricarbonyl [Ru(DMBD)(CO)3]. Ru films were deposited via thermal ALD with a temperature range of 290 to 320°C, showing a hexagonal crystal structure and low resistivity. RuO2 films were deposited using both thermal ALD and plasma-enhanced ALD (PEALD), with thermal ALD showing a rutile phase microstructure and lower resistivity compared to PEALD. The process offers improved nucleation behavior and resistivity compared to other known methods."
+}

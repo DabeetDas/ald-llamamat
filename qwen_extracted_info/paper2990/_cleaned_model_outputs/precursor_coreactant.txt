@@ -1,0 +1,7 @@
+{
+  "precursors": ["tetrakis(ethylmethylamino)zirconium (TEMAZ)"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "In the experiment, the deposition of ZrO2 films was carried out by PEALD using tetrakis(ethylmethylamino)zirconium (TEMAZ) as a Zr-precursor and the plasma of O2 mixed with N2, as the oxidant. The total flow rate of Ar, the carrier gas, was 600 sccm."
+}

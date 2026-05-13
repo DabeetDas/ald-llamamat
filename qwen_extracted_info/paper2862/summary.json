@@ -1,0 +1,11 @@
+{
+  "target_material": "TiN",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Tetrakis-Dimethylamido-Titanium (TDMAT)",
+    "Ammonia (NH3)"
+  ],
+  "temperature_range": "175 /C14 C",
+  "summary": "The study investigates the stability and resistivity of TiN films deposited via ALD using TDMAT and ammonia. Plasma posttreatment with hydrogen plasma improves resistivity and stability, while nitrogen plasma does not. The process involves alternating cyclic pulses of TDMAT and ammonia at a temperature of 175 /C14 C.",
+  "evidence": "The TiN films were prepared on Si substrates covered by SiO2 (300 nm) in a vertical-flow reactor using TDMAT as a precursor. The films were deposited at a temperature of 175 /C14 C. The resistivity of the films was determined from the calculated product of the sheet resistance and film thickness. The resistivity decreased with increasing film thickness and deposition temperature. The typical resistivity values of the films deposited at 175 /C14 C were 5000–20000 m/C10cm depending on whether the thickness and resistivity increased upon exposing the films to air. The use of a longer pulse and high power in the plasma treatment helps to improve the electrical properties of the TiN films. Among the tested variables of the posttreatment, the usage of hydrogen plasma was the most important for lowering the film resistivity and enhancing its stability in air."
+}

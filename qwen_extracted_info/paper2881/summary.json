@@ -1,0 +1,11 @@
+{
+  "target_material": "Tungsten (W)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Diborane (B2H6)",
+    "Silane (SiH4)"
+  ],
+  "temperature_range": "Not explicitly mentioned",
+  "summary": "The study investigates the use of diborane (B2H6) instead of silane (SiH4) in the ALD nucleation layer for tungsten (W) deposition in 32 nm CMOS devices. The results show that the B2H6 process achieves lower contact resistance, with resistances of 50–70 μΩ·cm in 32 nm contacts. The lower resistivity is attributed to larger grain sizes and lower fluorine concentration in the nucleation and barrier layers, although higher fluorine concentration and poorer crystallization in the filling W layer partially offset these benefits.",
+  "evidence": "The eﬀect of employing diborane (B 2H6) instead of silane (SiH 4) in a tungsten (W) atomic layer deposition (ALD) nucleation layer on contact resistance is studied. A low resistance of 50 – 70 /C10 in a 32-nm-node contact with a diameter of about 50 nm is achieved with optimized barrier and nucleation processes. It is revealed that a W film with a B 2H6-reduced nucleation layer has a larger grain size and a lower fluorine concentration in nucleation W and barrier metal layers, resulting in a lower resistivity than that with a SiH 4-reduced nucleation W layer."
+}

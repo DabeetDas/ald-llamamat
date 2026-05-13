@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "top-ﬂow",
+  "evidence": "The reactor temperature for the O3-based ALD of Lu xAl2/C0 xO3 was selected based on the ALD temperature window of both Al 2O3 and Lu 2O3 processes (Fig. 2). For the saturated TDEAA/O 3 process, reactor temperatures between 200 and 400 /C14 C can be applied resulting in uniform layers with similar GPCs (data not shown). A somewhat smaller window has been reported for the Al 2O3 process with TDEAA and O3 (between 200 and 325 /C14 C).14 However, compared to TDEAA, the ALD temperature window for the Lu(iPrCp)3/O3 process is narrower, possibly related to early decomposition of the Lu( iPrCp)3 precursor. The thermal stability of the Lu( iPrCp)3 precursor was tested by pulsing the Lu(iPrCp)3 precursor without the oxidizer, referred to as the Lu(iPrCp)3/N2 process (indicated as \"Lu\" in Fig. 2). Based on the observed thickness and nonuniformity increase, we estimate that decomposition of Lu( iPrCp)3 starts at temperatures as low as 300 /C14 C. Based on these results, 250 /C14 C was chosen as the optimal temperature to deposit ternary Lu xAl2/C0 xO3 compounds from Lu( iPrCp)3, TDEAA, and O 3."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 500,
+  "pressure": "10−5 Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 5000,
+  "reactor_type": "F-120",
+  "evidence": "The iron oxide film was grown with 5000 ALD cycles at 500 °C using FeCl3 and H2O as precursors; this metal precursor is different than previously reported for the ALD growth of iron oxide."
+}<|im_end|>

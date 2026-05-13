@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + TaF5 → AlFx + TaF5(CH3)5/C0x",
+    "Al(CH3)3 + Fx → FxAl(CH3)3/C0x + C and H byproducts",
+    "TaF5(CH3)5/C0x → TaC + F, C, and H byproducts"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the decomposition of TaF5(CH3)5/C0x to form TaC and byproducts, with the rate of conversion significantly slowed at 125 °C, allowing for self-limited ALD growth through extended purging and reduced temperature.",
+  "intermediate_species": [
+    "TaF5(CH3)5/C0x",
+    "TaC",
+    "FxAl(CH3)3/C0x"
+  ],
+  "evidence": "The complementary half-reactions undergo the following set of reactions: /C3 Fx + Al(CH3)3 → /C3 FxAl(CH3)3/C0x + C and H byproducts; (2) where * indicates a surface species. At 125 /C14 C, there is insufficient energy to proceed beyond the second step of half reaction (1), mitigating TaF5/C0x(CH3)x conversion to TaC. By slowing this step through reduction of deposition temperature, and lengthening the purge, TaF5/C0x(CH3)x may desorb from the film surface, thus reducing Ta incorporation into the film."
+}

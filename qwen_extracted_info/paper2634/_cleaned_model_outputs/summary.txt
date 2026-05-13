@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper(II) oxide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["bis-(dimethylamino-2-propoxide)copper [Cu(dmap)2]", "ozone"],
+  "temperature_range": "80–140 /C14 C",
+  "summary": "The study describes the low-temperature atomic layer deposition (ALD) of copper(II) oxide thin films using bis-(dimethylamino-2-propoxide)copper [Cu(dmap)2] and ozone. The process produces polycrystalline films with a growth rate of 0.2–0.3 Å per cycle. The films were characterized using various techniques, including X-ray diffraction, UV-Vis spectrophotometry, and XPS. The study highlights the low-temperature ALD process as an alternative to previously reported methods using copper(II) acetylacetonate.",
+  "evidence": "Copper(II) oxide thin films were grown by atomic layer deposition (ALD) using bis-(dimethylamino-2-propoxide)copper [Cu(dmap)2] and ozone in a temperature window of 80–140 /C14 C. The process was found to produce polycrystalline copper(II) oxide films with a growth rate of 0.2–0.3 A˚ per cycle. Impurity content in the films was relatively small for a low temperature ALD process."
+}

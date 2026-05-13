@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["HfCl4", "H2O"],
+  "temperature_range": "200 to 400 °C",
+  "summary": "The study investigates the chemical interaction between atomic-layer-deposited HfO2 thin films and the Si substrate, focusing on interfacial layer (IL) formation, dissolution, and post-annealing effects. The process uses HfCl4 as the precursor and H2O as the oxidant, with deposition temperatures ranging from 200 to 400 °C. The interfacial layer thickness varies with deposition temperature and cycle number, and post-annealing at 800 °C under N2 atmosphere leads to Si-rich interfacial layer precipitation, reducing capacitance density.",
+  "evidence": "HfO2 thin films were deposited on Si wafers using an atomic layer deposition technique at temperatures ranging from 200 to 400 °C with HfCl4 as the precursor and H2O as the oxidant. Post-annealing at 800 °C under a N2 atmosphere resulted in the precipitation of a Si-rich interfacial layer even for the initially interfacial layer free films. This had the effect of reducing the capacitance density of the films."
+}<|im_end|>

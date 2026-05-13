@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "cyclopentadienyl indium (InCp)"
+  ],
+  "coreactants": [
+    "O2",
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Ultrahigh purity nitrogen carrier gas (Airgas 99.998%) continuously flowed through the reactor at 360 sccm and a pressure of 1.1 Torr."
+}

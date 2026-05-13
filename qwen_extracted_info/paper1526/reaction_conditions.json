@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Sb(NMe2)3 + O3 -> Sb2O5"
+  ],
+  "surface_mechanism_description": "The ALD reaction involves the oxidative chemistry of tris(dimethylamido)antimony (Sb(NMe2)3) with ozone (O3) to form antimony oxide (Sb2O5). The reaction is self-limiting, with a growth rate that remains constant over a wide range of precursor pulse and exposure durations, indicating a stepwise surface reaction. The reaction is carried out at temperatures between 120 and 270 /C176C, with thermal decomposition observed beyond 300 /C176C.",
+  "intermediate_species": [
+    "Sb(NMe2)3",
+    "O3",
+    "Sb2O5"
+  ],
+  "evidence": "When a reaction cycle consisting of consecutive exposures to Sb(NMe2)3 and O3 is repeated 500 times at 120 /C176C on a flat Si substrate, a smooth, compact film is obtained. The deposited thickness linearly depends on the number of ALD cycles performed, with a rate of approximately 1.85 A ˚/cycle. The growth rate remains constant over a wide window of precursor pulse and exposure durations, which proves the self-limiting nature of the stepwise surface reaction (the hallmark of ALD growth)."
+}

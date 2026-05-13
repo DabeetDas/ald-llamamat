@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "fluidized bed reactor",
+  "evidence": "ZnO ALD films were deposited using diethylzinc (DEZ) and concentrated H2O2 (50% in H2O) as precursors at substrate temperatures of 100 °C."
+}

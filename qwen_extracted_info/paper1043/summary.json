@@ -1,0 +1,11 @@
+{
+  "target_material": "Fe2O3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Fe(thd)3",
+    "ozone"
+  ],
+  "temperature_range": "160–210 °C",
+  "summary": "The study explores the atomic layer deposition (ALD) of Fe2O3 thin films using Fe(thd)3 and ozone as precursors. The ALD window exists between 160 and 210 °C, and the films exhibit (001)-oriented columns on soda-lime-glass and Si(100) substrates. The films show good quality with thicknesses ranging from 10 to 130 nm and have different crystal structures depending on the substrate.",
+  "evidence": "Abstract: Thin films of a-Fe2O3 and g-Fe2O3 have been grown by the atomic layer deposition (ALD) technique with Fe(thd)3 and ozone as precursors. It has been shown that an ALD window exists between 160 and 210 -C. The films have been characterized by various techniques and are shown to comprise (001)-oriented columns of a-Fe2O3 with no in-plane orientation when grown on soda-lime-glass and Si(100) substrates. Good quality films have been made with thicknesses ranging from 10 to 130 nm."
+}

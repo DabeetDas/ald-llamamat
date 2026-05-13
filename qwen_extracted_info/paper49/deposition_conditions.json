@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "105-150",
+  "pressure": "",
+  "precursor_pulse_time_s": 8,
+  "coreactant_pulse_time_s": 8,
+  "purge_time_s": 10,
+  "number_of_cycles": 2000,
+  "reactor_type": "F-120 STA ALCVD",
+  "evidence": "The ALD growth of Fe2O3 was studied at substrate temperatures ranging from 105 to 275 °C using the following standard pulsing sequence (ALD growth cycle): 8 s of iron precursor pulse, followed by 10 s of nitrogen purge, 8 s of water pulse, and finally 10 s of nitrogen purge."
+}

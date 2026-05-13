@@ -1,0 +1,7 @@
+{
+  "precursors": ["dimethylzinc (DMZn)", "diethylzinc (DEZn)"],
+  "coreactants": ["deionized water"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "As an oxygen source, deionized water was used. The double-exchange chemical reaction of DMZn with water: CH3/C0 Zn/C0 CH3 + H2O ! ZnO + 2CH4 or chemical reaction of DEZn with water: C2H5/C0 Zn/C0 C2H5 + H2O ! ZnO + 2C2H6."
+}

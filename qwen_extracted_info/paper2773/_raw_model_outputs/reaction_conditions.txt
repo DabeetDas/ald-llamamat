@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "OHSi + Cd -> OHSiCd + TeO",
+    "OHSiCd + TeO -> OHSiCdTeO + TeO",
+    "OHSiCdTeO + TeO -> OHSiCdTeO + TeO"
+  ],
+  "surface_mechanism_description": "The growth of a chalcogenide layer (e.g., CdTe) during sequential exposures to component flows can be represented by the following sequence of surface reactions: initial chemisorption of the metal through substitution for the hydrogens of hydroxyls, followed by coordination unsaturation of surface metal or chalcogen atoms resulting in tetrahedral coordination.",
+  "intermediate_species": [
+    "OHSi",
+    "OHSiCd",
+    "OHSiCdTeO"
+  ],
+  "evidence": "The growth of a chalcogenide layer (e.g., CdTe) during sequential exposures to component flows can be represented by the following sequence of surface reactions:\n\n+ Cd + Cd\n(I) (II) (III)\nOHSi\nOHSi\nCd + Te2\nO\nO\nSi\nSi\nCd\nTeO\nOT e\nSi\nSi\nCd\nTeO\nOT e\nSi\nSi\nCd"
+}<|im_end|>

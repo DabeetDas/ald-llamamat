@@ -1,0 +1,11 @@
+{
+  "target_material": "Ru (Ruthenium)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Ru(DMPD)(EtCp)",
+    "O2"
+  ],
+  "temperature_range": "280 ◦C",
+  "summary": "The study describes the fabrication of Ru nanostructures using atomic layer deposition (ALD) with Ru(DMPD)(EtCp) as a precursor and O2 as a reactant. The ALD process was performed at 280 ◦C, resulting in high-purity Ru films with low resistivity and excellent conformality. These Ru films were used in conjunction with anodic aluminum oxide (AAO) nanotemplates to create Ru nanostructures such as nanodots and nanowires on Si and Ti/Si substrates. The process enables the production of highly ordered nanostructures with controlled dimensions, suitable for applications like sensor devices.",
+  "evidence": "We fabricated metallic nanostructures directly on Si substrates through a hybrid nanoprocess combining atomic layer deposition (ALD) and a self-assembled anodic aluminum oxide (AAO) nanotemplate. ALD Ru films with Ru(DMPD)(EtCp) as a precursor and O2 as a reactant exhibited high purity and low resistivity with negligible nucleation delay and low roughness. These good growth characteristics resulted in the excellent conformality for nanometer-scale vias and trenches."
+}

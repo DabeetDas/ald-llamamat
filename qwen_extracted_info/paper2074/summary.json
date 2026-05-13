@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the density of nanometer-thin hafnium oxide (HfO2) films grown by atomic layer deposition (ALD) for high-k gate dielectric applications. The density was measured using a combination of transmission electron microscopy (TEM) and Rutherford backscattering spectroscopy (RBS). The results show that the density decreases with decreasing film thickness, primarily due to interface roughness and impurities, rather than a decrease in the inherent material density. The dielectric constant of HfO2 remained constant with decreasing thickness, indicating that the low density does not affect the dielectric properties.",
+  "evidence": "HfO2 films were grown by ALD on p-type Si (100) wafers from HfCl4 and H2O reactants at 300 °C. The density was measured by combining the film thickness from TEM with the amount of hafnium deposited from RBS. The measured density rm was found to decrease with decreasing film thickness, primarily due to interface roughness and impurities."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-240",
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 3,
+  "number_of_cycles": 2000,
+  "reactor_type": "TFS 200",
+  "evidence": "The ALD sequence ( t1/t2//t3/t4) for deposition was kept as 3/3//3/3 s, where t1 and t2 are the optimized pulsing times for Ni(acac) 2 and H2S gas, respectively, and t3 and t4 are the purging times for both the precursors."
+}

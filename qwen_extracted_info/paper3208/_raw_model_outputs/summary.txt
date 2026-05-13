@@ -1,0 +1,8 @@
+{
+  "target_material": "SrTiO3",
+  "process_type": "Remote plasma ALD",
+  "main_precursors": ["Star-Ti (pentamethylcyclopentadienyl trimethoxy-titanium)", "Hyper-Sr (bis(trisisopropylcyclopentadienyl)strontium with 1,2-dimethoxyethane adduct)"],
+  "temperature_range": "250°C",
+  "summary": "The study reports on the remote plasma ALD of SrTiO3 using cyclopentadienyl-based Ti and Sr precursors. The films were amorphous upon deposition but crystallized after post-deposition annealing above 500°C. The process utilized O2 plasma for oxidation, and the films showed high dielectric constant and low leakage current. The material properties were controlled by varying the SrO/TiO2 cycle ratio.",
+  "evidence": "Remote plasma atomic layer deposition of SrTiO3 films with different Sr/Ti ratios is reported, employing Star-Ti (pentamethylcyclopentadienyl trimethoxy-titanium) and Hyper-Sr (bis(trisisopropylcyclopentadienyl)strontium with 1,2-dimethoxyethane adduct) precursors and O2 plasma. The as-deposited films were amorphous, but crystallized after post-deposition anneal above 500°C. For annealed SrTiO3 films with Sr/Ti = 1.3 and a thickness of 50 nm, a high dielectric constant k ≈ 80 and low leakage current of ≈10−7 A/cm2 at 1 V were obtained."
+}<|im_end|>

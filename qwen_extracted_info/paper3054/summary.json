@@ -1,0 +1,11 @@
+{
+  "target_material": "Cu interconnects",
+  "process_type": "Atomic-layer-deposited (ALD) and Physical-vapor-deposited (PVD)",
+  "main_precursors": [
+    "pentakisdimethylamine-tantalum",
+    "ammonia"
+  ],
+  "temperature_range": "213 to 300°C",
+  "summary": "The study compares electromigration in Cu interconnects with atomic-layer-deposited (ALD) or physical-vapor-deposited (PVD) TaN x and PVD Ta liner layers. It investigates the effect of these layers on electromigration lifetime and activation energy, finding that the dominant diffusion paths are along the Cu/dielectric interface and/or grain boundaries, and that the use of ALD or PVD TaN x does not significantly affect the electromigration behavior.",
+  "evidence": "Atomic-layer-deposited /H20849ALD/H20850TaNx has drawn much attention in recent years because thin and conformal diffusion barrier metal liners can be achieved using ALD. 1,2 This deposition technique is especially critical for the future generation of complementary metal oxide semiconductors /H20849CMOS/H20850i.e., 45 nm technology node and beyond. To this end, electromigration /H20849EM/H20850in 70 nm wide Cu lines with an ALD or physical-vapor-deposited /H20849PVD/H20850TaNx liner has been investigated."
+}

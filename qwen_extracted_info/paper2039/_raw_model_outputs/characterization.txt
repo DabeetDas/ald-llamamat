@@ -1,0 +1,16 @@
+{
+  "characterization_methods": [
+    "Ellipsometry",
+    "High-resolution transmission electron microscopy (HRTEM)",
+    "X-ray diffraction (XRD)",
+    "Secondary-ion mass spectroscopy (SIMS)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Atomic force microscopy (AFM)",
+    "Capacitance–voltage (C–V) measurement",
+    "Current density–voltage (J–V) measurement",
+    "Four-point probe",
+    "Impedance meter",
+    "Picoammeter"
+  ],
+  "evidence": "The film thickness and crystalline structures were investigated by ellipsometry, HRTEM, and XRD. Ten HRTEM pictures were taken for each sample to compensate for the error in the film thickness measurements due to local variations. The chemical composition and binding status of the films were investigated by secondary-ion mass spectroscopy (SIMS) and x-ray photoelectron spectroscopy (XPS) using Mg Kα radiation with a photon energy 1253.6 eV. The metal–insulator–semiconductor capacitors (MISCAPs) were fabricated by depositing Pt top electrodes using an electron beam evaporation method through a shadow mask. The accurate electrode area of each measured capacitor was measured by optical microscopy. The backside of the wafer was HF cleaned with Al metallization being subsequently applied. The MIS CAP was annealed at 400 °C for 30 min under a 5%H2/95%N2 atmosphere. A Hewlett–Packard 4194A impedance meter and a 4140B picoammeter were used for the capacitance–voltage (C–V) and the current density–voltage (J–V) measurements, respectively. Five to ten capacitors were measured from each sample to compensate for local variations. The C–V measurement frequency was 1 MHz. The conductance method was adopted to estimate the Dit.16 Capacitance equivalent thickness (CET), flatband voltage shift (Vfb), and hysteresis voltage (Vhy) were extracted from the high-frequency C–V curves. The rms roughness of the HfO2 films grown with the H2O is 2–3 times larger than that of the films grown with the O3 oxidant. The interfacial layer CET was estimated from its physical thickness, observed by HRTEM, and the dielectric constants, which were assumed to be 6–7 and 4 for the as-deposited state and after RTA, respectively. The Si 2p XPS spectra of the (a) as-deposited sample grown with H2O, (b) postannealed sample grown with H2O, (c) as-deposited sample grown with O3, and (d) postannealed sample grown with O3. The SIMS depth profile results of (a) O (with mass 16) and (b) Si (with mass 28) of the thick HfO2 films grown with the H2O and O3 before and after RTA at 750 °C. The Hf 4f XPS spectra of the (a) as-deposited sample grown with H2O, (b) postannealed sample grown with H2O, (c) as-deposited sample grown with O3, and (d) postannealed sample grown with O3. The variation in the Dit as a function of the trap energy (ET)—intrinsic Fermi energy (Ei) of the various samples."
+}<|im_end|>

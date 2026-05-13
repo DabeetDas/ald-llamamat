@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 6,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "Cambridge NanoTech Savannah",
+  "evidence": "The Sn precursor was transported into the chamber by using N2 (99.9999%) carrier gas of 100 sccm from a bubbler-type canister heated at 60 ◦C. The gas line for the Sn precursor was maintained at 90 ◦C to prevent precursor condensation. Deionized H2O was supplied to create H2O plasma from a vapor-type canister at 25 ◦C. O2 gas (99.999%, 100 sccm) was introduced to produce the O2 plasma reactant. For all experiments, Si and soda-lime glass were used as substrates. All the SnO2 PEALD processes were performed over typical four sequential steps: Sn precursor pulse, N2 purge (10 s, 500 sccm), plasma reactant pulse, and N2 purge (10 s, 500 sccm). The optimized source and reactant pulse lengths were determined separately for each PEALD process."
+}

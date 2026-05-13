@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu2O",
+  "process_type": "thermal ALD",
+  "main_precursors": ["copper(II) acetate [Cu(OAc)2]", "water vapor"],
+  "temperature_range": "180−220 °C",
+  "summary": "The study reports an atomic layer deposition (ALD) process for Cu2O thin films using copper(II) acetate and water vapor as precursors. The process enables the deposition of phase-pure, polycrystalline, and impurity-free Cu2O thin films at temperatures of 180−220 °C. The deposition of Cu(I) oxide films from a Cu(II) precursor without the use of a reducing agent is explained by the thermally induced reduction of Cu(OAc)2 to the volatile copper(I) acetate, CuOAc. The study also demonstrates the application of these films in photoconductor devices, showing that approximately 20 nm thick Cu2O films can be used for photodetection in the visible wavelength range.",
+  "evidence": "ABSTRACT: Herein, we report an atomic layer deposition (ALD) process for Cu2O thin films using copper(II) acetate [Cu(OAc)2] and water vapor as precursors. This precursor combination enables the deposition of phase-pure, polycrystalline, and impurity-free Cu2O thin films at temperatures of 180−220 °C. The deposition of Cu(I) oxide films from a Cu(II) precursor without the use of a reducing agent is explained by the thermally induced reduction of Cu(OAc)2 to the volatile copper(I) acetate, CuOAc. In addition to the optimization of ALD process parameters and characterization of film properties, we studied the Cu2O films in the fabrication of photoconductor devices."
+}<|im_end|>

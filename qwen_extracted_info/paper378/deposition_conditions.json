@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "420",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Varian 360",
+  "evidence": "InSb epilayers on the GaAs substrates were grown at a rate of 1 pm/h at a substrate temperature of 420°C after a 300 8, buffer layer of InSb was grown by atomic layer epitaxy (ALE) at a growth rate of 0.1 pm/h at 300°C."
+}

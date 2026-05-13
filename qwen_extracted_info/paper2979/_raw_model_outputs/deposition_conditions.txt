@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "25-300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "3",
+  "number_of_cycles": null,
+  "reactor_type": "flow-type ALD reactor with remote microwave plasma source",
+  "evidence": "The time required to complete one ALD cycle at room temperature was 10 s, whereas the cycle time for TMA-H2O process at room temperature was about 200 s, largely because of the need for a long, 180 s purge period after the water pulse."
+}<|im_end|>

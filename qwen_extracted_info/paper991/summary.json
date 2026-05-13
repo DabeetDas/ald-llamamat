@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "Diethylzinc",
+    "Oxygen plasma gas"
+  ],
+  "temperature_range": "150 ◦C",
+  "summary": "ZnO thin films were deposited on Si substrates with an inserted ZnO buffer layer, which was annealed at various temperatures between 600 and 900 ◦C. The ZnO thin films were grown by ALD technique, and the ZnO/ZnO-buffer/Si films were further annealed at 900 ◦C for 30 min in N2 ambient. The study investigated the effects of annealing temperature on the structural and optical properties of the ZnO thin films.",
+  "evidence": "ZnO thin films were deposited on Si substrates with the insertion of ZnO buffer layer, which was annealed at various temperatures between 600 and 900 ◦C. ZnO thin films were grown by Atomic layer deposition (ALD) technique and the ZnO/ZnO-buffer/Si films have been further annealed for 30 min in N2 ambient."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "vanadium phosphate",
+  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": ["trimethyl phosphate (TMP)", "tetrakisethylmethylamido vanadium (TEMAV)"],
+  "temperature_range": "300 /C14 C",
+  "summary": "Vanadium phosphate films were deposited using plasma-enhanced atomic layer deposition (PE-ALD) with trimethyl phosphate (TMP) plasma and tetrakisethylmethylamido vanadium (TEMAV) as precursors. The process showed linear growth and yielded uniform films with a stoichiometry of V1.1PO4.3. The films exhibited good electrochemical performance as lithium-ion battery electrodes, with high capacity and low capacity fading.",
+  "evidence": "Vanadium phosphate films were deposited by a new process consisting of sequential exposures to trimethyl phosphate (TMP) plasma, O2 plasma, and either vanadium oxytriisopropoxide [VTIP, OV(O-i-Pr)3] or tetrakisethylmethylamido vanadium [TEMAV, V(NEtMe)4] as the vanadium precursor. The resulting films had an elastic recoil detection-measured stoichiometry of V1.1PO4.3 with 3% hydrogen and no detectable carbon contamination. They could be electrochemically lithiated and showed desirable properties as lithium-ion battery electrodes in the potential region between 1.4 and 3.6 V versus Li+/Li, including low capacity fading and an excellent rate capability."
+}<|im_end|>

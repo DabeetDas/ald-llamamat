@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Stage 1 oxidation is promoted by moisture chemisorbed in the HfO2 layer, which is removed during oxygen annealing, causing a change in oxidation kinetics. The process is described as a wet oxidation process. Stage 2 oxidation is caused by molecular O2 diffusion throughout the HfO2/SiO2 stack, limited by the low O2 solubility in HfO2, which acts as a formidable diffusion barrier for molecular oxygen.",
+  "intermediate_species": ["moisture (adsorbed H2O)"],
+  "evidence": "Stage 1 oxidation is promoted by moisture adsorbed in the HfO2 layer. Such moisture is unstable at high temperature during oxygen annealing, therefore its removal causes the oxidation kinetics to change. The most notable study of the oxygen diffusion mechanism in high-κ/Si stacks with similarities with the system studied in this paper was done on the ZrO2/Si system. The process can be explained as a stage 1 type of oxidation. It was demonstrated that stage 2 oxidation is caused by molecular O2 diffusion throughout the entire HfO2/SiO2 stack. Such a diffusion process is limited by the low O2 solubility in HfO2. HfO2 is therefore a formidable diffusion barrier for molecular oxygen, preventing SiO2 growth effectively."
+}<|im_end|>

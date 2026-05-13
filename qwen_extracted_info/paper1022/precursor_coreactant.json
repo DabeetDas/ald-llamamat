@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "AlCl3"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "One cycle for depositing AlN consisted of an AlCl pulse (carried by N 70 sccm, 1–10 s ), a purge with AryH (100y200 sccm, 15 s ), an exposure to the NH yAryH plasma (50y100y200 sccm, 3–30 s ), and a final purge with Ar yH (100y200 sccm, 15 s )."
+}

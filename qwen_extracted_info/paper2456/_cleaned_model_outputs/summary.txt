@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["MoCl5", "H2S"],
+  "temperature_range": "350 °C–450 °C",
+  "summary": "Atomic layer deposition (ALD) was used to grow thin films of MoS2 over 5 × 5 cm areas of silicon oxide coated silicon wafers. The films were smooth, uniform, and continuous over a temperature range of 350 °C–450 °C. The study aimed to produce large area, high quality MoS2 films for optoelectronic applications.",
+  "evidence": "Atomic layer deposition (ALD) was used to grow thin films of MoS2 over 5 × 5 cm areas of silicon oxide coated silicon wafers. Smooth, uniform, and continuous films were produced over a temperature range of 350 °C–450 °C. The as-grown films were analyzed using x-ray photoelectron spectroscopy, Raman spectroscopy, photoluminescence, and x-ray diffraction. Electrical characteristics of the films were evaluated by fabricating a back gated field effect transistor. These analyses indicate that ALD technique can produce large area, high quality MoS2 films."
+}

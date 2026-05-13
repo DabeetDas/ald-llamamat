@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "226–750 8C",
+  "summary": "The study investigates the deposition of HfO2 thin films using atomic layer deposition (ALD) with HfCl4 and H2O as precursors. The effects of deposition temperature on the microstructure, crystallinity, and interfacial layers of the films are analyzed. At lower temperatures (226 8C), the films are predominantly amorphous with cubic HfO2 crystallites, while higher temperatures (300–750 8C) result in crystalline monoclinic HfO2. The interfacial layers of SiO2 form at low and high temperatures but are absent at intermediate temperatures. The study highlights the temperature-dependent microstructural evolution and the role of surface chemistry in interfacial layer formation.",
+  "evidence": "The text describes the use of HfCl4 and H2O as precursors for ALD of HfO2 films. It details the temperature range of 226–750 8C and the resulting microstructural changes, including the formation of amorphous and crystalline phases. The study also discusses the presence of interfacial SiO2 layers at low and high temperatures and their absence at intermediate temperatures."
+}

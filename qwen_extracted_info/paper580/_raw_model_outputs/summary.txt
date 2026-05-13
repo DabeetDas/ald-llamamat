@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2/Al2O3",
+  "process_type": "atomic layer chemical vapor deposition (ALCVD)",
+  "main_precursors": ["trimethyl aluminum (TMA)", "ZrCl4", "H2O"],
+  "temperature_range": "",
+  "summary": "The study focuses on the characterization of ultra-thin high-k materials, specifically ZrO2/Al2O3 layers, using nuclear techniques such as nuclear reaction analysis (NRA), Rutherford backscattering spectrometry (RBS), and elastic recoil detection (ERD). The layers were deposited using atomic layer chemical vapor deposition (ALCVD) with TMA, ZrCl4, and H2O as precursors. The research quantifies the elemental composition and depth profiling of the layers, revealing insights into interdiffusion and layer uniformity.",
+  "evidence": "The metal oxide layers were prepared by means of atomic layer chemical vapor deposition (ALCVD). As metal precursors, we use trimethyl aluminum (TMA) and ZrCl4, and H2O as O source. The high-k sample under study consists of a 2 nm ZrO2 film on top of a 1 nm Al2O3 film on a Si substrate."
+}<|im_end|>

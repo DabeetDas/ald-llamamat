@@ -1,0 +1,12 @@
+{
+  "target_material": "TiC–TiN",
+  "process_type": "plasma-assisted ALD (PAALD)",
+  "main_precursors": [
+    "tetrakis(dimethylamido)titanium (TDMA T)",
+    "ammonia (NH3)",
+    "hydrogen radicals"
+  ],
+  "temperature_range": "150 to 300°C",
+  "summary": "The study explores the tunable work-function engineering of TiC–TiN compound films deposited via plasma-assisted atomic layer deposition (PAALD) for metal gate applications in MOS devices. The work function of TiC–TiN can be tuned by adjusting the deposition temperature, which influences the carbon content and bonding concentration of Ti–C. The results show that the work function decreases from 5.0 eV to 4.6 eV as the carbon content increases, making it suitable for different applications such as p-FETs and fully depleted SOI FETs.",
+  "evidence": "By adjusting the deposition temperature of TiC–TiN, the carbon content, which is dependent on the deposition mode, could be altered. Hence, the work function of TiC–TiN as a metal gate material could be tuned. The results revealed that the bonding concentration of Ti–C increases at higher deposition temperatures, whereas the work function of the TiC–TiN metal gate decreases from 5.0 to 4.6 eV. A high work function (5.0 eV) metal gate is suitable for a p-field effect transistor (FET) application and the midgap work function (4.6 eV) is suitable for a fully depleted silicon-on-insulator FET."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "germanium oxide",
+  "process_type": "thermal ALD",
+  "main_precursors": ["ZrCl4", "HfCl4", "Al(CH3)3", "H2O"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the use of thermally grown GeO2 as a passivation layer for high-k gate dielectric layers deposited by atomic layer deposition (ALD). The research focuses on the intermixing behavior of GeO2 with high-k materials like ZrO2, HfO2, and Al2O3 during ALD and the electrical passivation of the Ge/GeOx interface. The results show that GeO2 can effectively passivate the interface, leading to low interface state densities and good capacitance-voltage characteristics.",
+  "evidence": "ZrO2, HfO2, and Al2O3 were deposited by atomic layer deposition. GeO2 and ZrO2 or HfO2 intermix during ALD, together with partial reduction of Ge4+. Almost no intermixing or reduction occurs during Al2O3 ALD. Capacitors show well-behaved capacitance-voltage characteristics on both n- and p-Ge, indicating efficient passivation of the Ge/GeOx interface."
+}<|im_end|>

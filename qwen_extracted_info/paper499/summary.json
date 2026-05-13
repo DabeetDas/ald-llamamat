@@ -1,0 +1,12 @@
+{
+  "target_material": "InAs",
+  "process_type": "atomic layer epitaxy",
+  "main_precursors": [
+    "trimethylgallium",
+    "tertiarybutylarsine",
+    "trimethylindium"
+  ],
+  "temperature_range": "390¡C",
+  "summary": "The study investigates the structure of ultrathin InAs films grown by atomic layer epitaxy (ALE) on GaAs(0 0 1) substrates. The films are grown using trimethylgallium, tertiarybutylarsine, and trimethylindium as precursors. The study uses X-ray standing wave (XSW) and X-ray diffraction (XRD) to determine the position and distribution of In atoms within the films. The results show that the In atoms are positioned above the GaAs(0 0 4) planes, with a coherent fraction indicating a relatively abrupt interface. The study also compares the results with those from MBE-grown films and suggests that the ALE process produces a distribution of In atoms within an InxGa1~xAs layer.",
+  "evidence": "The films were grown by atomic layer epitaxy using trimethylgallium, tertiarybutylarsine and trimethylindium. The indium atoms reside 1.577$0.014 A_ above the GaAs(0 0 4) substrate planes. The coherent fraction of 0.766$0.051 indicates a reasonably abrupt interface. The study exemplifies the complimentary nature of XSW and XRD."
+}

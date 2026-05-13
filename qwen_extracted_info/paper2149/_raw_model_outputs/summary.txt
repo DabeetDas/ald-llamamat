@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tetrakis(ethyl-methyl-amino)hafnium (TEMAH)", "ozone (O3)"],
+  "temperature_range": "100 °C",
+  "summary": "The study investigates the atomic layer deposition of hafnium oxide (HfO2) using ozone as the oxygen precursor. The process involves the use of tetrakis(ethyl-methyl-amino)hafnium (TEMAH) and ozone, with a growth temperature of 100 °C. The research highlights the differences in growth mechanisms and surface chemistry between ozone-based and water-based ALD, emphasizing the formation of interfacial SiO2 and the incorporation of different impurities in the HfO2 film.",
+  "evidence": "HfO2 growth on H-terminated Si surfaces by atomic layer deposition ALD is studied with in situ Fourier transform infrared spectroscopy and ex situ Rutherford backscattering, using tetrakis-ethyl-methyl-amino hafnium and ozone as the hafnium and oxygen precursors, and compared to water-vapor-based ALD growth. The reaction pathways are different for the two oxygen precursors, leading to a lower growth rate for ozone than for water-based growth and to incorporation of different impurities in the HfO2 film. Furthermore, interfacial SiO2 is readily formed with ozone at the growth temperature 100 °C, in contrast to water-based HfO2 growth."
+}<|im_end|>

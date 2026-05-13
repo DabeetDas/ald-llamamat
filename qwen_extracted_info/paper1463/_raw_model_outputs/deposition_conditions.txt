@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "275-350",
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 4.0,
+  "number_of_cycles": 2000,
+  "reactor_type": "SUNALE R-75",
+  "evidence": "The growth rate was approximately 0.28 A˚/cycle between 275 and 350 /C176C. ... Other parameters were kept constant, with a 160 /C176C sublimation temperature for 1, 0.5 s pulse lengths each for 1 and water, 4.0 s purge lengths, and 2000 cycles per deposition."
+}<|im_end|>

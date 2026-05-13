@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "During the ALD process, the number of reaction sites on the growing film surface, such as dangling bonds, hydroxyl or carbonate groups, is one of the determining factors for the growth rate of the film. The reaction sites are believed to be smaller under vacuum atmosphere and 200 ℃ than under air atmosphere and room temperature. The precursors and oxidants used in this ALD are not so efficient in reproducing the reaction sites by themselves.",
+  "intermediate_species": [
+    "dangling bonds",
+    "hydroxyl groups",
+    "carbonate groups"
+  ],
+  "evidence": "During conventional ALD process, it is believed that the number of reaction sites on the growing film under the vacuum atmosphere and 200 ℃ are believed to be smaller than that under air atmosphere and room temperature. Evidently, there must be more impurities, such as hydrocarbons and carbonates which could act as the reaction sites for the precursor adsorption, present on the film surface when it was exposed to the air atmosphere. This actually suggests that the precursors and oxidants used in this ALD are not so efficient in reproducing the reaction sites by themselves."
+}

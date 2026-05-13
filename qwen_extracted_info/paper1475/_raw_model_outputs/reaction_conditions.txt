@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Sr(iPr3Cp)2 + H2O -> SrO + 2iPr3Cp"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the ligand exchange between the Sr(iPr3Cp)2 precursor and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The reaction is influenced by the oxygen source used, with H2O showing higher reactivity compared to O3. The partial decomposition of the iPr3Cp ligand and the strong tendency of water adsorption onto the SrO layer contribute to the enhanced growth rate.",
+  "intermediate_species": [
+    "Sr(iPr3Cp)2*",
+    "SrO*",
+    "iPr3Cp*"
+  ],
+  "evidence": "The authors reported that the SrO layer can be grown on a TiO2 surface even with the Sr(tmhd)2 + H2O chemistry as a result of the catalytic effect of the TiO2 surface, and stoichiometric STO films were grown by appropriate control of the SrO/TiO2 cycle ratio. The reaction of Sr(iPr3Cp)2 with H2O leads to the formation of SrO and the release of iPr3Cp ligands. The partial decomposition of the iPr3Cp ligand and the strong tendency of water adsorption onto the SrO layer contribute to the enhanced growth rate."
+}<|im_end|>

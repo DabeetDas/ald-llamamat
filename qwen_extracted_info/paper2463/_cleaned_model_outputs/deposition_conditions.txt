@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 470,
+  "pressure": "2–5 × 10−2 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 15,
+  "number_of_cycles": 100,
+  "reactor_type": "UHV chamber with synchrotron radiation",
+  "evidence": "The SR-ALE growth was conducted repeating the following cycle of steps: exposing the wafer to SiH2Cl2 gas for T1 s, evacuating the gas within 15 s, SR illumination for T2 s, and waiting for 3 s until the next ALE cycle begins."
+}

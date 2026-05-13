@@ -1,0 +1,7 @@
+{
+  "precursors": ["Pr[N(SiMe3)2]3", "La[N(SiMe3)2]3", "Gd[N(SiMe3)2]3", "[Pr(thd)3]", "[La(thd)3]", "[La(acac)3]", "[La(mmp)3]", "[Gd(mmp)3]", "[Nd(mmp)3]", "[Pr(mmp)3]", "[La(mmp)3]", "[Gd(mmp)3]", "[Nd(mmp)3]"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["toluene", "tetraglyme"],
+  "carrier_gas": [],
+  "evidence": "The MOCVD of PrOx and PrSixOy has recently been demonstrated using [Pr(thd)3] (thd = 2,2,6,6-tetramethylheptane-3,5-dionate). The alkoxide source [La(mmp)3] in toluene solvent (with added tetraglyme) allowed the growth of high purity La2O3 films over the temperature range 350–600 ◦C by liquid injection MOCVD. The [Nd(mmp)3] complex decomposes by a similar mechanism to that shown in Scheme 1. This would produce Nd2O3 and Nd(OH)3. However, this is not consistent with the AES data which indicated that the films were pure Nd2O3 with the expected O:Nd ratio of exactly 1.5. The [Pr(mmp)3]/tetraglyme in the presence of oxygen was used to deposit Pr6O11 films. The [Pr(mmp)3]/tetraglyme/toluene mixture was used to deposit GdOx films. The [La(mmp)3]/tetraglyme was used to deposit La2O3 films. The [Nd(mmp)3]/tetraglyme was used to deposit Nd2O3 films."
+}

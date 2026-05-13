@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Trimethylgallium (TMG)"
+  ],
+  "coreactants": [
+    "arsine (ASH3)"
+  ],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [
+    "H2"
+  ],
+  "evidence": "Trimethylgallium (TMG) and arsine (ASH3) were used as source materials. The flows of TMG and ASH3 are switched on and off alternatively with H2 purge duration. The flow rates of TMG, ASH3, and H2 carrier gas were 6 X 10^-3 mol/s (0.4 Pa partial pressure), 1.8 X 10^-5 mol/s (12 Pa), and 3000 sccm (1.44 X 10^3 Pa), respectively."
+}

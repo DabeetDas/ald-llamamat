@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350-400",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "FlexAl™ remote plasma and thermal ALD reactor",
+  "evidence": "For the plasma-assisted ALD process of Al2O3, an O2 plasma of 400 W was ignited at a pressure of 15 mTorr and sustained for a duration of 2 s. O2 also served as a purging gas because O2 does not react with Al(CH3)3. The O2 flow was kept constant at 60 SCCM during the entire cycle. A cycle time of 4 s was obtained by employing an Al(CH3)3 purge of 1.5 s and a postplasma purge of 0.5 s."
+}

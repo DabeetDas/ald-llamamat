@@ -1,0 +1,8 @@
+{
+  "target_material": "Silicon",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["dichlorosilane (SiH2Cl2)"],
+  "temperature_range": "room temperature to 800 °C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) of silicon using dichlorosilane (SiH2Cl2) on Si(100) and Si(111) surfaces. The process involves chemisorption of SiH2Cl2, forming silicon monochloride surface species, and subsequent removal of chlorine via reaction with atomic hydrogen. The results indicate that the previous models for ALE were incorrect and propose an alternative low-temperature ALE method using SiH2Cl2 at 600 °C and atomic hydrogen for chlorine removal.",
+  "evidence": "The chemisorption and reaction of dichlorosilane (SiH2Cl2) with Si(111) and Si(100) surfaces is investigated... Exposures to 8 kL of SiH2Cl2 were performed as a function of sample temperature in the range from room temperature to 800 °C... An alternative method for low-temperature ALE of Si is proposed, in which SiH2Cl2 is adsorbed onto Si at 600 °C and Cl is removed via reaction with atomic H."
+}<|im_end|>

@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "CuCl",
+    "Zn"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "CuCl ~Merck, min 98%! and Zn ~Merck, extra pure! were evaporated from open boats held inside the reactor at 390 and 435 °C, respectively. Their pulsing was accomplished by means of inert gas valving."
+}

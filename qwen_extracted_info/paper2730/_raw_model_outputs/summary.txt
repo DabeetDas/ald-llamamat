@@ -1,0 +1,8 @@
+{
+  "target_material": "AlN",
+  "process_type": "ALG",
+  "main_precursors": ["dimethylethylamine alane", "ammonia"],
+  "temperature_range": "613 K",
+  "summary": "The study describes the deposition of aluminum nitride (AlN) using atomic layer growth (ALG) in an atmospheric metalorganic chemical vapor deposition (MOCVD) reactor. The process uses dimethylethylamine alane and ammonia as precursors, and the films are deposited at temperatures between 300 and 800 K, with optimal results at 613 K. The ALG process allows for the formation of crystalline AlN on Al2O3 substrates and amorphous AlN on Si substrates.",
+  "evidence": "We have studied an atomic layer growth process using amine–alane adducts as precursors for depositing aluminum nitride (AlN) thin films at temperatures between 300 and 800 K. ... In this study we use an ALG method similar to one we characterized in UHV (Ref. 25) and demonstrate that it can be adapted to an atmospheric ALG growth strategy for deposition of AlN films at temperatures as low as 613 K."
+}<|im_end|>

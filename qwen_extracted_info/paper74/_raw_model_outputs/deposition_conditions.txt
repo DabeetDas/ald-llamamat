@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "150",
+ "pressure": "",
+ "precursor_pulse_time_s": "5",
+ "coreactant_pulse_time_s": "1",
+ "purge_time_s": "7",
+ "number_of_cycles": null,
+ "reactor_type": "",
+ "evidence": "The film thickness depends linearly on the number of reaction cycles, with a growth rate of (0.6/C60.1) NRE”8cycle /C01 (Figure 1). The growth rate remains constant (within uncertainty) for substrate temperatures varied between 120 and 2008C, silane pulse times between 1 and 5 s, and silane exposure times between 7 and 30 s (Figure 2)."
+}<|im_end|>

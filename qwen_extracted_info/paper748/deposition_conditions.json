@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 700,
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": 60,
+  "reactor_type": "tube furnace",
+  "evidence": "The 2D MoS2 atomic layers were then fabricated using MoF6 and MoCl5 at 700 °C by ALD as follows: Both MoF6 and MoCl5 precursor exposure for 4 s, 5 s Ar purging, 3 s H2S exposure, and 5 s Ar purging. The working pressure in the furnace was maintained at approximately 2 Torr."
+}

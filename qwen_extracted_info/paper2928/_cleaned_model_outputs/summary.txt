@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum (Al)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Hydrogen plasma"],
+  "temperature_range": "250°C",
+  "summary": "The study describes the atomic layer deposition of aluminum thin films using trimethylaluminum (TMA) and a hydrogen plasma. The hydrogen plasma acts as a reducing agent for TMA, enabling controlled layer-by-layer growth with excellent step coverage on high aspect ratio trenches. The growth rate was saturated at 0.15 nm/cycle, and the thickness was proportional to the number of cycles. The ALD process was performed at 250°C to prevent thermal decomposition of TMA.",
+  "evidence": "The atomic layer deposition of aluminum films using trimethylaluminum @TMA, Al2(CH3)6] and a hydrogen plasma was examined to improve the surface morphology with good step coverage. The most important role of the hydrogen plasma was to act as a reducing agent for TMA. The growth rate was saturated at ;0.15 nm/cycle, and the thickness was proportional to the number of reaction cycles. Repeating this reaction cycle led to controlled layer-by-layer growth. The root-mean-square roughness value of a 7.5 nm thick Al film was 0.195 nm, and ALD films had excellent step coverage on high aspect ratio trenches. The ALD process should be carried out at below 300°C. Consequently, these experiments were performed at 250°C."
+}

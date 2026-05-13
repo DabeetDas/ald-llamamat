@@ -1,0 +1,7 @@
+{
+  "precursors": ["MeCpPtMe3"],
+  "coreactants": ["O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "During the Pt ALD process, the precursors MeCpPtMe3 and O2 were fed into the reactor sequentially, separated by critical purging steps. Since MeCpPtMe3 is a solid precursor, an inert carrier gas (here, N2) was used to carry the vapor of the sublimed solid into the reactor. The MeCpPtMe3 precursor container and all of the lines leading into the reactor were maintained at 80 ◦C (using heating tape) in order to assist the sublimation of the solid MeCpPtMe3 precursor and to prevent the precursor vapor from subsequently condensing before entering the reactor."
+}

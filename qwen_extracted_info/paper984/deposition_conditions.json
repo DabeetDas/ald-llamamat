@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "90-180",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "1600",
+  "reactor_type": "Microchemistry F-120",
+  "evidence": "The ZTO buffer layer is deposited in a Microchemistry F-120 ALD reactor using the same process and parameters as summarized in. The deposition temperature of the ZTO films is varied between 90 °C and 180 °C in this study and the resulting material parameters are summarized in Table 1."
+}

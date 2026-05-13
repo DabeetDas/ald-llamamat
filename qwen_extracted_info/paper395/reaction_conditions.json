@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "GaCI + H2 -> Ga + HCI"
+  ],
+  "surface_mechanism_description": "Adsorbed GaCI molecules can react immediately with hydrogen because GaCI is supplied with H2 carrier gas in the ALE system, and CI is released from the surface as HCI. Further dissociation of GaCI by H2 on a Ga-covered surface could be suppressed by a very short residence time of GaCI (~10-3s at 450 °C) on the Ga-terminated surface.",
+  "intermediate_species": [
+    "GaCI",
+    "HCI"
+  ],
+  "evidence": "Based on these results, a model for the surface reaction when GaCI is supplied under ambient H2 to an As-stabilized surface is proposed, as shown in Fig. 5. Because the Ga-CI bond has a considerable high binding energy of 113.8 kcal mol-1, self-dissociation in the gas phase can be ignored. When GaCI reaches the surface, a large amount of H2 simultaneously impinges on the surface. GaCI is considered to release CI as HCI and form Ga atoms by the reaction between adsorbed GaCI and H2 gas. In this mechanism, H2 plays a very important role."
+}

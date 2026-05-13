@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "Al–OH.s/ C Cr.acac/3.g/ ! Al–O–Cr.acac/2.s/ C Hacac.g/",
+    "O–Cr.acac/2 .s/ CH2O.g/ ! O–Cr.acac/.OOCCH3/ .s/ CCH3COCH3.g/",
+    "Al–O.s/ C Cr.acac/3.s/ ! Al–.acac/.s/ C O–Cr.acac/2.s/"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves the saturating reaction of Cr(acac)3 with Al2O3, where Cr(acac)3 reacts with surface hydroxyl groups (Al–OH) to form surface complexes. The ligands from Cr(acac)3 are partially released, leaving some ligands bound to the surface Cr complex. The Cr(acac)3 vapor reacts with preheated Al2O3, and the surface complex is treated with air to remove ligand residues. The Cr loading increases with the number of saturating Cr(acac)3 and air reactions.",
+  "intermediate_species": [
+    "Cr.acac/3.g/",
+    "Hacac.g/",
+    "Al–O–Cr.acac/2.s/",
+    "O–Cr.acac/2 .s/",
+    "Al–.acac/.s/",
+    "O–Cr.acac/2.s/"
+  ],
+  "evidence": "The reaction mechanism and intermediate species were discussed in the context of the saturating reaction of Cr(acac)3 with Al2O3. The text describes the formation of surface complexes, the release of ligands, and the subsequent treatment with air to remove ligand residues. The IR spectra and chemical analysis of the catalysts provided evidence for the surface reactions and the presence of intermediate species."
+}<|im_end|>

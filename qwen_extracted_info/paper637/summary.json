@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnS xSe1ÿx",
+  "process_type": "Atomic layer epitaxy (ALE)",
+  "main_precursors": [
+    "dimethylzinc (DMZn)",
+    "hydrogen sulfide (H2S)",
+    "hydrogen selenide (H2Se)"
+  ],
+  "temperature_range": "150–225 8C",
+  "summary": "The study investigates the growth of ZnS xSe1ÿx layers on Si substrates using atomic layer epitaxy (ALE). The process involves the use of dimethylzinc (DMZn), hydrogen sulfide (H2S), and hydrogen selenide (H2Se) as precursors. The temperature range for optimal growth is between 150–225 8C, where the self-limiting mechanism ensures uniform deposition. The study also examines the composition dependence on precursor flow rates and the resulting crystalline quality and photoluminescence properties.",
+  "evidence": "The dimethylzinc (DMZn), hydrogen sulfide (H2S) and hydrogen selenium (H2Se) used as zinc, sulfur and selenium sources, respectively. The dependence of the composition of the ZnS xSe1ÿx films on H2S, H2Se flow rate and [H2S]/[H2S][H2Se] ratio were investigated. The growth rate per cycle became saturated at the monolayer thickness (2.71 A˚ ), i.e., the self-limiting mechanism takes place the substrate temperature between 150–225 8C."
+}

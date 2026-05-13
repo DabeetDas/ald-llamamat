@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Transmission Electron Microscopy (TEM)",
+    "Scanning Electron Microscopy (SEM)",
+    "X-ray Diffraction (XRD)",
+    "Ellipsometry"
+  ],
+  "evidence": "X-ray photoelectron spectra collected from several ZnO films deposited by ALD on silicon wafers verify the presence of only Zn and O, with a relatively small amount (≤2.5 atom %) of C even for films deposited at temperatures as low as 65 °C. The O1s spectrum shows evidence of oxide and O/H bonding, and peak integration indicates the OH content comprises 18% of the oxygen species present. Similar hydroxyl bonding is observed in infrared spectra of ZnO and Al2O3 layers deposited at low temperatures. Transmission electron micrographs of the resulting structures obtained after low temperature annealing are provided in panels a and b of Figures 3, 4 and 5. The crystal structure of the microtubes displayed in Figure 4 have been analyzed by XRD after annealing at 450 and 700 °C, and results are provided in panels a and b, respectively, of Figure 8. The Al2O3 and ZnO ALD film thicknesses on Si wafer were discerned by ellipsometry using refractive indices of 1.79 and 2.00 for Al2O3 and ZnO, respectively."
+}

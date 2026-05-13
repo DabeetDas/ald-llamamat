@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "½ZrðC5H5Þ2ðNR0 2Þ2/C138!½ ZrðC5H4Þ2/C138þ 2HNR0 2",
+    "½ZrðC5H4fCHR2gÞðNR0 2Þ2/C138!½ ZrðC5H4f@CR2gÞ2/C138þ 2HNR0 2"
+  ],
+  "surface_mechanism_description": "The decomposition of zirconocene compounds involves the initial loss of amido groups, which drives the reaction towards the formation of residual cyclopentadienyl ligands. These ligands are not sufficiently volatile to leave the molecule and deposit onto the film, leading to the presence of carbon in the films.",
+  "intermediate_species": [
+    "Zr(C5H4)2",
+    "HNR02",
+    "Cyclopentadienyl ligands"
+  ],
+  "evidence": "The mechanism of zirconocene compound decomposition proposed by Rossetto et al., which suggests the initial loss of the amido groups (Eq. (1) for unsubstituted and Eq. (2) for alkyl-substituted Cp ligands). This may be a result of the strong p-bonding of the cyclopentadienyl ligands to the zirconium centre and the fact that loss of highly volatile amines will drive the reaction to the right hand side."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of the precursor molecules followed by a reaction with ozone (O3). The growth rate for molybdenum oxide was higher but not fully saturative, while tungsten oxide showed saturative growth. The reaction with ozone combusted the ligands of the adsorbed precursors, leading to the formation of oxide films.",
+  "intermediate_species": [
+    "[Mo(NtBu)2(dpamd)2] adsorbed on the surface",
+    "surface hydroxyls",
+    "oxygen vacancies"
+  ],
+  "evidence": "The text states that the growth rate for molybdenum oxide was higher but not fully saturative, while tungsten oxide showed saturative growth. The reaction with ozone combusted the ligands of the adsorbed precursors, leading to the formation of oxide films. The surface reactions involved the adsorption of the precursor molecules followed by a reaction with ozone (O3)."
+}

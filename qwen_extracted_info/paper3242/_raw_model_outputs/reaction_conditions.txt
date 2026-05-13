@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during plasma-assisted ALD are influenced by the ion energy, which is controlled by substrate biasing. The ion energy affects adatom migration and ligand removal, and the physical surface reactions are enhanced with higher ion energies. The phase composition of TiO2 thin films can be tailored by adjusting the ion energy through substrate biasing.",
+  "intermediate_species": ["TiO2 surface", "OH groups", "TiO2 interface"],
+  "evidence": "The text discusses how substrate biasing during plasma-assisted ALD influences the ion energy, which in turn affects adatom migration and ligand removal. It also mentions that the phase composition of TiO2 thin films can be tailored by adjusting the ion energy through substrate biasing. The presence of OH groups at the TiO2 surface and interface is noted, as well as the incorporation of H under biased conditions."
+}<|im_end|>

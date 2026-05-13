@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "zinc acetate",
+    "zinc chloride"
+  ],
+  "coreactants": [
+    "H2S"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Zinc sulfide layers of approximately 700 nm thickness were deposited on glass substrates (50 X 200 mm) by the Atomic Layer Epitaxy (ALE) process. In this technique the zinc source chemical (zinc chloride or zinc acetate) is pulsed alternately with the sulfur-containing compound (H2S) onto the substrate whereupon an exchange reaction (for instance, ZnCl2 + H2S → ZnS + 2HC1) takes place."
+}

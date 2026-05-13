@@ -1,0 +1,12 @@
+{
+  "target_material": "nanoporous alumina membranes",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethyl aluminium",
+    "water",
+    "diethylzinc"
+  ],
+  "temperature_range": "300°C",
+  "summary": "Atomic layer deposition (ALD) was used to modify nanoporous alumina membranes for medical and environmental applications. The study focused on depositing zinc oxide and platinum coatings on nanoporous alumina membranes to enhance their functionality, such as antimicrobial activity and antifouling properties. The ALD process allowed for precise control over pore size and surface modification, which is crucial for applications in biosensors and water purification.",
+  "evidence": "Atomic layer deposition is a thin-film growth process that may be used to modify the pore size in a nanoporous alumina membrane while retaining a narrow pore distribution. In addition, films deposited by means of atomic layer deposition may impart improved biological functionality to nanoporous alumina membranes."
+}

@@ -1,0 +1,10 @@
+{
+  "target_material": "Ni",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": [
+    "bis(dimethylamino-2-methyl-2-butoxo)nickel [Ni(dmamb)2]"
+  ],
+  "temperature_range": "150 to 300 °C",
+  "summary": "The study investigates Plasma-Enhanced Atomic Layer Deposition (PEALD) of Ni using bis(dimethylamino-2-methyl-2-butoxo)nickel [Ni(dmamb)2] as a precursor and NH3 or H2 plasma as reactants. The results show that NH3 plasma leads to higher growth rates, lower resistivity, and lower carbon content compared to H2 plasma. The process is analyzed using XPS, STEM, and EELS, and the effects of plasma on growth characteristics and reaction chemistry are discussed.",
+  "evidence": "Ni plasma enhanced atomic layer deposition (PE-ALD) using bis(dimethylamino-2-methyl-2-butoxo)nickel [Ni(dmamb)2] as a precursor and NH3 or H2 plasma as a reactant was comparatively investigated. PE-ALD Ni using NH3 plasma showed higher growth rate, lower resistivity, and lower C content than that using H2 plasma."
+}

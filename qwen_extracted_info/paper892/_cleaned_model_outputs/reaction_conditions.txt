@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of HfO2 on Si(1 0 0) substrates using tetrakis(diethylamino)hafnium (Hf(DEA)4) and moisture. The mechanism is characterized by the formation of a silicon oxide interfacial layer, with no evidence of silicate structure. The interface is primarily silicon oxide, and the chemical state of Hf does not change throughout the HfO2/Si films.",
+  "intermediate_species": ["silicon oxide"],
+  "evidence": "The XPS studies show that the binding energies remain unchanged with film depth and that there is no apparent signature of silicate structure in the as-deposited films. EELS spectra taken at the interface and XPS measurements suggest the interface is mainly silicon oxide. The Hf 4f core level spectra show no shift in the binding energy with change in probing depth; therefore, the chemical state of Hf does not change throughout the HfO2/Si films."
+}

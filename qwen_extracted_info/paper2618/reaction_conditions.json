@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves stable adsorbed H* species rather than Cu(thd)x* or thd* intermediates. H* species are generated during H2(g) pulses and react with the precursor during CuII(thd)2(g) cycles to eliminate Hthd(g) and deposit Cu(s). The mechanism is enabled by Pd segregation to the growth surface and strong H* binding to Pd sites.",
+  "intermediate_species": [
+    "H*"
+  ],
+  "evidence": "In the proposed mechanism, precursor adsorption is reversible, and dissociatively adsorbed hydrogen are the stable surface intermediates between growth cycles. The mechanism is enabled by continuous diffusion of palladium from the seed layer into the deposited copper film and strong H* binding to palladium sites."
+}

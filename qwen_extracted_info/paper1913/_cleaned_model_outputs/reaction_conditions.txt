@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Copper atoms at grain boundaries and free surfaces may react to form surface species while the high mobility of copper allows the resulting vacancies to cluster into djurleite units. The reaction of copper atoms near a free surface or grain boundary with O2 to produce copper oxide (Cu2/C0 xO) results in a copper deficiency within the bulk of the sulfide, thereby increasing its carrier concentration.",
+  "intermediate_species": ["Cu vacancies", "Cu2O", "Cu(OH)2", "CuO", "Cu2O", "disulde (S2)2/C0"],
+  "evidence": "The surface species that result when pure and stoichiometric Cu2S films are exposed to ambient atmosphere have yet to be rigorously identified. The resulting species most often hypothesized is Cu2O, but direct evidence is lacking. The formation of Cu oxides or hydroxides that bind Cu, extracted from the Cu2S lattice, would be consistent with the increase in carrier concentration observed under exposure to air. XPS was utilized to identify the surface composition of Cu2S films before and after exposure to air."
+}

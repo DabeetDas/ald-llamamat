@@ -1,0 +1,8 @@
+{
+  "target_material": "Palladium",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["palladium(II) hexafluoroacetylacetonate (Pd II(hfac)2)", "molecular hydrogen"],
+  "temperature_range": "80 °C",
+  "summary": "The paper describes a method for atomic layer deposition (ALD) of palladium on oxidized metal substrates, specifically tantalum and silicon, without the use of plasma. The process uses palladium(II) hexafluoroacetylacetonate (Pd II(hfac)2) as the precursor and molecular hydrogen as a reducing agent. The study highlights the ability to deposit high-quality palladium films at low temperatures, with a focus on the role of atomic hydrogen in ligand removal and the impact of substrate oxidation on deposition efficiency.",
+  "evidence": "Palladium can be deposited on these substrates at 80 °C using molecular hydrogen and palladium(II) hexafluoroacetylacetonate (Pd II(hfac)2) as the precursor. ... The use of thermal ALD as opposed to a plasma process maintains the direction independence and high conformal nature of films produced by ALD, enabling deposition on highly varied topographies and three-dimensional porous structures."
+}

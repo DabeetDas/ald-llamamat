@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "TICS: Si NCO",
+    "TEA: N C H"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The text states: 'A substrate was alternately exposed to TICS and TEA, instead of H2O. ... Source gases were supplied without a carrier gas, and their chamber pressures were their vapor pressures at their reservoir temperatures.'"
+}

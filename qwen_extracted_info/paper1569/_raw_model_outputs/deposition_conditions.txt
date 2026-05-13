@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": "400",
+  "reactor_type": "Cross-flow",
+  "evidence": "For a typical growth, the Mg precursor was introduced once every 5 cycles of repeated pulses of Fe precursors and H2O. A 20 nm thick film was produced by 400 cycles of deposition (measured by Fe precursor pulses), resulting in a Mg concentration of ca. 3% (Figure 1c)."
+}<|im_end|>

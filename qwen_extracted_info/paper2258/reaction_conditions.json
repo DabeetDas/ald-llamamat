@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD reaction based on 3-aminopropyltriethoxysilane (APTES), water, and ozone provides outstanding SiO2 quality and is free of catalysts or corrosive by-products. The growth per cycle was determined to be 0.85 Å. The chemical oxide is the most suitable surface for linear deposition due to its high concentration of OH groups, as demonstrated by studies on the initial growth of hafnium oxide on silicon substrates with various pretreatments.",
+  "intermediate_species": [
+    "Si–O–H",
+    "OH groups",
+    "Si–O–Si",
+    "Si–O–Al(CH3)2",
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The ALD reaction based on 3-aminopropyltriethoxysilane (APTES), water, and ozone provides outstanding SiO2 quality and is free of catalysts or corrosive by-products. The chemical oxide is the most suitable surface for linear deposition due to its high concentration of OH groups, as demonstrated by studies on the initial growth of hafnium oxide on silicon substrates with various pretreatments."
+}

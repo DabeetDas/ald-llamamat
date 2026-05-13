@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "200",
+ "pressure": "",
+ "precursor_pulse_time_s": 0.1,
+ "coreactant_pulse_time_s": 0.1,
+ "purge_time_s": 1,
+ "number_of_cycles": null,
+ "reactor_type": "spatial-ALD",
+ "evidence": "The resistivity obtained for deposition parameters of 10 ms DEZ pulse, 25 ms water pulse and 1 s purge time (not shown in the graph) is somewhat outstanding. The measured resistivity is three orders of magnitude higher than for the other parameter combinations."
+}

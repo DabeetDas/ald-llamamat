@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "[Zr(NEtMe)2(guan-NEtMe2)2]"
+  ],
+  "coreactants": [
+    "O3",
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Nitrogen (>99.999%) from Nitrox UHPN 3000-1 nitrogen generator was used as a carrier and purge gas."
+}

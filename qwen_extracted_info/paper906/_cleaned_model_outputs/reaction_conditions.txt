@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Exposure of La2O3 films to air leads to a fast formation of hydrated lanthanum oxide species, namely LaOOH and La(OH)3. Vacuum annealing in the 300–500 °C range results in the gradual formation of c-La2O3 while annealing at 600 °C generates the h-La2O3. A quick transformation from h-La2O3 into La(OH)3 occurs due to H2O absorption.",
+  "intermediate_species": ["La(O)OH", "La(OH)3", "hexagonal La(OH)3", "c-La2O3", "h-La2O3"],
+  "evidence": "Exposure of La2O3 films to air is accompanied by a fast formation of hydrated lanthanum oxide species, namely LaOOH and La(OH)3. Vacuum annealing in the 300–500 °C range results in the gradual formation of c-La2O3 while annealing at 600 °C generates the h-La2O3. A quick transformation from h-La2O3 into La(OH)3 occurs due to H2O absorption."
+}

@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Scanning Electron Microscopy (SEM)",
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Reflectivity (XRR)",
+    "X-ray Diffraction (XRD)",
+    "Four-point probe resistivity measurement",
+    "Contact angle measurement",
+    "Auger Electron Spectroscopy (AES)",
+    "Tape tests"
+  ],
+  "evidence": "The text states: 'Topography and surface roughness of the iridium coatings were determined by atomic force microscopy (AFM) and scanning electron microscopy (SEM). [...] X-ray reﬂectivity (XRR) and X-ray diffraction (XRD) were applied to determine the layer thickness, layer density, and crystalline structure of the coatings. [...] The percolation threshold and speciﬁc electrical resistance of the Ir coatings were determined using a four-point probe resistivity measurement. [...] The surface free energy was determined by wetting analysis [...] using the contact angle measurement system OCA20. [...] The adhesive strength of the Ir coatings to the substrate materials was evaluated by tape tests. [...] The elemental composition of an Ir coating on a Si wafer was determined by an Auger electron spectroscopy (AES) depth proﬁle.'"
+}<|im_end|>

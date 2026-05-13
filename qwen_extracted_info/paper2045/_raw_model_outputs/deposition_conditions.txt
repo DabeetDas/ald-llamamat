@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175–250",
+  "pressure": "",
+  "precursor_pulse_time_s": 60,
+  "coreactant_pulse_time_s": 60,
+  "purge_time_s": null,
+  "number_of_cycles": 15,
+  "reactor_type": "cold-wall-type",
+  "evidence": "ZTB exposure followed by H2O exposure was cyclically repeated 2–15 times at various substrate temperatures (Tsub). The exposure time for ZTB was 10–180 s and 60 s for H2O. The vapor pressure of ZTB during deposition was controlled to 0.01–0.04 kPa and H2O pressure was controlled to 0.13–1.05 kPa. Tsub was between 75–400 °C."
+}<|im_end|>

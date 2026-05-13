@@ -1,0 +1,11 @@
+{
+  "target_material": "GaN",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "trimethylgallium (GaMe3)",
+    "N2/H2 gas mixture"
+  ],
+  "temperature_range": "200 /C14 C",
+  "summary": "The study reports the fabrication of GaN thin film transistors (TFTs) using hollow cathode plasma-assisted atomic layer deposition (HCPA-ALD) at a low process temperature of 200 /C14 C. The GaN films exhibit a polycrystalline wurtzite structure with an average crystallite size of 9.3 nm. The fabricated TFTs demonstrate n-type field effect characteristics with an on-to-off ratio of 10^3 and a sub-threshold swing of 3.3 V/decade. The entire fabrication process maintains a thermal budget below 250 /C14 C, which is the lowest reported for GaN-based transistors.",
+  "evidence": "GaN thin films are grown at 200 /C14 C by hollow cathode plasma-assisted atomic layer deposition (HCPA-ALD). ... The entire TFT device fabrication process temperature is below 250 /C14 C, which is the lowest process temperature reported for GaN based transistors, so far. ... GaN thin films are deposited by HCPA-ALD, using trimethylgallium (GaMe3) as the Ga precursor and N2/H2 gas mixture (50/50 sccm) with 300 W of plasma power as the N precursor at a process temperature of 200 /C14 C."
+}

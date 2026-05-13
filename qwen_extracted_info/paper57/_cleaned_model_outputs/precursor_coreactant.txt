@@ -1,0 +1,7 @@
+{
+  "precursors": ["EBECHRu"],
+  "coreactants": ["O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "During the initial stages of 1-(ethylbenzyl)-1,4-(ethylcyclohexadienyl)ruthenium and oxygen (EBECHRu/O2) atomic layer deposition (ALD) on dielectrics, Ru particles are too small to catalytically dissociate oxygen, and their growth is suppressed."
+}

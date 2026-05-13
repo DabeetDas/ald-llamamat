@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 140,
+  "pressure": "10 −4 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Showerhead",
+  "evidence": "The Si substrate is kept at 140 °C during ALD growth, that is, during alternative pulses of tBu-AllylCo(CO)3 and dimethylhydrazine separated by N 2-purge. The tBu-AllylCo(CO)3 precursor is exposed by a 2-s pulse using ultrapure N 2 carrier gas (flow rate = 10 sccm, P ∼ 20 mTorr) through an ampule kept at 35 °C. The dimethylhydrazine is introduced by a 1-s pulse, drawn directly from the reservoir at room temperature (9 Torr vapor pressure)."
+}<|im_end|>

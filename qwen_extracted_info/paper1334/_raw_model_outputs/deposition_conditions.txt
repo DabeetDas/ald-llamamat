@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "1×10 K6 Torr at base and 2×10 K5 Torr during operation",
+  "precursor_pulse_time_s": 90,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "multiKbeam system with a 10\" outer diameter stainless steel main chamber",
+  "evidence": "The growth rate of CoO and Fe 2O 3 as a function of the precursor pulse time are shown in Figure 2 (a). The data indicate that a 90 s precursor pulse time for both Co(TMHD)2 and Fe(TMHD)3 was sufficient to achieve saturation, and was kept constant as a process parameter for the remainder of the experiments."
+}<|im_end|>

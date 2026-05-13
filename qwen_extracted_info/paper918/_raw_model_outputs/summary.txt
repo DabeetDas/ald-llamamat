@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru(-C) films",
+  "process_type": "PEALD",
+  "main_precursors": ["RuEtcp2", "N2/H2 plasma"],
+  "temperature_range": "270 /C176C",
+  "summary": "The study compares the diffusion barrier properties of PVD Ru and PECVD/PEALD Ru-C films using bias temperature stress measurements. The results indicate that PEALD and PECVD Ru-C films exhibit better barrier performance due to carbon impurities in the Ru films. The PEALD process is compared to Kwon et al., and the films are found to be weakly crystalline. The study also highlights the role of electric field drift in Cu diffusion and the impact of annealing on the barrier performance.",
+  "evidence": "The diffusion barrier properties of PVD Ru and PECVD / PEALD Ru-C films, deposited by RuEtcp2 precursor and N2/H2 plasma, were compared on the basis of bias temperature stress measurements. An MIS test structure was used to distinguish between thermal diffusion induced by annealing and a Cu field drift due to applied electric fields. BTS-CV, TZDB and TDDB measurements revealed that the barrier performance is significantly better for PEALD and PECVD Ru-C films. This improvement is associated with carbon impurities in the Ru films with a concentration in the order of several percent according to ToF-SIMS and ERDA."
+}<|im_end|>

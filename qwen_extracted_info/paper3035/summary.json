@@ -1,0 +1,10 @@
+{
+  "target_material": "Lu silicate",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Me3Si2N3Lu"
+  ],
+  "temperature_range": "380°C",
+  "summary": "Lu silicate films were deposited using atomic layer deposition (ALD) on Si(100) substrates from tris(trimethylsilyl)amido-lutetium (Me3Si2N3Lu), with water or ozone as oxygen sources. The films are amorphous, have low physical roughness, and promote a SiO2-rich interfacial layer on Si(100). Annealing at 950°C induces densification and increases electronic density. The dielectric constant values range between 5 and 7, and the conduction band offset between the Lu silicate layer and Si(100) is 2.2 eV.",
+  "evidence": "The text states: 'Lu silicate films were deposited using atomic layer deposition (ALD) on Si(100) substrates from tris(trimethylsilyl)amido-lutetium (Me3Si2N3Lu), with water or ozone as oxygen sources. The films are amorphous, have a low physical roughness, and promote a SiO2-rich interfacial layer on Si(100). Annealing at 950°C induces densification and increases electronic density. The dielectric constant values range between 5 and 7, and the conduction band offset between the Lu silicate layer and Si(100) is 2.2 eV.'"
+}

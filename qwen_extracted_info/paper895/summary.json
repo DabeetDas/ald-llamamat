@@ -1,0 +1,11 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "Thermal ALD and PE-ALD",
+  "main_precursors": [
+    "RuCp2",
+    "Ru(EtCp)2"
+  ],
+  "temperature_range": "300 /C176 C",
+  "summary": "Ruthenium thin films were grown by thermal and plasma-enhanced atomic layer deposition (PE-ALD) using O2 and ammonia (NH3) plasma as reactants. The study focused on the nucleation behavior, film morphology, and electrical properties of the deposited Ru films, comparing them with sputtered Ru. PE-ALD Ru showed no nucleation delay and lower roughness compared to thermal ALD Ru. The electrical properties of ALD Ru as a gate electrode were characterized using MOS capacitors, showing minimal hysteresis and a small work function difference to the Si substrate.",
+  "evidence": "Ruthenium thin films were grown by thermal and plasma-enhanced atomic layer deposition (PE-ALD) using O2 and ammonia (NH3) plasma as reactants. PE-ALD Ru showed no nucleation delay and lower roughness compared to thermal ALD Ru. The electrical properties of ALD Ru as a gate electrode were characterized using MOS capacitors, showing minimal hysteresis and a small work function difference to the Si substrate."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Tin oxide",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["Tetraethyltin (TET)", "Ozone (O3)", "Hydrogen peroxide (H2O2)", "Oxygen plasma", "Water (H2O)"],
+  "temperature_range": "200–300 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of tin oxide using tetraethyltin (TET) and various coreactants such as ozone (O3), hydrogen peroxide (H2O2), oxygen plasma, and water (H2O). The optimal growth conditions for different coreactants were determined, with the best results achieved at temperatures between 200–300 °C. The films deposited on stainless steel showed high reversible capacity and good electrochemical performance as anodes for lithium-ion batteries.",
+  "evidence": "The authors deposited thin films of tin oxide on substrates of silicon and stainless steel by using atomic layer deposition (ALD) with tetraethyltin precursors. The growth rates of films were studied as functions of the deposition temperature, the pulse times of the precursor and coreactant, and the number of ALD cycles, and the optimal growth conditions were determined. The films deposited on stainless steel had high reversible capacity above 900 mA h g^{-1}, exceptional cycleability, and good electrochemical performance as anodes for lithium-ion batteries."
+}<|im_end|>

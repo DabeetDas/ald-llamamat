@@ -1,0 +1,8 @@
+{
+  "target_material": "bismuth-silicon dioxide core-shell structures",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["3-aminopropyltriethoxysilane", "water", "ozone"],
+  "temperature_range": "130–300 K",
+  "summary": "The study describes the fabrication of bismuth-silicon dioxide core-shell nanowires using atomic layer deposition (ALD) to control the pore diameter of anodic aluminium oxide (AAO) templates. The ALD process involved the deposition of silicon dioxide using 3-aminopropyltriethoxysilane, water, and ozone as precursors. The resulting nanowires exhibited preferential growth along the (110) direction and showed semiconducting or semimetallic behavior depending on their diameter. The study also investigated the optical and electrical properties of the nanowires.",
+  "evidence": "Bismuth (Bi) nanowires were grown electrochemically into the pores of anodic aluminium oxide (AAO) templates. The diameter of the pores in the AAO membranes has been precisely tuned down to 30 nm by atomic layer deposition (ALD) of silicon dioxide onto the pore walls. ... The fabricated Bi nanowires showed a highly preferential growth orientation along the (110) direction. ... The absorption edge energy, /C24 87 meV, of narrower 30 nm diameter semiconducting nanowires decreased with increasing the wire diameter and led ultimately to the observation of semimetallic behavior in the 200 nm thick wires. ... The semiconducting bandgap energy, /C24 67 meV, was obtained by comparison of the experimental data to a simple theoretical model."
+}

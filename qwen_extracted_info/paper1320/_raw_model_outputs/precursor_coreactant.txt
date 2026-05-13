@@ -1,0 +1,7 @@
+{
+  "precursors": ["DTDN2-H2"],
+  "coreactants": ["N2 plasma"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "PEALD silicon nitride thin films were prepared using DTDN2-H2 and N2 plasma. DTDN2-H2 feeding times and N2 plasma time for saturated surface reactions were 3 s and 10 s, respectively. The PEALD process window was between 250 and 400°C with a growth rate of 0.36 Å/cycle. Best film quality was obtained at 400°C. At 450°C and higher temperatures, however, Si-rich films were grown with higher growth rates, resulting in higher trap densities and wet etch rates. The growth rate is nearly constant with RF powers between 75 W and 150 W, and then increased with RF powers of 200 W or higher. Best film quality was obtained with a RF power of 100 W, and the trap density and the wet etch rate was increased with increasing RF power because of the deposition of carbon impurity. The PEALD film of this study showed good bottom and sidewall coverage of ~80% and ~73% on a trench-patterned wafer with an aspect ratio of 5.5."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "WN xCy, WN x, WC x",
+  "process_type": "thermal ALD and PEALD",
+  "main_precursors": ["tungsten hexafluoride (WF6)", "triethyl borane (TEB)", "ammonia (NH3)", "bis(tert-butylimido)-bis(dimethylamido)tungsten (tBuN)2(Me2N)2W (imido–amido)"],
+  "temperature_range": "250 /C176C to 375 /C176C",
+  "summary": "The study compares the deposition of ternary WN xCy and binary WN x and WC x layers using ALD processes. The ternary system is deposited at 300 /C176C using WF6, TEB, and NH3, while WC x is deposited at 250 /C176C and WN x at 375 /C176C using different precursors. The growth characteristics, film properties, and galvanic corrosion behavior are analyzed.",
+  "evidence": "A ternary WN xCy system was deposited in a thermal ALD reactor from ASM at 300 /C176C in a process sequence using tungsten hexafluoride (WF6), triethyl borane (TEB) and ammonia (NH3) as precursors. The WCx layers were deposited by a novel ALD process at a process temperature of 250 /C176C. The WNx layers were deposited at 375 /C176C using bis(tert-butylimido)-bis(dimethylamido)tungsten (tBuN)2(Me2N)2W (imido–amido) and NH3 as precursors."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "In2O3",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["InCl3", "water"],
+  "temperature_range": "400~ to 500~",
+  "summary": "Indium oxide thin films were deposited by atomic layer epitaxy using InCl3 and water as precursors at temperatures of 400~ and 500~. The films were polycrystalline with the [100] direction as the most pronounced orientation. The highest growth rate was 0.27 A/cycle, but the low growth rate was attributed to thermodynamically unfavorable reactions and etching caused by decomposition products of InCl3. The films exhibited high transparency and low resistivity, making them suitable for applications such as transparent electrodes and optoelectronic devices.",
+  "evidence": "Indium oxide thin films were deposited by atomic layer epitaxy technique at 400 and 500~ using InCl3 and water as reactants. The films were polycrystalline In2O3 having the [100] direction as the most pronounced orientation. The highest deposition rate obtained was only 0.27 A/cycle. The resistivities of the highly transparent films were in the order of 3  10 -3 ~l-cm. The low growth rate was attributed to thermodynamically unfavorable reactions and etching caused by decomposition products of InCl3."
+}

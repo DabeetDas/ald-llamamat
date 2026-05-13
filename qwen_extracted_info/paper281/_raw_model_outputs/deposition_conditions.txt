@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": "45",
+  "coreactant_pulse_time_s": "15",
+  "purge_time_s": "20",
+  "number_of_cycles": null,
+  "reactor_type": "home made ALD reactor",
+  "evidence": "In the first half cycle the fiber bundle was exposed to aluminium chloride for 45 s followed by purging the reactor with nitrogen for 20 s. In the second half cycle it was exposed to water vapor for 15 s followed by purging the reactor with nitrogen for 20 s."
+}<|im_end|>

@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "CpCu . TEP",
+    "TEG"
+  ],
+  "coreactants": [
+    "H2S"
+  ],
+  "purge_gas": [
+    "Hydrogen"
+  ],
+  "carrier_gas": [
+    "Hydrogen"
+  ],
+  "evidence": "The substrates were sulfur doped n-type GaP (001) and silicon-doped n-type GaAs (001) surfaces. The flow rate of CpCu . TEP is indicated in the table in terms of the hydrogen flow rate. One cycle of source gas introduction consisted of four steps; hydrogen purge, H2S feeding, hydrogen purge, and CpCu . TEP/TEG mixed source feeding. The reactor was purged by pure hydrogen gas between alternating supplies."
+}

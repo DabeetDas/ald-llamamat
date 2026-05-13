@@ -1,0 +1,13 @@
+{
+ "characterization_methods": [
+   "Scanning Electron Microscopy (SEM)",
+   "Energy-dispersive X-ray spectroscopy (EDX)",
+   "X-ray diffraction (XRD)",
+   "X-ray reflectometry",
+   "Spectroscopic ellipsometry",
+   "Electrochemical impedance spectroscopy (EIS)",
+   "Cyclic voltammetry",
+   "Steady-state electrolysis"
+ ],
+ "evidence": "The morphology and composition of the electrodes are characterized by scanning electron microscopy, energy-dispersive X-ray spectroscopy, and X-ray diffraction. The ALD film growth is quantified by spectroscopic ellipsometry and X-ray reflectometry. The charge transfer resistance is analyzed through electrochemical impedance spectroscopy. The electrocatalytic oxygen evolution activity is quantified by cyclic voltammetry, steady-state electrolysis, and electrochemical impedance spectroscopy."
+}

@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "CoCp2 + O2 plasma -> CoOx + Cp ligands (combustion-like reactions)",
+    "TMP + surface -> PO3CH4 + methanol (chemisorption and ligand elimination)"
+  ],
+  "surface_mechanism_description": "The CoCp2 dosing is characterized by associative adsorption without ligand exchange, followed by removal of Cp ligands via combustion-like reactions during O2 plasma exposure. The TMP dosing involves chemisorption via elimination of methanol, with subsequent oxidation via O2 plasma exposure.",
+  "intermediate_species": [
+    "cyclopentadienone (C5H4O)",
+    "C4H4",
+    "C2H2",
+    "CO",
+    "CO2",
+    "methanol"
+  ],
+  "evidence": "The authors have indirectly identified cyclopentadienone as an intermediate of the oxidation and removal of cyclopentadienyl ligand. The time-resolved QMS measurements detected species such as C4H4+, C2H2+, CO+, and CO2+ during the O2 plasma steps, indicating the oxidation and dissociation of ligands. The generation of methanol was verified through QMS measurements, confirming the chemisorption and ligand elimination process for TMP."
+}

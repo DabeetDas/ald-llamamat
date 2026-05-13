@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "TiOOH* + TiCl4 → TiOOTiCl3* + HCl",
+    "TiCl* + H2O2 → TiOOH* + HCl",
+    "Al(CH3)3 + NH3 → AlN + 3CH4",
+    "AlNH2* + Al(CH3)3 → AlNAlCH3* + 2CH4",
+    "AlCH3* + NH3 → AlNH2* + CH4"
+  ],
+  "surface_mechanism_description": "The ALD process involves two half-reactions for each deposition. For TiO2, the first reaction involves the surface hydroxyl groups reacting with TiCl4 to form a titanium-containing surface species and HCl. The second reaction involves the surface species reacting with H2O2 to form TiOOH* and HCl. For AlN, the first reaction involves the surface species reacting with TMA to form an intermediate species and CH4, and the second reaction involves the intermediate species reacting with NH3 to form AlN and CH4.",
+  "intermediate_species": [
+    "TiOOH*",
+    "TiCl*",
+    "AlNH2*",
+    "AlNAlCH3*",
+    "AlCH3*"
+  ],
+  "evidence": "The surface reactions and mechanisms are described in the text as follows: 'The ALD process involves two half-reactions for each deposition. For TiO2, the first reaction involves the surface hydroxyl groups reacting with TiCl4 to form a titanium-containing surface species and HCl. The second reaction involves the surface species reacting with H2O2 to form TiOOH* and HCl. For AlN, the first reaction involves the surface species reacting with TMA to form an intermediate species and CH4, and the second reaction involves the intermediate species reacting with NH3 to form AlN and CH4.'"
+}

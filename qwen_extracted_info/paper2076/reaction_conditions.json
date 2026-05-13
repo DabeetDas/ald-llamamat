@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "i−NH+B sC2H5d3! i−BsC2H5da +cC2H6",
+    "i−BsC2H5da +WF6! i−WFxsC2H5dy +B sC2H5dnFm",
+    "i−WFxsC2H5dy +NH3! i−NH+ zHF"
+  ],
+  "surface_mechanism_description": "The surface chemistry involves ligand exchange reactions where the WF6-terminated surface reacts with NH3 in a ligand exchange reaction to produce W-N bonds and HF as by-product. The triethylboron-terminated surface reacts with WF6 via transmetalation to form W-C bonds and liberates fluoroboron species. The ammonia-terminated surface complex provides adsorption sites for the Lewis acid B sC2H5d3.",
+  "intermediate_species": [
+    "i−NH+",
+    "i−BsC2H5da",
+    "i−WFxsC2H5dy",
+    "B sC2H5dnFm",
+    "cC2H6",
+    "zHF"
+  ],
+  "evidence": "The surface chemistry is believed to involve the following surface reactions: siiid i−NH+B sC2H5d3! i−BsC2H5da +cC2H6 sivd i−BsC2H5da +WF6! i−WFxsC2H5dy +B sC2H5dnFm svd i−WFxsC2H5dy +NH3! i−NH+ zHF"
+}

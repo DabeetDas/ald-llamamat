@@ -1,0 +1,11 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": [
+    "Ru(EtCp)2",
+    "NH3 plasma"
+  ],
+  "temperature_range": "270°C",
+  "summary": "The study investigates the initial stages of ruthenium film growth using plasma-enhanced atomic layer deposition (PEALD) on titanium nitride (TiN) substrates. It highlights the importance of controlling the deposition process during the transient region to achieve a continuous and thin ruthenium film with good adhesion properties for copper interconnects.",
+  "evidence": "The initial stages of ruthenium film growth in plasma-enhanced atomic layer deposition (PEALD) on titanium nitride (TiN) substrates were investigated. The time required for saturated adsorption of Ru(EtCp)2 as well as the amount of deposited ruthenium atoms per cycle changed during the initial stage. By considering these changes during the initial stages of PEALD ruthenium growth, the full coverage of PEALD ruthenium can be obtained at a minimum thickness of 2.7 nm."
+}

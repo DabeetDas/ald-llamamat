@@ -1,0 +1,7 @@
+{
+  "precursors": ["WF6", "Si2H6", "Al(CH3)3"],
+  "coreactants": ["H2O"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "W ALD was performed using alternating exposures of WF6 and Si2H6. Al2O3 ALD was performed using alternating exposures of Al(CH3)3 and H2O."
+}

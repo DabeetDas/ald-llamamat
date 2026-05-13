@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD of ZnO involved the use of diethylzinc (DEZn) and water (H2O) as precursors. Each H2O pulse was 0.1 s in duration followed by a 5 s N2 purge, and each DEZn pulse was 0.01 s in duration followed by a 5 s N2 purge. The reaction mechanism is not explicitly detailed in terms of chemical equations but is implied through the ALD process description.",
+  "intermediate_species": [
+    "ZnO crystallites",
+    "ZnO embryos",
+    "hexagonal prisms"
+  ],
+  "evidence": "The text describes the use of diethylzinc (DEZn) and water (H2O) as precursors for ZnO growth, with specific pulse durations and purge times. It mentions the formation of ZnO crystallites, embryos, and hexagonal prisms during the ALD process, indicating the surface reactions and intermediate species formed."
+}

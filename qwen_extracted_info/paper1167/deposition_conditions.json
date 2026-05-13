@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "10",
+  "purge_time_s": "30",
+  "number_of_cycles": null,
+  "reactor_type": "viscous flow",
+  "evidence": "The ALD timing sequence is specified by t1-t2-t3-t4 where t1 is the exposure time for the first precursor, t2 is the purge time following the first exposure, t3 is the exposure time for the second precursor, and t4 is the purge time following the exposure to the second precursor. The timing sequences used in this study were 1 -10-1-10 for Al 2O3 ALD and 1-5-1-5 for TiO2 ALD with all times measured in seconds."
+}

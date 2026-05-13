@@ -1,0 +1,11 @@
+{
+  "target_material": "CuO",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Cu(acac)2",
+    "artificial air"
+  ],
+  "temperature_range": "room temperature to approximately 500°C",
+  "summary": "The study describes the development of a mini-ALE attachment for UHV surface analysis equipment to grow CuO on Al2O3. The system uses Cu(acac)2 and artificial air as reactants, with temperature control up to 500°C. The growth process was tested by growing Cu on Al2O3 and analyzing the results using LEIS.",
+  "evidence": "The text states: 'The system was tested by attaching it to one of our LEIS set-ups and growing CuO on A1203, using Cu(acac)2 and artificial air as reactants. Cu growth was observed, covering about 3% of the surface.'"
+}

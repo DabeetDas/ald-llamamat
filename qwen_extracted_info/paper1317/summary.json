@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3−Ga2O3 alloy",
+  "process_type": "copulsing ALD",
+  "main_precursors": [
+    "Trimethyl aluminum (TMAl)",
+    "Trimethyl gallium (TMGa)"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the use of a copulsing ALD technique to deposit (Al2O3)1−x(Ga2O3)x alloy coatings on Li[Ni0.5Mn0.3Co0.2]O2 cathodes to improve rate performance in Li-ion batteries. The alloy coatings enhance electron conductivity and reduce overpotential, leading to better capacity retention and improved electrochemical performance. The optimal composition for rate performance was found to be (Al2O3)0.5(Ga2O3)0.5.",
+  "evidence": "The study describes the use of a copulsing ALD technique to deposit (Al2O3)1−x(Ga2O3)x alloy coatings on Li[Ni0.5Mn0.3Co0.2]O2 cathodes to improve rate performance in Li-ion batteries. The alloy coatings enhance electron conductivity and reduce overpotential, leading to better capacity retention and improved electrochemical performance. The optimal composition for rate performance was found to be (Al2O3)0.5(Ga2O3)0.5."
+}

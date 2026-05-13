@@ -1,0 +1,11 @@
+{
+  "target_material": "GaN",
+  "process_type": "ALD",
+  "main_precursors": [
+    "GaCl3",
+    "NH3"
+  ],
+  "temperature_range": "500–750 °C",
+  "summary": "The study demonstrates the atomic layer deposition (ALD) of GaN using GaCl3 and NH3 precursors. The process exhibits a self-limiting adsorption mechanism, with a growth rate plateau of 2.0–2.1 Å/cycle. The temperature range for ALD growth is 500–750 °C, and the films show mixed orientations of GaN (0002) and (101̄1). The study highlights the advantages of using GaCl3 for its thermal stability, which allows for a wide temperature window and reduced Cl incorporation compared to other methods.",
+  "evidence": "GaN films were grown on Si /100/ substrate by atomic layer deposition (ALD) using GaCl3 and NH3. Growth conditions were identified for which the growth rate exhibited a plateau at 2.0 Å / cycle, consistent with self-limiting adsorption. A relatively wide temperature window (500–750 °C) for ALD growth mode was also established. The study concludes that GaCl3 is a superior source due to its thermal stability, which increases the width of the temperature window."
+}

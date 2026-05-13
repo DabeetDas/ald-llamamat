@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": 200,
+  "reactor_type": "showerhead",
+  "evidence": "The precursor was a white powder at room temperature with a vapor pressure of 0.8 Torr at 40 °C. The W precursor was vaporized in a bubbler at 40 °C and carried to the chamber by Ar gas at 50 standard cubic centimeters per minute (sccm). During reactant pulsing, a radio frequency (RF) power of 100 watts (W) was applied to the showerhead to ignite the corresponding plasma. After the precursor pulse and reactant pulse, a purge with 200 sccm of Ar was performed for 10 s."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Pt–Rh catalysts",
+  "process_type": "atomic layer chemical vapor deposition (ALCVD)",
+  "main_precursors": ["Fe(thd)3", "ozone"],
+  "temperature_range": "186 8C",
+  "summary": "The study investigates the effect of a-Fe2O3 surface coating on the reconstruction of Pt–Rh catalysts during ammonia oxidation. The a-Fe2O3 coating was applied using atomic layer chemical vapor deposition (ALCVD) with Fe(thd)3 and ozone as precursors at 186 8C. The coating significantly influenced the reconstruction patterns, leading to faster reconstruction and more extensive patterns on Pt/20 wt.% Rh and Pt/30 wt.% Rh catalysts compared to uncoated ones. The a-Fe2O3 coating degraded to Fe3O4 at temperatures exceeding 1400 8C, affecting catalytic activity and selectivity.",
+  "evidence": "The a-Fe2O3 coating was applied using atomic layer chemical vapor deposition (ALCVD). The films were deposited using 10 000 cycles of Fe(thd)3 and ozone at a reactor temperature of 186 8C. a-Fe2O3 is virtually stoichiometric at and below 900 8C and decomposes thermally above 1400 8C."
+}<|im_end|>

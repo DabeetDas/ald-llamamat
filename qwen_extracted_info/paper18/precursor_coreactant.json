@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Al(CH3)3 (TMA)",
+    "Ti(OiPr)4 (TiOP)"
+  ],
+  "coreactants": [
+    "H2O2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "ALD Coating : Commercially available PC and PMMA nanostructured substrates were coated by ALD. Deposition of thin Al2O3 and TiO2 layers was carried out in a commercial hot-wall flow type ALD reactor (SUNALE R75, Picosun, Finland). Al(CH3)3 (TMA), Ti(OiPr)4 (TiOP) and 30% H2O2 were used as aluminum, titanium, and oxygen reactant sources, respectively. TMA and H2O2 were delivered to the reactor as ambient temperature vapors, whereas the TiOP precursor was heated to 60 8C and delivered through a booster system. The pulsing times were 0.1 s for TMA, 0.5 s for TiOP, and 2 s for H2O2 with N2 as carrier gas at a flow rate of 200 sccm. The purging time after each pulse was set to 4 s. Purging involved N2 gas with a flow rate of 200 sccm."
+}

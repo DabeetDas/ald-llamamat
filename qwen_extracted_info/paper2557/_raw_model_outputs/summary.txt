@@ -1,0 +1,8 @@
+{
+  "target_material": "NiO / ZnO nanorods",
+  "process_type": "atomic layer deposition",
+  "main_precursors": ["Ni(dma)2", "H2O"],
+  "temperature_range": "130 °C (substrate) and 80 °C (precursor)",
+  "summary": "The study investigates the field emission properties of ZnO nanorods coated with NiO film using atomic layer deposition (ALD). The NiO film was deposited on ZnO nanorods to improve stability and durability in field emission properties. The NiO film thickness was 15 nm, and the process involved ALD reactions with Ni(dma)2 as the nickel source and H2O as the oxygen source. The field emission properties were tested under different vacuum conditions, and the results showed improved stability and reversibility for the NiO-coated ZnO nanorods.",
+  "evidence": "The NiO film was coated in a commercial ALD reactor on the ZnO nanorod by using ALD reactions of Ni(dma)2 as the nickel source and H2O as the oxygen source. The substrate and precursor temperatures during this precursor were maintained at 130 and 80 °C, respectively. The growth rate of the NiO film under the optimized ALD condition was 1.4 Å / cycle."
+}<|im_end|>

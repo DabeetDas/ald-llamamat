@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "2Al(CH3)3 + 3H2O → Al2O3 + 6CH4",
+    "2Al(CH3)3 + O3 → Al2O3 + 3C2H6",
+    "2AlOH∗ → Al–O–Al∗ + H2O(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites. The dehydroxylation of the Al2O3 surface is enhanced at high temperatures, leading to the loss of hydroxyl groups through recombinative desorption of two AlOH* species to produce H2O.",
+  "intermediate_species": [
+    "AlOH*",
+    "Al–O–Al*"
+  ],
+  "evidence": "On the other hand, when ozone (O 3) is used instead of H2O for the preparation of Al2O3 films, O3 acts as an active oxidant and the following reaction takes place: 2Al(CH3)3 + O3 → Al2O3 + 3C2H6. The dehydroxylation of the Al2O3 surface is enhanced. Also hydroxyl groups can be lost from the Al2O3 surface by recombinative desorption of two AlOH* species to produce H2O: 2AlOH* → Al–O–Al* + H2O(g)."
+}

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Hf(N(CH3)(C2H5))4",
+    "H2S"
+  ],
+  "coreactants": [
+    "H2S"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "HfS2 thin films were deposited in a commercial PRALD setup (R200 Advanced) from PICOSUN. The Hf precursor employed was TEMAH, which was heated to 120 oC and delivered to the reactor chamber at 130 oC. H2S (3.5%, balance Ar) with a flow rate of 150 standard cubic centimeter per minute (sccm) was used as the S source. One growth cycle consists of four main steps: (1) 1.6 s exposure to TEMAH, (2)10 s N2 purge, (3) 10 s exposure to H2S, (4) 10 s N2 purge."
+}

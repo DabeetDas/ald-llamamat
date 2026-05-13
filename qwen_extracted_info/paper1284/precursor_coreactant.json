@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "tris(N,N-dimethyl-N',N''-diisopropylguanidinato)indium(III)",
+    "tris(N,N'-diisopropylamidinato)indium(III)",
+    "tris(N,N'-diisopropylformamidinato)indium(III)"
+  ],
+  "coreactants": [
+    "NH3 plasma"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The nitrogen source for the film depositions was an Ar/NH3 (100/75 sccm) gas mixture, which was ignited with a plasma power of 2800 W for 9 s and followed by a 10 s purge."
+}

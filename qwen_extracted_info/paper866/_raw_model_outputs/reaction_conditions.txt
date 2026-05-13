@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The Al2O3 layer acts as a blocking layer that suppresses the recombination of injected electrons either with oxidized dye molecules or with the oxidized redox couple. This suppression leads to an increase in the open-circuit voltage (Voc) due to the increased offset between the quasi-Fermi level of the TiO2 and the redox level of the electrolytes.",
+  "intermediate_species": ["oxidized dye molecules", "oxidized redox couple"],
+  "evidence": "The Al2O3 layer has a higher conduction band edge and a higher band gap than TiO2 and therefore acts as a blocking layer and suppresses the recombination of the injected electrons either with the oxidized dye molecules or with the oxidized redox couple. With the recombination of the injected electrons retarded, the electron population and the resulting quasi-Fermi level of TiO2 nanoparticles near the metal oxide overlayer will increase. As a result, Voc will increase due to the increased offset between the quasi-Fermi level of the TiO2 and the redox level of the electrolytes. This is the blocking effect of the Al2O3 layer."
+}<|im_end|>

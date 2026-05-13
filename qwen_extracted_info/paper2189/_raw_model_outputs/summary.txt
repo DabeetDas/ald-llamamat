@@ -1,0 +1,8 @@
+{
+  "target_material": "Hf-silicate films",
+  "process_type": "thermal ALD",
+  "main_precursors": ["HfO2", "SiO2"],
+  "temperature_range": "700 °C",
+  "summary": "The study investigates the effects of direct plasma nitridation (DPN) and post-nitridation annealing (PNA) on the band gap and valence band offset of nitrided Hf-silicate films prepared using atomic layer deposition (ALD). The band gap decreased after DPN due to the formation of Si–N and Hf–N bonds, while PNA treatment recovered the band gap by dissociating unstable Hf–N bonds. The valence band offset was influenced by the chemical states of N bonded to Si and the HfO2 mole fraction.",
+  "evidence": "Metal oxides were grown using atomic layer deposition (ALD) via a vertical, warm-wall reactor with a showerhead and a heated susceptor. Two 3-nm-thick HfO2xSiO21−x films on Si of varying composition were prepared using ALD as follows: 30 mol % HfO2 – 70 mol % SiO2 (x = 0.30), and 70 mol % HfO2 – 30 mol % SiO2 (x = 0.70). The films were directly nitrided in nitrogen plasma at room temperature and underwent rapid thermal annealing in ambient N2 at 700 °C for 5 min."
+}<|im_end|>

@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "TiCl4",
+    "CrO2Cl2",
+    "CH3OH"
+  ],
+  "coreactants": [
+    "CH3OH"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "The metal precursors were TiCl4 (99.9%, Aldrich) and CrO2Cl2 (99.99%, Alfa-Aesar); the common coprecursor was CH3OH (99.99%, Alfa-Aesar). Nitrogen (99.999%, ElmeMesser) performed precursors carrying, supply switching, and purging functions."
+}

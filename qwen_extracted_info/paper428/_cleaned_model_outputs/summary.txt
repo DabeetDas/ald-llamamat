@@ -1,0 +1,8 @@
+{
+  "target_material": "Silicon",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Silane (SiH4)"],
+  "temperature_range": "Room temperature for silane adsorption, 700°C for thermal reactivation",
+  "summary": "The study describes the use of silane gas-source atomic layer epitaxy (ALE) for silicon deposition. Silane adsorption at room temperature was shown to be self-limiting, and thermal reactivation at 700°C was used to remove surface hydrogen atoms, enabling further adsorption. The process achieved a growth unit of approximately 0.25-0.33 monolayers per cycle.",
+  "evidence": "Silicon atomic layer epitaxy (ALE) has been performed on Si(100) by utilizing a self-limiting adsorption of silane at room temperature and a thermal reactivation of the surface for further adsorption. The presence of the self-limiting adsorption was confirmed through a saturation of the adsorbed molecules, which was shown to be caused by surface hydrogen atoms. By repeating the silane-adsorption/thermal-desorption processes, Si epilaxial growth was realized with a unit of 11.25-1.33 ML. The study also discusses the mechanisms of self-limiting adsorption of silane and monolayer growth in ALE."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Strong coupling between the localized surface plasmon resonance (LSPR) of the SnS coated array and the lowest order Fabry-Perot (FP) resonance of the nanocavity, resulting in hybridized modes that enable optical impedance matching at two distinct wavelengths.",
+  "intermediate_species": ["SnS coating", "LSPR", "FP mode"],
+  "evidence": "The text discusses the strong coupling between the localized surface plasmon resonance (LSPR) of the SnS coated array and the lowest order Fabry-Perot (FP) resonance of the nanocavity, resulting in hybridized modes that enable optical impedance matching at two distinct wavelengths. The high damping of the SnS coating facilitates the transfer of energy to bandgap excitations rather than Joule heating, contributing to the dual band absorption."
+}

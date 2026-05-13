@@ -1,0 +1,11 @@
+{
+  "target_material": "Ir-Pt alloy",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "iridium(III) acetylacetonate",
+    "trimethyl)methylcyclopentadienyl platinum(IV)"
+  ],
+  "temperature_range": "300 /C176C",
+  "summary": "The study explores the atomic layer deposition (ALD) of Ir-Pt alloy films by controlling the ratio between the iridium(III) acetylacetonate/oxygen cycles for Ir ALD and the (trimethyl)methylcyclopentadienyl platinum(IV)/oxygen cycles for Pt ALD. The growth mechanisms for the pure Ir and Pt ALD films, as well as the mixed-metal Ir-Pt ALD films, were examined using in situ quartz crystal microbalance and quadrupole mass spectrometer measurements. The results show that the nucleation and growth of each noble metal proceed smoothly, with negligible perturbation caused by the presence of the other metal. The composition and growth per cycle for the Ir-Pt films follow rule-of-mixtures formulas based on the ratio of the metal ALD cycles and the growth rates of pure Ir and Pt ALD. X-ray diffraction (XRD) measurements revealed that the films deposit as single-phase alloys with lattice parameters varying linearly with the composition. The films grow conformally on high-aspect-ratio trenches, opening new opportunities in microelectronics, catalysis, and other applications.",
+  "evidence": "Atomic layer deposition (ALD) was used to prepare thin-film mixtures of iridium and platinum. By controlling the ratio between the iridium(III) acetylacetonate/oxygen cycles for Ir ALD and the (trimethyl)methylcyclopentadienyl platinum(IV)/oxygen cycles for Pt ALD, the Ir/Pt ratio in the films could be controlled precisely. These studies revealed that the nucleation and growth of each of the noble metals proceeds smoothly, with negligible perturbation caused by the presence of the other metal. X-ray diffraction (XRD) measurements revealed that the films deposit as single-phase alloys in which the lattice parameter varies linearly with the composition. Similar to the pure noble-metal films, the Ir-Pt alloy films grow conformally on high-aspect-ratio trenches."
+}

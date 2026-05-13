@@ -1,0 +1,7 @@
+{
+  "precursors": ["hexakis(dimethylamido)digallium (Ga2(NMe2)6)", "hydrogen sulfide (H2S)"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The text states: \"The GaSx ALD was performed using alternating exposures to Ga2(NMe2)6 (98%, Strem Chemicals, Inc., USA) and 1% H2S (Matheson Trigas, USA) with N2 purge periods between each exposure.\""
+}

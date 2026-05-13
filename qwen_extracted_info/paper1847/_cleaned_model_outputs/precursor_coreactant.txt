@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylphosphino-trimethyl gold (III)"],
+  "coreactants": ["ozone", "water"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "We performed ALD at the relatively low temperature of 105 °C using trimethylphosphino-trimethyl gold (III) as the metal precursor and ozone and water as co-reactants. The metal precursor bubbler and the line connecting the bubbler to the reactor were heated to 85 °C and 95 °C, respectively. All the reactants were transferred to the reaction chamber with a nitrogen flow rate of 0.5 lit/min."
+}

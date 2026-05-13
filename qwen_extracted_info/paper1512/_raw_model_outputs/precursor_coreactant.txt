@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMAl)"],
+  "coreactants": ["n-propanol", "water"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "Three precursors, trimethylaluminum (aluminum source), water, and n-propanol (oxygen sources), for the deposition of AlOx, are stored in three separated stainless steel cylinders with a hand valve and kept at room temperature. Each precursor is picked up by the nitrogen carrier gas and injected into the reaction chamber when an associated high-speed solenoid valve is opened. During an ALD run, the nitrogen carrier gas flows through the reaction chamber continuously even when no precursor is injected."
+}<|im_end|>

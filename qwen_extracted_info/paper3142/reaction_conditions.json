@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD of TiO2 on Ru/TiN electrodes involves the exchange of ligands with oxygen atoms forming a RuOx submonolayer during the oxygen pulse step and reduction of the temporarily formed RuOx layer during the subsequent Ru-precursor pulse and purge steps.",
+  "intermediate_species": [
+    "RuOx"
+  ],
+  "evidence": "The ALD of Ru proceeds by the exchange of ligands with oxygen atoms forming a RuOx submonolayer during the oxygen pulse step and reduction of the temporarily formed RuOx layer during the subsequent Ru-precursor pulse and purge steps. 11,13,14 Kang et al. reported that the Ar-plasma treatment preferentially reduces the nitrogen content of the TiN surface. 12 The mechanism for the nucleation of metallic films on a substrate is usually complicated, but the ALD (or CVD) of Ru is certainly preferable on a metallic surface than on an insulating surface due to fluent charge exchange. 11,12"
+}

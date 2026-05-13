@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "diethyl zinc",
+    "H2O"
+  ],
+  "temperature_range": "177 °C",
+  "summary": "The study reports on the atomic layer deposition (ALD) of a 2-nm-thick ZnO layer on the inner surface of ultralow-density nanoporous silica aerogel monoliths. The process involves alternating exposures to diethyl zinc and H2O at 177 °C. A nucleation layer of Al2O3 was used to prepare a hydroxylated surface for ZnO deposition. The resulting ZnO-coated aerogels exhibit high surface area and uniform crystallinity, making them suitable for gas-sensing and catalytic applications.",
+  "evidence": "Several-mm-thick monolithic silica aerogels with a density of 10 mg cm−3 were coated with an ,2-nm-thick ZnO layer by alternating 300 s exposures to diethyl zinc/H2O at 177 °C at a pressure of 10 Torr. Prior to ZnO deposition, an ,0.26-nm-thick nucleation layer of amorphous Al2O3 was deposited in two cycles of trimethyl aluminum/H2O at the same conditions as ZnO."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["titanium tetraisopropoxide (TTIP)", "ozone (O3)"],
+  "temperature_range": "150 -250 °C",
+  "summary": "The study investigates the surface reaction mechanisms during ozone-based atomic layer deposition (ALD) of TiO2 using titanium tetraisopropoxide (TTIP) and ozone. The process involves the formation of surface carbonates as reactive sites for TTIP chemisorption, leading to the release of CO2. The growth rate is temperature-independent between 150 and 250 °C, and the ALD process is characterized by self-limiting surface reactions.",
+  "evidence": "The ozone reaction mechanism is fundamentally different than water-based ALD of metal oxides, where -OH groups are the reactive sites for metal alkoxides. In ozone-based ALD, the isopropoxy-ligand-terminated surface, generated after TTIP exposure, reacts with ozone, forming different surface carbonates. Upon subsequent TTIP exposure, the isopropoxy ligands chemisorb on the surface carbonates, releasing CO2. The growth rate, ∼ 0.52 Å/cycle, is almost independent of the substrate temperature between 150 and 250 °C."
+}

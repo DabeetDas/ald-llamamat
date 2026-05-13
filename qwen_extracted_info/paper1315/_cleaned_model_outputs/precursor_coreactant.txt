@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMASn"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Specifically, tetrakis(dimethylamino) tin (TDMASn, Gelest, >95% purity) and high performance liquid chromatography (HPLC) grade water ( H2O, Aldrich) were used in this work. The TDMASn was held in a stainless steel bubbler maintained at 65 °C. SnO2 ALD was performed at 150 oC using alternating TDMASn and H2O exposures in an ABAB... sequence: OH*Sn(DMA)2 →*O*Sn(DMA)2+ xHDMA, O*Sn(DMA)2 + 2H2O → O*Sn(OH)2 + 4−x HDMA+O2, where the asterisks represent the surface species."
+}

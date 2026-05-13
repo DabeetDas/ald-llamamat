@@ -1,0 +1,11 @@
+{
+  "target_material": "Copper",
+  "process_type": "ALD",
+  "main_precursors": [
+    "[Cu(sBu-amd)]2",
+    "H2"
+  ],
+  "temperature_range": "185 oC",
+  "summary": "The study investigates the ALD growth of copper films using the precursor [Cu(sBu-amd)]2 and molecular H2 on various substrates. The process involves chemical reactions between the precursor and surfaces like SiO2, Al2O3, and nitrided Si, followed by reduction by H2 to form copper atoms that agglomerate. The growth rates on different surfaces are less than 1 Å per cycle.",
+  "evidence": "Growth mechanisms of atomic layer deposition of copper films on various substrates using a novel metal precursor [Cu( sBu-amd)]2 and molecular H 2 are investigated by in-situ transmission Fourier transform infrared spectroscopy (FTIR). The Cu-precursor reacts with SiO 2 and Al2O3 surfaces by forming chemical bonds with the surface. Upon reduction by H 2, Cu atoms agglomerate, yielding additional reactive sites for more Cu-precursors. The growth rates of the Cu films on all these surfaces are all less than 1 Å per cycle."
+}

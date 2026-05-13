@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Ru precursor + O2 -> RuOx + CO2 + H2O"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the oxidative decomposition of the Ru precursor during the Ru pulse half-cycle by reacting with subsurface oxygen, releasing CO2 and H2O as byproducts. Subsequently, the O2 pulse removes remaining ligands while producing CO2 and H2O, and forming a RuOx surface. The amount of subsurface oxygen extracted during the Ru pulse half-cycle affects the resultant film phase, either Ru or RuO2, which is strongly influenced by the growth temperature.",
+  "intermediate_species": [
+    "RuOx",
+    "CO2",
+    "H2O"
+  ],
+  "evidence": "The surface reaction chemistry for Ru/RuO2 ALD was investigated using QMS by in situ sampling of the byproduct gases produced during the deposition processes. It was found that (1,5-hexadiene)(1-isopropyl-4-methylbenzene)Ru/O2 chemistry also produces the m/z = 44 peak, indicating that CO2 was formed as a byproduct. The amount of oxygen extracted from the subsurface during the Ru pulse half-cycle is strongly influenced by the growth temperature and determines the resultant film phase to be either Ru or RuO2."
+}

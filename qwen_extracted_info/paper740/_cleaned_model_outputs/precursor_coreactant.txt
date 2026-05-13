@@ -1,0 +1,7 @@
+{
+  "precursors": ["W(CO)6"],
+  "coreactants": ["H2S plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The precursor was a white powder at room temperature with a vapor pressure of 0.8 Torr at 40 °C. The W precursor was vaporized in a bubbler at 40 °C and carried to the chamber by Ar gas at 50 standard cubic centimeters per minute (sccm)."
+}

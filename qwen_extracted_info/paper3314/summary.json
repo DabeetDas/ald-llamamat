@@ -1,0 +1,11 @@
+{
+  "target_material": "AlN",
+  "process_type": "remote plasma atomic-layer-deposition (RPALD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "nitrogen/hydrogen radicals"
+  ],
+  "temperature_range": "room temperature (RT) to 500°C",
+  "summary": "AlN films were deposited on GaN substrates using remote plasma atomic-layer-deposition (RPALD) with trimethylaluminum (TMA) and nitrogen/hydrogen radicals. The growth rate decreased with increasing temperature, and the films were found to be amorphous. The study aimed to improve gate leakage current and interface properties for GaN-based MIS devices.",
+  "evidence": "AlN films on n-type GaN (0001) were prepared using a remote-plasma atomic-layer-deposition (RPALD) technique with a trimethylaluminum (TMA) precursor and nitrogen/hydrogen, argon/hydrogen radicals ranging in temperature from room temperature (RT) to 500°C. The as-grown AlN films on GaN substrates had amorphous phase structures. The leakage current densities measured at room temperature was about 5 × 10^-10 A/cm² under a field of 1 MV/cm."
+}

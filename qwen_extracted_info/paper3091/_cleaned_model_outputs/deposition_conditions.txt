@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "2.1×10−1 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 25,
+  "number_of_cycles": null,
+  "reactor_type": "Showerhead",
+  "evidence": "For HfO2 deposition, the TDMAH precursor tank was heated at 75°C prior to deposition. The deposition cycle consisted of pulsing TDMAH, purging N2, and pulsing H2O vapor. Film deposition parameters such as flow rate, pulse time, pump time, exposure, and delay time were maintained fixed. For example, the HfO2 films were deposited at 250°C whereas Al2O3 films were deposited on the Si substrates at 300°C. The chamber pressure was 2.1×10−1 Torr for both HfO2 and Al2O3. For each ALD growth cycle the oxidizing agent in the form of water vapor (H2O) was pulsed for 25 ms and the TDMAH and TMA precursors were each pulsed for 1 s duration."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Strontium niobate (SNO)",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["Sr(iPr3Cp)2", "t-butylimino bis(diethylamino) niobium cyclopentadienide"],
+  "temperature_range": "280 ℃ during deposition, 700 ℃ for annealing",
+  "summary": "Strontium niobate thin films were deposited using atomic layer deposition (ALD) to explore their potential as high-k dielectrics. The super-cycle method was used to control the composition of the films, and the dielectric properties were evaluated. Sr-rich films showed high dielectric constants, while Nb-rich films exhibited amorphous structures with moderate dielectric constants.",
+  "evidence": "Strontium niobate thin films have potential for next-generation high-k dielectric applications. In this work, we investigated the fabrication of Sr xNb1-xOy thin films by atomic layer deposition for the first time and examined their physical and electrical characteristics. The Sr-rich film was crystalline after annealing and showed a high dielectric constant of approximately 75. In addition, it was observed that the Nb-rich film had a relatively large dielectric constant of approximately 65 even though it was amorphous, confirming that it could be applied as a next-generation high-k material."
+}<|im_end|>

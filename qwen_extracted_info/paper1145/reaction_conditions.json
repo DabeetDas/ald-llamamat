@@ -1,0 +1,22 @@
+{
+  "reaction_equations": [
+    "n −OH* + TiCl4 → −O−TiCl4−n* + nHCl",
+    "−O−TiCl4−n* + 2H2O → −O−2TiOHn* + 4−n HCl",
+    "n −OH* + 2AlCl3 → −O−Al2Cl6−n* + nHCl",
+    "−O−Al2Cl6−n* + 3H2O → −O−3Al2OHn* + 6−n HCl",
+    "n −OH* + 2Al(CH3)3 → −O−Al2(CH3)6−n* + nCH4",
+    "−O−Al2(CH3)6−n* + 3H2O → −O−3Al2OHn* + 6−n CH4"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves ligand exchange between the metal precursors (TiCl4, AlCl3, TMA) and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The passivation effect of TiCl4 on the chemisorption of AlCl3 and TMA was observed, which partially limited the adsorption of AlCl3 and TMA. The release of chlorine ligands during the adsorption of TiCl4 and AlCl3 influenced the deposition rates and surface reactions.",
+  "intermediate_species": [
+    "−O−TiCl4−n*",
+    "−O−Al2Cl6−n*",
+    "−O−Al2(CH3)6−n*",
+    "−O−2TiOHn*",
+    "−O−3Al2OHn*",
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The surface reaction mechanism and associated chemistry were discussed in the text, particularly in the sections describing the ALD processes for TiO2 and Al2O3 deposition. The equations and intermediate species were derived from the detailed description of the surface reactions during the adsorption and desorption steps of the metal precursors and water pulses."
+}

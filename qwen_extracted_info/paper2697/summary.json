@@ -1,0 +1,12 @@
+{
+  "target_material": "Potassium tantalate niobate (KTN)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "KOtBu",
+    "Nb(OEt)5",
+    "Ta(OEt)5"
+  ],
+  "temperature_range": "250 °C (growth) and 650 °C (postannealing)",
+  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to grow high-quality, oriented potassium tantalate niobate (KTN) thin films with controlled crystal phase and orientation. The process involves precise control of potassium concentration to achieve a pure perovskite phase, with the ability to tune orientation by selecting substrates with similar lattice constants. The films are grown at a relatively low temperature of 250 °C, followed by a postannealing step at 650 °C. The results show that the crystal quality and orientation are significantly influenced by the potassium content and substrate lattice constant, with the best results obtained for substrates with lattice constants close to that of bulk KTN.",
+  "evidence": "The authors present atomic layer deposition (ALD) of oriented KTN for the first time. They study the variability in phase content with respect to potassium concentration across a variety of substrates. Films grown with a slight overstoichiometry in potassium show excellent crystal quality of a pure perovskite phase. Highly oriented films were obtained on substrates of a similar lattice constant to bulk potassium tantalate niobate. The authors believe that ALD is an ideal technique to obtain KTN thin films with high growth control."
+}

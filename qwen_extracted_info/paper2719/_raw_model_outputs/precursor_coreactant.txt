@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(1-dimethylamino-2-methyl-2-propoxy)tin(II) (Sn(dmamp)2)", "titanium-tetrakis-isopropoxide (TTIP)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Sn(dmamp)2 vapors were delivered into a chamber with an N2 carrier gas of 150 SCCM for sufficient vapor pressure. H2O vapors, from water that was evaporated and cooled to 5 °C, were used as the oxygen source. The ALD chamber was purged between injection steps of each source."
+}<|im_end|>

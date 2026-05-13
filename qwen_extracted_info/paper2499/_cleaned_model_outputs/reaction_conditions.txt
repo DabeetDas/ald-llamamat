@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "2AlðCH3Þ3 þ 3H2O ! Al2O3 þ 6CH4",
+    "ðAÞ 2AlOH/C3 þ 2AlðCH3Þ3 ! 2½AlOAlðCH3Þ2/C138 /C3 þ 2CH4",
+    "ðBÞ 2½AlOAlðCH3Þ2/C138 /C3 þ 3H2O ! Al2O3 þ 2AlOH/C3 þ 4CH4"
+  ],
+  "surface_mechanism_description": "The sequential exposures of TMA and water represent one coating cycle that deposits a complete monolayer of alumina. The thickness of this monolayer is approximately 0.11 nm at 450 K.",
+  "intermediate_species": [
+    "AlOH/C3",
+    "½AlOAl(CH3)2/C138/C3"
+  ],
+  "evidence": "The use of a progression of surface reactions to deposit alumina films has been demonstrated. Water vapor and trimethylaluminum [Al(CH3)3] (TMA) are used alternately in an ABAB y binary reaction sequence. Film deposition is based on the following binary CVD reaction 2Al(CH3)3 + 3H2O -> Al2O3 + 6CH4 (1) Alumina ALD is achieved by splitting this reaction into two separate half-reactions20 (A) 2AlOH/C3 + 2Al(CH3)3 -> 2[AlOAl(CH3)2/C138/C3] + 2CH4 (2) (B) 2[AlOAl(CH3)2/C138/C3] + 3H2O -> Al2O3 + 2AlOH/C3 + 4CH4 (3) where asterisks represent the surface species. The sequential exposures of TMA and water represent one coating cycle that deposits a complete monolayer of alumina. The thickness of this monolayer is approximately 0.11 nm at 450 K. 24"
+}

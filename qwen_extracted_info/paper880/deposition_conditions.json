@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "evidence": "Ru–AlN ﬁlms were deposited on 260-nm-thick SiO2/Si substrates by PEALD at a deposition temperature of 300 8C and pressure of 3 Torr. ... Each subcycle consisted of several unit cycles. In each unit cycle, four consecutive pulses were supplied. A unit cycle for AlN was comprised of TMA precursor injection pulse with 100 sccm Ar carrier gas, a purge pulse with 50 sccm Ar, a pulse for an exposure to NH3 plasma with 100 sccm NH3 gas, and another 50 sccm Ar purge pulse. Also, a unit cycle for Ru was comprised of Ru(EtCp)2 injection pulse with 50 sccm Ar carrier gas, a purge pulse with 50 sccm Ar, a pulse for an exposure to NH3 plasma with 100 sccm NH3 gas, and another 50 sccm Ar purge pulse."
+}

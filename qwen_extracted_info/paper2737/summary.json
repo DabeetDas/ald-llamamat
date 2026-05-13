@@ -1,0 +1,11 @@
+{
+  "target_material": "InP",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "triethylindium (TEI)",
+    "tertiarybutylphosphine (TBP)"
+  ],
+  "temperature_range": "300-380 °C",
+  "summary": "The study describes the self-limiting growth of InP on (001) InP substrates using alternate injections of triethylindium (TEI) and tertiarybutylphosphine (TBP) in ultrahigh vacuum. The growth occurs at a temperature as low as 320 °C, with a growth rate of approximately 0.75 ML per cycle. The self-limiting growth is attributed to stable surface reconstruction and suppression of decomposition processes during precursor injection. The process is characterized by a specular surface morphology and is influenced by injection time, pressure, and dosage of the precursors.",
+  "evidence": "Alternate injections of triethylindium (TEI) and tertiarybutylphosphine (TBP) without precracking were used to realize self-limiting growth of an InP layer on a (001) InP substrate in ultrahigh vacuum. Self-limiting growth, in which the growth rate is independent of the injection time and the pressure of TEI and TBP, was achieved at a growth temperature as low as 320 °C. The growth rate of around 0.75 ML per cycle in self-limiting growth was assumed to be due to stable surface reconstruction of (2 34)-b. A specular surface morphology was obtained in the self-limiting growth condition."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "AlAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylaluminum (TMAI)", "arsine (ASH3)"],
+  "temperature_range": "473°C, 500°C, 550°C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) of AlAs using trimethylaluminum (TMAI) and arsine (ASH3) as precursors. The growth rate saturation at different monolayer (ML) values (2 ML/cycle and 3 ML/cycle) was observed at varying temperatures, indicating the presence of different surface phases. The activation energy for dissociative adsorption of TMAI on an arsenic-terminated surface was determined to be 35 kcal/mol. The results were explained by a new model involving phase-transition-induced desorption (PTID) mechanism.",
+  "evidence": "Using a pulsed-jet method and trimethylaluminum (TMAI) and arsine (ASH3) sources, we studied atomic layer growth of AlAs(100). When we changed the source-gas pulse duration, we observed two- and three-monolayer saturation in the growth rate at 500°C, two-monolayer saturation at 473°C and three-monolayer saturation at 500°C. These saturation thicknesses correspond to the dominant surface phases of Al on arsenic-terminated surfaces. The activation energy of dissociative adsorption of TMAI on an arsenic-terminated surface was estimated to be 35 kcal/mol from the temperature dependence of the growth rate."
+}<|im_end|>

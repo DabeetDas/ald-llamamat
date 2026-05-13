@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylgallium (TMGa)", "trimethylaluminum (TMAl)", "arsine"],
+  "coreactants": ["H2"],
+  "purge_gas": ["H2"],
+  "carrier_gas": [],
+  "evidence": "The metalorganic sources used were trimethylgallium (TMGa) and trimethylaluminum (TMAl). Pure arsine was used as the arsenic source. A 1000 ppm silane source (n-type) and carbon (p-type) from the metalorganic sources were used as the dopants."
+}

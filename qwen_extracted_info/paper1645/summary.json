@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2/SiO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "titanium tetrachloride (TiCl4)",
+    "titanium isopropoxide (TTIP)"
+  ],
+  "temperature_range": "150 - 300 °C",
+  "summary": "The study investigates the synthesis of TiO2/SiO2 catalysts using atomic layer deposition (ALD) with titanium tetrachloride (TiCl4) and titanium isopropoxide (TTIP) as precursors. The deposition rate of TiO2 films from TiCl4 is stable between 150-300 °C, while TTIP shows a lower growth rate at 150 °C. The coordination geometry of Ti cations depends on the number of ALD cycles and precursor type, but is independent of temperature. The study also explores the acidity of the catalysts, revealing that Brønsted acid sites are associated with chloride or carbonyl impurities.",
+  "evidence": "Highly uniform submonolayer to multilayer thin films of titanium dioxide supported on high surface area silica gel have been synthesized by atomic layer deposition (ALD) using titanium tetrachloride (TiCl4) and titanium isopropoxide (TTIP) as metal precursors. The deposition rate of titania films from TiCl4 was found to be stable in the 150-300 °C temperature range, which is slightly higher than that from TTIP at 150 °C. UV-visible diffuse reflectance spectroscopy (DRS) shows that the coordination geometry of Ti cations depends on the number of ALD cycles and the precursor but is essentially independent of deposition temperature. Using diffuse reflectance infrared Fourier transform spectroscopy (DRIFTS) and visible Raman spectroscopy with pyridine as a probe molecule, we found all of the titania films studied to exhibit Lewis acidity but only films containing chloride or carbonyl impurities possessed Brønsted acid sites."
+}

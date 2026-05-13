@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225-300",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 1.0,
+  "coreactant_pulse_time_s": 1.0,
+  "purge_time_s": 1.0,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall cross-flow F-120 ALD reactor",
+  "evidence": "The reactor was operated under a pressure of ~10 mbar. CoCl2(TMEDA) was sublimed from an open glass boat held inside the reactor at 170 °C. The purge times following the Co precursor and water pulses were typically 1.0 and 3.0 s, respectively."
+}

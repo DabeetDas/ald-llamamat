@@ -1,0 +1,8 @@
+{
+  "target_material": "Rare-earth oxide thin films",
+  "process_type": "ALD",
+  "main_precursors": ["Y(iPr-Me2N-guan)3", "Gd(iPr-Me2N-guan)3", "Dy(iPr-Me2N-guan)3"],
+  "temperature_range": "120-135 °C",
+  "summary": "The study focuses on the synthesis and characterization of homoleptic rare-earth guanidinates as precursors for MOCVD and ALD of rare-earth oxide thin films. The guanidinates of Y, Gd, and Dy showed excellent thermal stability and volatility, making them suitable for ALD. The ALD-grown films were amorphous, while MOCVD-grown films were highly oriented in the cubic phase. The thermal stability of the guanidinates was confirmed through TGA/DTA analysis and NMR decomposition studies, showing long half-lives at high temperatures, which is crucial for ALD applications.",
+  "evidence": "The text states that the iPr-Me2N-guanidinates of Y, Gd, and Dy showed excellent thermal characteristics in terms of thermal stability and volatility. Additionally, the thermal stability of the iPr-Me2N-guanidinates of Y and Dy in solution was investigated by carrying out NMR decomposition experiments and both the compounds were found to be remarkably stable. The MOCVD grown films of Gd2O3 and Dy2O3 were highly oriented in the cubic phase, while the ALD grown films were amorphous. The thermal stability of the guanidinates was confirmed through TGA/DTA analysis and NMR decomposition studies, showing long half-lives at high temperatures, which is crucial for ALD applications."
+}

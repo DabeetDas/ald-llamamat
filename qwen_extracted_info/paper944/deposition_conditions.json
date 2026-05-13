@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "265",
+  "pressure": "1.0/C210/C03 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "",
+  "evidence": "The growth mode was AsH3 supply for 10s, TEG for 1s and DETe for 1s followed by the 2s evacuation, as 10’’ AsH3–2’’–1’’ TEG–2’’–1’’ DETe–2’’ which was effective for higher electron concentration with doping."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "0.5 Torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 3,
+  "number_of_cycles": null,
+  "reactor_type": "remote plasma atomic layer deposition (RPALD)",
+  "evidence": "The La precursor, (i-PrCp)3La, was vaporized at 170 ˚C and introduced into the reaction chamber by using a bubbler with Ar as a carrier gas. The sequential processing time for the (i-PrCp)3La, Ar purge, O2 plasma, and Ar purge were 5, 10, 3, and 10 s, respectively."
+}

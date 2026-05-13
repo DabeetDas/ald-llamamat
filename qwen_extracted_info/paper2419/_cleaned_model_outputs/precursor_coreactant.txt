@@ -1,0 +1,7 @@
+{
+  "precursors": ["TTIP"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "TTIP was used as a precursor and ammonia (NH3) gas was used as a reactant. The TTIP was carried by an inert Ar gas stream. During the deposition, 100 sccm of Ar gas was continuously supplied into the reactor as a carrier gas."
+}

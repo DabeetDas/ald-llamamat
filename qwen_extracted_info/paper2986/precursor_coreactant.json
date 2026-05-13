@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Tetrakis(diethylamido)titanium (TDEA T)",
+    "TiCl4"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [
+    "O3"
+  ],
+  "carrier_gas": [],
+  "evidence": "Tetrakis(diethylamino)titanium (TDEA T) and TiCl4 were used as the precursors for CVD and ALD, respectively. The Ti/N ratio was close to one in both materials. Due to the metal organic precursor, the CVD TiN had a relatively high carbon concentration, while less than 1% Cl was found in the ALD TiN film. With each deposition method, the precursors and process temperature were chosen for the optimum process window (e.g., deposition rate, uniformity, and impurity level)."
+}

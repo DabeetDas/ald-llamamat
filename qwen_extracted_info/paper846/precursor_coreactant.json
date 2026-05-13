@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "tris(methylcyclopentadienyl)gadolinium {Gd(MeCp) 3}"
+  ],
+  "coreactants": [
+    "remote nitrogen plasma"
+  ],
+  "purge_gas": [
+    "argon"
+  ],
+  "carrier_gas": [
+    "argon"
+  ],
+  "evidence": "The deposition was carried out using tris(methylcyclopentadienyl)gadolinium {Gd(MeCp) 3} and remote nitrogen plasma, separated by argon pulses."
+}

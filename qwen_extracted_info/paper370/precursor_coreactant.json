@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "dimethylzinc (DMZn)",
+    "hydrogen selenide (H2Se)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Dimethylzinc (DMZn) and hydrogen selenide (H2Se) were used as the reactants. The flow sequence was 2 s of DMZn flow, 3 s of hydrogen flush period, 2 s of H2Se flow and 3 s of H2 flush period."
+}

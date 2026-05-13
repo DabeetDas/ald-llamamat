@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-350",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.2,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 10-15,
+  "number_of_cycles": null,
+  "reactor_type": "Cambridge Nanotech Savannah 200",
+  "evidence": "The oxygen sources were oxygen (Praxair 99.993%), ozone (ozone generator MKS AX8560), and deionized water. The source temperature was varied from 50 to 200 °C; the substrate temperature was varied from 150 to 350 °C. The lines and valves leading from the source to the reactor were heated to a temperature between the source and substrate temperature, as were the reactor walls. Typical ozone or oxygen pulse times were 4 s, typical water pulse times were 0.5 s, and typical precursor pulse times were 0.2 s. The purge time between pulses was 10-15 s."
+}<|im_end|>

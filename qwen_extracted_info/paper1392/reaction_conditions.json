@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Mo(CO)6 + NH3 → MoN + CO + H3N",
+    "MoN + NH3 → MoN + NH3"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of molybdenum hexacarbonyl (Mo(CO)6) and ammonia (NH3) on the surface, followed by a surface reaction that forms molybdenum nitride (MoN). The reaction is self-limiting, with the adsorption of Mo(CO)6 leading to the formation of surface-bound species, and subsequent adsorption of NH3 leading to the formation of MoN. The reaction is confirmed by in situ FTIR spectroscopy, which shows the presence of surface-bound species and their subsequent removal.",
+  "intermediate_species": [
+    "Surface-bound Mo(CO)6 species",
+    "Surface-bound NH3 species",
+    "Surface-bound MoN species"
+  ],
+  "evidence": "The surface reaction mechanism was determined through in situ FTIR spectroscopy, which monitored the surface-bound species during the ALD process. The text states: 'In situ Fourier transform infrared spectroscopy (FTIR) measurements were performed to monitor the surface bound reactions during each half cycle.' Additionally, the reaction equations and intermediate species are described in the text: 'The reaction chemistry was studied by the in situ Fourier transform infrared spectroscopy (FTIR) that investigates the surface bound reactions during each half cycle.'"
+}

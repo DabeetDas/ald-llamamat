@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Cu(thd)2",
+    "Cr(acac)3"
+  ],
+  "coreactants": [
+    "ozone"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "For the deposition of CuCr 2O4 thin films, copper 2,2,6,6-tetramethyl-3,5-heptanedionate (Cu(thd)2) and chromium acetyl acetonate (Cr(acac)3) were used as metal precursors and ozone as the oxygen source; the depositions were carried out in a commercial hot-wall flow-type F-120 ALD reactor (ASM Microchemistry Ltd., Finland). The reactor was operated under a nitrogen (99.9995%) pressure of 2–3 mbar produced with a NITROX UHPN 3000 nitrogen generator. Nitrogen gas was used both as a carrier and purging gas."
+}

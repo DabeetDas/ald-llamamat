@@ -1,0 +1,7 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["diethylzinc (DEZ)", "water", "O2"],
+  "temperature_range": "180–280 ◦C",
+  "summary": "The study investigates the effect of oxygen precursor on the growth mode and preferred orientation of ZnO thin films using ALD. The preferred orientation of ZnO films can be controlled by the oxygen precursor, with the (002) orientation achieved at higher temperatures and the (100) orientation favored at lower temperatures. The growth rate and microstructural properties significantly influence the electrical properties of the films.",
+  "evidence": "The study investigates the effect of oxygen precursor on the growth mode and preferred orientation of ZnO thin films using ALD. The preferred orientation of ZnO films can be controlled by the oxygen precursor, with the (002) orientation achieved at higher temperatures and the (100) orientation favored at lower temperatures. The growth rate and microstructural properties significantly influence the electrical properties of the films."

@@ -1,0 +1,19 @@
+{
+  "precursors": [
+    "tetraethyltin (TET)"
+  ],
+  "coreactants": [
+    "H2O2",
+    "O3",
+    "O2 plasma",
+    "H2O",
+    "O2"
+  ],
+  "purge_gas": [
+    "nitrogen (99.9999%)"
+  ],
+  "carrier_gas": [
+    "nitrogen"
+  ],
+  "evidence": "Tin oxide deposition using TET and oxygen/ozone/water/hydrogen peroxide coreactants was carried out by ALD using the commercial \"Solar-ML\" setup... TET and water vapors were pulsed using a nitrogen carrier gas, but H2O2 and O3 were supplied directly into the reaction chamber by the injection valve."
+}

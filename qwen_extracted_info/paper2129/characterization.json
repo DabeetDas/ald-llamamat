@@ -1,0 +1,16 @@
+{
+  "characterization_methods": [
+    "Cross-sectional transmission electron microscopy",
+    "Capacitance and leakage current measurements",
+    "Rutherford backscattering spectroscopy",
+    "Atomic force microscopy",
+    "High resolution cross-sectional transmission electron microscopy",
+    "Ellipsometry",
+    "X-ray diffractometry",
+    "Scanning electron microscopy",
+    "High frequency capacitance-voltage (C-V) measurements",
+    "DC leakage current-voltage measurements",
+    "High frequency conductance measurements"
+  ],
+  "evidence": "Cross-sectional transmission electron microscopy revealed a sharp, smooth interface between GdScO3 and Si. Capacitance and leakage current measurements on metal oxide semiconductor capacitors made from atomic layer deposited WN / GdScO3 stacks showed that the amorphous GdScO3 films have a high dielectric constant. To obtain film composition and impurity content, Rutherford backscattering spectroscopy was performed. Using atomic force microscopy, the root mean square roughness of the as-deposited films was determined. The refractive index of the films determined by spectroscopic ellipsometry ranged from 1.95 to 1.99. Glancing angle x-ray diffractometry analysis indicated that the films were amorphous as deposited. Atomic force microscopy, the root mean square roughness of the as-deposited films was determined to be approximately 2 Å. For electrical analysis, multiple MOS capacitors were made out of WN / GdScO3 stacks on Si. High frequency capacitance-voltage (C-V) and dc leakage current-voltage measurements were then carried out on the resulting capacitors. The C-V data were fit to ideal curves using the Hauser and Ahmed simulation program. The dielectric constant of the films and the interfacial layer thickness are obtained from the EOT versus thickness plot. The work function of WN obtained from the y intercept is 4.6 eV. The interface trap density was obtained from high frequency conductance measurements on the MOS capacitors."
+}

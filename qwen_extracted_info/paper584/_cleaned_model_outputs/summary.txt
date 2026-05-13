@@ -1,0 +1,8 @@
+{
+  "target_material": "Titanium dioxide",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Titanium isopropoxide", "Water", "Hydrogen peroxide"],
+  "temperature_range": "100±250°C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of titanium dioxide using titanium isopropoxide and water or hydrogen peroxide as precursors. The process is self-limited at substrate temperatures between 100 and 250°C, with the growth rate being independent of the oxygen precursor at 200±250°C. The growth rate was found to be 0.12 nm per cycle at 100°C when water was replaced with hydrogen peroxide. The films exhibited low carbon contamination and a refractive index of 2.3 at low temperatures.",
+  "evidence": "According to data of real-time quartz crystal microbalance QCM measurements, adsorption of TiOCH(CH3)2 was a self-limited process at substrate temperatures 100±250°C. At 200±250°C, the growth rate was independent of whether water or H2O was used as the oxygen precursor. The growth rate increased significantly and reached 0.12 nm per cycle at 100°C when water was replaced with H2O. The carbon contamination did not exceed 1 at.% and the refractive index was 2.3 in the films grown at temperatures as low as 100°C."
+}

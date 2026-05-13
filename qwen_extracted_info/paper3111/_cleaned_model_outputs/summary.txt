@@ -1,0 +1,8 @@
+{
+  "target_material": "Lead sulfide (PbS)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Pb(tmhd)2", "H2S"],
+  "temperature_range": "165-175 °C",
+  "summary": "The study reports the deposition of lead sulfide (PbS) thin films using atomic layer deposition (ALD) with Pb(tmhd)2 and H2S as precursors. The films were grown on silicon (100) and soda-lime glass substrates at temperatures between 160–220 °C, with a growth rate of 0.13–0.18 nm/cycle. The films were characterized using XPS, XRD, SEM, and AFM, showing polycrystalline structures with increasing grain size and roughness. The reaction mechanism was modeled using DFT.",
+  "evidence": "We present a study of the deposition of lead sulfide (PbS) thin films by atomic layer deposition (ALD). PbS films were deposited from Pb(tmhd)2 and H2S precursors at precursor sublimation temperatures of 165-175 °C. The film growth rate was 0.13-0.18 nm/cycle, which is higher than previously published values. A linear growth rate characteristic of ALD was observed, with no chemical contamination. Film properties are studied using XPS, XRD, SEM and AFM measurements. AFM images show that the films are polycrystalline with grain size increasing with film thickness. Calculations have been performed using Density Functional Theory (DFT) to model the reaction mechanism."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The [dmae] ligand seems to stabilise the easily decomposing Zr(OtBu)4 in a way that the decomposition and the reaction with water can be controlled, at least when low growth temperature (240 /C176C) and a short precursor pulse (0.2 s) is used.",
+  "intermediate_species": [
+    "Zr(OtBu)4",
+    "dmae",
+    "water"
+  ],
+  "evidence": "The [dmae] ligand seems to stabilise the easily decomposing Zr(OtBu)4 in a way that the decomposition and the reaction with water can be controlled, at least when low growth temperature (240 /C176C) and a short precursor pulse (0.2 s) is used."
+}

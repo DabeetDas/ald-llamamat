@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The current transport mechanism is explained by space charge limited current (SCLC) in the presence of traps. The conduction is limited by the GaN layer, and the observed SCLC behavior is attributed to the presence of a single shallow trap level. The conduction mechanism involves the movement of electrons through the GaN layer, with the current density being affected by the trap density and energy level.",
+  "intermediate_species": [
+    "electrons",
+    "traps"
+  ],
+  "evidence": "The text discusses the current transport mechanism in the GaN/p-Si heterojunction diodes, attributing the conduction to space charge limited current (SCLC) in the presence of traps. It mentions the presence of a single shallow trap level and the role of electrons in the conduction process. The analysis of the SCLC behavior and the estimation of the trap density and energy level are based on the observed electrical characteristics and the derived equations."
+}

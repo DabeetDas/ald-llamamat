@@ -1,0 +1,8 @@
+{
+  "target_material": "CuWO4",
+  "process_type": "stack deposition-annealing (SDA)",
+  "main_precursors": ["WO3", "CuO"],
+  "temperature_range": "250 /C14 C for deposition, 550 /C14 C for annealing",
+  "summary": "The paper describes the synthesis of CuWO4 via a stack deposition-annealing (SDA) approach using atomic layer deposition (ALD). The process involves depositing WO3 and CuO sequentially on different substrates and annealing to form CuWO4. The study highlights the effectiveness of this method in achieving precise control over the stoichiometry and thickness of the resulting material, which is a promising photoanode for photoelectrochemical water splitting.",
+  "evidence": "The paper describes the synthesis of CuWO4 via a stack deposition-annealing (SDA) approach using atomic layer deposition (ALD). The process involves depositing WO3 and CuO sequentially on different substrates and annealing to form CuWO4. The study highlights the effectiveness of this method in achieving precise control over the stoichiometry and thickness of the resulting material, which is a promising photoanode for photoelectrochemical water splitting."
+}<|im_end|>

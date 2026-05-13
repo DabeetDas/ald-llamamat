@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["TiCl4", "deionized water"],
+  "temperature_range": "150 ◦C",
+  "summary": "The study describes the atomic layer deposition (ALD) of TiO2 nanostructures on porous anodic alumina (PAA) templates for self-cleaning applications. The nanostructures, including porous films and nanotube arrays, were characterized for their photocatalytic activity and photoinduced hydrophilicity. The ALD process was carried out at 150 ◦C using TiCl4 and deionized water as precursors. The nanostructures showed enhanced photocatalytic activity and photoinduced hydrophilicity compared to planar structures, with the photoactivity influenced by factors such as pore size, surface morphology, and nanotube collapse.",
+  "evidence": "TiO2 ALD was carried out in a home-built setup at 150 ◦C using sequential TiCl4 (Merck, ⩾ 99%) and deionized water exposures at a base pressure of 1 × 10−3 Torr. The nanostructures showed enhanced photocatalytic activity and photoinduced hydrophilicity compared to planar structures. The photocatalytic activity was influenced by factors such as pore size, surface morphology, and nanotube collapse."
+}<|im_end|>

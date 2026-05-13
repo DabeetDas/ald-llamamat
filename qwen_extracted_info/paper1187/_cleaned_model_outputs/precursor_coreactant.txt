@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "1,4-bis(trimethylsilyl)-2-methyl-2,5-cyclohexadiene", "1,4-bis(trimethylsilyl)-1,4-dihydropyrazine"],
+  "coreactants": ["TiCl4", "1,4-bis(trimethylsilyl)-2-methyl-2,5-cyclohexadiene", "1,4-bis(trimethylsilyl)-1,4-dihydropyrazine"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Growth conditions, full ALD plots, and film characterization data are contained in the Supporting Information. The growth rate was probed as a function of the pulse lengths of TiCl4 and 1 at 180 °C, using 3000 cycles and 5.0 and 10.0 s N2 purges after the pulses of TiCl4 and 1, respectively."
+}

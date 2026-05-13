@@ -1,0 +1,8 @@
+{
+  "target_material": "AlAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["EDMAAl (ethyldimethylamine alane)", "AsH3 (arsine)"],
+  "temperature_range": "150–650°C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) of AlAs using ethyldimethylamine alane (EDMAAl) as the aluminum source and arsine (AsH3) as the arsenic source. The research explores different self-limiting growth modes (1-, 2-, and 3-monolayer) and their dependence on growth temperature and precursor supply rates. The growth mechanisms are explained through the adsorbate inhibition model and the formation of metallic Al layers, with the surface configuration influenced by substrate temperature.",
+  "evidence": "The study discusses the use of ethyldimethylamine alane (EDMAAl) as the Al source and arsine (AsH3) as the As source. It also mentions the temperature range of 150–650°C and the different self-limiting growth modes (1-, 2-, and 3-monolayer) observed. The growth mechanisms are explained through the adsorbate inhibition model and the formation of metallic Al layers, with the surface configuration influenced by substrate temperature."
+}

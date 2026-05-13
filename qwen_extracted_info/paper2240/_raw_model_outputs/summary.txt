@@ -1,0 +1,8 @@
+{
+  "target_material": "Pt",
+  "process_type": "thermal ALD",
+  "main_precursors": ["methylcyclopentadienyltrimethylplatinum (MeCpPtMe3)", "O2"],
+  "temperature_range": "300 °C (reactor wall temperature) with a substrate temperature of 300 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of platinum (Pt) using methylcyclopentadienyltrimethylplatinum (MeCpPtMe3) and O2 as precursors. The process involves the oxidative decomposition of ligands during the O2 pulse and precursor pulse, with the formation of CO2, H2O, and CH4 as reaction products. The study confirms the reaction mechanism through gas phase infrared spectroscopy and provides quantitative data on the reaction products and surface coverage of chemisorbed oxygen atoms.",
+  "evidence": "Infrared spectroscopy was used to obtain absolute number information on the reaction products during atomic layer deposition of Pt from methylcyclopentadienyltrimethylplatinum and O2. The formation of CO2 and H2O during the O2 pulse and precursor pulse was observed, confirming the reaction mechanism. The study also reports that the surface coverage of chemisorbed oxygen atoms is consistent with the saturation coverage reported in surface science studies."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of Sr(thd)2 and Co(acac)3 precursors, where the growth is influenced by the sublimation temperatures and the interaction between the precursors and the surface. The process is sensitive to temperature gradients and the reaction of precursors with oxygen pulses.",
+  "intermediate_species": ["Sr(thd)2", "Co(acac)3", "SrCO3"],
+  "evidence": "The text discusses the use of Sr(thd)2 and Co(acac)3 precursors for the ALD process, noting that the Sr(thd)2 + O3 process yields SrCO3 rather than pure oxide. It also mentions the presence of carbonyl groups in the films, which disappear during post-annealing."
+}<|im_end|>

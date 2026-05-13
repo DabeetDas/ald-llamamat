@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "0.05±0.02 Torr and ca. 2±0.2 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "custom-built hot wall laminar flow reactor",
+  "evidence": "The precursor pulsing sequence during the Sb2Se3 ALD is expressed as (n - t1 - m - t2) where ‘n’ and ‘m’ represents the number of exposures of TDMASb and SDMDTC respectively of 1 sec each while t1 and t2 are the N2 purge times in the consecutive half cycles in seconds. The pressure changes in the reactor due to the TDMASb and SDMDTC precursor dosages are recorded by capacitance manometer as ca. 0.05±0.02 Torr and ca. 2±0.2 Torr that are maintained throughout the deposition process."
+}

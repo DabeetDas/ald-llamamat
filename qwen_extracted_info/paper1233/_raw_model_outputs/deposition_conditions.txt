@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "400 mbar",
+  "precursor_pulse_time_s": 1.5,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "home-made hot wall reactor",
+  "evidence": "The deposition temperature was kept at 300°C in order to deposit high quality WS2. However, all parameters were varied to study this ALD reaction and optimize the deposition conditions and are described in detail in the results section."
+}<|im_end|>

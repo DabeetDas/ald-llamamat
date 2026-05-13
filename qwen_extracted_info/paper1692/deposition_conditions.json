@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 600,
+  "pressure": "20 Torr",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": 20,
+  "number_of_cycles": 25,
+  "reactor_type": "Cross-flow",
+  "evidence": "The following sequence of exposures constituted one AB cycle for SiO2 at 600 K. First, the Al2O3 membrane was exposed to 20 Torr of H2O for 15 min. The excess H2O was then removed by pumping on the gas manifold for 5 min and purging with N2 for 20 min. Subsequently, the alumina membrane was exposed to 20 Torr of SiCl4 for 15 min. The SiCl4 exposure was followed by pumping on the gas manifold for 5 min and then purging with N2 for 20 min."
+}

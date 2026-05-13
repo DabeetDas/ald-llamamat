@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "675",
+  "pressure": "2£ 10¡4 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "load-locked ultrahigh vacuum chamber",
+  "evidence": "The ALE cycle consists of four processes of (1) thermally cracked Si2H6 exposure (t1D 15 min); (2) evacuation (t2D 5 min); (3) annealing (t3); and (4) cooling ( t4 D 5 min). The cracking temperature was 675 K."
+}

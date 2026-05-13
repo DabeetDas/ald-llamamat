@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "30-250",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": "20",
+ "purge_time_s": "20",
+ "number_of_cycles": null,
+ "reactor_type": "Cambridge NanoTech Savannah 100, Microchemistry F–120",
+ "evidence": "We deposited the ZnO layers at LT by the ALD method in two reactors—Cambridge NanoTech Savannah 100 and Microchemistry F–120. We applied two kinds of organic zinc precursors — diethylzinc (DEZn) and dimethylzinc (DMZn) —and deionized water (H2O) as an oxygen precursor. We noticed that lower carrier concentration was obtained with longer purging time (20 s) applied after providing H2O precursor to the growth chamber."
+}<|im_end|>

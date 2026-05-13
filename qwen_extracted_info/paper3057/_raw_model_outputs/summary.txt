@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2 and Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(diethylamino)hafnium (TDEAH)", "tris(diethylamino)aluminum (TDEAA)"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the thermal stability of ultrathin HfO2 and Al2O3 films deposited via atomic layer deposition (ALD) as diffusion barriers between Cu and Si substrates. The films were annealed at different temperatures, and their performance was evaluated using X-ray diffraction, sheet resistance measurements, and scanning electron microscopy. The results show that both HfO2 and Al2O3 films remain thermally stable up to 700°C and 750°C, respectively, before breakdown occurs due to the formation of Cu3Si.",
+  "evidence": "The thermal stability of 3 nm thick HfO2 and Al2O3 films was investigated after annealing at different temperatures for 5 min in N2. X-ray diffraction analyses and sheet resistance measurements suggest that both barrier films were thermally stable and the formation of Cu3Si started to take place only after annealing at high temperatures. Specifically, our results show that 3 nm thick HfO2 and Al2O3 diffusion barriers break down after annealing in N2 at 700 and 750°C, respectively."
+}<|im_end|>

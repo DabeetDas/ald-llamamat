@@ -1,0 +1,11 @@
+{
+  "target_material": "niobium nitride",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "(tert-butoylimido)-tris(diethylamino)-niobium (TBTDEN)",
+    "hydrogen plasma"
+  ],
+  "temperature_range": "350 ◦C",
+  "summary": "The study focuses on the structural and electrical properties of ultrathin niobium nitride (NbN) films grown by plasma-enhanced atomic layer deposition (PEALD). The process parameters were optimized to minimize oxygen contamination and achieve a polycrystalline NbN structure with a small fraction of amorphous niobium oxide and niobium oxo-nitrides. The films exhibited superconducting properties with a critical temperature of 13.8 K and critical current densities of 7×10^6 A/cm² at 4.2 K. The study also observed a thickness-dependent superconductor-insulator transition, making these films promising for quantum phase slip devices.",
+  "evidence": "We studied and optimised the properties of ultrathin superconducting niobium nitride films fabricated with a plasma-enhanced atomic layer deposition (PEALD) process. By adjusting process parameters, the chemical embedding of undesired oxygen into the films were minimised and a film structure consisting of mainly polycrystalline niobium nitride with a small fraction of amorphous niobium oxide and niobium oxo-nitrides were formed. For this composition a critical temperature of 13.8 K and critical current densities of 7x10^6 A/cm2 at 4.2 K were measured on 40 nm thick films. A fundamental correlation between these superconducting properties and the crystal lattice size of the cubic δ-niobium-nitride grains were found. Moreover, the film thickness variation between 40 and 2 nm exhibits a pronounced change of the electrical conductivity at room temperature and reveals a superconductor-insulator-transition in the vicinity of 3 nm film thickness at low temperatures."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-500",
+  "pressure": "250Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": "800-1200",
+  "reactor_type": "hot-wall horizontal flow-type ALD reactor",
+  "evidence": "ZrO2 films were grown onto fused quartz and Si(100) substrates in the temperature range of 250–5001C. ... The total pressure measured at the reactor outlet was 250Pa, approximately. ... Precursor pulse lengths and purge periods were 2s."
+}

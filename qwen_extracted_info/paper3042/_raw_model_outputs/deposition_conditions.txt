@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "3",
+  "coreactant_pulse_time_s": "3",
+  "purge_time_s": "3",
+  "number_of_cycles": "80",
+  "reactor_type": "ALD reactor manufactured in Taiwan",
+  "evidence": "Al/H20849CH3/H208503, i.e., TMA, and H2O were used as the precursors with an alternating pulse of TMA/Ar/H 2O/Ar in period at 3:3:3:3 s for each self-limiting cycle."
+}<|im_end|>

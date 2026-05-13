@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "tetrakis-di-methylamido-Hf (TDMAHf)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The ALD cycles, made by using tetrakis-di-methyl-amido-Hf and water as precursors, were performed on the Si(001)/SiO2 substrate maintained at 230 °C. After each exposure to TDMAHf and H2O the chamber was purged for 1 s by N2 at a pressure of 1 × 10 − 2 mbar."
+}

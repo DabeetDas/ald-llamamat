@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2–Gd2O3",
+  "process_type": "ALD",
+  "main_precursors": ["CpMe2ZrOMeMe (ZrD-04)", "tris(2,2,6,6-tetramethyl-3,5-heptanedionato)gadolinium (Gd(thd)3)"],
+  "temperature_range": "300°C",
+  "summary": "The study investigates the Atomic Layer Deposition (ALD) of ZrO2–Gd2O3 nanolaminates and mixtures for high-k dielectric materials. The process involves using specific precursors and varying the number of ALD cycles for constituent oxides to control composition. The films are analyzed for phase composition, permittivity, and leakage currents. The results show that the inclusion of Gd2O3 affects the phase composition and permittivity of ZrO2, with optimal results achieved with a specific Gd content. The study also compares the performance of different electrode materials and evaluates the electrical properties of the films.",
+  "evidence": "Atomic layer deposition /H20849ALD/H20850of ZrO 2–Gd2O3 nanolaminates and mixtures was investigated for the preparation of a high permittivity dielectric material. ... The metal precursor pulse, purge, O 3 pulse, and purge times were 2-5-2-5 s. The substrate temperature was held at 300°C during all depositions. ... The Zr xGdyOz mixtures /H2084920:2/H20850with 3.4 cat. % of Gd and /H2084910:1/H20850with 2.7 cat. % of Gd were the most stable in respect to annealing."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "D2O"
+  ],
+  "temperature_range": "318–380 °C",
+  "summary": "The study investigates the use of ammonia thermal pretreatment to prevent interfacial SiO2 formation during atomic layer deposition (ALD) of Al2O3 on hydrogen-terminated silicon surfaces. The results show that a 3–4 Å thick Si xNy layer, formed by NH3 exposure, effectively prevents SiO2 formation and promotes Al2O3 nucleation and growth.",
+  "evidence": "The effectiveness of NH3 thermal Si xNy films in preventing SiO2 formation is first studied by growing ALD Al2O3 on SixNy surfaces at various temperatures and measuring the formation of interfacial SiO2 with transmission IR spectroscopy. We conclude that NH3 thermal Si xNy films must be between 3 and 4 Å thick before they are continuous and that a continuous Si xNy is effective in preventing the formation of interfacial SiO2."
+}

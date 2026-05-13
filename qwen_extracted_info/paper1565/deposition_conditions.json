@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "130-170",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "self-ordered porous anodic alumina membrane",
+  "evidence": "When the Fe2(OtBu)6 precursor was heated to 100 °C, a temperature window was found between 130 and 170 °C in which the solid deposits in amounts proportional to the number of reaction cycles."
+}

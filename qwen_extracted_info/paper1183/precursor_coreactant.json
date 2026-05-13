@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "tBuAllylCo(CO)3"
+  ],
+  "coreactants": [
+    "trisilane"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The sample is exposed to alternative pulses of tBuAllylCo(CO)3 and trisilane followed by 5 min purging with ultrapure N2 gas between precursor pulses."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The chlorides are formed by a chemical reaction between hydrogen chloride and the respective elemental metal. The reaction between the chlorides and the hydrides proceeds on the substrate near thermal equilibrium. The chlorides are formed by chemical reaction between Ga or In and HCl.",
+  "intermediate_species": [
+    "chlorides",
+    "hydrides",
+    "surface hydroxyls"
+  ],
+  "evidence": "The chlorides are formed by a chemical reaction between hydrogen chloride and the respective elemental metal. The reaction between the chlorides and the hydrides proceeds on the substrate near thermal equilibrium. The chlorides are formed by chemical reaction between Ga or In and HCl."
+}

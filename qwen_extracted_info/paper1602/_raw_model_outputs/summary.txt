@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "H2O"],
+  "temperature_range": "150 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit Al2O3 shell layers on nanoporous TiO2 electrodes of dye-sensitized solar cells (DSSCs). The ALD process was performed using trimethylaluminum (TMA) and H2O as precursors at 150 °C. The coverage of the Al2O3 shell layers was analyzed using a core/shell (C/S) model based on X-ray photoelectron spectroscopy (XPS) data. The results showed that the coverage increased with the number of ALD cycles, indicating an island growth mode. The power conversion efficiency (PCE) of the DSSCs was highest after the first ALD cycle, with a coverage of 0.25. The study highlights the importance of optimizing ALD conditions to achieve higher coverage and improve PCE.",
+  "evidence": "Atomic layers of Al2O3 were deposited on the TiO2 electrodes using a Cambridge NanoTech Savannah 100 ALD system, with trimethylaluminum (TMA) and H2O as precursors and a deposition temperature of 150 °C. The ALD process featured a given number of identical cycles, each containing the following six steps: dosing with H2O for 0.05 s, soaking in the H2O dose for 2 min, evacuation for 5 min, dosing with TMA by opening the TMA valve for 0.05 s, soaking in the TMA dose for 2 min, and evacuation for 5 min. The study shows that the ALD Al2O3 deposition on the nanoporous electrode was via the island growth mode."
+}<|im_end|>

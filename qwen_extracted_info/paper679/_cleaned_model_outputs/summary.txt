@@ -1,0 +1,8 @@
+{
+  "target_material": "Tantalum oxide",
+  "process_type": "Photo-ALD",
+  "main_precursors": ["Ta(OC2H5)5", "H2O"],
+  "temperature_range": "170–400 8C",
+  "summary": "Tantalum oxide thin films were prepared by photo-assisted atomic layer deposition (Photo-ALD) using Ta(OC2H5)5 and H2O as precursors. The process showed a higher growth rate and shorter cycle time compared to normal ALD, with a constant growth rate starting at a lower temperature. The films were amorphous, smooth, and exhibited good optical and electrical properties.",
+  "evidence": "Tantalum oxide thin films were prepared by photo-assisted atomic layer deposition (Photo-ALD) in the substrate temperature range of 170–400 8C using Ta(OC2H5)5 and H2O as precursors. The constant growth rates of 0.42 and 0.47 A˚ per cycle were achieved for the films grown by normal ALD and Photo-ALD, respectively. The films grown by normal ALD and Photo-ALD were amorphous and very smooth (0.21–0.35 nm) as examined by X-ray diffractometer and atomic force microscopy, respectively. The refractive index was found to be 2.12–2.16 at the substrate temperature of 190–300 8C, similar to that of the film grown by normal ALD. However, the remarkably low leakage current density of 0:6 /C210/C06 A=cm2 to 1 /C210/C06 A=cm2 at applied field of 1 MV/cm is several order of magnitude smaller than that of normal ALD."
+}

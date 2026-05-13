@@ -1,0 +1,8 @@
+{
+  "target_material": "Lanthanum aluminate (LaAlOx)",
+  "process_type": "Liquid injection ALD",
+  "main_precursors": ["[LaAl(OPr i)6(PriOH)]2", "H2O"],
+  "temperature_range": "160–300 °C",
+  "summary": "Lanthanum aluminate was deposited using liquid injection ALD with a bimetallic alkoxide precursor [LaAl(OPr i)6(PriOH)]2 and H2O as the oxygen source. The ALD growth rate was constant in the temperature range 160–300 °C, but ALD growth was not fully self-limiting. The films were La deficient with La : Al ratios of 0.50–0.61. The study aimed to explore the properties of LaAlOx as a high-k dielectric material for CMOS devices.",
+  "evidence": "Lanthanum aluminate has been deposited for the first time by liquid injection atomic layer deposition (ALD) using a bimetallic alkoxide precursor, [LaAl(OPr i)6(PriOH)]2 with H2O as oxygen source. The ALD growth rate was constant in the temperature range 160–300 °C, but ALD growth was not fully self-limiting. The LaAlOx films grown by ALD were all La deficient with La : Al ratios of 0.50–0.61."
+}<|im_end|>

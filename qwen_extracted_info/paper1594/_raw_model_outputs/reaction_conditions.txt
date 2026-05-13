@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "N(CH3)2]3Ti - N(CH3)2 + NH3 f [N(CH3)2]3Ti - NH2 + HN(CH3)2"
+  ],
+  "surface_mechanism_description": "The reaction of TDMAT with the Si(100) surface involves nucleophilic attack of a surface silicon atom by the lone pair of nitrogen, leading to a tetra-coordinated nitrogen (N4C) state. This state can undergo dissociation through scission of either the N-Ti or N-C bond. The scission of the N-Ti bond is kinetically favored, while the scission of the N-C bond is thermodynamically stable but kinetically hindered. The dissociation pathways lead to different surface species, such as D1 and D2, which are further involved in the formation of interdimer bridges or other surface structures.",
+  "intermediate_species": [
+    "tetra-coordinated nitrogen (N4C)",
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The reaction of TDMAT with the Si(100) surface involves nucleophilic attack of a surface silicon atom by the lone pair of nitrogen, leading to a tetra-coordinated nitrogen (N4C) state. This state can undergo dissociation through scission of either the N-Ti or N-C bond. The scission of the N-Ti bond is kinetically favored, while the scission of the N-C bond is thermodynamically stable but kinetically hindered. The dissociation pathways lead to different surface species, such as D1 and D2, which are further involved in the formation of interdimer bridges or other surface structures."
+}<|im_end|>

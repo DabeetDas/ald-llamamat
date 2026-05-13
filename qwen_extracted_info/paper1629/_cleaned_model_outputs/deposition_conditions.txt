@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "275",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 2,
+  "number_of_cycles": 300,
+  "reactor_type": "viscous flow reactor",
+  "evidence": "The ALD timing sequences can be expressed as t1-t2-t3-t4 where t1 is the exposure time for the first precursor, t2 is the purge time following the first exposure, t3 is the exposure time for the second precursor, and t4 is the purge time following the exposure to the second precursor with units in seconds. On the basis of our previous studies, the timing sequence used for In2O3 ALD was 2 -4-2-2, and the timing sequence used for SnO2 ALD was 1-5-1-5."
+}

@@ -1,0 +1,9 @@
+{
+  "precursors": [],
+  "coreactants": [],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": null,
+  "_error": "ValueError: Could not parse model output as JSON. Preview: '[ A/H20849g/H20850 ] /H208491/H20850, where k a is the rate constant and [ A/H20849g/H20850 ] is the concentration of the gaseous reactant. The reverse reaction rate is given by r a = k d [ /H20648/H11569A ] /H208492/H20850, where k d is the rate constant for desorption and [ /H20648/H11569A ] is th'",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 257, in precurosr_coreactant_purge_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '[ A/H20849g/H20850 ] /H208491/H20850, where k a is the rate constant and [ A/H20849g/H20850 ] is the concentration of the gaseous reactant. The reverse reaction rate is given by r a = k d [ /H20648/H11569A ] /H208492/H20850, where k d is the rate constant for desorption and [ /H20648/H11569A ] is th'\n"
+}

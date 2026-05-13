@@ -1,0 +1,20 @@
+{
+  "precursors": [
+    "Hf(NMe2)4",
+    "Hf(NEtMe)4",
+    "Hf(NEt2)4",
+    "Zr(NMe2)4",
+    "Zr(NEtMe)4",
+    "Zr(NEt2)4"
+  ],
+  "coreactants": [
+    "ammonia"
+  ],
+  "purge_gas": [
+    "nitrogen"
+  ],
+  "carrier_gas": [
+    "nitrogen"
+  ],
+  "evidence": "The precursors are introduced alternatingly from one end of the tube into the heated reaction/deposition zone. The inert gas delivery system supplied the carrier gas, nitrogen, for the metal-containing precursor and the ammonia. Nitrogen (impurities < 1 ppm) was purified by passing it first through a drying column of P2O5 and then a Mykrolis inert gas purifier. The nitrogen was also used as the purge gas between doses of precursors."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "3.0 Torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.4,
+  "purge_time_s": 2,
+  "number_of_cycles": 1000,
+  "reactor_type": "wall reactor",
+  "evidence": "During the thin-ﬁlm deposition, as shown in Fig. 1, one deposition cycle consisted of four pulses in sequence: /H20851/H20849CH3/H208502GaNH2/H208523 vapor pulse with 100- standard cubic centimeter per minute /H20849SCCM/H20850Ar carrier gas for 0.1 s, an Ar purge gas pulse for 2 s, an O 2 plasma gas pulse for 1 s, and an Ar purge gas pulse for 0.4 s. These four pulses were deﬁned as one deposition cycle."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "2 X 10 - 6 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "UHV",
+  "evidence": "The sample was heated to 800 K to remove any surface contaminants. The sample was allowed to cool to room temperature and exposed to water (20 Torr, 300 s) in order to hydroxylate the surface."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "AlOH + Al(CH3)3 -> Al-O-Al(CH3)2 + CH4",
+    "Al-O-Al(CH3)2 + 2H2O -> Al-O-Al(OH)2 + 2CH4"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the sequential adsorption of TMA and H2O on an alumina surface, leading to the formation of Al-O-Al(CH3)2 and subsequent reaction with H2O to form Al-O-Al(OH)2. The reactions are self-limiting and complete, resulting in the controlled deposition of Al2O3.",
+  "intermediate_species": [
+    "Al-O-Al(CH3)2",
+    "Al-O-Al(OH)2",
+    "AlCH3"
+  ],
+  "evidence": "The text describes the surface reactions as follows: 'AlOH + Al(CH3)3 -> Al-O-Al(CH3)2 + CH4' and 'Al-O-Al(CH3)2 + 2H2O -> Al-O-Al(OH)2 + 2CH4'. The mechanism involves the formation of Al-O-Al(CH3)2 and Al-O-Al(OH)2 as intermediate species. The self-limiting nature of the reactions is also mentioned, indicating the controlled deposition of Al2O3."
+}<|im_end|>

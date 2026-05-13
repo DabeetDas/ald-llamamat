@@ -1,0 +1,7 @@
+{
+  "precursors": ["Bis(t-butylimino)bis(dimethylamino)molybdenum(VI) ((NtBu)2(NMe2)2Mo)"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The MoS2 was deposited in our homemade ALD system using Bis(t-butylimino)bis(dimethylamino)molybdenum(VI) (BTBMMo, 98%, Strem), stored in a stainless steel cylinder (at 55 °C) as a molybdenum precursor. The H2S (Air Liquide, CAS number: 7783-06-4, H2S > 99.5%), kept at room temperature, was used as a source of sulfur at 400 mbar pressure. N2 (Air Liquide, 99.99%) was used as a carrier and purging gas in the ALD system to deliver the precursors and to remove the excess of the reactants and by-products, respectively."
+}

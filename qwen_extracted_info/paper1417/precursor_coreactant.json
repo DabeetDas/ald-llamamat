@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "tetrakis(dimethylamino)-hafnium",
+    "tris(tert-butoxy)silanol"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "dry nitrogen"
+  ],
+  "carrier_gas": [
+    "dry nitrogen"
+  ],
+  "evidence": "A typical example is the reaction of tetrakis(dimethylamino)-hafnium vapor, Hf(N(CH3)2)4, with tris( tert-butoxy)silanol vapor, (t-BuO)3SiOH. ... The valves for the two precursor solutions were actuated alternately (for 100 -250 cycles) with a typical spacing of 15 s to purge the reactor of volatile byproducts and any excess reactants. ... Metal oxide films were grown using water pulses in place of the tris(tert-butoxy)silanol pulses."
+}

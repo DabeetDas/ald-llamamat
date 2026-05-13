@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "125-225",
+ "pressure": "1 Torr",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "5",
+ "number_of_cycles": null,
+ "reactor_type": "cold-wall flow-type",
+ "evidence": "The pressure in the reactor was fixed at 1 Torr. ... Operating conditions are summarized in Table I. ... ZTB:purge:SiCl4 :purge52 s:5 s:2 s:5 s"
+}

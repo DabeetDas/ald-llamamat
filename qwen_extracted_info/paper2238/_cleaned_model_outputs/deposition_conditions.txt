@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 125,
+  "pressure": "10 mTorr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.15,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall viscous flow reactor",
+  "evidence": "A typical ALD cycle to produce Al2O3 at 125 ° C consisted of a 0.1 s TMA exposure, followed by a 30 s purge, then a 0.15 s water exposure, followed again with a 30 s purge."
+}

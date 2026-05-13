@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "TiCl4 (Aldrich— 99.9% purity) and H2O (Milli-Q dispenser) were selected as precursors for the present study due to their high reactivity in the temperature range of interest, and nitrogen served as both the carrier and purge gases."
+}

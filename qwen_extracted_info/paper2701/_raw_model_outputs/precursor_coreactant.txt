@@ -1,0 +1,22 @@
+{
+  "precursors": [
+    {
+      "name": "(tBuN)2(NMe2)2Mo",
+      "evidence": "Plasma-enhanced atomic layer deposition was used to grow molybdenum disul ﬁde ﬁlms using (tBuN)2(NMe2)2Mo and a remote H 2S-Ar plasma as coreactants on three different substrates"
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "H2S-Ar plasma",
+      "evidence": "Plasma-enhanced atomic layer deposition was used to grow molybdenum disul ﬁde ﬁlms using (tBuN)2(NMe2)2Mo and a remote H 2S-Ar plasma as coreactants on three different substrates"
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Ar",
+      "evidence": "The Ar gas ﬂow for the ALD precursor delivery step was 30 sccm through the precursor manifold with 80 sccm of Ar into the plasma source during the 0.5 s (tBuN)2(NMe2)2Mo bubble step."
+    }
+  ],
+  "carrier_gas": [],
+  "evidence": "The Ar gas ﬂow for the ALD precursor delivery step was 30 sccm through the precursor manifold with 80 sccm of Ar into the plasma source during the 0.5 s (tBuN)2(NMe2)2Mo bubble step."
+}<|im_end|>

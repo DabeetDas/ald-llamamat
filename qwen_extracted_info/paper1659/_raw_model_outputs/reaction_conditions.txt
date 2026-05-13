@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves sequential surface reactions where precursors react with the surface in a saturative manner. The growth per cycle is ∼1 Å, and the saturative nature of ALD allows reliable calculation of layer thicknesses from growth per cycle. The Al2O3 barrier layer increases the distance between the electron donating bipyridine orbitals of the dye and the conduction band of TiO2, leading to weaker electronic coupling.",
+  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum"],
+  "evidence": "ALD is based on sequential surface reactions where precursors react with the surface in a saturative manner. This allows production of smooth, continuous films and straightforward control of the thickness of the deposited film by adjusting the number of reaction cycles. In the TMA/H2O process used in this work, the growth per cycle is ∼1 Å. The Al2O3 barrier layer also increases the distance between the electron donating bipyridine orbitals of the dye and the conduction band of TiO2, leading to weaker electronic coupling."
+}<|im_end|>

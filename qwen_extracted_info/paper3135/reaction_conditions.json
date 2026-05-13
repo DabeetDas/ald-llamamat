@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Ti precursor (TDMA T) and O reactant (O2 plasma) on the stainless steel substrate. The mechanism includes the formation of surface hydroxyl groups, followed by the reaction of the Ti precursor with these hydroxyl groups to form Ti-O bonds. The process is repeated with O2 plasma to regenerate the surface hydroxyl groups, leading to the growth of TiO2 thin films.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "Ti-O bonds"
+  ],
+  "evidence": "The text describes the plasma-enhanced atomic layer deposition (PE-ALD) process of TiO2 thin films on stainless steel, involving the use of TDMA T and O2 plasma. It mentions the formation of surface hydroxyl groups and the reaction of the Ti precursor with these groups to form Ti-O bonds, followed by the regeneration of surface hydroxyl groups through O2 plasma exposure."
+}

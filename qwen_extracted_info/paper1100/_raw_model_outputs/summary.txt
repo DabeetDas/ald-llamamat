@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["H2O", "tetrakis(diethylamido) hafnium (IV) [Hf(DEA)4]"],
+  "temperature_range": "90 °C to 250 °C",
+  "summary": "The paper describes the atomic layer deposition (ALD) of HfO2 on ion-exfoliated thin-film complex oxide substrates, specifically LiNbO3. The process involves the use of H2O and tetrakis(diethylamido) hafnium (IV) [Hf(DEA)4] as precursors, with a temperature range of 90 °C to 250 °C. The study demonstrates the successful growth of HfO2 on both pre-implanted and exfoliated LiNbO3 substrates, and the resulting films are characterized for their quality and properties. The ALD process is shown to be compatible with the exfoliation process and allows for thin-film patterning and applications such as surface-refractive-index tuning of guided waves in LiNbO3.",
+  "evidence": "We demonstrate effective index tuning for strip-loaded waveguides in a LiNbO3 exfoliated sample. Lateral index changes were made using a patterned HfO2 strip as the loading material on LiNbO3 to achieve lateral index contrast. Note that in this test structure, He implantation also provides a bottom cladding region within the LiNbO3 crystal to form a vertically confined waveguide."
+}<|im_end|>

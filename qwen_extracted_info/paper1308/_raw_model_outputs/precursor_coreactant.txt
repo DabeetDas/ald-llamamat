@@ -1,0 +1,33 @@
+{
+  "precursors": [
+    {
+      "name": "In(CH3)3[CH3OCH2CH2NHtBu]",
+      "abbreviation": "TMION",
+      "evidence": "The first set of precursors consisted of In(CH3)3[CH3OCH2CH2NHtBu] (TMION) and Ga(CH3)3[CH3OCH2CH2NHtBu]) (TMGON), denoted as TM-IGO; the other set of precursors was (CH3)2In(CH2)3N(CH3)2 (DADI) and (CH3)3Ga (TMGa), denoted as DT-IGO."
+    },
+    {
+      "name": "Ga(CH3)3[CH3OCH2CH2NHtBu]",
+      "abbreviation": "TMGON",
+      "evidence": "The first set of precursors consisted of In(CH3)3[CH3OCH2CH2NHtBu] (TMION) and Ga(CH3)3[CH3OCH2CH2NHtBu]) (TMGON), denoted as TM-IGO; the other set of precursors was (CH3)2In(CH2)3N(CH3)2 (DADI) and (CH3)3Ga (TMGa), denoted as DT-IGO."
+    },
+    {
+      "name": "(CH3)2In(CH2)3N(CH3)2",
+      "abbreviation": "DADI",
+      "evidence": "The other set of precursors was (CH3)2In(CH2)3N(CH3)2 (DADI) and (CH3)3Ga (TMGa), denoted as DT-IGO."
+    },
+    {
+      "name": "(CH3)3Ga",
+      "abbreviation": "TMGa",
+      "evidence": "The other set of precursors was (CH3)2In(CH2)3N(CH3)2 (DADI) and (CH3)3Ga (TMGa), denoted as DT-IGO."
+    }
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    {
+      "name": "Ar",
+      "evidence": "For the deposition using each precursor, Ar gas is used as purge gas."
+    }
+  ],
+  "carrier_gas": [],
+  "evidence": "The first set of precursors consisted of In(CH3)3[CH3OCH2CH2NHtBu] (TMION) and Ga(CH3)3[CH3OCH2CH2NHtBu]) (TMGON), denoted as TM-IGO; the other set of precursors was (CH3)2In(CH2)3N(CH3)2 (DADI) and (CH3)3Ga (TMGa), denoted as DT-IGO. For the deposition using each precursor, Ar gas is used as purge gas."
+}<|im_end|>

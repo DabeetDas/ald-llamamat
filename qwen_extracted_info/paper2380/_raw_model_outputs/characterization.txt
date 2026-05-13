@@ -1,0 +1,14 @@
+{
+ "characterization_methods": [
+   "High-resolution transmission electron microscopy (HRTEM)",
+   "X-ray photoelectron spectroscopy (XPS)",
+   "Time-of-Flight Secondary Ion Mass Spectrometry (ToF-SIMS)",
+   "Capacitance-voltage (C–V) measurement",
+   "Leakage current density–voltage (J–V) measurement",
+   "Four-point probe",
+   "Ellipsometry",
+   "Scanning electron microscopy (SEM)",
+   "Atomic force microscopy (AFM)"
+ ],
+ "evidence": "The microstructural film/interface structures and the interfacial chemical bonding characteristics of the HfO2 films on GaAs were investigated using HRTEM (JEOL JEM 2100F) and XPS (AXIS-NOVA system located at the Korea Basic Science Institute, Jeonju in Korea) with a monochromated Al Kα (1486.7 eV) x-ray source. For various electrical characterizations, the top gate electrode (Al-capped TaN structure) was sputter-deposited and patterned via a liftoff process to form MOS capacitors with an area of 7850µm2. Followed by subsequent forming gas annealing (400 ◦C for 30 min in 4% H2/N2 ambient), a series of capacitance–voltage (C–V) and leakage current density–voltage (J–V) characteristics with and without voltage-stressing conditions were measured using the following units: Agilent E4980A LCR meter, B1500A semiconductor device analyser and Keithley 6514 electrometer/230 programmable voltage source. The ToF-SIMS analysis of the ∼ 8 nm-thick HfO2 films was used to confirm more Ga-diffusion into the HfO2 film during the O3-based ALD process than the H2O-based process. The C–V measurements at 100 kHz under a ramp voltage stress (RVS) condition were carried out to evaluate the charge trapping characteristics. The J–V characteristics were measured after a series of RVS under a substrate electron injection condition. The time-dependent C–V measurement under a constant voltage stress (CVS) condition was performed to further confirm the different behavior of the low-field electron trapping and the subsequent high-field trap generation."
+}<|im_end|>

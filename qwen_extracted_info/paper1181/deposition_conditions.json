@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": 15,
+  "number_of_cycles": 20,
+  "reactor_type": "high-vacuum ALD setup",
+  "evidence": "The full ALD process consisted of 4 steps, each with a length of time ti: t1 is the precursor pulse time, t2 is the pump time required to remove all the precursor gas, t3 is the reagent pulse time, and t4 is the subsequent pump time. The full process is thus t1−t2−t3−t4. The films were grown on silicon covered with 100 nm thermal SiO 2 for the in situ growth characterization and on 60 nm PVD TiN for electrochemical characterization."
+}

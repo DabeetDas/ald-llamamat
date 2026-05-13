@@ -1,0 +1,11 @@
+{
+  "target_material": "VO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "TEMAV",
+    "ozone"
+  ],
+  "temperature_range": "150 °C (deposition), 450 °C (annealing)",
+  "summary": "The study describes the atomic layer deposition (ALD) of vanadium dioxide (VO2) on SiO2 substrates using TEMA V and ozone as precursors. The films were annealed to induce crystallization, with the oxygen partial pressure during annealing significantly affecting the crystallization behavior. The VO2(R) phase was obtained at 450 °C with an oxygen partial pressure between 1 and 10 Pa. The semiconductor-metal transition was characterized using X-ray diffraction, ellipsometry, and sheet resistance measurements.",
+  "evidence": "Crystalline vanadium dioxide (VO2) thin films were prepared by annealing amorphous VO2 films which were deposited by atomic layer deposition on a SiO2 substrate. A large influence of the oxygen partial pressure in the annealing ambient was observed by means of in-situ X-ray diffraction. In the range between 1 and 10 Pa of oxygen the interesting VO2(R) phase crystallized near 450 °C. In our recent work we demonstrated ALD of VO2 on SiO2 at 150 °C by using tetrakis(ethyl-methyl)amino-vanadium (TEMAV) and ozone. The semiconductor– metal transition was observed by three complementary techniques."
+}

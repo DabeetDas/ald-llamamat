@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500– 900",
+  "pressure": "10/C0 2– 10/C0 3 mbar",
+  "precursor_pulse_time_s": 0.2,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 1,
+  "number_of_cycles": "100– 800",
+  "reactor_type": "square box of size 20 cm /C2 20 cm /C2 20 cm with a view port and perpendicular top ﬂow (shower head) geometry",
+  "evidence": "The self-limiting ALD growth characteristics were studied in detail by varying precursor pulse (0.2 – 8 s), growth temperature (100 – 225 8C) and number of ALD cycles (100– 800 cycles) (see Supporting Information). The typical ALD cycle was: [Ti(NMe2)3(guan)] dose (1 s)/Ar purge (0.5 s)/O2 plasma (0.5 s)/Ar purge (1 s) with a ALD cycle of 5s ."
+}<|im_end|>

@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Surface-controlled deposition of the binary oxides Y2O3 and Sc2O3 by ALD using M(thd)3-precursors (M = Y, Sc) can be observed in the temperature ranges 250–375 uC and 335–375 uC, respectively. The ternary process for YxScyO3 in the temperature range 335–350 uC should be within the ALD window. The reported deposition rates for Y2O3 and Sc2O3 with the thd-precursors at 350 uC are 0.23 and 0.125 A˚ (cycle)21, respectively. The growth rate on silicon remained constant (0.18 A˚ (cycle)21) at both temperatures and independent of the number of deposition cycles, which is characteristic for ALD-type growth.",
+  "intermediate_species": [
+    "Y(thd)3",
+    "Sc(thd)3",
+    "O3",
+    "Cp3Sc",
+    "H2O"
+  ],
+  "evidence": "Surface-controlled deposition of the binary oxides Y2O3 and Sc2O3 by ALD using M(thd)3-precursors (M = Y, Sc) can be observed in the temperature ranges 250–375 uC and 335–375 uC, respectively. The ternary process for YxScyO3 in the temperature range 335–350 uC should be within the ALD window. The reported deposition rates for Y2O3 and Sc2O3 with the thd-precursors at 350 uC are 0.23 and 0.125 A˚ (cycle)21, respectively. The growth rate on silicon remained constant (0.18 A˚ (cycle)21) at both temperatures and independent of the number of deposition cycles, which is characteristic for ALD-type growth."
+}

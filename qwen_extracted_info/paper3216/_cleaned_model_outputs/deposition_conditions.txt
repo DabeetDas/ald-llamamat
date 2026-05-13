@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "220",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 50,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "During deposition, 50 sccm of Ar gas was continuously supplied to the reactor. The unit cycle for TiO2 included a TTIP vapor pulse with 50 sccm of Ar carrier gas, a purge pulse with 50 sccm of Ar, a H2O vapor pulse with 50 sccm of Ar carrier gas, and another 50 sccm Ar purge pulse. The unit cycle for Ta was composed of a TATDMT vapor pulse with 50 sccm of Ar carrier gas, a purge pulse with 50 sccm of Ar, a H2O vapor pulse with 50 sccm of Ar carrier gas, and another 50 sccm Ar purge pulse."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "radical-enhanced",
+  "evidence": "Incorporation of Er with concentrations varying from 6 to 14 at. % was achieved by radical-enhanced atomic layer deposition at 350 ° C."
+}

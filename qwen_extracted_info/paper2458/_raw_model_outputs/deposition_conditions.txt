@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225-275",
+  "pressure": "1100 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "R200 Advanced, Picosun",
+  "evidence": "One deposition cycle includes a pulse of NiCp2, 10 s of N2 purging to remove the residual precursor and byproducts, a pulse of O2-plasma, and 10 s of N2 purging in sequence, in which the pulse times of NiCp2 and O2 plasma were optimized, respectively."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "InN",
+  "process_type": "UV-assisted atomic layer epitaxy",
+  "main_precursors": [
+    "In",
+    "N"
+  ],
+  "temperature_range": "440°C",
+  "summary": "The study describes the growth of InN single crystals using UV-assisted atomic layer epitaxy (ALE) under atmospheric pressure on a sapphire c-plane substrate. The material is characterized as a degenerate n-type semiconductor with a carrier concentration of ~3×10^20/cm³ and a mobility of 60 cm²/V s. The phonon structure of InN is analyzed using infrared and Raman spectroscopy, revealing several optical phonon modes and their interactions with plasma oscillations. The effective electron mass and dielectric constants are also determined.",
+  "evidence": "For the preparation of InN single crystals, we used the atomic layer epitaxy (ALE) under atmospheric pressure, to overcome the big difference of the vapor pressure between In and N. The substrate was sapphire c-plane which was kept at 440°C. The obtained InN was grown heteroepitaxially with the c-axis parallel to the sapphire c-axis. The film thickness was 580 nm and the resistivity was 3.4 × 10^24 V cm at room temperatures. The carrier density obtained from the Hall coefficient was ~3 × 10^20/cm³ with mobility of 60 cm²/V s. From the earlier results, the InN grown by ALE was an n-type semiconductor in a degenerate condition."
+}

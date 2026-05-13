@@ -1,0 +1,9 @@
+{
+  "characterization_methods": [
+    "Quartz Crystal Microbalance (QCM)",
+    "Optical Reflectivity",
+    "Mass Spectrometry",
+    "X-ray Photoelectron Spectroscopy (XPS)"
+  ],
+  "evidence": "Of these methods, QCM is the most widely used technique for in situ growth monitoring during ALD. 4-7 The QCM is very useful for determining ALD growth rates, optimizing processing conditions, measuring nucleation phenomena, and elucidating growth mechanisms. ... a number of techniques have emerged that perform well during ALD in hot, viscous flow environments including optical reflectivity, 2 mass spectrometry, 3 and quartz crystal microbalance (QCM) methods. 4 ... The most serious limitation to the QCM technique is that the resonant frequency of typical AT-cut quartz sensors is extremely dependent on temperature. ... In this study, Y-11 ° GaPO4 sensors obtained from AVL LIST GmbH are compared with conventional AT-quartz sensors for in situ growth monitoring in an ALD flow reactor. ... The ALD timing sequence is specified by t1-t2-t3-t4 where t1 is the exposure time for the first precursor, t2 is the purge time following the first exposure, t3 is the exposure time for the second precursor, and t4 is the purge time following the exposure to the second precursor. ... The quantity ( FRcR)1/2 is known as the acoustic impedance, Z. For conventional AT-quartz sensors, FR ) 2.648 g/cm3 and cR ) 2.947 \u0002 1011 g/(cm s2) so that Zquartz ) 8.834 \u0002 105 g/(cm2 s), while for Y-11° GaPO4, FR ) 3.570 g/cm3 and cR ) 2.147 \u0002 1011 g/(cm s 2) yielding ZGaPO4 ) 8.755 \u0002 105 g/(cm2 s)."
+}

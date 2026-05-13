@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "AlCH3 + H2O → AlOAlCH2 + CH4",
+    "AlCH3 + H2O → AlOH + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between AlCH3 and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "AlCH3",
+    "AlOH",
+    "BOH*",
+    "BNH*"
+  ],
+  "evidence": "The initial vibrational modes were consistent with BOH* and BNH* surface species on the BN particles. These species were converted to AlCH3 species during AlCH3 exposure. Subsequently, H2O exposure was used to convert the AlCH3 species into AlOH species. Alternating AlCH3 and H2O exposures yielded AlCH3* and AlOH* species, respectively, that sequentially deposited aluminum and oxygen with atomic layer control."
+}<|im_end|>

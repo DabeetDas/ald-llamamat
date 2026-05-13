@@ -1,0 +1,8 @@
+{
+  "target_material": "BeO",
+  "process_type": "Epitaxial ALD",
+  "main_precursors": ["dimethylberyllium", "water"],
+  "temperature_range": "200 ◦C ∼ 250 ◦C",
+  "summary": "The paper discusses the use of epitaxial atomic layer deposition (ALD) of BeO as an oxygen diffusion barrier for scaled gate stacks in metal–oxide–semiconductor devices. ALD BeO is shown to suppress oxygen diffusion, reduce equivalent oxide thickness (EOT), and improve reliability characteristics after postdeposition annealing (PDA).",
+  "evidence": "ALD BeO layers are epitaxially grown on Si at low temperatures (200 ◦C ∼ 250 ◦C) and pressures (0.2 ∼ 0.3 torr) using dimethylberyllium and water precursors. This allows good control of the physical thickness and causes minimal oxidation of the Si surface. We will show that BeO IPL suppresses not only Si oxidation but also leakage current after PDA."
+}

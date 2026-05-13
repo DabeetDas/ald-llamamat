@@ -1,0 +1,9 @@
+{
+  "substrate_material": "",
+  "substrate_orientation": "",
+  "pretreatment": "",
+  "surface_functionalization": "",
+  "evidence": null,
+  "_error": "ValueError: Could not parse model output as JSON. Preview: '/C101/C99/C116/C114/C117/C109 /C111/C102 /C116/C104/C101 /C115/C97/C109/C112/C108/C101 /C99/C111/C117/C108/C100 /C97/C128/C101/C99/C116 /C116/C104/C101 /C115/C97/C109/C112/C108/C101 /C115/C117/C114/C102/C97/C99/C101 /C98/C121 /C100/C101/C115/C111/C114/C98/C105/C110/C103 /C115/C117/C114/C102/C97/C99/'",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 363, in substrate_information_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '/C101/C99/C116/C114/C117/C109 /C111/C102 /C116/C104/C101 /C115/C97/C109/C112/C108/C101 /C99/C111/C117/C108/C100 /C97/C128/C101/C99/C116 /C116/C104/C101 /C115/C97/C109/C112/C108/C101 /C115/C117/C114/C102/C97/C99/C101 /C98/C121 /C100/C101/C115/C111/C114/C98/C105/C110/C103 /C115/C117/C114/C102/C97/C99/'\n"
+}

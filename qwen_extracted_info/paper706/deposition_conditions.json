@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 100,
+  "reactor_type": "Cambridge Nanotech Inc. Savannah TM",
+  "evidence": "La2O3 and ZrO2 have been deposited by ALD at 300 ◦C onto n-type (1 0 0) Ge substrates (resistivity: 1–10 /DELcm). Prior to the dielectric stack formation, the Ge surfaces have been cleaned by cyclic rinsing between 50:1 HF solution and DI water, to remove the surface oxide. Stacked films of La2O3 and ZrO2, have been formed by applying ALD, using a commercially available Cambridge Nanotech Inc. Savannah TM ALD tool."
+}

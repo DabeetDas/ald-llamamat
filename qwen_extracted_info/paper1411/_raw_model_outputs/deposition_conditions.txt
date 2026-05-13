@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 400,
+  "pressure": "-1 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Furnace",
+  "evidence": "The y-alumina is degassed in vacuo for 90 min to remove molecular water. The sample can be heated up to -1200 K in vacuo."
+}<|im_end|>

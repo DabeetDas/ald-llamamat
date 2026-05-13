@@ -1,0 +1,19 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Rutherford Backscattering Spectrometry (RBS)",
+    "Time-of-Flight Elastic Recoil Detection Analysis (ToF-ERDA)",
+    "X-ray Diffraction (XRD)",
+    "X-ray Reflectivity (XRR)",
+    "Scanning Electron Microscopy (SEM)",
+    "Transmission Electron Microscopy (TEM)",
+    "Scanning Transmission Electron Microscopy (STEM)",
+    "Selected Area Electron Diffraction (SAED)",
+    "Atomic Force Microscopy (AFM)",
+    "Ellipsometry",
+    "Absorption Spectroscopy",
+    "X-ray Rocking Curve (XRC)",
+    "High Resolution XPS (HR-XPS)"
+  ],
+  "evidence": "The crystallinity of deposited films was studied using a PANalytical EMPYREAN MRD XRD with a Cu-anode X-ray tube and 5-axis (x-y-z-v-u) sample stage both in y–2 y and grazing incidence (GIXRD) configuration. The film composition and chemical bonding environments of the atoms in the film were characterized with a Kratos AXIS Ultra DLD X-ray photoelectron spectroscopy (XPS) equipped with Ar (0.5 keV) sputtering source. Elemental composition of the films was obtained using Rutherford backscattering spectrometry (RBS) and time-of-flight elastic recoil detection analyses (ToF-ERDA). A LEO 1550 Scanning electron microscope (SEM) with an acceleration energy of 10–20 kV was used to characterise the morphology of the film. Cross-sectional transmission electron microscope (TEM) samples were prepared by the traditional sandwich approach. Scanning transmission electron microscopy (STEM) and selective area electron diffraction (SAED) characterization were performed. The absorption spectroscopy measurements were conducted using a custom fibre optical setup. The X-ray Rocking Curve (XRC) was employed on the epitaxial GaN. High resolution XPS spectra were used to analyse the chemical environment of the Ga 2p 3/2 and N 1s regions. The XRD peaks, which is especially clear from the GIXRD measurements, increases with higher deposition temperature suggesting that film crystallinity increases with temperature. The XPS measurements showed that the Fermi level lies closer to the conduction band in comparison to the valence band. Pole figure measurements showed that epitaxial GaN was deposited directly on 4H-SiC (0001). The STEM-HAADF images also revealed that the GaN planes starts to curve along the growth direction after a critical thickness of approximately 6 nm. XRC shows that the GaN (0002) has a FWHM of 523 arc sec which similar to that of CVD grown GaN."
+}<|im_end|>

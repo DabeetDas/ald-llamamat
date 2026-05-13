@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "1 - 2 mbar",
+  "precursor_pulse_time_s": 1.0,
+  "coreactant_pulse_time_s": 1.0,
+  "purge_time_s": 5.0,
+  "number_of_cycles": "2 - 10",
+  "reactor_type": "F-120",
+  "evidence": "In the most detailed studies the following kind of precursor dosing schemes were used: a times 1.0 s MLX pulse/ 5.0 s purge b times 1.0 s ML, pulse/2.0 s purge + 1.0 s D20 pulse/2.0 s purge c times 1.0 s MLx pulse/5.0 s purge d times 1.0 s NIL, pulse/2.0 s purge + I .O s D20 pulse/2.0 s purge e times 1.0 s D20 pulse/5.0 s purge"
+}<|im_end|>

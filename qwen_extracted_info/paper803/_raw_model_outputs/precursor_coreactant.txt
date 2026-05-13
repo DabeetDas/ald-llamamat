@@ -1,0 +1,7 @@
+{
+  "precursors": ["IMBCHRu", "trimethylaluminum"],
+  "coreactants": ["O2", "H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Each sub-cycle consisted of the corresponding ALD unit cycles. Ru ALD was performed using the sequential supply of IMBCHRu [...] and molecular O 2, and AlO x ALD was performed using a sequential supply of trimethylaluminum [...] and water vapor. [...] one ALD unit cycle for Ru consisted of IMBCHRu (5 s) pulse – N 2 purge (10 s) – O 2 pulse (0.5 s) – N 2 purge (10 s), and one ALD unit cycle for AlOx consisted of trimethylaluminum (0.2 s) pulse – N 2 purge (10 s) – H 2O pulse (0.2 s) – N 2 purge (10 s)."
+}<|im_end|>

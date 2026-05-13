@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnAl2O4 spinel",
+  "process_type": "low-temperature atomic layer deposition (ALD)",
+  "main_precursors": ["trimethylaluminum (TMA)", "diethyl zinc (DEZ)", "deionized water (DI H2O)"],
+  "temperature_range": "45 °C to 700 °C",
+  "summary": "The study describes the fabrication of ZnAl2O4 spinel microtubes using a bi-directional Kirkendall effect through low-temperature atomic layer deposition (ALD) of Al2O3 and ZnO on electrospun PVA microfibers. The process involves sequential ALD to create trilayered Al2O3/ZnO/Al2O3 microtubes, which are then annealed at 700 °C to induce solid-state reaction and diffusion, resulting in Kirkendall voids and the formation of microtube-in-microtube structures.",
+  "evidence": "The solid-state reaction within a coaxial Al2O3/ZnO/Al2O3 multilayered microtubular structure can be used to prepare discrete microtube-in-microtube ZnAl2O4 spinel assemblies through a Kirkendall void production mechanism at 700 °C. Low-temperature atomic layer deposition (ALD) of Al2O3 and ZnO enables the fabrication of complex coaxial multilayered microtubes with precise control of the starting film thicknesses and relative composition."
+}<|im_end|>

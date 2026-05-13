@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the growth of ZnO layers through atomic layer deposition (ALD), where the ZnO epilayer is formed with high crystallinity and good crystal quality. The interfacial layer between ZnO and GaN is formed due to the diffusion of Mg atoms from the p-GaN layer during rapid thermal annealing (RTA). The interfacial layer is attributed to the interdiffusion between ZnO and GaN, and it plays a role in the electroluminescence (EL) and photoluminescence (PL) properties of the heterojunction LED.",
+  "intermediate_species": [
+    "Mg atoms",
+    "interfacial layer"
+  ],
+  "evidence": "The interfacial layer between ZnO and GaN is formed due to the diffusion of Mg atoms from the p-GaN layer during rapid thermal annealing (RTA). The interfacial layer is attributed to the interdiffusion between ZnO and GaN, and it plays a role in the electroluminescence (EL) and photoluminescence (PL) properties of the heterojunction LED."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "Aluminum nitride and oxynitride",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Tris(dimethylamido)aluminum",
+    "Ammonia",
+    "Water"
+  ],
+  "temperature_range": "170–290°C (optimal 200–230°C)",
+  "summary": "The study describes the atomic layer deposition (ALD) of aluminum nitride (AlN) and aluminum oxynitride (AlON) on silicon substrates using tris(dimethylamido)aluminum, ammonia, and water as precursors. The process was carried out in the temperature range of 170–290°C, with optimal deposition at 200–230°C. The ALD process was optimized to achieve a low impurity level, high density, and low roughness of the deposited films. The study also highlights the importance of the ALD process in achieving precise control over film composition and thickness.",
+  "evidence": "Abstract—Thin films of aluminum nitride and oxynitride were deposited by atomic layer deposition (ALD) in the temperature range from 170 to 290°C (optimal deposition temperature 200–230°C). Tris(dimethylamido)aluminum and ammonia were used as precursors for the atomic layer deposition of aluminum nitride (AlN). The ALD films prepared from Me3Al and NH3 contained from 4 to 7 at % of carbon and hydrogen impurities... The study also demonstrates the possibility of obtaining aluminum oxynitride ALD films with uniformly distributed oxygen and nitrogen atoms without carbon impurity."
+}

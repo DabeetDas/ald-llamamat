@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225-300",
+  "pressure": "2-3",
+  "precursor_pulse_time_s": 1.5,
+  "coreactant_pulse_time_s": 2.0,
+  "purge_time_s": 1.5,
+  "number_of_cycles": 1500,
+  "reactor_type": "F-120",
+  "evidence": "The growth rate increased linearly with substrate temperature from 0.37 A˚ per cycle at 225 uC to 0.55 A˚ per cycle at 300 uC. The number of deposition cycles, the pulse length of 6, and the ozone pulse length were held constant at 1500, 1.5 s and 2.0 s, respectively, for an initial set of experiments that probed the deposition temperature–growth rate relationship."
+}

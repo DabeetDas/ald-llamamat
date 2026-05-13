@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Te", "Cd"],
+  "temperature_range": "260 to 285°C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) of (111) CdTe on (111) BaF2 substrates. It demonstrates that self-regulative growth occurs within a temperature range of 260 to 285°C, where the growth rate per cycle remains constant despite variations in Te beam intensity and substrate temperature. The process involves alternating deposition of Te and Cd, with the growth rate dependent on the balance between Te reevaporation and CdTe stability.",
+  "evidence": "In atomic-layer epitaxy (ALE) of CdTe the components Cd and Te are deposited alternately on the substrate in a high vacuum environment. ... In the temperature range between 260 and 285°C the growth process is self-regulative, that means, it is independent of the Te beam intensity and the substrate temperature."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Al(CH3)3", "O3"],
+  "temperature_range": "400 °C",
+  "summary": "The study investigates the growth, thermal annealing behaviors, and electrical properties of Al2O3 thin films deposited by atomic layer deposition (ALD) on silicon substrates using Al(CH3)3 and O3 as precursors. The films were grown at 400 °C and postannealed at 900 °C under O2 atmosphere. The high oxidation potential of O3 oxidized the Si surface early in the film growth, eliminating the incubation period. The films showed excess oxygen, which diffused to the Si interface and increased the interfacial layer during postannealing. The study highlights the impact of initial oxide layers on interfacial layer thickness and electrical performance.",
+  "evidence": "The ALD process was performed using Al(CH3)3 and high concentration of O3 (400 g/m3). The high oxidation potential of O3 oxidized the Si surface at a very early stage of film growth and eliminated the incubation period even on a bare Si surface. The as-grown Al2O3 films had excess oxygen in the films, which diffused to the film Si interface and increased the interfacial layer by oxidizing the Si substrates during postannealing."
+}

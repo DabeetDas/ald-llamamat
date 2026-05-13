@@ -1,0 +1,8 @@
+{
+  "target_material": "Iridium and Iridium Oxide",
+  "process_type": "Thermal ALD and PEALD",
+  "main_precursors": ["Ir(acac)3", "O2", "O3", "H2", "air"],
+  "temperature_range": "165 °C to 250 °C",
+  "summary": "The study investigates the nucleation and conformality of iridium and iridium oxide thin films deposited by atomic layer deposition (ALD). Different processes using various reactants and temperatures were explored to understand the growth behavior and film quality. The O3 + H2 process showed the best conformality, while the O2 + H2 process had the fastest nucleation. The study highlights the importance of precursor selection and reaction conditions in achieving uniform and conformal films.",
+  "evidence": "The study discusses the use of different processes such as Ir(acac)3 with O2, air, consecutive O2 and H2 pulses, and consecutive O3 and H2 pulses. The O3 + H2 process showed the best conformality, while the O2 + H2 process had the fastest nucleation. The temperature range was between 165 °C and 250 °C."
+}

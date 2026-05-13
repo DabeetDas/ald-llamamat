@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "130",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "150",
+  "reactor_type": "flow-type ALD reactor",
+  "evidence": "During Pd ALD on Al2O3 surfaces using Pd/hfac2 and formalin, the Al2O3 surface becomes rapidly poisoned by Al/hfac/ surface species. 9 Recent FTIR studies showed that Pd/hfac2 adsorption on Al2O3 yielded both Pd/hfac/ and Al/hfac/ surface species. 9 After the subsequent formalin exposure, only Pd/hfac/ species were removed from the surface. 9"
+}

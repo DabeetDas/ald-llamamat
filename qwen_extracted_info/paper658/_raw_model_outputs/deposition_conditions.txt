@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "105-235",
+  "pressure": "0.09 0.10 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 8,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "photo-ALD",
+  "evidence": "The pulse length used were 2 s for the reactants and 8 s for the evacuation between the reactants."
+}<|im_end|>

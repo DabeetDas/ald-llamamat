@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectivity (XRR)",
+    "Cross-sectional Transmission Electron Microscopy (TEM)",
+    "Grazing Incidence X-ray Diffraction (XRD)",
+    "Atomic Force Microscopy (AFM)",
+    "Time-of-Flight Secondary Ion Mass Spectrometry (TOFSIMS)",
+    "Capacitance-Voltage (C–V) measurement"
+  ],
+  "evidence": "Table I summarizes the x-ray reflectivity (XRR) results obtained for 10 nm thick HfO2 films grown using O3 and H2O as oxygen sources. Cross-sectional transmission electron microscopy (TEM) images (Figs. 1 (a) and 1 (c)) support the XRR data concerning the two-layer structure for the films grown using O3. Grazing incidence x-ray diffraction (XRD) analysis reveals that films grown using H2O crystallize in a mixture of monoclinic and orthorhombic phases, while those grown using O3 develop only an early stage of crystallization. The surface morphology of the films was analyzed using atomic force microscopy (AFM). Time-of-flight secondary ion mass spectrometry (TOFSIMS) analysis was performed using Cs+ as sputtering ion in negative polarity. The capacitance-voltage (C–V) characteristics of HfO2 films grown using H2O on n-type Ge evidence significant frequency dispersion both in accumulation and inversion."
+}

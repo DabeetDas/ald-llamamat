@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involved in the ALD process for H2S modified TiO2 films include the formation of TiS2 through the reaction between TiCl4 and H2S, followed by oxidation with H2O. The sulfur is believed to be incorporated as substitutional dopants at the oxygen sites of TiO2, which enhances visible light photocatalytic activity.",
+  "intermediate_species": ["TiS2", "surface hydroxyl groups", "sulfate species"],
+  "evidence": "The overall film growth mechanism of the samples prepared by deposition scheme 1 thus apparently consisted of the growth of a thin layer of TiS2 followed by oxidation with H2O. It was thought that by using this mechanism some sulfur would be left as a substitutional dopant at the oxygen sites of TiO2, which has been shown to be beneficial for visible light photocatalytic activity. 29"
+}<|im_end|>

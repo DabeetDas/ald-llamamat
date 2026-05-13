@@ -1,0 +1,19 @@
+{
+  "reaction_equations": [
+    "x /C0 OCH3/C3 þ TiCl4 !/C0 OxTiCl4/C0 x/C3 þ xC H3Cl",
+    "x /C0 OH/C3 þ TiCl4 !/C0 OxTiCl4/C0 x/C3 þ x HCl",
+    "x /C0 TiCl/C3 þ H2O !/C0 TiOH/C3 þ HCl",
+    "y /C0 TiCl/C3 þð CH3OÞ3PO !/C0 ð TiOÞyPOðOCH3Þ3/C0 y/C3 þ yC H3Cl",
+    "/C0 OCH3/C3 þ H2O !/C0 OH/C3 þ CH3OH"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the interaction of TiCl4 with surface hydroxyl groups and methyl groups, followed by the reaction of (MeO)3PO with the surface species. Water pulses are used to regenerate hydroxyl groups and remove chloride ligands, leading to self-limiting growth when two water pulses are included in the sequence.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "surface chloride ligands",
+    "surface methyl groups",
+    "TiClx(OMe)y*",
+    "MeCl",
+    "HCl"
+  ],
+  "evidence": "For the sequence TiCl4-(MeO)3PO, the primary reactions are x /C0 OCH3/C3 þ TiCl4 !/C0 OxTiCl4/C0 x/C3 þ xC H3Cl and x /C0 OH/C3 þ TiCl4 !/C0 OxTiCl4/C0 x/C3 þ x HCl. For the sequences that also include water pulses, additional reactions take place. The reactions that are proposed to take place are listed below. The reaction byproducts that were observed from these reactions are discussed later in the paper."
+}

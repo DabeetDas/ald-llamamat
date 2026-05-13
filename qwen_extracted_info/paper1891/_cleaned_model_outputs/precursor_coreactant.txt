@@ -1,0 +1,7 @@
+{
+  "precursors": ["TTIP"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "TTIP was used as a precursor and ammonium (NH3) gas was used as a reactant. The TTIP, which was contained in a bubbler at 50 /C14 C, was carried by an inert Ar gas stream. One deposition cycle of TiO 2 consisted of four steps: (i) deposition of the TTIP precursor, (ii) a purge pulse of Ar, (iii) an injection of reactive NH3 gas, and (iv) another purge pulse of Ar. The flow rates were 50 sccm for the Ar purge and 25 sccm for the NH3 purge. During the deposition, 100 sccm of Ar gas was continuously supplied into the reactor as a carrier gas."
+}

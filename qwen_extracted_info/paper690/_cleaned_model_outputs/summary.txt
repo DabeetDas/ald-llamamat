@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2",
+  "process_type": "PE-ALD",
+  "main_precursors": ["dibutyl tin diacetate (DBTA)"],
+  "temperature_range": "200, 300 and 400 8C",
+  "summary": "The study investigates the effect of process parameters on the surface morphology and characterization of PE-ALD SnO2 thin films for gas sensing. The films were deposited on Si(1 0 0) substrates using dibutyl tin diacetate as a precursor. The process parameters, including substrate temperature, source temperature, and purging time, were optimized. The films were characterized using AFM, XRD, and XPS to evaluate their surface properties, crystallinity, and chemical bonding. The 200 cycles film exhibited the highest sensitivity to CO gas due to its optimal microstructure and adsorption strength to oxygen ions.",
+  "evidence": "Tin dioxide (SnO2) thin films were deposited by plasma enhanced-atomic layer deposition (PE-ALD) on Si(1 0 0) substrate using dibutyl tin diacetate (DBTA) as precursor. The process parameters were optimized as a function of substrate temperature, source temperature and purging time. The 200 cycles film has exhibited highest concentration of oxygen (O/C0) species before and after annealing. Conductivity studies reveal that this film has best adsorption strength to the oxygen ions forming on the surface. The sensor with 200 cycles SnO2 thin film has shown highest sensitivity to CO gas than other films."
+}

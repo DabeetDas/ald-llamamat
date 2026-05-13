@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300-325",
+  "pressure": "760 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "atmospheric pressure MOCVD",
+  "evidence": "The flow rates for phosphine and TMI were 4.5 and 9.0 sccm respectively. The total reactor pressure was maintained at 760 mbar throughout."
+}

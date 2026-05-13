@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(tert-butylimido)-bis(dimethylamido)molybdenum", "bis(tert-butylimido)-bis(dimethylamido)tungsten", "tridecafluoro-1,1,2,2-tetrahydrooctylmethyl-bis(dimethylamido)silane"],
+  "coreactants": ["ammonia"],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Nitrogen"],
+  "evidence": "Nitrogen (99.999% N2, AGA) was used as carrier and purge gas, and the flow was set at 400 standard cubic centimeters per minute (sccm)."
+}<|im_end|>

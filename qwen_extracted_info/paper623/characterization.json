@@ -1,0 +1,17 @@
+{
+  "characterization_methods": [
+    "Time-of-flight elastic recoil detection analysis (TOF-ERDA)",
+    "Secondary ion mass spectrometry (SIMS)",
+    "Rutherford backscattering spectrometry (RBS)",
+    "Nuclear resonance broadening (NRB)",
+    "Proton backscattering spectrometry",
+    "Deuteron induced reactions",
+    "Proton induced X-ray emission (PIXE)",
+    "Atomic force microscopy (AFM)",
+    "Scanning electron microscopy (SEM)",
+    "X-ray diffraction (XRD)",
+    "Hall effect measurements",
+    "Optical measurements"
+  ],
+  "evidence": "The characterization techniques used comprise time-of-flight elastic recoil detection analysis, secondary ion mass spectrometry, Rutherford backscattering spectrometry, nuclear resonance broadening, proton backscattering spectrometry, deuteron induced reactions, proton induced X-ray emission, atomic force microscopy, scanning electron microscopy, X-ray diffraction, and Hall effect and reflectance measurements."
+}

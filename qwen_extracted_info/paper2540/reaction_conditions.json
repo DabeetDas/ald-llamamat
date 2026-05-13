@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The NH3 pulse plasma provides reactive radicals such as NH*, NH+, NH2+, NH3+, and H+ instead of NH3, which are easily adsorbed on the Si and TEOS/Si substrates and react sequentially with the WF6 during the exposure time of WF6. This process suppresses the Si reduction process of WF6 because the Si surface is passivated by the nitridation, even though native oxide may be grown on the Si surface.",
+  "intermediate_species": [
+    "NH*",
+    "NH+",
+    "NH2+",
+    "NH3+",
+    "H+"
+  ],
+  "evidence": "because the NH3 pulse plasma provides reactive radicals such as NH*, NH+, NH2+, NH3+, and H+, instead of NH3, and these radicals are easily adsorbed on the Si and TEOS/Si substrates and react sequentially with the WF6 during the exposure time of WF6. This process suppresses the Si reduction process of WF6 because the Si surface is passivated by the nitridation, even though native oxide may be grown on the Si surface."
+}

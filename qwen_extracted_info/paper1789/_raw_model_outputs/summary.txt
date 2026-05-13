@@ -1,0 +1,8 @@
+{
+  "target_material": "MnOx",
+  "process_type": "ALD",
+  "main_precursors": ["Bis(ethylcyclopentadienyl) manganese (Mn(CpEt)2)", "water"],
+  "temperature_range": "175 °C",
+  "summary": "The study explores the use of atomic layer deposition (ALD) to deposit MnOx on high surface area glassy carbon (HSA-GC) substrates for oxygen evolution reaction (OER) catalysis. The research shows that MnOx deposited via ALD on HSA-GC exhibits higher OER activity compared to MnOx on smooth glassy carbon (s-GC) and annealed MnOx. The ALD process allows for conformal coating, and the surface area of the catalyst significantly influences its activity. The study also highlights the importance of a nanostructured substrate for achieving high geometric activity and the impact of oxidation state changes under OER conditions.",
+  "evidence": "The text states: 'ALD is an attractive method to deposit uniform catalytic films onto high surface area electrodes. One interesting material for ALD synthesis is MnOx, a promising earth-abundant catalyst for the oxygen evolution reaction (OER).' It also mentions: 'MnOx was deposited on the substrates using ALD, as described previously.' Additionally, the text notes: 'The MnOx films were examined both before and after electrochemical testing.'"
+}<|im_end|>

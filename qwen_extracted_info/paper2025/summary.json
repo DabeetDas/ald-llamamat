@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum",
+    "ozone"
+  ],
+  "temperature_range": "350 to 400 °C",
+  "summary": "The study investigates the use of ozone as an oxidant in atomic layer deposition (ALD) to improve the dielectric properties of Al2O3 films. The results show that Al2O3 films deposited with ozone have fewer defect states, lower leakage current density, and better interface characteristics compared to those deposited with water. The process is performed at temperatures between 350 and 400 °C without requiring postdeposition annealing or a preventive layer.",
+  "evidence": "We have prepared Al2O3 films by the atomic layer deposition technique using trimethylaluminum as the precursor for aluminum and O3, instead of commonly used H2O, as an oxidant. We show that even without any postdeposition annealing or any preventive layer between the Al2O3 film and Si substrate to suppress the formation of metallic clusters, the Al2O3 films prepared using O3 have significantly less amount of defect states like Al–Al and OH bonds compared with those prepared by H2O."
+}

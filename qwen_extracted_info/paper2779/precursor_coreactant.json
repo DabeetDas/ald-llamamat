@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Ti(OC2H5)4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "In this work, titanium dioxide thin films were synthesized from tetraethoxytitanium and water in a vertical type ALD reactor operating with nitrogen purging between reaction cycles. Each reaction cycle comprises four stages: Ti(OC2H5)4 precursor pulse, nitrogen purging, Н 2О precursor pulse, and nitrogen purging."
+}

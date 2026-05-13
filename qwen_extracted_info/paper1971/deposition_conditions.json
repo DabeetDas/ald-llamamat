@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "450-500",
+  "pressure": "70 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "thermal-cracking tube",
+  "evidence": "The layers were grown at temperatures ranging from 450 to 500 “C. The TMA was fed through the cracking tube at a flow rate of 9.2~ 10 -’ mol/cycle. The ASH, was fed into the reactor at 6.8 X 10 - ’ mol/cycle without cracking. Hydrogen was used as a carrier gas whose flow rate was fixed at 3 Urnin for all the growth sequences. Under these conditions, it takes about 1 s for TMA to pass through the tube. The durations of TMG and ASH, gas pulse supplies and the purge between gas supplies were 1 and 3 s, respectively."
+}

@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "TMGa"
+  ],
+  "coreactants": [
+    "AsH3"
+  ],
+  "purge_gas": [
+    "Hydrogen"
+  ],
+  "carrier_gas": [
+    "Hydrogen"
+  ],
+  "evidence": "The gas source for Ga atoms is TMGa, and that for As atoms arsine. Hydrogen is used as the carrier gas."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process is divided into two self-limiting half-reactions, leading to a saturation of the growth surface by exactly one monolayer of precursor molecules during each half-reaction. Trimethylaluminum (TMA) is oxidized using either O2 activated by a remote plasma or water vapor at elevated temperatures to grow an amorphous Al2O3 layer. The separation of the half-reactions is implemented by alternate dosing of the process gases, with exposure times of only a few milliseconds sufficient to ensure complete saturation of the growth surface.",
+  "intermediate_species": ["TMA", "surface hydroxyls", "Al2O3"],
+  "evidence": "The ALD process is divided in two self-limiting half-reactions, leading to a saturation of the growth surface by exactly one monolayer of precursor molecules during each half-reaction. A controlled monolayer-by-monolayer deposition over large areas is achieved, leading to highly conformal coatings with very low pinhole densities. 3 Trimethylaluminum /H20851TMA, Al 2/H20849CH3/H208506/H20852is commonly used as precursor gas for aluminum. Either O 2 activated by a remote plasma /H20849plasma-assisted ALD /H20850or water vapor at elevated temperatures /H20849thermal ALD/H20850is used to oxidize the TMA for growth of an amorphous Al 2O3 layer."
+}

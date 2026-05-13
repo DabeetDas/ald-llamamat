@@ -1,0 +1,7 @@
+{
+  "precursors": ["AlMe3", "TiCl4", "MoCl5", "TaCl5", "AlMe3"],
+  "coreactants": ["H2O", "NH3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "ALD of Al2O3 and TiO2 coatings was made in an SUNALETM R-150 ALD reactor by Picosun, using the AlMe3–H2O process for Al2O3 at 300 ◦C (reactant pulses and N2 purges 0.1 s and 1.0 s) and TiCl4–H2O process for TiO2 at 300 and 110 ◦C (reactant pulses 0.1 s, N2 purges 4.0 s). MoN and Ta(Al)N were made in a F-120 reactor by ASM Microchemistry at the University of Helsinki, using the MoCl5–NH3 process at 450 ◦C (MoCl5 99.5% by Cerac vapourized at 90 ◦C, sequence MoCl5–N2–NH3–N2 0.5–0.5–1.0–0.5 s, NH3 flow 14 sccm) and the TaCl5–AlMe3–NH3 process at 400 ◦C (TaCl5 vapourized at 90 ◦C, sequence TaCl5–N2–AlMe3–N2–NH3 0.5–1.0–0.2–1.0–0.5–1.0 s, NH3 flow 14 sccm)."
+}

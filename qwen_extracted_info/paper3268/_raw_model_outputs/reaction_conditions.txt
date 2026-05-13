@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of ALD W using SiH4 and B2H6 precursors, which induces different metal gate-induced strain due to the polycrystalline phase of SiH4 and the amorphous phase of B2H6. The tensile stress from SiH4 (~2.4 GPa) is higher than that from B2H6 (~0.9 GPa), leading to compressive strain in the channel region and improved device performance.",
+  "intermediate_species": ["polycrystalline phase", "amorphous phase"],
+  "evidence": "It is seen that the ALD W using SiH4 has a higher tensile stress (~2.4 GPa) due to its polycrystalline phase whereas ALD W using B2H6 has a lower tensile stress (~0.9 GPa) due to its amorphous phase."
+}<|im_end|>

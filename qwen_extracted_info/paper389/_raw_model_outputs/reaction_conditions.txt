@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "d[Ga]/dt = /BSo(1 - c~[CH3]) -/~[CH3]f(Ga)",
+    "d[CH3]/dt = 3IBso(1 - c~[CH3]) - k[CH3] -/~[CH3]f(Ga)"
+  ],
+  "surface_mechanism_description": "Self-limiting Ga deposition is achieved through the desorption of CH3Ga, which provides negative feedback to stabilize Ga coverage. The desorption rate of CH3Ga balances the Ga flux, leading to a self-limiting coverage. The desorption of CH3 from TMGa results in Ga deposition, while the desorption of CH3Ga removes Ga, creating a flux balance.",
+  "intermediate_species": [
+    "CH3Ga",
+    "CH3"
+  ],
+  "evidence": "The surface chemistry can be summarized qualitatively by the following equations for the surface coverages of Ga and CH3 respectively: d[Ga]/dt = /BSo(1 - c~[CH3]) -/~[CH3]f(Ga), d[CH3]/dt = 3IBso(1 - c~[CH3]) - k[CH3] -/~[CH3]f(Ga). The desorption of CH3Ga provides negative feedback by which the Ga coverage is stabilized to a self-limiting value. The desorption of CH3 of the adsorbed TMGa on the surface results in the deposition of Ga, while the desorption of CH3Ga causes the removal of Ga."
+}<|im_end|>

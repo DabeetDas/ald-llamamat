@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "2 WF 6(g) + 3 Si (s) -> 2W (s) + 3 SiF 4(g)",
+    "WF 6(g) + 3 Si (s) -> W (s) + 3 SiF 2(g)",
+    "W (s) + 2 H 2S(g) -> WS 2(s) + 2 H 2(g)"
+  ],
+  "surface_mechanism_description": "The H2 plasma enables WS2 deposition by reduction of chemisorbed WFx surface species. The reduction reaction is more confined to the surface when a low H2 plasma power is used, where mainly WS2 is obtained, with only minor contributions of WO3.",
+  "intermediate_species": [
+    "WFx surface species",
+    "W (s)",
+    "WS2(s)",
+    "WO3"
+  ],
+  "evidence": "We propose that the H2 plasma enables WS2 deposition by reduction of chemisorbed -WFx surface species. ... We propose that a too high plasma power reduces the WS2 films during deposition, producing metallic W which is converted to WO3 during air exposure between the WS2 deposition and XPS measurement."
+}

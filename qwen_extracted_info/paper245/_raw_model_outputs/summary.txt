@@ -1,0 +1,8 @@
+{
+  "target_material": "helical oxide nanotubes (Al2O3, SiO2, TiO2, HfO2, ZnAl2O4)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["trimethylaluminum (TMA)", "diethylzinc (ZnEt2)", "titanium tetraisopropyl oxide (TIP)", "tetrakis(dimethylamino)-hafnium (TDMAH)", "3-aminopropyltriethoxysilane (H2N(CH2)3Si(OCH2CH3)3)"],
+  "temperature_range": "100 8C to 150 8C",
+  "summary": "The study describes the synthesis of various helical oxide nanotubes using carbon nanocoils as templates through Atomic Layer Deposition (ALD). The nanotubes include Al2O3, SiO2, TiO2, HfO2, and ZnAl2O4. The process allows for precise control over the thickness and uniformity of the nanotubes, and the mechanical properties of the helical nanotubes were evaluated, showing enhanced elasticity compared to straight nanotubes.",
+  "evidence": "Herein, we report the synthesis of various helical oxide nanotubes (Al2O3, SiO2, TiO2, HfO2, and ZnAl2O4) by ALD using carbon nanocoils as templates. The helical morphology of the templates was well transcripted in the resulting nanotubes. Well-controlled thickness and excellent conformality were achieved. The mechanical properties of helical and straight Al2O3 nanotubes were measured by performing bending tests using atomic force microscopy (AFM). The helical nanotubes show much better elasticity than straight nanotubes due to their helical topography, which might be important for the use of such structures in devices relying on mechanical stability, for example, micro- or nanoelectromechanical systems."
+}<|im_end|>

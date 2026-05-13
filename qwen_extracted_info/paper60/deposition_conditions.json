@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "",
+  "precursor_pulse_time_s": 1.4,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "ALD reactor",
+  "evidence": "The HfS2 films for characterization were grown on a homemade ALD reactor. (Me2 N)4 Hf was delivered from a cylinder maintained at 60 °C and was pulsed into the reaction chamber (heated to 100 °C) with a continuous N2 flow as the carrier gas. The pulse, exposure, and purge durations were 1.4, 20, and 30 s for (Me2 N)4 Hf and 0.2, 20, and 30 s for H2 S (3% in N2)."
+}

@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Al(OH)3* + CH3Al(CH3)2 -> Al(OH)(CH3)2* + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "After TMA exposure, the surface is believed to be covered with methyl groups bonded to aluminum atoms in the Td region adopted in this experiment. When NH3 is pulsed onto this surface, weakly bound ammonia:aluminum alkyl adducts first form by a chemical adsorption mechanism at temperatures low enough not to thermally decompose NH3. Then, an adsorbed NH3 molecule and one of the methyl ligands chemically react to form CH4 molecules, which subsequently desorb from the surface, and the surface is covered with amide (-NH2-) ligands which are covalently bonded to aluminum ions."
+}

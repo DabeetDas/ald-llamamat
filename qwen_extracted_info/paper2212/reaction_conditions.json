@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The spontaneous segregation of ZrO2 nanocrystals in La yZr1−yOx thin films during atomic layer deposition (ALD) occurs when the Zr content exceeds 30%. The ZrO2 nanocrystals are in the tetragonal phase, which is the most stable configuration of ZrO2 and exhibits the highest dielectric permittivity. The incorporation of ZrO2 into La2O3 results in stabilization due to the tetragonal ZrO2 nanocrystals embedded in the layers.",
+  "intermediate_species": [
+    "ZrO2 nanocrystals"
+  ],
+  "evidence": "During atomic layer deposition of homogeneous La yZr1−yOx thin films spontaneous segregation of ZrO2 nanocrystals that are embedded in an amorphous La 2O3 matrix takes place. This occurs if the Zr content in the La yZr1−yOx film rises above 30%, i.e., if the pulse ratio between the lanthanum precursor and the zirconium precursor is larger than four. X-ray diffraction analysis shows that the ZrO2 nanocrystals are in the tetragonal phase, which is the most stable configuration of this material with the highest dielectric permittivity. These nanocrystal-embedded thin films exhibit higher dielectric constants as the Zr content increases."
+}

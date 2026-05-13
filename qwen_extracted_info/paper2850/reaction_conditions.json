@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves the adsorption of GTC on the Si surface, forming chloride surface species, followed by abstraction of Cl atoms by atomic H. The surface is then heated to remove H atoms, resulting in a Ge layer coverage of about 1/3 ML. Subsequent Ge homo-ALE proceeds with alternating exposures of DMG and atomic H, where DMG adsorbs and reacts with surface sites, and H atoms desorb, leading to layer-by-layer growth.",
+  "intermediate_species": [
+    "chloride surface species",
+    "Ge layer (1/3 ML)",
+    "DMG adsorbed on surface"
+  ],
+  "evidence": "The Si clean surface is exposed to GTC for an interval of t_GTC at a temperature T_low = 300±C. GTC adsorbs dissociatively on the Si surface in a self-limiting manner, forming several types of chloride surface species. Next, surface-terminating Cl atoms are abstracted completely by an atomic H exposure. Since the substrate temperature is kept low during the atomic H exposure phase to suppress unwanted desorption of GeCl_2, excessively exposing H atoms can adsorb on the surface. Thus, thirdly, the temperature is elevated to T_high = 500±C in an ultrahigh vacuum ambient, to remove H atoms completely from the surface by thermal desorption. The resulting surface is covered by the elemental Ge layer about 1/3 ML. The Ge coverage increases with repetition of these three phases owing to the selective adsorption phenomenon of GTC only on the Si surface, and then is saturated at 1 ML for more than 15 cycles."
+}

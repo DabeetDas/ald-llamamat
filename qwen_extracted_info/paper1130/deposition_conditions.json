@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 8,
+  "number_of_cycles": null,
+  "reactor_type": "ASM F120",
+  "evidence": "Fig. 1. Schematic of the ALD process used for the growth of ZrO 2:Fe ﬁlms. Alternate pulses of metallic (Zr or Fe) or O 3 precursors are separated by purging pulses using N2 gas. Pulse lengths for Fe(TMHD) 3 and Zr(TMHD) 4 were 2 s and 1.5 s respectively, O3 pulse was 4 s long, with nitrogen purging for 8 s. O 3 concentration was about 200 g/Nm 3. The deposition temperature was kept at 350 °C."
+}

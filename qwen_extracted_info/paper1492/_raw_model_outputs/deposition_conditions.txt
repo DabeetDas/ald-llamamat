@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-250",
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 5,
+  "number_of_cycles": 300,
+  "reactor_type": "shower-head type PEALD reactor (CN-1 Co., Plus-200)",
+  "evidence": "An 8-in.-scale single wafer shower-head type PEALD reactor (CN-1 Co., Plus-200) was used to deposit NiO films at wafer temperatures ranging from 150 to 300 °C."
+}<|im_end|>

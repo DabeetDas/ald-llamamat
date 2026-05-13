@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 75,
+  "pressure": "0.4 mbar",
+  "precursor_pulse_time_s": 0.05,
+  "coreactant_pulse_time_s": 0.05,
+  "purge_time_s": 40,
+  "number_of_cycles": 300,
+  "reactor_type": "F-120",
+  "evidence": "The pulse, exposure and purge periods for both the precursors diethylzinc and hydrogen sulphide, were 50 ms, 20 s and 40 s, respectively. Within the each purging step, the reaction chamber was pumped down to a pressure of about 0.4 mbar."
+}

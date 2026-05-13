@@ -1,0 +1,14 @@
+{
+ "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Auger electron spectroscopy (AES)",
+    "Cross-sectional scanning electron microscopy (SEM)",
+    "Four-point probe sheet-resistance measurements",
+    "Rutherford backscattering spectrometry (RBS)",
+    "Capacitance-voltage (C-V) measurements",
+    "Sputter-depth profiling",
+    "Plasma exposure time and power analysis"
+  ],
+  "evidence": "Film composition was measured by Auger electron spectroscopy (AES) performed on a Perkin-Elmer PHI 600 system, and X-ray photoelectron spectroscopy (XPS), utilizing a Thermo VG Scientific Theta Probe system, was used to determine the specific chemical bonding states. Sputter-depth profiling was utilized for both AES and XPS measurements. The film thickness and corresponding growth rates were determined by cross-sectional scanning electron microscopy (SEM) measurements utilizing a Hitachi 4800 field-emission SEM. Film resistivity and density were calculated based on four-point probe sheet-resistance measurements and Rutherford backscattering spectrometry (RBS), respectively, combined with thickness values as determined by SEM. The RBS measurements were performed on a Dynamitron model P .E.A. 3.0 linear accelerator using a beam of He+ ions with a primary energy of 2 MeV. Crystal structure and orientation were analyzed by X-ray diffraction (XRD) utilizing Cu Kα radiation. Capacitance-voltage (C-V) measurements were performed on PVD-TaN/ALD-HfNx/SiO2/Si capacitor structures using an applied frequency of 100 kHz, and flatband voltage (VFB) vs oxide-thickness linear fits were extrapolated to zero oxide thickness to determine the metal-semiconductor work-function difference and thus the work function of the deposited electrode."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "Tantalum nitride (TaN)",
+  "process_type": "Plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "tertiary-amylimido-tris(dimethylamido)tantalum (TAIMA TA)",
+    "hydrogen (H2) plasma"
+  ],
+  "temperature_range": "230 °C",
+  "summary": "The study investigates the properties of tantalum nitride (TaN) thin films deposited via plasma-enhanced atomic layer deposition (PEALD) using tertiary-amylimido-tris(dimethylamido)tantalum (TAIMA TA) and hydrogen plasma. The electrical resistivity and crystallinity of the films were improved with increasing H2 plasma power, leading to enhanced adhesion properties between Cu and TaN. The preferred orientation of the films changed from (111) to (200) with increased plasma power, which improved adhesion and diffusion barrier performance.",
+  "evidence": "Abstract Plasma-enhanced atomic layer deposition (PEALD) of tantalum nitride (TaN) thin films was investigated at a growth temperature of 230 °C using an alternating supply of tertiary-amylimido-tris(dimethylamido)tantalum (TAIMA TA) and hydrogen (H2) plasma. As the H2 plasma power increased from 75 to 175 W, the electrical resistivity of the films was improved from 1900 to 680 μΩ·cm, mainly due to the improved crystallinity. Moreover, the preferred orientation ratio between TaN (200) and TaN (111) planes also abruptly increased from 0.8 to 2.8 with increasing the H2 plasma power. This preferred orientation change of the films from (111) to (200) improves the adhesion properties between Cu and TaN, while the Cu diffusion barrier performance was not significantly affected."
+}

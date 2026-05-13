@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "TEMAV"
+  ],
+  "coreactants": [
+    "H2O",
+    "O3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The ALD process used here was characterised earlier by Rampelberg et al. 7,34–36,40 and is based on tetrakis[ethylmethylamino]vanadium (V(NC2H5CH3)4, or TEMA V) in combination with H2O and ozone. The precursor was held in a stainless steel container at 70 /C14C with argon as a carrier gas."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "120 /C176C",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "25 and 45 s",
+  "number_of_cycles": "300 cycles",
+  "reactor_type": "custom-built hotwall ALD reactor",
+  "evidence": "Three doses of CAT and H2O2 were required for saturation of the growth rate for SnO2, corresponding to total exposures of 1.9 and 1.5 Torr3 s, respectively. The purge time after each dose was set to be 25 and 45 s, respectively."
+}

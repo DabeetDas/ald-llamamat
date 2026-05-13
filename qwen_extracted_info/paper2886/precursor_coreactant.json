@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Hf(NMe2)4 [tetrakis(dimethylamino)hafnium]"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The ALD was conducted in a hot-wall and traveling-wave type reactor. The Si substrate was cleaned using Piranha and dilute HF solutions, as mentioned above. After being vaporized at 60 /C14 C, Hf(NMe2)4 at a pressure of 1 Torr was introduced into the reactor accompanied by an Ar carrier gas at a pressure of 4 Torr. The Hf(NMe2)4 vapor and O2, as an oxidant, were sequentially injected into the reactor twice for 3 s each time, while the reactor was purged with Ar for 9 s between the two injections."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Antimony telluride (Sb2Te3)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["(Me3Si)2Te", "SbCl3"],
+  "temperature_range": "50 °C to 180 °C",
+  "summary": "The study investigates the Atomic Layer Deposition (ALD) of antimony telluride (Sb2Te3) thin films using (Me3Si)2Te and SbCl3 as precursors. The ALD process window was determined by varying the deposition temperature and optimizing the substrate surface coverage. The nucleation process follows the Volmer-Weber island growth model, and the optimal temperature range for deposition is between 60 °C and 70 °C. The surface morphology and roughness were analyzed using scanning electron microscopy (SEM) and atomic force microscopy (AFM).",
+  "evidence": "We fabricated antimony telluride layers as a function of ALD temperature in order to establish the ALD process window using (Me3Si)2Te with SbCl3 as chemical precursors. The initial ALD nucleation of antimony telluride was found to follow the Vollmer-Weber island growth model. We found a strong dependence of the nucleation process on the chemical nature of substrate. ... Based on the qualitative physical analysis the optimum deposition temperature can be found in the temperature range between 60 °C and 70 °C."
+}

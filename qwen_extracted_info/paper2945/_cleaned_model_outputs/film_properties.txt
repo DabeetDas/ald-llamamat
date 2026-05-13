@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 70,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": 1.6,
+  "crystal_phase": "Amorphous",
+  "evidence": "The iridium ﬁlms obtained after 100 deposition cycles was not conductive as measured by a four-point probe, indicating that the ﬁlm might not be continuous. A 9 nm ﬁlm obtained after 250 deposition cycles already had a resistivity as low as 18 mV cm. Figure 5 shows AFM images of the ﬁlms after 100, 250, and 1500 deposition cycles. After 100 cycles there are only a few visible grains on the surface, but after 250 cycles the surface is already fully covered by grains with diameter of 20-40 nm. The root-mean-square (rms) roughness values of the ﬁlms increase with increasing thickness; the 9 nm ﬁlm obtained after 250 deposition cycles has the roughness of 0.5 nm, while for the 65 nm ﬁlm obtained after 1500 deposition cycles the roughness is 1.6 nm."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "MgF2",
+  "process_type": "ALD",
+  "main_precursors": ["Mg(thd)2", "TaF5"],
+  "temperature_range": "225-400 °C",
+  "summary": "The study describes the development of a novel atomic layer deposition (ALD) process for depositing MgF2 thin films using TaF5 as a fluorine source. The films were grown in a temperature range of 225-400 °C and showed good optical properties, low impurity levels, and high transparency in the UV range. The process was verified to produce polycrystalline MgF2 films with low surface roughness and good refractive indices.",
+  "evidence": "A novel atomic layer deposition (ALD) process was developed for depositing MgF2 thin films. Instead of the previously used fluorine sources, namely HF or TiF4, we used TaF5 as the fluorine precursor for the first time in ALD. The films were grown in a temperature range of 225-400 °C. The films grew in columnar fashion onto silicon and all the films were polycrystalline. Films with a good stoichiometry and low impurity levels were achieved. The refractive indices were between 1.36 and 1.38 at λ = 580 nm. The permittivity of a film grown at 300 °C was 5.0. The transmittance of a film deposited at 350 °C was good even in the deep UV range. This type of novel ALD process using the new fluorine precursor TaF5 is a convenient method also for depositing other metal fluoride thin films."
+}

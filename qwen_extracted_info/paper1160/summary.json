@@ -1,0 +1,13 @@
+{
+  "target_material": "SiOC",
+  "process_type": "plasma ALD",
+  "main_precursors": [
+    "Octamethylcyclotetrasiloxane (OMCTS)",
+    "O2",
+    "Ar",
+    "H2"
+  ],
+  "temperature_range": "100 °C to 400 °C",
+  "summary": "The study investigates the deposition of low-κ SiOC films via remote plasma atomic layer deposition (RPALD) using OMCTS as a precursor and O2, Ar, and H2 plasmas as reactants. The effects of plasma type and deposition temperature on the physical and electrical properties of the films are analyzed, with a focus on dielectric constant, film density, and leakage current.",
+  "evidence": "The deposition of SiOC thin films via remote plasma atomic layer deposition was investigated. Octamethylcyclotetrasiloxane (OMCTS) and O2, Ar, H2 plasmas were respectively used as a precursor and reactants during the deposition process at 400 °C. Plasma and deposition temperatures had a significant effect on the physical and electrical characteristics of the films."
+}

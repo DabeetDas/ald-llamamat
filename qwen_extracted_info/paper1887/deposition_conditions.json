@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "130",
+  "pressure": "2.6 Torr",
+  "precursor_pulse_time_s": "2-4",
+  "coreactant_pulse_time_s": "2-4",
+  "purge_time_s": "5-60",
+  "number_of_cycles": "700",
+  "reactor_type": "Cyclic 4000",
+  "evidence": "ALD systems of Cyclic 4000 (Genitech, Korea) and Ozone (Forall, Korea) were used to deposit oxide layers inside cylindrical holes of the membrane templates. TiO2, ZrO2, and Al2O3 were deposited at 120–160 /C14C. The cycle consisted of 2–4 s exposure to metal sources, 5–60 s Ar purge, 2–4 s exposure to water, and 5–60 s Ar purge. The total flow rate of the Ar was 250 sccm. The oxide layers were grown under 2.6 Torr."
+}

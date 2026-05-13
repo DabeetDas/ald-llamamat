@@ -1,0 +1,21 @@
+{
+  "reaction_equations": [
+    "*−OH + Mn(R)3 → *−O−Mn(R)2 + HR",
+    "Mn(R)3 + O3 → MnO2 + byproducts",
+    "Mn(R)3 + NH3* → MnO + byproducts",
+    "Mn(R)3 + H2* → MnO/Mn3O4 + byproducts",
+    "Mn(R)3 + H2O* → MnO/Mn3O4 + byproducts"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves ligand exchange between the Mn(thd)3 precursor and surface hydroxyl groups (*−OH), followed by a reaction with the plasma-activated reactant gases (O3, NH3*, H2*, H2O*). The nature of the plasma (oxidizing or reducing) determines the oxidation state of manganese in the deposited films. The reaction steps are influenced by the plasma's reactivity, leading to different oxidation states (Mn(IV) for O3, Mn(II) for NH3*, and mixed Mn(II)/Mn(III) for H2* and H2O*).",
+  "intermediate_species": [
+    "Mn(R)3",
+    "Mn(R)2",
+    "MnO",
+    "Mn3O4",
+    "MnO/Mn3O4",
+    "surface hydroxyls (*−OH)",
+    "H· radicals",
+    "OH− radicals"
+  ],
+  "evidence": "The text describes the surface reaction mechanism involving ligand exchange between the Mn(thd)3 precursor and surface hydroxyl groups (*−OH), followed by a reaction with plasma-activated reactant gases. The oxidation state of manganese is determined by the nature of the plasma (oxidizing or reducing), leading to different oxidation states (Mn(IV) for O3, Mn(II) for NH3*, and mixed Mn(II)/Mn(III) for H2* and H2O*). The reaction steps are influenced by the plasma's reactivity, leading to different oxidation states in the deposited films."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "Aluminum metal films",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "AlCl3",
+    "AlH3(NMe3)"
+  ],
+  "temperature_range": "100 - 160 °C",
+  "summary": "The study describes the thermal atomic layer deposition (ALD) of high-purity, low-resistivity aluminum metal films using AlCl3 and a thermally stable aluminum dihydride complex. The process achieves a growth rate of 3.5 Å/cycle within a temperature range of 100-160 °C, with self-limiting growth and low surface roughness. The films exhibit resistivities as low as 3.03 μΩ·cm and are crystalline, with minimal impurities.",
+  "evidence": "ABSTRACT: The thermal atomic layer deposition of aluminum metal films at temperatures as low as 100 °C is described using AlCl3 and a new aluminum dihydride complex... Resistivities as low as 3.03 μΩ·cm were obtained for the aluminum metal films. Root mean square surface roughnesses were 19-23% of the film thicknesses... Films grown on TiN substrates were crystalline by X-ray diffraction."
+}

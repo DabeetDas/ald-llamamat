@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 22,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Monolayer to few layer",
+  "evidence": "The full width half max (FWHM) of the E 1 2g and A1g peaks are an indication of crystalline quality. After the sulfur anneal, the two characteristic MoS 2 peaks become narrower, stronger, and more symmetric. The FWHM of the E1 2g peak for the as-deposited ALD films is 18.3 cm -1. The FWHM is reduced to 11.8 cm -1 after annealing in sulfur ambient at 720 /C14 C and further reduced to 4.2 cm -1, comparable to CVD MoS 2,15 after annealing at 920 /C14 C. This suggests improved crystallinity with high temperature sulfur anneals."
+}

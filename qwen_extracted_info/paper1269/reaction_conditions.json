@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the formation of a rectifying contact between the SnO2 layer and the electrolyte solution due to the formation of a depletion layer and corresponding barrier to electron transfer. The blocking behavior is attributed to the prevention of back electron transfer from the FTO substrate to the electrolyte or hole conductor.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "monomethyl aluminum",
+    "formate species"
+  ],
+  "evidence": "The text discusses the formation of a rectifying contact between the SnO2 layer and the electrolyte solution due to the formation of a depletion layer and corresponding barrier to electron transfer. It also mentions the prevention of back electron transfer from the FTO substrate to the electrolyte or hole conductor. The intermediate species mentioned include surface hydroxyls, monomethyl aluminum, and formate species."
+}

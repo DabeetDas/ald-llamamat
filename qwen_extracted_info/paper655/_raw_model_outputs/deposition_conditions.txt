@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "5–10 kPa",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": 10,
+  "reactor_type": "F-120 Microchemistry Ltd.",
+  "evidence": "The preheat treatment of Al2O3 was continued at 450 C for 3 h in a fixed-bed flow-type reactor (F-120 Microchemistry Ltd.) under a pressure of 5–10 kPa in nitrogen flow (99.995%, AGA)."
+}<|im_end|>

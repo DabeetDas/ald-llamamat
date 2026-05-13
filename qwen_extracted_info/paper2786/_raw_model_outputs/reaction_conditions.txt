@@ -1,0 +1,24 @@
+{
+  "reaction_equations": [
+    "n(≡Si–OH) + VOCl3 → ← (≡Si–O)nVOCl3–n + n HCl",
+    "n(≡SiOH) + CrO2Cl2 → ← (≡SiO)nCrO2Cl2–n + n HCl",
+    "(≡SiO)nVOCl3–n + TiCl4 → ← (≡SiO)nTiCl4–n + VOCl3",
+    "(≡SiO)nCrO2Cl2–n + VOCl3 → ← (≡SiO)nVOCl3–n + CrO2Cl2",
+    "3 (≡SiO)2CrO2 + 2 VOCl3 → ← 2 (≡SiO)3VO + 3 CrO2Cl2",
+    "2 ≡SiOCrO2Cl + VOCl3 → ← (≡SiO)2VOCl + 2 CrO2Cl2"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of silica surface hydroxyl groups with VOCl3 and CrO2Cl2 vapors, leading to the formation of surface complexes. The reactivity of VOCl3 is higher than that of CrO2Cl2, necessitating an excess of CrO2Cl2 to control the coating composition. The equilibrium constants and structural strains influence the distribution of chromium and vanadium-containing groups on the surface. The synthesis temperature and gas-phase reagent concentrations determine the product composition through reversible substitution reactions and structural changes.",
+  "intermediate_species": [
+    "≡Si–OH",
+    "≡Si–O–V",
+    "≡Si–O–Cr",
+    "≡Si–O–CrO2Cl2–n",
+    "≡Si–O–VOCl3–n",
+    "≡Si–O–TiCl4–n",
+    "≡Si–O–CrO2Cl2–n",
+    "≡Si–O–VOCl3–n",
+    "≡Si–O–CrO2",
+    "≡Si–O–VO"
+  ],
+  "evidence": "n(≡Si–OH) + VOCl3 → ← (≡Si–O)nVOCl3–n + n HCl, n = 1, 2, 3, (1)\nn(≡SiOH) + CrO2Cl2 → ← (≡SiO)nCrO2Cl2–n + n HCl, n = 1, 2. (2)\n(≡SiO)nVOCl3–n + TiCl4 → ← (≡SiO)nTiCl4–n + VOCl3. (3)\n(≡SiO)nCrO2Cl2–n + VOCl3 → ← (≡SiO)nVOCl3–n + CrO2Cl2. (4)\n3 (≡SiO)2CrO2 + 2 VOCl3 → ← 2 (≡SiO)3VO + 3 CrO2Cl2, (7)\n2 ≡SiOCrO2Cl + VOCl3 → ← (≡SiO)2VOCl + 2 CrO2Cl2. (8)"
+}<|im_end|>

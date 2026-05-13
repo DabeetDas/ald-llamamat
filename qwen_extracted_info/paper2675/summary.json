@@ -1,0 +1,12 @@
+{
+  "target_material": "WS2",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "WF6",
+    "H2S",
+    "H2 plasma"
+  ],
+  "temperature_range": "300 /C14 C",
+  "summary": "The study investigates the nucleation mechanism during plasma-enhanced atomic layer deposition (PEALD) of WS2 on amorphous Al2O3 and sapphire substrates. The process involves the preferential adsorption of precursors on the Al2O3 surface, leading to rapid closure of the WS2 layer at a content corresponding to 1.2 monolayers. The growth mode transitions from 2D to 3D after layer closure, resulting in polycrystalline WS2 layers with grain sizes of 5–20 nm. The study also explores the impact of substrate reconstruction on epitaxial seeding and the resulting crystallinity and orientation of the WS2 layers.",
+  "evidence": "The structure, crystallinity, and properties of as-deposited two-dimensional (2D) transition metal dichalcogenides are determined by nucleation mechanisms in the deposition process. The WS2 layers are fully continuous at WS2 content corresponding to only 1.2 WS2 monolayers. The WS2 growth mode changes from 2D (layer-by-layer) growth on the initial Al2O3 surface to three-dimensional (Volmer–Weber) growth after WS2 layer closure. The WS2 sheet resistance is 168 M X lm, suggesting that charge transport in the WS2 layers is limited by grain boundaries."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "SnS2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Bis(1-dimethylamino-2-methyl-2-propoxy)tin(II)", "H2S plasma"],
+  "temperature_range": "150–240 °C",
+  "summary": "The study describes the synthesis of layered tin disulfides (SnS2) using atomic layer deposition (ALD) at low temperatures (≤ 240 °C) for application in non-planar and flexible electronics. The ALD process involves a two-step growth at different temperatures to achieve high crystallinity and preferred orientation of SnS2 layers. The resulting SnS2 films exhibit good electrical performance and conformality, making them suitable for flexible and non-planar devices.",
+  "evidence": "Here, we propose a promising method for wafer-scale, conformal, and low-temperature (≤ 240 °C) synthesis of single-phase SnS2 via the atomic layer deposition technique. The two-step growth occurring at different temperatures efficiently eliminates the trade-off relationship between the crystallinity and orientation preference of SnS2. The fabricated bottom-gate planar SnS2 TFTs showed good electric performances with a μFE of approximately 0.8 cm2/Vs and an on/off ratio of > 106 within the stringent thermal limit of 300 °C. Moreover, we demonstrated, for the first time to our best knowledge, emerging electronic devices, i.e., non-planar TFT and flexible TFT without an additional transfer process."
+}<|im_end|>

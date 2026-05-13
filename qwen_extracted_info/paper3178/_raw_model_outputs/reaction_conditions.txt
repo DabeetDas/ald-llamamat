@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Surface recombination of O-radicals on the sidewalls of the hole during the plasma step limits conformality. The radicals recombine during wall collisions near the entrance of the hole, reducing their flux and resulting in less deposition deeper in the hole. Additionally, H2O produced during the plasma step may contribute to a secondary thermal ALD reaction, which can affect the conformality.",
+  "intermediate_species": ["O-radicals", "H2O"],
+  "evidence": "The conformality of the plasma based process is more limited due to the surface recombination of radicals during the plasma step. ... There are indications that the H2O produced during the plasma step in the PE-ALD process for Al2O3 contributes to the observed conformality through a secondary thermal ALD reaction."
+}<|im_end|>

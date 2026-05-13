@@ -1,0 +1,7 @@
+{
+  "precursors": ["Y(iPr-Me2N-guan)3", "Gd(iPr-Me2N-guan)3", "Dy(iPr-Me2N-guan)3", "Y(iPr-Et2N-guan)3", "Gd(iPr-Et2N-guan)3", "Dy(iPr-Et2N-guan)3", "Y(iPr-iPr2N-guan)3", "Gd(iPr-iPr2N-guan)3", "Dy(iPr-iPr2N-guan)3"],
+  "coreactants": ["O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Nitrogen (flow rate: 50 sccm, 99.9999%) and oxygen (flow rate: 50 sccm, 99.999%) were used as carrier and reactive gases, respectively. Nitrogen (99.9999%, Air Liquide) was used as the carrier as well as purging gas."
+}<|im_end|>

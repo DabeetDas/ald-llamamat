@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "HF etching of oxides is considered as the electrochemical surface reaction, where dielectric surface and HF etchant react to produce desorbable product(s). The reaction catalysts are known to have the role of ionizing HF etchant, and alcohol has much lower ionization efficiency than water. For HF etching of oxides, fluorides and water may be produced from the net chemical reaction as follows: MxOy + 2yHF → xMF2y=x + yH2O (M: metal).",
+  "intermediate_species": [
+    "fluorides (SiF4, TiF4, ZrF4, AlF3 and TaF5)",
+    "water molecules"
+  ],
+  "evidence": "The reaction catalysts are known to have the role of ionizing HF etchant, and alcohol has much lower ionization efficiency than water. For HF etching of oxides, fluorides and water may be produced from the net chemical reaction as follows: MxOy + 2yHF → xMF2y=x + yH2O (M: metal)."
+}

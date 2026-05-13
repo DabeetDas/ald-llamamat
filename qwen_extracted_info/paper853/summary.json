@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Diethylzinc (DEZn)",
+    "H2O"
+  ],
+  "temperature_range": "170–400 °C",
+  "summary": "ZnO thin films were grown on sapphire substrates using atomic layer epitaxy (ALE) with diethylzinc and H2O as precursors at substrate temperatures of 170–400 °C. The films were annealed at temperatures of 800–1000 °C to study the effect of annealing on photoluminescence (PL) properties. The PL properties were characterized by observing free exciton emission and defect-band emission, with significant enhancement in UV light intensity after annealing in an oxygen atmosphere.",
+  "evidence": "ZnO thin films have been grown on sapphire substrates by the atomic layer epitaxy technique using diethyzinc and H2O as reactant gases at substrate temperatures of 170/C14C and 400/C14C and annealed at temperatures of 800–1000/C14C. Both the PL intensity peaks in the UV light and visible light regions are increased by annealing the ZnO film in an oxygen atmosphere."
+}

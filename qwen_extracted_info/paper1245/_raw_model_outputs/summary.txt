@@ -1,0 +1,8 @@
+{
+  "target_material": "MoNx",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Mo(CO)6", "NH3"],
+  "temperature_range": "180–300 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of molybdenum nitride (MoNx) using Mo(CO)6 and NH3 as precursors for Cu diffusion barrier applications. The process is carried out within a temperature range of 180–300 °C, with the optimal ALD temperature window identified as 200–215 °C. The films deposited at higher temperatures exhibit improved properties, such as higher density and lower resistivity, making them effective Cu diffusion barriers. The study also explores the effects of post-annealing and the use of NH3 plasma on the film properties.",
+  "evidence": "Deposition providing precise control of the film thickness, low deposition temperature, and non-corrosive by-products is essential for the efficient fabrication of barrier layers in semiconductor devices. Here, molybdenum nitride (MoNx) is deposited for Cu diffusion barrier application at a relatively low temperature (180–300 °C) by atomic layer deposition (ALD) using molybdenum hexacarbonyl [Mo(CO)6)] and ammonia gas (NH3)."
+}<|im_end|>

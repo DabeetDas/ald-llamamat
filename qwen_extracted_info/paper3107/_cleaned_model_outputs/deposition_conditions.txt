@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "2",
+  "number_of_cycles": "130",
+  "reactor_type": "F-120",
+  "evidence": "Al/HfSixOy/Si samples 22 hafnium-rich silicate films were grown at 400°C in a hotwall flow-type commercial F-120 ALD reactor.23 Precursors used were silicon tetraethoxide (tetraethylorthosilicate), Si(OC2H5)4, hafnium tetraiodide (HfI4), and H2O. The ALD growth recipe used was 130 /Si(OC2H5)4 /HfI4 /H2O, i.e., the amount of the growth cycles was 130."
+}

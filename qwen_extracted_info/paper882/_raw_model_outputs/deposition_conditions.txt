@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 180,
+ "pressure": "1 Torr",
+ "precursor_pulse_time_s": 10,
+ "coreactant_pulse_time_s": 10,
+ "purge_time_s": 15,
+ "number_of_cycles": null,
+ "reactor_type": "Showerhead",
+ "evidence": "One cycle for depositing TiN consisted of TDMA T/Ar–H2 purge/NH3/Ar–H2 purge/NH3–Ar–H2 plasma/Ar–H 2 purge steps at a growth temperature of 180 8C and a total pressure of 1 Torr, as shown in Table 1. First, TDMA T was pulsed for 1–10 s and purged with Ar–H 2 for 15 s. Then, NH3 was pulsed for 10 s and purged with Ar–H 2 for 15 s."
+}<|im_end|>

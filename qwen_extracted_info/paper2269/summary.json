@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "tetrakis(diethylamino)hafnium (TDEAH)",
+    "water vapor"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the selective atomic layer deposition of HfO2 on copper patterned silicon substrates. The process utilizes differences in surface nucleation times between silicon and copper to achieve selective deposition without molecular masking. The growth rate on silicon is 0.11 nm/cycle, and no significant HfO2 deposition is observed on copper up to 25 cycles. The deposited HfO2 thickness after 25 cycles is 2.8 nm, which is relevant for semiconductor nanofabrication.",
+  "evidence": "Selective atomic layer deposition /H20849ALD/H20850was performed on copper patterned silicon substrates to selectively deposit HfO2 film on silicon. The selectivity is based on differences of surface physics/chemistry rather than use of any molecular masking such as self-assembled monolayers. On silicon, the growth rate of HfO2 is 0.11 nm /cycle with no initial inhibition of film growth, while on copper no HfO2 deposition was observed up to at least 25 ALD cycles. The selective growth on silicon over copper at 25 ALD cycles provides a patterned film deposition at thicknesses of 2.8 nm HfO2 which is relevant to semiconductor nanofabrication."
+}

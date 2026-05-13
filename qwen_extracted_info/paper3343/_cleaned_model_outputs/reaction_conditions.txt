@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the Y(iPrCp)3 precursor onto the surface, followed by oxidation through remote oxygen plasma. The adsorption and desorption processes are governed by the partial pressure of the precursor and the number of multi-shots, leading to a saturation growth per cycle (GPC) of 0.22 nm/cycle, close to the monolayer thickness of Y2O3.",
+  "intermediate_species": ["Y(iPrCp)3 precursor", "surface chemisorption coverage"],
+  "evidence": "By repeating the Ar boost precursor injection into the chamber, the GPC was found to increase with the number of shots and showed a saturation to 1 ML of Y2O3 film. The GPC over the number of shots was well explained by the adsorption and desorption mode. With 20 multiple shots, a high GPC of 0.22 nm/cycle was achieved."
+}

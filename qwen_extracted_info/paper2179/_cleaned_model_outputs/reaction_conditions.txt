@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Ti(NCH3)24 + TiO2–OH* → NH(CH3)2 + TiO2–O–Ti(NCH3)23*",
+    "TiO2–O–Ti(NCH3)23* + 2 H2O → TiO2–TiO2–OH* + 3 NH(CH3)2",
+    "Ti(OCH(CH3)2)4 + TiO2–OH* → HOCH(CH3)2 + TiO2–O–Ti(OCH(CH3)2)3*",
+    "TiO2–O–Ti(OCH(CH3)2)3* + 2 H2O → TiO2–TiO2–OH* + 3 HOCH(CH3)2"
+  ],
+  "surface_mechanism_description": "The ALD process involves two half-reactions for each precursor. For TDMA T, the first step is ligand exchange between the precursor and surface hydroxyl groups, forming a surface species. This is followed by a water pulse to regenerate OH sites and complete the reaction. For Ti isopropoxide, a similar ligand exchange occurs, followed by a water pulse to complete the reaction. The stability of the intermediate product after ligand exchange is determined by desorption behavior, which affects the ALD process window width.",
+  "intermediate_species": [
+    "TiO2–O–Ti(NCH3)23*",
+    "TiO2–O–Ti(OCH(CH3)2)3*"
+  ],
+  "evidence": "Then for TiO2 deposition with TDMA T and H2O, the reaction can be separated into two half reactions, which are described as follows: Ti(NCH3)24 + TiO2–OH* → NH(CH3)2 + TiO2–O–Ti(NCH3)23*, TiO2–O–Ti(NCH3)23* + 2 H2O → TiO2–TiO2–OH* + 3 NH(CH3)2. While for Ti isopropoxide and H2O, Ti(OCH(CH3)2)4 + TiO2–OH* → HOCH(CH3)2 + TiO2–O–Ti(OCH(CH3)2)3*, TiO2–O–Ti(OCH(CH3)2)3* + 2 H2O → TiO2–TiO2–OH* + 3 HOCH(CH3)2, where the asterisks denote the surface species."
+}

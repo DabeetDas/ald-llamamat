@@ -1,0 +1,12 @@
+{
+  "target_material": "SrTiO3 (STO)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Ti(O–iPr)2(thd)2",
+    "Sr(thd)2",
+    "H2O"
+  ],
+  "temperature_range": "370°C",
+  "summary": "The study investigates the Atomic Layer Deposition (ALD) of SrTiO3 (STO) thin films using Ti(O–iPr)2(thd)2, Sr(thd)2, and H2O as precursors at a growth temperature of 370°C. The focus is on the influence of the crystalline seed layer and post-deposition annealing (PDA) temperature on the crystallization and electrical properties of the STO films. The results show that an optimal PDA temperature of 650–700°C is necessary for achieving the best electrical performance, while excessive PDA temperatures (e.g., 750°C) lead to adverse chemical interactions between the seed layer and the Ru electrode, hindering in situ crystallization. A slightly thicker seed layer (5 nm) is recommended to improve crystallization and electrical properties.",
+  "evidence": "In situ crystallized /H1101120 nm thick SrTiO3 /H20849STO/H20850thin films were deposited by atomic layer deposition at a growth temperature of 370°C using a 3 or 5 nm thick crystalline STO seed layer before depositing the main layer. The influences of the annealing temperature used to crystallize the seed layer on the structure and electrical properties of the entire STO film were investigated. There was an optimum annealing temperature /H20849650–700°C /H20850for achieving the optimum electrical performance. When the annealing temperature was /H11021600°C, the crystallization of the seed layer was weak, and this resulted in poor in situ crystallization of the main-layer STO. On the other hand, annealing temperatures /H11022750°C induced adverse chemical interactions between the seed STO and Ru electrode, which inhibited in situ crystallization of the main layer when the seed-layer thickness was 3 nm. A slightly thicker seed layer /H208495n m /H20850was necessary for achieving a well-crystallized STO film when the seed annealing temperature was 750°C."
+}

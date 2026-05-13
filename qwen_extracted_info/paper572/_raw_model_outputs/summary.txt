@@ -1,0 +1,8 @@
+{
+  "target_material": "indium sulfide (In2S3)",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": ["indium acetyl acetonate", "H2S"],
+  "temperature_range": "160 °C",
+  "summary": "The study investigates the use of atomic layer epitaxy (ALE) to deposit cadmium-free buffer layers for copper indium diselenide (CIS) solar cells. The most promising results were achieved with indium sulfide (In2S3) buffer layers, achieving a record efficiency of 13.5% without an anti-reflective coating. The process is compatible with other vacuum deposition techniques and allows for high controllability and low-temperature deposition.",
+  "evidence": "The most promising results have been obtained with using indium sul®de buffer layers, with a record ef®ciency of 13.5% (30.6 mA /cm2, 604 mV, FF 0:73 under 100 mW /cm2, without AR coating) achieved on a standard CIGS absorber."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of Sn(acac)2 and H2S on the substrate, followed by surface reactions that form SnS. The reaction is self-limiting and involves the formation of surface species such as Sn-OH* and Al-OH* which are then reacted with H2S to form SnS.",
+  "intermediate_species": ["Sn-OH*", "Al-OH*", "surface hydroxyls"],
+  "evidence": "The surface reactions are self-limiting and involve the formation of surface species such as Sn-OH* and Al-OH* which are then reacted with H2S to form SnS. The reaction is described as involving the adsorption of Sn(acac)2 and H2S on the substrate, followed by surface reactions that form SnS."
+}

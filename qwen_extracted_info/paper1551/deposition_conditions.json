@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 50,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall ALD reactor",
+  "evidence": "ALD was performed in a custom-built, hot-wall ALD reactor complete with ﬁve ports for precursors. Films were deposited at 200 °C with a continuous N 2 ﬂow rate of 10 sccm. The deposition consisted of a 2 s pulse of the metal precursor, a 50 s purge, a 2 s pulse of water, and a 65 s purge, repeated to obtain the desired thickness."
+}

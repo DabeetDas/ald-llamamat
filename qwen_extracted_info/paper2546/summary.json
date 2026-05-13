@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Trimethylaluminum (TMA)",
+    "H2O"
+  ],
+  "temperature_range": "180 °C",
+  "summary": "The study describes a rotary reactor for atomic layer deposition (ALD) on large quantities of nanoparticles, specifically ZrO2 particles coated with Al2O3. The reactor uses static reactant exposures and agitation to ensure efficient ALD processes on nanoparticles with high surface areas. The ALD process involves sequential exposures of TMA and H2O, resulting in conformal Al2O3 coatings. The reactor's design allows for effective reactant usage and prevents particle agglomeration.",
+  "evidence": "The text states, 'The rotary reactor was demonstrated using Al2O3 ALD on ZrO2 particles. Al2O3 ALD is one of the most thoroughly studied ALD systems. Sequential exposures of TMA and H2O were utilized to deposit Al2O3 with atomic layer control according to Eqs. (1) and (2).'"
+}

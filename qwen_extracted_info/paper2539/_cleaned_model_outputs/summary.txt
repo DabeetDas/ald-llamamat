@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "remote plasma atomic layer deposition (RPALD)",
+  "main_precursors": ["Hf(NC2H5)2", "O2"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the effects of N2 remote plasma nitridation (RPN) on the structural and electrical characteristics of HfO2 gate dielectrics grown using remote plasma atomic layer deposition (RPALD). The RPN pretreatment incorporates nitrogen into a thin SiO2 interlayer, which suppresses the growth of an unintentional interface layer, enhances thermal stability, and reduces leakage current. The HfO2 film with RPN showed a lower equivalent oxide thickness (EOT) and lower leakage current density compared to the non-nitrided sample.",
+  "evidence": "The characteristics of remote plasma atomic layer deposited HfO2 on Si, which has a very thin SiO2 interlayer with and without remote plasma nitridation, have been investigated. Small amounts of N atoms were successfully incorporated by RPN pretreatment, in which the dominant emission species were excited atomic nitrogen and excited molecular nitrogen into a very thin SiO2 interlayer for the growth of HfO2 thin film. The HfO2 film containing the remote plasma nitrided SiO2 interlayer annealed at 800 °C showed a lower equivalent oxide thickness of 1.89 nm and a lower leakage current density of 3.78×10−7 A/cm2 at VG − VFB=2 V compared to a non-nitrided sample of the same physical thickness."
+}

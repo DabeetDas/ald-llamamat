@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-225",
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "Savannah 200, Ultratech-Cambridge NanoTech",
+  "evidence": "Vanadium incorporation is achieved by periodically replacing an In(amd)3 pulse with either vanadium(III) n,n′-diisopropylacetamidinate [V(amd)3, 2 s] or tetrakis(ethylmethylamino)vanadium(IV) (TEMAV, 1 s, Air Liquide)."
+}

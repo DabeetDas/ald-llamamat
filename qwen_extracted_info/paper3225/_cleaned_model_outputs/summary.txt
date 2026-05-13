@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2-Al2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["ZrCl4", "AlCl3", "H2O"],
+  "temperature_range": "350 ◦C",
+  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of ZrO2-Al2O3 thin films using ZrCl4, AlCl3, and H2O as precursors at 350 ◦C. The films were grown to investigate the formation of metastable high-permittivity phases of ZrO2, which are crucial for applications in memory capacitors and other electronic devices. The films demonstrated charge polarization, resistive switching, and magnetization properties, with the highest Al:Zr ratio showing enhanced performance. The study also highlights the effects of Al2O3 content on the electrical and magnetic behavior of the films.",
+  "evidence": "The text states: 'Thin mixed and nanolaminate films of ZrO2 and Al2O3 were grown by atomic layer deposition from the corresponding metal chlorides and water. The films were grown at 350 ◦C in order to ensure ZrO2 crystallization in the as-deposited state.' Additionally, it mentions: 'The study was conducted in order to investigate the feasibility to grow by ALD such ZrO2-based thin films, where the high-permittivity phases would dominate.'"
+}

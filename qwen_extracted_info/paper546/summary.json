@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "water"
+  ],
+  "temperature_range": "300–1100 °C",
+  "summary": "The study investigates the crystallization behavior of thin ALD-Al2O3 films, focusing on how annealing temperature and time affect crystallinity, dielectric constant, and electrical properties. The films were deposited using atomic layer deposition with trimethylaluminum and water as precursors. The crystallization process was analyzed using grazing-incidence X-ray diffraction, and the dielectric constant was found to increase with annealing temperature, particularly above 700 °C. The results show that crystallization leads to structural and electrical property changes, with implications for the performance of MOS devices.",
+  "evidence": "The study investigates the crystallization behavior of thin ALD-Al2O3 films, focusing on how annealing temperature and time affect crystallinity, dielectric constant, and electrical properties. The films were deposited using atomic layer deposition with trimethylaluminum and water as precursors. The crystallization process was analyzed using grazing-incidence X-ray diffraction, and the dielectric constant was found to increase with annealing temperature, particularly above 700 °C. The results show that crystallization leads to structural and electrical property changes, with implications for the performance of MOS devices."
+}

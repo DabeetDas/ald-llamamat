@@ -1,0 +1,8 @@
+{
+  "target_material": "AlN/GaN and AlGaN/GaN",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "triethylgallium (TEG)", "NH3"],
+  "temperature_range": "335 °C",
+  "summary": "The study compares the electrical and interfacial characteristics of AlN/GaN and AlGaN/GaN heterostructures prepared by thermal ALD. The AlGaN/GaN sample showed two border traps with energies of ~0.38 and ~0.46 eV, which were not observed for the AlN/GaN sample. The AlN/GaN sample exhibited a lower interface trap density and lower reverse leakage current. X-ray photoelectron spectroscopy analysis indicated that during the initial ALD deposition process, most of the Al and N atoms tended to combine with oxygen atoms, leading to the formation of a defective interfacial layer at the AlGaN/GaN interface. The results suggest that the initial ALD process should focus on removing the defective interfacial layer for device optimization.",
+  "evidence": "The electrical and interfacial characteristics of AlN/GaN and AlGaN/GaN heterostructures prepared by thermal atomic layer deposition (ALD) were investigated in this work. According to the parallel conductance method, the AlGaN/GaN sample showed two border traps with energies of ~ 0.38 and ~ 0.46 eV, which were not observed for the AlN/GaN sample. The AlN/GaN sample also showed a lower interface trap density and a lower reverse leakage current. X-ray photoelectron spectroscopy analysis indicated that during the initial ALD deposition process, most of the Al and N atoms tended to combine with oxygen atoms as opposed to Ga atoms. As a result, AlGaN layer formation was delayed, resulting in the creation of a defective interfacial layer at the AlGaN/GaN interface."
+}

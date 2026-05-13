@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "bis( tert-butylimido)-bis(dimethylamido)molybdenum"
+  ],
+  "coreactants": [
+    "ammonia"
+  ],
+  "purge_gas": [
+    "Nitrogen (AGA, 99.999% N 2)"
+  ],
+  "carrier_gas": [
+    "Nitrogen (AGA, 99.999% N 2)"
+  ],
+  "evidence": "A halide-free organometallic compound, bis( tert-butylimido)-bis(dimethylamido)molybdenum, and ammonia were used as precursors. Nitrogen (AGA, 99.999% N 2) served as purge and carrier gas. Ammonia (AGA, 99.995% NH3) flow was fixed at 100 standard cubic centimeters per minute (sccm) and the nitrogen flow at 400 sccm."
+}

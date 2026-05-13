@@ -1,0 +1,8 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["[(ethylcyclopentadienyl)(pyrrolyl)ruthenium(II)] (ECPR)", "molecular oxygen"],
+  "temperature_range": "255 /C176C",
+  "summary": "The study investigates the thermal-activated atomic layer deposition (ALD) of ruthenium using ECPR and molecular oxygen on various substrates. It focuses on the initial growth behavior, including substrate inhibition, incubation period, and the transition to a linear growth regime. The research highlights the role of surface chemistry and the impact of different substrates on Ru growth.",
+  "evidence": "The initial growth behavior of ruthenium during the thermal-activated atomic layer deposition (ALD) using [(ethylcyclopentadienyl)(pyrrolyl)ruthenium(II)] (ECPR) and molecular oxygen was investigated... The ALD growth initiation of Ru was also investigated on aluminum oxide and tantalum nitride."
+}

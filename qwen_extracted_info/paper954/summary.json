@@ -1,0 +1,11 @@
+{
+  "target_material": "SnO2",
+  "process_type": "Plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "Tin(IV)-butoxide",
+    "O ions"
+  ],
+  "temperature_range": "200 1C",
+  "summary": "The study reports the exceptional cycleability of SnO2 anodes deposited by atomic layer deposition (ALD) on stainless steel substrates without any capacity fade for 500 cycles. The ALD process uses Tin(IV)-butoxide as the tin precursor and O ions from a remote RF plasma generator as the oxygen precursor. The SnO2 anodes show a reversible capacity of 646 mAh g-1 at a current density of 5 mAc m-2. The process is optimized to restrict the cycling potential between 0.005 and 0.8 V vs. Li, which prevents aggregation of Sn particles and maintains high cycleability. The ALD technique provides conformal deposition and low defect density, making it suitable for thin-film and 3D Li-ion batteries.",
+  "evidence": "We ﬁrst report the exceptional cycleability of SnO 2 anodes by atomic layer deposition (ALD) over directly on stainless steel substrates without any capacity fade for 500 cycles. Perfect choice of cycling potential (5–800 mV vs. Li) and synthesis condition yielded such performance with reversible capacity of 646 mAh g /C0 1 at current density of 5 mAc m/C0 2. Plasma-enhanced atomic layer deposition of SnO 2 was done in Cambridge Fiji F200 ALD system, using Tin(IV)-butoxide (Strem Chemicals Inc. USA) as the tin precursor and O /C0 ions created by remote RF plasma generator as the oxygen precursor. The deposition was carried out at 200 1C."
+}

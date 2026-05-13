@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 5,
+  "number_of_cycles": "230",
+  "reactor_type": "fluidized bed",
+  "evidence": "The gas flow rate of ¨ 15 sccm was used to fluidize the aluminum particles. The gas flow velocity of ¨ 9 cm/s was determined by the system pumping speed. The sequence used for exposing the SnCl 4 reactant consisted of: (a) backpulse, (b) dose SnCl 4, (c) short purge, (d) backpulse, (e) dose SnCl 4, and (f) long purge. A similar sequence was used to expose the H 2O2 reactant and consisted of: (a) backpulse, (b) dose H 2O2, (c) short purge, (d) backpulse, (e) dose H 2O2, and (f) long purge. The dosing sequences are designated (a – b – c – d – e – f) where the times are in seconds. The SnCl 4 and H 2O2 reactants were alternately exposed in an ABAB ... sequence to deposit SnO2. The backpulse time was 1 s. The precursor dose times varied from 1 to 3 s. The short and long purge times were typically 5 and 30 s, respectively."
+}<|im_end|>

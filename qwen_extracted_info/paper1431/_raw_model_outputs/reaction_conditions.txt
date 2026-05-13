@@ -1,0 +1,32 @@
+{
+  "reaction_equations": [
+    "2 -OD(s) + Zr(dmae)4(g) f (-O-)2Zr(dmae)2(s) + 2dmaeD(g)",
+    "(-O-)2Zr(dmae)2(s) + 2D2O(g) f (-O-)2Zr(OD)2(s) + 2dmaeD(g)",
+    "2 -OD(s) + Zr(dmae)2(OR)2(g) f (-O-)2Zr(OR)2(s) + 2dmaeD(g)",
+    "(-O-)2Zr(OR)2(s) + 2D2O(g) f (-O-)2Zr(OD)2(s) + 2ROD(g)",
+    "2 -OD(s) + Zr(dmae)2(OR)2(g) f (-O-)2Zr(dmae)2(s) + 2ROD(g)",
+    "(-O-)2Zr(dmae)2(s) + 2D2O(g) f (-O-)2Zr(OD)2(s) + 2dmaeD(g)",
+    "2 -OD(s) + Zr(dmae)2(OR)2(g) f (-O-)2Zr(dmae)(OR)(s) + dmaeD(g) + ROD(g)",
+    "(-O-)2Zr(dmae)(OR)(s) + 2D2O(g) f (-O-)2Zr(OD)2(s) + dmaeD(g) + ROD(g)"
+  ],
+  "surface_mechanism_description": "Decomposition of the precursors leads to a complicated overall reaction mechanism. The alcohols formed in reactions 1 and 5 were not observed. The propanol formed in reaction 3 would be at m/z ) 60, which was detected with all three precursors, so we are not able to conclude whether it presents propanol or some other ion with the same mass. The masses m/z ) 42 [CH2CHCH3]+, m/z ) 56 [CH2C(CH3)2]+, and m/z ) 71 [CH2CHN(CH3)2]+ were detected for all three precursors; however, the amount of m/z ) 42 was larger when Zr(dmae)2(OiPr)2 was involved, and correspondingly m/z ) 56 when Zr(dmae)2(OtBu)2 was involved. This suggests that reactions 2 and 3 might take place. No conclusions can be drawn concerning reaction 5 as the mass m/z ) 71 was checked from all three precursors only at 340 °C.",
+  "intermediate_species": [
+    "dmaeD",
+    "ButOD",
+    "PriOD",
+    "CH2N(CH3)2+",
+    "CH2NHCH3+",
+    "CH2CHCH3+",
+    "CH2C(CH3)2+",
+    "CH2CHN(CH3)2+",
+    "CH2COH+",
+    "CH3CHO+",
+    "CH3CHOD+",
+    "CH3CCH2+",
+    "CHNCH2+",
+    "CH2COH+",
+    "CH2NCH2+",
+    "CH2NCH3+"
+  ],
+  "evidence": "The reaction mechanism studies were carried out in an ALD reactor with a larger reaction chamber than that used in the film growth experiments, longer pulse times were needed; 3.0 s pulses were used unless otherwise stated. The long pulse times obviously have an emphasizing effect on the precursor decomposition. Ideal ALD growth would proceed solely via ligand exchange reactions on the film surface. When Zr(dmae) and water, for example, are pulsed alternately onto the substrates, the following reactions should occur (the number of -OD groups, and hence the number of dmae ligands that react during the Zr(dmae)4 pulse, varies according to the reaction conditions, particularly temperature). In reactions 7-14 \"s\" denotes surface species and \"g\" species in the gas phase. The main reaction byproduct should be dmaeD, but we observed hardly any m/z ) 90 [dmaeD]+ with the QMS. It is most probably fragmented, the main fragment being m/z ) 58 [CH2N(CH3)2]+, which is produced by R-cleavage and was found in significant amounts. Another fragment produced by the R-cleavage would be m/z ) 32 [DOCH2]+, but we obtained only a very weak signal at m/z ) 32 as the formation of m/z ) 58 is more favorable. We also observed m/z ) 44 [CH2NHCH3]+, which is produced by a secondary rearrangement reaction. Figure 7 shows QMS data of m/z ) 58 and 44. Both ions are produced during both the Zr(dmae)4 pulse and the D2O pulse. The amount of these ions decreased slightly with increasing growth temperature. When two different ligands are attached to Zr, the situation is more complicated as there are two possible reaction byproducts and combinations of those during each precursor pulse. Reactions 9-14 give an example of possible reactions when the incoming Zr precursor reacts with two -OD groups, -OR )- OtBu, -OiPr. Again, the number of -OD groups with which the metal precursor reacts depends on the reaction conditions. The main reaction byproducts in the case of Zr(dmae)2(OtBu)2 should be dmaeD and ButOD (m/z ) 75), which, however, were not observed with the QMS, but again fragments at m/z ) 58 [CH2N(CH3)2]+ and m/z ) 60 [(CH3)2COD]+ were found. The mass m/z ) 60 is detected also from Zr(dmae)2(OiPr)2 and Zr(dmae)4, but the amounts are much smaller. In the case of Zr(dmae)2(OiPr)2, a fragment [CH3CHOD]+ of the expected main byproduct PriOD was observed at m/z ) 46. This mass was also observed from the other two precursors, but the amounts were very small compared to that for Zr(dmae)2(OiPr)2. Interestingly, with Zr(dmae)2(OiPr)2 most of the m/z ) 46 is observed during the Zr pulse, but with the other two precursors it is mostly observed during the D2O pulse. Similar to Zr(dmae)2(OtBu)2, the expected main byproduct coming from the dmae ligand, m/z ) 90, was not detected from Zr(dmae)2(OiPr)2. The fragments m/z ) 58 and m/z ) 44 were observed, however, but in contrast to Zr(dmae)4, the amounts of these ions now increased with increasing temperature. This suggests that part of the detected ions at m/z ) 58 and m/z ) 44 are coming from the other two ligands, -OtBu and -OiPr (m/z ) 58 [(CH3)2CO]+ and m/z ) 44 [CH3CHO]+), either directly or indirectly."
+}<|im_end|>

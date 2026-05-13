@@ -1,0 +1,11 @@
+{
+  "target_material": "Nickel sulﬁde (NiSx)",
+  "process_type": "Atomic layer inﬁltration (ALI)",
+  "main_precursors": [
+    "bis(dimethylamino-2-methyl-2-butoxo)nickel(II) [Ni(dmamb)2]",
+    "hydrogen sulﬁde (H2S)"
+  ],
+  "temperature_range": "160–190 /C14C",
+  "summary": "Nickel sulﬁde (NiSx) thin films were grown by atomic layer infiltration (ALI) using Ni(dmamb)2 and H2S as precursors. The films were applied as counter electrodes in dye-sensitized solar cells (DSCs), showing high catalytic activity and comparable efficiency to Pt-based electrodes.",
+  "evidence": "Nickel sulﬁde (NiSx) was grown by atomic layer inﬁltration using bis(dimethylamino-2-methyl-2-butoxo)nickel(II) [Ni(dmamb)2] and hydrogen sulﬁde (H2S) as a metal precursor and a sulfur source. The deposited ﬁlms on FTO-coated glass were applied to a counter electrode in dye-sensitized solar cells, which performed a high catalytic activity for the reduction of I3/C0 to I/C0 and the comparable cell efficiency of 7.12% with cells using conventional Pt-coated FTO counter electrode."
+}

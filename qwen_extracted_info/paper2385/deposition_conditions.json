@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-200",
+  "pressure": "",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 1,
+  "number_of_cycles": "1000, 3000, 5000, 10000",
+  "reactor_type": "ALD",
+  "evidence": "We performed ALD processes in which pulse and purging time for both precursors were the same, i.e. 15 ms and 1 s, respectively."
+}

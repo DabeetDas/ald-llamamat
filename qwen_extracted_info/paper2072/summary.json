@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of hafnium oxide (HfO2) on germanium (Ge) substrates using HfCl4 and H2O precursors at 300 °C. The growth characteristics, including enhanced growth in the first cycles and the formation of a closed film after 4–5 monolayers, are analyzed. The HfO2 layers are amorphous for thicknesses below 3 nm and crystallize at higher temperatures. The interfacial oxide layer is found to be thin (≈0.3 nm) and composed of GeO2. The results suggest that HfO2 can serve as a gate oxide for Ge-based devices with thicknesses as low as 1.6 nm.",
+  "evidence": "The text states: 'we have studied the atomic layer deposition sALDd of HfO2 high-k dielectric layers on HF-cleaned Ge substrates.' It also mentions: 'All depositions were performed at 300 °C with HfCl4 and H2O precursors.' Additionally, 'the HfO2 layers are amorphous for thicknesses below 3 nm' and 'the interfacial oxide layer is found to be thin (≈0.3 nm) and composed of GeO2.'"
+}

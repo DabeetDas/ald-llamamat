@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(ethylmethylamino)hafnium", "water vapor"],
+  "temperature_range": "200 °C",
+  "summary": "HfO2 thin films were grown on a p-Si(100) substrate using tetrakis(ethylmethylamino)hafnium and water vapor as precursors at 200 °C. The films were annealed at 500 °C to crystallize into the monoclinic phase. The study focused on the electrical properties, band gap, and interface quality of the HfO2 films.",
+  "evidence": "The growth of HfO2 thin films on a HF-dipped p-Si(100) substrate at 200 °C by atomic-layer deposition (ALD) using Hf[N(C2H5)(CH3)]4 and H2O vapor as precursors is demonstrated. ... The as-deposited HfO2 thin film is amorphous and able to crystallize at 500 ∼ 600 °C with only the monoclinic phase."
+}<|im_end|>

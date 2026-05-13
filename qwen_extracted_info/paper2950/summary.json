@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "HfCl4",
+    "water"
+  ],
+  "temperature_range": "200, 300, or 370°C for deposition; 550, 800, and 900°C for annealing",
+  "summary": "The study investigates the impact of deposition and annealing temperatures on the material and electrical properties of ALD HfO2 films. The films were deposited at 200, 300, and 370°C using HfCl4 and water as precursors. Annealing was performed at 550, 800, and 900°C. The results show that deposition temperature significantly affects material properties, such as density, crystallinity, and impurity levels, as well as electrical characteristics like leakage current and capacitance-voltage behavior. The best electrical performance was achieved for films deposited at 370°C.",
+  "evidence": "The HfO2 films were deposited at 200, 300, or 370°C and annealed in a nitrogen ambient at 550, 800, and 900°C. Results indicate that deposition temperature controls both the material and the electrical properties. The best electrical performance was obtained for films deposited at 370°C."
+}

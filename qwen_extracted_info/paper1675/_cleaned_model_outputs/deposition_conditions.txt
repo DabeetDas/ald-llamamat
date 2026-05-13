@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 1.5,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "ALD",
+  "evidence": "The amorphous MoS2 was grown at 100 oC on the Au substrate by repeating the ALD sequence: Mo(CO)6 exposure (4 s) – purging (30 s) – DMDS exposure (1.5 s) – purging (10 s)."
+}

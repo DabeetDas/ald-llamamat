@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Tetrakis(ethylmethylamido)zirconium (Zr(NEtMe)4)", "O3"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the formation of high-k ZrO2 thin films on TiN substrates using atomic layer deposition (ALD) at 250°C. The films exhibit a high dielectric constant due to the formation of metastable tetragonal or cubic ZrO2 phases, which is attributed to growth-controlled selection rather than interfacial energy minimization. The crystalline structure of the films is influenced by the substrate's lattice mismatch and interfacial conditions.",
+  "evidence": "ZrO2 thin films were grown by ALD using a traveling-wave-type reactor at a growth temperature of 250°C. Tetrakis(ethylmethylamido)zirconium (Zr(NEtMe)4) and O3 were used as the Zr and oxygen sources, respectively. The crystalline structure of the ZrO2 thin films was investigated by glancing angle incidence X-ray diffraction (GIXRD). The formation of the high-temperature phase of ZrO2 in ALD at such low temperatures is unclear, and the study aimed to investigate the possible reasons for the formation of the high-temperature form."
+}

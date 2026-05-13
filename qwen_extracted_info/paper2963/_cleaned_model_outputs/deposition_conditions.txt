@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "190-260",
+  "pressure": "5 to 10 Torr",
+  "precursor_pulse_time_s": "4",
+  "coreactant_pulse_time_s": "2",
+  "purge_time_s": null,
+  "number_of_cycles": "200",
+  "reactor_type": "three-zone hot wall ALE reactor",
+  "evidence": "The process was self-limited in the temperature range 190 to 260°C. In the experiments presented in Fig. 5, the duration of the precursor pulse was only 2 s. This explains the lower deposition rate. The maximum deposition rate in this range was reached after a precursor pulse duration of 4 s and was approximately 0.17 monolayer/cycle (Fig. 6)."
+}

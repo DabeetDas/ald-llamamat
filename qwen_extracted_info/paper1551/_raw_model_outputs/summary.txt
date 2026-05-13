@@ -1,0 +1,8 @@
+{
+  "target_material": "Ti−Mn ternary oxide",
+  "process_type": "ALD",
+  "main_precursors": ["Mn(EtCp)2", "Ti tetraisopropoxide", "water"],
+  "temperature_range": "200 °C",
+  "summary": "The study investigates the use of atomic layer deposition (ALD) to create thin films of Ti−Mn ternary oxide for oxygen evolution reaction (OER) catalysis. The ALD process allows for the synthesis of thin films with controlled composition and thickness, showing a high degree of mixing between Ti and Mn. The catalytic activity of the films is influenced by the Mn content, with increased activity observed at higher Mn concentrations. The study also highlights the impact of film thickness on catalytic activity, showing that charge transport limitations can affect performance. The results suggest that ALD is an effective method for creating mixed oxide catalysts with tailored properties.",
+  "evidence": "The study describes the use of ALD to deposit thin films of Ti−Mn ternary oxide, with the main precursors being Mn(EtCp)2, Ti tetraisopropoxide, and water. The process was carried out at a temperature range of 200 °C. The results show that the ALD process allows for the synthesis of thin films with a high degree of mixing between Ti and Mn, and the catalytic activity of the films is influenced by the Mn content. The study also highlights the impact of film thickness on catalytic activity, showing that charge transport limitations can affect performance."
+}<|im_end|>

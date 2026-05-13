@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The interaction between NH3 plasma and the adsorbed CoCp2-derived species leads to the formation of cobalt nitride. At temperatures below 290 °C, the resulting film primarily consists of Co2N, whereas at 300 °C, partial decomposition takes place, resulting in the formation of a mixture of Co3N and pure Co. At 350 °C, decomposition is effectively complete, leading to pure Co with nitrogen contents below 4 at %.",
+  "intermediate_species": ["Co2N", "Co3N", "surface hydroxyls", "nitrogen species"],
+  "evidence": "The surface mechanism description is based on the text: 'The interaction between NH3 plasma and the adsorbed CoCp2-derived species leads to the formation of cobalt nitride. At temperatures below 290 °C, the resulting film primarily consists of Co2N, whereas at 300 °C, partial decomposition takes place, resulting in the formation of a mixture of Co3N and pure Co. At 350 °C, decomposition is effectively complete, leading to pure Co with nitrogen contents below 4 at %.'"
+}<|im_end|>

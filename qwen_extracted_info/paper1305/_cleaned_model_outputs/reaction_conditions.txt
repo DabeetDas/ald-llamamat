@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of trimethylaluminum (TMA) with surface hydroxyl groups, followed by a plasma step that introduces nitrogen. The ion energy is controlled by substrate biasing, which influences the nitridation process and the formation of Al-N bonds. The plasma step generates ions and radicals necessary for the nitridation, and the ion bombardment affects the surface reactions and film quality.",
+  "intermediate_species": ["Al-OH*", "surface hydroxyls", "N-Al-O bonds", "Al-N bonds"],
+  "evidence": "The text describes the role of substrate biasing in controlling ion energy during plasma-enhanced atomic layer deposition (PEALD) of AlN. It mentions the interaction of TMA with surface hydroxyl groups, the plasma step introducing nitrogen, and the formation of Al-N bonds. The ion energy is adjusted by substrate biasing, which influences the nitridation process and film quality. The text also discusses the formation of N-Al-O bonds and the impact of ion bombardment on surface reactions."
+}

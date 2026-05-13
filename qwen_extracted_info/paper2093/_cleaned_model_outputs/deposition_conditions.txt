@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 5,
+  "number_of_cycles": 5,
+  "reactor_type": "home-built ALD reactor",
+  "evidence": "The pressure of the ALD chamber is maintained at 3 Torr by a throttle valve located in front of an Alcatel drag-diaphragm dry pump unit. The silicon substrate is kept at 100 °C during HfO2 deposition using resistive heating, and at 60 °C during FTIR measurements. After each precursor exposure, the ALD chamber is purged and pumped for at least 5 min with ultrapure N2 gas to prevent cross contamination from residual precursors and gas phase products. The exposure doses and pulse lengths (10 s) are controlled by MKS mass flow controllers and pneumatic valves."
+}

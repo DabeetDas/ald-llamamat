@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 7.9,
+  "density_g_cm3": 8.7,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.7,
+  "crystal_phase": "amorphous",
+  "evidence": "The as-grown Lu oxide layer in the selected as-grown film is estimated as 7.9 nm (consistent with the thickness measured with RBS assuming a mass density of 8.7 g/cm^3), indicating a growth rate of <7310^−4 nm/s, and 7.5 nm in the annealed film. For the as-grown film, a top layer of low density and 1.4 nm thickness is necessary to correctly simulate the experimental data. This layer is probably related to the irregular surface morphology of the film. The as-grown film is amorphous, while the annealed one exhibits a polycrystalline structure consistent with the IA-3 bixbyite structure of Lu2O3."
+}<|im_end|>

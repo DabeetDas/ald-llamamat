@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "4",
+  "number_of_cycles": null,
+  "reactor_type": "flow type F120 ALD reactor",
+  "evidence": "GaCl3 purge was only 2 s in the very first experiments, leading to a very strong thickness profile along the gas flow direction, with no film growth at the farthest edge of the substrate. This problem was solved when the GaCl3 purge was increased to 4 s, with uniform film growth at all parts of the substrate."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 100,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The obtained thickness of the films was about 100 nm (measured by XRR). This corresponds to a growth rate per cycle of 5A˚ per cycle. The deposition temperature was then fixed at 250 8C, and the injection sequence at 25s/7s/10s/7s. The objective here was to show conformality obtained during ALD deposition. The electrical properties of the TaN films were determined, and were not good. In the case of deposition at 100 8C, the films were not conductive. When the deposition temperature was increased to 250 8C, the films became slightly conductive with a resistivity of 76 V cm for a 100 nm thickness film."
+}

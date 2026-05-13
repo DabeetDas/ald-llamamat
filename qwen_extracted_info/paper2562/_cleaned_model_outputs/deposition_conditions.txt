@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "1 torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "ALCVD",
+  "evidence": "Then the HfO layers are deposited at 350 ° C and 1 torr by AL-CVD with alternate cycles of H 2O and HfCl 4 precursors."
+}

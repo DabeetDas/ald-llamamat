@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225",
+  "pressure": "",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": "5",
+  "purge_time_s": "10",
+  "number_of_cycles": "2000",
+  "reactor_type": "F-120",
+  "evidence": "Ir coatings were deposited with the Ir(acac)3-oxygen process19 at 225 /compBC, and IrO2 coatings with the Ir(acac)3-ozone process at 165/compBC.18 The pulse and purge times, for both oxygen and ozone processes, in one ALD cycle were 5 s Ir(acac)3/10 s purge/5 s oxygen or ozone/10 s purge."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "167",
+  "pressure": "10 −5 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "30",
+  "number_of_cycles": "200",
+  "reactor_type": "custom-built ultrahigh vaccum chamber",
+  "evidence": "Cycle times of the reactants were computer controlled, and a typical cycle was 10 s /H20853Ti/H20851N/H20849CH3/H208502/H208524 /1 5 s /H20849pump out/H20850/30 s /H20849NH3/H20850/ 100 s /H20849pump out/H20850."
+}

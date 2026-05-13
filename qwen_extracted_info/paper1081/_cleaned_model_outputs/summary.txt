@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum", "water"],
+  "temperature_range": "180 °C",
+  "summary": "Al2O3 layers are grown using atomic layer deposition with trimethylaluminum and water on semiconductor substrates. Annealing treatments are necessary to achieve good insulating properties. The study investigates the composition, electrical properties, and surface roughness of the deposited films.",
+  "evidence": "Al2O3 ﬁlms with thickness ranging from 20 to 300 nm are grown in a home-made reactor using atomic layer deposition with trimethylaluminum and water on different semiconductor substrates. Annealing treatments appear necessary in order to obtain ﬁlms with good insulating properties, although the same treatments do not affect the stoichiometry of the main components. The growth system, a modiﬁed former-CVD reactor, is composed of a home-made stainless steel chamber heated by resistive cartridges, with two separate inlets for the reactants and one outlet connected to a vacuum pump. Processing temperature and pressure are set respectively to 180 °C and 3 kPa."
+}

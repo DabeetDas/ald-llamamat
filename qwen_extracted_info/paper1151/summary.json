@@ -1,0 +1,11 @@
+{
+  "target_material": "Co3O4",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "bis(1,4-di-iso-propyl-1,4-diazabutadiene)cobalt",
+    "ozone"
+  ],
+  "temperature_range": "120–250 °C",
+  "summary": "The study reports the atomic layer deposition (ALD) of stoichiometric Co3O4 films using a novel liquid cobalt precursor, bis(1,4-di-iso-propyl-1,4-diazabutadiene)cobalt, and ozone. The ALD process was conducted between 120 and 250 °C, with a maximum growth rate of 0.12 nm/cycle. The deposited films showed excellent step coverage and were found to be stoichiometric and crystalline Co3O4 at 250 °C.",
+  "evidence": "We report the deposition of cobalt oxide films at 120–300 °C using alternating injections of a novel liquid cobalt precursor, bis(1,4-di-iso-propyl-1,4-diazabutadiene)cobalt [C16H32N4Co, Co(dpdab)2], and ozone. The atomic layer deposition (ALD) temperature window was between 120 °C and 250 °C with a maximum growth per cycle of 0.12 nm/cycle. The deposited films showed excellent step coverage. Cobalt oxide films deposited at 250 °C consisted of stoichiometric and crystalline Co3O4."
+}

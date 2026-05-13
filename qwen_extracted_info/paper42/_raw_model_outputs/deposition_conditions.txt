@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "Cambridge Savannah S100",
+  "evidence": "Alternating pulses of Pb(tmhd)2 and H2S precursors (0.5 s pulse duration for both) build up the PbS film of a desired thickness. The purge time between precursor pulses was 20 s"
+}<|im_end|>

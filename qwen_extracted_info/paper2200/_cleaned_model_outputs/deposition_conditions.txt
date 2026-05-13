@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 60,
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "20-50",
+ "number_of_cycles": null,
+ "reactor_type": "Cambridge Nanotech",
+ "evidence": "The samples were exposed to the precursors for between 5 and 30 s / cycle, and purging times varied from 20 to 50 s. Nitrogen was used as a purge gas, with a ﬂow rate of 10 SCCM."
+}

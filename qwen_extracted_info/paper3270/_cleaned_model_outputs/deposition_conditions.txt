@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "125–225",
+  "pressure": "1000 Pa",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "40",
+  "purge_time_s": null,
+  "number_of_cycles": "1200",
+  "reactor_type": "plasma-enhanced ALD",
+  "evidence": "The growth rate increases from ~ 0.06 to ~ 0.073 Å/cycle with the increment of Co(EtCp) 2 pulse time from 1 to 2 s, and then maintains a relatively stable value. As the NH 3-plasma pulse time increases from 10 to 40 s, the resistivity of the Co films decreases from 158 to 117 μΩ cm (see Fig. 6b)."
+}

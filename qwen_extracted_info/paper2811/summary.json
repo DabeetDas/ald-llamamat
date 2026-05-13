@@ -1,0 +1,11 @@
+{
+  "target_material": "GaAs",
+  "process_type": "ALD",
+  "main_precursors": [
+    "GaCl3",
+    "AsH3"
+  ],
+  "temperature_range": "350–450 °C",
+  "summary": "The study focuses on the in situ gravimetric monitoring of the GaAs growth process in atomic layer epitaxy.",
+  "evidence": "In Situ Gravimetric Monitoring of the GaAs Growth Process in Atomic Layer Epitaxy"
+}

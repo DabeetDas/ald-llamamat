@@ -1,0 +1,8 @@
+{
+  "target_material": "alumina (Al2O3)",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum (TMA, Al(CH3)3)", "water"],
+  "temperature_range": "177 8C",
+  "summary": "The study investigates the biocompatibility of atomic layer-deposited (ALD) alumina thin films and hydrophobic coatings on glass cover slips. The ALD alumina coating showed a water contact angle of 55 8 6 58, attributed to a high concentration of OH groups. The hydrophobic coating had a contact angle of 108 8 6 28. Cell proliferation on both coatings was comparable to control substrates, indicating good biocompatibility. The ALD process uses sequential self-limiting reactions with TMA and water at 177 8C, resulting in a linear growth rate of 0.12 nm per cycle.",
+  "evidence": "The ALD alumina coating exhibited a water contact angle of 55 8 6 58 attributed, in part, to a high concentration of /C0 /C0 OH groups on the surface. The deposition of alumina (Al2O3) on silicon is achieved by using sequential exposures of trimethylaluminum (TMA, Al(CH3)3) and water. The growth rate is the normal growth rate for ALD alumina at 177 8C."
+}<|im_end|>

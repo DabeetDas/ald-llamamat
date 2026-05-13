@@ -1,0 +1,31 @@
+{
+  "precursors": [
+    {
+      "name": "TDMAT",
+      "full_name": "tetrakis dimethylamino titanium"
+    },
+    {
+      "name": "TDMAZ",
+      "full_name": "tetrakis dimethylamino zirconium"
+    },
+    {
+      "name": "TDMAH",
+      "full_name": "tetrakis dimethylamino hafnium"
+    },
+    {
+      "name": "Pb(DMAMP)2",
+      "full_name": "Lead bis(3-N,N-dimethyl-2-methyl-2-propanoxide)"
+    }
+  ],
+  "coreactants": [
+    "H2O",
+    "O3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The 4+ cation precursors consist of tetrakis dimethylamino titanium (TDMAT), tetrakis dimethylamino zirconium (TDMAZ) and tetrakis dimethyl amino hafnium (TDMAH) for Ti, Zr, and Hf, respectively. The Pb (2+) precursor was Lead bis(3-N,N-dimethyl-2-methyl-2-propanoxide) [Pb(DMAMP) 2]. ... Each of the 4+ cation precursor pulses produced a pressure spike in the range of 3-10 mtorr above the reactor base pressure that remained constant at approximately 1.8 Torr. The reactor base pressure is a result of the summation of each of the carrier and purge gases (all ultra-high purity Ar) implemented on the platform including carrier gases from four precursor sources, purge gas from the plasma tube, analytical ports, and reactor sidewalls which amount to approximately 1 SLPM in total. ... The diluted precursor pulse produced a pressure spike of 20-30 mtorr above the reactor base pressure for the first pulse that followed the Ar charge. ... We used H2O vapor followed by a short O 3 gas exposure to oxidize the cation precursors during each ALD cycle."
+}<|im_end|>

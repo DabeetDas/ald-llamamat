@@ -1,0 +1,8 @@
+{
+  "target_material": "Zirconium Oxide (ZrO2)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["(2-(N-methylamino)1-MethylEthyleneCyclopentadienyl)Bis(DimethylAmino)Zr (CMEN-Zr)", "oxygen plasma"],
+  "temperature_range": "150–215°C",
+  "summary": "Zirconium oxide thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) with CMEN-Zr as the zirconium precursor and oxygen plasma as the oxygen source. The films demonstrated temperature-independent growth rates of 0.94 Å/cycle at 150–215°C. The study focused on the application of these films to solid oxide fuel cells (SOFCs) to evaluate their impact on electrochemical performance, particularly on anode performance. The presence of ZrO2 nanomaterials on Ni/YSZ anodes was found to degrade cell performance by reducing the effective density of triple phase boundaries.",
+  "evidence": "Abstract: Zirconium oxides were deposited using plasma-enhanced atomic layer deposition (PEALD) involving (2-(N-methylamino)1-MethylEthyleneCyclopentadienyl)Bis(DimethylAmino)Zr (abbreviated as CMEN-Zr) and oxygen plasma as zirconium and oxygen sources. The zirconium oxide thin films demonstrate temperature-independent growth rates per cycle of 0.94 A/cycle at 150–215°C. The presence of ZrO2 nanomaterials on Ni/YSZ anodes was found to degrade cell performance by reducing the effective density of triple phase boundaries."
+}

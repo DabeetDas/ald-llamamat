@@ -1,0 +1,17 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "X-ray reflectivity (XRR)",
+    "Scanning electron microscopy (SEM)",
+    "Energy-dispersive X-ray spectroscopy (EDX)",
+    "Time-of-flight elastic recoil detection analysis (TOF-ERDA)",
+    "Atomic force microscopy (AFM)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Vibrating sample magnetometer (VSM)",
+    "UV-Vis spectrometry",
+    "Ellipsometry",
+    "Four-point probe",
+    "Capacitance-voltage (C-V) measurements"
+  ],
+  "evidence": "PANalytical X’pert Pro MPD diffractometer was used to measure the grazing incidence X-ray diffraction patterns, while the incident beam angle was 1◦. X-ray reﬂection (XRR) measurements were applied in order to evaluate ﬁlm thicknesses using Rigaku Smartlab X-ray diffractometer with detector scanning angle 0–3.5◦. The densities of the ﬁlms were also estimated on the basis of the XRR measurement results. The density values obtained were overestimated by ca. 5% because in the calculations the program applied was unable to consider the change of the probe area on the ﬁlm surface, especially under the lowest incidence angles. In addition, the thicknesses of the ﬁlms were determined from reﬂectance spectra measured within a wavelength range of 380–1100 nm using a Hitachi U2000 spectrophotometer and applying a ﬁtting method developed by Ylilammi and Ranta-aho. Specimens for transmission electron microscopy (TEM) were prepared with the lift-out method in a FEI Quanta 3D 200i focused ion beam (FIB)-scanning electron microscope (SEM), i.e. FIB-SEM dual beam microscope. Bright-ﬁeld TEM images were taken with a FEI Tecnai F-20 microscope operated at 200 kV . EDX was also applied for the measurements of the residual iodine content in the ﬁlms by a Hitachi S-4800 scanning electron microscope (SEM) equipped with an Oxford INCA 350 EDX spectrometer. The EDX spectra were measured at 30 keV . The beam current and spectrometer gain were determined from a calibration measurement performed under the same beam conditions. The thickness calculations were done on the basis of Zr Kα X-ray lines using a GMRFILM program, assuming a density of 5 g/cm3 for ZrO2. Surface morphology was monitored using the same SEM apparatus. Contents of residual light elements in selected representative samples were determined by time-of-ﬂight elastic recoil detection analysis (TOF-ERDA). Magnetic measurements on selected samples were performed using the vibrating sample magnetometer (VSM) option of the Physical Property Measurement System (PPMS) 14 T (Quantum Design), with the magnetic ﬁeld parallel to the ﬁlm surface. For electrical measurements, Al/Ti/ZrO2/TiN/Si/Al capacitor stacks were constructed with the effective capacitor area of 0.204 mm2. Double-layer 110 nm/50 nm thick Al/Ti dot electrodes were deposited through a shadow mask on the ZrO2 ﬁlms by electron beam evaporation, the Ti layer being in direct contact to ZrO2. Backside ohmic contact was provided by evaporating 100–120 nm thick Al layer on etched Si."
+}<|im_end|>

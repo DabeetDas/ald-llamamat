@@ -1,0 +1,7 @@
+{
+  "precursors": ["gallium tri-isopropoxide (GTIP)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "ALD Ga 2O3 films were deposited on various substrates (Si, glass, and carbon) at 150 °C, 200 °C and 250 °C by using GTIP and H 2O. N 2 gas was used as a carrier gas at a flow rate fixed at 50 sccm."
+}

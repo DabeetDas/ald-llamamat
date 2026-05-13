@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "700",
+  "pressure": "1–10 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "5",
+  "reactor_type": "high vacuum chamber",
+  "evidence": "The Si3N4 ﬁlms were deposited at temperatures ranging from 500 to 900 K using SiCl4 and NH3 as reactants. A typical AB cycle occurred with the following sequence: dose SiCl4 (10 Torr)/evacuate (1×10−4 Torr)/dose NH3 (10 Torr)/evacuate."
+}

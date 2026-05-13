@@ -1,0 +1,9 @@
+{
+  "precursors": [],
+  "coreactants": [],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": null,
+  "_error": "ValueError: Could not parse model output as JSON. Preview: '{   \"precursors\": [\"TiCl4\"],   \"coreactants\": [\"H2O\"],   \"purge_gas\": [\"N2\"],   \"carrier_gas\": [\"N2\"],   \"evidence\": \"The ALE Procedure section states: \\'Nitrogen (99.999%) was used as carrier gas in the ALE reactor.\\' Additionally, the text mentions \\'the reaction at 550 \"C was also carried out with s'",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 257, in precurosr_coreactant_purge_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '{   \"precursors\": [\"TiCl4\"],   \"coreactants\": [\"H2O\"],   \"purge_gas\": [\"N2\"],   \"carrier_gas\": [\"N2\"],   \"evidence\": \"The ALE Procedure section states: \\'Nitrogen (99.999%) was used as carrier gas in the ALE reactor.\\' Additionally, the text mentions \\'the reaction at 550 \"C was also carried out with s'\n"
+}

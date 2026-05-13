@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The gas sensing mechanism of n-type semiconductor gas sensors such as SnO2 is as follows. The freshly prepared SnO2 adsorbs oxygen atoms on the surface and the oxygen atoms pick up the electrons from the conduction band of SnO2 resulting in the space charge layer just below the surface, which acts as the barrier for the electronic conduction. When the sensor is exposed to the reducing gases such as H2, the oxygen adsorbates react with the reducing gases and release the electrons to the conduction band, which decreases the potential barrier and increase the electrical conductivity.",
+  "intermediate_species": [
+    "oxygen atoms",
+    "electrons",
+    "reducing gases"
+  ],
+  "evidence": "The gas sensing mechanism of n-type semiconductor gas sensors such as SnO2 is as follows. The freshly prepared SnO2 adsorbs oxygen atoms on the surface and the oxygen atoms pick up the electrons from the conduction band of SnO2 resulting in the space charge layer just below the surface, which acts as the barrier for the electronic conduction. When the sensor is exposed to the reducing gases such as H2, the oxygen adsorbates react with the reducing gases and release the electrons to the conduction band, which decreases the potential barrier and increase the electrical conductivity."
+}

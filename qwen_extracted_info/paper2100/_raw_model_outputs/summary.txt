@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Al(CH3)3 (TMA)", "H2O"],
+  "temperature_range": "300 °C",
+  "summary": "The study describes the use of atomic-layer deposition (ALD) to grow Al2O3 on In0.15Ga0.85As/GaAs for surface passivation. The ALD process effectively removes arsenic oxides, ensuring Fermi-level unpinning and resulting in low leakage current and interfacial density of states. The process does not require surface preparation or post-thermal treatment.",
+  "evidence": "Al2O3 was deposited on In0.15Ga0.85As/GaAs using atomic-layer deposition. Without any surface preparation or postthermal treatment, excellent electrical properties of Al2O3/InGaAs/GaAs heterostructures were obtained, in terms of low electrical leakage current density and low interfacial density of states. The removal of the arsenic oxides from Al2O3/InGaAs heterostructures during the ALD process ensures the Fermi-level unpinning, which was observed in the capacitance-voltage measurements."
+}<|im_end|>

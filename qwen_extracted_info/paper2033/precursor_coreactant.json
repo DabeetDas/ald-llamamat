@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "ZrCl4",
+    "H2O"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Without any surface pre-cleaning of the W, 110 ;115 Å of ZrO 2 was deposited at 300 °C using alternating surface-saturating reactions of ZrCl 4 and H 2O in a cold wall-type, high-vacuum laboratory-scale ALD system. Each precursor was pulsed for 2 s and N 2 purging followed for 30 or 60 s after H 2O or ZrCl4 pulsing, respectively."
+}

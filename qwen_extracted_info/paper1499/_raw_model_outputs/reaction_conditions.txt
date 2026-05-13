@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "MeCpPtMe3 + H2 -> Pt + CH4 + byproducts",
+    "CO2 formation during O2 plasma pulse: MeCpPtMe3 + O2 -> CO2 + other products",
+    "H2O formation during H2 pulse: O2 plasma + H2 -> H2O"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the dehydrogenation of the MeCpPtMe3 precursor on the Pt surface, forming a carbonaceous layer that blocks O2 dissociative chemisorption. This layer is combusted by O2 plasma or ozone, but results in PtOx deposition. H2 pulses reduce PtOx to Pt, releasing H2O. The process is essential for depositing Pt on temperature-sensitive substrates.",
+  "intermediate_species": [
+    "carbonaceous layer",
+    "PtOx",
+    "CH4",
+    "CO2",
+    "H2O"
+  ],
+  "evidence": "The text describes the dehydrogenation of the MeCpPtMe3 precursor on the Pt surface, forming a carbonaceous layer that blocks O2 dissociative chemisorption. This layer is combusted by O2 plasma or ozone, but results in PtOx deposition. H2 pulses reduce PtOx to Pt, releasing H2O. The process is essential for depositing Pt on temperature-sensitive substrates."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 10,
+  "number_of_cycles": 120,
+  "reactor_type": "showerhead-type ALD reactor (Lucida M100, NCD Technology)",
+  "evidence": "B. Deposition of W −Si−N Films. W−Si−N thin ﬁlms were deposited on 4 in. diameter thermally grown SiO 2-covered Si wafers using a showerhead-type ALD reactor (Lucida M100, NCD Technology) with W(N tBu)2(btsa)2 as a precursor and H2 plasma as a reactant. The deposition temperature was 300 °C, and the chamber pressure was 1 Torr."
+}<|im_end|>

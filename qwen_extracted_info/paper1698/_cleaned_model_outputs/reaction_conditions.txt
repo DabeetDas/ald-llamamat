@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reduction of CuO nanowires to Cu nanoparticles is driven by Rayleigh instability, which is induced by the uniform volume shrinkage created during the reduction process. The surface diffusion of Cu atoms leads to undulations, which eventually result in the fragmentation of the nanowires into nanoparticle chains.",
+  "intermediate_species": ["Cu nanowires with a smaller diameter", "undulated Cu nanowires"],
+  "evidence": "The reduction of CuO nanowires to Cu produces nanowires with a smaller diameter. Then the surface diffusion of Cu atoms of the formed nanowires results in undulation. TEM investigations indeed reveal the presence of such undulated nanowires."
+}

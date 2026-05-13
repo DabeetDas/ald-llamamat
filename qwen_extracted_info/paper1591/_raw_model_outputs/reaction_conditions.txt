@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "SiOH* + SiCl4 → SiO-SiCl3* + HCl",
+    "SiCl* + H2O → Si-OH* + HCl"
+  ],
+  "surface_mechanism_description": "The SiCl4 reaction with the hydroxylated SiO2 surface was monitored by the disappearance of O-H stretching vibrations and appearance of Si-Cl stretching vibrations. These results revealed that the SiCl4 reaction completely removed the isolated hydroxyl species and left a small fraction of hydrogen-bonded hydroxyl species. The H2O reaction was studied by observing the disappearance of the Si-Cl stretching vibration and the appearance of the O-H stretching vibration. The pyridine catalyzes the H2O reaction by hydrogen bonding to the incoming H2O reactant.",
+  "intermediate_species": [
+    "SiO-SiCl3*",
+    "Si-OH*",
+    "hydrogen-bonded hydroxyls",
+    "pyridinium salt"
+  ],
+  "evidence": "The SiCl4 reaction with the hydroxylated SiO2 surface was monitored by the disappearance of O-H stretching vibrations and appearance of Si-Cl stretching vibrations. These results revealed that the SiCl4 reaction completely removed the isolated hydroxyl species and left a small fraction of hydrogen-bonded hydroxyl species. The H2O reaction was studied by observing the disappearance of the Si-Cl stretching vibration and the appearance of the O-H stretching vibration. The pyridine catalyzes the H2O reaction by hydrogen bonding to the incoming H2O reactant."
+}<|im_end|>

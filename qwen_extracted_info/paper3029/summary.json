@@ -1,0 +1,11 @@
+{
+  "target_material": "Aluminum oxide",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Tris(diethylamino) aluminum",
+    "Water"
+  ],
+  "temperature_range": "200 to 400°C",
+  "summary": "The study describes the atomic layer deposition (ALD) of aluminum oxide on Si(100) using tris(diethylamino) aluminum and water as precursors. The process is self-limiting and operates within a temperature range of 200 to 400°C. The ALD rate is 1.4 Å/cycle at optimal conditions. The deposited films are amorphous with negligible interfacial SiO2 growth and minimal carbon and nitrogen contamination. The films exhibit an abrupt interface with Si and are stoichiometric with no detectable Al–Al clusters or silicate formation.",
+  "evidence": "ALD of aluminum oxide using TDEAA and water was found to be self-limiting with respect to both reactants. The temperature window for ALD in the hotwall reactor used was found to be between 200 and 400°C. The ALD rate was 1.4 Å/cycle at optimum conditions. Fourier transform infrared (FTIR) analyses indicated negligible interfacial SiO2 growth during deposition. Both FTIR spectra and transmission electron micrographs showed the ALD aluminum oxide to be amorphous. Also, FTIR and XPS analyses showed negligible carbon and nitrogen contamination in the film. Z-contrast images and electron energy loss spectra showed uniform aluminum oxide film with an abrupt interface with Si. XPS analysis revealed aluminum oxide film to be stoichiometric with no detectable Al–Al cluster formation. Also, XP spectra showed no silicate formation at the interface of as-deposited alumina films."
+}

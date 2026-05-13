@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethylzinc (DEZn)",
+    "deionized water"
+  ],
+  "temperature_range": "60 °C to 240 °C",
+  "summary": "The study demonstrates the use of Atomic Layer Deposition (ALD) to grow ZnO films with controllable electrical properties for applications in transparent conductive oxides (TCO), n-type partners in CdTe-based solar cells, and hybrid structures with organic materials. The process uses diethylzinc (DEZn) and deionized water as precursors, with growth temperatures ranging from 60 °C to 240 °C. The ALD method allows for the variation of n-type doping levels and the production of ZnO films with high transparency and conductivity.",
+  "evidence": "We demonstrate possibility of a control (by selection of zinc precursors and variation of a growth temperature) of electrical properties of ZnO films grown by Atomic Layer Deposition (ALD). ZnO films grown by ALD are used in test photovoltaic devices (solar cells) as transparent conductive oxides for upper, transparent layer in inorganic and organic solar cells, and as n-type partners of p-type CdTe. The most effective zinc precursor turned out to be diethylzinc (DEZn, Zn (C2H5)2) with deionized water used as an oxygen precursor: Zn(C2H5)2 + H2O → ZnO + 2C2H6. Substrate temperature (glass, sapphire, silicon for test processes and CdTe for constructing PV cells) was varied between 60 °C and 240 °C."
+}

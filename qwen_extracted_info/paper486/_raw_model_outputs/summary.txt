@@ -1,0 +1,8 @@
+{
+  "target_material": "Gallium nitride (GaN)",
+  "process_type": "Plasma enhanced-laser-induced chemical vapor deposition (RPE-LICVD)",
+  "main_precursors": ["trimethylgallium", "ammonia", "nitrogen plasma"],
+  "temperature_range": "Below 570°C",
+  "summary": "The study describes the growth of gallium nitride (GaN) films on zinc oxide (ZnO) buffer layers deposited on soda lime glass using remote plasma enhanced-laser-induced chemical vapor deposition (RPE-LICVD). The films were recrystallized at temperatures below the growth temperature (570°C) to improve their structure and electrical properties. The recrystallization process resulted in a self-assembled multilayer structure and enhanced carrier mobility.",
+  "evidence": "The text states that 'the method of RPE-LICVD film growth has been developed at Macquarie University for the low-temperature growth of nitride films' and 'the GaN was grown on the ZnO buffered substrates and on (100) Si samples'. It also mentions that 'the recrystallization process greatly improved the film structure with a self-assembled multilayer structure evident in the oxygen-rich surface layer of the films that had undergone the process'."
+}<|im_end|>

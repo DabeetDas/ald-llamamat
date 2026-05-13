@@ -1,0 +1,3 @@
+{
+  "film_properties": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": 1250,   \"density_g_cm3\": 3.0,   \"refractive_index\": null,   \"surface_roughness_nm\": 2500,   \"crystal_phase\": \"Amorphous\",   \"evidence\": \"The Al2O3 ALD film thickness after 1000 AB cycles is conformal with a thickness of \\x181250 Å on both the PS film and the Si(100) wafer. The '"
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.1",
+  "coreactant_pulse_time_s": "0.1",
+  "purge_time_s": "3.0",
+  "number_of_cycles": "4400",
+  "reactor_type": "Picosun R-75 ALD reactor",
+  "evidence": "Al2O3 films were grown on silicon (100) and soda lime substrates in a Picosun R-75 ALD reactor using trimethylaluminum (TMA) and water [ 15]. The deposition temperature was 300 °C. Films with nominal thicknesses of 400, 300, and 200 nm were grown with 4400, 3300, and 2200 deposition cycles, respectively . Each cycle consisted of a 0:1 sT MA pulse, followed by a 3:0 s nitrogen purge, a 0:1 s water pulse, and, finally , another 3:0 s nitrogen purge."
+}

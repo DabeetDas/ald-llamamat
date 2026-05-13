@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "X-ray photoelectron spectroscopy (XPS)",
+    "High resolution transmission electron microscopy (HRTEM)",
+    "C-V measurement",
+    "I-V measurement",
+    "Capacitance-time (C-t) measurement"
+  ],
+  "evidence": "High resolution transmission electron microscopy images show that the IL has been effectively suppressed after performing surface pretreatments. X-ray photoelectron spectroscopy results indicate that both surface pretreatments are beneficial for compact Al2O3 deposition, however, the sample with SN shows much better interface thermal stability. And electrical characterizations demonstrate that the capacitor with SN exhibits better interface property, lower leakage current, and smaller capacitance-voltage (C-V) hysteresis. Based on transient capacitance measurement (C-t) and C-V measurement with different gate bias sweep ranges, a \"shallow level trap\" model is proposed to explain well the difference of C-V hysteresis between ST and SN."
+}<|im_end|>

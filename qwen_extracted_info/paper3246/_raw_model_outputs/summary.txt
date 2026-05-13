@@ -1,0 +1,8 @@
+{
+  "target_material": "GeTe",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["GeCl2 · (C4H8O2)", "(Et3Si)2Te"],
+  "temperature_range": "90–175 ◦C",
+  "summary": "GeTe thin films were deposited using Atomic Layer Deposition (ALD) with GeCl2 · (C4H8O2) and (Et3Si)2Te as precursors. The films exhibited stoichiometric composition, excellent conformality, and characteristic ALD growth behavior. The study focused on the crystallization properties and phase change behavior of ALD GeTe films, which showed good stability and low power consumption, making them suitable for phase change memory applications.",
+  "evidence": "GeTe thin films were deposited by Atomic Layer Deposition (ALD). The process was studied in detail to verify growth properties typical of ALD. Film compositions were determined to be stoichiometric with low impurity content. Film growth demonstrated characteristic ALD behavior with easily controlled film thickness and excellent conformality. The resistivity decrease during crystallization was six orders of magnitude. The crystallization properties of ALD GeTe, in general, were found to be similar to those of sputtered films."
+}<|im_end|>

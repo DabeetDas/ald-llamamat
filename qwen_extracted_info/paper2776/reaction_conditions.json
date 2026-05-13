@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Si–OH) + MCl (Si–O–) MCl + HCl",
+    "≡Si–O–() mM(OH)nm– nm–() HCl"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The preparation of oxide layers by molecular layering is based on self-restrained chemisorption of metal halide (MCl n) and water vapor under the conditions close to monolayer surface coverage. For instance, on a hydroxylated surface of silicon, this process can be described by the following chain of surface reactions: Si–OH) + MCl n (Si–O–) MCl n + HCl, (2) Multiple repetition of reactions (1) and (2) with the intermediate removal of excess reagents and reaction products results in the formation of an oxide layer of the required thickness."
+}

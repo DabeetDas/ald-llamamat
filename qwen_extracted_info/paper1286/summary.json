@@ -1,0 +1,11 @@
+{
+  "target_material": "Nickel sulfide (NiS_x)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "bis(N,N′-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2)",
+    "hydrogen sulfide (H2S)"
+  ],
+  "temperature_range": "125 −225 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of ultrathin nickel sulfide (NiS_x) films using bis(N,N′-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2) and hydrogen sulfide (H2S) as precursors. The ALD process was optimized to achieve self-limiting growth over a temperature range of 125−225 °C. The films were characterized for their electrocatalytic activity in hydrogen evolution reactions, showing promising performance with overpotentials of 440 mV in acidic conditions and 576 mV in pH 7 phosphate buffer. The study highlights the potential of ALD-grown NiS_x as a water-compatible electrocatalyst.",
+  "evidence": "The text states: 'To this end, we employed atomic layer deposition (ALD), a preeminent method to fabricate uniform and conformal films, to construct thin films of nickel sulﬁde (NiS_x) using bis(N,N′-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2) vapor and hydrogen sulﬁde gas.' It also mentions: 'The ALD-synthesized films were characterized using X-ray photoelectron spectroscopy (XPS) and X-ray diffraction (XRD) methods. To assess the electrocatalytic activity of NiS_x for evolution of molecular hydrogen, films were grown on conductive-glass supports. Overpotentials at a current density of 10 mA/cm2 were recorded in both acidic and pH 7 phosphate buffer aqueous reaction media and found to be 440 and 576 mV, respectively, with very low NiS_x loading.'"
+}

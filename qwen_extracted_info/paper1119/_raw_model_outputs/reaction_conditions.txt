@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Surface /C0 OH + Zn(C2H5)2 → Surface /C0 O /C0 Zn /C0 C2H5 + C2H6↑",
+    "Surface /C0 O /C0 Zn /C0 C2H5 + H2O → ZnO + Surface /C0 OH + C2H6↑"
+  ],
+  "surface_mechanism_description": "The ALD process involves two alternating reactions: (A) Surface hydroxyl groups react with diethylzinc (DEZn) to form a surface species and ethane, and (B) the surface species reacts with water vapor to form zinc oxide and regenerate surface hydroxyl groups.",
+  "intermediate_species": [
+    "Surface /C0 O /C0 Zn /C0 C2H5",
+    "Surface /C0 OH"
+  ],
+  "evidence": "The following reactions proceed on the surface: (A) Surface /C0 OH + Zn(C2H5)2 → Surface /C0 O /C0 Zn /C0 C2H5 + C2H6↑ (B) Surface /C0 O /C0 Zn /C0 C2H5 + H2O → ZnO + Surface /C0 OH + C2H6↑: The ALD process consisted of a number of identical cycles and repeated the reactions in an ABAB… sequence."
+}<|im_end|>

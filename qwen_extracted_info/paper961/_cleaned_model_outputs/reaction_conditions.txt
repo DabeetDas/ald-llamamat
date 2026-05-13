@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "TMA + surface hydroxyls -> Al-O-Al(CH3)2 + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "Although the ALD precursor, trimethylaluminum (TMA), was found to damage the MEH-PPV layer through electrophilic addition to the vinylene groups of MEH-PPV during the deposition of the Al2O3 film, its damaging effect was eliminated by pre-treating the MEH-PPV surface with isopropyl alcohol (IPA), whose hydroxyl groups scavenged TMA throughout the ALD process."
+}

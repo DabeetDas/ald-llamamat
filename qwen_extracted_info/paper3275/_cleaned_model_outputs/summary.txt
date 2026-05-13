@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3 and TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Titanium(IV) isopropoxide (TiOP)", "H2O or 30% H2O2"],
+  "temperature_range": "80–200 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of Al2O3 and TiO2 thin films on various substrates for applications in bandpass filters and antireflection coatings. The refractive indices and growth rates of the materials were determined, and the influence of substrate temperature and precursor on the refractive indices was investigated. The films were deposited in the temperature range of 80–200 °C, and the results showed that the refractive index of TiO2 significantly increases with temperature, while Al2O3 films are temperature insensitive. The study also demonstrated the design and production of multilayer narrow-bandpass filters and broadband antireflection coatings using ALD.",
+  "evidence": "Al2O3 and TiO2 thin films have been deposited on Si wafers, quartz, BK7 glass, and polycarbonate substrates by atomic layer deposition (ALD). The refractive indices and growth rates of the materials have been determined by spectroscopic ellipsometry and transmission electron microscopy. The influence of substrate temperature and precursor on the refractive indices has been investigated. The refractive index of TiO2 significantly increases with temperature, whereas the Al2O3 films are temperature insensitive. Multilayer narrow-bandpass filters and broadband antireflection coatings have been designed and produced by ALD."
+}

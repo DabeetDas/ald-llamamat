@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the sequential introduction of mutually reactive precursors, where the ligand of the first precursor is exchanged with the missing component of the compound, resulting in the formation of an atomic layer of the thin film material.",
+  "intermediate_species": [
+    "ligand of the first precursor",
+    "missing component of the compound"
+  ],
+  "evidence": "In an ALE process, mutually reactive precursors are presented sequentially to a substrate surface held at an elevated temperature. Within a given temperature range, the surface chemisorbs one saturated layer (complete or uncomplete monolayer) of the precursor. The adsorption is limited to form a monolayer provided that the temperature is high enough to prevent further condensation of the precursor. When the next mutually reactive precursor is introduced to the surface, an exchange reaction occurs where the ligand of the first precursor is exchanged with the missing component of the compound."
+}

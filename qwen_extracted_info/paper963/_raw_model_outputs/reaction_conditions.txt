@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of C@C-terminated alkylsilane and metal (Al or Ti) hydroxyl with ozone activation, followed by the formation of highly active metal hydroxyl groups on the COOH-terminated SAOLs through TMA or TIP adsorption and water molecule exchange reactions.",
+  "intermediate_species": ["carboxylic acid groups", "metal hydroxyl groups"],
+  "evidence": "The molecular layer deposition of the alkylsiloxane SAOLs consisted of a repetition of three steps: adsorption of 7-OTS, modification of 7-OTS with a carboxylic group using ozone, and activation of carboxylated 7-OTS with an aluminum (or titanium) hydroxyl group. The C@C groups of the SAOLs reacted with ozone to convert to carboxylic acid groups. Highly active metal hydroxyl groups were formed on the COOH-terminated SAOLs by using TMA or TIP adsorption followed by exchange reaction of water molecule in order to provide highly active adsorption sites for the anchoring of the next monolayer."
+}<|im_end|>

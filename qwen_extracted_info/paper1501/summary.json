@@ -1,0 +1,11 @@
+{
+  "target_material": "Al-doped ZnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "dimethylaluminum isopropoxide (DMAI)",
+    "trimethylaluminum (TMA)"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study demonstrates that using dimethylaluminum isopropoxide (DMAI) as an alternative aluminum precursor in atomic layer deposition (ALD) significantly improves the doping efficiency of Al in ZnO, increasing it from ~10% to almost 60%. This is attributed to the steric hindrance caused by the bulkier isopropoxyl ligand in DMAI, which leads to a more uniform distribution of Al atoms and reduces the formation of AlOx clusters, thereby enhancing conductivity and electron mobility.",
+  "evidence": "Due to the steric hindrance of the isopropoxyl ligand of the precursor, the Al atoms can be deposited more widely dispersed, which enables higher active-dopant densities and hence a higher conductivity of the Al-doped films. The number of Al atoms deposited per cm−2 in one Al2O3 cycle was 3.8 times lower in the DMAI case than in the TMA case."
+}

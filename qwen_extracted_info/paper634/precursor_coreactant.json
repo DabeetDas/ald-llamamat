@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "TMA",
+    "Al(CH3)3"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Trimethylaluminum (TMA), Al(CH3)3, and ozone (O3) were used as the sources of Al and O, respectively. TMA was evaporated from an open boat held inside the reactor and pulsed onto the substrate by means of inert gas (Ar) valving."
+}

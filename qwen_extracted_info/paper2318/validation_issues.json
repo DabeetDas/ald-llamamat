@@ -1,0 +1,37 @@
+{
+  "precursor_coreactant": [
+    {
+      "code": "evidence_not_found",
+      "path": "precursor_coreactant.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ],
+  "deposition_conditions": [
+    {
+      "code": "evidence_not_found",
+      "path": "deposition_conditions.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ],
+  "reaction_conditions": [
+    {
+      "code": "evidence_not_found",
+      "path": "reaction_conditions.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ],
+  "film_properties": [
+    {
+      "code": "evidence_not_found",
+      "path": "film_properties.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ],
+  "characterization": [
+    {
+      "code": "evidence_not_found",
+      "path": "characterization.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ]
+}

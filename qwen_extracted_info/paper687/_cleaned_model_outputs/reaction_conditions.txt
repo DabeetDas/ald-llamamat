@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "2ErðC11H19O2Þ3ðadÞ þ xOðgÞ! Er2O3ðadÞ þ CxHyðadÞ þ Cx;Hy;OzðgÞ"
+  ],
+  "surface_mechanism_description": "The O radicals react with the b-diketonate ligands leading to the formation of Er2O3 and carbon-containing species, such as CxHy, and volatile by-products Cx,H y,O z that can desorb readily from the surface. The reactions proceed in a self-limiting manner, with the required critical oxygen radical exposure scaling with the fractional adsorbed mass.",
+  "intermediate_species": [
+    "Er2O3",
+    "CxHy",
+    "Cx;Hy;Oz"
+  ],
+  "evidence": "The reactions of the chemisorbed Er(TMHD)3 precursors with O radicals were found to be saturative at the investigated temperatures, ranging from 473 to 573 K. The required critical oxygen radical exposure scaled with the fractional adsorbed mass, increasing initially and reaching a constant value (1.6 min at 303 K and 2.2 min at 533 K) as the adsorbed mass increased towards the saturation level. The O radicals were found to create reactive sites for precursor adsorption."
+}

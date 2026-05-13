@@ -1,0 +1,8 @@
+{
+  "target_material": "CoFe2O4",
+  "process_type": "ALD",
+  "main_precursors": ["ferrocene", "cobaltocene", "high purity oxygen"],
+  "temperature_range": "1200–1500 /C14 C",
+  "summary": "Cobalt ferrites (CoFe2O4) are deposited on Al2O3 substrates via atomic layer deposition (ALD) and used in a ferrite water splitting redox cycle to produce H2. The study shows that CoFe2O4 deposited on Al2O3 can be reduced at lower temperatures than CoFe2O4 without Al2O3, due to the reaction between the ferrite and substrate forming FeAl2O4. This reaction allows for the splitting of H2O to produce H2 under non-equilibrium conditions at lower temperatures, with significant H2 production observed at 1200 /C14 C.",
+  "evidence": "Cobalt ferrites are deposited on Al2O3 substrates via atomic layer deposition, and the efficacy of using these in a ferrite water splitting redox cycle to produce H2 is studied. ... CoFe2O4 deposited on Al2O3 is capable of being reduced at lower temperatures than CoFe2O4 (200–300 /C14 C) due to a reaction between the ferrite and substrate to form FeAl2O4. ... We observe significantly lower decomposition temperatures (200–300 /C14 C) for ferrites deposited on Al2O3 compared to bulk coprecipitated powders. ... We successfully generate H2 with these materials at upper operating temperatures of 1200 /C14 C, whereas negligible H2 is formed using ferrites that are not supported on Al2O3 at these temperatures."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 225,
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 0.3,
+  "purge_time_s": 9,
+  "number_of_cycles": 200,
+  "reactor_type": "Picosun R-200",
+  "evidence": "ALD depositions of tin oxide onto AAO were carried out by using Picosun R-200 ALD tool set up for the single wafer depositions. Deposition temperature was kept constant at 225 °C. TDMASn was evaporated from Picohot 300 hot source held at 50 °C. H2O2 was kept at 20 °C to obtain surface sufficient vapor pressure. Typical ALD deposition cycle was consisting of TDMASn pulse/dwell/purge/H2O2 pulse/dwell/purge with times of 3 s/0 –14 s/9 s/0.3 s/0–14 s/9 s timing, respectively."
+}<|im_end|>

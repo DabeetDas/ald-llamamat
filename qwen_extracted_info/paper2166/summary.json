@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO nanoparticles",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethylzinc (DEZ)",
+    "water"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "ZnO nanoparticles were grown on single-walled carbon nanotubes (SWNTs) using atomic layer deposition (ALD) with diethylzinc (DEZ) and water. The growth of ZnO nanoparticles was attributed to the presence of defects and impurities on the nanotubes. The field emission lifetime of SWNTs with ZnO nanoparticles was found to be 2.5 times longer than that of as-grown nanotubes due to the protection of defects and impurities by ZnO nanoparticles.",
+  "evidence": "ZnO nanoparticles were grown on single-walled carbon nanotubes /H20849SWNTs/H20850 by atomic layer deposition using diethylzinc /H20849DEZ/H20850 and water. The authors discuss that, because of chemical inertness of nanotubes to DEZ and water molecules, such nanoparticles are not likely to grow on the wall of clean and perfect nanotubes. Rather, the growth of ZnO nanoparticles should be attributed to imperfection of nanotubes, such as defects and carbonaceous impurities. Lifetime of field emission from SWNTs with the ZnO nanoparticles is 2.5 times longer than that from the as-grown nanotubes. It is thought that the protection of the defects or impurities by ZnO nanoparticles mainly contributed to the improvement of the field emission lifetime from SWNTs."
+}

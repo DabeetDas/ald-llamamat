@@ -1,0 +1,7 @@
+{
+  "precursors": ["(tert-butoxy)-tris(diethylamino)-niobium (TBTDEN)"],
+  "coreactants": ["hydrogen plasma"],
+  "purge_gas": ["dry argon and nitrogen"],
+  "carrier_gas": [],
+  "evidence": "As precursor, we used the metal-organic compound (tert-butoxy)-tris(diethylamino)-niobium (TBTDEN). This precursor was produced at our request by the research team of Heraeus Precious Metals, Germany. Further a hydrogen plasma was used in order to optimize the deposition process. The whole PEALD process consisted of numerous deposition cycles repeating always the same four basic steps. First, the substrate is exposed to TBTDEN. After the exposure, the reaction chamber is purged with dry argon and nitrogen."
+}

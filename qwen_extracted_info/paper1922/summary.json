@@ -1,0 +1,11 @@
+{
+  "target_material": "GaN",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "triethylgallium (TEG)",
+    "95% nitrogen/5% hydrogen plasma"
+  ],
+  "temperature_range": "275 1C",
+  "summary": "The paper describes the low-temperature growth of single-crystal GaN on sapphire using plasma-enhanced atomic layer deposition (PEALD). The process involves the use of triethylgallium (TEG) and a nitrogen/hydrogen plasma at 275 1C. The films exhibit (002) orientation, low misorientation, and are p-type with specific electrical properties. The study highlights the epitaxial growth for the first 5 nm followed by 3D growth.",
+  "evidence": "In this paper, we report on the deposition of highly oriented (002) GaN on sapphire using triethylgallium (TEG) and 95% nitrogen/5% hydrogen plasma at 275 1C. The structural, optical and electrical properties of these films have been investigated using X-ray diffraction (XRD), X-ray reflectometry (XRR), atomic force microscopy (AFM), transmission electron microscopy (TEM), X-ray photoelectron spectroscopy (XPS), spectroscopic ellipsometry, and Hall effect measurements. HRTEM observations indicate that, not only do the films have a preferred (002) orientation, they are actually epitaxial for the first B5 nm of growth. Epitaxial growth of GaN at such a low temperature is an unprecedented observation."
+}

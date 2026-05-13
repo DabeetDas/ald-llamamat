@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 10,
+  "density_g_cm3": 9.68,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.5,
+  "crystal_phase": "Amorphous",
+  "evidence": "The HfO2 density was slightly lower than the density of HfO2 layers deposited by HfCl4/H2O ALD. The density was calculated from the ellipsometer HfO2 thickness and the RBS Hf content. A 20 nm HfO2 sample deposited from TDEAH/H2O ALD had a density of 77–83% of the HfO2 bulk density (9.68 g cm−3, Ref. 33), while values close to 100% were obtained for 10 nm HfO2 deposited from HfCl4/H2O ALD. HfCl4/H2O ALD on Ge and Si substrates also demonstrated a density close to 100%."
+}<|im_end|>

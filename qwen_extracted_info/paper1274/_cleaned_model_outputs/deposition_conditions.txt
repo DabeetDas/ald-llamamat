@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "Fiji 200",
+  "evidence": "The SnO2 layer was grown by atomic layer deposition in a Fiji 200 reactor from Ultratech/Cambridge Nanotech. The deposit was achieved at T = 200°C with tetrakis(dimethylamino)tin (TDMASn) and hydrogen peroxide (30% from Sigma-Aldrich). The ALD process was therefore defined as the successive pulse, exposure and purge steps for both precursors. The sequence durations were 1:10:10 s and 1:10:10 s for TDMASn and H2O2, respectively."
+}

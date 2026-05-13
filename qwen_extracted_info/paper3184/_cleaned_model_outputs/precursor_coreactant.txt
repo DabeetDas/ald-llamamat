@@ -1,0 +1,7 @@
+{
+  "precursors": ["tantalum pentachloride", "diethyl sulfide (TPDS)"],
+  "coreactants": ["ammonia (NH3)", "trimethylaluminium (TMA)"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The precursor for the thermal ALD of the Ta–N-based films was TPDS (Air Liquide), evaporated at 80°C... One cycle of the ALD regime consists of four pulses: TPDS vapor pulse assisted by 100 sccm Ar carrier gas, 1000 sccm Ar purge gas pulse to effectively purge out the precursor and the reaction by-products, 300 sccm NH3 gas pulse, and 1000 sccm Ar purge gas pulse to prepare the chamber for the next ALD cycle."
+}

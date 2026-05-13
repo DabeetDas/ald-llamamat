@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis dimethyl amino hafnium", "room temperature water vapor"],
+  "temperature_range": "225 °C for ALD, 800 °C for annealing",
+  "summary": "The study investigates the size-dependent polymorphism in HfO2 nanotubes and thin films using atomic layer deposition (ALD). The process involves depositing HfO2 on Ge nanowires followed by selective etching of the Ge wires to form nanotubes. The crystalline phases of the HfO2 films and nanotubes were analyzed after high-temperature annealing, revealing a size-dependent phase transition from amorphous to tetragonal and then to monoclinic phases. The results highlight the role of surface energy in phase stability at the nanoscale.",
+  "evidence": "Nanotubes were formed by atomic layer deposition (ALD)-HfO2 deposition on epitaxial Ge nanowire arrays followed by aqueous H2O2 selective etching of the Ge wires. After high-temperature annealing at 800 °C, a size-dependent phase transition sequence from amorphous to tetragonal and then to monoclinic phases was observed."
+}<|im_end|>

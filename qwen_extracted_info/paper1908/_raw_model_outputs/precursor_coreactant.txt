@@ -1,0 +1,7 @@
+{
+  "precursors": ["diethylzinc [Zn(C2H5)2, DEZ]", "bis-ethylcyclopentadienyl magnesium [Mg(C5H4C2H5)2, Mg(CpEt)2]"],
+  "coreactants": ["water vapor"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "For the Zn1/C0xMgxO film growth, diethylzinc [Zn(C2H5)2, DEZ] and bis-ethylcyclopentadienyl magnesium [Mg(C5H4C2H5)2, Mg(CpEt)2] were used as metal precursors while water vapor was used as a reactant. High purity Ar gas was used as a purging and carrier gas, and its flow was controlled by a mass flow controller (100 sccm for the precursors and reactant and 400 sccm for purging)."
+}<|im_end|>

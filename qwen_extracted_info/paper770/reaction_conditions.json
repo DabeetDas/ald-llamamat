@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The SiN x film deposited at low growth temperatures (<150 °C) exhibited unstable chemistry due to the remaining unreacted ligand of adsorbed precursors, which resulted in further chemical reaction to SiO 2 formation by air exposure. The chemical reaction mechanism involved the adsorption and condensation of Si precursor on the substrate, not by the chemical reaction of the Si precursor and N 2 plasma.",
+  "intermediate_species": [
+    "unreacted ligand of Si precursor",
+    "adsorbed Si precursor"
+  ],
+  "evidence": "The chemistry of the deposited film at low growth temperature was revealed to be unstable due to the remaining unreacted ligand of adsorbed precursors, which resulted in further chemical reaction to SiO 2 formation by air exposure. The chemical reaction involved the adsorption and condensation of Si precursor on the substrate, not by the chemical reaction of the Si precursor and N 2 plasma."
+}

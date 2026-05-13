@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Ln(thd)3",
+    "ozone"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "Volatile h-diketonate type chelates Ln(thd)3 (Ln=Nd, Sm, Eu, Gd, Dy, Ho, Er and Tm) and ozone were used as precursors. Nitrogen was used as a carrier and purge gas and it was separated from air in a N generator (Nitrox UHPN 3000-1)."
+}

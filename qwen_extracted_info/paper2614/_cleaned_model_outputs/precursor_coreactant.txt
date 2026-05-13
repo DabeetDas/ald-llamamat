@@ -1,0 +1,7 @@
+{
+  "precursors": ["(NtBu)2(NMe2)2Mo"],
+  "coreactants": ["ozone"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The carrier gas ﬂow for the ALD process was 20 sccm of ultra high purity grade, 99.999% N2 into which the Mo precursor and the oxidants were pulsed."
+}

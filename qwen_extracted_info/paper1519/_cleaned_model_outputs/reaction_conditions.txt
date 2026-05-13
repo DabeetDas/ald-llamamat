@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "2a. (-OD(s)] + (CpMe)2Zr(OMe)Me(g) f (-O)2.3ZR(CpMe)0.9(OMe)0.6Me0.2(s) + 0.8MeD(g) + 0.4MeOD(g) + 1.1DCpMe(g)",
+    "2b. (-O)2.3ZR(CpMe)0.9(OMe)0.6Me0.2(s) + 2D2O(g) f (-O)2Zr(OD)2.3(s) + 0.2MeD(g) + 0.6MeOD(g) + 0.9DCpMe(g)"
+  ],
+  "surface_mechanism_description": "During the (CpMe)2Zr(OMe)Me-D2O process, deuterium atoms from surface -OD groups bind to ligands of the approaching (CpMe)2Zr(OMe)Me molecule, releasing them in deuterated form. The zirconium atom and remaining ligands stay on the surface. During the D2O pulse, 1.7 D2O molecules release the remaining ligands in deuterated form, leaving behind -OD groups. Some D2O is dissociatively chemisorbed, breaking oxygen-zirconium bonds. The mechanism maintains a constant concentration of -OD groups.",
+  "intermediate_species": [
+    "MeD",
+    "MeOD",
+    "DCpMe",
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "In light of the QMS results, the average growth reaction mechanism appears to be the one given in reactions 2a and 2b. In reaction 2a deuterium atoms of the surface -OD groups bind to ligands of the approaching (CpMe)2Zr(OMe)Me molecule, whereby those ligands are released in deuterated form. The zirconium atom and the remaining ligands are left on the surface, zirconium being bonded to all the oxygen atoms that lost their deuterium atoms. In reaction 2b 1.7 D2O molecules release the remaining ligands in deuterated form, leaving behind a corresponding amount of -OD groups bonded to the zirconium atom. The further amount of 0.3 D2O molecule is dissociatively chemisorbed on the surface. Thereby, the bonds of 0.3 oxygen atom to the zirconium atom are broken."
+}

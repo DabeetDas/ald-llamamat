@@ -1,0 +1,11 @@
+{
+  "target_material": "Cobalt Phosphide (Co-P)",
+  "process_type": "plasma-enhanced ALD",
+  "main_precursors": [
+    "PH3 plasma",
+    "bis(N -t-butyl-N'-ethylpropanimidamidato) cobalt (II) (Co(AMD)2)"
+  ],
+  "temperature_range": "265 °C",
+  "summary": "The study reports the first use of atomic layer deposition (ALD) to prepare ultrathin cobalt phosphide (Co-P) films. The process involves PH3 plasma as the phosphorus source and an additional H2 plasma step to remove excess phosphorus. The ALD process results in highly pure and smooth Co-P films with enhanced electrochemical and photoelectrochemical hydrogen evolution reaction (HER) activities compared to traditional post-phosphorization methods. The films can be conformally deposited on complex three-dimensional structures, highlighting their potential for applications in catalysis and energy storage.",
+  "evidence": "The optimized ALD process followed the self-limited layer-by-layer growth behavior, and the deposited Co-P films were highly pure and smooth. The Co-P films deposited via ALD exhibited better electrochemical and photoelectrochemical hydrogen evolution reaction activities than similar Co-P films prepared by the traditional post-phosphorization method. Moreover, the deposition of ultrathin Co-P films on periodic trenches was demonstrated, which highlights the broad and promising potential application of this ALD process for a conformal coating of TMP films on complex three-dimensional (3D) architectures."
+}

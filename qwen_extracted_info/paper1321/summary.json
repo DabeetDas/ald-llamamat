@@ -1,0 +1,12 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethylzinc (DEZ)",
+    "H2O",
+    "dilute H2S gas (5% H2S/95% N2)"
+  ],
+  "temperature_range": "150 °C for IPLs, 280 °C for HfO2 film",
+  "summary": "Ultrathin ZnS and ZnO interfacial passivation layers (IPLs) were grown by atomic layer deposition (ALD) on InP substrates prior to the deposition of HfO2 films. These IPLs effectively suppressed interfacial reactions, reducing interface state density, hysteresis, and leakage current density. The ZnS IPL was more effective in reducing interface state density near the valence band edge, leading to lower leakage current density in the low-voltage region due to suppressed direct tunneling.",
+  "evidence": "Ultrathin ZnS and ZnO films grown by atomic layer deposition (ALD) were employed as interfacial passivation layers (IPLs) for HfO2 films on InP substrates. The interfacial layer growth during the ALD of the HfO2 film was effectively suppressed by the IPLs, resulting in the decrease of electrical thickness, hysteresis, and interface state density. Compared with the ZnO IPL, the ZnS IPL was more effective in reducing the interface state density near the valence band edge. The leakage current density through the film was considerably lowered by the IPLs because the film crystallization was suppressed. Especially, for the film with the ZnS IPL, the leakage current density in the low-voltage region was significantly lower than that observed for the film with the ZnO IPL, because the direct tunneling current was suppressed by the higher conduction band offset of ZnS with the InP substrate."
+}

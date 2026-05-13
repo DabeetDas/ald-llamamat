@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "250-350",
+ "pressure": "1 Torr",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "15",
+ "number_of_cycles": "100-250",
+ "reactor_type": "tube furnace",
+ "evidence": "To perform ALD experiments, the valves for the two precursor solutions were actuated alternately (for 100 -250 cycles) with a typical spacing of 15 s to purge the reactor of volatile byproducts and any excess reactants."
+}<|im_end|>

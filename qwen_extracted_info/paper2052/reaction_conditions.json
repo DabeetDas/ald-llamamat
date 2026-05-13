@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the alternating deposition of La2O3 and Al2O3 layers through ALD. The La2O3 layers are grown using La(iPrAMD)3 and water, while Al2O3 layers are grown using trimethylaluminum (TMA) and water. The water pulse oxidizes the lanthanum precursor to form La2O3, and the TMA pulse reacts with water to form Al2O3. The nanolaminate structure prevents excessive water diffusion, maintaining the self-limiting nature of ALD.",
+  "intermediate_species": [
+    "La(iPrAMD)3",
+    "La-OH*",
+    "Al-OH*",
+    "TMA",
+    "H2O",
+    "La2O3",
+    "Al2O3"
+  ],
+  "evidence": "The text describes the ALD process for lanthanum aluminum oxide nano-laminates, stating that La2O3 layers are grown using La(iPrAMD)3 and water, while Al2O3 layers are grown using TMA and water. It explains that the water pulse oxidizes the lanthanum precursor to form La2O3 and that the TMA pulse reacts with water to form Al2O3. The nanolaminate structure prevents excessive water diffusion, maintaining the self-limiting nature of ALD."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["HfO2", "N2 PDA"],
+  "temperature_range": "6001C",
+  "summary": "The study investigates the effects of gate electrode materials (TiN and poly-Si) and pre-deposition substrate treatments on the performance of HfO2 gate dielectrics in transistors. The HfO2 was deposited using atomic layer deposition (ALD) with a temperature of 6001C for 60 seconds. The results show that poly-Si electrodes lead to a higher equivalent oxide thickness (EOT) and increased electron trapping compared to TiN electrodes, which is attributed to interfacial reactions and microroughness. The study also highlights the importance of interfacial chemical composition and surface roughness in determining the electrical performance of high-k gate stacks.",
+  "evidence": "All samples received 55 cycles of ALD HfO2 annealed with a N2 PDA of 6001C for 60 s. The EOT difference of E0.5 nm may be attributed to an increase in physical thickness of both the bottom interface and the top interfacial layer between HfO2/poly-Si. The Ti L-edge EELS spectra proﬁles were measured across the gate stack and analyzed with respect to HfO2 surface microroughness obtained by atomic force microscopy (AFM) of duplicate samples."
+}

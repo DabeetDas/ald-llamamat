@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 180,
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 10,
+  "number_of_cycles": 1000,
+  "reactor_type": "Picosun R-200 BE",
+  "evidence": "The ALD of Co metal films was performed by alternating a saturative pulsing sequence of (1) (4 s), N2 purge (10 s), ( 2) (0.1 s) and N 2 purge (10 s) at 180°C."
+}<|im_end|>

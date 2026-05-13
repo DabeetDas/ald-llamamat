@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 270,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "showerhead",
+  "evidence": "Ruthenium thin ﬁlms were deposited on 40 nm thick TiN/100 nm thick SiO 2 /Si wafers at a deposition temperature and pressure of 270°C and 3 Torr, respectively. Ru ~EtCp)2 and NH 3 plasma were used as the ruthenium precursor and reducing agent, respectively. One deposition cycle of ruthenium PEALD included four consecutive pulses: a pulse of Ru ~EtCp) 2 vapor, a purge pulse with argon gas at a ﬂow rate of 50 sccm, a pulse for NH 3 plasma exposure, and a second purge pulse with 50 sccm argon. Each purge pulse lasted for 10 s."
+}

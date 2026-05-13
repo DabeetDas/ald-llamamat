@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "TDMASn",
+    "Pd(hfac)2"
+  ],
+  "coreactants": [
+    "H2O2",
+    "formalin"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The SnO2 layer was grown by atomic layer deposition in a Fiji 200 reactor from Ultratech/Cambridge Nanotech. The deposit was achieved at T = 200°C with tetrakis(dimethylamino)tin (TDMASn, 99.99%, from Strem chemicals) and hydrogen peroxide (30% from SigmahAldrich). The ALD of SnO2 was performed onto both TNTs and flat Si (100) substrates to facilitate some characterizations. The deposition of the catalyst has been described previously. It was carry out in the same reactor with palladium(II)hexafluoroacetylacetonate (Pd(hfac)2, 98%, from Strem Chemicals) and formalin (37% formaldehyde in water with 10−15% of methanol from SigmahAldrich)."
+}

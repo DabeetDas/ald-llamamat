@@ -1,0 +1,8 @@
+{
+  "target_material": "WN x and WC x",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tungsten tris(3-hexyne) carbonyl", "N2/H2 mixture plasma"],
+  "temperature_range": "250 °C",
+  "summary": "This study reports the controlled growth of WN x and WC x thin films using atomic layer deposition (ALD) with tungsten tris(3-hexyne) carbonyl and N2/H2 plasma as reactants at 250 °C. The phase, microstructure, and composition of the films were controlled by varying the N2/H2 gas flow ratio, resulting in W-rich polycrystalline WN x films and nano-crystalline WC x films with significantly lower resistivity.",
+  "evidence": "This work reports a capability for a controlled preparation of tungsten nitride and carbide thin films via an atomic layer deposition (ALD) approach. Those films were deposited by ALD using a fluorine- and nitrogen-free W metallorganic precursor of tungsten tris(3-hexyne) carbonyl [W(CO)(CH3CH2C≡CCH2CH3)] and a N2 + H2 mixture plasma as a reactant at a deposition temperature of 250 °C."
+}

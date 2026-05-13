@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ge(N,N0-diisopropylethylenediamine)Cl2", "Ge(N,N0-di-tert-butylethylenediamine)Cl2"],
+  "coreactants": ["O3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Argon (>99.999%) and ozone (99.999%) were used as carrier and reactant gases, respectively."
+}

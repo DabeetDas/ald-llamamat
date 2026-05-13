@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 480,
+ "pressure": "atmospheric",
+ "precursor_pulse_time_s": 0.2,
+ "coreactant_pulse_time_s": 0.3,
+ "purge_time_s": 2.4,
+ "number_of_cycles": null,
+ "reactor_type": "rotating substrate method with specially designed susceptor",
+ "evidence": "The exposure time of the substrate to TMIn and AsH3 was controlled by the rotation speed of the rotation part of the susceptor. The time needed to make one complete rotation was 2.4-3.6 s. The exposure times to TMIn and AsH3 were kept the same and were 0.2-0.3 s."
+}

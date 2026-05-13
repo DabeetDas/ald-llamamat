@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD of alumina using TMA and water or ozone involve the self-limiting nature of the process, where the deposition rate is nearly identical regardless of the oxygen precursor used. The text mentions that the deposition rate is about 0.08 nm per growth cycle due to the self-limiting nature of the process, and that the PECVD recipe for silicon dioxide was tailored to yield a lower than normal deposition rate by lowering the RF power and SiH4 flow.",
+  "intermediate_species": ["alumina", "surface hydroxyls", "native oxide"],
+  "evidence": "The text states: 'ALD of alumina nominally exhibits a deposition rate of about 0.08 nm per growth cycle due to the self-limiting nature of the process. The deposition rate is nearly identical regardless of the oxygen precursor used (ozone or water). The PECVD recipe for silicon dioxide, on the other hand, was specially tailored to yield a lower than normal deposition rate by lowering the RF power and SiH4 flow.'"
+}

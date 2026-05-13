@@ -1,0 +1,6 @@
+{
+ "reaction_equations": [],
+ "surface_mechanism_description": "The monolayer growth of Cr and Al oxides takes place through an alternating supply of CrO2Cl2 and Me3Al, with the synthesis occurring in a layer-by-layer manner. The process involves the interaction of the reactants on the substrate in the temperature range of 25 to 200°C, with the 'processing window' being 100-200°C. The synthesis temperature does not affect the chemical composition of the layer, and the layer growth thickness depends on each stage of the reactant supply.",
+ "intermediate_species": ["CrO2Cl2", "Me3Al", "CrAl2O5", "CrAl2O5Cl", "CrAl2Cl2"],
+ "evidence": "In situ ellipsometric measurements have shown that the layer growth thickness depends on each stage of the reactant supply. That differs from oxide synthesis employing water as an oxygen source. When using water as a reactant, changes in the ellipsometric angles occur only when cation-containing reactants are supplied. This result suggests that in the process utilizing CrO2Cl2 and Me3Al, the monolayer growth of Cr and Al oxides takes place. Thus we have a layer-by-layer ordered ML-ALE growth process."
+}

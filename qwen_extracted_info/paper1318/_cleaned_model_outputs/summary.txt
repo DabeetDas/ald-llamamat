@@ -1,0 +1,8 @@
+{
+  "target_material": "Zn(O,S)",
+  "process_type": "ALD",
+  "main_precursors": ["DEZ", "H2S"],
+  "temperature_range": "160 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of Zn(O,S) thin films and their interfacial chemical and structural properties, particularly focusing on sulfate formation at oxide/sulﬁde interfaces. The research highlights the impact of sulfur diffusion on the electronic structure and performance of solar cell buffer layers.",
+  "evidence": "The ability to precisely control interfaces of atomic layer deposited (ALD) zinc oxysul ﬁde (Zn(O,S)) buﬀer layers to other layers allows precise tuning of solar cell performance. The O K- and S K-edge X-ray absorption near edge structure (XANES) of ∼2−4 nm thin Zn(O,S) ﬁlms reveals the chemical and structural in ﬂuences of their interface with ZnO, a common electrode material and di ﬀusion barrier in solar cells."
+}

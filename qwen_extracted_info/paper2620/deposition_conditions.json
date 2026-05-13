@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-250",
+  "pressure": "220 mTorr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 0.015,
+  "purge_time_s": 10,
+  "number_of_cycles": 200,
+  "reactor_type": "Oxford OpAL showerhead-style",
+  "evidence": "MgF2 thin films were deposited in an Oxford OpAL showerhead-style ALD reactor using alternating exposures of Mg(CpEt)2 and anhydrous HF at substrates temperatures from 100 to 250 /C14 C. A saturating dose of Mg(CpEt)2 was delivered with a bubble-through exposure of 1 s, shorter exposure times were observed to result in a reduction in film thickness at the edges of the 200 mm substrate table. A saturating HF dose was delivered via vapor draw at the minimum system pulse time of 15 ms. A purge of 10 s was used for subsequent depositions described in this work."
+}

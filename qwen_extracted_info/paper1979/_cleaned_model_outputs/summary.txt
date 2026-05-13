@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["tris-dimethylamino-arsenic (TDMAAs)", "triethylgallium (TEG)"],
+  "temperature_range": "440–495 °C",
+  "summary": "The study investigates the desorption properties of amine species during atomic layer epitaxy (ALE) of GaAs using triethylgallium (TEG) and tris-dimethylamino-arsenic (TDMAAs). The self-limiting mechanism is attributed to the adsorption of amine species on Ga and As surfaces, which influences the desorption time constants and activation energies. The ALE window was expanded to 440–495 °C by replacing arsine with TDMAAs.",
+  "evidence": "The substantial expansion of the temperature range for atomic layer epitaxy (ALE) was reported using triethyl-gallium by K. Fujii, I. Suemune, T. Koui, and M. Yamanishi [Appl. Phys. Lett. 60, 1498 (1992)]. This was observed by replacing arsine with an amino-As, tris-dimethylamino-arsenic (TDMAAs). The self-limiting mechanism was attributed to the adsorption of amine species on the Ga as well as As surfaces. The temperature range for ALE, what is called the ALE window, was expanded from the previous narrow temperature range around -320 °C or -350 °C to the range of 440 °C–495 °C by replacing arsine with an amino-As, tris-dimethylamino-arsenic (TDMAAs)."
+}

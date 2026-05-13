@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "trimethylaluminum (Al(CH3)3, TMA)"
+  ],
+  "coreactants": [
+    "water (H2O)"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The Al2O3 films were deposited by ALD at 80 °C using TMA and H2O as the Al and O precursors, respectively. Carbon-coated copper grids covered with nanospheres and nanorods were used as substrates for ALD. The depositions were performed in a flow-type F-120 ALD reactor (ASM Microchemistry Ltd, Finland) that was operated under a pressure of 10 mbar using N2 as the carrier and purging gas."
+}

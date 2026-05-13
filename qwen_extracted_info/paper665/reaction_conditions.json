@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "WF6 (g) + 2H2S (g) + H2 (g) → WS2 (S) + 6HF (g)"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the adsorption and reaction of WF6 and H2S gases, with the formation of a ZnS catalytic layer that facilitates the growth of WS2. The ZnS layer is consumed during the growth process, and the presence of this layer affects the friction coefficient. The basal planes of WS2 reorient under shear stress to achieve low friction.",
+  "intermediate_species": [
+    "ZnS",
+    "ZnF2"
+  ],
+  "evidence": "The text describes the ALD process for WS2 coatings, involving the reaction of WF6 and H2S gases. It mentions the formation of a ZnS catalytic layer and its role in the growth of WS2. The presence of ZnF2 is noted as a by-product of the reaction. The reorientation of basal planes under shear stress is also discussed as a mechanism for low friction."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "AlOH* + Al(CH3)3 → AlOAl(CH3)2* + CH4",
+    "Al(CH3)* + H2O → AlOH* + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "AlOAl(CH3)2*",
+    "Al(CH3)*",
+    "AlOH*"
+  ],
+  "evidence": "The ALD Al2O3 chemistry has been studied extensively and is as follows: where the asterisks indicate the surface species. Each AB cycle deposits 1.1-1 . 2Å of Al2O3 per AB cycle at 177 °C.31,32 The total film thickness is controlled by the number of AB cycles."
+}

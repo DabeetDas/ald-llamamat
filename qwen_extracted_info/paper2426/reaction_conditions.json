@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The catalytic oxidative dehydrogenation of alcohols is used to reduce the silver precursor to metallic silver. The process exploits the catalytic reactivity of cationic silver and the reactivity of alcohols with silver surfaces. The propanol pulses reduce the (hfac)Ag(COD) to metallic silver via the removal of any remaining ligands.",
+  "intermediate_species": [
+    "(hfac)Ag(COD)",
+    "ligands"
+  ],
+  "evidence": "The process exploits the catalytic reactivity of cationic silver, and the reactivity of alcohols with silver surfaces. The driving force in this process was attributed to the catalytic oxidative dehydrogenation of alcohols. The same precursor has been used to grow silver films in supercritical CO2 using H2 and acetone as reducing agents [14]. In the cyclic ALD process involved here, the role of the propanol is to reduce the (hfac)Ag(COD) to metallic silver. After a cycle of propanol the adsorbate precursor is reduced to metallic silver via the removal of any remaining ligands."
+}

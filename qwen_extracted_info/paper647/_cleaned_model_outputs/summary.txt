@@ -1,0 +1,8 @@
+{
+  "target_material": "Lanthanum sulde (La2S3)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["La(thd) (thd = 2,2,6,6-tetramethyl-3,5-heptanedione)", "H2S"],
+  "temperature_range": "300-500 °C",
+  "summary": "Lanthanum sulde thin films were deposited using atomic layer epitaxy (ALE) with La(thd) and H2S precursors. The films were amorphous below 400 °C and crystallized into the cubic g-La2S3 phase at 500 °C. The study focused on the structural and chemical properties of the films, including their optical characteristics and contamination levels.",
+  "evidence": "The films grown from a b-diketonate precursor and H2S were amorphous below 400 °C. The first traces of crystallization appeared above 400 °C, and at 500 °C films of well-defined cubic g-La2S3 structure could be deposited."
+}

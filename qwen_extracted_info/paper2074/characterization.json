@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Transmission Electron Microscopy (TEM)",
+    "Rutherford Backscattering (RBS)",
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Time-of-Flight Secondary Ion Mass Spectrometry (TOF-SIMS)",
+    "X-ray Fluorescence",
+    "Capacitance–Voltage (C–V) measurements"
+  ],
+  "evidence": "Density was measured by combining the film thickness from transmission electron microscopy (TEM) with the amount of hafnium deposited from Rutherford backscattering (RBS). ... The AFM rms roughness for the ALD-grown HfO2 was measured as about 0.2 nm. ... Our total reflection x-ray fluorescence and time-of-flight secondary ion mass spectrometry investigations suggest an interfacial chlorine areal density of about 2.5 nm−2. ... Capacitance–voltage (C–V) measurements were made for capacitors prepared on an interface of about 1 nm SiO2 +3 nm Al2O3, with a TiN electrode."
+}

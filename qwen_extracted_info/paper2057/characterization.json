@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "High-resolution transmission electron microscopy (HRTEM)",
+    "Medium energy ion scattering (MEIS)",
+    "Nuclear reaction analysis (NRA)",
+    "Ellipsometry",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Electron microscopy (HRTEM)",
+    "MOS capacitor structures",
+    "Capacitance–voltage (C–V) measurements",
+    "Current–voltage (I–V) measurements"
+  ],
+  "evidence": "We employed high-resolution techniques of HRTEM and MEIS to examine gate stack and interface microstructure and composition. The MEIS data were obtained using an incident beam of 100 keV H+, channeling in normal incidence. The backscattered ions were detected at a scattering angle of 120°. Nitrogen content in the interfacial layer was accurately measured by nuclear reaction analysis (NRA) using the 14N(sd,a1d12C nuclear reaction and MEIS. Physical characterization was complimented by electrical measurements. MOS capacitor structures with different areas ranging from 10−5 to 10−3 cm2 were fabricated with Al or W gate electrodes. In some cases, low temperature ALD deposition step was followed by oxygen and/or standard forming gas anneals before metal gate deposition. Measurements on MOS capacitors revealed significantly reduced gate leakage current, ,4 orders of magnitude lower compared to the standard SiO2/Si of the same EOT. By plotting equivalent electrical thickness (EOT) versus physical thickness of the HfO2 layer, dielectric constant of ,23 was estimated for the HfO2 layer, consistent with the literature. Electrical thickness of 1.4 nm was achieved for a 3 nm (physical thickness) HfO2 on a nitrided interface and could be scaled further by interface optimization and thinning down the highk layer. One should mention that as-deposited films show significant hysteresis and flatband voltage shifts that are likely due to interface states at the highk/Ge interface."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ni(amd)2 + OH* → Ni−O + Hamd",
+    "Ni−O + H2S → NiS + H2O"
+  ],
+  "surface_mechanism_description": "The initial ALD growth of NiS on SiOx follows a reaction-agglomeration mechanism. The Ni(amd)2 precursor first reacts with surface hydroxyl groups to form Ni−O bonds, which are then converted to NiS in the presence of H2S. This conversion is accompanied by the spontaneous agglomeration of ligand-stripped Ni-containing species to form NiS clusters, which re-exposes the SiOx surface for further reactions.",
+  "intermediate_species": [
+    "Ni−O",
+    "NiS clusters",
+    "ligand-stripped Ni-containing species"
+  ],
+  "evidence": "The mechanism of the initial ALD growth was found to be rather different from that in the later steady film growth. In the initial ALD cycles, the XPS results showed a drastic cyclic variation of the signals for the Ni−O bonds, with prominently observable Ni−O signals after each Ni(amd)2 dose but almost negligible after the subsequent H2S dose. These results suggest that the Ni−O bonds are first formed on the surface in the Ni(amd)2 half-cycles and then mostly converted to NiS in the following H2S half-cycles. The conversion from Ni−O to NiS in the H2S half-cycles was suggested to be accompanied by the spontaneous agglomeration of the ligand-stripped Ni-containing species to afford NiS clusters."
+}

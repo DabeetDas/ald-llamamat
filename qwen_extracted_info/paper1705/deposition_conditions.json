@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 220,
+  "pressure": "1 torr",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 80,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "custom built viscous flow reactor",
+  "evidence": "For i-ITO samples, the membranes were coated with ∼7 nm of ITO by ALD via 45 alternate exposures to cyclopentadienyl indium (InCp) and O 3 at a temperature of 220 °C. Reactant exposure times of 15 and 80 s were employed, respectively, with nitrogen purge periods of 10 and 5 s after respective exposures."
+}

@@ -1,0 +1,11 @@
+{
+ "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "X-ray reflectivity (XRR)",
+    "Energy-dispersive X-ray spectroscopy (EDX)",
+    "Field-emission scanning electron microscope (FESEM)",
+    "Elastic recoil detection analysis (ERDA)",
+    "Four-point probe technique"
+  ],
+  "evidence": "Film structures were identified from X-ray diffraction (XRD) patterns measured with a PANanalytical X’Pert Pro diffractometer. Film thicknesses were determined from X-ray reflectivity (XRR) patterns measured with a Bruker AXS D8 Advance X-ray diffractometer and by energy-dispersive X-ray spectroscopy (EDX). The EDX spectra were obtained using an Oxford INCA 350 microanalysis system connected to a Hitachi S-4800 field-emission-scanning electron microscope (FESEM). The spectra were analyzed using a GMR electron probe thin-film microanalysis program. The resulting ERDA spectra and Rutherford scattering spectrum from Cl scattering were fitted simultaneously using the NDF program. Sheet resistances of the rhodium oxide films were measured with a four-point probe technique, and resistivities were calculated from the corresponding sheet resistances and film thicknesses."
+}

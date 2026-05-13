@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the exchange of ligands between the metal precursors and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The Mn precursor, Mn(EtCp)2, and Ti precursor, TTIP, have two and four ligands, respectively, which can exchange with surface groups. The number of ligands that react with the surface will control the number of available sites for the next ALD cycle.",
+  "intermediate_species": [
+    "Mn(EtCp)2",
+    "TTIP",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The surface reaction mechanism involves the exchange of ligands between the metal precursors and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The Mn precursor, Mn(EtCp)2, and Ti precursor, TTIP, have two and four ligands, respectively, which can exchange with surface groups. The number of ligands that react with the surface will control the number of available sites for the next ALD cycle."
+}

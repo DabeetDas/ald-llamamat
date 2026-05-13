@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175",
+  "pressure": "5",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 1,
+  "number_of_cycles": 1000,
+  "reactor_type": "F-120",
+  "evidence": "Sn1–xGaxOy ﬁlms were deposited in an F-120 laminarﬂow ALD system (ASM Microchemistry) at substrate temperatures in the range from 105 to 195 °C. The precursor used for tin was tetrakis(dimethylamino) tin(IV) [DMA 4Sn, ((CH 3)2N)4Sn] (Pegasus), where the liquid was evaporated at 40 °C in a bubbler con ﬁguration using N 2 as a carrier gas. The gallium precursor used was tris(dimethylamino)gallium(III) [DMA 3Ga, ((CH 3)2N)3Ga] (Aldrich, 98%), which was a solid sublimed from an openboat source at 80 °C. Deionized water was used as coreactant for both metal precursors. A supercycle approach was used to grow the ternary oxide, where A number of subcycles of SnO 2 and B number of Ga 2O3 subcycles were repeated in a supercycle with the pulse scheme (DMA 4Sn:N2:H2O:N2)A:(DMA3Ga:N2:H2O: N2)B, where A:B or A/(A + B) denotes the subcycle ratio. The pulse time was 1 s for all pulses, which was con ﬁrmed to be suf ﬁciently long for saturated growth according to QCM measurements."
+}<|im_end|>

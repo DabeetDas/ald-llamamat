@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "Plasma-enhanced and thermal ALD",
+  "main_precursors": ["dimethylaluminum isopropoxide (DMAI)"],
+  "temperature_range": "25–400 °C for plasma-enhanced ALD, 100–400 °C for thermal ALD",
+  "summary": "The study investigates the use of dimethylaluminum isopropoxide (DMAI) as an alternative aluminum precursor for plasma-enhanced and thermal atomic layer deposition (ALD) of Al2O3. The process was compared with traditional TMA-based ALD. The results show that DMAI offers comparable film properties to TMA, with good passivation of silicon surfaces, and is safer due to its lower pyrophoricity.",
+  "evidence": "The authors have been investigating the use of [Al(CH3)2(μ-O i Pr)]2 (DMAI) as an alternative Al precursor to [Al(CH3)3] (TMA) for remote plasma-enhanced and thermal ALD over wide temperature ranges of 25–400 and 100–400 °C, respectively. The film compositions obtained using DMAI were comparable to those from TMA at deposition temperatures ≥150 °C. Additionally, the study shows that Al2O3 films from DMAI passivated n- and p-type Si wafers with effective carrier lifetimes comparable to those obtained using TMA."
+}

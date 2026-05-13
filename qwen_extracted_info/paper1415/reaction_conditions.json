@@ -1,0 +1,34 @@
+{
+  "reaction_equations": [
+    "x -OD + Ti(OC2H5)4(g) → TaOx(OC2H5)5-x(s) + xC2H5OD(g)",
+    "Ti(OC2H5)4(g) → Ti(OC2H5)4(s)",
+    "Ti(OC2H5)4(s) + 2D2O(g) → TiO2(s) + 4CH3CH2OD(g)",
+    "Ti(OCH2CH3)4(g) → TiO2(s) + 2CH3CH2OH(g) + 2H2CdCH2(g)",
+    "Ti(OCH2CH3)4(g) → TiO2(s) + 2(CH3CH2)2O(g)"
+  ],
+  "surface_mechanism_description": "The ALD growth of TiO2, Ta2O5, and Nb2O5 from ethoxides and water involves surface reactions where the metal ethoxide adsorbs on the surface, followed by exchange reactions with D2O. The surface is terminated with -OD groups after the D2O pulse, and the ethoxide ligands are released during the water pulse. At temperatures above 300 °C, thermal decomposition of the metal precursor contributes to film growth.",
+  "intermediate_species": [
+    "Ti(OC2H5)4",
+    "Ti(OC2H5)4-x",
+    "Ti(OC2H4)3+",
+    "Ti(OC2H5)3(OC2H4)+",
+    "Ti(OC2H5)3-",
+    "Ti(OC2H4)4",
+    "TiO2",
+    "C2H5OD",
+    "CH3CH2OD",
+    "CH2OD+",
+    "CH2OH+",
+    "CH2CH2+",
+    "diethyl ether ((C2H5)2O)",
+    "ethanol (C2H5OH)",
+    "ethene (CH2CH2)",
+    "Ti(OC2H5)4-x(s)",
+    "TiOx(OC2H5)5-x(s)",
+    "Ti-OD",
+    "Ti-O-CH2CH3",
+    "Ti(CH3CH2OD)",
+    "Ti(D2O)"
+  ],
+  "evidence": "The text describes the ALD growth mechanisms for TiO2, Ta2O5, and Nb2O5 from ethoxides and water. It explains that the metal ethoxide adsorbs on the surface, followed by exchange reactions with D2O. The surface is terminated with -OD groups after the D2O pulse, and the ethoxide ligands are released during the water pulse. At temperatures above 300 °C, thermal decomposition of the metal precursor contributes to film growth. The reaction equations and intermediate species are derived from the detailed description of the surface reactions and the observed products."
+}

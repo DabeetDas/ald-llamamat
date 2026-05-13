@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "zinc",
+    "selenium"
+  ],
+  "coreactants": [],
+  "purge_gas": [],
+  "carrier_gas": [
+    "nitrogen"
+  ],
+  "evidence": "The present process di!ers from our previous one in the precursors * the metal chloride was replaced by elemental metal, and selenium was used as the anionic precursor (and not H2Se by analogy to H2S). Monocrystalline ZnSe/ZnS structures were earlier produced on silicon by ALE-GF with dimethylzinc and H2Se as the precursors for ZnSe and hydrogen as the carrier gas."
+}

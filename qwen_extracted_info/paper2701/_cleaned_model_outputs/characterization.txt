@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Resonance Raman Spectroscopy (RRS)",
+    "Atomic Force Microscopy (AFM)",
+    "Transmission Electron Microscopy (TEM)",
+    "Selected Area Electron Diffraction (SAED)",
+    "Quartz Crystal Monitor (QCM)",
+    "Spectroscopic Ellipsometry (iSE)"
+  ],
+  "evidence": "The XPS spectra, Fig. 2, of a 50 cycle (4 nm thick) MoS2 film shows Mo 3d and S 2p peaks at the expected BE values for MoS2, which are 229.8 eV for the Mo 3d 5/2 peak and 162.7 eV for the S 2p 3/2 peak. RRS is the result of strong coupling between excitons and phonons in the material. AFM micrographs, Fig. 4, show that the amount of out-of-plane growth was substrate-dependent for films grown for 100 cycles (8 nm). TEM allowed the grain size of MoS2 to be measured when it was deposited on an amorphous support (Si xNy), and both imaging and SAED revealed the 2H crystal structure and texture of the MoS2 film. In situ growth monitoring was performed using both a quartz crystal monitor (QCM) and in situ spectroscopic ellipsometry (iSE)."
+}

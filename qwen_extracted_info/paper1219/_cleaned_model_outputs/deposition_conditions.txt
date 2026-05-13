@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "120",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 1.0,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": 1.0,
+  "number_of_cycles": 1500,
+  "reactor_type": "F-120",
+  "evidence": "The process was studied at low temperatures of 80–140 °C on native oxide terminated Si. ... The depositions comprised 1500 cycles. The pulse lengths were 1.0 and 0.2 s for Cu(dmap)2 and TBH, respectively, followed by 1.0 s purges."
+}

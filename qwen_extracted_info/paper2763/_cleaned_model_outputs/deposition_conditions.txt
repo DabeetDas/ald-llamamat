@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "200 Pa",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": "5",
+  "purge_time_s": "30",
+  "number_of_cycles": "30",
+  "reactor_type": "FHR-ALD-300",
+  "evidence": "The ALD growth initiation was observed by in-situ real-time Spectroscopic Ellipsometry (irtSE) with a sampling rate above 1 Hz. The ALD used the organometallic precursor trimethylaluminum (TMA) and the co-reactant water (H2O) at a substrate set-point temperature of 400  and a total process pressure of 200 Pa. Each of the 30 consecutively applied ALD cycles repeated a sequence alternating 5 s TMA exposure, 30 s Ar purge, 5 s H2O exposure, and 30 s Ar purge."
+}

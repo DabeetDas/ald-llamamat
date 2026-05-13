@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The nitride interlayer formed by NH3 plasma reaction with the Si substrate enables nitride mediated epitaxy (NME), where the nitride interlayer limits Co diffusion and facilitates the epitaxial growth of CoSi2 without requiring a separate interlayer formation step.",
+  "intermediate_species": [
+    "SiNx interlayer"
+  ],
+  "evidence": "One of the plausible reasons for SiN x interlayer formation during the PE-ALD Co is a direct exposure of Si substrate by NH3 plasma at initial deposition cycles. In fact, the nitridation process using NH3 plasma has been investigated for various applications in microelectronics technology. To estimate the SiN x formation in our experimental conditions, the Si substrates were exposed to NH3 plasma at 300 °C. A few nanometer thick SiN x film formation was confirmed by spectroscopic ellipsometer. In contrast with NH3 plasma, no SiN x film was formed by NH3 gas at 300 °C. The SiN x layer formation alters the growth characteristics of PE-ALD Co."
+}

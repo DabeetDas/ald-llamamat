@@ -1,0 +1,8 @@
+{
+  "target_material": "VO x",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(dimethylamino)vanadium (V(dma)4)", "H2O"],
+  "temperature_range": "50 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of vanadium oxide (VOx) on pentacene to reduce contact resistance in organic electronic devices. The ALD process uses tetrakis(dimethylamino)vanadium (V(dma)4) and H2O as precursors at 50 °C. The deposited VOx layer contains defect states aligned with the HOMO level of pentacene, facilitating efficient hole injection. The initial growth is delayed on pentacene, but after 20 cycles, the layer becomes continuous. The study highlights the role of defect states in enhancing charge injection and reducing contact resistance.",
+  "evidence": "The text states: 'ALD of VOx was performed in the ALD chamber at 50 °C, using tetrakis(dimethylamino)vanadium (V(dma)4) and H2O vapor as the vanadium precursor and oxygen source, respectively.' It also mentions: 'the initial VOx growth is found to be partially delayed on pentacene in the first ∼20 ALD cycles.' Additionally, 'the ALD VOx is found to contain a high density of defect states starting from 0.67 eV below the Fermi level, and the energy level of these defect states is in excellent alignment with the HOMO level of pentacene, which therefore allows these VOx defect states to provide an efficient hole-injection pathway at the contact interface.'"
+}

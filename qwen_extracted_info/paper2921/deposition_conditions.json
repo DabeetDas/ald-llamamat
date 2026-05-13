@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "230-500",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": 1000,
+  "reactor_type": "hot-wall horizontal flow-type ALD reactor",
+  "evidence": "The films were grown in a hot-wall horizontal flow-type ALD reactor19 on ~100! oriented p-Si single crystal substrates in the range of 230-500°C. Prior to deposition, the Si substrates were etched in hydrofluoric acid to remove the native SiO2 layer. The pressure in the reactor was about 250 Pa. ZrI4 ~Strem Chemicals, 99.5% ! was evaporated from an open boat held at 240°C inside the reactor. H2O-H2O2 vapor was generated in an external reservoir at room temperature and led into the reactor through needle and solenoid valves. The precursors evaporated were alternately led to one end of the reaction zone, where they formed adsorption waves moving along the substrate surface toward the other end. The growth process comprised successive adsorption of precursors while the thin solid film was formed in surface reactions taking place during adsorption. To avoid mixing of the precursors in the gas phase and simultaneous exposure of the substrates to both precursors, purge times of 2 s were used after each precursor pulse."
+}

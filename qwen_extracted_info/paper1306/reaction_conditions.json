@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Au X Me Au(S2CNEt2) → Au Au(Me) (S2CNEt2) fragments",
+    "Au Au(Me) (S2CNEt2) O3 → Au Au X fragments (surface species)"
+  ],
+  "surface_mechanism_description": "The mechanism involves the reaction of Me2Au(S2CNEt2) with an oxidized Au surface, followed by ozone exposure that removes ligands and partially oxidizes near-surface gold. The process is self-limiting and requires ozone for activation of the growing surface to form Au-Ox species, which are then consumed during the next exposure to the Au precursor.",
+  "intermediate_species": [
+    "Au-Ox species",
+    "diethyldithiocarbamate ligand or its fragments",
+    "volatile byproducts (CO, H2O, sulfur oxide, nitric oxide, etc.)"
+  ],
+  "evidence": "The mechanism is hypothesized based on in situ mass balance and infrared spectroscopy studies. The text describes the reaction of Me2Au(S2CNEt2) with an oxidized Au surface, followed by ozone exposure that removes ligands and partially oxidizes near-surface gold. The process is self-limiting and requires ozone for activation of the growing surface to form Au-Ox species, which are then consumed during the next exposure to the Au precursor."
+}

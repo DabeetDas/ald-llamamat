@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 0.015,
+  "purge_time_s": 5,
+  "number_of_cycles": 300,
+  "reactor_type": "Savannah 100",
+  "evidence": "The ferrocene, heated to 70 °C, was pulsed for 20 s and was followed by an oxidation cycle which included 10 subcycles of a 0.015 s H2O pulse followed by a 6 s ozone pulse, where each subcycle was separated by a 5 s purge."
+}<|im_end|>

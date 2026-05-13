@@ -1,0 +1,7 @@
+{
+  "precursors": ["zinc acetate", "diethylzinc (DEZn, Zn(C2H5)2)", "dimethylzinc (DMZn, Zn(CH3)2)"],
+  "coreactants": ["deionized water"],
+  "purge_gas": ["high purity nitrogen"],
+  "carrier_gas": [],
+  "evidence": "In this work we used deionized water as oxygen precursor and three types of organic zinc precursors – zinc acetate, as described in details in, diethylzinc (DEZn, Zn(C2H5)2), as described in details in, and dimethylzinc (DMZn, Zn(CH3)2), and high purity nitrogen as a purging gas."
+}

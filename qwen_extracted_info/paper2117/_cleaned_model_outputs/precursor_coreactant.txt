@@ -1,0 +1,7 @@
+{
+  "precursors": ["HfCl4/H2O/HO", "Al(CH3)3/H2O/AO"],
+  "coreactants": ["H2O"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "HfCl4/H2O/HO and Al(CH3)3/H2O/AO were used as ALD precursors of HfO2 and Al2O3, respectively."
+}

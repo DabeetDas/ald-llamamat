@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": 50,
+  "reactor_type": "pressure-tuned stop-flow",
+  "evidence": "The precursors Mo(CO) 6 were first pulsed in the reactor, then N2 was filled in to increase the base pressure of the reactor (6 mbar was used here). The dimethyl disulfide (DMDS) precursor was introduced with the same process after twice pluses of Mo(CO) 6. These precursors were kept in the reactor for 5 s, then excess precursors and byproducts were purged out prior to the next half cycle."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "30-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 3,
+  "number_of_cycles": null,
+  "reactor_type": "traveling-wave-type ALD reactor (Ever-tek Co., Plus-100)",
+  "evidence": "The TMA and O 3 injection times were fixed at 1 and 3 s, respectively. The TMA purge time was 1 s and O 3 purge time was increased to 3 s considering the lower Tg in this experiment compared to the previous report."
+}<|im_end|>

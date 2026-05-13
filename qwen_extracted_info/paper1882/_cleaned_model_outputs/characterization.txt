@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Auger electron spectroscopy (AES)",
+    "X-ray diffraction (XRD)",
+    "Scanning electron microscopy (SEM)",
+    "Atomic force microscopy (AFM)",
+    "Medium energy ion scattering (MEIS)",
+    "Thermogravimetric analysis (TGA)",
+    "High-frequency capacitance-voltage (HFCV) measurements",
+    "Current–voltage (I–V) measurements"
+  ],
+  "evidence": "Auger electron spectroscopy (AES) showed that the films contained no detectable C contamination (detection limit y0.5%) and XRD showed that films remained amorphous at temperatures below 850 uC. Scanning electron microscopy (SEM) of the as grown films grown by MOCVD below 450 uC generally showed a uniform morphology. Atomic force microscopy was used to investigate the variation in nanostructure of these films upon annealing. Medium energy ion scattering (MEIS) was carried out at the Daresbury CCLRC facility. Thermogravimetric analysis (TGA) was carried out on a Shimadzu TG-51A thermogravimetric analyser. To assess the electronic properties of the gate dielectric, fixed sizes of metal gate electrodes were fabricated by the shadow mask technique using thermal evaporation to form MOS capacitors (Al/LaAlO3/n-Si) with an effective area of 4.9 6 1024 cm2. High-frequency capacitance-voltage (HFCV) measurements were performed using an HP4192 impedance analyzer. Current–voltage measurements (I–V) were performed using a Keithley K230 programmable voltage source and K617 electrometer."
+}

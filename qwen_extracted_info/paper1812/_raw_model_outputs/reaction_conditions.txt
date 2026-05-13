@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "TiP2O7 + Li+ + e- → LiTiP2O7"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the plasma-enhanced atomic layer deposition process where trimethyl phosphate (TMP) plasma and O2 plasma create phosphoric acid-like precursor species on the substrate surface, which then react with titanium isopropoxide (TTIP) vapor. The reaction mechanism includes the formation of surface species such as phosphorus-containing intermediates and titanium-containing species, followed by their reaction to form titanium phosphate.",
+  "intermediate_species": [
+    "phosphoric acid-like precursor species",
+    "surface phosphorus-containing species",
+    "surface titanium-containing species"
+  ],
+  "evidence": "The surface reactions involve the plasma-enhanced atomic layer deposition process where trimethyl phosphate (TMP) plasma and O2 plasma create phosphoric acid-like precursor species on the substrate surface, which then react with titanium isopropoxide (TTIP) vapor. The reaction mechanism includes the formation of surface species such as phosphorus-containing intermediates and titanium-containing species, followed by their reaction to form titanium phosphate."
+}<|im_end|>

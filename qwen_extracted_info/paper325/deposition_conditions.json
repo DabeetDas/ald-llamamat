@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "220 mTorr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 12,
+  "purge_time_s": 12,
+  "number_of_cycles": 1000,
+  "reactor_type": "RF power",
+  "evidence": "The times for source pulse, first purge, O2 pulse, O2 with plasma pulse, and second purge were 3, 12, 2, 10, and 12 seconds, respectively. The deposition was conducted using an RF power of 100 W and a pressure of 220 mTorr for 1000 cycles."
+}

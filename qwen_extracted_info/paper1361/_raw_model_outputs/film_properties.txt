@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 30,
+  "density_g_cm3": 4.13,
+  "refractive_index": "n632nm = 2.66",
+  "surface_roughness_nm": 2,
+  "crystal_phase": "hexagonal SnN",
+  "evidence": "The accurate composition or stoichiometry of this new ALD-grown tin nitride thin film deposited at 150 °C on a SiO2 substrate, which is within the ALD temperature window [Fig. 1(d)], was analyzed by RBS. The resulting RBS spectrum is presented in Fig. 5 where the backscattered peaks obtained from the collision between He 2+ ions with Sn and N constituents in the grown films were clearly detected at the channel numbers of ~876 and ~305, respectively. In addition, two different backscattered peaks can be observed. One originates from Si in the thermally grown SiO2 at the channel number of ~550 and another at significantly lower channel number (~528) was observed from mainly Si in the substrate. RBS data simulated using a RUMP simulation (red line) is well matched with the experimental data (black line) and a quantitative evaluation of the Sn/N atomic ratio close to one (~1.075) was estimated, which indicated the formation of almost stoichiometric SnN. It is therefore in good agreement with the observations made from XRD analysis of the SnN x deposited at 150 °C. The backscattering peak at a channel number of ~305 in the RB spectrum was identified as oxygen, which comes from the substrate (being the main element of the SiO 2 wafer) not from the film 59. The mass density of the grown film was found to be around 4.13g/cm3 based on the atomic areal density from the RBS simulation and thickness of the film obtained by SEM and XRR methods."
+}<|im_end|>

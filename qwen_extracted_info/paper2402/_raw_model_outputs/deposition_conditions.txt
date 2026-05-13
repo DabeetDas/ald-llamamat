@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80",
+  "pressure": "0.6 Torr",
+  "precursor_pulse_time_s": "0.03",
+  "coreactant_pulse_time_s": "0.03",
+  "purge_time_s": "25",
+  "number_of_cycles": null,
+  "reactor_type": "Savannah 100",
+  "evidence": "The ALD deposition was performed in a Savannah 100 Atomic Layer Deposition system. Al (CH3)3 (TMA) and deionized water (R ≈ 18 M /Omega1) were used as precursors for alumina growth. The deposition was performed at 80 ◦C and under ∼0.6 Torr chamber pressure. Ultra high purity N 2 was used as carrying and purging gas with a flow rate of 20 sccm. The pulse duration was 0.03 s for each precursor and the purge time was 25 s between pulses."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "H2O"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ALD system uses ultrahigh-purity nitrogen as both the carrier gas and purge gas. The chamber is evacuated with an Alcatel 2021SD rotary vane pump; chamber pressure is controlled by simultaneously varying the conductance of the pump via a throttle valve and the flow rate of nitrogen. ALD is performed at a total pressure of 1 Torr with a total N2 flow rate of 78 sccm. The ALD deposition cycle used consisted of (i) TiCl4 pulse, (ii) N2 purge, (iii) H2O pulse, and (iv) N2 purge."
+}

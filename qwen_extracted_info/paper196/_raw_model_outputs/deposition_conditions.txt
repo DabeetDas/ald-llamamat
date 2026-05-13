@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "120",
+  "pressure": "2",
+  "precursor_pulse_time_s": "0.1",
+  "coreactant_pulse_time_s": "0.1",
+  "purge_time_s": "0.1",
+  "number_of_cycles": "500",
+  "reactor_type": "Microchemistry F-120",
+  "evidence": "ALD ﬁlms of ZnO, MgO and Zn 1/C0 xMgxO were grown in a Microchemistry F-120 reactor operating at a total system pressure of 2 mbar, using nitrogen as carrier gas. The ALD pulse sequence was generally 200/400/200/400 ms (DEZn/N2/H2O/N2) for growth of ZnO and 600/400/200/400 ms (MgCp 2/N2/H2O/N2) for MgO deposition."
+}<|im_end|>

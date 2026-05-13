@@ -1,0 +1,7 @@
+{
+  "precursors": ["Tetrakis (dimethylamido) zirconium IV (TDZ)", "trimethyl aluminum (TMA)", "diethyl zinc (DEZ)"],
+  "coreactants": ["deionized (DI) H2O"],
+  "purge_gas": ["nitrogen gas"],
+  "carrier_gas": ["nitrogen gas"],
+  "evidence": "According to Table II, one ALD cycle for deposition number 1 consists of (i) pulse of TDZ for 0.4 s with an exposure time of 1 s so the vapor has sufficient time to coat subsurface pores, (ii) purge the byproducts and unreacted species with nitrogen gas for 60 s, (iii) pulse of DI H2O for 0.025 s with an exposure time of 1 s, and (iv) purge with nitrogen gas for 60 s. These four steps were repeated for a total number of 2127 ALD cycles to achieve a 300 nm thick layer of ZrO2. The precursor’s trimethyl aluminum (TMA) from Sigma Aldrich, Inc. and deionized (DI) H2O were used to deposit this second layer following the same steps outlined above. The third and top layer deposited was ZnO at 200°C using diethyl zinc (DEZ) and DI H2O, as outlined in Table III."
+}<|im_end|>

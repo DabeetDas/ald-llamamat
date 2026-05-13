@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Cp2Ti[(NiPr)2CN(H)iPr]"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "In the text, it is mentioned that the titanium precursor was transported with the help of nitrogen flow through the silica particles where it reacted. This indicates that nitrogen was used as both the purge gas and carrier gas."
+}

@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "Cd(CH3)* + H2S → CdSH* + CH4",
+    "Zn(CH3)* + H2S → ZnSH* + CH4",
+    "SH* + Cd(CH3)2 → SCd(CH3)* + CH4"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the displacement of methyl ligands by H2S, leading to the formation of H-terminated surface sulfur atoms and the desorption of CH4. The process is self-limiting, with the surface passivated by methyl groups after each deposition step, ensuring monolayer growth.",
+  "intermediate_species": [
+    "Cd(CH3)*",
+    "Zn(CH3)*",
+    "CdSH*",
+    "ZnSH*",
+    "SCd(CH3)*"
+  ],
+  "evidence": "The text describes the surface reactions as follows: 'The second reaction step consists of the reaction of H2S with the above surfaces. In this step, CH3 ligands are reactively displaced, yielding desorbed CH4 and H-terminated surface sulfur atoms.' Additionally, it states, 'The proposed reaction for this process is as follows: Cd(CH3)* + H2S → CdSH* + CH4; Zn(CH3)* + H2S → ZnSH* + CH4; SH* + Cd(CH3)2 → SCd(CH3)* + CH4.'"
+}<|im_end|>

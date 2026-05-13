@@ -1,0 +1,7 @@
+{
+  "precursors": ["2,4-(dimethylpentadienyl)(ethylcyclopentadienyl)Ru (DER)"],
+  "coreactants": ["O2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The Ru solution was injected into the vaporizer for 6 ms and flash-evaporated. The vapor was then transported to the reactor by Ar carrier gas at a flow rate of 50 sccm. O2 at a flow rate of 1000 sccm was used as the reactant. The reactor was purged with Ar gas at a flow rate of 1000 sccm."
+}

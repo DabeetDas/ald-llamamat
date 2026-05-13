@@ -1,0 +1,31 @@
+{
+  "precursors": [
+    {
+      "name": "Ti(NMe2)2(OiPr)2",
+      "evidence": "The precursors, titanium (N,N′-diisopropylacetamidinate)-tris(isopropoxide) (Ti(OiPr)3(NiPr-Me-amd)) and titanium bis-(dimethylamide)bis(isopropoxide) (Ti(NMe2)2(OiPr)2), exhibit self-limiting growth behavior up to a maximum temperature of 325 °C."
+    },
+    {
+      "name": "Ti(OiPr)3(NiPr-Me-amd)",
+      "evidence": "The precursors, titanium (N,N′-diisopropylacetamidinate)-tris(isopropoxide) (Ti(OiPr)3(NiPr-Me-amd)) and titanium bis-(dimethylamide)bis(isopropoxide) (Ti(NMe2)2(OiPr)2), exhibit self-limiting growth behavior up to a maximum temperature of 325 °C."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "O3",
+      "evidence": "Ozone is an efficient source of oxygen in oxide ALD, notably together with organometallic precursors but also when using metal precursors coordinated through oxygen or nitrogen donors."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "N2",
+      "evidence": "Nitrogen (>99.999%, generated with Nitrox UHPN 3000-1) was used as a carrier and purge gas."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "N2",
+      "evidence": "Nitrogen (>99.999%, generated with Nitrox UHPN 3000-1) was used as a carrier and purge gas."
+    }
+  ],
+  "evidence": "The precursors, titanium (N,N′-diisopropylacetamidinate)-tris(isopropoxide) (Ti(OiPr)3(NiPr-Me-amd)) and titanium bis-(dimethylamide)bis(isopropoxide) (Ti(NMe2)2(OiPr)2), exhibit self-limiting growth behavior up to a maximum temperature of 325 °C. Nitrogen (>99.999%, generated with Nitrox UHPN 3000-1) was used as a carrier and purge gas."
+}<|im_end|>

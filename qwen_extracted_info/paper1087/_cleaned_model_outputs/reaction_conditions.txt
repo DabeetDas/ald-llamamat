@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The deposition reaction was self-limiting at process temperatures of 515 and 557 °C, with growth rates of 0.24 and 0.28 nm/cycle with Si2Cl6 exposure over 2 × 108 L. The growth rate increased with Si2Cl6 exposure at 573 °C due to thermal deposition of Si2Cl6. The deposited films are nonstoichiometric SiN and were easily oxidized by air exposure to contain 7–8 at.% of oxygen in the bulk film.",
+  "intermediate_species": ["nonstoichiometric SiN"],
+  "evidence": "The deposition reaction was self-limiting at process temperature of 515 and 557 °C, and the growth rates were 0.24 and 0.28 nm/cycle with Si2Cl6 exposure over 2 × 108 L. These growth rates with Si2Cl6 are higher than that with SiH2Cl2, and are obtained with reactant exposures lower than those of the SiH2Cl2 case. At process temperature of 573 °C where the wafer temperature during Si2Cl6 pulse is 513 °C, the growth rate increased with Si2Cl6 exposure owing to thermal deposition of Si2Cl6. The deposited films are nonstoichiometric SiN, and were easily oxidized by air exposure to contain 7 –8 at.% of oxygen in the bulk film."
+}

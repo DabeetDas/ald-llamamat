@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "Atomic-layer deposition (ALD)",
+  "main_precursors": ["trimethyl aluminum", "water"],
+  "temperature_range": "168 °C",
+  "summary": "The study demonstrates the application of atomic-layer deposition (ALD) to apply wear-resistant Al2O3 coatings on microelectromechanical systems (MEMS) devices. The process uses a binary reaction sequence with trimethyl aluminum and water as precursors, and is carried out at 168 °C in a viscous flow reactor. The ALD films are conformal, uniform, and show promising wear-resistant properties for MEMS applications.",
+  "evidence": "For this demonstration, we apply 10-nm-thick films of Al2O3 using a binary reaction sequence with precursors of trimethyl aluminum and water. Deposition is carried out in a viscous flow reactor at 1 Torr and 168 °C, with N2 as a carrier gas. Preliminary friction and wear data show that ALD films have promising properties for application to MEMS devices."
+}

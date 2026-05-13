@@ -1,0 +1,7 @@
+{
+  "precursors": ["TaI5", "H2O2"],
+  "coreactants": ["H2O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The studies were carried out in a hot-wall horizontal flow-type ALD reactor. 25 TaI5 (Strem Chemicals Inc., 99%) was evaporated from semi-open boats located inside the reactor. H2O2 (30%) was evaporated at 20 °C from a special reservoir outside the reactor. The dose of the H2O-H2O2 vapor mixture was controlled by a needle valve, which allowed tuning of the partial pressure of the mixture between 0.1 and 14 Pa, approximately, in the reaction zone. N2 (99.999%) was used as a carrier gas. The total pressure in the ALD reactor was 250 Pa, approximately."
+}

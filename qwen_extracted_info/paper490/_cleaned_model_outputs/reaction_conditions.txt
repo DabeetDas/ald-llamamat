@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "n(-OH)(s) + TiCl4(g) -> (-O-TiCl4-n)(s) + nHCl(g)",
+    "(-O-TiCl4-n)(s) + (4 - n)H2O(g) -> (-O)2Ti(OH)4-n(s) + (4 - n)HCl(g)"
+  ],
+  "surface_mechanism_description": "The growth mechanism involves surface hydroxyl groups reacting with TiCl4, leading to the formation of surface species such as Ti(OH)4-n and the release of HCl. Dehydroxylation of the surface occurs during the water pulse, which affects the surface reaction pathways and the resulting crystal structure.",
+  "intermediate_species": [
+    "Ti(OH)4-n",
+    "surface hydroxyl groups (-OH)",
+    "chlorinated surface species (-O-TiCl4-n)",
+    "oxygen bridges (-O-)"
+  ],
+  "evidence": "The text describes the surface reactions as follows: 'Reactions going according to Eqs. (1’) and (I” ) result in a hydroxylated surface after the water pulse. It has been shown, however, that at 400°C significant dehydroxylation of the TiO2 surface takes place. Decrease of the film mass after the water pulse observed in our measurements indicates that dehydroxylation really occurs.' Additionally, the text states: 'Formation of stoichiometric TiO2 requires the sequence of Eq. (I”) and Eqs. (2) and/or (3) while averaged value of n equal to 2.'"
+}

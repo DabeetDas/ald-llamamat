@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "xdM(L)n + ydH2O → MxOy + nd(HL)",
+    "½S/C138 : (OH)⁎y + x(MLn) → ½S/C138 : OyMx(L)n−y + y(HL)",
+    "½S/C138 : OyMx(L)n−y + yH2O → ½S/C138 : MxOy : (OH)⁎y + n−y(HL)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between ferrocene and surface hydroxyl groups followed by oxygen pulse to regenerate OH sites and oxidize the iron.",
+  "intermediate_species": [
+    "chemisorbed oxygen",
+    "ferrocene ligands",
+    "surface hydroxyls"
+  ],
+  "evidence": "The reaction mechanism was described as follows: 'In the first half reaction, CO2 is attributed to chemisorbed oxygen reacting with ferrocene ligands adsorbed on the surface. As O2 is dosed in the second half reaction, it reacts with the remaining chemisorbed ferrocene ligands to evolve CO2, and oxidizes the iron.'"
+}<|im_end|>

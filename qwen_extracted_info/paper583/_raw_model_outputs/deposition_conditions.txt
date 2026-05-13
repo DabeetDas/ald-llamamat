@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "425-600",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "Cross-flow",
+  "evidence": "The WF and Si H half-reactions were complete and self-limiting at TG 425 K. The WF and NH half-reactions were also observed to be complete and self-limiting at TG 600 K."
+}<|im_end|>

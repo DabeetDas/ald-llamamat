@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "surface-SH + Zn(C2H5)2 -> surface-S-Zn-C2H5 + C2H6",
+    "surface-C2H5 + H2S -> surface-SH + C2H6"
+  ],
+  "surface_mechanism_description": "The ALD growth of ZnS involves surface reactions where surface hydroxyl groups react with diethyl zinc (DEZn) to form surface-bound alkyl groups and hydrocarbons. Subsequently, these alkyl groups react with hydrogen sulfide (H2S) to regenerate surface hydroxyl groups and produce hydrocarbons. The process is influenced by the stability of the surface after the DEZn pulse, which affects the growth rate and uniformity of the ZnS films.",
+  "intermediate_species": [
+    "surface hydroxyls (surface-SH)",
+    "surface-bound alkyl groups (surface-S-Zn-C2H5)",
+    "surface alkyl groups (surface-C2H5)"
+  ],
+  "evidence": "In analogy with the growth mechanism of ZnO based on DMZn and H2O in an identical flow-type ALD reactor, a possible ZnS growth process could very well proceed according to the following surface reactions: Step1: surface-SH + Zn(C2H5)2 -> surface-S-Zn-C2H5 + C2H6, Step2: surface-C2H5 + H2S -> surface-SH + C2H6."
+}

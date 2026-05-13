@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the precursor onto the surface, followed by oxidation with water. The surface sites become saturated with precursor, and excess precursor is removed during purging. The oxidation step involves the reaction of the chemisorbed metal precursor with water to form the oxide.",
+  "intermediate_species": ["chemisorbed metal precursor"],
+  "evidence": "Under the conditions of ALD, the surface sites become saturated with precursor and excess precursor not mono-atomically attached to the surface is removed by subsequent purging. Moisture was pulsed for 2 s to oxidize the chemisorbed metal precursor followed by 5 s N2 purge during ALD of all films."
+}<|im_end|>

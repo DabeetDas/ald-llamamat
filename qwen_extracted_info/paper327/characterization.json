@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Capacitance–Voltage (C–V) analysis",
+    "Current–Voltage (I–V) measurements",
+    "Ellipsometry",
+    "Thermionic emission (TE) model",
+    "Poole–Frenkel (PF) emission",
+    "Trap-assisted-tunneling (TAT) model"
+  ],
+  "evidence": "According to X-ray photoelectron spectroscopy (XPS) analysis on ALD-grown AlN on GaN, the main peak of the Al 2p core level spectra moved toward lower binding energies when the AlN film was thicker than ~ 7.5 nm, ascribed to the strain relaxation resulting from the lattice mismatch between AlN and GaN. Current–voltage (I–V) measurements under different temperatures, and capacitance–voltage (C–V) measurements, were performed with a Keithley 238 current source and a HP 4284A LCR meter, respectively. The Poole–Frenkel (PF) emission was explored first by Poole–Frenkel (PF) emission, which is expressed as with where E is the electric field, qϕ t is the trap energy for electron emission, ε0 is the permittivity of free space, ε is the relative dielectric permittivity of the dielectric layer at high frequency, and C is a constant. The trap-assisted-tunneling (TAT) model was used to explain the current transport for 5-nm-thick AlN."
+}

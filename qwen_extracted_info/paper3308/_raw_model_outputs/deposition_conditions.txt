@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80-210",
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": 300,
+  "reactor_type": "low-pressure dielectric barrier discharge (DBD)",
+  "evidence": "A typical PEALD recipe [5 s pulse of Fe(amd)2,1 0sp u l s eo fH2 gas, 10 s pulse for H 2 plasma, 10 s pulse of H 2 gas, 60 W input power, and 90 °C deposition temperature] was used in the majority of the experiments, and this recipe was called as \"the standard deposition parameters\" in this paper."
+}<|im_end|>

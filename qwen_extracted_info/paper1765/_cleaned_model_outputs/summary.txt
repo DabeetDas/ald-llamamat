@@ -1,0 +1,8 @@
+{
+  "target_material": "vanadium oxide (VOx)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["V(NEtMe)4", "ozone", "water"],
+  "temperature_range": "75–250 °C",
+  "summary": "This study describes the atomic layer deposition (ALD) of vanadium oxide (VOx) thin films using V(NEtMe)4 as the vanadium precursor and either ozone or water as the oxygen source. The growth was investigated at temperatures ranging from 75 to 250 °C. The films were found to be smooth, uniform, and conformal, with the ability to form either VO2 or V2O5 through post-deposition annealing in different atmospheres. The process demonstrated good control over the stoichiometry and phase of the deposited films.",
+  "evidence": "In this study, VOx films were grown by atomic layer deposition (ALD) using V(NEtMe)4 as the vanadium precursor and either ozone or water as the oxygen source. The growth was investigated at deposition temperatures from as low as 75°C, up to 250°C. By varying the atmosphere under which the films were annealed, it was possible to preferably form either VO2 or V2O5. Atomic force microscopy revealed that the films were smooth (rms < 0.5 nm) and uniform. The composition and stoichiometry of the films were determined by X-ray photoelectron spectroscopy. Conformal deposition was achieved in demanding high aspect ratio structures."
+}

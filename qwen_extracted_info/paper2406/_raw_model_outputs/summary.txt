@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["H2O", "Al(CH3)3 (TMA)"],
+  "temperature_range": "120 ◦C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to fabricate Al2O3 spacers for creating magnetic nanorings for MRAM applications. The ALD process was used to deposit Al2O3 at low temperatures, which served as a mask for etching magnetic materials like cobalt. The process involved photolithography, dry etching, and optimization of etching parameters to achieve high-density nanorings with controlled dimensions.",
+  "evidence": "Next, a 10 nm or 30 nm thick Al2O3 was deposited on the substrate by ALD (Cambridge Nanotech Savannah 100) using H2O and Al(CH3)3 (TMA) as precursors (figure 1(a)). The deposition conditions were H2O 0.015 s/0/10 s, TMA 0.015 s/0/8 s (pulse/exposure/pump time), with temperature set at 120 ◦C."
+}<|im_end|>

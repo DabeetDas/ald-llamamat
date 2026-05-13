@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethlyaluminum (TMA)",
+    "ozone (O3)"
+  ],
+  "temperature_range": "30 °C or 200 °C",
+  "summary": "The study investigates the nucleation and deposition of Al2O3 on highly oriented pyrolytic graphite (HOPG) using trimethlyaluminum (TMA) and ozone (O3) as precursors. The effect of surface treatments on the composition and morphology of the deposited films is examined, with a focus on the impact of adsorbed atmospheric contamination. The results show that the presence of adsorbed species significantly affects the deposition process and film composition, with variations in the morphology and coverage depending on the surface treatment and deposition temperature.",
+  "evidence": "We present a study of the nucleation of atomic layer deposition of Al2O3 on highly oriented pyrolytic graphite using trimethlyaluminum with ozone as the oxidant. The impact of several predeposition surface treatments of the graphite surface condition is discussed, particularly with regard to the presence of adsorbed atmospheric contamination. The Al2O3 deposition at 30 °C is known to result in lower quality dielectrics with increased leakage current but previous studies have indicated that O3 exposure of single-layer graphene at 200 °C results in etching of graphene and degradation of device properties. To avoid such damage caused by O3 at elevated process temperatures, we explore the properties of ALD Al2O3 deposited at 30 °C as a possible seed layer for subsequent, thicker high-k dielectric deposition."
+}

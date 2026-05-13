@@ -1,0 +1,8 @@
+{
+  "target_material": "AlF3",
+  "process_type": "ALD",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Hydrogen Fluoride (HF)"],
+  "temperature_range": "75 to 300 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of AlF3 using trimethylaluminum (TMA) and hydrogen fluoride (HF) from a HF-pyridine solution. The ALD process was examined using in situ quartz crystal microbalance (QCM), quadrupole mass spectrometer (QMS), and Fourier transform infrared (FTIR) spectroscopy. The maximum mass gain per cycle (MGPC) of 44 ng/(cm² cycle) occurred at 100 °C, and the growth rate was found to be 1.43 Å/cycle at 100 °C. The study also highlights the self-limiting behavior of the TMA and HF reactions and the etching of AlF3 films at higher temperatures. The films were found to be nearly stoichiometric with an oxygen impurity of only ∼2 at %.",
+  "evidence": "The ALD of AlF3 was demonstrated using TMA and HF. The maximum mass gain per cycle (MGPC) of 44 ng/(cm² cycle) occurred at 100 °C. The MGPC values decreased at higher temperatures. The MGPC values were negative at T > 250 °C when TMA and HF were able to etch the AlF3 films. The AlF3 ALD growth rate determined by the ex situ analysis was 1.43 Å/cycle at 100 °C. The AlF3 ALD films were nearly stoichiometric with an oxygen impurity of only ∼2 at %."
+}

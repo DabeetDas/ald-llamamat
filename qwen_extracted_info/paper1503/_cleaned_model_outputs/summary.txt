@@ -1,0 +1,8 @@
+{
+  "target_material": "Sc2O3 and Gd2O3",
+  "process_type": "ALD",
+  "main_precursors": ["Sc(MeCp)3", "Gd(iPrCp)3", "H2O"],
+  "temperature_range": "200 to 350 °C",
+  "summary": "The study investigates the ALD of Sc2O3 and Gd2O3 using Sc(MeCp)3, Gd(iPrCp)3, and H2O. The reaction chemistry during the ALD processes was analyzed using in situ time-resolved quadrupole mass spectrometry. The processes showed different ligand dissociation patterns and growth characteristics. The hygroscopic nature of Gd2O3 influenced the deposition, leading to CVD-like reactions and non-uniform growth. The study also examined the transient growth behavior of Gd2O3 on Sc2O3 and vice versa, highlighting the impact of surface properties on the ALD mechanism.",
+  "evidence": "The reaction chemistry during the atomic layer deposition (ALD) of Sc2O3 and Gd2O3 from Sc(MeCp)3, Gd(iPrCp)3, and H2O was investigated by in situ time-resolved quadrupole mass spectrometry. Despite the similarity of the ligands of the Sc and Gd precursors, the growth characteristics and ligand dissociation patterns of the Sc2O3 and Gd2O3 ALD processes showed considerably different behavior. The hygroscopic nature of Gd2O3 influenced the deposition, leading to CVD-like reactions and non-uniform growth. The study also examined the transient growth behavior of Gd2O3 on Sc2O3 and vice versa, highlighting the impact of surface properties on the ALD mechanism."
+}

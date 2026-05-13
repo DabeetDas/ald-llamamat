@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2 and Gd2O3",
+  "process_type": "Atomic Layer Deposition (ALD) and high-pressure sputtering (HPS)",
+  "main_precursors": ["HfCl4", "tris(2,3-dimethyl-2-butoxy)gadolinium(III)"],
+  "temperature_range": "300 °C for HfO2, 350 °C for Gd2O3",
+  "summary": "The study investigates the effects of ionizing radiation on the electrical properties of high-k dielectrics, specifically hafnium oxide (HfO2) and gadolinium oxide (Gd2O3), deposited by atomic layer deposition (ALD) and high-pressure sputtering (HPS). The research focuses on the changes in dielectric properties, such as flat-band voltage shifts, interface state densities, and leakage current, after exposure to 18 MeV photons. The results show that radiation introduces defects and traps in the dielectrics, with Gd2O3 being more affected than HfO2.",
+  "evidence": "HfO2 and Gd2O3 high-k dielectrics were ALD on n-type silicon substrates in a hot-wall horizontal flow-type ALD reactor. HfCl4 was used as hafnium precursor, whereas tris(2,3-dimethyl-2-butoxy)gadolinium(III) was used as gadolinium precursor. HfO2 growth temperature was 300 °C and Gd2O3 was 350 °C. Ionizing radiation effects on the electrical properties of HfO2, Gd2O3, and HfO2/SiO2 based MOS capacitors have been studied. An increment in bulk dielectric trap densities has been observed when the samples were exposed to the ionizing radiation. These traps give rise to a flat-band voltage displacement, the extent of which depends on the gate dielectric used. High-k/silicon interface quality becomes worse after irradiation."
+}

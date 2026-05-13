@@ -1,0 +1,8 @@
+{
+  "target_material": "Cobalt carbide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["cobalt acetylacetonate", "propanol"],
+  "temperature_range": "300 to 390 ◦C",
+  "summary": "Cobalt carbide thin films were synthesized using atomic layer deposition (ALD) with cobalt acetylacetonate as a precursor and propanol as a reducing agent. The study investigated the effects of deposition temperature and propanol exposure time on the microstructure, chemical composition, and magnetic properties of the films. The films exhibited high coercivity and saturation magnetization, with magnetic properties tunable by adjusting deposition parameters.",
+  "evidence": "The investigation of highly conformal thin films using Atomic Layer Deposition (ALD) is driven by a variety of applications in modern technologies. In particular, the emergence of 3D memory device architectures requires conformal materials with tuneable magnetic properties. Here, nanocomposites of carbon, cobalt and cobalt carbide are deposited by ALD using cobalt acetylacetonate with propanol as a reducing agent. Films were grown by varying the ALD deposition parameters including deposition temperature and propanol exposure time. The morphology, the chemical composition and the crystalline structure of the cobalt carbide film were investigated. Vibrating Sample Magnetometer (VSM) measurements revealed magnetic hysteresis loops with a coercivity reaching 500 Oe and a maximal saturation magnetization of 0.9 T with a grain size less than 15 nm. Magnetic properties are shown to be tuneable by adjusting the deposition parameters that significantly affect the microstructure and the composition of the deposited films."
+}

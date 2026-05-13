@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "ZnOH* + Zn(CH2CH3)2 → ZnOZnCH2CH3* + CH3CH3",
+    "ZnOZnCH2CH3* + H2O → ZnOZnOH* + CH3CH3"
+  ],
+  "surface_mechanism_description": "During ZnO ALD, the resistivity oscillations correspond to the ALD reactant pulse sequence. The resistivity increases during diethyl zinc (DEZ) exposure due to the conversion of surface hydroxyl groups into alkyl species by the covalent attachment of Zn–alkyl groups. The subsequent water (H2O) exposure restores the hydroxyl surface groups and deposits additional ZnO, leading to a drop in resistivity.",
+  "intermediate_species": [
+    "ZnOH*",
+    "ZnOZnCH2CH3*",
+    "ZnOZnOH*"
+  ],
+  "evidence": "The DEZ vapor will react with surface hydroxyl groups according to ZnOH* + Zn(CH2CH3)2 → ZnOZnCH2CH3* + CH3CH3, where the asterisks denote surface species. The large increase in resistivity upon DEZ exposure is associated with the conversion of surface hydroxyl groups into alkyl species by the covalent attachment of Zn–alkyl groups. The second half reaction proceeds by ZnOZnCH2CH3* + H2O → ZnOZnOH* + CH3CH3."
+}<|im_end|>

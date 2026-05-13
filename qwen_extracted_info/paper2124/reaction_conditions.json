@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the sequential exposure of the substrate to TMA vapor and O2 plasma, with the formation of surface hydroxyl groups and the subsequent reaction with TMA to form Al-O-Al bonds, while water is desorbed. The plasma-assisted ALD process enables deposition at room temperature without requiring long purging times, and the presence of hydroxyl groups is suggested to obstruct water vapor permeation through H bonding with water vapor.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "Al-O-Al bonds",
+    "water vapor"
+  ],
+  "evidence": "The PA-ALD technique enables deposition at room temperature without requiring long purging times. The presence of hydroxyl groups is suggested to obstruct water vapor permeation through H bonding with water vapor. The surface reaction mechanism involves the sequential exposure of the substrate to TMA vapor and O2 plasma, with the formation of surface hydroxyl groups and the subsequent reaction with TMA to form Al-O-Al bonds, while water is desorbed."
+}

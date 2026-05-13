@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface chemistry is driven by electronic transitions (photolytic mechanism) rather than heat delivered by photons. The photon exposure leads to anisotropic growth, indicating that the reaction mechanism is photolytic. The effective wavelength range for photo-ALD is 190–350 nm, and the process involves ligand exchange and surface reactions that are initiated by photons.",
+  "intermediate_species": ["surface hydroxyls", "reactive O2", "monomethyl aluminum", "surface species"],
+  "evidence": "The surface chemistry was concluded to be driven by electronic transitions rather than heat delivered by photons, i.e., the deposition process appears to be photolytic rather than photothermal. Moreover, we showed that the photolytically effective wavelength range in our experimental setup is 190–350 nm. The photochemistry takes place on the surface only, not in the gas phase, allowing for area-selective growth by shadow masking."
+}

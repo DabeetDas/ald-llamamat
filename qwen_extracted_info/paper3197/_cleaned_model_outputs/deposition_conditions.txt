@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "285-365",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "60",
+  "number_of_cycles": 100,
+  "reactor_type": "hot wall cross-flow",
+  "evidence": "The ALD of HfO2 was performed on 300 mm p-type Si substrates with a (100) crystallographic orientation. Before the ALD, all substrates received an IMEC clean 20,21 to create a hydrophilic SiO2 surface with a nominal thickness of 1.1 nm. HfO2 deposition occurred in a hot wall cross-flow ASM Pulsar 3000 reactor. The N2 purge length was typically three times as long as the TEMAH and H2O pulse length with a maximum purge length of 60 s."
+}

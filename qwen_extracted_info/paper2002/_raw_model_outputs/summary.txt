@@ -1,0 +1,8 @@
+{
+  "target_material": "CdS",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["DMCd (Cd(CH3)2)", "H2S"],
+  "temperature_range": "room temperature",
+  "summary": "The study demonstrates low-temperature, chemically driven atomic-layer epitaxy (ALE) for the growth of CdS on ZnSe(100) substrates. The process utilizes self-limiting reactions with precursor molecules DMCd and H2S, achieving layer-by-layer growth without thermal assistance. The growth is monitored in situ using surface probes, and the results show self-terminating growth with monolayer precision.",
+  "evidence": "The text describes the use of DMCd (Cd(CH3)2) and H2S as precursors for the room-temperature ALE growth of CdS on ZnSe(100). It highlights the self-limiting nature of the reaction steps, the in situ monitoring techniques, and the achievement of layer-by-layer growth with monolayer precision. The study also mentions the use of Auger electron spectroscopy (AES) and low-energy ion scattering (LEIS) to confirm the growth process."
+}<|im_end|>

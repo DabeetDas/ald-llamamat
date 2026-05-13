@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "1–2 Torr",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "25",
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall viscous flow",
+  "evidence": "The films were deposited on ultraviolet (UV) ozone cleaned 2×2c m Si(100) substrates. Precursors are injected into the carrier gas stream using pneumatically operated valves. More complete details can be found elsewhere. 5,15 WS2 ALD is based on the CVD reaction: WF6 +H 2S → WS2 + 2HF + 4F. This reaction is divided into the following two proposed WF 6 and H 2S half-reactions ... The exposure time was 2 s and the purge times were 5 and 25 s for WF 6 and H 2S, respectively."
+}<|im_end|>

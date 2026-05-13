@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "480",
+  "pressure": "10 Torr",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "10",
+  "purge_time_s": "3",
+  "number_of_cycles": "707",
+  "reactor_type": "",
+  "evidence": "The ALE conditions used for this experiment are Ts5480 °C, Pr 510 Torr, and TMGa and AsH 3 supplies of 1.5 31021 and 3.03101 mmol/s for 3 and 10 s, respectively, wit h3so f hydrogen purge between each source supply."
+}

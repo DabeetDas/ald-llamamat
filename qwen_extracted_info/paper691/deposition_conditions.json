@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": "10",
+  "coreactant_pulse_time_s": "3",
+  "purge_time_s": "30",
+  "number_of_cycles": null,
+  "reactor_type": "Furnace",
+  "evidence": "La(TMHD)3 (Strem Chemicals, 99.9%) and H2O (puriﬁed by Millipore Milli-Q) were used as precursors. Due to the low vapor pressure of La(TMHD)3, the La-source container was kept at 200 8C. The sequence of the ALD cycle was H2O (3 s)/N2 (30 s)/La(TMHD)3 (10 s)/N2 (30 s)."
+}

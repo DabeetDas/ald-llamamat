@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225-250",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "heated surfaces",
+  "evidence": "To deliver pulses of Me3Al vapor, we opened a three-way valve, with inner channels of 0.4-mm inner diameter, to Me3Al vapor for 1 s, during which time 1 μmol of Me3Al vapor flowed into the deposition chamber. Then, the three-way valve was turned to flow nitrogen for 5 s to purge the chamber of residual unreacted Me3Al vapor. To deliver (ButO)3SiOH vapor, we filled a 35-ml volume with (ButO)3SiOH vapor at its equilibrium vapor pressure (ranging from 3.1 to 100 torr at reservoir temperatures from 80° to 150°C). A valve between the deposition chamber and the vacuum pump was closed, and a valve between the 35-ml volume and the deposition chamber was opened to allow the measured dose of (ButO)3SiOH vapor to expand into the deposition chamber. After 15 s, the valve to the pump was opened, and nitrogen was flowed for 5 s to purge the chamber of excess (ButO)3SiOH, as well as of volatile by-products of the reaction. This cycle was then repeated."
+}

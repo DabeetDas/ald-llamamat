@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250–350",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "0.2 to 0.8",
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "3",
+  "number_of_cycles": null,
+  "reactor_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "evidence": "STO thin ﬁlms were deposited on the Ru/SiO 2/Si wafer with a supply of Sr ~tmhd!2 and Ti(i-OPr!4 ~iso-propoxide!, argon purge, O 2 plasma, and argon purge. Sr(tmhd) 2 0.1 M solution and Ti( i-OPr) 4 0.1 M solution were prepared with tetrahydrofuran solvent. Two solutions were injected separately into the evaporator at the same time with two pulsed liquid injectors and vaporized mixtures were introduced into the deposition reactor. Injection time of the precursor was varied from 0.2 to 0.8 s. After the precursor injection, argon was used as a purge gas for 3 s."
+}

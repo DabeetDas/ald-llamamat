@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnSe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Zn",
+    "Se"
+  ],
+  "temperature_range": "250 3C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of ZnSe on GaAs(0 0 1) using RHEED and TRAXS. The ALE process alternates Zn and Se exposures, with a growth rate of approximately 0.5 BL per cycle. The surface reconstruction alternates between Se-stabilized (2]1) and Zn-stabilized c(2]2) reconstructions, and the growth mode transitions between island and layer-by-layer depending on the surface treatment.",
+  "evidence": "The experiments were performed at 250 3C by alternately supplying Zn and Se for 150 s each, with a short interval of growth interruption (30 s) in between. The growth rate of ZnSe has been estimated to be about 0.5 BL per ALE cycle."
+}

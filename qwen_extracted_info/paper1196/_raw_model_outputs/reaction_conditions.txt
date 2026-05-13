@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "MePAuMe + *O → AuO + P(O) + 6CO + 9H2O",
+    "AuO → 2Au + 3/2O2",
+    "P2O5 + 3H2O → 2H3PO4"
+  ],
+  "surface_mechanism_description": "The oxygen plasma combusts the precursor, forming oxides of both gold and phosphine in the process. Gold oxide is then converted to metallic gold in the presence of water, and phosphorus oxide is converted into volatile hydrogen phosphate and removed during the purge step.",
+  "intermediate_species": [
+    "gold oxide",
+    "phosphorus(V) oxides",
+    "phosphoric acid",
+    "hydrogen phosphate"
+  ],
+  "evidence": "The simplest chemistry that rationalizes these facts is that the oxygen plasma combusts the precursor, forming oxides of both gold and phosphine in the process: MePAuMe + *O → AuO + P(O) + 6CO + 9H2O. Gold metal is then slowly formed from the gold oxide, which agrees with the presence of both oxidation states in the XPS. This conversion occurs in the bulk at 160 °C, but the higher chemical potential of a deposited monolayer could allow this conversion to happen at lower temperature: AuO → 2Au + 3/2O2. The phosphorus oxide is converted into volatile hydrogen phosphate, and is removed during the purge step: P2O5 + 3H2O → 2H3PO4."
+}<|im_end|>

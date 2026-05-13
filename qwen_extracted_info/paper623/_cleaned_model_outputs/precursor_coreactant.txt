@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "NbCl5", "NH3", "Zn"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "TiC14 (99.9%, Aldrich), NbC15 (99.9%, Aldrich), Zn (extra pure, Merck) and NH3 (99.999%, Messer Griesheim) were used as precursors. TiC14 vapour and NH3 gas were dosed into the reactor from their external reservoirs by means of solenoid valves whereas NbC15 and Zn were evaporated from open boats inside the reactor at 90 and 445-450°C, respectively, and were pulsed with inert gas valving."
+}

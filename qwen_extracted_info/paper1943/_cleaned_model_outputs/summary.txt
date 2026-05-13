@@ -1,0 +1,8 @@
+{
+  "target_material": "gallium oxide (Ga2O3)",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": ["Ga(acac) (gallium acetylacetonate)", "water", "ozone"],
+  "temperature_range": "350-400°C",
+  "summary": "This study describes the growth of gallium oxide thin films using atomic layer epitaxy (ALE) with Ga(acac) and either water or ozone as precursors. The films were deposited on silicon, soda lime, and Corning glass substrates. The process was optimized around 370°C, and the films were found to be amorphous, uniform, and highly stoichiometric when ozone was used as the oxidizer. The study also highlights the effect of different precursors on film stoichiometry and impurity content.",
+  "evidence": "Gallium oxide thin films have been deposited by atomic layer epitaxy (ALE) using Ga(acac), (acac = pentane-2,4-dionate) and either water or ozone as precursors. ... The films deposited with water contained a considerable amount of carbon as an impurity whereas ozone as an oxidizer gave stoichiometric Ga2O3 films. ... The growth rate was much less than one monolayer per cycle and this is probably caused by steric hindrance due to the bulky Ga(acac), molecule. ... The films deposited with ozone were stoichiometric, almost pure Ga2O3 films with ca. 1 atom% carbon impurity."
+}

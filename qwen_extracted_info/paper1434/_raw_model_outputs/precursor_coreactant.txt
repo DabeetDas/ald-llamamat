@@ -1,0 +1,7 @@
+{
+  "precursors": ["copper bis-tetramethylheptanedionate (Cu(thd)2)", "H2S"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["H2", "N2"],
+  "evidence": "In both cases, Cu(thd)2 (Strem Chemicals) is evaporated in a quartz boat inside the reactor at 117 °C. H2S (4.8 Hoekloos) is used as the sulfur source in both processes, while H2 (4.8 Hoekloos) is used as the carrier and bulk gas in the CVD of Cu xS and N2 (4.8 Hoekloos) acts as carrier, bulk, and valving gas in the ALD of Cu xS."
+}<|im_end|>

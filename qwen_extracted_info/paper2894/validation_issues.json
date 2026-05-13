@@ -1,0 +1,51 @@
+{
+  "summary": [
+    {
+      "code": "evidence_not_found",
+      "path": "summary.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ],
+  "precursor_coreactant": [
+    {
+      "code": "empty_evidence",
+      "path": "precursor_coreactant.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ],
+  "deposition_conditions": [
+    {
+      "code": "empty_evidence",
+      "path": "deposition_conditions.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ],
+  "reaction_conditions": [
+    {
+      "code": "empty_evidence",
+      "path": "reaction_conditions.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ],
+  "substrate_info": [
+    {
+      "code": "empty_evidence",
+      "path": "substrate_info.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ],
+  "film_properties": [
+    {
+      "code": "empty_evidence",
+      "path": "film_properties.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ],
+  "characterization": [
+    {
+      "code": "evidence_not_found",
+      "path": "characterization.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ]
+}

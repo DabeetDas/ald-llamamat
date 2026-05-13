@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "diethylzinc (DEZ)"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "Nitrogen (99.999%)"
+  ],
+  "carrier_gas": [
+    "Nitrogen (99.999%)"
+  ],
+  "evidence": "diethylzinc (Crompton GmbH) and water were used as precursors. They were introduced in the reactor from external containers kept at room temperature. Nitrogen (99.999%) was used both as a carrier and purging gas."
+}

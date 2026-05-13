@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "PEALD",
+  "main_precursors": ["TiCl4", "NH3"],
+  "temperature_range": "270-370°C",
+  "summary": "This study explores the deposition of TiN films using plasma enhanced atomic layer deposition (PEALD) and compares it with traditional atomic layer deposition (ALD). The use of TiCl4 as a titanium source and NH3 as a reducing agent is highlighted. PEALD offers advantages such as lower deposition temperatures and improved growth rates, making it suitable for temperature-sensitive applications. The films exhibit excellent properties including low resistivity and high density.",
+  "evidence": "This study explores TiN ﬁlm deposition using the plasma enhanced atomic layer deposition /H20849PEALD/H20850technique, comparing the results of PEALD-TiN with the previous results of ALD-TiN and ALD-TiN with in situ reduction. Each of the studies used TiCl 4 precursor as the titanium source. The ALD-TiN study used ammonia as the reducing agent. PEALD provides signiﬁcant advantages if the deposition temperature is lower than 350°C."
+}

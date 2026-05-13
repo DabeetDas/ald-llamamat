@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth process involves alternating gas supply of precursors, where the surface catalytic effect enhances the decomposition of reactants, particularly PH3. At low temperatures, the methyl radicals instead of the In atoms play crucial roles in the reaction, similar to the case of ALE of GaAs. The monolayer saturation growth requires a large activation energy difference between chemical adsorption and physical adsorption, leading to one monolayer growth per cycle.",
+  "intermediate_species": [
+    "methyl radicals",
+    "surface catalytic effect",
+    "PH3 decomposition products"
+  ],
+  "evidence": "At such a low growth temperature, TMln is only partially decomposed. This suggests that the methyl radicals instead of the In atoms play crucial roles in the reaction similar to the case of ALE of GaAs. Because of the larger size of the radicals, the van der Waals force is weaker and, consequently, monolayer saturation can occur. The surface catalytic effect greatly enhances the decomposition of reactants, particularly PH3."
+}

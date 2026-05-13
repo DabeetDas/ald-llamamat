@@ -1,0 +1,8 @@
+{
+  "target_material": "Lu2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Lu(iPrO)3(iPrO=OCH(CH3)2)", "H2O"],
+  "temperature_range": "330 °C during deposition, 600–950 °C during RTA",
+  "summary": "The study investigates the effect of rapid thermal annealing on the optical and interfacial properties of Lu2O3 films deposited by atomic layer deposition on Si(100). The films were grown using Lu(iPrO)3(iPrO=OCH(CH3)2) and H2O as precursors at 330 °C. The refractive index and optical band gap were measured, and the interfacial Lu-silicate growth was identified as a key factor affecting these properties. The surface roughness decreased with increasing annealing temperature.",
+  "evidence": "Lu2O3 films have been grown on Si(100) by atomic layer deposition using Lu(iPrO)3(iPrO=OCH(CH3)2) and H2O. The growth temperature was set to 330 °C during deposition. The prepared Lu2O3 films were then subjected to RTA in the temperature range of 600–950 °C in nitrogen ambient for 60 s. It is revealed that interfacial Lu-silicate growth upon annealing is the dominant factor affecting the refractive index and optical band gap of Lu2O3 films. For all samples, the surface roughness decreases with increasing annealing temperature."
+}<|im_end|>

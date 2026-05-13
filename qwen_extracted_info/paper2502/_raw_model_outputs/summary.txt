@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["titanium tetraisopropoxide", "H2O2"],
+  "temperature_range": "77 1C",
+  "summary": "The study describes the atomic layer deposition (ALD) of TiO2 films on high-density polyethylene (HDPE) particles at low temperatures. The process uses titanium tetraisopropoxide and H2O2 as precursors, and the deposited films are amorphous with low photoactivity. The ALD process was carried out in a fluidized bed reactor, and the films were characterized using XPS and STEM. The growth rate of the TiO2 films was found to be 0.15 nm/cycle at 77 1C.",
+  "evidence": "The deposition was carried out by alternating reactions of titanium tetraisopropoxide and H2O2 (50 wt% in H2O) at 77 1C in a fluidized bed reactor. X-ray photoelectron spectroscopy confirmed the deposition of TiO2 and scanning transmission electron microscopy showed the conformal TiO2 films deposited on polymer particle surfaces. The TiO2 ALD process yielded a growth rate of 0.15 nm/cycle at 77 1C. The results of inductively coupled plasma atomic emission spectroscopy suggested that there was a nucleation period, which showed the reaction mechanism of TiO2 ALD on HDPE particles without chemical functional groups. TiO2 ALD films deposited at such a low temperature had an amorphous structure and showed a much weaker photoactivity intensity than common pigment-grade anatase TiO2 particles."
+}<|im_end|>

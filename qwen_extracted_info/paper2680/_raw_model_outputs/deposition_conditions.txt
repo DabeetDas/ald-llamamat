@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "500 and 20 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "warm-wall (120°C)",
+  "evidence": "ALD reactions were carried out in our custom-built, warm-wall (120°C) reactor that is equipped with two precursor lines and an oxidizer line that can be connected to a water bubbler, an ozone generator, or any gas cylinder of choice. The operating and base pressures were maintained at 500 and 20 mTorr, respectively, with ultrahigh purity N as the purging and carrier gas."
+}<|im_end|>

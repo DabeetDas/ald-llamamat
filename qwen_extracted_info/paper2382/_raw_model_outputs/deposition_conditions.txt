@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 400,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "capacitively coupled remote RF-plasma",
+  "evidence": "The deposition temperature for all runs was fixed at 200 ◦C, ensuring no TMA decomposition, with a base pressure at ∼ 1 mbar. The TMA source temperature was kept at 20 ◦C and pulse time was 400 ms. Plasma exposure time was 20 s for all gas mixtures, which was confirmed to be of sufficient duration to ensure the completion of the second ALD half-reaction."
+}<|im_end|>

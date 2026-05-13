@@ -1,0 +1,12 @@
+{
+  "target_material": "AlAs and (AlAs)n(GaAs)n superlattices",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "ethyldimethylamine alane (EDMAAI)",
+    "trimethylgallium (TMGa)",
+    "arsine (AsH3)"
+  ],
+  "temperature_range": "250°C to 650°C",
+  "summary": "The study describes the successful Atomic Layer Epitaxy (ALE) growth of AlAs and (AlAs)n(GaAs)n superlattices using ethyldimethylamine alane (EDMAAI) as a new aluminum source. The process allows for low carbon content incorporation, and the interfacial roughness is analyzed using X-ray diffraction and Raman scattering measurements. The results indicate that the ALE process can produce high-quality superlattices with smooth interfaces for n > 2.",
+  "evidence": "We describe the successful ALE growths of AlAs and (AlAs)n(GaAs)n superlattices (SLs) with reduced carbon content by using ethyldimethylamine alane as a new aluminum source. ... This suggests that we can grow (AlAs)n(GaAs)n SLs entirely by the ALE process at substrate temperatures between 450°C and 580°C. ... The A1As/GaAs interface is reasonably smooth for the SLs with n > 3 while it becomes rough for those with n < 2."
+}

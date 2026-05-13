@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during plasma-enhanced atomic layer deposition (PEALD) involve the alternating supply of [(CH3)2GaNH2]3 or Ti(N(CH3)2)4 vapor pulse with O2 plasma. The deposition cycle consists of four pulses: [(CH3)2GaNH2]3 or Ti(N(CH3)2)4 vapor pulse with Ar carrier gas, Ar purge gas pulse, O2 plasma gas pulse, and Ar purge gas pulse. The Ga2O3-TiO2 films are formed through the interaction of these precursors with the surface, leading to the formation of the nanomixed films.",
+  "intermediate_species": ["Ga2O3", "TiO2", "interfacial layers"],
+  "evidence": "The Ga2O3-TiO2 films were deposited at 200◦C on Si (001) substrates using plasma-enhanced atomic-layer deposition with an alternating supply of [(CH3)2GaNH2]3,O2 plasma, Ti(N(CH3)2)4 and O2 plasma. One deposition cycle consists of four pulses: [(CH3)2GaNH2]3 or Ti(N(CH3)2)4 vapor pulse with 100 sccm Ar carrier gas for 0.1s, Ar purge gas pulse for 2s, O2 plasma gas pulse for 1s, and Ar purge gas pulse for 0.4s. The Ga2O3-TiO2 films are formed through the interaction of these precursors with the surface, leading to the formation of the nanomixed films."
+}

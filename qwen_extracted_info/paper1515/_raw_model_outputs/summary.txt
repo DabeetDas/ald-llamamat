@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["titanium tetraisopropyl oxide (TIP) [Ti(OiPr)4]", "pure water"],
+  "temperature_range": "70 °C",
+  "summary": "The study describes the fabrication of pure anatase TiO2 submicrotubes using a template-directed method with electrospun poly(vinyl pyrrolidone) (PVP) fibers as templates. Atomic layer deposition (ALD) was used to coat the PVP fibers with TiO2 at 70 °C using titanium tetraisopropyl oxide (TIP) and water as precursors. The as-deposited TiO2 layers were amorphous, but after calcination at 500 °C for 4 h, they transformed into polycrystalline anatase TiO2 submicrotubes with a high-quality crystalline structure and a blue shift in the optical band gap energy.",
+  "evidence": "The deposition was conducted onto a template at 70 °C by using titanium tetraisopropyl oxide (TIP) [Ti(OiPr)4] and pure water as precursors of TiO2. ... After calcination at 500 °C for 4 h the amorphous TiO2 layers ... were properly converted into polycrystalline nanostructured TiO2 submicrotubes with high quality of anatase. ... The optical band gap energy was also tuned with a blue shift."
+}<|im_end|>

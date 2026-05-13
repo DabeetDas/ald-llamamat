@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "20 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "metalorganic vapor phase epitaxial system",
+  "evidence": "The reactor pressure was 20 Torr during growth. The reactant gases were exchanged by a vent/run system equipped with a pressure-balanced manifold, The growth temperature was 500 °C."
+}

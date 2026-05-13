@@ -1,0 +1,7 @@
+{
+  "precursors": ["SnCl4", "H2O"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "In the ALD processes, nitrogen was selected in this study as the carrier gas with a flow rate of 20 sccm, and the ALD reactor was sustained at a low level of pressure (typically 0.4 Torr) with a vacuum pump (Pascal 2005 I, Adixon)."
+}

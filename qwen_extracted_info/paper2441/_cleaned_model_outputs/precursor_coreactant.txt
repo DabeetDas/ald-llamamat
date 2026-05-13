@@ -1,0 +1,7 @@
+{
+  "precursors": ["MoCl5", "H2S"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The process of ALD MoS2 was shown in Fig.1, in which one ALD cycle contains four steps: pulse and purge MoCl5 precursor, pulse and purge H2S precursor by N2."
+}

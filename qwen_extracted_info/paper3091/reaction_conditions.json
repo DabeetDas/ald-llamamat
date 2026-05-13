@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD involve the pulsing of chemical precursors, such as tetrakisdimethylamidohafnium (TDMAH) and trimethylaluminum (TMA), followed by water vapor pulses. The surface reaction mechanism includes the formation of a hafnium silicate interlayer at the interface with the Si substrate, which affects the mechanical properties of HfO2 films.",
+  "intermediate_species": [
+    "hafnium silicate interlayer"
+  ],
+  "evidence": "The text states, 'HfO2 forms a hafnium silicate interlayer, which influences its nanoindentation properties close to the interface with the Si substrate, while Al2O3 does not exhibit any interlayer.'"
+}

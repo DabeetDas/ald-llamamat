@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-350",
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 1.5,
+  "purge_time_s": 8,
+  "number_of_cycles": 200,
+  "reactor_type": "showerhead",
+  "evidence": "Each PE-ALD cycle consists of four sequential steps: exposure of CBr4 to the hydroxylated SiO2 substrate for a ts of 4, 6, 8, 10, 14, and 18 s (step 1), purging of residual precursor molecules by inert Ar gas (step 2), exposure to hydrogen plasma gas (with a rf power of 200 W) at a partial pressure of ~102 Pa for a plasma pulse time (tp) of 1.5 s (step 3), and purging of byproducts and residual H2 reactant gas using inert Ar gas (step 4). The Ar purging gas was maintained at a fixed flow rate of 90 sccm for 8 s."
+}<|im_end|>

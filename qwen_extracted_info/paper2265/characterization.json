@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Ellipsometry",
+    "Capacitance-voltage (CV) measurements",
+    "Cross-sectional transmission electron microscopy (TEM)",
+    "Four-point probe",
+    "Atomic Force Microscopy (AFM)",
+    "Scanning Tunneling Microscopy (STM)"
+  ],
+  "evidence": "Film thicknesses were determined by ellipsometry, the readings of which were calibrated by cross-sectional transmission electron microscopy. For capacitance-voltage (CV) measurements, Pt top electrodes were deposited in an e-beam evaporator through a shadow mask. The dielectric constant of the Al2O3 films was determined–by linear fitting of the inverse of the maximum capacitance at accumulation at 800 kHz versus film thickness–to be 8.2 ±0.5 and 6.8 ±0.1 for the as-deposited and post-FGA films, respectively. The authors also mention the use of XPS to analyze the Al 2p to O 1s core level peak intensity. The effect of local variations in stoichiometry was investigated using first-principles calculations. The authors also mention the use of AFM and profilometry in the context of surface analysis."
+}

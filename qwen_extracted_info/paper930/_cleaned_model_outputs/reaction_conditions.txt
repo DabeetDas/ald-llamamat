@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the alternating reactions of trimethylaluminum (TMA) with deionized water, where TMA reacts with surface hydroxyl groups and water pulses regenerate the OH sites. The alumina deposition occurs on the surface and within the nanopores, with the growth rate dependent on the reaction temperature and substrate properties.",
+  "intermediate_species": ["surface hydroxyls", "alumina clusters", "TMA"],
+  "evidence": "The alumina ALD process is conventionally thought to begin with native hydroxyl groups on the surface. The LLC polymer does not have hydroxyl groups, but the water in the nanopore network can react with TMA to initiate alumina ALD during the 1st coating cycle. Normally, during the nucleation period in ALD, alumina clusters will be formed, instead of a continuous layer of alumina; and the alumina ALD film growth rate is 0.1–0.4 nm after the nucleation period, depending on the reaction temperatures and substrate properties."
+}

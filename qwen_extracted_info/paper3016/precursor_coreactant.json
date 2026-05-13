@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "TDMAT",
+    "Ru(EtCp)2"
+  ],
+  "coreactants": [
+    "N2 plasma",
+    "H2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "TDMAT and Ru /H20849EtCp/H208502 were heated at 40 and 80°C, respectively. During the deposition, 100 sccm Ar gas was continuously supplied into the reactor. ... A unit cycle for TiN was composed of a TDMAT vapor pulse with 50 sccm Ar carrier gas, a purge pulse with 50 sccm Ar, a pulse for an exposure to N2 plasma with 100 sccm N2 gas, and another 50 sccm Ar purge pulse. Also, a unit cycle for Ru was composed of a Ru /H20849EtCp/H208502 vapor pulse with 75 sccm Ar carrier gas, a purge pulse with 50 sccm Ar, a pulse for an exposure to a mixed gas plasma with 100 sccm N2 and 100 sccm H2, and another 50 sccm Ar purge pulse."
+}

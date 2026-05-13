@@ -1,0 +1,8 @@
+{
+  "target_material": "silica",
+  "process_type": "ALD",
+  "main_precursors": ["tetramethoxysilane (TMOS)", "ammonia (NH3)"],
+  "temperature_range": "room temperature (RT)",
+  "summary": "The paper describes a low-temperature ALD method for growing uniform silica multilayers using tetramethoxysilane (TMOS) and ammonia (NH3) as precursors at room temperature. This method uses simple lab equipment and ambient conditions, avoiding the need for vacuum systems and high temperatures typically required for ALD. The process is applied to coat hydrophilic surfaces, including polymer spheres and colloidal crystal films, to create nanoscale silica layers with controlled thickness and uniformity.",
+  "evidence": "Herein we demonstrate a simpliﬁed, ‘ poor-man’s’ form of the Atomic Layer Deposition (ALD) technique to grow uniform silica multilayers onto hydrophilic surfaces at low temperatures, including room temperature (RT). Tetramethoxysilane vapor is used alternately with ammonia vapor as a catalyst, with very common benchtop lab equipment in an ambient environment."
+}<|im_end|>

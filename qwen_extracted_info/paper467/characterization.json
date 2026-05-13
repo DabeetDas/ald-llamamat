@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Ultraviolet Photoelectron Spectroscopy (UPS)",
+    "Current Density-Voltage (J-V) measurement",
+    "Electrochemical Impedance Spectroscopy (EIS)",
+    "Infrared (IR) spectroscopy",
+    "UV-Vis absorption spectroscopy",
+    "XPS/EXCA (X-ray Photoelectron Spectroscopy for chemical analysis)"
+  ],
+  "evidence": "Atomic force microscopy (AFM, XE-100, Park Systems ) was performed to examine the surface morphology and surface roughness of the Ni4MP film. The functional groups present were studied by infrared (IR) spectroscopy (FTLA2000 -104, ABB Bomem). The chemical states were analyzed by X -ray photoelectron spectroscopy ( XPS) using a VG ESCALAB 220i spectrometer with an Al Ka X -ray line (1486.6 eV). The band offsets of Ni4MP were obtained through ultraviolet photoelectron spectroscopy ( UPS) measurements performed using XPS/electron spectroscopy for chemical analysis (XPS/EXCA, PHI 5000 VersaProbe, ULVAC PHI). The current density -voltage (J-V) characteristic of the devices was obtained using a Keithly-2400 source meter at continuous scanning of the potential at the rate of 100 mV s -1. The charge transfer resistance of the devices was studied using electrochemical impedance spectroscopy (EIS), and the impedance spectra were obtained using an IVIUM CompactStat impedance analyzer in the frequency range of 0.01 Hz to 1.6 MHz."
+}

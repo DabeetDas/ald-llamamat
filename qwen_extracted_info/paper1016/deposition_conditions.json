@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "0.11 Torr",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "Ensure scientific group LabNano PE™",
+  "evidence": "The ALD process was conducted at a temperature, between 100 and 250 °C. The precursor, tetrakis(dimethylamino)tin (TDMASn), was heated to 60 °C to ensure there was sufficient vapor pressure to enter the chamber. The normal PEALD process consists of the following steps: (1) the TDMASn pulse time is 0.5 s, (2) Ar purge time is 10 s, (3) remote oxygen plasma time is 8 s, (4) Ar purge time is 10 s. The pressure of the chamber during PEALD was 0.11 Torr."
+}

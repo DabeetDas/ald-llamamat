@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "AlOxAl(CH3)3 + 3−x H2O → AlO1.5Al(OH)3−x + (3−x) CH4",
+    "AlO1.5Al(OH)3−x ↔ (x − 1.5) AlOH + (x − 1.5) H2O"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the dissociative adsorption of WF6 on hydroxylated Al2O3 surfaces, forming AlOF compounds. The reaction of Si2H6 with AlOH surface species leads to the formation of surface species such as AlOSiH2SiH3. The W ALD nucleation and growth occur through the interaction of WF6 and Si2H6 with the surface, leading to the formation of W islands and subsequent coalescence.",
+  "intermediate_species": [
+    "AlOH",
+    "AlOSiH2SiH3",
+    "WF5*",
+    "F*"
+  ],
+  "evidence": "The surface reaction mechanism and associated chemistry are described in the text, including the dissociative adsorption of WF6 on hydroxylated Al2O3 surfaces, the reaction of Si2H6 with AlOH surface species, and the formation of intermediate species such as AlOH and AlOSiH2SiH3. The equations for the surface reactions are provided in the text."
+}

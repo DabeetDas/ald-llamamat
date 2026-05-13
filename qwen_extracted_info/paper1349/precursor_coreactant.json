@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "trimethyl indium",
+    "diethyl zinc"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "argon"
+  ],
+  "carrier_gas": [
+    "argon"
+  ],
+  "evidence": "The metal sources for the thin-film depositions were trimethyl indium 98+% (99.9% In, Strem Chemicals) and diethyl zinc (min. 95%, Strem Chemicals) for In2O3 and ZnO, respectively. Water (high-performance liquid chromatography (HPLC) grade, Sigma-Aldrich) was used as an oxidant. Argon (99.9999%, α Gaz) was used as a carrier gas and set to a flow rate of 20 sccm during the depositions."
+}

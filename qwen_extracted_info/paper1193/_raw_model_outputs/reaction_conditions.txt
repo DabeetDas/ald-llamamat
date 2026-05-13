@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the treatment of 1 with formic acid, leading to the formation of cobalt(II) formate, which is then reduced to cobalt metal. The process is facilitated by the reducing coreagent 2, which reduces the cobalt(II) formate to cobalt metal. The mechanism is similar to the previously reported three-step copper metal ALD process using Cu(dmap)2, formic acid, and hydrazine.",
+  "intermediate_species": ["cobalt(II) formate"],
+  "evidence": "The mechanistic aspects of the cobalt deposition process are speculative at this point. Treatment of 1 with formic acid in THF for 1 h at 66 °C led to a pink precipitate that was a mixture of cobalt(II) formate dihydrate, cobalt metal, CoO, and Co3O4 by powder X-ray diffraction, suggesting a complex reaction process. Bulk cobalt(II) formate undergoes self-decomposition at 237 °C, and should thus be thermally stable at <200 °C if it is formed as an intermediate species."
+}<|im_end|>

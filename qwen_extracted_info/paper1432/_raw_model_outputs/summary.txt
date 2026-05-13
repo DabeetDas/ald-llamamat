@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["ZnCl2", "O2"],
+  "temperature_range": "480 °C substrate temperature, 390 °C ZnCl2-source temperature",
+  "summary": "The study describes the growth of monocrystalline ZnO films on GaN/Al2O3 templates using atomic layer epitaxy (ALE) with ZnCl2 and O2 precursors. The process was carried out at a low pressure of about 5 mbar and a substrate temperature of 480 °C. The resulting ZnO films exhibited low surface roughness and high structural quality, with lattice parameters consistent with monocrystalline ZnO. The study also highlights the importance of the ALE process in achieving high-quality monocrystalline films compared to conventional methods.",
+  "evidence": "Atomic layer epitaxy (ALE) of ZnO on a GaN template was performed in a low-pressure gas flow system using ZnCl2 and O2 precursors, and the evidence of monocrystallinity of an ALE-grown ZnO film is presented. The growth is achieved under the pressure of about 5 mbar with 480 °C substrate temperature and the ZnCl2-source temperature of 390 °C. According to the AFM analyses, the film surface exhibits a low roughness value of 0.45 nm RMS, which fulfills the expectations with respect to high morphological quality of the ALE products. The structural properties of the produced ZnO are characterized by means of X-ray diffraction methods based on wide range 2θ/ω scans and high-resolution studies of 00.2 and 11.4 reciprocal lattice points."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "InAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylindium (TMI)", "tertiarybutylarsine (TBA)"],
+  "temperature_range": "350-410~",
+  "summary": "The study reports the atomic layer epitaxy (ALE) of InAs using trimethylindium (TMI) and tertiarybutylarsine (TBA) as precursors. Self-limiting growth was observed over a large temperature range between 350-410~. The process was optimized using in-situ reflectance difference spectroscopy (RDS) to study the self-limiting mechanisms of As and In. The resulting InAs epilayers showed high purity and quality, comparable to those grown by conventional MOCVD.",
+  "evidence": "Tertiarybutylarsine and trimethylindium were used as precursors for atomic layer epitaxy of InAs. Self-limiting growth has been observed for a large temperature range between 350-410~ In-situ reflectance difference spectroscopy was used to study the difference between the As and In self-limiting mechanisms on the InAs surface and also to optimize the growth parameters. Optical and transport properties of InAs grown epilayers show that high purity material can be achieved by atomic layer epitaxy."
+}<|im_end|>

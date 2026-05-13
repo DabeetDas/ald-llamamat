@@ -1,0 +1,7 @@
+{
+  "precursors": ["tris(N,N′-diisopropylacetamidinato) praseodymium", "trimethylaluminum"],
+  "coreactants": ["water"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "The Pr precursor was kept at 125 °C, and the TMA (Aldrich, 99.9999 %) and water (ultrahigh purity) at room temperature. The carrier gas was nitrogen purified to < 1 ppb of H2O and O2."
+}

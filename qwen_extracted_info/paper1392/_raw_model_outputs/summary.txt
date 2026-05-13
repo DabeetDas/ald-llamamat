@@ -1,0 +1,8 @@
+{
+  "target_material": "Molybdenum nitride (MoN_x)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["molybdenum hexacarbonyl [Mo(CO)6]", "ammonia [NH3]"],
+  "temperature_range": "170 °C",
+  "summary": "Molybdenum nitride thin films were deposited using atomic layer deposition (ALD) with molybdenum hexacarbonyl and ammonia as precursors. The films were found to be amorphous as-deposited and transformed to hexagonal MoN upon annealing at 400 °C under NH3 atmosphere. The films showed good electrochemical performance as anode materials for Li-ion batteries, with a stable discharge capacity of 700 mAh g−1 after 100 cycles.",
+  "evidence": "ABSTRACT: Molybdenum nitride (MoN x) thin ﬁlms are deposited by atomic layer deposition (ALD) using molybdenum hexacarbonyl [Mo(CO) 6] and ammonia [NH 3] at varied temperatures. ... As grown thin ﬁlms are found to have notable potential as a carbon and binder free anode material in a Li ion battery. Under half-cell con ﬁguration, a stable discharge capacity of 700 mAh g −1 was achieved after 100 charge −discharge cycles, at a current density of 100 μAc m −2."
+}<|im_end|>

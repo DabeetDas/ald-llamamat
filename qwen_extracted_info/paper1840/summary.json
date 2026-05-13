@@ -1,0 +1,11 @@
+{
+  "target_material": "Nickel oxide (NiO)",
+  "process_type": "Plasma-assisted ALD",
+  "main_precursors": [
+    "bis-methylcyclopentadienylnickel (Ni(MeCp)2)",
+    "O2 plasma"
+  ],
+  "temperature_range": "50–300 °C",
+  "summary": "Plasma-assisted atomic layer deposition (ALD) of nickel oxide (NiO) is carried out using bis-methylcyclopentadienylnickel (Ni(MeCp)2) as precursor and O2 plasma as co-reactant over a temperature range of 50–300 °C. The process is aimed at integrating NiO as a hole transport layer (HTL) in hybrid perovskite solar cells (PSCs). Post-annealing of the ALD NiO films in air prior to perovskite synthesis improves the performance of the solar cells by enhancing the wettability of the perovskite layer and increasing the conductivity and mobility of the NiO films, resulting in a higher power conversion efficiency (PCE) of 17.07%.",
+  "evidence": "In this work, plasma-assisted atomic layer deposition (ALD) of nickel oxide (NiO) is carried out by adopting bis-methylcyclopentadienylnickel (Ni(MeCp)2) as precursor and O2 plasma as co-reactant, over a wide table temperature range of 50–300 °C. A growth rate of 0.32 Å per cycle is obtained for films deposited at 150 °C with an excellent thickness uniformity on a 4 inch silicon wafer. It is concluded that 'key' to efficient solar cell performance is the post-annealing treatment of the ALD NiO films in air, prior to perovskite synthesis. Post-annealing leads to better wettability of the perovskite layer and increased conductivity and mobility of the NiO films, delivering an increase in short-circuit current density (Jsc) and fill factor (FF) in the fabricated devices. Overall, a superior 17.07% PCE is achieved in the post-annealed NiO-based PSC when compared to the 13.98% PCE derived from the one with pristine NiO."
+}

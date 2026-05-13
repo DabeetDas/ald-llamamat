@@ -1,0 +1,22 @@
+{
+  "reaction_equations": [
+    "TMGa + H2 -> DMGa + CH4",
+    "DMGa + H2 -> MMGa + CH4",
+    "MMGa + H2 -> Ga + CH4",
+    "H2 + CH3 -> CH4 + H",
+    "CH3 + CH3 -> C2H6",
+    "MMGa + CH3 -> GaCH2 + CH4",
+    "TMGa + H -> DMGa + CH4"
+  ],
+  "surface_mechanism_description": "The decomposition of TMGa in the gas phase produces CH4 and Ga radicals, which are then adsorbed on the surface. The adsorption of Ga radicals is followed by the formation of Ga-C bonds, leading to the growth of GaAs monolayers. The presence of H2 in the gas phase enhances the decomposition of TMGa and the subsequent surface reactions, which are crucial for achieving monolayer growth in ALE.",
+  "intermediate_species": [
+    "DMGa",
+    "MMGa",
+    "CH4",
+    "Ga radicals",
+    "CH3",
+    "C2H6",
+    "GaCH2"
+  ],
+  "evidence": "We believe this dependence is the result of H radical attack on TMGa and the formation of CH4 as shown in the equations below: TMGa + H2 -> DMGa + CH4, DMGa + H2 -> MMGa + CH4, MMGa + H2 -> Ga + CH4, H2 + CH3 -> CH4 + H, CH3 + CH3 -> C2H6, MMGa + CH3 -> GaCH2 + CH4, TMGa + H -> DMGa + CH4."
+}<|im_end|>

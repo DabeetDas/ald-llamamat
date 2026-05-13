@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "3O(ads) + 2CH3C5H4Pt(CH3)3(g) → CH3C5H4Pt(CH3)2(ads) + CO2(g) + H2O(g) + CH4(g)",
+    "2CH3C5H4Pt(CH3)2(ads) + 24O2(g) → 2Pt(s) + 3O(ads) + 16CO2(g) + 13H2O(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "Kessels et al. investigated the chemistry further and provided the following mechanism: 3O(ads) + 2CH3C5H4Pt(CH3)3(g) → CH3C5H4Pt(CH3)2(ads) + CO2(g) + H2O(g) + CH4(g) (1) 2CH3C5H4Pt(CH3)2(ads) + 24O2(g) → 2Pt(s) + 3O(ads) + 16CO2(g) + 13H2O(g) (2)"
+}

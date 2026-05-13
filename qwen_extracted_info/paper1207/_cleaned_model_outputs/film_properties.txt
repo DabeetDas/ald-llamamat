@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 22.2,
+  "density_g_cm3": 2.7,
+  "refractive_index": null,
+  "surface_roughness_nm": 2.4,
+  "crystal_phase": "Amorphous or weakly crystalline",
+  "evidence": "XRR data for films grown at 150 (1500cy), 200 (500cy), and 250 ˚C (1500cy) on native oxide Si(100) and the corresponding modeled fits. The growth rate trends are in general agreement with QCM results, and provide further information about film density and roughness. Film roughnesses are approximately constant at 2 nm roughness regardless of growth temperature and thickness."
+}

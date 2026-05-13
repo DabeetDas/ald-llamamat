@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "MgOH* + Mg(CpEt)2 f MgO-MgCpEt* + HCpEt (A1)",
+    "2MgOH* + Mg(CpEt)2 f (MgO)2Mg* + 2HCpEt (A2)",
+    "MgCpEt* + H2O f MgOH* + HCpEt (B1)",
+    "(MgO)2Mg* + H2O f MgOMgOH* + MgOH* (B2)"
+  ],
+  "surface_mechanism_description": "Mg(CpEt)2 reacts with surface hydroxyl groups (OH*) to form surface species (MgO-MgCpEt* and MgOMgOH*) and release HCpEt. Subsequent H2O exposure leads to the regeneration of OH* surface species and removal of CpEt* ligands. The reactions are self-limiting and involve ligand exchange and surface regeneration.",
+  "intermediate_species": [
+    "MgO-MgCpEt*",
+    "MgOMgOH*",
+    "MgOH*",
+    "MgCpEt*",
+    "HCpEt"
+  ],
+  "evidence": "The surface reactions and mechanisms are described in the text, including the equations for reactions A1, A2, B1, and B2, as well as the discussion of surface species and their transformations during Mg(CpEt)2 and H2O exposures."
+}

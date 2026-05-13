@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "TiI4",
+    "H2O2"
+  ],
+  "temperature_range": "250–490 \u001eC",
+  "summary": "TiO2 thin films were deposited using atomic layer deposition (ALD) from TiI4 and H2O2 on amorphous soda lime glass and polycrystalline silicon substrates. The study investigated the effect of growth temperature on the crystalline structure, growth rate, and optical properties of the films. The films exhibited anatase and rutile phases depending on the deposition temperature, with a notable transition region between 300–325 \u001eC. The refractive index increased with temperature, reaching up to 2.75. The films were found to be iodine-free and contained low residual hydrogen.",
+  "evidence": "TiO2 thin films have been grown on amorphous soda lime glass and polycrystalline silicon substrates from TiI4 and H2O2 by atomic layer deposition (ALD) in the temperature range 250–490 \u001eC. The refractive index reached 2.70–2.75 in the films grown above 300 \u001eC. The films contained low amounts of residual hydrogen and were virtually iodine-free. When deposited below 300 \u001eC and above 325 \u001eC, the films contained weakly crystallized, but still distinct, anatase and rutile phases, respectively."
+}

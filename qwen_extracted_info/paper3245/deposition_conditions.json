@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400-500",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 6,
+  "purge_time_s": 8,
+  "number_of_cycles": 250,
+  "reactor_type": "thermal ALD setup",
+  "evidence": "Fig. 7 shows a schematic of the reaction mechanism by which LiPON is formed via thermal ALD. High-energy N is required in order to sever the temporarily formed P–O–P bonds and substitute O with N. Examples include irradiation with plasmiﬁed N18 or ion implantation.24 In the thermal ALD process, it is not possible to endow nitrogen with high energy. Thus, nitriding of the LiPON ﬁlm in the thermal ALD process does not involve the replacement of O with N; on the other hand, P = N–P bonds must be generated from the beginning of the process. In the deposition process in this experiment, O2, which is relatively weakly oxidative, was selected as the oxidizing agent, allowing us to limit oxidation and suppress the formation of P–O–P bonds. Therefore, in the subsequent nitriding steps, NH3 gas causes the atmosphere in the ﬁeld to become a reducing agent, leading to the direct formation of P = N–P bonds. This results in the efﬁcient introduction of N into the O positions."
+}

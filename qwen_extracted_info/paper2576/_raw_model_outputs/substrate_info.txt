@@ -1,0 +1,7 @@
+{
+  "substrate_material": "Si",
+  "substrate_orientation": "100",
+  "pretreatment": "H radical exposure in the second ALD reactor to remove carbon species adsorbed on the Al2O3 ALD surface",
+  "surface_functionalization": "Hydrogen radical exposure to remove carbon contamination from the Al2O3 ALD surface",
+  "evidence": "The substrates were heated to temperature by placing them in direct contact with the resistively heated pyrolytic BN heating element. Tantalum nitride ALD was first investigated at a substrate temperature of 250 °C. At this temperature, a significant amount of deposition was observed on the BN heater surface. A Si substrate temperature of 250 °C corresponds to a BN heater temperature of 350 °C. The deposition on the BN heater was associated with decomposition of the TBTDET precursor. Carbon species that were adsorbed on the Al2O3 ALD surface during transfer through air were removed prior to the tantalum nitride ALD by H radical exposure in the second ALD reactor."
+}<|im_end|>

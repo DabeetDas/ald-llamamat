@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "10 mTorr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": 500,
+  "reactor_type": "Oxford Instruments OpAL PEALD",
+  "evidence": "For each experimental set, the following conditions were kept constant between growths: 0.1 s TEGa dose, 5 s TEGa purge, 5 s O 2 plasma duration, 5 s O 2 plasma purge."
+}

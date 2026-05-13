@@ -1,0 +1,22 @@
+{
+  "characterization_methods": [
+    "XPS",
+    "FTIR",
+    "EPR",
+    "Atomic Force Microscopy (AFM)",
+    "Transmission Electron Microscopy (TEM)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Ellipsometry",
+    "X-ray Reflectivity (XRR)",
+    "Scanning Electron Microscopy (SEM)",
+    "High-Resolution Transmission Electron Microscopy (HRTEM)",
+    "Four-point probe",
+    "Photocurrent measurement",
+    "Photoelectrochemical (PEC) experiments",
+    "Gas Chromatography (GC)",
+    "Quantum efficiency measurement",
+    "Absorption spectroscopy",
+    "Electrochemical measurements"
+  ],
+  "evidence": "The XPS experiments were conducted at the Materials Center at MIT. The crystalline nature of the product is manifested in the high-resolution (HR) TEM image in Figure 1 a. The surface of WO3 was coated with the catalyst by thermal treatment of a solution of the above Mn complex at 8C. The Mn catalyst was prepared by following published protocols. A transmission electron microscope (TEM, JEM-2010F, operating at 200 keV) was used to study cross-section samples of ALD-grown WO3. The voltage was swept between 0 and 1.3 V (vs. RHE) at a rate of 10 mV s/C01. The light source was a 150 W Newport Mercury lamp, and the intensity was adjusted to 100 mW cm/C02. The incident-photon-to-charge conversion efficiency (IPCE) and the absorbed-photon-to-charge conversion efficiency (APCE) were measured by using a Newport quantum efficiency measurement kit (QE-PV-SI). The absorption spectra were collected with an Ocean Optics spectrometer (USB 4000) and an integration sphere (Sphere Optics, RT-4Z). The PEC apparatus was sealed in an N2 environment. The gas phase was sampled periodically, and the samples were fed to an HP 5890 gas chromatograph equipped with an HP-PLOT MoleSeive column. The temperatures of the injector and the detector were set at 100 8C. Helium and nitrogen were used as carrier gases for oxygen and hydrogen, respectively. For the GC-MS analysis, a Thermo Fisher Scientific ITQ 700 with a Focus GC was utilized."
+}<|im_end|>

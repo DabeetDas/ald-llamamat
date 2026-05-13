@@ -1,0 +1,11 @@
+{
+  "target_material": "Ti-Al-O",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "tetrakis(dimethylamido)titanium/H2O",
+    "trimethylaluminum/H2O"
+  ],
+  "temperature_range": "200 /C14 C",
+  "summary": "The study investigates the compositional effects of atomic layer deposition (ALD) ternary dielectric Ti-Al-O on metal-insulator-semiconductor heterojunction capacitors for gate insulation in InAlN/GaN and AlGaN/GaN devices. The process involves alternating cycles of TiO2 and Al2O3 using different ratios of ALD cycles. The results show that increasing the Al content in the Ti-Al-O films reduces leakage current density and maintains a relatively high dielectric constant, making these ternary compounds a promising gate insulation material.",
+  "evidence": "The film deposition was achieved by alternating cycles of TiO2 and Al2O3 using different ratios of ALD cycles. TiO2 was also deposited as a reference sample. The electrical characterization of the MISH capacitors shows an overall better performance of ternary compounds compared to the pure TiO2. The gate leakage current density decreases with increasing Al content, being /C24 2–3 orders of magnitude lower for a TiO2:Al2O3 cycle ratio of 2:1. The dielectric constant has the highest value of 79 for TiO2 and decreases with increasing the number of Al2O3 cycles, but it is maintaining a relatively high value compared to an Al2O3 film."
+}

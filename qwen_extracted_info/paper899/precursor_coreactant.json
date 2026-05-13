@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Titanium-isopropoxide (TiIP)",
+    "deionized (DI) water"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "ALD deposition of titania was performed using a custom built ALD system. Titanium-isopropoxide (TiIP) and deionized (DI) water were used as precursors for deposition of TiO2, and N2 was used as both the carrier gas and purge gas during deposition."
+}

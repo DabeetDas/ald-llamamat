@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Zr(OtC4H9)4",
+    "SiCl4"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Argon (99.99995%) was used as a carrier and purging gas."
+}

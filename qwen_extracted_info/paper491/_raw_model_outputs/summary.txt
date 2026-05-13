@@ -1,0 +1,8 @@
+{
+  "target_material": "InP",
+  "process_type": "pseudo-atmospheric pressure atomic layer epitaxy (ALE)",
+  "main_precursors": ["phosphine (PH3)", "trimethylindium (TMI)"],
+  "temperature_range": "250°C to 325°C",
+  "summary": "The study investigates the growth of InP on (001) InP substrates using pseudo-atmospheric pressure atomic layer epitaxy (ALE) under atmospheric pressure conditions. The growth process involves sequential introduction of phosphine and trimethylindium precursors. The onset of growth is observed between 300-325°C, with the surface being restored to phosphorus-stabilized conditions. At lower temperatures, the surface becomes unreactive towards phosphine due to residual species like In(CH3) × acting as site blockers.",
+  "evidence": "The RA data indicates that at temperatures below 325°C the initial interaction of TMI with surface P-dimers results in a change in anisotropy and that the resulting surface is unreactive towards phosphine or additional TMI possibly as a result of a residual species of the type In(CH3) × where x = 1-3 acting as a site blocker or preventing In dimer formation. At higher temperatures, the RA data indicates that for InP growth on (001) InP using phosphine and trimethylindium (TMI) the onset of growth occurs between 300-325°C."
+}<|im_end|>

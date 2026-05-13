@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "plasma-assisted",
+  "evidence": "The TaF 5 reduction step was performed through the following sequence: 4 s injection of TaF 5 as Ta precursor, 10 s purge, 5 s exposure to H 2/Ar plasma, and 1 s purge."
+}

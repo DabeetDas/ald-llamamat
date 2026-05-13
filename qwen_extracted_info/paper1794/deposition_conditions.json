@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "70",
+  "pressure": "",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "20",
+  "number_of_cycles": null,
+  "reactor_type": "BENEQ TFS 200-124",
+  "evidence": "One ALD cycle was executed with the completion of following four steps: (1) a 1 s pulse of (Me3Si)2Te in duration; (2) a 20 s purge of excess (Me3Si)2Te and any byproducts; (3) a 1 s supply of SbCl3; (4) a 20 s purge of excess SbCl3 and any byproducts."
+}

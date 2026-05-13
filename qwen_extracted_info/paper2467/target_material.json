@@ -1,0 +1,8 @@
+{
+  "target_material": {
+    "chemical_formula": "CdTe",
+    "material_name": "Cadmium telluride",
+    "material_class": "Sulfide"
+  },
+  "evidence": "We study the self-regulation of atomic layer epitaxy (ALE) and demonstrate how the interplay of the reservoir occupation with the surface kinetics results in two different regimes: at high T the growth rate is limited to 0.5 layers per ALE cycle, whereas at low enough T each cycle adds a complete layer of CdTe."
+}

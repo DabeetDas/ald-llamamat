@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-70",
+  "pressure": "below 10^-6 mbar",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": null,
+  "number_of_cycles": 200,
+  "reactor_type": "pump-type high vacuum ALD reactor",
+  "evidence": "For the characterization of the ALD process, Si substrates with a thermally grown 100 nm SiO2 layer were used. From our experience with VO2 ALD 150 /C14 C was chosen as a standard deposition temperature, since above 175 /C14 C the TEMAV precursor decomposes, resulting in uncontrolled growth. At this temperature of 150 /C14 C, the conditions of saturation were examined by changing the precursor and reactant exposure, which was obtained by varying the pulse times. Figure 1(a) shows the saturation behavior for the plasma-enhanced process, at a plasma power of 300 W. The closed symbols indicate the thickness obtained by x-ray reflectivity (XRR) for 200 ALD cycles with a fixed NH3 plasma pulse of 10 s and a varying TEMAV pulse time. The open symbols indicate the thickness for the case where the TEMAV pulse was kept fixed for 5 s and the NH3 plasma pulse time was varied. For both cases, only a minor variation in thickness was observed, which proves that a saturated ALD process was obtained. For all further experiments, 5s TEMAV and 10s NH3 plasma pulses were being used."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "A Savannah100 ALD system from Cambridge Nanotech Inc. was used to deposit Al2O3 dielectric films on n+-Si substrates (5 · 10^3 X cm) and on ITO-coated glass substrates (Colorado Concept Coatings, 60 X/sq.). ... Al2O3 films were deposited at 100 °C using alternating exposures of Al(CH3)3 and H2O vapor at a deposition rate of approximately 1 Å per cycle."
+}

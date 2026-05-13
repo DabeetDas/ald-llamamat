@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMA)"],
+  "coreactants": ["H2O", "O3"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The precursors are supplied sequentially into the ALD-reaction chamber, separated by purge steps with an inert gas. During an ideal ALD process the TMA reacts with OH-groups, bonded to the surface. The authors found Al–Al clusters at the interface between trimethylaluminum (TMA)/H2O grown Al2O3 and silicon, which were not seen in TMA/O3 deposited films. Ozone oxidation seemed also to prevent incorporation of hydrogen into the deposited layer."
+}

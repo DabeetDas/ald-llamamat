@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD involve the alternate injection of Sc(thd)3 or Dy(thd)3 precursors followed by O3 as oxidizer. The growth process is self-limiting, with surface saturation observed. The presence of a thin SiOx interlayer is noted, which forms during growth and slightly develops during annealing. The interdiffusion of Si into the dielectric is observed at higher temperatures, affecting the dielectric properties.",
+  "intermediate_species": ["Sc(thd)3", "Dy(thd)3", "O3", "SiOx", "Sc2O3", "Dy2O3", "DyScO"],
+  "evidence": "The text describes the ALD process using Sc(thd)3 and Dy(thd)3 as precursors with O3 as oxidizer. It mentions the formation of a thin SiOx interlayer during growth and the interdiffusion of Si into the dielectric at higher temperatures. The surface reactions are self-limiting, and the presence of intermediate species like Sc(thd)3, Dy(thd)3, and SiOx is indicated."
+}

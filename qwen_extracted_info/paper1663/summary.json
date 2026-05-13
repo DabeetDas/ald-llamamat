@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "TiI4",
+    "O2"
+  ],
+  "temperature_range": "200-350 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of TiO2 films using TiI4 and O2 as precursors. The process involves alternating pulses of TiI4 and O2, with the growth mechanism studied using quartz crystal microbalance. The films were grown at temperatures ranging from 230 to 460 °C, and the results showed that pure O2 can be used as an oxygen source without significant iodine contamination at higher temperatures. The phase composition of the films was also analyzed, with anatase being the dominant phase except at the highest temperatures where rutile was also observed.",
+  "evidence": "Atomic layer deposition of TiO2 films was realized by using alternate pulses of TiI4 and O2. The film growth mechanism was studied by quartz crystal microbalance in the temperature range 200-350 °C. The reactivity of O2 toward this layer was sufficient to form TiO2 at an O2 pulse duration of 2 s when the substrate temperature was not lower than 235 °C. TiO2 films were also grown on Si(100) substrates at deposition temperatures between 230 and 460 °C. No residual iodine could be detected in the films grown at temperatures higher than 230 °C. Phase-pure anatase was formed in the whole temperature range except at the highest temperature where rutile was also obtained."
+}

@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "Rutherford backscattering (RBS)",
+    "X-ray diffraction (XRD)",
+    "X-ray reflectivity (XRR)",
+    "Quartz crystal microbalance (QCM)",
+    "Fourier transform infrared spectroscopy (FTIR)",
+    "Transmission electron microscopy (TEM)"
+  ],
+  "evidence": "Rutherford backscattering analysis revealed a nearly 1:1 atomic ratio for Mn:O in the MnO ALD films. X-ray diffraction determined that the films were crystalline and consistent with the cubic phase of MnO. Quartz crystal microbalance (QCM) measurements monitored the mass deposition rate during MnO ALD and verified self-limiting reactions for each reactant. X-ray reflectivity (XRR) studies were used to confirm the QCM measurements and determine the film density and film thicknesses. Transmission electron microscopy images observed the conformality of MnO films on ZrO2 nanoparticles and confirmed the growth per cycle observed by the XRR studies. Fourier transform infrared spectroscopy was used to study the –CpEt⁎ and –OH⁎ surface species during MnO ALD and also monitored the bulk vibrational modes of the growing MnO films."
+}

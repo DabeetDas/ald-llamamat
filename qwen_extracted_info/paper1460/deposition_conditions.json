@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-290",
+  "pressure": "",
+  "precursor_pulse_time_s": 6,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 1000,
+  "number_of_cycles": null,
+  "reactor_type": "shower head-type",
+  "evidence": "The ALD system was equipped with a pulse liquid injector and a thermal vaporizer to evaporate the Ru solution. 2,4-(Dimethylpentadienyl)(ethylcyclopentadienyl)Ru (DER, from Tosoh Co.) dissolved in ethylcyclohexane (ECH) at a concentration of 0.2 M was used as the Ru source. The Ru solution was injected into the vaporizer for 6 ms and flash-evaporated. The vapor was then transported to the reactor by Ar carrier gas at a flow rate of 50 sccm. O2 at a flow rate of 1000 sccm was used as the reactant. The reactor was purged with Ar gas at a flow rate of 1000 sccm."
+}

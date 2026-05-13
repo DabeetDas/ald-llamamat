@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "diethylzinc",
+    "deionized water"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to create undoped zinc oxide (ZnO) films as transparent conductive anodes for organic light-emitting diodes (OLEDs). The ZnO films were deposited using diethylzinc and deionized water as precursors at 200 °C. The resulting ZnO films demonstrated high optical transparency and low resistivity, making them a viable alternative to indium tin oxide (ITO) in OLED applications. The study also highlights the performance of OLED devices with ZnO anodes, showing improved external quantum efficiency compared to devices with ITO anodes.",
+  "evidence": "Zinc oxide thin films with the thickness of 200 nm were deposited on glass substrates using ALD technique from diethylzinc and deionized water as zinc and oxygen precursors, respectively. ZnO films were grown at 200 °C. The obtained ZnO films exhibit high optical transmission, reaching a mean value of above 90% in the visible range. The structure achieved the brightness up to 3×10³ cd/m² at 10.5 V. This result is better comparing to the ones for similar devices with Alq3 layer, reported in literature."
+}

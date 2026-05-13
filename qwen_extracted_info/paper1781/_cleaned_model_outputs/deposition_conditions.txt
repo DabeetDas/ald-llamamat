@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-400",
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "cold-wall ALD chamber",
+  "evidence": "Unless stated otherwise, the pulse time of the TBF precursor was 15 s, a er which the valves to the pumping system were kept closed for another 10 s, resulting in a total exposure time of 25 s at 1 mbar pressure. For O 2 plasma, the pulse time was 15 s. No purge gas was used in the deposition cycle."
+}

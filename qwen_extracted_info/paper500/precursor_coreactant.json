@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethylindium (TMIn)",
+    "tertiarybutylarsine (TBAs)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "hydrogen"
+  ],
+  "carrier_gas": [
+    "hydrogen"
+  ],
+  "evidence": "The precursors used were trimethylindium (TMIn) and tertiarybutylarsine (TBAs). The hydrogen carrier flow was adjusted in order to maintain a gas velocity through the chamber of 50 cm/s, which allowed switching of precursors and purging of the chamber for less than 0.5 s."
+}

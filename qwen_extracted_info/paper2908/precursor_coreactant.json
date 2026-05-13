@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "tetrakis(dimethylamido)titanium (TDMAT)"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "In our experiments of TiN-ALD on SiO2/Si substrates, two reactant gases, TDMAT and NH3 were alternately supplied into reaction chamber at the deposition temperature of 180°C. Thus, one deposition cycle is composed of a sequential supply of TDMAT vapor pulse, Ar purge gas pulses and NH3 gas pulse."
+}

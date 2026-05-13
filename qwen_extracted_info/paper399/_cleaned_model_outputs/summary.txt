@@ -1,0 +1,8 @@
+{
+  "target_material": "AlAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["dimethylaluminumhydride (DMAIH)", "arsine"],
+  "temperature_range": "470 °C",
+  "summary": "The study describes the atomic layer epitaxy (ALE) of AlAs using dimethylaluminumhydride (DMAIH) and arsine as precursors. The process enables self-limiting growth of one or two monolayers depending on the supply of DMAIH and growth temperature. The ALE process was applied to fabricate (AlAs)n(GaAs)n short-period superlattices at a constant growth temperature of 470 °C. The study also discusses issues such as carbon incorporation and the instability of DMAIH.",
+  "evidence": "Using a growth system capable of fast gas introduction and dimethylaluminum hydride (DMA1H) as the A1 source, we have observed one and two monolayer self-limiting growths of AlAs depending on the DMA1H supply and growth temperature. Taking advantage of the temperature range where self-limiting growth for AlAs overlaps with that for GaAs, we have fabricated (A1As)n (GaAs)n short-period superlattices entirely by ALE, for the first time, at a constant growth temperature."
+}

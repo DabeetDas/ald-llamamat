@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Zn(C2H5)2 (diethylzinc)"
+  ],
+  "coreactants": [
+    "H2O",
+    "NH3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Nitrogen-doped, p-type ZnO films have been grown successfully on sapphire substrates by atomic layer epitaxy using Zn(C2H5)2 (diethylzinc), H2O, and NH3 as a precursor for zinc, an oxidant, and a doping source gas, respectively."
+}

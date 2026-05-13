@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethylaluminum (TMA)",
+    "DEZ"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "inert purge gas"
+  ],
+  "carrier_gas": [],
+  "evidence": "Saturation curves obtained for aluminum oxide growth using trimethylaluminum and water are shown to be consistent with chamber ALD systems. The ZnO semiconductor layer is deposited on top of the Al2O3 dielectric, using the same equipment but with the metal channels now containing a partial pressure of DEZ of 310 mtorr."
+}

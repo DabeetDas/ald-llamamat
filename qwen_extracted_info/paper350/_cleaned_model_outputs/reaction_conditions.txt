@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "AICI3 + As4 + 1/2 H2 = AIAs + 3 HCI",
+    "AICI3 + AsH3 = AIAs + 3 HCI",
+    "GaCI3 + As4 + 1/2 H2 = GaAs + 3 HCI",
+    "GaCI3 + AsH3 = GaAs + 3 HCI"
+  ],
+  "surface_mechanism_description": "The direct reaction between AICI3, GaCI3, and undecomposed AsH3 leads to the formation of GaAs and AlAs. The reaction is influenced by the reactivity of hydrogen in AsH3, which enhances the desorption of chlorine atoms, a rate-determining step. The growth of AlAs is more challenging due to the higher stability of AICI3 compared to GaCI3, requiring higher temperatures for reduction.",
+  "intermediate_species": [
+    "AlCl",
+    "GaCl",
+    "monochlorides"
+  ],
+  "evidence": "The direct reaction between AICI3, GaCI3, and undecomposed AsH3 leads to the formation of GaAs and AlAs. The reaction is influenced by the reactivity of hydrogen in AsH3, which enhances the desorption of chlorine atoms, a rate-determining step. The growth of AlAs is more challenging due to the higher stability of AICI3 compared to GaCI3, requiring higher temperatures for reduction."
+}

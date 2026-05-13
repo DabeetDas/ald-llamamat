@@ -1,0 +1,11 @@
+{
+  "target_material": "InN",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylindium",
+    "ammonia plasma"
+  ],
+  "temperature_range": "240 –260 °C",
+  "summary": "The study reports the atomic layer deposition of InN using trimethylindium and ammonia plasma on Si(100) substrates. The process was optimized within a narrow temperature range of 240–260 °C with a deposition rate of 0.36 Å/cycle. The crystalline quality of the films was found to improve with temperature, and the films showed low impurity levels. The ammonia plasma was identified as crucial for achieving high crystalline quality and reducing impurities.",
+  "evidence": "The authors report atomic layer deposition of crystalline, wurtzite InN thin films using trimethylindium and ammonia plasma on Si(100). They found a narrow atomic layer deposition window of 240 –260 °C with a deposition rate of 0.36 Å/cycle and that the flow of ammonia into the plasma is an important parameter for the crystalline quality of the film."
+}

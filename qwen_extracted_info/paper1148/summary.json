@@ -1,0 +1,12 @@
+{
+  "target_material": "Cu–Al–S thin films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Cu(acac)2",
+    "Al(CH3)3",
+    "H2S"
+  ],
+  "temperature_range": "140 °C to 250 °C",
+  "summary": "The study explores the potential of Cu–Al–S compounds as p-type transparent conductive materials using atomic layer deposition (ALD). The ALD process uses Cu(acac)2 and Al(CH3)3 as precursors for Cu and Al, respectively, under H2S atmosphere. The optimal deposition temperature was found to be 220 °C, which allows for a balance between growth rate and bandgap. The results indicate that the incorporation of Al in the films is much lower than expected, and the structural and optical properties are significantly influenced by the cycling ratio of Cu–S and Al–S.",
+  "evidence": "Depositions have been carried out in a commercial ALD reactor... The formation energy of a defect is calculated... The optimum deposition temperature has been investigated for a supercycle ratio of Cu – S:Al– S = 1:1 by measuring the growth rate while varying the growth temperature from 140 °C up to 250 °C."
+}

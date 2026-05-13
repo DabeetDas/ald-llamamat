@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the decomposition of octachlorotrisilane (OCTS) and the reaction with ammonia (NH3). The decomposition of OCTS on the surface leads to the formation of surface species that react with NH3, resulting in the formation of silicon nitride (SixNy). The process is not fully saturated, indicating the presence of multiple reaction steps and possible side reactions.",
+  "intermediate_species": ["surface species from OCTS decomposition", "ammonia (NH3) reacting with surface species"],
+  "evidence": "The text discusses the decomposition of OCTS on the surface and its reaction with ammonia, leading to the formation of SixNy. It also mentions the presence of multiple reaction steps and side reactions, as well as the formation of surface species from OCTS decomposition."
+}

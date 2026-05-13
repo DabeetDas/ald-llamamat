@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": null,
+  "number_of_cycles": 250,
+  "reactor_type": "home-built high vacuum ALD system",
+  "evidence": "Figure 2a shows the results by monitoring growth per cycle (GPC) as a function of both Y(EtCp) 2(iPr-amd) and H 2O pulse time at the constant temperature of 200°C. The GPC for Y(EtCp) 2(iPr-amd) is saturated when the pulse time exceeds 15 s. This result indicates that Y(EtCp) 2(iPr-amd) undergoes a self-terminating reaction with the Y2O3 surface prepared by reaction with H 2O. The H 2O pulse time is saturated when exceeds at 10 s. This suggests that H 2O undergoes a self-terminating reaction with surface absorbed Y(EtCp) 2(iPr-amd) molecular."
+}<|im_end|>

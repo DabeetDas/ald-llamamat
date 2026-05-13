@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD method is based on alternating chemisorption, surface reaction, and desorption of the reactants. The sequential control of film growth in ALD is based on the saturated surface reaction between the substrate and each of the reactants, in which the growth rate is proportional to the number of reaction cycles instead of the reactant flow rate.",
+  "intermediate_species": ["surface hydroxyls"],
+  "evidence": "The ALD method is based on alternating chemisorption, surface reaction, and desorption of the reactants. The sequential control of film growth in ALD is based on the saturated surface reaction between the substrate and each of the reactants, in which the growth rate is proportional to the number of reaction cycles instead of the reactant flow rate."
+}

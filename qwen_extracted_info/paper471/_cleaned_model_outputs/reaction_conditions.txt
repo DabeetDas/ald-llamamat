@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of TaCl5 and H2O on the substrate, followed by surface reactions that lead to the formation of Ta2O5. The etching reactions between TaCl5 and Ta2O5 are responsible for the decrease in growth rate with longer TaCl5 pulses. The formation of d-Ta2O5 and its transformation into b-Ta2O5 upon heating is also discussed.",
+  "intermediate_species": ["d-Ta2O5", "surface hydroxyls", "tantalum oxychlorides"],
+  "evidence": "The text discusses the surface reactions between TaCl5 and H2O, the formation of d-Ta2O5, and the transformation into b-Ta2O5 upon heating. It also mentions the role of surface migration and the etching effects, indicating the presence of intermediate species such as tantalum oxychlorides."
+}

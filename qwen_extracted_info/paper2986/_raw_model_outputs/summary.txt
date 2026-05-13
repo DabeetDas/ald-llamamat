@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "ALD",
+  "main_precursors": ["Tetrakis(diethylamino)titanium (TDEA T)", "TiCl4"],
+  "temperature_range": "530°C",
+  "summary": "The study compares the characteristics of TiN metal gates deposited by atomic layer deposition (ALD) and chemical vapor deposition (CVD) on Hf-based high-k dielectrics. ALD TiN results in a thicker equivalent oxide thickness (EOT) due to its higher process temperature and purging cycle, but it has better resistance to dopant diffusion and provides better interfacial characteristics, leading to improved device performance.",
+  "evidence": "The ALD TiN process also provides better interfacial characteristics, thus better device performance. The higher temperature ALD process relative to CVD is due to TiCl4 precursor used in ALD process that requires higher process temperature to initiate chemical reaction at the surface. The resultant HfSiO had 20% SiO2 confirmed by Rutherford backscattering (RBS) analysis. The ALD TiN process also provides better interfacial characteristics, thus better device performance."
+}<|im_end|>

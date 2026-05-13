@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "550 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "8",
+  "number_of_cycles": "100, 200, 400",
+  "reactor_type": "laminar flow",
+  "evidence": "SnO2 layers were deposited at 200, 300 and 400 8C substrate temperatures. A time sequence of 2, 8, 6 and 8 s for source pulse, first purge, plasma pulse and second purge was followed for all the films. The total pressure maintained inside the deposition chamber was 550 mTorr. Source temperature, purge time and number of cycles were varied between 40 and 60 8C, 4 and 12 s and 50 and 800 cycles, respectively. The mode of ALD deposition was performed by laminar flow."
+}<|im_end|>

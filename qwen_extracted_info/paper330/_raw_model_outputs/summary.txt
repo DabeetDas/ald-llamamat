@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Cd", "Te2"],
+  "temperature_range": "553 K",
+  "summary": "The study investigates the growth of CdTe single crystal films on CdTe (111)B substrates using Atomic Layer Epitaxy (ALE). The process involves alternating pulses of Cd and Te2 precursors, with the timing and dose of these pulses influencing the film quality. The results show that optimal conditions lead to smooth surfaces with higher structural perfection than the substrate.",
+  "evidence": "The Atomic Layer Epitaxy (ALE) method has been used to grow CdTe single crystal overlayers on CdTe (111)B substrates under various growth conditions in order to evaluate the validity of the growth mechanism recently proposed. A study of surface morphology and crystal structure of the films shows that smooth surfaces with higher structural perfection than that of the substrate can be obtained under conditions optimal according to the ALE model."
+}<|im_end|>

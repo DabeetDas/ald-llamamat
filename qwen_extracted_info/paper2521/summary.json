@@ -1,0 +1,12 @@
+{
+  "target_material": "HfO2 and La2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "hafnium tetrachloride (HfCl4)",
+    "lanthanum tris(bis(trimethylsilyl)amide)",
+    "water"
+  ],
+  "temperature_range": "275 °C and 300 °C",
+  "summary": "The study investigates the film properties of ALD HfO2 and La2O3 gate dielectrics grown on Si substrates with various pre-deposition treatments. HfO2 films showed good electrical properties, lower leakage, and better flatband voltage stability compared to La2O3. La2O3 films exhibited significant interaction with the silicon substrate, leading to rough interfaces and lower thermal stability. The results suggest that HfO2 is a more promising candidate for gate dielectrics due to its superior thermal stability and electrical properties.",
+  "evidence": "The study reports that HfO2 films are mainly amorphous, continuous, and relatively smooth on all pretreated Si surfaces. The as-deposited ALD HfO2 film is mainly amorphous, continuous, and relatively smooth on all pretreated Si surface. The results indicate that ALD HfO2 is a more promising candidate than ALD La2O3 due to superior thermal stability in contact with silicon."
+}

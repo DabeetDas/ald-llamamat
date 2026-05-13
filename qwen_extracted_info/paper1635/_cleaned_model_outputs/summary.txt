@@ -1,0 +1,8 @@
+{
+  "target_material": "High-k metal oxides (titania and hafnia)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["carboxylic acid (acetic acid)", "metal alkoxides (hafnium tert-butoxide, titanium isopropoxide)"],
+  "temperature_range": "50 to 350 °C",
+  "summary": "The study describes the atomic layer deposition of high-k metal oxides, specifically titania and hafnia, using carboxylic acids as an oxygen source and metal alkoxides as precursors. The process allows for the deposition on various substrates, including silicon, carbon nanotubes, and organic fibers, at relatively low temperatures. The films exhibit excellent conformality, low roughness, and good dielectric properties, with minimal interfacial layers on silicon substrates.",
+  "evidence": "The process is based on the reaction of a carboxylic acid with a metal alkoxide. The growth of metal oxides is achieved at temperatures as low as 50 °C on various supports including carbon nanotubes, organic fibers, and silicon wafers. The as-grown films show an excellent conformality and possess good dielectric properties due to their high purity. Inherent to the chemical approach is the possibility to grow oxides on silicon while minimizing the formation of a low-κ interfacial layer."
+}

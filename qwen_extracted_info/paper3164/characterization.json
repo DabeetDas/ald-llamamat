@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "Ellipsometry",
+    "Rutherford Backscattering (RBS)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Diffraction (XRD)",
+    "Grazing Incidence X-ray Diffraction (GIXRD)",
+    "X-ray Reflectivity",
+    "Four-point probe",
+    "C-V measurement",
+    "I-V measurement"
+  ],
+  "evidence": "The thickness and refractive index were measured via spectroscopic ellipsometry with a KLA-Tencor ASET F5 using a 49-point polar map with 10 mm edge exclusion for a stack comprising the Si wafer and the STO layer described through a Lorentzian-damped harmonic oscillator dispersion model. The compositional uniformity of STO films both along and across the gas flow direction was confirmed by Rutherford backscattering (RBS). X-ray photoelectron spectroscopy (XPS) measurements were performed on a Theta300 system from Thermo Electron using a monochromated Al Kα photon. Surface roughness was determined by AFM measurements. The crystallization behavior of the films was analyzed by in situ X-ray diffraction (IS-XRD). Grazing incidence X-ray diffraction (GIXRD) and X-ray reflectivity measurements were recorded. Electrical measurements were performed in an MIM capacitor configuration using TiN and Pt dots as bottom and top electrodes, respectively. All the capacitance–voltage (C-V) and current–voltage (I-V) measurements were done with an Agilent HP4156 LCR meter and a Keithley 4200 system, respectively."
+}

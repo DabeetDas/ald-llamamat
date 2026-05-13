@@ -1,0 +1,13 @@
+{
+  "target_material": "Al2O3 and Ir",
+  "process_type": "ALD",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "water (H2O)",
+    "Ir(acac)3",
+    "O2"
+  ],
+  "temperature_range": "150–450 8C",
+  "summary": "The study explores the use of atomic layer deposition (ALD) to coat highly porous metal fiber matrices with Al2O3 and Ir. The ALD process was compared using three different reactor types: flow-type, evacuation-type, and flow-through. The Al2O3 coatings were found to protect the fibers against electrochemical corrosion and thermal oxidation, while Ir was deposited as a catalytic layer. The process parameters, including temperature, precursor exposure, and purge times, were optimized for different reactor types.",
+  "evidence": "The potential of atomic layer deposition (ALD) in the coating of highly porous, 0.5 mm thick, metal fiber matrices is explored. Three different reactor types are compared for ALD of Al2O3 thin films from trimethylaluminum and water. Both an evacuation-type and a flow-type process are successful in forming conformal Al2O3 coatings on the fibers. The coatings are able to protect the fibers against electrochemical corrosion and thermal oxidation. In addition, a metallic Ir thin film is deposited by ALD on one of the Al2O3-coated fiber matrices. This kind of a structure could be used, for example, as a catalytic filter."
+}

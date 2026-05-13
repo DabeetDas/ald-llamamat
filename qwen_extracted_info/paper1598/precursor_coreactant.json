@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Trimethylaluminum (TMA)"
+  ],
+  "coreactants": [
+    "deionized H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Al2O3 films were grown by ALD on silver nanoparticles fabricated by NSL. The reactor utilized in these experiments is similar to one described in previous publications. Trimethylaluminum (TMA) and deionized H2O vapors were alternately dosed over the substrates in a nitrogen carrier stream at a mass flow rate of 360 sccm and a pressure of\u00181 Torr, using a growth temperature of 50 °C."
+}

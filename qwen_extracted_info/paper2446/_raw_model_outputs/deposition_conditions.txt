@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "2 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 57,
+  "reactor_type": "OpAL ALD system by Oxford Instruments Plasma Technology",
+  "evidence": "For the further investigations we fixed as optimum parameters the plasma duration time at 50 s, the substrate temperature a 350 ◦C and the hydrogen flow rate at 2.5 sccm."
+}<|im_end|>

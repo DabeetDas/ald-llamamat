@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "TMA + SiOH -> SiOCH3 + CH4",
+    "TMA + SiO -> SiOCH3 + CH4",
+    "SiOCH3 + Zr(CH2CH2)2 -> Zr(CH2CH2)2(CH3)2 + SiOCH3"
+  ],
+  "surface_mechanism_description": "Trimethylaluminum (TMA) reacts with surface hydroxyl groups (SiOH) and siloxane bridges (SiO) on silica, forming surface species such as SiOCH3 and AlCH3 groups. The metallocene (rac-Et Ind ZrCl2) adsorbs onto the surface and reacts with AlCH3 groups, forming ZrMe groups and possibly ZrCH3 groups. The reaction of TMA with silica leads to the formation of surface species like SiOCH3 and AlCH3, which can further react with the metallocene.",
+  "intermediate_species": [
+    "SiOCH3",
+    "AlCH3",
+    "ZrMe",
+    "ZrCH3"
+  ],
+  "evidence": "In the reaction of TMA with silica, a saturated surface was formed consisting of different O-Si-CH3, 2 or 3 and AlCH3 groups. The ratio of SiMe to AlMe groups was approximately 1.5 in the TMA-rSiO carriers. When the metallocene was adsorbed onto the carrier it seemed to react with the surface AlCH3 groups and possibly ZrCH3 groups were formed. The surface AlCH3 groups can further react with silanol or siloxane groups. The signal of AlCH3 groups near 2840 cm-1 has diminished in size in the IR spectrum of the catalyst. Moreover, the shoulder at 2940 cm-1 due to AlCH3 groups is no longer visible in the catalyst spectrum indicating that AlCH3 groups have reacted with metallocene."
+}<|im_end|>

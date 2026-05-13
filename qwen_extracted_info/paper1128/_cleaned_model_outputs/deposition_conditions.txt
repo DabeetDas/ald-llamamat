@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-255",
+  "pressure": "",
+  "precursor_pulse_time_s": 12,
+  "coreactant_pulse_time_s": 6,
+  "purge_time_s": 8,
+  "number_of_cycles": 200,
+  "reactor_type": "hotwall flow-type ALD reactor",
+  "evidence": "The growth experiments were carried out in an in-house built hotwall flow-type ALD reactor using nitrogen (99.999% purity) as a carrier gas. Substrate temperature was varied between 250 and 325 °C. DMPR ... with cycle times 12 –6–8–6 s, if not stated otherwise."
+}

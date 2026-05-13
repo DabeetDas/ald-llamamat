@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reaction between TiCl4 molecules and hydrogen radicals results in the formation of volatile molecules (e.g., HCl) and that nitrogen radicals then react with excited Ti atoms to form TiN thin films. SiH4 molecules adsorbed on TiCl4 or Ti-Si-N substrate play a role as a reactant source, like TiCl4, to form Ti-Si-N thin films, not as a blocker. TiCl4 and SiH4 molecules simultaneously take part in the Ti-Si-N formation during reaction with N2/H2/Ar plasma.",
+  "intermediate_species": [
+    "TiCl4 molecules",
+    "hydrogen radicals",
+    "volatile molecules (e.g., HCl)",
+    "excited Ti atoms",
+    "nitrogen radicals",
+    "SiH4 molecules"
+  ],
+  "evidence": "Moreover, it is reasonable that the reaction between TiCl4 molecules and hydrogen radicals results in the formation of volatile molecules (e.g., HCl) and that nitrogen radicals then react with excited Ti atoms to form TiN thin films. SiH4 molecules adsorbed on TiCl4 or Ti-Si-N substrate play a role as a reactant source, like TiCl4, to form Ti-Si-N thin films, not as a blocker. TiCl4 and SiH4 molecules simultaneously take part in the Ti-Si-N formation during reaction with N2/H2/Ar plasma."
+}

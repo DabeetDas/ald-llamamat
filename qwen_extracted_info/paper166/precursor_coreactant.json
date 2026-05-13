@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "TMA (trimethylaluminum)"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The Al precursor used was Al(CH3)3 (TMA, 95%, Strem Chemicals, Inc.). Distilled water was used as an oxygen source. Both precursor and water were carried in the hot-wall, viscous-flow, ALD reactor by Ar flux at 100 sccm."
+}

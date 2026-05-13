@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "cross-ﬂow-type ASM Pulsar 3000",
+  "evidence": "The Sc(MeCp)3/H2O process showed ideal ALD behavior. 34 This is exempliﬁed for 300 °C in Figure 1a, which shows the variation of the GPC and the WiWNU for Sc 2O3 as a function of the Sc(MeCp)3 pulse time. Self-limiting ALD growth was found for Sc(MeCp)3 pulse times of 4 s and longer with a GPC of 0.65 Å. The used pulse sequence was 3 s Sc(MeCp)3;1 0sN 2 purge; 5 s H 2O; 10 s N 2 purge."
+}<|im_end|>

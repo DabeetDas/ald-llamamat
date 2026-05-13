@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "420",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "atomic layer deposition (ALD)",
+  "evidence": "Conformal Ru layers of thickness 8, 10, and 12 nm were subsequently deposited on the cores using atomic layer deposition (ALD) from (ethylbenzyl) (1-ethyl-1,4-cyclohexadienyl) Ru (0) (EBECHRu C 16H22Ru) and O2."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of metal oxide layers (TiO2, ZrO2) onto the inner walls of the nanotemplates using ALD. The process uses Zr(OC(CH3)3)4 and Ti(i-OC3H7)4 as precursors, with water vapor as the oxidant. The ALD cycle includes the supply of the metal precursor, purging, exposure to water vapor, and further purging. The surface reaction is self-limiting, ensuring uniform and conformal deposition.",
+  "intermediate_species": ["surface hydroxyls", "metal oxide species"],
+  "evidence": "A cycle of ALD consists of the supply of Zr and or Ti source /purging/H2O(g)/purging. In a typical experiment, 100~800 cycles of ALD were performed to synthesize TiO2 and ZrO2 nanotubular materials. The surface reaction is self-limiting, ensuring uniform and conformal deposition."
+}<|im_end|>

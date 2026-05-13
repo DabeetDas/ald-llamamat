@@ -1,0 +1,8 @@
+{
+  "target_material": "Silver (Ag)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Ag(fod)(PEt3)", "NH3 plasma"],
+  "temperature_range": "130°C",
+  "summary": "A plasma-enhanced atomic layer deposition (PEALD) process using the Ag(fod)(PEt3) precursor in combination with NH3 plasma was reported. The process exhibits a significantly higher growth rate compared to the same precursor with H2 plasma, resulting in enhanced nucleation and smaller Ag nanoparticles on oxide substrates. The study highlights the importance of the NH3 plasma in improving the morphology and purity of the deposited Ag films, which is crucial for applications in plasmonics and catalysis.",
+  "evidence": "A plasma-enhanced atomic layer deposition (PEALD) process using the Ag(fod)(PEt3) precursor in combination with NH3 plasma was reported. The steady growth rate of the reported process ((0.24 ± 0.03) nm/cycle) was found to be six times larger than that of the previously reported Ag ALD process based on the same precursor in combination with H2 plasma ((0.04 ± 0.02) nm/cycle). The deposited Ag films were polycrystalline fcc Ag for both processes. The film morphology was investigated by ex situ scanning electron microscopy and grazing-incidence small-angle X-ray scattering, and it was found that films grown with the NH3 plasma process exhibit a much higher particle areal density and smaller particle sizes on oxide substrates compared to those deposited using the H2 plasma process."
+}<|im_end|>

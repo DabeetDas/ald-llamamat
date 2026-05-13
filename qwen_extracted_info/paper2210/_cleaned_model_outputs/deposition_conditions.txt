@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 310,
+  "pressure": "",
+  "precursor_pulse_time_s": 1.0,
+  "coreactant_pulse_time_s": 1.2,
+  "purge_time_s": 60,
+  "number_of_cycles": 30,
+  "reactor_type": "ALD reactor",
+  "evidence": "Ultrathin Al2O3 layers were grown using 30 cycles of ALD at a substrate temperature of 310 ° C. One cycle of the ALD sequence consists of 1.0 s of TMA pulsing followed by 1.2 s of H2O pulsing with 60 s purging step in between."
+}

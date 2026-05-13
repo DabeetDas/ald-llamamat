@@ -1,0 +1,8 @@
+{
+  "target_material": "Vanadia (V2O5)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Vanadyl triisopropoxide (VO(OPr i)3)"],
+  "temperature_range": "363 to 393 K",
+  "summary": "Highly dispersed V2O5/SiO2 materials were synthesized using atomic layer deposition (ALD) by sequentially applying surface-saturating reactions of vanadyl triisopropoxide and oxygen with the silica surface. The process was carried out in a temperature range of 363 to 393 K, resulting in a controlled and reproducible chemisorption-based growth of vanadia on silica. The study compared ALD with impregnation methods and found that ALD produced more dispersed vanadia species with a higher number of surface acid sites.",
+  "evidence": "Highly dispersed V2O5/SiO2 materials were successfully synthesized using the atomic layer deposition (ALD), by sequentially applying surface-saturating reactions of volatilized vanadyl triisopropoxide and oxygen with the silica surface. The controlled and reproducible chemisorption-based growth of vanadia on silica occurred in a temperature range from 363 to 393 K, as confirmed by elemental analyses and DRIFTS measurements."
+}

@@ -1,0 +1,21 @@
+{
+  "precursors": [
+    "Sodium tert-butoxide",
+    "Potassium tert-butoxide",
+    "Sodium trimethylsilanolate",
+    "Sodium hexamethyldisilazide",
+    "Potassium hexamethyldisilazide",
+    "Potassium trimethylsilanolate"
+  ],
+  "coreactants": [
+    "H2O",
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Nitrogen was used as carrier gas, supplied from a Schmidelin-Sirrco 5 providing >99.9995% (N2 + Ar) before purification through a Mykrolis purifier."
+}

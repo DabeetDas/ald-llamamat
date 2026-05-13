@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 180,
+  "pressure": "4 and 44 Pa",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 20,
+  "number_of_cycles": 150,
+  "reactor_type": "",
+  "evidence": "In our experiments of TiN-ALD on SiO2/Si substrates, two reactant gases, TDMAT and NH3 were alternately supplied into reaction chamber at the deposition temperature of 180°C. Thus, one deposition cycle is composed of a sequential supply of TDMAT vapor pulse, Ar purge gas pulses and NH3 gas pulse. 150 cycles were performed in TiN-ALD. The values of partial pressure for TDMAT and for NH3 were about 4 and 44 Pa, respectively. ... With fixing the gas purge time to 20 s, the effective growth rates in the converged region as a function of reactant pulse time are simulated in Fig. 6. When TDMAT pulse time is about 5 s and NH3 pulse time is about 4 s, 0.024 (ML/s) is attained as a maximum effective growth rate in the converged region. Hence, in the converged region, maximum throughput can be obtained when the formation of one deposition cycle is TTDMAT = 5 s and TNH3 = 4 s at 20 s of the gas purge time."
+}<|im_end|>

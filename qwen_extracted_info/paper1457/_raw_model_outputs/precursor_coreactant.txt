@@ -1,0 +1,7 @@
+{
+  "precursors": ["[PrAl(OPr i)6(PriOH)]2", "[NdAl(OPr i)6(PriOH)]2"],
+  "coreactants": [],
+  "purge_gas": ["argon"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "The precursor synthesis section describes the synthesis of [PrAl(OPr i)6(PriOH)]2 and [NdAl(OPr i)6(PriOH)]2. The MOCVD and ALD experiments used these precursors. The carrier gas was nitrogen, and argon flow was mentioned in the growth conditions."
+}<|im_end|>

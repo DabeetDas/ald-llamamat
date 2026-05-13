@@ -1,0 +1,4 @@
+{
+  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{   \"deposition_temperature_C\": \"25 -250\",   \"pressure\": \"\",   \"precursor_pulse_time_s\": null,   \"coreactant_pulse_time_s\": null,   \"purge_time_s\": null,   \"number_of_cycles\": \"200\",   \"reactor_type\": \"F-120\",   \"evidence\": \"The first cycle consisted of long exposures to TDEAHf (3 \\x02 107 L) and water'",
+  "film_properties": "Parsed successfully, but extracted content is empty."
+}

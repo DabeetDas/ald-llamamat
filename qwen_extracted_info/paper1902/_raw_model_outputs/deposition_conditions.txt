@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "90",
+  "pressure": "7",
+  "precursor_pulse_time_s": 1.2,
+  "coreactant_pulse_time_s": 1.2,
+  "purge_time_s": 50,
+  "number_of_cycles": 100,
+  "reactor_type": "custom hot wall reactor",
+  "evidence": "Typical precursor dose and purge times were TMA/Ar/H2O/Ar ¼ 1.2/40/1.2/50 seconds, which correspond to a single ALD cycle. One hundred ALD cycles at 60 /C14 C on an oxide-coated silicon substrate produced a film that was 112 A ˚ thick (as determined by ellipsometry), corresponding to a growth rate of /C24 1.1 A˚ per cycle."
+}<|im_end|>

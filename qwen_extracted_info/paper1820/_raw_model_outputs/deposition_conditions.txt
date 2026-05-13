@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150",
+  "pressure": "",
+  "precursor_pulse_time_s": "400",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "15",
+  "number_of_cycles": "40",
+  "reactor_type": "TFS200",
+  "evidence": "The dimethylcadmium pulse (400ms)-N2 purge (10s)-H2S pulse (1s)-N2 purge (15s). The TiO2 nanotube layers were CdS-coated at 150 °C applying 40 ALD cycles."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.75,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "top down flow, hot wall reactor, Ultratech Fiji G2 reactor",
+  "evidence": "The (tBuN)2(NMe2)2Mo vapor space was pulsed at 0.75 s into the process chamber. This boost step was repeated three times with a 2 s wait for each precursor delivery step in the PE-ALD cycle, a total of three pulses per cycle."
+}<|im_end|>

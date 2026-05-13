@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "2 to 4 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 10.0,
+  "number_of_cycles": 250,
+  "reactor_type": "Picosun R–75 SUNALE",
+  "evidence": "Self-limited growth of Pr2O3 was demonstrated for pulse lengths of ≥3 s, with a growth rate of ~0.85 Å/cycle. The ALD growth of PrAlO3 films was examined on Si, thermal SiO2, and (001)-oriented SrTiO3 substrates. Self-limited growth was demonstrated for Pr(C5H4iPr)3, AlMe3, and water at 300 °C using a 1:1 ratio of the number of Pr(C5H4iPr)3 and AlMe3 pulses."
+}<|im_end|>

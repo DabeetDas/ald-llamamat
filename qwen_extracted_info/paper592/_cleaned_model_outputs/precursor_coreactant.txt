@@ -1,0 +1,7 @@
+{
+  "precursors": ["ZrCl4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The reactants used are ZrCl4 (99.9% purity; Strem Chemicals) and de-ionized Millipore water, maintained at 17 8C. Film deposition was achieved with a commercial flow type-F-120 ALD reactor (ASM-Microchemistry, Finland) using nitrogen (99.999% from Air Liquide, France) as a carrier and purging gas."
+}

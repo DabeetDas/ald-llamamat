@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 225,
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 6,
+  "number_of_cycles": null,
+  "reactor_type": "Beneq TFS 200",
+  "evidence": "A typical experiment saw 0.3 −0.5 g of 1 loaded into a Beneq TFS 200 reactor equipped with a capacitively coupled plasma source. The substrate was heated to 225 °C and the precursor was heated to 90 °C to ensure sufficient vapor of 1 reached the deposition chamber. A pulse of 1 was followed by a 3 s purge with nitrogen gas, alternating with a 6 s pulse of hydrogen plasma and a second purge."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "ZrCl4",
+    "H2O"
+  ],
+  "temperature_range": "160 to 350 °C",
+  "summary": "The study investigates the effects of growth temperature on the properties of ZrO2 films deposited by atomic layer deposition (ALD). ZrO2 films are grown using ZrCl4 and H2O as precursors at different substrate temperatures (160, 200, 250, and 350 °C). The research focuses on how temperature influences film structure, crystallinity, dielectric properties, and contamination levels. The results show that increasing temperature decreases film thickness, increases crystallinity, and affects the dielectric constant and leakage current.",
+  "evidence": "Zirconium dioxide films are grown in 200 atomic layer deposition cycles. Zirconium tetrachloride (ZrCl4) and water (H2O) are used as precursors. ... ZrO2 films are grown at different substrate temperatures: 160, 200, 250, and 350 °C. ... The dielectric constant kZrO2 and the leakage current are studied as a function of the film growth temperature."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Tungsten oxide (WO3)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["WF6", "H2O", "in situ generated WOxFy oxyfluorides"],
+  "temperature_range": "200-600°C",
+  "summary": "This study investigates the Atomic Layer Epitaxy (ALE) of tungsten oxide (WO3) using WF6 and H2O as precursors. The ALE process was found to yield monoclinic WO3 films at substrate temperatures as low as 200°C with a deposition rate of about 0.8 Å/cycle. The oxyfluorides (WOF4 and WO2F2) were generated in situ by etching of tungsten oxide lumps with WF6. The results suggest that the adsorption of WF6 on oxide surfaces is the limiting factor in the ALE process, and the use of in situ generated oxyfluorides significantly improved the deposition rate.",
+  "evidence": "Atomic Layer Epitaxy (ALE) of WO3 from WF6 and H2O has been studied. These precursors were found to yield very low deposition rates. This was attributed to a poor adsorption of WF6 on the oxide surface. Attempts to increase the adsorption of the metal source by in situ generation of tungsten subfluorides were unsuccessful due to severe etching problems. Our results, however, showed that different WOxFy compounds are good candidates for ALE of WO3. The oxyfluorides were generated in situ by etching of tungsten oxide lumps with WF6 at temperatures up to 600°C. No analysis of the generated WOxFy precursors was carried out, but thermodynamic calculations suggest that the main etch products should be WOF4 and WO2F2. An ALE process based on the in situ generated oxyfluorides and H2O as precursors was found to yield monoclinic WO3 films at substrate temperatures as low as 200°C. The deposition rate at this temperature was about 0.8 Å/deposition cycle."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "0.5 torr",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "4",
+  "number_of_cycles": "700",
+  "reactor_type": "vertical flow-type",
+  "evidence": "The exposure times were 1 s for the source material, then 4 s for the purging and a reactant gas was transpired for 1 s followed by the purging for 4 s. The chamber temperature was 350 /C14 C, controlling with a thermocouple. The working pressure in the reactor was about 0.5 torr."
+}

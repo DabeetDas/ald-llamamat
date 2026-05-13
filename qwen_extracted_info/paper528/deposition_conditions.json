@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 435,
+  "pressure": "5.0 ×10−11 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The temperature of the resistively heated or liquid-nitrogen-cooled substrate was measured with a K-type chromel–alumel thermocouple spot welded to the back of the molybdenum foil. The surface was sputtered at room temperature with 1000 eV Ar + followed by annealing at 425 °C for 15 min and 435 °C for 3 min."
+}

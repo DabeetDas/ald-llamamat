@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 226,
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": 700,
+  "reactor_type": "low-pressure (250 Pa) flow-type reactor",
+  "evidence": "The precursors were carried to the reaction vessel in the flow of pure nitrogen and the duration of each precursor pulse was 2 s. Nitrogen was also used as the purging gas that removed the surplus precursors and the gaseous reaction products from the reactor after each exposure period. The duration of purge periods was also 2 s."
+}

@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "LiO tBu + H2O → LiOH + tert-butanol",
+    "LiO tBu + O2 → Li2CO3 + CO2",
+    "LiOH → Li2O + H2O",
+    "Li2O + CO2 → Li2CO3"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "tert-butanol",
+    "LiOH",
+    "Li2O",
+    "Li2CO3"
+  ],
+  "evidence": "The chemical mechanisms controlling half-cycle reactions for this ALD process are not well understood. Lithium tert-butoxide is an alkoxide precursor, but it differs considerably from other common alkoxide precursors such as hafnium or zirconium tert-butoxide in that lithium is monovalent. In the multivalent tert-butoxides, a self-limiting surface reaction is realized through the hydrolysis of one of the tert-butoxide ligands, preserving the remaining ligands as inert site blockers. In the case of LiO tBu, hydrolysis of the single ligand would produce lithium hydroxide and tert-butanol, putting the existence of a stable, self-limiting surface species in question. Indeed, previous studies by Cavanaugh et al. relate nonsaturating growth rates as a function of LiO tBu pulse time to a mechanism involving the chemisorption of the intact LiO tBu molecule on the surface. We attempt to identify the surface species present after the LiO tBu pulse using in situ XPS. We observe a hydrocarbon peak at ∼285 eV as well as a small peak centered at ∼289 eV. The peak at 289 eV is possibly consistent with carboxylate species, but we do not identify a chemical origin at this time. This spectrum is likely incompatible with the presence of intact tert-butoxide ligands, from which we would expect a peak associated with the C−O bond in a 1:4 areal ratio with and at approximately 2 eV above the hydrocarbon peak. Further work will be needed to identify the exact nature of the half-cycle surface chemistry. Nevertheless, the film chemistry of the LiOtBu/PO2 process, discussed below, strongly supports the existence of significant amounts of carbon-containing surface species."
+}<|im_end|>

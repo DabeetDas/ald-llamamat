@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the reduction of Mo(VI) to Mo(IV) and further to metallic Mo during Ar⁺ sputtering, as evidenced by shifts in Mo 3d binding energies. The MoO3 films are reduced to MoO2 and eventually to metallic Mo at the interface with the substrate. The oxidation state of Mo remains VI throughout the film, as confirmed by ARXPS.",
+  "intermediate_species": ["MoO2", "metallic Mo", "MoOx"],
+  "evidence": "The XPS spectra recorded at etching times between 840 and 1050 s showed a shift of the Mo 3d doublet toward lower energies, indicating reduction of Mo(VI) to Mo(IV) and further to metallic Mo. The O 1s spectra showed no shift, confirming the reduction of MoO3 to MoO2 and absence of carbon in the bulk of the film. The Mo 3d shifts were rationalized in terms of reduction of MoO3 to MoO2 and absence of carbon in the bulk of the film."
+}

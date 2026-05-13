@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "UHV chamber",
+  "evidence": "At temperatures of ;300 K, saturated chemisorption of a Cd and a S monolayer occurred during each cycle of the binary reaction sequence."
+}

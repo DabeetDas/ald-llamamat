@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "X-ray Fluorescence (XRF)",
+    "Transmission Electron Microscopy (TEM)",
+    "X-ray Diffraction (XRD)",
+    "X-ray Reflectivity (XRR)",
+    "Spectroscopic Ellipsometry",
+    "Current-Voltage (I-V) measurements",
+    "Capacitance-Voltage (C-V) measurements"
+  ],
+  "evidence": "The study used X-ray Photoelectron Spectroscopy (XPS) and X-ray Fluorescence (XRF) to estimate the film composition. Transmission Electron Microscopy (TEM) was used to evaluate the physical thickness of the HfLaOx film. X-ray Diffraction (XRD) and X-ray Reflectivity (XRR) were used to study the structural evolution upon post-deposition annealing. Spectroscopic ellipsometry was used to evaluate the film refractive index. Current-Voltage (I-V) and Capacitance-Voltage (C-V) curves were measured on capacitors to evaluate electrical characteristics."
+}

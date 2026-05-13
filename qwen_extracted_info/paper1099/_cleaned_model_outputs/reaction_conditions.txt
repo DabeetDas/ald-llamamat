@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves the growth of titanium dioxide thin films through Atomic Layer Deposition (ALD), where the growth starts as anatase and transitions to rutile as the film thickness increases. The reaction steps involve the sequential reaction of metal compound precursor with the surface and then with the oxygen precursor, followed by purge steps to remove excess precursor and by-products. The self-controlled growth mode of ALD allows for precise control over film thickness and uniformity.",
+  "intermediate_species": ["anatase", "rutile"],
+  "evidence": "Atomic Layer Deposition (ALD) is a surface controlled layer-by-layer process for the deposition of thin films with atomic layer accuracy. Each atomic layer formed in the sequential process is a result of saturated surface controlled chemical reactions. Commonly, in the growth of binary compounds such as metal oxides, a reaction cycle consists of two reaction steps. In one step the metal compound precursor is allowed to react with the surface, and in the other step it reacts with the oxygen precursor. Between the steps a purge is applied to remove the excess of precursor and the reaction by-products."
+}

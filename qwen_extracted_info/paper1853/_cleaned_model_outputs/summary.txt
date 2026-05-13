@@ -1,0 +1,8 @@
+{
+  "target_material": "Silicon nitride (SiN x)",
+  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Tris(disilanyl)amine (TDSA)"],
+  "temperature_range": "<300 °C",
+  "summary": "The study reports the use of tris(disilanyl)amine (TDSA) as a novel chlorine and carbon-free precursor for the deposition of highly etch-resistant silicon nitride (SiN x) thin films using plasma enhanced atomic layer deposition (PEALD) at low temperatures. The films exhibit improved wet etch resistance and high growth rates compared to other precursors like trisilylamine (TSA), aminosilanes, and chlorosilanes.",
+  "evidence": "TDSA grows SiN x film faster than TSA. Furthermore, TDSA precursor produces the SiN x films that have lower wet etch rate (WER) when compared to other silylamine precursors like TSA, or other types of silane precursors such as aminosilanes and chlorosilanes. The PEALD SiN x films of TDSA have bulk film densities ranging from 2.73 g/cm3 to 2.87 g/cm3 which is comparable to the reported density (2.9 g/cm 3) of the SiN x films grown by LPCVD, 28 and the density (2.88 g/cm 3) of the LPCVD SiNx films we internally grew at 730 °C."
+}

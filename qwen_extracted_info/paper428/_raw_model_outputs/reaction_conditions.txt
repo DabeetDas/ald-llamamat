@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Sill4 + n* → Si* + 4H*"
+  ],
+  "surface_mechanism_description": "A silane molecule occupies four dangling bonds on its adsorption onto the Si(100) surface. The self-limiting adsorption is confirmed by the saturation of hydrogen coverage, and the surface is reactivated by thermal desorption of hydrogen atoms to allow further adsorption.",
+  "intermediate_species": [
+    "surface dangling bonds",
+    "chemisorbed Si atoms",
+    "chemisorbed hydrogen atoms"
+  ],
+  "evidence": "We assume a reaction Sill4 + n* → Si* + 4H*, where n*, Si*, and H* denote the surface dangling bond, chemisorbed Si atoms, and chemisorbed hydrogen atoms, respectively. The limitation to chemisorbed species is justified by the shape and the position of the well defined peak of the H2-TDS spectrum. The equation also assumes that the four hydrogen atoms of an impinging silane molecule all adsorb onto the surface simultaneously."
+}<|im_end|>

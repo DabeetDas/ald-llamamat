@@ -1,0 +1,7 @@
+{
+  "precursors": ["Et2InN(SiMe3)2"],
+  "coreactants": ["oxygen plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Indium oxide films are deposited via plasma-enhanced atomic layer deposition (PEALD) to exploit their potential as a semiconductor in high mobility thin-film transistors (TFTs), which are suitable for fast driving applications such as high resolution displays. The films are successfully grown by the reaction between an Et2InN(SiMe3)2 liquid precursor and oxygen plasma at temperatures ranging from 100 1C to 250 1C giving a saturated growth rate value of B1.45 Å per cycle at the ALD window with precisely controlled thickness and uniformity."
+}

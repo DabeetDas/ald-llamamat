@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Sn(dmamb)", "H2O"],
+  "temperature_range": "100 – 200 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of SnO using a novel Sn complex, Sn(dmamb), and H2O as the Sn precursor and reactant, respectively. The process was carried out at temperatures between 100 and 200 °C, resulting in amorphous SnO films. Post-deposition rapid thermal annealing at 450 °C crystallized the films, which were then used as a p-type channel layer in bottom-gate thin film transistors (TFTs). The fabricated TFTs exhibited excellent p-type behavior with a high on/off ratio and saturation mobility.",
+  "evidence": "Atomic layer deposition of SnO was explored using a novel Sn complex, bis(dimethylamino-2-methyl-2butoxy)tin(II) [Sn(dmamb)] and H2O as the Sn precursor and reactant, respectively. Sn(dmamb) showed a facile ligand exchange reaction with H2O at temperatures of 100 – 200 °C, which resulted in the fabrication of pure SnO thin films. The amorphous SnO films were crystallized by a rapid thermal annealing post-process in N2 ambient at 450 °C. A bottom-gate thin film transistor was fabricated using a crystallized SnO channel layer, and excellent drain current modulation and p-type behavior were obtained, with an on/off ratio of ~7 × 10 and a saturation field effect mobility of 0.5 cm2/V ⋅ s."
+}<|im_end|>

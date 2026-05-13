@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 970,
+  "pressure": "1330 N m−2",
+  "precursor_pulse_time_s": 440,
+  "coreactant_pulse_time_s": 440,
+  "purge_time_s": 5,
+  "number_of_cycles": 5,
+  "reactor_type": "flow-type",
+  "evidence": "Over the corresponding treated support (at 770 K) cobalt acetylacetonate (Co(acac)3) was sublimed and chemisorbed at 440 K for 1 h using N2 as carrier, following a purge with N2 at the same temperature."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 120,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 6,
+  "number_of_cycles": 300,
+  "reactor_type": "vertical hot-wall type ALD reactor",
+  "evidence": "For the Zn1/C0 xMgxO film growth, diethylzinc [Zn(C2H5)2, DEZ] and bis-ethylcyclopentadienyl magnesium [Mg(C5H4C2H5)2, Mg(CpEt)2] were used as metal precursors while water vapor was used as a reactant. High purity Ar gas was used as a purging and carrier gas, and its flow was controlled by a mass flow controller (100 sccm for the precursors and reactant and 400 sccm for purging). A typical growth sequence for a ZnO monolayer is composed of DEZ exposure of 0.1 s, Ar purging of 6 s, H2O exposure of 0.1 s, and Ar purging of 6 s."
+}<|im_end|>

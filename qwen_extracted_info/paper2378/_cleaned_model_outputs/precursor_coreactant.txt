@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3"],
+  "coreactants": ["O3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "For Al2O3, Al(CH3)3 was used as the precursor and O3 vapour served as the oxygen source. The film was grown with the substrate at 450 ◦C in Ar ambient atmosphere, which was supplied as the purge and carrier gas."
+}

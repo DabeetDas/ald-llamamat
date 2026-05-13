@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves alternating exposures to lithium tert-butoxide (LTB) and hydrogen sulfide (H2S) for Li2S ALD, and tris(dimethylamido)aluminum(III) (TDMA-Al) and H2S for Al2S3 ALD. The growth of LixAlyS films is achieved by controlling the ratio of Li2S to Al2S3 ALD cycles, resulting in a stable interface between lithium metal and liquid carbonate electrolytes.",
+  "intermediate_species": ["Li2S", "Al2S3", "LixAlyS"],
+  "evidence": "The ALD process involves alternating exposures to lithium tert-butoxide (LTB) and hydrogen sulfide (H2S) for Li2S ALD, and tris(dimethylamido)aluminum(III) (TDMA-Al) and H2S for Al2S3 ALD. The growth of LixAlyS films is achieved by controlling the ratio of Li2S to Al2S3 ALD cycles, resulting in a stable interface between lithium metal and liquid carbonate electrolytes."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The observed giant dielectric constant is originated from the Maxwell–Wagner type dielectric relaxation, which is caused by the accumulation of surface charge at the interfaces between Al2O3 and TiO2 layers due to their different conductivities.",
+  "intermediate_species": ["oxygen vacancies"],
+  "evidence": "When current passing through a materials with electrical inhomogeneities, surface charge would accumulate at the interfaces between the two dielectric media (with different conductivities). This will cause an interfacial relaxation called Maxwell–Wagner (MW) relaxation, which is a typical external contribution to the dielectric constant. We propose that the charge carriers, responsible for the MW relaxation are most likely oxygen vacancies. Oxygen vacancies are most mobile positively charged carriers in oxides."
+}<|im_end|>

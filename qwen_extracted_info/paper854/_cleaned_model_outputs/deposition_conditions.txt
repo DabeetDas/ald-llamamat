@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150",
+  "pressure": "10",
+  "precursor_pulse_time_s": "0.1",
+  "coreactant_pulse_time_s": "0.1",
+  "purge_time_s": "4",
+  "number_of_cycles": "500",
+  "reactor_type": "Sunale R-200",
+  "evidence": "Films are deposited in an ALD reactor (Model: Sunale R-200, M /s Picosun Oy, Finland) using diethylzinc (DEZ) as zinc precursor and deionised water as oxidant at a pressure of 10 mBar. The pulse and purge parameters used during an ALD cycle are shown as schematic in Fig. 1. The number of ALD cycles is kept at 500 in this study unless otherwise stated."
+}

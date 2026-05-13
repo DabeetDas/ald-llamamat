@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Me(CH3)~ precursors (where Me = In or Ga) are selectively adsorbed by column V atoms and then thermally decompose into Me atoms. These Me atoms participate in self-limited deposition, and the precursors not decomposed are desorbed within a time shorter than the purging time and do not take part in the self-limited deposition.",
+  "intermediate_species": ["Me(CH3)~ precursors", "methyl radicals"],
+  "evidence": "Me(CH3)~ precursors (where Me = In or Ga) are selectively adsorbed by column V atoms and then thermally decompose into Me atoms. These Me atoms participate in self-limited deposition, and the precursors not decomposed are desorbed within a time shorter than the purging time and do not take part in the self-limited deposition."
+}<|im_end|>

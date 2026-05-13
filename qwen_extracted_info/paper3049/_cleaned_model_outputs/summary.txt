@@ -1,0 +1,8 @@
+{
+  "target_material": "SrTiO3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Sr(thd)2", "Ti(Oi-C3H7)4"],
+  "temperature_range": "190 to 270°C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of SrTiO3 thin films using Sr(thd)2 and Ti(Oi-C3H7)4 precursors with remote plasma activated or thermal H2O vapor as oxidant. The films were grown at temperatures ranging from 190 to 270°C. The as-grown films were amorphous and showed a low effective dielectric constant. The study also discusses the impact of postdeposition annealing (PDA) on the crystallization and electrical properties of the films, highlighting the importance of a crystallized seed layer in improving microstructure and leakage current performance. The best electrical properties achieved were an equivalent oxide thickness of 0.45 nm and a leakage current density of 1×10−3 A/cm2 at 1 V.",
+  "evidence": "Atomic layer deposited SrTiO3/H20849STO/H20850 thin films were grown using Sr/H20849C11H19O2/H208502 and Ti/H20849Oi-C3H7/H208504 with a remote plasma activated or thermal H2O vapor as oxidant at growth temperatures ranging from 190 to 270°C. The as-grown films were amorphous and showed a low effective dielectric constant of /H1101120 with a low leakage current density /H20849/H1102110−7 A/cm2 at 1 V. The adoption of a thin /H20849/H110115 nm/H20850 crystallized seed layer before the main layer STO growth improved the microstructure after the crystallization and the leakage current performance. As a result of the process optimization, the best electrical properties of an STO film grown on a Ru electrode were 0.45 nm for the equivalent oxide thickness and 1 /H1100310−3 A/cm2 for the leakage current density at 1 V."
+}

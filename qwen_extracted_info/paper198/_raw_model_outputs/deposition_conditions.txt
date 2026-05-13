@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "308C",
+  "pressure": "2 mbar",
+  "precursor_pulse_time_s": "250",
+  "coreactant_pulse_time_s": "5",
+  "purge_time_s": "5",
+  "number_of_cycles": "1000",
+  "reactor_type": "Beneq TFS-500 ALD tool equipped with a plasma reactor",
+  "evidence": "One deposition cycle consisted of a 250 ms TMA pulse, 5 s N2/Ar mixture purge, varied length of plasma pulse and 5 s N2/Ar mixture purge."
+}<|im_end|>

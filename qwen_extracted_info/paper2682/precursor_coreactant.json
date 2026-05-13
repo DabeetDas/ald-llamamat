@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "tetrakis(dimethylamino)tin(IV) (TDMASn)"
+  ],
+  "coreactants": [
+    "atmospheric pressure oxygen plasma",
+    "ozone",
+    "water"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Tetrakis (dimethylamino)tin(IV) (TDMASn) was kept in a precursor bubbler in the glove box without intentional heating. As oxidant, we used an atmospheric pressure Ar/O2 plasma, ozone, or water. The total gas flow at each precursor line (except for the plasma source) was 2000 sccm. N2 was used as purge gas. Typically, a flow of 200 sccm of N2 through the TDMASn-bubbler has been used."
+}

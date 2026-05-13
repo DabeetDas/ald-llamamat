@@ -1,0 +1,7 @@
+{
+  "precursors": ["tris(2,2,6,6-tetramethyl-3,5-heptanedionato)erbium", "bis(methylcyclopentadienyl)methoxymethylzirconium"],
+  "coreactants": ["O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The reactor was operated under a pressure of about 10 mbar using nitrogen (made on site by a Nitrox UHPN 3000 generator, rated purity of 99.9995%) as a carrier and purging gas. O3 was used as oxygen precursor."
+}

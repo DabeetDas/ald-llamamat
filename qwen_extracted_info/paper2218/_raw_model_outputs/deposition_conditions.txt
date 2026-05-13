@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "330",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "F-120",
+ "evidence": "The growth temperature was set to 330 ° C during deposition. The targeted 18 nm thick Lu 2O3 films were prepared by ALD on n-type Si (100) in a flow-type ALD Reactor (F-120, ASM-Microchemistry Ltd)."
+}<|im_end|>

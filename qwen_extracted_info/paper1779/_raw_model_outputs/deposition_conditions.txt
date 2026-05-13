@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "1.4 –3.3 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 300,
+  "number_of_cycles": 100,
+  "reactor_type": "laminar flow type",
+  "evidence": "The growth temperature was controlled by using a lamp heater, and monitored with a thermocouple which was closely placed to the specimen. The base pressure of the reactor was less than 10 mTorr and ALD was processed at a working pressure range of 1.4 –3.3 Torr. For purging the reactor, N2 gas was used with a flow rate of 300 sccm."
+}<|im_end|>

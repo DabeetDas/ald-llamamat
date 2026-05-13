@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "TiCl4",
+    "O2 plasma"
+  ],
+  "temperature_range": "40–250 °C",
+  "summary": "The study investigates the presence of residual chlorine in TiO2 films grown by plasma enhanced atomic layer deposition (PEALD) at temperatures between 40–250 °C. The residual chlorine originates from TiCl4, which is used as a titanium precursor. The PEALD process results in lower residual chlorine compared to thermal ALD, and the concentration of residual chlorine decreases with increasing processing temperature. The study also examines the crystallinity of the films and the chemical bonding of residual chlorine, finding that PEALD at low temperatures leads to the formation of ClO3- and ClO4- configurations, while thermal ALD results in higher residual chlorine levels.",
+  "evidence": "We have studied the presence of residual chlorine in thin TiO2 films grown by plasma enhanced atomic layer deposition (PEALD) at temperatures within 40–250 °C range, using x-ray photoemission spectroscopy, secondary ion mass spectrometry, grazing incidence x-ray diffraction and scanning electron microscopy. The source of the residual chlorine is TiCl4, which was used as a titanium precursor in ALD. The PEALD results are compared with the results on ALD films grown thermally in the same reactor. Films deposited by PEALD show a lower amount of residual chlorine, while chlorine concentration decreases with the processing temperature in both ALD techniques."
+}

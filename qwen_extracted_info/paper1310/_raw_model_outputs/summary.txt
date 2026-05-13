@@ -1,0 +1,8 @@
+{
+  "target_material": "SiN x",
+  "process_type": "plasma-enhanced ALD",
+  "main_precursors": ["Si2Cl6", "NH3 plasma"],
+  "temperature_range": "350−450 °C",
+  "summary": "A plasma-enhanced atomic layer deposition (ALD) process for the growth of SiN x thin films using Si2Cl6 and NH3 plasma was developed. The process enables conformal deposition at low temperatures, with a growth per cycle of ∼1.2 Å and >95% conformality over high-aspect-ratio nanostructures. The study highlights the surface reactions and film growth mechanisms, including the incorporation of H atoms as −NH groups and the formation of Si−N−Si bonds during the NH3 plasma half-cycle.",
+  "evidence": "A plasma-enhanced atomic layer deposition (ALD) process was developed for the growth of SiN x thin films using Si2Cl6 and NH3 plasma. At substrate temperatures ≤400 °C, we show that this ALD process leads to films with >95% conformality over high aspect ratio nanostructures with a growth per cycle of ∼1.2 Å. The film growth mechanism was studied using in situ attenuated total reflection Fourier transform infrared spectroscopy."
+}<|im_end|>

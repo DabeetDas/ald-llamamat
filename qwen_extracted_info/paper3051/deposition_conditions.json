@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 240,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "horizontal-ﬂow type CVD tool AIX200",
+  "evidence": "The reactor pressure was adjusted at 1 Torr by a throttle valve under the ﬂows of the carrier and purge gasses, and the ratio of the valve opening was ﬁxed before starting the injection. Following the precursor injection and the gas supply of H2O, the reactor was purged with 500 sccm Ar gas for 3 and 20 s, respectively, unless otherwise speciﬁed."
+}

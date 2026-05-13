@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "InCp"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Nitrogen (N2) gas was used as both the carry gas (120 sccm) and dilute gas (400 sccm) of the indium precursors."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 375,
+  "pressure": "1.3 mbar",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 60,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "cross-flow",
+  "evidence": "The GPC monitored as a function of several ALD parameters is as high as 0.1 nm/cycle at 60 s NH3 pulse and 1.3 mbar NH3 partial pressure."
+}<|im_end|>

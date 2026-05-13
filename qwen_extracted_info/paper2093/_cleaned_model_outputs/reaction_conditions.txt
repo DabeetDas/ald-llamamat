@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The HfO2 growth is initiated by the reaction of TEMAH with Si–H rather than D2O, and there is no evidence for SiO2 formation at moderate growth temperatures. The metal precursor reacts with the Si–H bonds, instead of the water precursor, and steric interactions among the large metal precursors limits the number of reacted sites to about half a monolayer, even after a deposition of 3 nm thick HfO2.",
+  "intermediate_species": ["Si–H", "Si–O–Hf", "HfO2"],
+  "evidence": "The HfO2 growth is initiated by the reaction of TEMAH with Si–H rather than D2O, and there is no evidence for SiO2 formation at moderate growth temperatures. Although Rutherford backscattering shows a linear increase of Hf coverage, direct observations of Si–H, Si–O–Hf, and HfO2 phonons indicate that five cycles are needed to reach the steady state interface composition of 50% reacted sites. The metal precursor reacts with the Si–H bonds, instead of the water precursor, and steric interactions among the large metal precursors limits the number of reacted sites to about half a monolayer, even after a deposition of 3 nm thick HfO2."
+}

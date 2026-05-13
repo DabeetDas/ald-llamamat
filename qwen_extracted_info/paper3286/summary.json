@@ -1,0 +1,13 @@
+{
+  "target_material": "TaN",
+  "process_type": "ALD",
+  "main_precursors": [
+    "TaCl5",
+    "TaBr5",
+    "tert-butylamine",
+    "allylamine"
+  ],
+  "temperature_range": "350–500 °C",
+  "summary": "The study investigates the use of tert-butylamine and allylamine as reductive nitrogen sources in atomic layer deposition (ALD) of tantalum nitride (TaN) thin films. The films were deposited using TaCl5 and TaBr5 as tantalum precursors with tert-butylamine or allylamine as nitrogen sources, with and without ammonia. The results show that tert-butylamine leads to lower impurity levels and better conductivity compared to allylamine. The lowest resistivity was achieved at 500 °C with TaCl5 and tert-butylamine.",
+  "evidence": "The atomic layer deposition technique was used to deposit TaN thin films from TaCl5 and TaBr5 and tert-butylamine or allylamine as a reductive nitrogen source with and without ammonia. The films deposited from tert-butylamine and ammonia with both tantalum precursors had reasonably low halide contents. When allylamine was used as a nitrogen source, on the contrary, the films contained larger amounts of chlorine and other impurities. The resistivity increased markedly as the deposition temperature was decreased. The lowest resistivities (below 1500 mV cm) were obtained when the films were deposited from TaCl5 or TaBr5 with tert-butylamine at 500 °C."
+}

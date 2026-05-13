@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "280",
+  "pressure": "200-400",
+  "precursor_pulse_time_s": "1-5",
+  "coreactant_pulse_time_s": "3",
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "low pressure flow-type",
+  "evidence": "The ALE cycle used in our experiments included the exposure of the mass sensor to the Ca(thd)2 source, the first inert gas purge, the exposure to the H2S or H20 source and the second inert gas purge. Cycle times: 5-3-5-5s."
+}<|im_end|>

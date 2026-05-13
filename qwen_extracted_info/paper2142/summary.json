@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "TMA",
+    "water"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the suppression of interfacial layer (IL) formation during atomic layer deposition (ALD) of Al2O3 on H-terminated silicon surfaces using surface TMA pretreatment. The process involves thermal ALD with TMA and water as precursors at 300 °C. The surface TMA pretreatment significantly reduces the final IL thickness after 35 cycles, despite an initial increase in IL thickness during the early cycles. The mechanism involves the interfacial Al catalyzing effect and steric hindrance, which together suppress IL formation.",
+  "evidence": "During atomic layer deposition of Al2O3, an interfacial layer containing SiOx between the high-k dielectric and Si substrate is unavoidable. However, an Al(CH3)3 (TMA) pretreatment for 3600 s on H-terminated silicon surface can effectively reduce the interfacial layer from 1.7 to 0.5 nm during atomic layer deposition of aluminum oxide. The deposition was performed at 300 °C at a pressure of 2.0 Torr using TMA and water as precursors."
+}

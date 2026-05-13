@@ -1,0 +1,12 @@
+{
+  "target_material": "InP and InAs/InP heterostructures",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "tertiarybutylarsine (TBAs)",
+    "trimethylindium (TMIn)",
+    "pure phosphine (PH3)"
+  ],
+  "temperature_range": "350—360°C",
+  "summary": "The study reports on the atomic layer epitaxy (ALE) growth of InP and InAs/InP heterostructures. Self-limiting growth of 1 monolayer per cycle was observed at low substrate temperatures of 350—360°C. The samples were characterized using high-resolution X-ray diffraction, Raman spectroscopy, transmission electron microscopy, photoluminescence, and cathodoluminescence mapping. The results demonstrate the structural and optical quality of the heterostructures, confirming the self-limiting growth and the effectiveness of ALE for fabricating strained InAs/InP heterostructures with atomically controlled interfaces.",
+  "evidence": "A self-limiting growth close to 1 monolayer per cycle has been obtained for InP and InAs with low substrate temperatures of 350—360°C. Using these techniques, we can demonstrate self-limiting growth of 1 monolayer per cycle in atomic layer epitaxy of InP, which has not been conclusively determined previously. Transmission electron microscopy shows abrupt InAs/InP interfaces and shows directly the self-limiting growth of 1 monolayer per cycle for both InAs and InP."
+}

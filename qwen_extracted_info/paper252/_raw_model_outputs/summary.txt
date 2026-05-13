@@ -1,0 +1,8 @@
+{
+  "target_material": "Vanadium(V)-oxid",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["SiOH", "VOCI3"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the formation of different Vanadium(V)-oxide surface phases on SiO2 using Vanadium(V) oxide precursors and hydrolysis. Two distinct phases, denoted as 6' and 6'', are formed depending on the SiOH group concentration. The 6' phase, with tetrahedral coordination, shows lower catalytic activity, while the 6'' phase, with octahedral coordination, exhibits higher activity. The process involves thermal treatment and hydrolysis, with the temperature range around 250°C affecting the coordination and catalytic properties.",
+  "evidence": "The text describes the formation of two Vanadium(V)-oxide surface phases on SiO2 through the reaction of SiOH groups with VOCI3 and subsequent hydrolysis. The phases are distinguished by their coordination geometry (tetrahedral vs. octahedral) and catalytic activity. The process involves thermal treatment at 250°C, which affects the coordination and catalytic properties of the resulting phases."
+}<|im_end|>

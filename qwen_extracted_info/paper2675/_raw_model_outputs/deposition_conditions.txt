@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "showerhead-type ASM PECVD",
+  "evidence": "The WS2 is grown from a PEALD reaction cycle that consists out of a WF6,H2 plasma, and H2S reaction (99.9% pure H2S, 10% in He) at 300 /C14 C, with a bulk GPC of (2.2 6 0.1) /C2 1013 W atoms/cm2 per cycle ... The H2 plasma reaction enables the reduction of -W6þFx surface species, but needs to be mild (100 W, 10 s) to avoid subsurface reduction of the WS2 layers."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "H+ + e- → H_ads + H2O",
+    "H_ads + H_ads → H2"
+  ],
+  "surface_mechanism_description": "The hydrogen evolution reaction (HER) on the amorphous MoS2 film follows the Volmer-Heyrovsky mechanism, where the rate-determining step is the electrochemical desorption of hydrogen gas (Heyrovsky reaction). The Volmer step involves hydrogen adsorption, and the Heyrovsky step involves the desorption of hydrogen gas.",
+  "intermediate_species": [
+    "H_ads"
+  ],
+  "evidence": "The text states: 'The Tafel slope (47 mV/decade) on the amorphous film suggests the Volmer(Heyrovsky mechanism as a major pathway for the HER in which a primary discharging step (Volmer reaction) for hydrogen adsorption is followed by the rate-determining electrochemical desorption of hydrogen gas (Heyrovsky reaction).'"
+}<|im_end|>

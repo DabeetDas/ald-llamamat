@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Hydroxyl groups have been widely identified as the main reactive sites for the adsorption of metal precursors in metal oxide ALD processes. The GPC is partially dependent on the number of OH groups on the surface and for a specific ALD process any non-linear growth behavior may result from the variation in the number of reactive sites.",
+  "intermediate_species": [
+    "Sr-O-Si structure",
+    "Sr silicate"
+  ],
+  "evidence": "Hydroxyl groups have been widely identified as the main reactive sites for the adsorption of metal precursors in metal oxide ALD processes. Thus, the GPC is partially dependent on the number of OH groups on the surface and for a specific ALD process any non-linear growth behavior may result from the variation in the number of reactive sites.\n\nIn the XPS fine scan of the Si 2p core level peaks, Figure 2, the single peak at 103.6 eV is attributed to native SiO2. With 1.5 nm ALD oxide, a new peak with binding energy (~101.8 eV) shows up, which is the signature of the formation of Sr-O-Si structure widely observed in molecular beam epitaxy studies. Calculations based on the change in Si 2p and O 1s XPS core level spectra of SiO2 components indicate that more than 70% and 90% of SiO2 has converted into Sr silicate after 20 and 30 ALD cycles, respectively."
+}

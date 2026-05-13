@@ -1,0 +1,11 @@
+{
+  "target_material": "TaN",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "Tantalum-pentafluoride (TaF5)",
+    "N2/H2/Ar plasma"
+  ],
+  "temperature_range": "350°C",
+  "summary": "TaN thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) with tantalum-pentafluoride (TaF5) as the metal precursor and N2/H2/Ar plasma as the reducing agent. The films exhibited high density and low resistivity, with the resistivity reduced to 400 Ω·cm through H2 plasma post-treatment. The study focused on optimizing the process parameters to achieve low-resistivity TaN films for use as Cu diffusion barriers in semiconductor devices.",
+  "evidence": "TaN thin films were grown by plasma-enhanced atomic layer deposition using tantalum-pentafluoride /H20849TaF5/H20850as the metal precursor and N 2 /H2 /Ar plasma as the reducing agent at a temperature of 350°C. When the source pulse time exceeded 1.5 s, the thickness per cycle of TaN thin films was saturated at 0.41 Å/cycle and the resistivity was about 610 /H9262/H9024cm. Under this condition, the TaN thin films had a high density /H2084914.6 g/cm 3/H20850, which was very close to the theoretical value /H2084915.8 g/cm 3/H20850, and fluorine or hydrogen impurities were below detection limit. The resistivity and N/Ta ratio of the TaN thin films increased with the plasma time, and did not saturate. In addition, increasing the N 2 /H2 ratio induced a sudden rise in the resistivity, which was related to the formation of a Ta 3N5 phase. This dielectric phase was reduced by lowering the N 2 /H2 ratio. In addition, when H 2 plasma post-treatment was applied to the deposition process, the resistivity of the TaN thin films was reduced to 400 /H9262/H9024cm."
+}

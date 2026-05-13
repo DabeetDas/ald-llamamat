@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the reduction of titanium tetrachloride (TiCl4) and titanium tetraiodide (TiI4) using tert-butylamine (tBuNH2) or allylamine (allylNH2) as reductive nitrogen sources. The nitrogen source reacts with surface hydroxyl groups, and the addition of ammonia (NH3) enhances the deposition rate and film quality. The reaction mechanism includes the formation of surface intermediates such as surface hydroxyls and the incorporation of nitrogen into the titanium nitride (TiN) lattice.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "tert-butyl groups",
+    "butene",
+    "carbon impurities",
+    "hydrogen impurities",
+    "oxygen impurities"
+  ],
+  "evidence": "The text discusses the use of tert-butylamine and allylamine as reductive nitrogen sources in the ALD of TiN films. It mentions that the addition of NH3 improved the properties of TiN films deposited from both TiCl4 and TiI4, especially when pulsed simultaneously with tBuNH2. The reaction mechanism involves the formation of surface intermediates such as surface hydroxyls and the incorporation of nitrogen into the TiN lattice. The text also notes that the low carbon content in the present films can be understood by noting that tBuNH2 has weakly bound tert-butyl groups which can easily undergo β-hydrogen elimination to form butene. The incorporation of carbon and hydrogen impurities differs from the tBuNH2-deposited TiN films, where these were hardly noticeable."
+}

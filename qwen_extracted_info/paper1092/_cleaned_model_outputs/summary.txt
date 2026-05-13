@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Hf(O-iPr)4", "O2"],
+  "temperature_range": "250 –350 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of HfO2 thin films using Hf(O-iPr)4 as the Hf source and O2 as the oxidant. The process temperature range was 250–350 °C, which is lower than that of using Hf(O-tBu)4. The deposited film showed an equivalent-oxide thickness (EOT) of 2.1 nm and a leakage current density of 8.9 × 10−6 A/cm2 at −1 V, with a monoclinic crystal phase in an amorphous matrix.",
+  "evidence": "A thin ﬁlm of hafnium dioxide (HfO 2) was formed on the surface of Si(100) by atomic layer deposition (ALD) using Hf(O-iPr) 4 as an Hf source and O 2 as an oxidant. The temperature window of the process was 250 –350 °C, which is about 100 °C lower than that of a process using Hf(O-tBu)4 as a source. The deposited ﬁlm consisted of a monoclinic crystal phase included in an amorphous matrix, which was confirmed by X-ray diffraction. The film showed an equivalent-oxide thickness (EOT) of 2.1 nm and a leakage current density of 8.9 × 10 − 6 A/cm2 at − 1 V."
+}

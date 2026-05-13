@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "In(CH3)3(g) + x OH* → x O(b) + In(CH3)3*x + x CH4(g)",
+    "In(CH3)3*x + 2(3 - x)O3(g) → In(OH)3*x + (3 - x)CH2O(g) + 2(3 - x)O2(g)",
+    "2In(CH3)3(g) + 6O3(g) → In2O3(b) + 3CH2O(g) + 6O2(g) + 3CH4(g)"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves the chemisorption of trimethylindium (TMI) precursor molecules onto surface hydroxyl groups, followed by ligand exchange reactions and surface hydroxylation. The ozone pulse decomposes to generate oxidizing species that react with surface methyl groups to form surface hydroxyls. The overall process includes ligand removal reactions, surface hydroxylation, and the formation of indium oxide through surface reactions with ozone.",
+  "intermediate_species": [
+    "In(CH3)3*x",
+    "In(OH)3*x",
+    "CH2O",
+    "CH4",
+    "O*",
+    "OH*"
+  ],
+  "evidence": "During the ozone pulse, it has been suggested that O3 can decompose to O2 and O from which the latter acts as the oxidizer. The O atom can attack surface methyl groups remaining from the metal precursor dose to generate surface hydroxyls. In Al2O3 and Ga2O3 ALD processes, this reaction can produce CH2O(g) or C2H4(g) by-products. Considering that the ethylene enthalpy of formation is significantly greater than formaldehyde, the formation of CH2O(g) is thermodynamically preferred. The presence of gaseous formaldehyde has been detected by quadrupole mass spectroscopy in the Ga2O3 ALD process. Locy and Ault have also reported formaldehyde production in ozone reaction with TMI. This supports the following potential reaction during the second half-reaction: In(CH3)3*x + 2(3 - x)O3(g) → In(OH)3*x + (3 - x)CH2O(g) + 2(3 - x)O2(g). A potential overall reaction for this ALD process is then 2In(CH3)3(g) + 6O3(g) → In2O3(b) + 3CH2O(g) + 6O2(g) + 3CH4(g)."
+}<|im_end|>

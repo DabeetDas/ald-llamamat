@@ -1,0 +1,7 @@
+{
+  "precursors": ["Hf[N(C2H5)(CH3)]4 (TEMAH)"],
+  "coreactants": ["D2O", "H2O"],
+  "purge_gas": [],
+  "carrier_gas": ["N2"],
+  "evidence": "The HfO2 films were deposited using Hf[N(C2H5)(CH3)]4 (TEMAH) and H2O or D2O as Hf precursor and oxidant, respectively, in a traveling-wave ALD reactor at 300 /C14 C. Liquid-phase TEMAH was volatilized in a canister kept at 60 /C14 C and carried into the reaction chamber with N2 carrier gas."
+}

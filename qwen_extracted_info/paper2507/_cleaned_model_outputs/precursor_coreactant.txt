@@ -1,0 +1,7 @@
+{
+  "precursors": ["diethylzinc (DEZ)"],
+  "coreactants": ["water vapor"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Figure 1. Growth sequence for ALCVD deposition of ZnO from diethylzinc and water vapor. (a) Diethylzinc is absorbed on the surface. Excess molecules are removed by a N2 purge and a submonolayer is formed. (b) Water vapor reacts with the absorbed DEZ molecules and forms ZnO on the surface while hydrocarbons are pumped away. (c) The remaining monolayer of ZnO."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Copper(1) chloride"],
+  "coreactants": ["Hydrogen"],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Nitrogen"],
+  "evidence": "Copper(i) chloride (Aldrich, claimed purity 99.995%) was used as the precursor and hydrogen (4GA, claimed purity 99.9999 %) was used as the reducing agent. The carrier gas was nitrogen (AGA, claimed purity 99.9999 %)."
+}

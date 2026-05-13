@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "1.8 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 45,
+  "number_of_cycles": 100,
+  "reactor_type": "viscous flow ALD reactor",
+  "evidence": "The ALD reactant timing sequence was t1-t2-t3-t4, where t1 is the exposure time for Mg(CpEt) 2, t2 is the purge following the Mg(CpEt)2 exposure, t3 is the H2O exposure, and t4 is the purge following the H 2O exposure. During the MgO ALD on silicon wafers, the timing sequence was 1 -45-1-45."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the ALD of platinum onto metal surfaces, where platinum layers are deposited through self-limiting chemical reactions. The process involves the interaction between the platinum precursor (methylcyclopentadienyl-trimethylplatinum) and the oxidant (oxygen), leading to the formation of platinum clusters on the metal surfaces. The surface composition and chemical binding were analyzed using XPS, showing no oxidation or alloying initially, but surface alloying occurred after annealing.",
+  "intermediate_species": [
+    "Pt clusters",
+    "surface hydroxyls",
+    "metal–metal bonds"
+  ],
+  "evidence": "The text describes the ALD process of platinum onto metal surfaces, where platinum layers are deposited through self-limiting chemical reactions. The surface composition and chemical binding were analyzed using XPS, showing no oxidation or alloying initially, but surface alloying occurred after annealing. The text also mentions that ALD Pt did not form a dense film but nucleated into clusters."
+}

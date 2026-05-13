@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "TiCl4",
+    "NH3"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "TiN films were deposited on Si(100) substrates at 450 ◦C using the reactant gases TiCl4 and NH3. TiCl4, which had a vapor pressure of about 5 Torr at 15◦C was vaporized from the liquid at 15◦C and introduced into the deposition chamber using 40 sccm Ar as a carrier gas. NH3 flow rate was 100 sccm. TiCl4 vapor and NH3 gas were alternatively introduced into the deposition chamber through solenoid valves with cycling time for TiCl4 reactant, Ar purge, NH3 reactant and Ar purge."
+}

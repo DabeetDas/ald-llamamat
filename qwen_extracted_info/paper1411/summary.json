@@ -1,0 +1,11 @@
+{
+  "target_material": "Alumina",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Trimethylaluminum (TMA)",
+    "Dimethylaluminum chloride (DMA)"
+  ],
+  "temperature_range": "400 K to 570 K",
+  "summary": "The study investigates the adsorption and reaction of trimethylaluminum (TMA) and dimethylaluminum chloride (DMA) on dehydroxylated alumina surfaces. The adsorption of TMA and DMA leads to the formation of surface species, including dimethylaluminum and monomethylaluminum, which react with surface hydroxyl groups to form methane. The process involves the initial formation of dimethylaluminum species, which then convert to monomethylaluminum upon heating. The reactivity of these species is influenced by their structural and electronic properties, with dimethylaluminum being more reactive than monomethylaluminum. The study also highlights the use of infrared spectroscopy to distinguish between different methyl species based on their vibrational modes.",
+  "evidence": "The species formed by adsorption of trimethylaluminum and dimethylaluminum chloride on y-alumina that has been dehydroxylated at 400 K are identified using infrared spectroscopy. The reaction of trimethylaluminum with surface hydroxyl groups leads to the formation of monomethylaluminum. The dimethylaluminum species react more rapidly than those formed by trimethylaluminum adsorption. The study also discusses the use of infrared spectroscopy to distinguish between different methyl species based on their vibrational modes."
+}

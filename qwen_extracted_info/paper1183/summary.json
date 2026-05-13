@@ -1,0 +1,11 @@
+{
+  "target_material": "Cobalt silicide (CoSi2)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "tBu-AllylCo(CO)3",
+    "trisilane"
+  ],
+  "temperature_range": "140 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of cobalt silicide (CoSi2) thin films on H-terminated Si(111) surfaces using tBu-AllylCo(CO)3 and trisilane. The process involves a nucleation period followed by a steady-state growth with a growth rate of 0.15 ± 0.05 Å per cycle. The ALD process is characterized by ligand exchange mechanisms and surface reactions, with the formation of CoSi2 being facilitated by the reactivity of the precursor with H-terminated surfaces and the inertness with silicon oxide surfaces. The study highlights the importance of understanding the initial surface reactions for achieving selective and uniform deposition.",
+  "evidence": "The strong reactivity of tBu-AllylCo(CO)3 with H-terminated silicon surfaces and inertness with silicon oxide surfaces, as previously determined by IR spectroscopy [Chem. Mater. 2012, 24, 1025], opens the door for selective deposition. Deposition of CoSi2 is observed after a brief nucleation period (∼3 cycles), during which the stabilization of the cobalt precursor takes place, as evidenced by a shift of the stretch frequency of the carbonyl groups bonded to the Co center from 2010 to 1980 cm−1. This shift is evidence for completion of the catalytic reaction and leads to a surface termination and configuration that is favorable for subsequent ligand exchange with trisilane, fostering a classical ligand-exchange ALD growth. In steady state, the CoSi2 growth rate is 0.15 ± 0.05 Å per cycle, as measured by Rutherford backscattering spectroscopy (RBS)."
+}

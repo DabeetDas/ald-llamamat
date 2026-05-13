@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "triethylgallium (TEG)",
+    "forming gas"
+  ],
+  "coreactants": [
+    "N2/H2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Gallium nitride films were deposited via plasma-enhanced atomic layer deposition (PEALD) using triethylgallium and forming gas as precursors. ... The growth rate and film thickness were collected from in situ spectroscopic ellipsometry data. ... A single growth cycle consisted of four segments: 0.04 s TEG exposure, 7 s Ar purge, 15 s N2/H2 plasma exposure, and 7 s Ar purge."
+}

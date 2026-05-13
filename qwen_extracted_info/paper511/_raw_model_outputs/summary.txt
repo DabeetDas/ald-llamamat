@@ -1,0 +1,8 @@
+{
+  "target_material": "InP",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylindium (TMI)", "tertiarybutylphosphine (TBP)"],
+  "temperature_range": "310–350 °C",
+  "summary": "The study investigates the self-limiting growth conditions of InP using alternate injections of trimethylindium (TMI) and tertiarybutylphosphine (TBP) in ultrahigh vacuum. The growth rate of approximately 0.75 monolayers per cycle is achieved on (0 0 1)-, (1 1 1)A-, and (1 1 1)B-oriented InP substrates. The self-limiting growth is attributed to the surface occupancy of phosphorus precursors, and the use of TMI expands the range of self-limiting growth conditions compared to triethylindium (TEI).",
+  "evidence": "The alternate injection of trimethylindium (TMI) and tertiarybutylphosphine (TBP) without precracking was studied to expand the self-limiting growth conditions of an InP layer on InP substrates in ultrahigh vacuum. The growth rate of approximately 0.75 monolayers per cycle at the plateau was achieved on (0 0 1)-, (1 1 1)A-, and (1 1 1)B-oriented InP substrates. It was suggested that the decomposition process of TMI is identical to that of TEI, and that the growth rate with the self-limiting growth conditions results from the surface occupancy of phosphorus precursors."
+}<|im_end|>

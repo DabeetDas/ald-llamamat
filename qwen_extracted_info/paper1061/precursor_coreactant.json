@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Pd(hfac)2",
+    "formalin"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Palladium ALD was performed using alternating exposures to Pd(II) hexafluoroacetylacetonate (Pd(hfac)2) and formalin, both obtained from the Aldrich chemical company. ... Ultrahigh purity nitrogen (99.999%) at a mass flow rate of 50 sccm was sent through the bubbler during the Pd(hfac)2 exposures, and was diverted to bypass the bubbler following the Pd(hfac)2 exposures."
+}

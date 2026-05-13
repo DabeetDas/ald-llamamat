@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Zn* + Cd(CH3)2 -> Cd* + Zn(CH3)2"
+  ],
+  "surface_mechanism_description": "The etching of Zn atoms during the DMCd pulse, which releases DMZn, contributes to the observed excess Cd in the alloy films. This etching effect is supported by DFT calculations showing that replacing surface Zn atoms with Cd is exoenergetic and most energetically favored up to about 20–50% replacement.",
+  "intermediate_species": [
+    "Zn*",
+    "Cd(CH3)2",
+    "Cd*",
+    "Zn(CH3)2"
+  ],
+  "evidence": "The study indicated that in the first few steps, DMCd etched the substrate and removed Zn as DMZn to form a Cd xZn1/C0 xSe interface. To simulate the etching effect, we determined the energetics of replacing surface Zn atoms from the zincblende ZnS (111) surface during a DMCd pulse by periodic PBE0 slab calculations. The energies were determined for the reaction Zn* + Cd(CH3)2 -> Cd* + Zn(CH3)2, where ‘*’ refers to a surface species, and they are illustrated in Fig. 3b as a function of surface metal composition."
+}

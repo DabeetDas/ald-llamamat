@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Fe(thd)3 (iron derivative of Hthd = 2,2,6,6-tetramethylheptane-3,5-dione)"
+  ],
+  "coreactants": [
+    "ozone"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The precursors were alternately pulsed into the reactor, separated by purging with N2 gas (claimed purity > 99.999%) produced with an N2 generator. N2 also functioned as the carrier gas."
+}

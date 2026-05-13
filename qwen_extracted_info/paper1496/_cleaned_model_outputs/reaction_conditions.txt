@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "O3 + Ru → RuO2",
+    "Ti precursor + RuO2 → TiO2 + Ru",
+    "Sr precursor + RuO2 → SrO + Ru",
+    "SrO + TiO2 → SrTiO3"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the oxidation of Ru substrate by O3 to form RuO2, followed by chemical reactions between Ti and Sr precursors with the RuO2 surface to form TiO2 and SrO layers. These layers then react to form SrTiO3. The reaction is influenced by the type of ligands on the Ti precursor, with weaker binding leading to more CVD-like behavior.",
+  "intermediate_species": [
+    "RuO2",
+    "TiO2",
+    "SrO",
+    "SrCO3"
+  ],
+  "evidence": "The text describes the oxidation of Ru substrate by O3 to form RuO2, followed by chemical reactions between Ti and Sr precursors with the RuO2 surface to form TiO2 and SrO layers. These layers then react to form SrTiO3. The reaction is influenced by the type of ligands on the Ti precursor, with weaker binding leading to more CVD-like behavior. The formation of SrCO3 is also mentioned as an unwanted byproduct."
+}

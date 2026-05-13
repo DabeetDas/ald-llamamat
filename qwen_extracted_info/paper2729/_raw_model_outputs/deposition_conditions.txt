@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "600",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "3",
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "All exposures were to 8 kL (I kL = 1000 L = 1 X 10 - J Torr s) of SiH2CI2, performed by exposing at 2 X IO 4 Torr for 40 s, which are similar exposures to those employed in Ref. 2. A range of sample temperatures from room temperature to 800 °C was used during the SiH2CI2 exposures. The elevated temperatures were obtained via resistive heating of the sample. After exposure. the samples were brought back to room temperature and transferred under UHV to the spectrometer chamber (base pressure = 1 X 10 10 Torr). Two different exposure conditions were used. In the first, the SiH 2Cl1 gas was pumped out before the sample was cooled, and in the second, the sample was cooled before the gas was evacuated. All of the temperature measurements were made using either optical or infrared (lR) pyrometry."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Ga2O3",
+  "process_type": "ALD",
+  "main_precursors": ["trimethylgallium (TMGa)", "ozone (O3)"],
+  "temperature_range": "200 to 375 °C",
+  "summary": "This study demonstrates a new process for the atomic layer deposition (ALD) of gallium oxide (Ga2O3) thin films using trimethylgallium (TMGa) and ozone. The process involves dissociative adsorption of TMGa onto the Ga2O3 surface, forming Ga(CH3)2 surface species and releasing CH4. Ozone then reacts with these methyl species to form hydroxyl and formate surface groups, releasing CH2O. The films are self-limiting with a growth rate of ~0.52 Å/cycle between 200 and 375 °C. The films are stoichiometric, free of residual carbon, and exhibit properties similar to bulk Ga2O3. The study also shows that ozone is the only effective oxygen source for Ga2O3 ALD with TMGa.",
+  "evidence": "We evaluated a variety of oxygen sources for Ga2O3 ALD using TMGa but found that only ozone was effective. We found the Ga2O3 growth to be self-limiting with a growth rate of ~0.52 Å/cycle between 200 and 375 °C. Moreover, the Ga2O3 films were stoichiometric, free of residual carbon, and exhibited properties similar to bulk Ga2O3."
+}<|im_end|>

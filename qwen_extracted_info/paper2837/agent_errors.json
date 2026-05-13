@@ -1,0 +1,9 @@
+{
+  "target_material": "Parsed successfully, but extracted content is empty.",
+  "precursor_coreactant": "ValueError: Could not parse model output as JSON. Preview: '[],   \"coreactants\": [],   \"purge_gas\": [],   \"carrier_gas\": []'",
+  "deposition_conditions": "Parsed successfully, but extracted content is empty.",
+  "reaction_conditions": "Parsed successfully, but extracted content is empty.",
+  "substrate_info": "Parsed successfully, but extracted content is empty.",
+  "film_properties": "Parsed successfully, but extracted content is empty.",
+  "characterization": "Parsed successfully, but extracted content is empty."
+}

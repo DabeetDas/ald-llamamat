@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 175,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "hot wall, viscous flow ALD reactor",
+  "evidence": "The SnS ALD films were grown using a pulse sequence of Sn(acac)2, N2 purge, H2S, and N2 purge. This pulse sequence is defined by ( t1 - t2 - t3 - t4) where t1 is the Sn(acac)2 dose time, t2 is the N2 purge time, t3 is the H2S dose time, and t4 is the N2 purge time. All the times are in seconds. The typical pulse sequence for many of the experiments was (1-30-1-30)."
+}

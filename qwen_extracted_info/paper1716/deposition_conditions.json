@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 125,
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 40,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall two-inch diameter flow-tube reactor",
+  "evidence": "Atomic layer deposition of ZnO and Al2O3 was performed using diethylzinc (DEZ, Zn(CH2CH3)2), trimethylaluminum (TMA, Al(CH3)3), and deionized water (H2O) as Zn, Al, and oxidant precursors, respectively. Argon was used as a carrier and purge gas. The deposition was carried out in a custom-made hot-wall two-inch diameter flow-tube reactor. ... When ALD ZnO or Al2O3 /H11001ZnO is formed on more complex surface structures, a longer process time is used with 2 s long precursor exposure and 40 s long Ar purge during each cycle to more fully infiltrate the precursors into the ZnO nanostructures."
+}

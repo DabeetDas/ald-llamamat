@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "SiOH* + SiCl4 → SiOSiCl3* + HCl",
+    "SiCl4 + H2O → SiOH4 + HCl"
+  ],
+  "surface_mechanism_description": "For the (A) reaction during SiO2 ALD, the surface is covered by hydroxyl (SiOH*) groups and SiCl4 reacts with these SiOH* species to deposit SiCl* species on the surface. During the catalyzed SiCl4 reaction, pyridine forms hydrogen bonds with the SiOH* species and makes the oxygen a stronger nucleophile. For the (B) reaction, H2O reacts with the SiCl* surface species to deposit OH* species on the surface. Pyridine is also believed to hydrogen bond with H2O and make the oxygen a stronger nucleophile during the catalyzed H2O reaction with the SiCl* species. Pyridine is required as a catalyst for both reactions. The reaction product for both reactions is HCl.",
+  "intermediate_species": [
+    "SiOH*",
+    "SiCl*",
+    "OH*"
+  ],
+  "evidence": "For the (A) reaction during SiO2 ALD, the surface is covered by hydroxyl (SiOH*) groups and SiCl4 reacts with these SiOH* species to deposit SiCl* species on the surface. During the catalyzed SiCl4 reaction, pyridine forms hydrogen bonds with the SiOH* species and makes the oxygen a stronger nucleophile. For the (B) reaction, H2O reacts with the SiCl* surface species to deposit OH* species on the surface. Pyridine is also believed to hydrogen bond with H2O and make the oxygen a stronger nucleophile during the catalyzed H2O reaction with the SiCl* species. Pyridine is required as a catalyst for both reactions. The reaction product for both reactions is HCl."
+}

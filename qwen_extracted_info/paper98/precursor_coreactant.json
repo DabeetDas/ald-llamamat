@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "trimethylindium (TMI)",
+    "tetrakis(dimethylamino)tin (TDMASn)",
+    "trimethylaluminum (TMA)"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "argon"
+  ],
+  "carrier_gas": [
+    "argon"
+  ],
+  "evidence": "The metal precursors employed were trimethyl indium (TMI, Akzo Nobel), tetrakis(dimethylamino)tin (TDMASn), and trimethyl aluminum (TMA, Strem Chemicals). Water (HPLC grade, Sigma-Aldrich) was used as oxidant and argon (99.9999%, Alpha Gaz™) as carrier gas."
+}

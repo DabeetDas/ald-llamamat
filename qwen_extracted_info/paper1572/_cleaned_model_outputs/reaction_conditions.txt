@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the modification of S-layer proteins with octadecyltrichlorosilane (ODTS), which introduces hydrophobic aliphatic chains, while the Si surface remains hydrophilic with -OH or -H groups. Atomic layer deposition (ALD) of HfO2 occurs selectively on the Si surface due to the contrast between the aliphatic groups and the hydrophilic surface functionalities. The ODTS-modified S-layer proteins are selectively removed by thermal annealing, leaving behind the HfO2 nanopatterns.",
+  "intermediate_species": ["ODTS-modified S-layer proteins", "surface hydroxyls", "aliphatic chains from ODTS"],
+  "evidence": "The text states: 'Since atomic layer deposition has been achieved ideally on surfaces with -OH groups and with an incubation time on surfaces with -H groups, it is therefore feasible to achieve area-selective ALD on a surface with a contrast between aliphatic groups and -OH/H terminations.' Additionally, it mentions: 'the ODTS-modified S-layer proteins are terminated with aliphatic chains (R )- (CH2)17CH3), while the Si surface exposed through the pores defined by the protein units is terminated with -OH or -H functional groups.'"
+}

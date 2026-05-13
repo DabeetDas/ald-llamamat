@@ -1,0 +1,8 @@
+{
+  "target_material": "Li1.2Mn0.54Co0.13Ni0.13O2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["trimethylaluminum (TMA)", "trimethyl phosphate (TMPO)", "distilled water (H2O)"],
+  "temperature_range": "250 °C",
+  "summary": "The study reports the use of atomic layer deposition (ALD) to coat Li1.2Mn0.54Co0.13Ni0.13O2 (HENMC) cathode materials with aluminum phosphate (AlPO4). The ALD process was found to suppress oxygen release, improve initial coulombic efficiency (CE), and enhance thermal stability. The coating also led to the formation of a spinel-like phase on the surface, which contributed to better electrochemical performance and structural stability.",
+  "evidence": "The ALD process was found to suppress oxygen release, improve initial coulombic efficiency (CE), and enhance thermal stability. The coating also led to the formation of a spinel-like phase on the surface, which contributed to better electrochemical performance and structural stability."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3 and metal oxides",
+  "process_type": "ALD",
+  "main_precursors": ["Al(CH3)3", "Ti(OC2H5)4", "Ta(OC2H5)4", "Nb(OC2H5)4", "D2O"],
+  "temperature_range": "250 °C",
+  "summary": "The study describes the integration of a quadrupole mass spectrometer (QMS) into a flow-type ALD reactor to characterize chemical reactions during ALD oxide processes. The research focuses on ALD processes using metal precursors such as Al(CH3)3, Ti(OC2H5)4, Ta(OC2H5)4, and Nb(OC2H5)4, with water (or deuterated water) as the oxygen source. The QMS setup allows for in situ analysis of reaction byproducts and intermediates, providing insights into the reaction mechanisms and film growth dynamics. The study highlights the importance of deuterated water in resolving reaction mechanisms and the impact of temperature on the ALD process.",
+  "evidence": "The text discusses the integration of a quadrupole mass spectrometer (QMS) into a flow-type ALD reactor to study chemical reactions during ALD oxide processes. It mentions the use of metal precursors such as Al(CH3)3, Ti(OC2H5)4, Ta(OC2H5)4, and Nb(OC2H5)4, with water (or deuterated water) as the oxygen source. The study also describes the use of deuterated water to resolve reaction mechanisms and the impact of temperature on the ALD process."
+}

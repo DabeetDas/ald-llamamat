@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(cyclopentadienyl)-ruthenium (RuCp2)"],
+  "coreactants": ["O2"],
+  "purge_gas": [],
+  "carrier_gas": ["N2"],
+  "evidence": "The RuCp2 precursor was kept at 60 ◦C and its vapour was transported into the reaction chamber by a carrier gas (N2). The mixture of O 2 (a reactant gas) and N2 (a dilution gas) went into the reaction chamber through a separate gas line."
+}

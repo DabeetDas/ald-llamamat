@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ir(acac)3 + O3 -> IrO2 + 3acac",
+    "IrO2 + H2 -> Ir + H2O"
+  ],
+  "surface_mechanism_description": "The ALD process involves consecutive oxidation and reduction steps using ozone and hydrogen. The oxidation step uses ozone to form iridium oxide (IrO2), while the reduction step with hydrogen converts IrO2 to metallic Ir. The process allows for the deposition of metallic Ir at lower temperatures by alternating between oxidation and reduction pulses.",
+  "intermediate_species": [
+    "IrO2",
+    "H2O",
+    "Ir(acac)3"
+  ],
+  "evidence": "The ALD cycle consisted of Ir(acac)3, ozone, and H2 pulses, where the addition of H2 causes the deposited film to be metallic instead of an iridium oxide. The growth rate had a constant value of about 0.2 Å/cycle in the studied temperature range. The films were metallic Ir but not highly oriented as the intensity ratio between the (111) and the (200) reflections was small."
+}

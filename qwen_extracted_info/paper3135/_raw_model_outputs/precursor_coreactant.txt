@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMA T"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The substrates were heated using a resistive heating plate, providing temperatures up to around 500°C, which was measured by a thermocouple attached to the heater. TDMA T and O2 plasma were used as a Ti precursor and O reactant, respectively. Because the TDMA T has high enough vapor pressure, the bubbler was kept at room temperature without the use of carrier gas. The chamber was purged by 50 sccm Ar gas between the precursor and the reactant exposure step."
+}<|im_end|>

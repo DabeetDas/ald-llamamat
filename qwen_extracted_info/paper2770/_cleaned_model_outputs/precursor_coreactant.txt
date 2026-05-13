@@ -1,0 +1,7 @@
+{
+  "precursors": ["AlCl3", "Al(OiPr)3", "AlMe3", "Ti(OiPr)3", "ZrCl3", "Zr(OEt)3", "HfCl4", "Hf(OEt)4", "TaCl5", "Ta(OEt)5", "ZrCl4", "Si(OEt)3", "Si(OnBu)3", "SiCl4"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The compounds AI(CH,), and Si(OEt), were evaporated in external sources and led into the reactor through a solenoid valve. The other compounds were evaporated inside the reactor at temperatures that correspond to a vapor pressure of about 0.1 mbar. The source vapors were pulsed onto the substrates by means of inert gas valving. Nitrogen was used as a carrier and as a purging gas."
+}

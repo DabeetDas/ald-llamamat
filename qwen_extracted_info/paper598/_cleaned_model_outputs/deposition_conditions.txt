@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 580,
+  "pressure": "1 × 10 -9 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 16,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The substrate was heated to 580°C for 3 min under an AsH 3 pressure of 5 × 10 -4 Torr to remove the surface oxide. After that, the substrate temperature was set at the growth temperature. For molecular layer growth, TMG and AsH~ were introduced alternately after being evacuated respectively. The total number of cycles of the growing sequence was 150-200."
+}

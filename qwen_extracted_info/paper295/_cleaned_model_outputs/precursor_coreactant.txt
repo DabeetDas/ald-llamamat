@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethylaluminum (Al(CH3)3, TMA)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Trimethylaluminum (Al(CH3)3, TMA) and H2O were used as the aluminum and oxygen sources, respectively. A cycle of the deposition process consisted of 0.1 s of TMA pulse, 5 s of N2 purge, 0.1 s of H2O pulse and 5 s of N2 purge."
+}

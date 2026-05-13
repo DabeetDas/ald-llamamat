@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "60",
+  "number_of_cycles": null,
+  "reactor_type": "viscous flow",
+  "evidence": "The LTB dose was 3 s with a partial pressure of 4.0 Pa. The H 2O dose was 1 s with a partial pressure of 33.3 Pa. The CO 2 dose was 1 s with a partial pressure of 66.7 Pa. The purge times after the reactant exposures were 60 s."
+}<|im_end|>

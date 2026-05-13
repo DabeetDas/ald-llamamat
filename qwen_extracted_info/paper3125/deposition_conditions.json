@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "5–10 mbar",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "HfO2:Y ﬁlms were deposited on TiN and native-oxide-covered Si in an F-120 ALD reactor (ASM Microchemistry) operating at a pressure of 5–10 mbar."
+}

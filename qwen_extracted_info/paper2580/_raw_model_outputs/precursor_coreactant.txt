@@ -1,0 +1,36 @@
+{
+  "precursors": [
+    {
+      "name": "Ti(OC2H5)",
+      "abbreviation": "Ti(OC2H5)",
+      "evidence": "Ti/H20849OC2H5/H208504 –H 2O reaction cycles."
+    },
+    {
+      "name": "Al(CH3)3",
+      "abbreviation": "Al(CH3)3",
+      "evidence": "Al /H20849CH3/H208503 –H 2O cycles."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "H2O",
+      "abbreviation": "H2O",
+      "evidence": "Al /H20849CH3/H208503 –H 2O cycles and Ti/H20849OC2H5/H208504 –H 2O reaction cycles."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "N2",
+      "abbreviation": "N2",
+      "evidence": "N 2 purge 4 s long was used after each precursor injections."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "N2",
+      "abbreviation": "N2",
+      "evidence": "99.999% pure nitrogen was used as the carrier and purging gas."
+    }
+  ],
+  "evidence": "Ti/H20849OC2H5/H208504 –H 2O reaction cycles. The duration of both Al/H20849CH3/H208503 and Ti /H20849OC2H5/H208504 pulses was t=0.1 s, while the H2O pulse duration was t=0.2 s. N 2 purge 4 s long was used after each precursor injections. 99.999% pure nitrogen was used as the carrier and purging gas."
+}<|im_end|>

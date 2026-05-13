@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Ti/H20851OCH/H20849CH3/H208502/H20852",
+    "Zr/H20851OC/H20849CH3/H208503/H208524"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Ultrapure N 2 gas /H2084999.999%/H20850was used as carrier and purging gases. /H20851Ti/H20849OCH/H20849CH3/H208502/H20852/H20849Sigma Aldrich, 99.999%/H20850,Z r/H20851OC/H20849CH3/H208503/H208524 /H20849Sigma Aldrich, 99.999%/H20850, and water/H20849puriﬁed by Millipore Milli-Q/H20850were used as precursors."
+}

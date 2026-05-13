@@ -1,0 +1,8 @@
+{
+  "target_material": "polystyrene (PS) and polymethylmethacrylate (PMMA)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TMA (trimethylaluminum)", "H2O"],
+  "temperature_range": "40 to 60 °C",
+  "summary": "The study describes a flexible replication technique (FlexRep) for high-aspect-ratio nanostructures using atomic layer deposition (ALD). The technique involves coating a master template with an ALD sacrificial layer, followed by spin-coating with a polymer solution and selective removal of the sacrificial layer to produce replicas. The process allows for tunable line widths and is applicable for various nanostructured materials, including polymers and metal oxides.",
+  "evidence": "The master is coated with conformal Al2O3 films by atomic layer deposition. The deposition cycle was repeated 250–1800 times and allowed for tunable film thicknesses of the sacrificial layer. The resulting sample was spin-coated with 8–40% polystyrene (PS) and polymethylmethacrylate (PMMA) solutions in CH2Cl2, and the sacrificial layer was removed in 10–20% H3PO4 solution. The replication process enables the production of high-aspect-ratio nanostructures with tunable lateral size."
+}<|im_end|>

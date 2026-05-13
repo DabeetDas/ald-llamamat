@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "520",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "360",
+  "reactor_type": "atmospheric pressure-vertical MOCVD",
+  "evidence": "For ALE growth, the substrate temperature was either 480 or 520°C and each GaAs layer consisted of 360 growth cycles, while that for InGaAs was 40 cycles."
+}

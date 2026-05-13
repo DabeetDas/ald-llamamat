@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "TMA pulse (0.5 s), N2 purge (5 s), NH3 pulse (5 s), and then N2 purge (60 s)."
+  ],
+  "surface_mechanism_description": "The dissociation of NH3 on the substrate is crucial to making uniform nuclei for the subsequent growth of AlN film. NH3 pretreatment may enhance the growth rate at the nucleation stage. The reaction of TMA with NH3 on the surface forms AlN, with byproducts removed by N2 purge. The number of reactive sites on the surface is kept constant, allowing for linear growth.",
+  "intermediate_species": [
+    "dissociated NH3",
+    "surface hydroxyls",
+    "TMA molecules"
+  ],
+  "evidence": "The dissociation of NH3 on the substrate is crucial to making uniform nuclei for the subsequent growth of AlN film. NH3 pretreatment may enhance the growth rate at the nucleation stage. The reaction of TMA with NH3 on the surface forms AlN, with byproducts removed by N2 purge. The number of reactive sites on the surface is kept constant, allowing for linear growth."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Ge",
+  "process_type": "homo-ALE and hetero-ALE",
+  "main_precursors": ["GTC", "DMG", "atomic H"],
+  "temperature_range": "300±C to 500±C",
+  "summary": "The study demonstrates hetero atomic-layer epitaxy (ALE) of Ge on Si(100) by combining one-monolayer (1 ML) growth of Ge on the Si surface using a C-free precursor (GTC) and subsequent Ge homo-ALE using DMG and atomic H. The process involves alternating exposures of GTC and atomic H to form the initial Ge layer, followed by DMG and atomic H for further growth. The Si underlayer significantly influences the adsorption kinetics of the Ge precursor, and the process is carried out at temperatures between 300±C and 500±C. The study confirms the layer-by-layer growth of Ge with a 1 ML step, achieving a uniform Ge layer on the Si(100) surface.",
+  "evidence": "Hetero atomic-layer epitaxy of Ge on the Si(100) surface has been successfully demonstrated. The Si underlayer was found to have strong influences on the adsorption kinetics of a Ge precursor, but a discrete increase in the grown-film thickness was achieved with a one-monolayer step up to the critical thickness of the Ge layer. The periodicity of vacancy lines in the grown Ge layer is shortened in pitch with increasing the number of Ge growth cycles, reconfirming that the Ge layer was grown in a layer-by-layer manner. C atoms were not introduced in the grown film when the growth temperature was about 420±C."
+}<|im_end|>

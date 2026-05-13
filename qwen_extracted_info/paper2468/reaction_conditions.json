@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "Two thermally stable gaseous precursors are pulsed alternatively into the reaction chamber, whereby direct contact of both precursors in the gas phase is prevented. Because each precursor specifically reacts with chemical functional groups present on the surface of the substrate, one monolayer of precursor adsorbs onto the surface during each pulse despite an excess of it in the gas phase."
+}

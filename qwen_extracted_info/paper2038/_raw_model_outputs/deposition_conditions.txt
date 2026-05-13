@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "300",
+ "pressure": "",
+ "precursor_pulse_time_s": "3600",
+ "coreactant_pulse_time_s": "10000",
+ "purge_time_s": null,
+ "number_of_cycles": "30",
+ "reactor_type": "ASM Pulsar2000™",
+ "evidence": "Al2O3 films grown with a long initial TMA pulse in a commercial ALD reactor @~g! 3600 s, 10 8 L] are very similar to those from our model reactor. The much lower water exposures employed in the commercial reactor (10 4 L), however, guarantee that the SiO 2 interlayer thickness is smaller."
+}<|im_end|>

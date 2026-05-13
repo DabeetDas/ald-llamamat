@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "5±10 mbar",
+  "precursor_pulse_time_s": "1.65",
+  "coreactant_pulse_time_s": "1.76",
+  "purge_time_s": "1.76",
+  "number_of_cycles": "6000",
+  "reactor_type": "F-450",
+  "evidence": "The pulse and purge times in these experiments were 1.65 s and 1.76 s for Ca thd and 1.76 s and 1.98 s for H S, respectively. All the samples were deposited in the large area-travelling wave reactor F-450, Microchemistry 9 ."
+}

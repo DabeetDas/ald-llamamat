@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu2O/β-Ga2O3 pn heterojunction",
+  "process_type": "thermal ALD",
+  "main_precursors": ["bis(N,N′-di-sec-butylacetamidinato)dicopper(I) [Cu(5Bu-Meamd)]2", "water vapor"],
+  "temperature_range": "180 °C",
+  "summary": "The study describes the fabrication of a solar-blind UV photodetector using atomic layer-deposited p-type Cu2O and exfoliated n-type β-Ga2O3 nanomembranes. The ALD process uses a novel Cu precursor and water vapor as an oxidant. The resulting Cu2O/β-Ga2O3 heterojunction demonstrates rectifying behavior and sensitive detection of current at the picoampere scale in the reverse mode. The work highlights the potential of ALD for integrating oxide heterojunctions in photodetector applications.",
+  "evidence": "The ALD process of the Cu2O film applies bis(N,N′-di-secbutylacetamidinato)dicopper(I) [Cu(5Bu-Meamd)]2 as a novel Cu precursor and water vapor as an oxidant. The fabricated Cu2O/β-Ga2O3 photodetector achieves sensitive detection of current at the picoampere scale in the reverse mode. The ALD process can be applied for photovoltaic applications, in particular for depositing ultrathin layers at relatively low temperatures."
+}

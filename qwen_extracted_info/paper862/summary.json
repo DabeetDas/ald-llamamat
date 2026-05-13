@@ -1,0 +1,12 @@
+{
+  "target_material": "TiO2−xNx",
+  "process_type": "ALD",
+  "main_precursors": [
+    "TiCl4",
+    "NH3",
+    "H2O"
+  ],
+  "temperature_range": "500 ◦C",
+  "summary": "The study describes the atomic layer deposition (ALD) of nitrogen-doped TiO2−xNx thin films for photocatalytic applications. The films were grown using TiCl4, NH3, and H2O as precursors at 500 ◦C. The process involved alternating cycles of TiN and TiO2 deposition, resulting in TiO2−xNx films with varying nitrogen concentrations. The films showed visible light activity but also suffered from increased recombination, which reduced their photocatalytic efficiency. The study also evaluated the effect of nitrogen doping on the photocatalytic activity, superhydrophilicity, and photoelectrochemical properties of the films.",
+  "evidence": "In this work, nitrogen-doped TiO2 films were grown by atomic layer deposition (ALD) using TiCl4, NH3 and water as precursors. All growth experiments were done at 500 ◦C. The films were characterized by XRD, XPS, SEM and UV–vis spectrometry. The influence of nitrogen doping on the photocatalytic activity of the films in the UV and visible light was evaluated by the degradation of a thin layer of stearic acid and by linear sweep voltammetry. Light-induced superhydrophilicity of the films was also studied. It was found that the films could be excited by visible light, but they also suffered from increased recombination."
+}

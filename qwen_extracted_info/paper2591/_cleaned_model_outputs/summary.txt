@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["CpHf(NMe2)3", "(CpMe)2Hf(OMe)Me"],
+  "temperature_range": "305 – 410 /C14 C",
+  "summary": "The study evaluates high thermal stability cyclopentadienyl Hf precursors with H2O as a co-reactant for advanced gate logic applications. The focus is on comparing the ALD processes using CpHf(NMe2)3 and (CpMe)2Hf(OMe)Me with the conventional TEMAH/H2O process. The CpHf(NMe2)3/H2O process shows a lower growth-per-cycle (GPC) compared to TEMAH/H2O but allows for higher processing temperatures. The (CpMe)2Hf(OMe)Me/H2O process has a very low GPC, making it unsuitable for device testing, but it shows viable results with O3 as a co-reactant.",
+  "evidence": "For the purpose of extending the upper temperature limit of metallorganic atomic layer deposition, mixed ligand precursors containing cyclopentadienyl (Cp, C5H5) ligands have been shown to exhibit superior thermal stability compared to the widely adopted tetrakis(ethylmethylamino)hafnium (TEMAH) precursor while also possessing adequate vapor pressure characteristics for use in atomic layer deposition (ALD) processing. In order to prevent the deleterious oxidation of the underlying Si from O3 the use of a milder oxidant such as H2O is preferred. Accordingly in this study, we investigated ALD using the liquid precursors CpHf(NMe2)3 and (CpMe)2Hf(OMe)Me in the temperature range 305 – 410 /C14 C with H2O as a co-reactant and compared the film growth and electrical properties with films deposited using a conventional TEMAH/H2O process at 305 /C14 C as well as the same process with an optimized annealing scheme."
+}

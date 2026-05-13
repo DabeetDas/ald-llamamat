@@ -1,0 +1,8 @@
+{
+  "target_material": "MoNx",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Mo(CO)6", "NH3"],
+  "temperature_range": "225 °C",
+  "summary": "The study describes the atomic-layer-deposition (ALD) of MoNx thin films on three-dimensional Ni foam for efficient hydrogen evolution reaction (HER) catalysis. The MoNx thin film is grown by sequential exposure of Mo(CO)6 and NH3 at 225 °C. The thickness of the thin film is controlled by varying the number of ALD cycles to maximize HER performance. The MoNx film is amorphous with nanocrystalline MoN grains and exhibits high surface area, uniformity, and conformality. The study highlights the enhanced HER activity and stability of the MoNx/NF composite catalyst in both acidic and alkaline electrolytes.",
+  "evidence": "The MoNx thin film is grown on Ni foam by the sequential exposure of Mo(CO)6 and NH3 at 225 °C. The thickness of the thin film is controlled by varying the number of ALD cycles. The MoNx film is amorphous with nanocrystalline MoN grains and exhibits high surface area, uniformity, and conformality. The HER activity of MoNx is evaluated under acidic (0.5 M H2SO4) and alkaline (0.1 M KOH) conditions. The MoNx/NF composite catalyst shows enhanced activity and stability due to the uniform and conformal coating on NF."
+}

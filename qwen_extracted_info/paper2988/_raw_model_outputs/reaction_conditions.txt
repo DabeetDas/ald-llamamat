@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the incorporation of interstitial oxygen into the silicon substrate during the plasma enhanced atomic layer deposition (PEALD) of Al2O3. The O2 plasma exposure leads to the formation of interstitial oxygen in the silicon lattice, which is attributed to the atomic oxygen from the plasma. The Al2O3 layer does not effectively serve as a diffusion barrier for atomic oxygen, allowing the oxygen atoms to penetrate into the silicon substrate.",
+  "intermediate_species": ["interstitial oxygen"],
+  "evidence": "The incorporation of interstitial oxygen into a silicon substrate was found by Fourier transform infrared spectroscopy, and the amount of interstitial oxygen found increased when the thickness of Al2O3 was increased. This phenomenon was attributed to the diffusion of oxygen atoms throughout the Al2O3 layer. The 1106 cm−1 absorption peak represents an antisymmetric motion of a bent triatomic Si-O-Si defect molecule and usually represents the existence of interstitial oxygen in silicon. The increase of the amount of interstitial oxygen indicates that the Al2O3 layer does not effectively serve as a diffusion barrier of atomic oxygen from plasma."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["HyperSr", "PrimeTi", "StarTi"],
+  "coreactants": ["O3", "H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The source of oxidizing reagent, O3, is an ozonizer (Ozonia, CFS-2A) which generates 8 % O3/O2. The reactor setup description has been reported elsewhere. The growth rate (Å/cycle) of strontium oxide at 250 °C versus precursor dosage. The optimal length of the subsequent nitrogen purge was experimentally determined to be 5 s. The ALD of strontium titanate using HyperSr, PrimeTi and O3 as oxidizer. The ALD of strontium titanate using HyperSr, StarTi and O3 as oxidizer."
+}

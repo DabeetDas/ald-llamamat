@@ -1,0 +1,45 @@
+{
+  "precursors": [
+    {
+      "name": "Bi(mmp)3",
+      "full_name": "Bismuth (1-methoxy-2-methyl-2-propoxide)",
+      "evidence": "For the BT ALD, a mixed solution of Bi(mmp)3, and Ti(mmp)4 (mmp = 1-methoxy-2-methyl-2-propoxide) was injected twice in 1 s and subsequently purged with argon gas (1600 sccm) for 5 s."
+    },
+    {
+      "name": "Ti(mmp)4",
+      "full_name": "Titanium (1-methoxy-2-methyl-2-propoxide)",
+      "evidence": "For the BT ALD, a mixed solution of Bi(mmp)3, and Ti(mmp)4 (mmp = 1-methoxy-2-methyl-2-propoxide) was injected twice in 1 s and subsequently purged with argon gas (1600 sccm) for 5 s."
+    },
+    {
+      "name": "TMA",
+      "full_name": "Trimethylaluminum",
+      "evidence": "For the alumina ALD, the feeding times of trimethylaluminum (TMA) and water vapor were 0.5 and 2 s, respectively, and the purging times were 5 s."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "H2O",
+      "full_name": "Water",
+      "evidence": "For the BT ALD, the Bi and Ti-adsorbed substrate was oxidized by a water pulse for 3 s and then purged again with argon gas."
+    },
+    {
+      "name": "H2O",
+      "full_name": "Water",
+      "evidence": "For the alumina ALD, the feeding times of trimethylaluminum (TMA) and water vapor were 0.5 and 2 s, respectively, and the purging times were 5 s."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Ar",
+      "full_name": "Argon",
+      "evidence": "For the BT ALD, the Bi and Ti-adsorbed substrate was oxidized by a water pulse for 3 s and then purged again with argon gas."
+    },
+    {
+      "name": "Ar",
+      "full_name": "Argon",
+      "evidence": "For the alumina ALD, the feeding times of trimethylaluminum (TMA) and water vapor were 0.5 and 2 s, respectively, and the purging times were 5 s."
+    }
+  ],
+  "carrier_gas": [],
+  "evidence": "For the BT ALD, a mixed solution of Bi(mmp)3, and Ti(mmp)4 (mmp = 1-methoxy-2-methyl-2-propoxide) was injected twice in 1 s and subsequently purged with argon gas (1600 sccm) for 5 s. For the alumina ALD, the feeding times of trimethylaluminum (TMA) and water vapor were 0.5 and 2 s, respectively, and the purging times were 5 s. The Bi and Ti-adsorbed substrate was oxidized by a water pulse for 3 s and then purged again with argon gas."
+}<|im_end|>

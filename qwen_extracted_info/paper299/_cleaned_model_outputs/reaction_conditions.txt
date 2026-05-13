@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the atomic layer deposition (ALD) of SnO2 using SnCl4 and H2O as precursors. The ALD process involves alternating pulses of SnCl4 and H2O, followed by purge steps. The reaction is likely a surface reaction where SnCl4 reacts with surface hydroxyl groups, and H2O regenerates the hydroxyl sites.",
+  "intermediate_species": ["surface hydroxyls", "SnCl4"],
+  "evidence": "SnCl4 and H2O, which were used as the precursors for Sn and an oxidant, respectively, were kept in a canister at 0 /C176C for SnCl4 and 10 /C176C for H2O. SnCl4,H 2O, and N2 purge gas was fed into the chamber through separate inlet lines and nozzles and purged in an ALD cycle. This cycle was repeated for 600 times. The typical pulse times for both the SnCl4 and H2O feeds were 1 s, and the purge time between the reactants was 2 s."
+}

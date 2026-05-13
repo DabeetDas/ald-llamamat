@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Atomic Force Microscopy (AFM)",
+    "X-Ray Photoelectron Spectroscopy (XPS)",
+    "X-Ray Diffraction (XRD)",
+    "Scanning Electron Microscopy (SEM)",
+    "Absorption Coefficient Measurement",
+    "Photoluminescence (PL)",
+    "Ultrafast Pump-Probe Spectroscopy"
+  ],
+  "evidence": "Atomic force microscopy is used to measure the grain-size (D) and arithmetic mean roughness (Ra) of PbS, PbI2, and MAPbI3, as detailed in Figure 1b. X-ray photoelectron spectroscopy confirms the elemental presence of Pb, I, S, and N in each of the expected films: PbS, PbI2, and MAPbI3. Through a complementary X-ray diffraction (XRD) analysis, we further confirmed the material composition at each step and demonstrated that the conversion processes of PbS to PbI2, and PbI2 to MAPbI3, is complete. A 45° scanning electron microscope image shows the polycrystalline grains on the surface of the fabricated MAPbI3 films. The absorption coefficient, α(E), is shown in Figure 3b. The temperature-dependent PL is shown in Figure 3c. To elucidate gain dynamics, we studied the transient evolution of the film absorption using ultrafast pump-probe spectroscopy."
+}

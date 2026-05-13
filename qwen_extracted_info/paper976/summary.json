@@ -1,0 +1,15 @@
+{
+  "target_material": "Mo–Si–N and Al2O3",
+  "process_type": "ALD and reactive sputter deposition",
+  "main_precursors": [
+    "trimethylaluminium",
+    "water",
+    "molybdenum",
+    "silicon",
+    "argon",
+    "nitrogen"
+  ],
+  "temperature_range": "300 ◦C down to 80◦C",
+  "summary": "The study describes the development of thin film absorbers for visible, near-infrared, and short-wavelength infrared spectra using atomic layer deposition (ALD) and reactive sputter deposition. The absorbers were designed for specific wavelength ranges and demonstrated high absorption efficiency, suitable for applications in MEMS thermopile detectors.",
+  "evidence": "The absorbers employed Al2O3 films fabricated by ALD, and amorphous Mo–Si–N films fabricated by reactive sputtering. ALD is a chemical vapour deposition (CVD) technique that is suitable for the fabrication of inorganic thin films at rather low temperatures. The Mo–Si–N films were prepared by reactive sputter deposition in a Provac LLS 801 which is a carousel-type sputtering system. The refractive indices of Al2O3 films were measured at different temperatures, and the results were utilised in the design of the absorbers. The absorbers were manufactured and proved to have high absorption over their whole working spectra."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(N,N’-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2)"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ALD process used bis( N,N’-di-tert-butylacetamidinato)nickel(II) (Ni(amd) 2) as the nickel precursor and H 2S gas as the sulfur source. Purified N2 carrier gas was used to assist the delivery of the Ni(amd) 2 vapor into the ALD chamber."
+}

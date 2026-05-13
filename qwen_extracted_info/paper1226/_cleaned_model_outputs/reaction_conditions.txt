@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "Si-OH + Al(CH3)3 -> Si-O-Al(CH3)2 + CH4",
+    "Al-OH* + O3 -> monodentate formate + chelate bidentate carbonate",
+    "monodentate formate + Al(CH3)3 -> Ti-O-Ti + CH4",
+    "Si-OH + Al(CH3)3 -> Si-O-Al(CH3)2 + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species",
+    "carbonate species"
+  ],
+  "evidence": "There is a clear reaction with ozone, characterized by the formation of monodentate formate and/or chelate bidentate carbonate surface species; in contrast, there is no detectable reaction with water."
+}

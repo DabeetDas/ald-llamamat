@@ -1,0 +1,8 @@
+{
+  "target_material": "Silicon dioxide (SiO2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["SiH2Cl2", "O3"],
+  "temperature_range": "250 to 450 /C14 C",
+  "summary": "The study reports the atomic layer deposition (ALD) of silicon dioxide thin films using alternating exposures to SiH2Cl2 and O3. The process was examined at varying temperatures, and the films exhibited excellent physical and electrical properties comparable to those of silicon oxide films deposited at higher temperatures using low-pressure chemical vapor deposition (LPCVD).",
+  "evidence": "We report the process for the atomic layer deposition (ALD) of silicon dioxide thin films on a silicon wafer by alternating exposures to SiH2Cl2 and O3. The growth kinetics of silicon oxide films was examined by varying reactant exposures at various deposition temperatures ranging from 250 to 450 /C14 C. The films deposited at temperatures ranging from 350 to 450 /C14 C exhibited excellent physical and electrical properties that were equivalent to those of silicon oxide films deposited at 760 /C14 C by low-pressure chemical vapor deposition."
+}

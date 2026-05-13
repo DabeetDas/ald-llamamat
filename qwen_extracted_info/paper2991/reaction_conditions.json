@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of Ta(OC2H5)5 and subsequent reaction with water, leading to the formation of Ta2O5. The self-limiting nature of the ALE process is due to the self-decomposition of Ta(OC2H5)5 above 350°C, which results in CVD-like growth.",
+  "intermediate_species": [
+    "Ta(OC2H5)5",
+    "surface hydroxyls",
+    "carbon residues"
+  ],
+  "evidence": "The deposition of thin Ta2O5 films by atomic layer epitaxy (ALE) was investigated using Ta(OC2H5)5 and water as precursors. The self-limiting ALE growth was achieved only below 350°C due to the thermal self-decomposition of Ta(OC2H5)5. The films were amorphous and showed smooth surfaces. The self-decomposition of Ta(OC2H5)5 above 350°C resulted in CVD-like growth."
+}

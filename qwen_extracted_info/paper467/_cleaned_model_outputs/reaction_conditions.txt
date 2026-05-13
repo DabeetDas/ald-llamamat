@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Ni(dmamb)2 + 4MP -> Ni-O-4MP + byproducts",
+    "4MP -> Ni-O-4MP + SH groups"
+  ],
+  "surface_mechanism_description": "Ligand exchange between Ni(dmamb)2 and surface hydroxyl groups followed by reaction with 4MP to form Ni-O-4MP, with SH groups serving as reactive sites for subsequent ligand-exchange reactions.",
+  "intermediate_species": [
+    "Ni-O-4MP",
+    "SH groups"
+  ],
+  "evidence": "In the first ALD half cycle, when Ni(dmamb)2 is injected into the reactor, it is chemisorbed on the substrate-surface via ligand exchange reactions with rich hydroxyl groups on the surface. In this reaction, (CH3)2N-CH2-C(CH3)(C2H5)OH is produced as a byproduct. The next step involves dosing 4MP by the MLD method. 4MP have two bondable functional groups (-OH, -SH) as well as an aromatic ring. When 4MP was injected the -OH functional group of 4MP reacts with the chemisorbed species on the substrate and forms the Ni-O bond, producing a monolayer of Ni4MP. The -SH groups of the formed Ni4MP then serve as a reactive site for the subsequent ligand-exchange reaction to form the next Ni4MP layer."
+}

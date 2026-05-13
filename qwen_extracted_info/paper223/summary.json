@@ -1,0 +1,11 @@
+{
+  "target_material": "AlN",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "tri-methyl aluminium (TMA)",
+    "NH3-plasma"
+  ],
+  "temperature_range": "350 oC",
+  "summary": "The study reports on the growth kinetics and material properties of AlN films deposited on Si(111) using plasma enhanced atomic layer deposition (PEALD). The optimal conditions for ALD were identified as 0.1 s of TMA pulse, 8 s of NH3-plasma pulse, and a substrate temperature of 350 oC. The films showed polycrystalline hexagonal (wurtzitic) crystalline planes and low impurity levels. The study also investigated the effect of plasma parameters and substrates on film crystallinity.",
+  "evidence": "We report on the growth kinetics and material properties of aluminium nitride (AlN) films deposited on Si(111), with plasma enhanced atomic layer deposition (PEALD). Tri-methyl aluminium (TMA) and NH3-plasma were used as the precursors. The ALD window was identified in terms of the process parameters, and it showed that a 0.1 s of TMA pulse, 8 s of NH3-plasma pulse, and 350 oC were the optimal conditions for ALD to occur. The film crystallinity, measured with grazing incidence X-ray diffraction (GIXRD), showed polycrystalline hexagonal (wurtzitic) crystalline planes."
+}

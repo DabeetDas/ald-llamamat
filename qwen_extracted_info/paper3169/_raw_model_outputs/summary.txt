@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["TEMAH", "H2O", "O3"],
+  "temperature_range": "285 up to 365°C",
+  "summary": "The study investigates the impact of precursor chemistry and process conditions on the quality and interfacial oxide thickness of HfO2 films deposited via Atomic Layer Deposition (ALD). The research focuses on the use of TEMAH as a metal precursor and H2O or O3 as oxidants, examining how temperature, oxidant type, and process parameters affect the properties of HfO2 films, including interfacial oxide thickness, carbon impurity levels, and leakage current.",
+  "evidence": "To study the impact of atomic layer deposition /H20849ALD/H20850process conditions and chemistry on the HfO 2 quality and interfacial oxide thickness, we have used tetrakis/H20851ethylmethylamino/H20852hafnium/H20849TEMAH/H20850as a metal precursor and H 2O and O 3 as oxidants. The deposition temperature ranged from 285 up to 365°C, where TEMAH decomposition plays a role in the growth mechanism."
+}<|im_end|>

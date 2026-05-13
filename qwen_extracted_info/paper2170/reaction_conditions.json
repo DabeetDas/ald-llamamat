@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the selective growth of copper on palladium-seeded regions during ALD, with the copper precursor and hydrogen alternating in separate pulses. The growth is controlled by precursor saturation and is limited by precursor exposure, with the process being temperature and voltage sensitive.",
+  "intermediate_species": [
+    "Cu precursor",
+    "surface hydroxyls",
+    "CuO layer"
+  ],
+  "evidence": "The text describes the ALD process using bis(2,2,6,6-tetramethyl-3,5-heptanedionato)copper(II) and hydrogen, with the copper precursor and hydrogen entering the chamber separately and sequentially. The growth is limited by precursor exposure, and the formation of a CuO layer upon air exposure is mentioned."
+}

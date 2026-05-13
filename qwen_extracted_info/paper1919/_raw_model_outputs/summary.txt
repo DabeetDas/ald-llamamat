@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["NHC–Cu(hmds)"],
+  "temperature_range": "190–250 /C14 C",
+  "summary": "The study describes the atomic layer deposition of copper (Cu) using a novel precursor, NHC–Cu(hmds), which is a Cu(I) silylamide stabilized by a carbene. The process involves thermal ALD with molecular hydrogen (H2) and exhibits substrate-dependent growth modes. Continuous films were formed on Pd substrates, while island growth was observed on Ru and ultra-thin Pd layers. The growth mechanism involves chemisorption of the precursor, dissociative adsorption of H2, and reaction to form metallic Cu. The study highlights the stability of the precursor and its effectiveness in achieving uniform Cu films on metallic substrates.",
+  "evidence": "The reaction is assumed to involve chemisorption of the precursor by breaking of the Cu –NHC bond, dissociative adsorption of H2 and reaction of the surface species to form Hhmds and metallic Cu. On Ru substrates efficient growth was obtained above 200 /C14 C. When growth was carried out on Pd substrates continuous films could be obtained. An ALD growth window was observed between 190 and 250 /C14 C and some evidence was found for saturated growth with a GPC of ca. 0.4 ˚A per cycle at 220 /C14 C by varying the precursor pulse time."
+}<|im_end|>

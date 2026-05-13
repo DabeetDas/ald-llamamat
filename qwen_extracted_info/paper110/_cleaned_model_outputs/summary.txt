@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Copper(I) chloride", "Hydrogen"],
+  "temperature_range": "360-410°C",
+  "summary": "The paper reports the first successful atomic layer epitaxy (ALE) deposition of copper on tantalum substrates using copper(I) chloride as the precursor and hydrogen as the reducing agent. The process involves a fast initial reduction of the copper chloride by the tantalum substrate, leading to a film thickness of approximately 300 Å. The films were found to be polycrystalline with low chlorine contamination and good adhesion. The activation energy for the hydrogen reduction step was estimated to be 80 kJ mol⁻¹.",
+  "evidence": "The deposition of copper from copper(I) chloride and hydrogen using the atomic layer epitaxy technique has been described for the first time. The reaction of hydrogen with the adsorbed copper chloride was the rate-determining step, with an estimated activation energy of 80 kJ mol⁻¹. Initially, a fast substrate tantalum reduction process contributed to the deposition process with a typical initial film thickness of approximately 300 Å."
+}

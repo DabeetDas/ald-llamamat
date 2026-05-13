@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 20,
+  "pressure": "5 mbar",
+  "precursor_pulse_time_s": 25,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 15,
+  "number_of_cycles": 25,
+  "reactor_type": "single wafer ALD reactor",
+  "evidence": "The deposition cycles consisted of several substeps that could be individually defined. Typical sequences for the TDMAB precursor (init/pulse/exposure/purge) were 3 s/25 ms/6 s/15 s and for oxygen (init/plasma/exposure/purge) 1 s/10 s/2 s/15 s."
+}

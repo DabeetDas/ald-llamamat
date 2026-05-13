@@ -1,0 +1,10 @@
+{
+  "target_material": null,
+  "process_type": null,
+  "main_precursors": [],
+  "temperature_range": null,
+  "summary": null,
+  "evidence": null,
+  "_error": "ValueError: Could not parse model output as JSON. Preview: '0/C100 /C116/C104/C101 /C115/C116/C117/C100/C105/C101/C100 /C117/C115/C105/C110/C103 /C111/C102 /C116/C104/C101 /C112/C114/C101/C115/C101/C110/C116 /C115/C116/C117/C100/C105/C101/C100 /C117/C115/C105/C110/C103 /C111/C102 /C116/C104/C101 /C112/C114/C101/C115/C101/C110/C116 /C115/C116/C117/C100/C105/C'",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 192, in summariser_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '0/C100 /C116/C104/C101 /C115/C116/C117/C100/C105/C101/C100 /C117/C115/C105/C110/C103 /C111/C102 /C116/C104/C101 /C112/C114/C101/C115/C101/C110/C116 /C115/C116/C117/C100/C105/C101/C100 /C117/C115/C105/C110/C103 /C111/C102 /C116/C104/C101 /C112/C114/C101/C115/C101/C110/C116 /C115/C116/C117/C100/C105/C'\n"
+}

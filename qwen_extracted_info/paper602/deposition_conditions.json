@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 450,
+  "pressure": "10-30 mTorr",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 20,
+  "number_of_cycles": 250,
+  "reactor_type": "Cambridge NanoTech Savannah",
+  "evidence": "The AB cycles were performed using the following sequence: A (0.5 s)/evacuate (20 s)/B (0.5 s)/evacuate (20 s)."
+}

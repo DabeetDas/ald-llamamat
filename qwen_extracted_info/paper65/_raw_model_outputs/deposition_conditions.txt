@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": 10,
+  "number_of_cycles": 900,
+  "reactor_type": "Cambridge Nanotech ALD system",
+  "evidence": "SnO2 thin films were deposited on cleaned glass substrates at 200 °C. The pulse/purge times in seconds for Sn and ozone were 0.5/10 and 0.2/10, respectively."
+}<|im_end|>

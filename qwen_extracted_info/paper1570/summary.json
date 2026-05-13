@@ -1,0 +1,11 @@
+{
+  "target_material": "Ni, Co, Fe, and Cr metal films",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "α-imino alkoxide ligands",
+    "BH3(NHMe2)"
+  ],
+  "temperature_range": "180 °C (Ni, Co, Fe, Cr) or 225 °C (Mn)",
+  "summary": "The study describes the thermal ALD growth of Ni, Co, Fe, and Cr metal films using α-imino alkoxide complexes as precursors and BH3(NHMe2) as a reducing coreagent. The films were grown at temperatures below 200 °C to avoid agglomeration. The process demonstrated self-limited growth with linear thickness increase up to 1000 cycles. However, Mn films oxidized upon exposure to air.",
+  "evidence": "ALD growth of Ni, Co, Fe, and Cr ﬁlms is demonstrated. Mn ﬁlm growth may be possible, but the ﬁlms oxidize completely upon exposure to air. Thermal ALD growth of Ni, Co, and Fe ﬁlms was claimed using the amidinate precursors... and H2 at 250 °C. The high reactivity of BH3(NHMe2) toward 2, 3, 7, and 9 permits self-limited ﬁlm growth at <200 °C."
+}

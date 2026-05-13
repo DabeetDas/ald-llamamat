@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "420",
+  "pressure": "30 mTorr",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": "30",
+  "purge_time_s": "30",
+  "number_of_cycles": "15",
+  "reactor_type": "ultrahigh vacuum system",
+  "evidence": "Table I. Hetero-ALE conditions. (a) 1 ML-Ge growth on the Si(100) surface Substrate temperarure (Tlow) 300 ±C GTC pressure 30 mTorr GTC exposure time 3 s H exposure time 20 s H desorption temperature (Thigh) 500 ±C H desorption time 30 s Number of cycle 15 (b) Ge homo-growth on the 1 ML-Ge/Si(100) surface Substrate temperarure (Thomo) 420 ±C DMG pressure 30 mTorr DMG exposure time (tDMG)2 0 s H exposure time 30 s"
+}

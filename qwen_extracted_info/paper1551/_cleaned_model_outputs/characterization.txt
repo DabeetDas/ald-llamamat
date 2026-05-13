@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "XPS",
+    "Ellipsometry",
+    "Cyclic Voltammetry (CV)",
+    "Four-point probe",
+    "Redox experiments with Fe(CN)6^3+/4+"
+  ],
+  "evidence": "XPS measurements were taken on a PHI VersaProbe Scanning XPS Microprobe with Al Kα radiation of 1486 eV. Sample thickness was characterized on Si wafers using ellipsometry (Woolam α-SE). Catalytic OER testing was performed in a home-built Teﬂon compression cell. Redox experiments to probe the conductivity of the sample were completed in a setup similar to that for the OER testing."
+}

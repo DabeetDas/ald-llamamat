@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 600,
+  "pressure": "10^4 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "VG ESCALAB 5 X-ray photoelectron spectrometer",
+  "evidence": "TMA adsorbs dissociatively with a high sticking probability to Si at temperatures above 300 K. At temperatures below 650 K adsorption is self-limiting at <1 monolayer, with most carbon remaining in the form of CH3. At higher temperatures, decomposition of the TMA is rapid, leading to thick film formation, loss of about 80% of the carbon, and production of carbides (AlC and perhaps Sic). Self-limiting adsorption of TMA at <650 K and rapid, site-selective reaction with NH3 to form AlN at >550 K suggest that an atomic layer growth process for AlN is possible at about 600 K by using sequential exposures of TMA and NH3."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 393,
+  "pressure": "0.10–0.15 torr",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 40,
+  "purge_time_s": 20,
+  "number_of_cycles": 550,
+  "reactor_type": "viscous flow reactor",
+  "evidence": "The reaction temperature was maintained at 393 K for ZnO film deposition and at 573 K for SnO2 film deposition. The pressures of the precursors dosed to the reactor were controlled at 0.10–0.15 torr by adjusting the regulating valves upstream to the ALD reactor. Each deposition cycle includes four consecutive steps: metal precursor dosing, N2 purging, oxidant dosing, and N2 purging again. These four steps were carried out in a pulse sequence denoted as t1–t2–t3–t4 where ‘‘tx’’ (x = 1–4) represents the duration of each step. The number of ALD cycles employed was determined by the desired O/F of the thermite material."
+}

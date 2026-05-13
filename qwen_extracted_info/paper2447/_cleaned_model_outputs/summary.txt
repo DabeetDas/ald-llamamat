@@ -1,0 +1,8 @@
+{
+  "target_material": "NbTiN",
+  "process_type": "PEALD",
+  "main_precursors": ["(t-butylimido) tris(diethyamido) niobium(V) (TBTDEN)", "tetrakis (dimethylamido) titanium (TDMAT)"],
+  "temperature_range": "300 ◦C",
+  "summary": "The study describes the deposition of superconducting NbTiN thin films using plasma-enhanced atomic layer deposition (PEALD). The process utilizes organometallic precursors TBTDEN and TDMAT with a remote H2/N2 plasma. The PEALD process allows for lower processing temperatures and better control over film composition, enabling tuning of superconducting properties such as the critical temperature TC between 6.9 and 13.2 K.",
+  "evidence": "PEALD NbTiN films were characterized with spectroscopic ellipsometry (thickness, optical properties), four point probe (resistivity), x-ray photoelectron spectroscopy (composition), x-ray reflectivity (density and thickness), x-ray diffraction (crystallinity), and superconductivity measurements. The PEALD process has shown distinct advantages over deposition of superconducting films via thermal ALD or sputtering, for example lower processing temperature and more efficient control of film composition. This control of film composition enabled tuning of electrical and superconducting properties, such as varying the superconducting critical temperature TC between 6.9 and 13.2 K."
+}

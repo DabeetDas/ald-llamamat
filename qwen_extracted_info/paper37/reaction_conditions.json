@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the sequential exposure of the surface to a metal–organic precursor (trimethylaluminum, TMA) and a reactant (H2O). The ALD process leads to the formation of Al-OH surface species, which are then reacted with the precursor to form Al-O-Al bonds, with the release of byproducts such as CH4 and methanol. The mechanism is described as a self-limiting process with precise control over thickness and homogeneity.",
+  "intermediate_species": [
+    "Al-OH surface species",
+    "Al-O-Al bonds",
+    "CH4",
+    "methanol"
+  ],
+  "evidence": "The surface reaction mechanism involves the sequential exposure of the surface to a metal–organic precursor (trimethylaluminum, TMA) and a reactant (H2O). The ALD process leads to the formation of Al-OH surface species, which are then reacted with the precursor to form Al-O-Al bonds, with the release of byproducts such as CH4 and methanol. The mechanism is described as a self-limiting process with precise control over thickness and homogeneity."
+}

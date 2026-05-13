@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "Rutherford backscattering spectroscopy (RBS)",
+    "Elastic recoil detection-time of flight (ERD-TOF)",
+    "Transmission electron microscope (TEM)",
+    "Current-voltage (C-V) characteristics",
+    "X-ray Photoelectron Spectroscopy (XPS)"
+  ],
+  "evidence": "The chemical compositions were determined from the results of 2.43 MeV He 21 Rutherford backscattering spectroscopy (RBS) and 9.0 MeV Cl51 elastic recoil detection-time of flight (ERD-TOF). To investigate the interface oxide, transmission electron microscope (TEM) analysis was used. The electrical properties of the films were measured on metal oxide semiconductor (MOS) capacitors, in which sputtered Pt was used as a top electrode. The current-voltage (C-V) characteristics were analyzed with an HP4145B, and the capacitance was measured with an HP4275A at 1 MHz frequency."
+}

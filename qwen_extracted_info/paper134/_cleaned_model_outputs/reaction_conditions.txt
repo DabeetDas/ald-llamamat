@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of CoI2 and O2, leading to the formation of Co3O4. The process uses O2 as the oxygen source, avoiding the need for hydrogen-containing oxygen sources, which eliminates the risk of hydrogen incorporation into the film. The metal–iodine bond is weaker than the metal–chlorine bond, allowing for the formation of I2 or I without the need for HI as a driving force. The surface reactions are self-limiting, ensuring accurate thickness control and uniformity.",
+  "intermediate_species": ["CoI2", "O2", "I2 or I"],
+  "evidence": "The use of metal iodides make hydrogen-containing oxygen sources unnecessary, thereby excluding the risk of producing any harmful by-products or incorporating hydrogen into the film. Earlier studies (e.g.,) have shown that this precursor combination, metal iodide and oxygen, produces films free from precursor residues with accurate thickness control and excellent uniformity."
+}

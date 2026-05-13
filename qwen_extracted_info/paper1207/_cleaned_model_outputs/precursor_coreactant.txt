@@ -1,0 +1,7 @@
+{
+  "precursors": ["V(amd)3"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "V(amd)3 was delivered under its own vapor pressure (without bubbling or nitrogen assist) from a 50 cm3 stainless steel cylinder heated to 190 °C. A dilute hydrogen sulfide (H2S) mixture (4% in N2, Airgas) was stepped down to 500 Torr relative to vacuum through a two-stage regulator before further reducing the flow through a 300 µm pinhole just prior to the pneumatic ALD valve."
+}

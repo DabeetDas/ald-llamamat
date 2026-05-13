@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["HfCl4", "H2O"],
+  "temperature_range": "300–600 8C",
+  "summary": "HfO2 films were deposited using atomic layer deposition (ALD) from HfCl4 and H2O on Si(100) at temperatures between 300–600 8C. Films grown at lower temperatures showed faster growth but were more disordered, while those at higher temperatures were better crystallized but grew slower. The study aimed to optimize the properties of HfO2 films by combining low-temperature amorphous layers with high-temperature crystalline layers to improve dielectric performance and reduce leakage currents.",
+  "evidence": "HfO2 films were atomic layer deposited from HfCl4 and H2O on Si(100) in the temperature range of 300–600 8C. At low temperatures, films grow faster and are structurally more disordered, compared to films grown at high temperatures. At high temperatures, the films are better crystallized, but grow slower and contain grain boundaries extending from substrate to gate electrode. Film growth rate and capacitance of HfO2 dielectric layers was improved by depositing stacked structures with polycrystalline films of higher purity at 600 8C on thin HfO2 sublayer grown on Si at 300 8C."
+}<|im_end|>

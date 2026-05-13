@@ -1,0 +1,11 @@
+{
+  "target_material": "Cobalt metal",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Bis(1,4-di-tert-butyl-1,3-diazadienyl)cobalt",
+    "Alkylamine"
+  ],
+  "temperature_range": "160 to 220 °C",
+  "summary": "The study describes the thermal atomic layer deposition (ALD) of cobalt metal films using Bis(1,4-di-tert-butyl-1,3-diazadienyl)cobalt and alkylamine precursors. The process exhibits inherent selectivity for metallic substrates and operates within a temperature range of 160 to 220 °C. The ALD window was observed between 170 and 200 °C, with a growth rate of 0.98 Å/cycle on platinum substrates. The films showed high purity and crystallinity, with minimal surface roughness and oxidation.",
+  "evidence": "The atomic layer deposition (ALD) of cobalt metal films is described using the precursor bis(1,4(di(tert (butyl(1,3(diazdienyl)cobalt and tert (butylamine or diethylamine. Platinum, copper, ruthenium, Si(100) with native oxide, thermal SiO 2, hy( drogen(terminated silicon, and carbon(doped oxide substrates were used with growth temperatures between 160 and 220 °C. An ALD window was observed between 170 and 200 °C, with a growth rate of 0.98 Å/cycle on platinum substrates. A plot of thickness versus the number of cycles at 200 °C on platinum substrates was linear between 25 and 1000 cycles, with a growth rate of 0.98 Å/cycle. A 98 nm thick film grown at 200 °C showed crystalline cobalt metal by X(ray diffraction. Atomic force microscopy of 10 and 98 nm thick cobalt metal films grown on platinum substrates at 200 °C showed rms roughness values that were ≤ 3.1% of the film thicknesses. X(ray photoelectron spectroscopy analyses were performed on 49 and 98 nm thick films grown on platinum substrates at 170 and 200 °C, respectively. Both samples showed oxidized cobalt on the film surface, but revealed cobalt metal upon argon ion sputtering. The films showed > 98% pure cobalt, with ≤ 0.9% each of oxygen, carbon, and nitrogen."
+}

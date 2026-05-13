@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 33,
+  "pressure": "",
+  "precursor_pulse_time_s": 120,
+  "coreactant_pulse_time_s": 150,
+  "purge_time_s": 25,
+  "number_of_cycles": 50,
+  "reactor_type": "modularflow, cubic (20 cm×20 cm×20 cm) low-pressure PEALD reactor",
+  "evidence": "For the compound DMAD, which comprises two methyl ligands and an additional 3-(dimethylamino)propyl ligand, a PEALD process at 60 °C substrate temperature was reported recently, exhibiting typical ALD characteristic in terms of surface saturation, ALD window and linearity with an optimized GPC of 0.61 Å cycle−1.31 As the PP substrates degrade at elevated temperatures of 60 °C, the process using DMAD was optimized at room temperature and the findings in terms of saturation and linearity are shown in Figure 1. From saturation studies with a fixed oxygen plasma pulse length of 150 ms, a maximum GPC of 0.54 Å cycle−1 was found for a precursor pulse length of 120 ms."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "530-425",
+  "pressure": "1.3/C210/C02Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "200",
+  "reactor_type": "",
+  "evidence": "The number of cycles in this series of TM SiMLE growth is 200."
+}

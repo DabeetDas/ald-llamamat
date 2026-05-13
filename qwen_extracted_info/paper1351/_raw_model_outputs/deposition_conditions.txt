@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 25,
+  "pressure": "5 mTorr",
+  "precursor_pulse_time_s": 368,
+  "coreactant_pulse_time_s": 420,
+  "purge_time_s": 1800,
+  "number_of_cycles": 368,
+  "reactor_type": "low-vacuum",
+  "evidence": "MLD was performed in a reactor described previously with a low-vacuum base pressure ( ∼5 mTorr). Before depositions began, the reactor was purged with nitrogen for 1 h at room temperature after loading the substrates to remove atmospheric water and oxygen from the chamber. Bis(trichlorosilyl)methane (CSM) (97% purity, used as received by Sigma-Aldrich) and deionized water were used as precursors. The precursors, nitrogen flow, and vacuum pump were operated by computer-controlled valves, allowing for timed cycling to be performed. Each cycle consisted of the following steps: (1) an open time in which the precursor valve was opened to the reaction chamber without nitrogen flow or vacuum pumping; (2) a soak time where the precursor valve was closed but vapor remained in the chamber without nitrogen flow or vacuum pumping; and (3) a purging time with nitrogen flow with the vacuum pump open to remove excess precursor, in which the chamber pressure was maintained at ∼1 Torr. Unless otherwise specified, CSM was dosed for a total of 368 s (8 s open time and 360 s soak time) with a 400 s nitrogen purge. Water was dosed for 420 s (20 s open time and 400 s soak time) with an 1800 s nitrogen purge."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["hafnium tert-butoxide", "titanium isopropoxide", "vanadium n-propoxide"],
+  "coreactants": ["acetic acid"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "The coating of the CNTs was done in an ALD reactor working in exposure mode from hafnium tert-butoxide, titanium isopropoxide and vanadium n-propoxide as metal alkoxide precursors and acetic acid. Pure nitrogen was used as carrier and purging gas."
+}

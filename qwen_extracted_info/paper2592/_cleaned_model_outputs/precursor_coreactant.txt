@@ -1,0 +1,7 @@
+{
+  "precursors": ["Gd(iPrCp)3"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Gd(iPrCp)3 from Air Products was used as the Gd precursor... The nominal ALD cycle was Gd(iPrCp)3 dose (5 s)/N2 purge (3 s)/O2 plasma (3 s)/N2 purge (2 s). The Gd(iPrCp)3 cylinder was held at 190 /C14 C, and was dosed using 250 sccm of Ar bubbler gas."
+}

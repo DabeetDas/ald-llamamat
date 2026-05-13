@@ -1,0 +1,11 @@
+{
+  "target_material": "germanium-doped zinc oxide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethylzinc",
+    "tetramethoxygermanium(IV)"
+  ],
+  "temperature_range": "100–350 °C",
+  "summary": "Germanium-doped zinc oxide films were deposited using atomic layer deposition with diethylzinc and tetramethoxygermanium(IV) precursors. The study explored the effects of germanium doping on the optical and electrical properties of the films, showing tunable ultraviolet emission and controlled carrier concentration.",
+  "evidence": "Thin films of germanium-doped zinc oxide have been deposited by atomic layer deposition. The zinc oxide matrix was grown from cyclic pulses of diethylzinc and water vapour over the temperature range of 100–350 °C. Tetramethoxygermanium(IV) was employed as a novel germanium-doping source, which could be incorporated up to 17 at%. The prospect of exploiting this property in germanium-doped semiconductors, to tune the near band edge electronic structure has been identified in GaN and ZnO."
+}

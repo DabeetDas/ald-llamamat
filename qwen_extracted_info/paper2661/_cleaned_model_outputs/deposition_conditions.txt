@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350-450",
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "Oxford Instruments FlexAL ALD reactor",
+  "evidence": "The Hf precursor TDMACpH (Air Liquide, >99.99% purity) was placed in a stainless steel container kept at /C14C and bubbled by an Ar flow of 100 sccm. During the precursor dosage, an Ar flow rate of 100 sccm was also injected from the ICP chamber in order to suppress the deposition on the ICP tube, thereby setting up the chamber pressure of 200 mTorr as illustrated in Fig. 1. Furthermore, during the plasma exposure, N2 (>99.999% purity, working pressure /C24 12 mTorr) or H2 (>99.999% purity, working pressure /C24 30 mTorr) was first introduced into the chamber, and thereafter, the plasma was ignited for the desired exposure time."
+}

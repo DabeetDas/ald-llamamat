@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Zr(NO3)4",
+    "(tBuO)3SiOH"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "High-purity N2 was used as both carrier and purge gas."
+}

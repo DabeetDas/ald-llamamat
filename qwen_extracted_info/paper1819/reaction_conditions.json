@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The OER activity of MoS2 may result from edge sites rather than basal plane sites. The ultrafine features of ALD-MoS2 NCs would advantageously facilitate the exposure of edge sites, which could reasonably explain the outstanding catalytic activity observed for the OER.",
+  "intermediate_species": [
+    "∗OH",
+    "O∗",
+    "∗OOH"
+  ],
+  "evidence": "Compared to the HER, OER is a more complicated reaction and involves four primary steps with three adsorbed intermediates, i.e., ∗OH, O∗, and ∗OOH interacting in a similar way at the catalyst surface. Recent density functional theory (DFT) calculations have proposed that the OER activity of MoS2 may result from edge sites as well rather than basal plane sites."
+}

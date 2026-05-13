@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": 1000,
+  "reactor_type": "Lucida D100",
+  "evidence": "A cycle of the deposition process consisted of 0.1 s of TMA pulse, 5 s of N 2 purge, 0.1 s of H2O pulse and 5 s of N 2 purge."
+}

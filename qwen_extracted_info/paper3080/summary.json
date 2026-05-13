@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2 and HfOxNy",
+  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": [
+    "Tetrakis(dimethylamino)hafnium (TDMAH)",
+    "oxygen/nitrogen mixture plasma"
+  ],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the electrical and interfacial properties of PEALD HfO2 and HfOxNy thin films on Si substrates with different crystal orientations. In situ nitridation using oxygen/nitrogen mixture plasma during PEALD improves electrical properties by reducing leakage currents and interface state density. The results show that HfO2 and HfOxNy films on Si(001) exhibit the lowest leakage current and interface state density, while Si(111) substrates show the poorest electrical properties. The study also highlights the role of interface states and near-interface traps in leakage current mechanisms.",
+  "evidence": "The use of high- k gate oxide on Si substrates with alternative orientations is expected to contribute for the fabrication of high mobility devices. In this paper, the interfacial and electrical properties of the plasma enhanced atomic layer deposition HfO2 and HfOxNy gate oxides on Si substrates with three different crystal orientations were comparatively studied. While PE–ALD HfO2 films were prepared using oxygen plasma as a reactant, PE-ALD HfOxNy films were prepared by in situ nitridation using oxygen/nitrogen mixture plasma. For all crystal orientations, in situ nitridation using oxygen/nitrogen mixture plasma improved electrical properties producing lower leakage currents and smaller equivalent oxide thickness values. Both HfO2 and HfOxNy films have shown the lowest leakage current and interface state density on Si(001), whereas the poorest electrical properties were obtained on Si(111)."
+}

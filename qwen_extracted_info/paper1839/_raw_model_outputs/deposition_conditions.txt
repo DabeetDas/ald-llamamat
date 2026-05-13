@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 188,
+  "pressure": "",
+  "precursor_pulse_time_s": 1.6,
+  "coreactant_pulse_time_s": 4.5,
+  "purge_time_s": 10,
+  "number_of_cycles": 50,
+  "reactor_type": "Picosun R-200 Advanced ALD reactor",
+  "evidence": "Each IrO2 cycle comprised three Ir(acac)3 pulses and one ozone pulse, separated by purge intervals. An Ir(acac)3 pulse comprised a 1.6 s pulse, 5 s static exposure and 10 s purge time. For the ozone pulse the times were 4 s, 2 s and 10 s, respectively. 50 cycles were used for the OER catalyst coatings"
+}<|im_end|>

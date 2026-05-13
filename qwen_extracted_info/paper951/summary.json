@@ -1,0 +1,11 @@
+{
+  "target_material": "Crystalline molybdenum oxide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "MoO2(thd)2",
+    "O3"
+  ],
+  "temperature_range": "200–275 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of crystalline molybdenum oxide thin films using MoO2(thd)2 and O3 as precursors. The process enables the controlled growth of uniform and conformal films at temperatures between 200–275 °C. The as-deposited films consist of a mixture of α- and β-MoO3 phases and an unidentifiable suboxide phase. Post-deposition annealing in forming gas and O2 atmospheres allows for the tuning of phase composition, resulting in phase-pure α-MoO3 and MoO2 films. The study highlights the importance of the ALD process in achieving controlled phase composition for applications in sensing, energy storage, and catalysis.",
+  "evidence": "Molybdenum forms a range of oxides with different stoichiometries and crystal structures, which lead to different properties and performance in diverse applications. Herein, crystalline molybdenum oxide thin films with controlled phase composition are deposited by atomic layer deposition. The MoO2(thd)2 and O3 as precursors enable well-controlled growth of uniform and conformal films at 200–275 °C. The as-deposited films are rough and, in most cases, consist of a mixture of α- and β-MoO3 as well as an unidentifiable suboxide MoOx (2.75–2.89) phase. The phase composition can be tuned by changing deposition conditions. The film stoichiometry is close to MoO3 and the films are relatively pure, the main impurity being hydrogen (2–7 at-%), with 1 at-% of carbon and nitrogen. Post-deposition annealing is studied in situ by high-temperature X-ray diffraction in air, O2, N2, and forming gas (10% H2/90% N2) atmospheres. Phase-pure films of MoO2 and α-MoO3 are obtained by annealing at 450 °C in forming gas and O2, respectively."
+}

@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "X-ray Reflectivity (XRR)",
+    "Grazing Incidence X-ray Diffraction (GIXRD)",
+    "X-ray Fluorescence (XRFS)"
+  ],
+  "evidence": "The initial nucleation process is studied by atomic force microscopy (AFM) and reveals nucleation of well-separated grains which coalesce to a continuous film after about 250 ALD cycles. The impurity levels of carbon, originating from ligands of the metal precursor, were measured by X-ray photoelectron spectroscopy (XPS). The film thickness was also measured by X-ray reflectivity (XRR) using a Siemens D 5000 diffractrometer in Bragg-Brentano geometry and Cu K a radiation. The crystalline phase content of the films was determined using GIXRD, performed on a Phillips MRD diffractometer equipped with a primary X-ray mirror and a secondary 0.278 parallel plate collimator. Surface roughness and morphology were studied using a PSIA XEI 150 atomic force microscope, operated in non-contact mode (NC-AFM). The nickel K a1 X-ray fluorescence signal (XRFS) was used to measure the amount of deposited nickel per unit substrate area."
+}

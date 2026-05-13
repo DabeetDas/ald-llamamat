@@ -1,0 +1,30 @@
+{
+  "precursors": [
+    {
+      "name": "tetrakis(dimethylamino)tin",
+      "abbreviation": "TDMASn",
+      "evidence": "The precursors used for SnS 2 were tetrakis(dimethylamino)tin (TDMASn, [(CH 3)2N]4Sn) as a Sn 4+ source and hydrogen sul de (H 2S) as sulfur (S) source."
+    },
+    {
+      "name": "hydrogen sulde",
+      "abbreviation": "H2S",
+      "evidence": "The precursors used for SnS 2 were tetrakis(dimethylamino)tin (TDMASn, [(CH 3)2N]4Sn) as a Sn 4+ source and hydrogen sul de (H 2S) as sulfur (S) source."
+    }
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    {
+      "name": "argon",
+      "abbreviation": "Ar",
+      "evidence": "TDMASn precursor in an argon (Ar) carrier gas was injected into the ALD chamber at 50 /C14 C."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "argon",
+      "abbreviation": "Ar",
+      "evidence": "TDMASn precursor in an argon (Ar) carrier gas was injected into the ALD chamber at 50 /C14 C."
+    }
+  ],
+  "evidence": "The precursors used for SnS 2 were tetrakis(dimethylamino)tin (TDMASn, [(CH 3)2N]4Sn) as a Sn 4+ source and hydrogen sul de (H 2S) as sulfur (S) source. TDMASn precursor in an argon (Ar) carrier gas was injected into the ALD chamber at 50 /C14 C."
+}

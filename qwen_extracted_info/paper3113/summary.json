@@ -1,0 +1,12 @@
+{
+  "target_material": "Co",
+  "process_type": "plasma enhanced ALD (PE-ALD) and thermal ALD",
+  "main_precursors": [
+    "Co(iPr-Me-AMD)2",
+    "H2 molecules",
+    "NH3 plasma"
+  ],
+  "temperature_range": "",
+  "summary": "The study compares thermal and plasma enhanced atomic layer deposition (ALD) of Co using Co(iPr-Me-AMD)2 as a precursor and H2 molecules for thermal ALD and NH3 plasma for PE-ALD. It focuses on growth characteristics, film properties, and area selectivity using self-assembled monolayers (SAMs).",
+  "evidence": "In this study, we investigated the growth characteristics and film properties of thermal and PE-ALD using Co(iPr-Me-AMD)2 as a Co precursor and H2 molecules and NH3 plasma as a reactant for thermal and PE-ALD, respectively."
+}

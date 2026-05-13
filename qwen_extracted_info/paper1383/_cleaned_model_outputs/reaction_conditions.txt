@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ni(Chex)(Cp) + NH3 -> Ni + Chex(Cp) + other products"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of NH3 as a reducing agent to deposit Ni on graphene defects. The self-limiting growth behavior is achieved through the sequential exposure of the Ni precursor and reactant, with the growth rate being limited by the surface reaction kinetics. The process involves the reduction of Ni precursors by NH3, leading to the formation of Ni films on defect sites of graphene.",
+  "intermediate_species": [
+    "Ni precursor (Ni(Chex)(Cp))",
+    "NH3",
+    "NiO (formed during the process but removed through annealing)",
+    "C impurities from the precursor and reactant"
+  ],
+  "evidence": "The text discusses the use of NH3 as a reducing agent for Ni deposition, the self-limiting growth behavior, and the formation of NiO which is removed through annealing. It also mentions the presence of C impurities from the precursor and reactant."
+}

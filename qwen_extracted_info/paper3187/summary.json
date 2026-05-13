@@ -1,0 +1,11 @@
+{
+  "target_material": "Platinum nanoparticles",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "methylcyclopentadienyl trimethyl-platinum (MeCpPtMe3)",
+    "ultrahigh purity O2"
+  ],
+  "temperature_range": "270°C",
+  "summary": "This study explores the growth of platinum nanoparticles through atomic layer deposition (ALD) for charge storage memory applications. The process involves the use of specific precursors and is conducted at a temperature of 270°C. The nanoparticles show excellent temperature stability up to 900°C and are suitable for use as charge storage layers in nonvolatile memory devices due to their high density, good thermal stability, and charge retention properties.",
+  "evidence": "The Pt ALD process used in this study consists of a pulse of O2 reacting with the surface layer of Pt to create PtOx. Then, a pulse of MeCpPtMe3 reacts with the PtOx layer, and during the subsequent purge, O atoms are removed, leaving only Pt. The nucleation and initial growth of Pt were investigated on both SiO2 and Al2O3 as these are potential tunnel dielectrics for memory devices. The Pt nanoparticles are thermally stable and can withstand source–drain activation anneals of less than 1000°C."
+}

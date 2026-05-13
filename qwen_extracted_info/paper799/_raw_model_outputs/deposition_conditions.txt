@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 600,
+  "pressure": "50 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 6,
+  "number_of_cycles": null,
+  "reactor_type": "Oxford Instruments FlexAL",
+  "evidence": "The substrates were n-type Si{1 0 0} wafers, which were 200 mm in diameter. These wafers did not undergo additional cleaning steps and they were covered with a thin native oxide. Approximately 20 g of each precursor was loaded into a bubbler, which was subsequently attached to the reactor so that the precursors could be used as required. The bubbler temperature was varied over the range 70–90 /C176C and the substrate temperature was 200 /C176C. The base pressure of the system was /C24 10 /C0 6 Torr."
+}<|im_end|>

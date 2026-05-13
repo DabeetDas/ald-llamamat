@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Hf/N(CH3)/C2H5/4"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "A single ALD cycle for HfO2 consisted of the following process: the Hf/N(CH3)/C2H5/4 precursor was introduced to the reactor chamber for 20 s, and this was then purged for 30 s. This precursor was introduced using a liquid flow meter system that vaporized at 120°C with Ar as a carrier gas. The Hf/N(CH3)/C2H5/4 and carrier gas have flow rates of 75 mg/min and 300 sccm, respectively. Following this, an oxidant O3 was introduced for 5 s, and purged for 30 s."
+}

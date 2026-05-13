@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["Ti(OMe)4", "H2O"],
+  "temperature_range": "325 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to coat nanostructured TiO2 on porous alumina membranes and Ni nanowires. The ALD process was performed using Ti(OMe)4 and H2O as precursors at 325 °C. The resulting TiO2 films were used to create photocatalytically active nanostructures, which showed enhanced photocatalytic activity compared to flat reference samples. The study highlights the effectiveness of ALD in depositing high-quality, uniform TiO2 films on complex templates, enabling the fabrication of nanostructures with high surface areas for photocatalytic applications.",
+  "evidence": "TiO2 films (about 30 nm) were deposited on the nanostructures by ALD in a flow-type F-120 reactor... The deposition temperature was 325 °C. Ti(OMe)4 was evaporated inside the reactor at 130 °C and H2O in an external reservoir held at room temperature. The photocatalytic activities of the nanostructures were tested with methylene blue degradation under UV illumination. All structures showed photocatalytic activity, and the efficiency of the photocatalytic performance was found to be a strong function of the dimensions of the nanostructure."
+}<|im_end|>

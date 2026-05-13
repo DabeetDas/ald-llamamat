@@ -1,0 +1,11 @@
+{
+  "target_material": "AlOx",
+  "process_type": "ALD",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "water"
+  ],
+  "temperature_range": "150-200°C",
+  "summary": "The paper describes an Atomic Layer Deposition (ALD) process for depositing AlOx films for thin film head gap applications. The process uses trimethylaluminum (TMA) as the aluminum source and water as the oxidant. The films exhibit excellent breakdown strength (9-10 MV/cm), low leakage currents, and high conformality with near 100% step coverage. Plasma annealing is used to adjust film stress and enhance breakdown strength. The process is optimized for low-temperature deposition (150-200°C) and is suitable for applications such as tunnel barriers in magnetic tunnel junctions.",
+  "evidence": "A 150-200°C atomic layer deposition (ALD) process has been developed for advanced gap and tunnel junction applications for thin film heads. The process uses trimethylaluminum (TMA) as the aluminum source and water as the oxidant. The ALD AlOx films are continuous and exhibit excellent insulating characteristics even down to 5-10 Å making them a potential candidate for tunnel barriers for magnetic tunnel junctions. By plasma annealing the films in situ every 25-50 Å, the as-deposited tensile stress becomes slightly compressive and the breakdown field exceeds 10 MV/cm."
+}

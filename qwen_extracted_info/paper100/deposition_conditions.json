@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 450,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "",
+  "evidence": "Increasing the source temperature of ferrocene above the melting point provides a very stable vapor pressure and a saturated growth for pulses as short as 0.1 s."
+}

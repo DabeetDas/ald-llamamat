@@ -1,0 +1,8 @@
+{
+  "target_material": "Mo1-xWxS2",
+  "process_type": "super-cycle ALD",
+  "main_precursors": ["MoOx", "WO3"],
+  "temperature_range": "1,000 °C",
+  "summary": "The study describes the synthesis of Mo1-xWxS2 alloy using sulfurization of super-cycle atomic layer deposition (ALD) Mo1-xWxOy thin films. The process involves sequential super-cycles with different cycle ratios to create a vertically composition-controlled (VCC) multilayer with tunable band gap and strong interlayer coupling. The synthesized material shows broadband light absorption and enhanced photocurrent compared to MoS2 and WS2-based devices.",
+  "evidence": "The text states: 'Here we report a synthesis method of Mo1 /C0 xWxS2 alloys by sulfurization of super-cycle ALD Mo1 /C0 xWxOy alloy thin films.' It also mentions: 'Using this method, we systematically control the composition and layer number (from mono- to tri-layers) of Mo1 /C0 xWxS2 alloys by controlling the cycle ratio between the ALD MoOx and WO3. The bandgaps of the Mo1 /C0 xWxS2 alloys are precisely controlled as functions of the composition and layer numbers of each respective alloy, as measured based on the photoluminescence (PL) spectra.'"
+}<|im_end|>

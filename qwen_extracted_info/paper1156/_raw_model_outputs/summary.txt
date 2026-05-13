@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru",
+  "process_type": "thermal ALD",
+  "main_precursors": ["dicarbonyl-bis(5-methyl-2,4-hexanediketonato) Ru(II)", "NH3", "H2"],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the ALD of Ru using NH3 and H2 as non-oxidizing reactants at 250 °C. The films showed high resistivity due to carbon incorporation and amorphous structure, but post-annealing at 300 °C in H2 ambient significantly reduced resistivity and improved crystallinity. The films were applied as a seed layer for Cu electroplating.",
+  "evidence": "The highly conformal deposition of Ru films was possible using the present reaction scheme but its resistivity was as high as ~750 μΩ-cm due to carbon incorporation into the film and the formation of an amorphous structure. Low temperature annealing at 300 °C at H2 ambient after deposition was found to improve the properties significantly in terms of the resistivity, impurities contents and crystallinity."
+}<|im_end|>

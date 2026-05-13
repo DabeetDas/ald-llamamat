@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the sequential deposition of La, Mn, and Sr oxides using organometallic precursors and water. The growth process includes precursor pulses and water pulses, with the surface reacting with the precursors and water to form the oxide layers. The mechanism is based on the alternating exposure of the surface to metal precursors and oxidizing agents (water), leading to the formation of the LSM compound through successive surface reactions.",
+  "intermediate_species": ["La-OH*", "Mn-OH*", "Sr-OH*", "surface hydroxyls", "carbonate impurities"],
+  "evidence": "The text describes the ALD process for LSM cathodes, stating that the growth involves precursor pulses and water pulses. It mentions the use of organometallic precursors (La(Me4Cp)3, Sr(n-PrMe4Cp)2, Mn(Me4Cp)2) and deionized water, with the surface reacting with these precursors and water to form the oxide layers. The surface reactions are implied through the sequential deposition of La, Mn, and Sr oxides, with the formation of intermediate surface species such as La-OH*, Mn-OH*, and Sr-OH*."
+}

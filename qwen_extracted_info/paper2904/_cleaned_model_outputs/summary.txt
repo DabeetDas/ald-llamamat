@@ -1,0 +1,8 @@
+{
+  "target_material": "In2O3",
+  "process_type": "Low-Temperature ALD",
+  "main_precursors": ["ethylcyclopentadienyl indium (In-EtCp)", "H2O/O3"],
+  "temperature_range": "150, 170, and 200 ºC",
+  "summary": "The study investigates the characteristics of carbon-doped In2O3 thin films deposited by low-temperature ALD using ethylcyclopentadienyl indium (In-EtCp) and H2O/O3 oxidant gases. The films exhibit amorphous structures, and the carbon-doped In2O3 films show superior electrical properties after post-metallization annealing at 150 ºC in O3. The process allows for the controlled deposition of carbon-doped and carbon-free In2O3 films by adjusting growth temperature.",
+  "evidence": "We investigated characteristic of the In2O3 films deposited by various atomic layer deposition (ALD) conditions such as growth temperature and doses of ethylcyclopentadienyl indium (InEtCp) precursor and H2O/O3 oxidant gases. ... carbon-doped In2O3 is a promising material as a channel of a flexible TFT where low temperature formation is essential."
+}

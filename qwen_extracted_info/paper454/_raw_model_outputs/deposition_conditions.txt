@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "room temperature",
+  "pressure": "below 10m7 Tort",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 5,
+  "number_of_cycles": 100,
+  "reactor_type": "stainless steel vacuum chamber with two computer-controlled leak valves",
+  "evidence": "The duration of supplying each vapor pulse was 5-20 s, while the chamber was continuously exhausted during the growth. The timepoint exactly 2 min before the first dosing of TMA vapor was defined as t = 0 min. Therefore, TMA vapor was first introduced at t = 2 min during the supplying time, and then at t = 3 min, H,O, vapor was first introduced, and then at t = 4 min, TMA vapor was introduced again. From t = 5 min onwards, these binary vapors were supplied alternately according to the sequence in Fig. 2."
+}<|im_end|>

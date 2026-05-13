@@ -1,0 +1,8 @@
+{
+  "target_material": "3C-SiC",
+  "process_type": "thermal ALD",
+  "main_precursors": ["SiH2Cl2", "C2H2"],
+  "temperature_range": "1000-1050°C",
+  "summary": "The study describes the growth of 3C-SiC on Si(OO1) substrates using a hot-wall type LPCVD with alternating supply of SiH2Cl2 and C2H2. The process involves synchronizing H2 supply with C2H2 to suppress reduction of SiCl2 molecules, enabling a self-limiting adsorption process. The growth rate was independent of temperature, flow rate of SiH2Cl2, and duration of its supply.",
+  "evidence": "Heteroepitaxial growth of 3C-SiC on Si(OO1) substrate has been realized by the use of a hot-wall type LPCVD with an alternating supply of acetylene (C2H2) and dichlorosilane (SiH2Cl2) in the temperature range 1000-1050°C. By synchronizing hydrogen (H2) supply with C2H2 supply, the reduction of SiCl2 molecules on the surface of the substrate during SiH2Cl2 supply was suppressed, resulting in the realization of the self-limiting process of SiCl2 adsorption in the SiC growth process. The growth rate of 3C-SiC was independent of the temperature, the flow rate of the SiH2Cl2 and the duration of the SiH2Cl2 supply."
+}

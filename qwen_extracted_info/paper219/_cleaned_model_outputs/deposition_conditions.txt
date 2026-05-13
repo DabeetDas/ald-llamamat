@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": 35,
+  "number_of_cycles": null,
+  "reactor_type": "Cambridge Nanotech Savannah 100",
+  "evidence": "To achieve a homogeneous deposition of the whole Si STF down to the substrate-near region of the columns, the sample was exposed for 30 s to both precursors, after a 2 s pulse of ferrocene and a 0.2 s pulse of the ozone-mixture. The pumping time to remove all by-products and non-reacted precursor materials was set to be at least 35 s in all cases."
+}

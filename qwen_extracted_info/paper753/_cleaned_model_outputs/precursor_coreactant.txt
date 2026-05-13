@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMAHf"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Sequential pulses of TDMAHf for 0.300 sec. and ammonia (NH3) for 0.025 sec. with a 10 sec. intra-pulse purge step were used to deposit HfN."
+}

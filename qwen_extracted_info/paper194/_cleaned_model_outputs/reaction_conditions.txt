@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the sequential introduction of indium acetylacetonate and hydrogen sulfide precursors, leading to the formation of indium sulfide buffer layers. The reaction is controlled at the atomic layer level, allowing for the deposition of highly homogeneous thin films. Sodium and copper diffusion processes in the buffer layer are demonstrated, which may influence the final device performance.",
+  "intermediate_species": ["indium acetylacetonate", "hydrogen sulfide", "indium sulﬁde", "sodium", "copper"],
+  "evidence": "The text describes the use of atomic layer chemical vapour deposition (ALCVD) from separate pulses of indium acetylacetonate and hydrogen sulfide. It mentions the formation of indium sulﬁde buffer layers and the diffusion of sodium and copper in the buffer layer. The reaction is controlled at the atomic layer level, allowing for the deposition of highly homogeneous thin films. The presence of sodium and copper in the buffer layer is also noted."
+}

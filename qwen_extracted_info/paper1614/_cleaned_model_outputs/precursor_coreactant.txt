@@ -1,0 +1,7 @@
+{
+  "precursors": ["Bi(thd)3", "H2O"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Bi(thd)3 (min. 98% (99.9%-Bi), Strem Ltd.) and deionized water were used as bismuth and oxygen precursor, respectively. High-purity nitrogen (99.9995%) was used as the sources carrier and purging gas."
+}

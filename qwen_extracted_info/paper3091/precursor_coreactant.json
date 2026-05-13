@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Tetrakisdimethylamidohafnium IV (TDMAH)",
+    "trimethylaluminum (TMA)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Tetrakisdimethylamidohafnium IV (TDMAH) and trimethylaluminum (TMA) were used as chemical precursors for HfO2 and Al2O3, respectively, for these reactions. H2O vapor was the oxidation source for the reactions. For HfO2 deposition, the TDMAH precursor tank was heated at 75°C prior to deposition. The deposition cycle consisted of pulsing TDMAH, purging N2, and pulsing H2O vapor."
+}

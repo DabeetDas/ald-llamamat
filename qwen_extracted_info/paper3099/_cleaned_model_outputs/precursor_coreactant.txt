@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "H2O"],
+  "coreactants": [],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The precursors of TiCl4 and H2O were alternatively introduced into the ALD chamber through time-controlled solenoid valves. The eight steps are TiCl4 reactant, pump-down, Ar purge, pump-down, H2O reactant, pump-down, Ar purge, and pump-down."
+}

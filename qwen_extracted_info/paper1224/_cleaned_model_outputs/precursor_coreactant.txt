@@ -1,0 +1,7 @@
+{
+  "precursors": ["tetrakis(dimethylamino)germanium (Ge(N(Me)2)4)", "germanium-n-butoxide (Ge(OnBu)4)"],
+  "coreactants": ["O3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The precursors were provided by Air Liquide and used as Ge precursors. The vaporized precursors were transported into the reaction chamber by Ar carrier gas, and the flow rate (50 sccm) was controlled by a mass flow controller (MFC). Ar gas at the same flow rate was also used to purge excess gas molecules and byproducts between each precursor and reactant exposure step."
+}

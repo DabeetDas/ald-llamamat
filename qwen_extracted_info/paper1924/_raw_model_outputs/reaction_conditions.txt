@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "GaCl3 + (Et3Si)3As -> GaAs + 3Et3SiCl"
+  ],
+  "surface_mechanism_description": "The ALD process is based on a dechlorosilylation reaction between GaCl3 and (Et3Si)3As. The growth rate saturation indicates that the surface reactions are saturative, with the film thickness determined by the number of deposition cycles. The reaction mechanism involves the sequential saturative surface reactions where gaseous precursors are introduced one at a time, separated by inert gas purges, ensuring that only reactions occur with the substrate surface or the surface of the growing film.",
+  "intermediate_species": [
+    "GaCl3",
+    "(Et3Si)3As",
+    "Et3SiCl"
+  ],
+  "evidence": "The ALD process is based on a dechlorosilylation reaction between GaCl3 and (Et3Si)3As. Characteristic ALD growth was demonstrated, indicating good applicability of the alkylsilyl arsenide precursor. The saturative reactions make ALD a highly controllable method, as film thickness is easily determined by the number of deposition cycles. Additionally, the saturative surface reactions ensure that even large, difficult and three-dimensional substrates can be uniformly covered."
+}<|im_end|>

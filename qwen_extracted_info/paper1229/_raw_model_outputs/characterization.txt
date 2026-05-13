@@ -1,0 +1,18 @@
+{
+  "characterization_methods": [
+    "variable-angle X-ray photoelectron spectroscopy (XPS)",
+    "quartz crystal microbalance (QCM)",
+    "atomic force microscopy (AFM)",
+    "Raman spectroscopy",
+    "optical absorption spectroscopy",
+    "ellipsometry",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "transmission electron microscopy (TEM)",
+    "scanning electron microscopy (SEM)",
+    "X-ray diffraction (XRD)",
+    "Four-point probe",
+    "Hall Effect",
+    "current-voltage (C-V) measurement"
+  ],
+  "evidence": "Using an ALD tin sulfide encapsulation scheme and variable-angle X-ray photoelectron spectroscopy (XPS) (see Supporting Information Section S4), the composition of the films below the surface can be fit to reveal differences in the Mo:O ratio and Mo binding energy (Figure 2b) that suggest that the oxide grown with water is closer to the MoO2 stoichiometry and the oxide grown with ozone is closer to MoO3. AFM images in Figures 3c and 3d indicate that MoOx deposits uniformly on a monolayer MoS2 channel. The change in carrier density was estimated using both the threshold voltage shift (via Q = V*Cox/A) and also changes in the Raman spectra (Figure 4a and Supporting Information Section S8). The electron densities calculated by the two methods are well correlated and decrease with higher MoOx oxidation state as expected for surface charge-transfer doping. Raman spectroscopy suggests that strain due to encapsulation is no more than ~10-4 (Supporting Information Section S6). The optical absorption spectra (Figure 2c) also show a continuous increase in the energy of the absorption edge with increasing oxidation. Using the Tauc plot construction, this change of slope is consistent with increasing band gap going from the water film (0.8 eV) to the ozone film (2 eV) (Supporting Information Section S5). Resistivity of 10 nm films also varies monotonically, increasing from 6.2×104 to 5.4×107 to 1.6×108 Ω*cm as the water:ozone cycle ratio is varied from 1:0 to 4:1 to 1:1. The trends in electrical and optical properties with stoichiometry for these amorphous films are also observed in crystalline MoOx from MoO2 (metallic, 10-5 Ω*cm resistivity) to crystalline MoO3 (3.2 eV bandgap, >104 Ω*cm resistivity)."
+}<|im_end|>

@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "TDMAT"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [
+    "N2",
+    "He"
+  ],
+  "carrier_gas": [
+    "He"
+  ],
+  "evidence": "TiN thin films were deposited on 7 nm oxidized (1 0 0) silicon wafer by using TDMAT as the titanium precursor and ammonia (NH3, 500 sccm) as the reactant gas. Nitrogen (N2) and Helium (He) were introduced for the complete separation of the precursor and the reactant gas purging the deposition chamber. TDMAT is introduced into the chamber with a He carrier gas flow."
+}

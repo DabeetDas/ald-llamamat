@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Trimethylaluminum (TMA)"
+  ],
+  "coreactants": [
+    "Ammonia (NH3)"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "TMA, vaporized at 5°C, and NH3, with a flow rate of 300 standard cubic centimeters per min (sccm), were used as Al precursor and reactant, respectively. TMA and NH3 were sequentially injected with a purge step intervening between them using Ar (600 sccm) as purge gas."
+}

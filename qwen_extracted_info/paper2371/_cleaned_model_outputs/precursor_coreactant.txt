@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMA", "trimethylaluminium", "Diethylzinc", "DEZ"],
+  "coreactants": ["H2O", "water"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "Diethylzinc (DEZ) and water are the reactants used during ZnO ALD. The chemistry of Al2O3 ALD occurs via the following equations where the asterisk represents the surface species: AlOH∗ + Al(CH3)3 → AlOAl(CH3)∗3 + CH4, (1a), AlCH∗3 + H2O → AlOH∗ + CH4. (1b). Diethylzinc (DEZ) and water are the reactants used during ZnO ALD. The AB reaction sequence for ZnO ALD is as follows: ZnOH∗ + Zn(CH2CH3)∗2 → ZnOZn(CH2CH3)∗ + CH3CH3, (2a), Zn(CH2CH3)∗ + H2O → ZnOH∗ + CH3CH3. (2b)."
+}

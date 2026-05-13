@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the alternating exposure of TBTDET and NH3, with the TBTDET precursor decomposing and reacting with surface hydroxyl groups, followed by NH3 pulses that likely contribute to the nitridation process. The process is self-limiting, with precursor dose and surface saturation playing key roles in the growth rate.",
+  "intermediate_species": [
+    "TBTDET molecules",
+    "surface hydroxyl groups",
+    "carbon impurities from partially decomposed TBTDET"
+  ],
+  "evidence": "The text describes the ALD process using TBTDET and NH3, with the TBTDET precursor decomposing and reacting with surface hydroxyl groups. It also mentions the presence of carbon impurities from not fully decomposed TBTDET molecules and the role of NH3 in decomposing the precursor. The self-limiting nature of the process and the importance of precursor dose and surface saturation are highlighted."
+}

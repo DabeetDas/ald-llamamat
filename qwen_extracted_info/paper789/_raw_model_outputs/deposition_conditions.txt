@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "8.0·10−3 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "7",
+  "number_of_cycles": null,
+  "reactor_type": "home-built ALD reactor",
+  "evidence": "The temperature of the wall of the reactor was set at 100°C and the substrate holder at 300°C. A stainless steel bubbler containing CoCp2 was heated at 80°C and the line from the bubbler to the reactor was kept at 100°C. Ar (purity > 99.999%; base pressure 2.2·10−2 mbar) was used as the carrier gas for CoCp2 dosing. TMP was dosed in vapor-drawn mode by setting the temperature of the bubbler at 50°C and the line from TMP bubbler to the reactor at 70°C. The temperature of the wall of the reactor was set at 100°C and the substrate holder at 300°C. Three types of ALD recipes have been used for the preparation of the samples (Fig. 1): one for cobalt oxide (CoOx), one for stoichiometric cobalt phosphate (CoPi) and one, given by the combination of the previous two, for cobalt phosphate with a higher Co-to-P ratio (CoPi Co-rich). The dosing times and the ALD recipes used are reported in Fig. 1. A proper purge time has been used after each step (e.g. 7 s after oxygen plasma, 6 s after Co dosing and 2 s after TMP dosing)."
+}<|im_end|>

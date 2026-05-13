@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Surface scattering in Ru films on 0.3 nm TiN adhesion layers was diffuse, with p ~ 0. This is again similar to PVD Ru where the insertion of interfacial and surface TaN layers led to diffuse scattering at the Ru interfaces, which indicates the highly sensitive nature of surface scattering and shows that even very thin TiN layers can have a strong influence.",
+  "intermediate_species": ["Ti(O,N)x"],
+  "evidence": "We note that due to the segregation of Ti(O,N) x during the ALD, Ti (on the order of a monolayer) is also present on the surface after deposition and thus can be expected to modify the scattering at the top as well as bottom interface (i.e. in an effective Ti(O,N)x/Ru/TiN stack)."
+}<|im_end|>

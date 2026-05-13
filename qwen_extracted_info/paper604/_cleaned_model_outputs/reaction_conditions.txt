@@ -1,0 +1,21 @@
+{
+  "reaction_equations": [
+    "II(-OH)(s) + TaCl5(g) -> (-O-),,TaCl5-2n(s) + nHCl(g)",
+    "n(=0)(s) + TaCl5(g) -> (-O-),,TaCl5-2n(s) + n(-Cl)(s)",
+    "3TaCl5(g) + Ta2O5(s) -> 5TaOCl(s)",
+    "TaCl5(g) + 3Ta2O5(s) -> 5TaO2Cl(s)",
+    "(-Cl)(s) + H2O(g) -> (-OH)(s) + HCl(g)",
+    "2(-Cl)(s) + H2O(g) -> (=O)(s) + 2HCl(g)",
+    "n(-OH)(s) + TaCl5(g) -> (-O-),,TaCl5-2n(s) + nHCl(g) + nH2O(g)"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of TaCl5 and H2O on hydroxylated or dehydroxylated surfaces, leading to the formation of oxychlorides and subsequent etching. The reactions include the replacement of surface chlorines with hydroxyl groups or bridging oxygens, and the desorption of volatile chlorine oxides. The oxidation state of tantalum is reduced during these processes, and the desorption of oxychlorides with high chlorine content causes etching.",
+  "intermediate_species": [
+    "Surface hydroxyls",
+    "Oxychlorides",
+    "Chlorine atoms",
+    "Hydroxyl groups",
+    "Bridging oxygens",
+    "Tantalum oxychlorides"
+  ],
+  "evidence": "The text describes the adsorption of TaCl5 and H2O on hydroxylated or dehydroxylated surfaces, leading to the formation of oxychlorides and subsequent etching. The reactions include the replacement of surface chlorines with hydroxyl groups or bridging oxygens, and the desorption of volatile chlorine oxides. The oxidation state of tantalum is reduced during these processes, and the desorption of oxychlorides with high chlorine content causes etching."
+}

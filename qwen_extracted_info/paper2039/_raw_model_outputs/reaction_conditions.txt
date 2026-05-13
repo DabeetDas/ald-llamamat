@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "O3 has been used to grow high quality Al2O3 films by the ALD using the Al(CH3)3 as the Al precursor. Compared to the Al2O3 films grown by ALD using H2O as the oxidant, the films grown using O3 appeared to have less incompletely oxidized Al ions, thereby showing a better electrical performance, such as a smaller leakage current at a similar equivalent oxide thickness (EOT). This can be attributed to the higher oxidizing power of O3 compared to that of the H2O. Therefore, this study used O3, for the first time, for the ALD of HfO2 films using the HfCl4 precursor, and the growth behavior and structural and electrical properties of the films were compared to those of the films grown with the H2O oxidant."
+}<|im_end|>

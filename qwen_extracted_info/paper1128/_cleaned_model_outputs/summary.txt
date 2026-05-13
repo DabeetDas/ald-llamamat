@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["bis(2,5-dimethylpyrrolyl)ruthenium", "oxygen"],
+  "temperature_range": "250–325 °C",
+  "summary": "Ru films were grown on Si and metal oxides by atomic layer deposition using bis(2,5-dimethylpyrrolyl)ruthenium and oxygen. The films were nanocrystalline hexagonal metallic Ru, with growth favored on Si-H and SiO2 at lower temperatures and on HfO2 and TiO2 at higher temperatures. The resistivity values were as low as 18 μΩ·cm for 10 nm thick films.",
+  "evidence": "Ru films were grown on Si and on metal oxides by atomic layer deposition from bis(2,5-dimethylpyrrolyl)ruthenium and O2. The films appeared to be nanocrystalline Ru, with crystal growth recognized together with the formation of well conductive, i.e. continuous layers. Ru grew feasibly on Si–H and SiO2/Si at low substrate temperatures (250–255 vs. 275–300 °C). At 275–300 °C, Ru grew efficiently also on Al2O3, HfO2 and TiO2, with the conductivity slightly improving in the given order of the oxides."
+}

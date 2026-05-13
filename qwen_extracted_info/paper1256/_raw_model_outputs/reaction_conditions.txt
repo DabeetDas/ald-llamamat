@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "B(OCH3)3 + Al-OH -> Al-O-B(OCH3)2 + CH3OH",
+    "B(OCH3)3 + O2 -> B(OH)3 + CH3OH",
+    "Al-OH + O2 -> Al-OH*",
+    "B(OH)3 + Al-OH -> Al-O-B(OH)2 + H2O"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves ligand exchange between trimethyl borate (TMB) and surface hydroxyl groups, followed by water pulse to regenerate OH sites. The growth is governed by two different mechanisms depending on the Lewis acidity of the surface: chemisorption on Al-OH and Si-OH terminated surfaces and physisorption on more acidic B-OH surface sites. The process involves sub-surface reactions of TMA with the B-OH films grown by TMB-O2 plasma, leading to the formation of B- and H-doped Al2O3 films.",
+  "intermediate_species": [
+    "B(OCH3)3",
+    "B(OH)3",
+    "CH3OH",
+    "Al-O-B(OCH3)2",
+    "Al-O-B(OH)2"
+  ],
+  "evidence": "The text states: 'DFT cluster calculations in combination with in-situ FTIR demonstrated that the growth is governed by two different mechanism depending on the Lewis acidity of the surface: chemisorption on Al-OH and Si-OH terminated surface and physisorption on more acidic B-OH surface sites. The growth could be maintained in a mixed process, by re-activating the surface through single exposures to trimethyl aluminum (TMA) and oxygen plasma and thus resetting the surface to Al-OH, on which TMB chemisorption is energetically more favourable. Surprisingly, this process did not result in B2O3 (or Al-doped B2O3) films, but instead in B- and H-doped Al2O3 films.' Additionally, 'the mechanism for the atypical growth mode is proposed based on in-situ FTIR and ellipsometry measurements and density functional theory calculations, and was attributed to sub-surface reactions of the TMA with the B-OH films grown by TMB-O2 plasma.'"
+}<|im_end|>

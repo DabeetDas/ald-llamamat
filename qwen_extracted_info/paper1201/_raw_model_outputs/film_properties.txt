@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 3.5,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The XPS depth profile data of molybdenum oxide films show the Mo 3d peaks shifting to lower binding energies (i.e. a more reduced form of molybdenum) with increasing sputter times. This effect is likely due to preferential sputtering of the oxygen atoms by the Ar + beam. This finding and interpretation are similar and consistent with reduction of MoO3 samples subjected to continuous XTray exposure. XPS data can also be used to estimate the thickness of the film, by measuring the attenuation of the substrate Si 2p core level after Mo oxide deposition. Using the electron mean free path of 2.574 nm in MoO3 from the NIST standard database 71 for similar parameters (45° takeoff angle), the estimated thicknesses are 3.5 nm at 250 °C and 4.8 nm at 300 °C."
+}<|im_end|>

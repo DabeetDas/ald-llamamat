@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "diethylzinc (DEZn)",
+    "dimethylzinc (DMZn)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "nitrogen"
+  ],
+  "carrier_gas": [],
+  "evidence": "We applied two kinds of organic zinc precursors — diethylzinc (DEZn) and dimethylzinc (DMZn) — and deionized water (H2O) as an oxygen precursor. In the ALD process, reactants (precursors) are sequentially introduced to the growth chamber, where they reach a surface of the growing film. Each cycle of precursor’s dose is separated by purging the chamber with neutral gas (nitrogen)."
+}

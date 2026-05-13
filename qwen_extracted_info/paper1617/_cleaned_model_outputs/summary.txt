@@ -1,0 +1,8 @@
+{
+  "target_material": "SrO",
+  "process_type": "ALD",
+  "main_precursors": ["Sr(C5iPr3H2)2", "H2O"],
+  "temperature_range": "250 °C to 350 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of SrO thin films using Sr(C5iPr3H2)2 and H2O as precursors. The deposition temperature significantly affects the film composition, with polycrystalline Sr(OH)2 formed at 250 °C and polycrystalline SrO at 350 °C. The growth per cycle (GPC) is influenced by the crystalline phase and orientation, and an unusual transient GPC enhancement is observed when films are cooled from high to lower temperatures. Substrate effects and silicate formation are also discussed.",
+  "evidence": "The atomic layer deposition (ALD) of SrO thin films from strontium bis(tri(isopropyl)cyclopentadienyl) (Sr-(C5iPr3H2)2) and H2O was studied. It is found that with H2O as the oxidant, deposition temperature strongly affects film composition. At 250 °C films consist of polycrystalline Sr(OH)2 while at 350 °C polycrystalline SrO is observed. The growth per cycle (GPC) is found to be sensitive not only to the crystalline phase (Sr(OH)2 vs SrO) but also the crystalline orientation."
+}

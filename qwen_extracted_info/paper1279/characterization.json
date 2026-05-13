@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "Scanning Electron Microscope (SEM)",
+    "Atomic Force Microscope (AFM)",
+    "Fourier Transform Infrared (FTIR) Spectroscopy",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "X-ray Diffraction (XRD)",
+    "Transmission Electron Microscope (TEM)",
+    "Energy-filtered TEM (EFTEM)",
+    "Energy dispersive X-ray spectroscopy (EDX)",
+    "Spectroscopic Ellipsometry (SE)"
+  ],
+  "evidence": "Several thin film analysis techniques were used in this work. The layer thickness and morphology were studied by a Merlin scanning electron microscope (SEM) from Zeiss equipped with an Energy Selective Backscattered (ESB) detector, and an Icon atomic force microscope (AFM) from Bruker. The phase segregation study was carried out by a Fourier transform infrared (FTIR) spectrometer from Thermo Scientific, a Quatera SXM X-ray photoelectron spectrometer (XPS) from PHI, a X’pert Powder X-ray diffractometer (XRD) from Malvern Panalytical and a CM300ST-FEG transmission electron microscope (TEM) from Philips. The layer growth was in-situ monitored, determining the thickness and the optical constants (i.e., refractive index and extinction coefficient) by spectroscopic ellipsometry (SE), using a Woollam M-2000 ellipsometer and J.A. Woollam CompleteEASE software."
+}

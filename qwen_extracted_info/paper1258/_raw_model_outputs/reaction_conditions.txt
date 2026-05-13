@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "PO(OMe)3 + AlMe3 -> Al-O-Al(CH3)2 + CH4 + MeO"
+  ],
+  "surface_mechanism_description": "The PO(OMe)3 precursor chemisorbs on the surface without releasing reaction products into the gas phase, while AlMe3 undergoes methyl ligand abstraction upon chemisorption. The O2 plasma converts the methoxy-groups of PO(OMe)3 into −OH or =O, creating surface groups that react with AlMe3. The removal of organic ligands by O2 plasma allows for the incorporation of phosphorus into the film.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The surface reactions are discussed in the context of mass spectrometry data, where the PO(OMe)3 precursor is shown to chemisorb without releasing reaction products, while AlMe3 undergoes methyl ligand abstraction. The O2 plasma converts methoxy-groups into −OH or =O, and the removal of organic ligands by plasma allows for phosphorus incorporation."
+}<|im_end|>

@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "trimethylaluminium (TMA)"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "The Al2O3 films were deposited at 300 ◦C using RPALD with trimethylaluminium [TMA, Al(CH3)3] as the Al precursor. The basic cycle of Al2O3 deposition consisted of four steps: (i) TMA exposure, (ii) purging of the residual precursors and by-products from the chamber using Ar gas, (iii) exposure of the oxygen plasma and (iv) purging of the reactants and by-products from the chamber using Ar gas."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Ta2O5 and TiO2",
+  "process_type": "Thermal ALD and PE-ALD",
+  "main_precursors": ["PDMA T", "TDMA T"],
+  "temperature_range": "100–500°C",
+  "summary": "The study investigates the thermal and plasma-enhanced atomic layer deposition (ALD) of tantalum and titanium oxides using alkylamide precursors PDMA T and TDMA T. The results show that PDMA T is a promising precursor for both thermal and PE-ALD of Ta2O5, while TDMA T exhibits nonideal growth behavior for TiO2. The study also highlights the advantages of PE-ALD in achieving lower leakage current densities and better film quality.",
+  "evidence": "The results indicate that PE-ALD produced films with lower leakage current densities than thermal ALD for both Ta2O5 and TiO2, even though the same metal precursor was used for each oxide. Additionally, PDMA T was found to be a promising precursor for both thermal and PE-ALD of Ta2O5, while TDMA T has shown nonideal growth with imperfect self-saturation behavior."
+}

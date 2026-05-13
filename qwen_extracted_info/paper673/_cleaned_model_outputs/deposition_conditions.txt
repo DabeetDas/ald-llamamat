@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 0.05,
+  "purge_time_s": 10,
+  "number_of_cycles": 185,
+  "reactor_type": "Savannah S100",
+  "evidence": "The optimum growth conditions were found as follows: (tBuN)2W(NMe2)2 pulse 2 s, N2 purge 10 s, H2O pulse 50 ms, N2 flow 5 s without pumping (exposure mode) and then 10 s with pumping as the purge/evacuation step, T = 350 ◦C (see Fig. 1(c)) yielded stable WO3 growth (Fig. 3(d))."
+}

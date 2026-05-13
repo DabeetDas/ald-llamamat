@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 20,
+  "density_g_cm3": 11.7,
+  "refractive_index": null,
+  "surface_roughness_nm": 1.3,
+  "crystal_phase": "face-centered cubic (fcc)",
+  "evidence": "The GI-XRD spectrum, shown in Figure 2b, revealed a fcc crystal structure. This spectrum clearly differs from the powder spectrum in Figure 2c. First, the (111) peak in Figure 2b has a much higher relative intensity than it would have in the case of absence of texture (Figure 2c). This peak is present at ∼40°. In the GI-XRD measurement geometry used, we detect the (111) planes that are oriented ∼20° away from the substrate surface orientation. The high intensity combined with the ∼20° angle with respect to the surface normal implies a broad distribution of (111) orientations around the surface normal, that is, an imperfect (111) texture."
+}

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "470-530",
+ "pressure": "2-4 mTorr",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "15",
+ "number_of_cycles": "100-120",
+ "reactor_type": "synchrotron-radiation-excited",
+ "evidence": "One SR-ALE cycle consisted of SiH2Cl2 gas exposure for time t1 at pressures ranging from 2 to 4 mTorr, a 15 s evacuation to a stationary background pressure (1310−7 Torr), irradiation of the surface with white vacuum-ultraviolet photons (10–1000 eV) for time t2, and a 3 s interval until the next cycle. One hundred to 120 ALE cycles were repeated for each specimen."
+}

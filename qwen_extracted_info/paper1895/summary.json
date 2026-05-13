@@ -1,0 +1,11 @@
+{
+  "target_material": "hafnium silicate",
+  "process_type": "ALCVD",
+  "main_precursors": [
+    "tetrabutyl orthosilicate (TBOS)",
+    "tetrakis(ethylmethylamido)hafnium (TEMAH)"
+  ],
+  "temperature_range": "210–375 °C",
+  "summary": "The study describes the atomic layer chemical vapor deposition (ALCVD) of hafnium silicate films for use as a high-k dielectric layer in pentacene thin film transistors (TFTs). The process uses tetrabutyl orthosilicate (TBOS) as a single source of both oxidant and silicon, and tetrakis(ethylmethylamido)hafnium (TEMAH) as the hafnium source. The films were deposited at temperatures ranging from 210 to 375 °C, with a growth rate of 2.3 Å per cycle. The resulting hafnium silicate films showed improved performance in pentacene TFTs, with higher mobility compared to other dielectric layers such as Al2O3 and SiO2.",
+  "evidence": "The performance of pentacene thin film transistors (TFTs) was improved using a hafnium silicate (HfxSi1/C0 xO2) thin film as a high-k dielectric layer. For growth of the HfxSi1/C0 xO2 thin films, an atomic layer chemical vapor deposition (ALCVD) process was optimized using silicon alkoxide and hafnium amido as precursors. The self-limiting surface reactions of each precursor were observed, indicating the ALCVD growth characteristics. The film thickness linearly increased depending on the number of process cycles, with a remarkably high growth rate of 2.3 A ˚ per cycle. The pentacene TFTs fabricated with the ALCVD-grown Hf0.67Si0.33O2 dielectric layer were characterized and the results were compared to the pentacene TFTs using Al2O3 and SiO2 film as dielectric layers. The pentacene/Hf0.67Si0.33O2 TFT showed a three-fold and five-fold higher mobility than a pentacene/Al2O3 TFT and a pentacene/SiO2 TFT, respectively."
+}

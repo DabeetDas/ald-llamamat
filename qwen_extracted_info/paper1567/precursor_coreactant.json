@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "[Ti(OCH(CH 3)2)4] (Aldrich; 99.999%)",
+    "7-octenyltrichlorosilane (7-OTS)"
+  ],
+  "coreactants": [
+    "H2O",
+    "ozone"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The TiO2 thin films were deposited onto the substrates using [Ti(OCH(CH 3)2)4] (Aldrich; 99.999%) and H 2O as ALD precursors. 25 Ar served as both a carrier and a purging gas. The 7-octenyltrichlorosilane (7-OTS) and water were evaporated at 100 and 20 °C, respectively. Exposure times in this process wer e 5 s for 7-OTS with water vapor and 10 s for Ar purge. The terminal CdC groups of the SAM were converted to carboxylic groups with ozone treatment in the ALD chamber."
+}

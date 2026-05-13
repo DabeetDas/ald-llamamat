@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3/SiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Al(CH3)3", "O3 vapour"],
+  "temperature_range": "450 ◦C (deposition) and 1200 ◦C (annealing)",
+  "summary": "The study investigates the electronic and optical properties of Al2O3/SiO2 thin films grown on Si substrates using atomic layer deposition (ALD). The films undergo a phase transition from an amorphous phase to the γ-Al2O3 phase after annealing at 1200 ◦C, as evidenced by changes in band gap and optical properties. The main precursors used were Al(CH3)3 and O3 vapour, with deposition at 450 ◦C and annealing at 1200 ◦C.",
+  "evidence": "For Al2O3, Al(CH3)3 was used as the precursor and O3 vapour served as the oxygen source. The film was grown with the substrate at 450 ◦C... The thin films were annealed up to 1200 ◦C by the rapid thermal annealing method."
+}<|im_end|>

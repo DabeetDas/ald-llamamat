@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Trimethyl aluminum (TMA)",
+    "Water (H2O)",
+    "HF-pyridine"
+  ],
+  "coreactants": [
+    "H2O",
+    "HF"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Trimethyl aluminum (TMA, 97%, Sigma Aldrich) was used as the aluminum source. Water (HPLC grade H2O, Sigma Aldrich) and HF-pyridine (70% wt. HF, Sigma Aldrich) were used as oxygen and fluorine sources, respectively. High purity argon gas (Airgas, prepurified) was used as the purge gas."
+}

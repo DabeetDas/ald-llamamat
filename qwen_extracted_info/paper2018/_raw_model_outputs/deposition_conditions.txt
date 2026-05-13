@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "177",
+  "pressure": "1",
+  "precursor_pulse_time_s": "0.1",
+  "coreactant_pulse_time_s": "0.1",
+  "purge_time_s": "5",
+  "number_of_cycles": "100",
+  "reactor_type": "viscous flow reactor",
+  "evidence": "The pressure increases during the TMA and H2O reactant pulses were ;0.1 Torr. The reactant dosing lines and exhaust lines were maintained at ;80 °C to shorten surface residence times and obtain rapid ALD cycle times. Figure 5 shows QCM measurements acquired during Al2O3 ALD. This data was recorded during 100 TMA/H2O ALD cycles using reactant exposures of 1 s and nitrogen purges of 5 s between exposures."
+}<|im_end|>

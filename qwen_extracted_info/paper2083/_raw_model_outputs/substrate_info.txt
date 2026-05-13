@@ -1,0 +1,145 @@
+ and /H20849c/H20850a monolayer of the ALD-grown material.
+121301-22 Riikka L. Puurunen J. Appl. Phys. 97, 121301 /H208492005/H20850
+Downloaded 16 Apr 2013 to 128.42.202.150. This article is copyrighted as indicated in the abstract. Reuse of AIP content is subject to the terms at:
+
+and
+/H20648/H11569A →
+ra
+/H20648/H11569 + A/H20849g/H20850, /H208492/H20850
+where /H20648/H11569 represents the surface site, A/H20849g/H20850 the gaseous
+reactant, and /H20648/H11569A the adsorbed species. The forward
+reaction rate is given by
+r
+a = k
+a
+[ A/H20849g/H20850 ] /H208491/H20850,
+where k
+a is the rate constant and [ A/H20849g/H20850 ] is the concentration of the
+gaseous reactant. The reverse reaction rate is given by
+r
+a = k
+d [ /H20648/H11569A ] /H208492/H20850,
+where k
+d is the rate constant for desorption and [ /H20648/H11569A ] is the
+concentration of the adsorbed species. The net rate of
+adsorption is then
+r
+a = r
+a,forward − r
+a,reverse = k
+a [ A/H20849g/H20850 ] − k
+d [ /H20648/H11569A ] /H208493/H20850.
+In the case of a self-terminating reaction, the adsorbed species
+cannot desorb, and the reverse reaction rate is zero. Hence,
+the net rate of adsorption becomes
+r
+a = k
+a [ A/H20849g/H20850 ] /H208494/H20850.
+The rate of adsorption is therefore proportional to the
+concentration of the gaseous reactant. This is in contrast to
+the case of a reversible reaction, where the rate of adsorption
+depends on the concentration of the adsorbed species.
+The adsorption rate is also affected by the temperature.
+The rate constant k
+a is temperature dependent, and the
+relationship between k
+a and temperature is given by the
+Arrhenius equation:
+k
+a = k
+a,0 exp /H20849−E
+a /H20849R T /H20850/H20850,
+where k
+a,0 is the pre-exponential factor, E
+a is the activation energy,
+R is the gas constant, and T is the temperature. The
+activation energy E
+a is the energy required to overcome the
+energy barrier for the adsorption process. The pre-exponential factor k
+a,0 is a measure of the frequency of the
+adsorption events. The higher the frequency of the
+adsorption events, the higher the value of k
+a,0. The
+activation energy E
+a is usually smaller than the activation
+energy of the desorption process, E
+d. This is because the
+adsorption process is usually easier than the desorption
+process. The activation energy of the desorption process
+is given by
+E
+d = E
+a + E
+d,0,
+where E
+d,0 is the energy required to break the bond between
+the adsorbed species and the surface. The pre-exponential
+factor for desorption is given by
+k
+d,0 = k
+a,0 /H208491 + E
+d,0 /H20849E
+a /H20850/H20850.
+The adsorption rate is also affected by the surface
+properties. The surface properties are determined by the
+surface chemistry, which in turn is determined by the
+surface preparation and the surface treatment. The surface
+preparation and treatment may include, for example, the
+cleaning of the surface, the activation of the surface, and
+the functionalization of the surface. The surface preparation and treatment are discussed in detail in Sec. IV.
+C. Chemisorption mechanisms
+In ALD, the chemisorption of the reactant molecules is
+typically the rate-determining step. The chemisorption
+mechanism is therefore of central importance for the
+understanding of the surface chemistry of ALD. The
+chemisorption of the reactant molecules can be divided into
+two main types: the direct chemisorption and the indirect
+chemisorption. In direct chemisorption, the reactant
+molecules chemisorb directly on the surface. In indirect
+chemisorption, the reactant molecules chemisorb via an
+intermediate species. The intermediate species may be
+either a surface-bound species or a surface-adsorbed
+species. The chemisorption mechanisms for the AlMe
+3 /H 2O
+process are discussed in Sec. IV.
+D. Factors causing saturation
+The saturation of the surface is caused by the chemisorption of the reactant molecules. The saturation of the surface
+can be achieved in two ways: either the surface is covered
+with a monolayer of the reactant molecules, or the surface
+is covered with a monolayer of the adsorbed species. The
+saturation of the surface is an important factor in the
+self-terminating nature of ALD. The saturation of the surface
+can be achieved by the chemisorption of the reactant
+molecules, as described in Sec. III A. The saturation of the
+surface can also be achieved by the chemisorption of the
+adsorbed species, as described in Sec. III B. The saturation
+of the surface is therefore a result of the chemisorption
+process, and the saturation of the surface is the condition
+that allows the self-terminating nature of ALD.
+E. Steric hindrance and GPC
+The growth per cycle /H20849GPC/H20850 is limited by the steric hindrance
+caused by the chemisorbed species. The steric hindrance
+is the result of the spatial arrangement of the chemisorbed
+species on the surface. The steric hindrance limits the
+number of chemisorbed species that can be accommodated
+on the surface. The steric hindrance is therefore a factor
+that limits the GPC. The steric hindrance can be reduced
+by using smaller ligands. The steric hindrance is also
+affected by the surface properties, such as the surface
+roughness and the surface area. The steric hindrance is
+also affected by the type of chemisorption, such as the
+direct chemisorption and the indirect chemisorption. The
+steric hindrance is therefore a factor that affects the GPC.
+The steric hindrance can be reduced by using smaller ligands.
+The steric hindrance is also affected by the surface properties,
+such as the surface roughness and the surface area. The
+steric hind
+</think>
+
+{
+  "substrate_material": "SiO2 gel",
+  "substrate_orientation": "",
+  "pretreatment": "heat treatment",
+  "surface_functionalization": "",
+  "evidence": "In the AlMe3/H2O process, the surface was stabilized to a known, controlled state, for example, by a heat treatment."
+}<|im_end|>

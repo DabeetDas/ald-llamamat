@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ti/H20849O-i-C3H7/H208504 /H20849TTIP/H20850", "Al/H20849CH3/H208503 /H20849TMA/H20850"],
+  "coreactants": ["O 2", "N 2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "TTIP and trimethyl aluminum /H20851Al/H20849CH3/H208503 /H20849TMA/H20850/H20852were used as the Ti and Al precursors, respectively. O 2 and N 2O plasma was produced by flowing O 2 and N 2O gas into the reactor at 30 sccm, with the application of a radiofrequency power of 300 W during the reactant pulse steps. After each precursor and reactant pulse, the chamber was purged with Ar gas at a flow rate of 200 sccm to remove the remaining precursor and reactant gases."
+}

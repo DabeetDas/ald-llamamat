@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "ALCVD",
+  "main_precursors": ["TiCl4", "NH3"],
+  "temperature_range": "300–500 ◦C",
+  "summary": "TiN films were grown using atomic-layer chemical vapor deposition (ALCVD) with TiCl4 and NH3 as precursors. The study compared four-steps and six-steps ALCVD cycles, with the six-steps cycle including a pump-down step to improve removal efficiency of residual reactants and by-products. The growth rate was approximately 0.03 nm per cycle, and the film resistivity and Cl residues were influenced by deposition temperature and pump-down steps. TiN films with Cl concentration below 1 at.% were achieved at 350 ◦C using the six-steps ALCVD.",
+  "evidence": "The TiN films were grown on p-type Si(1 0 0) and thermal oxide substrates by atomic-layer chemical vapor deposition (ALCVD) using TiCl4 and NH3 as precursors. The six-steps ALCVD adds a pump-down step between reactant pulse and purge pulse to improve the removal efficiency of residual reactants and by-products. The implementation of pump-down steps into gaseous-pulse cycle effectively lowers the film resistivity and the Cl residues. TiN films with Cl concentration lower than 1 at.% can be obtained at low deposition temperature of 350 ◦C by the six-steps ALCVD."
+}<|im_end|>

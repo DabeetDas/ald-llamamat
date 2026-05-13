@@ -1,0 +1,8 @@
+{
+  "target_material": "B2O3",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["BBr3", "H2O"],
+  "temperature_range": "20 °C",
+  "summary": "The study demonstrates the atomic layer deposition (ALD) of boron oxide (B2O3) thin films at room temperature using BBr3 and H2O as precursors. The films were found to be amorphous and reactive with the atmosphere, necessitating protection by an alumina (Al2O3) overlayer. The deposition rate was 0.76 Å per cycle at 20 °C, and the films showed low impurity levels. The study highlights the challenges of low-temperature ALD for B2O3 due to its reactivity with moisture.",
+  "evidence": "Atomic layer deposition of boron oxide thin films was demonstrated at room temperature using BBr3 and H2O as precursors. Crystallinity of the films was characterised by X-ray diffraction while time-of-flight elastic recoil detection analysis (TOF-ERDA) and X-ray fluorescence were used to analyse stoichiometry and possible impurities. As-deposited films were amorphous and reacted readily with the atmosphere if not protected by an alumina overlayer. Boron oxide deposition rate of 0.76 Å per cycle was obtained at 20 °C."
+}<|im_end|>

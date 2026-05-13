@@ -1,0 +1,8 @@
+{
+  "target_material": "Si nanodots",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["Al(CH3)3 (trimethylaluminum)", "H2O vapor"],
+  "temperature_range": "300 ◦C",
+  "summary": "The study investigates the enhancement of photoluminescence (PL) intensity from Si nanodots using Al2O3 surface passivation layers grown by atomic layer deposition (ALD). The ALD process uses trimethylaluminum (TMA) and water vapor as precursors at 300 ◦C. The Al2O3 passivation layer significantly reduces non-radiative recombination, thereby enhancing PL intensity over a wide temperature range. The results demonstrate the effectiveness of ALD-grown Al2O3 layers for surface passivation in nanostructured silicon devices.",
+  "evidence": "The ALD process conditions were the same as those mentioned above. Note that the samples B, C, E and F were dipped in BOE solution at room temperature to strip native or thermal SiO2 films very carefully within a very short time period of 2 min, followed by de-ionized water rinsing immediately. The deposition temperature of ALD Al2O3 films was 300 ◦C, which is much lower than the oxidation temperature of the conventional thermal SiO2 layer (usually greater than 800 ◦C)."
+}

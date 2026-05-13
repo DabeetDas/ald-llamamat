@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ta dopants cause Ti4+ ions to reduce to Ti3+ and Ti2+ due to the creation of oxygen vacancies defects. The resistivity significantly reduces by three orders at the Ta content of 0.82–0.95 at.%, as compared to that of the undoped TiO2. The band gap, conduction band, and valence band position can be tailored by the Ta incorporation.",
+  "intermediate_species": [
+    "Ti4+",
+    "Ti3+",
+    "Ti2+",
+    "oxygen vacancies"
+  ],
+  "evidence": "As confirmed by XPS, the Ta dopants cause Ti4+ ions reducing to Ti3+ and Ti2+, due to the creation of the oxygen vacancies defects. The resistivity significantly reduces by three orders at the Ta content of 0.82–0.95 at.%, as compared to that of the undoped TiO2. The band gap, conduction band, and valence band position can be tailored by the Ta incorporation."
+}

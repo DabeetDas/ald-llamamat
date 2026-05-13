@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Reflection Electron Energy Loss Spectroscopy (REELS)",
+    "Energy Dispersive X-ray Spectroscopy (EDS)",
+    "High-resolution Transmission Electron Microscopy (HR-TEM)",
+    "Transmission Electron Microscopy (TEM)",
+    "Scanning Electron Microscopy (SEM)"
+  ],
+  "evidence": "XPS was performed using a Thermo Fisher Scientific K -ALPHA system. The X -ray source was generated using monochromatic Al kα 1,486.6 eV irradiation (spot size: 30 –400 μm, energy resolution: 0.85 eV). REELS measurements: The REELS spectrum was obtained by using a Thermo Fisher Scientific ESCALAB 250Xi system. Incident electrons with kinetic energy of 1 keV and scattering angle of 165 ° were used in REELS. Physical analysis was performed using energy dispersive X -ray spectroscopy (EDS) and high -resolution transmission electron microscopy (HR -TEM). TEM images were obtained using a JEOL JEM -ARM 200F system. A Schottky field -emission electron beam was generated at 80 –200 kV (magnification: 50 to 2,000,000×, resolution: 0.1 nm)."
+}

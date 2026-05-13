@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "*+Pd(hfac)2(g) → PdH* + H(hfac)2(g)",
+    "*+Pd(hfac)2(g) → PdH* + H(hfac)2(g)",
+    "*+Pd(hfac)2(g) → PdH* + H(hfac)2(g)"
+  ],
+  "surface_mechanism_description": "The H2 plasma step removes the majority of the hfac ligands present on the surface after Pd(hfac)2 dosing, but the O2 plasma is necessary to eliminate all C atoms remaining on the surface after the H2 plasma step. The O2 plasma step is important to remove hydrocarbon fragments from the surface that remain after the H2 plasma step.",
+  "intermediate_species": [
+    "PdH*",
+    "H(hfac)2(g)",
+    "CO2",
+    "H2O"
+  ],
+  "evidence": "The gas-phase infrared spectroscopy studies revealed that the O2 plasma pulse is required to remove carbon contaminants from the Pd surface that remain after the H2 plasma reduction step. The absorbance spectrum recorded after the O2 plasma pulse clearly shows the release of H2O and CO2 reaction products from the surface. This spectrum confirms the necessity of using an O2 plasma step after the H2 plasma step."
+}

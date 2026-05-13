@@ -1,0 +1,11 @@
+{
+  "target_material": "Nitrides of titanium, niobium, tantalum, and molybdenum",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Metal chlorides (TiCl4, NbCl5, TaCl5, MoCl5)",
+    "Ammonia (NH3)"
+  ],
+  "temperature_range": "773 K",
+  "summary": "The study describes the growth of transition metal nitrides (TiN, NbN, TaN, MoN) using atomic layer epitaxy (ALE) at 773 K. The films were prepared from metal chlorides and ammonia, and their properties, including nitrogen content, resistivity, and crystalline structure, were analyzed. The focus was on the superconducting properties of NbN and the applicability of ALE for nitride deposition.",
+  "evidence": "Cubic 6-TIN, cubic 8-NbN, cubic TaN, tetragonal Ta3N5, cubic 7-Mo2N and hexagonal 6-MoN were grown at 773 K from the corresponding chlorides and ammonia by the atomic layer epitaxy method. The resistivity of 6-NbN films was measured, and the study aimed to find suitable protective and insulating layers for electroluminescent alkaline earth sulphides."
+}

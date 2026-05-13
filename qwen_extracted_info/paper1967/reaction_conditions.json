@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "TMGa + As -> GaCH3 + 2 CH3"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMGa and surface As atoms followed by desorption of CH3 radicals and formation of Ga-Ga dimer bonds. The self-limiting mechanism occurs due to selective adsorption and reaction of TMGa at As atoms and Ga vacancy induced Ga-rich surface reconstruction.",
+  "intermediate_species": [
+    "GaCH3",
+    "CH3 radicals",
+    "Ga-Ga dimer bonds",
+    "Ga vacancies"
+  ],
+  "evidence": "The TMGa molecule reacts with surface As atoms and dissociates into GaCH3 and two CH3 methyl radicals on the surface. The two released CH3 methyl radicals associated with TMGa dissociation could be attached to surface As or Ga atoms. Attachment of CH3 methyl radicals to nearby As atoms hinders further reactions between these As atoms and impinging TMGa molecules. The two released CH3 methyl radicals associated with TMGa dissociation could be attached to surface As or Ga atoms. Bonding configurations of CH3 other than As-CH3, such as Ga-CH3-Ga are likely."
+}

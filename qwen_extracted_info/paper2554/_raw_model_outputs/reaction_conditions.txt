@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "OH* + Sn(DMA)4 → OSn(DMA)4−x* + xHDMA",
+    "OSn(DMA)4−x* + 2H2O2 → O2Sn(OH)x + 4−xHDMA + O2"
+  ],
+  "surface_mechanism_description": "The ALD mechanism involves the adsorption of tetrakis(dimethylamino)tin (Sn(DMA)4) onto surface hydroxyl groups (OH*), followed by a reaction with hydrogen peroxide (H2O2) to form tin oxide (SnO2) and release dimethylamine (DMA) ligands. The surface reactions are self-limiting, with the release of DMA ligands and the formation of surface hydroxyl groups (OHx*) playing a key role in the growth process.",
+  "intermediate_species": [
+    "Sn(DMA)4",
+    "OSn(DMA)4−x*",
+    "HDMA",
+    "OH*",
+    "O2Sn(OH)x"
+  ],
+  "evidence": "OH* + Sn(DMA)4 → OSn(DMA)4−x* + xHDMA, OSn(DMA)4−x* + 2H2O2 → O2Sn(OH)x + 4−xHDMA + O2."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru",
+  "process_type": "plasma-assisted ALD and thermal ALD",
+  "main_precursors": ["CpRu(CO)2Et", "O2 gas", "O2 plasma"],
+  "temperature_range": "325 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of ruthenium (Ru) using the precursor CpRu(CO)2Et with O2 gas and O2 plasma as reactants. Both thermal and plasma-assisted ALD processes were investigated, resulting in dense, polycrystalline Ru films with a resistivity of 16 μΩ·cm. The plasma-assisted ALD process showed a slightly higher growth-per-cycle compared to thermal ALD, but also resulted in higher surface roughness. The films were found to be suitable for applications such as MIM capacitors due to their low resistivity and good crystallinity.",
+  "evidence": "The metalorganic precursor cyclopentadienylethyl dicarbonyl ruthenium (CpRu(CO)2Et) was used to develop an atomic layer deposition (ALD) process for ruthenium. O2 gas and O2 plasma were employed as reactants. For both processes, thermal and plasma-assisted ALD, a relatively high growth-per-cycle of 1.1 Å was obtained. The Ru films were dense and polycrystalline, yielding a resistivity of 16 μΩ·cm. The O2 plasma not only enhanced the Ru nucleation on the TiN substrates but also led to an increased roughness compared to thermal ALD."
+}

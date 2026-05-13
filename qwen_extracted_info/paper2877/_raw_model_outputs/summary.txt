@@ -1,0 +1,8 @@
+{
+  "target_material": "Mass density and elemental composition of microscopic samples",
+  "process_type": "ISRA (Image-Space Reconstruction Algorithm) and DISRA (Discretized ISRA)",
+  "main_precursors": ["Ion beam energy loss", "Stopping power", "Probe-sample interactions"],
+  "temperature_range": "",
+  "summary": "The paper describes an iterative reconstruction algorithm for tomography experiments involving complex probe-sample interactions. The technique, known as ISRA (Image-Space Reconstruction Algorithm), uses simulated experiments to calculate correction factors for improving the accuracy of density reconstructions. A discretized version, DISRA, further refines the results by constraining density values to discrete bands, reducing noise and improving accuracy. The method is applied to scanning transmission ion microscopy (STIM) and particle-induced x-ray emission (PIXE) tomography data.",
+  "evidence": "The paper describes an iterative reconstruction algorithm for tomography experiments involving complex probe-sample interactions. The technique, known as ISRA (Image-Space Reconstruction Algorithm), uses simulated experiments to calculate correction factors for improving the accuracy of density reconstructions. A discretized version, DISRA, further refines the results by constraining density values to discrete bands, reducing noise and improving accuracy. The method is applied to scanning transmission ion microscopy (STIM) and particle-induced x-ray emission (PIXE) tomography data."
+}<|im_end|>

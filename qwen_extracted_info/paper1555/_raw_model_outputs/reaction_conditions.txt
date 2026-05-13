@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "SiCl4 + 2H2O → SiO2 + 4HCl",
+    "SiOH* + SiCl4 → SiOSiCl3* + HCl (A)",
+    "SiCl* + H2O → SiOH* + HCl (B)"
+  ],
+  "surface_mechanism_description": "The surface reactions involved in catalyzed atomic layer deposition (C-ALD) of silica within mesoporous membranes consist of two successive half-reactions. The first half-reaction involves the reaction of SiCl4 with surface hydroxyl groups, catalyzed by pyridine, allowing the reaction to occur near room temperature. The second half-reaction involves the regeneration of hydroxyl groups with water vapor, forming new silanol groups at the surface. These reactions are repeated in ABAB cycles until the modification is complete, with the catalyst preventing the reaction from proceeding to pore sizes below the kinetic diameter of the catalyst.",
+  "intermediate_species": [
+    "SiOH*",
+    "SiOSiCl3*",
+    "SiCl*"
+  ],
+  "evidence": "The half-reactions were repeated in ABAB format until the modification was complete. The half-reactions were catalyzed with pyridine. The catalyst reduced the reaction temperature and decreased the reaction time of the complete reaction. The catalyst also prevented the formation of dense membranes, acting as a template in preventing the reaction from proceeding down to pore sizes well below the kinetic diameter of the catalyst."
+}<|im_end|>

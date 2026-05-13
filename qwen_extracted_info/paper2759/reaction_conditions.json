@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ru(OH)2* + O2 → RuO2* + H2O",
+    "RuO2* + H2 → Ru* + H2O"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of O2 on Ru surface sites, leading to the formation of RuO2* species. These species are then reduced by H2 pulses to metallic Ru* sites, which facilitates the nucleation and growth of Ru films. The O2 pulse time significantly affects the nucleation process, with longer O2 pulses promoting the formation of a continuous film by reducing RuOx incorporation.",
+  "intermediate_species": [
+    "Ru(OH)2*",
+    "RuO2*",
+    "Ru*"
+  ],
+  "evidence": "The reaction mechanism is described in the text as follows: 'During the O2 pulse, the Ru surface catalyzes dissociative chemisorption of O2. Subsequently, during the adsorption of the metal-organic precursor, chemisorbed O species participate in the combustion of the precursor ligands, while dehydrogenation reactions releasing H2 proceed when O is consumed. A layer of partly dehydrogenated carbonaceous species eventually blocks further surface reactions and thereby causes the self-limitation of the precursor pulse. The reaction mechanism of this process is expected to be similar to what has been reported for Ru ABC-type cycles with Ru(EtCp)2, O3, and H2 pulses. The main role of the H2 pulse is to ensure that metallic Ru is deposited instead of RuOx.'"
+}

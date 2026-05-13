@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the formation of mixed-phase (1T and 2H) MoS2 layers on Si through atomic layer deposition (ALD). The 1T phase is metallic and unstable, while the 2H phase is semiconducting and more stable. The presence of chlorine (Cl) during incomplete reactions at low temperatures leads to the stabilization of the 1T phase. The mixed-phase structures form a monolithic homojunction with changes in the ΦB laterally along the interfaces, which facilitates effective charge transport and reduces surface recombination.",
+  "intermediate_species": ["1T phase", "2H phase", "excess chlorine moiety"],
+  "evidence": "The 2H phase has semiconducting properties and is more stable compared to other phases (e.g., 3R and 1T), whereas the 1T phase is metallic and unstable. A key mechanism may be the inclusion of an excess chlorine moiety along the MoS2 basal plane upon incomplete reactions at low temperatures as probed by elemental analysis, X-ray photoelectron spectroscopy, and X-ray diffraction patterns. The 1T phase was stable upon thermal annealing at 400 °C. The resulting MoS2 layers as cocatalysts on the Si photocathode exhibit distinctively monolithic homojunctions with changes in the ΦB laterally along the interfaces."
+}<|im_end|>

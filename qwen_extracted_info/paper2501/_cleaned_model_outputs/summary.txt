@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Al(CH3)3 (TMA)", "H2O"],
+  "temperature_range": "450 K",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit Al2O3 on single-walled carbon nanotubes (SWNTs) using physical surface modification techniques. Ethanol and sodium dodecylsulfate (SDS) pretreatments were used to disperse and functionalize SWNTs, enabling conformal Al2O3 film growth. The ALD process yielded a growth rate of 0.13 nm/cycle at 450 K, and the films were amorphous as deposited. The surfactant-assisted ALD mechanism was proposed, where physisorbed micelle structures served as templates for nucleation sites.",
+  "evidence": "Al2O3 ALD processes yielded growth rates of 0.13 nm/cycle, independent of the functionalization technique, at 450 K. X-ray photoelectron spectroscopy was used to quantify the composition of the films, which were amorphous as deposited. A surfactant-assisted ALD mechanism is proposed, which retains a physisorbed micelle structure as a template for the dense precursor nucleation site pattern."
+}

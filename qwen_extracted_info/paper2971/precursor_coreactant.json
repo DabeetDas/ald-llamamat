@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "MoCl5",
+    "NH3"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The precursors used were MoCl5 and NH3. Nitrogen gas was used both as a carrier and a purging gas."
+}

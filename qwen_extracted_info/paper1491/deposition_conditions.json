@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "3 mbar",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": 300,
+  "reactor_type": "F-120",
+  "evidence": "The pressure inside the reactor was around 3 mbar, and the total area of the soda lime glass substrates was about 3500 cm2. The following pulsing sequences were used for the TMA −D2O−Si2(NHEt)6−D2O process: − D2O reference pulses: 5(10 s D2O pulse/75 s purge). − ALD cycles: 10(5 s TMA pulse/10 s purge/10 s D2O pulse/10 s purge/20s Si2(NHEt)6 pulse/10 s purge/10 s D2O pulse/10 s purge)."
+}

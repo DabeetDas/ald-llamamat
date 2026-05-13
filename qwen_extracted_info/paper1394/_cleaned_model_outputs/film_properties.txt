@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 40,
+  "density_g_cm3": null,
+  "refractive_index": "1.6 to 1.9 at 200 °C",
+  "surface_roughness_nm": "0.4 to 2.9 nm",
+  "crystal_phase": "Amorphous at 150 °C, polycrystalline at 200 °C",
+  "evidence": "The 40 nm thick indium oxide thin films were deposited for various analyses, and measured by a spectral ellipsometer (SE, WoollamVASE). The refractive index (n) data, the n value was increased from 1.6 to 1.9 at 200 °C deposition temperature. (Figure S5, Supporting Information) The refractive index is related to film density and it is speculated that the dense films were formed by crystal formations. The AFM data (Figure S6, Supporting Information) indicates the root-mean-square (RMS) surface roughness increased continuously from 0.4 to 2.9 nm."
+}

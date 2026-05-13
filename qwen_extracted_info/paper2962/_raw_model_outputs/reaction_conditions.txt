@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "TIX4(g) + 4/3NH3(g) -> TiN(s) + 4HX(g) + 1/6N2(g)",
+    "TiX4(g) + 2NH3(g) -> TiN(s) + 4HX(g) + H2(g) + 1/2N2(g)",
+    "TiX4(g) + NH3(g) + 1/2H2(g) -> TiN(s) + 4HX(g)"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the chemisorption of TiI (x = 0 to 4) formed during the Ti14 pulse, which affects the growth rate by altering the density of Ti atoms in the chemisorption layer. The growth rate increases with temperature due to the dissociation of TiI, which reduces steric hindrances. The self-limiting growth mechanism is based on alternate saturative surface reactions accomplished by pulsing the gaseous precursors and purging the reactor with inert gas between the reactant pulses.",
+  "intermediate_species": [
+    "TiI (x = 0 to 4)",
+    "chemisorbed oxygen",
+    "lattice oxygen",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The text discusses the surface reactions involving TiI (x = 0 to 4) formed during the Ti14 pulse, which affects the growth rate by altering the density of Ti atoms in the chemisorption layer. The self-limiting growth mechanism is based on alternate saturative surface reactions accomplished by pulsing the gaseous precursors and purging the reactor with inert gas between the reactant pulses. The text also mentions the chemisorption of oxygen and lattice oxygen, and their effects on the surface reactions."
+}<|im_end|>

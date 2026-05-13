@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "380",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "UHV chamber coupled with a high pressure reaction cell",
+  "evidence": "We found that a deposition temperature of 380 K (which is slightly below the temperature for full decomposition of TMAA, ~400 K) was necessary to ensure self-limiting behavior on the clean or ND3-derivatized Si(100) surface."
+}

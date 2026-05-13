@@ -1,0 +1,8 @@
+{
+  "target_material": "SrO",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Sr C i5Pr3H2/C0/C12", "H2O"],
+  "temperature_range": "150–350 /C14 C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of SrO thin films using Sr C i5Pr3H2/C0/C12 and H2O as precursors. The process is analyzed using real-time spectroscopic ellipsometry (SE) to monitor adsorption and desorption during each half cycle. The growth per cycle (GPC) is found to depend significantly on the deposition temperature, ranging from 0.05 to 0.33 nm/cycle. The results suggest a change in reaction mechanism at different temperatures, with higher temperatures leading to enhanced GPC due to possible changes in surface chemistry and ligand exchange.",
+  "evidence": "The atomic layer deposition (ALD) of SrO thin films from Sr C i5Pr3H2/C0/C12 and H2O was studied using real-time spectroscopic ellipsometry (SE) investigations of adsorption and desorption during each half cycle. Adsorption of Sr C i5Pr3H2/C0/C12 was self-terminating at deposition temperatures of 150–350 /C14 C and the saturated growth per cycle (GPC) highly depended on the deposition temperature, ranging from 0.05 to 0.33 nm/cycle at the lower and upper limits, respectively."
+}

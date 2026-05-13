@@ -1,0 +1,8 @@
+{
+  "target_material": "α-Cr2O3",
+  "process_type": "ALD",
+  "main_precursors": ["CrO2Cl2", "CH3OH"],
+  "temperature_range": "375 °C",
+  "summary": "The study describes the epitaxial growth of α-Cr2O3 thin films using atomic layer deposition (ALD) on α-Al2O3 substrates. The films were grown at 375 °C using CrO2Cl2 and CH3OH as precursors. The growth rate was 0.1 nm per deposition cycle. The orientation relationship and structural changes during growth were analyzed using X-ray diffraction (XRD), reflection high-energy electron diffraction (RHEED), and X-ray reflection (XRR). The study reports the formation of asymmetric rhombohedral twins in the films, with a change in preferred growth orientation at a thickness of 40 nm.",
+  "evidence": "Epitaxial chromium oxide (α-Cr2O3) films grown by atomic layer deposition at 375 °C from CrO2Cl2 and CH3OH on (1 1¯ 0 2) oriented α-Al2O3 have been studied by reflection high-energy electron diffraction (RHEED), X-ray diffraction (XRD) and X-ray reflection (XRR). The thickness of the films ranged from 10 to 310 nm, and the average growth rate was 0.1 nm per deposition cycle. According to the XRD analysis, the orientation relationship in thinner films was (1 1¯ 0 2)[1 1 0]Cr2O3 || (1 1¯ 0 2)[1 1 0]Al2O3. Confirmed by the RHEED and XRD analyses, (1 1¯ 0 2) became the preferred growth plane at the thicknesses above 40 nm. This change has been interpreted as the appearance of an asymmetric rhombohedral twin with the orientation relationship between the layers (1 1¯ 0 2)[1 1 0]top || (1 1¯ 0 2)[1 1 0]bottom and (1 1¯ 0 2)[1 1¯ 1]top || (1 1¯ 0 2)[1 1¯ 1]bottom."
+}<|im_end|>

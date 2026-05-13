@@ -1,0 +1,11 @@
+{
+  "target_material": "copper",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "copper(II) acetylacetonate",
+    "atomic hydrogen"
+  ],
+  "temperature_range": "85–135 °C",
+  "summary": "The study reports on the hydrogen plasma-enhanced atomic layer deposition (PEALD) of copper thin films for nanoscale electronics applications. The process uses copper(II) acetylacetonate and atomic hydrogen as reactants, achieving continuous layers as thin as 10 nm on TaN, Ru, and SiO2 substrates. The PEALD process enables conformal deposition on high aspect ratio structures and provides high purity copper films with resistivity values as low as 5.3 Ω·cm for 30 nm thick films on TaN.",
+  "evidence": "The growth of plasma-enhanced atomic layer deposition (PEALD) grown copper films appropriate for nanoscale electronics applications is reported. Self-limiting PEALD copper growth behavior, employing copper (II) acetylacetonate and atomic hydrogen as reactants, was observed. Deposition of continuous layers as thin as 10 nm was achieved on TaN, Ru, and SiO2 substrates in a temperature range between 85 and 135 °C. A copper purity greater than 95 at. %, as measured by Auger electron spectroscopy, was observed. For a 30 nm thick film, PEALD copper resistivity was 5.3 Ω·cm on TaN and 8.8 Ω·cm on Ru. Conformal depositions have been achieved over high aspect ratio (5:1) structures."
+}

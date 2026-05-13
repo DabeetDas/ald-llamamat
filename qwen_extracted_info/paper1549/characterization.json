@@ -1,0 +1,18 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Energy-Dispersive X-ray Spectroscopy (EDX)",
+    "Time-of-Flight Elastic Recoil Detection Analysis (TOF-ERDA)",
+    "Nuclear Resonance Broadening (NRB)",
+    "X-ray Diffraction (XRD)",
+    "Scanning Electron Microscopy (SEM)",
+    "Four-point probe technique",
+    "Ellipsometry",
+    "Transmittance spectroscopy",
+    "Refractive index measurement",
+    "Absorption coefficient measurement",
+    "Capacitance measurement",
+    "Current-voltage characteristics measurement"
+  ],
+  "evidence": "The EDX results were analyzed with a GMR Electron Probe Thin-Film Microanalysis program. Elemental depth profiles of the films were measured by time-of-flight elastic recoil detection analysis (TOF-ERDA), except for hydrogen which was analyzed by nuclear resonance broadening (NRB) technique. Film crystallinity was studied with a Philips MPD 1880 powder X-ray diffractometer with Cu Kα radiation. Morphology and cross sections of the films were examined using a Zeiss DSM 962 scanning electron microscope (SEM). The EDX results were analyzed with a GMR Electron Probe Thin-Film Microanalysis program. Film thicknesses of the transparent films were determined by measuring transmittance spectra in a wavelength region of 370 -1100 nm with a Hitachi U-2000 spectrophotometer. The spectra were fitted using a program developed and described by Ylilammi and Ranta-aho. This procedure also gave the refractive indices and absorption coefficients in the region of weak absorption. To obtain the absorption coefficients in the strong absorption region, the procedure described by Swanepoel was used. Resistivities of the conducting films were measured by using the standard four-point probe technique. The dielectric properties of the insulating films were evaluated by sandwiching them between ITO and Al electrodes patterned in the form of stripes perpendicular to each other. Capacitances were measured at 10 kHz frequency using a HP 4275A multifrequency LCR meter, and current-voltage characteristics with an HP 4140 pA meter/dc source."
+}

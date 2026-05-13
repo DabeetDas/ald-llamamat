@@ -1,0 +1,11 @@
+{
+  "target_material": "A1203",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": [
+    "trimethylaluminium (TMA)",
+    "water"
+  ],
+  "temperature_range": "50°C to 350°C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of A1203 from trimethylaluminium (TMA) and water on porous silica. The process involves sequential reactions of TMA and water, with the first five reaction cycles showing a slow growth rate. The study uses FTIR, NMR, and elemental analysis to understand the surface reactions and the formation of different species such as A1-CH3, Si-CH3, and Si-OCH3. The results indicate that the preheat temperature of silica and the reaction temperature of TMA significantly affect the surface density of A1 and the type of species formed.",
+  "evidence": "The layer by layer growth of A1203 from trimethylaluminium (TMA) and water vapour by atomic layer epitaxy (ALE) has been studied on porous large surface area silica. The first five reaction cycles of TMA and water on silica show that, after the first TMA reaction, 2.8 A1/nm2 are present whereas the following reaction cycles increase A1 by 0.5 and 0.3 A1/nm2 alternatively in the cycles 2-5. The study uses FTIR, NMR, and elemental analysis to understand the surface reactions and the formation of different species such as A1-CH3, Si-CH3, and Si-OCH3."
+}

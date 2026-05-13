@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": ["diethyl zinc [Zn(C2H5)2]", "water"],
+  "temperature_range": "100 8C",
+  "summary": "The study investigates the effect of oxygen remote plasma treatment on ZnO thin films deposited by atomic layer deposition (ALD) to control oxygen vacancies and improve the electrical properties of ZnO thin-film transistors (TFTs). The process involves depositing ZnO films using diethyl zinc and water at 100 8C, followed by oxygen remote plasma treatment to modify the chemical and electrical characteristics of the films. The results show that the plasma treatment reduces oxygen vacancies, increases resistivity, and improves the electrical properties of the ZnO TFTs, including the I on/Ioff ratio, subthreshold swing, and saturation mobility.",
+  "evidence": "We deposited ZnO thin ﬁlms by atomic layer deposition (ALD) and then investigated the chemical and electrical characteristics after plasma treatment. The channel layer was deposited using diethyl zinc [Zn(C2H5)2] and water at 100 8C. The oxygen remote plasma treatment was carried out at 100 8C, 200 W, and 1 Torr."
+}<|im_end|>

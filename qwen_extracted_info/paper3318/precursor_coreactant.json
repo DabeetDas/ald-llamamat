@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "Triisobutylaluminum (Al(C4H9)3)",
+    "Hydrazinium chloride (N2H5Cl)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "In total, 150 ALD cycles were performed with the following parameters: the exposure time of TiBA Al(C4H9)3 was 4 s, after which the reactor chamber was purged with the inert gas (N2) for 5 s; the next stage was the introduction of hydrazinium chloride N2H5Cl, the duration of which was 0.2 s followed by a nitrogen purging of 30 s; then, again introduction of Al(C4H9)3 for 4 s, followed by a nitrogen purging of 30 s."
+}

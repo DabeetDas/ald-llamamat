@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "For experimental analyses, Al 2O3 films were fabricated by atomic layer deposition (ALD) on Si(100) at 140 ◦C in a homemade hot wall reactor using alternating pulses of Al (CH3)3, Ar, H 2O, and Ar, with duration of 1, 30, 1, and 30 s, respectively [ 18]."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "TixSi1-xOy (TSO) films",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["titanium isopropoxide (TTIP)", "tetraethoxysilane (TEOS)"],
+  "temperature_range": "250°C",
+  "summary": "TixSi1-xOy (TSO) thin films are fabricated using plasma-enhanced atomic layer deposition (PEALD) to control the refractive index and film thickness for antireflection (AR) coating applications in thin film solar cells. The refractive index is tailored by adjusting the sub-cycle ratio of TiO2 and SiO2 precursors, enabling the fabrication of AR coatings with optimal optical properties. The TSO films show nonlinear I-V characteristics, which are useful for protection devices.",
+  "evidence": "TixSi1-xOy (TSO) thin films are fabricated using plasma-enhanced atomic layer deposition. The Ti content in the TSO films is controlled by adjusting the sub-cycle ratio of TiO2 and SiO2. The refractive indices of SiO2 and TiO2 are 1.4 and 2.4, respectively. Hence, tailoring of the refractive indices from 1.4 to 2.4 is feasible. The controllability of the refractive index and film thickness enables application of an antireflection coating layer to TSO films for use as a thin film solar cell. The TSO coating layer on an Si wafer dramatically reduces reflectivity compared to a bare Si wafer. In the measurement of the current-voltage characteristics, a nonlinear coefficient of 13.6 is obtained in the TSO films."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum"],
+  "coreactants": ["water"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": [],
+  "evidence": "The pulse duration was 15 ms for both trimethylaluminum and water, and nitrogen was purged for 5 s between pulses, giving a deposition rate of 0.5 nm/min."
+}

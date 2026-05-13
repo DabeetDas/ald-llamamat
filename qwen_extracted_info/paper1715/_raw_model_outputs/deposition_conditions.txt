@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 140,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 20,
+  "number_of_cycles": 190,
+  "reactor_type": "ALD",
+  "evidence": "Titanium tetra-isopropoxide (TTIP, UP Chemical) and an NH3/O2 mixed gas were used as a Ti precursor and a reactant gas, respectively. One ALD cycle consisted of an injection of TTIP for 5 s, an Ar purge for 20 s, an injection of the NH3/O2 mixed gas for 10 s, and another Ar purge for 40 s."
+}<|im_end|>

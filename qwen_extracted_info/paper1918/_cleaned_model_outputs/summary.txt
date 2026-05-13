@@ -1,0 +1,8 @@
+{
+  "target_material": "Y2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["(iPrCp)2Y(iPr-amd)", "water"],
+  "temperature_range": "350–450 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of Y2O3 films using a novel liquid Y precursor, (iPrCp)2Y(iPr-amd), and water. The ALD process was optimized with a growth rate of 0.06 nm per cycle within a temperature range of 350–450 °C. The deposited Y2O3 films exhibited a polycrystalline cubic structure, high refractive index, and a high dielectric constant. The films showed non-volatile resistive switching behavior, making them suitable for memory applications.",
+  "evidence": "The Y2O3 film is fabricated by ALD technique using (iPrCp)2Y(iPr-amd) and water as the precursors. The growth of the Y2O3 films is self-limited with an ALD window from 350 °C to 450 °C and a growth rate of 0.06 nm per cycle. The deposited Y2O3 film shows a polycrystalline cubic structure, higher refractive index of over 1.8 at 632.8 nm, and a high dielectric constant of 24. The Ru/Y2O3/Ru resistor shows resistance switching between the low and high resistance states with voltage sweeping, and the resistance ratio between the two states is more than 1000 times, which is preferable for non-volatile memory operation."
+}

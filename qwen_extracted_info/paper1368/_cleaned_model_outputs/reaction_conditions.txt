@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions for the ALD growth of TiSx and NbSx involve the use of metal-organic precursors (TDMAT for TiSx and TBTDEN for NbSx) and H2S as the coreactant. The process is self-limiting and cyclic, with precursor and coreactant exposure steps separated by purge steps to avoid parasitic CVD reactions. The growth mechanism for TiSx and NbSx is based on the thermal ALD process, where the precursors react with the surface hydroxyl groups, followed by a coreactant pulse to regenerate the surface sites.",
+  "intermediate_species": ["surface hydroxyl groups", "monomethyl aluminum", "formate species"],
+  "evidence": "The text describes the ALD process for TiSx and NbSx using metal-organic precursors (TDMAT and TBTDEN) and H2S as the coreactant. It mentions the self-limiting nature of ALD, with precursor and coreactant exposure steps separated by purge steps to avoid parasitic CVD reactions. The surface reactions involve the interaction of the precursors with surface hydroxyl groups, followed by a coreactant pulse to regenerate the surface sites. The text also notes the presence of intermediate species such as surface hydroxyl groups, monomethyl aluminum, and formate species during the ALD process."
+}

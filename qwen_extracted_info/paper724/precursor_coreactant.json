@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "diethylzinc (DEZ)",
+    "titanium (IV) isopropoxide (Ti-Tip)"
+  ],
+  "coreactants": [
+    "deionized water"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The TZO films were deposited by a Beneq TFS-200 ALD reactor using the precursors diethylzinc (DEZ, Cambridge Chemicals, DEOX™ 99.9999%) and titanium (IV) isopropoxide (Ti-Tip, Aldrich, 97%) on Si (100) and soda-lime glass substrates. Deionized water was used as oxidant in both cases."
+}

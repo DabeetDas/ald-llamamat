@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnSe",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["elemental Zn", "Se"],
+  "temperature_range": "230 8C (selexen source), 380 8C (zinc source), 430 8C (substrate)",
+  "summary": "ZnSe thin films were grown by atomic layer deposition (ALD) using elemental Zn and Se precursors. The films showed bright blue 'edge' emission accompanied by donor–acceptor pair emissions in the blue, green, and red spectral regions. The combination of these emissions resulted in white light emission, with a color temperature between 2400 and 4500 K depending on layer thickness and temperature. The study demonstrated the potential of ZnSe films for semiconductor-based white light emitting thin film electroluminescence displays.",
+  "evidence": "Thin films of sphalerite-type ZnSe were grown by atomic layer deposition (ALD) from elemental Zn and Se precursors. These films, grown on various substrates, show bright blue 'edge' emission accompanied by donor–acceptor pair emissions in the blue, green and red spectral regions. Red, green and blue emissions mixed together give a white color, with a color temperature between 2400 and 4500 K depending on a layer thickness and temperature. ZnSe grown by ALD is in consequence a promising material for the fabrication of semiconductor-based white light emitting thin film electroluminescence displays."
+}

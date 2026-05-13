@@ -1,0 +1,11 @@
+{
+  "target_material": "Lanthanide and ytterbium lanthanide titanate thin films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Ln(thd)3/O3",
+    "TiCl4/H2O"
+  ],
+  "temperature_range": "300 /C14 C",
+  "summary": "The study investigates the luminescence properties of lanthanide and ytterbium lanthanide titanate thin films grown by atomic layer deposition (ALD). The films were grown at a substrate temperature of 300 /C14 C using Ln(thd)3/O3 and TiCl4/H2O precursor pairs. The purpose of the study is to explore energy transfer between TiO2 and Ln3+ ions, and between Ln3+ and Yb3+ ions, to achieve efficient down conversion. The films were characterized by various techniques, and annealing at different temperatures was performed to study crystallinity and luminescence.",
+  "evidence": "The films were grown at a substrate temperature of 300 /C14 C using the Ln(thd)3/O3 (thd ¼ 2,2,6,6-tetramethyl-3, 5-heptanedione) and TiCl4/H2O precursor pairs. The purpose of the work is to explore the energy transfer from TiO2 to Ln3+ ions, and the energy transfer between Ln3+ and Yb3+ ions, which could lead to efficient down conversion."
+}

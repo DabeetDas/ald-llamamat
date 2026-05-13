@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["diethylzinc (DEZn)", "H2O"],
+  "temperature_range": "165 ±C",
+  "summary": "The study focuses on the deposition of high-resistivity ZnO buffer layers using atomic layer deposition (ALD) for Cu(InGa)Se2 (CIGS) solar cells. The process uses diethylzinc (DEZn) and H2O as precursors, and the films are deposited at a temperature of 165 ±C. The results show that the resistivity and thickness of the ZnO buffer layer significantly affect the performance of the solar cells, with an optimal resistivity of over 10^3 Ω·cm and a thickness of around 70 nm. The study also highlights the importance of heat treatment prior to buffer layer deposition and the reversible light soaking effect observed in the devices.",
+  "evidence": "The aim of our experiments is to improve the performance of Cd-free ZnO/Cu(InGa)Se2 solar cells using a high-resistivity ZnO buffer layer. Buffer layers were deposited by atomic layer deposition (ALD) using diethylzinc (DEZn) and H2O as reactant gases. The best efficiency obtained with an ALD-ZnO buffer layer of solar cells without an antireﬂective coating was 12.1%. The reversible light soaking effect was observed in these devices."
+}<|im_end|>

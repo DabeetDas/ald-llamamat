@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80 ± 5°C",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "100",
+  "reactor_type": "F-120",
+  "evidence": "The Pd catalyst was deposited by ALD at a temperature of 80 ± 5°C and a Pd IIshfacd2 sublimation temperature of 46.0 ± 0.5°C. The deposition chamber walls were kept at 75-80°C and the lines between the sublimation vessel and the deposition chamber were kept at 78°C to ensure that no cold spots existed where the Pd IIshfacd2 could condense."
+}<|im_end|>

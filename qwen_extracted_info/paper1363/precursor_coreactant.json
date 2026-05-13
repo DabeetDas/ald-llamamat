@@ -1,0 +1,35 @@
+{
+  "precursors": [
+    {
+      "name": "Y(EtCp)2(iPr-amd)",
+      "evidence": "Y(EtCp)2(iPr-amd) was used as the Y source."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "H2O",
+      "evidence": "The Y(EtCp)2(iPr-amd) was used with thermal (H2O) and plasma-enhanced (H2O plasma and O2 plasma) process."
+    },
+    {
+      "name": "O2 plasma",
+      "evidence": "The Y(EtCp)2(iPr-amd) was used with plasma-enhanced (H2O plasma and O2 plasma) process."
+    },
+    {
+      "name": "H2O plasma",
+      "evidence": "The Y(EtCp)2(iPr-amd) was used with plasma-enhanced (H2O plasma and O2 plasma) process."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Ar",
+      "evidence": "Argon was used as the carrier gas for Y(EtCp)2(iPr-amd) precursor delivery to the ALD chamber."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "Ar",
+      "evidence": "Argon was used as the carrier gas for Y(EtCp)2(iPr-amd) precursor delivery to the ALD chamber."
+    }
+  ],
+  "evidence": "Y(EtCp)2(iPr-amd) was used as the Y source. The Y(EtCp)2(iPr-amd) was used with thermal (H2O) and plasma-enhanced (H2O plasma and O2 plasma) process. Argon was used as the carrier gas for Y(EtCp)2(iPr-amd) precursor delivery to the ALD chamber."
+}

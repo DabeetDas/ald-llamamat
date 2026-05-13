@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + Pt–OH → Pt–O–Al(CH3)2 + CH4"
+  ],
+  "surface_mechanism_description": "The hydrolysis of TMA (Al(CH3)3) on hydroxylated Pt surfaces enhances the formation of a dative bond with the Al ion in the precursor, leading to improved nucleation and growth of the oxide films.",
+  "intermediate_species": [
+    "Pt–OH",
+    "Pt–O–Al(CH3)2"
+  ],
+  "evidence": "The improvement in uniformity of the Al2O3 layer on hydroxylated Pt is most likely related to the change of growth mode in the initial stage of ALD, as the -OH groups on the hydroxylated Pt can enhance the hydrolysis of TMA and form a dative bond with the Al ion in the precursor, i.e., Al(CH3)3 + Pt–OH → Pt–O–Al(CH3)2 + CH4."
+}

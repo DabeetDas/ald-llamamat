@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "diethyl zinc (DEZ)",
+    "trimethyl aluminum (TMA)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The ZnO and Al O films were deposited at 450 K using alternating diethyl zinc yH O exposures and trimethyl23 2 aluminumyH O exposures, respectively. The nitrogen carrier gas transports the reactive precursor pulses to the samples and also carries the unreacted precursors and reaction products out of the flow tube."
+}

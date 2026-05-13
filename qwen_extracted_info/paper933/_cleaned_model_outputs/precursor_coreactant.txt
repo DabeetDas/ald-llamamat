@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMAH (tetrakis(dimethylamido)hafnium)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The transfer lines were heated to 110 /C176C to prevent condensation of the metal precursor and the reaction chamber heated to 100 /C176C. Nitrogen ﬂow was set to 30 sccm to transport the precursor vapours to the reactor and to purge the reactor following a pulse sequence."
+}

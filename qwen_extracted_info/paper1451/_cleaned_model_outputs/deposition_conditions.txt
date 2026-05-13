@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "200",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "300",
+ "number_of_cycles": "6",
+ "reactor_type": "viscous flow reactor",
+ "evidence": "In a typical reaction (or AB) cycle, an aerogel monolith (a few mm3 in size) was treated with alternating 600 s exposures of Si2H6 and WF6 at 200 °C with 300 s purges between each half reaction. Atomic layer deposition was performed in a viscous flow reactor operated in a quasistatic mode at Argonne National Laboratory. Between each exposure, the reactor was evacuated below 0.24 Torr and then purged with ultrahigh purity N2 for 300 s."
+}

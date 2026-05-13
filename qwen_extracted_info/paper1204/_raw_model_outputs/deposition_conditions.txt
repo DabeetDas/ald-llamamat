@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 110,
+  "pressure": "5 mbar",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 1,
+  "number_of_cycles": 1000,
+  "reactor_type": "ASM Microchemistry F120 ALD reactor (cross-flow cassette reactor)",
+  "evidence": "In each experiment 1000 cycles were applied with 1 s Ag(fod)(PEt3) pulse, 1 s purge, 1 s BH3(NHMe2) pulse and 1 s purge."
+}<|im_end|>

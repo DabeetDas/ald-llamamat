@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Sn(dmamp)2"
+  ],
+  "coreactants": [
+    "H2O",
+    "H2S"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "The tin oxide and sulfide films were deposited using atomic layer deposition which employed Sn(dmamp) 2 as a tin precursor, where dmamp is described as (dimethylamino-2-methyl-2-propoxy: OC(CH 3)2CH 2N(CH 3)2) and H 2O as an oxygen source or H 2S as a sulfur source, keeping the Sn(dmamp) 2 sources at 65 oC. One basic ALD cycle was designed according to the following sequence: [Sn(dmamp)2 supply]-[Ar purge]-[H 2O (or H 2S) supply]-[Ar Purge]."
+}

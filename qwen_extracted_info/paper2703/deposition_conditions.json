@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "70-350",
+  "pressure": "3 /C1 10/C0 3 and 1/C1 10/C0 2 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 25,
+  "purge_time_s": 25,
+  "number_of_cycles": null,
+  "reactor_type": "home-built pump-type ALD reactor",
+  "evidence": "A standard ALD cycle consisted of 3 s precursor pulse followed by 25 s of pumping and 3 s of plasma pulse again followed by 25 s of pumping."
+}

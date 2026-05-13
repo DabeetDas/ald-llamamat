@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ti(NMe2)4 (tetrakis (dimethylamido) Ti, TDMAT)"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "For PE-ALD process of TiO2 thin films, TDMAT and O2 plasma were used as a Ti precursor and O reactant, respectively. The chamber was purged by 50 sccm Ar gas between the precursor and the reactant exposure step."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225 /C176C",
+  "pressure": "0.2 atm",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": "3–20",
+  "reactor_type": "viscous ﬂow-type reactor (ASM Microchemistry, F120)",
+  "evidence": "The sequential pulse and purge regime was 1s/1s/5s/5s for the particular reaction sequence TMA/purge/(t-BuO) 2SiOH/purge."
+}

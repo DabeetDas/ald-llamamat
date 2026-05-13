@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMA"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "TMA and deionized H2O vapors were alternately pulsed through the reaction chamber utilizing N2 as the carrier gas at a mass flow rate of 360 sccm and a pressure of 1 Torr using a growth temperature of 50 °C."
+}

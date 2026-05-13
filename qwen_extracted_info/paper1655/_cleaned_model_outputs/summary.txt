@@ -1,0 +1,8 @@
+{
+  "target_material": "Tin monosulﬁde (SnS)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Tin(II) 2,4-pentanedionate (Sn(acac)2)", "Hydrogen sulﬁde (H2S)"],
+  "temperature_range": "125 - 225 °C",
+  "summary": "Tin monosulﬁde (SnS) thin films were grown by atomic layer deposition (ALD) using sequential exposures of tin(II) 2,4-pentanedionate (Sn(acac)2) and hydrogen sulﬁde (H2S). The ALD process was self-limiting and showed temperature-independent growth rates from 125 to 225 °C. The films exhibited a band gap of ∼1.87 eV, higher than the bulk value of ∼1.3 eV, likely due to oxygen impurities from air exposure. The study aimed to explore the growth and optical properties of SnS thin films for photovoltaic and solar conversion devices.",
+  "evidence": "Tin monosulﬁde (SnS) was grown by atomic layer deposition (ALD) using sequential exposures of tin(II) 2,4-pentanedionate (Sn(acac)2) and hydrogen sulﬁde (H2S). The SnS ALD growth rate was also independent of substrate temperature from 125 to 220 °C. X-ray ﬂuorescence studies conﬁrmed a Sn/S atomic ratio of ∼ 1.0 for the SnS ALD ﬁlms. These SnS ALD ﬁlms displayed a band gap of ∼ 1.87 eV that is higher than the SnS bulk value of ∼ 1.3 eV. SnS ALD may be useful to fabricate photovoltaic or solar conversion devices."
+}

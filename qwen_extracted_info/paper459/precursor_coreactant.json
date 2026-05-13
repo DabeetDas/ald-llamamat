@@ -1,0 +1,19 @@
+{
+  "precursors": [
+    "TMT",
+    "TET",
+    "Et,Sn",
+    "SnEt,"
+  ],
+  "coreactants": [
+    "N,O,",
+    "H,O",
+    "CH,OH",
+    "DMC",
+    "H,S",
+    "NO,"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The synthesis was carried out in a closed-vacuum-type reactor over a wide temperature range. Me,Sn and Et,Sn were used as tin-providing reactants, and as an oxygen-providing reactant N,O, was used."
+}

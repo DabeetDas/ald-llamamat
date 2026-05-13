@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["TiI4", "H2O"],
+  "temperature_range": "135–445 8C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of titanium dioxide (TiO2) thin films using TiI4 and H2O as precursors. The process allows self-limited growth of TiO2 films with anatase structure on Si(1 0 0) and amorphous SiO2 substrates at temperatures 135–375 8C, and rutile films at 445 8C. The growth rate increases with substrate temperature, ranging from 0.07 to 0.18 nm per cycle. Epitaxial growth of rutile was observed on a-Al2O3(0 1 2) substrates at 445 8C. The study also compares the TiI4–H2O process with the TiI4–H2O2 process, highlighting the advantages of using H2O as an oxygen precursor due to its stability and reproducibility.",
+  "evidence": "Atomic layer deposition of titanium dioxide thin ﬁlms from TiI4 and H2O was investigated. The method allowed self-limited growth of titanium dioxide (TiO2) ﬁlms with anatase structure on Si(1 0 0) and amorphous SiO2 substrates at temperatures 135–375 8C provided that sufﬁcient H2O doses were used. Rutile ﬁlms were obtained at 445 8C. The growth rate increased with substrate temperature and ranged from 0.07 to 0.18 nm per cycle. On a-Al2O3(0 1 2) substrates, epitaxial growth of rutile was observed at 445 8C."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth of GaAs and AlAs on Si substrates via atomic layer epitaxy (ALE) starts with three-dimensional island formation but transitions to two-dimensional growth. The ALE-AlAs buffer layer improves the quality of the GaAs on Si by enabling a more controlled and smoother growth process. The initial stages of ALE growth involve the adsorption of TMA (trimethylaluminum) and AsH3, leading to the formation of AlAs monolayers on the Si surface, followed by the deposition of GaAs.",
+  "intermediate_species": ["AlAs monolayers", "surface hydroxyls", "trimethylaluminum (TMA)", "AsH3"],
+  "evidence": "The initial stages of ALE-GaAs and ALE-AlAs growth on Si were studied by Auger electron spectroscopy (AES) and reflection high energy electron diffraction (RHEED). The growth of GaAs layers on the ALE buffer layer was found to be improved by using ALE-AlAs instead of ALE-GaAs. The growth of AlAs and GaAs on Si substrates starts with three-dimensional island formation but transitions to two-dimensional growth. The ALE-AlAs buffer layer improves the quality of the GaAs on Si by enabling a more controlled and smoother growth process."
+}

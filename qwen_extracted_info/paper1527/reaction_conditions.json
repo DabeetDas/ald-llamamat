@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The deactivation effect is attributed to the blocking of surface functional groups, such as hydroxyl (OH) moieties, which serve as chemisorption sites for the ALD precursors and are essential for nucleating the deposition process. Reactivation occurs through the selective removal of hydrocarbon groups via heat or plasma treatment, restoring the surface chemistry and enabling TiO2 growth.",
+  "intermediate_species": [
+    "trimethylsilyl (TMS) groups",
+    "surface hydroxyls",
+    "alkylsilyl groups"
+  ],
+  "evidence": "A possible mechanism for the deactivation effect is the blocking of surface functional groups, such as hydroxyl (OH) moieties, which serve as chemisorption sites for the ALD precursors and hence are essential for nucleating the deposition process. Functionalization of the AG network with TMS drastically reduces TiO2 deposition on the AG, as evident from the RBS results shown in Figure 2. The reactivation process restores the original surface chemistry as it leaves the substrate functionalized with OH groups."
+}

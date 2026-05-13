@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The incorporation of Zn into NiO x results in favorable changes in the electronic structure for application as a hole selective contact on p-type c-Si. The Zn incorporation reduces the Ni-O bond length and affects the electronic bandgap, which is explained by the additional electronic contribution from the Zn 3d states at the top of the valence band.",
+  "intermediate_species": [
+    "Zn 3d states",
+    "Ni 3d states",
+    "O 2p states",
+    "Ni 2þ spins",
+    "Ni 3þ oxidation state",
+    "Zn reduced Ni 2þ oxidation states"
+  ],
+  "evidence": "The incorporation of Zn into NiO x results in favorable changes in the electronic structure for application as a hole selective contact on p-type c-Si. The Zn incorporation reduces the Ni-O bond length and affects the electronic bandgap, which is explained by the additional electronic contribution from the Zn 3d states at the top of the valence band. The Ni 2p 3/2 spectrum of the ALD NiO is also shown as a reference. There was an insignificant change in the Ni 2p 3/2 spectra of the ZNO film (Zn 0.09Ni0.91O) with the lowest Zn concentration as compared to the NiO film. However, the ZNO films with a higher Zn concentration showed a less pronounced peak with binding energies at around 854.1 ± 0.15 eV with higher Zn concentrations which can be attributed to the Ni 2þ oxidation state. A new peak at around 852.9 ± 0.1 eV emerged for the Zn 0.46Ni0.54O film, and it was observed to be very sharp for the Zn 0.62Ni0.38O sample. This peak is normally assigned to the Ni 2p 3/2 peak of Ni metal according to Biesinger et al. However, it was unlikely to be metallic Ni in our case because of the oxygen-rich deposition conditions, and consequently high oxygen concentration in the resulting films. Therefore, this peak can most likely be attributed to Zn reduced Ni 2þ oxidation states which could be possibly from Zn-Ni or weakly bonded NiO. In addition, the shift of Zn 2p 3/2 to a higher binding energy as shown in Fig. 2 also supports this assumption, i.e., increasing Zn concentration enhances the oxidation of the ZNO films."
+}

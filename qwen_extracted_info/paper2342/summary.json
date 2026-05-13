@@ -1,0 +1,13 @@
+{
+  "target_material": "Ta2O5 and ZnS",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "TaCl5",
+    "H2O",
+    "ZnCl2",
+    "H2S"
+  ],
+  "temperature_range": "room temperature",
+  "summary": "The study describes the use of atomic layer epitaxy (ALE) to grow Ta2O5 and ZnS films through sequential surface exchange reactions. The process involves alternating pulses of precursor gases, resulting in stepwise film growth with no detectable impurities. The films were characterized using Auger electron spectroscopy, scanning electron microscopy, and x-ray diffraction.",
+  "evidence": "Sequential surface exchange reactions have been provoked by means of an atomic layer epitaxy (ALE) method to grow Ta2O5 and ZnS films from vapor phases of TaCl5 (ZnCl2) and H2O (H2S) reactants. The growth mechanism has been explained. The films were studied by using Auger electron spectroscopy, scanning electron microscopy, and x-ray diffraction."
+}

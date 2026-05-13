@@ -1,0 +1,17 @@
+{
+  "characterization_methods": [
+    "Atomic Force Microscopy (AFM)",
+    "Rutherford Backscattering Spectrometry (RBS)",
+    "X-ray Reflectometry (XRR)",
+    "Spectroscopic Ellipsometry (SE)",
+    "Transmission Electron Microscopy (TEM)",
+    "X-ray Diffraction (XRD)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Electron Beam Evaporation",
+    "Plasma-Enhanced Deposition (PLD)",
+    "Capacitance-Voltage (C-V) Measurement",
+    "Impedance Analysis",
+    "Semiconductor Parameter Analysis"
+  ],
+  "evidence": "The surface was probed with an AFM and the rms roughness was found to be 0.3 nm for the 5–20 nm thick films. The stoichiometry was determined using Rutherford backscattering spectrometry (RBS) with He+ ions at an energy of 1.4MeV. The absolute thickness of the films was measured with X-ray reflectometry (XRR) at an angle of incidence of 1◦ to 5◦. The variation of thickness over the sample area was observed with spectroscopic ellipsometry (SE) mapping at an angle of 70◦ in the wavelength range of 350 to 850 nm. Selected samples were also analysed by TEM in order to verify the thickness observations. The crystal structure of the as-deposited and thermally annealed films was determined by X-ray diffraction (XRD) using Cu Kα radiation. For the electrical characterization, capacitor stacks were prepared. The top contact was realized by depositing platinum using electron beam evaporation through a shadow mask. The electrical characterization of the capacitor stacks was performed on a measuring stage with precisely movable measuring tips. C–V-curves were recorded with an impedance analyser (HP 4192A) at a frequency of 100 kHz and a hold time of 3s per point. I–V-curves were recorded with a semiconductor parameter analyser (HP 4155B) with a hold time of30 s at each measuring point."
+}

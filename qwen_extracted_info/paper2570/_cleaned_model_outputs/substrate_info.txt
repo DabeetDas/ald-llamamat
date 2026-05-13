@@ -1,0 +1,7 @@
+{
+  "substrate_material": "Si(100), Ge(100), GaAs(100)",
+  "substrate_orientation": "<100>",
+  "pretreatment": "RCA cleaning (HCl:H2O2:H2O = 1:1:5, 1 min at 85 °C), 30 s rinse with de-ionized water, 30 s dip in diluted HF solution (HF:H2O = 1:50) at room temperature for Si(100); 30 s dip in diluted HF solution (HF:H2O = 1:50) at room temperature, followed by a 30 s rinse with de-ionized water for Ge(100); 2 min dip in HCl solution (HCl:H2O = 1:3) at room temperature, followed by a 30 s rinse with de-ionized water for GaAs(100)",
+  "surface_functionalization": "H-terminated",
+  "evidence": "H-terminated Si(100) substrates were obtained after RCA cleaning (HCl:H2O2:H2O = 1:1:5, 1 min at 85 °C), followed by a 30 s rinse with de-ionized water and a 30 s dip in a diluted HF solution (HF:H2O = 1:50) at room temperature. Native oxide was removed from Ge(100) wafers after a 30 s long dip in a diluted HF solution (HF:H2O = 1:50) at room temperature, followed by a 30 s rinse with de-ionized water. Native oxide was removed from GaAs(100) wafers after a 2 min dip in a HCl solution (HCl:H2O = 1:3) at room temperature, followed by a 30 s long rinse with de-ionized water."
+}

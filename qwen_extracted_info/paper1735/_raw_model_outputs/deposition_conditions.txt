@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "373",
+ "pressure": "5×10−3 Pa",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "3",
+ "number_of_cycles": null,
+ "reactor_type": "Knudsen cells",
+ "evidence": "The exposure duration was varied for each reagent within the range of 0.5 s. ... the time of 3 s was chosen as exposure duration."
+}<|im_end|>

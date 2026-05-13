@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "40",
+  "reactor_type": "UHV",
+  "evidence": "Fig. 6 shows the XPS results from saturation dosing that was performed on SiO2/Si at 300ºC . After undergoing a UHV anneal at 350ºC, the first 1x exposure of 10 MegaL TiCl4 was dosed and reacted on the surface, evidenced by the 0.5% Ti and 2.2% Cl observed in XPS."
+}

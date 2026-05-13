@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "1 /C0 5m bar",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 6,
+  "number_of_cycles": null,
+  "reactor_type": "ASM Microchemistry F-120",
+  "evidence": "First, an in situ study was done by depositing films on a quartz crystal microbalance (QCM) in order to study the growth kinetics of zinc sul ﬁde, indium sul ﬁde, and mixed ﬁlms at 200 /C176C. The QCM is based on an AT cut quartz with a resonance frequency of 5 MHz measured using a Maxtek TM-400 thickness monitor. ... The reaction chamber can receive two 5 /C2 5c m 2 substrates located face to face at a distance of 1 mm."
+}

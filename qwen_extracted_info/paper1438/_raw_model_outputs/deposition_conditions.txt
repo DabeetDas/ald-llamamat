@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-350",
+  "pressure": "1.8 -2.5 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "laminar flow type reactor (FELFRA 7201, Moohan Co., Ltd.)",
+  "evidence": "The precursor solution was injected five times for 1 s, and the H2O pulse length was 2 s. The purge time after the precursor or water pulse was 5 s."
+}<|im_end|>

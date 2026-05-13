@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [
+    "Bi(thd)3 + H2O → Bi2O3 + 6Hthd"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves the decomposition of Bi(thd)3 and H2O on the surface, leading to the formation of Bi2O3. The process is characterized by the saturation reaction on the surface, where Bi(thd)3 molecules decompose and transient intermediate species form, followed by the reaction with H2O to produce Bi2O3.",
+  "intermediate_species": [
+    "Bi(OH)3"
+  ],
+  "evidence": "The chemistry of the Bi(thd)3/H2O ALD process should be described by the two successive \"half-reactions\", presented in the following equations\n||− +\n→| | − − +\nBi OH Bi(thd) (g)\nBi O Bi(thd) Hthd\n\n||− + → | |− +Bi thd H O(g) Bi OH Hthd2 (3)\nwhere ∥ denotes solid surface and g denotes gas. Actually, the Bi(thd)3/H2O process may be more complex than revealed by eqs 3 and 4. For example, one Bi(thd)3 molecule may combine with more than one hydroxyl group ( −OH) in eq 2."
+}<|im_end|>

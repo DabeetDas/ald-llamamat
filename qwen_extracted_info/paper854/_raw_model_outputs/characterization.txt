@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Variable angle spectroscopic ellipsometry (VASE)",
+    "Photoluminescence (PL)",
+    "Time-resolved photoluminescence (TR-PL)",
+    "Hall Effect measurement",
+    "Electrochemical capacitance-voltage (ECV) wafer profiler"
+  ],
+  "evidence": "XPS measurements are performed in an ultra-high vacuum based spectrometer (Omicron Multiprobe Surface Analysis System) using a monochromatised Al K α radiation. Thickness and optical constants of the films are measured by variable angle spectroscopic ellipsometry (VASE, Model: M2000U, J.A. Woollam Co. Inc., USA). Photoluminescence (PL) measurements are performed at room temperature using a photoluminescence system (Model: Fluorolog, JY Horiba Inc, FL-1057, USA) which employs a Xe lamp with excitation wavelength of 350 nm. Luminescence decay is monitored by time-resolved PL (TR-PL) with a 266 nm pulsed laser (CryLas GmbH, Germany). Electron concentration and mobility are obtained using a Hall Effect measurement system (Model: HMS-3000, ECOPIA, Taiwan) with an applied magnetic field of 0.5 T. Carrier concentration profile is measured using an electrochemical capacitance-voltage (ECV) wafer profiler (Model: CVP21, WEP, Germany)."
+}<|im_end|>

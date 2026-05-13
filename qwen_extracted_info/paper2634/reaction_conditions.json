@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of Cu(dmap)2 as a precursor and ozone as an oxidant. The process is based on ligand combustion chemistry, where the ligands of Cu(dmap)2 are combusted by ozone, leading to the formation of CuO films. The reaction is self-limiting due to saturative surface reactions, and the growth is characterized by a saturative surface reaction mechanism.",
+  "intermediate_species": [
+    "Cu(dmap)2 ligands",
+    "surface hydroxyls",
+    "CuO"
+  ],
+  "evidence": "The process was based on ligand combustion chemistry using ozone and copper(II) acetylacetonate [Cu(acac)2)], and it was reported to produce polycrystalline films in a temperature window of 140–240 /C14 C. The current study shows that Cu(dmap)2 can be used as a precursor for ALD of CuO thin films in the temperature range of 80–140 /C14 C, thus providing a low-temperature alternative for the existing Cu(acac)2-based ALD chemistry."
+}

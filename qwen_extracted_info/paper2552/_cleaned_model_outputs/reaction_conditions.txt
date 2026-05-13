@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Cu(acac)2 + H* → Cu + 2acacH"
+  ],
+  "surface_mechanism_description": "The copper precursor Cu(acac)2 adsorbs on the surface, where the copper atom replaces hydrogen from either the hydroxyl group or hydrogen-terminated surface bonding. The hydrogen is transferred to one of the ligands, which is then removed as a volatile molecular species. The second ligand cannot be removed at low substrate temperatures, resulting in surface site blocking. The plasma provides atomic hydrogen and energy to enable the reaction between atomic hydrogen and the second ligand bonds to copper, forming volatile H(acac) byproduct and leaving metallic copper on the surface.",
+  "intermediate_species": [
+    "Cu(acac)2",
+    "H*",
+    "acacH",
+    "H(acac)"
+  ],
+  "evidence": "According to the mechanism proposed by Martensson and Carlsson, a cation-ligand bond is broken during the adsorption of Cu(II)-diketonate precursor on metallic surfaces. The copper atom replaces the hydrogen from either the hydroxyl group or hydrogen terminated surface bonding to the surface. The hydrogen is transferred to one of the ligands, which is then removed as a volatile molecular species. The second ligand cannot be removed at the low substrate temperatures used in this study and a blocking of surface sites results. The deposition process will then cease after the adsorption of one monolayer of precursor. This theory is consistent with the observation that less than one monolayer copper was deposited for the thermal ALD at 230 °C. For the PEALD process, the atomic H and energy provided from plasma enable the reaction between atomic hydrogen and second ligand bonds to copper, forming volatile H(acac) byproduct and leaving metallic copper on the surface."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Cobalt oxide",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["cobaltocene (CoCp2)", "ozone"],
+  "temperature_range": "137 to 331 8C",
+  "summary": "The study describes the atomic layer deposition (ALD) of cobalt oxide using cobaltocene (CoCp2) and ozone as precursors. The process was evaluated over a temperature range of 137 to 331 8C, with self-limiting growth observed at 167 8C. The films were analyzed for crystallinity, roughness, and homogeneity, showing polycrystalline Co3O4 with CoO as a secondary phase at higher temperatures. The study also investigated the coating of porous alumina membranes, demonstrating uniform deposition inside the pores.",
+  "evidence": "Thin ﬁlms of cobalt oxide are obtained by atomic layer deposition (ALD) using cobaltocene (CoCp 2) and ozone as precursors. A window for ALD growth exists in the temperature range 137 to 331 8C. X-ray diffraction (XRD) analysis indicates that the ﬁlms consist of polycrystalline Co 3O4 up to a deposition temperature of some 285 8C with CoO being identiﬁed as a secondary phase at 331 8C. The study also investigated the coating of porous alumina membranes, demonstrating uniform deposition inside the pores."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of the Me3Au(PMe3) precursor with H2 plasma. The process shows saturation behavior for both precursor and reactant exposures, indicating self-limiting reactions. The reaction is governed by the formation of gold nanoparticles on oxide surfaces, which coalesce into worm-like nanostructures during deposition.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The reaction of the Me3Au(PMe3) precursor with H2 plasma was previously reported to not occur. By using a higher vacuum and higher H2 concentration, this surface reaction was found to proceed in a self-limiting manner. One of the properties of an ALD process is that both reactions show self-limiting behaviour. The saturation behaviour of Me3Au(PMe3) and H2 plasma exposures was investigated by determining the equivalent growth per cycle (eqGPC) on gold seed layers as a function of the respective exposure time."
+}

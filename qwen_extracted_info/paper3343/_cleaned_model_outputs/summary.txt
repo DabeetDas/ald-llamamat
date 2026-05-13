@@ -1,0 +1,8 @@
+{
+  "target_material": "Y2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Y(iPrCp)3"],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of Y2O3 thin films using a multiple boost injection method with Y(iPrCp)3 precursor and remote oxygen plasma. The process involves pressurizing the precursor cylinder and injecting it into the chamber to achieve a high growth per cycle (GPC) of 0.22 nm/cycle, close to the monolayer thickness of Y2O3. The method allows for the effective utilization of low vapor pressure precursors in high-pressure environments.",
+  "evidence": "By boosting or pressurizing the precursor cylinder higher than the chamber pressure, one can effectively deliver the precursor into the chamber. By increasing the number of shots before oxygen plasma exposure, the growth per cycle increases and shows saturation at 0.22 nm/cycle, close to the unit monolayer (ML) thickness of the Y2O3 film (0.23 nm). A multiple boost injection method allows the utilization of low vapor pressure precursor to deposit films in a high-pressure environment."
+}

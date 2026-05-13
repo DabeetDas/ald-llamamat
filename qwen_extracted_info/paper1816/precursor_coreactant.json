@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "NiCp2 (nickelocene)"
+  ],
+  "coreactants": [
+    "NH3 plasma"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "NiCp2 was used as the metal precursor, which was stored in a container at 80 oC and transferred into the deposition chamber with a N2 carrier gas. The NH3 plasma was generated under a power of 3000 W, acting as the reactant."
+}

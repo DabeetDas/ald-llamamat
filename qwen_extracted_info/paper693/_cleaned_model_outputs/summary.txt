@@ -1,0 +1,8 @@
+{
+  "target_material": "Yttria-stabilized zirconia (YSZ)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Cp2ZrCl2", "Y(thd)3", "O3"],
+  "temperature_range": "300 8C",
+  "summary": "The study describes the deposition of yttria-stabilized zirconia (YSZ) thin films using atomic layer deposition (ALD) at 300 8C for solid oxide fuel cell (SOFC) applications. The films were deposited on La0.8Sr0.2MnO3 (LSM) substrates and exhibited crystalline structures without annealing. The electrical properties were characterized, showing lower conductivity and activation energy compared to bulk YSZ. The process used Cp2ZrCl2 and Y(thd)3 as precursors with ozone as the oxidizing agent.",
+  "evidence": "Thin ﬁlms of yttria-stabilized zirconia (YSZ) electrolyte were prepared by atomic layer deposition at 300 8C for solid oxide fuel cell (SOFC) applications. YSZ samples of 300–1000 nm thickness were deposited onto La 0.8Sr0.2MnO3 (LSM) cathodes. The deposition temperature was 300 8C. The principal aim of this study was to analyse the properties of YSZ ﬁlms of at least 300 nm thick with the right proportion of Y2O3 (around 8 mol%) deposited onto porous LSM substrates and, in particular, to report on their electrical behaviour at different temperatures in view of the SOFC applications."
+}

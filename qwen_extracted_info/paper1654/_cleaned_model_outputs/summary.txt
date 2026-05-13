@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "100-500 °C",
+  "summary": "The study investigates the space-limited crystal growth mechanism of TiO2 films deposited by ALD at different temperatures. It reveals two distinct grain-growth behaviors at different temperature ranges: a conventional temperature dependence with an activation energy of about 12.39 kJ/mol at 300-500 °C and an unconventional temperature dependence with grain size decreasing at 150-250 °C. The growth is dominated by surface nucleation and Ostwald ripening, with the nucleating activation energy calculated as approximately 48.25 kJ/mol.",
+  "evidence": "The results show that two distinct grain-growth behaviors are observed at two different growth temperature ranges. At 300-500 °C, grain growth of the films has a conventional temperature dependence with an activation energy of about 12.39 kJ/mol. However, the grain growth has an unconventional temperature dependence, as the grain size decreases with increasing growth temperature for films grown at temperatures between 150 and 250°C. This TiO2 growth is dominated by the surface nucleation of the films. It is suggested that this interesting phenomenon may also occur for other materials grown by ALD. In addition, the nucleating kinetics of ALD-TiO2 films has also been investigated, and the nucleating activation energy of films is approximately 48.25 kJ/mol."
+}

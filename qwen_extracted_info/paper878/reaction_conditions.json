@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ZnS interfacial layer provided more nucleation sites for PbS QDs deposition using SILAR, which enhanced PbS QD loading and increased light absorbance, photocurrent density, and power conversion efficiency. The ZnS IL lowered the activation energy for surface nucleation of PbS QDs, leading to more uniform distribution of QDs and enhanced loading.",
+  "intermediate_species": [
+    "PbS QDs",
+    "ZnS IL"
+  ],
+  "evidence": "The ZnS interfacial layer provided more nucleation sites for PbS QDs deposition using SILAR. The ZnS IL lowered the activation energy for surface nucleation of PbS QDs, leading to more uniform distribution of QDs and enhanced loading. The adoption of ZnS IL increased the absorbance of PbS QDs, which increased the photocurrent density and power conversion efficiency."
+}

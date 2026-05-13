@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "ozone (O3)"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the suppression of substrate oxidation during ozone-based atomic layer deposition (ALD) of Al2O3 by varying the ozone flow rate. It demonstrates that reducing the ozone flow rate suppresses interfacial SiO2 formation, which is a detrimental effect of ozone-based ALD. The process involves the formation of surface species such as aluminum methoxy and Al–O–Al linkages, which are reaction sites for subsequent TMA pulses. The study also highlights the impact of ozone flow rate on the growth rate and film quality of Al2O3.",
+  "evidence": "We demonstrate that interfacial SiO2, usually formed during high-oxide growth on silicon using ozone, is suppressed during Al2O3 atomic layer deposition by decreasing the O3 flow rate. ... The film chemical composition is characterized by in situ IR spectroscopy as a function of O3 flow rates during ALD of Al2O3. ... The growth rate is less than that of water-based ALD Al2O3 but higher film quality can be expected due to absence of trapped hydroxyl groups."
+}<|im_end|>

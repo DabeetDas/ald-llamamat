@@ -1,0 +1,10 @@
+{
+  "target_material": "Silicon",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Diethylsilane (DES)"
+  ],
+  "temperature_range": "200 K to 440 K",
+  "summary": "The study investigates the adsorption and decomposition kinetics of diethylsilane (DES) on silicon surfaces, focusing on the chemical reactions involved in atomic layer epitaxy (ALE). DES dissociatively adsorbs on silicon surfaces, producing SiH and SiC2H5 surface species. The decomposition of these species leads to the desorption of ethylene (CH2=CH2) and hydrogen (H2). The process is catalyzed by the silicon surface, and the results suggest that DES is a promising precursor for silicon ALE due to its low activation energy and minimal carbon contamination.",
+  "evidence": "The chemisorption and reaction of diethylsilane on silicon (100) and (111) surfaces. The initial reactive sticking coefficient of DES on Si(111)7×7 decreased versus surface temperature from So ≈ 1.7 × 10^-3 at 200 K to So ≈ 4 × 10^-5 at 440 K. The decomposition activation barrier was Ed = 36 kcal/mol. The study also mentions that DES is a promising candidate for silicon ALE due to its low activation energy and minimal carbon contamination."
+}

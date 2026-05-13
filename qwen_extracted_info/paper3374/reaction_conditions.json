@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Vertical nanostructures form at grain boundaries during the ALD process. The formation pathways involve grain boundary interactions, where precursor adsorption at grain edges leads to the growth of one grain while blocking precursor adsorption at the edges of the second grain. This results in the formation of vertical nanostructures through the continued expansion of the 'preferred' grain. Additionally, the presence of defects on the substrate can directly lead to the formation of vertical nanostructures. The suppression of vertical nanostructures is achieved by introducing a plasma step (step C) during the ALD process, which either physically or chemically interacts with the nanostructures, reducing their density by 80%.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The text discusses the formation of vertical nanostructures at grain boundaries during the ALD process, where precursor adsorption at grain edges leads to the growth of one grain while blocking precursor adsorption at the edges of the second grain. The suppression of vertical nanostructures is achieved by introducing a plasma step (step C) during the ALD process, which either physically or chemically interacts with the nanostructures, reducing their density by 80%. The text also mentions the presence of defects on the substrate that can directly lead to the formation of vertical nanostructures."
+}

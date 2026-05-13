@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD of TiO2 involve the alternating exposure of TiCl4 and H2O, leading to the formation of Ti-O-Ti bonds and the removal of byproducts such as HCl and CH4. The process is described as a layer-by-layer growth mechanism where the surface is first saturated with Ti species from TiCl4, followed by the reaction with H2O to form TiO2 and the release of HCl. The purge steps ensure the removal of excess precursors and byproducts, allowing for the sequential deposition of each layer.",
+  "intermediate_species": ["Ti species", "surface hydroxyls", "chlorine residues"],
+  "evidence": "The ALD process was carried out by alternately exposing the substrates to TiCl4 and H2O, with the reaction zone purged with nitrogen after each precursor pulse. The text describes the formation of Ti-O-Ti bonds and the release of HCl and CH4 as byproducts. Chlorine residues were found in films grown at low temperatures, and their presence influenced the phase transformation during annealing."
+}<|im_end|>

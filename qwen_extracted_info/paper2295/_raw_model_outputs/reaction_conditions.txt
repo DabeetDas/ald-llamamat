@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reconstruction changes during the deposition process, with the 4X8 reconstruction associated with organic Ga radicals on the GaAs surface. The decomposition of Ga radicals can be either thermally activated or promoted by surface reaction with TBA or TBA decomposition products. The growth rate is controlled by the rate of arrival of the As atoms, and the observed surface reconstructions are related to the presence of organic Ga radicals and their decomposition.",
+  "intermediate_species": ["organic Ga radicals", "TBA decomposition products"],
+  "evidence": "The decomposition of the Ga radicals can be either thermally activated or promoted by surface reaction with TBA or TBA decomposition products. The observed surface reconstruction during the As-induced growth was a diffuse 4X 1. The 4X 8 surface reconstruction has been proposed as being related to organic Ga radicals on the GaAs surface, having been identified as an unstable reconstruction."
+}<|im_end|>

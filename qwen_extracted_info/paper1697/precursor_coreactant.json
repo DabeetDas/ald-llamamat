@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "trimethylaluminum",
+    "H2O"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Alumina thin film was then coated on the GaQ nanowires by ALD using trimethylaluminum (TMA) and H2O as the precursors with the substrate temperature at 25 °C. Each cycle consisted of a precursor pulse for 1 s and a purge with N2 for 10 s."
+}

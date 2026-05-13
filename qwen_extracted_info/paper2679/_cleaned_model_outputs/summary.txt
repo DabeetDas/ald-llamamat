@@ -1,0 +1,8 @@
+{
+  "target_material": "Germanium antimony tellurium (GST) compounds",
+  "process_type": "Plasma-assisted atomic layer deposition (PALD)",
+  "main_precursors": ["tris(aziridinyl)antimony(III) (Sb[cyclo-NC2H4]3)", "di-n-butylditelluride [Te2(n-C4H9)2]"],
+  "temperature_range": "100 °C",
+  "summary": "The study reports the plasma-assisted atomic layer deposition (PALD) of GST thin films using halogen-free precursors. The process demonstrated conformal filling of trenches with a high aspect ratio, and the films were doped with nitrogen due to the use of amino precursors. The deposition rate and film composition were analyzed, and the films showed good step coverage on both planar and 3D structures.",
+  "evidence": "Plasma atomic layer deposition of Ge-Sb-Te (GST) thin films using halogen-free precursors is reported. The Sb and Te precursors tris(aziridinyl)antimony(III) (Sb[cyclo-NC2H4]3) and di-n-butylditelluride [Te2(n-C4H9)2] were employed for the first time in the deposition of GST thin films. Conformal filling of trenches has been demonstrated. The film thickness ratio between the top and the wall/bottom of trenches was evaluated: for 'wide' (7:1 aspect ratio) trenches—d bottom/dtop /C25 0.65, and for 'narrow' (23:1 aspect ratio) trenches d wall/dtop > 0.63. Due to the use of amino precursors the as-deposited GST films were doped with nitrogen."
+}

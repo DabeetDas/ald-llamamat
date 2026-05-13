@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "2Sb(NMe2/rparenori3 + 3Te(GeMe3/rparenori2 → Sb2Te3 + 6Me3GeNMe2"
+  ],
+  "surface_mechanism_description": "A single –NMe2 group in Sb(NMe2/rparenori3 reacts with –TeGeMe3 on the surface to form an Sb2Te3 film, and a small fraction of Sb is incorporated into the film by the thermal decomposition of Sb(NMe2/rparenori3.",
+  "intermediate_species": [
+    "Me2NGeMe3",
+    "–NMe2 group",
+    "–TeGeMe3"
+  ],
+  "evidence": "DFT calculation expected the ligand-exchange reactions between the Sb and Te precursors to form Me2NGeMe3 as the byproduct. QCM analysis indicated that a single –NMe2 group in Sb(NMe2/rparenori3 reacts with –TeGeMe3 on the surface to form an Sb2Te3 film, and that a small fraction of Sb is incorporated into the film by the thermal decomposition of Sb(NMe2/rparenori3."
+}<|im_end|>

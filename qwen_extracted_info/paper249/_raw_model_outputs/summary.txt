@@ -1,0 +1,8 @@
+{
+  "target_material": "Zinc Oxide (ZnO)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Bis-3-(N,N-dimethylamino)propyl zinc ([Zn(DMP)2], BDMPZ)", "Oxygen plasma"],
+  "temperature_range": "60–160 °C",
+  "summary": "The study reports the development of a plasma-enhanced atomic layer deposition (PEALD) process for depositing zinc oxide (ZnO) films using a nonpyrophoric zinc precursor, bis-3-(N,N-dimethylamino)propyl zinc (BDMPZ). The process is conducted in the temperature range of 60–160 °C, resulting in uniform, smooth, and highly transparent ZnO films with good gas barrier properties. The films show high sensitivity towards NO2 without cross-sensitivities against NH3 and CO, making them suitable for gas sensing applications.",
+  "evidence": "The identification of bis-3-(N,N-dimethylamino)propyl zinc ([Zn(DMP)2], BDMPZ) as a safe and potential alternative to the highly pyrophoric diethyl zinc (DEZ) as atomic layer deposition (ALD) precursor for ZnO thin films is reported. Employing this precursor, a new oxygen plasma enhanced (PE)ALD process in the deposition temperature range of 60 and 160 °C is developed. The resulting ZnO thin films are uniform, smooth, stoichiometric, and highly transparent. The deposition on polyethylene terephthalate (PET) at 60 °C results in dense and compact ZnO layers for a thickness as low as 7.5 nm with encouraging oxygen transmission rates (OTR) compared to the bare PET substrates. As a representative application of the ZnO layers, the gas sensing properties are investigated. A high response toward NO2 is observed without cross-sensitivities against NH3 and CO."
+}<|im_end|>

@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Nitrogen is incorporated into the ZrO2 film and at the ZrO2/Si interface during annealing in NH3, leading to the formation of Zr oxynitride (ZrNxOy) and a two-phase system consisting of ZrO2 and ZrNxOy. This incorporation results in a decrease in the capacitance equivalent thickness (CET) of the MIS capacitor but also increases leakage current density due to the presence of phase boundaries and grain boundaries.",
+  "intermediate_species": [
+    "ZrNxOy",
+    "Zr–O bonds",
+    "Si–O bonds",
+    "Si–Si bonds",
+    "Zr–N bonds"
+  ],
+  "evidence": "The text states: 'Nitrogen is directly incorporated into the ZrO2 film and also into the IL between ZrO2 and the silicon substrate. This results in an overall decrease in the CET of the MIS capacitor after a NH3 PDA at 700 °C... The XPS analysis shows an additional peak pointing to partial Zr oxynitride formation throughout the film. This is supported by SIMS and EF-TEM measurements where nitrogen was detected in the film and an even higher concentration in the IL.'"
+}

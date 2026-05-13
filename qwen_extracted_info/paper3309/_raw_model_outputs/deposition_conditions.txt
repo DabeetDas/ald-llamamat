@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall",
+  "evidence": "The (Sn,Ca)S alloy ﬁlms were deposited in a custom-built hot-wall ALD reactor by alternating SnS and CaS cycles using the recipe [(SnS) m–(CaS)]n, where m and n were integers used to adjust the composition and thickness of the ﬁlm. The N 2 purge time between each precursor pulse was set at 10 s, which is suf ﬁcient to remove the excess precursor and reaction by-products."
+}<|im_end|>

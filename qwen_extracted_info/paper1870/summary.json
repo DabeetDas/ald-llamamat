@@ -1,0 +1,14 @@
+{
+  "target_material": "Yttria-stabilized zirconia (YSZ)",
+  "process_type": "Atomic layer epitaxy (ALE)",
+  "main_precursors": [
+    "Y(thd)3",
+    "O3",
+    "Zr(thd)4",
+    "Cp2Zr(CH3)2",
+    "Cp2ZrCl2"
+  ],
+  "temperature_range": "275–375 °C",
+  "summary": "Yttria-stabilized zirconia (YSZ) thin films were deposited by atomic layer epitaxy (ALE) using Zr(thd)4, Cp2Zr(CH3)2, and Cp2ZrCl2 as zirconium precursors, and Y(thd)3 and ozone as yttrium and oxygen sources. The films were grown at temperatures ranging from 275 to 375 °C, with growth rates dependent on the pulsing ratio of Y to Zr precursors. The films exhibited crystallinity and (100) orientation, with some thinner films showing (111) orientation. The lattice parameter varied with Y2O3 content, and impurities such as chlorine and carbon were observed.",
+  "evidence": "Yttria-stabilized zirconia (YSZ) films were deposited by atomic layer epitaxy (ALE) using Zr(thd)4, Cp2Zr(CH3)2, and Cp2ZrCl2 as zirconium precursors. Y(thd)3 and ozone were used as yttrium and oxygen sources, respectively. YSZ films were grown at 375 °C from Y(thd)3/O3–Zr(thd)4/O3. Deposition temperatures were 310–365 °C for the Y(thd)3/O3–Cp2Zr(CH3)2/O3 and 275–350 °C for the Y(thd)3/O3–Cp2ZrCl2/O3 precursor combinations. The YSZ films were (100) oriented when deposited with a Y to Zr pulsing ratio of 1 : 1. Only thinner films (v60 nm), deposited from Y(thd)3/O3–Zr(thd)4/O3, showed the (111) preferred orientation. The lattice parameter was in the range of 5.09–5.28 Å when the Y2O3 content was 5–89 mol%. When Cp2ZrCl2 was used as zirconium precursor, 0.1–1.7 mol% chlorine was observed in the films."
+}

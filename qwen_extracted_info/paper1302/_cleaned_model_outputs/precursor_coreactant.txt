@@ -1,0 +1,7 @@
+{
+  "precursors": ["NaO tBu", "DEPA"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Sodium tert-butoxide (NaO tBu) and diethyl phosphoramidate (DEPA) were chosen as precursors based on our prior work 2, 42 and were used as received. NaO tBu was loaded into a stainless steel bubbler and heated to 155 °C, while DEPA was loaded into a standard stainless steel cylinder and heated to 115 °C. The base pressure of the ALD reactor was 1 x 10 -6 Torr, and the process pressure was maintained at ~200 mTorr by flow of UHP Argon (Airgas, 99.999%) gas."
+}

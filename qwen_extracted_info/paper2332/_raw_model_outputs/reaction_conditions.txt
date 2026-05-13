@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "HF adsðÞ þ Al CH 3ðÞ 3 gðÞ ! AlF CH 3ðÞ 2 adsðÞ þ CH4gðÞ ;",
+    "AlF CH 3ðÞ 2 adsðÞ þ F gðÞ ! AlF3 sðÞ þ HF ads; gðÞ þ CHyF4/C0 y gðÞ :"
+  ],
+  "surface_mechanism_description": "F radicals from the SF6 plasma participate in the surface reactions, removing the CH3-ligands and binding to Al to form AlF3. CH4 is released as a reaction product in the precursor half-cycle, whereas HF and hydrofluorocarbons are released during the plasma exposure.",
+  "intermediate_species": [
+    "AlF(CH3)2 ads",
+    "HF ads",
+    "CHyF4–y",
+    "C2H2",
+    "CF2"
+  ],
+  "evidence": "Based on these findings, and on the work of Lee et al.,20 the following reactions can be proposed for the two half-cycles: HF adsðÞ þ Al CH 3ðÞ 3 gðÞ ! AlF CH 3ðÞ 2 adsðÞ þ CH4gðÞ ; (1a) AlF CH 3ðÞ 2 adsðÞ þ F gðÞ ! AlF3 sðÞ þ HF ads; gðÞ þ CHyF4/C0 y gðÞ : (1b). Moreover, optical emission spectroscopy during the SF6 plasma exposure step of the ALD cycle revealed the formation of C2H2 and CF2 species, resulting from the interaction of the plasma with the surface after Al(CH3)3 exposure."
+}<|im_end|>

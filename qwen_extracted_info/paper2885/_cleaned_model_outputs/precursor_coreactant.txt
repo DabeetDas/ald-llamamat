@@ -1,0 +1,7 @@
+{
+  "precursors": ["TaF5"],
+  "coreactants": ["NH3", "H2", "Ar"],
+  "purge_gas": ["H2/Ar plasma"],
+  "carrier_gas": [],
+  "evidence": "The TaN growth on a 1000-A ˚-thick SiO 2 film surface was performed at a deposition temperature of 200 /C14 C and a deposition pressure of 3 Torr by a two-step ALD process using TaF 5 as the Ta precursor. The temperature of TaF 5 vapor was maintained at 70 /C14 C when the vapor was delivered with 40 sccm H 2 gas. During TaN deposition, H 2 and Ar were supplied to the reaction chamber continuously at a flow rate of 200 sccm each, while the flow rate of NH 3 was varied from 10 to 200 sccm."
+}

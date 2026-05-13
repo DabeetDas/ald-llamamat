@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the coordination of the aminoalkoxide ligand to the zinc center, forming a bridging bond (μ-O) between two zinc atoms. The reaction proceeds through the adsorption of the precursor on the surface, followed by a water pulse to regenerate surface hydroxyl groups, leading to the formation of ZnO.",
+  "intermediate_species": ["Zn-OH*", "surface hydroxyls", "Zn-O-Al(CH3)2*"],
+  "evidence": "The surface reaction mechanism was discussed in the context of ALD deposition using [EtZn(damp)]2 as the precursor. The text describes the coordination of the aminoalkoxide ligand to the zinc center, forming a bridging bond (μ-O) between two zinc atoms. The reaction proceeds through the adsorption of the precursor on the surface, followed by a water pulse to regenerate surface hydroxyl groups, leading to the formation of ZnO."
+}<|im_end|>

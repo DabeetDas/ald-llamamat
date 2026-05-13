@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "MoF6 + Si2H6 → Mo + 2SiHF3 + 2H2",
+    "MoF6 → Mo + 3F2 (endothermic)"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the reduction of MoF*x surface species by Si2H6, leading to the formation of metallic Mo. The reaction mechanism includes the decomposition of MoF6 and the subsequent reaction with Si2H6, which results in the formation of SiHF3 and H2. The exothermic nature of the reaction facilitates the decomposition of Si2H6, leading to the deposition of silicon and the formation of Mo films.",
+  "intermediate_species": [
+    "MoF*x",
+    "SiHF3",
+    "H2",
+    "SiHx species",
+    "SiHx Fy species"
+  ],
+  "evidence": "The surface reactions are described as follows: 'FTIR studies revealed that MoFx surface species are reduced to metallic Mo during the Si2H6 exposure.' Additionally, 'the reaction mechanism includes the decomposition of MoF6 and the subsequent reaction with Si2H6, which results in the formation of SiHF3 and H2.'"
+}<|im_end|>

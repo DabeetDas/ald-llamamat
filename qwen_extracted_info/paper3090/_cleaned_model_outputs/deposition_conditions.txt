@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 300,
+ "pressure": "0.5 Torr",
+ "precursor_pulse_time_s": 2,
+ "coreactant_pulse_time_s": 4,
+ "purge_time_s": 4,
+ "number_of_cycles": null,
+ "reactor_type": "flow-type ALD reactor",
+ "evidence": "The hafnium–zirconium–oxide film deposition was performed at 300°C. The process pressure was maintained at 0.5 Torr. Zirconium tetrachloride (ZrCl4), kept at 150°C and carried by N2, and hafnium tetrachloride (HfCl4), kept at 150°C and carried by N2, were used as the metal precursors, and H2O was used as the oxidizing agent. The N2 purge gas was introduced for the complete separation of the source and the reactant gases. ZrCl4 and HfCl4, and H2O were pulsed for 2 and 4 s, respectively, and N2 purging followed for 4 s."
+}

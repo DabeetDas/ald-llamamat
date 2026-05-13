@@ -1,0 +1,10 @@
+{
+  "film_thickness_nm": null,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "",
+  "evidence": null,
+  "_error": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": 45,   \"density_g_cm3\": null,   \"refractive_index\": \"2.12 -2.16 at 633 nm\",   \"surface_roughness_nm\": 0.6-0.7,   \"crystal_phase\": \"amorphous\",   \"evidence\": \"The surface roughnesses of 45 nm thick Ta2O5 films grown at 300 and 350 /C176C were probed by atomic force microscopy '",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 400, in film_properties_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": 45,   \"density_g_cm3\": null,   \"refractive_index\": \"2.12 -2.16 at 633 nm\",   \"surface_roughness_nm\": 0.6-0.7,   \"crystal_phase\": \"amorphous\",   \"evidence\": \"The surface roughnesses of 45 nm thick Ta2O5 films grown at 300 and 350 /C176C were probed by atomic force microscopy '\n"
+}

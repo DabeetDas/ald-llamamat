@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "5 mtorr",
+  "precursor_pulse_time_s": "1.5",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "1.2",
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The Cu films were deposited on 50 × 50 mm substrates that included glass plates and silicon wafers pre-coated with a 500-nm layer of SiO2, followed by a barrier layer about 6 nm thick. The Cu deposition was performed in a microchemistry F-120 ALD reactor. A typical ALD cycle consisted of a 1.5-s-long Cu(hfac)2 pulse, then a 1.2-s N2 purge, followed by a 1-s reducing agent pulse, and finally another 1.2-s N2 purge."
+}

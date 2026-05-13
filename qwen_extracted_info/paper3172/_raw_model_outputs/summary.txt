@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["N2O", "Titanium isopropoxide (TTIP)"],
+  "temperature_range": "280°C",
+  "summary": "The study investigates the growth of TiO2 thin films on different substrates using plasma-enhanced atomic layer deposition (PEALD). The growth rate is influenced by the substrate material, with higher growth rates observed on Ru compared to Si. The presence of an Al2O3 layer between the Ru substrate and TiO2 film suppresses electron donation but allows oxygen diffusion, affecting the growth rate. The crystalline phase of the deposited TiO2 (rutile or anatase) also influences the growth rate.",
+  "evidence": "TiO2 thin films were grown on Ru, Pt, Al2O3-passivated Ru, and Si substrates by plasma-enhanced atomic layer deposition at 280°C. The Ru-substrate-enhanced growth rate was higher than that on Si. When the Al2O3 layer was interposed between the Ru substrate and TiO2 film, even as thin as 0.4 nm, the electron donation was largely suppressed. The growth rates of rutile TiO2 on Ru and anatase TiO2 on Si were 0.055 and 0.04 nm/cycle, respectively."
+}<|im_end|>

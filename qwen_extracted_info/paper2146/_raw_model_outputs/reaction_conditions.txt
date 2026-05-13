@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "NH3 dissociates on the surface, forming NH2 and H, which can exchange with O in the HfO2 film. The NH3 molecules adsorb molecularly as well as dissociatively below room temperature with NH2 and H as the only dissociative products. At higher temperatures, NH2 either recombines with H to produce NH3 or dissociates to H and N, followed by H2 liberation and N incorporation.",
+  "intermediate_species": ["NH2", "H", "N", "H2"],
+  "evidence": "It has been shown that the NH3 molecules adsorb molecularly as well as dissociatively below room temperature with NH2 and H as the only dissociative products. At higher temperatures, NH2 either recombines with H to produce NH3 or dissociates to H and N, followed by H2 liberation and N incorporation."
+}<|im_end|>

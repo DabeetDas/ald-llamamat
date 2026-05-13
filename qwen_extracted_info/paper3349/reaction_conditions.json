@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process uses trimethylaluminium (TMA) and water as precursors. The surface reactions involve the adsorption of TMA and subsequent reaction with surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The mechanism is described as ligand exchange between TMA and surface hydroxyl groups, followed by a water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "Si 4+",
+    "Si +"
+  ],
+  "evidence": "The ALD process uses trimethylaluminium (TMA) and water as precursors. The surface reactions involve the adsorption of TMA and subsequent reaction with surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The mechanism is described as ligand exchange between TMA and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The PES measurements indicate the formation of a top SiO2 layer and a rougher interfacial layer containing more Si+ and Si4+ which could be responsible for the strong increase of Dit just below the conduction band edge."
+}

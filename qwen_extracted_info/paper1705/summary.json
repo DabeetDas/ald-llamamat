@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "100 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to grow indium tin oxide (ITO) within a porous anodic aluminum oxide (AAO) template and subsequently coat the high surface-area electrode with amorphous TiO2. The radial electron collection through the amorphous TiO2 to the adjacent ITO electrode significantly improves current densities in dye-sensitized solar cells (DSSCs).",
+  "evidence": "Atomic layer deposition is used to grow the current collector within an AAO template and subsequently coat the high surface-area electrode with a semiconducting metal oxide. The viability of this architecture as a DSSC photoanode is demonstrated by photovoltaic characterization of completed devices with and without the interdigitated current collector."
+}

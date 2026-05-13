@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "ZrCl4",
+    "Ycp"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "forming gas"
+  ],
+  "carrier_gas": [
+    "forming gas"
+  ],
+  "evidence": "Room-temperature water vapor and 150°C zirconium tetrachloride (ZrCl4) vapor (carried by forming gas) were sequentially pulsed into the chamber with alternating forming gas purges. Pulse times and flow rates were (H2O: 1 s, 0.5 sccm; ZrCl4: 3 s, 20 sccm; forming gas purge: 60 s, 90 sccm). Room-temperature water vapor and 185°C tris (cyclopentadienyl) yttrium (Ycp) vapor (carried by forming gas) were pulsed into the reactor (0.5 Torr) with alternating forming gas purges."
+}

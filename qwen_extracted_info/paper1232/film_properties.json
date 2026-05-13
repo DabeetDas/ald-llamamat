@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 4.5,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.4,
+  "crystal_phase": "Polycrystalline",
+  "evidence": "The thickness of blanket Ru films was determined by X-ray Reflectivity (XRR) measurements, using a Bruker D8 diffractometer (CuK α source). For some of these samples, X-ray Fluorescence (XRF) was used to determine the thickness, as the films were too rough for XRR. This was done by first constructing a calibration curve of the integrated XRF Ru L peak intensity versus the XRR thickness of smooth Ru films, and afterwards calibrating the XRF data of rough films using this curve. The root mean square (RMS) roughness was determined by Atomic Force Microscopy, using a Bruker Dimension Edge system. The electrical resistivity of blanket Ru films was determined by using the 4-point probes method."
+}

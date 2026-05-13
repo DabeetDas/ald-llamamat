@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "pulsed jet epitaxy (PJE)",
+  "main_precursors": ["TMGa", "AsH3"],
+  "temperature_range": "440 to 560°C",
+  "summary": "The paper describes a new growth method for atomic layer epitaxy (ALE) of GaAs using a pulsed jet epitaxy (PJE) technique. The method suppresses the thermal decomposition of methylgallium in the gas phase, allowing for self-limiting growth at high temperatures. The process uses TMGa and AsH3 as precursors, with hydrogen as the carrier gas. The self-limiting mechanism is based on the selective adsorption of methylgallium on surface As atoms, enabling high-purity epitaxial layers.",
+  "evidence": "The paper describes a new growth method for atomic layer epitaxy (ALE) of GaAs using a pulsed jet epitaxy (PJE) technique. The method suppresses the thermal decomposition of methylgallium in the gas phase, allowing for self-limiting growth at high temperatures. The process uses TMGa and AsH3 as precursors, with hydrogen as the carrier gas. The self-limiting mechanism is based on the selective adsorption of methylgallium on surface As atoms, enabling high-purity epitaxial layers."
+}

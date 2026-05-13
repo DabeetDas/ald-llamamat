@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "50",
+  "pressure": "10-3 mbar",
+  "precursor_pulse_time_s": "60",
+  "coreactant_pulse_time_s": "20",
+  "purge_time_s": null,
+  "number_of_cycles": "125",
+  "reactor_type": "experimental ALD reactor with a remote plasma configuration",
+  "evidence": "The depositions were performed in an experimental ALD reactor with a base pressure of 10-3 mbar and a remote plasma configuration.22 ... The lasted 60 s and the H 2* pulse lasted 20 s with a plasma power of 425 W and a sample temperature of 50 1C."
+}

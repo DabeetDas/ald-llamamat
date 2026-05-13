@@ -1,0 +1,8 @@
+{
+  "target_material": "hafnium silicate",
+  "process_type": "Atomic layer chemical vapor deposition (ALCVD)",
+  "main_precursors": ["HfCl4", "tetra-n-butyl orthosilicate (TBOS)"],
+  "temperature_range": "250–500 °C",
+  "summary": "The study focuses on the atomic layer chemical vapor deposition (ALCVD) of hafnium silicate films using HfCl4 and tetra-n-butyl orthosilicate (TBOS) as precursors. The process parameters, including deposition temperature and precursor injection time, were optimized to achieve a controlled growth rate and composition of the films. The growth rate was found to be 1.4 Å/cycle at 500 °C, and the fraction of hafnium in the film was 0.19. The impurity levels were below detection limits, and the process was optimized for uniform and conformal film deposition.",
+  "evidence": "Atomic layer chemical vapor deposition (ALCVD) of hafnium silicate films with a precursor combination of HfCl4 and TBOS was studied for high dielectric gate insulators. The growth rate and composition ratio were saturated with the increase of the injection time of HfCl4 and TBOS and decreased with the increased deposition temperature from 300 to 500 °C. The growth rate was 1.4 Å/cycle and the fraction of hafnium phase in the Hf silicate thin films was 0.19 at the deposition temperature of 500 °C. Impurity content, such as carbon and chlorine was below the detection limit of XPS and the impurity level detected by SIMS decreased with increasing deposition temperature."
+}

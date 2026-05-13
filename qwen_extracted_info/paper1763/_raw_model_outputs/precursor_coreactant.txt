@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ru(DMPD)2"],
+  "coreactants": ["oxygen"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "Oxygen (99.999%, Praxair) was used as a counterreactant, while nitrogen was used as carrier and purging gas."
+}<|im_end|>

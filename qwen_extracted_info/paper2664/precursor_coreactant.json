@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "tris(dimethylamido)aluminum(III) (TDMAA)"
+  ],
+  "coreactants": [
+    "H2O",
+    "nitrogen plasma"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Aluminum oxide films were deposited thermally using water as a coreagent. ... The bubbler containing TDMAA was pulsed with nitrogen carrier gas (99.999%) at an extremely high flow (1800 sccm) for 5 s prior to standard pulsing in order to increase subsequent mass delivery to the reactor chamber."
+}

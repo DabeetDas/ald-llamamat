@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 246,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The XPS and SE measured thickness of Al2O3 layers deposited by ALCVD are plotted in Fig. 1 versus the deposition cycles. The precision of the SE thickness values is better than 0.1 nm . As far as the XPS measurements are concerned, their accuracy and precision are 5% and 0.5%, respectively. It is seen that the XPS thickness is all the time smaller than the one measured by SE. This could be due to the different properties of the thin films compared to the bulk material (e.g. different density) and to the presence of an adsorbed contamination layer. Further investigation is necessary to clarify that point. The XPS measured thickness indicates some incubation for small number of cycles as the measured thickness is smaller than the expected one according to a linear growth model."
+}

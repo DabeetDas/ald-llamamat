@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Si2H6 + Si* -> 2SiH3*",
+    "SiH3* -> SiH2* + H*",
+    "SiH2* + H* -> Si* + H2"
+  ],
+  "surface_mechanism_description": "Dissociative chemisorption of Si2H6 on Si(001)2×1 surfaces leads to the formation of silyl radicals (SiH3*), which subsequently dissociate to form silylene (SiH2*) and hydrogen (H*). The surface reactions are self-limiting due to site blocking, resulting in a saturated surface with SiH2* and H* species. Laser irradiation facilitates desorption of H*, allowing for the growth of Si layers through the ALE process.",
+  "intermediate_species": [
+    "SiH3*",
+    "SiH2*",
+    "H*"
+  ],
+  "evidence": "The text describes the dissociative chemisorption of Si2H6 on Si(001)2×1 surfaces, leading to the formation of silyl radicals (SiH3*). These radicals dissociate to form silylene (SiH2*) and hydrogen (H*). The surface reactions are self-limiting due to site blocking, and laser irradiation facilitates desorption of H*, allowing for the growth of Si layers through the ALE process."
+}

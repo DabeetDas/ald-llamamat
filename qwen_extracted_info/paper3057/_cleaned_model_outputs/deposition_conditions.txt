@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "1 atm",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "ALD reactor at American Air Liquide",
+  "evidence": "The as-deposited HfO2 and Al2O3 films were analyzed using XPS technique. The HfO2 and Al2O3 films, 3 nm thick, were deposited on Si substrates with resistivity of 10–100 /cm using ALD. The deposition rate for HfO2 and Al2O3 films was 0.11 and 0.13 nm/cycle, respectively. Both as-deposited HfO2 and Al2O3 films were amorphous. The ultrathin HfO2 and Al2O3 barrier layers are insulating in nature. The HfO2 and Al2O3 films were deposited using TDEAH and TDEAA as the metal precursors, respectively, and ozone as the oxidizer at 250°C."
+}

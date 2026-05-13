@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the use of Al(CH3)3 and H2O as precursors. The Al(CH3)3 reacts with surface hydroxyl groups, and subsequent water pulses regenerate the OH sites. The reaction steps include ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "monomethyl aluminum"
+  ],
+  "evidence": "The precursors used were Al(CH3)3 + H2O, and the deposition temperature was 200 °C. With both precursors, pulses as short as 0.1 s were used, while the purge time was 5 s, so one cycle took 10.2 s. The reaction steps include ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites."
+}

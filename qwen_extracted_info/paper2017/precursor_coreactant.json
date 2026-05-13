@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "HfCl4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The metal oxides were grown by the atomic-layer deposition system which has a vertical warm wall reactor with a shower head and a resistively heated susceptor. HfO2 films were grown below 300 °C by using the precursor of HfCl4 .H2O vapor served as the oxygen source and N2 was supplied as the purge and carrier gas."
+}

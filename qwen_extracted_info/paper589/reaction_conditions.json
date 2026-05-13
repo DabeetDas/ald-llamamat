@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of the precursor La(thd)3 and its interaction with ozone (O3) to form lanthanum oxide (La2O3). The mechanism includes the formation of surface hydroxyl groups and the subsequent reaction with ozone to produce La2O3. The films grown at higher temperatures showed a transformation to monoclinic LaO(OH) and hexagonal La(OH)3 when exposed to ambient air.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "carbonate species",
+    "LaO(OH)"
+  ],
+  "evidence": "The text discusses the formation of surface hydroxyl groups and the transformation of La2O3 to LaO(OH) and La(OH)3 when exposed to ambient air. It also mentions the presence of carbonate species as impurities in the films."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "In2O3:H",
+  "process_type": "thermal ALD",
+  "main_precursors": ["cyclopentadienyl indium (InCp)", "O2 and H2O"],
+  "temperature_range": "100 /C14 C for deposition, 150–200 /C14 C for crystallization",
+  "summary": "The study describes the atomic layer deposition (ALD) of hydrogen-doped indium oxide (In2O3:H) films, followed by solid phase crystallization. The process involves ALD at 100 /C14 C, then crystallization at 150–200 /C14 C. The crystallization mechanism is characterized by isotropic growth from embedded crystallites, leading to high mobility and excellent optoelectronic properties. The presence of hydrogen in the films suppresses additional nucleation, resulting in large grain sizes and high performance.",
+  "evidence": "Hydrogen-doped indium oxide (In2O3:H) has emerged as a highly transparent and conductive oxide... This process consists of ALD of In2O3:H films at 100 /C14 C, followed by a solid phase crystallization step at 150–200 /C14 C... The key finding is that the best optoelectronic properties are obtained by preparing the films at the lowest possible temperature prior to post-deposition annealing... The relatively high hydrogen content of 4.2 at. % in these films is thought to cause the absence of additional nucleation, thereby rendering the final grain size and optoelectronic properties solely dependent on the density of embedded crystallites."
+}

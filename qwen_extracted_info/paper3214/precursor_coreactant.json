@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "diethylzinc (Zn(C2H5)2, abbreviated as DEZn)",
+    "tetrakis-(dimethylamino)-zirconium (Zr[N(CH3)2]4, abbreviated as TDMAZ)"
+  ],
+  "coreactants": [
+    "H2O vapor"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "ZnO:Zr ﬁlms were grown at 180 /C14 C by ALD using alternating pulses of diethylzinc (Zn(C2H5)2, abbreviated as DEZn), tetrakis-(dimethylamino)-zirconium (Zr[N(CH3)2]4, abbreviated as TDMAZ), and H2O vapor in an N2 carrier gas ﬂow."
+}

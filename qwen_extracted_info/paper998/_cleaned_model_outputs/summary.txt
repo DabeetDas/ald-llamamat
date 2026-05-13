@@ -1,0 +1,8 @@
+{
+  "target_material": "TiAlX (X = N or C)",
+  "process_type": "thermal ALD",
+  "main_precursors": ["TiCl4", "TMA", "NH3"],
+  "temperature_range": "400 /C176C",
+  "summary": "TiAlX (X = N or C) films are deposited using thermal atomic layer deposition (ALD) with TiCl4, TMA, and NH3 as precursors. The presence of NH3 in the reaction leads to TiAlN(C) films, while its absence results in TiAlC films. The TiAlC film deposited by TiCl4–TMA has a work function close to the mid-gap of Si, making it suitable for low power FinFET applications.",
+  "evidence": "TiAlX ﬁlms are developed by thermal atomic layer deposition (ALD) technique as metal gate. The TiAlX ﬁlms are deposited by using four different combinations of precursors: A: TiCl4–NH3–TMA–NH3, B: TiCl4–TMA–NH3, C: TiCl4–NH3–TMA and D: TiCl4–TMA. It is shown that NH3 presence in the reaction makes the ﬁlm more like TiAlN(C) while NH3 absence makes the ﬁlm more like TiAlC. The TiAlC ﬁlm deposited by TiCl4–TMA has effective work function close to mid-gap of Si, which is rather potential for low power FinFET device application."
+}

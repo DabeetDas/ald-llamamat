@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the incorporation of oxygen into the film to form sub-stoichiometric RuOx due to incomplete consumption of subsurface oxygen during the Ru precursor pulse. The reaction is influenced by the O2 pulse time and temperature, with longer O2 pulses leading to increased oxygen incorporation and higher resistivity. The DMBD ligand is retained on the ruthenium metal center and is consumed during the co-reactant pulse, allowing additional reaction during the Ru pulse.",
+  "intermediate_species": [
+    "subsurface oxygen",
+    "RuOx"
+  ],
+  "evidence": "The text describes that subsurface oxygen incorporated during the O2 pulse can participate in oxidative decomposition of ligands during the subsequent Ru(DMBD)(CO)3 pulse. It also mentions that the increased deposition rate and resistivity at 1.2 s Ru precursor pulse lengths point towards incorporation of oxygen into the film to form sub-stoichiometric RuOx, likely due to incomplete consumption of the subsurface oxygen during the Ru precursor pulse."
+}

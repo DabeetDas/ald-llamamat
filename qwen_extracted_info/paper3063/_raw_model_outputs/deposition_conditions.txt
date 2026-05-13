@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 320,
+  "pressure": "200-1000 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Genus StrataGem ALD system",
+  "evidence": "The ALD reactor in this study was a Genus StrataGem ALD system, which was designed to process 300 mm silicon wafers."
+}<|im_end|>

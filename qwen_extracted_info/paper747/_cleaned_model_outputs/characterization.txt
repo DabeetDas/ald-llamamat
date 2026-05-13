@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "spectroscopic ellipsometry (SE)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "auger electron spectroscopy (AES)",
+    "atomic force microscope (AFM)",
+    "X-ray reflectivity (XRR)",
+    "I-V measurement"
+  ],
+  "evidence": "The thickness, refractive index, and extinction coefficient (k) of the thin films were measured by a spectroscopic ellipsometer (SE, Ellipso Technology, UV-FMS). The chemical bonding and atomic concentration were investigated by X -ray photoelectron spectroscopy (XPS, Thermo Fisher Scientific Co, theta probe base system) and auger electron spectroscopy (AES, Physical Electronics, PHI700XI). The surface morphology was investigated using an atomic force microscope (AFM, Park System, XE -100). X -ray reflectivity (XRR, Rigaku Corporation, Rigaku Model SmartLab) was used to calculate the density of the thin films , and I-V measurement was used to determine the dielectric property (3 s of delay on each voltage step due to avoiding capacitive couple effects)."
+}

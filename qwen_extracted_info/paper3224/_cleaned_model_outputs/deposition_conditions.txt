@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.4,
+  "purge_time_s": 5,
+  "number_of_cycles": 5,
+  "reactor_type": "hot wall cross-flow ASM Pulsar 3000",
+  "evidence": "The process temperature was set to 250◦C for Gd2O3 and 300◦C for Al2O3 and Sc2O3 interfacial layers. The TMA pulse time in the first ALD cycle was changed from 0.1 to 5 s. The TMA exposure time was increased to 5 s during the first 5 ALD cycles. ALD processes were performed in a hot wall cross-flow ASM Pulsar 3000 reactor."
+}

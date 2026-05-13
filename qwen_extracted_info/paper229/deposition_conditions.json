@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 50,
+  "pressure": "7.5 mTorr",
+  "precursor_pulse_time_s": 6,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 6,
+  "number_of_cycles": null,
+  "reactor_type": "home-built ALD reactor",
+  "evidence": "The precursor is delivered to the chamber by Ar bubbling from a precursor pot heated to 50 °C through gas delivery lines that are heated to 80 °C. The saturated precursor dosing time is 6 s at 7.5 mTorr (inset of Fig. 1), whereas saturation for the O plasma step was reached within 4 s at 5.3 mTorr and 100 W plasma power. Purge times using Ar were 6 s and 3 s after the precursor dose and plasma exposure steps, respectively."
+}

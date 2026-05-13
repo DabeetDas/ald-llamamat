@@ -1,0 +1,7 @@
+{
+  "substrate_material": "SiO_x/Si",
+  "substrate_orientation": "p-type Si(100)",
+  "pretreatment": "Sequentially cleaned in acetone, methanol, isopropanol, and deionized water, and then treated with UV/ozone for 30 min",
+  "surface_functionalization": "null explicitly mentioned",
+  "evidence": "The SiO x/Si substrate was a p-type Si(100) wafer with a thin layer of SiO x (~2 nm) on surface, and it was sequentially cleaned in acetone, methanol, isopropanol, and deionized water, and then treated with UV/ozone for 30 min before loading into the ALD chamber."
+}

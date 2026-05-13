@@ -1,0 +1,8 @@
+{
+  "target_material": "CuO-core/SnO2-shell nanorods",
+  "process_type": "thermal ALD",
+  "main_precursors": ["SnCl4", "H2O"],
+  "temperature_range": "350 °C",
+  "summary": "The study describes the fabrication of CuO-core/SnO2-shell nanorods through thermal oxidation of Cu foil and atomic layer deposition (ALD) of SnO2. The SnO2 shells are amorphous initially but crystallize to tetragonal SnO2 upon thermal annealing. The PL emission intensity of the CuO nanorods is increased by SnO2 coating and further enhanced by annealing in different atmospheres, with emission peak shifts observed.",
+  "evidence": "The CuO cores and the SnO2 shells of the as-synthesized nanorods have crystalline monoclinic CuO and amorphous SnO2 structures, respectively, but the SnO2 shells are found to crystallize to tetragonal SnO2 on thermal annealing. The PL emission intensity of the CuO nanorods has been slightly increased by SnO2 coating. The PL emission of the SnO2-coated CuO nanorods is somewhat increased and the emission peak position is red-shifted from 550 to 580 nm by annealing in a reducing atmosphere. On the other hand, the PL emission is significantly increased and the emission peak position is shifted from 550 nm further to around 595 nm by annealing in an oxidative atmosphere."
+}<|im_end|>

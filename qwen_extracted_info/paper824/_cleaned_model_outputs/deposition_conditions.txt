@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "450",
+  "pressure": "10.0 Torr",
+  "precursor_pulse_time_s": "5.0",
+  "coreactant_pulse_time_s": "12",
+  "purge_time_s": "1.0",
+  "number_of_cycles": null,
+  "reactor_type": "pulsed-jet-epitaxy (PJE) with chimney-type structure",
+  "evidence": "The pulse duration of (MeCp) 2Mn: 5.0 s, the pulse duration of TDMAAs: 12 s. The hydrogen purge pulse of 1.0 s was inserted between (MeCp) 2Mn and TDMAs pulses."
+}

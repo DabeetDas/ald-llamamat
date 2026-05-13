@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The energy transfer processes involve the absorption of NIR photons (974 nm) by the (Er,Ho)3+ ions, leading to upconversion emissions at 525, 548, 660, and 410 nm. The emissions correspond to transitions of Er3+ and Ho3+ ions, with the 974 nm excitation leading to green and red emissions, and blue emissions at 410 nm. However, the contribution of Ho3+ to the UC emission spectrum under 974 nm excitation is unclear due to the absence of signals at expected wavelengths.",
+  "intermediate_species": ["Er3+", "Ho3+", "NIR photons"],
+  "evidence": "The energy transfer processes involve the absorption of NIR photons (974 nm) by the (Er,Ho)3+ ions, leading to upconversion emissions at 525, 548, 660, and 410 nm. The emissions correspond to transitions of Er3+ and Ho3+ ions, with the 974 nm excitation leading to green and red emissions, and blue emissions at 410 nm. However, the contribution of Ho3+ to the UC emission spectrum under 974 nm excitation is unclear due to the absence of signals at expected wavelengths."
+}

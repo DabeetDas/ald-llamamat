@@ -1,0 +1,8 @@
+{
+  "target_material": "In2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["cyclopentadienylindium(I) (In(C5H5))", "deionized water and oxygen gas"],
+  "temperature_range": "85–185 °C",
+  "summary": "This study presents the development of atomic layer deposited (ALD) In2O3 films for use as transparent conductive oxide (TCO) layers in Cu(In,Ga)Se2 (CIGSe) solar cells. The effects of ALD process parameters on the morphology, growth, and properties of In2O3 films are investigated. The results show that ALD In2O3 layers can achieve superior electrical and optical properties compared to ZnO:Al (AZO) TCOs, leading to improved performance in CIGSe solar cells with different buffer layers (CdS and ZTO).",
+  "evidence": "This contribution presents the development of atomic layer deposited (ALD) In2O3 films for utilization as transparent conductive oxide (TCO) layers in Cu(In,Ga)Se2 (CIGSe) solar cells. The effects of ALD process parameters on the morphology and growth of In2O3 are studied and related to the electrical and optical properties of the films. Maintaining similar resistivity values compared to commonly used ZnO:Al (AZO) TCOs, a superior mobility of m /C25 110 cm2/Vs could be achieved (more than five times higher than a ZnO:Al reference), which results in a significantly reduced parasitic optical absorption in the infrared region."
+}<|im_end|>

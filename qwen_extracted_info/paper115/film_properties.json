@@ -1,0 +1,10 @@
+{
+  "film_thickness_nm": null,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "",
+  "evidence": null,
+  "_error": "ValueError: Could not parse model output as JSON. Preview: 'C112/C114/C101/C115/C101/C110/C116 /C115/C116/C117/C100/C121 /C119/C105/C116/C104 /C116/C104/C101 /C112/C114/C101/C115/C101/C110/C116 /C115/C116/C117/C100/C121 /C119/C105/C116/C104 /C116/C104/C101 /C112/C114/C101/C115/C101/C110/C116 /C115/C116/C117/C100/C121 /C119/C105/C116/C104 /C116/C104/C101 /C11'",
+  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 400, in film_properties_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: 'C112/C114/C101/C115/C101/C110/C116 /C115/C116/C117/C100/C121 /C119/C105/C116/C104 /C116/C104/C101 /C112/C114/C101/C115/C101/C110/C116 /C115/C116/C117/C100/C121 /C119/C105/C116/C104 /C116/C104/C101 /C112/C114/C101/C115/C101/C110/C116 /C115/C116/C117/C100/C121 /C119/C105/C116/C104 /C116/C104/C101 /C11'\n"
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["TiCl4", "Zn", "NH3"],
+  "temperature_range": "500 °C",
+  "summary": "The study investigates the use of atomic layer epitaxy (ALE) to deposit titanium nitride (TiN) as a diffusion barrier between copper and silicon. The process using TiCl4, Zn, and NH3 provided the best barrier properties, showing stability up to 700 °C. The TiN films were found to be pure, with good step coverage, and showed resistance to silicon diffusion. The study also highlights the importance of the deposition process and annealing conditions on the barrier properties.",
+  "evidence": "The properties of titanium nitride deposited by atomic layer epitaxy (ALE) using three different deposition processes, i.e., TiI4/NH3, TiCl4/NH3 and TiCl4/Zn/NH3, as a diffusion barrier between copper and silicon were investigated. After deposition and annealing in Ar/H2, the samples were studied by means of x-ray photoelectron spectroscopy, scanning electron microscopy, x-ray diffraction, sheet resistance measurements and by defect delineating etching of the silicon substrate. ALE TiN deposited by means of the TiCl4/Zn/NH3 process showed the best barrier properties since it was stable at 700 °C, whereas TiN barriers deposited by the two alternative processes started to break down after a 75 min anneal at 650–750 °C."
+}

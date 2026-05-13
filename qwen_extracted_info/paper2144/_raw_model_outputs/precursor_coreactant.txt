@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "In the ALD process, a deposition cycle is defined as a pulse of metal containing precursor Al(CH3)3, a nitrogen purge to remove unreacted precursor, followed by a water pulse, and completed by a final purge with argon."
+}<|im_end|>

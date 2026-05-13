@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["HfI4", "H2O or H2O2"],
+  "temperature_range": "225-500°C",
+  "summary": "This study describes the deposition of HfO2 thin films using atomic layer deposition (ALD) and chemical vapor deposition (CVD) with HfI4 as the metal precursor. The ALD process showed a self-limited growth rate independent of temperature, while CVD exhibited an exponential rate increase with temperature. The films were crystalline and primarily monoclinic, with the choice of substrate significantly influencing the orientation of the films. The study also highlights the advantages of using HfI4 as a precursor for lower contamination levels.",
+  "evidence": "The study describes deposition of HfO2 thin films by chemical vapor deposition (CVD) and atomic layer deposition (ALD) using HfI4 as the metal precursor. The layer-by-layer growth was also studied in real time with a quartz crystal microbalance. In ALD, the deposition rate was independent of the growth temperature, whereas in CVD, an exponential rate increase was observed. Monoclinic HfO2 was deposited on MgO and poly-Si substrates in a wide temperature range, and the choice of substrate had a strong influence on the orientation of the films. Epitaxial growth of HfO2 was observed on MgO (001) substrates at 400-500°C in the ALD process and at 500-600°C in the CVD process."
+}

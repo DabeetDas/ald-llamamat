@@ -1,0 +1,7 @@
+{
+  "precursors": ["Tetrakis(dimethylamido)tantalum(V) (Ta(NMe)25)", "tris(diethylamido)(ethylimido)tantalum(V) (Ta(NEt)23)"],
+  "coreactants": ["water"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": [],
+  "evidence": "The reactor was a stainless steel tube ... nitrogen gas were introduced into the reactor through a bored out flange at one end of the tube. ... The ALD reaction cycle consisted of a single tantalum dose, followed by a nitrogen purge (typically 5 s ), then a water dose, followed by another nitrogen purge (typically 5 s )."
+}<|im_end|>

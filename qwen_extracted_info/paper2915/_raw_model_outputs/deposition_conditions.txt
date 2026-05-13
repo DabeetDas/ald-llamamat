@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 500,
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 200,
+  "coreactant_pulse_time_s": 1200,
+  "purge_time_s": 3000,
+  "number_of_cycles": "3000-5000",
+  "reactor_type": "flow-through-type ALE reactor",
+  "evidence": "The precursors, SnCl4 (anhydrous, Fluka, 99%) and distilled H2O, were supplied into the reactor by their own vapor pressures from external vessels kept between 22 and 188C and 10248C, respectively. The pulsing sequences applied are presented in Table I. The number of cycles was 3000-5000 which produced 80-230 nm SnO2 films."
+}<|im_end|>

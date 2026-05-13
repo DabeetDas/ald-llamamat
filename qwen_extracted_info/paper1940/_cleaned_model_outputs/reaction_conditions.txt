@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of the metal precursor (BTBMMo) and sulfur source (H2S) during atomic layer deposition (ALD). The MoS2 is formed through the reaction of the molybdenum precursor with sulfur, leading to the formation of MoS2 on the substrate. The reaction is influenced by the temperature and pulse times of the precursors, which control the morphology of the deposited MoS2 films.",
+  "intermediate_species": ["molybdenum precursor", "sulfur species", "surface hydroxyls"],
+  "evidence": "The text discusses the use of Bis(t-butylimino)bis(dimethylamino)molybdenum(VI) (BTBMMo) as a molybdenum precursor and H2S as a sulfur source for ALD of MoS2. It mentions that the reaction parameters, including reaction temperature and precursor pulse times, are optimized to control the morphology of the deposited MoS2 films. The text also refers to the post-annealing process under H2S to improve the crystallinity of the deposited MoS2, indicating the involvement of sulfur in the surface reactions."
+}

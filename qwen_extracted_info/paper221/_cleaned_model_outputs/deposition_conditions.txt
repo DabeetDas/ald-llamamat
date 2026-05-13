@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "3000",
+  "reactor_type": "Savannah-100",
+  "evidence": "The growth processes were performed using the Savannah-100 reactor from Cambridge NanoTech. We explored films deposited at temperature between 100 and 300 8C, which is inside temperature limits required for the 3D electronics."
+}

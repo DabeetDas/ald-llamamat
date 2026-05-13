@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of ozone on the rhodium oxide surface, which is catalyzed by the Rh2O3 film. This catalytic effect leads to non-uniform ozone exposure across the substrate, resulting in variations in film properties.",
+  "intermediate_species": ["Rh2O3"],
+  "evidence": "The text states: 'However, the nonuniformity was repeatable and could simply be compensated in the cross-flow reactor. By splitting the deposition in two stages with 180° substrate rotation in between, good uniformity across the substrate was accomplished.' Additionally, it mentions: 'The authors concluded that the lower resistivity values were related to the oxygen-deficient RhO2 or mixtures of Rh2O3 and RhO2.'"
+}<|im_end|>

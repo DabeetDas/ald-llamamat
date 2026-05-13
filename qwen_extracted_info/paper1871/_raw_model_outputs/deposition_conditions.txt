@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175-375",
+  "pressure": "2 mbar",
+  "precursor_pulse_time_s": "1.0–1.5",
+  "coreactant_pulse_time_s": "0.5–5.0",
+  "purge_time_s": "1.5–2.5",
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "Cerium dioxide thin films were deposited in an F-120 ALD reactor (ASM Microchemistry Ltd., Espoo, Finland). The pressure in the reactor was about 2 mbar. Pulse times for Ce(thd)4, Ce(thd)3phen and ozone were varied between 1.0–1.5 s, 0.5–3.75 s and 0.5–5.0 s, respectively. The purge time for nitrogen was 1.5–2.5 s."
+}<|im_end|>

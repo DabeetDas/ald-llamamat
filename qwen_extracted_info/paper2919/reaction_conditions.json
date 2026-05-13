@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "MCl_a + -NH_y* -> -NMCl_x* + HCl",
+    "DMHy + -NMCl_x* -> -NMNHy* + HCl"
+  ],
+  "surface_mechanism_description": "The film growth may be suggested to take place as follows. When the metal chloride (MCl_a) is pulsed to the reactor, it reacts with surface -NH_y* groups forming adsorbed -NMCl_x* and gaseous reaction product HCl, which is pumped away. During the DMHy pulsing sequence gaseous DMHy reacts with surface -NMClx* groups forming adsorbed -NMNHy* species and again HCl.",
+  "intermediate_species": [
+    "-NH_y*",
+    "-NMCl_x*",
+    "-NMNHy*"
+  ],
+  "evidence": "The possible reaction mechanisms are not discussed or speculated any further, but on the basis of the recent study on the WF6NH3 process, the film growth may be suggested to take place as follows. When the metal chloride (MCl_a) is pulsed to the reactor, it reacts with surface -NH_y* groups forming adsorbed -NMCl_x* and gaseous reaction product HCl, which is pumped away. During the DMHy pulsing sequence gaseous DMHy reacts with surface -NMClx* groups forming adsorbed -NMNHy* species and again HCl."
+}

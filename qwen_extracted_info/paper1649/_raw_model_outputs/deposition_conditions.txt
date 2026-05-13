@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "110-200",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "inductively coupled plasma reactor",
+  "evidence": "The results reported here were independent of the duration of both the plasma exposure (5 s) and the purge steps (5 s) employed."
+}<|im_end|>

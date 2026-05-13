@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type F-450 ALCVD",
+  "evidence": "Hafnium-silicate (HfSiO4) layers were deposited with various growth starting conditions, both on 1-3 V cm p-type or 1-8 V cm n-type 4 in. single-crystal Si (100) substrates in a flow-type F-450 ALCVD reactor located in a laboratory environment (clean room class 100000) at ASM Microchemistry, Ltd., Finland. The deposition temperature was 300°C."
+}

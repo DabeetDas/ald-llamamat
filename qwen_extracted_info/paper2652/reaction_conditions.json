@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the exchange of ligands between bis(ethylbenzene) molybdenum (BEBMo) and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The ligands are exchanged with simultaneous production of molecular hydrogen, and the surface reaction involves two adjacent –OH groups, analogous to the ALD processes of Al2O3 and TiO2.",
+  "intermediate_species": [
+    "bis(ethylbenzene) ligands",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The reactivity of the bis-arene molybdenum complexes varies greatly as demonstrated during gas-phase pyrolysis testing. In the reaction with phenol, the ligands are exchanged with simultaneous production of molecular hydrogen. The surface reaction involves two adjacent –OH groups, analogous to the ALD processes of Al2O3 and TiO2."
+}

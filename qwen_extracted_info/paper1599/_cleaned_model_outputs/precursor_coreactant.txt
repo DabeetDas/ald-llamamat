@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4"],
+  "coreactants": ["water"],
+  "purge_gas": ["argon"],
+  "carrier_gas": [],
+  "evidence": "TiO2 shells were grown on the arrays in a homemade traveling-wave ALD system using TiCl4 (99.999%, Alfa) and water at 300 °C with a process pressure of 300 -500 mTorr, yielding an average growth rate of 0.9 Å per cycle."
+}

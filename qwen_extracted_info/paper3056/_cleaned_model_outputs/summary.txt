@@ -1,0 +1,8 @@
+{
+  "target_material": "RuO2/Ru",
+  "process_type": "ALD",
+  "main_precursors": ["bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2)", "O2 gas"],
+  "temperature_range": "270°C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to create stacked RuO2/Ru structures for high dielectric applications. The process involves alternating exposure to Ru(EtCp)2 and O2 gas at 270°C. The deposited material is controlled by the ratio of Ru(EtCp)2 adsorption to O2 partial pressure. The stacked structure showed improved stability under high-temperature annealing and effectively blocked O and Si diffusion.",
+  "evidence": "Stacked RuO2/Ru structures were produced by atomic layer deposition using an alternating supply of bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2) and O2 gas at a deposition temperature of 270°C. The stacked RuO2/Ru structure maintained a smooth surface even at an annealing temperature of 800°C in ambient O2. Auger electron spectroscopy confirmed that the stacked RuO2/Ru structure successfully blocked oxygen and silicon diffusion."
+}

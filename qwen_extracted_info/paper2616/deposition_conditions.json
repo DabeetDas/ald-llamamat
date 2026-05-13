@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "0.3 Torr",
+  "precursor_pulse_time_s": 0.4,
+  "coreactant_pulse_time_s": 0.4,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "Cambridge NanoTech Savannah",
+  "evidence": "Brieﬂy, all ﬁlms were deposited on HF cleaned Si (001) at 250 /C14 C and 0.3 Torr using Be(C 2H5)2 (DEBe) and H 2O as precursors and N 2 as a purge gas. The ALD growth sequence consisted of DEBe pulse and purge times of 0.4 and 5 s, respectively, followed by H 2O pulse and purge times of 0.4 and 5 s, respectively."
+}

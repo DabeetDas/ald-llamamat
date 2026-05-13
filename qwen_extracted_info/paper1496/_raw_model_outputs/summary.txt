@@ -1,0 +1,8 @@
+{
+  "target_material": "SrTiO3",
+  "process_type": "ALD",
+  "main_precursors": ["Sr(iPr3Cp)2", "Cp*Ti(OMe)3"],
+  "temperature_range": "370 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of SrTiO3 (STO) films using Sr(iPr3Cp)2 and Cp*Ti(OMe)3 as precursors on Ru and RuO2 substrates. The process involves controlling the subcycle ratio of SrO and TiO2 layers to achieve stoichiometric STO films without a reaction barrier layer, resulting in a minimum equivalent oxide thickness of 0.43 nm with acceptable leakage current density.",
+  "evidence": "The characteristics of the atomic layer deposition (ALD) of SrTiO3 (STO) films were examined for metal −insulator−metal capacitors, with Cp-based precursors Sr(iPr3Cp)2 and Cp*Ti(OMe)3 employed as the Sr and Ti precursors, respectively. By controlling the subcycle ratio of SrO and TiO2 layers, stoichiometric STO could be obtained, even without employing a deleterious reaction barrier layer. This improved the attainable minimum equivalent oxide thickness of the Pt/STO/RuO2 capacitor to 0.43 nm, with acceptable leakage current density ( ∼8 × 10−8 A/cm2)."
+}<|im_end|>

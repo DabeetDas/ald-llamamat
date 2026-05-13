@@ -1,0 +1,8 @@
+{
+  "target_material": "Tungsten Nitride (WN)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["bis(tert-butylimido)bis-(dimethylamido)tungsten(VI)", "ammonia"],
+  "temperature_range": "350 °C",
+  "summary": "This study demonstrates the use of atomic layer deposition (ALD) to create inverse opal structures by infiltrating thin-film silica colloidal crystals with tungsten nitride (WN). The ALD process allows for the conformal growth of WN within the porous network of the colloidal crystal, resulting in a close-packed array of WN spherical shells. The study highlights the advantages of ALD in achieving high step coverage, conformality, and the ability to infiltrate deep pores, making it suitable for photonic applications.",
+  "evidence": "In this work, we report on the use of a new technique, atomic layer deposition (ALD), to create inverse opals. ALD represents an innovative and very promising synthetic route to inverse opals because of its high degree of step coverage and conformality as well as its ability to grow dense films with good control of atomic structures. Tungsten nitride was chosen for this study because it has been shown to form highly conformal coatings in structures with high aspect ratios."
+}<|im_end|>

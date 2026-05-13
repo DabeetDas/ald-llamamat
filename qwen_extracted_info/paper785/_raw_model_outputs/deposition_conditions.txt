@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 190,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 15,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall viscous flow ALD reactor",
+  "evidence": "Use of the hexacarbonyl precursor reduced the deposition temperature to 190 oC. The flow of O 3 was controlled by a combination of metering valve and computer controlled pneumatic valves. During deposition, the purging time between the two reactants was kept invariably 15s while the reactant dose times were varied ."
+}<|im_end|>

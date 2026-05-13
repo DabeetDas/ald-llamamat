@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "2 -5 °C",
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 2,
+  "number_of_cycles": "280",
+  "reactor_type": "home-built setup",
+  "evidence": "SiO2 ALD was carried out in a home-built setup at room temperature using sequential SiCl4 (Sigma-Aldrich, 99.998%) and DI water exposures. Anhydrous pyridine (Sigma-Aldrich, C5H5N, 99.8%) was co-dosed with each reactant exposure. This setup consists of a diffusion-pumped stainless steel chamber equipped with three computer-controlled solenoid valves. The chamber was evacuated to <1 × 10-4 Torr, and growth was initiated with a 2 s exposure of SiCl4 co-dosed with C5H5N, followed by a 20 s purge. This was followed by another similar half-cycle with DI water exposure co-dosed with C5H5N."
+}<|im_end|>

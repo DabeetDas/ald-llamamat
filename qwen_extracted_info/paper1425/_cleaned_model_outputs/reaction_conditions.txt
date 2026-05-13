@@ -1,0 +1,23 @@
+{
+  "reaction_equations": [
+    "ZnOH* + Zn(CH2CH3)2 → ZnOZn(CH2CH3)* + CH3CH3",
+    "Zn(CH2CH3)* + H2O → ZnOH* + CH3CH3",
+    "AlOH* + Al(CH3)3 → AlOAl(CH3)2* + CH4",
+    "AlCH3* + H2O → AlOH* + CH4",
+    "ZnOH* + Al(CH3)3 → Al(OH)(CH3)* + Zn(CH3)2"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the interaction of Zn(CH2CH3)2 and H2O for ZnO ALD, and Al(CH3)3 and H2O for Al2O3 ALD. The ZnO growth is inhibited on Al2O3 surfaces due to reduced initial reactivity of DEZ, and Al2O3 growth is inhibited on ZnO surfaces due to etching by TMA. The etching process forms ZnAl2O4 spinel, leading to a lower Zn content in the alloy films. The growth rates are affected by the nucleation periods and surface hydroxyl coverage, with reduced growth rates observed during the initial cycles.",
+  "intermediate_species": [
+    "ZnOH*",
+    "ZnOZn(CH2CH3)*",
+    "CH3CH3",
+    "AlOH*",
+    "AlOAl(CH3)2*",
+    "CH4",
+    "AlCH3*",
+    "Zn(CH3)2",
+    "Al(OH)(CH3)*",
+    "ZnAl2O4 spinel"
+  ],
+  "evidence": "The surface reactions and mechanisms are discussed in the text, particularly in the sections describing the ALD process for ZnO and Al2O3, the etching effects during Al2O3 ALD cycles, and the formation of ZnAl2O4 spinel. The equations and intermediate species are explicitly mentioned in the text."
+}

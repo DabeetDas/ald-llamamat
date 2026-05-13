@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "1",
+  "number_of_cycles": null,
+  "reactor_type": "Savannah-100",
+  "evidence": "In the series of deposition processes we adopted a double-exchange reaction between water and a zinc precursor. In the latter part we tried three different organic compounds: zinc acetate, dimethylzinc, and diethylzinc. For ZnO films grown with DMZn precursor we did not find any clear relation between process parameters and the crystallographic orientation. In the case of DEZn and zinc acetate precursors one can manipulate preferential orientation by changing the temperature and purging time. For LT (100 °C) and low purging time (1s) there is no privilege orientation of ZnO."
+}<|im_end|>

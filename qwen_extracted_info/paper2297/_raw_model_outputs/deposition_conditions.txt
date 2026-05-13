@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "10e3 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 15,
+  "number_of_cycles": null,
+  "reactor_type": "Synchrotron-radiation-excited (SR-ALE)",
+  "evidence": "One cycle consisted of disilane exposure for T1, gas evacuation for 15 s, SR irradiation for T, in the vacuum, and a 3 s wait until the next ALE cycle began."
+}<|im_end|>

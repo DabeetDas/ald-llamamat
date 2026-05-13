@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Ta(OC2H5)5",
+    "Nb(OC2H5)5",
+    "AlCl3"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The precursors evaporated are alternately led to one end of the channel and move in the form of adsorption waves along the substrate surfaces toward the other end. Nitrogen was used as a precursor carrier and purge gas."
+}

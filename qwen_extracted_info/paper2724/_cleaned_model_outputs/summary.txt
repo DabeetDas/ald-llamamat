@@ -1,0 +1,8 @@
+{
+  "target_material": "aluminum oxide",
+  "process_type": "thermal ALD and plasma enhanced ALD (PEALD)",
+  "main_precursors": ["aluminum tri-sec-butoxide (ATSB)", "water", "oxygen plasma", "water plasma"],
+  "temperature_range": "100 to 300 °C",
+  "summary": "This study investigates the use of aluminum tri-sec-butoxide (ATSB) as a liquid alkoxide precursor for atomic layer deposition (ALD) of aluminum oxide films. Both thermal and plasma enhanced ALD processes are explored using water, oxygen plasma, and water plasma as coreactants. The processes achieve a growth rate of 1–1.4 Å/cycle at substrate temperatures ranging from 100 to 200 °C. The films exhibit smooth surfaces and near-stoichiometric composition, with carbon contamination below detection limits in some cases. However, decomposition of ATSB starts at 200 °C, which may affect the ALD process.",
+  "evidence": "The study investigates a liquid alkoxide, aluminum tri-sec-butoxide (ATSB), as a precursor for ALD deposition of alumina. Both thermal and plasma enhanced ALD processes are investigated in a vacuum type reactor by using water, oxygen plasma, and water plasma as coreactants. All processes achieved ALD deposition at a growth rate of 1 –1.4 Å/cycle for substrate temperatures ranging from 100 to 200 °C. The results indicate that ATSB starts to decompose from 200 °C, although the decomposition rate appears quite limited for typical exposure doses until 300 °C."
+}

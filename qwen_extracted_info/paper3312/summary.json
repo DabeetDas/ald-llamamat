@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnO:Al (Al-doped ZnO)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Zn(C2H5)2",
+    "Al(CH3)3",
+    "H2O"
+  ],
+  "temperature_range": "180 /C14 C for deposition, 1000 /C14 C for post-deposition annealing",
+  "summary": "Al-doped ZnO thin films were prepared on c-Al2O3 substrates using ALD with alternating pulses of Zn(C2H5)2, Al(CH3)3, and H2O precursors, followed by high-temperature annealing. The study investigated the structural, optical, and electro-optical properties of the films, revealing the formation of two layers: a single-crystal ZnO layer and a polycrystalline ZnAl2O4 layer. The reduction in the threshold of stimulated emission with increasing Al concentration was attributed to optical scattering from Al segregation.",
+  "evidence": "Al-doped ZnO thin ﬁlms were prepared on the (0001) sapphire ( c-Al2O3) substrates by atomic layer deposition (ALD) using alternating pulses of Zn(C 2H5)2, Al(CH 3)3 and H 2O precursors and post-deposition high-temperature annealing. ... The growth mechanism of the observed two layers is discussed."
+}

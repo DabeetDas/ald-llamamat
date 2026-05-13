@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs and AlAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["arsine (AsH3)", "trimethyl gallium (TMGa)", "trimethyl aluminium (TMAl)"],
+  "temperature_range": "500 °C",
+  "summary": "The study investigates the initial stages of GaAs and AlAs growth on Si substrates using atomic layer epitaxy (ALE). The process involves alternating pulses of group III (TMGa or TMAl) and group V (AsH3) precursors. The growth starts with three-dimensional growth but transitions to layer-by-layer growth. Starting the growth from AlAs instead of GaAs improves coverage and crystal quality due to selective adsorption and self-limiting effects. The study also compares ALE with molecular beam epitaxy (MBE) and highlights the advantages of ALE in achieving smoother interfaces and better coverage.",
+  "evidence": "The text states that ALE was performed on 3° off (100) substrates at 500 °C using arsine and metalorganic gas sources. It also mentions that the growth starts with three-dimensional growth but transitions to layer-by-layer growth. The improvement in coverage by starting from AlAs is attributed to selective adsorption and self-limiting effects."
+}<|im_end|>

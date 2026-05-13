@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "trimethylgallium (TMG)",
+    "triethylgallium (TEG)"
+  ],
+  "coreactants": [
+    "AsH3"
+  ],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [
+    "H2"
+  ],
+  "evidence": "In the TEG-AsH3 system, clear saturation is observed for a wide range of experimental conditions. The H2 carrier gas was constantly fed into the chamber with a flow rate of 2700 standard cm3 min-1. The gases TMG or TEG and AsH3 were alternately fed into the chamber at an interval of 1 s to prevent mixing of the gases."
+}

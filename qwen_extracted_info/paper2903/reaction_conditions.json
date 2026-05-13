@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the reaction between tin(IV) tetra-butoxide and acetic acid, leading to the formation of SnO2. The process is self-limiting, with the growth per cycle being determined by the saturation of surface reactions.",
+  "intermediate_species": [
+    "Sn(OtBu)4",
+    "CH3COOH",
+    "SnO2"
+  ],
+  "evidence": "The surface reactions involve the reaction between tin(IV) tetra-butoxide and acetic acid, leading to the formation of SnO2. The process is self-limiting, with the growth per cycle being determined by the saturation of surface reactions."
+}

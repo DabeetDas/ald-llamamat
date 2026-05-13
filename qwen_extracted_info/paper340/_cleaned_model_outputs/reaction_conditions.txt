@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The self-limiting mechanism exists for a finite period of time, during which adsorbed Ga-alkyl is responsible for the limiting mechanism. When the methyl radicals completely desorb, adsorption and pyrolysis of TMG is not inhibited.",
+  "intermediate_species": ["Ga-alkyls", "methyl radicals"],
+  "evidence": "The dynamical evolution of the surface reconstruction indicates that a saturation coverage of the Ga-alkyls instead of Ga atoms is responsible for the limiting mechanism. The size of TMG prevents its neighboring sites from being occupied by other alkyl molecules and its derivatives. The random distribution and the rotational degree of freedom of these molecules destroy the ordered reconstruction normally observed for a crystalline surface. At room temperature, saturation coverage of TMG results in only about 0.1 ML free Ga. As substrate temperature increased, the desorption rates for Ga-alkyl and methyl radical are different and so is their relative surface population."
+}

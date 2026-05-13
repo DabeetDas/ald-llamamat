@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 2,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The aluminium contents of the samples were measured with a Siemens SRS303 X-ray fluorescence spectrometer, and the nitrogen and carbon contents with a LECO CHN analyser treatment at 1223 K with oxygen . The specific surface areas were measured according to the Brunauer±Emmett±Teller BET method with a Micrometrics Asap 2400 instrument. The aluminium, nitrogen, and carbon contents were calculated with respect to the original silica surface by subtracting the masses of aluminium, nitrogen, carbon, and the calculated mass of hydrogen from the mass of the sample. The mass of hydrogen was calculated assuming an H:C ratio of three all carbon in methyl groups and an average H:N ratio of 1.5 in the amino groups. Because of the low molar mass of hydrogen, deviation of the hydrogen content from 3 and 1.5 in the assumed H:C and H:N ratios resulted in negligible error, on the order of 0.01 atoms rnm note that the unit used,silica atoms rnm2 , differs from surface density,silica atomsrnm2 ; the former counts all the atoms present in the sample, not just those on the outermost layer ."
+}

@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "Fe(Cp)(Cp_tBu) + O3 -> FeO + byproducts"
+  ],
+  "surface_mechanism_description": "The surface mechanism involves the iterative uptake of oxygen from ozone into the film and its subsequent consumption by the TBF precursor. This process allows for the storage of superstoichiometric oxygen in the film, which can be consumed by additional TBF exposure, leading to the deposition of more than one monolayer of Fe2O3 per cycle.",
+  "intermediate_species": [
+    "superstoichiometric oxygen",
+    "excess oxygen"
+  ],
+  "evidence": "The proposed mechanism is consistent with the growth behaviors observed in Figure 1: if the film can act as a reservoir for oxygen then the ALD half reactions would no longer be confined to the surface monolayer of the growing film, resulting in higher saturated GPCs. This growth model also explains the inhomogeneities in both composition and density found in the film and is consistent with the saturation behavior observed for the process."
+}<|im_end|>

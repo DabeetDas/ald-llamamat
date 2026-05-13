@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "773",
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "2600-17000",
+  "reactor_type": "flow-type ALE reactor",
+  "evidence": "Aluminum oxide films were deposited in a flow-type ALE reactor where the pressure during the process was around 1 mbar."
+}<|im_end|>

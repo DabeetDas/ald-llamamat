@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "titanium tetrachloride"
+  ],
+  "coreactants": [
+    "ion exchanged water"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "The precursors for titanium dioxide deposition were titanium tetrachloride (99.0% Fluka) and ion exchanged water. The titanium dioxide films were deposited in a TFS 500 ALD reactor (Beneq Oy, Vantaa, Finland). Nitrogen (99.999%, AGA) was used as a carrier and purging gas."
+}

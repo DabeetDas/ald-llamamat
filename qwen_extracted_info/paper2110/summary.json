@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2/LaAlO3/HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "50 °C (deposition) and 900 °C (annealing)",
+  "summary": "The study investigates the use of a nanolaminated HfO2/LaAlO3/HfO2 dielectric on Si for high-k gate dielectrics. The ALD process using HfCl4 and H2O precursors is employed to deposit HfO2, while LaAlO3 is incorporated to increase the crystallization temperature without reducing the dielectric constant. The material remains amorphous after annealing at 900 °C and exhibits improved electrical properties compared to polycrystalline HfO2.",
+  "evidence": "In order to compare and contrast the electrical properties of the laminated dielectric with the pure HfO2 film, capacitor structures were fabricated and capacitance-voltage measurements were conducted on these two materials. The laminated dielectric was grown using ALD with HfCl4 and H2O precursors."
+}

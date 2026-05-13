@@ -1,0 +1,8 @@
+{
+  "target_material": "Zn(O,S)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["diethylzinc", "water (H2O)", "hydrogen sulfide (H2S)"],
+  "temperature_range": "120–220 °C",
+  "summary": "This study investigates the effect of deposition temperature on Zn(O,S) films synthesized by atomic layer deposition (ALD) for Cu(In,Ga)Se2 solar cells. The films were deposited using diethylzinc, water, and hydrogen sulfide as precursors. The study focuses on the influence of temperature on the structural, electrical, and optical properties of the films, revealing that the properties undergo significant changes while the atomic composition remains constant within a specific temperature range.",
+  "evidence": "Zn(O,S) films were deposited by atomic layer deposition from diethylzinc, water (H2O), and hydrogen sulfide (H2S). The study investigates the effect of the deposition temperature between 120 and 220 °C at a constant H2S/(H2O + H2S) pulse ratio (9%)."
+}

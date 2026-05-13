@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "50-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.2,
+  "coreactant_pulse_time_s": 7,
+  "purge_time_s": 3,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type, ALD reactor with remote microwave plasma source",
+  "evidence": "The growth rate saturated with a 0.2 s titanium isopropoxide pulse and a 7 s oxygen radical pulse. The purge period for the titanium isopropoxide was twice the respective pulse length. A constant 3 s purge was used for the oxygen radical pulse which is only required to let the flow through the discharge tube stop."
+}<|im_end|>

@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "bis(tert-butylimido)bis(dimethylamido)tungsten (TBIDMW)"
+  ],
+  "coreactants": [
+    "H2",
+    "N2",
+    "NH3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "He"
+  ],
+  "evidence": "The precursor was introduced to the reactor from a container held at 30 6 1°C by bubbling helium (He) at a flow rate of 140 sccm. One deposition cycle consisted of exposure to the precursor, argon (Ar) purge, plasma exposure, and another Ar purge. The precursor was introduced to the reactor from a container held at 30 6 1°C by bubbling helium (He) at a flow rate of 140 sccm. The impurity levels in the films were estimated using Auger electron spectroscopy (AES) and resistivities were determined from the product of the sheet resistance measured using a four-point probe and the film thickness. The thicknesses of the samples were determined using X-ray reflection (XRR)."
+}

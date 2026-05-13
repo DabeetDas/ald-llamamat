@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "WF",
+    "SiH26",
+    "NH3"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The WF and Si H reactant exposures were controlled by performing various numbers of identical reactant pulses. The WF or Si H reactants were introduced by opening automated valves for a few milliseconds. These valve openings create small pressure transients in the deposition chamber. Between the WF and Si H reactant exposures, the deposition chamber was purged with N for several minutes."
+}

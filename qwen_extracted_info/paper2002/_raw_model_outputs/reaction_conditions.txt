@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "DMCd + Zn* -> CH3* + Zn(CH3) + CH4",
+    "H2S + CH3* -> H* + S* + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between DMCd and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "CH3*",
+    "H*",
+    "S*"
+  ],
+  "evidence": "The primary considerations for selecting this model were, first, a close lattice match of the two materials and, second, a different elemental composition of the overlayer than that of the substrate. The latter makes it possible to accurately measure the coverage of the deposited material, especially in the first few monolayers. Using the lattice mismatch of 2.7% in the M – B equilibrium model predicts a critical thickness for defect formation of ;15 ML, a value less than the thickness grown here."
+}<|im_end|>

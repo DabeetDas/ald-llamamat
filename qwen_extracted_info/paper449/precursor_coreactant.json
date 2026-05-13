@@ -1,0 +1,11 @@
+{
+  "precursors": [
+    "dimethylgermane ((CH3)2GeH2, DMGe)"
+  ],
+  "coreactants": [
+    "atomic hydrogen"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The text states: 'the first successful Ge-ALE with the ideal growth rate of one monolayer per cycle has been demonstrated by Takahashi et al. using diethylgermane ((C2H5)2GeH2, DEGe) as self-limiting molecular precursor and Ar ion laser heating for desorption of the surface-terminating species [15].' Additionally, it mentions: 'In atomic-hydrogen-assisted ALE, atomic hydrogen was created by thermal dissociation of H2 molecules.'"
+}

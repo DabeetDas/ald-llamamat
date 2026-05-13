@@ -1,0 +1,11 @@
+{
+  "target_material": "alkaline earth sulfides (CaS, SrS, BaS)",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": [
+    "M(thd)2 (M = Ca, Sr, Ba)",
+    "H2S"
+  ],
+  "temperature_range": "450 °C",
+  "summary": "Alkaline earth sulfide thin films (CaS, SrS, BaS) were grown by atomic layer epitaxy using M(thd)2 (M = Ca, Sr, Ba) and H2S as precursors. The films were polycrystalline and chemically pure, with growth rates of 0.3–0.4 Å/cycle. The films exhibited different crystallographic orientations depending on the material, and the process was carried out at a substrate temperature of 450 °C.",
+  "evidence": "Alkaline earth sulfide (CaS, SrS, BaS) thin films have been grown by the atomic layer epitaxy method on glass substrates. Starting materials were the 2,2,6,6-tetramethyl-3,5-heptanedionato (thd) chelates of the alkaline earth metals and hydrogen sulfide. The growth rate was reasonable (0.3—0.4A/cycle) and according to the X-ray diffraction patterns and Auger spectra the films were polycrystalline and chemically pure. All films were slightly oriented but each towards different directions: CaS along (220), SrS along (111) and BaS along (200)."
+}

@@ -1,0 +1,13 @@
+{
+  "target_material": "Rubidium-containing thin films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "RbO tBu",
+    "Ti(O iPr) 4",
+    "DI H2O",
+    "Nb(OEt) 5"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study reports the successful deposition of rubidium-containing thin films using ALD, demonstrating the feasibility of depositing rubidium compounds, which are typically difficult to handle due to their high reactivity and volatility. The process uses RbO tBu as a precursor and water for incorporation of Rb. The films were deposited on Si(100) and SrTiO3(100) substrates, and the study shows the formation of perovskite RbNbO3 on SrTiO3(100) after annealing. The results open up new possibilities for exploring complex oxide systems through ALD.",
+  "evidence": "Deposition of rubidium containing thin films is not readily available by conventional physical deposition techniques or chemical vapor deposition, due to the high volatility of rubidium oxide at high temperatures. Being able to deposit rubidium containing compounds at reduced temperatures, such as demonstrated here, facilitates the exploration of new types of compounds. The study shows the formation of perovskite RbNbO3 on SrTiO3(100) after annealing."
+}

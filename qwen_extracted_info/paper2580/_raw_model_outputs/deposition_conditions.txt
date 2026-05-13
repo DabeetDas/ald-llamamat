@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "1.5 mbar",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 4,
+  "number_of_cycles": "34 to 500",
+  "reactor_type": "Sunale R-150 Picosun OY ALD reactor",
+  "evidence": "TAO thin ﬁlms were grown by atomic layer deposition technique using a hot-wall low pressure (1.5 mbar) Sunale R-150 Picosun OY ALD reactor. ... The duration of both Al(CH3)3 and Ti(OC2H5)4 pulses was t=0.1 s, while the H2O pulse duration was t=0.2 s. N2 purge 4 s long was used after each precursor injections."
+}<|im_end|>

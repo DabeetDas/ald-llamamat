@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The blue emission of the TeO2 nanowires is slightly enhanced in intensity by sheathing them with SnO2 and further enhanced by thermal annealing in a reducing atmosphere. The enhancement is attributed to the increases in both the O vacancy and Sn interstitial concentrations in the cores during the annealing process.",
+  "intermediate_species": [
+    "O vacancy",
+    "Sn interstitial"
+  ],
+  "evidence": "The blue emission of the TeO2 nanowires is slightly enhanced in intensity by sheathing them with SnO2. The blue emission is further enhanced by annealing in a reducing atmosphere whereas it is slightly degraded by annealing in an oxidative atmosphere. EDS concentration profiles suggest that the enhancement of the blue emission by annealing in a reducing atmosphere is attributed to the increases in both the O vacancy and Sn interstitial concentrations in the cores during the annealing process."
+}

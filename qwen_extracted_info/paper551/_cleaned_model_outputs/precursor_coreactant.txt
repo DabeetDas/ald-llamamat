@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMAT", "NH3"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The TiN CVD reaction using TDMAT and NH3 is given by: Ti(N(CH3)2)4 + 4NH3 → TiN + 4HN(CH3)2 + 1/2N2. The nitrogen carrier gas transported the precursor vapors to the QCM and swept away the unreacted precursors and reaction products."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 80,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "glassware",
+  "evidence": "Depositions were performed in a simple home-made ALD glassware set-up coupled with typical vacuum/Ar Schlenk line. Each precursor was sequentially introduced into the reactor with pulse of 2 and 3 s, respectively, and separated to each other by a purge under Ar flow for 30 s."
+}

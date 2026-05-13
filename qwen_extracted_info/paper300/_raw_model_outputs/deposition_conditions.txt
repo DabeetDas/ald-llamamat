@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "160–220",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 4.0,
+  "number_of_cycles": 600,
+  "reactor_type": "Picosun R-100",
+  "evidence": "The pulsing times were 0.1 s followed by a N2 purge of 4.0 s for DEZ and H2O, while a N2 purge of 10 s and precursor pulses of 0.3 and 1.0 s were used for TMA and TMP, respectively."
+}<|im_end|>

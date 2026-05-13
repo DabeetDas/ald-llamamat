@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Triethylgallium"
+  ],
+  "coreactants": [
+    "oxygen plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Depositions were done using an optimized recipe consisting of 0.1 sec Triethylgallium (Strem Chemicals, Inc., electronic grade (99.9999% Ga) in stainless steel Swagelok® cylinder assembly which was not heated during the depositions), 20 sec Ar purge, 10 sec oxygen plasma and 12 sec Ar purge."
+}

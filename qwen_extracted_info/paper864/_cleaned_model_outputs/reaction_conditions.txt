@@ -1,0 +1,6 @@
+{
+  "reaction_equations": ["2VO(OC3H7)3 + 3H2O → V2O5 + 6HOC3H7"],
+  "surface_mechanism_description": "The surface reaction mechanism involves the reaction of vanadyl triisopropoxide (VTOP) with water to form vanadium oxide gel, which then leads to the formation of V2O5 thin films. The reaction is carried out through a sequential introduction of the reaction precursors in an atomic layer chemical vapour deposition (ALCVD) process.",
+  "intermediate_species": ["vanadium oxide gel"],
+  "evidence": "The global reaction can be expressed as: 2VO(OC3H7)3 + 3H2O → V2O5 + 6HOC3H7. Vanadium oxide thin films were deposited on titanium foils. VTOP (vapor pressure of 0.29 Torr at 45◦C) reacts rapidly with water at room temperature and forms a vanadium oxide gel. The thin vanadium oxide films are obtained after evaporation of water at t4."
+}

@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 200,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "orthorhombic",
+  "evidence": "The lattice parameters were obtained from profile fitting with the FULLPROF software. The temperature dependencies of magnetization for the SmMnO3 thin-film samples deposited on silicon, LaAlO3, and SrTiO3 are shown in Figure 5. The observed N/C19eel temperature is ∼60 K in all the cases, regardless of the substrate material and well in agreement with results on powder samples. 31 Most of the measurements were, however, performed on RMnO3 samples deposited on LaAlO3 as these samples contained the least amount of impurities. The poor crystallinity of hexagonal phases caused some difficulties in the magnetization measurements, and collecting good-quality data proved to be challenging despite several attempts. Moreover, although qualitative interpretations based on magnetization measurements of thin-film samples can be done reliably, care should be taken while making any conclusions based on absolute values obtained from the data as several factors, such as the degree of crystallinity of the film, can affect the magnitude of the magnetic susceptibility. For o-RMnO3, the temperature dependence of magnetization revealed the expected antiferromagnetic properties as seen in Figure 6 where o-YMnO3 and o-TbMnO3 were chosen as representative examples."
+}

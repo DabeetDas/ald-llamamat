@@ -1,0 +1,11 @@
+{
+  "target_material": "MgO",
+  "process_type": "atomic layer growth (ALG)",
+  "main_precursors": [
+    "Mg(C2H5)2",
+    "H2O"
+  ],
+  "temperature_range": "600–900 °C",
+  "summary": "High-quality MgO thin films are deposited on Si(111) substrates using atomic layer growth (ALG) with bis(cyclopentadienyl)magnesium and water as precursors. The growth orientation changes from (111) to (100) as the substrate temperature increases from 600 to 900 °C. The study investigates the temperature-dependent growth orientation and the hydrolysis surface reaction mechanism.",
+  "evidence": "High-quality MgO thin films deposited on Si( 111) substrates by atomic layer growth (ALG) are formed by a hydrolysis surface reaction of Mg(C2H5)2 and H2O. The growth orientation of MgO changes from ( 111) to ( 100) when the temperature of the silicon substrate changes from 600 to 900 °C. The significance of MgO film as a high temperature material... Here, we report atomic layer growth of MgO from the surface hydrolysis reaction of bis(cyclopentadienyl)magnesium and water on ( 111) Si wafers. The growth orientation changes from (111) at 600°C to (100) at 900°C."
+}

@@ -1,0 +1,23 @@
+{
+  "precursors": [
+    {
+      "name": "DEZn",
+      "full_name": "diethyl zinc",
+      "evidence": "Diethyl zinc (DEZn) and deionized water (H2O) were used as a zinc source and oxygen source, respectively."
+    },
+    {
+      "name": "H2O",
+      "full_name": "deionized water",
+      "evidence": "Diethyl zinc (DEZn) and deionized water (H2O) were used as a zinc source and oxygen source, respectively."
+    }
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    {
+      "name": "N2",
+      "evidence": "High purity nitrogen gas was used as the purge gas."
+    }
+  ],
+  "carrier_gas": [],
+  "evidence": "Diethyl zinc (DEZn) and deionized water (H2O) were used as a zinc source and oxygen source, respectively. High purity nitrogen gas was used as the purge gas."
+}

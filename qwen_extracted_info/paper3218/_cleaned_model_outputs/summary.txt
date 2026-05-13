@@ -1,0 +1,8 @@
+{
+  "target_material": "CeO2",
+  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": ["Ce(iPrCp)3"],
+  "temperature_range": "250 /C14 C",
+  "summary": "The study describes the growth of CeO2 thin films using plasma-enhanced atomic layer deposition (PE-ALD) with Ce(iPrCp)3 as the cerium precursor and O2 plasma as the oxidizing agent. The films exhibited good self-saturation behavior, linear growth, and high purity with stoichiometric composition. The PE-ALD process produced polycrystalline cubic CeO2 films with improved electrical properties after O2 annealing.",
+  "evidence": "CeO2 thin ﬁlms were deposited by plasma-enhanced atomic layer deposition (PE-ALD). ... The PE-ALD process exhibited ALD mode with good self-saturation behavior and linear growth without any nucleation delay on Si substrate as a function of growth cycles. ... Additionally, it produced highly pure and nearly stoichiometric CeO2 ﬁlms with polycrystalline cubic phases. ... Electrical properties of Al/CeO2/p-Si capacitors were improved by O2 annealing with reduction in interface state density (Dit), hysteresis, effective oxide charge (Qeff) and leakage current density."
+}

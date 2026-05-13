@@ -1,0 +1,9 @@
+{
+  "film_thickness_nm": null,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "",
+  "evidence": "In the Auger spectra no chlorine or carbon was detectable in the films deposited above 673 K. This means that the chlorine and carbon contents of the films are below one percent. XRF measurements and chemical analyses indicated that the chlorine content decreases with increasing growth temperature independent of the oxygen source (Fig. 3). The SEM pictures show for waterfree processes a rather smooth and non-porous surface (Fig. 4). Furthermore, according to SEM pictures and stability experiments the films deposited from aluminium chloride and alcohols were durable against humidity when the deposition temperature was over 673 K.",
+  "_warning": "Parsed successfully, but no extracted content was found. Check _raw_model_outputs for this paper."
+}

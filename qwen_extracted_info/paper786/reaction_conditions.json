@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the sequential application of titanium (IV) isopropoxide (TIP) and water as precursors. The TIP is adsorbed onto the hydrophilic modified pore wall and surface of AAO, followed by a purge step. Water is then introduced, leading to a reaction that forms TiO2 nanotubes. The self-limiting nature of ALD ensures precise control over the thickness of the deposited layers.",
+  "intermediate_species": [
+    "titanium (IV) isopropoxide",
+    "surface hydroxyls",
+    "TiO2 nanotubes"
+  ],
+  "evidence": "For ALD coating of TiO2 onto the AAO pore walls, we utilized a developed novel procedure well established by other groups. Here, titanium(IV) isopropoxide (TIP, Ti(OCH(CH3)2)4), and water were used as precursors for TiO2 deposition. The carrier gas was nitrogen (40 ml/min). Within every ALD cycle, each of the precursors is let into the reaction chamber within a pulse, the pulse time, and is allowed to adsorb to the surface of the reaction substrate (here, the surface of AAO and the pore walls) for a certain period of time, the exposure time, followed by a purging period."
+}

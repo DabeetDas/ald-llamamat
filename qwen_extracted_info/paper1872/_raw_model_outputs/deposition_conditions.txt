@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250–500",
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 6,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "ZrCl4 (Strem, 99.95 1%) was held inside the reactor in an open boat at 165 uC and the pulsing was accomplished with inert gas valving.29 ZrCl4 is moisture sensitive and therefore the precursor boat was loaded in a glove box and exposed to air only for a couple of seconds before inserting it into the reactor. D2O (Euriso-top, 99.9% D) was held outside the reactor in a glass bottle at room temperature (20–22 uC), the flow rate was controlled by a needle valve and the pulsing was accomplished using a solenoid valve. The precursor pulse times were 3 s and 5 s for ZrCl4 and D2O respectively. The purge time was 6 s after each precursor pulse."
+}<|im_end|>

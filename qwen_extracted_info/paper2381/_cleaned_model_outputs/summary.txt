@@ -1,0 +1,8 @@
+{
+  "target_material": "MgO",
+  "process_type": "thermal ALD",
+  "main_precursors": ["bis(cyclopentadienyl)magnesium", "H2O"],
+  "temperature_range": "80–350 ◦C",
+  "summary": "MgO thin films were deposited using thermal ALD with bis(cyclopentadienyl)magnesium and H2O precursors in the temperature range of 80–350 ◦C. The films showed good structural, morphological, and chemical properties, with a dielectric constant of approximately 11. The study also explored the integration of Co layers on top of MgO without vacuum break.",
+  "evidence": "Abstract: Magnesium oxide (MgO) films have been grown by atomic layer deposition in the wide deposition temperature window of 80–350 ◦C by using bis(cyclopentadienyl)magnesium and H2O precursors. MgO thin films are deposited on both HF-last Si(1 0 0) and SiO2/Si substrates at a constant growth rate of ∼0.12 nm cycle−1. The structural, morphological and chemical properties of the synthesized MgO thin films are investigated by x-ray reflectivity, grazing incidence x-ray diffraction, time-of-flight secondary ion mass spectrometry and atomic force microscopy measurements. MgO layers are characterized by sharp interface with the substrate and limited surface roughness, besides good chemical uniformity and polycrystalline structure for thickness above 7 nm. C–V measurements performed on Al/MgO/Si MOS capacitors, with MgO in the 4.6–11 nm thickness range, allow determining a dielectric constant(κ) ∼11."
+}

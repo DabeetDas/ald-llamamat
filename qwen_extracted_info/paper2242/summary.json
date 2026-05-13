@@ -1,0 +1,13 @@
+{
+  "target_material": "Al2O3, ZnO, TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "diethyl zinc (DEtZn)",
+    "titanium tetrachloride (TiCl4)",
+    "water (H2O)"
+  ],
+  "temperature_range": "85 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to infiltrate Al2O3, ZnO, and TiO2 into opal templates to create multistack inverse opal structures with different refractive index contrasts. The ALD process was optimized to ensure full infiltration while minimizing excess oxide layer formation on the outer surface of the templates. The resulting structures were used to engineer photonic bandgaps with broadened reflection bands.",
+  "evidence": "Al2O3, ZnO, and TiO2 were infiltrated into opal templates by atomic layer deposition. The growth temperature was kept at 85 °C, below the glass transition temperature of PS. One ALD reaction cycle consisted of a 1 s exposure to TMA, DEtZn, or TiCl4 followed by a 20 s N2 purge, and a 1 s exposure to H2O vapor, followed by another 20 s N2 purge."
+}

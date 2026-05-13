@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "TMA", "AlCl3"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "In the experimental section, it is stated: 'The pressure of nitrogen (99.999% purity) that was used as a carrier and purge gas was kept at 200–240 Pa in the reaction zone.'"
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN/Al2O3 stacks",
+  "process_type": "plasma-assisted ALD",
+  "main_precursors": ["Al(CH3)3 (trimethylaluminum)", "TiCl4 (titanium tetrachloride)"],
+  "temperature_range": "350–400 °C",
+  "summary": "This study investigates the plasma-assisted atomic layer deposition (ALD) of TiN/Al2O3 stacks for metal-oxide-semiconductor (MOS) capacitor applications. The process involves depositing Al2O3 and TiN sequentially in a single reactor at a single substrate temperature. The deposited stacks are characterized for their structural, electrical, and reliability properties. The results show good interface quality, low leakage current densities, and high breakdown electric fields, indicating the potential of these stacks for high-performance MOS capacitors.",
+  "evidence": "By employing plasma-assisted atomic layer deposition, thin films of Al2O3 and TiN are subsequently deposited in a single reactor at a single substrate temperature with the objective of fabricating high-quality TiN/Al2O3/p-Si metal-oxide-semiconductor capacitors. Transmission electron microscopy and Rutherford backscattering spectroscopy analyses show well-defined interfaces and good Al2O3 stoichiometry, respectively. Electrical investigation of as-deposited test structures demonstrates leakage current densities as low as 1 nA/cm2. Current-voltage measurements demonstrate clear Fowler–Nordheim tunneling with an average TiN/Al2O3 barrier height of 3.3 eV. Steep Weibull distributions of the breakdown electric field around 7.5 MV/cm indicate good reliability of these devices."
+}<|im_end|>

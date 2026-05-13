@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethyl phosphate (TMP, Me3PO4)", "Trimethylaluminum (TMA, Me3Al)"],
+  "coreactants": ["O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "ABSTRACT: Aluminum phosphate thin ﬁlms were deposited by plasma-assisted atomic layer deposition (ALD) using a sequence of trimethyl phosphate (TMP, Me3PO4) plasma, O2 plasma, and trimethylaluminum (TMA, Me3Al) exposures."
+}

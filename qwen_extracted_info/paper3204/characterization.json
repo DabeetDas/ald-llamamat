@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "Field emission scanning electron microscopy (FE-SEM)",
+    "Synchrotron radiation x-ray diffraction (SRXRD)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Atomic force microscopy (AFM)",
+    "Profilometry",
+    "Four-point probe"
+  ],
+  "evidence": "Field emission scanning electron microscopy (FE-SEM) was used to determine the film thickness, morphology, and conformality. The resistivities of the ALD Ni thin films were calculated using the film thickness and sheet resistance measured by four-point probe. The microstructures of the Ni films were analyzed by synchrotron radiation x-ray diffraction (SRXRD). The chemical compositions were analyzed by x-ray photoelectron spectroscopy (XPS). The deposition selectivity of ALD Ni on line-patterned OTS substrates was estimated by measuring the thickness difference between the OTS-coated and uncoated regions using atomic force microscopy (AFM) and profilometry. The I–V characteristics of AS-ALD Ni on the prepatterned OTS surface were measured using an HP 5270A."
+}

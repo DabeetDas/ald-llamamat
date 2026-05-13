@@ -1,0 +1,7 @@
+{
+  "substrate_material": "Ge (100)",
+  "substrate_orientation": "100",
+  "pretreatment": "cleaned in acetone and methanol for 5 min each, native oxide was removed by dipping into a 0.5% HF solution for 5 min, surface was exposed to gaseous ozone at 100 °C for 30 min, followed by another HF treatment (10% solution) for 20 min",
+  "surface_functionalization": "tetradecyl-SAM",
+  "evidence": "We used p-type Ge (100) wafers (Ga-doped, ρ = 0.01–0.04 Ω cm) in this study. The Ge wafers were cleaned in acetone and methanol for 5 min each to remove organic contamination. Native oxide was removed by dipping the Ge wafer into a 0.5% HF solution for 5 min. The surface was exposed to gaseous ozone in a stainless steel chamber at 100 °C for 30 min for oxidation. This was followed by another HF treatment (10% solution) for 20 min to remove the oxidized Ge layer and to form H-terminated bonds on the Ge surface. Next, the Ge surface was dipped in tetradecene (92%, Aldrich) at 200 °C for 2 h to prepare it for SAM passivation."
+}

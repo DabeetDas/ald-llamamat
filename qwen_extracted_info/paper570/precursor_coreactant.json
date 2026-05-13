@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "HfO2 ®lms were grown in a ¯ow-type hot-wall ALD reactor (Fig. 1) using HfCl 4 and H 2O as the precursors. Solid HfCl4 was volatilized in an effusion cell and carried into the reaction zone with pure N 2 gas."
+}

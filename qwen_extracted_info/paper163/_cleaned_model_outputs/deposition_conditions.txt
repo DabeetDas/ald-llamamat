@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "3 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "3",
+  "number_of_cycles": null,
+  "reactor_type": "flow-type ALD reactor manufactured by ASM Microchemistry Ltd.",
+  "evidence": "When studying the NbCl 5/D2O process, the NbCl 5 pulses were 2 s, the D 2O pulses 3 s, and all the purge periods 3 s."
+}

@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "Sb(NMe2)3",
+    "H2S"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "The ALD reaction 26 between Sb(NMe2)3 and H2S delivers reproducible Sb2S3 coatings in cylindrical, straight pores of 80 nm diameter and 30 mm length."
+}

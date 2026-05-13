@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": 5,
+  "reactor_type": "home-built ALD reactor",
+  "evidence": "The Si sample temperature is varied between 200 and 300 °C. After each precursor pulse, the reactor is purged and pumped for at least 5 min with ultrapure N2 gas."
+}<|im_end|>

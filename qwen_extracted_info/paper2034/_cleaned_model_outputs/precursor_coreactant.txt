@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethyl aluminum", "water"],
+  "coreactants": [],
+  "purge_gas": [],
+  "carrier_gas": ["N2"],
+  "evidence": "For this demonstration, we apply 10-nm-thick films of Al2O3 using a binary reaction sequence with precursors of trimethyl aluminum and water. Deposition is carried out in a viscous flow reactor at 1 Torr and 168 °C, with N2 as a carrier gas."
+}

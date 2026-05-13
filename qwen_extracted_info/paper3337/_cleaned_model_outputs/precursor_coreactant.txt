@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethyl aluminum (TMA)", "hydrazine (N2H4)"],
+  "coreactants": [],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "ALD AlN was deposited using TMA and N2H4 as the Al precursor and nitrogen source, respectively. The films were deposited using home-built ALD system with a hollow-cathode plasma source (Meaglow Ltd., Thunder Bay, Canada) provision to generate plasma. The process pressure was maintained at 0.5 Torr with continuous flow of Ar carrier gas. The representative time sequence of one cycle of the ALD process condition was set to be: TMA pulse (0.1 s)–Ar purge (15 s)–N 2H4 pulse (0.1 s)–Ar purge (120 s), as shown in Figure 2."
+}

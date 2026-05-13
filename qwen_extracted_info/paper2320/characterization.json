@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "UV-vis spectrophotometric measurements",
+    "Grazing incidence X-ray diffraction (GIXRD)",
+    "X-ray reflectivity (XRR)",
+    "Atomic force microscopy (AFM)",
+    "Magnetic measurements using vibration sample magnetometer (VSM)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Hall Effect",
+    "Four-point probe",
+    "C-V measurement"
+  ],
+  "evidence": "The UV-vis spectrophotometric measurements were carried out in the wavelength range of 190–1100 nm (Hitachi-U 2000 spectrophotometer). Grazing incidence X-ray diffraction measurement (GIXRD; PANalytical model X’pert Pro diffractometer, Cu Kα radiation) was performed to identify the crystal structure of the post-deposition annealed films. The same diffractometer was used for the thickness and density determination of the as-deposited thin films from X-ray reflectivity (XRR) patterns. The thickness of the films after annealing was confirmed from the cantilever tip jump using an atomic force microscope (AFM; TopoMetrix Explorer). Magnetic measurements were performed with DynaCool physical property measurement system (PPMS) from Quantum design equipped with vibration sample magnetometer (VSM). The specimen dimension was 10× 5 mm2. The estimated saturation magnetization of 0.28 µB/f.u. was calculated using the calculated density 3.9 g/cc from the XRR fittings. The value of ∆E = 0.17 eV is in good agreement with values reported for similar oxide spinels in literature. The p-type conductivity and the semiconducting-type behavior with temperature are seen from the positive Seebeck values and the negative dρ/dT slope, respectively. The inset shows the well-known exponential law between resistivity and temperature ρ = ρ0 exp(∆E/k BT)."
+}

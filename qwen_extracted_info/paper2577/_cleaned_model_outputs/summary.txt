@@ -1,0 +1,8 @@
+{
+  "target_material": "metal oxides (Al2O3, Ta2O5) and metal nitrides (TaN, TiN)",
+  "process_type": "plasma-assisted ALD",
+  "main_precursors": ["Al(CH3)3", "Ta(NCH3)5", "TiCl4", "H2"],
+  "temperature_range": "not explicitly stated, but low temperature plasma-assisted ALD is mentioned",
+  "summary": "The paper discusses the use of optical emission spectroscopy (OES) to study, optimize, and monitor plasma-assisted atomic layer deposition (ALD) processes. It highlights the ability of OES to provide insights into the reaction mechanisms, surface reactions, and process optimization by analyzing the emitted light from plasma species and reaction products. The study focuses on the deposition of metal oxides (Al2O3, Ta2O5) and metal nitrides (TaN, TiN) using various precursors and plasma gases.",
+  "evidence": "The paper discusses the use of OES to study plasma-assisted ALD processes, including the identification of reaction products and mechanisms. It mentions the deposition of Al2O3, Ta2O5, TaN, and TiN using precursors such as Al(CH3)3, Ta(NCH3)5, TiCl4, and H2/N2 plasma. The study also emphasizes the role of OES in monitoring and optimizing the ALD process by analyzing plasma emission spectra."
+}

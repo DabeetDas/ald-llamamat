@@ -1,0 +1,8 @@
+{
+  "target_material": "Hafnium silicate",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["HfCl2@N(SiMe3)2#2", "H2O"],
+  "temperature_range": "150-400°C",
+  "summary": "Hafnium silicate thin films were deposited on Si substrates using ALD with HfCl2@N(SiMe3)2#2 as a single precursor and H2O as an oxidant. The study investigated the effect of deposition temperature on film growth rate and composition, showing a decrease in growth rate and an increase in Si content with higher temperatures. The process demonstrated self-limiting characteristics and the formation of hafnium silicate with varying Si/(Hf + Si) ratios.",
+  "evidence": "Hafnium silicate thin films were deposited on Si substrate for alternative gate dielectrics by atomic layer deposition ~ALD! using a single metallorganic precursor, dichlorobis @bis~trimethylsilyl!amido#hafnium (HfCl 2@N(SiMe3)2#2), and H 2O as an oxidant in the temperature range of 150-400°C. The composition analysis of as-deposited films using X-ray photoelectron spectroscopy showed that the composition ratio of Si/(Hf 1 Si) increased linearly from 0.15 to 0.3 as the deposition temperature increased."
+}<|im_end|>

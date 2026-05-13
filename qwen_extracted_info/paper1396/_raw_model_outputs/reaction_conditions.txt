@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Al -OH + TiCl4 -> Ti-O-AlCl3 + HCl",
+    "Ti-O-AlCl3 + H2O2 -> Ti-O-Al(OH) + HCl + H2O"
+  ],
+  "surface_mechanism_description": "Both Al2O3 and TiO2 are able to absorb water at the surface, resulting in aluminum hydroxide (Al-OH) and titanium hydroxide (Ti-OH) groups. In the buffered and neutral supersaturated SBF solution (pH 7.3), both Al-OH and Ti-OH groups dissociate, leading to a negatively charged surface that provides sites for calcium phosphate nucleation.",
+  "intermediate_species": [
+    "aluminum hydroxide (Al-OH)",
+    "titanium hydroxide (Ti-OH)",
+    "calcium hydrogen phosphate"
+  ],
+  "evidence": "Both Al2O3 and TiO2 are able to absorb water at the surface, resulting in aluminum hydroxide (Al-OH) and titanium hydroxide (Ti-OH) groups. In the buffered and neutral supersaturated SBF solution (pH 7.3), both Al-OH and Ti-OH groups dissociate, leading to a negatively charged surface that provides sites for calcium phosphate nucleation."
+}<|im_end|>

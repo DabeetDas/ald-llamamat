@@ -1,0 +1,8 @@
+{
+  "target_material": "Hf silicate (HfO2)x(SiO2)1−x",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tris(dimethylamido)silane", "tetrakis(ethylmethylamido)hafnium", "O3 vapor"],
+  "temperature_range": "below 280 °C",
+  "summary": "The study investigates the band gap and band offsets of ultrathin Hf silicate dielectric films grown by atomic layer deposition (ALD) on Si(100). The films are composed of varying ratios of HfO2 and SiO2, with a thickness of 3 nm. The band gap energy slightly increases with decreasing Hf content, and the conduction band offsets are in the vicinity of 1 eV, meeting the minimum requirement for carrier barrier heights. The process uses tris(dimethylamido)silane and tetrakis(ethylmethylamido)hafnium as precursors, with O3 vapor as the oxygen source, and is performed at temperatures below 280 °C.",
+  "evidence": "Hf silicate gate dielectric thin films, whose stoichiometry was given by (HfO2)x(SiO2)1−x, were deposited by atomic layer deposition. SiO2 and HfO2 films were grown at temperatures below 280 °C using tris(dimethylamido)silane and tetrakis(ethylmethylamido)hafnium, respectively, as precursors. O3 vapor served as the oxygen source and N2 was supplied as the purge and carrier gas."
+}<|im_end|>

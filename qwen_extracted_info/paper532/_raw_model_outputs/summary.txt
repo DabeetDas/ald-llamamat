@@ -1,0 +1,8 @@
+{
+  "target_material": "Al O",
+  "process_type": "ALD",
+  "main_precursors": ["Al CH", "H O"],
+  "temperature_range": "450 K",
+  "summary": "The study describes the atomic layer deposition (ALD) of ultrathin and conformal Al O films on BN particles using alternating exposures of Al CH and H O. The process involves sequential surface reactions where Al CH reacts with surface species on BN particles, followed by H O exposure to convert the reacted species into AlOH. The ALD process was monitored using FTIR spectroscopy, and the resulting Al O films were characterized by TEM and XPS. The films were found to be uniform, conformal, and approximately 90 Å thick after 50 AB cycles.",
+  "evidence": "The initial vibrational modes were consistent with BOH and BNH surface species on the BN particles. These species were converted to AlCH species during Al CH exposure. Subsequently, H O exposure was used to convert the AlCH species into AlOH species. Alternating Al CH and H O exposures yielded AlCH and AlOH species, respectively, that sequentially deposited aluminum and oxygen with atomic layer control. The repetition of the Al CH and H O exposures in an ABAB... reaction sequence led to the appearance of bulk Al O vibrational modes. The TEM studies revealed extremely uniform and conformal Al O films on the BN particles with a thickness of ;90 A after 50 AB reaction cycles."
+}<|im_end|>

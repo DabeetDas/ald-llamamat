@@ -1,0 +1,7 @@
+{
+  "precursors": ["tris(dimethylamino)silane (TMG)"],
+  "coreactants": ["O2", "NH3 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "In the ALD deposition process, the precursors for Ga, O, and N were tris(dimethylamino)silane (TMG), O2 and NH3 plasma, respectively. The O2 and NH3 plasma were activated at 200W. Deposition of all films was performed at 200 oC and ~3.5 mbar. Figure 1a provides a schematic diagram of ALD cycles in the GaOxNy growth process. Four steps are contained in each ALD cycle: (1) TMG pulse, (2) Ar purge, (3) plasma processing, and (4) Ar purge."
+}

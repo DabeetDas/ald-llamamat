@@ -1,0 +1,22 @@
+{
+  "precursors": [
+    "(C5iPr3H2)2Sr(THF)",
+    "(C5Me5)2Ba(THF)",
+    "Ce(Cp)3",
+    "(Et3P)Cu(I)Cp",
+    "Mn(thd)3",
+    "Eu(thd)3",
+    "Pb(C5tBu3H2)2",
+    "H2S"
+  ],
+  "coreactants": [
+    "H2S"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The films were deposited by pulsing alternately complexes (C5iPr3H2)2Sr(THF) (1) or (C5Me5)2Ba(THF) x (2), and H2S (Messer Griesheim 99.99% ! on ITO/Al xTiyOz covered 5 3 5c m2 glass substrates using 99.999% N 2 as a carrier and purging gas."
+}

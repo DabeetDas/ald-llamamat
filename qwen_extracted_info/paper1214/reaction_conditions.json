@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of metal-organic precursors followed by oxidation. The ALD process uses ozone as the oxidizer, and the reactions are carefully controlled to avoid unwanted side reactions and impurities. The growth of the film is monitored using in situ QCM measurements to ensure saturation of the pulse and purge times.",
+  "intermediate_species": [
+    "LiO_tBu",
+    "LaFAMD",
+    "TDMAZ",
+    "TMA",
+    "O3"
+  ],
+  "evidence": "The text discusses the ALD process for LLZO, mentioning the use of ozone as the oxidizer and the careful selection of precursors to avoid unwanted reactions. It also describes the use of in situ QCM measurements to monitor the growth of the film and the saturation of pulse and purge times."
+}

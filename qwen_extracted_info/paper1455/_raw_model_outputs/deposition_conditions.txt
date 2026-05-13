@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "2 -3 mbar",
+  "precursor_pulse_time_s": "1.0",
+  "coreactant_pulse_time_s": "1.0",
+  "purge_time_s": "40",
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "HfO2 thin films were deposited in a commercial flow-type hotwall atomic layer deposition reactor (F-120 by ASM Microchemistry Ltd.) using different hafnium cyclopentadienyl compounds as metal sources. Ozone was used as oxygen source, but for some depositions distilled water was used. O3 was generated from O2 (99.999%) in an ozone generator (Fischer model 502). Nitrogen (>99.999%, Schmidlin UHPN 3000 N2 generator) was used as a carrier and purging gas. Thin film depositions were carried out under a 2 -3 mbar pressure."
+}<|im_end|>

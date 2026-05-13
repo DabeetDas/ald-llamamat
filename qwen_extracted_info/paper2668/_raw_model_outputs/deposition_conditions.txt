@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "475",
+  "pressure": "400",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": "15",
+  "purge_time_s": "45",
+  "number_of_cycles": "30",
+  "reactor_type": "high-vacuum ALD reactor",
+  "evidence": "The experiment was carried out at a substrate temperature of /C14 C, with SiCl 2(CH3)2 delivered via a fill-and-release method where the fill volume was /C24 10 cm3. The SiCl2(CH3)2 fill time was 5 s, and the release time was 6 s, with a maximum chamber pressure of /C24 400 mTorr resulting in an exposure of /C24 2Torr/C1 s. The SiCl2(CH3)2 half-cycle was followed by a 45 s Ar purge step at an Ar flow rate of 100 sccm resulting in a chamber pressure of /C24 80 mTorr."
+}<|im_end|>

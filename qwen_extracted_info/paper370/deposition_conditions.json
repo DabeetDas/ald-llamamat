@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "100 Torr",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "2",
+  "purge_time_s": "3",
+  "number_of_cycles": null,
+  "reactor_type": "horizontal, 50 mm diameter reactor",
+  "evidence": "The flow velocity of the total gas through the reactor was over 13 cm/s so that it took less than a second to flush out the reactants from the front of the susceptor. To avoid any gaseous intermixing, we kept the flush period at 3 s. A typical ALE cycle consisted of 2 s of DMZn flow, 3 s of hydrogen flush period, 2 s of H2Se flow and 3 s of H2 flush period, which will be designated as 2:3:2:3."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "AlAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylamine-alane (TMAAl)", "tris-dimethylamino-arsenic (TDMAAs)"],
+  "temperature_range": "310 to 400 °C for one-monolayer growth, 350 to 450 °C for two-monolayer growth",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) of AlAs using trimethylamine-alane (TMAAl) and tris-dimethylamino-arsenic (TDMAAs). It explores the self-limiting growth mechanisms under varying TMAAl pressures and substrate temperatures, revealing the influence of surface species adsorption on growth modes. The process is characterized by one- and two-monolayer self-limiting growths, with the temperature range and precursor interactions playing critical roles in determining the growth mode.",
+  "evidence": "Atomic layer epitaxy (ALE) of AlAs using trimethylamine-alane (TMAAl) and tris-dimethylamino-arsenic (TDMAAs) was studied. One- and two-monolayer self-limiting growths of AlAs were observed depending on the TMAAl pressure. The self-limiting mechanism of the ALE in the two growth modes was studied with a transient quadrupole mass spectrometry and with a temperature programmed desorption. The main factor that gives the different self-limiting growths was discussed considering the properties of the Al surfaces revealed by these measurements."
+}

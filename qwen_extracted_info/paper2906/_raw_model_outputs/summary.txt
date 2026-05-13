@@ -1,0 +1,8 @@
+{
+  "target_material": "Nb2O5-Ta2O5 and Nb2O5-Al2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Ta(OC2H5)5", "Nb(OC2H5)5", "AlCl3", "Water"],
+  "temperature_range": "300°C",
+  "summary": "The study investigates the development of dielectric properties of Nb2O5-Ta2O5 and Nb2O5-Al2O3 nanolayered materials using atomic layer deposition (ALD). The focus is on enhancing permittivity while reducing leakage current density by creating solid solutions and nanolaminates. The results show that the permittivity can be increased with Nb2O5 concentration without significant loss in resistivity, and that leakage currents are reduced by depositing thin alternate layers of Al2O3 or Ta2O5 and Nb2O5, thereby increasing the number of interfaces between distinct oxide layers.",
+  "evidence": "Nb2O5-Ta2O5 and Nb2O5-Al2O3 solid solutions and nanolaminates were grown using atomic layer deposition technique. The leakage currents in Nb-based films were reduced by depositing thin alternate layers of Al2O3 or Ta2O5 and Nb2O5, thereby increasing the number of interfaces between distinct oxide layers. The permittivity of Nb2O5:Al2O3 films could be increased with Nb2O5 concentration without considerable loss in resistivity."
+}<|im_end|>

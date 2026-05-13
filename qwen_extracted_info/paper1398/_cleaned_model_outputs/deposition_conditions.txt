@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "7 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 5,
+  "number_of_cycles": 3,
+  "reactor_type": "300 mm ALD reactor (FHR Anlagenbau GmbH)",
+  "evidence": "The applied substrate temperatures were 250 and 275 °C for both processes. The pulse sequence for each ozone pulse time is 3TMA + 3(TMA + O3) + 3O3. The precursor and ozone pulse times were increased from 1 to 5 s."
+}

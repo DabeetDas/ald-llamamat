@@ -1,0 +1,12 @@
+{
+  "target_material": "Lead dioxide",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "Pb(dedtc)2",
+    "Pb(thd)2",
+    "Ph4Pb"
+  ],
+  "temperature_range": "150 – 300 -C, 185 – 400 -C, 300 – 350 -C",
+  "summary": "The study explores the atomic layer deposition (ALD) of lead dioxide thin films using volatile lead precursors such as Pb(dedtc)2, Pb(thd)2, and Ph4Pb, with ozone as the oxygen source. The process was carried out at varying temperatures, and the resulting films were analyzed for their crystallinity, surface morphology, and stoichiometry. The use of Pb(dedtc)2 led to lead sulphate films, while Pb(thd)2 and Ph4Pb yielded crystalline lead dioxide films. The study also highlights the effect of deposition temperature on growth rate and film quality.",
+  "evidence": "Lead dioxide thin films were grown by atomic layer deposition on Si(100) substrates. Lead diethyl-dithiocarbamate (Pb(dedtc)2), lead 2,2,6,6-tetramethyl-3,5-heptadione (Pb(thd)2) and tetraphenyl-lead (Ph4Pb) were used as lead precursors, and ozone as oxygen source. The depositions were carried out at 300 – 350 -C, 150 – 300 -C and 185 – 400 -C for Pb(dedtc)2, Pb(thd)2 and Ph4Pb, respectively. According to X-ray diffraction, films deposited from Pb(thd)2/O3 or from Ph4Pb/O3 were crystalline either orthorhombic or tetragonal lead dioxide."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "Ti(OC2H5)4"],
+  "coreactants": ["H2O", "H2O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The TiO2 films were grown by atomic layer deposition on Mo electrodes using TiCl4 and Ti(OC2H5)4 as titanium precursors, and H2O or H2O2 as oxygen precursors. The N2 gas (99.999% purity) was used as a carrier of precursors as well as the purge gas that removed surplus precursors and gaseous reaction products from the reaction zone."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+ "reaction_equations": ["ZnCl2 + H2Se -> ZnSe + 2HCl"],
+ "surface_mechanism_description": "ZnCl2 is introduced in vapor phase forming zinc bonds on the surface. Excess ZnCl2 vapor is subsequently purged away by H2 gas and then H2Se is introduced as vapor. ZnSe is formed when H2Se reacts with the adsorbed ZnCl2, and HCl is liberated. After purging HCl and H2Se away, the cycle is repeated.",
+ "intermediate_species": ["adsorbed ZnCl2"],
+ "evidence": "ZnCl2 is introduced in vapor phase forming zinc bonds on the surface. Excess ZnCl2 vapor is subsequently purged away by H2 gas and then H2Se is introduced as vapor. ZnSe is formed when H2Se reacts with the adsorbed ZnCl2, and HCl is liberated. After purging HCl and H2Se away, the cycle is repeated."
+}<|im_end|>

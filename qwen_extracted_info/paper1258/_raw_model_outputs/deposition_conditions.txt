@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150",
+  "pressure": "200 mTorr",
+  "precursor_pulse_time_s": 50,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 5,
+  "number_of_cycles": 1,
+  "reactor_type": "FlexAL™ ALD reactor",
+  "evidence": "The growth per super-cycle was measured by a profilometry, bspectrophotometry, ctransmission electron microscopy or dspectroscopic ellipsometry. The deposition table temperature was set between 25 and 300 °C. The reactor wall is maintained at a temperature of 120 °C, except for the deposition at 25, 50 or 100 °C, where the reactor wall is kept at 25, 50 or 100 °C, respectively. The AlxPOy films were prepared using a FlexAL™ ALD reactor of Oxford Instruments. The reactor is equipped with an inductively coupled plasma (ICP) source and has a rotary and turbo molecular pumping unit such that it can reach a base pressure of < 10-6 Torr by overnight pumping."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of cyclopentadienyl indium (InCp) and hydrogen peroxide (H2O2) as precursors. The In2O3 films are deposited at relatively low temperatures (160–200 °C) with a stable growth rate of 1.4–1.5 Å/cycle. The surface reactions are not explicitly detailed in the text, but the process is described as involving the deposition of In2O3 through ALD with these precursors, leading to the formation of In2O3 films with controlled stoichiometry and reduced carbon content.",
+  "intermediate_species": [
+    "InCp",
+    "H2O2",
+    "surface hydroxyls",
+    "oxygen vacancies"
+  ],
+  "evidence": "The text states: 'Atomic-layer-deposition (ALD) of In2O3 nano-films has been investigated using cyclopentadienyl indium (InCp) and hydrogen peroxide (H2O2) as precursors.' It also mentions: 'the deposited film exhibits an In:O ratio of 1:1.36 and no carbon incorporation.' Additionally, it discusses the reduction of oxygen vacancies and carbon impurities in the deposited films."
+}

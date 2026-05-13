@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "–OH) + MCl n → –O–)MCl n + HCl",
+    "|–O–)mMCln → |–O–)mMO H() nm– nm–() HCl"
+  ],
+  "surface_mechanism_description": "The growth of chromium oxide layers involves self-limiting chemisorption of a metal halide (CrO2Cl2) and water vapor under limiting surface coverage conditions. The process on hydroxylated surfaces can be run according to the schemes: –OH) + CrO2Cl2 → –O–)CrO2Cl2 + HCl, and |–O–)mCrO2Cl2 → |–O–)mCrO2Cl2 + HCl. Repeating these reactions many times and intermittently removing the reaction products and excess reagents allows for the growth of an oxide layer of predetermined thickness.",
+  "intermediate_species": [
+    "CrO2Cl2",
+    "surface hydroxyls",
+    "Cr(VI)",
+    "Cr(III)"
+  ],
+  "evidence": "The process on hydroxylated surfaces can be run according to the schemes: –OH) + CrO2Cl2 → –O–)CrO2Cl2 + HCl, and |–O–)mCrO2Cl2 → |–O–)mCrO2Cl2 + HCl. Repeating these reactions many times and intermittently removing the reaction products and excess reagents allows for the growth of an oxide layer of predetermined thickness."
+}<|im_end|>

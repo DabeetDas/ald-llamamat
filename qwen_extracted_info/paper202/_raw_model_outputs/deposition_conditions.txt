@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Showerhead",
+  "evidence": "The channel layer was deposited using diethyl zinc [Zn(C2H5)2] and water at 100 8C. The process pressure was maintained at 1 Torr."
+}<|im_end|>

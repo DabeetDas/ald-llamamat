@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Pd(acac)3* + O3 → PdO2* + 3CO2 + 3H2O",
+    "PdO2* + H2 → Pd* + H2O",
+    "Pd* + O3 → PdO2* + O2"
+  ],
+  "surface_mechanism_description": "The ALD process for palladium involves two consecutive pulses: ozone (O3) and molecular hydrogen (H2). The ozone pulse oxidizes the palladium precursor (Pd(acac)3) to form surface-bound PdO2, which is then reduced by the H2 pulse to metallic palladium. The surface reactions are self-limiting and occur in a saturative manner, with the ozone pulse forming surface-bound PdO2 and the hydrogen pulse reducing it to metallic Pd.",
+  "intermediate_species": [
+    "PdO2*",
+    "Pd*"
+  ],
+  "evidence": "The surface reactions are described as follows: 'the Pd(acac)3 adsorbs stoichiometrically (molecularly or dissociatively) on the surface in the O3-based ALD IrO2 process below 200 °C and the oxygen atoms on the IrO2 are not reactive towards Ir(acac)3. When H2 is used to remove oxygen from the surface in the O3-based Ir ALD process [Ir(acac)3–O3–H2], the Ir(acac)3 adsorption is also stoichiometric as in the ALD of IrO2. In addition, all the reaction steps in the Ir(acac)3–O3–H2 process advance as far as possible, i.e. ozone completely combusts the acac ligands of the Ir(acac)3 and H2 completely deoxidizes the surface left after ozone.'"
+}<|im_end|>

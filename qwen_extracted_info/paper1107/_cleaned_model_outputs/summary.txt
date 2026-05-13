@@ -1,0 +1,8 @@
+{
+  "target_material": "HfYO (HfO2 doped with Yttrium)",
+  "process_type": "ALD",
+  "main_precursors": ["HfCl4", "(CpCH3)3Y", "water"],
+  "temperature_range": "300 °C (deposition) and 450 °C (crystallisation)",
+  "summary": "The study investigates the deposition of Yttrium-doped HfO2 using ALD with HfCl4 and (CpCH3)3Y as precursors and water as oxidant. The films were analyzed for electrical properties and crystallization behavior. Doping with Yttrium increased the k-value by 60% after annealing at 500 °C, but also increased leakage current due to crystallization.",
+  "evidence": "By an ALD process with the solid precursors HfCl4 and (CpCH3)3Y and the oxidant water Yttrium doped HfO2 was deposited on TiN layer on highly doped silicon. ... the k-value increased by 60% for a 9.5 nm thick film, the leakage current also increased. The deposited amorphous film crystallises at 450 °C into the cubic phase."
+}

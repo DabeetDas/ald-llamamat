@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "10",
+  "precursor_pulse_time_s": "0.2",
+  "coreactant_pulse_time_s": "0.5",
+  "purge_time_s": "0.5",
+  "number_of_cycles": "4000",
+  "reactor_type": "F-120",
+  "evidence": "The growth experiments were carried out with a commercial flow-type reactor F-120 (Microchemistry Ltd, Espoo, Finland) operated under a pressure of i0 mbar. ... The growth temperature in these experiments was 500~ As an example, Fig. 3 depicts how the growth rate saturates to 0.19 A/cycle when NH3 pulse time exceeds 0.5 s. The same kind of a saturation was observed also when the TIC14 and Zn pulse lengths were varied. In these cases the pulse times needed to reach the saturation level were 0.2 s for TIC14 and 0.5 s for Zn. Doubling of the purge time from 0.5 to 1.0 s had no effect on the growth rate indicating that the chemisorbed species were stable against desorption."
+}

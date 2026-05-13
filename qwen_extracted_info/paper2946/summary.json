@@ -1,0 +1,12 @@
+{
+  "target_material": "Ti-Si-N",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "TiCl4",
+    "SiH4",
+    "N2/H2/Ar plasma"
+  ],
+  "temperature_range": "350°C",
+  "summary": "Ti-Si-N thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) with TiCl4, SiH4, and N2/H2/Ar plasma at 350°C. The films showed a saturated thickness of 0.73 Å/cycle and 8.5 atom % Si content. The study aimed to investigate the properties of Ti-Si-N as a Cu diffusion barrier.",
+  "evidence": "Thin ﬁlms of Ti-Si-N were deposited by plasma-enhanced atomic layer deposition ~PEALD! using TiCl4 , SiH4 , and N2 /H2 /Ar radicals at 350°C. When the reactants were supplied in the sequence of TiCl4 pulse, SiH4 pulse, then N2 /H2 /Ar plasma, the thickness per cycle and Si content in Ti-Si-N thin ﬁlm saturated at 0.73 Å/cycle and 8.5 atom % (Cl < 0.5 atom %), respectively."
+}

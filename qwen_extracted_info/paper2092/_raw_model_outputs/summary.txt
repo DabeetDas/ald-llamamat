@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["HfCl4", "H2O", "TiCl4", "NH3"],
+  "temperature_range": "350 °C to 900 °C",
+  "summary": "The study investigates HfO2 gate dielectrics grown by atomic layer deposition (ALD) on Si substrates, with TiN electrodes, and their interfaces with Si and TiN as a function of annealing temperature. The process involves ALD using HfCl4 and H2O for HfO2 and TiCl4 and NH3 for TiN. Annealing at high temperatures caused roughening of interfaces and interfacial reactions, with significant changes in the electronic structure of HfO2 films.",
+  "evidence": "HfO2 gate dielectrics were grown on n-type Si substrates by atomic layer deposition using alternating cycles of HfCl4 and H2O with N2 carrier gas. A post-deposition anneal in O2 at 700 °C for 60 s was carried out. 20 nm thick TiN capping layers were deposited by ALD using TiCl4 and NH3 at 350 °C followed by another 20 nm of TiN grown by DC sputtering. Selected samples were exposed to rapid thermal anneals in N2 ambient for 30 s at 700, 800, and 900 °C."
+}<|im_end|>

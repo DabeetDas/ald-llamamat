@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "j/C0 (SH)x þ LiOtBu(g) f j/C0 Sx /C0 Li(OtBu)(1 /C0 x) þ xHOtBu(g)",
+    "j/C0 Sx /C0 Li(OtBu)(1 /C0 x) þ 0:5H2S(g) f j/C0 (LiS0:5)/C0 (SH)x þ (1 /C0 x)HOtBu(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "j/C0 (SH)x þ LiOtBu(g) f j/C0 Sx /C0 Li(OtBu)(1 /C0 x) þ xHOtBu(g) (1a) j/C0 Sx /C0 Li(OtBu)(1 /C0 x) þ 0:5H2S(g) f j/C0 (LiS0:5)/C0 (SH)x þ (1 /C0 x)HOtBu(g) (1b)"
+}<|im_end|>

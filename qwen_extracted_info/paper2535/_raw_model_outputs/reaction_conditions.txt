@@ -1,0 +1,6 @@
+{
+  "reaction_equations": ["3 SiH4 + 2 WF6 → 2 W + 3 SiF4 + 6 H2"],
+  "surface_mechanism_description": "The surface reaction saturation phenomena for which ALD is so strongly pursued are revealed directly, allowing process recipe optimization as well as a number of other possibilities, e.g., advanced process control.",
+  "intermediate_species": ["SiF4", "H2"],
+  "evidence": "For W CVD process using WF6 and SiH4 at process temperatures below 400 °C, SiF4 and H2 are the main byproducts, following the overall reaction 3 SiH4 + 2 WF6 → 2 W + 3 SiF4 + 6 H2, with very little HF generation."
+}<|im_end|>

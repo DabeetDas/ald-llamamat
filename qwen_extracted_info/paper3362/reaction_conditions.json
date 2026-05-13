@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "MeCpPtMe3 + surface → ligand Pt surface + CO2 + H2O + CH4 + fragments",
+    "ligand Pt surface + O2 → Pt + CO2 + H2O + fragments"
+  ],
+  "surface_mechanism_description": "Ligand exchange between MeCpPtMe3 and surface hydroxyl groups followed by water pulse to regenerate OH sites. Oxygen or hydrogen is used as the second reactant to remove residual ligands, with oxygen facilitating combustion reactions and hydrogen enabling hydrogenation reactions.",
+  "intermediate_species": [
+    "MeCpPtMe3",
+    "surface hydroxyls",
+    "carbon dioxide",
+    "methane",
+    "hydrocarbons",
+    "hydrogen atoms",
+    "methyl groups"
+  ],
+  "evidence": "The general form of these reactions is shown in Eqs. 1 and 2 below: MeCpPtMe3 + surface → ligand /C0 Pt /C0 surface + CO2 + H2O + CH4 + fragments (1) ligand /C0 Pt /C0 surface + O2 → Pt + CO2 + H2O + fragments (2). Combustion reactions producing carbon dioxide occurred during the Pt dose when either the precursor directly reacted with oxygen atoms on the support surface, or the precursor first dissociated and the resulting species reacted with the oxygen atoms, shown schematically in step P1 of Fig. 3. The oxygen was likely provided by either molecular oxygen adsorbed to the carbon support or by the oxygen atom of hydroxyl groups on the carbon surface."
+}

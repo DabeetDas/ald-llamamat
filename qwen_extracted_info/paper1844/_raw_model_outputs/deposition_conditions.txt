@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "3 hPa",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 4.0,
+  "number_of_cycles": 500,
+  "reactor_type": "Picosun R-150",
+  "evidence": "B. Atomic layer deposition\nALD Al2O3 films were grown at 300 1C in a Picosun R-150 ALD reactor. The target thickness was typically ca. 50 nm made in 500 ALD cycles. The process pressure was ca. 3 hPa. Nitrogen (purity 6.0) with a constant flow rate of 150 sccm was used as the carrier and purge gas through four reactant lines. Similar to earlier studies, a TMA-purge-water-purge sequence (s) of 0.1–4.0–0.1–4.0 was typically used."
+}<|im_end|>

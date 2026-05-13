@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 70,
+  "pressure": "7.5 mTorr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 0.5,
+  "number_of_cycles": null,
+  "reactor_type": "FlexAL",
+  "evidence": "In the FlexAL reactor, a continuous O2 flow of 60 SCCM was applied through the plasma source and the pressure in the reactor was kept constant at 15 mTorr. The intermitting purge time between precursor and plasma was 3 s, the plasma exposure was set to 4 s, and the purge between plasma and precursor was 0.5 s."
+}<|im_end|>

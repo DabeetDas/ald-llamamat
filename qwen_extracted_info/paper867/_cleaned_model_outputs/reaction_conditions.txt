@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Co3O4 + 8Li+ + 8e− ⇄ 3Co + 4Li2O",
+    "3Co + 3Li2O ⇄ 3CoO + 6Li+ + 6e−"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves an initiation reaction between Co3O4 and lithium followed by a reversible reaction employing CoO. The first step is the reaction of Co3O4 with lithium ions and electrons to form Co and Li2O. The second step involves the reversible reaction of Co and Li2O to form CoO, releasing lithium ions and electrons.",
+  "intermediate_species": [
+    "Co",
+    "Li2O",
+    "CoO"
+  ],
+  "evidence": "In literature opinions about the actual reactions taking place in the Co3O4 electrode are divided between: (1) a fully reversible reaction of Co3O4 and (2) an initiation reaction between Co3O4 and lithium followed by a reversible reaction employing CoO: Co3O4 + 8Li+ + 8e− ⇄ 3Co + 4Li2O (1) Co3O4 + 8Li+ + 8e− → 3Co + 4Li2O 3Co + 3Li2O ⇄ 3CoO + 6Li+ + 6e− (2)"
+}

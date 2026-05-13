@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(tbutylimido)bis(dimethylamino)molybdenum", "hydrogen sulfide"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The deposition of MoS2 within TNTs was carried out via ALD (Beneq TFS-200). Bis(tbutylimido)bis(dimethylamino)molybdenum (Strem, 98%) and hydrogen sulfide (99.5%) were used as molybdenum and sulphur precursors, respectively. The MoS2 was deposited within the nanotube layers by applying different numbers of ALD cycles: 2, 60 and 225 cycles. All processes were carried out at a temperature of 275 oC, and using N2 (99.9999 %) as carrier gas at a flow rate of 500 standard cubic centimeters per minute (sccm)."
+}<|im_end|>

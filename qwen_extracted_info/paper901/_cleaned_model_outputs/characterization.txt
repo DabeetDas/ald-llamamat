@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "Scanning Electron Microscopy (SEM)",
+    "Transmission Electron Microscopy (TEM)",
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Diffraction (XRD)",
+    "Four-point probe"
+  ],
+  "evidence": "A scanning electron microscopic analysis of the ALD W nucleation layer is conducted; it is a thin, smooth and dense film, which enhances the bulk deposition grain growth to increase grain size with low resistivity. The W-plug filling capability is determined using cross-sectional TEM (Philips TECAA1G2); the plane view of nucleation and bulk deposition layers is obtained under SEM (Hitachi-S4800). Surface roughness is measured by atomic force microscopy (AFM), and electrical testing is conducted using HP4072. X-ray diffractometry (XRD) analysis. The resistivity of the W films is calculated from the sheet resistance, which is obtained using a four-point probe."
+}

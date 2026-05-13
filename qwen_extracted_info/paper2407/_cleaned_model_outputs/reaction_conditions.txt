@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves the interaction between the Al2O3 coating and the surface topography of the butterfly wings and water strider legs. The Al2O3 coating changes the surface chemistry, leading to a transition from the Cassie state to the Wenzel state for butterfly wings, while water strider legs remain in the Cassie state due to their surface geometry. The roughness of the surface enhances the natural tendency to be hydrophilic or hydrophobic, and the roughness in the normal direction is favorable for forming a composite interface.",
+  "intermediate_species": ["Al(OH)3", "surface hydroxyls", "air pocket"],
+  "evidence": "The text discusses the interaction between the Al2O3 coating and the surface topography of the butterfly wings and water strider legs. It explains that the Al2O3 coating changes the surface chemistry, leading to a transition from the Cassie state to the Wenzel state for butterfly wings, while water strider legs remain in the Cassie state due to their surface geometry. The roughness of the surface enhances the natural tendency to be hydrophilic or hydrophobic, and the roughness in the normal direction is favorable for forming a composite interface."
+}

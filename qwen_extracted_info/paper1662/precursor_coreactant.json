@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Al(CH3)3"
+  ],
+  "coreactants": [
+    "D2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Argon (99.99%) was used as a purging and carrier gas."
+}

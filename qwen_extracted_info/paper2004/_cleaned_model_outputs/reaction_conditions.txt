@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface clustering is due to progressive oxidation of the CdTe layers ex situ after growth, leading to the formation of oxide clusters. The initial oxidation of the CdTe surface induces the formation of a thin oxide layer, which undergoes a 2D/3D transition due to lattice mismatch with the oxide, resulting in nanoclustering.",
+  "intermediate_species": ["TeO2", "CdTeO3"],
+  "evidence": "This surface clustering is unrelated to the ALE epitaxial process, but occurs ex situ after the growth, due to progressive oxidation of the layers. The initial oxidation of the CdTe surface induces the formation of a thin oxide layer which can undergo, due to its very different lattice parameter (a = 54.805 Å for TeO2), a 2D/3D transition leading to a nanoclustering of the surface."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["ferrocene", "3-aminopropyltriethoxysilane"],
+  "coreactants": ["ozone", "water"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": [],
+  "evidence": "We used ALD to coat the Si columns conformally with a thin film of magnetic material. Contrary to the situation of most techniques for the deposition of thin solid films from the gas phase, the deposition rate in ALD is not limited by mass transport of the gaseous species (ions, atoms, or molecules) to the surface. Instead, the method relies on a well-defined chemical reaction between two or more molecular precursors at the surface, which allows for the growth of a film in a controlled manner. The precursors must be thermally stable at the working temperature and very reactive toward one another. The substrate to be coated is exposed consecutively to vapors of the various precursorsin this manner, reactions between precursors are prevented in the gas phase. On the solid surface, however, each exposure to a precursor leads to the chemisorption of one full monolayer of it, after which the surface is saturated and unreactive. During the whole deposition a constant nitrogen purge flow of 40 sccm was set. For the deposition the silane precursor was kept at 100 8C and pulsed for 2 s, and water at 40 8C and 0.5 s, respectively. The oxygen/ozone mixture was used in the same way as for the iron oxide deposition."
+}<|im_end|>

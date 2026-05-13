@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "bis( N,N′-diisopropylacetamidinato) cobalt (Co(AMD)2)"
+  ],
+  "coreactants": [
+    "hydrogen sulfide (H2S)"
+  ],
+  "purge_gas": [
+    "argon (Ar)"
+  ],
+  "carrier_gas": [
+    "argon (Ar)"
+  ],
+  "evidence": "A canister containing Co(AMD)2 was heated to 75 °C to supply enough vapor for the precursor molecules to be carried into the tube by pure argon (99.999%) as the carrier gas."
+}

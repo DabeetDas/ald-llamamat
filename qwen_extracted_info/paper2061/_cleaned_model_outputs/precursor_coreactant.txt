@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMA)"],
+  "coreactants": ["D2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Al2O3 is deposited by alternating exposures of trimethylaluminum (TMA) and D2O (respectively 0.001 and 0.02 mole fraction in 0.81/min N2 carrier gas, atmospheric pressure ), with at least 30 min purge time between precursor exposures."
+}

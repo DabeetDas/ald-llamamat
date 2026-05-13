@@ -1,0 +1,8 @@
+{
+  "target_material": "GaN",
+  "process_type": "plasma ALD",
+  "main_precursors": ["Ga(NMe2)3", "NH3 plasma"],
+  "temperature_range": "130–250 1C",
+  "summary": "This study describes the low-temperature atomic layer deposition (ALD) of gallium nitride (GaN) using tris(dimethylamido)gallium(III) and NH3 plasma. The process shows self-limiting behavior between 130–250 1C with a growth rate of 1.4 Å per cycle. The GaN films produced were crystalline on Si (100) at all deposition temperatures with a near stochiometric Ga/N ratio and low carbon and oxygen impurities. The study highlights the potential of ALD for GaN-based electronic devices.",
+  "evidence": "The ALD process shows self-limiting behaviour between 130–250 1C with a growth rate of 1.4 Å per cycle. The GaN films produced were crystalline on Si (100) at all deposition temperatures with a near stochiometric Ga/N ratio with low carbon and oxygen impurities."
+}<|im_end|>

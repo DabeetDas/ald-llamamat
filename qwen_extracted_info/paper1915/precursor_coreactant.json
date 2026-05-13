@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "FeCl3",
+    "H2O"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "ALD experiments were carried out in a custom hot-walled viscous flow-type reactor described elsewhere. A constant flow of ultrahigh purity N2 (99.999%, Airgas), further purified with an inert gas filter (Entegris GateKeeper), was used as both purge and carrier gas."
+}

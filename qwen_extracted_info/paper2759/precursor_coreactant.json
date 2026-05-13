@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "ethylbenzene(1,3-butadiene)Ru(0)"
+  ],
+  "coreactants": [
+    "O2",
+    "H2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "The ethylbenzene(1,3-butadiene)Ru(0) precursor (EBCHDRu, 99.995% purity) was purchased from Hansol Chemical, Korea and was heated to 90 °C. The manifold lines were heated to 110 °C and the reactor walls to 80 °C. The recipe for RuO x ALD consisted of a 15 s EBCHDRu dosing, 5 s Ar purge, 30 s O 2 gas exposure (O 2 pressure of 0.7 Torr), and 7 s Ar purge."
+}

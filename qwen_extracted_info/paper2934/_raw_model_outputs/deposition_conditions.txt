@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "170-350",
+ "pressure": "1.8 Torr",
+ "precursor_pulse_time_s": 0.5,
+ "coreactant_pulse_time_s": 3,
+ "purge_time_s": 5,
+ "number_of_cycles": null,
+ "reactor_type": "horizontal ﬂow-type ALD",
+ "evidence": "The opening and closing sequences of the air valves were controlled by using a personal computer. The exposure times were 0.5 s for the source material, then 3 s for the purging. UV irradiation started at 0.5 s later than the beginning of the purging. The irradiation was done by removing the shutter for 7.5 s. Finally a reactant gas was transpired for 1 s followed by the purging for 5 s."
+}<|im_end|>

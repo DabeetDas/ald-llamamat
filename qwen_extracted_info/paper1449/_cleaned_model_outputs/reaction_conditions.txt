@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "surf-Al(CH3)n + O3(g) f surf-Al(CH3)n-1 + surf-OH + 1/2C2H4(g) + O2(g)",
+    "surf-OH + surf-OH f surf-O + H2O(g)"
+  ],
+  "surface_mechanism_description": "Ozone (O3) reacts with surface methyl groups (CH3) to produce surface hydroxyl groups (OH) and volatile byproducts like ethene (C2H4). The surface hydroxyl groups then react with each other to form water (H2O) and regenerate surface oxygen species. This mechanism is compared to the TMA + H2O process, where hydroxyl groups are also formed but with different kinetics and byproducts.",
+  "intermediate_species": [
+    "surface hydroxyls (OH)",
+    "surface methyl groups (CH3)",
+    "ethene (C2H4)",
+    "surface oxide species (O)"
+  ],
+  "evidence": "The text describes the reaction mechanism of ozone (O3) with surface methyl groups (CH3) to produce surface hydroxyl groups (OH) and volatile byproducts like ethene (C2H4). The surface hydroxyl groups then react with each other to form water (H2O) and regenerate surface oxygen species. This mechanism is compared to the TMA + H2O process, where hydroxyl groups are also formed but with different kinetics and byproducts."
+}

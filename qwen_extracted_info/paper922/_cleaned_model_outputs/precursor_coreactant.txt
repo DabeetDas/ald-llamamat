@@ -1,0 +1,7 @@
+{
+  "precursors": ["ECPR"],
+  "coreactants": ["O2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The ALD growth of Ru was investigated using [(ethylcyclopentadienyl)(pyrrolyl)ruthenium(II)], abbreviated as ECPR, and molecular oxygen. ... The Ru ﬁlms were deposited in a top-injection ALD reactor from FHR Anlagenbau GmbH that can be evacuated to a base pressure in the range of 10 /C0 4 Pa. ... Ar carrier gas ﬂow 50 sccm."
+}

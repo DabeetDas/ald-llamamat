@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 85,
+  "number_of_cycles": 17,
+  "reactor_type": "Beneq TFS-200",
+  "evidence": "The deposition of CdS within the different TiO2 nanotube layers was carried out via ALD (Beneq TFS-200). ... one growth ALD cycle was defined by the following sequence: dimethyl cadmium pulse (3 s) - dimethyl cadmium exposure (45 s) - N2 purge (85 s) - H2S pulse (3 s) - H2S exposure (45 s) - N2 purge (85 s)."
+}

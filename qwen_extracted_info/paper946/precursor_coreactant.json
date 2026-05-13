@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "HfO2"
+  ],
+  "coreactants": [
+    "NH3",
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "All samples received 55 cycles of ALD HfO2 annealed with a N2 PDA of 6001C for 60 s."
+}

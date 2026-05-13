@@ -1,0 +1,8 @@
+{
+  "target_material": "MoSe2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["MoCl5", "cyclic silylselenides 1–3"],
+  "temperature_range": "100 to 165 °C",
+  "summary": "The study introduces cyclic silylselenides as novel selenium precursors for atomic layer deposition (ALD) of MoSe2 nanosheets. The cyclic silylselenides exhibit improved stability and reactivity compared to linear precursors, enabling the deposition of high-quality MoSe2 layers with controlled thickness and structure. The ALD process uses a thermal setup, and the deposited MoSe2 was characterized using SEM, Raman spectroscopy, and XPS to confirm its chemical composition and structure.",
+  "evidence": "Subsequently, all three cyclic selenides were tested as Se precursor in a custom thermal ALD system combined with MoCl5 as Mo precursor (experimental details provided in the SI). The morphologies of the as deposited MoSe2 were characterized by scanning electron microscopy (SEM) images. ALD processes based on the use of cyclic selenides 1 and 3 exhibited abundant, vertically aligned flaky shaped nanosheets, as displayed in Figure 2. These results agree well with the MoSe2 deposited by other techniques. The presence of Mo(IV) –Se matches well with previous works reported indicating 2H MoSe2."
+}

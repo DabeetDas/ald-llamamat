@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250– 285",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": "0.05",
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "",
+  "evidence": "The reactor temperature dependence on the deposition rates of Y2O3 and HfO2 is shown in Fig. 3. Under optimal ALD conditions, the growth rates become independent of the reactor temperature with significant improvement in the film uniformity. The ALD temperature window for the solid Y/H20849EtCp/H208503 precursor was found to be in the range of 250– 285 ° C with 5 precursor pulses per cycle. 16,17 In the case of HfO2 film deposition, the growth rate initially increases with the increase in the reactor temperature, indicating non-ALD-type growth kinetics. However, the HfO2 films exhibited a constant growth rate of 1.5 Å / cycle in the temperature region of 225– 300 ° C corroborating self-limiting ALD growth. Furthermore, there was a further increase in the deposition rate of HfO2 at 450 ° C along with the low film uniformity, which is indicated in Fig. 3 with the larger error bars. This may be attributed to the thermal decomposition of the Hf precursor. Since both Y and Hf precursors need to be injected at a common reactor temperature for the deposition of Y2O3-doped HfO2 films, it is therefore essential that both precursors have ALD temperature windows that overlap in order to achieve self-limiting ALD. In this case, the ALD temperature windows overlap between 250 and 285 ° C, and this defines the temperature regime where ALD of Y2O3-doped HfO2 films can be obtained. The deposition of Y2O3-doped HfO2 composite films were carried out at a reactor temperature of 250 ° C with 3 and 5 pulses of Hf and Y precursor, respectively, with the water vapor pulse time of /H110110.05 s. The Hf and Y precursor was kept at temperatures of 65 and 120 ° C, respectively."
+}

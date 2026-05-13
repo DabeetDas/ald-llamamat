@@ -1,0 +1,7 @@
+{
+  "precursors": ["Zn(C2H5)2"],
+  "coreactants": ["O3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "A 1000 standard cubic centimeter per min (sccm) O2/10 sccm N2 gas mixture was introduced into the O3 generator, and an O3 gas at a concentration of 400 g/m3 was obtained. Ar gas (900 sccm) was used as purge gas."
+}

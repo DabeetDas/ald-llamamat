@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction for [Cu(hfac)2] is self-terminating, with the copper metal surface prepared by reaction with diethylzinc. ZnEt2 undergoes a fast self-terminating replacement reaction with [Cu(hfac)2] adsorbed on substrates.",
+  "intermediate_species": ["ZnEt2", "[Cu(hfac)2]"],
+  "evidence": "To verify that the surface reaction for [Cu(hfac)2] is really self-terminating, the dose time was varied between 100 ms and 1 s at growth temperatures of 180 –200 °C. The film thickness per cycle for [Cu(hfac)2] is saturated when the pulse time exceeds 400 ms, as shown in Fig. 1 (a). This result indicates that [Cu(hfac)2] undergoes a self-terminating reaction with the copper metal surface prepared by reaction with diethylzinc. Fig. 1(b) shows that the growth rate as a function of the ZnEt2 dose time is saturated when the pulse time exceeds 0.5 s. This result suggests that ZnEt2 undergoes a fast self-terminating replacement reaction with [Cu(hfac)2] adsorbed on substrates."
+}<|im_end|>

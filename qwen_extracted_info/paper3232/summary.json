@@ -1,0 +1,12 @@
+{
+  "target_material": "LiCoO2",
+  "process_type": "remote plasma ALD",
+  "main_precursors": [
+    "CoCp2",
+    "LiO tBu",
+    "O2 plasma"
+  ],
+  "temperature_range": "325◦C",
+  "summary": "The paper describes the Atomic Layer Deposition (ALD) of LiCoO2 thin-film electrodes for all-solid-state Li-ion micro-batteries. The process uses CoCp2 as cobalt precursor, LiO tBu as lithium precursor, and O2 plasma as oxidant. The films were deposited at 325◦C with a growth rate of 0.06 nm/cycle. After annealing at 700◦C, the high-temperature phase of LiCoO2 was obtained. The study demonstrates the electrochemical activity of ALD-deposited LiCoO2, which is the first evidence of electrochemically active LiCoO2 deposited by ALD.",
+  "evidence": "A combination of CoCp2 as cobalt precursor, LiO tBu as lithium precursor and O2 plasma as oxidant source was used to create super-cycles to deposit LiCoO2 from Co3O4 and Li2CO3 cycles. The thin films were deposited at a temperature of 325◦C and showed linear growth with a rate of 0.06 nm/cycle. After annealing the samples at 700◦C for 6 minutes high temperature phase LiCoO2 was obtained, as was demonstrated by XRD and Raman spectroscopy. This paper provides the first evidence that electrochemically active LiCoO2 can be deposited by ALD."
+}

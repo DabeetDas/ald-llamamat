@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "260-300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "2",
+  "number_of_cycles": null,
+  "reactor_type": "Riber 32P",
+  "evidence": "The Mg and Te ﬂuxes, as deﬁned previously, are respectively 0.25 and 0.5 ML/s for the two elements .A2s dead time is used after Te exposure in every MgTe ALE growth cycle, whereas no dead time is used after Mg exposure, except in the oversaturated case, for whicha2s dead time is used as well."
+}<|im_end|>

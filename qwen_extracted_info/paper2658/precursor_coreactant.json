@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Au(N(SiMe3)2)(PEt3)"
+  ],
+  "coreactants": [
+    "BH3(NHMe2)"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "In the text, it is stated: 'Au(N(SiMe3)2)(PEt3) was applied with potential reducing agents and hydrogen sulphide. The best results in respect to growth rate and film properties were achieved when Au(N(SiMe3)2)(PEt3) and dimethylamine borane [BH3(NHMe2)] were applied alternately.' Additionally, 'Purging between the precursor pulses was done with nitrogen (AGA 99.999%).'"
+}

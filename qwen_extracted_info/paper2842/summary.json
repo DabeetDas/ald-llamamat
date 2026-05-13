@@ -1,0 +1,11 @@
+{
+  "target_material": "GaN",
+  "process_type": "ALD",
+  "main_precursors": [
+    "GaCl3",
+    "NH3"
+  ],
+  "temperature_range": "not specified",
+  "summary": "The study describes the layer-by-layer growth of GaN on GaAs substrates using alternating supply of GaCl3 and NH3.",
+  "evidence": "Layer-by-Layer Growth of GaN on GaAs Substrates by Alternate Supply of GaCl3 and NH3"
+}

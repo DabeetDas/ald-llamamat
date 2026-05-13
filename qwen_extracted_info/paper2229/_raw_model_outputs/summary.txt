@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu2S",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["bis(N,N-di-sec-butylacetamidinato)dicopper(I)", "hydrogen sulfide"],
+  "temperature_range": "130 °C",
+  "summary": "The study describes the atomic layer deposition of Cu2S using alternating exposure to bis(N,N-di-sec-butylacetamidinato)dicopper(I) and hydrogen sulfide. The process enables conformal growth of high-quality, phase-pure Cu2S thin films at low temperatures, suitable for photovoltaic applications.",
+  "evidence": "Alternating exposure to bis(N,N-di-sec-butylacetamidinato)dicopper(I) and hydrogen sulfide is shown to produce high quality chalcocite (Cu2S) thin films by atomic layer deposition on silicon and fused silica substrates. The layer-by-layer chemical vapor deposition method enables conformal growth of the phase-pure material at 130 °C."
+}<|im_end|>

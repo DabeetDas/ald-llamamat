@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 27,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 150,
+  "number_of_cycles": null,
+  "reactor_type": "UHV chamber with electron flood gun",
+  "evidence": "A typical EETALD reaction sequence consisted of an electron gun exposure at 100 eV for 240 s with an electron emission current of 300 µA followed by a 15 s purge."
+}<|im_end|>

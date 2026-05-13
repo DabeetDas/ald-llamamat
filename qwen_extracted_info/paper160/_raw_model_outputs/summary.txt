@@ -1,0 +1,8 @@
+{
+  "target_material": "NiO",
+  "process_type": "ALD",
+  "main_precursors": ["Ni(thd)2", "H2O"],
+  "temperature_range": "205–290 8C",
+  "summary": "Polycrystalline nickel oxide (NiO) is deposited on SiO2 substrates using alternating pulses of Ni(thd)2 and H2O. The process shows ALD characteristics with saturation behavior up to 275 8C. Growth per cycle increases with temperature up to 260 8C, then decreases. The study investigates deposition kinetics, microstructure, and the role of surface hydroxide groups in the ALD process.",
+  "evidence": "Polycrystalline nickel oxide is deposited on SiO2 substrates by alternating pulses of bis(2,2,6,6-tetramethylheptane-3,5-dionato)nickel(II) (Ni(thd)2) and H2O. The deposition process shows atomic layer deposition (ALD) characteristics with respect to the saturation behavior of the two precursors at deposition temperatures up to 275 8C. The growth of nickel oxide is shown to be highly dependent on surface hydroxide groups, and a large excess of H2O is required to achieve saturation."
+}<|im_end|>

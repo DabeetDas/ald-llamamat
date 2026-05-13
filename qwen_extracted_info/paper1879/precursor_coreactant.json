@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Er(tBuNC(CH3)NtBu)3"
+  ],
+  "coreactants": [
+    "ozone"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "The atomic layer deposition of Er2O3 films was demonstrated using Er(tBuNC(CH3)NtBu)3 and ozone with substrate temperatures between 225–300 uC. Nitrogen was used as both the carrier gas and purge gas."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.8,
+  "coreactant_pulse_time_s": 1.2,
+  "purge_time_s": 2.0,
+  "number_of_cycles": "133 to 211",
+  "reactor_type": "ASM F-120",
+  "evidence": "ALD Al2O3 films were deposited by using alternating pulse of trimethylaluminum (TMA) [Al (CH3)3] and water (H2O) precursors. H2O vapor was used to oxidize chemisorbed TMA. N2 was used as a carrier gas to transport precursor vapor to the membrane surface and purge reaction gases from the reactor during each half-reaction. The pulse time of TMA, H2O and N2 were 0.8 s, 1.2 s and 2.0 s, respectively. For our purpose, the deposition process was run for 133 to 211 cycles at 2 –5 Torr at 300°C and the growth rate was 0.9 Å per cycle for Al2O3."
+}

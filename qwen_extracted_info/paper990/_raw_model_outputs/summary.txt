@@ -1,0 +1,8 @@
+{
+  "target_material": "Ga-doped ZnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["diethylzinc (DEZ)", "H2O", "triethylgallium (TEG)"],
+  "temperature_range": "300 ◦C",
+  "summary": "Ga-doped ZnO thin films were grown using atomic layer deposition (ALD) with diethylzinc (DEZ) and H2O as Zn and O precursors, and triethylgallium (TEG) as Ga precursor. The films were grown on c-plane sapphire substrates at 300 ◦C under Zn-rich conditions to improve electrical properties. The resistivity was achieved at a TEG flow rate of 0.24 µmol/min.",
+  "evidence": "Low-resistivity n-type ZnO thin films were grown by atomic layer deposition (ALD) using diethylzinc (DEZ) and H2O as Zn and O precursors. ZnO thin films were grown on c-plane sapphire ( c-Al2O3) substrates at 300 ◦C. Ga-doping was performed under Zn-rich growth conditions using triethylgallium (TEG) as Ga precursor. The resistivity of 8.0 × 10−4 /Omega1cm was achieved at the TEG flow rate of 0.24 µmol/min."
+}<|im_end|>

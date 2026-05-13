@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The interfacial reaction between HfO2 films and GaAs substrates was influenced by the surface state of the substrate. The reaction involved the formation of Ga2O3 and As2O3, with the latter being deoxidized during annealing. The interfacial layer changed from As2O3 to Ga2O3 as a main composition after annealing treatment.",
+  "intermediate_species": ["As2O3", "Ga2O3"],
+  "evidence": "The thermodynamic data on the chemical reaction, As2O3 + 2GaAs→ Ga2O3 +4As (ΔG = −62 kcal/mol), indicate that the formation of Ga2O3 was favored and that As2O3 was deoxidized, which is consistent with the gradual increment in the formation of Ga2O3 after annealing treatment."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Diethylzinc (DEZ)"],
+  "coreactants": ["H2O", "H2O/HF"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Diethylzinc (DEZ) and deionized water (DI water) were used as a precursor for the Zn and O reactant, respectively. A homemade F source was created by mixing 50 mL DI water and 0.5 mL diluted hydrogen fluoride (HF 48 –51% diluted in water). This solution was stirred for 5 min in order to uniformly disperse the HF in DI water before the solution was charged to a canister. DEZ was kept below 10 /C14 C by using a chiller and delivered into a chamber with a high purity N2 (99.999%) carrier gas flow of 20 sccm (standard cubic centimeters per minute)."
+}

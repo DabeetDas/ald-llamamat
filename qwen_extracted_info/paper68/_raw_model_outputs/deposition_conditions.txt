@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.4,
+  "coreactant_pulse_time_s": 0.4,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "custom built reactor",
+  "evidence": "The precursors for this reaction were dimethyl cadmium (DMCd) and in situ generated hydrogen sulﬁ de (H2S) which had been produced by decomposition of thioacetamide (C2H5NS) as described in earlier work. [39] The H2S is mostly pure with small amounts of acetonitrile (CH3CN) that results from decomposition of thioacetomide. N2 was used as the carrier and purge gas at a constant ﬂ ow rate of 60 SCCM. ALD pulse and purge lengths were 0.4 and 20 sec, respectively for both precursors."
+}<|im_end|>

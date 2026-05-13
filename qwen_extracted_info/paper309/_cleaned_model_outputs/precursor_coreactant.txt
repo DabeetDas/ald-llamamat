@@ -1,0 +1,7 @@
+{
+  "precursors": ["Diethyl zinc (DEZ)", "SnCl4"],
+  "coreactants": ["H2O2", "H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Diethyl zinc (DEZ, 99 %, Dalian Credit Electronic Gas Co., Liaoning, China) and tin chloride (SnCl4, 98 %, Alfa Aesar) were used as the metal precursors for ZnO and SnO2 ALD. Deionized water and hydrogen peroxide (H2O2,3 0% in aqueous solution, Alfa Aesar) were used as the oxidants."
+}

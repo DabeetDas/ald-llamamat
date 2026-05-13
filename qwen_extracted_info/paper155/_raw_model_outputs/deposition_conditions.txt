@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "2–3 mbar",
+  "precursor_pulse_time_s": 1.5,
+  "coreactant_pulse_time_s": 1.5,
+  "purge_time_s": 1.5,
+  "number_of_cycles": 1200,
+  "reactor_type": "F-120",
+  "evidence": "The deposition of HfO2 thin films by ALD was studied using ... and water vapor as the oxygen source. Experimental parameters such as precursor pulse length and substrate temperature were varied to assess the growth behavior. The HfO2 film growth rate was investigated for ... at a deposition temperature of 350 8C (Fig. 1). The number of deposition cycles, the water vapor pulse length, and the length of the purge following the water vapor pulse were held constant at 1200, 1.5 s, and 1.5 s, respectively. The length of the purge following the metal source pulse was kept equal to the length of the metal source pulse."
+}<|im_end|>

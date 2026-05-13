@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "After ZnO growth cycle, and before Al2O3 one, the surface is rich with hydroxyl groups (O–H), which then can react with the upcoming TMAl molecules (instead of DEZn ones) and form O2Al–CH3 surface (instead of OZn–C2H5 one), and then, after H2O pulse, O2AlO–H (instead of OZnO–H) one.",
+  "intermediate_species": [
+    "hydroxyl groups",
+    "O2Al–CH3",
+    "O2AlO–H"
+  ],
+  "evidence": "After ZnO growth cycle, and before Al2O3 one, the surface is rich with hydroxyl groups (O–H), which then can react with the upcoming TMAl molecules (instead of DEZn ones) and form O2Al–CH3 surface (instead of OZn–C2H5 one), and then, after H2O pulse, O2AlO–H (instead of OZnO–H) one."
+}

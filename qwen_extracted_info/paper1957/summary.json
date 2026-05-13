@@ -1,0 +1,11 @@
+{
+  "target_material": "InP",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Trimethylindium (TMIn)",
+    "Phosphine (PH3)"
+  ],
+  "temperature_range": "330°C to 580°C",
+  "summary": "The study describes the growth of indium phosphide (InP) using an alternating gas supply method in a modified metalorganic chemical vapor deposition (MOCVD) system. The process is mass transport limited between 420-580°C and kinetic controlled below 400°C. Monolayer growth (ALE) was achieved at 340°C. The technique allows for lower growth temperatures and is suitable for heteroepitaxy applications.",
+  "evidence": "We have grown InP by supplying precursors alternately into the reactor of a metalorganic chemical vapor deposition system. Epitaxial growth has been obtained with a substrate temperature as low as 330°C. The growth process is mass transport limited in the temperature range of 420-580°C. It is kinetic controlled below 400°C. At 340°C, we have achieved monolayer growth in each cycle, i.e., atomic layer epitaxy."
+}

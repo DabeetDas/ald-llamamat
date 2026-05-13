@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD involve the adsorption of the precursor ligands and subsequent decomposition. The guanidinate ligands undergo ligand exchange with surface hydroxyl groups, followed by a water pulse to regenerate the OH sites. The mechanism includes the formation of surface species such as monomethyl aluminum and formate species.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The text describes the ALD process involving the adsorption of the precursor ligands and subsequent decomposition. It mentions the formation of surface species such as monomethyl aluminum and formate species, and the ligand exchange between TMA and surface hydroxyl groups followed by a water pulse to regenerate OH sites."
+}<|im_end|>

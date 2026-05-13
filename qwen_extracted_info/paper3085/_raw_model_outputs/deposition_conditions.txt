@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 5,
+  "number_of_cycles": 300,
+  "reactor_type": "showerhead-type ALD system (GENI-MP1000, ASM-Genitech, Inc.)",
+  "evidence": "Ru was deposited at 300°C by a showerhead-type ALD system /H20849GENI-MP1000, ASM-Genitech, Inc./H20850using Ru/H20849EtCp/H208502 and O2 as the precursor and reactant, respectively. One ALD cycle consisted of precursor pulsing, purging, reactant pulsing, and purging for 5, 5, 10, and 5 s, respectively."
+}<|im_end|>

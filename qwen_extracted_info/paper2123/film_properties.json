@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 77,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The XPS data in the Ge 3 d region (Fig. 1(a)) demonstrate that the (NH4)2S-treated surface is predominantly composed of Ge in the oxidation state 0 (signal at 30.1 eV), with only traces of oxidized Ge (signal at 32.5– 33.0 eV). In this respect, it is similar to the HF-etched Ge surface and distinctly different from native-oxide-covered Ge. As shown by the MEIS feature at 93.75 keV (Fig. 1(b)) and by an XPS S 2 p signal at 162.1 eV (Fig. 1(c)), S is present with an areal density of 1.0 × 1015 cm−2, consistent with literature data. 25 Assuming germanium monosulfide (GeS) or disulfide (GeS2) stoichiometry, this corresponds to a passivation layer thickness of 4 – 5 Å. 26 A MEIS signal at 88.1 keV (Fig. 1(b)) shows that oxygen is present due to air exposure, with similar areal density of 8.5 × 1014 cm−2. While S passivation thus reduces the amount of surface O to only 60% of what is observed for air-exposed HF-etched Ge (Fig. 1(b)), the surface stoichiometry is more accurately denoted as GeOS. The thermal stability was determined by recording XPS spectra after 2 – 3 min anneals to successively higher temperatures in ultrahigh vacuum (Fig. 1(c)). Most S is retained on the Ge surface up to 260 ° C, while it is desorbed at temperatures of ≥320 ° C, consistent with previous studies."
+}

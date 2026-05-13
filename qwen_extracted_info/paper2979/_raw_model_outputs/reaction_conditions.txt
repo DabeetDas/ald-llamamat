@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of oxygen radicals produced from a remote microwave plasma discharge as the oxygen source in the ALD process. The mechanism avoids the use of water, which is replaced by oxygen radicals to reduce hydrogen content and cycle time. The process uses trimethylaluminum (TMA) as the aluminum precursor and oxygen radicals as the oxygen source, leading to the formation of aluminum oxide films without significant hydrogen incorporation.",
+  "intermediate_species": ["Al-OH*", "Al(CH3)2*"],
+  "evidence": "The paper discusses the use of oxygen radicals produced from a remote microwave plasma discharge as the oxygen source in the ALD process. It states that the process replaces water with oxygen radicals to reduce hydrogen content and cycle time. The mechanism involves the reaction of TMA with oxygen radicals, leading to the formation of aluminum oxide films. The text mentions that the process avoids the use of water, which is replaced by oxygen radicals, and that the films grown at low temperatures contain significant amounts of hydrogen when using the TMA-H2O process. The replacement of water with oxygen radicals is aimed at reducing hydrogen content and cycle time."
+}<|im_end|>

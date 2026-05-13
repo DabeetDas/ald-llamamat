@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "9 /C210/C05Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": "200",
+  "reactor_type": "F-120",
+  "evidence": "The growth thickness per cycle saturated at 0.3 monolayers when the Si2H 6 gas supply was sufficient. We considered that Si submonolayer growth was attained by the self-limiting adsorption of the Si–H compound at 380–4801C and the desorption of hydrogen at 5501C."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "GdScO3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Gd(thd)3",
+    "Sc(thd)3",
+    "ozone"
+  ],
+  "temperature_range": "300 ◦C",
+  "summary": "Gadolinium scandium oxide (GdScO3) thin films were grown by atomic layer deposition (ALD) using β-diketonate precursors M(thd)3 (M = Gd, Sc) and ozone. The deposition parameters were optimized to produce stoichiometric films with a metal precursor pulsing ratio of Gd : Sc = 5 : 6, resulting in a growth rate of 0.21 Å/cycle. The films remained amorphous up to 900 ◦C and exhibited excellent electrical properties, including a dielectric constant of ~22 and a leakage current density of 340 µA/cm2 at -2V.",
+  "evidence": "Gadolinium scandium oxide (Gd-scandate, GdScO3) thin films were grown by atomic layer deposition (ALD) from β-diketonate precursors M (thd)3 (M = Gd, Sc; thd = 2,2,6,6-tetramethyl-3,5-heptanedionato) and ozone. The deposition parameters were optimized to produce films with the stoichiometric 1 : 1 metal ratio and a series of samples with nominal thicknesses of 5, 10, 15, and 20 nm were prepared. At 300 ◦C the metal precursor pulsing ratio Gd : Sc = 5 : 6 yielded amorphous stoichiometric films and a growth rate of 0.21 ˚A/cycle. The films stayed amorphous up to 900 ◦C. The electrical properties of the as-deposited films proved to be very promising, with a dielectric constant of ∼ 22 and leakage current density of 340 µA/cm2, measured at −2V ."
+}

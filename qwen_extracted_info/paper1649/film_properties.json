@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 54,
+  "density_g_cm3": null,
+  "refractive_index": "2.43 to 2.52",
+  "surface_roughness_nm": 2.7,
+  "crystal_phase": "anatase",
+  "evidence": "The presence of the anatase phase was confirmed by FTIR and XRD for T g 110 °C. The refractive indices as a function of substrate temperature. In all cases, the values are quite high, increasing linearly with temperature from 2.43 to 2.52. These are among the highest values reported for this temperature range, and are consistent with the presence of a dense film structure and the anatase phase. The dominant peak in the XRD is due to the (101) crystal plane of anatase phase 2 θ ) 25.4°. The achievement of the anatase phase at 110 °C is similar to what we observed for pulsed PECVD and is perhaps the lowest value reported to date for any ALD process. No Cl was detected in any of the samples, meaning that the impurity levels are below the detection limit of the technique (<0.1 at %)."
+}

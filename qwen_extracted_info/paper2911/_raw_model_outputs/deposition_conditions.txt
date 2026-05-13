@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "500",
+ "pressure": "",
+ "precursor_pulse_time_s": "0.4",
+ "coreactant_pulse_time_s": "0.4",
+ "purge_time_s": "0.2",
+ "number_of_cycles": null,
+ "reactor_type": "flow type",
+ "evidence": "With 500°C as the deposition temperature, both InCl3 and H2O2 pulse times could be decreased to 0.4 s without decreasing the deposition rate from the saturated value of 0.40 Å/cycle. Furthermore, the purge times could be shortened to 0.2 s without any evidence of overlapping precursor pulses."
+}<|im_end|>

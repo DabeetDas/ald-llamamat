@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the formation of carbonate species in SrO films during ALD, which is attributed to atmospheric CO2 exposure. The carbonate formation is minimized when a TiO2 capping layer is used, indicating that the ALD process itself does not inherently produce carbonate species but that atmospheric exposure is the primary cause.",
+  "intermediate_species": ["carbonate species"],
+  "evidence": "XPS analysis of ALD SrO films showed the presence of carbonate groups in the film; however, it was found that the strontium carbonate is primarily due to uptake of atmospheric CO2. In SrO films generated using O3 oxidizer, a non-negligible carbonate content was observed in the films indicating some carbonate formation during the ALD process. In the case of SrO films deposited using H2O, there is negligible carbonate formed during the ALD process."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Y2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tris(N,N'-di-tert-butyl-formamidinato)yttrium(III)"],
+  "temperature_range": "200 °C to 325 °C",
+  "summary": "The study focuses on the development of new yttrium oxide (Y2O3) thin films through atomic layer deposition (ALD) using formamidinate ligands. The research explores the influence of ligand variation on the thermal properties and reactivity of yttrium complexes, with a particular emphasis on the thermal stability and reactivity of tris(N,N'-di-tert-butyl-formamidinato)yttrium(III) as a precursor for Y2O3 ALD. The process yields high-quality films with good dielectric properties and a broad ALD temperature range.",
+  "evidence": "A broad ALD window ranging from 200 °C to 325 °C was obtained, yielding films of high compositional quality. Furthermore, with a film density of (4.95 ± 0.05) g cm −1 close to the bulk value, polycrystalline fcc Y2O3 layers with a smooth topography resulted in promising dielectric properties when implemented in metal insulator semiconductor (MIS) capacitor structures."
+}

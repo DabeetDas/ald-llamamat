@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during atomic layer epitaxy (ALE) involve the alternating exposure of the substrate to column III and column V gas phase reactants, leading to saturated monolayer growth. The process is self-limiting and surface-controlled, ensuring uniform growth across the substrate.",
+  "intermediate_species": [
+    "surface hydroxyls"
+  ],
+  "evidence": "Atomic layer epitaxy (ALE) is a relatively new crystal growth technique which allows control of the growth process at the monolayer level through a self-limiting, surface-controlled growth mechanism. In this process saturated monolayer by monolayer growth is achieved by alternately exposing the substrate to column III and column V gas phase reactants."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Pd(hfac)2"],
+  "coreactants": ["formalin", "TMA", "TTIP", "H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The Pd(hfac)2 precursor (Sigma-Aldrich, > 97%) contained in a stainless steel bubbler was heated to 60 /C176Ct o produce a practical vapor pressure. Nitrogen with a flow rate of 90 sccm passed through the bubbler and carried the Pd(hfac) precursor to the reaction chamber. The formalin (Sigma-Aldrich) reducing reagent is a solution of 37% formaldehyde in water with 10-15% methanol as a stabilizer. The inlet lines were heated to at least 100 /C176C to prevent condensation."
+}

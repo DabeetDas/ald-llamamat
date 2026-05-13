@@ -1,0 +1,8 @@
+{
+  "target_material": "Ce x –Hf1−xO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Ce(thd)4", "(MeCp)2HfMeOMe"],
+  "temperature_range": "300 °C",
+  "summary": "The study reports the deposition of cerium-doped hafnium dioxide (Ce x –Hf1−xO2) thin films using liquid injection atomic layer deposition (ALD). The films were annealed at 900 °C to transform them into crystalline phases, resulting in enhanced permittivity and improved dielectric properties. The process involved the use of Ce(thd)4 and (MeCp)2HfMeOMe as precursors, with the optimal growth temperature chosen to match the deposition rates of CeO2 and HfO2.",
+  "evidence": "The text states: 'Cex –Hf1−xO2 films were deposited on n-type Si (100) substrates... using the precursors Ce(thd)4 and (MeCp)2HfMeOMe... A growth temperature of 300 °C was chosen as the optimum for matching the deposition rates of CeO2 and HfO2.'"
+}

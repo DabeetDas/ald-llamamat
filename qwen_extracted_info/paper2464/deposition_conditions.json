@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "290",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "MBE system",
+  "evidence": "ALE growth of CdTe was performed at a substrate temperature of 290 °C."
+}

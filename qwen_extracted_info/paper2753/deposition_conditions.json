@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "220",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "4",
+  "coreactant_pulse_time_s": "10",
+  "purge_time_s": "3",
+  "number_of_cycles": "2400",
+  "reactor_type": "ASM Microchemistry F120",
+  "evidence": "NaxCoO2 and Ca3Co4O9 thin films were grown with an ASM Microchemistry F120 ALD reactor operated at a pressure of about 1 Torr. The precursor/N2 purge times were fixed to the following values based on preliminary tests: 4, 10, 3, and 12 s for the metal precursor exposure, precursor purge, O3 exposure, and O3 purge, respectively, in the NaxCoO2 process."
+}

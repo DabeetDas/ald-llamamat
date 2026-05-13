@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "185-300",
+  "pressure": "3m bar",
+  "precursor_pulse_time_s": 0.8,
+  "coreactant_pulse_time_s": 1.5,
+  "purge_time_s": null,
+  "number_of_cycles": 4000,
+  "reactor_type": "F-120",
+  "evidence": "The films grown with Li(thd) and ozone were analyzed to be lithium carbonate Li2CO3. The elemental composition of the films was analyzed by TOF-ERDA. A film grown at 185 /C14 C contained 33 at% of lithium, 49 at% of oxygen and 17 at% of carbon and a film grown at 225 /C14 C contained 33 at% of lithium, 48 at% of oxygen and 18 at% of carbon. The self-limiting growth characteristic of ALD was verified at 225 /C14 C by varying the Li(thd) pulse time between 0.8 and 1.5 s without noting variations in the growth per cycle (Fig. 3)."
+}

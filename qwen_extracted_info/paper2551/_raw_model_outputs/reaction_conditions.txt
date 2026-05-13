@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of TiCl4 and H2-N2 plasma radicals, followed by the removal of chlorine and nitridation of the surface. For HfO2, the adsorption of TEMAH and O2 plasma radicals leads to the formation of HfO2 through surface reactions.",
+  "intermediate_species": ["surface hydroxyls", "formate species", "monomethyl aluminum"],
+  "evidence": "The text describes the deposition of TiN and HfO2 using remote plasma ALD. For TiN, the process involves the adsorption of TiCl4 and H2-N2 plasma radicals, with the removal of chlorine and nitridation of the surface. For HfO2, the process involves the adsorption of TEMAH and O2 plasma radicals, leading to the formation of HfO2 through surface reactions. The intermediate species include surface hydroxyls, formate species, and monomethyl aluminum."
+}<|im_end|>

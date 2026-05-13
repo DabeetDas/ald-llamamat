@@ -1,0 +1,7 @@
+{
+  "precursors": ["Bi(thd)3", "Fe(Cp)2"],
+  "coreactants": ["O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "BiFeO3 films were prepared in a Cambridge Nanotech Savannah flow-type reactor at 250ºC by alternate pulsing of bismuth tris(2,2,6,6-tetramethyl-3,5-heptanedionate) (Bi(thd)3) and ferrocene (Fe(Cp)2) combined with ozone (O3). The precursor pulse ratio Bi/Fe was optimized to 2/1 using a pulse time of 2 s and a purge time of 20s with an average deposition rate of 0.02 nm/supercycle to obtain the required film stoichiometry (1Bi:1Fe). Also ALD window was identified between 220-250ºC, see Figure S1. Atomic ratio quantification performed by XPS in the as-deposited and postannealed sample is shown in Figure S5. The Bi(thd) source was maintained at 168ºC and the Fe(Cp)2 source at 90ºC."
+}

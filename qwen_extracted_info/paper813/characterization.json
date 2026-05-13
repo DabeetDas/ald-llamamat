@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "X-ray Diffraction (XRD)",
+    "Electrochemical Impedance Spectroscopy (EIS)",
+    "Cyclic Voltammetry (CV)",
+    "Scanning Electron Microscopy (SEM)",
+    "Variable-Angle Spectroscopic Ellipsometry (VASE)"
+  ],
+  "evidence": "XPS was used to probe the chemical states of nickel, iron and oxygen. XRD patterns were collected after annealing to 150oC and subsequent ALD deposition. Electrochemical Impedance Spectroscopy (EIS) was performed to determine uncompensated series resistance, R U. Cyclic Voltammetry (CV) was performed to measure kinetics for the OER and characterize catalyst behavior. Scanning Electron Microscopy (SEM) was used to image electrodeposited Ni(OH)2. Variable-Angle Spectroscopic Ellipsometry (VASE) was used to determine thicknesses of deposited films on reference Si coupons."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMA)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Nitrogen"],
+  "evidence": "The trimethylaluminum (TMA) and H2O reactants for Al2O3 ALD were all kept at room temperature. Nitrogen (99.999% pure; Air Gas, Inc., ultrahigh purity (UHP)) was used as the carrier and purge gas."
+}

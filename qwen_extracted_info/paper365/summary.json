@@ -1,0 +1,11 @@
+{
+  "target_material": "CdS",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": [
+    "Cd",
+    "S"
+  ],
+  "temperature_range": "340°C",
+  "summary": "Monocrystalline CdS films are successfully grown on (100)GaAs at 340°C using atomic layer epitaxy (ALE) with a molecular beam epitaxy (MBE) system. The films exhibit a cubic structure without twinning, uniform thickness, and a smooth surface morphology. The study highlights the advantages of ALE for producing high-quality CdS epilayers suitable for ultrathin multilayer structures.",
+  "evidence": "Monocrystalline CdS films are successfully grown on (100)GaAs at the low temperature of 340°C by atomic layer epitaxy (ALE) using a molecular beam epitaxy (MBE) system. The growth orientation of the epilayer is (100) of a zincblende structure with no twinning. The film thickness is in good agreement with the predesigned atomic layer numbers. The variation of the film thickness is uniform in the whole area of the epilayer and the surface morphology is flat and smooth."
+}

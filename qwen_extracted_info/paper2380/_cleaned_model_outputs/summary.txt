@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["TEMAHf", "H2O", "O3"],
+  "temperature_range": "300 ◦C",
+  "summary": "The study compares the interfacial and electrical properties of HfO2 gate dielectrics grown on GaAs using different oxidants (H2O and O3) during atomic layer deposition (ALD). The O3-based process produced a larger amount of elemental As and Ga–O bonds near the HfO2/GaAs interface, leading to higher interface state and border trap densities, which degraded low-field electrical stability. However, the O3-based sample showed better high-field stability due to resistance to stress-induced trap generation. The study highlights the impact of oxidant choice on interfacial properties and electrical performance.",
+  "evidence": "In this paper, we examined the effects of two different oxidants (H2O and O3) used during the atomic layer deposition (ALD) of HfO2 films on GaAs, particularly focusing on its interfacial and electrical properties. In comparison with the H2O-based ALD process, the O3-based process produced a large amount of elemental As and Ga–O related bonds near the HfO2/GaAs interface due to its stronger oxidizing power. High interface state and border trap densities of the O3-based sample degraded the low-field electrical stability, which was confirmed by the capacitance and leakage current measurements under various voltage-stressing conditions. However, in terms of high-field stability, the O3-based sample showed a much stronger resistance to stress-induced trap generation than the H2O-based sample."
+}

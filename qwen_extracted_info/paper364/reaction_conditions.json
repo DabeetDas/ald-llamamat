@@ -1,0 +1,21 @@
+{
+  "reaction_equations": [
+    "Me3Ga + As-H -> Me3Ga-As + H",
+    "Me3Ga-As -> Me2Ga-As + MeH",
+    "Me2Ga-As -> MeGa-As + MeH",
+    "MeGa-As -> Ga-As + MeH",
+    "Me3Ga + Ga-H -> Me3Ga-Ga + H",
+    "Me3Ga-Ga -> Me2Ga-Ga + MeH",
+    "Me2Ga-Ga -> MeGa-Ga + MeH",
+    "MeGa-Ga -> Ga-Ga + MeH"
+  ],
+  "surface_mechanism_description": "TMG is adsorbed and decomposed on both the As and Ga surfaces in the temperature region where ALE growth can occur. The decomposed species, i.e., Me~Ga (n = 1, 2), can be desorbed from the Ga surface but not from the As surface. The desorption of Ga-containing decomposition products is selective from the Ga surface, which is inconsistent with the prevalent model based on selective adsorption on the As surface.",
+  "intermediate_species": [
+    "Me3Ga",
+    "Me2Ga",
+    "MeGa",
+    "Ga-As",
+    "Ga-Ga"
+  ],
+  "evidence": "It has been found that TMG is adsorbed and decomposed on both the As and the Ga surfaces in the temperature region where atomic layer epitaxy (ALE) growth can occur. It has also been found that even the decomposed species, i.e., Me~Ga (n = 1, 2), can be desorbed from the Ga surface together with TMG molecules, but not from the As surface. The results are inconsistent with the prevalent model based on selective adsorption on the As surface, and so a new selective desorption model is instead proposed for the self-limiting deposition of Ga for ALE growth. This model emphasizes that even Ga-containing decomposition products, i.e., Me~Ga (n = 1, 2), are desorbed selectively from the Ga surface."
+}

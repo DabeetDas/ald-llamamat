@@ -1,0 +1,12 @@
+{
+  "target_material": "Hafnium titanate (HTO)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "HfCl4",
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "300°C",
+  "summary": "This study investigates the Atomic Layer Deposition (ALD) of Hafnium Titanate (HTO) using HfCl4, TiCl4, and H2O as precursors. The process is optimized to control the Hf content through precursor pulse ratios. The study explores the effects of Hf content on the crystalline structure, dielectric properties, and leakage current of the HTO films. The results show that the crystallization behavior and electrical properties are significantly influenced by the Hf/Ti ratio and annealing conditions.",
+  "evidence": "Hafnium titanate /H20849HTO/H20850films were deposited within a large Hf–Ti compositional range by atomic layer deposition using HfCl4 /TiCl4 /H20849H2O precursors. The Hf content of the layers is well controlled by the precursor pulse ratio, as indicated by Rutherford backscattering. The saturation conditions of ternary HTOs are different compared to those of the binary oxides. A linear correlation between density, quantified by X-ray reflectometry, and composition was observed. X-ray diffraction indicated that the as-deposited films are amorphous up to 500–700°C, depending on the Hf /Ti ratio. The dielectric constant and leakage current depend on the Ti content, the film crystallinity, and the anneal atmosphere. The postdeposition anneal in O2 is found to have a drastic effect in leakage current density reduction and could be a key for further improvements of HTO electrical properties."
+}

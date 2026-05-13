@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "ALD",
+  "main_precursors": ["diethylzinc (DEZ)", "water"],
+  "temperature_range": "100°C and 150°C",
+  "summary": "The paper describes the fabrication of transparent ZnO thin-film transistors (TFTs) using atomic layer deposition (ALD). The ZnO films were deposited at 100°C and 150°C using diethylzinc (DEZ) and water as precursors. The study aimed to improve the performance of ZnO TFTs by controlling the carrier density and optimizing the ALD process parameters. The results showed that the ZnO films grown at 100°C had lower carrier density, leading to better TFT performance with reduced off-current and improved threshold voltage.",
+  "evidence": "For the analysis, ZnO films were deposited with a 250 cycle process on the gate insulator, alumina, coated p-type 5 in. Si (100) substrate by means of ALD at 100 and 150°C using diethylzinc (DEZ) and water as Zn and oxygen precursors, respectively, in a shower head-type reactor. The ZnO semiconductor films were deposited by ALD at the substrate temperature of 100°C and patterned using lift-off or wet-etching process. The reason for the reduction of the carrier density of the ZnO film grown at 100°C compared with that of the film grown at 150°C is not clear."
+}<|im_end|>

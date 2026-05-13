@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.05,
+  "coreactant_pulse_time_s": 0.05,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "Cambridge NanoTech Savannah 100",
+  "evidence": "Atomic layers of Al2O3 were deposited on the TiO2 electrodes using a Cambridge NanoTech Savannah 100 ALD system, with trimethylaluminum (TMA) and H2O as precursors and a deposition temperature of 150 °C. The ALD process featured a given number of identical cycles, each containing the following six steps: dosing with H2O for 0.05 s, soaking in the H2O dose for 2 min, evacuation for 5 min, dosing with TMA by opening the TMA valve for 0.05 s, soaking in the TMA dose for 2 min, and evacuation for 5 min."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMAl)"],
+  "coreactants": ["water"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": [],
+  "evidence": "The ALD process was performed by alternatively supplying pulses of nitrogen gas containing either water or TMAl."
+}

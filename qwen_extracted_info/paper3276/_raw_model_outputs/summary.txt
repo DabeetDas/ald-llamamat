@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "water"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the optical properties of Al2O3 thin films grown by atomic layer deposition (ALD) on silicon and soda lime glass substrates. The films are characterized by their refractive index and uniformity, with the refractive index determined through reflection spectra analysis using the Sellmeier formula. The ALD process ensures high uniformity and smooth films, making it suitable for optical waveguide applications.",
+  "evidence": "Al2O3 films were grown on silicon (100) and soda lime substrates in a Picosun R-75 ALD reactor using trimethylaluminum (TMA) and water [15]. The deposition temperature was 300 °C. The films were characterized by their refractive index and uniformity, with the refractive index determined through reflection spectra analysis using the Sellmeier formula."
+}<|im_end|>

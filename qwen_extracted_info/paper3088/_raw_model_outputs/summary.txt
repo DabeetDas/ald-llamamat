@@ -1,0 +1,8 @@
+{
+  "target_material": "Tantalum Nitride (TaNx)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["(tert-Butylimido)tris(diethylamido)tantalum (TBTDET)", "Hydrazine (N2H4)"],
+  "temperature_range": "150–250°C",
+  "summary": "This study investigates the Atomic Layer Deposition (ALD) of tantalum nitride (TaNx) using (tert-Butylimido)tris(diethylamido)tantalum (TBTDET) and hydrazine (N2H4) as precursors. The process is compared with ammonia (NH3) as a nitrogen source. Hydrazine is found to yield higher growth rates and denser films compared to ammonia. The study also explores the growth mechanism and surface reactions involved in the ALD process.",
+  "evidence": "Tantalum nitride /H20849TaNx/H20850atomic layer deposition /H20849ALD/H20850was performed using sequential exposures of /H20849tertbutylimido/H20850tris/H20849diethylamido/H20850tantalum /H20849TBTDET/H20850and either hydrazine /H20849N2H4/H20850or ammonia /H20849NH3/H20850. X-ray reﬂectivity studies demonstrated that hydrazine consistently yielded TaN x ﬁlms with larger growth rates and higher densities than the TaN x ﬁlms grown using ammonia. The TaN x ALD growth rate of 0.62 Å per cycle using hydrazine was higher than the growth rate obtained using ammonia over the temperature range from 150–250°C."
+}<|im_end|>

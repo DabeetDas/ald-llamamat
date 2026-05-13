@@ -1,0 +1,12 @@
+{
+  "target_material": "TiO2–Cr2O3 nanolaminates",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "TiCl4",
+    "CrO2Cl2",
+    "CH3OH"
+  ],
+  "temperature_range": "375 °C",
+  "summary": "TiO2–Cr2O3 nanolaminates were grown by atomic layer deposition (ALD) on sapphire and silicon substrates. The nanolaminates consisted of alternating layers of TiO2 and Cr2O3 with a thickness of approximately 10 nm. The study focused on the structural characteristics of the nanolaminates, including crystallinity, interphase boundaries, and the effect of the substrate on the growth and properties of the nanolaminates.",
+  "evidence": "TiO2–Cr2O3 nanolaminates were atomic layer deposited on (0 1 2)-oriented sapphire and (1 0 0)-oriented silicon. The thickness of the alternating layers in the eight-layer laminates grown was close to 10 nm. The laminates were characterized by cross-sectional high-resolution transmission electron microscopy, high-resolution scanning electron microscopy, atomic force microscopy, reflection high-energy electron diffraction, and micro-Raman spectroscopy."
+}

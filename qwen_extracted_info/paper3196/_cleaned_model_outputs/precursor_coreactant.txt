@@ -1,0 +1,7 @@
+{
+  "precursors": ["MeCpPtMe3"],
+  "coreactants": ["O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "During ALD, the container for MeCpPtMe3 was kept at 45°C, providing a steady-state flux of MeCpPtMe3 at a constant pressure of 0.308 Torr to the reactor. In each cycle, 1 s of MeCpPtMe3 pulse and 5 s of O2 pulse were separated by 20 s of N2 purge."
+}

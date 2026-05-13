@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-400",
+  "pressure": "0.20–0.25 Torr",
+  "precursor_pulse_time_s": "0.015",
+  "coreactant_pulse_time_s": "20",
+  "purge_time_s": "5",
+  "number_of_cycles": "150",
+  "reactor_type": "Fiji F200 ALD reactor (Cambridge Nanotech)",
+  "evidence": "For the optimization of growth parameters, 150 cycles were deposited at /C14 C, where one cycle consisted of 0.015 s TMG (precursor bottle temperature /C24 6 /C14 C)/5 s Ar purge/2–60 s (25 sccm, 300 W) O 2 plasma/5 s Ar purge."
+}<|im_end|>

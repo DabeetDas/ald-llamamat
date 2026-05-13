@@ -1,0 +1,8 @@
+{
+  "target_material": "SnS2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(dimethylamino)tin (TDMASn)", "hydrogen sulfide (H2S)"],
+  "temperature_range": "150 ◦C (deposition), 300 ◦C (annealing)",
+  "summary": "The study reports the use of thermal ALD to deposit SnS2 at low temperatures (150 ◦C) and annealing at 300 ◦C to improve crystallinity. ZrO2 layers were used to enhance adhesion and electrical properties of SnS2 channels in FETs. The results showed improved on/off ratio and mobility compared to bare SnS2.",
+  "evidence": "We deposited a crystalline SnS2 at 150 ◦C using ALD, and we then annealed at 300 ◦C. ... ZrO2 layer to increase adhesion between the channel and the substrate and a top ZrO2 layer to improve contact property, passivate surface, and protect from process-induced damages to the channel. ZTZ (ZrO2/SnS2/ZrO2) FETs showed improved electrical characteristics with an on/off ratio of from 0.39×103 to 6.39×103 and a mobility of from 0.0076 cm2/Vs to 0.06 cm2/Vs."
+}

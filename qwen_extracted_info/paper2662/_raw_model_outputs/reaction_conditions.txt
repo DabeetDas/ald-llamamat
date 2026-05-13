@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "LiTMSO (s) + H2O (g) → LiOH (s) + HTMSO (g)",
+    "LiTMSO (s) + CO2 (g) → Li2CO3 (s) + TMSO (g)"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the saturation of the surface by LiTMSO, followed by a water pulse to regenerate OH sites and a CO2 pulse to form Li2CO3. The process is self-limiting and requires the presence of hydroxyl groups on the surface for the reaction to proceed.",
+  "intermediate_species": [
+    "LiOH*",
+    "HTMSO",
+    "TMSO"
+  ],
+  "evidence": "The text states: 'The mass loss during the H2O pulse is less than what one would expect from the reaction LiTMSO (s) + H2O (g) → LiOH (s) + HTMSO (g). This indicates that a significant fraction of the TMSO ligands are lost already during the LiTMSO pulsing or purging step and that features of the saturating step remain unknown. If one, on the other hand, assumes that the film is fully converted to Li2CO3 during the CO2 pulse and relates the relative mass increase during the (LiTMSO + H2O) sequence with the mass increase during the CO2 pulse, one obtains that the film must on average consist of LiOH*1/2 H2O after the H2O pulse.'"
+}<|im_end|>

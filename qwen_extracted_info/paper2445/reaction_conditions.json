@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "SnS2 + 2H2O → SnO2 + S2 + 2H2",
+    "SnS2 + 2H2O → SnO2 + 2H2S"
+  ],
+  "surface_mechanism_description": "Theoretical thermodynamic equations for oxidation reactions between SnS2 and H2O were calculated. These reactions indicate that the oxidation of SnS2 is not spontaneous under standard conditions without additional assistance such as catalysts or intermediate byproducts.",
+  "intermediate_species": [
+    "SnO2",
+    "S2",
+    "H2",
+    "H2S"
+  ],
+  "evidence": "Based on XRD, Raman, and AES analyses, we also theoretically calculated possible thermodynamic equations of oxidation. Under standard conditions, the oxidation can be predicted by the change of the molar Gibbs free energy (∆G𝑜). Because ∆G𝑜 is a function of temperature but independent of time, we can predict whether or not the reaction occurs without considering the time factor. Calculating ∆G𝑜 can provide a guideline and theoretically support our experimental results (Figs. 5 and 6)."
+}

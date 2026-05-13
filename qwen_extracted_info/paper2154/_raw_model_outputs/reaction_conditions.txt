@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the incorporation of nitrogen into germanium oxides to suppress interdiffusion during ALD and postdeposition thermal processes. The plasma nitridation forms a germanium oxynitride (GeON) layer, which acts as an interface layer. The negative flatband voltage (Vfb) shift is attributed to positive fixed charge at the HfO2 interface, possibly due to Ge diffusion into the HfO2 layer during the ALD process.",
+  "intermediate_species": ["Ge diffusion into HfO2 layer"],
+  "evidence": "X-ray photoelectron spectroscopy shows evidence of germanium diffusion into the HfO2 layer. The negative Vfb shift is also reduced (0.43 V) for the TaON interface layer, suggesting that Ge diffusion into the high-k layer introduces positive fixed charge."
+}<|im_end|>

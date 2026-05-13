@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The sensing mechanism is based on the modulation of the hole-accumulation region in the NiO shell layer upon chemisorption of the reducing gas molecules. The reaction with the gases takes place at the surface of the NiO shell, leading to changes in the surface charge which determine changes of all resistive elements, namely: NiO shell, heterojunction formed between the shell and the SCCNTs and the resistance of the SCCNTs.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The sensing mechanism is based on the modulation of the hole-accumulation region in the NiO shell layer upon chemisorption of the reducing gas molecules. The reaction with the gases takes place at its surface. These electrons combine with the holes in the p-type material causing a reduction in the carrier concentration and therefore to an increase in resistance."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth mechanism involves the formation of anatase inclusions in the amorphous base layer of TiO followed by their development into crystalline particles. The growth process is nonhomogeneous and is influenced by the reactor-caused overheating of the precursors before they reach the substrates, promoting surface species agglomeration and crystallization.",
+  "intermediate_species": ["surface hydroxyls", "anatase inclusions", "surface species"],
+  "evidence": "The structural investigations by RHEED demonstrated that the TiO film deposited on GaAs in 100 cycles is perfectly amorphous. The RHEED patterns of two films deposited on GaAs in 300 and 3000 ALD cycles manifest the features characteristic of polycrystalline anatase. The XRD data characterizing the latter film, however, did not reveal any crystallinity. The contradiction of these results is apparent. Indeed, as the XRD method is mostly bulk-sensitive and the RHEED method surface-sensitive, the fact just suggests that it is only the top of the film that is crystalline. Actually, the polycrystalline anatase part was large enough to be observed in XRD experiments in a film deposited in 10,000 ALD cycles on the quartz substrate."
+}

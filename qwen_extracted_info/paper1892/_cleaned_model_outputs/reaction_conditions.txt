@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ti–OH + TMA → Ti–O–Al(CH3)2 + CH4",
+    "Ti–O–Al(CH3)2 → Ti–O–Al(OH)2"
+  ],
+  "surface_mechanism_description": "The ALD process involves the sequential adsorption of H2O and TMA on the TiO2 surface. The H2O converts surface hydroxyl groups into Ti–OH groups, which then react with TMA to form Ti–O–Al(CH3)2. Upon exposure to air or subsequent H2O dosing, the Ti–O–Al(CH3)2 groups convert into Ti–O–Al(OH)2. The effective CRB thickness is determined by steric hindrance among precursor and dye molecules.",
+  "intermediate_species": [
+    "Ti–OH",
+    "Ti–O–Al(CH3)2",
+    "Ti–O–Al(OH)2"
+  ],
+  "evidence": "The surface reaction mechanism is described in the text: (1) the dosed H2O converts the exposed oxygen atoms into Ti–OH groups; (2) the subsequently dosed TMA chemisorbs onto the Ti–OH groups, forming Ti–O–Al(CH3)2; (3) the Ti–O–Al(CH3)2 groups are converted into Ti–O–Al(OH)2 upon the sample’s release to air in the 1-cycle process or upon the H2O dosing step of the second ALD cycle in the 2-cycle process."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 60,
+  "purge_time_s": 60,
+  "number_of_cycles": null,
+  "reactor_type": "FlexAl, Oxford Instruments",
+  "evidence": "The BaO PEALD process consisted of (i) Ba precursor injection (3 s) followed by (ii) Ba precursor exposure (60 s) to enhance diffusion and adsorption of the precursor molecules, (iii) precursor purging by Ar (60 s), (iv) plasma stabilization (2 s), (v) O 2 plasma injection (10 s) and (vi) Ar purging (2 s)."
+}

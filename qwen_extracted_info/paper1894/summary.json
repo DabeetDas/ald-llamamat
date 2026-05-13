@@ -1,0 +1,11 @@
+{
+  "target_material": "Metal oxides (specifically vanadium oxide, titanium oxide, and hafnium oxide)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Metal alkoxides (hafnium tert-butoxide, titanium isopropoxide, vanadium n-propoxide)",
+    "Acetic acid"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The paper describes the application of atomic layer deposition (ALD) to coat carbon nanotubes with metal oxides such as vanadium oxide (V2O4), titanium oxide (TiO2), and hafnium oxide (HfO2). The ALD process uses metal alkoxides and carboxylic acids as precursors, allowing for the uniform coating of both the inner and outer surfaces of carbon nanotubes. The study highlights the use of these hybrid materials in gas sensing applications, particularly for detecting nitrogen dioxide (NO2). The process enables precise control over film thickness and demonstrates the enhanced sensing properties of the resulting V2O4-coated carbon nanotubes.",
+  "evidence": "The paper describes the application of atomic layer deposition (ALD) to coat carbon nanotubes with metal oxides such as vanadium oxide (V2O4), titanium oxide (TiO2), and hafnium oxide (HfO2). The ALD process uses metal alkoxides and carboxylic acids as precursors, allowing for the uniform coating of both the inner and outer surfaces of carbon nanotubes. The study highlights the use of these hybrid materials in gas sensing applications, particularly for detecting nitrogen dioxide (NO2). The process enables precise control over film thickness and demonstrates the enhanced sensing properties of the resulting V2O4-coated carbon nanotubes."
+}

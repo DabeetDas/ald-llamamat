@@ -1,0 +1,11 @@
+{
+  "target_material": "In2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "tris( N,N’-diisopropylformamidinato)indium(III)",
+    "H2O"
+  ],
+  "temperature_range": "150–275 8C",
+  "summary": "The study describes the development of a new indium(III) precursor, tris( N,N’-diisopropylformamidinato)indium(III), which enables atomic layer deposition (ALD) of In2O3 films using H2O as the only co-reactant at a low temperature range of 150–275 8C. This process allows for the deposition of pure, carbon-free In2O3 films suitable for transparent conducting oxides (TCOs). The ALD window is characterized by a low and wide temperature range, which is attributed to the high reactivity of the surface reactions involving the new precursor.",
+  "evidence": "We have synthesized a new indium precursor, tris( N,N’-diisopropylformamidinato)indium(III), compound 1, which allows ALD of pure, carbon-free In2O3 films using H2O as the only co-reactant, on substrates in the temperature range 150–275 8C. ... This low ALD temperature is believed to result from the high rate of the surface reaction of chemisorbed 1 with H2O, as well as of 1 with surface hydroxyl groups."
+}

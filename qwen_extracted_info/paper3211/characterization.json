@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "spectroscopic ellipsometry (SE)",
+    "Fourier transform infrared spectroscopy (FTIR)",
+    "Rutherford backscattering spectrometry (RBS)",
+    "x-ray reﬂectometry (XRR)",
+    "x-ray photoelectron spectroscopy (XPS)",
+    "atomic force microscopy (AFM)",
+    "quadrupole mass spectrometry (QMS)",
+    "Four-point probe (FPP)"
+  ],
+  "evidence": "Ex situ film analysis .— Rutherford backscattering spectrometry (RBS) using 2 MeV 4Heþ ions was used to determine the atomic composition and mass density of the cobalt oxide films. The microstructure was studied using x-ray diffraction (XRD) with a Philips X’Pert MPD diffractometer equipped with a Cu Ka source (1.54 A˚ radiation). Additionally, the film thickness and mass density were determined by x-ray reﬂectometry (XRR) measurements on a Bruker D8 Advance X-ray diffractometer to validate the SE measurements. The x-ray photoelectron spectroscopy (XPS) measurements are carried out with a Kratos AXIS Ultra spectrometer, equipped with a monochromatic Al Ka x-ray source and a delay-line detector. Infrared absorption spectra were measured by Fourier transform infrared spectroscopy (FTIR) using a Tensor 27 from Bruker Optics (mid-IR, 4 cm–1 resolution) within the infrared spectral range of 7000–350 cm–1. A Signatone four-point probe (FPP) in combination with a Keithley 2400 Sourcemeter was employed to measure the electrical resistivity at room temperature. The surface roughness of the films was determined by atomic force microscopy (AFM) using an NT-MDT Solver P47 SPM. In situ film analysis .— The reaction by-products were identified by quadrupole mass spectrometry (QMS) using a QMS200 from Pfeiffer with an ionizing electron energy of 70 eV. The thickness and dielectric function of the films were monitored during the ALD process by in situ spectroscopic ellipsometry (SE) with a J.A. Woollam, Inc. M2000U (0.75–5.0 eV) ellipsometer."
+}

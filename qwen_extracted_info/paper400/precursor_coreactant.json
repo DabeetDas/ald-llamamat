@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "trimethylgallium (TMG)",
+    "tertiarybutylarsine (TBA)",
+    "arsine (AsH3)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Source gases (and bubbler temperatures) used are trimethylgallium (TMG, -10 °C, tertiarybutylarsine (TBA, 30 °C) and arsine (ASH3, 100%). A secondary source of H2 carrier flows through a tube in the center of the X-shaped barrier down to the center of the wafer carrier."
+}

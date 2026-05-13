@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "TDMAS + reactive oxygen → SiO2 + byproducts",
+    "Ag + O* → Ag2O",
+    "Ag2O → Ag + O*"
+  ],
+  "surface_mechanism_description": "The silver surface oxidizes during the oxygen plasma step to form a metastable silver oxide, which then thermally decomposes, releasing oxygen. This released oxygen reacts with TDMAS, leading to silica deposition and the formation of 3D silver–silica hybrid nanostructures. The process is repeated cyclically, with the silver oxide forming and decomposing during each cycle.",
+  "intermediate_species": [
+    "metastable silver oxide",
+    "reactive oxygen",
+    "silver oxide (Ag2O)"
+  ],
+  "evidence": "During the oxygen plasma step, reactive oxygen reacted with the silver substrate to form a metastable silver oxide. The silver oxide then thermally decomposed, releasing oxygen. The released oxygen reacted with TDMAS, leading to silica deposition. The formation of the metastable silver oxide and its decomposition repeat cyclically during the PE-ALD process, thereby, the side reaction is going on progressively, and finally, the 3D silver–silica hybrid nanostructures are formed."
+}

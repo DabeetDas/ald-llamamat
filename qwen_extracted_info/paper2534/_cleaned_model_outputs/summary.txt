@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis-dimethyl-amido titanium", "hydrogen peroxide"],
+  "temperature_range": "100–250 °C",
+  "summary": "Titanium dioxide thin films were grown by atomic layer deposition using tetrakis-dimethyl-amido titanium and hydrogen peroxide as precursors at temperatures ranging from 100 to 250 °C. The study explored the effects of deposition temperature and reactant pulse and purge times on the film growth rate and photocatalytic activity. Films deposited at higher temperatures showed better photocatalytic activity in decomposing methylene blue.",
+  "evidence": "Titanium dioxide thin films were grown by atomic layer deposition /H20849ALD/H20850at 100–250 °C with tetrakis-dimethyl-amido titanium, using H 2O2 as a counter-reactant. We have explored the effects of deposition temperature and the reactant pulse and purge times on the film growth rate to optimize the ALD process of TiO 2. The films deposited at higher deposition temperatures were shown to have a better photocatalytic activity in decomposing methylene blue."
+}

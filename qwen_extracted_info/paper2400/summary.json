@@ -1,0 +1,11 @@
+{
+  "target_material": "iron nanoparticles",
+  "process_type": "ALD",
+  "main_precursors": [
+    "trimethylaluminium",
+    "water"
+  ],
+  "temperature_range": "180 ◦C",
+  "summary": "Oxidation-resistant iron nanoparticles were synthesized via the decomposition of iron oxalate particles followed by in situ passivation with ultrathin alumina films deposited by atomic layer deposition (ALD). The process involved thermal decomposition in a fluidized bed reactor at low pressure and mechanical agitation. The ALD process used self-limiting, sequential surface reactions of trimethylaluminium and water to deposit conformal alumina films on the nanoparticles. The study demonstrated that the ALD films effectively passivated the nanoparticles, providing superior oxidation resistance at high temperatures.",
+  "evidence": "Oxidation-resistant iron nanoparticles were produced via the decomposition of iron oxalate particles followed by in situ passivation with ultrathin alumina films deposited by atomic layer deposition (ALD). Films were deposited using self-limiting, sequential surface reactions of trimethylaluminium and water. The decomposition and passivation were carried out in a fluidized bed reactor at low pressure and under mechanical agitation. The ALD process used self-limiting, sequential surface reactions of trimethylaluminium and water to deposit conformal alumina films on the nanoparticles. The study demonstrated that the ALD films effectively passivated the nanoparticles, providing superior oxidation resistance at high temperatures."
+}

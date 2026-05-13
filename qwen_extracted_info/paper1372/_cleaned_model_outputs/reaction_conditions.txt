@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the ALD growth of Cu2O on ZnO, where Cu(hfac)2 is used as the copper precursor and deionized water as the reactant. The reaction steps include the adsorption of Cu(hfac)2 followed by a water pulse to regenerate surface hydroxyl groups. The local epitaxial relationship between Cu2O and ZnO is achieved with [110] Cu2O || [001] ZnO and [001] Cu2O || [010] ZnO.",
+  "intermediate_species": ["Cu(hfac)2", "surface hydroxyl groups", "water molecules"],
+  "evidence": "The text describes the ALD process for Cu2O using Cu(hfac)2 and water as reactants. It mentions the local epitaxial relationship between Cu2O and ZnO, indicating the surface reaction mechanism and the formation of intermediate species such as surface hydroxyl groups and water molecules."
+}

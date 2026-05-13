@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum sulfide (Al2S3)",
+  "process_type": "Plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Trimethylaluminum (TMA)", "H2S-plasma"],
+  "temperature_range": "90 to 350 /C14 C",
+  "summary": "The study reports a plasma enhanced atomic layer deposition (PEALD) process for aluminum sulfide (Al2S3) using trimethylaluminum (TMA) and H2S-plasma. The process exhibits linear growth with a rate of 1.2 A˚ /cycle at 90 /C14 C and self-saturated growth in a temperature range of 90 to 350 /C14 C. The process relies on combustion reactions during the plasma step, producing CS2 as a reaction product. The deposited layers are amorphous and pinhole-free, making it suitable for applications in energy storage, photonics, and microelectronics.",
+  "evidence": "Aluminum sulﬁde is a promising material for energy storage, photonics, and microelectronics applications. The authors report a plasma enhanced process for aluminum sulﬁde based on trimethylaluminum and H2S-plasma. The growth characteristics were studied using in situ spectroscopic ellipsometry, indicating linear growth at a rate of 1.2 A˚ /cycle at 90 /C14 C. Self-saturated growth could be achieved in a temperature window ranging from 90 to 350 /C14 C. The process relies on combustion reactions during the plasma step, as conﬁrmed by the observation of CS2 using in situ mass spectrometry measurements. Ex situ x-ray photoelectron spectroscopy, x-ray diffraction, and scanning electron microscopy/energy-dispersive x-ray spectroscopy measurements showed that the deposited layers are amorphous and pinhole free."
+}<|im_end|>

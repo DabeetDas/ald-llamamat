@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.3,
+  "purge_time_s": 45,
+  "number_of_cycles": null,
+  "reactor_type": "hot wall viscous flow reactor",
+  "evidence": "One AlO xFy ALD cycle was defined by a 0.5 s dose of TMA, 45 s of Ar purge, a 0.3 s dose of H2O, 45 s of Ar purge, a 0.5 s HF dose, and 45 s of Ar purge."
+}

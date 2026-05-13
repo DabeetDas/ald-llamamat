@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the nucleation of Ru nanocrystals on different surfaces, with the nucleation site density being highly dependent on the nucleating surface. The reaction is a hybrid chemical vapor deposition/atomic layer deposition (CVD/ALD) process, where the growth rate of ruthenium films is 0.15 nm/cycle. The reaction includes a CVD component involving thermal decomposition of the amidinate and an ALD component involving increased reactivity and a saturated growth rate during NH3 exposure.",
+  "intermediate_species": ["Ru nanocrystals"],
+  "evidence": "The text discusses the deposition of Ru nanocrystals using a hybrid CVD/ALD reaction, where the growth rate of ruthenium films is 0.15 nm/cycle. The reaction includes a CVD component involving thermal decomposition of the amidinate and an ALD component involving increased reactivity and a saturated growth rate during NH3 exposure. The nucleation site density is highly dependent on the nucleating surface, with Al2O3 providing a higher density of nucleation sites compared to SiO2."
+}<|im_end|>

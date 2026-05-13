@@ -1,0 +1,8 @@
+{
+  "target_material": "Cadmium telluride",
+  "process_type": "Atomic Layer Epitaxy with Limited Reaction Processing (ALELRP)",
+  "main_precursors": ["diisopropyl telluride", "dimethyl cadmium"],
+  "temperature_range": "150 to 175 °C for cadmium deposition, 300 to 320 °C for tellurium deposition",
+  "summary": "The study demonstrates the growth of cadmium telluride using diisopropyl telluride and dimethyl cadmium through a modified atomic layer epitaxy technique that allows independent temperature control for each deposition cycle. This approach overcomes the limitations of isothermal ALD by using non-overlapping temperature processing windows for the two reactants.",
+  "evidence": "Layer-by-layer, self-limited growth is demonstrated using the new growth technique, using temperature ranges of 150 to 175 °C and 300 to 320 °C for the cadmium and tellurium deposition cycles, respectively."
+}<|im_end|>

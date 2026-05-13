@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Chemical Surface Coating (CSC)",
+  "main_precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "673 K (pretreatment), 373 K (water treatment)",
+  "summary": "The study describes the deposition of a TiO2 layer on silica using a Chemical Surface Coating (CSC) method. The process involves alternating reactions with TiCl4 and H2O, leading to the formation of a chemically bound TiO2 layer. The study investigates the structural and morphological changes of the material, including the formation of anatase nanoparticles and the effects of calcination on crystallinity and pore structure.",
+  "evidence": "The TiO2 layer constitutes of nanoparticles of anatase homogeneously spread over the surface. Calcination of the TiO2-SiO2 materials leads to a particle size increase. An extensive pore size analysis was also undertaken to investigate the morphological changes as a function of the number of reaction cycles."
+}

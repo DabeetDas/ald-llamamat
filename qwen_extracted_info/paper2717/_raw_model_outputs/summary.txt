@@ -1,0 +1,8 @@
+{
+  "target_material": "aluminum nitride",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["trimethylaluminum (TMA)", "hydrogen/nitrogen plasma"],
+  "temperature_range": "80 °C and 200 °C",
+  "summary": "This study investigates the direct plasma-enhanced atomic layer deposition (PEALD) of aluminum nitride (AlN) for water permeation barriers. The process uses trimethylaluminum (TMA) as a precursor and a hydrogen/nitrogen plasma as the reactive gas. The films are deposited at 80 °C and 200 °C, with a growth per cycle of approximately 1 Å. The films show good air stability, low water permeation rates, and are suitable for moisture barriers in organic electronic devices.",
+  "evidence": "Oxygen-free, transparent, and insulating thin films at fabrication temperatures below 100 °C are important for sensitive materials and interfaces, like organic electronics. In this work, a capacitive coupled plasma-enhanced atomic layer deposition process of aluminum nitride with trimethylaluminum as a precursor and a mixture of hydrogen/nitrogen as the reactive gas was studied at 80 and 200 °C. The growth per cycle stayed constant at around 1 Å, and the refractive index decreased slightly from 1.97 at 200 °C to 1.93 at 80 °C. The metal-insulator-metal capacitance measurements showed a dielectric constant of 11 at both temperatures. The water vapor transmission rate for a 20 nm thick film on polyethylene naphthalate films was lower than 0.5 mg/(m²⋅day) at 38 °C/90%."
+}<|im_end|>

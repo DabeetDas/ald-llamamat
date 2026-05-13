@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "For example, Meng et al. found a rapid decrease in the density of thiol groups, and, consequently, in the ALD growth rate of GaSx deposited from Ga2(NMe2)6 and H2S, when increasing the deposition temperature from 125 to 225 °C."
+}<|im_end|>

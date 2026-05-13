@@ -1,0 +1,8 @@
+{
+  "target_material": "silica",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["TiCl4", "Cr(acac)3", "hexamethyldisilazane (HMDS)"],
+  "temperature_range": "175°C to 200°C",
+  "summary": "The study investigates the surface coverage of three ALE precursors (TiCl4, Cr(acac)3, and HMDS) on porous silica. The surface coverage is influenced by the number of reactive sites, bonding mode, and steric hindrance. The reaction temperature and precursor properties affect the surface coverage, with TiCl4 utilizing both isolated and H-bonded OH groups, while Cr(acac)3 and HMDS preferentially react with isolated OH groups. The study also highlights the challenges in achieving full monolayer coverage on oxides.",
+  "evidence": "The work with single molecular layers on porous materials adds to the atomic level understanding of the film growth in ALE. In this paper the primary factors affecting the surface coverage of three different ALE precursors (TiCl4, Cr(acac)3, and hexamethyldisilazane (HMDS)) on porous, high surface area SiO2 were studied by element determinations and FTIR spectroscopy. The reaction temperature and the size of the precursor have been found to affect the film growth rate. The surface densities achieved after reacting TiCl4, Cr(acac)3, and HMDS with differently preheated silica samples are shown in Fig. lb. The calculated Cl/Ti and C/Cr atomic ratios of the surface complexes are of interest for the evaluation of the bonding mode. The study also highlights the challenges in achieving full monolayer coverage on oxides."
+}<|im_end|>

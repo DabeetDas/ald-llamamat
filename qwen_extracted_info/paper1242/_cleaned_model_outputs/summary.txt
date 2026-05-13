@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["1,2-bis(diisopropylamino)disilane (BDIPADS)", "ozone (O3)"],
+  "temperature_range": "50 °C to 250 °C",
+  "summary": "The study reports a thermal atomic layer deposition (ALD) process for fabricating high-quality SiO2 thin films at low temperatures using a novel aminodisilane precursor, BDIPADS, and ozone. The process enables the growth of SiO2 films with high growth rates, high film densities, and low impurity contents at temperatures as low as 50 °C. The films exhibit good dielectric properties, including low leakage currents and high breakdown fields, even at low growth temperatures. The presence of the Si-Si bond in BDIPADS is found to enhance the reactivity and facilitate oxidation during the ALD process.",
+  "evidence": "ABSTRACT: SiO2 is one of the most important dielectric materials... Herein, we report a low temperature thermal atomic layer deposition (ALD) process to fabricate SiO2 thin films using a novel aminodisilane precursor with a Si-Si bond, 1,2-bis(diisopropylamino)disilane (BDIPADS), together with ozone. To compare film quality, ALD SiO2 films grown at various temperatures from 250 down to 50 °C were systematically investigated. Our data suggest that even without the aid of plasma-enhanced or catalyzed surface reactions, high-quality SiO2 films with relatively high growth rates, high film densities, and low impurity contents compared to conventional Si precursors can be attained through our process at a low growth temperature (~ 50 °C)."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["SnCl4", "H2O"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The SnO2 deposition process was performed in a flow-type ALE reactor at temperature of 500C and pressure of 1m bar in N2 carrier by using separately pulsed SnCl4 and H2O precursors."
+}

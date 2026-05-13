@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 1.5,
+  "purge_time_s": 1.5,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The ﬁlms were deposited at 100, 150, 200, 250, 300, and 350°C with a TMA pulse time of 0.5 s, source purge time of 1.5 s, reactant gas pulse time of 1.5 s, and reactant gas purge time of 1.5 s in the PEALD process."
+}

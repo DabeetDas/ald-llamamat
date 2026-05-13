@@ -1,0 +1,8 @@
+{
+  "target_material": "BeO",
+  "process_type": "ALD",
+  "main_precursors": ["dimethylberyllium", "water"],
+  "temperature_range": "600°C",
+  "summary": "The study investigates the use of BeO as an interface passivation layer (IPL) in Si MOS devices using atomic layer deposition (ALD). BeO is deposited between Si substrates and HfO2 gate dielectrics to improve device performance by reducing charge trapping and enhancing carrier mobility. The results show that BeO provides a high energy bandgap, suppresses native oxide growth, and results in lower equivalent oxide thickness (EOT) compared to SiO2 and Al2O3. The BeO/HfO2 gate stack exhibits higher drive current, lower subthreshold swing, and improved mobility, making it a promising alternative to traditional IPLs.",
+  "evidence": "A BeO or Al2O3 IPL was atomic layer deposited (ALD) on HF-last p-type Si substrates using dimethylberyllium and trimethylaluminum precursors, respectively. Water was used as an oxygen source. BeO IPL, Al2O3 IPL, and SiO2 (no intentional IPL) samples underwent ALD HfO2. They were then annealed for 3 min at 600°C at N2 atmospheric pressure."
+}<|im_end|>

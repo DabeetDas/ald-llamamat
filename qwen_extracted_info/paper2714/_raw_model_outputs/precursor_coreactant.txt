@@ -1,0 +1,47 @@
+{
+  "precursors": [
+    {
+      "name": "Tantalum ethoxide",
+      "abbreviation": "Ta(OEt)5"
+    },
+    {
+      "name": "Niobium ethoxide",
+      "abbreviation": "Nb(OEt)5"
+    },
+    {
+      "name": "Titanium isopropoxide",
+      "abbreviation": "Ti(OiPr)4"
+    },
+    {
+      "name": "Zirconium tert-butoxide",
+      "abbreviation": "Zr(OtBu)4"
+    },
+    {
+      "name": "Hafnium tert-butoxide",
+      "abbreviation": "Hf(OtBu)4"
+    },
+    {
+      "name": "Vanadyl isopropoxide",
+      "abbreviation": "VO(OiPr)3"
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "Oxygen",
+      "abbreviation": "O2"
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Nitrogen",
+      "abbreviation": "N2"
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "Nitrogen",
+      "abbreviation": "N2"
+    }
+  ],
+  "evidence": "Metal precursors were titanium isopropoxide [97% Ti(OiPr)4, Sigma-Aldrich], zirconium tert-butoxide [99% Zr(OtBu)4, Strem], hafnium tert-butoxide [99.9% Hf(OtBu)4, Strem], niobium ethoxide [99.9% Nb(OEt)5, Strem], and tantalum ethoxide [99.99% Ta(OEt)5, Strem], which were evaporated from a PicoHot™ source. The precursor source operates with the carrier gas loading and release principle to enable a more efficient precursor delivery from the source to the reaction chamber."
+}<|im_end|>

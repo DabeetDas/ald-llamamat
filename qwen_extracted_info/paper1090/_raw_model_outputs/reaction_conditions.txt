@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "MnðCpÞ2 þ H2O→MnO þ 2HCp ΔH ¼ −79:5kJ; ΔG ¼ −142:6kJ ð1Þ",
+    "MnðCpÞ2 þ 4=3H2O→1=3Mn3O4 þ 2HCp þ 1=3H2 ΔH ¼ −76:0kJ; ΔG ¼ −127:9kJ ð2Þ",
+    "MnðCpÞ2 þ 3=2H2O→1=2Mn2O3 þ 2HCp þ 1=2H2 ΔH ¼ −51:3kJ; ΔG ¼ −100:8kJ ð3Þ",
+    "MnðCpÞ2 þ 2H2O→MnO2 þ 2HCp þ H2 ΔH ¼þ 28:6kJ; ΔG ¼ −8:4kJ ð4Þ"
+  ],
+  "surface_mechanism_description": "Mn(CpEt)2 reacts with –OH⁎ surface species. Only 54% of the Mn sites retain the –CpEt⁎ surface species after the Mn(CpEt)2 exposure. H2O then reforms the –OH⁎ surface species by removing the –CpEt⁎ surface species or adding to Mn surface sites.",
+  "intermediate_species": [
+    "–CpEt⁎",
+    "–OH⁎"
+  ],
+  "evidence": "The proposed surface reactions during the sequential Mn(CpEt)2 and H2O exposures may occur according to a number of possible self-limiting surface reactions. The proposed surface reactions during the Mn(CpEt)2 exposure are given by Eqs. (6) and (7) where the asterisks designate the surface species. The QCM, FTIR, and RBS results can be used to establish the MnO ALD growth mechanism using Mn(CpEt)2 and H2O at 150 °C."
+}<|im_end|>

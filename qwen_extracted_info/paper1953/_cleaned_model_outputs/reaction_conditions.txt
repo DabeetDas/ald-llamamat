@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the alternating deposition of Te and Cd on the substrate, with the growth process being self-regulative in a temperature range between 260 and 285°C. The self-regulation is attributed to the reevaporation of excess Te and the stability of the monolayer coverage, with the growth rate remaining independent of the substrate temperature and Te beam intensity within this range.",
+  "intermediate_species": ["Te coverage", "excess Te", "bulk CdTe", "submonolayer coverages"],
+  "evidence": "The text describes the self-regulative growth process in atomic-layer epitaxy (ALE) of CdTe, where the growth rate remains independent of the substrate temperature and Te beam intensity within a specific temperature range. It mentions that the excess Te is bound more strongly than in bulk Te, and submonolayer coverages are more stable, indicating the presence of intermediate species such as Te coverage and submonolayer coverages."
+}

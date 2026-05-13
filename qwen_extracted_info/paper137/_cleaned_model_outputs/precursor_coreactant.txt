@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ir(acac) 3"],
+  "coreactants": ["O 2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The iridium films were grown in a F120 ALD reactor (ASM Microchemistry, Ltd., Finland) from Ir(acac) 3 (acac = 2,4-pentanedione) and O 2 (99,999 %) at 225 °C. The process was run under a pressure of about 10 mbar (1 bar = 100 kPa) and nitrogen was used as a carrier and purging gas."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "CdS",
+  "process_type": "ALD",
+  "main_precursors": ["dimethyl cadmium (DMCd)", "in situ generated H2S"],
+  "temperature_range": "0.4 s pulse of DMCd and 10 s purge of N2",
+  "summary": "The study describes the fabrication of hierarchical CdS films using atomic layer deposition (ALD) and chemical bath deposition (CBD) techniques. The ALD process was used to deposit CdS films with a thickness of 105 nm, while the CBD process was used to create CdS nanoparticle packing films. The combination of these techniques, referred to as the programmed combinational deposition (PCD) protocol, resulted in a hierarchical CdS film (CdS H) that showed enhanced photocatalytic performance for water splitting. The CdS H film exhibited a significant increase in photocurrent density compared to other films, indicating the effectiveness of the PCD protocol.",
+  "evidence": "The ALD growth process of polycrystalline CdS films on ITO substrates was performed under optimum operating conditions using dimethyl cadmium (DMCd) and in situ generated H2S precursors. The process pressure was 2*10−1 torr with high-purity N2 (flow rate = 10 sccm) as the carrier and purging gas. The optimized ALD cycle settings for CdS films were followed with a 0.015 s pulse of H2S, a 10 s purge of N2, a 0.015 s pulse of DMCd and a 10 s purge of N2."
+}<|im_end|>

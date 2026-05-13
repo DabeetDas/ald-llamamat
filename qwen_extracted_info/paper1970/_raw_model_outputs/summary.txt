@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["TMG", "arsine"],
+  "temperature_range": "490 to 520 “C",
+  "summary": "The study reports the use of nitrogen carrier gas in atomic layer epitaxy (ALE) of GaAs, which widens the temperature range for monolayer growth compared to hydrogen carrier gas. The decomposition of TMG in the vapor phase is suppressed by nitrogen, allowing for a higher temperature limit. The growth rate is constant within the temperature range, indicating self-limiting growth mechanisms are operative.",
+  "evidence": "Atomic layer epitaxy (ALE) of GaAs is achieved in a relatively wide temperature range from 490 to 520 “C by using nitrogen carrier gas. The decomposition temperatures of TMG are identical to each high-end temperature for ALE shown in Fig. 1. This clearly indicates that ALE is limited by decomposition of TMG in the vapor phase."
+}<|im_end|>

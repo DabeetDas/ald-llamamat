@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD of KTN involve the sequential pulsing of cation precursors (KOtBu, Nb(OEt)5, Ta(OEt)5) followed by an oxidation step with water. The potassium content and Ta:Nb ratio are controlled by adjusting the pulsed K:(K + Nb + Ta)-ratio, while maintaining a constant pulsed Ta:Nb-ratio. The general ALD supercycle is represented as n /C2 (KOtBu + H2O) + m /C2 {2 /C2 [(Ta(OEt)5 + H2O] + [Nb(OEt)5 + H2O]}, where n and m determine the ratio between alkali metal and group V metal. The 2:1 pulsed ratio between Ta and Nb was chosen to comply with the desired Ta:Nb-ratio in the end product (KTaxNb1−xO3, 0.6 < x < 0.7).",
+  "intermediate_species": ["K(OH)", "K2CO3"],
+  "evidence": "The text describes the ALD process for KTN thin films, mentioning the use of KOtBu, Nb(OEt)5, and Ta(OEt)5 as precursors. It explains the control of potassium content and Ta:Nb ratio through the pulsed ratio, and notes that excess K samples reacted with water vapor post-deposition, forming K(OH) and/or K2CO3. The surface reactions are inferred from the described ALD supercycle and the observed formation of intermediate species."
+}

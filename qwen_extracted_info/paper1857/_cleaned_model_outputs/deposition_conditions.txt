@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "270-360",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": 500,
+  "reactor_type": "Showerhead",
+  "evidence": "The growth rate of iron oxide in the FeCl3 +H 2O/O2 process was slightly higher, 0.10 /C6 0.02 nm per cycle, most probably because the oxygen activates the oxidation process of iron precursor. The second oxidizer O 2 was included to the process for dopant metal precursor Ru(EtCp)2.11 At 270 /C14 C, the mean growth rate was as low as 0.022 nm per cycle for 500 cycles Ru films on the Si substrate made with cycle times 5 –2–5–5 s, being similar to the growth rate observed previously by Kukli et al.,10 but at T ¼ 360 /C14 C, the growth rate was somewhat increased up to 0.03 nm per cycles."
+}

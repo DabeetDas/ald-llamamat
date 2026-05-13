@@ -1,0 +1,8 @@
+{
+  "target_material": "Phosphorus-doped Zinc Oxide (ZnO:P)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Diethylzinc (DEZ)", "Ozone", "Trimethylphosphite (TMP)"],
+  "temperature_range": "250 °C",
+  "summary": "This study describes the atomic layer deposition of phosphorus-doped ZnO films using diethylzinc, ozone, and trimethylphosphite as precursors. The process involves thermal ALD with a deposition temperature of 250 °C. The films were annealed in oxygen to convert their electrical behavior from n-type to p-type. The phosphorus concentration was controlled by varying precursor temperatures, and the resulting films exhibited p-type behavior after annealing.",
+  "evidence": "A method was developed to deposit phosphorus-doped ZnO films using atomic layer deposition where the oxygen, zinc and phosphorus atoms were supplied by ozone, diethylzinc and trimethylphosphite, respectively. The temperature of the n- to p-type transition decreased as the phosphorus concentration increased. The ALD sequence and pulse times of DEZ/TMP (5 s)/purge (10 s)/O3 (5 s)/purge (10 s) achieved a reproducible deposition rate of 1.7 Å/cycle. The as-deposited film was n-type, but this changed to p-type following rapid thermal annealing in oxygen."
+}

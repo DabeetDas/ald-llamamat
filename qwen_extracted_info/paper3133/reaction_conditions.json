@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism for ALD of Ta2O5 involves the sequential adsorption and reaction of tantalum ethoxide (Ta(OC2H5)5) and water (H2O) on the substrate. The process begins with the adsorption of Ta(OC2H5)5, followed by a water pulse that reacts with the adsorbed tantalum species to form TaOx and release byproducts such as ethanol (EtOH) and methanol (CH3OH). The reaction is followed by a purge step to remove excess reactants and byproducts, ensuring a monolayer growth.",
+  "intermediate_species": [
+    "Ta(OC2H5)5",
+    "TaOx",
+    "EtOH",
+    "CH3OH"
+  ],
+  "evidence": "The surface reaction mechanism for ALD of Ta2O5 involves the sequential adsorption and reaction of tantalum ethoxide (Ta(OC2H5)5) and water (H2O) on the substrate. The process begins with the adsorption of Ta(OC2H5)5, followed by a water pulse that reacts with the adsorbed tantalum species to form TaOx and release byproducts such as ethanol (EtOH) and methanol (CH3OH). The reaction is followed by a purge step to remove excess reactants and byproducts, ensuring a monolayer growth."
+}

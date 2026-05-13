@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reactive groups of the polymer matrix (e.g., benzene rings and methylene bridges) are partially oxidized, yielding carbonyl moieties. The modifying agents (PCl3, VOCl3, CrO2Cl2) are grafted to the solid polymer both by substitution of the hydrogen atoms in phenol hydroxy groups and by redox reactions between the elements introduced and the reactive groups of the material.",
+  "intermediate_species": [
+    "phenol hydroxy groups",
+    "carbonyl groups",
+    "phosphorus-oxygen groups",
+    "vanadium compounds in different oxidation states",
+    "chromium compounds in different oxidation states"
+  ],
+  "evidence": "The redox reaction between the modifying agent and the reactive groups of the microspheres, yielding carbonyl bonds, is probably evidenced by the appearance of a band with binding energy of 577.6 eV (characteristic of chromium in the oxidation state (+3)), and the above-mentioned shoulder in the XPS spectra of carbon with the binding energy of 289.0 eV. The phosphorus-containing moieties introduced do not affect the binding energy of the C1 s electrons, which can, evidently, suggest the lack of chemical reactions between the carbon-containing moieties in the polymer chain and phosphorus(III) chloride. The XPS spectrum of the chromium-containing samples of PFMs contains three bands associated with different oxidation states of the element. The XPS spectrum of the vanadium-containing samples of PFMs contains a band associated with stretching vibrations of the V/O bond. The XPS spectrum of the initial microspheres in the C1 s range contains a band at a binding energy of 285.0 eV, characteristic of the C/H groups, and a band at 286.2 eV. The XPS spectrum of the modified PFMs is characterized by the appearance of lines in the higher-energy region corresponding to the binding energies of P2 p electrons of 134.5 and 130.2 eV. The XPS spectrum of the vanadium-containing samples of PFMs contains a band associated with stretching vibrations of the V/O bond. The XPS spectrum of the chromium-containing samples of PFMs contains three bands associated with different oxidation states of the element. The XPS spectrum of the vanadium-containing samples of PFMs contains a band associated with stretching vibrations of the V/O bond. The XPS spectrum of the chromium-containing samples of PFMs contains three bands associated with different oxidation states of the element."
+}

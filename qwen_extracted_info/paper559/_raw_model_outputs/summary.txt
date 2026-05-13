@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnS and Al2O3",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["AICI3", "ZnCI2", "H2S", "distilled water"],
+  "temperature_range": "500 °C",
+  "summary": "The study demonstrates the use of atomic layer epitaxy (ALE) for depositing optical thin films, specifically antireflection coatings, high-reflection coatings, neutral beam splitters, and Fabry-Perot filters. ZnS and Al2O3 are used as high and low refractive index materials, respectively. The process involves alternating precursor pulses and inert gas purging, leading to self-limiting surface reactions. The films are grown on soda lime glass substrates at 500 °C. The optical performance is evaluated by comparing measured transmittance and reflectance spectra with ideal structures. The study highlights the potential of ALE for optical applications, despite its slowness.",
+  "evidence": "Atomic Layer Epitaxy (ALE) is introduced for the deposition of films for optical applications. The materials chosen for these devices are ZnS and AI203, the two first materials ever grown by ALE. The films were grown on 5 × 5 cm 2 soda lime glass substrates at 500 °C. The optical performance of the resulting components was examined by comparing the measured transmittance and reflectance spectra with those calculated for the ideal structures."
+}<|im_end|>

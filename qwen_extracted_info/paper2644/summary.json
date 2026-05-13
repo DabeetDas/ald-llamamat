@@ -1,0 +1,11 @@
+{
+  "target_material": "SiN (silicon nitride)",
+  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": [
+    "Si precursor (activated silicon precursor)",
+    "NH3 plasma"
+  ],
+  "temperature_range": "140 °C",
+  "summary": "The study describes the deposition of low-temperature SiN films using plasma-enhanced atomic layer deposition (PE-ALD) with an activated silicon precursor. The process was modified to improve the activation of Si precursors through additional plasma steps, resulting in higher purity and better step coverage. The films demonstrated a high step coverage ratio of 97% and were suitable for charge-trapping applications in memory devices.",
+  "evidence": "It has not been an easy task to deposit SiN at low temperature by conventional plasma-enhanced atomic layer deposition (PE-ALD) since Si organic precursors generally have high activation energy for adsorption of the Si atoms on the Si-N networks. In this work, in order to achieve successful deposition of SiN film at low temperature, the plasma processing steps in the PE-ALD have been modified for easier activation of Si precursors. The modiﬁed PE-ALD process using the activated Si precursor would be one of the most practical and promising solutions for SiN deposition with lower thermal budget and higher cost-effectiveness."
+}

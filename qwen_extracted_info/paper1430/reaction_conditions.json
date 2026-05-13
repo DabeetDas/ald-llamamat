@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Zr(NO3)4 + 4(tBuO)3SiOH → Zr[OSi(OtBu)3]4 + 4HNO3",
+    "Zr[OSi(OtBu)3]4 → ZrO2â4SiO2 + 12Me2CdCH2 + 6H2O"
+  ],
+  "surface_mechanism_description": "Formation of Zr-O-Si linkages with corresponding elimination of HNO3, followed by cleavage of the O-C bonds of the tert-butoxy groups and condensation of the SiOH groups. The chemistry involves the elimination of isobutene and water to form amorphous ZrO2â4SiO2, which regenerates a SiOH group needed to begin the next cycle.",
+  "intermediate_species": [
+    "Zr[OSi(OtBu)3]4",
+    "Si(OH)(OtBu)3",
+    "surface)Al-O-Si(OtBu)3",
+    "surface)Al-(O-Si(OtBu)2)n-O-Si(OtBu)3"
+  ],
+  "evidence": "The specific chemistry of the deposition is described in the text, including the formation of Zr[OSi(OtBu)3]4 from Zr(NO3)4 and (tBuO)3SiOH, the elimination of isobutene and water to form amorphous ZrO2â4SiO2, and the regeneration of a SiOH group needed to begin the next cycle. The intermediate species such as Zr[OSi(OtBu)3]4, Si(OH)(OtBu)3, and surface species like surface)Al-O-Si(OtBu)3 and surface)Al-(O-Si(OtBu)2)n-O-Si(OtBu)3 are identified in the reaction sequence."
+}

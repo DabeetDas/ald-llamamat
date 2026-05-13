@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 380,
+  "pressure": "",
+  "precursor_pulse_time_s": 6,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 60,
+  "number_of_cycles": null,
+  "reactor_type": "SunALE R200 Advanced",
+  "evidence": "The Ir(acac)3 pulse/N2 purge/O2 pulse/N2 purge = 6 s/60 s/2 s/6 s. The ALD system is located in an ISO class 5 cleanroom."
+}

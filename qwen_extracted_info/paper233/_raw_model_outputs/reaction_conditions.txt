@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the sequential pulsing of VO(acac)2 and ozone during ALD. The ALD process uses sequential exposure of VO(acac)2 and ozone at 200 /C14 C on c-Al2O3 (0001) substrate, followed by post-deposition annealing. The exact reaction steps are not explicitly detailed in the text, but the process involves the reduction of V2O5 to V2O3 through post-deposition annealing in the presence of hydrogen.",
+  "intermediate_species": ["V2O5", "V2O3"],
+  "evidence": "The surface reaction mechanism involves the sequential pulsing of VO(acac)2 and ozone during ALD. The ALD process uses sequential exposure of VO(acac)2 and ozone at 200 /C14 C on c-Al2O3 (0001) substrate, followed by post-deposition annealing. The exact reaction steps are not explicitly detailed in the text, but the process involves the reduction of V2O5 to V2O3 through post-deposition annealing in the presence of hydrogen."
+}<|im_end|>

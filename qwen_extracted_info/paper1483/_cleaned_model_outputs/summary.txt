@@ -1,0 +1,8 @@
+{
+  "target_material": "Nb2O5",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["tBuNNb(NEt2)3", "tBuNNb(NMeEt)3", "tamylNNb(OtBu)3"],
+  "temperature_range": "150 −375 °C",
+  "summary": "The study evaluates three novel precursors for the atomic layer deposition (ALD) of Nb2O5 thin films. The precursors are tBuNNb(NEt2)3, tBuNNb(NMeEt)3, and tamylNNb(OtBu)3. The ALD process was performed using either ozone or water as the oxygen source. The deposition temperature was varied from 150 to 375 °C. The ALD-type saturative growth modes were confirmed at 275 °C for tBuNNb(NEt2)3 and tBuNNb(NMeEt)3 with both oxygen sources. The films were amorphous in the as-deposited state and crystallized between 525 −575 °C. The films exhibited high purity and smooth surface morphology, with promising dielectric characteristics.",
+  "evidence": "The deposition temperature was varied from 150 to 375 °C. ALD-type saturative growth modes were confirmed at 275 °C for tBuNNb(NEt2)3 and tBuNNb(NMeEt)3 together with both oxygen sources. Constant growth rate was observed between a temperature regions of 150 and 325 °C. All films were amorphous in the as-deposited state and crystallized between 525 −575 °C, regardless of the applied precursor and oxygen source. Time-of-flight elastic recoil detection analysis (TOF-ERDA) demonstrated the high purity of the films. Atomic force microscopy (AFM) revealed that the films were smooth and uniform. The films exhibited promising dielectric characteristics with permittivity values up to 60."
+}

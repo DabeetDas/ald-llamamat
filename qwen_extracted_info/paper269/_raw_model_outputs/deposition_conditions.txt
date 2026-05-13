@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "425-500",
+  "pressure": "0.2 atm",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "3",
+  "number_of_cycles": null,
+  "reactor_type": "rotating-disk",
+  "evidence": "The growth experiments were performed in a rotating-disk reactor that yields GaAs epilayers of highly uniform thickness over 5 cm diam substrates when used for conventional growth24 A pressure- and flow-balanced vent-run system was used to permit rapid switching from one gas to another without pressure surges. For this study, the susceptor rotation rate was 20 rpm, unless otherwise noted, compared with 400 to 500 rpm for conventional growth."
+}<|im_end|>

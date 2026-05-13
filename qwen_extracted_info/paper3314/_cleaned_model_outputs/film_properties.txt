@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 20,
+  "density_g_cm3": null,
+  "refractive_index": "1.6 to 1.7 at 632.8 nm",
+  "surface_roughness_nm": null,
+  "crystal_phase": "amorphous",
+  "evidence": "The XRD patterns measured using a θ-2θ scan mode for the AlN films on GaN (0001) oriented substrates for as-deposited films at 300°C. The pattern shows only peaks corresponding to GaN. No other peaks for AlN are observed, leading us to conclude that the films are amorphous in structure."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "metal silicates and oxides",
+  "process_type": "ALD",
+  "main_precursors": ["metal amides", "tris(tert-butoxy)silanol"],
+  "temperature_range": "100-350 oC",
+  "summary": "A new ALD process for depositing metal silicates and oxides at low substrate temperatures (100-300 oC) using metal amides and tris(tert-butoxy)silanol as precursors. The process allows for the adjustment of silicon content by replacing silanol pulses with water pulses, resulting in pure metal oxides. The films are uniform, amorphous, and have smooth interfaces, making them suitable for high-k gate dielectrics in microelectronics.",
+  "evidence": "A new process was developed for deposition of the silicates and oxides of metals such as zirconium and hafnium at low substrate temperatures (100-300 oC). The silicon and oxygen source is tris(tert-butoxy)silanol, (tBuO)3SiOH, and the metal precursors are metal amides. Replacing the silanol pulses with water pulses yields pure metal oxides. The deposition atmosphere is non-oxidizing, so that formation of low-k interfacial oxides between the deposited layer and a silicon substrate is minimized. This process is a promising method for forming the next generation of ultra-thin high-k gate dielectrics in silicon-based microelectronics."
+}

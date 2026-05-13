@@ -1,0 +1,8 @@
+{
+  "target_material": "Tin Oxide (SnO2)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Tetrakis(dimethylamino)tin(IV) (TDMA-Sn)", "O2"],
+  "temperature_range": "Below 100 oC",
+  "summary": "This study demonstrates the use of plasma-enhanced atomic layer deposition (PEALD) to deposit tin oxide (SnO2) electron selective layers (ESLs) at low temperatures, enabling high-performance perovskite solar cells. The PEALD process allows for the deposition of SnO2 ESLs at temperatures as low as 70 oC, resulting in power conversion efficiencies exceeding 18% for solar cells on glass substrates and 15% for those on flexible polymer substrates. The low-temperature PEALD process is highlighted as beneficial for large-scale manufacturing due to its compatibility with flexible substrates and reduced processing costs.",
+  "evidence": "Low-temperature plasma-enhanced atomic layer deposition (PEALD) is able to lower the deposition temperature of SnO2 ESLs to below 100 oC and still achieve high device performance. With C60-self-assembled monolayer passivation, our PEALD SnO2 ESLs deposited at ~100 oC led to average power conversion efficiencies higher than 18% (maximum of 19.03%) and 15% (maximum of 16.80%) under reverse voltage scan for solar cells fabricated on glass and flexible polymer substrates, respectively."
+}<|im_end|>

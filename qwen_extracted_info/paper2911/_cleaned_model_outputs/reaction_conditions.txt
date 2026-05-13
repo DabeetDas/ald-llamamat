@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth rate enhancement is related to the hydroxyl group density on the surface upon which InCl3 is dosed. The increased growth rate achieved with H2O2 may be due to an increased hydroxyl group density on the surface of the growing In2O3 film after the oxygen precursor exposure.",
+  "intermediate_species": ["hydroxyl groups"],
+  "evidence": "The reason for the increased growth rate gained with H2O2 is not known for sure, but since it is generally known that in ALE growth of oxide films metal chloride precursors anchor on the surface by reacting with hydroxyl groups, one may suggest that the growth rate enhancement is related to the hydroxyl group density on the surface upon which InCl3 is dosed. In fact, while examining sequential surface reactions of trimethylindium and water, Ott et al. observed that at temperatures used in our processes the hydroxyl group density on In2O3 surface is very low, less than 20% of that at room temperature. Therefore, the increased growth rate achieved with H2O2 may be due to an increased hydroxyl group density on the surface of the growing In2O3 film after the oxygen precursor exposure."
+}

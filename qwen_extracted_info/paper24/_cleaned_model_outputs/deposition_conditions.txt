@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 125,
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 8,
+  "number_of_cycles": 500,
+  "reactor_type": "Aixtron AIX200FE",
+  "evidence": "During each ALD cycle, (hfac)Ag(1,5-COD) solution was introduced into the reactor for 4 s at a rate of 17.5 µL s−1 and was volatilized using a vaporizer set to 130 °C. The vapor was transported from the vaporizer into the reactor chamber using 200 sccm of argon (99.999%; BOC, UK) carrier gas. The coreactant was introduced directly into the reactor for 4 s via a Swagelok ALD valve. During each ALD cycle, the two reactants were sequential pulses into the reactor with 8 s gas purges between them to prevent reactions in the gas phase."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of atomic layer deposition (ALD) to grow alumina (Al2O3) on a fly eye template. The process uses trimethylaluminum (TMA) and water as precursors. The ALD process involves alternating pulses of TMA and water, with purge steps between each pulse. The reaction equations for the ALD process are not explicitly provided in the text, but the mechanism is described as involving the formation of surface hydroxyl groups and the subsequent reaction with TMA to form alumina.",
+  "intermediate_species": ["surface hydroxyl groups", "alumina layer"],
+  "evidence": "During the growth, the thickness of the alumina layer was precisely controlled by varying the cycles of deposition. Annealing at 500 ◦C for 16 h in air atmosphere was applied to remove the original fly compound eye template. Under this temperature, the organic corneas of the fly eyes were burned away with the existence of oxygen. Meanwhile, due to the small thickness amorphous alumina layer, it can gradually crystallize into a more robust polycrystalline structure at this temperature."
+}

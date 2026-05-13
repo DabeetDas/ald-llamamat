@@ -1,0 +1,11 @@
+{
+  "precursors": [
+    "M(amd)2 (M = Fe, Co, Ni)"
+  ],
+  "coreactants": [
+    "H2S plasma"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The molecular H2S is assumed to first react with the surface organic ligands to afford a metal-sulfhydryl terminating surface, and the latter, although cannot further react with the molecular H2S, can react with the highly energetic radicals and ions generated in the plasma (e.g., S*, S+, S-)."
+}

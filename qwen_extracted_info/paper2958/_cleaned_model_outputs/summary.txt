@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper",
+  "process_type": "Radical-Enhanced ALD (REALD)",
+  "main_precursors": ["Copper(II)acetylacetonate", "Hydrogen radicals"],
+  "temperature_range": "140°C",
+  "summary": "The study describes the successful growth of polycrystalline copper thin films using radical-enhanced atomic layer deposition (REALD). The process employs copper(II)acetylacetonate as the copper precursor and hydrogen radicals as the reducing agent. The films exhibit low resistivity, good adhesion, and conformality, making them suitable for seed layer applications in microelectronics. The REALD reactor design incorporates a microwave plasma source to generate radicals, enabling the deposition of copper on various substrates.",
+  "evidence": "Radical-enhanced atomic layer deposition ~REALD! of metallic copper ﬁlms from copper ~II!acetylacetonate and hydrogen radicals was studied. The copper ﬁlms, grown at 140°C, were polycrystalline, exhibited low resistivity, 15 mV cm for a 25 nm thick ﬁlm, and had relatively low impurity levels. The ﬁlms had excellent adhesion, and they grew conformally."
+}

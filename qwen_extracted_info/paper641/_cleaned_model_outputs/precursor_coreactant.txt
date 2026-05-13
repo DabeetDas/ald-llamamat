@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiO2"],
+  "coreactants": [],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Nitrogen"],
+  "evidence": "Nitrogen served both as a carrier and purging gas."
+}

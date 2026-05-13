@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "325-525",
+  "pressure": "10 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": "100",
+  "reactor_type": "low-pressure reactor",
+  "evidence": "The reactant source materials SnCl and H O were alternately introduced by pulsed doses into the reactor, and their doses were separated by inert purge gas (nitrogen) pulsed doses. The programmed duration of purge gases were 100 ms–5 s for reactants and 500 ms–10 s for the pure gases, purge gas intervals are taken 1 to 30 s as shown in Fig.1. The deposition processes took place at a pressure of 10 Torr. For growth speed calibrations, 100 cycles were used for sub-nanometer-thick film depositions."
+}

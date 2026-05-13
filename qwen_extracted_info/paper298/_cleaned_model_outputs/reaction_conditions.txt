@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism during ALD involves the formation of a metastable tetragonal phase (t-ZrO2) during the initial stages of deposition. The Raman spectroscopy data indicate that the relative amount of t-ZrO2 increases with decreasing film thickness, suggesting that the metastable phase is preferentially formed during the initial stages of ALD. The absolute amount of t-ZrO2 remains approximately constant while its relative amount decreases with the increase in film thickness. The metastable phase is partially transforming to a monoclinic structure as the film thickness increases beyond 112 nm.",
+  "intermediate_species": ["t-ZrO2"],
+  "evidence": "The Raman spectroscopy data indicate that the relative amount of t-ZrO2 increases with decreasing film thickness. The absolute amount of t-ZrO2 remains approximately constant while its relative amount decreases with the increase in film thickness. The metastable phase is partially transforming to a monoclinic structure as the film thickness increases beyond 112 nm."
+}

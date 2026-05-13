@@ -1,0 +1,8 @@
+{
+  "target_material": "CdSe",
+  "process_type": "Atomic Layer Epitaxy",
+  "main_precursors": ["Cadmium", "Selenium"],
+  "temperature_range": "373 K to 523 K",
+  "summary": "The study describes the fabrication of low-dimensional CdSe structures using atomic layer epitaxy (ALE) on semiconductor and dielectric substrates. The process involves alternating exposures to cadmium and selenium vapors, with the growth mechanism influenced by temperature and surface hydroxylation. The growth parameter d0, representing the layer thickness per cycle, was found to depend on temperature and the orientation of the substrate.",
+  "evidence": "The development of new synthesis techniques and study of the formation of thin layers are among first-priority problems in the development of controlled synthesis of surface nanostructures. The reaction of polycondensation and addition from atomic-molecular beams (molecular layering and atomic layer epitaxy, respectively) can be used as surface reactions. The most suitable for this purpose are A IIBVI compounds, owing to the sufficiently high vapor pressure at elevated temperatures and low critical condensation temperatures of their components. The linearity of the dependence d = f (N ) indicates that equal amounts of the surface compound are synthesized in each reaction cycle and, hence, the nanostructure grows uniformly."
+}<|im_end|>

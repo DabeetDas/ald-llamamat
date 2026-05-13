@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(tert-butylimido)-bis(diethylamido)molybdenum [(tBuN)2Mo(NEt2)2]"],
+  "coreactants": ["ammonia"],
+  "purge_gas": ["Nitrogen (99.999% N2, AGA)"],
+  "carrier_gas": ["Nitrogen (99.999% N2, AGA)"],
+  "evidence": "For molybdenum nitride deposition from 2 and ammonia, the pulse times were optimized. In Figure 3a), optimization plots for the Mo precursor and ammonia are presented. For Mo precursor optimization, the ammonia pulse was fixed at 6 s. As can be seen, maximum growth per cycle, 0.5 A˚, is achieved with an Mo precursor pulse of 4 s. When the pulse time is elongated to 5 s, growth per cycle is decreased. This is probably caused by insufficient precursor vapor pressure, since the same effect was found in a previous study with a dimethylamido precursor1 for lower precursor evaporation temperatures."
+}

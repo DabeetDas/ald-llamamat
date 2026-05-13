@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction process involves the adsorption of methyl groups on the Al surface, followed by the introduction of PH3. When the methyl lifetime on the Al layer is shorter than the DMAH introduction time, excess gas may adsorb on an Al atom, leading to the formation of Al clusters. The self-limiting growth occurs on the Al surface covered by methyl groups, but some methyl desorbs, allowing DMAH to trap on the bare Al, resulting in small grain formation.",
+  "intermediate_species": ["methyl groups", "DMAH trapped on bare Al", "Al clusters"],
+  "evidence": "Assuming the adsorbate inhibition model, when the methyl lifetime on the Al layer is shorter than DMAH introduction time, the excess gas may adsorb on an Al atom, with the result of Al clusters will be formed on the Al surface. Most of the surface Al is covered by methyl, and the self-limiting occurs on these Al. However, some methyl desorbs, and DMAH is trapped on the bare Al. The methyl desorption occurs randomly, so small grains will be formed."
+}

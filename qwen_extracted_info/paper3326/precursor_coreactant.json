@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "InCl3",
+    "H2Se",
+    "SbCl3",
+    "H2Se"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The precursors for InSe growth were InCl3 and H2Se (8%, balance Ar). The In source temperature was set at 110◦C and the carrier gas was nitrogen. The pulse sequence per cycle was as follows; InCl3 pulse width of 1 s; N2 purge of 1.0 s; H2Se pulse width of 1.5 s; followed by 1.0 s N2 purge. The pulse sequence for Sb2Se3 films was SbCl3 (1 s), N2 (1.5 s), H2Se (1.5 s), and N2 (1.5 s)."
+}

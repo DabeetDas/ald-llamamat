@@ -1,0 +1,11 @@
+{
+  "target_material": "Hf–Si–O",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "Si(OC2H5)4",
+    "HfCl4"
+  ],
+  "temperature_range": "400 ◦C",
+  "summary": "Hf–Si–O films with high and low silicon content can be grown by atomic layer deposition using Si(OC2H5)4 and HfCl4 as precursors. The films were deposited at 400 ◦C on Si(1 0 0) substrates. The study investigated the effect of stacked layer composition on dielectric properties, including effective permittivity, leakage current, and capacitance–voltage behavior.",
+  "evidence": "Hf–Si–O films with high and low silicon content can be grown by atomic layer deposition with Si(OC2H5)4 and HfCl4 used as Si and Hf precursors. HfO2:Si films with Si content < 1 at.% grew on Hf–Si–O with a retardation in initial growth rate compared to the HfO2:Si films grown on SiO2/Si substrates. The permittivity varied between 6 and 18, and increased with thickness and/or Hf content. The breakdown fields were observed to exceed 4 MV/cm. Generally, it was found that the dielectric quality was higher in the films consisting of stacks of Hf- and Si-rich layers, compared to the Si-rich films grown directly on Si."
+}

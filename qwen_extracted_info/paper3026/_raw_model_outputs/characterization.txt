@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "optical ellipsometry",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "cross-sectional transmission electron microscopy (TEM)",
+    "capacitance–voltage (C–V) measurements",
+    "leakage current measurement",
+    "quartz crystal microbalance (QCM)"
+  ],
+  "evidence": "The thickness of the SiO2 layer was measured by optical ellipsometry. While this technique yields accurate results for thick oxide layers, limitations arise when thinner layers have to be measured due to, e.g., the validity of the optical parameters that were derived for thick layers. Because ellipsometric results should be interpreted only qualitatively, an attempt was made to find a correlation between the ellipsometric oxide thickness and the thickness, measured by X-ray photoelectron spectroscopy. ... The HfO2 deposition was carried out with HfCl4 and H2O as precursors at 300°C in an ALCVD PULSAR 2000 reactor attached to a Polygon 8200 platform. ... The cross-sectional transmission electron microscopy specimens were prepared by conventional ion milling and observed in a Jeol 200 CX TEM at an accelerating voltage of 200 kV. ... Capacitance–voltage (C–V) measurements were performed at 10 and 100 kHz to extract the frequency-independent device capacitance and EOT value of the gate stack. ... Real-time quartz crystal microbalance studies indicated that the Cl/Hf ratio was indeed increasing with the growth temperature, resulting in a decrease in HfO2 growth."
+}<|im_end|>

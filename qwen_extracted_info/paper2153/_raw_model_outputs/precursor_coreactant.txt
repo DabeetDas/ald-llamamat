@@ -1,0 +1,7 @@
+{
+  "precursors": ["pentakis(dimethylamino)tantalum (PDMAT)", "trimethylaluminum (TMA)"],
+  "coreactants": ["NH4OH"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "A homemade ALD system was used using pentakis(dimethylamino)tantalum (PDMAT) and trimethyl aluminum (TMA) as Ta and Al precursors, respectively. The water and NH4OH (ammonium hydroxide, 29% diluted in water) were contained in silicone oil to maintain a constant temperature, and the flow rate of vapor was controlled by a leak valve. Ar was used as a carrier and purging gas, and the flow was controlled by a mass flow controller upstream to the main chamber."
+}<|im_end|>

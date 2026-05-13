@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 410,
+  "pressure": "10 torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": null,
+  "number_of_cycles": 1000,
+  "reactor_type": "horizontal hot wall low pressure atomic layer epitaxy reactor",
+  "evidence": "The deposition experiments contained four consecutive steps. First CuCl was introduced into the reactor and allowed to adsorb onto the substrate surface. This step was followed by a nitrogen purge of the reactor. Hydrogen was then allowed to react with the adsorbed CuCl. Finally, to avoid the presence of hydrogen in the reactor at the CuCl pulse, another purge completed the cycle. The duration of the process steps was in the range 1-5 s."
+}

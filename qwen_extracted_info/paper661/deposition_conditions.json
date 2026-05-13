@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "230",
+  "pressure": "400 Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Showerhead",
+  "evidence": "IrO2-TiO2 films were grown on 1 300 nm-thick SiO2 film formed on Si substrates with ALD at a temperature of 230 °C and a pressure of 400 Pa."
+}

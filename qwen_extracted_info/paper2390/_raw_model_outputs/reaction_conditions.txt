@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of diethylzinc (DEZ) and water (H2O) as precursors for the growth of ZnO films. The reaction is a two-step process where DEZ reacts with surface hydroxyl groups to form a monomethyl aluminum intermediate, followed by a water pulse to regenerate the hydroxyl sites. The reaction equations are not explicitly provided in the text.",
+  "intermediate_species": ["monomethyl aluminum"],
+  "evidence": "The text states: 'DEZ and DMZ have two advantages compared to other inorganic Zn precursors, such as ZnCl2, namely high vapor pressure (>10 mbar at room temperature) and strong reaction with water vapor, which enables ZnO film growth at low deposition temperatures—even below 100°C.'"
+}<|im_end|>

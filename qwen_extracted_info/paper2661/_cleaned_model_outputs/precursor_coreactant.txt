@@ -1,0 +1,7 @@
+{
+  "precursors": ["CpHf(NMe2)3"],
+  "coreactants": ["H2 plasma", "N2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The Hf precursor TDMACpH (Air Liquide, >99.99% purity) was placed in a stainless steel container kept at ... and bubbled by an Ar flow of 100 sccm. During the precursor dosage, an Ar flow rate of 100 sccm was also injected from the ICP chamber in order to suppress the deposition on the ICP tube, thereby setting up the chamber pressure of 200 mTorr as illustrated in Fig. 1."
+}

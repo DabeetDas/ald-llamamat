@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "20",
+  "reactor_type": "Oxford Instruments OpAL ALD reactor",
+  "evidence": "Depositions were performed at 100, 130, or 200 /C14 C. Note that 100 /C14 C is the lowest deposition temperature at which growth was achieved for this ALD process."
+}

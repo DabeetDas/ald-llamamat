@@ -1,0 +1,8 @@
+{
+  "target_material": "Tungsten",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["WF6", "Si2H6"],
+  "temperature_range": "425 to 600 K",
+  "summary": "Tungsten films were deposited using atomic layer deposition (ALD) with sequential surface chemistry. The process involved alternating exposures to WF6 and Si2H6 in an ABAB sequence, resulting in self-limiting surface reactions. The Si2H6 served as a sacrificial agent to strip fluorine from tungsten without incorporating into the film. The growth rate was 2.5 Å per AB cycle, and the films were smooth and amorphous or composed of small crystalline grains.",
+  "evidence": "Tungsten (W) films were grown with atomic layer control using a novel sequence of self-limiting surface reactions. The tungsten film growth was achieved by dividing the binary reaction WF6 + Si2H6 → W + 2SiHF3 + 2H2 into two separate half-reactions. Alternating exposures to WF6 and Si2H6 in an ABAB sequence produced tungsten deposition at temperatures between 425 and 600 K. The Si2H6 reactant served only a sacrificial role to strip fluorine from tungsten without incorporating into the film. In situ spectroscopic ellipsometry measurements determined a tungsten growth rate of 2.5 Å/AB cycle with WF6 and Si2H6 reactant exposures sufficient for complete half-reactions. The surface topography of the deposited tungsten films was flat indicating smooth film growth. The tungsten films were either amorphous or composed of very small crystalline grains and contained no measurable silicon or fluorine."
+}

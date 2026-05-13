@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves two sequentially cyclic self-limiting reactions. The saturated surface reactions allow the film to grow layer-by-layer, with the subcycles of TiO2 and LPO contributing to the growth of the nanocomposite. The LPO subcycle was directly taken from previous work, and the TiO2 subcycle involved the use of TTIP and water. The addition of LPO component in the TLPO nanocomposite gives rise to the degradation of long-range order of TiO2, indicating a strong interaction between the TiO2 and LPO phases.",
+  "intermediate_species": [
+    "TiO2 nanocrystals",
+    "amorphous lithium phosphate matrix",
+    "LPO component"
+  ],
+  "evidence": "The ALD process involves two sequentially cyclic self-limiting reactions. The saturated surface reactions allow the film to grow layer-by-layer, with the subcycles of TiO2 and LPO contributing to the growth of the nanocomposite. The LPO subcycle was directly taken from previous work, and the TiO2 subcycle involved the use of TTIP and water. The addition of LPO component in the TLPO nanocomposite gives rise to the degradation of long-range order of TiO2, indicating a strong interaction between the TiO2 and LPO phases."
+}

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "tetrakis (diethylamido) hafnium, HfsNsC2H5d2d4",
+    "tetra-n-butyl orthosilicate, SisOnBud4"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Argon ~99.9995%! was used as a buffer flow to keep the flow uniform and as a carrier gas to transport source vapors into the reactor."
+}

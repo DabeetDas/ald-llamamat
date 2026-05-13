@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 60,
+  "coreactant_pulse_time_s": 60,
+  "purge_time_s": 25,
+  "number_of_cycles": 40,
+  "reactor_type": "perpendicular-flow",
+  "evidence": "TBF was dosed into the reactor using the vapor draw method (i.e. no carrier gas flow in sample cylinder). During TBF dosing, the reactor was held static, with nitrogen and pumping suspended, and the TBF was allowed to soak in the reactor for 60 s prior to evacuation and purge. After sufficiently purging the TBF from the reactor with a 60 s purge, an ozone dose of 25 s was used followed by a 25 s purge."
+}

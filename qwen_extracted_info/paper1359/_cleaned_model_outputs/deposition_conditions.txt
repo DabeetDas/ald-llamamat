@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "50-120",
+  "pressure": "2 x 10-6 mbar",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 5,
+  "number_of_cycles": 100,
+  "reactor_type": "home-built pump type ALD reactor",
+  "evidence": "The injection time for the precursor was varied between 1 and 20 seconds, while the reactant exposure was kept fixed at 20 seconds. Likewise, the exposure time of the reactant was varied between 1 and 20 seconds, while the precursor injection time was kept fixed at 20 seconds. The depositions were performed at a substrate temperature of 100 ◦C on silicon substrates coated with a thin sputtered gold seed layer (10 nm). The gate valve between the reaction chamber and the turbomolecular pump was closed during the precursor exposures. As mentioned in the experimental section, the exposure time consisted of a variable injection time, followed by a fixed dwell time of 5 seconds."
+}

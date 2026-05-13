@@ -1,0 +1,8 @@
+{
+  "target_material": "Gadolinium Oxide (Gd2O3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tris(2,3-dimethyl-2-butoxy)gadolinium(III)", "H2O"],
+  "temperature_range": "350°C",
+  "summary": "The study investigates the electrical properties of atomic-layer-deposited gadolinium oxide (Gd2O3) thin films as high-k gate dielectrics. The films were grown on silicon substrates using tris(2,3-dimethyl-2-butoxy)gadolinium(III) and H2O precursors at 350°C. The films exhibited better leakage current-voltage characteristics and lower flatband voltage shift when deposited on HF-etched Si compared to SiO2/Si substrates. The study also examines the impact of thermal annealing on the electrical properties and interfacial state densities of the films.",
+  "evidence": "Amorphous or cubic Gd2O3 thin films were grown from tris /H208492,3-dimethyl-2-butoxy/H20850gadolinium/H20849III/H20850,G d/H20851OC/H20849CH3/H208502CH/H20849CH3/H208502/H208523, and H2O precursors at 350°C. As-deposited Gd2O3 films grown on etched /H20849H-terminated/H20850Si/H20849100/H20850exhibited better leakage current-voltage characteristics as well as lower flatband voltage shift than films grown on SiO2/Si substrates."
+}

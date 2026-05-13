@@ -1,0 +1,4 @@
+{
+  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{   \"deposition_temperature_C\": 50,   \"pressure\": \"\\x181 Torr\",   \"precursor_pulse_time_s\": 2,   \"coreactant_pulse_time_s\": 2.5,   \"purge_time_s\": 30,   \"number_of_cycles\": null,   \"reactor_type\": \"similar to one described in previous publications\",   \"evidence\": \"The reactor utilized in these experime'",
+  "characterization": "ValueError: Could not parse model output as JSON. Preview: '{   \"characterization_methods\": [     \"UV-Vis extinction spectroscopy\",     \"Scanning Electron Microscopy (SEM)\",     \"White light extinction measurements\",     \"UV-Vis extinction spectroscopy\",     \"Ellipsometry\",     \"X-ray Photoelectron Spectroscopy (XPS)\",     \"Discrete dipole approximation meth'"
+}

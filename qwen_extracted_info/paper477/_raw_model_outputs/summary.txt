@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["triethyl-gallium (TEG)", "AsH3"],
+  "temperature_range": "270°C",
+  "summary": "The study investigates the surface reaction mechanism of GaAs molecular layer epitaxy (MLE) using triethyl-gallium (TEG) and AsH3. The self-limiting growth was achieved by controlling the gas injection sequence and evacuation duration, with the TEG supply and evacuation periods chosen to be within the lifetimes of the surface species. The self-limiting growth was observed at a TEG pressure of more than 5.3×10⁻³ Pa at 270°C.",
+  "evidence": "The gas supply sequence was chosen to be within the two lifetimes, and the self-limiting growth at the monolayer was achieved in the TEG pressure region of more than 5.3×10⁻³ Pa at a temperature of 270°C."
+}<|im_end|>

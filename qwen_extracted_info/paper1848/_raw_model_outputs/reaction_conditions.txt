@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "x(^Si–OH) + SiCl4 → (^Si–O)xSiCl4/C0 x + xHCl"
+  ],
+  "surface_mechanism_description": "The catalytic effect of ammonia (NH3) enables the reaction to occur at room temperature through hydrogen bonding between the Lewis base and either the SiOH* surface species or the H2O reactant. The reaction involves the nucleophilic attack of oxygen from SiOH* on SiCl4 and from H2O on SiCl*.",
+  "intermediate_species": [
+    "SiOH*",
+    "SiCl*",
+    "NH3"
+  ],
+  "evidence": "George et al. described the mechanism of a catalysed binary reaction that spontaneously takes place in the presence of pyridine or NH3 as a Lewis base agent. The hydrogen bonding between the Lewis base and SiOH* (surface species) or H2O allows the reaction to be performed at room temperature."
+}<|im_end|>

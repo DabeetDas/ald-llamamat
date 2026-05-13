@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum (Al)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Hydrogen plasma"],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the characteristics of aluminum thin films prepared by atomic layer deposition (ALD) using trimethylaluminum (TMA) and a hydrogen plasma. The process is used as a wetting layer for two-step cold/warm Al deposition. The growth rate was saturated at 0.15 nm/cycle, and the films showed good step coverage on high aspect ratio trenches. The resistivity of a 100-nm-thick Al film was 10 mV cm, and the films were polycrystalline in nature. The use of a buffer line helped reduce carbon concentration in the films.",
+  "evidence": "The characteristics of aluminum (Al) films prepared by the atomic layer deposition (ALD) technique using trimethylaluminum (TMA) and a hydrogen plasma were examined for use as a wetting layer for the two-step cold/warm Al deposition. The growth rate was saturated at 0.15 nm/cycle, demonstrating that the thickness can be precisely controlled by the number of cycles. ALD Al films also had good step coverage on high aspect ratio trenches. The resistivity of a 100-nm-thick Al film was 10 mV cm and this film was polycrystalline in nature."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "MgO",
+  "process_type": "Thermal ALD and PEALD",
+  "main_precursors": [
+    "MgCp2",
+    "H2O",
+    "O2 plasma"
+  ],
+  "temperature_range": "300 /C176C",
+  "summary": "The study investigates the thermal and plasma-enhanced atomic layer deposition (Th-ALD and PE-ALD) of MgO on a CoFeB layer for three-dimensional magnetic tunneling junctions. The results show that Th-ALD MgO has a better potential as a deposition technique to form tunnel barriers, as it causes less oxidation of the CoFeB layer compared to PE-ALD, which leads to significant FeOx oxidation due to the high reactivity of O radicals.",
+  "evidence": "In this study, we comparatively investigated thermal- and plasma-enhanced atomic layer deposition (Th- and PE-ALD) of MgO on a CoFeB layer. MgCp2 (Bis(cyclopentadienyl)magnesium) was used as a Mg precursor and H2O and O2 plasma were employed as reactants for the Th- and PE-ALD process, respectively. Th- and PE-ALD MgO formed interlayer between MgO and CoFeB layer due to the oxidation of CoFeB by H2O and O2 plasma during the Th- and PE-ALD process. While interlayer formation was observed to be less than 1 nm for Th-ALD MgO, the PE-ALD MgO process resulted in an approximately 5 nm thick, predominantly FeOx oxidation of CoFeB. This was due to the high reactivity of the O radicals and the higher driving force of Fe for oxidation when compared with Co. Our results show that the Th-ALD MgO process has a better potential as a deposition technique to form tunnel barrier of magnetic tunneling junctions (MTJs)."
+}

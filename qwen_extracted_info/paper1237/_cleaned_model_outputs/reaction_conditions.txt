@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Pb(btsa)2 and SnI4 precursors on the substrate, followed by surface reactions that lead to the formation of PbI2. The reaction is influenced by the substrate surface roughness, with rough substrates leading to porous films and smooth substrates leading to dense films. The reaction is also affected by the temperature, with decomposition observed at higher temperatures.",
+  "intermediate_species": ["bis(trimethylsilyl)amide (BTSA) ligand", "surface hydroxyl groups (-OH)", "trimethylsilyl (-Si(CH3)3) groups"],
+  "evidence": "The HMDS is a known surface passivating agent that reacts with surface hydroxyl groups (-OH) forming inert trimethylsilyl (-Si(CH3)3), TMS) groups. This reaction can hinder film deposition in ALD. Neither water nor hydroxyl groups (except for the initial substrate surface) are present in the PbI2 ALD process we report here."
+}

@@ -1,0 +1,3 @@
+{
+  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{   \"deposition_temperature_C\": \"160-180\",   \"pressure\": \"5-10 mbars\",   \"precursor_pulse_time_s\": 6,   \"coreactant_pulse_time_s\": 20,   \"purge_time_s\": 0.5-1,   \"number_of_cycles\": 1500,   \"reactor_type\": \"cross-flow\",   \"evidence\": \"Rhodium oxide thin ﬁlms were deposited in a hot-wall cross-ﬂow F-'"
+}

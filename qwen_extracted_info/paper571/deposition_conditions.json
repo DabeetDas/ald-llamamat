@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 165,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 8,
+  "purge_time_s": null,
+  "number_of_cycles": 500,
+  "reactor_type": "modified CVD system",
+  "evidence": "The typical pulse lengths used were 2 s for the reactants and 8 s for the evacuation between the reactants."
+}

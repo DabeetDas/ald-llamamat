@@ -1,0 +1,11 @@
+{
+  "target_material": "Bi2O3",
+  "process_type": "Thermal and Plasma-Enhanced ALD",
+  "main_precursors": [
+    "[Bi(tmhd)3]",
+    "O2 plasma"
+  ],
+  "temperature_range": "270 – 330°C",
+  "summary": "The study investigates the growth of Bi2O3 films using both thermal and plasma-enhanced atomic layer deposition (ALD). The use of an O2 plasma as an oxidant increases the growth per cycle (GPC) and shifts the temperature range. The films are conformal, oxygen-rich, dense, and amorphous with bandgaps between 2.7 eV and 2.9 eV. Real-time spectroscopic ellipsometry is used to monitor the growth and reveals the reactivity of the plasma towards the Bi(tmhd)x surface groups. The study also introduces a double-layer optical model to distinguish between the surface layer and the bulk material during the ALD process.",
+  "evidence": "Ultrathin Bi2O3 films were grown by thermal as well as plasma-enhanced ALD using [Bi(tmhd)3] as bismuth precursor. The use of an O2 plasma instead of H2O as oxidant increases the growth per cycle (GPC) from 0.24 Å/cycle to 0.35 Å/cycle and shifts the temperature window from 210 – 270°C to 270 – 330°C. The deposited films were grown conformally and are oxygen rich, dense, and amorphous with bandgaps in the range of 2.7 eV to 2.9 eV. Real-time spectroscopic ellipsometry reveals a superior reactivity of the plasma towards Bi(tmhd)x surface groups, explaining the increased GPC."
+}

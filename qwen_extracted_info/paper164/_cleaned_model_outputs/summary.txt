@@ -1,0 +1,8 @@
+{
+  "target_material": "Gd xAl2-xO3",
+  "process_type": "ALD",
+  "main_precursors": ["Gd(iPrCp)3", "TMA"],
+  "temperature_range": "250-300 °C",
+  "summary": "The study focuses on the atomic layer deposition (ALD) of Gd xAl2-xO3 using Gd(iPrCp)3, TMA, and H2O or O3 as oxidants. The results show that H2O-based processes yield better film properties compared to O3, although the hygroscopic nature of Gd2O3 complicates the H2O process, leading to CVD contributions and non-uniformity. The study also highlights the impact of the oxidant on the dielectric properties and composition of the films.",
+  "evidence": "The study demonstrates the ALD of Gd xAl2-xO3 using Gd(iPrCp)3, TMA, and H2O or O3 as oxidants. It shows that H2O-based processes lead to better film properties, although the hygroscopic nature of Gd2O3 complicates the process, leading to CVD contributions and non-uniformity. The results indicate that H2O-based processes are more favorable for achieving better dielectric properties."
+}

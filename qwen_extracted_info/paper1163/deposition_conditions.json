@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "430",
+  "pressure": "few millibars",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "ZnSe growth was performed with a selenium source kept at a temperature of /C14C, a zinc source at 380/C14C and a substrate at 430/C14C. We used nitrogen as the carrier gas at a few millibars pressure, and carried out typically a few thousands of ALE cycles of about 1s each."
+}

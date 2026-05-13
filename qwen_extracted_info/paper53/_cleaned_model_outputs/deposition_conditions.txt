@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "6 hPa",
+  "precursor_pulse_time_s": 1.6,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 12.9,
+  "number_of_cycles": null,
+  "reactor_type": "R-200 Advanced reactor",
+  "evidence": "The process parameters were systematically screened and the resulting thin films were characterized with respect to composition, crystallinity, transparency, and electronic properties. The thermal behavior and coating performance on complex substrates were also investigated. The PE-ALD process is targeted at the production of ultrathin NiO films on large-area substrates, which are attractive building blocks of emerging optoelectronic and catalytic devices. We demonstrate the utility of NiO films prepared by this process as ultrathin (<10 nm) electron-blocking layers as well as highly active oxygen evolution electrocatalysts."
+}

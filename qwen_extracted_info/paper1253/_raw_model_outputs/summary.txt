@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnS",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["H2S", "diethylzinc (DEZ)"],
+  "temperature_range": "Not explicitly stated",
+  "summary": "The study investigates the atomic structure evolution during the ALD growth of ZnS thin films on TiO2 nanoparticles using in situ XANES and machine learning. It reveals the formation of both sulfide and sulfate species during nucleation and their transformation into crystalline ZnS. The study also highlights the importance of surface coordination and bonding environments in the growth process.",
+  "evidence": "The text describes the use of in situ XANES and machine learning to analyze the structural evolution of ZnS during ALD on TiO2 nanoparticles. It mentions the formation of both sulfide and sulfate species during nucleation and their transformation into crystalline ZnS, as well as the role of surface coordination and bonding environments."
+}<|im_end|>

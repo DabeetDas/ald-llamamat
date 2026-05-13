@@ -1,0 +1,8 @@
+{
+  "target_material": "Silver (Ag) nanoparticles",
+  "process_type": "AB-type and ABC-type Atomic Layer Deposition (ALD)",
+  "main_precursors": ["trimethylphosphine-(hexafluoroacetylacetonato) silver(I) ((hfac)Ag(PMe3))", "formalin", "trimethylaluminum (TMA)", "H2O"],
+  "temperature_range": "110 °C to 200 °C",
+  "summary": "This study reports the synthesis of silver nanoparticles using AB-type and ABC-type atomic layer deposition (ALD) processes. The AB-type ALD uses (hfac)Ag(PMe3) and formalin, while the ABC-type ALD uses (hfac)Ag(PMe3), TMA, and H2O. The AB-type ALD operates at 170–200 °C, while the ABC-type ALD operates at 110 °C. The study demonstrates that ABC-type ALD allows for the synthesis of Ag nanoparticles at lower temperatures and maintains particle size while increasing metal loading, making it a promising method for producing uniform nanoparticles.",
+  "evidence": "AB-type Ag ALD was performed using a timing of 600 −300−300−300 s. ABC-type Ag ALD was performed using the timing 600 −300−90−240−120−240 s. The ABC-type Ag ALD was carried out at 110 °C, while AB-type Ag ALD was performed at 170–200 °C. The study also mentions that ABC-type ALD allows for the synthesis of Ag nanoparticles at lower temperatures and maintains particle size while increasing metal loading."
+}<|im_end|>

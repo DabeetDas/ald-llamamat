@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The oxidation growth occurs inside the scale with La2O3 coatings, whereas the oxidation of uncoated Ni is dominated by growth at the oxide–gas interface. The presence of La2O3 decreases the outward grain-boundary diffusion of Ni and increases the inward transport of oxygen by diffusion along grain boundaries. The surface layer consists of a La-rich phase with nominal composition La2Ni4O7, which is a spinel-type structure with four oxygen vacancies in the unit cell.",
+  "intermediate_species": [
+    "La2Ni4O7"
+  ],
+  "evidence": "The surface layer consists of a La-rich phase with nominal composition La2Ni4O7. The phase was found to be face-centered cubic with unit cell dimension a G 0.73 nm. The structure can be described as a spinel type with four oxygen vacancies in the unit cell. The location of growth of new oxide has been observed to change from the oxide–gas interface for unalloyed Ni to the interior of the scale with La2O3 coatings. La, in the outer region, decreases the outward grain-boundary diffusion of Ni across this region and inward transport of oxygen by diffusion along grain boundaries becomes rate determining for the transport across this region."
+}

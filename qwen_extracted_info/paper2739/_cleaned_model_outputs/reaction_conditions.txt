@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface saturation by pulsing reactant and purge gases caused the complete surface reaction during deposition, and it effectively reduced the chlorine content in the TiN film and the Cl element that was stuck on substrate surface was completely removed by the next cycle process for NH3 reactant gas.",
+  "intermediate_species": ["Cl element stuck on substrate surface"],
+  "evidence": "The reason for extremely low Cl impurity in AL-CVD was that, in the AL-CVD system, the surface saturation by pulsing reactant and purge gases caused the complete surface reaction during deposition, and it effectively reduced the chlorine content in the TiN film and the Cl element that was stuck on substrate surface was completely removed by the next cycle process for NH3 reactant gas."
+}

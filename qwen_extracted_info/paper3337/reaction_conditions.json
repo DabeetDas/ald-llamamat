@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the sequential pulsing of trimethylaluminum (TMA) and hydrazine (N2H4) with purge steps. The high reactivity of N2H4 compared to NH3 allows for a higher growth per cycle (GPC) and lower impurity concentration. The mechanism includes ligand exchange between TMA and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The unbounded nitrogen observed in the film is attributed to incompletely reacted N2H4 without breaking the N–N bond, which remains after reaction with TMA due to low deposition temperature.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species",
+    "unbounded nitrogen"
+  ],
+  "evidence": "The surface reactions involve the sequential pulsing of trimethylaluminum (TMA) and hydrazine (N2H4) with purge steps. The high reactivity of N2H4 compared to NH3 allows for a higher growth per cycle (GPC) and lower impurity concentration. The mechanism includes ligand exchange between TMA and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The unbounded nitrogen observed in the film is attributed to incompletely reacted N2H4 without breaking the N–N bond, which remains after reaction with TMA due to low deposition temperature."
+}

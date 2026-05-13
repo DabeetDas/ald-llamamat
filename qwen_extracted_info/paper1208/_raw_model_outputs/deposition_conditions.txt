@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 60,
+  "purge_time_s": 20,
+  "number_of_cycles": 65,
+  "reactor_type": "hot-wall, showerhead-type ASM PECVD reactor",
+  "evidence": "Our best known method consists of 10 s of WF 6 (50 sccm), 10 s of H 2 plasma (500 sccm) at 100 W, and 60 s of H 2S exposure (in He, 695 sccm) at 300 °C. These pulses are separated by a 20 s evacuation of the reactor to the base pressure of 1.5 × 10−1 Torr (with fixed He seal)."
+}<|im_end|>

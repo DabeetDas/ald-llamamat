@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "30-200",
+  "pressure": "100 mTorr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 30,
+  "number_of_cycles": 200,
+  "reactor_type": "custom-built, viscous-flow, hot-wall reactor",
+  "evidence": "The ALD sequence is compactly expressed as t1:t2:t3:t4, where t1 and t3 correspond to the pulse lengths of TDMASn and water, respectively, and t2 and t4 to N2 purge times following these doses. A typical timing sequence was 1:30:2:30 s."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "10",
+  "coreactant_pulse_time_s": "15",
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "shower head",
+  "evidence": "The process cycle has four steps, precursor injection (10 s)-purge (10 s)-reactive gas injection (15 s)-purge (10 s)."
+}

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves a pulse of metal-containing precursor Al(CH3)3, followed by an argon purge, then a water pulse, and a final argon purge. The interfacial reactions were probed using XPS, showing no signatures of SiO2 formation, indicating suppression of interfacial layer formation.",
+  "intermediate_species": [
+    "Al(CH3)3",
+    "surface hydroxyls",
+    "Si-OH"
+  ],
+  "evidence": "In the ALD process, a deposition cycle is defined as a pulse of metal containing precursor Al(CH3)3, a nitrogen purge to remove unreacted precursor, followed by a water pulse, and completed by a final purge with argon. The Si 2 p core level spectra would not be overshadowed by the Al 2 p energy loss peak, which overlaps with the peaks of SiO2 or silicate. From the Si 2 p core level spectrum shown in Fig. 1, there are no signatures of SiO2 present at 103.4 eV in both pure MBE Al2O3 and ALD+ MBE composite Al2O3 films."
+}

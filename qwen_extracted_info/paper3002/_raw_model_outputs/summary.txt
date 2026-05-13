@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu3N",
+  "process_type": "ALD",
+  "main_precursors": ["Copper(II) hexafluoroacetylacetonate", "Water", "Ammonia"],
+  "temperature_range": "210 to 302°C",
+  "summary": "Cu3N films were deposited using ALD with Copper(II) hexafluoroacetylacetonate, water, and ammonia as precursors. The process involved a water pulse to initiate film growth on oxide substrates, followed by ammonia pulses to form the nitride. The study explored low-temperature growth of Cu3N and its properties.",
+  "evidence": "Films of copper /H20849I/H20850nitride were deposited by atomic layer deposition /H20849ALD/H20850using copper/H20849II/H20850hexaﬂuoroacetylacetonate, water, and ammonia as precursors. The water pulses generated an oxidic copper monolayer, which in a subsequent ammonia pulse was converted to the nitride. The films were grown in the temperature range from 210 to 302°C."
+}<|im_end|>

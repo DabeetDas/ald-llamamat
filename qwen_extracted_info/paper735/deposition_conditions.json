@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "3 × 10− 3 and 3 × 10− 1 torr",
+  "precursor_pulse_time_s": "10",
+  "coreactant_pulse_time_s": "5",
+  "purge_time_s": "15",
+  "number_of_cycles": "100",
+  "reactor_type": "traveling wave type 4-inch chamber (Atomic-Class, CN-1)",
+  "evidence": "The ALD of In2O3 was conducted by repeating alternative pulse of Me2In(EDPA) and H2O gases onto the substrate. In one complete ALD cycle, the In-precursor and H2O vapor were pulsed for 10 and 5 s, respectively, separated by 15-s Ar purge; thus 10 s–15 s–5 s–15 s."
+}

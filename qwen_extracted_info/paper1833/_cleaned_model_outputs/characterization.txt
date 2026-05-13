@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "atomic force microscopy (AFM)",
+    "scanning electron microscopy (SEM)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "X-ray diffraction (XRD)",
+    "electrochemical impedance spectroscopy (EIS)",
+    "Tafel plot",
+    "electrochemical testing"
+  ],
+  "evidence": "The surface morphology and thickness of ALD CoS x were observed by atomic force microscopy (AFM) (VEECO, Multimode) and SEM (JEOL, JSM-7100F). The chemical composition and microstructural properties of the film could be investigated through XPS (Thermo U.K., K-alpha radiation) and XRD (Rigaku, Smartlab). The electrochemical properties of ALD CoS x were investigated using a three-electrode system with a potentiostat (ZIVE, Zive SP1). Electrochemical impedance spectroscopy (EIS) was carried out to clarify the impedance of the catalyst and capacitance between interlayers. The polarization curve was recorded at a scan rate of 0.05 mV s −1. The Tafel plot was used to further kinetic analysis of the films."
+}

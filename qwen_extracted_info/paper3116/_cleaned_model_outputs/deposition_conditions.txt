@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "250",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "PEALD",
+ "evidence": "The TSO films with 70 nm were grown by PEALD at 250 ℃. In PEALD apparatus, 12 inch wafer can be deposited in reactor."
+}

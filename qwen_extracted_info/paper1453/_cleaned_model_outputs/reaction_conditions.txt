@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the alternating pulsing of precursor vapors (Ti(OMe)4 and H2O) onto the substrate, followed by purging with N2. The growth occurs via saturative surface reactions, where each precursor pulse leads to a saturated (sub)monolayer on the substrate surface. The self-limiting nature of ALD ensures uniform film growth.",
+  "intermediate_species": ["Ti(OMe)4", "H2O", "Ti-OH*", "Al-OH*"],
+  "evidence": "The ALD process involves the alternating pulsing of precursor vapors (Ti(OMe)4 and H2O) onto the substrate, followed by purging with N2. The growth occurs via saturative surface reactions, where each precursor pulse leads to a saturated (sub)monolayer on the substrate surface. The self-limiting nature of ALD ensures uniform film growth."
+}

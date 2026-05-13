@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethyl gallium (TMG)", "arsine (AsH3)"],
+  "temperature_range": "430 to 550°C",
+  "summary": "The study investigates the surface reaction mechanisms in GaAs atomic layer epitaxy (ALE) by examining the adsorption and decomposition of trimethyl gallium (TMG) on both Ga-rich and As-rich surfaces of (001)GaAs. It reveals that TMG is adsorbed and decomposed on both surfaces within the temperature range where ALE growth occurs. The decomposed species, such as Me~Ga (n = 1, 2), are selectively desorbed from the Ga surface but not from the As surface. The results challenge the prevalent model of selective adsorption on the As surface and propose a new selective desorption model for self-limiting deposition of Ga during ALE growth.",
+  "evidence": "It has been found that TMG is adsorbed and decomposed on both the As and the Ga surfaces in the temperature region where atomic layer epitaxy (ALE) growth can occur. It has also been found that even the decomposed species, i.e. Me~Ga (n = 1, 2), can be desorbed from the Ga surface together with TMG molecules, but not from the As surface."
+}

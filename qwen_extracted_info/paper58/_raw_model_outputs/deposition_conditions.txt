@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 220,
+  "pressure": "750 mtorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "perpendicular-flow",
+  "evidence": "The substrate temperature was held at 220  °C for all depositions unless otherwise noted, and the reactor walls were heated to 185  °C. To prevent the pump pulling vacuum on the ozone generator, ozone exposures of longer than 10 s were broken up into repeated pulses of 10 s separated by purge times of 30 s to allow the ozone delivery line to repressurize."
+}<|im_end|>

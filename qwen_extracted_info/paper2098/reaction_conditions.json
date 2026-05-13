@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the recombination of –SH groups on the surface after the H2S pulse, which recombine and desorb as H2S, leaving the surface covered with only sulfur. This process is suggested to occur in the ALD growth of CdS, sulfurization of ZnO, and ALD growth of BaS and SrS. The recombination reaction of –SH groups is supported by mass-spectroscopy studies on chloride-based ZnS ALD processes, indicating a nearly hydrogen-free surface after the H2S pulse.",
+  "intermediate_species": [
+    "–SH groups",
+    "ZnI_x adsorbates",
+    "H2S"
+  ],
+  "evidence": "It can be seen that there is a wide temperature window between 300 and 490 °C where the growth rate is in practice independent of the growth temperature. As a reason for the steady growth rate, it is suggested that the –SH groups on the surface after the H2S pulse recombine and desorb as H2S, leaving the surface covered with only sulfur. In that case the surface termination is not changing noticeably with the temperature and thus also the growth rate stays constant. This kind of recombination reaction of –SH groups has been shown to exist in the ALD growth of CdS, in the sulfurization of ZnO, and suggested to exist in the ALD growth of BaS and SrS. Results of the earlier mass-spectroscopy study on the chloride-based ZnS ALD process also give support for the nearly hydrogen-free surface after the H2S pulse."
+}

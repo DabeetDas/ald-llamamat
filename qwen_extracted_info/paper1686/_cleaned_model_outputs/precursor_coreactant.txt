@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethyl aluminum (TMA)"],
+  "coreactants": ["water"],
+  "purge_gas": ["Argon (Ar)"],
+  "carrier_gas": ["Argon (Ar)"],
+  "evidence": "The ALD process consists of a vacuum-based two step reaction sequence where a gas phase precursor first reacts with available hydroxyl groups resulting in methyl-group termination on the substrate surface. One ALD cycle consists of a TMA dose, inert purge, H2O dose, and inert purge. Argon (ultrahigh purity, filter dried) was used as the carrier gas for the reactant species and delivered at a gas flow rate of∼200 standard cubic centimeters per minute."
+}

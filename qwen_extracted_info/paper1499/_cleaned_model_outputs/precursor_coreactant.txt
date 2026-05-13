@@ -1,0 +1,7 @@
+{
+  "precursors": ["MeCpPtMe3"],
+  "coreactants": ["O2 plasma", "H2 gas", "H2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The MeCpPtMe3 was heated to 30 °C and dosed into the deposition chamber by using Ar as carrier gas. Note that a carrier gas was used in contrast to previous work, 11 because this leads to more reproducible precursor dosing. An Ar purge step and a pump step (3 s each) directly after the MeCpPtMe3 pulse ensured that the reaction products and excessive precursor were evacuated from the chamber before pulsing the reactant."
+}

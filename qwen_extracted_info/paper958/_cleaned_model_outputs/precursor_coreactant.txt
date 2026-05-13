@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMAT (tetrakis(dimethylamido)titanium)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Nitrogen"],
+  "evidence": "TiO2 was deposited by Atomic Layer Deposition (Savannah 100 of the Cambridge Nanotech Inc., MA), using TDMAT (tetrakis(dimethylamido)titanium), Sigma–Aldrich, (Germany) as titanium source and milliQ water as oxygen source. Nitrogen was used as a precursor carrier and purge gas."
+}

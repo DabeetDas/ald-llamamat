@@ -1,0 +1,18 @@
+{
+  "precursors": [
+    "MeCpPtMe3"
+  ],
+  "coreactants": [
+    "O2",
+    "H2",
+    "N2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "He",
+    "N2"
+  ],
+  "evidence": "Pt ALD was performed over γ-Al2O3, TiO2, and SrTiO3 in a continuous-flow XAFS reactor. The ALD Pt precursor was methylcyclopentadienyl trimethyl platinum(IV) (MeCpPtMe3). One gram of the precursor was loaded into the quartz saturator inside a glovebox. The saturator was then sealed and transferred to the ALD system. The MeCpPtMe3 was held in a stainless steel bubbler maintained at 50 °C. During the Pt precursor exposures, 30 mL/min of N2 was diverted through the bubbler, yielding a partial pressure of the Pt precursor in the ALD reactor of 0.1 Torr for 200 s, and the reactor temperature was maintained at either 100 or 300 °C. The O2 or H2 exposures were performed at 300 °C. The O2 exposures used an O2 mass flow rate of 30 mL/min for 200 s, whereas the H2 exposures were 30 min at a total pressure of ∼ 6 Torr. Between each reactant exposure, the reactor was continuously purged with UHP N2 for 200 s."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "plasma-enhanced ALD",
+  "main_precursors": ["Diethylzinc (DEZ)", "oxygen plasma"],
+  "temperature_range": "75–150°C",
+  "summary": "ZnO thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) at low temperatures for the application of flexible transparent thin-film transistors (TFTs). The study focused on the effect of precursor pulsing time, temperature, and radio frequency (rf) power on film growth, with an emphasis on reducing carrier density and achieving preferred crystal orientation.",
+  "evidence": "ZnO films were grown in a temperature range of 75–150°C by plasma-enhanced ALD for the application of flexible transparent thin-film transistor /H20849TFT/H20850. We could obtain highly resistant ZnO film, being suitable for the active layer of TFT, at low temperature with the reactive oxygen plasma to result in decreased carrier density."
+}

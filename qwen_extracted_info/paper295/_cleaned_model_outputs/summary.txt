@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum oxide (Al2O3)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Trimethylaluminum (TMA)", "H2O"],
+  "temperature_range": "200 /C176C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit aluminum oxide (Al2O3) as a high-k dielectric for electrowetting-on-dielectric (EWOD) devices. The ALD process used trimethylaluminum (TMA) and water (H2O) as precursors, and the deposited Al2O3 film had a thickness of 1,270 A˚. The ALD process was carried out at 200 /C176C. The fabricated EWOD device demonstrated a threshold voltage of 3 V for droplet movement, which is the lowest reported voltage in EWOD research. The ALD Al2O3 dielectric layer significantly reduced the driving voltage compared to traditional methods.",
+  "evidence": "The text states: 'For depositing a pinhole-free and thin EWOD dielectric layer, ALD (atomic layer deposition) may be one of the best methods. ... Trimethylaluminum (Al(CH3)3, TMA) and H2O were used as the aluminum and oxygen sources, respectively. ... The canisters of TMA and H2O were cooled down to 10 and 5 /C176C, respectively. ... The ALD Al2O3 film was grown at 200 /C176C. ... The resulting ALD Al2O3 film thickness was 1,270 A˚ after 1,000 cycles.'"
+}

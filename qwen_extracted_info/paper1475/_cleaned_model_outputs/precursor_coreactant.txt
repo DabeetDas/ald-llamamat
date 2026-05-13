@@ -1,0 +1,7 @@
+{
+  "precursors": ["Sr(iPr3Cp)2", "Ti(O-iPr)2(tmhd)2"],
+  "coreactants": ["O3", "H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The precursors were delivered to the ALD chamber with the assistance of Ar carrier gas at a flow rate of 200 sccm. H2O or O3 was used as the oxygen source. The precursors were delivered to the ALD chamber with the assistance of Ar carrier gas at a flow rate of 200 sccm."
+}

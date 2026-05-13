@@ -1,0 +1,8 @@
+{
+  "target_material": "Ga2O3",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["trimethylgallium (TMG)", "oxygen plasma"],
+  "temperature_range": "265-475°C",
+  "summary": "This study explores the phase control of crystalline Ga2O3 films using plasma-enhanced atomic layer deposition (PEALD). The research focuses on the deposition of Ga2O3 films on c-plane sapphire substrates, investigating the effects of plasma gas composition, flow, pressure, and growth temperature on the crystallinity and phase of the resulting films. The study demonstrates the ability to achieve high-quality, single-phase β- and α-Ga2O3 films, while ε-Ga2O3 films were not fully isolated due to the presence of β- and κ-Ga2O3 components. The findings highlight the importance of plasma properties in controlling phase selectivity and crystallinity at low temperatures.",
+  "evidence": "The study demonstrates the ability to achieve high-quality, single-phase β- and α-Ga2O3 films, while ε-Ga2O3 films were not fully isolated due to the presence of β- and κ-Ga2O3 components. The findings highlight the importance of plasma properties in controlling phase selectivity and crystallinity at low temperatures."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 120,
+  "pressure": "",
+  "precursor_pulse_time_s": 1200,
+  "coreactant_pulse_time_s": 1600,
+  "purge_time_s": 400,
+  "number_of_cycles": 500,
+  "reactor_type": "Microchemistry F-120 ALD reactor",
+  "evidence": "The Zn 1/C0 xSnxOy buffer layers are grown using a Microchemistry F-120 ALD reactor (ASM Microchemistry Ltd., Finland) with a deposition temperature of 120 /C14 C. A proven process with diethyl zinc (DEZn or Zn(C 2H5)2)a s zinc precursor, tetrakis(dimethylamino) tin (TDMASn or Sn(N(CH 3)2)4) as tin precursor, de-ionized water (H 2O) as oxygen precursor and nitrogen (N 2) as carrier and purge gas is used. A pulse cycle of Sn/Zn precursor:N 2:H2O: N2 with longer pulse lengths than in, that is 1200/ 1200:1600:400:1600 ms, respectively, is employed."
+}<|im_end|>

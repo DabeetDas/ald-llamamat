@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-250",
+  "pressure": "",
+  "precursor_pulse_time_s": 1.0,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 25,
+  "number_of_cycles": null,
+  "reactor_type": "Showerhead",
+  "evidence": "Each ALD cycle for GaOx film deposition consisted of five subsequent steps: injection of the Ga precursor assists for 1.0 s, Ga precursor vaporization for 1.5 s, purge gas for 25 s, O2 plasma for 5 s, and purge gas for 15 s"
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "290-320",
+  "pressure": "20 mTorr to 70 mTorr",
+  "precursor_pulse_time_s": 32,
+  "coreactant_pulse_time_s": 8,
+  "purge_time_s": 8,
+  "number_of_cycles": 150,
+  "reactor_type": "hot wall ALD reactor",
+  "evidence": "Using a pulse sequence of TET (8s):N 2 (8s):O3 (8s):N2 (8s) for 150 cycles, the effect of temperature on the ALD was measured from 250 to 390 /C14 C (Fig. 2)."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO:N",
+  "process_type": "thermal ALD",
+  "main_precursors": ["diethyl zinc (DEZ)", "NH4OH"],
+  "temperature_range": "100–200 °C",
+  "summary": "The study demonstrates the fabrication of high-performance thin film transistors (TFTs) using nitrogen-doped ZnO (ZnO:N) as an active channel layer deposited by atomic layer deposition (ALD). The nitrogen doping was achieved in situ using NH4OH as a reactant, and the gate insulator was ALD Al2O3 deposited at 150 °C. The process was carried out at low temperatures (below 150 °C), which is suitable for flexible and transparent displays. The resulting TFTs showed excellent electrical properties, including high saturation mobility, low off-current, and a high on/off ratio.",
+  "evidence": "The nitrogen doping was carried out in situ using ammonium hydroxide (NH4OH) as a source for reactants of ALD ZnO:N. By employing ALD Al2O3 at a low growth temperature (Ts = 150 °C) as a gate insulator, high performance ZnO TFT devices were fabricated with high saturation mobility (6.7 cm2/V s), low Ioff (2.03×10−12 A), high Ion/off (9.5×107), and very low hysteresis (≤0.5 V). The entire TFT fabrication processes were carried out at below 150 °C, which is favorable for plastic-based flexible display."
+}<|im_end|>

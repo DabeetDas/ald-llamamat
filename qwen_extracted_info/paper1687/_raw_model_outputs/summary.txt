@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["ZrCl4", "H2O"],
+  "temperature_range": "300-600 °C",
+  "summary": "The study investigates the controlled formation of ZrO2 on porous silica and γ-alumina surfaces through the reaction of ZrCl4 vapor with preheated surfaces at 300 and 600 °C. The process involves the consumption of OH groups on the surface, direct chlorination, and the formation of ZrO2 agglomerates. The reactions were analyzed using XRD, FTIR, 1H MAS NMR, and chemical etching. The results show that agglomeration and exchange reactions with OH groups occur, and the Zr concentration and Cl/Zr ratio depend on the reaction temperature. The study also highlights the role of OH groups in the reaction mechanism and the formation of Zr-OH groups during water treatment.",
+  "evidence": "The reaction of ZrCl4 vapor at 300, 450, and 600 °C with silica and γ-alumina preheated at 300 and 600 °C was studied. The ratio between permanently consumed OH groups and directly chlorinated OH groups depended on the reaction temperature. Direct chlorination was associated with the formation of crystalline ZrO2 agglomerates. The reactions of HCl evolved in the main reactions were considered minor. The surfaces of the ZrCl4-modified and water-treated silica and alumina surfaces consisted of Zr-OH groups formed in the hydrolysis of isolated ZrClx species, original OH groups of the supports, and ZrO2 agglomerates formed in the vicinity of siloxanes and (Al-O) pairs."
+}<|im_end|>

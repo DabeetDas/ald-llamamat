@@ -1,0 +1,7 @@
+{
+  "precursors": ["Dimethylzinc (DMZn)"],
+  "coreactants": ["H2S", "H2Se"],
+  "purge_gas": [],
+  "carrier_gas": ["H2"],
+  "evidence": "A gas mixture consisting of 10% H2S and 10% H2Se were chosen as S and Se sources, respectively. Palladium-diffused, high-purity, hydrogen (H2) was used as the carrier gas for transporting the reactants to the reactor."
+}

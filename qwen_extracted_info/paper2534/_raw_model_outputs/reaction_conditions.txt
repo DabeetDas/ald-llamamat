@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process of TiO2 using tetrakis-dimethyl-amido titanium and hydrogen peroxide involves the reaction of the precursor with surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The reaction is self-limiting due to the discrete introduction of reactant pulses with an intermediate purge step, restricting the reaction to absorbed species on the substrate surface.",
+  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum"],
+  "evidence": "Titanium dioxide thin films were grown by atomic layer deposition (ALD) at 100–250 °C with tetrakis-dimethyl-amido titanium, using H2O2 as a counter-reactant. We have explored the effects of deposition temperature and the reactant pulse and purge times on the film growth rate to optimize the ALD process of TiO2. The reaction system of TDMA T and H2O2 was evaluated as a possible process for TiO2 ALD. The ALD process uses discrete introduction of reactant pulses with an intermediate purge step, restricting the reaction to absorbed species on the substrate surface, thus leading to a self-limited growth."
+}<|im_end|>

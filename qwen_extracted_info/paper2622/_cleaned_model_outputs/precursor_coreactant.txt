@@ -1,0 +1,7 @@
+{
+  "precursors": ["Rudense"],
+  "coreactants": ["NH3"],
+  "purge_gas": [],
+  "carrier_gas": ["Ar"],
+  "evidence": "The vapor of the Rudense was transferred to the cold wall type CVD reactor chamber by Ar carrier gas. The reactant gas was NH3, which concentration was kept at 70% in the total reactor chamber pressure."
+}

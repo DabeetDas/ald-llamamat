@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 303,
+  "pressure": "75 mTorr",
+  "precursor_pulse_time_s": 0.05,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 5,
+  "reactor_type": "F-120",
+  "evidence": "The SiCl4 half-reaction was performed using the gas pulse sequence shown in Fig. 1. During the SiCl4 half-reaction, a steady-state NH3 pressure was maintained at 75 mTorr during the consecutive 50 ms SiCl4 pulses. The SiCl4 precursor was then introduced by opening the SiCl4 automated valve for 50 ms. This opening produces a small SiCl4 pressure transient in the chamber."
+}

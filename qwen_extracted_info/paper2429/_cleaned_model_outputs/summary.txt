@@ -1,0 +1,8 @@
+{
+  "target_material": "lead sulfide (PbS)",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["bis(2,2,6,6-tetramethyl-3,5-heptanedionato)lead(II) (Pb(tmhd)2)", "3.5% H2SiN2"],
+  "temperature_range": "160°C",
+  "summary": "The study investigates the quantum confinement effects on the band gap of lead sulfide (PbS) quantum wells fabricated by atomic layer deposition (ALD). The band gap of PbS thin films was controlled by varying the film thickness and barrier height. The results show that the band gap increased as the film thickness decreased, and the barrier height increased from 0.45 to 2.19 eV. The study also demonstrates that ALD can be used to fabricate quantum well structures with precise thickness control and that scanning tunneling spectroscopy (STS) is a powerful tool for analyzing the band gap in nano-structured materials.",
+  "evidence": "PbS quantum wells with a thickness range of 1–20 nm were fabricated by atomic layer deposition (ALD). The band gap of PbS thin films increased as the film thickness decreased, and the barrier height increased from 0.45 to 2.19 eV. The study also demonstrates that ALD can be used to fabricate quantum well structures with precise thickness control and that scanning tunneling spectroscopy (STS) is a powerful tool for analyzing the band gap in nano-structured materials."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["SiCl4", "H2O"],
+  "temperature_range": "600–800 K",
+  "summary": "SiO2 thin films were deposited using binary reaction sequence chemistry with self-limiting surface reactions. The process involved alternating exposures of SiCl4 and H2O to achieve atomic layer control. The films were grown at temperatures between 600 and 800 K, with a maximum deposition rate of 1.1 Å per AB cycle at 600 K. The films exhibited excellent conformality and flat surface topography.",
+  "evidence": "SiO2 thin films were deposited with atomic layer control using binary reaction sequence chemistry. The SiO2 growth was accomplished by separating the binary reaction SiCl4 + H2O → SiO2 + 4HCl into two half-reactions. Successive application of the half-reactions in an ABAB... sequence produced SiO2 deposition at temperatures between 600 and 800 K and reactant pressures of 1–10 Torr. The maximum SiO2 deposition per AB cycle was 1.1 Å/AB cycle at 600 K. The surface topography measured using atomic force microscopy was extremely flat with a roughness nearly identical to the initial substrate."
+}

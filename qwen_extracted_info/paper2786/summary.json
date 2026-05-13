@@ -1,0 +1,11 @@
+{
+  "target_material": "vanadium–chromium oxide",
+  "process_type": "molecular layering (ML)",
+  "main_precursors": [
+    "VOCl3",
+    "CrO2Cl2"
+  ],
+  "temperature_range": "273–673 K",
+  "summary": "The study describes the synthesis of vanadium–chromium oxide monolayers on silica surfaces using a mixture of VOCl3 and CrO2Cl2 vapors. Quantum-chemical modeling and experimental data were used to predict and control the composition of the coating by adjusting the ratio of reactants and temperature. The results showed that the chromium-to-vanadium ratio in the coating can be controlled by varying the gas-phase concentration ratio of the precursors.",
+  "evidence": "We accomplished a synthesis of the two-component vanadium–chromium containing monolayer on the silica surface by treating the latter with a mixture of CrO2Cl2 and VOCl3 vapors. The calculations of equilibrium concentration fields... were performed for the temperature range 273–673 K... The forecast using the minimal model without taking into account the structural strains... showed that the reactivity of VOCl3 with respect to the active centers on the silica surface is much higher than that of CrO2Cl2. The results obtained using infrared Fourier spectroscopy confirm the agreement between the experimental data and the quantum-chemical predictions."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "2(SiOH) + HSiCl3 -> (SiO)2SiHCl + 2HCl",
+    "HSiCl3 + H2O -> (SiO)2SiOH + HCl"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of trichlorosilane (HSiCl3) with surface hydroxyl groups (SiOH) to form surface siloxane bonds and release hydrogen chloride (HCl). Subsequent hydrolysis with water vapors converts chloride-terminated groups into hydroxyl-terminated groups.",
+  "intermediate_species": [
+    "HSiCl3",
+    "SiO2SiHCl",
+    "SiO2SiOH"
+  ],
+  "evidence": "The text describes the reaction of trichlorosilane (HSiCl3) with surface hydroxyl groups (SiOH) to form surface siloxane bonds and release hydrogen chloride (HCl). It also details the hydrolysis of chloride-terminated groups into hydroxyl-terminated groups through reaction with water vapors."
+}

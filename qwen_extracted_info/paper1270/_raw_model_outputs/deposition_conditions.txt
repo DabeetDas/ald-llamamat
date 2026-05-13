@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "1.2 ± 0.1 Torr and 1.5 ± 0.1 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 15,
+  "number_of_cycles": 5,
+  "reactor_type": "hot wall reactor",
+  "evidence": "Bismuth(III)bis(2,2,6,6YtetramethylheptaneY3,5Ydionate) (Bi(thd) 3, from Gelest Inc.) and hydrogen sulfide (H 2S) (99.99% purity, from Asia advanced gas, Hong Kong) are the two metal and chalcogen precursors used here. Bi(thd) 3; a solid precursor; is heated to a temperature ca. 95°C inside a closed stainless steel container to produce sufficient vapor pressure. High purity nitrogen (N 2, 99.999% purity) gas is used as the carrier gas through the overhead assembly to carry the precursor into the reaction chamber during the process. Reactants are carried to the reaction chamber through differentially heated channels. The partial pressures of both the reactants inside the reaction chamber are kept constant as ca. 1.2 ± 0.1 Torr and 1.5 ± 0.1 Torr for Bi(thd) 3 and H 2S respectively throughout the deposition."
+}<|im_end|>

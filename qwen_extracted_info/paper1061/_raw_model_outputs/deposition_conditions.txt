@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "1",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "1",
+  "number_of_cycles": "118",
+  "reactor_type": "viscous flow reactor",
+  "evidence": "The ALD timing sequences can be expressed as t1–t2–t3–t4 where t1 is the exposure time for the first precursor, t2 is the purge time following the first exposure, t3 is the exposure time for the second precursor, t4 is the purge time following the exposure to the second precursor and all units are given in seconds (s). The timing sequence for Al2O3 ALD was 1 –5–1–5 s while the Pd ALD timing sequence was typically 1 –1–1–1s ."
+}<|im_end|>

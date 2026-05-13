@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "385-395",
+ "pressure": "300 Pa",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "ultraclean rf-heated, cold-wall low-pressure CVD system",
+ "evidence": "The deposition time sequence after the substrate was placed on the susceptor in the reactor is shown in Fig. 2. While heating the substrate, SiH4 gas is introduced into the reactor and then SiH4 molecules adsorbed at the surface are decomposed by Xe flash-lamp light shots (duration about 1 ms, 20 J/cm’). The lamp light shots were incident perpendicularly upon the substrate at shot-to-shot intervals of a few tens of seconds. Here, the moisture levels of Ar and SiH4 gases at the reactor inlet were 10 ppb or lower. The substrates used were 1.25 in.-diam p-type wafers of 2-20 fi cm with mirror-polished ( 100) and ( 111) surfaces. Before loading the substrates into the load-lock chamber, they were cleaned in several cycles in a 4: 1 solution of H2S04 and H2O2, high purity DI water, 2% HF with a final rinse in DI water. The deposited thickness was measured by Tencor Alpha step. The structure of the film surface was evaluated by electron diffraction."
+}

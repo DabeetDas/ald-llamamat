@@ -1,0 +1,12 @@
+{
+  "target_material": "BaTiO3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "barium bis(tris(tert-butyl)cyclopentadienyl) Ba(tBu3CpH2)2",
+    "titanium methoxide Ti(OMe)4",
+    "water H2O"
+  ],
+  "temperature_range": "300 ºC",
+  "summary": "BaTiO3 films were deposited onto 200 mm silicon wafers using ALD with barium bis(tris(tert-butyl)cyclopentadienyl), titanium methoxide, and water as precursors. The films showed good uniformity and stoichiometry, with the best results obtained using specific cycle ratios. The study demonstrated the scalability of the process to large wafers.",
+  "evidence": "BaTiO3 films were deposited onto 200 mm silicon wafers by Atomic Layer Deposition (ALD) from barium bis(tris(tert-butyl)cyclopentadienyl) Ba(tBu3CpH2)2, titanium methoxide Ti(OMe)4 and water H2O. The study showed that this process can be transferred from small experimental scale to large production scale wafers."
+}

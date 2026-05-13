@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100–300",
+  "pressure": "240 Pa",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 45,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall viscous flow reactor",
+  "evidence": "MnO ALD was performed at 100 –300 °C in a hot-wall viscous flow reactor ALD reactor using Mn(CpEt)2 and H2O. Argon (Airgas, 99.998%) was utilized as the carrier gas and employed at 150 sccm. A reactor pressure of 240 Pa was maintained at this argon gas flow using a two-stage rotary vane mechanical pump with a pumping speed of 3.2 L/s."
+}<|im_end|>

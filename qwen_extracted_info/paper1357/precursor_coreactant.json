@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "[Hf{η2-(iPrN)2CNEtMe}(NEtMe)3]"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The text states: 'precursor (1), [Hf{η2-(iPrN)2CNEtMe}(NEtMe)3], was fed to the reactor from stainless steel cartridges. The plasma power was adjusted to 200 W, whereas oxygen (AirLiquide, 99.995%) and argon (AirLiquide, 99.995%) gas flows were adjusted to 15 sccm for all depositions.'"
+}

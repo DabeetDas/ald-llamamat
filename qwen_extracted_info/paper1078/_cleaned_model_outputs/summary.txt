@@ -1,0 +1,8 @@
+{
+  "target_material": "Titania (TiO2)",
+  "process_type": "Hydrothermal treatment (post-ALD)",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "80 °C (ALD), 120 °C (hydrothermal treatment)",
+  "summary": "The study describes a two-stage process for producing crystalline titania thin films at low temperatures compatible with polymer substrates. The first stage involves atomic layer deposition (ALD) of amorphous titania at 80 °C using TiCl4 and H2O as precursors. The second stage involves hydrothermal treatment at 120 °C for 1 to 10 days, which crystallizes the film into anatase. The crystallization process results in the formation of coarse-grained anatase and the expulsion of residual Cl, but also leads to voids and poor adhesion due to densification and pinholing.",
+  "evidence": "A two stage process (atomic layer deposition, followed by hydrothermal treatment) for producing crystalline titania thin films at temperatures compatible with polymeric substrates ( b 130 °C) has been assessed. Titania thin films were deposited at 80 °C using atomic layer deposition. They were extremely flat, uniform and almost entirely amorphous. They also contained relatively high levels of residual Cl from the precursor. After hydrothermal treatment at 120 °C for 1 day, N 50% of the film had crystallized. Crystallization was complete after 10 days of hydrothermal treatment. Crystallization of the film resulted in the formation of coarse grained anatase. Residual Cl was completely expelled from the film upon crystallization."
+}

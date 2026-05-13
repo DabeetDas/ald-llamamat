@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Area Selective ALD",
+  "main_precursors": [
+    "Titanium isopropoxide",
+    "Water"
+  ],
+  "temperature_range": "140°C",
+  "summary": "The study describes an area selective atomic layer deposition (ALD) process for top surface imaging (TSI) on chemically amplified polymer photoresist films. The process uses titanium isopropoxide and water as precursors to deposit titanium dioxide (TiO2) on reactive areas of the polymer film, which are selectively exposed to radiation. The ALD process is highly selective, allowing for the deposition of TiO2 only on the exposed regions of the polymer film, eliminating the need for a plasma descum etch. The deposited TiO2 serves as an etch barrier, enabling the transfer of patterns through the polymer film via plasma etching.",
+  "evidence": "Deposition of TiO2 was conducted in an ALD reactor... Titanium isopropoxide, volatilized at 82°C, was used as the metal precursor, and deionized water maintained at room temperature was used as the oxygen source for titania deposition by ALD. ... The ALD precursor pulse and purge sequence times for all the depositions was fixed at 2 s (TiIP)-25 s (N2)-2 s (H2O)-60 s (N2). ... The absence of hydroxyl sites on the unexposed regions of the polymer film prevents TiO2 from nucleating in these areas. Active OH sites generated in exposed regions lead to nucleation and growth of a thin, conformal titania film on the polymer surface."
+}

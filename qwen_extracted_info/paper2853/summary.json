@@ -1,0 +1,11 @@
+{
+  "target_material": "TiN",
+  "process_type": "ALD",
+  "main_precursors": [
+    "TiCl4",
+    "NH3"
+  ],
+  "temperature_range": "450 ◦C",
+  "summary": "TiN films were deposited by ALD using TiCl4 and NH3 at 450 ◦C. The films exhibited low chlorine content, low resistivity, and good crystallinity, making them suitable as diffusion barriers for Cu metallization. The study evaluated the barrier properties through etch-pit tests and found that the ALD TiN films provided effective diffusion barriers.",
+  "evidence": "The TiN films were deposited on Si(100) substrates at 450 ◦C using the reactant gases TiCl4 and NH3. The chlorine content in the films was below the detection limit of Auger electron spectroscopy ( < 0.5 at.%) due to the complete surface reaction by self-limiting reaction in ALD method. This low Cl content in film induced a low film resistivity of 120 µ/Omega1cm. The barrier properties of this ALD films were tested by the etch-pit method. The result showed a retardation of the interdiffusion between Cu and Si in samples annealed for one hour at temperatures up to 450 ◦C."
+}

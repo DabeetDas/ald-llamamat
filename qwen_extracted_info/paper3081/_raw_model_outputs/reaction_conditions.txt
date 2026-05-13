@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The removal of substrate surface hydroxyl groups achieved by the hydrogen plasma pretreatments is favorable for the initial Cu nucleation, which results in higher nucleation density, a smoother surface, and lower resistivity.",
+  "intermediate_species": ["hydroxyl groups", "O atoms", "protonated acac ligand"],
+  "evidence": "During the adsorption of the Cu precursor, hydroxyl groups may lose their hydrogen atoms to the liberated Cu precursor acetylacetonate ligand, and as a result the remaining O atoms can react with the adsorbed Cu precursor. The Cu precursor can adsorb on the H-terminated Ru surface, liberating a protonated acac ligand, and form a direct bond with the Ru surface."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 450,
+  "pressure": "5.3 hundred Pa (hPa)",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "SUNALETMRp100",
+  "evidence": "The temperature in ALD chamber was controlled at 450 °C and the pressure was controlled at 5.3 hundred Pa (hPa)."
+}

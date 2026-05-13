@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth of ZnS thin films via atomic layer epitaxy (ALE) involves the reaction between dimethylzinc (DMZ) and hydrogen sulphide (H2S) to form ZnS. The unreacted components are removed by flushing the reaction chamber with nitrogen gas. When the substrate is exposed to DMZ vapour, these molecules are chemisorbed onto the substrate. A pulse of H2S is then injected, following a nitrogen purge, which leads to the formation of ZnS on the substrate.",
+  "intermediate_species": ["DMZ vapour", "H2S pulse"],
+  "evidence": "The third method of deposition used was atmospheric pressure atomic layer epitaxy. Use is made of the reaction between the two gaseous reactants, DMZ and H2S, to give ZnS; the unreacted components are removed by flushing the reaction chamber with nitrogen gas. When the substrate is exposed to the DMZ vapour, these molecules are chemisorbed onto the substrate. A pulse of H2S is then injected, following a nitrogen purge, which leads to the formation of ZnS on the substrate."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnSe",
+  "process_type": "OMVPE",
+  "main_precursors": ["H2Se", "ZnEt2"],
+  "temperature_range": "250 to 450 ~ C",
+  "summary": "The study evaluates Zn{N[Si(CH3)3]2}2 as a p-type dopant in OMVPE growth of ZnSe. The compound was synthesized and tested as a source of selenium-site selective nitrogen. The results indicate that nitrogen incorporation occurs, although challenges remain in achieving significant electrically active nitrogen levels. The compound was used to grow ZnSe in the temperature range of 300-450 ~ C with H2Se.",
+  "evidence": "We have grown nominally undoped ZnSe on GaAs from the precursors H2Se and Et2Zn. Replacement of Et2Zn by Zn[N(TMS)2]2 produced crystalline ZnSe of a lesser quality. Data indicate incorporation of nitrogen into the films when Et2Zn is utilized as the main zinc source with Zn[N(TMS)2]2 being introduced at dopant levels. The compound Zn{N[Si(CH3)3]2}2 has been synthesized and evaluated as a potential p-type dopant source for ZnSe. It was shown that this compound could be used to grow ZnSe in the presence of H2Se in the temperature range of 300-450 ~ C."
+}

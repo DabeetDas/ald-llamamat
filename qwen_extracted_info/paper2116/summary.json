@@ -1,0 +1,11 @@
+{
+  "target_material": "TiN",
+  "process_type": "PA-ALD",
+  "main_precursors": [
+    "TiCl4",
+    "H2–N2"
+  ],
+  "temperature_range": "100–400 °C",
+  "summary": "The study investigates the growth of ultrathin TiN films using plasma-assisted atomic layer deposition (PA-ALD) and in situ spectroscopic ellipsometry. The process involves TiCl4 precursor dosing and H2–N2 plasma exposure. The films are deposited on thermal oxide-covered c-Si substrates, and the effects of deposition temperature on film properties such as resistivity, electron mean free path, and impurity content are analyzed. The study also examines nucleation behavior and interface layer formation during PA-ALD.",
+  "evidence": "The growth of ultrathin TiN films by plasma-assisted atomic layer deposition was studied by in situ spectroscopic ellipsometry. The process consists of TiCl4 precursor dosing and H2–N2 plasma exposure. The study also examines nucleation behavior and interface layer formation during PA-ALD."
+}

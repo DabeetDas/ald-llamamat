@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "1 and 10 mbar",
+  "precursor_pulse_time_s": 400,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 3,
+  "number_of_cycles": "500, 1000, 1500 and 2000",
+  "reactor_type": "Beneq TFS 200 ALD reactor",
+  "evidence": "The reactor and chamber of the ALD system are evacuated to a minimum pressure of 1 and 10 mbar before starting the deposition. The reactor and chamber are heated to 300 °C and allowed to stay for 30 min to stabilize the temperature. The pulse and purge times for TiCl4 are respectively 400 ms and 3 s, whereas the pulse and purge times for H2S are respectively 1 s and 3 s. The deposition is carried out for 500, 1000, 1500 and 2000 cycles at 300 °C."
+}

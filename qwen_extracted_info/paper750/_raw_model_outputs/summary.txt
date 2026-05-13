@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["tetrakis(dimethylamido)hafnium (TDMAHf)", "water"],
+  "temperature_range": "100°C to 350°C",
+  "summary": "This study investigates the Atomic Layer Deposition (ALD) of HfO2 thin films using tetrakis(dimethylamido)hafnium (TDMAHf) and water as precursors at temperatures ranging from 100°C to 350°C. The research focuses on the correlation between layer growth rate, thickness uniformity, stoichiometry, and hydrogen impurity levels. The optimal self-limiting ALD reaction and minimal hydrogen impurity level were achieved at 300°C. The study also examines the crystallinity and surface morphology of the films as a function of growth temperature.",
+  "evidence": "Hafnium oxide was deposited from tetrakis(dimethylamido)hafnium (TDMAHf) and water by atomic layer deposition (ALD) on heated 4′′ Si wafers covered with native oxide in the temperature range from 100◦C to 350◦C. Optimized self-limiting ALD reaction and smallest hydrogen impurity level have been realized for a substrate temperature of 300 ◦C. The stoichiometry of deposited films and hydrogen impurity level were measured by elastic recoil detection analysis. The hafnium to oxygen ratio showed the expected 1:2 value. Furthermore, a strong correlation between the growth rate per cycle (GPC), film uniformity and level of hydrogen impurities was observed."
+}<|im_end|>

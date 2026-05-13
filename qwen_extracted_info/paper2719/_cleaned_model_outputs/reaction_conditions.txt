@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Sn(dmamp)2 and TTIP on the heterogeneous reaction surface, followed by the reaction with H2O. The Sn(dmamp)2 precursor is adsorbed on the TiOx surface, and the TTIP precursor is adsorbed on the SnOx surface. The reaction with H2O leads to the formation of SnOx and TiO2, and the growth of STO films through the correlation between the subcycle repetitions of each constituent material.",
+  "intermediate_species": ["SnOx", "TiO2", "Sn(dmamp)2", "TTIP"],
+  "evidence": "The text describes the adsorption of Sn(dmamp)2 and TTIP on the heterogeneous reaction surface, and the reaction with H2O. It also mentions the correlation between the subcycle repetitions of each constituent material, indicating the formation of SnOx and TiO2 as intermediate species during the ALD process."
+}

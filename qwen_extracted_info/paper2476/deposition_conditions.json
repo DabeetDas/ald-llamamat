@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350-400",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "120",
+  "reactor_type": "PulsarTM 2000",
+  "evidence": "The WCN and TiN barrier films were deposited with a clustered PulsarTM 2000 tool manufactured by ASM Microchemistry Ltd."
+}

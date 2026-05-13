@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "Field emission scanning electron microscopy (SEM)",
+    "Variable angle spectroscopic ellipsometer",
+    "High-resolution transmission electron microscopy (HRTEM)",
+    "Optical waveguide spectroscopy (OWS)",
+    "Fresnel calculation"
+  ],
+  "evidence": "Field emission scanning electron microscopy (SEM) (JEOL-6700F) was used to characterize morphology of the AAO films on the substrate before and after TiO2 ALD. The growth rate was measured using a variable angle spectroscopic ellipsometer (J. A. Woollam Company) and further confirmed by high-resolution transmission electron microscopy (HRTEM) (Philips CM300 FEGTEM). The sample was refractive-index-matched to a LaSFN9 triangular prism to form an optically continuous medium for optical waveguide spectroscopy (OWS) measurement in the Kretschmann coupling scheme. Fresnel calculations were carried out using the WINSPALL software (version 2.0) developed by the Max Planck Institute for Polymer Research in Mainz, Germany."
+}

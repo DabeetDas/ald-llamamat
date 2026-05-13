@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "205-400",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 0.4,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 0.5,
+  "number_of_cycles": 750,
+  "reactor_type": "F120 ALD reactor",
+  "evidence": "The films were grown in a hot-wall horizontal flow-type F120 ALD reactor. The substrate temperature was varied in the range of 205 – 400 -C. The pressure in the reactor was about 10 mbar. The metal precursor pulse time was held constant at 0.4 s, unless specified otherwise, while the water pulse duration was 0.5 s. Constant purge times of 0.5 s were used after each precursor pulse."
+}

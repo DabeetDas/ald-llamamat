@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "XPS",
+    "TEM",
+    "Ellipsometry",
+    "TGA",
+    "NMR",
+    "SIMS",
+    "C-V measurement"
+  ],
+  "evidence": "The composition analysis was performed using XPS. The film thickness and refractive index were measured by ellipsometry. The film thickness and step coverage were examined by cross-sectional transmission electron microscopy (TEM). The thermal gravimetric analysis (TGA) is also helpful in characterizing the volatilities of precursors. The charge trap density was measured using capacitance-voltage (C-V) measurements."
+}

@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectivity (XRR)",
+    "Grazing Incidence X-ray Diffraction (GIXRD)",
+    "Spectroscopic Ellipsometer (SE)",
+    "Atomic Force Microscopy (AFM)",
+    "Four-point probe",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Auger Electron Spectroscopy (AES)",
+    "Transmission Electron Microscopy (TEM)",
+    "Scanning Electron Microscopy (SEM)",
+    "Selected Area Electron Diffraction (SAED)"
+  ],
+  "evidence": "Film morphology, density, thickness, and interfacial roughness were investigated via x-ray reflectivity (XRR) and grazing incidence x-ray diffraction (GIXRD) using a Rigaku Ultima IV with Cu Kα radiation (λ = 1.5406 Å). RuO2 film thickness was measured using a J.A. Woollam M2000 spectroscopic ellipsometer (SE) in the range of 400 -1000 nm. Surface roughness was measured via atomic force microscopy (AFM) using an Asylum Research MFP-3D in tapping mode with a 1 Hz scan rate. Resistivity was measured via four-point probe. Compositional analysis was performed using a combination of XPS and AES via a PHI VersaProbe II with excitation from monochromatic Al Kα x-ray radiation (hν =1486.6 eV), 15 keV x-ray beam voltage, and sputtered with 2 keV argon ions. The GIXRD confirmed a polycrystalline hexagonal microstructure with no preferred orientation for 8 nm thick Ru film deposited at 320°C. AFM measurement of the same film showed 0.6 nm RMS surface roughness. The analysis of a 20 nm thick RuO2 film deposited at 240°C was performed using XPS and AES."
+}

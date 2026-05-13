@@ -1,0 +1,9 @@
+{
+  "characterization_methods": [
+    "Photoluminescence (PL)",
+    "Electroluminescence (EL)",
+    "Current versus voltage (I-V) curve",
+    "Optical power versus injection current (L-I) curves"
+  ],
+  "evidence": "The temperature dependence of photoluminescence (PL) from these surfaces. Figure 4 shows the PL intensities as a function of temperature for both types of samples. Note that these samples had no metal gate electrodes. With the SiO2 sample, the PL intensity decreased rapidly when the temperature rose from 10 to 300 K, as a result of thermal activation of nonradiative recombination. The PL intensity of the Al2O3 sample, on the contrary, increased as the temperature rose from 10 to 110 K, and then decreased slowly with increasing temperature above 110 K. The PL intensity of the Al2O3 sample was greater than that of the SiO2 sample at temperatures above 60 K. The PL spectra of the Al2O3 sample at 10, 15, and 20 K, respectively. The PL spectra of the SiO2 sample at 10, 50, and 100 K are also shown in Fig. 6 for comparison. The room-temperature EL spectrum of the silicon MIS LED with a 5 nm Al2O3 layer as the gate dielectric. The room-temperature L-I curves of the silicon MIS LEDs with ALD Al2O3 or thermal SiO2 as the gate dielectric."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "alumina",
+  "process_type": "atomic layer deposition",
+  "main_precursors": [
+    "trimethyl aluminum",
+    "ozone"
+  ],
+  "temperature_range": "220 °C",
+  "summary": "The study investigates the use of atomic layer deposition (ALD) to deposit alumina as a tunnel dielectric for electrochemiluminescence (ECL) applications. The process uses trimethyl aluminum and ozone as precursors at 220 °C. The ALD alumina films are compared with other dielectrics such as thermal silicon dioxide, LPCVD silicon nitride, and PECVD silicon dioxide for their performance in ECL. The results show that ALD alumina provides high-quality, pinhole-free films suitable for ECL applications.",
+  "evidence": "Aluminum oxide was grown by atomic layer deposition in a Beneq TFS-500 reactor at 220 °C temperature and approximately 5 mbar (500 Pa) pressure, using trimethyl aluminum and ozone as precursors. Ultimately thin ALD films e.g. hafnium oxide have been extensively researched for high- κ dielectric applications."
+}

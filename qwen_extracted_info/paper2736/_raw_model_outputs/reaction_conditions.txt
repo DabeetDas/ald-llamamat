@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "ND3 + Si(100) -> ND2 + D",
+    "TMAA + ND2 -> AlN + HD",
+    "AlHxNDy -> AlN + ND2",
+    "ND3 + AlHxNDy -> AlN + ND2"
+  ],
+  "surface_mechanism_description": "The ALD process involves alternating exposures of ND3 and TMAA on Si(100). ND3 adsorbs at 675 K, generating ND2 species. TMAA is then exposed at 380 K, leading to the formation of AlN through bridge bonding of Al between two nitrogen centers and desorption of HD. Further ND3 exposure at 675 K decomposes AlHxNDy to form AlN and ND2. The self-limiting adsorption and site-selective processes ensure layer-by-layer growth.",
+  "intermediate_species": [
+    "ND2",
+    "AlHxNDy",
+    "HD"
+  ],
+  "evidence": "The surface mechanism and reaction equations are described in the text: '...the adsorption of ND3 on Si(100) at 675 K which generates ND2 species on the surface. Then TMAA is exposed to the ND3-derivatized surface at 380 K. ...AlN was formed by the bridge bonding of Al between two nitrogen centers and desorption of HD. ...the formation of AlN ...by decomposition of AlHxNDy to AlN and ...the formation of ND2 species bonded to surface Al. ...the second exposure produced AlN and AlHxNDy. The mechanisms are consistent with the expected D2 and HD desorption during temperature programmed desorption after each exposure cycle.'"
+}<|im_end|>

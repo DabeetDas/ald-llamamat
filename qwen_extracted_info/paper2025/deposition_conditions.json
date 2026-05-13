@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350-400",
+  "pressure": "400 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 500,
+  "number_of_cycles": null,
+  "reactor_type": "head-injector-type",
+  "evidence": "Al2O3 films were deposited on p-type Si (100) substrates between 350 and 400 °C in a head-injector-type ALD system with a vertical high vacuum reactor chamber fitted with an appropriate valve box, a gas distributor and a resistively heated suscepter, details of which have been reported elsewhere. TMA and ozone or H2O were used as the sources of Al and O, respectively. TMA was evaporated from an open boat held inside the reactor and pulsed onto the substrate by means of inert gas (Ar) valving. The deposition pressure was maintained at 400 mTorr. TMA and O3 flow rates were 50 and 300 sccm, respectively. While the purge Ar flow rate was 500 sccm."
+}

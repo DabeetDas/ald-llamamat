@@ -1,0 +1,8 @@
+{
+  "target_material": "Indium oxide (IO) and indium tin oxide (ITO)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Trimethylindium (TMI)", "Tetrakis(dimethylamino)tin(IV) (TDMASn)", "Ozone (O3)"],
+  "temperature_range": "100–200 °C",
+  "summary": "This study investigates the atomic layer deposition (ALD) of ultrathin indium oxide (IO) and indium tin oxide (ITO) films using trimethylindium, tetrakis(dimethylamino)tin, and ozone as precursors. The goal is to optimize the process for enhancing the electrical properties of spacecraft thermal radiator coatings. The study reports the growth per cycle, resistivity, and optical properties of the films, with a focus on achieving low resistivity and high transparency. The process is found to be effective for producing uniform, thin films with controlled doping levels for ITO.",
+  "evidence": "Indium oxide (IO) and indium tin oxide (ITO) are widely used in optoelectronics applications as a high quality transparent conducting oxide layer. A potential application of these coatings is for enhancing the electrical properties of spacecraft thermal radiator coatings. Trimethylindium and ozone were used as precursors for IO, while a tetrakis(dimethylamino)tin(IV) source was used for Sn doping to produce ITO. As-deposited IO films prepared at 140 °C resulted in a growth per cycle of 0.46 Å/cycle and film resistivity as low as 1.4 × 10⁻³ Ω cm. For the case of ITO thin films, an ALD process supercycle consisting of 1 Sn + 19 In cycles is shown to provide the optimum level of Sn doping corresponding to 10 wt. % widely reported in the literature."
+}

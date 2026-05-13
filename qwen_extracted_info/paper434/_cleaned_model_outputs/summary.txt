@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "ALE",
+  "main_precursors": ["ZrCl4", "water"],
+  "temperature_range": "500°C",
+  "summary": "ZrO2 thin films were deposited using atomic layer epitaxy (ALE) with ZrCl4 and water as precursors at 500°C. The study focused on the growth mechanisms, film properties, and challenges such as long pulse and purge times needed for self-controlled growth. The films were characterized for thickness, uniformity, and crystallinity.",
+  "evidence": "ZrO2 thin films were grown by the atomic layer epitaxy (ALE) technique using ZrCl4 and water as reactants. At 500°C amorphous films with good thickness uniformities were deposited onto soda lime glass substrates. The characteristic feature of the atomic layer epitaxy (ALE) technique is the alternate dosing of the reactants which avoids the gas-phase reactions."
+}

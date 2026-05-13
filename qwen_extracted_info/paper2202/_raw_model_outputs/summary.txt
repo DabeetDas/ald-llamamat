@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "open air ALD",
+  "main_precursors": ["trimethylaluminum", "water", "oxygen", "NH3", "diethylzinc"],
+  "temperature_range": "below 200 °C",
+  "summary": "The study describes the deposition of ZnO thin film transistors using an open air atomic layer deposition (ALD) system. The process involves spatial ALD with a fast deposition method, allowing for high throughput and stable, high-performance devices. The ZnO layers are deposited at temperatures below 200 °C, and the devices show excellent mobility and stability, with improved bias stability when passivated with an alumina layer.",
+  "evidence": "We report stable, high performance zinc oxide thin film transistors grown by an atmospheric pressure atomic layer deposition system. With all deposition and processing steps kept at or below 200 °C, the alumina gate dielectric shows low leakage and high breakdown fields. Zinc oxide thin film transistors in a bottom gate geometry yield on/off ratios above 10^8, near zero turn-on voltage, little or no hysteresis, and mobility greater than 10 cm^2 / V s. With alumina passivation, shifts in threshold voltage under gate bias stress compare favorably to those reported in the literature."
+}<|im_end|>

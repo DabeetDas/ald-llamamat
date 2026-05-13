@@ -1,0 +1,22 @@
+{
+  "reaction_equations": [
+    "Al(OH)* þ Al(CH3)3(g) ! AlOxAl(CH3)3/C0 x* þ xC H4(g),",
+    "AlOxAl(CH3)3/C0 x*þ(3 /C0 x) H2O(g) ! AlOxAl(OH)3/C0 x þ (3 /C0 x) CH4(g),",
+    "(2x /C0 3) AlOH* $ (x /C0 1:5) AlOAl*þ(x /C0 1:5) H2O(g),",
+    "AlF3jxHF* þ Al(CH3)3(g) ! AlF3jAlFx(CH3)3/C0 x*þxC H4(g),",
+    "AlF3jAlFx(CH3)3/C0 x* þ 3 HF(g)! AlF3jAlF3jxHF* þ (3 /C0 x) CH4(g)"
+  ],
+  "surface_mechanism_description": "Growth by the HF exchange method is based on the thermodynamically favorable HF reaction with Al2O3. Fluorine is incorporated into the Al2O3 layer by an O to F exchange. Based on the QCM mass changes, the HF exchange reaction was dependent on HF pressure. The stoichiometry of the AlOxFy films was determined by the HF pressure and the thickness of the underlying Al2O3 layer prior to HF exposure. The growth of AlOxFy films by the nanolaminate method is based on the sequential deposition of a number of cycles for Al2O3 ALD and then a number of cycles for AlF3 ALD. AlF3 ALD growth on the Al2O3 layer displayed evidence of a significant O to F exchange during the first HF exposure. In contrast, Al2O3 ALD growth on the AlF3 layer displayed only slight evidence of an F to O exchange during the first H2O exposure. This difference in exchange is expected based on the thermochemistry of fluorination of Al2O3. The stoichiometry of the AlOxFy films was dependent on the ratio of the number of Al2O3 ALD cycles and the number of AlF3 ALD cycles during AlOxFy growth.",
+  "intermediate_species": [
+    "Al(OH)*",
+    "Al(CH3)3",
+    "AlOxAl(CH3)3/C0 x*",
+    "AlOxAl(OH)3/C0 x",
+    "AlOH*",
+    "AlOAl*",
+    "AlF3jxHF*",
+    "AlFx(CH3)3/C0 x*",
+    "AlF3jAlF3jxHF*"
+  ],
+  "evidence": "The reactions during AlF3 ALD can be written as follows: 37 AlF3jxHF* þ Al(CH3)3(g) ! AlF3jAlFx(CH3)3/C0 x*þxC H4(g), (4) AlF3jAlFx(CH3)3/C0 x* þ 3 HF(g)! AlF3jAlF3jxHF* þ (3 /C0 x) CH4(g): (5). In Eq. (4) , HF is adsorbed on the AlF3 surface and reacts with TMA to produce AlFx(CH3)3 − x species. The AlFx(CH3)3 − x species then react with HF to produce AlF3 as given in Eq. (5)."
+}

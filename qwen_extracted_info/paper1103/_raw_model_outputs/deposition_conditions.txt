@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "25 – 160",
+ "pressure": "2 Torr",
+ "precursor_pulse_time_s": 15,
+ "coreactant_pulse_time_s": 10,
+ "purge_time_s": 10,
+ "number_of_cycles": 200,
+ "reactor_type": "FRI (Flow-rate interruption)",
+ "evidence": "The pulse durations of water, 15 ms, and DEZn, 10 ms, precursors were the same for both growth modes; the stock time was 3 s for both water and DEZn in the stock mode. All other conditions for both modes and precursors were the same. The purge and pumping periods were 10 s and 6 s respectively; the purge gas was N2 and the pressure was set to 2 Torr. All samples were obtained with growth during 200 ALD cycles"
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "custom ALD reactor",
+  "evidence": "Platinum ALD was accomplished using alternating exposures to MeCpPtMe3 and 400 sccm of ultrahigh purity (99.995% pure) oxygen at 300 °C using 360 sccm of ultrahigh purity (99.995% pure) nitrogen carrier gas at a steady state pressure of ∼1 Torr. Each Pt ALD cycle consisted of a 10 s exposure to MeCpPtMe3, a 5 s N2 purge period, a 5 s exposure to O2, and a final 5 s N2 purge period."
+}<|im_end|>

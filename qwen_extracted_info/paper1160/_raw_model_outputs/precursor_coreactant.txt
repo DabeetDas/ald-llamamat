@@ -1,0 +1,7 @@
+{
+  "precursors": ["Octamethylcyclotetrasiloxane (OMCTS)"],
+  "coreactants": ["O2", "Ar", "H2 plasmas"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The OMCTS precursor possesses a Si–O backbone with two methyl groups bonded to each silicon. The SiOC RPALD recipe consisted of four steps: (1) OMCTS precursor injection into the chamber, (2) Ar purging to remove residues and by-products, (3) O2, Ar, and H2 plasma, (4) Ar purging to remove residues and by-products. An OMCTS {[(CH3)2SiO]4} canister was heated to 40 °C to yield a suitable vapor pressure for the ALD process (2 Torr at 40 °C). The plasma gas flow rate was 50 sccm and Ar was used as the carrier gas."
+}<|im_end|>

@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the passivation of surface trap states through the deposition of ZrO2 via atomic layer deposition (ALD), which reduces recombination losses at the TiO2/spiro-OMeTAD interface. The mechanism is associated with the suppression of surface recombination sites and the formation of a barrier between electron and hole transport media.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "ZrO2 layer"
+  ],
+  "evidence": "The text discusses the passivation of surface trap states through the deposition of ZrO2 via ALD, which reduces recombination losses at the TiO2/spiro-OMeTAD interface. It also mentions the suppression of surface recombination sites and the formation of a barrier between electron and hole transport media. The mechanism is linked to the reduction of low-frequency inductive behavior and the enhancement of power conversion efficiencies."
+}

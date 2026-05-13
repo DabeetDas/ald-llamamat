@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.35,
+  "coreactant_pulse_time_s": 0.025,
+  "purge_time_s": 50,
+  "number_of_cycles": null,
+  "reactor_type": "commercial ALD system",
+  "evidence": "One deposition cycle consisted of Hf(DEA) 4 exposure for 0.35 s, N 2 purging for 50 s, H 2O exposure for 0.025 s and then purging for 150 s."
+}

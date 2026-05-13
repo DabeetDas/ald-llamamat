@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ce(thd)3", "Gd(thd)3"],
+  "coreactants": ["Ozone"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Film deposition was studied in a commercial flow type F-120 ALD reactor (ASM Micro-chemistry, Finland) using nitrogen as a carrier and purging gas. All ALD depositions were performed using ~-diketonate-type precursors, viz. Ce(thd)3 and Gd(thd)3, synthesized by previously reported methods. Ozone generated from oxygen gas (99,999%) in an ozone generator (Fischer model 502) was used as oxygen source."
+}

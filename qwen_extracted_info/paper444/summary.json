@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnSe and CdSe",
+  "process_type": "CVD-like ALE",
+  "main_precursors": [
+    "DMZn",
+    "DMCd",
+    "H2Se"
+  ],
+  "temperature_range": "175-275°C for ZnSe, 120-380°C for CdSe",
+  "summary": "The study investigates the surface reaction mechanism in MOMBE-ALE of ZnSe and CdSe using a new in-situ optical probing method. It shows significant differences in the surface reaction mechanism between ZnSe and CdSe. For ZnSe, the reaction occurs when DMZn is supplied, leading to alternating Zn-terminated and H2Se-terminated surfaces. For CdSe, the reaction occurs when H2Se is supplied, leading to alternating Se-terminated and DMCd-terminated surfaces. The process is temperature-dependent, with the growth rate influenced by the sticking coefficient and desorption of precursors.",
+  "evidence": "The surface reaction mechanism in MOMBE-ALE of ZnSe and CdSe using DMZn, DMCd and H2Se as reactants has been studied with a newly developed optical in-situ monitoring method named surface photo-interference (SPI). It is shown that there is a quite significant difference in the surface reaction mechanism between the MOMBE-ALE of ZnSe and CdSe. That is, in the ALE of ZnSe when none of the source gases are pre-cracked, the reaction to form ZnSe can take place when the group-II source (i.e., DMZn) is supplied, resulting in an alternate appearance of Zn-terminated and H2Se-terminated surfaces during growth. On the other hand, the reaction to form CdSe can take place when a group-VI source (i.e., H2Se) is supplied, resulting in an alternate appearance of Se-terminated and DMCd-terminated surfaces during growth."
+}

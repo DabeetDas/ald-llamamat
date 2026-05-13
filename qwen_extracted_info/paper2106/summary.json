@@ -1,0 +1,11 @@
+{
+  "target_material": "Al 2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "water"
+  ],
+  "temperature_range": "100–175 °C",
+  "summary": "Al 2O3 atomic layer deposition (ALD) was used to create gas diffusion barriers on flexible polymer substrates such as polyethylene naphthalate (PEN) and Kapton®. The ALD process used trimethylaluminum (TMA) and water as precursors, and the films demonstrated excellent barrier properties against oxygen and water vapor, with transmission rates below the detection limits of standard instruments. The study highlights the effectiveness of Al 2O3 ALD for flexible electronics and organic displays.",
+  "evidence": "Al 2O3 ALD films with thicknesses of 1 – 26 nm were grown at 100– 175 ° C. Al 2O3 ALD films with thicknesses of 5, 10, and 26 nm achieved OTR values below the MOCON test limit on both PEN and Kapton® at all growth temperatures. Al 2O3 ALD was performed in a hot-wall ALD flow reactor using sequential, self-limiting exposures to trimethylaluminum (TMA) and water."
+}

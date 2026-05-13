@@ -1,0 +1,8 @@
+{
+  "target_material": "alumina",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["tris(diisopropylamino)aluminum (Al(DIA)3)"],
+  "temperature_range": "70 °C",
+  "summary": "The study presents the synthesis and characterization of tris(diisopropylamino)aluminum (Al(DIA)3) as a non-pyrophoric alternative to trimethylaluminum (TMA) for the atomic layer deposition (ALD) of alumina thin films. The ALD process was optimized with a precursor source temperature of 70 °C, resulting in a linear growth rate of 0.73 Å/cycle and amorphous films with RMS roughness of 5 Å.",
+  "evidence": "Ultimately, tris(diisopropyl)aluminum was successful in the atomic layer deposition of alumina thin films. Using these conditions the thickness versus number of cycles was linear from 100 Å to 220 Å with an incubation period of 13 Å before growth stabilized at 0.73 Å/cycle. The derived films were amorphous by PXRD and have abrupt, uniform surfaces with RMS roughnesses of 5 Å."
+}

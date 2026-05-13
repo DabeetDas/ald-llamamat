@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "165–200",
+  "pressure": "2 mbar",
+  "precursor_pulse_time_s": "6",
+  "coreactant_pulse_time_s": "2",
+  "purge_time_s": "1",
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "Thin ﬁlms were deposited in a commercial F-120 Sat reactor (ASM Microchemistry) using ozone and In(acac)3 (Aldrich, 99.99+%) as precursors. The adapted sublimation temperature of In(acac)3 was 146 °C. During the initial depositions, a quartz crystal microbalance (QCM) was used in order to assess the growth parameters. The pulsing scheme as given in Table 1 was applied. Pulsing/purging durations in seconds applied for the different precursor combinations. Metal pulse Purge Oxygen pulse Purge In(acac)3 +H 2O6 1 2 2"
+}

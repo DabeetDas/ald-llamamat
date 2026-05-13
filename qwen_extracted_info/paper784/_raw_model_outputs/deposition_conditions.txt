@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 15,
+  "number_of_cycles": null,
+  "reactor_type": "ALD reactor",
+  "evidence": "The coating of commercial (Applied Science PR-24-PS) tubular CNFs with a vanadium oxide layer was performed at 200 °C in an ALD reactor working in exposure mode. Vanadium n-propoxide and acetic acid were used as precursors. CNFs were pre-treated with concentrated HNO3 at 100 °C for 2 h. Metal precursor and acetic acid vapors were generated in external reservoirs pre-heated at 80 –90 °C and 40 °C, respectively. Pure nitrogen was utilized as carrier and purging gas (the residence and purging periods were 20 s and 15 s, respectively)."
+}<|im_end|>

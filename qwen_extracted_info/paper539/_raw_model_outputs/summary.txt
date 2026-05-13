@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["ZrI4", "H2O–H2O"],
+  "temperature_range": "272–325 °C",
+  "summary": "The study investigates the properties of zirconium oxide (ZrO2) films grown by atomic layer deposition (ALD) on p-Si (100) substrates using ZrI4 and H2O–H2O precursors. The effects of film thickness and growth temperature on the structure and dielectric properties of ZrO2 are examined. The growth starts with the formation of the cubic polymorph and continues with the formation of the tetragonal polymorph. The effective permittivity increases with film thickness, while the permittivity decreases with increasing growth temperature. The study also highlights the formation of an interfacial SiO2 layer and its impact on the dielectric behavior.",
+  "evidence": "ZrO films of thicknesses varied in the range of 3–30 nm were atomic layer deposited from ZrI4 and H2O–H2O on p-Si (100) substrates. The effects of film thickness and deposition temperature on the structure and dielectric properties of ZrO2 were investigated. At 272 and 325 °C, the growth of ZrO2 started with the formation of the cubic polymorph and continued with the formation of the tetragonal polymorph. The effective permittivity, determined from the accumulation capacitance of Hg–ZrO2–Si capacitors, increased with the film thickness, reaching 15–17 in 25-nm-thick films. The permittivity decreased with the increasing growth temperature. The hysteresis of the capacitance–voltage curves was the narrowest for the films deposited at 325 °C, and increased towards both lower and higher deposition temperatures."
+}<|im_end|>

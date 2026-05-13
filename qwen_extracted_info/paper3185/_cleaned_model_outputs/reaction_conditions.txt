@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The addition of N2 in the O3 generation results in passivation of the reactor walls by NO2 or NO3, which likely contribute in the ALD chemisorption reactions as they are strong oxidants. The reaction mechanism of O3-based HfO2 ALD is not identified, but the addition of N2 can result in a longer lifetime of O3 in the ALD reactor through passivation of the reactor walls by NO2 or NO3.",
+  "intermediate_species": ["NO2", "NO3"],
+  "evidence": "We have not identified the reaction mechanism of O3-based HfO2 ALD. The addition of N2 can result in a longer lifetime of O3 in the ALD reactor through passivation of the reactor walls by NO2 or NO3. NO2 and NO3 likely contribute in the ALD chemisorption reactions as they are strong oxidants."
+}

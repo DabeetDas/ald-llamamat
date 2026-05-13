@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Cp2Hf(CH3)2",
+    "water"
+  ],
+  "temperature_range": "300–500 uC",
+  "summary": "HfO2 thin films were deposited using cyclopentadienyl-type precursor Cp2Hf(CH3)2 and water as precursors at 300–500 uC. The study focused on optimizing processing parameters and confirming the ALD type growth mode at 350 uC, where a deposition rate of 0.42 A˚ cycle−1 was achieved. The films showed low impurity levels and good dielectric properties.",
+  "evidence": "HfO2 thin films have been deposited onto p-Si(100) substrates by atomic layer deposition (ALD) using Cp2Hf(CH3)2 (Cp 5 cyclopentadienyl) and water as precursors at 300–500 uC. Processing parameters were optimised and the ALD type growth mode corroborated at 350 uC where a deposition rate of 0.42 A˚ cycle−1 was obtained. The crystallinity, morphology and chemical composition of the deposited films were characterised."
+}

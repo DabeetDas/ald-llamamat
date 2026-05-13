@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "260-280",
+  "pressure": "1200",
+  "precursor_pulse_time_s": 1.5,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": 5,
+  "number_of_cycles": 1200,
+  "reactor_type": "plasma-assisted",
+  "evidence": "To investigate the effect of deposition temperature on the film growth, the substrate temperature varied from 160 to 320 oC with a step of 20 oC. Meanwhile, the pulse times of NiCp2 and NH3 plasma were also changed, and the flow rate of NH3 as well. The working pressure was ~1200 Pa during the film growth."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "0.5-1.5 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Pantheon™ single-wafer ALD system with a shower head configuration",
+  "evidence": "The Aviza Technology Pantheon™ single-wafer ALD system with a shower head configuration was used to deposit hafnium oxide and hafnium silicate thin films onto 200- or 300-mm-diam p-type Si(100) wafers."
+}

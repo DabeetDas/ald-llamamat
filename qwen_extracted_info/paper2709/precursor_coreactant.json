@@ -1,0 +1,33 @@
+{
+  "precursors": [
+    {
+      "name": "tetrakis(dimethylamino) tin(IV)",
+      "abbreviation": "DMA4Sn",
+      "evidence": "The precursor used for tin was tetrakis(dimethylamino) tin(IV) [DMA4Sn, ((CH3)2N)4Sn] (Pegasus), where the liquid was evaporated at 40 °C in a bubbler configuration using N2 as a carrier gas."
+    },
+    {
+      "name": "tris(dimethylamino) gallium(III)",
+      "abbreviation": "DMA3Ga",
+      "evidence": "The gallium precursor used was tris(dimethylamino) gallium(III) [DMA3Ga, ((CH3)2N)3Ga] (Aldrich, 98%), which was a solid sublimed from an open-boat source at 80 °C."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "water",
+      "evidence": "Deionized water was used as coreactant for both metal precursors."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "N2",
+      "evidence": "A flow of 500 sccm highly purified N2 (99.9999%) ensured a pressure of around 5 mbar in the reactor while providing an inert transport and purge gas."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "N2",
+      "evidence": "The precursor used for tin was tetrakis(dimethylamino) tin(IV) [DMA4Sn, ((CH3)2N)4Sn] (Pegasus), where the liquid was evaporated at 40 °C in a bubbler configuration using N2 as a carrier gas."
+    }
+  ],
+  "evidence": "The precursor used for tin was tetrakis(dimethylamino) tin(IV) [DMA4Sn, ((CH3)2N)4Sn] (Pegasus), where the liquid was evaporated at 40 °C in a bubbler configuration using N2 as a carrier gas. The gallium precursor used was tris(dimethylamino) gallium(III) [DMA3Ga, ((CH3)2N)3Ga] (Aldrich, 98%), which was a solid sublimed from an open-boat source at 80 °C. Deionized water was used as coreactant for both metal precursors. A flow of 500 sccm highly purified N2 (99.9999%) ensured a pressure of around 5 mbar in the reactor while providing an inert transport and purge gas."
+}

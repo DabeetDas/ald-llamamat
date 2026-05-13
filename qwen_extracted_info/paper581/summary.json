@@ -1,0 +1,11 @@
+{
+  "target_material": "cubic-GaN",
+  "process_type": "halogen transport ALE",
+  "main_precursors": [
+    "GaCl",
+    "NH3"
+  ],
+  "temperature_range": "400 8C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) of cubic-GaN on GaAs substrates using halogen transport ALE. The growth process is monitored in situ using gravimetric monitoring. It is found that one monolayer (ML) cycle growth of pure cubic-GaN is possible on a GaN buffer layer on GaAs substrates, while three-dimensional (3D) growth occurs directly on GaAs substrates, resulting in amorphous layers. The ALE window for 1 ML cycle growth is achieved on GaN buffer layer substrates, indicating layer-by-layer growth.",
+  "evidence": "It is found that one monolayer rcycle growth of a pure cubic-GaN is possible when the growth is performed at 400 8C on 25-nm-thick GaN buffer layerrGaAs 001 substrate. On the other hand, three-dimensional 3D growth occurs when the growth is performed directly on GaAs substrate, and crystallinity of the grown layer is amorphous. The ALE window where 1 ML rcycle growth of pure cubic-GaN can be possible was obtained when the growth was performed on GaN buffer layerrGaAs substrate."
+}

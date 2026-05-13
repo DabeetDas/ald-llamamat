@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "50-250",
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 60,
+  "number_of_cycles": null,
+  "reactor_type": "traveling wave type thermal ALD reactor (CN-1 Co.)",
+  "evidence": "The feeding times of BDIPADS and O3 achieving ALD mode with self-limited growth characteristics were determined to be 3 s and 20 s, respectively. The purging time following both BDIPADS and O3 exposures was maintained at 60 s, which is sufficient to avoid vapor reactions between the precursor and oxygen source."
+}

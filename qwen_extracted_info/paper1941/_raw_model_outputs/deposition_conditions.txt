@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "240-270",
+  "pressure": "150-200 Pa",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 50,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall flow-type ALE reactor",
+  "evidence": "The first purge time following the injection of the thd complex was chosen to be sufficiently long (2 5 s) in order to avoid intermixing of the source materials in the gas phase; the second purge, following H,O or H,S injection, was set even longer (50-200 s)."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "La2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["La(TMHD)3", "H2O"],
+  "temperature_range": "300 8C",
+  "summary": "La2O3 thin films were grown on TiN/Si substrates via atomic layer deposition using La(TMHD)3 and H2O as precursors. Post-annealing at temperatures between 400 and 500 8C improved the crystalline structure and electrical properties of the films, resulting in a higher dielectric constant and reduced leakage current density.",
+  "evidence": "The electrical as well as the structural properties of La2O3 thin films on TiN substrates were investigated. Amorphous stoichiometric La2O3 thin films were grown at 300 8C via atomic layer deposition technique by using lanthanum 2,2,6,6-tetramethyl-3,5-heptanedione [La(TMHD)3] and H2O as precursors. Post-annealing of the grown film induced dramatic changes in structural and the electrical properties. The dielectric constant of the La2O3 thin films increased with annealing temperature to reach the value of 17.3 at 500 8C. The leakage current density of the film post-annealed at 400 8C was estimated to be 2.78 /C210/C010 and 2.1 /C210/C08 A/cm2 at /C61V , respectively."
+}<|im_end|>

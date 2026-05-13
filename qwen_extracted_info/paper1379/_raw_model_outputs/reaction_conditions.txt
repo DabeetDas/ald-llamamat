@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of DMAMFc and ozone on the hematite surface, followed by surface reactions that lead to the formation of hematite. The process is limited by precursor dose and results in phase-pure hematite without high-temperature annealing.",
+  "intermediate_species": ["DMAMFc", "ozone", "Fe2O3"],
+  "evidence": "The surface reaction mechanism is described in the text as involving the adsorption of DMAMFc and ozone on the hematite surface, leading to the formation of hematite without high-temperature annealing. The process is limited by precursor dose and results in phase-pure hematite."
+}<|im_end|>

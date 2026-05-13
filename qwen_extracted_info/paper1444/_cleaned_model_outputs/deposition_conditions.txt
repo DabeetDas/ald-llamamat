@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "25 -250",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "200",
+  "reactor_type": "F-120",
+  "evidence": "The first cycle consisted of long exposures to TDEAHf (3  107 L) and water (6  107 L), followed by 200 shorter cycles of 2  104 L TDEAHf and 2  105 L water, respectively."
+}

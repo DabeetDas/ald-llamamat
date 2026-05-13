@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu/Pd alloy",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Cu(thd)2", "Pd(thd)2"],
+  "temperature_range": "443 K to 723 K for precursor deposition, 398 K to 623 K for reduction",
+  "summary": "The study describes the preparation of Cu/Pd bimetallic nanoparticle catalysts using atomic layer epitaxy (ALE) on SiO2 and γ-Al2O3 supports. The ALE process involves sequential deposition of copper and palladium precursors, followed by thermal treatment. EXAFS and TEM analyses reveal alloying behavior, with surface segregation observed on silica-supported samples and random alloying on alumina-supported samples. The process enables highly dispersed metal oxides and facilitates alloy formation, which can enhance catalytic properties.",
+  "evidence": "The ALE samples were prepared by sequential deposition of Cu(thd)2 and Pd(thd)2 at 443 K and 723 K, respectively. The reduction temperature ranged from 398 K to 623 K. EXAFS and TEM analyses showed alloying with surface segregation on silica and random alloying on alumina. The study highlights the formation of Cu/Pd alloys through ALE, which can improve catalytic performance."
+}<|im_end|>

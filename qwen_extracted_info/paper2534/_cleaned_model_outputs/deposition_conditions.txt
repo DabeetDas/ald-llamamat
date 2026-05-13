@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100–250",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 60,
+  "number_of_cycles": 200,
+  "reactor_type": "plug-ﬂow-type",
+  "evidence": "The TDMA T and H2O2 were introduced to the reactor from containers held at temperatures of 45 and 35 °C, respectively. One deposition cycle consisted of TDMA T exposure, argon purge, H2O2 exposure, and Ar purge. In order to find an ALD window, the pulse and purge lengths of TDMA T and H2O2 were varied from 0.1 to 60 s."
+}

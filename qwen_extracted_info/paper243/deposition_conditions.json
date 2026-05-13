@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "0.90 Torr",
+  "precursor_pulse_time_s": 200,
+  "coreactant_pulse_time_s": 200,
+  "purge_time_s": 50,
+  "number_of_cycles": 5,
+  "reactor_type": "viscous-flow",
+  "evidence": "The ALD of Pt was accomplished by using alternating exposures to MeCpPtMe3 and oxygen at a constant temperature (300 -C). During ALD, a constant flow (90 sccm) of ultrahigh-purity nitrogen (99.995%) carrier gas was passed through the reactor at a constant pressure (0.90 Torr). The reactant exposures lasted 200 s with partial pressures of 0.05 Torr for MeCpPtMe3 and 0.20 Torr for oxygen, and nitrogen purges of 50 s were used between each exposure."
+}

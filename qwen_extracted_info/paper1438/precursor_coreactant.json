@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Al(mmp)3 (mmp = 1-methoxy-2-methyl-2-propoxide)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Al(mmp)3 was dissolved in ethylcyclohexane (ECH) to obtain a 0.1 M precursor solution. Distilled water vapor was generated from an external reservoir at room temperature and led into the reaction chamber through solenoid valves without any carrier gas. The vaporizer temperature was kept at 200 °C. When the injector was turned on, about 0.014 mL (1.4 \u0002 10-6 mol/injection) of the precursor solution was injected and carried by an Ar gas (1000 sccm) to the reactor. A constant Ar gas (1600 sccm) purge of 5 s was used after each precursor pulse to remove volatile byproducts and any excess reactants in the reactor."
+}

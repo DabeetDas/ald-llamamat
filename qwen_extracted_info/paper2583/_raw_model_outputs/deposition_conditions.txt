@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100– 200",
+  "pressure": "atmospheric",
+  "precursor_pulse_time_s": "0.4",
+  "coreactant_pulse_time_s": "0.4",
+  "purge_time_s": "8",
+  "number_of_cycles": "500",
+  "reactor_type": "custom built warm wall reactor",
+  "evidence": "The purge and pulse times of the precursors were optimized for each process and a cycle of ALD consisted of 0.4 s DEZn or DMZn pulse, at least 8 s N2 purge, 0.4 s H2S or H2O pulse, and at least 8sN2 purge (see also Ref. 16).9,17"
+}<|im_end|>

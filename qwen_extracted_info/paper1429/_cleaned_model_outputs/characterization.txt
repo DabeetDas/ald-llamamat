@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Surface Profilometry",
+    "Atomic Force Microscopy (AFM)",
+    "Quartz Crystal Microbalance (QCM)",
+    "Spectroscopic Ellipsometry",
+    "X-ray Reflectivity (XRR)",
+    "Rutherford Backscattering Spectrometry (RBS)",
+    "Forward Recoil Spectrometry (FReS)",
+    "Electrical Measurements (Current-voltage and Capacitance-voltage)"
+  ],
+  "evidence": "Al2O3 film thicknesses, growth rates, densities, and optical properties were determined using surface profilometry, atomic force microscopy (AFM), QCM, and spectroscopic ellipsometry. AFM images showed that Al2O3 ALD films grown at low temperatures were very smooth with a root-mean-squared (RMS) roughness of only 4 ( 1 Å. Current-voltage and capacitance-voltage measurements showed good electrical properties of the low-temperature Al2O3 ALD films. Elemental analysis of the films using forward recoil spectrometry revealed hydrogen concentrations that increased with decreasing growth temperature. No other elements were observed by Rutherford backscattering spectrometry except the parent aluminum and oxygen concentrations. X-ray reflectivity (XRR) was performed with a Bede Scientific Ltd. D1 System... The density of the Al2O3 ALD films derived by fitting the XRR measurements decreased from 3.06 g/cm3 at 177 °C to 2.46 g/cm3 at 33 °C. Electrical measurements were performed using a MDC 811 mercury probe... Current-voltage (IV) measurements were obtained using a Keithley 487 picoammeter/voltage source. Capacitance-voltage (CV) measurements were performed using a Stanford Research Systems SR720 LCR meter."
+}

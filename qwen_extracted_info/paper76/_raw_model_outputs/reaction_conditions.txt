@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Al-OH* + Al(CH3)3 -> Al-O-Al(CH3)2 + CH4",
+    "Al-OH* + Al(CH3)3 -> Al-O-Al(CH3)2 + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "monomethyl aluminum",
+    "formate species"
+  ],
+  "evidence": "The first reagent B, which usually reacts with surface hydroxy groups, is then introduced to the surface (Figure 1 c). In the following step, the second reagent C is introduced to the surface to react with B and form new support surface for the next A exposure (Figure 1 d). Here the new support forms only on exposed support surfaces not on the protected metal nanoparticles. With sufficient inert gas purging between each precursor exposure, all weakly bound species are removed."
+}<|im_end|>

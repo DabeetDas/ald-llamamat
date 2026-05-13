@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "Si2H6 -> 2SiH3(s)",
+    "SiH3(s) + Ge(s) -> SiH2(s) + GeH(s)",
+    "GeH(s) -> Ge(s) + 1/2 H2(g)",
+    "SiH2(s) + SiH2(s) -> Si2H2(s) (monohydride dimer)",
+    "Si2H2(s) -> 2Si(b) + H2(g)"
+  ],
+  "surface_mechanism_description": "Dissociative chemisorption of disilane results in two SiH3 radicals bonded to adjacent Ge dangling bonds. SiH3 radicals react with Ge dangling bonds to form SiH2 and GeH. GeH desorbs as H2, and SiH2 can further decompose to SiH. SiH islands form upon annealing, and hydrogen desorption from SiH islands allows Si to diffuse into the Ge substrate.",
+  "intermediate_species": [
+    "SiH3",
+    "SiH2",
+    "GeH",
+    "SiH",
+    "Si2H2 (monohydride dimer)"
+  ],
+  "evidence": "The relevant reactions are summarized as follows: (1) Si2H6 -> 2SiH3(s); (2) SiH3(s) + Ge(s) -> SiH2(s) + GeH(s); (3) GeH(s) -> Ge(s) + 1/2 H2(g); (4) SiH2(s) + SiH2(s) -> Si2H2(s) (monohydride dimer); and (5) Si2H2(s) -> 2Si(b) + H2(g)."
+}<|im_end|>

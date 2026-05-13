@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "tetrakis(dimethylamido)hafnium(IV)",
+    "H2O vapor"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to grow high-κ HfO2 gate dielectrics for low-voltage pentacene organic field-effect transistors (OFETs). The process is performed at 200 °C, which is compatible with flexible organic substrates. The HfO2 films are modified with phosphonic acid to improve surface passivation and charge transport properties. The resulting devices exhibit high hole mobility, low threshold voltage, and excellent bias stress stability.",
+  "evidence": "HfO2 dielectric films were deposited at 200 °C by alternating exposures of the substrates to tetrakis(dimethylamido)hafnium(IV) and H2O vapor. The devices show excellent bias stress stability with or without the phosphonic acid at the HfO2 gate dielectric surface. The process type is thermal ALD, as the deposition temperature is 200 °C."
+}

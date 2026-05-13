@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "CoO + D2 -> Co + H2O",
+    "CoO + Al -> Co + Al2O3"
+  ],
+  "surface_mechanism_description": "The reduction of CoO to Co metal occurs via two low-temperature processes: deuterium atom reduction and the use of an Al metal layer as an oxygen scavenger. Deuterium atoms react with CoO to form Co metal and water, while Al reacts with CoO to form Co and Al2O3. These processes suppress dewetting and produce continuous, smooth Co metal films.",
+  "intermediate_species": [
+    "CoO",
+    "Al2O3",
+    "H2O",
+    "D atoms"
+  ],
+  "evidence": "The reduction of CoO to Co metal occurs via two low-temperature processes: deuterium atom reduction and the use of an Al metal layer as an oxygen scavenger. Deuterium atoms react with CoO to form Co metal and water, while Al reacts with CoO to form Co and Al2O3. These processes suppress dewetting and produce continuous, smooth Co metal films."
+}<|im_end|>

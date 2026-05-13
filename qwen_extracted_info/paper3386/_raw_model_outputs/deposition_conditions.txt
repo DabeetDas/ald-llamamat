@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 225,
+  "pressure": "5 millibars",
+  "precursor_pulse_time_s": 0.8,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "ASM F-120 Sat",
+  "evidence": "The aluminum oxide films were deposited with a Beneq TFS-500 reactor. The depositions including lithium were done in an ASM F-120 Sat reactor."
+}<|im_end|>

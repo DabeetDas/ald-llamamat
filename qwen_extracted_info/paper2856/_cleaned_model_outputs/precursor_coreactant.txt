@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMAT", "TDMAT (Tetrakis(dimethylamido)titanium)"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "TDMAT and NH3 were used as reactants and Ar gas was used as a carrier and purge gas."
+}

@@ -1,0 +1,10 @@
+{
+  "target_material": "HfO2",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "[Hf{η2-(iPrN)2CNEtMe}(NEtMe)3]"
+  ],
+  "temperature_range": "60 −240 °C",
+  "summary": "The study describes the development of a plasma-enhanced atomic layer deposition (PEALD) process for HfO2 using a new precursor, [Hf{η2-(iPrN)2CNEtMe}(NEtMe)3]. The process enables low-temperature deposition (as low as 60 °C) and exhibits typical ALD characteristics such as surface saturation and linear growth. The films show high stability against degradation when exposed to reactive gases like H2, O2, and H2O, and are used as dielectric layers in MIS capacitors with low leakage current densities and high permittivity. The process also demonstrates the use of near-ambient-pressure XPS (NAP-XPS) for in situ surface analysis.",
+  "evidence": "A bottom-up approach starting with the development of new Hf precursors for plasma-enhanced atomic layer deposition (PEALD) processes for HfO2 followed by in situ thin-film surface characterization of HfO2 upon exposure to reactive gases via near-ambient-pressure XPS (NAP-XPS) is reported. The stability of thin films under simulated operational conditions is assessed, and the successful implementation of HfO2 dielectric layers in metal−insulator−semiconductor (MIS) capacitors is demonstrated."
+}

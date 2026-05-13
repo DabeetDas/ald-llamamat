@@ -1,0 +1,8 @@
+{
+  "target_material": "NbSi",
+  "process_type": "ALD",
+  "main_precursors": ["NbF5", "Si2H6"],
+  "temperature_range": "150 /C0 400 /C176C",
+  "summary": "The study describes the atomic layer deposition (ALD) of niobium silicide (NbSi) films using NbF5 and Si2H6 as precursors. The ALD process was optimized to achieve a high growth rate and uniform films with a 1:1 stoichiometry. The films were found to be metallic and superconducting below 3.1 K. The study also highlights the importance of surface conditions and the effect of post-deposition annealing on the superconducting properties of the films.",
+  "evidence": "The study describes the atomic layer deposition (ALD) of niobium silicide (NbSi) films using NbF5 and Si2H6 as precursors. The ALD process was optimized to achieve a high growth rate and uniform films with a 1:1 stoichiometry. The films were found to be metallic and superconducting below 3.1 K. The study also highlights the importance of surface conditions and the effect of post-deposition annealing on the superconducting properties of the films."
+}

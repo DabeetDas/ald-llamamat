@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ti(OCH(CH3)2)4 + 2H2O -> TiO2 + 4CH(CH3)2OH"
+  ],
+  "surface_mechanism_description": "The reaction mechanism of TiO2 ALD on HDPE particles without chemical functional groups involves the nucleation period where the surface of HDPE particles, primarily composed of carbon and hydrogen, allows for the adsorption and diffusion of TTIP molecules. The incoming H2O2 reacts with TTIP molecules at or near the surface of the polymer particles, forming TiO2 clusters. These clusters provide a 'foothold' for the deposition of TiO2 films on the polymer. With progressive coating cycles, the pores on the particle surface become smaller and gradually close, leading to the formation of a continuous adhesion layer on the polymer particle surface.",
+  "intermediate_species": [
+    "Ti(OCH(CH3)2)4",
+    "Ti(OH)x/C138/C3",
+    "CH(CH3)2OH",
+    "TiO2 clusters with hydroxyl groups"
+  ],
+  "evidence": "The reaction mechanism of TiO2 ALD on HDPE particles without chemical functional groups involves the nucleation period where the surface of HDPE particles, primarily composed of carbon and hydrogen, allows for the adsorption and diffusion of TTIP molecules. The incoming H2O2 reacts with TTIP molecules at or near the surface of the polymer particles, forming TiO2 clusters. These clusters provide a 'foothold' for the deposition of TiO2 films on the polymer. With progressive coating cycles, the pores on the particle surface become smaller and gradually close, leading to the formation of a continuous adhesion layer on the polymer particle surface."
+}

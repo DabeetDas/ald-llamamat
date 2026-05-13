@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The formation of CuO films was achieved by using copper (II)-bis-(dimethylamino-2-propoxide) and ozone as precursors. The process was controlled by quartz crystal monitoring (QCM) and X-ray diffraction (XRD) to ensure the formation of the CuO phase instead of Cu2O. The surface reactions were influenced by the temperature and cycle times of the precursors, with the optimal conditions being a substrate temperature of 140°C and specific pulse durations for the metal precursor and oxidizer.",
+  "intermediate_species": [
+    "Cu(dmap)2",
+    "O3",
+    "CuO"
+  ],
+  "evidence": "The formation of CuO films was achieved by using copper (II)-bis-(dimethylamino-2-propoxide) and ozone as precursors. The process was controlled by quartz crystal monitoring (QCM) and X-ray diffraction (XRD) to ensure the formation of the CuO phase instead of Cu2O. The surface reactions were influenced by the temperature and cycle times of the precursors, with the optimal conditions being a substrate temperature of 140°C and specific pulse durations for the metal precursor and oxidizer."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": "2",
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "",
+  "evidence": "8 % O3/O2 was pulsed for 2 s to oxidize the chemisorbed metal precursor followed by 5 s N2 purge during ALD of all films."
+}

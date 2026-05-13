@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe and CdSe quantum wells",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["CdTe", "CdSe", "ZnSe", "ZnTe"],
+  "temperature_range": "260 to 290 °C",
+  "summary": "The study describes the growth of ultra-thin quantum wells (UTQWs) of CdTe and CdSe using Atomic Layer Epitaxy (ALE). The process involves the deposition of CdTe and CdSe layers on ZnTe and ZnSe substrates, respectively, with a temperature range of 260 to 290 °C. The growth parameters were optimized to achieve high structural quality and minimal thickness fluctuations. The emission properties of the UTQWs were characterized using low-temperature photoluminescence (PL) spectroscopy, revealing intense and narrow emission peaks. The study also highlights the effect of temperature on Cd incorporation and the resulting blue shift in emission, which can be used for fine-tuning the optical properties of the quantum wells.",
+  "evidence": "Atomic layer epitaxy (ALE) was used to grow CdTe and CdSe quantum wells (QWs) with 1 to 4 monolayer thickness. The heterostructures were grown at different temperatures between 260 and 290 °C. Both CdTe and CdSe UTQWs grown at the higher temperature presented blue-shifted emission compared to those grown at lower temperatures. This effect is attributed to Cd losses by reevaporation and Cd substitution by Zn. The critical thickness of CdSe/ZnSe grown by ALE is estimated to be 5 ML."
+}<|im_end|>

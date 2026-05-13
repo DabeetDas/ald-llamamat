@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "460",
+  "pressure": "5.3 hPa",
+  "precursor_pulse_time_s": "0.5",
+  "coreactant_pulse_time_s": "0.5",
+  "purge_time_s": "30",
+  "number_of_cycles": "100",
+  "reactor_type": "SUNALETMR-100, Picosun",
+  "evidence": "The growth temperature was kept at 460◦C under the pressure of 5.3 hPa. The ALD cycle contains four steps: pulsing the MoCl5 (0.5 s), purging the reaction chamber (30 s), pulsing the H2S (0.5 s), purging the reaction chamber again (30 s)."
+}<|im_end|>

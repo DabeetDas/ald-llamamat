@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "NiðthdÞ2 þ H2S ! NiS þ 2HðthdÞ",
+    "NiSH* þ NiðthdÞ2 ! NiS-NiðthdÞ* þ HðthdÞ",
+    "NiðthdÞ* þ H2S ! NiSH* þ HðthdÞ"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Ni(thd)*",
+    "Al(thd)*",
+    "NiSH*",
+    "H(thd)"
+  ],
+  "evidence": "The overall proposed binary reaction of NiS ALD can be written as follows: NiðthdÞ2 þ H2S ! NiS þ 2HðthdÞ. The proposed binary reaction can be divided into two separate half reactions during the two consecutive ALD half cycles as follows: NiSH* þ NiðthdÞ2 ! NiS-NiðthdÞ* þ HðthdÞ; NiðthdÞ* þ H2S ! NiSH* þ HðthdÞ; where the asterisks represents the surface species."
+}<|im_end|>

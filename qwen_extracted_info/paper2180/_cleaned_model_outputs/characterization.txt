@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Spectroscopic Ellipsometry (SE)",
+    "X-ray Reflectometry (XRR)",
+    "Rutherford Backscattering Spectroscopy (RBS)",
+    "Elastic Recoil Detection (ERD)",
+    "X-ray Diffraction (XRD)",
+    "Four-point probe",
+    "Optical Emission Spectroscopy (OES)"
+  ],
+  "evidence": "The text mentions the use of spectroscopic ellipsometry (SE) for in situ study of the growth process and material properties. X-ray reflectometry (XRR) is used to determine thickness and mass density. Rutherford backscattering spectroscopy (RBS) and elastic recoil detection (ERD) are used for film composition analysis. X-ray diffraction (XRD) is used to determine microstructure. Four-point probe measurements are used for electrical resistivity. Optical emission spectroscopy (OES) is used to monitor plasma emission during the ALD process."
+}

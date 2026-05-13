@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2, HfSiOx, Gd2O3, Al2O3, TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["HfCl4", "H2O", "Si(OC2H5)4", "HfI4", "AlCl3", "H2O2", "Tetraethylorthosilicate", "Tris(2,3-dimethyl-2-butoxy)gadolinium", "H2O"],
+  "temperature_range": "300°C, 200°C, 250°C, 275°C, 350°C, 400°C",
+  "summary": "The study investigates flatband voltage transients in high-k dielectric-based metal–insulator–semiconductor (MIS) structures, focusing on materials such as HfO2, HfSiOx, Gd2O3, Al2O3, and TiO2 deposited on n-type silicon using atomic layer deposition (ALD). The transients are attributed to localized states in the insulator trapping electrons injected from the semiconductor by tunneling, with phonon-assisted processes being thermally activated. The study highlights the dependence of transient amplitudes on the crystallinity of the dielectric material, with amorphous materials showing lower transient amplitudes compared to crystalline or polycrystalline ones.",
+  "evidence": "The text describes the use of atomic layer deposition (ALD) for depositing high-k dielectrics on n-type silicon. It details the precursors used for each material, such as HfCl4 and H2O for HfO2, Si(OC2H5)4 and HfI4 for HfSixOy, AlCl3 and H2O2 for Al2O3, and others. The temperature range for ALD processes is specified, and the study discusses the impact of crystallinity on transient amplitudes."
+}

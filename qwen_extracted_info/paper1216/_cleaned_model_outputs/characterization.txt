@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray fluorescence spectroscopy (XRF)",
+    "Auger electron spectroscopy (AES)",
+    "Glancing angle incidence X-ray diffraction (GAXRD)",
+    "X-ray reflectivity (XRR)",
+    "Transmission electron microscopy (TEM)",
+    "Atomic force microscopy (AFM)"
+  ],
+  "evidence": "The crystallinity and density of the films were measured via glancing angle incidence X-ray diffraction (GAXRD) and X-ray reflectivity (XRR), respectively, using an X-ray diffractometer (PANalytical, X’Pert PRO MPD). The step coverage of the film deposited on the hole structure was analyzed via transmission electron spectroscopy (TEM, JEOL, JEMR2100F), using a specimen fabricated with a focused ion beam (FIB, FEI, Nova 600 NanoLab). The layer densities of the films were measured via X-ray fluorescence spectroscopy (XRF, Thermo Scientific, Quant’X EDXRF), and the growth rate (GR) was calculated by dividing the layer density by the supercycle number. The impurity level was confirmed via Auger electron spectroscopy (AES, Perkin Elmer, PHI670). The film surface was analyzed via AFM."
+}

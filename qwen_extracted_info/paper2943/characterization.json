@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "spectroscopic ellipsometer",
+    "X-ray diffraction (XRD)",
+    "X-ray reflectivity (XRR)",
+    "Energy-dispersive X-ray analysis (EDX)",
+    "Capacitance-voltage (C-V) measurement",
+    "Current-voltage (I-V) measurement",
+    "Auger analysis"
+  ],
+  "evidence": "The film thickness was determined using the spectroscopic ellipsometer (SE). The SE modeling indicated the refractive index of the as deposited films to be 1.836, with an extinction coefficient value of 0 at 632.8 nm. The morphology of the deposited films was determined using X-ray diffraction (XRD). Pre-and post-annealed XRD spectra of a 93 nm thick La2O3 film are shown in Fig. 1. The surface roughness was evaluated using X-ray reflectivity (XRR) as shown in Fig. 2. Energy-dispersive X-ray analysis confirmed that the film composition was approximately La2O3. Electrical characterization included evaluation of the capacitive and breakdown properties of the oxide films. The C-V profile of an annealed 130 nm thick film is shown as dotted lines in Fig. 3. The leakage current in a 15 nm thick La2O3 film is shown in the I-V curve is presented in Fig. 4. A comparison of Auger analysis of a sample deposited 16 months ago and another produced recently showed little difference."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ca(thd)2", "TiF4"],
+  "coreactants": [],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Nitrogen"],
+  "evidence": "Ca(thd)2 (thd ) 2,2,6,6-tetramethyl-3,5-heptanedionato ) C11H19O2) is used as a cation precursor. Ca(thd)2 has been used a few times in ALD processes, e.g., for depositing CaF2, CaS, and CaCO3 at temperatures between 200 and 450 °C. The reaction of Ca(thd)2 and TiF4 results in a solid CaF2 deposit and volatile Ti(thd)4. Nitrogen (99.9995% NITROX UHPN 3000 nitrogen generator) was used as a carrier and a purge gas. And 0.5 -1.0 s nitrogen purge periods were used after both precursor pulses to separate the precursors in the gas phase and to remove the gaseous reaction byproducts."
+}<|im_end|>

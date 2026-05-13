@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "diethylzinc (DEZ)"
+  ],
+  "coreactants": [
+    "water",
+    "ammonia (NH3)"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "Next, a 110-nm-thick Al2O3 layer and a 25-nm-thick ZnO layer were deposited onto the Cr gates by spatial ALD at 200 ◦C from trimethylaluminum or diethylzinc (DEZ) and water. Unlike conventional ALD, no containment vessel is required for the spatial ALD process, and the deposition process is done at atmospheric pressure. Instead, continuous gas flows of the metallic precursor and oxidant are spatially confined by channels of inert gas. For the ZnO layer deposition, ammonia (NH3) was added as a nitrogen dopant to compensate the n-type conductivity typically found in undoped films."
+}

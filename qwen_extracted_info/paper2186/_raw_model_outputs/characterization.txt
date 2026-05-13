@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "High-resolution Transmission Electron Microscopy (HRTEM)",
+    "Electron Energy Loss Spectroscopy (EELS)",
+    "Capacitance-Voltage (C-V) measurement",
+    "Frequency dispersion analysis"
+  ],
+  "evidence": "X-ray photoelectron spectroscopy (XPS) analysis revealed no significant reduction of arsenic oxides upon deposition of HfO2 on GaAs using tetrakis(dimethyl-amino)hafnium as the metallic precursor. High-resolution transmission electron microcopy analysis verified a smooth interface between HfO2 and sulfur-passivated GaAs. The XPS results also indicate the existence of Sulfur at the interface, primarily bonded to Ga atoms. The abrupt transition of high-frequency C-V curve from accumulation to depletion implies relatively good interface quality. The room temperature leakage current density–voltage (J-V) curve of a MOS capacitor with a 115 Å thick HfO2 on the NH42S-treated sample shows low leakage current density. The linear dependency of capacitance equivalent thickness (CET) on HfO2 physical thickness was evaluated from the accumulation capacitance from 1 MHz high-frequency C-V curves. The bidirectional 10 kHz C-V sweeps reveal a hysteresis of 500 mV for the annealed sample at 500 °C in N2, as shown in the inset of Fig. 4(a). The calculated values of Dit from the 1 MHz C-V curves using the Terman method, indicating a nonuniform distribution of interface traps within the GaAs bandgap. Midgap Dit was measured by ac-conductance technique, shown as solid squares in Fig. 4(b)."
+}<|im_end|>

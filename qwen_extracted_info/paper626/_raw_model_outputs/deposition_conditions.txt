@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 510,
+  "pressure": "30 mTorr",
+  "precursor_pulse_time_s": 0.3,
+  "coreactant_pulse_time_s": 25,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "H-assisted ALE",
+  "evidence": "DMG pressure P s30 mTorr; DMG exposure time t s0.3 sa; H exposure time t s25 sH; H evacuation time t s10 s22; Substrate temperature 510 8C"
+}<|im_end|>

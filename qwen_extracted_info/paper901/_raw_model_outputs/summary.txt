@@ -1,0 +1,8 @@
+{
+  "target_material": "Tungsten (W)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["WF6", "SiH4", "B2H6"],
+  "temperature_range": "300 /C176C to 450 /C176C",
+  "summary": "The study evaluates ALD W nucleation layers with different precursors (SiH4 and B2H6) for tungsten plug processes in sub-100 nm contact sizes. The ALD processes provide smooth, dense, and thin nucleation layers that enhance grain growth and reduce resistivity, making them suitable for advanced damascene processes. The B2H6-based ALD nucleation layers show better performance in preventing WF6 penetration through TiN/TiSi x interfaces, leading to lower contact resistance and improved fill-in capability for high aspect ratio contacts.",
+  "evidence": "The ALD W nucleation layers with B2H6 and SiH4 as reducing agents are compared. The B2H6 base-ALD nucleation layers provide a smooth, dense film that prevents WF6 penetration through the TiN/TiSi x interface, leading to lower contact resistance. The study also highlights that the B2H6 base-ALD nucleation layers have better step coverage and lower resistivity, making them suitable for sub-100 nm contacts."
+}<|im_end|>

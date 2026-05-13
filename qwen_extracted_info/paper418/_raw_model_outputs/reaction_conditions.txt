@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "n(-OH)(s) + TiCl4(g) → (-O-)n TiCl4-n(s) + nHCl(g)",
+    "(-O-)n TiCl4-n(s) + (4 - n)H2O(g) → (-O-)n Ti(OH)4-n(s) + (4 - n)HCl(g)",
+    "2(-OH)(s) + TiCl4(g) → 2(-Cl)(s) + Ti(OH)2Cl2(g)"
+  ],
+  "surface_mechanism_description": "The growth proceeds through alternate reactions of surface hydroxyls and chlorines with gaseous TiCl4 and water. The water pulse transforms the surface into a hydroxyl-terminated surface, promoting aggregation. The byproduct of the reactions is HCl, which can interact with the surface to produce Ti(OH)2Cl2. The formation of Ti(OH)2Cl2 is also attributed to ligand exchange reactions and interactions between intermediate surface species.",
+  "intermediate_species": [
+    "surface hydroxyls (-OH)(s)",
+    "surface chlorines (-Cl)(s)",
+    "Ti(OH)2Cl2(g)",
+    "(-O-)n TiCl4-n(s)",
+    "(-O-)n Ti(OH)4-n(s)"
+  ],
+  "evidence": "The chemistry behind the growth process can be very complicated. Ideally, the growth would proceed through alternate reactions of surface hydroxyls and chlorines with gaseous TiCl4 and water: n(-OH)(s) + TiCl4(g) → (-O-)n TiCl4-n(s) + nHCl(g) [1]. (-O-)n TiCl4-n(s) + (4 - n)H2O(g) → (-O-)n Ti(OH)4-n(s) + (4 - n)HCl(g) (2) where n = 1-3. The formation of Ti(OH)2Cl2 can also be attributed to ligand exchange reactions and interactions between intermediate surface species."
+}<|im_end|>

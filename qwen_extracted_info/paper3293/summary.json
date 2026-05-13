@@ -1,0 +1,11 @@
+{
+  "target_material": "Zinc oxide",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "diethyl zinc",
+    "water"
+  ],
+  "temperature_range": "150 °C",
+  "summary": "Zinc oxide was deposited on amorphous silica using atomic layer deposition (ALD) with diethyl zinc and water at 150 °C. The study focused on measuring surface enthalpies of crystalline ZnO particles supported on the substrate using calorimetry techniques. The results showed that the enthalpies for hydrous and anhydrous surfaces of ZnO were 1.23 ± 0.35 J/m² and 2.07 ± 0.59 J/m², respectively, which are consistent with previously reported values for unsupported ZnO nanoparticles.",
+  "evidence": "Crystalline samples of zinc oxide on a mesoporous amorphous silica substrate were prepared by 5 to 15 atomic layer deposition cycles with diethyl zinc and water at 150 °C. The measured enthalpies 1.23 ± 0.35 and 2.07 ± 0.59 J/m² for hydrous and anhydrous surfaces, respectively, are in agreement with previously reported measurements for unsupported ZnO nanoparticles."
+}

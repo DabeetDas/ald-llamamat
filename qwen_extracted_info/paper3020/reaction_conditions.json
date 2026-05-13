@@ -1,0 +1,21 @@
+{
+  "reaction_equations": [
+    "Hf–Cl + H 2O(g) → Hf–OH + HCl(g)",
+    "Hf–Cl + Hf–OH → Hf–O–Hf + HCl(g)",
+    "Hf–O–Hf + H 2O(g) → 2Hf–OH",
+    "Hf–OH + H2O(g) → Hf–OH...H2O",
+    "2Hf–OH + H2O(g) → Hf–OH...H2O...OH–Hf",
+    "Hf/H9254+ + H2O(g) → Hf/H9254+ −OH 2"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves ligand exchange between HfCl4 and surface hydroxyl groups, followed by water pulse to regenerate OH sites. The mechanism also includes the condensation of neighboring Hf–Cl and Hf–OH groups on the HfO2 surface, forming a Hf–O–Hf bridge and releasing HCl. Additionally, the adsorption of H2O at low temperatures leads to increased OH density through H-bonding or Lewis electron donation, enhancing the growth-per-cycle (GPC).",
+  "intermediate_species": [
+    "Hf–Cl",
+    "Hf–OH",
+    "Hf–O–Hf",
+    "HCl(g)",
+    "Hf–OH...H2O",
+    "Hf–OH...H2O...OH–Hf",
+    "Hf/H9254+ −OH 2"
+  ],
+  "evidence": "The text describes the reaction mechanism as follows: 'The H2O reaction is not saturated for a pulse time of 0.3 s... Hf–Cl + H2O(g) → Hf–OH + HCl(g). Unsaturated H2O reactions result in a higher amount of Cl impurities... At 300°C, H2O pulses of at least 10 s must be applied to obtain saturation... The HfO2 surface is very sensitive to H2O adsorption... The condensation of OH and Cl groups at the top surface (Eq. 2) is a possible mechanism for the reduction of Cl during intermediate annealing... One possibility is H-bonding of H2O with the HfO2 top surface... Either 1 or 2 H bonds could be formed... A second possibility is Lewis electron donation of H2O to coordinate unsaturated Hf cations at the surface.'"
+}

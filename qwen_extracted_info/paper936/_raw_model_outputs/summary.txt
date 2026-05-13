@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["HfCl4", "H2O"],
+  "temperature_range": "150–350 ◦C",
+  "summary": "The study investigates the effects of growth temperature (Tg) and post-deposition annealing on the structural, compositional, and electrical properties of HfO2 films deposited by atomic layer deposition (ALD). The films are grown using HfCl4 and H2O precursors, with growth temperatures ranging from 150 to 350 ◦C. Post-deposition rapid thermal annealing (RTA) at 950 ◦C is performed. The results show that higher growth temperatures lead to crystalline films with mixed monoclinic and orthorhombic phases, while lower temperatures result in amorphous films. The study also highlights the impact of RTA on film properties, including changes in thickness, density, and interface states.",
+  "evidence": "In this work, we address the effects of growth temperature (Tg), post-deposition annealing and substrate preparation on the structural, compositional, and electrical properties of thin films (≈13 nm thick), deposited on p-type Si(1 0 0)/SiO2 (chemical oxide) by atomic layer deposition (ALD). In particular, we investigate the effects of: (1) different Tg (150, 250 and 350 ◦C); (2) rapid thermal annealing at 950 ◦C in N2 for 60 s; and (3) substrate in situ heat treatment before growth and longer pulses at the beginning of the deposition."
+}<|im_end|>

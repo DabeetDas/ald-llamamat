@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 285,
+  "pressure": "700 mTorr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 12,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type",
+  "evidence": "The air was dried through a desiccant air dryer to a dew point temperature of −45.5°C before use. Nitrogen was used as both a purging gas and a carrier gas. The MeCpPtMe3 and air were kept at 50°C and 21°C, respectively. A regular ALD cycle consisted of 2 s exposure to MeCpPtMe3, 2 s N2 purge, 2 s exposure to dry air, and 12 s N2 purge. The total flow rate of the N2 was 15 sccm."
+}

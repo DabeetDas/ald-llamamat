@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.3,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": null,
+  "number_of_cycles": 20,
+  "reactor_type": "Pulsar 2000",
+  "evidence": "Atomic layer deposition (ALD) was used to grow 1–4 nm (20–80 cycles) of HfO2 at 300°C with HfCl4 and H2O as precursors in a Pulsar 2000 reactor attached to a Polygon 8200 platform."
+}<|im_end|>

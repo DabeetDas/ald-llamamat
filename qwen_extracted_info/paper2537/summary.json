@@ -1,0 +1,11 @@
+{
+  "target_material": "Hf-silicate/SiO2",
+  "process_type": "ALCVD",
+  "main_precursors": [
+    "Hf(NC2H5)4",
+    "Si(OC4H9)4"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study focuses on the deposition of Hf-silicate/SiO2 bilayers on silicon using atomic layer chemical vapor deposition (ALCVD). The process involves the use of Hf(NC2H5)4 and Si(OC4H9)4 as precursors. The deposited films show flat interfaces and uniform amorphous characteristics. The presence of a SiO2 buffer layer significantly reduces leakage current and increases the valence band offset. The study also examines the electronic and structural properties of the films using various analytical techniques.",
+  "evidence": "Hf-silicate/SiO2 bilayers were grown on Si by atomic layer chemical vapor deposition. HfSi xOy films were deposited by atomic layer chemical vapor deposition using Hf(NC2H5)4 and Si(OC4H9)4 precursors. The films were deposited at 300 °C. The valence band offset was increased from 3.26 eV (Hf-silicate) to 4.23 eV (SiO2 buffer layer)."
+}

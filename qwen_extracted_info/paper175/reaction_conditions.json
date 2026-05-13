@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of W(CO)6 as a tungsten source and O3 as the oxygen source. The ALD process utilizes the straightforward chemistry of carbonyl compounds and ozone, where the precursor gases are introduced pulsewise, separated by inert gas pulses to evacuate excess precursors and by-products from surface reactions. The process yields WO3 thin films through the decomposition of W(CO)6 with O3, resulting in the formation of WO3.",
+  "intermediate_species": [
+    "W(CO)6",
+    "O3"
+  ],
+  "evidence": "Our results show that the straightforward ALD chemistry of carbonyl compounds and ozone is applicable to the deposition of WO3 thin films. The new WO3 ALD process introduced here presents good overall deposition characteristics. Most likely the limiting factors for the well-controlled deposition are the low surface reactivity below 190 8C, and the thermal decomposition of the precursor above 210 8C. A narrow ALD window of temperature-independent growth could be found at 195–205 8C. The process yields pure, stoichiometric WO3 films with H and C impurity levels below 0.1 at.-%."
+}

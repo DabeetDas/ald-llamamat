@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "TiCl4(g) + 2NH3(g) --> TiN(s) + 4HCl(g) + H2(g) + 0.5N2(g)",
+    "TiCl4(g) + NH3(g) + 0.5H2(g) --> TiN(s) + 4HCl(g)",
+    "TiCl4(g) + NH3(g) + 0.5Zn(g) --> TiN(s) + 3HCl(g) + 0.5ZnCl2(g)"
+  ],
+  "surface_mechanism_description": "The reduction of titanium from its most stable oxidation state +IV to +III occurs on the surface, facilitated by a reducing zinc pulse between the TiCl4 and NH3 pulses. The zinc pulse enables the formation of a distinct reduction step, allowing for the removal of chlorine from the surface, which enables the titanium species to arrange into a structure with the lowest surface energy, i.e., the (111) orientation.",
+  "intermediate_species": [
+    "TiCl4",
+    "NH3",
+    "Zn",
+    "TiN",
+    "HCl",
+    "ZnCl2"
+  ],
+  "evidence": "Thermodynamic consideration.-- As examined from the chemical point of view, a critical step in the preparation of TiN from TiCl4 and NH3 is the reduction of titanium from its most stable oxidation state +IV to +III: TiCl4 --> TiN. In general, the direct reaction between TiCl4 and NH3 has been represented by 6TiCl4(g) + 8NH3(g) --> 6TiN(s) + 24HCl(g) + N2(g). However, as is validated below by the aid of thermodynamics, the following reaction may also be proposed for this apparently complex process TiCl4(g) + 2NH3(g) --> TiN(s) + 4HCl(g) + H2(g) + 0.5N2(g). In some of the CVD processes there has also been hydrogen present in the gas phase. In principle, it might be possible that in those cases hydrogen could act as a reducing agent TiCl4(g) + NH3(g) + 0.5H2(g) --> TiN(s) + 4HCl(g). Butting et al. have, however, reported that the role played by hydrogen is not critical for film growth. On the other hand, it has been demonstrated that by employing zinc as a reducer one can considerably enhance the ALE growth of transition metal nitrides from the corresponding chlorides and NH3. In the case of TiN this leads to a net reaction TiCl4(g) + NH3(g) + 0.5Zn(g) --> TiN(s) + 3HCl(g) + 0.5ZnCl2(g)."
+}

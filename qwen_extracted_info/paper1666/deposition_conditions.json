@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-250",
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 60,
+  "purge_time_s": 300,
+  "number_of_cycles": null,
+  "reactor_type": "quartz crystal microbalance (QCM)",
+  "evidence": "In the A half cycle, about 1 Torr of TiCl4 vapor is added to the silica for 10 s followed by evacuation to the base pressure of 10-5 Torr. In the B half cycle, H2O vapor (1 Torr) is added for 1 min followed by evacuation for 5 min to 10-5 Torr."
+}

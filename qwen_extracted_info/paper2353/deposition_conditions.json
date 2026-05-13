@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "660-800",
+  "pressure": "8 X 10-7 Pa",
+  "precursor_pulse_time_s": "30",
+  "coreactant_pulse_time_s": "60",
+  "purge_time_s": null,
+  "number_of_cycles": "600",
+  "reactor_type": "growth chamber equipped with a turbomolecular pump and an oil rotary pump",
+  "evidence": "The transport periods of AIel} and He 15%0 2 are in tum -30 and -60 s a cycle, respectively."
+}

@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "bis(N,N′-di-tert-butylacetamidinato)manganese-(II) (Mn(tBu-MeAMD)2)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Nitrogen (99.999%)"
+  ],
+  "carrier_gas": [
+    "Nitrogen (99.999%)"
+  ],
+  "evidence": "During the ALD process, the working pressure was kept at 50-100 Pa under a flow of nitrogen (99.999%), which was used as both the carrier and purge gas."
+}

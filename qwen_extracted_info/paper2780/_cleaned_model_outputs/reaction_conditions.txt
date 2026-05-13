@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Si-OH* + Zn + 0.5S2 -> Si-O-ZnS + H2O"
+  ],
+  "surface_mechanism_description": "The formation of a chalcogenide layer on a hydroxylated silicon surface involves surface reactions where metal and chalcogen components chemisorb onto the surface, with the limiting stage being the chemosorption of chalcogen. The growth mechanism is characterized by successive chemosorption of metal and chalcogen according to reaction (1) with the filling of the surface close to monolayered.",
+  "intermediate_species": [
+    "surface hydroxyls (Si-OH*)",
+    "metal species (Zn)",
+    "chalcogen molecules (S2)"
+  ],
+  "evidence": "The formation of a chalcogenide layer (e.g., of ZnS, taking into account the coordination of the components) on a hydroxylated silicon surface can be presented in the form of the following surface reactions: Si-OH* + Zn + 0.5S2 -> Si-O-ZnS + H2O."
+}

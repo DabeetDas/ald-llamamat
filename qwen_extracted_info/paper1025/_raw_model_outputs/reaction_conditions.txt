@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Calcium carbonate is grown through a self-limiting surface reaction mechanism where Ca(thd) is first saturated on the surface, followed by ozone introduction to burn off organic ligands, forming CO2 and H2O. The films are then subjected to an atmosphere of CO2 and H2O with significant partial pressures. The growth dynamics change with temperature, affecting the surface density of adsorbed precursors and the orientation of the films.",
+  "intermediate_species": ["Ca(thd)", "CO2", "H2O", "surface hydroxyls"],
+  "evidence": "According to thermodynamic calculations made by the HSC program for the Ca–O–CO2 system, CaCO3 is more stable than CaO at temperatures below 400 to 500 8C depending on the partial pressure of CO2. When calcium-based films are grown with the present precursors the surface layer is first saturated with Ca(thd). In the next step ozone is introduced in order to burn off the organic ligands under the formation of CO2 and H2O. Hence after each O pulse the films will be subjected to an atmosphere of CO2 and H2O with rather significant partial pressures. This explains why the CaO phase cannot be deposited directly as a film but require post heat treatment."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["diethylzinc (DEZn)", "H2O", "diborane (B2H6)"],
+  "temperature_range": "105°C to 165°C",
+  "summary": "The study describes the growth of boron-doped ZnO thin films using atomic layer deposition (ALD) with diethylzinc (DEZn) and H2O as reactant gases, and diborane (B2H6) as a dopant. The process was optimized to achieve low-resistivity ZnO films with high electron mobility. The electrical properties were influenced by the injected amount and timing of B2H6 during deposition.",
+  "evidence": "ZnO films have been grown by atomic layer deposition (ALD) using diethylzinc (DEZn) and H2O as reactant gases. The diborane (B2H6) gas has also been successfully used as an n-type dopant gas to obtain low-resistivity ZnO films. It was found that the electrical properties of ZnO films strongly depend on the injected amount of B2H6 during the deposition and on the injection timing of B2H6 relating to DEZn and H2O."
+}<|im_end|>

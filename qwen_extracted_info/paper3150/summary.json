@@ -1,0 +1,11 @@
+{
+  "target_material": "Yttrium-doped hafnium oxide (YDH)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "tris(ethylcyclopentadienyl)yttrium",
+    "tetrakis(diethylamino)hafnium"
+  ],
+  "temperature_range": "250°C for deposition, annealing above 600°C for 5 min",
+  "summary": "The study investigates the deposition of yttrium-doped hafnium oxide (YDH) films using atomic layer deposition (ALD) with tris(ethylcyclopentadienyl)yttrium and tetrakis(diethylamino)hafnium as precursors and water vapor as the oxidizer. The films were annealed at temperatures above 600°C to achieve a cubic-HfO2 structure, and the dielectric properties were analyzed as a function of yttrium content and annealing temperature. The results show that a 14% yttrium content yields the highest dielectric constant with minimal leakage current, making it a promising candidate for high-dielectric constant materials in semiconductor devices.",
+  "evidence": "Sequential atomic layer deposition was used to deposit yttrium-doped hafnium oxide films with variable yttrium content using tris/H20849ethylcyclopentadienyl/H20850yttrium and tetrakis /H20849diethylamino/H20850hafnium as metal precursors and water vapor as the oxidizer. The 2.5–100% yttrium-doped films annealed above 600°C for 5 min consistently yielded cubic-HfO2 structures. However, there was a strong compositional effect on the dielectric constant, which maximized at /H1101114% yttrium content. The films studied had a leakage current density of 10−5 A/cm2 or less at 1 V."
+}

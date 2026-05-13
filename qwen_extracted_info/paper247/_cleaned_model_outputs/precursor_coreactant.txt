@@ -1,0 +1,7 @@
+{
+  "precursors": ["Sn(OAc)4", "H2S"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Tin(IV) acetate [Sn(OAc)4] was obtained from Alfa Aesar and evaporated from an open glass boat held at 130 °C inside the ALD reactor. Hydrogen sulfide (H2S, Linde, 99.5%) was supplied into the reactor through needle and solenoid valves at a flow rate of 14 sccm. Unless otherwise noted, the films were deposited at 150 °C using 1 s Sn(OAc)4 and 4 s H2S pulses separated by 2 s N2 purges."
+}

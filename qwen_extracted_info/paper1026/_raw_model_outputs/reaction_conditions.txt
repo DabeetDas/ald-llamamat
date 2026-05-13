@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "2CuCl(ads)q HO (g)™Cu O (s)q 2HCl(g)",
+    "Cu O (s)q H (g)™2Cu(s)q HO (g)"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves two steps: first, a reaction between CuCl and water precursors to form an oxide layer on the substrate surface, followed by a reduction step where hydrogen reduces the newly formed oxide layer to copper metal.",
+  "intermediate_species": [
+    "Cu O (s)",
+    "H (g)"
+  ],
+  "evidence": "The process used hydrogen bubbled through water as carrier gas, and film deposition was carried out on Ta, TiN and TaN. Also, nickel metal has been grown by ALD using a pulsing order of NiCp –H O–H radicals w15x, where the hydrogen radicals were used instead of molecular hydrogen to increase the growth rate. In this study, an alternative reaction pathway to reduce the activation barrier for copper deposition on oxide substrates was tested. Copper films were grown by ALD using CuCl and a combination of hydrogen and water. The aim here was to study the influence of the additional water pulse upon film growth kinetics. The formation of copper in the water-based process is thought to include two major steps during the growth reaction. Firstly, a reaction between the CuCl and water precursors to form an oxide layer on the substrate surface occurs (1). Secondly, a step where hydrogen reduces the newly formed oxide layer to copper metal takes place (2)."
+}<|im_end|>

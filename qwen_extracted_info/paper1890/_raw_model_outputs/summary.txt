@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2 and HfO2",
+  "process_type": "ALD and MOCVD",
+  "main_precursors": ["[(Cp2CMe2)ZrMe2]", "[(Cp2CMe2)ZrMe(OMe)]", "[(Cp2CMe2)HfMe2]", "[(Cp2CMe2)HfMe(OMe)]"],
+  "temperature_range": "MOCVD: 400–650 /C14 C; ALD: 175–350 /C14 C",
+  "summary": "The study describes the deposition of ZrO2 and HfO2 thin films using liquid injection MOCVD and ALD with ansa-metallocene precursors. The films were characterized for their structural, compositional, and electrical properties. The ALD process showed self-limiting growth and low leakage current densities, making them suitable for high-k dielectric applications.",
+  "evidence": "The text states: 'Thin films of ZrO2 and HfO2 have been deposited by liquid injection metalorganic chemical vapour deposition (MOCVD) and atomic layer deposition (ALD) using a range of ansa-metallocene precursors... The ZrO2 and HfO2 films were deposited by MOCVD over the temperature range 400–650 /C14 C and by ALD over the temperature range 175–350 /C14 C.'"
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "Er2O3",
+  "process_type": "radical-enhanced ALD",
+  "main_precursors": [
+    "Er(TMHD)3",
+    "O radicals"
+  ],
+  "temperature_range": "473 to 573 K",
+  "summary": "The study investigates the surface reaction kinetics of Er(TMHD)3 and Y(TMHD)3 with O radicals in radical-enhanced atomic layer deposition (ALD) of Er2O3 and Y2O3. The process involves alternating pulses of metal b-diketonate precursors and O radicals, with the reactions proceeding in a self-limiting manner. The adsorption and desorption kinetics were analyzed using a quartz crystal microbalance (QCM), revealing activation energies for adsorption and desorption. The results show that O radicals not only remove the b-diketonate ligands but also create reactive sites for subsequent precursor adsorption, enabling the deposition of high-purity Er2O3 films.",
+  "evidence": "The study investigates the surface reaction kinetics of Er(TMHD)3 and Y(TMHD)3 with O radicals in radical-enhanced atomic layer deposition (ALD) of Er2O3 and Y2O3. The process involves alternating pulses of metal b-diketonate precursors and O radicals, with the reactions proceeding in a self-limiting manner. The adsorption and desorption kinetics were analyzed using a quartz crystal microbalance (QCM), revealing activation energies for adsorption and desorption. The results show that O radicals not only remove the b-diketonate ligands but also create reactive sites for subsequent precursor adsorption, enabling the deposition of high-purity Er2O3 films."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "0.5 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 60,
+  "number_of_cycles": null,
+  "reactor_type": "load-locked, warm-wall, high-vacuum ALD chamber",
+  "evidence": "Zirconia (ZrO2) films were deposited at 300°C onto 3 in. Si (100) substrates coated with a 1.5 nm thick chemical SiO2 layer. Deposition was performed in a load-locked, warm-wall, high-vacuum ALD chamber. Chamber base pressure was mid-10−7 Torr and process pressure was maintained at 0.5 Torr with forming gas (5% H2/95% N2) flow. Room-temperature water vapor and 150°C zirconium tetrachloride (ZrCl4) vapor (carried by forming gas) were sequentially pulsed into the chamber with alternating forming gas purges. Respective pulse times and flow rates were (H2O: 1 s, 0.5 sccm); (ZrCl4: 3 s, 20 sccm); (forming gas purge: 60 s, 90 sccm)."
+}

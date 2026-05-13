@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the nitridation process using N2/H2 plasma species, which induces the formation of a thin AlN layer on the surface of sapphire. This leads to more-efficient and faster nucleation of GaN on this AlN monolayer, resulting in a higher growth rate initially and then a lower steady state value. The reaction steps are not explicitly detailed in formal chemical equations.",
+  "intermediate_species": ["AlN monolayer"],
+  "evidence": "It is reported in the literature that the initial nitridation process using N2 plasma species induces the formation of a thin AlN layer on the surface of sapphire. Higher film thickness values extracted in the case of GaN grown on sapphire might be the result of a more-efficient and faster nucleation of GaN on this AlN monolayer."
+}

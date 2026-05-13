@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "ALD",
+  "main_precursors": ["zinc acetate", "water vapor"],
+  "temperature_range": "280–400 1C",
+  "summary": "The study discusses the control of preferential growth mode of ZnO thin films using atomic layer deposition (ALD) with zinc acetate as the zinc precursor. The results show that growth temperature and purging time significantly affect the preferred orientation of the films. The c-axis orientation becomes dominant at higher temperatures, while the a-axis orientation is favored at lower temperatures. The process allows for the production of polycrystalline ZnO films with controlled orientation and quality.",
+  "evidence": "We demonstrate that to control a preferential growth mode one has to correlate growth temperature and separation time (so-called purging time) between pulses of precursors. The ALD technique employs surface reactions between precursors. Zinc acetate is very volatile zinc precursor, which enables to significantly reduce growth temperature in the ALD process. We have demonstrated recently that this enables to obtain ZnMnO films free of foreign phases and free of metallic inclusions. This is also a very efficient precursor for ZnO growth, as we discuss separately in the forthcoming publication."
+}

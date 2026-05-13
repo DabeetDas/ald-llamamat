@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "VO∗ + V(g)2877/g2878/g4666amd/g4667/g2877 → V/g2877/g2878/g4666amd/g4667/g2877∗/g46661/g4667",
+    "6 V/g2877/g2878/g4666amd/g4667/g2877∗ + 5 O/g2877 → 3 V/g2870/g2873/g2878O/g2873∗ + 18/g4666amd/g4667/g7855/g7867/g7865/g7854/g7873/g7877/g7872/g7867/g7867/g7866/g7868/g7870/g7867/g7856/g7873/g7855/g7872/g7877/g46662/g4667"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the oxidation of V3+ to V5+ using O3, with the removal of ligands through combustion. The process also includes protic ligand transfer with H2O and oxidation with O2, leading to the formation of V5+ species. When H2 is introduced after H2O2, the oxidation state of the surface V species is reduced from 5+ to 4+.",
+  "intermediate_species": [
+    "V–OH",
+    "V–OOH",
+    "H-amd",
+    "surface hydroxyls"
+  ],
+  "evidence": "From these data, we speculate that a self-termination mechanism occurs; V(amd)3 reacts with silicon hydroxide (Si–OH) and aluminum hydroxide (Al–OH), but not the newly generated vanadium hydroxide (V–OH) surface species. Surface V (V–OHx, V–amdx) species appear to have sufficient mobility to generate a rough thin film... When the islands coalesce and all SI–OH or Al–OH species are covered, growth ceases. One possible mechanism for growth is as follows in equations (3) to (5). Water and surface hydroxyls are responsible for protic ligand transfer, (3) and (4), while the role O2 is a two electron oxidation of V3+ to V5+, (5)."
+}

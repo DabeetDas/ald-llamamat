@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": "60",
+  "coreactant_pulse_time_s": "60",
+  "purge_time_s": "120",
+  "number_of_cycles": "20",
+  "reactor_type": "cold-wall chamber",
+  "evidence": "For the HfO2 deposition, TDEAH exposure at 2.0 kPa followed by H2O exposure at 0.2 kPa was cyclically repeated with the exposure duration of 60 s for both TDEAH and H2O, separated by an interval time of 120 s for vacuum."
+}

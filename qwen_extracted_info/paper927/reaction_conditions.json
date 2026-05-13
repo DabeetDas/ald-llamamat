@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Atomic layer deposition (ALD) is a thin film growth technique which utilizes a binary sequence of self-limiting chemical reactions between a solid surface and gas phase precursor molecules to deposit smooth, dense and pinhole free films with atomic scale thickness control. To deposit Al2O3 on the floating gates, the samples were alternately exposed to trimethyl aluminum (TMA) and H2O in a viscous flow ALD reactor at a temperature of 150 8C.",
+  "intermediate_species": [
+    "trimethyl aluminum",
+    "surface hydroxyls"
+  ],
+  "evidence": "To deposit Al2O3 on the floating gates, the samples were alternately exposed to trimethyl aluminum (TMA) and H2O in a viscous flow ALD reactor at a temperature of 150 8C."
+}

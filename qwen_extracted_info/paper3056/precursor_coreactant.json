@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Ru/H20849EtCp/H208502"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Ru /H20849EtCp/H208502 was contained in a bubbler, which was heated to 80°C, and carried by Ar gas at a flow rate of 50 sccm. One deposition cycle of Ru and RuO2 ALD consisted of four steps: (i) an exposure of the Ru/H20849EtCp/H208502 precursor, (ii) a purge pulse with 50 sccm Ar, (iii) an exposure of O2 gas mixed with Ar, and (iv) another purge with 50 sccm Ar."
+}

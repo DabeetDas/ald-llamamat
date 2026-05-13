@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "TEA decomposes at 162 ◦C and H2 elimination happens. The elimination will generate ethylene and Al intermediate which will decompose to Al and H2 more easily at higher temperature. The H2 can work as reducing agent above 300 ◦C to reduce TiCl4, which makes contribution to the rapid increasing of growth rate.",
+  "intermediate_species": ["Al intermediate"],
+  "evidence": "TEA is a metal organic precursor with special β-hydrogen. It is reported that TEA decomposes at 162 ◦C13 and H2 elimination happens. The elimination will generate ethylene and Al intermediate which will decompose to Al and H2 more easily at higher temperature. The H2 can work as reducing agent above 300 ◦C to reduce TiCl4, which makes contribution to the rapid increasing of growth rate."
+}

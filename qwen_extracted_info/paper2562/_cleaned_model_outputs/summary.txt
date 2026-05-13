@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALCVD",
+  "main_precursors": ["H2O", "HfCl4"],
+  "temperature_range": "350 °C",
+  "summary": "The study investigates the physicochemical and electrical properties of HfO2 films deposited on TiN and Pt using atomic layer chemical vapor deposition (ALCVD). The films are characterized using various spectroscopic techniques, and their electrical behavior is analyzed in terms of capacitance-voltage relationships and leakage current. The results show that the choice of electrode material significantly affects the voltage linearity and leakage current of the metal-insulator-metal (MIM) structures.",
+  "evidence": "The text states: 'HfO2 being grown in the same condition by atomic layer chemical vapor deposition (ALCVD).' It also mentions: 'Then the HfO layers are deposited at 350 °C and 1 torr by AL-CVD with alternate cycles of H2O and HfCl4 precursors.'"
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "Elam and George6 deposited ZnO/Al2O3 alloy films using diethyl zinc, trimethyl aluminum (TMA) and H2O. They discovered reduced GRs for samples across all ALDCRs and discussed the possible factors affecting the GR, such as nanocrystal size, change of surface morphology, and number of surface hydroxyl groups. With the help of in situ quartz crystal microbalance, they found two major events happening on the surface that led to the drop in ternary GRs: (1) etching of ZnO by TMA; (2) prolonged nucleation on each as-deposited oxide surface. The authors discussed multiple potential driving forces behind these two events, i.e., exothermally favored formation of Zn(CH3)2 and ZnAl2O4 spinel promoting the decrease of Zn content and relative acidities of ZnO and Al2O3 contributing in surface hydroxyl group deactivation."
+}

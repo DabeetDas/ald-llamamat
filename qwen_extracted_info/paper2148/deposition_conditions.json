@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "reactor",
+  "evidence": "The ultrathin layered film structures were prepared on Si substrates by sequential atomic layer deposition of first Al2O3 and then HfO2 using tris/diethylaminoaluminum and tetrakis/diethylamino hafnium as the metal precursors, respectively, and water vapor as the oxidizer in a reactor maintained at 300 °C."
+}

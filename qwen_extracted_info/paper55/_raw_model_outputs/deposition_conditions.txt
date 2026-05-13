@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 25,
+  "coreactant_pulse_time_s": 25,
+  "purge_time_s": 40,
+  "number_of_cycles": null,
+  "reactor_type": "hot wall reactor",
+  "evidence": "The deposition was carried out in a home-built ALD reactor. The ALD reactor is a stainless steel tube (4 cm diameter, 1 m length) that is placed inside a 70 cm long electric tube furnace. Usually, the depositions were carried out at a reactor temperature of 200 °C, the TiCl4 precursor vessel was held at room temperature (≈25 °C) and the (EtO)3PO precursor vessel at 95 °C. During a precursor pulse, only the inlet valve of the corresponding precursor was opened and the outlet valve of the reactor was closed. A nitrogen stream 20 sccm per precursor line (40 sccm in total) was used as a carrier gas during these pulses, which usually led to an increased pressure of 30–50 mbar within the total length of the pulse. Since (EtO)3PO has a low vapor pressure, an additional nitrogen stream of 5 sccm was led through the gas phase of the precursor vessel to enhance precursor transport. In a usual deposition, the pulse times were: TiCl4/vacuum/(EtO)3PO/vacuum—25 s/40 s/25 s/40 s."
+}<|im_end|>

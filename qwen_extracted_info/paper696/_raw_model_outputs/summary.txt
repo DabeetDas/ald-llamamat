@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs surface",
+  "process_type": "ALD",
+  "main_precursors": ["Titanium tetrachloride (TiCl4)", "ammonia (NH3)", "trimethylaluminum ((CH3)3Al)"],
+  "temperature_range": "275 /C14 C",
+  "summary": "The study investigates the use of atomic layer deposition (ALD) to passivate GaAs surfaces with titanium nitride (TiN). The ALD process uses TiCl4 and NH3 as precursors, with TMA as a reducing agent. The process is performed at low temperatures (275 /C14 C) and results in a uniform, amorphous TiN layer that significantly improves photoluminescence (PL) intensity and carrier lifetime of InGaAs/GaAs near-surface quantum well (NSQW) structures. The TiN layer also provides long-term protection against oxidation.",
+  "evidence": "In this work GaAs surface passivation by ALD grown TiN is investigated. TiN deposition by ALD has been studied extensively in past. This novel passivation technique has the following benefits compared to previously studied methods: /C15 Low process temperatures (275 /C14 C), which can be important if passivation must be integrated as a part of component processing. /C15 Possibility to use as an ex situ passivation method. Photoluminescence (PL) intensity and carrier lifetime of TiN coated InGaAs/GaAs NSQW structures are used to indicate the passivation efficiency. Passivation film properties like thickness, mass density and interface roughness are studied by X-ray reflectivity measurements. It is shown that TiN not only passivates but also protects the sample surface in the long run."
+}<|im_end|>

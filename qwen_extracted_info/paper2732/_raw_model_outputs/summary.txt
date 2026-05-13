@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper",
+  "process_type": "Atomic Layer Deposition (ALE)",
+  "main_precursors": ["CuCl", "Zn"],
+  "temperature_range": "440–500 °C",
+  "summary": "Copper films were deposited using an alternate supply of CuCl and Zn in an atomic layer deposition (ALE) process. The study aimed to explore the feasibility of ALE for copper deposition, focusing on the challenges posed by the reversible dissolution of zinc into the copper film. The films were polycrystalline with coarse grains and contained about 3 at. % zinc as an impurity. The process did not exhibit self-limiting growth due to zinc dissolution, leading to higher growth rates compared to ideal ALE. The study also highlighted the importance of precursor solubility in the product film and substrate material for successful ALE.",
+  "evidence": "Deposition of copper thin films by an alternate supply of CuCl and Zn was examined. ... The growth temperature was varied between 440 and 500 °C ... The resulting films contained about 3 at. % zinc while chlorine residue contents were below 0.5 at. %. The films were polycrystalline consisting of rather coarse grains. ... No self-limiting ALE-type of growth could be achieved because of the reversible dissolution of zinc into the copper film."
+}<|im_end|>

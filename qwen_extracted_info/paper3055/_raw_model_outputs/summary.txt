@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "H2O vapor"],
+  "temperature_range": "320°C",
+  "summary": "The study demonstrates the effectiveness of atomic layer deposition (ALD) for filling nanometer-scale gaps with high-κ dielectric materials, specifically Al2O3, in advanced CMOS technologies. The process is used to refill gaps formed by selectively removing a sacrificial SiO2 layer beneath poly-Si gate electrodes, ensuring void-free filling without keyhole defects.",
+  "evidence": "The Al2O3 film was formed by sequentially injecting trimethylaluminum (TMA) and H2O vapor into the reactor chamber, with argon purge gas between the pulses. The substrate temperature was maintained at 320°C during the depositions."
+}<|im_end|>

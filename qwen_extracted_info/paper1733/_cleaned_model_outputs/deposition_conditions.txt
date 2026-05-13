@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "373-623",
+  "pressure": "5×10⁻³ Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Knudsen cell sources",
+  "evidence": "The process was run in an oil-free vacuum no worse than 5×10⁻³ Pa. The time interval between exposures to different components was 0.5 s. The control system of the shutter made it possible to record the total number of cycles and to vary the deposition time from 0.1 to 10 s."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "tungsten carbide",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "WCl6",
+    "AlMe3"
+  ],
+  "temperature_range": "275–350 °C",
+  "summary": "Thermal atomic layer deposition (ALD) of tungsten carbide films using WCl6 and AlMe3 as precursors was demonstrated. The process exhibited an ALD window between 275 and 350 °C with a growth rate of 1.5–1.8 Å/cycle. The as-deposited films were amorphous and had low Al and Cl impurities. The films showed low resistivity, reaching a minimum of 1500 Ω·cm at 375 °C. The study aimed to develop a safer and more effective ALD process for tungsten carbide films as Cu diffusion barriers.",
+  "evidence": "The atomic layer deposition (ALD) of tungsten carbide films is described with a thermal process employing WCl6 and AlMe3 as precursors. WCl6 has not been previously reported as an ALD precursor. The process displays an ALD window between 275 and 350 /C14 Ca n dah i g hg r o w t hr a t eo f1 . 5 – 1 . 8 A˚ /cycle within the ALD window. High purity tungsten carbide films with low Al and Cl contaminants were deposited at 300 /C14 C. Film resistivities decreased with increasing growth temperature, reaching a minimum value of 1500 lX cm at 375 /C14 C. The as-deposited films are amorphous, which could indicate superior performance as a Cu diffusion barrier over previously studied polycrystalline tungsten carbide barrier layers."
+}

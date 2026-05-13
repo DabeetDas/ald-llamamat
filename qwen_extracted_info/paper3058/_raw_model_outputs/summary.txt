@@ -1,0 +1,8 @@
+{
+  "target_material": "Y2O3/ZrO2 nanolaminates",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["ZrCl4", "Ycp"],
+  "temperature_range": "300°C for deposition, 950°C for annealing",
+  "summary": "The study reports on the growth and electrochemical properties of Y2O3/ZrO2 nanolaminates synthesized via atomic layer deposition (ALD). The nanolaminates were annealed at 950°C to promote interdiffusion of the layers, resulting in enhanced electrical conductivity compared to bulk values. The ALD process allowed for the deposition of ultrathin, dense films with controlled thickness and uniformity.",
+  "evidence": "We report on the growth and electrochemical properties of nanoscale /H208492084920–35 nm/H20850/H20849yttria-zirconia alloys synthesized using a laminate approach via atomic layer deposition. ... ALD is a pulsed form of chemical vapor deposition in which a sequence of self-limiting gas-solid reactions takes place on a substrate surface whose temperature is inside a characteristic ALD temperature window /H20849100–400°C for most metal oxide films/H20850. ... ZrO2 films were deposited at 300°C ... Yttria layers were deposited with parameters nearly identical to those for zirconia. ... Anneal temperature and layer interdiffusion calculation ... postdeposition anneals at 950°C for 2.5 h ... Electrochemical characterization of annealed, short-period nanolaminate yttria-stabilized zirconia films containing 3 mol % Y2O3 indicated significant enhancement of total electrical conductivity compared to reported bulk values for this composition."
+}<|im_end|>

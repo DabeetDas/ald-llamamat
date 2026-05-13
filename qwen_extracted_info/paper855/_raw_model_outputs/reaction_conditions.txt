@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves alternating pulses of metal precursors and oxygen atoms, initiating self-limiting half-reactions that deposit a monolayer and create reactive surface sites for the next half-reaction. The metal precursor and oxygen atoms are alternatively pulsed into the reactor at 250 °C, initiating self-limiting half-reactions which simultaneously deposit a monolayer of thin film and create the reactive surface sites for the next complimentary half-reaction.",
+  "intermediate_species": ["Y(TMHD)3", "Mn(TMHD)3", "O2"],
+  "evidence": "During the RE-ALD process, the metal precursor and oxygen atoms were alternatively pulsed into the reactor at 250 °C, initiating self-limiting half-reactions which simultaneously deposited a monolayer of thin film and created the reactive surface sites for the next complimentary half-reaction; which were then repeated in a cyclical fashion."
+}<|im_end|>

@@ -1,0 +1,12 @@
+{
+  "target_material": "zinc phosphate",
+  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": [
+    "trimethyl phosphate (TMP)",
+    "O2",
+    "diethylzinc (DEZn)"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "Zinc phosphate thin films were grown by plasma-enhanced atomic layer deposition (PE-ALD) using a sequence of trimethyl phosphate (TMP) plasma, O2 plasma, and diethylzinc (DEZn) exposures. The films were smooth, amorphous, and very hygroscopic, and upon annealing, crystalline zinc phosphate and pyrophosphate phases were formed.",
+  "evidence": "Zinc phosphate thin ﬁlms were grown by plasma-enhanced atomic layer deposition (PE-ALD) using a sequence of trimethyl phosphate (TMP, Me3PO4) plasma, O2 plasma, and diethylzinc (DEZn, Et2Zn) exposures. The ﬁlm growth was monitored by in-situ spectroscopic ellipsometry. At a substrate temperature of 300 °C, linear and saturated growth was observed with a remarkably high growth rate of 0.92 nm/cycle. As-deposited ﬁlms were smooth, amorphous and very hygroscopic, suggesting a phosphorus-rich composition resembling zinc phosphate glass. Upon annealing in air, crystalline zinc phosphate and pyrophosphate phases were formed."
+}

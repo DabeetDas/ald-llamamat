@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethylindium (TMI)"],
+  "coreactants": ["N2-only", "Ar/N2", "Ar/N2/H2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Trimethylindium (TMI) (Strem Inc., electronic grade, purity $ 99.999%) carried by 10 sccm N2-flow was used as the metal precursor and variants of nitrogen plasmas (N2-only, Ar/N2, and Ar/N2/H2) as co-reactant."
+}

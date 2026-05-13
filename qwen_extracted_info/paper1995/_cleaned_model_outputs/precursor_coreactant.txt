@@ -1,0 +1,7 @@
+{
+  "precursors": ["SiH2Cl2"],
+  "coreactants": ["NH3 plasma"],
+  "purge_gas": ["N2", "H2"],
+  "carrier_gas": [],
+  "evidence": "Between introducing NH3 and SiH2Cl2, the NH3 gas line is purged with N2 and the SiH2Cl2 gas line is purged with H2, because if NH3 and SiH2Cl2 are mixed they will rapidly react and generate particulates."
+}

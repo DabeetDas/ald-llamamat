@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "Ellipsometry",
+    "Grazing incidence X-ray diffraction (GIXRD)",
+    "Rutherford backscattering spectroscopy (RBS)",
+    "Hall-effect measurement",
+    "Potentiodynamic polarization test"
+  ],
+  "evidence": "The thickness and refractive index (nr) of thin films were measured by ellipsometer (J. A. Woollam, alpha-SE) at 632.8 nm, and the film crystallinity was analyzed by grazing incidence X-ray diffraction (GIXRD, Rigaku, Ultima IV) using Cu Kα radiation (λ¼0.15405 nm) with an incident angle of 1.5 °. The density and composition of the film were measured using Rutherford backscattering spectroscopy (RBS, NEC) using He2+ ion with 2 MeV energy. The electrical properties of the films deposited on Corning XG glass were investigated by the van der Pauw method using Hall-effect measurement (Ecopia/HMS-3000). The corrosion potential (Ecorr) and corrosion current density (icorr) of the films on SS316L were measured by a potentiodynamic polarization test using an electrochemical workstation (Princeton, VersaSTAT 4) and a conventional three-electrode cell in 3.65 wt% NaCl solution."
+}

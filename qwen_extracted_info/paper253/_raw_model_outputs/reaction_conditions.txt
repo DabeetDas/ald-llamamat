@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The agostic interaction between the central Lu atom and a Si atom in the silyl part of the ligand explains the presence of Si in films deposited using either H2O or O3 as oxygen source. The interaction is assumed to promote the removal of both Si and Lu from the ligand during the ALD process. The excess surface-(OH) species formed due to the precursor ligand oxidation following the interaction with O3 generate an excess of active groups for the ALD process, promoting high growth rates.",
+  "intermediate_species": ["surface-(OH) species"],
+  "evidence": "The agostic interaction occurring in [(Me3Si)2N]3Lu between the central Lu atom and a Si atom in the silyl part of the ligand is assumed to explain the fact that Si is always detected in films deposited below 300 °C using either H2O or O3 as oxygen source. The excess surface-(OH) species formed due to the precursor ligand oxidation following the interaction with O3 generate an excess of active groups for the ALD process, and promote the high growth rates."
+}<|im_end|>

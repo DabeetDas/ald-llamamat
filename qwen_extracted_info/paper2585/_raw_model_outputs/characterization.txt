@@ -1,0 +1,16 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectometry (XRR)",
+    "X-ray Diffraction (XRD)",
+    "Grazing Incidence X-ray Diffraction (GIXRD)",
+    "Ellipsometry",
+    "Time of Flight Secondary Ion Mass Spectroscopy (ToFSIMS)",
+    "Rutherford Backscattering Spectrometry (RBS)",
+    "Atomic Force Microscopy (AFM)",
+    "Scotch Tape Test",
+    "Chemical Mechanical Polishing (CMP)",
+    "Transmission Electron Microscopy (TEM)",
+    "Scanning Electron Microscopy (SEM)"
+  ],
+  "evidence": "The thickness within wafer nonuniformity (WiWNU) of the Ru films was determined by multiwavelength ellipsometry using a KLA-Tencor Aleris. The thickness limitation is set by the limited penetration depth of light in metals. Film thickness values were also determined by x ray reflectometry with a Bede Metrix-L x ray diffractometer using Cu K a radiation. The same diffractometer was used to assess the crystallinity by x ray diffraction (XRD) and grazing incidence x ray diffraction (GIXRD). The sheet resistance (Rs) was measured using an Rs100 KLA-Tencor 4-points prober. Impurity levels were measured by time of flight secondary ion mass spectroscopy (ToFSIMS) using an ION-TOF-IV instrument. Rutherford backscattering (RBS) using a 1 MeV He þ beam was used to determine the amount of metal atoms deposited per ALD cycle. AFM measurements [see Fig. 3(b)] show that the rms surface roughness of the PE-ALD Ru films on TiN is below 0.3 nm for films up to 20 nm. The data suggest layer closure between 2 and 2.5 nm deposited Ru. Finally, scotch tape tests and chemical mechanical polishing tests did not reveal any adhesion issue on Si/SiO2/TaN(0.8 nm)/Ru/(3 nm)/Cu and /Si/SiO2/TiN(1 nm)/Ru/(3nm)/Cu stacks. The step coverage of both the metal nitride nucleation layer and the Ru layer was assessed in narrow line structures. The lines were patterned in oxide using a sacrificial Si FIN removal approach. The TiN/Ru stacks were deposited on top of these structures and inspected by TEM to check the conformality. In Fig. 6(e), an SEM image after Cu fill is shown."
+}<|im_end|>

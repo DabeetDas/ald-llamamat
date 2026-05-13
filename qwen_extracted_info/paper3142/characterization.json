@@ -1,0 +1,17 @@
+{
+  "characterization_methods": [
+    "Single wavelength ellipsometer",
+    "Cross-section transmission electron microscopy (TEM)",
+    "X-ray fluorescence (XRF) spectroscopy",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Auger electron spectroscopy (AES)",
+    "Atomic force microscopy (AFM)",
+    "Glancing-angle incidence X-ray diffraction (GAXRD)",
+    "Electron-beam evaporator",
+    "DC sputtering",
+    "Optical microscopy",
+    "Hewlett-Packard 4194 impedance analyzer",
+    "Hewlett-Packard 4140B picoammeter"
+  ],
+  "evidence": "The TiO2 film thickness was measured using a single wavelength ellipsometer, which was calibrated by cross-section transmission electron microscopy (TEM). The areal density of Ti ions in the TiO2 films was measured by X-ray fluorescence (XRF) spectroscopy. X-ray photoelectron spectroscopy (XPS) was used to examine the chemical binding states. The film composition along the thickness direction was examined by Auger electron spectroscopy (AES). The surface morphology of the films was examined by atomic force microscopy (AFM). The Ru film thickness was estimated from the cross-section TEM images and XRF. TEM was also useful in examining the stacked microstructure of the various layers. Glancing-angle incidence X-ray diffraction (GAXRD) with an incidence angle of 1.5° was used to analyze the crystalline quality and phase of the Ru and TiO2 layers. The bulk density of the Ru film was calculated from the known thickness (from TEM) and XRF layer density of a thicker Ru film. The thickness of the thinner Ru layer could be estimated from the layer density of XRF and the known thickness (from TEM) of a thicker Ru film. The dielectric properties and leakage current properties of the films were measured using a Hewlett-Packard 4194 impedance analyzer at 10 kHz and a 4140B picoammeter, respectively."
+}

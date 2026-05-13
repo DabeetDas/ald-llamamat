@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "423",
+  "pressure": "1±5",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "3",
+  "reactor_type": "flow-type",
+  "evidence": "The reactions were carried out at a reduced pressure of 1±5 kPa in a modified flow-type ALCVD reactor."
+}

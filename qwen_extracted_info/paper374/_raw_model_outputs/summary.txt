@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs and GaAsxPl_x",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Trimethylgallium (TMG)", "Arsine (AsH3)", "Phosphine"],
+  "temperature_range": "550-610°C for (100) and 550-590°C for (111)B",
+  "summary": "The study describes the atomic layer epitaxy (ALE) growth of GaAs and GaAsxPl_x on (111)A and (111)B GaAs substrates. The process achieves high crystalline quality with abrupt heterointerfaces and smooth surface morphologies. The growth rate is influenced by the substrate orientation and purge duration, with the (111)B surface showing superior interface quality compared to (100) and (111)A surfaces. The results highlight the effectiveness of ALE in suppressing growth defects and achieving planar growth on (111) substrates.",
+  "evidence": "The ideal growth rate of one monolayer per cycle was obtained on a (111)B substrate, but not on a (111)A substrate. Mirror-like smooth surface morphologies can be obtained on both (111)A and (111)B substrates in a wide range of growth conditions. The X-ray rocking curve of the GaAsxPl_x/GaAs multilayer sample grown on the (111)B substrate showing clear satellite patterns indicates abrupt interfaces that are superior to those of the (100) sample. It was also found that the disorder in growth such as the generation of hillocks can be reduced drastically by the ALE method."
+}<|im_end|>

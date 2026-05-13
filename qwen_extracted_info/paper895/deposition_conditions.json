@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "home-made PE-ALD chamber",
+  "evidence": "A home-made PE-ALD chamber was used for this study. The PE-ALD chamber is connected to a co-sputter chamber through load lock, enabling the transfer of the sample between two deposition chambers without breaking vacuum."
+}

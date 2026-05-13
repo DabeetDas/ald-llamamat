@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "160",
+  "pressure": "50 mTorr",
+  "precursor_pulse_time_s": "0.5",
+  "coreactant_pulse_time_s": "0.3",
+  "purge_time_s": null,
+  "number_of_cycles": "200",
+  "reactor_type": "flow-type reactor",
+  "evidence": "The substrate temperature during ALD was maintained at 160 /C176 C. The lead precursor was volatilized at a temperature of 140 /C176 C. Reactions were carried out in a customized flow-type reactor with an argon carrier gas at a flow rate of 10 sccm. The chamber pressure was measured at 50 mTorr. ... The pulse time required to achieve saturation depends on a number of factors, including the geometry of the precursor delivery system, carrier gas flow rate, system base pressure, and vapor pressure of the precursor source. A typical pulse time used for the ALD reactors in our laboratory is 0.5s. ... The H2S source was a pressurized gas cylinder, which was regulated to -10 in. of Hg on the inlet side of the pneumatic ALD valve. At this pressure, a pulse time of 0.3 s was used in order to ensure saturation of the H2S half-cycle."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["HfI", "HfCl4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "HfI (Strem Chemicals, 99.5%) and HfCl4 (Aldrich, 99.9%) were evaporated from open boats held at 210 and 160 8C inside the reactor. H2O vapor was generated in an external reservoir at room temperature and led into the reactor through needle and solenoid valves. Nitrogen was used as both precursor carrier and purge gas."
+}

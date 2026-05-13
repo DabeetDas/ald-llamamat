@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "TiCl4"
+  ],
+  "coreactants": [
+    "deionized water"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "TiO2 ALD was carried out in a home-built setup at 150 ◦C using sequential TiCl 4 (Merck, ⩾ 99%) and deionized water exposures at a base pressure of 1 × 10−3 Torr."
+}

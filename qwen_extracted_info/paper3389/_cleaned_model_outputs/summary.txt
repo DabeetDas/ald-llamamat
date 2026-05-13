@@ -1,0 +1,8 @@
+{
+  "target_material": "IrO2 and NiO",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Ni-bis-2,2,6,6-tetramethyl-heptane-3,5-dionate (Ni(tmhd)2)", "iridium (III) acetylacetonate (Ir(acac)3)", "ozone (O3)"],
+  "temperature_range": "110 to 120 °C (for NiO) and 150 to 155 °C for sublimation, 200 to 210 °C for deposition (for IrO2)",
+  "summary": "The study demonstrates the feasibility of using atomic layer deposition (ALD) to deposit uniform and electroactive thin films of IrO2 and NiO on industrial metallic substrates for alkaline water electrolysis. The ALD process parameters, including sublimation and deposition temperatures, precursor pulse and purge lengths, and the number of deposition cycles, were optimized to achieve controlled film growth and enhanced electrochemical performance. The results show that the deposited films significantly reduce oxygen overpotential compared to bare Ni substrates, making them promising candidates for sustainable hydrogen production.",
+  "evidence": "Abstract: Atomic layer deposition (ALD) is a special type of chemical vapor deposition (CVD) technique that can grow uniformed thin films on a substrate through alternate self-limiting surface reactions. In this study, IrO2 and NiO thin films (approximately 25 to 60 nm) were deposited on industrial Ni expanded mesh as an anode for alkaline water electrolysis. The results from the electrochemical tests showed the catalytic activity of the samples. Oxygen overpotential values (ηO2) were 20 to 60 mV lower than the bare Ni expanded mesh. In summary, the study has demonstrated the feasibility of using the ALD technique to deposit uniformed and electroactive thin films on industrial metallic substrates as anodes for alkaline water electrolysis."
+}

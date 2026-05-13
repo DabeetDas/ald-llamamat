@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "2–3m bar",
+  "precursor_pulse_time_s": 1.0,
+  "coreactant_pulse_time_s": 1.5,
+  "purge_time_s": 2.0,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "GdScO3 thin films were deposited in a commercial flow-type hot-wall ALD-reactor (F-120 by ASM Microchemistry Ltd.) using β-diketonate compounds M(thd)3 (M = Gd, Sc; thd = 2,2,6,6-tetramethyl-3,5-heptanedionato) as metal-containing precursors and ozone as an oxygen source."
+}

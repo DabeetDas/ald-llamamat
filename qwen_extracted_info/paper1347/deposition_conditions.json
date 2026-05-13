@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "180-195",
+  "pressure": "6 to 9 Torr",
+  "precursor_pulse_time_s": 4.0,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 10.0,
+  "number_of_cycles": 1000,
+  "reactor_type": "Picosun R-75BE",
+  "evidence": "In initial experiments, the pulse length of 1 was varied, with a constant pulse length for tert-butylamine of 0.2 s. Purge lengths were 10.0 s. The growth rate reached a saturative value of 0.60 Å/cycle using ≥ 4.0 s pulses of 1 (Figure 1)."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-400",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.4,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 0.5,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The film growth experiments were carried out in a flow-type hot-wall ALD reactor F120. The duration of the Pr[N(SiMe3)2]3 pulse was, for the sample series fabricated at different substrate temperatures, held constant at 0.4 s while the H2O pulse and purge times were all 0.5 s."
+}<|im_end|>

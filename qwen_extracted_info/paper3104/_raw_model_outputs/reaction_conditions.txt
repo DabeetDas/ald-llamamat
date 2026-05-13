@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The formation of TaC, TaN, Ta3N5, and Ta2O5 phases was influenced by the deposition temperature and plasma power. The carbide phase was suppressed with ammonia, and the nitride phase was enhanced. The uptake of oxygen after deposition was observed, which affected the film resistivity. The plasma process led to a denser film with lower oxygen uptake.",
+  "intermediate_species": ["carbide phase", "nitride phase", "Ta3N5", "Ta2O5", "oxygen"],
+  "evidence": "It was shown that electrical properties of TaCN film were affected by the atomic composition and phase composition in the film. Formation of carbide phase was suppressed in the TaCN film deposited with ammonia. As the deposition temperature was increased, the carbide phase and TaN phase in the film were increased, Ta3N5 phase in the film was decreased and the film resistivity was decreased. The uptake of oxygen after deposition was about 5 atom % with the PEALD process and about 30 atom % with thermal ALD process and it is believed that denser film could be obtained with plasma."
+}<|im_end|>

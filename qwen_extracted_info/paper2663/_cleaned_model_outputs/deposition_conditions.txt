@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-400",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "Oxford Instruments FlexALTM ALD reactor",
+  "evidence": "The HfO2 thin films were deposited in an Oxford Instruments FlexALTM ALD reactor on 100–200 mm Si wafers either with a native oxide layer or H-terminated as created by a hydrofluoric acid (HF)-last process (1% HF). The Hf precursor employed was HfCp(NMe2)3, HyALD TM, obtained from AirLiquide. The precursor was stored in a stainless steel canister and heated to 60 /C14 C. At this temperature, the vapor pressure of the HyALD precursor is approximately 100 mTorr. 29 For the precursor delivery to the deposition chamber a 100 sccm Ar ( >99.999% purity) bubbling flow was employed. An Ar purge step with 100 sccm of Ar flow was applied after the precursor and plasma exposure steps. To avoid condensation of the precursor, the delivery lines were kept at 90 /C14 C while the reactor walls were heated to 120 /C14 C. As the oxidizing agent, an O2 (>99.999% purity) plasma generated in an inductively coupled plasma source was used. The reactor pressure during the plasma step was 15 mTorr. The plasma power used was 400 W. The substrate stage was heated to temperatures in the range of 150–400 /C14 C during the deposition processes."
+}

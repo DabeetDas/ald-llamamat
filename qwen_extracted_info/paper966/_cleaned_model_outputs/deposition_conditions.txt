@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 350,
+ "pressure": "0.1 Torr",
+ "precursor_pulse_time_s": 1,
+ "coreactant_pulse_time_s": 1,
+ "purge_time_s": 2,
+ "number_of_cycles": 1500,
+ "reactor_type": "Showerhead",
+ "evidence": "The SnCl4,H2O, and N2 purge gas were fed into the chamber through separate inlet lines and nozzles and purged in an ALD cycle. This cycle was repeated for 1500 times. The typical pulse times for both the SnCl4 and H2O feeds were 1 s, and the purge time between the reactants was 2 s. The other process parameters for SnO2 deposition used in this ALD process are as follows: base vacuum ¼1.0 /C2 10/C0 6 Torr, chamber pressure¼0.1 Torr, N2 gas flow rate ¼100 standard cubic centimeters per minute (sccm), and substrate temperature ¼350 1C."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "alumina",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "deionized H2O"
+  ],
+  "temperature_range": "33 °C",
+  "summary": "The study describes the synthesis of a porous polymer/ceramic composite material using low-temperature atomic layer deposition (ALD) to coat porous poly(styrene-divinylbenzene) (PS-DVB) particles with alumina films. The ALD process was carried out in a fluidized bed reactor at 33 °C, allowing for the uniform coating of both internal and external surfaces of the porous polymer particles. The results showed that the alumina films were conformal, uniform, and self-limiting, with a growth rate of approximately 0.3 nm per coating cycle. The ALD process was found to enhance the biocompatibility of the polymer, making it suitable for tissue engineering applications.",
+  "evidence": "Conformal alumina films were grown on internal and external polymer particle surfaces at 33 °C by atomic layer deposition (ALD). The reaction temperature was 33 °C, which is much lower than the softening/melting point of the porous polymer particles. The alumina film growth rate is much higher than the 0.11 to 0.13 nm per cycle of an ALD process reported in the literature. The XPS measurements revealed that alumina films were deposited on the polymer particle surfaces. The results of EDS indicated that the alumina films were deposited throughout the inner and outer surfaces of the porous particles."
+}

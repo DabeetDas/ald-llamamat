@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175",
+  "pressure": "0.1",
+  "precursor_pulse_time_s": "1.5",
+  "coreactant_pulse_time_s": "0.04",
+  "purge_time_s": "15",
+  "number_of_cycles": "1000",
+  "reactor_type": "exposure mode",
+  "evidence": "The depositions took place between 75 and 250 °C in an exposure mode reactor with an opening time of 1 s and 0.03 s for the tin and oxygen sources, respectively. Once the ALD window was determined, in order to investigate the growth rate as a function of the various ALD parameters, depositions at 175 °C were realized using opening times ranging from 0.5 to 2 s and 0.02 to 1 s for tin precursor and acetic acid, respectively. The residence time after each precursor pulse was set to 20 s, followed by a nitrogen purge of 15 s."
+}

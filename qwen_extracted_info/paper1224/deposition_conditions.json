@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "double showerhead",
+  "evidence": "The substrate temperature was maintained at 200 °C for both Ge precursors. The precursor exposure time (ts), cycle number, and growth temperature (Ts) were changed to find the optimal conditions for ALD growth based on the fixed oxidant exposure time (tr) and purging time (tp). The vapor pressure (~30 mTorr) of the Ge precursors was required for the ALD reaction, and the heating temperatures of the bubbler canisters of Ge(NMe2)4 and Ge(OnBu)4 were maintained at 50 and 105 °C, respectively. The precursor pulse time (ts) was 2 s, coreactant pulse time (tr) was 2 s, and purge time (tp) was 5 s."
+}

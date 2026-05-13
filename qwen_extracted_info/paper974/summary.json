@@ -1,0 +1,12 @@
+{
+  "target_material": "Al2O3/ZnO alloys",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum (Al(CH3)3, TMA)",
+    "water (H2O)",
+    "diethylzinc (Zn(CH2CH3)2, DEZ)"
+  ],
+  "temperature_range": "100 ◦C and 177 ◦C",
+  "summary": "The paper describes the use of atomic layer deposition (ALD) to deposit Al2O3/ZnO alloy films as an alternative dielectric material for rf MEMS capacitive switches. The films were deposited at 100 and 177 ◦C using alternating exposures of trimethylaluminum (TMA) and water for Al2O3, and diethylzinc (DEZ) and water for ZnO. The alloy films showed a dielectric constant similar to pure Al2O3 ALD, with a resistivity low enough to promote charge dissipation while maintaining a high dielectric constant. The ALD-coated switches demonstrated low insertion loss and high isolation, with lifetimes exceeding 1 billion cycles.",
+  "evidence": "Atomic layer deposition (ALD) was used to deposit an alternative dielectric barrier layer for use in radio frequency microelectromechanical systems (rf MEMS). The layer is an alloy mixture of Al2O3 and ZnO and is proposed for use as charge dissipative layers in which the dielectric constant is significant enough to provide a large down-state capacitance while the resistivity is sufficiently low to promote the dissipation of trapped charges. The ALD films were deposited at 100 and 177 ◦C using alternating exposures of trimethylaluminum (TMA) and water for Al2O3, and diethylzinc (DEZ) and water for ZnO. The dielectric constants of the Al2O3/ZnO ALD alloys were calculated to be similar to pure Al2O3 ALD, being ∼7. ALD-coated rf MEMS switches showed a low insertion loss, ∼0.35 dB, and a high isolation, 55 dB at 14 GHz. Mechanical actuation of the ALD-coated devices showed lifetimes of over 1 billion cycles."
+}

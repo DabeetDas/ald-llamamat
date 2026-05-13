@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 25,
+  "reactor_type": "Cambridge NanoTech Savannah",
+  "evidence": "ALD HfO2 films were grown at 300 °C using the HfCl4 / H2O chemistry route."
+}

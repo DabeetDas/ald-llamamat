@@ -1,0 +1,8 @@
+{
+  "target_material": "Pb(Zr,Ti)Ox (PZT)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["lead bis(2,2,6,6-tetramethyl-3,5-heptanedionato) (Pb(C11H19O2)2)", "titanium diisopropoxide bis(2,2,6,6-tetramethyl-3,5-heptanedionate) (Ti(OC3H7)2 (C11H19O2)2)", "zirconium chloride (ZrCl4)", "H2O"],
+  "temperature_range": "200 /C14 C and 250 /C14 C",
+  "summary": "The study describes the atomic layer deposition of Pb(Zr,Ti)Ox (PZT) on 4H-SiC for metal-ferroelectric-insulator-semiconductor (MFIS) devices. The PZT films were synthesized using ALD with specific precursors and annealed to achieve crystallinity. The electrical and ferroelectric properties of the PZT films were characterized, showing promising results for nonvolatile memory applications.",
+  "evidence": "The ALD of PZT was performed using a substrate temperature of 250 /C14 C, using precursors lead bis(2,2,6,6-tetramethyl-3,5-heptanedionato) (Pb(C11H19O2)2), titanium diisopropoxide bis(2,2,6,6-tetramethyl-3,5-heptanedionate) (Ti(OC3H7)2 (C11H19O2)2), and zirconium chloride (ZrCl4) with H2O as the oxidant."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Cobalt (Co)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["CoCp2", "NH3", "H2", "N2"],
+  "temperature_range": "300 °C",
+  "summary": "This study investigates the role of co-reactants in the atomic layer deposition (ALD) of cobalt (Co) using CoCp2 as the precursor. Three different processes were compared: an AB process using NH3 plasma, an AB process using H2/N2 plasma, and an ABC process using subsequent N2 and H2 plasmas. The study highlights the importance of plasma composition and the role of NHx species in determining film properties such as resistivity and impurity content. The results show that NH3 plasma and H2/N2 plasma lead to high-purity, low-resistivity films, while the ABC process with separate N2 and H2 plasmas results in high-resistivity and low-purity films due to the absence of NHx species.",
+  "evidence": "The study investigates the role of co-reactants in the atomic layer deposition (ALD) of cobalt (Co) using CoCp2 as the precursor. Three different processes were compared: an AB process using NH3 plasma, an AB process using H2/N2 plasma, and an ABC process using subsequent N2 and H2 plasmas. The study highlights the importance of plasma composition and the role of NHx species in determining film properties such as resistivity and impurity content. The results show that NH3 plasma and H2/N2 plasma lead to high-purity, low-resistivity films, while the ABC process with separate N2 and H2 plasmas results in high-resistivity and low-purity films due to the absence of NHx species."
+}<|im_end|>

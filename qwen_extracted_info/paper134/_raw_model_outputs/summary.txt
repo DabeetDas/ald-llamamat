@@ -1,0 +1,8 @@
+{
+  "target_material": "Co3O4",
+  "process_type": "ALD",
+  "main_precursors": ["CoI2", "O2"],
+  "temperature_range": "475–700 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of Co3O4 thin films using CoI2 and O2 as precursors on SiO2/Si(100) and MgO(001) substrates. The growth rate was found to be temperature-dependent, with higher growth rates observed at lower temperatures. The films were found to be polycrystalline on SiO2/Si(100) and epitaxial on MgO(001) with a specific in-plane orientation. No iodine was detected in the films, indicating complete removal of precursor residues.",
+  "evidence": "Thin films of Co3O4 have been successfully deposited on SiO2/Si(100) and MgO(001) substrates by atomic layer deposition (ALD) using the precursor combination CoI2/O2. The deposition temperature was found to have a strong influence on the growth rate. The films were found to grow as the cubic Co3O4 phase throughout the temperature range 475–700 °C, polycrystalline on SiO2/Si(100), and epitaxial on MgO(001). No iodine could be detected by Rutherford backscattering spectroscopy (RBS) or by X-ray fluorescence (XRF) spectroscopy in any of the deposited films."
+}<|im_end|>

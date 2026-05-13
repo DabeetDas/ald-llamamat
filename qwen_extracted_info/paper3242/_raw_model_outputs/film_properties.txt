@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 50,
+  "density_g_cm3": 3.4,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Rutile",
+  "evidence": "For films deposited at 300◦C and a substrate potential of 0 V , the XRD spectrum includes the (101), (004), (200), (105), and (211) diffraction peaks corresponding to the anatase TiO2 phase. When a bias voltage of −50 V is applied, the magnitude of these peaks decreases, while the (110) peak related to the rutile TiO2 phase starts appearing. When the bias voltage is further increased, the anatase diffraction peaks gradually disappear and the (110), (101), (111), and (211) diffraction peaks, corresponding to the rutile phase, increase in magnitude. At −200 V solely peaks related to the rutile phase are visible in the spectrum."
+}<|im_end|>

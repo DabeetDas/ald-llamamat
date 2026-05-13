@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225-400",
+  "pressure": "below 10 mbar",
+  "precursor_pulse_time_s": 2.0,
+  "coreactant_pulse_time_s": 1.0,
+  "purge_time_s": 1.0,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall flow-type F120 ALD reactor",
+  "evidence": "The films were grown in a hot-wall flow-type F120 ALD reactor (ASM Microchemistry Ltd., Helsinki, Finland). All films were deposited in the temperature range of 225 -400 °C. The pressure inside the reactor was below 10 mbar. MgF2 thin films were grown onto 5 × 5 cm2 Si(100) and Si(111) with native oxide. ... Nitrogen (NITROX UHPN 3000 nitrogen generator) was used as a carrier and a purge gas to separate flows of the precursors in the gas phase and to remove the excess reactants as well as the gaseous reaction byproduct."
+}

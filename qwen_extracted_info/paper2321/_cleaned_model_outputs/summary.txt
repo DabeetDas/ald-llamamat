@@ -1,0 +1,8 @@
+{
+  "target_material": "silicon nitride (SiN x)",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["tris[dimethylamino]silane (3DMAS)", "trisilylamine (TSA)", "dichlorosilane (DCS)"],
+  "temperature_range": "350 ◦C",
+  "summary": "The study investigates the correlation between film density and wet etch rate (WER) in hydrofluoric acid for plasma enhanced atomic layer deposited (PEALD) silicon nitride (SiN x). It evaluates the effect of different precursors and process conditions on film density and WER, showing that prolonged plasma exposure increases film density, which in turn reduces WER. The results indicate that a WER of 6.1 Å/min can be achieved with PEALD SiN x at 350 ◦C, comparable to LPCVD reactions at 850 ◦C.",
+  "evidence": "We determined that there is a strong correlation between WER and the density of the film that extends across multiple precursors, PEALD reactors, and a variety of process conditions. Limiting all steps in the deposition to a maximum temperature of 350 ◦C, it was shown to be possible to achieve a WER in PEALD SiN x of 6.1 Å/min, which is similar to WER of SiN x from LPCVD reactions at 850◦C."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethylgallium (TMG)", "Arsine (AsH3)"],
+  "coreactants": ["Phosphine (PH3)"],
+  "purge_gas": ["H2"],
+  "carrier_gas": [],
+  "evidence": "The flows of AsH3 (120 seem: 2 s) and TMG (15 seem: 1 s) were fed into the chamber with 0.5 and 1 s H2 purge duration times after each source gas supply, respectively. The growth sequence of the GaAsxP1_ x layer is composed of the TMG flow (1 s), H2 purge (1 s), phosphine (150 sccm: 2 s), H2 purge (1 s), AsH3 (2 s), and a final purge of H2 (0.5 s)."
+}

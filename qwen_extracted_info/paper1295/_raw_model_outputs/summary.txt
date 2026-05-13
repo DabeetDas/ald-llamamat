@@ -1,0 +1,8 @@
+{
+  "target_material": "β-NiS",
+  "process_type": "thermal ALD",
+  "main_precursors": ["nickel acetylacetonate [Ni(acac)2]", "H2S gas"],
+  "temperature_range": "200 −240 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of crystalline β-NiS thin films using nickel acetylacetonate [Ni(acac)2] as the nickel precursor and H2S gas as the sulfur precursor. The ALD process was carried out in the temperature range of 200 −240 °C, resulting in self-limiting growth without the need for post-annealing. The films exhibited excellent electrochemical glucose sensing properties, including high sensitivity and low detection limits.",
+  "evidence": "Rhombohedral nickel sul ﬁde thin ﬁlms were deposited on c-sapphire substrate via the atomic layer deposition (ALD) method using nickel acetylacetonate [Ni(acac)2] as nickel and H2S gas as sulfur precursors. The self-limiting nature of the ALD process is obtained in the temperature range of 200 −240 °C, which provides crystalline NiS thin ﬁlms without further annealing. A growth rate of ∼0.2 Å/cycle was observed at 200 °C. As-deposited thin ﬁlms were studied for non-enzymatic electrochemical glucose sensing. The ﬁlms exhibit an excellent sensitivity of 5.78 μA mM−1cm−2 and a low detection limit of 0.052 μM with a very small response time of <2 s."
+}<|im_end|>

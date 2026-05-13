@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD involve the sequential introduction of diethylzinc (DEZn) and water (H2O) precursors. The DEZn precursor reacts with surface hydroxyl groups, followed by a water pulse to regenerate the hydroxyl sites. The reaction mechanism is described as a ligand exchange between DEZn and surface hydroxyl groups, followed by a water pulse to regenerate OH sites.",
+  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum"],
+  "evidence": "Diethylzinc (DEZn) and the deionized water serve as zinc and oxygen precursors, respectively. The growth mode (e.g. the c-axis perpendicular or parallel to the surface) and grain diameters depend on purging time. The reaction mechanism is described as a ligand exchange between DEZn and surface hydroxyl groups, followed by a water pulse to regenerate OH sites."
+}<|im_end|>

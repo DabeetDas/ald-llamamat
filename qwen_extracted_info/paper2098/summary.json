@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnS:Mn",
+  "process_type": "ALD",
+  "main_precursors": [
+    "ZnI2",
+    "ZnCl2",
+    "Mn(thd)3"
+  ],
+  "temperature_range": "300–490 °C",
+  "summary": "Electroluminescent ZnS:Mn thin films were deposited using atomic layer deposition (ALD) with ZnI2 or ZnCl2 as the Zn source and Mn(thd)3 as the Mn source. The ZnI2 process showed a wide temperature range where growth rate was independent of temperature, allowing selection based on dopant precursor stability. The iodide process resulted in lower space charge, higher efficiency, and slower aging compared to the chloride process. The study highlights the impact of Zn precursor choice on electro-optical properties and aging behavior.",
+  "evidence": "The deposition processes were based on ZnI2 or ZnCl2 as the Zn source and Mn(thd)3 as the Mn source. The ZnI2 process was found to have a wide temperature range between 300 and 490 °C where the growth rate was independent of the deposition temperature. The electro-optical measurements suggested that the amount of space charge was lower within the phosphors made with the iodide process, which resulted in higher efficiency of the 'iodide' devices as compared to the 'chloride' devices."
+}

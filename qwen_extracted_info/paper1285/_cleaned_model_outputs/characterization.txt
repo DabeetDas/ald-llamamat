@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Scanning Electron Microscope (SEM)",
+    "Secondary Ion Mass Spectrometry (SIMS)",
+    "Atomic Force Microscopy (AFM)",
+    "Ellipsometry",
+    "X-ray Reflectivity (XRR)",
+    "Rutherford Backscattering Spectrometry (RBS)",
+    "PeakForce Quantitative Nanoscale Mechanical (QNM) technique"
+  ],
+  "evidence": "Water contact angle (WCA) measurements were performed as a quick method to assess the overall quality of the SAM using an OCA 20 Contact Angle System (DataPhysics) in static mode with sessile drops of 3 μL. The thickness of the layers was measured using a Woollam RC2 spectroscopic ellipsometer (J.A. Woollam Ellipsometry Solutions) mounted on a horizontal sample mount variable angle of incidence base controlled by CompleteEASE software. Spectroscopic ellipsometer data were collected in the wavelength range from 250 to 1000 nm at angles of 65 °,7 0°, and 75 °. The thickness and the mass associated with SAM deposited from the vapor phase on 300 mm wafer substrates were measured by X-ray reflectivity (XRR) in a JVX 7300 M (Jordan Valley) XRR tool and subtractive mass measurements in a Mentor SF3 (Metrix) tool, respectively. The total amount of Ti associated with the TiN film deposited on pristine vs SAM coated Si wafers was determined by Rutherford backscattering spectrometry (RBS), in a RBS400 system with a 1.52 MeV He+ ion beam. Images obtained from a scanning electron microscope (SEM, Hitachi SU8000) with a beam energy of 3 keV and a beam current of 10 pA were used to demonstrate the morphology of ASD features achieved upon SAM UVO3 patterning through a shadow mask. Self-focusing SIMS, a novel secondary ion mass spectrometry (SIMS) methodology, is applied to the patterned samples to collect information on the successful SAM patterning by UVO3 exposure though shadow mask and to assess the associated ASD of TiN. AFM experiments were performed in tapping mode using a Bruker Dimension Icon AFM equipped with a NSC19/AlBS tip from MikroMasch. The AFM images were analyzed with Nanoscope V software. In addition, the mechanical properties of the samples were characterized by PeakForce quantitative nanoscale mechanical (QNM) technique."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylgallium (TMG)", "ammonia (NH3)"],
+  "coreactants": ["ammonia (NH3)"],
+  "purge_gas": ["argon (Ar)"],
+  "carrier_gas": ["argon (Ar)"],
+  "evidence": "The reactor used an inert carrier gas (Ar) with high-speed ALD valves. The Ar flow rate was 25 sccm for TMG and NH3, and the NH3 flow rate was 5 sccm."
+}<|im_end|>

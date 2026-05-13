@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "-ZrCl3(s) + Ti(OCH(CH3)2)4(g) → -Zr(-O-)3TiOCH(CH3)2(s) + 3(CH3)2CHCl(g)",
+    "-ZrCl3(s) + Ti(OCH(CH3)2)4(g) → -Zr(-O-)3TiOCH(CH3)2(s) + 3CH2CHCH3(g) + 3HCl(g)",
+    "-TiOCH(CH3)2(s) → -TiOH(s) + CH2CHCH3(g)",
+    "-Zr(-O-)3TiOCH(CH3)(s) + ZrCl4(g) → -Zr(-O-)3TiOZrCl3(s) + (CH3)2CHCl(g)",
+    "-TiOH(s) + ZrCl4(g) → -TiOZrCl3(s) + HCl(g)"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves the release of 2-chloropropane and hydrogen chloride during the titanium isopropoxide pulse, with the surface transitioning to a chlorine-terminated state. The surface left after the titanium isopropoxide pulse contains isopropoxide and hydroxyl groups, which react with ZrCl4 to release 2-chloropropane and hydrogen chloride. The reactions convert the surface to a chlorine-terminated state, ready for the next titanium isopropoxide pulse.",
+  "intermediate_species": [
+    "2-chloropropane",
+    "hydrogen chloride",
+    "surface hydroxyls",
+    "isopropoxide groups",
+    "surface chlorines"
+  ],
+  "evidence": "The reaction which leads to the release of 2-chloropropane during the titanium isopropoxide pulse involves surface chlorines and can be written as... The reaction which leads to the release of HCl and CH2CHCH3 can be suggested to proceed through a six-member ring transition state... At the same time, part of the ZrCl4 molecules can also react with the hydroxyl groups, releasing hydrogen chloride, as observed... Both reactions convert the surface to chlorine terminated, that is, to the same state as that before the ALD cycle, and thus it is ready for the next titanium isopropoxide pulse."
+}

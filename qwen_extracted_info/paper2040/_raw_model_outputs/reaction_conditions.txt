@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "ZnCl2 + H2S -> ZnS + 2HCl"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the chemiadsorption of ZnCl2 molecules followed by a reaction with H2S to form ZnS, with the byproduct HCl being removed during purge steps.",
+  "intermediate_species": [
+    "ZnCl2 monolayer",
+    "ZnS partial monolayer"
+  ],
+  "evidence": "The substrate was first exposed to a 660 ms ZnCl2 gas pulse, which resulted in the chemiadsorption of a monolayer of molecules on the surface. Conversion to ZnS was accomplished by application of a 660 ms H2S pulse to the substrate."
+}<|im_end|>

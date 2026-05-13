@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "MeCpPtMe3/H20849ads/H20850+4 H2/H20849g/H20850=M e C5H9/H20849g/H20850+ 3CH4/H20849g/H20850+Pt/H20849ads/H20850"
+  ],
+  "surface_mechanism_description": "The reaction involves the adsorption of MeCpPtMe3 on the Ni surface followed by reduction with H2 to form Pt on the surface. The process is repeated in cycles to build up Pt coverage on the Ni substrate.",
+  "intermediate_species": [
+    "MeCpPtMe3/H20849ads/H20850",
+    "MeC5H9/H20849g/H20850",
+    "CH4/H20849g/H20850",
+    "Pt/H20849ads/H20850"
+  ],
+  "evidence": "The reaction in question can be described by the following equation18 MeCpPtMe3/H20849ads/H20850+4 H2/H20849g/H20850=M e C5H9/H20849g/H20850+ 3CH4/H20849g/H20850+Pt/H20849ads/H20850"
+}<|im_end|>

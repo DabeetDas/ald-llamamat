@@ -1,0 +1,7 @@
+{
+  "precursors": ["Mn(EtCp)2", "Ni(EtCp)2"],
+  "coreactants": ["H2O", "O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The metal precursor Mn(EtCp)2 was kept at source temperature Ts ¼ 75 1C, and pulsed for 5 s in the reactor. Pulses of H2O (6 s) or O3 (9 s) were used as oxygen source. Respectively, 4, 3, and 6 s long purge time in N2 were applied after Mn(EtCp)2, and H2O or O3 injection. Ni(EtCp)2 was kept at Ts ¼ 40 1C. One ALD cycle was defined as 10 s pulse of the Ni(EtCp)2 followed by a 9 s N2 purge and then 10 s pulse of O3 or H2O followed by 9 s purge."
+}<|im_end|>

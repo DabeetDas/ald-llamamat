@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "ALCVD proceeds by cycles consisting of reactant pulse steps and purge steps. Reactant vapors are pulsed onto the substrate, forming a self-limiting chemisorbed monolayer. After purging, another reactant source is pulsed, and chemical exchange reactions occur between the adsorbed layer and dosed precursors, forming another chemisorbed monolayer.",
+  "intermediate_species": [
+    "chemisorbed monolayer"
+  ],
+  "evidence": "Reactant vapors are pulsed onto substrate in an ALCVD reactor and a self-limiting chemisorbed monolayer of reactant is formed. Chemical exchange reactions proceed between adsorbed layer and dosed precursors, and another chemisorbed monolayer is formed."
+}

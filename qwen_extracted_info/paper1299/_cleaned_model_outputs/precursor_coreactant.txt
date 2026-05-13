@@ -1,0 +1,7 @@
+{
+  "precursors": ["Cu(acac)2", "TMA"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Copper(II) acetylacetonate (Cu(acac)2, 98%, Alfa Aesar), trimethylaluminum (TMA, AlMe3, Optograde, Rohm and Haas), water, and H2S (99.5 %, Air Liquide) were used as copper, aluminum, oxygen and sulfur sources, respectively. Nitrogen (N2, 99.9999%, Air Liquide) was used as both, carrier and purging gas."
+}

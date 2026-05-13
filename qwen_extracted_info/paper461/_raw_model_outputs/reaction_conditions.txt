@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "3SnCl,(g) + 2InO,(s) + 3SnO,(s) + 4InCl,(g), ΔG° = -73.8 kJ/mol"
+  ],
+  "surface_mechanism_description": "The surface roughness and lateral dimensions of the crystals decreased after a few SnO2 cycles, indicating that SnO2 is favorably deposited on pure In2O3. Once SnO2 has been formed on the surface, further exchange reactions become retarded, resulting in a smaller amount of SnO2 incorporated into the film during subsequent cycles.",
+  "intermediate_species": [
+    "SnO2",
+    "InCl2"
+  ],
+  "evidence": "In the previous study it was already reported that for films having the same tin to indium cycle ratio, the tin content is higher in the films grown by scheme 2 than in the films prepared by scheme 1. This suggests that the pure In2O3 surface is a more favorable substrate for the growth of SnO2 than an In2O3 surface partially or totally covered with SnO2. A feasible explanation for the favorable deposition of SnO2 is the following exchange reaction. 3SnCl2(g) + 2InO3(s) + 3SnO2(s) + 4InCl2(g), ΔG° = -73.8 kJ/mol. The AFM and STM results indicate that the surface roughness and the lateral dimensions of the crystals decreased after a few SnO2 cycles. This seems to confirm that SnO2 is favorably deposited on pure In2O3. Once SnO2 has been formed on the surface, further exchange reactions become retarded and, hence, the amount of SnO2 incorporated to the film during the next cycles is significantly smaller than that during the first SnO2 cycle."
+}<|im_end|>

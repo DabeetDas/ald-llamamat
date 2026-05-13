@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 130,
+  "pressure": "3 mbar",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": "5s",
+  "number_of_cycles": null,
+  "reactor_type": "Beneq TFS200",
+  "evidence": "The reactor pressure is about 3 mbar during the deposition process. The Ag(fod)(PEt3) precursor was loaded into an open quartz boat and heated at a temperature Ths of 100°C. The injection of the precursor is regulated by the process argon flow (Arpr) kept at 300 sccm, and a gas valve which controls the precursor pulse time tpr, during which the precursor is carried into the reactor. The reactor is equipped with capacitively coupled plasma (RF, 13.56 MHz). Glow discharges fed with H2, used as a reducing agent, are ignited at 100 W for all experiments, except when specifically mentioned."
+}

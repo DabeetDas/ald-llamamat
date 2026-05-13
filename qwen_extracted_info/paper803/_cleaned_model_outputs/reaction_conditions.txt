@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the incorporation of AlOx into Ru during ALD by periodic cycles of Ru and AlOx sub-cycles. The AlOx is incorporated into the Ru matrix, forming a RuAlO ternary film. The process involves the sequential supply of precursors and purge steps, with the incorporation of AlOx affecting the crystallinity and microstructure of the Ru film.",
+  "intermediate_species": ["Ru", "AlOx", "RuAlO"],
+  "evidence": "The text describes the incorporation of AlOx into Ru during ALD by periodic cycles of Ru and AlOx sub-cycles. The process involves the sequential supply of precursors and purge steps, with the incorporation of AlOx affecting the crystallinity and microstructure of the Ru film."
+}

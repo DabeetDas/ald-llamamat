@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Pb/H20849DPM/H208502",
+    "Ti/H20849Oi–Pr/H208502/H20849DPM/H208502",
+    "Zr/H20849DPM/H208504",
+    "Ti/H20849Oi–Pr/H208504"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Pb/H20849DPM/H208502, Ti/H20849Oi–Pr/H208502/H20849DPM/H208502, Zr/H20849DPM/H208504, and either Ti/H20849Oi–Pr/H208502/H20849DPM/H208502 or Ti/H20849Oi–Pr/H208504 were dissolved in ethylcyclohexane and separately injected into a vaporizer. H2O gas was used as an oxidant and was supplied for 1 s from a reservoir kept at 10°C by its own vapor pressure. The reactor was purged with 500 sccm Ar gas for a long time, typically 3–30 s."
+}<|im_end|>

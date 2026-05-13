@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100",
+  "pressure": "133.3 Pa",
+  "precursor_pulse_time_s": "0.1",
+  "coreactant_pulse_time_s": "0.1",
+  "purge_time_s": "5",
+  "number_of_cycles": "15",
+  "reactor_type": "cold-walled quartz chamber with an internal resistive sample heater, optical access, and in situ current measurement",
+  "evidence": "ZnO ALD was performed in two separate instruments, using alternating exposures to diethyl zinc (Strem) and deionized water (partial pressures /C24 133.3 Pa, 1–50 s duration, at 100 8C)."
+}<|im_end|>

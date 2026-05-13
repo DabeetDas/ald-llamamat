@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 522,
+  "pressure": "29 mTorr",
+  "precursor_pulse_time_s": 0.3,
+  "coreactant_pulse_time_s": 80,
+  "purge_time_s": 10,
+  "number_of_cycles": 100,
+  "reactor_type": "ultra-high vacuum system with turbo-molecular pump",
+  "evidence": "For hydrogen-free ALE, t, = 0.3 s, t, = 100 s, P = 29 mTorr, and T = 522°C. For atomic-hydrogen-assisted ALE, t, = 0.3 s, t, = 80 s, t, = 10 s, t, = 10 s, and T = 480°C."
+}<|im_end|>

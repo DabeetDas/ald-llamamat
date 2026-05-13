@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400-750",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": "50-1000",
+  "reactor_type": "flow-type low pressure ALD reactor",
+  "evidence": "The total pressure of the carrier gas and precursors measured at the reactor outlet was kept at approximately 250 Pa during the film growth. The precursor pulses and the purge times were 2 s each. Thus, the duration of a complete deposition cycle, which consisted of a HfI pulse, purge, O pulse and another purge, was 8 s. The number of deposition cycles was varied from 50 to 1000 in the experiments while the films were grown at substrate temperatures, T , ranging from 400 to 750 8C."
+}

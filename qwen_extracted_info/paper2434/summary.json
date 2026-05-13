@@ -1,0 +1,11 @@
+{
+  "target_material": "forsterite",
+  "process_type": "first-principles calculations",
+  "main_precursors": [
+    "hydrogen atoms",
+    "Mg vacancies"
+  ],
+  "temperature_range": "ambient condition",
+  "summary": "The study investigates the electrical properties of anhydrous and hydrous forsterite using first-principles calculations. It focuses on the effect of hydrogen point defects on the electronic structure and electrical conductivity of forsterite, particularly the role of hydrogen atoms in Mg vacancies. The presence of hydrogen significantly affects the electronic band structure, leading to changes in the electrical conductivity of forsterite.",
+  "evidence": "The study investigates the electrical properties of anhydrous and hydrous forsterite using first-principles calculations. It focuses on the effect of hydrogen point defects on the electronic structure and electrical conductivity of forsterite, particularly the role of hydrogen atoms in Mg vacancies. The presence of hydrogen significantly affects the electronic band structure, leading to changes in the electrical conductivity of forsterite."
+}

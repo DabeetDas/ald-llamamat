@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "TiCl4",
+    "Cr(acac)",
+    "hexamethyldisilazane (HMDS)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "ALE precursors, TiCl, and chromium acetylacetonate (Cdacac),) used without further purification were vaporized at 25°C and 190-200°C respectively. Hexamethyldisilazane (HMDS, (CH,),SiNH-SXCH,),) was vaporized at 50°C. Nitrogen was used as carrier gas in the ALE reactor."
+}

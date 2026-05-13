@@ -1,0 +1,8 @@
+{
+  "target_material": "Tungsten oxide",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["bis( t-butylimido)-bis(dimethylamido)tungsten", "nitrogen dioxide"],
+  "temperature_range": "350 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of tungsten oxide thin films using nitrogen dioxide as an oxygen source. The process is compared with other oxygen sources like water, oxygen, and hydrogen peroxide. The use of nitrogen dioxide results in minimal nitrogen content, enhanced deposition rate, and improved electrochemical and photothermal properties of the films.",
+  "evidence": "Tungsten oxide films deposited using this rarely utilized precursor are shown to have minimal nitrogen content, an enhanced deposition rate, and a WO3 stoichiometry. The electrochemical and photothermal properties of films deposited using nitrogen dioxide are shown to be superior to films deposited using the other oxygen precursors."
+}

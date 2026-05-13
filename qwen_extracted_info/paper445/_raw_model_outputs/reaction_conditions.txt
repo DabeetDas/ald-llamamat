@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the self-limiting adsorption of partially decomposed Si compound molecules over a clean Si surface, where Si atoms terminate dangling bonds and form a grown monolayer. The self-limiting species cover the entire surface, preventing further chemical adsorption. In the second step, the self-limiting species are removed, either by thermal desorption or chemical reactions, allowing for the next monolayer growth. Atomic H acts as an active reducer, removing self-limiting species from the surface.",
+  "intermediate_species": ["SiCl4", "H atoms"],
+  "evidence": "In the first step, SiH,Cl, is introduced on a clean surface to be decomposed into SiCl,. SiCl, molecules terminate the dangling bonds on the clean surface and make one monolayer adsorption. After the monolayer was grown, the SiH,Cl, injection is stopped and the second step starts. H atoms are well known to be created without plasma by decomposition of H2 using a hot W filament. H atoms are effective for desorbing halogen atoms terminating an Si surface even at room temperature."
+}<|im_end|>

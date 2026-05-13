@@ -1,0 +1,8 @@
+{
+  "target_material": "germanium",
+  "process_type": "atomic hydrogen-assisted ALE",
+  "main_precursors": ["dimethylgermane (DMGe)"],
+  "temperature_range": "420°C to 528°C",
+  "summary": "The paper describes the successful atomic layer epitaxy (ALE) of germanium using alternating exposures of atomic hydrogen and dimethylgermane (DMGe). The process achieves an ideal growth rate of one monolayer per cycle with a wide temperature range between 420°C and 528°C. Atomic hydrogen is used to extract surface-terminating hydrocarbon species, enabling the self-limiting monolayer adsorption of DMGe.",
+  "evidence": "Atomic hydrogen-assisted ALE of germanium has been demonstrated successfully by alternating exposures of atomic hydrogen, which acts as a reactant for extracting hydrocarbon from the surface, and of dimethylgermane as a self-limiting molecular precursor. The ideal growth rate of one monolayer per cycle has been achieved with a wide ALE temperature window between 420°C and 528°C."
+}<|im_end|>

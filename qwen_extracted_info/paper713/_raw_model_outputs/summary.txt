@@ -1,0 +1,8 @@
+{
+  "target_material": "Ir",
+  "process_type": "thermal ALD",
+  "main_precursors": ["(1,5-cyclooctadiene) (ethylcyclopentadienyl) iridium (Ir(EtCp)(COD))", "oxygen"],
+  "temperature_range": "240 to 420 ◦C",
+  "summary": "The study investigates the growth behavior of Ir thin films deposited by atomic layer deposition (ALD) on different interfacial layers such as SiO2, surface-treated TaN, and 3-nm-thick TaN. The Ir films were grown using Ir(EtCp)(COD) as the metalorganic precursor and oxygen as the reactant. The optimal deposition temperature was found to be around 330 ◦C, where the Ir films showed uniformity and a sharp interface. The growth mechanism was influenced by the chemical bonding pattern of the substrate and interfacial layers, with the most uniform Ir films observed on the 3-nm-thick TaN interface layer.",
+  "evidence": "Growth and nucleation behavior of Ir films grown by atomic layer deposition (ALD) on different interfacial layers such as SiO2, surface-treated TaN, and 3-nm-thick TaN were investigated. To grow Ir thin film by ALD, (1,5-cyclooctadiene) (ethylcyclopentadienyl) iridium (Ir(EtCp)(COD)) and oxygen were employed as the metalorganic precursor and reactant, respectively. The deposition temperature was varied from 240 to 420 ◦C. The Ir film grown on the 3-nm-thick TaN surface showed the smoothest and most uniform layer for all the deposition cycles. The growth behavior of the Ir layer on different interface layers is related to the chemical bonding pattern of the substrate film or interface layer."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "TaNx",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Pentakisdimethylamine-tantalum (PDMAT)",
+    "ammonia"
+  ],
+  "temperature_range": "275 °C",
+  "summary": "The study focuses on the structural and compositional characteristics of ultra-thin atomic layer deposited TaN x films as diffusion barriers for Cu metallization. The films are deposited using thermal ALD with PDMAT and ammonia as precursors. The films exhibit an fcc NaCl-type nanocrystalline structure, with a N/Ta atomic ratio of approximately 2, independent of film thickness and annealing. The study also examines the effects of thermal annealing on the structural and compositional properties of the films.",
+  "evidence": "The physical properties of cubic plasma-enhanced atomic layer deposition TaN films, J. Appl. Phys. 95, 5848 (2004); 10.1063/1.1704863. The deposition rate is approximately 12 Å/min. The films are deposited using thermal ALD with PDMAT and ammonia as precursors. The films exhibit an fcc NaCl-type nanocrystalline structure, with a N/Ta atomic ratio of approximately 2, independent of film thickness and annealing."
+}

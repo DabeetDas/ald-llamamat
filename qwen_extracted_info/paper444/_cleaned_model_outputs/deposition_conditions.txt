@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175-275",
+  "pressure": "10e5 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "MOMBE",
+  "evidence": "ZnSe and CdSe layers were grown by MOMBE on GaAs(001) substrates at 175-275°C and 120-380°C respectively. The back ground pressure during growth was on the order of 10e5 Torr."
+}

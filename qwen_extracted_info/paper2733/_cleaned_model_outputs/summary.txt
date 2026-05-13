@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Al(CH3)3", "H2O"],
+  "temperature_range": "250–500 °C",
+  "summary": "The study investigates the characteristics of Al2O3 films deposited via atomic layer deposition (ALD) using different precursors and growth temperatures. The films were grown on a Si(100) substrate using Al(CH3)3 (TMA) and H2O as precursors at temperatures ranging from 250 to 400 °C. The study also compares the results with films grown using AlCl3 and H2O at 500 °C. The effects of growth temperature and precursor choice on impurity incorporation, refractive index, and growth rate are analyzed.",
+  "evidence": "The materials characteristics of Al2O3 films grown on a Si(100) substrate by traveling wave reactor atomic layer deposition were investigated in the growth temperature ranging from 250 to 500 °C. The Al2O3 films grown using Al(CH3)3 trimethylaluminum (TMA) and H2O as precursors were characterized and also compared with the films grown using AlCl3 and H2O."
+}

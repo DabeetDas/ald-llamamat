@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "120-250",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "hot wall tube furnace",
+  "evidence": "Cobalt oxide ﬁlms were deposited using a hot wall tube furnace reactor. The cobalt precursor, Co(dpdab)2, was heated to 65 °C and the vapor was delivered into the chamber with an argon carrier gas at a ﬂow rate of 50 sccm."
+}

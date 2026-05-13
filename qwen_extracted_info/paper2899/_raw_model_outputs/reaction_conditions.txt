@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the reduction of metal precursors using BH3(NHMe2) at 160 °C, leading to the deposition of metallic Cu and Mn. The Mn atoms diffuse to the SiO2/Cu interface, forming MnSixOy layers that block Cu diffusion.",
+  "intermediate_species": ["metallic Cu", "metallic Mn", "MnSixOy"],
+  "evidence": "XPS studies of the Cu/Mn alloy films demonstrated the presence of metallic Cu and Mn atoms, thereby confirming the thermal growth of metallic Mn for the first time by ALD. The AES depth profiles of the Cu/Mn/Cu films show that Mn atoms have significant mobility within the Cu/Mn/Cu stacks, even in the as-deposited films."
+}<|im_end|>

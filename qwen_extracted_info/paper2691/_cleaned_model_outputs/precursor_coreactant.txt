@@ -1,0 +1,7 @@
+{
+  "precursors": ["tetrakis(dimethylamido) titanium (TDMAT)"],
+  "coreactants": ["N2", "NH3", "H2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The common titanium precursors during PEALD of TiN are either metal halides (e.g., TiCl4) or metalorganics (e.g., tetrakisdimethylamido titanium, TDMAT). ... The TDMAT precursor was kept at 75°C and the pulse period was set to 0.3 s. Purge periods of 10 s were introduced between the TDMAT and plasma half-cycles."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "20 mTorr",
+  "precursor_pulse_time_s": 0.05,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 5,
+  "number_of_cycles": 2000,
+  "reactor_type": "Savannah 100 cross-flow",
+  "evidence": "The Tungsten trioxide ﬁlms were deposited on a native silicon oxide covered (100) Si substrate with the following ALD growth conditions: the pulse time of the ALD precursor # 1 H2O was 0.05 s, the purging time was 5 s, the pulse time of ALD precursor #2 W(CO) 6 was 0.5 s and the purging time was 5 s. The base pressure was 20 mTorr."
+}

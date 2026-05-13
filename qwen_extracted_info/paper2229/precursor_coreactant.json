@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Cu(sBu-amd)2"
+  ],
+  "coreactants": [
+    "H2S"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Ultrahigh purity nitrogen carrier gas continuously passes through the flow tube at a mass flow rate of 300 sccm and a pressure of 1 Torr. ALD of Cu2S was performed using alternating exposures to /H20851Cu/H20849sBu-amd/H20850/H208522 /H20849Strem, 99%/H20850 and H2S /H20849Sigma-Alrich, /H1135099.5%/H20850. The /H20851Cu/H20849sBu-amd/H20850/H208522 vapor was delivered by 200 sccm nitrogen flow through a bubbler held at 110 ° C while the H2S pressure was reduced to /H1101110 Torr through a regulator."
+}

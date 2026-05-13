@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": 500,
+  "reactor_type": "Fiji 200",
+  "evidence": "The deposition was performed using bis(ethylcyclopentadienyl)nickel (Ni(EtCp)2, 98 % from Strem Chemicals) and O3. The temperature of the ALD reactor was set to 250 ◦C and the canister containing Ni(EtCp) 2 was held at 90 ◦C. The ALD cycle consisted of sequential pulse, exposure and purge of Ni(EtCp) 2 and O 3, successively. The pulse, exposure and purge durations were 2:10:10 s and 0.2:10:10 s for Ni(EtCp)2 and O3, respectively."
+}<|im_end|>

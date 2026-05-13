@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "plasma-assisted ALD",
+  "main_precursors": [
+    "Al(CH3)3",
+    "O2"
+  ],
+  "temperature_range": "70 °C",
+  "summary": "The study investigates the plasma-assisted atomic layer deposition (ALD) of Al2O3 using Al(CH3)3 and O2 plasma. The process involves chemisorption of Al(CH3)3 on the oxide surface, followed by removal of -CH3 ligands through combustion-like reactions driven by O radicals. The study highlights the role of plasma in enhancing the growth rate and the impact of reaction products on plasma properties.",
+  "evidence": "Reaction mechanisms during plasma-assisted atomic layer deposition of metal oxides: A case study for Al2O3. The experiments were carried out in a remote-plasma ALD system with an inductively coupled plasma source. A continuous flow of O2 serves both as plasma gas and as purge gas. Al(CH3)3 dosing and plasma exposure are alternated. The deposition temperature was set at 70 °C. The study reports that the O2 plasma removes -CH3 ligands from the surface mainly by combustion-like reactions driven by O radicals."
+}

@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "dethylzinc",
+    "water",
+    "trimethylaluminum (TMA)"
+  ],
+  "coreactants": [
+    "H2O",
+    "O3",
+    "NH3"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "For ZnO based systems, most commonly dethylzinc and water are used as precursors. It is also possible to achieve AZO layers by the repetitive inclusion of a few monolayers of Al2O3 using trimethylaluminum (TMA) and water as precursors."
+}

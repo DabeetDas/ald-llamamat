@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process for B2O3 films requires a passivation layer of SiO2 due to spontaneous decomposition caused by moisture in air. The surface reaction mechanism involves the formation of volatile H3BO3 during deposition, which is attributed to the direct formation of H3BO3. The use of O2 plasma as a reactant showed more stable characteristics against humidity, likely due to its higher film density, resulting in better film properties.",
+  "intermediate_species": [
+    "H3BO3"
+  ],
+  "evidence": "The text states: 'the ALD B2O3 process with H2O showed a significantly lower growth rate without saturation. We attribute this to the direct formation of volatile H3BO3 during the deposition, as we will describe later.' Additionally, it mentions: 'the B2O3 film required an upper up-SiO2 layer due to its high reactivity leading to volatile byproducts in air.'"
+}

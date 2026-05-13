@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between Ru(0) precursors and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Ru precursor adsorbed on surface",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "Recently, we reported that the nucleation of ALD-Ru was enhanced considerably using a zero metal valence precursor, isopropyl-methylbenzene-cyclohexadiene Ru(0) (IMBCHRu, C 16H22Ru) and molecular oxygen (O 2), compared to the utilization of precursors with higher metal valences. There was negligible and no incubation time for Ru film growth on the covalent SiO2 and ionic TiN substrate, respectively. This suggests that adsorption of the Ru precursor was increased when a Ru precursor with zero metal valence was used."
+}

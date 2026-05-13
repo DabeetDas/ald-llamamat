@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO/Al2O3 alloy films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Zn(CH2CH3)2", "H2O", "Al(CH3)3"],
+  "temperature_range": "177 °C",
+  "summary": "The study investigates the growth of ZnO/Al2O3 alloy films using atomic layer deposition (ALD). The films are fabricated by alternating exposures of Zn(CH2CH3)2/H2O for ZnO ALD and Al(CH3)3/H2O for Al2O3 ALD. The percentage of ZnO reaction cycles is varied from 0 to 100% to adjust the alloy composition. The results show that the measured thicknesses and compositions deviate from the 'rule of mixtures' predictions due to etching effects and reduced initial growth rates during ALD cycles. In situ quartz crystal microbalance (QCM) measurements reveal that Zn etching occurs during Al2O3 ALD cycles, and the growth rates are affected by surface chemistry and hydroxyl group interactions.",
+  "evidence": "The ZnO/Al2O3 alloy films were prepared by alternating Zn(CH2CH3)2/H2O exposures for ZnO ALD and alternating Al(CH3)3/H2O exposures for Al2O3 ALD. The percentage of ZnO reaction cycles was varied from 0 to 100%. The QCM measurements revealed that the Zn deficiency may result from the etching of Zn by the Al(CH3)3 precursor during the Al2O3 ALD cycles. The lower than expected film thicknesses are caused by a reduced initial growth rate for ZnO ALD on Al2O3 or Al-doped ZnO surfaces and Al2O3 ALD on ZnO or Zn-doped Al2O3 surfaces."
+}<|im_end|>

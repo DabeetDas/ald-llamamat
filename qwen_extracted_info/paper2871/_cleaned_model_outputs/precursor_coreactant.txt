@@ -1,0 +1,20 @@
+{
+  "precursors": [
+    {
+      "name": "Hf(OC(CH3)3)4",
+      "full_name": "hafnium tetra-tert-butoxide"
+    },
+    {
+      "name": "Si(N(CH3)(C2H5))4",
+      "full_name": "tetrakis-ethylmethylaminosilane"
+    }
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Argon (99.9995%) was used for a buﬀer ﬂow to keep the ﬂow uniform and as a carrier gas to transport source vapors into the reactor."
+}

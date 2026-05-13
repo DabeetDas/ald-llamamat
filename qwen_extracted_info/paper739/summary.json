@@ -1,0 +1,13 @@
+{
+  "target_material": "TaNx and TiNx",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "N2H4",
+    "TBTDET",
+    "TDMAT",
+    "TiCl4"
+  ],
+  "temperature_range": "100ºC to 400ºC",
+  "summary": "The study describes the thermal ALD growth of TaNx and TiNx films using anhydrous N2H4 as a nitrogen source. The process involves sequential exposures of N2H4 with organometallic precursors (TBTDET, TDMAT) and metal halides (TiCl4). The films exhibit low surface roughness, good stoichiometry, and high conductivity. N2H4 is noted as a reducing agent and a good proton donor, leading to lower impurities and resistivity compared to NH3-based processes.",
+  "evidence": "Thermal ALD of TaN x and TiNx films was performed using hydrazine (N2H4) as a reactive N -containing source. High conductivity nitride films were grown by a thermal low-temperature TiN x ALD process using anhydrous N 2H4 and titanium tetrachloride ( TiCl4) from 300 -400ºC; uniform, nearly stoichiometric films of 0.44 nm RMS roughness were deposited. Compared to NH3 grown films, XPS confirmed N2H4 grown films contained fewer O, C, and Cl impurities consistent with lower resistivities being observed with N 2H4. The data is consistent with N 2H4 serving as a reducing agent and a good proton donor to Ta and Ti ligands."
+}

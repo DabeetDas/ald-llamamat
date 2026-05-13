@@ -1,0 +1,8 @@
+{
+  "target_material": "silicon photonic crystal nanocavities",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(diethylamido)hafnium", "water"],
+  "temperature_range": "150 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to digitally tune the resonant wavelengths of high-Q/Vm silicon photonic crystal nanocavities. Hafnium oxide (HfO2) monolayers are deposited using thermal ALD at 150 °C, enabling precise control over cavity resonances with a linear tuning range of up to 17 nm. The process maintains high quality factors (Q) and allows for fine-tuning of optical properties, making it suitable for applications in cavity quantum electrodynamics and optical sensing.",
+  "evidence": "We propose and demonstrate the digital resonance tuning of high-Q/Vm silicon photonic crystal nanocavities using a self-limiting atomic layer deposition technique. Thin films of amorphous HfO2 are deposited conformally on silicon air-bridged photonic crystal slabs by means of ALD at 150 °C. The results demonstrate a nearly linear tuning across a range of around 17 nm. The tuning precision is 122± 18 pm/ALD cycle while preserving high quality factors of resonant modes in L5 photonic crystal nanocavities."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 4,
+  "density_g_cm3": null,
+  "refractive_index": "1.64 at 633 nm",
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The 1 ML nominal UTQWs present blue shifts of 0.74 and 0.92 eV in respect to the infrared band gaps of CdTe and CdSe, respectively. The 2 and 4 cycles CdSe QWs and the 4 cycles CdTe QW presented only one intense and well defined peak with very high intensity in the spectral range from above the energy gap of the QW material (Eg = 1.60 eV for CdTe, and 1.77 eV for CdSe at 15 K) to below the energy gap of the barrier material (Eg = 2.39 eV for ZnTe and 2.82 eV for ZnSe at 15 K). These spectra are indicative of the very high homogeneity of the thickness of the UTQWs; the minimal thickness fluctuation of ± 1 ML would be clearly visible because of the large difference in transition energies for QWs with monolayer fluctuations in the ultra-thin region."
+}

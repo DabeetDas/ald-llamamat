@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "2-3",
+  "precursor_pulse_time_s": "1.0",
+  "coreactant_pulse_time_s": "1.5",
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The deposition of ErxGa22xO3 thin films by ALD was studied employing the two precursor systems described above. For each precursor system, metal source compound pulses were followed by an oxygen source pulse to afford the growth of an atomic layer of the corresponding metal oxide."
+}

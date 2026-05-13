@@ -1,0 +1,7 @@
+{
+  "precursors": ["Zn nanowires", "polyhedral Zn microcrystals"],
+  "coreactants": ["water"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "During each deposition cycle, TMA and water were alternately introduced into the ALD chamber in pulses of 0.3 and 1.5 s, respectively. For both pulses we used an exposition time of 30 s and a successive purge time of 40 s under an Ar stream with a flow rate of 10 sccm."
+}<|im_end|>

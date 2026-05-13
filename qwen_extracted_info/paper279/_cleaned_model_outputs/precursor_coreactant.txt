@@ -1,0 +1,7 @@
+{
+  "precursors": ["DMCd", "DMZn", "DETe", "MATe"],
+  "coreactants": ["DETe", "MATe"],
+  "purge_gas": ["hydrogen"],
+  "carrier_gas": [],
+  "evidence": "Dimethylcadmium (DMCd) and dimethylzinc (DMZn) were used as the Cd and Zn sources respectively and diethyltelluride (DETe) or methylallyltelluride (MATe) were used as Te precursors. The total hydrogen flow was 4 to 6 1/min, and the reactor diameter was approximately 45 mm, so that it took less than 2 s to flush out the gases in front of the susceptor. A typical ALE cycle consists of 4 s of DMCd or DMZn with hydrogen flow, 8 s of hydrogen purge, 4 s of MATe or DETe with hydrogen flow followed by 8 s of hydrogen purge."
+}

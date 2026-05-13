@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "n (OH)* + DEZ → n O-ZnEt* + n C2H6",
+    "n O-ZnEt* + H2O → n O-ZnOH* + n C2H6",
+    "n (OH)n* + Ti(OiPr)4 → O-Ti(OiPr)4-n* + n iPrOH",
+    "O-Ti(OiPr)4-n* + H2O → n O-TiOH* + (4-n) iPrOH"
+  ],
+  "surface_mechanism_description": "The surface reactions during ALD of TZO involve ligand exchange between TTIP and surface hydroxyl groups, followed by water pulse to regenerate OH sites. The order of precursor introduction affects the surface chemistry and doping mechanism, with TTIP replacing Zn-Et surface fragments through etching, which is attributed to the higher bond energy of Ti-O compared to Zn-O.",
+  "intermediate_species": [
+    "O-ZnEt*",
+    "O-ZnOH*",
+    "O-Ti(OiPr)4-n*",
+    "O-TiOH*",
+    "iPrOH"
+  ],
+  "evidence": "The surface reactions and mechanisms were evidenced by in situ quartz-crystal microbalance (QCM) measurements. The text describes the reactions during the DEZ and H2O pulses for ZnO films, and the TTIP and H2O pulses for TiO2 films. The etching mechanism of TTIP on Zn-Et surface fragments was also discussed, attributing it to the higher bond energy of Ti-O compared to Zn-O."
+}<|im_end|>

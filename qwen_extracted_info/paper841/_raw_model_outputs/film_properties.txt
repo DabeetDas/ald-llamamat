@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 200,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.1,
+  "crystal_phase": "pseudomorphic",
+  "evidence": "A 200 nm InGaAs layer was grown by ALE with 3 s MO exposure, 4s H2 purge, 15 s AsH3 exposure, and 2 s H2 purge. For comparison, another InGaAs layer of the same thickness was grown using conventional MOCVD at the same temperature of 500 1C and a V/III ratio of 120. The lattice-matching condition was obtained by tuning the MO source flow rates. AFM indicates a similar surface roughness, with 0.1 nm for ALE InGaAs and 0.17 nm for conventional InGaAs for 5 /C2 5 mm2 scanning area."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD BeO surface is terminated with oxygen due to the termination of the deposition cycle with a water pulse, leading to electron pairing on the top surface, which lowers the surface energy and improves the interface quality between BeO and the gate electrode.",
+  "intermediate_species": [
+    "BeO surface"
+  ],
+  "evidence": "The BeO surface is similar to a hexagonal crystal surface. When a MBE Ge (6 nm) epitaxial layer was grown on a BeO (24 nm) surface, the Ge epitaxial layer is likewise highly crystalline. The BeO surface is expected to be Be- or O-terminated ( Fig. 7). Because the ALD BeO deposition cycle is terminated with a water pulse, the ALD BeO surface can only be oxygen-terminated, and electrons on the top surface may be completely paired."
+}

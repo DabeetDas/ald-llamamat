@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "",
+  "precursor_pulse_time_s": 6,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 20,
+  "number_of_cycles": 100,
+  "reactor_type": "Oxford Instruments FlexAL2",
+  "evidence": "The Al-doped MoS2 films were synthesized using an Oxford Instruments FlexAL2 using a super-cycle scheme. The films were grown using a table temperature of 450 oC resulting in a sample temperature estimated to be 350 oC."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["HfI4"],
+  "coreactants": ["H2O", "H2O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Nitrogen ~99.999%! was used as carrier and purge gas. Hafnium tetraiodide, HfI4 ~99%!, was evaporated from a silica crucible and carried to the substrates in a flow of N2 gas."
+}

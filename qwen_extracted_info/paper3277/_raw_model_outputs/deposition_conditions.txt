@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "0:5 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "Planar P400A ALD system",
+  "evidence": "SiO2 films were deposited by ALD on the aluminum mirrors at 300 °C using a Planar P400A ALD system, which was modified to promote laminar flow . The ALD sequence consisted of 1 s TMA exposure, 2 sN 2 purge and evacuation, 1 s TBS exposure, 2 sN 2 purge, and evacuation."
+}<|im_end|>

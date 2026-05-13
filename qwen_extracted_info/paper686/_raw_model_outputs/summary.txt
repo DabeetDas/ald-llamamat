@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnS:Mn and TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "100 8C and 400 8C",
+  "summary": "This study demonstrates the use of atomic layer deposition (ALD) to infiltrate ZnS:Mn and TiO2 into SiO2 opal templates to fabricate inverted opal films with photonic band gaps in the visible spectrum. The ALD process enables highly conformal and uniform coatings, achieving high filling fractions and high crystalline quality. The study highlights the advantages of ALD in creating complex 3D photonic crystal structures with precise control over material properties and optical performance.",
+  "evidence": "Here, we report recent progress on using atomic layer deposition (ALD) to infiltrate ZnS and TiO2 into SiO2 opal templates to fabricate inverted opal films with photonic band gaps in the visible spectrum. These materials were selected because of their luminescent properties and relatively high refractive index, respectively. ALD is a growth technique that utilizes the sequential application of reactants coupled with substrate temperature optimization to achieve layer-by-layer growth. Using this technique, we have successfully infiltrated SiO2 opals with ZnS and amorphous and crystalline films of TiO2. By optimizing pulse lengths, purge lengths, and temperature, full infiltration was achieved in opals made from spheres as small as 200 nm in diameter."
+}<|im_end|>

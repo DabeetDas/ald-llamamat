@@ -1,0 +1,7 @@
+{
+  "precursors": ["SnCl4", "H2O"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "ALD-SnO2 was performed on the synthesized N-CNTs through supplying tin (IV) chloride (99% SnCl4, Sigma–Aldrich) and deionized water into a commercial ALD reactor ... Nitrogen was used as the carrier gas with a flow rate of 20 sccm"
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Co(acac)3 is attached to the surface OH losing an acac-ligand, while the other two acac-ligands are oxidized during calcination. In subsequent ALE cycles, Co(acac)3 reacts with hydroxyls from the support and the OH groups of the Co–OH species previously generated, extending Co monoatomic patches into Co polyatomic islands.",
+  "intermediate_species": ["Co(acac)3", "Co–OH species", "monoatomic islands", "polyatomic islands"],
+  "evidence": "The catalysts were prepared by applying one to five sequential Co(acac)3 chemisorptions to the surface with calcination steps between them. During the chemisorption, it is proposed that Co(acac)3 is attached to the surface OH losing an acac-ligand, while the other two acac-ligands are oxidized during calcination. This means that after one ALE cycle, Co remains bonded to the support through an oxygen, producing Co monoatomic islands. However, in the following ALE cycles, Co(acac)3 could not only react with hydroxyls from the support but also with the OH groups of the Co–OH species previously generated. In this way the Co monoatomic patches are extended and Co polyatomic islands are formed."
+}<|im_end|>

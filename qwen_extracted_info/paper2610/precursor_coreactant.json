@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "bis(cyclopentadienyl)magnesium"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [],
+  "evidence": "The magnesium metal precursor was bis(cyclopentadienyl)magnesium [Mg(Cp) 2, Strem] and the purified H 2O vapor (Millipore 18 M X) was used as the oxidizer. Both inert gas purging and vacuum pumping were used between reactant exposures. Nitrogen was regulated to maintain 1 Torr reactor pressure."
+}

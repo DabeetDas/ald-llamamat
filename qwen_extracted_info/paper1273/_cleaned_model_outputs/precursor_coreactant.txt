@@ -1,0 +1,7 @@
+{
+  "precursors": ["Diethylzinc (DEZ)"],
+  "coreactants": ["H2O", "H2S"],
+  "purge_gas": [],
+  "carrier_gas": ["N2"],
+  "evidence": "Three precursors were used to grow Zn(O,S) thin films: diethyl zinc (DEZ, Sigma Aldrich), deionized water, and hydrogen sulfide gas (Sigma Aldrich 99.5 % pure). The precursors were introduced directly into one of the two nitrogen gas lines and were carried by the N2 flow into the reactor."
+}

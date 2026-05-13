@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Self-limiting growth is achieved due to the desorption of 2nd-XMI from 1st-XMI when adsorption sites of the second molecular layer are not entirely filled by the XMI molecules. The growth rate is independent of the injection time and pressure, and is attributed to stable surface reconstruction (2]4)-b.",
+  "intermediate_species": ["XMI molecules", "1st-XMI", "2nd-XMI", "indium atoms", "indium droplets", "phosphorus atoms"],
+  "evidence": "The surface morphology of the InP layers was specular under the self-limiting growth conditions. The TMI injection pressure range for self-limiting growth was almost two times wider than the TEI injection pressure range. By analyzing the limitation of the growth rate as well as the surface morphology, it was inferred that self-limiting growth was achieved due to the desorption of 2nd-XMI from 1st-XMI when adsorption sites of the second molecular layer was not entirely filled by the XMI molecules. The fact that the dependence of the growth rate on TMI injection time was similar to that on TEI injection time revealed that the adsorption rate of the TMI molecules was identical to that of the TEI molecules. It was assumed that the TEI molecules as well as the TMI molecules decomposed independently of the process of b elimination."
+}

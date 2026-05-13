@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "190-260",
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 8,
+  "number_of_cycles": null,
+  "reactor_type": "temperature-controllable ALD chamber",
+  "evidence": "A typical ALD cycle consists of first 2 s of the precursor pulse time, followed by 8 s to evacuate the chamber, then 3 s H2O pulse to provide the second reactant H2O, and 10 s to evacuate H2O."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall GEMSTAR-6 Benchtop ALD system",
+  "evidence": "The ALD system was evacuated and the temperature was stabilized before starting the deposition. The baseline pressure was maintained at 2.5 × 10−1 torr with a 10 sccm of argon flow. Bis(cyclopentadienyl)nickel (Ni(Cp)2) and ozone (O3) were introduced in a sequential manner as metal precursor and oxygen source, respectively, while argon was used as carrier and purging gas. The temperature of the Ni(Cp)2 container and the reaction chamber was maintained at 90 and 200 °C, respectively. The pulsing and exposure time for Ni(Cp)2 and ozone was adjusted to 2 s/30 s and 0.5 s/20 s, respectively."
+}<|im_end|>

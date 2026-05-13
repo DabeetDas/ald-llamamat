@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 180,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 2,
+  "reactor_type": "rotary",
+  "evidence": "ALD on LiCoO2 powders was performed using a rotary ALD reactor."
+}

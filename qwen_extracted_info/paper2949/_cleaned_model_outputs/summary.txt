@@ -1,0 +1,8 @@
+{
+  "target_material": "AlON-TiON",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["titanium isopropoxide (TTIP)", "H2O", "O2", "N2", "trimethyl aluminum (TMA)"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the use of AlON-TiON stacked insulators in ZnS:Mn thin film electroluminescent (TFEL) devices. The AlON layer was deposited by plasma-enhanced atomic layer deposition (PEALD) using trimethyl aluminum (TMA) as the Al precursor and O2 and N2 as O and N precursors. The TiON layer was deposited by PEALD using titanium isopropoxide (TTIP) as the Ti precursor and O2 and N2 as O and N precursors. The AlON-TiON (ATON) insulator showed improved performance compared to conventional Al2O3 insulators, with a higher luminance and better stability.",
+  "evidence": "The use of TiON films by plasma-enhanced atomic layer deposition as insulators in thin film electroluminescent devices was examined and compared with that of TiO2 by ALD. A ZnS:Mn TFEL device using AlON-TiON stacked insulator (ATON) exhibited the figure of merit of 12 mC/cm2. The luminance of the TFEL device with an ATON insulator was twice as high as that with a conventional Al2O3 insulator. In the TiO2-ALD and TiON-PEALD processes, titanium isopropoxide (TTIP) was used as the Ti precursor and H2O served as the O precursor in the ALD, and O2 and N2 were the O and N precursors in the PEALD process, respectively. Trimethyl aluminum (TMA) was used as the Al precursor and O2 and N2 were used as O and N precursors in the AlON-PEALD process. The deposition temperature was fixed at 250°C."
+}

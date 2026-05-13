@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "180±600",
+  "pressure": "50 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type hot-wall ALD reactor",
+  "evidence": "HfO2 ®lms were grown in a ¯ow-type hot-wall ALD reactor (Fig. 1) using HfCl 4 and H 2O as the precursors."
+}

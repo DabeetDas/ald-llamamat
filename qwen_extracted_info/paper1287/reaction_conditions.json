@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "Ir(acac)3 + O2 → Ir + CO2 + H2O",
+    "Ir(acac)3 + O3 → IrO2 + CO2 + H2O",
+    "Ir(acac)3 + H2 → Ir + CO2 + H2O"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the decomposition of ozone (O3) into oxygen species, which react with iridium acetylacetonate (Ir(acac)3) to form iridium oxide (IrO2) and other byproducts. The presence of hydrogen (H2) pulses helps in removing adsorbed oxygen, facilitating the formation of metallic iridium.",
+  "intermediate_species": [
+    "IrO2",
+    "CO2",
+    "H2O",
+    "Ir"
+  ],
+  "evidence": "The surface reactions and mechanisms are discussed in the context of the ALD processes for iridium and iridium oxide thin films. The text describes the decomposition of ozone into oxygen species, the reaction of Ir(acac)3 with O3 to form IrO2, and the role of H2 pulses in removing adsorbed oxygen. The formation of byproducts such as CO2 and H2O is also mentioned."
+}

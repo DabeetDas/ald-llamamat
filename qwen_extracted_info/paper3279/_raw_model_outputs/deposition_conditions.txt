@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 2.5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 15,
+  "number_of_cycles": null,
+  "reactor_type": "custom-built vacuum chamber",
+  "evidence": "The deposition utilized the reactants tris(2,4-pentanedionato) iridium and molecular oxygen. The substrate was held at 250° C. The deposition pulse sequence consisted of a 2.5 s iridium precursor pulse, followed by 15 s of 40 sccm argon as a purge, then 5 s of 40 sccm of oxygen, and finally a second 15 s argon purge."
+}<|im_end|>

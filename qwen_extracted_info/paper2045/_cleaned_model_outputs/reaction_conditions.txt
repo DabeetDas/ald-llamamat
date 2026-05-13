@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Zr(OH)* + Zr[OC(CH3)3]4 ! Zr–O–Zr[OC(CH3)3]3* + (CH3)3COH",
+    "Zr–O–Zr[OC(CH3)3]3* + 3H2O ! Zr–O–Zr(OH)3* + 3[OC(CH3)3]OH"
+  ],
+  "surface_mechanism_description": "Ligand exchange between Zr[OC(CH3)3]4 and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Zr–O–Zr[OC(CH3)3]3*",
+    "[OC(CH3)3]OH",
+    "Zr–O–Zr(OH)3*"
+  ],
+  "evidence": "One of the possible mechanisms of self-limiting properties is as follows. When the OH terminated surface is exposed to ZTB ambient, the following reaction occurs: Zr(OH)* + Zr[OC(CH3)3]4 ! Zr–O–Zr[OC(CH3)3]3* + (CH3)3COH. Here, * means the top surface condition. This reaction automatically stops when all the OH groups on the surface react with ZTB, leading to a self-limiting property. On the other hand, during the subsequent H2O exposure, the following reaction occurs: Zr–O–Zr[OC(CH3)3]3* + 3H2O ! Zr–O–Zr(OH)3* + 3[OC(CH3)3]OH. This reaction also automatically stops when all the OC(CH3)3 groups on the surface react with H2O, again leading to a self-limiting property."
+}

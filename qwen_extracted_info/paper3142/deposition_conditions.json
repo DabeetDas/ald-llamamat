@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "0.8 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "traveling-wave-type reactor (Quros. Co., Plus-100)",
+  "evidence": "TiO2 ﬁlms were deposited by ALD at a growth temperature of 250°C using a traveling-wave-type reactor (Quros. Co., Plus-100). The working pressure in the chamber was maintained at 0.8 Torr. TTIP vapor was introduced into the chamber for 3 s, which was followed by a 5 s purge."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Plasma-Enhanced ALD (PE-ALD)",
+  "main_precursors": ["TDMA T (tetrakis(dimethylamido) titanium)"],
+  "temperature_range": "150, 200, 300, and 400°C",
+  "summary": "The study describes the deposition of TiO2 thin films on stainless steel using plasma-enhanced atomic layer deposition (PE-ALD) with tetrakis(dimethylamido) titanium (TDMA T) and O2 plasma. The films showed varying crystalline phases (amorphous, anatase, rutile) depending on the growth temperature. The anatase phase at 300°C exhibited the highest photocatalytic efficiency, which was attributed to its structure and large surface area. The films demonstrated superhydrophilicity and effective degradation of organic compounds under UV irradiation.",
+  "evidence": "Plasma-enhanced atomic layer deposition /H20849PE-ALD/H20850of TiO 2 thin ﬁlms using Ti /H20849NMe2/H208504 /H20851tetrakis/H20849dimethylamido/H20850Ti/H20852and O 2 plasma were prepared on stainless steel to show the self-cleaning effect. The TiO 2 thin ﬁlms deposited on stainless steel have high growth rate, large surface roughness, and low impurities. The ﬁlm deposited below 200°C was amorphous, while the ﬁlms deposited at 300 and 400°C showed anatase and rutile phases, respectively. The contact angle measurements on crystalline PE-ALD TiO 2 thin ﬁlms exhibited superhydrophilicity after UV irradiation. The TiO 2 thin ﬁlm with anatase phase deposited at 300°C showed the highest photocatalytic efﬁciency, which is higher than on Activ glass or thermal ALD TiO 2 ﬁlms."
+}

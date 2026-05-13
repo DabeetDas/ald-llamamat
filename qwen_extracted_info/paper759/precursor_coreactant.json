@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Si(OC2H5)4"
+  ],
+  "coreactants": [
+    "H2O",
+    "C2H5N"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Si(OC2H5)4 was evaporated from a boat at 40 /C176C and was transpired with in Ar carrier gas. The working pressure in the reactor was about 1 T. C2H5N was used as a catalyst, H2O as a reactant gas and Ar as a carrier and purge gas."
+}

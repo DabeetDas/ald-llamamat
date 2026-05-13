@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 27,
+  "pressure": "10^−6 Torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 30,
+  "number_of_cycles": 1350,
+  "reactor_type": "electron flood gun",
+  "evidence": "A typical EE-ALD reaction sequence consisted of an electron gun exposure at 100 eV for 60 s with an electron emission current of 100 lA. A 300 s wait time was conducted to allow the electron gun filament to cool sufﬁciently. The surface was then exposed to a disilane dose of approximately 0.15 mTorr for <300 ms. A 30 s purge was performed to clear the chamber of disilane precursor."
+}<|im_end|>

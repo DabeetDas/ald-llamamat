@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Knudsen diffusion-limited ALD",
+  "main_precursors": ["diethylzinc (DEZ)", "water"],
+  "temperature_range": "room temperature",
+  "summary": "The study investigates the Atomic Layer Deposition (ALD) of ZnO on nanoporous alumina monoliths with an ultrahigh aspect ratio. The ALD process is limited by Knudsen diffusion of DEZ within the pores. The shrinking core model (SCM) is applied to predict the minimum exposure time for complete coverage of ZnO, which is found to be approximately 66 minutes, closely matching the experimental result of 70 minutes. The study also demonstrates the dependence of the minimum exposure time on the shape of the monolith.",
+  "evidence": "ZnO was grown on nanoporous alumina monoliths by atomic layer deposition (ALD) from diethylzinc (DEZ) and water. The ALD process in the nanoporous monolith, of which the aspect ratio is higher than 10^5, was limited by the Knudsen diffusion of DEZ within the pores. The minimum exposure time (τcy) of DEZ for the complete coverage of ZnO on the cylindrical monolith was predicted to be τcy ≈ FOHR2/4DeCo. The minimum exposure time was predicted to be ∼ 66 min. Indeed, the complete coverage of ZnO was experimentally accomplished in an exposure time of 70 min."
+}

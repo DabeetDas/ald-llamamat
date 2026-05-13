@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "275-425",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": "0.2-1.8",
+  "coreactant_pulse_time_s": "0.5-1.0",
+  "purge_time_s": "0.5",
+  "number_of_cycles": "780-2500",
+  "reactor_type": "hot-wall horizontal flow-type ALD reactor",
+  "evidence": "The films were grown in a hot-wall horizontal flow-type ALD reactor26 mainly onto borosilicate glass substrates. Some samples were grown on p-Si(100) at 360 °C. The p-Si(100) substrates were covered with 1.2-1.8 nm thick chemical SiO 2. The substrate temperature was varied in the range of 275-425 °C. The pressure in the reactor was about 10 mbar. Hf(mmp) 4 was evaporated from an open boat at 70 -100 °C, respectively, inside the reactor. H 2O vapor was generated in an external reservoir at room temperature and led into the reactor through needle and solenoid valves. Metal precursor pulse length was varied between 0.2 and 1.8 s, while the water pulse length was in the range of 0.5 -1.0 s. Constant purge times of 0.5 s were used after each precursor pulse to separate the precursor flows in the gas phase and to remove the excess reactants and gaseous reaction byproducts from the reactor. The number of growth cycles applied varied between 780 and 2500."
+}

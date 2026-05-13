@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["HfCl4", "H2O"],
+  "temperature_range": "300 and 370°C",
+  "summary": "The study compares the physical and electrical properties of HfO2 gate dielectrics deposited by ALD and MOCVD. ALD films were deposited using HfCl4 and H2O at 300 and 370°C, while MOCVD films used C16H36HfO4 at 550 and 650°C. The ALD films showed amorphous structure at 300°C and polycrystalline at 370°C, while MOCVD films were polycrystalline. The study highlights differences in film microstructure, impurities, and electrical properties such as capacitance and leakage current.",
+  "evidence": "HfCl4 and water were the precursors used for ALD HfO2 deposition at 300 and 370°C, whereas C16H36HfO4 was used for MOCVD deposition at 550 and 650°C. The ALD and MOCVD films have comparable density. MOCVD thin films are polycrystalline, while the 300°C deposited ALD HfO2 are amorphous. The 370°C deposited ALD HfO2 are polycrystalline. SIMS analysis indicated chlorine and carbon are the major contaminants in ALD and MOCVD HfO2 films, respectively. Electrical properties of ALD and MOCVD HfO2 films were examined using metal oxide silicon capacitors."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "anatase TiO2",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD) and pulsed plasma-enhanced chemical vapor deposition (PECVD)",
+  "main_precursors": ["TiCl4", "O2"],
+  "temperature_range": "25 – 200 °C",
+  "summary": "The study compares pulsed plasma-enhanced chemical vapor deposition (PECVD) and plasma-enhanced atomic layer deposition (PEALD) for the self-limiting growth of anatase TiO2 at low temperatures using TiCl4 and O2 as precursors. The key distinctions are in precursor utilization and conformality, with PEALD being more suitable for complex topographies and PECVD being more efficient in terms of precursor use.",
+  "evidence": "Self-limiting deposition of titanium dioxide thin films was accomplished using pulsed plasma-enhanced chemical vapor deposition (PECVD) and plasma-enhanced atomic layer deposition (PEALD) at low temperatures (T b 200 °C) using TiCl4 and O2. The quality of the anatase films produced by the two techniques was nominally identical. The key distinctions are found in precursor utilization and conformality. Pulsed PECVD requires 20 times less TiCl4, while PEALD must be used to uniformly coat complex topographies."
+}<|im_end|>

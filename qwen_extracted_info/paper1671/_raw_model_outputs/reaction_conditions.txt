@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [
+    "A (CH3) f B (CO3^2-) f C (Al2O3)"
+  ],
+  "surface_mechanism_description": "Combustion-like reaction mechanism where -CH3 ligands from TMA react with O2 plasma to form -OH groups and Al2O3, with carbonates acting as short-term intermediates that decompose into CO2 and contribute to Al2O3 growth.",
+  "intermediate_species": [
+    "carbonates"
+  ],
+  "evidence": "The kinetic behavior of the surface carbonates suggests a series reaction of the type A (CH3) f B (carbonates) f C (Al-O-Al), where the carbonates (species B) are the short-term intermediates formed upon combustion of -CH3 (species A), which eventually get converted to Al-O-Al bonds (species C) via the elimination of CO2."
+}<|im_end|>

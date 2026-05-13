@@ -1,0 +1,32 @@
+{
+  "precursors": [
+    {
+      "name": "Tetrakis(ethylmethylamino)hafnium",
+      "abbreviation": "TEMAHf"
+    },
+    {
+      "name": "Pentamethylcyclopentadienyltitan-trimethoxid",
+      "abbreviation": "Cp*Ti(OMe)3"
+    },
+    {
+      "name": "Tetrakis(dimethylamino)titan",
+      "abbreviation": "TDMAT"
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "ozone"
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Argon"
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "Argon"
+    }
+  ],
+  "evidence": "The samples were prepared in a custom build 300 mm shower head reactor (ALD300, FHR Anlagenbau GmbH). The substrate temperature for the deposition of HfO2 thin films was 180, 230, and 270 8C at a process pressure of 1 mbar. The TiO 2 thin films were also deposited at 270 8C using Cp*Ti(OMe) 3. The TEMAHf and the Cp*Ti(OMe)3 were evaporated at 90 8C. Argon was used as a carrier gas at a flow rate of 500 sccm to transport the vapor into the reactor. Ozone in a concentration of 250 g/m 3 was delivered at a rate of 1000 sccm."
+}

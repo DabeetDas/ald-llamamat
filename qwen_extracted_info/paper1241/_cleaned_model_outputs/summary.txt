@@ -1,0 +1,8 @@
+{
+  "target_material": "WS2",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["W(NMe2)2(NtBu)2", "H2S"],
+  "temperature_range": "300 °C",
+  "summary": "The study demonstrates the use of plasma-enhanced atomic layer deposition (PEALD) to engineer edge-site density in WS2 films for enhanced electrocatalytic hydrogen evolution. By altering the plasma gas composition from H2S to H2+H2S, the morphology and composition of WS2 films were controlled, leading to a higher density of reactive edge sites. The process enables precise control over edge-site density, which is correlated with improved hydrogen evolution reaction (HER) performance.",
+  "evidence": "By altering the plasma gas composition from H2S to H2+H2S during PEALD, we could precisely control the morphology and composition, and consequently, the edge-site density as well as chemistry in our WS2 films. The precise control over edge-site density was verified by evaluating the number of exposed edge-sites using electrochemical copper underpotential depositions (Cu-UPD)."
+}

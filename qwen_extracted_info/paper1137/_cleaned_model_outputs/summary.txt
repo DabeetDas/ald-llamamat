@@ -1,0 +1,8 @@
+{
+  "target_material": "LaAlO3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["La(thd)3", "Al(CH3)3", "ozone"],
+  "temperature_range": "250 °C",
+  "summary": "Highly epitaxial thin films of LaAlO3 were deposited on SrTiO3 substrates using atomic layer deposition (ALD) with La(thd)3, Al(CH3)3, and ozone as precursors. The films were annealed at 650 °C under oxygen atmosphere to achieve epitaxial growth. The study aimed to investigate the interfacial morphology and structural properties of the LaAlO3/SrTiO3 interface, which is crucial for understanding exotic effects such as superconductivity and ferromagnetism.",
+  "evidence": "Highly epitaxial thin films of lanthanum aluminate (LaAlO3) have been obtained on strontium titanate (SrTiO3) substrates by means of atomic layer deposition using La(thd)3, Al(CH3)3 and ozone as precursors. The system shows a near linear relationship between pulsed and deposited composition. Thin films with stoichiometric composition have been subject to thermal annealing at 650 °C under oxygen atmosphere, thereby achieving epitaxial films on Ti-O-terminated substrates of SrTiO3."
+}

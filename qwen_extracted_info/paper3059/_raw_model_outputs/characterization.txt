@@ -1,0 +1,23 @@
+{
+  "characterization_methods": [
+    "X-ray reﬂection",
+    "Time-of-ﬂight elastic recoil detection analysis (TOF-ERDA)",
+    "Transmission electron microscopy (TEM)",
+    "Current-voltage (I-V)",
+    "Capacitance-voltage (C-V)",
+    "Deep-level transient spectroscopy (DLTS)",
+    "Conductance transients (G-t)",
+    "Constant-capacitance ﬂatband voltage transients (V FB-t)",
+    "X-ray diffraction (XRD)",
+    "Ellipsometry",
+    "X-ray reflectivity (XRR)",
+    "Atomic force microscopy (AFM)",
+    "Profilometry",
+    "Four-point probe",
+    "Hall Effect",
+    "Scanning electron microscopy (SEM)",
+    "Secondary ion mass spectrometry (SIMS)",
+    "Energy-dispersive X-ray spectroscopy (EDS)"
+  ],
+  "evidence": "The techniques used were current-voltage (I-V), capacitance-voltage (C-V), deep-level transient spectroscopy (DLTS), conductance transients (G-t), and constant-capacitance flatband voltage transients (V FB-t). The thicknesses of the films were evaluated from X-ray reflection patterns measured with a Bruker D8 Advance X-ray diffractometer. The film structure was determined by the same diffractometer in grazing incidence mode. Film composition was determined by time-of-flight elastic recoil detection analysis (TOF-ERDA) on reference films of higher thickness. Transmission electron microscopy (TEM) was applied for imaging the cross section of four representative samples. The electrical measurements were carried out on Al/Gd2O3/n-Si and Al/Gd2O3/SiO2/n-Si capacitors. The I-V curves were measured with a Keithley 6517A programmable electrometer. The C-V measurements were carried out with the assistance of a Boonton 72B capacitance meter and a Keithley 617 programmable electrometer. Interfacial state densities were obtained by saturating pulse DLTS between 77 and 300 K. The conductance transient technique consists of an HP 33120A arbitrary wave-form generator to apply the bias pulses, an EG&G 5206 two-phase lock-in analyzer to measure the conductance, and an HP 54501A digital oscilloscope to record the complete conductance transient. Flatband voltage transients at temperatures between 77 and 300 K have been measured by recording the gate voltage while keeping the capacitance constant at the initial flatband condition."
+}<|im_end|>

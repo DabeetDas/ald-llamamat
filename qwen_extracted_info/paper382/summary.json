@@ -1,0 +1,11 @@
+{
+  "target_material": "Aluminum nitride (AlN)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Trimethylaluminum (TMAI)",
+    "Ammonia (NH3)"
+  ],
+  "temperature_range": "600 K",
+  "summary": "The study explores the ALD growth of AlN thin films using TMAI and NH3 at 600 K. Sequential exposure leads to self-limiting adsorption and site-selective reaction, forming a thin AlN layer. Coexposure results in continuous deposition of a thick AlN film. The processes are analyzed using FTIR and XPS, showing the formation of AlN, NH2, and dinitrogen species. The minimum temperature for AlN formation is identified as ~600 K.",
+  "evidence": "The reactions of trimethylaluminum (TMAI) and ammonia (NH3) on alumina at 600 K were studied to explore fundamental issues of AlN film growth. Sequential exposure leads to self-limiting adsorption and site-selective reaction, forming a thin AlN layer. Coexposure results in continuous deposition of a thick AlN film. The processes are analyzed using FTIR and XPS, showing the formation of AlN, NH2, and dinitrogen species. The minimum temperature for AlN formation is identified as ~600 K."
+}

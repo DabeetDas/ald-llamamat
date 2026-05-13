@@ -1,0 +1,11 @@
+{
+  "target_material": "Cu2+ ion",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Cu2+ ions",
+    "non-magnetic host lattice"
+  ],
+  "temperature_range": "Not explicitly mentioned",
+  "summary": "The paper discusses the Jahn-Teller effect in Cu2+ ions within a non-magnetic host lattice, focusing on the broken symmetry and the resulting excitation branches. The study highlights the Goldstone theorem's prediction of zero-frequency excitations at infinite wavelength when Jahn-Teller terms are present.",
+  "evidence": "The Jahn-Teller terms in the Lagrangian of the system we have treated produce a system with broken symmetry. We have examined the excitations of this system and find that the inclusion of these terms forces one excitation branch to have zero frequency at infinite wavelength, giving a very clear illustration of Goldstone's conjecture."
+}

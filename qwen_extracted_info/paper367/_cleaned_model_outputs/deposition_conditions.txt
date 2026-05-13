@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "450",
+  "pressure": "atmospheric",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "30",
+  "number_of_cycles": null,
+  "reactor_type": "halogen transport",
+  "evidence": "The growth temperature was 450°C. In the figure, the total flow rates were 1386 ml/min for GaCI, 1286 ml/min for purge, and 1295 ml/min for AsH3, respectively. The gas flow sequence consisted of four stages: GaCI supply, H2 purge, AsH3 supply and H2 purge."
+}

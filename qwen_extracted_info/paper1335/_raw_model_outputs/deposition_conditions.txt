@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": 400,
+  "reactor_type": "showerhead",
+  "evidence": "Material Synthesis: MoS2 thin films were deposited using Mo(CO)6 [UP chemical Inc., Korea] precursor and H2S plasma reactant by PEALD in a showerhead type ALD reactor (LucidiaRM100, NCD Technology) at a deposition temperature of 200 °C. ... The Mo(CO)6 is in solid state at room temperature (white powder) and the precursor was kept at a temperature of 40 °C to achieve a minimum amount of vapor pressure (ca. 0.8 Torr) and to prevent the precursor from condensation, the line was heated up to 60 °C. ... high purity Ar was used as carrier gas with the flow rate of 50 sccm (standard cubic centimeter per minute) enabling proper chemical transfer as well purging gas with the flow rate of 200 sccm in-between the sequential exposure of the precursor and the reactant."
+}<|im_end|>

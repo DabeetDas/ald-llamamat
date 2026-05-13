@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 240,
+  "pressure": "1.0 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "AIXTRON, AIX-200",
+  "evidence": "The reactor pressure was adjusted to 1.0 Torr by a throttle valve under the flows of the carrier and purge gasses, and the ratio of the valve opening was fixed before starting the precursor injection."
+}

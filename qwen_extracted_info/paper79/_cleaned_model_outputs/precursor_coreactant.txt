@@ -1,0 +1,7 @@
+{
+  "precursors": ["Mo(NMe2)4", "H2S"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Next, using a commercial hot-wall viscous-flow ALD reactor (Ultratech Savannah S200 with insulated lid), films were grown in continuous-flow mode by alternating pulses of Mo(NMe2)4 and H2S using an ultra-high-purity N2 carrier gas."
+}

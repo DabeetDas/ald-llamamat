@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnSe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["DMZn", "H2Se"],
+  "temperature_range": "200 to 275°C",
+  "summary": "The study investigates the Atomic Layer Epitaxy (ALE) of ZnSe using a MOMBE system with DMZn and H2Se as source materials. Two ALE modes, 'MBE-like' and 'CVD-like', are explored. The 'MBE-like' mode shows superior photoluminescence properties and surface morphology compared to the 'CVD-like' mode. The growth temperature range for ALE is 200 to 275°C, and the process involves pulsed molecular beams with specific flow rates and pulse durations.",
+  "evidence": "Atomic layer epitaxy (ALE) of ZnSe films has been examined by MOMBE system using DMZn and H2Se as source materials. Depending on whether the source materials are cracked before reaching substrate or not, ALE of ZnSe by both 'MBE-like' and 'CVD-like' modes can be achieved. It has been found that 'MBE-like' ALE mode is superior to 'CVD-like' ALE mode in terms of photoluminescence properties and surface morphology. The growth rate per cycle is achieved in the temperature range of 200 to 275°C."
+}

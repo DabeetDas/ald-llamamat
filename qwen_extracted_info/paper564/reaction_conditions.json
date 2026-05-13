@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALE process is governed by the chemisorption of the precursors, leading to layer-by-layer growth. However, recent studies have shown that island or Stranski–Krastanov type processes are possible on amorphous or polycrystalline substrates, leading to the formation of polycrystalline thin films.",
+  "intermediate_species": [
+    "SnO2 nanocrystallites",
+    "tetragonal SnO2 (110) type crystalline planes"
+  ],
+  "evidence": "The SnO2 growth rate by ALE on flat Si and glass surfaces was investigated previously as a function of precursor pulse times and was found to be independent of pulse time when the SnCl4 and H2O pulse times exceeded 100 ms and 500 ms respectively. The process is surface controlled in this regime resulting in a growth rate of 0.35 Å per cycle. According to X-ray diffraction (XRD) studies, films above 20 nm thickness are polycrystalline cassiterite, with the thickness depending on preferred orientation both on glass and on silicon substrates."
+}

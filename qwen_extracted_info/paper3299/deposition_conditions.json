@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "650",
+  "pressure": "130 Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "RTA furnace",
+  "evidence": "A 0.7 nm thick HfAlO X (Hf:60at.%) film was typically deposited on SiO 2/p-Si using TMA, Hf[N(CH3)2]4 and H2O, followed by the in-situ rapid thermal annealing at different temperatures in NH 3 at 130Pa."
+}

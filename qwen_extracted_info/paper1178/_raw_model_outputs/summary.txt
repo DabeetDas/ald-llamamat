@@ -1,0 +1,8 @@
+{
+  "target_material": "Gallium Nitride (GaN)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Hexacoordinated Ga(III) triazenide"],
+  "temperature_range": "155 °C to 350 °C",
+  "summary": "The study reports the development of a new hexacoordinated Ga(III) triazenide precursor for the atomic layer deposition (ALD) of high-quality epitaxial GaN films. The precursor enables the deposition of GaN at lower temperatures compared to traditional methods, with the films showing near stoichiometric Ga/N ratios, low impurities, and good crystallinity. The ALD process was carried out using a 10 s pulse of the precursor and a 12 s NH3 plasma, with a 10 s N2 purge, and the films were found to be epitaxial on 4H-SiC without an AlN seed layer.",
+  "evidence": "The GaN films grown in the second growth interval at 350 °C were epitaxial on 4H −SiC without an AlN seed layer and found to have a near stoichiometric Ga/N ratio with very low levels of impurities. The deposition temperature ranges of intervals II and III indicate a higher thermal stability of the deposited surface species of 1 in comparison to the previously used Ga(NMe2)3."
+}<|im_end|>

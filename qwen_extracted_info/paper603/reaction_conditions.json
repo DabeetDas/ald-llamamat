@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "TMA + OH -> Al-CH3 + H+",
+    "Al-CH3 + H2O -> OSi(CH3)3 + CH4",
+    "Si-CH3 + H2O -> O2Si(CH3)2 + H+",
+    "O2Si(CH3)2 + H2O -> O3SiCH3 + H+"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves the chemisorption of trimethylaluminium (TMA) on silica surfaces, where TMA reacts with surface hydroxyl groups (OH) and siloxane bridges. The reaction with water vapor removes methyl groups from Al-CH3 groups, forming OSi(CH3)3, O2Si(CH3)2, and O3SiCH3 species. The growth of Al2O3 occurs through the sequential reaction of TMA and water, with the formation of surface species such as Al-CH3, Si-CH3, and methoxy groups.",
+  "intermediate_species": [
+    "Al-CH3",
+    "Si-CH3",
+    "OSi(CH3)3",
+    "O2Si(CH3)2",
+    "O3SiCH3",
+    "methoxy groups"
+  ],
+  "evidence": "The reaction of TMA with water vapor removes methyls from Al-CH3 groups, but Si-CH3 groups remain according to the FTIR results. NMR supports this, but in addition to Si-CH3 also Si(CH3)n, where n is 2-3, was detected. The OSi(CH3)3 species is produced when surrounding TMA molecules react with a Si with three siloxanes attached to it. The A1 determinations as a function of the number of the reaction cycles showed that the binding of TMA in the first cycle gives a surface saturation of 2.8 A1/nm2. The next two cycles increase the amount of A1 by 0.5 atoms/nm2 and 0.3 atoms/nm2 during the following two cycles."
+}

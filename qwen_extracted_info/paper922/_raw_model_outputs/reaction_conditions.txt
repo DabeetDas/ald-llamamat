@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "O–Si + ECPR → O–Ru + Ru + CH3"
+  ],
+  "surface_mechanism_description": "Ligand exchange between ECPR and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "O–Si",
+    "O–Ru",
+    "Ru"
+  ],
+  "evidence": "As veriﬁed from the AFM data with an analytical model by Nilsen et al. the Ru islands coalesced between the 40th and 50th ALD cycle. The ALD growth initiation of Ru was also investigated on aluminum oxide and tantalum nitride. XPS revealed a similarly inhibited growth behavior on all the investigated substrates. However, the ECPR adsorption during the very ﬁrst Ru precursor pulse differed as the amount of chemisorbed Ru on the NH y-terminated TaN x(O, C) surface was much higher compared to the OH-terminated Al 2O3 and the H-terminated Si surface."
+}<|im_end|>

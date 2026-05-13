@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 65,
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 10,
+  "number_of_cycles": 7500,
+  "reactor_type": "hot-wall ALD reactor",
+  "evidence": "The growth temperature was between 65 and 200 °C. The source temperature was kept at 65 °C for 1. Tin precursor (1) vapors assisted by N2 and 4% H2S in N2 were injected sequentially into the deposition chamber to allow chemical reactions to occur successively on the substrate surface. One dose of 1 and one dose of H2S were used in each cycle, based on initial studies showing saturation behavior under these dosing conditions. The dosing time was 1 s for both 1 in N2 and H2S. Each dose of 1 delivers 10 Torr and each dose of H2S delivers 3 Torr of total pressure to the reactor. Both 1 in N2 and H2S were held in the reactor for 3 s after dosing is finished, unless otherwise stated. Purging with a flow of N2 at reduced pressure (ca. 3 Torr) after each dose of precursor vapor was performed to remove unreacted precursor and byproduct species, and to prevent reactions in the vapor phase. A typical recipe after each chemical was 10 s of purging with N2 followed by 10 s of evacuation (opened to vacuum without N2)."
+}

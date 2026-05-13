@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "240 mTorr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 12,
+  "purge_time_s": 12,
+  "number_of_cycles": 1000,
+  "reactor_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "evidence": "The time sequence for source pulse, first purge, plasma pulse, and second purge was 3, 12, 12 and 12 s, respectively. The deposition was conducted with a rf power of 100 W at 240 mTorr for 1000 cycles. The substrate temperature during deposition was maintained at 300 ◦C."
+}<|im_end|>

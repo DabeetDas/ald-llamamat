@@ -1,0 +1,8 @@
+{
+  "target_material": "Si",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Si2H6"],
+  "temperature_range": "550–650 °C",
+  "summary": "The study describes the use of thermally-cracked Si2H6 in atomic layer deposition (ALD) to achieve Si atomic layer epitaxy on Ge(0 0 1) with an abrupt Si/Ge interface. The process involves the thermal cracking of Si2H6 to produce :SiH2, which self-limits and adsorbs on the surface, enabling precise monolayer growth.",
+  "evidence": "By the use of thermally-cracked Si 2H6 in gas phase, the Si saturation coverage on Si(0 0 1) approaches /C241 ML and Si atomic layer epitaxy on Ge(0 0 1) has also been achieved (thermally-cracked hydride molecule (TCH)–atomic layer epitaxy (ALE)) in the initial ALE cycles."
+}<|im_end|>

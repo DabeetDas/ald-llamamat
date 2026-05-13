@@ -1,0 +1,11 @@
+{
+  "target_material": "molybdenum disulfide (MoS2)",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": [
+    "MoF6",
+    "H2S"
+  ],
+  "temperature_range": "200 °C for deposition, 400 °C and 600 °C for annealing",
+  "summary": "The study describes the atomic layer deposition (ALD) of molybdenum disulfide (MoS2) using MoF6 and H2S precursors at 200 °C. The as-deposited films were amorphous and sulfur-deficient, requiring annealing in H2 or H2S environments to achieve a layered structure. The structural evolution was analyzed using X-ray absorption spectroscopy (XAS), high-energy X-ray diffraction (HE-XRD), and pair distribution function (PDF) analysis. The results indicate that the as-deposited films contain sulfur-rich clusters, which decompose upon annealing, leading to the formation of a layered MoS2 structure. The study highlights the role of nucleation on the substrate in determining the stoichiometry of the films.",
+  "evidence": "The text states: 'Molybdenum disulfide (MoS2) films are attractive materials for electronic and optoelectronic devices, but the temperatures used in the chemical vapor deposition (CVD) of these materials are too high for device integration. Recently, a low temperature atomic layer deposition (ALD) process was demonstrated for growth of MoS2 films at 200 °C using MoF6 and H2S. However, the as-deposited films were amorphous and required annealing to obtain the desired layered structure. The MoS2 films were sulfur-deficient; however, after annealing the crystallinity improved.'"
+}

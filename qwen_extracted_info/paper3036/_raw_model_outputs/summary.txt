@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru-TaN",
+  "process_type": "plasma-assisted ALD",
+  "main_precursors": ["Ethylmethylruthenocene", "TBTDET (tert-butylimino trisdiethylamino tantalum)"],
+  "temperature_range": "300 °C",
+  "summary": "A low temperature plasma-assisted atomic layer deposition (ALD) process was developed for the growth of Ru-TaN thin films with a controllable Ru:Ta elemental ratio. The films showed superior thermal and chemical stability compared to pure Ru and TaN films, and may be suitable for CMOS gate applications.",
+  "evidence": "A low temperature atomic layer deposition (ALD) nanolaminate process was developed for the growth of Ru-TaN thin films... These multicomponent films showed superior thermal and chemical stabilities when compared to pure Ru and TaN films grown under similar processing conditions and subjected to similar thermal treatments, and may be suitable for emerging CMOS gate applications."
+}<|im_end|>

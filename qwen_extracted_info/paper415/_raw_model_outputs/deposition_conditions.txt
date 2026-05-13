@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175 550",
+  "pressure": "6-10 kPa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "1-2 h",
+  "number_of_cycles": null,
+  "reactor_type": "modified MC 120 reactor",
+  "evidence": "Reaction times were 1-2 h followed by a nitrogen purge of same length at the reaction temperature concerned."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200–500",
+  "pressure": "40 Pa in deposition and 27 Pa in pumpdown steps",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "1000",
+  "reactor_type": "hotwall ALD system",
+  "evidence": "The precursors of TiCl4 and H2O were alternatively introduced into the ALD chamber through time-controlled solenoid valves. An ALD cycle with eight steps and 1 s per step was adopted for this experiment. The eight steps are TiCl4 reactant, pump-down, Ar purge, pump-down, H2O reactant, pump-down, Ar purge, and pump-down. The process pressures were around 40 Pa in deposition and 27 Pa in pumpdown steps."
+}<|im_end|>

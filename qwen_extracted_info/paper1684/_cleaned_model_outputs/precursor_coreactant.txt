@@ -1,0 +1,7 @@
+{
+  "precursors": ["[Cu(sBu-amd)]2"],
+  "coreactants": ["H2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The precursor [Cu(sBu-amd)]2 is kept at 95-100 /C176C, and purified N2 is used as the carrier gas to deliver the copper precursor."
+}

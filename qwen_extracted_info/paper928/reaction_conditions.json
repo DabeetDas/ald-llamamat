@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "CH32Zn2CH3 þ H2O ! ZnO þ 2CH4",
+    "C2H52Zn2C2H5 þ H2O ! ZnO þ 2C2H6"
+  ],
+  "surface_mechanism_description": "Double-exchange chemical reactions between the organic zinc precursors and water as oxygen precursor.",
+  "intermediate_species": [
+    "CH32Zn2CH3",
+    "C2H52Zn2C2H5",
+    "H2O"
+  ],
+  "evidence": "In the ALD process, reactants (precursors) are sequentially introduced to the growth chamber, where they reach a surface of the growing film. Each cycle of precursor’s dose is separated by purging the chamber with neutral gas (nitrogen). Due to the sequentiality of the process, precursors react only at the film surface. Thus, one can use even very reactive ones, involving different types of chemical reactions (synthesis, single, or —in our case—double exchange). In the work presented here we involved double-exchange chemical reactions as follows: CH32Zn2CH3 þ H2O ! ZnO þ 2CH4, C2H52Zn2C2H5 þ H2O ! ZnO þ 2C2H6."
+}

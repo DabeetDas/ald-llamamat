@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "TaCl (a)q + 5H(g)™ Ta(a)q + 5HCl(≠)"
+  ],
+  "surface_mechanism_description": "The Cl extraction reaction occurs probably following Eley–Rideal mechanism, which is relatively insensitive to growth temperature.",
+  "intermediate_species": [
+    "TaCl (a)q",
+    "Ta(a)q",
+    "HCl(≠)"
+  ],
+  "evidence": "For comparison, more halogen contamination (2.5%) has been reported for Ta films grown by PE-CVD using TaBr and hydrogen plasma at a higher growth temperature (T s 450 8C) w13x. Previous report of Ti PE-ALD has shown that the Cl extraction reaction occurs probably following Eley–Rideal mechanism w16x, which is relatively insensitive to growth temperature. Analogous to the previous report on Ti PE-ALD, the Cl extraction reaction during Ta PE-ALD can be represented by the following equation, TaCl (a)q + 5H(g)™ Ta(a)q + 5HCl(≠) ( 1)"
+}<|im_end|>

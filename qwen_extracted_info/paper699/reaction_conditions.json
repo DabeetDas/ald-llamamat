@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions in ALD are self-limiting, where precursor molecules adsorb on the surface and react with surface hydroxyl groups. The reactivity of the precursor molecules with the surface sites determines the sticking coefficient (SC). The process involves alternating pulses of precursor and reactive gas (ozone), with the latter used to regenerate surface hydroxyl groups after the metal precursor has reacted.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "reactive sites"
+  ],
+  "evidence": "The surface reactions in ALD are self-limiting, where precursor molecules adsorb on the surface and react with surface hydroxyl groups. The reactivity of the precursor molecules with the surface sites determines the sticking coefficient (SC). The process involves alternating pulses of precursor and reactive gas (ozone), with the latter used to regenerate surface hydroxyl groups after the metal precursor has reacted."
+}

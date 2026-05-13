@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Ti(OMe)4",
+    "water"
+  ],
+  "temperature_range": "325 ◦C",
+  "summary": "The study investigates the effect of ALD-grown TiO2 film thickness on photoelectrocatalytic degradation of methylene blue. The films were deposited using titanium tetramethoxide and water at 325 ◦C. The degradation rate was observed to saturate above certain thicknesses, with photoelectrocatalytic degradation rate increasing with thickness up to 356 nm. The results suggest that film morphology and crystalline structure significantly influence the degradation process.",
+  "evidence": "Atomic layer deposited TiO2 films were used for photoelectrocatalysis for the first time. Films with different thicknesses were grown and comprehensively characterized by structural and photoelectrochemical techniques. Methylene blue was used as a model substance in photocatalytic and photoelectrocatalytic degradation studies. In both cases, degradation rate was observed to saturate above certain film thickness. The reason for saturation could not be explained by the electrical parameters alone, and it was suggested that film morphology and crystalline structure are of major importance in this case."
+}

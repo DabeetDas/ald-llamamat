@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Zn(CH2CH3)2",
+    "H2O"
+  ],
+  "temperature_range": "450 K",
+  "summary": "The study investigates the atomic layer deposition (ALD) of ZnO on ZrO2 and BaTiO3 particles using sequential exposures of Zn(CH2CH3)2 and H2O at 450 K. The surface chemistry and infrared absorbance changes during the ALD process are monitored using Fourier transform infrared (FTIR) spectroscopy. The results show that the DEZ reaction is not self-limiting, and the background infrared absorbance increases with the number of AB cycles. The ZnO films are conformal and have a growth rate of approximately 2.2 Å per AB cycle.",
+  "evidence": "ZnO atomic layer deposition (ALD) was achieved using sequential exposures of Zn(CH2CH3)2 and H2O on ZrO2 and BaTiO3 particles at 450 K. The surface chemistry of ZnO ALD was monitored in vacuum using Fourier transform infrared spectroscopy. The DEZ reaction is not self-limiting. The background infrared absorbance increases with the number of AB cycles. The ZnO films had a thickness of ,43 Å after 20 AB reaction cycles and ,65 Å after 30 AB reaction cycles, respectively. These TEM images are consistent with a ZnO ALD growth rate at 450 K of ,2.2 Å/AB cycle."
+}

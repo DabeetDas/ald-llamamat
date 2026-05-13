@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "15 mTorr",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 5,
+  "number_of_cycles": 700,
+  "reactor_type": "Oxford Instruments FlexAL",
+  "evidence": "For Al 2O3 ALD, trimethylaluminum /H20851TMA,Al/H20849CH3/H208503/H20852/H20849AkzoNobel, SSG grade /H20850was vaporized at 25°C and a saturated dose was obtained by 20 ms vapor injection using fast switching ALD valves. For the plasma process, the oxidation step took place via a 400 W O 2 plasma at a pressure of 15 mTorr and ignited for a duration of typically 2 s. O 2 also served as a purge gas because O 2 does not react with Al/H20849CH3/H208503;18 the O 2 flow was kept constant at 60 sccm during the entire cycle. A cycle time of 4 s was obtained by employing an Al/H20849CH 3/H208503 purge of 1.5 s and a post-plasma-purge of 0.5 s."
+}

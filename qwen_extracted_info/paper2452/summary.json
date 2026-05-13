@@ -1,0 +1,12 @@
+{
+  "target_material": "HfTiOx",
+  "process_type": "ALD",
+  "main_precursors": [
+    "HfCl4",
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "300 ºC",
+  "summary": "HfTiOx films were deposited on TiN, Pt, and Al2O3/Si bottom electrodes using ALD. The dielectric constant increased with Ti content, and crystallization annealing in O2 ambient significantly improved the dielectric constant and reduced leakage current. The study aimed to investigate the crystallization temperature, dielectric constant, and leakage current of HfTiOx films.",
+  "evidence": "HfTiOx films deposited on TiN, Pt and Al 2O3/Si bottom electrodes (BE) by Atomic Layer Deposition (ALD) method were investigated in terms of the crystallization temperature, dielectric constant and leakage current. The as-deposited films show a linear increase of dielectric constant from 20 (HfO 2) to 40 (TiO 2) as a function of Ti content in the film. The crystallization temperature was found to have a drastic effect on leakage current density (J g)."
+}

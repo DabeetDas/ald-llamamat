@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "According to the adsorbate inhibition model, alkyl radicals are considered to be attached to group-III atoms after a group-III source supply. After a H2 purge and group-V source supply, the alkyl radicals are readily removed from the surface by the reaction with a group-V source. If the alkyl radicals could not be removed, they would stay on the surface and be incorporated into epilayers.",
+  "intermediate_species": ["alkyl radicals", "group-III atoms", "group-V source"],
+  "evidence": "According to the adsorbate inhibition model, alkyl radicals are considered to be attached to group-III atoms after a group-III source supply. After a H2 purge and group-V source supply, the alkyl radicals are readily removed from the surface by the reaction with a group-V source. If the alkyl radicals could not be removed, they would stay on the surface and be incorporated into epilayers."
+}<|im_end|>

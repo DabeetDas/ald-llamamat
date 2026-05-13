@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "trimethylaluminum (TMA)",
+    "lithium tert-butoxide (LiOtBu)"
+  ],
+  "coreactants": [
+    "O3",
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The aluminum oxide films were deposited with a Beneq TFS-500 reactor. The depositions including lithium were done in an ASM F-120 Sat reactor. Lithium was included in the ALD process by adding cycles of lithium tert-butoxide (97% LiOtBu, Aldrich) and deionized H2O. Nitrogen (99.999% N2) was employed as a carrier and purge gas and the reactor operated at around 5 millibars."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "H2O-based ALD",
+  "evidence": "Without exposure to the ambient, the latter was covered by 10 nm thick HfO 2 or 10 nm thick Al 2O3 films using ALD at 300 1Cf r o mH2O and HfCl 4 or Al(CH 3)3 precursors, respectively."
+}

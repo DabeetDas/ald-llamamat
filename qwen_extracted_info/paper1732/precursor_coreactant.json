@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "ZnCl2"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "ZnCl2 was evaporated at a temperature of 673 K, being provided into the growth zone using purified N2 as a carrier gas. O2 was diluted with purified N2. In order to prevent ZnCl2 and O2 from mixing one another, they were separated by N2 gas flowing in between."
+}

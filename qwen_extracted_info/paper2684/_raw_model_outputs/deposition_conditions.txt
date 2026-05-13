@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "240",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "10",
+  "coreactant_pulse_time_s": "4",
+  "purge_time_s": "40",
+  "number_of_cycles": null,
+  "reactor_type": "viscous flow",
+  "evidence": "The reactor was operated at 1 Torr, which was achieved using a total of 360 sccm nitrogen flow. The Ce(iPrCp)2(iPr-amd) precursor was supplied to the reactor in 80 sccm nitrogen carrier gas. Water was kept at room temperature and supplied without carrier gas. The substrates used in this study were fused silica that were cleaned using Piranha etch (70% sulfuric acid, 30% hydrogen peroxide) to remove organics and hydroxylate the surface. Substrates were rinsed with deionized (DI) water, dried with nitrogen gas, and immediately loaded into the reactor."
+}<|im_end|>

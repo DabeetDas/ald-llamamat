@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The self-limiting growth mechanism involves the alternating pulsing of reactants, where one reactant is chemisorbed on the substrate surface, followed by a purge step to remove excess reactant before dosing with the second reactant. The latter chemisorbs and undergoes an exchange reaction with the first reactant on the substrate surface, resulting in the formation of one monolayer.",
+  "intermediate_species": [
+    "CH3-terminated In surface",
+    "P-surface",
+    "InAs self-limiting growth"
+  ],
+  "evidence": "Under such growth conditions with a TMIn flow of 0.25 pmol/s and a PH3 flow of 80 seem we need at least 35 s for the P-monolayer formation. Kobayashi et al.4 have reported that at a growth temperature of 350 “C and a reactor pressure of 45 Torr the TMIn pyrolyzes on the InP surface and gives a CH3-terminated In surface. Under a pure H2 purge, the CH3 desorbs with a desorption rate constant of 3.0~ 10m2 s-’ or with a lifetime of 34 s. Using surface photoabsorbtion Kobayashi et al. determined that the pyrolysis of PH3 on a CH3-terminated In surface is much slower than on an In metal surface. Thus it is not surprising to observe that a minimum PH3 injection time of 35 s is needed to achieve a P-surface in our growth conditions."
+}

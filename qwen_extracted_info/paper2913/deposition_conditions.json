@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": 12,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "Microchemistry F-120",
+  "evidence": "All samples described below were deposited with a Microchemistry F-120 ALD reactor. A typical ALD cycle consisted of a 12 s Cu(hfac) 2 pulse, then a 20 s N 2 purge, followed by a 12 s reducing agent pulse, and finally another 20 s N 2 purge."
+}

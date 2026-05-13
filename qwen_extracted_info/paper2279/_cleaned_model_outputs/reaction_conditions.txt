@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The formation of the hexagonal La2O3 phase upon vacuum annealing of hydroxilated La2O3 films grown with atomic layer deposition at 200 °C using La(iPrCp)3 and O3. The spontaneous formation of lanthanum silicate and germanate species during the growth and also upon annealing leads to the identification of a minimum critical thickness that limits the scaling down of the equivalent oxide thickness of the stack.",
+  "intermediate_species": ["La-OH*", "LaSiO", "LaGeO"],
+  "evidence": "The spontaneous formation of lanthanum silicate and germanate species during the growth and also upon annealing leads to the identification of a minimum critical thickness that limits the scaling down of the equivalent oxide thickness of the stack. The presence of such a thin La(OH)3 capping layer might be explained either by a not complete removal of the hydroxide component during the thermal treatment or by a rehydroxylation occurred during exposure to air before the ToF SIMS measurements."
+}

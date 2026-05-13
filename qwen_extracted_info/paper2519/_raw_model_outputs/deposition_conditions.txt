@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-500",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "10",
+  "coreactant_pulse_time_s": "12",
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "cold-wall flow-type",
+  "evidence": "The deposition conditions are summarized in Table I. Parameter Condition Purge gas (Ar) 500 sccm Carrier gas (Ar) 20 sccm Deposition pressure 1 Torr Substrate temperature 250–500 °C Size of the substrate, Diameter of the hotplate 2cm×2cm, Dia.515 cm Distance from the showerhead to the substrate 2cm Bubbler temperature HfCl4 : 160 °C, TBOS: 95 °C Vapor pressure HfCl4 : 0.14 Torr, TBOS: 1.1 Torr Showerhead temperature 250 °C Solenoid valve on/off time HfCl4 : 2–15 s, TBOS: 2–15 s, Purge: 10 s"
+}<|im_end|>

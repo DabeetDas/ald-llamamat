@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Trimethylaluminum (TMA)",
+    "Hafnium tetrachloride (HfCl4)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The reactor purge with N2 preceded substrate exposure to each of the reactants. Trimethylaluminum (TMA, naturally vaporized) and hafnium tetrachloride (HfCl4, kept at 150 °C and carried by N2) were the metal precursors, and H2O was the oxidizing agent."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "CdS-coated TiO2 nanotube layers",
+  "process_type": "ALD",
+  "main_precursors": ["dimethylcadmium", "gaseous H2S"],
+  "temperature_range": "150 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to coat TiO2 nanotube layers with CdS, enhancing photocurrent density for photoelectrochemical applications. The ALD process used dimethylcadmium and gaseous H2S as precursors, and the coating was applied at 150 °C. The results showed that downscaling the nanotube diameter and annealing the TiO2 layers at higher temperatures improved the photocurrent density.",
+  "evidence": "The TiO2 nanotube layers were coated by ALD (TFS200, Beneq) using dimethylcadmium and gaseous H2S as precursors. The CdS-coated TiO2 nanotube layers were applied at 150 °C. The photocurrent density was enhanced by downscaling the nanotube diameter and annealing the TiO2 layers at higher temperatures."
+}

@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Trimethylaluminum [Al(CH3)3 (TMA)]",
+    "titanium(IV) isopropoxide (TiOP)"
+  ],
+  "coreactants": [
+    "H2O",
+    "H2O2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Deposition of thin Al2O3 and TiO2 layers was carried out in a commercial hot-wall flow-type ALD reactor (SUNALE R75, Picosun, Finland). Trimethylaluminum [Al(CH3)3 (TMA)], titanium(IV) isopropoxide (TiOP) and H2O or 30% H2O2 were used as aluminum, titanium, and oxygen reactant sources, respectively. The pulsing times were 0:1 s for TMA, 0:5 s for TiOP, and 2 s for H2O or H2O2 with N2 as carrier gas at a flow rate of 200 sccm (sccm denotes cubic centimeters per minute at standard temperature and pressure). The purging time after each pulse was set to 4 s. Purging was done with N2 gas with a flow rate of 200 sccm."
+}

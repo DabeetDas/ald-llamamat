@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "350",
+ "pressure": "250 mTorr",
+ "precursor_pulse_time_s": "0.2",
+ "coreactant_pulse_time_s": "0.2",
+ "purge_time_s": "5",
+ "number_of_cycles": "100",
+ "reactor_type": "pulse-plasma-enhanced ALD (PPALD)",
+ "evidence": "After that, WF6 gas was also introduced for 0.2–1 s and evacuated with the N2 purge process. This was a cycle that was sequentially repeated during the conventional ALD process. In the case of PPALD, as shown in Fig. 1, a different cycle was to apply a pulse rf power during the period of 0.2–1 s while the NH3 gas was being exposed."
+}<|im_end|>

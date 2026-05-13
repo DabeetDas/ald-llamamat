@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "160-340",
+  "pressure": "5 mbar",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 3,
+  "number_of_cycles": 900,
+  "reactor_type": "ASM Microchemistry F-120",
+  "evidence": "Film Deposition. AlF3 thin films were deposited in an ASM Microchemistry F-120 hot-wall flow-type ALD reactor. The deposition temperature was varied between 160 and 340 °C. During depositions, the pressure inside the reactor was of the order of 5 mbar. ... The pulsing sequence was 0.5 s pulse and 1 s purge for AlCl3, and 1 s pulse and 1.5 s purge for TiF4."
+}<|im_end|>

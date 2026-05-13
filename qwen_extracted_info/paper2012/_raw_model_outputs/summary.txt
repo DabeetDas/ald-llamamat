@@ -1,0 +1,8 @@
+{
+  "target_material": "Si",
+  "process_type": "Atomic-layer deposition (ALD)",
+  "main_precursors": ["Si2H6", "SiCl4"],
+  "temperature_range": "355–385 °C",
+  "summary": "The study describes the self-limiting atomic-layer deposition of silicon (Si) on silicon dioxide (SiO2) using alternating supply of Si2H6 and SiCl4 precursors at substrate temperatures between 355 and 385 °C. The process achieves a constant growth rate of approximately 2 monolayers per cycle and produces a smooth surface with low roughness, making it suitable for applications in advanced electronic devices.",
+  "evidence": "Atomic-layer deposition of Si on SiO2 with a self-limiting growth mode was achieved at substrate temperatures between 355 and 385 °C by means of alternate supply of Si2H6 and SiCl4 gas sources. The growth rate was saturated at 2 ML per cycle at these temperatures and for Si2H6 exposure time over 120 s. The smooth surface (~0.26 nm in arithmetic average roughness!) was obtained under the self-limiting condition irrespective of a film thickness up to 6.5 nm."
+}<|im_end|>

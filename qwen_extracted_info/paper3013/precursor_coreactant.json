@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Hf/H20849mp/H208504",
+    "Hf/H20849NEt2/H208504"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The HfO2 films were deposited at 250°C using O2 plasma via either Hf/H20849NEt2/H208504 or Hf/H20849mp/H208504 as the Hf precursor. Both precursors were delivered from an external reservoir at 90°C and pulsed into the reactor using an Ar carrier gas with a flow rate of 30 sccm. The remote O2 plasma was supplied as the oxygen source and the Ar gas as the purge and carrier gas."
+}

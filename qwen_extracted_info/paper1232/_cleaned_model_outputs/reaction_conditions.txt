@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ru (s) + RuO4 (g) → 2RuO2 (s)",
+    "RuO2 (s) + 2H2 (g) → Ru (s) + 2H2O (g)"
+  ],
+  "surface_mechanism_description": "The oxidation of Si-H by RuO4 leads to the deposition of RuO2 on the surface, which is then reduced by H2 to form Ru. On SiO2, which is already fully oxidized, this process is hindered, leading to a nucleation delay. TMA treatment introduces methyl groups on SiO2, which are oxidized by RuO4, enabling Ru deposition.",
+  "intermediate_species": [
+    "RuO2",
+    "surface methyl groups (-CH3)",
+    "sub-oxide of Si"
+  ],
+  "evidence": "The proposed mechanism behind the inherent substrate selectivity is the oxidation of the Si-H surface by RuO4, which was confirmed by in vacuo XPS experiments. A methodology to enhance the nucleation of the RuO4/H2-gas process on oxide substrates is also reported. In vacuo XPS experiments show that the nucleation delay on SiO2 can be completely removed by exposing the surface to trimethylaluminum (TMA) just before the start of the ALD process. We found evidence that the TMA pulse makes the oxide surface reactive towards RuO4, by introduction of surface methyl groups which can be combusted by RuO4."
+}

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Bi(thd)3",
+    "Fe(thd)3"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The Bi(thd)3 and Fe(thd)3 were solid powders and maintained in stainless steel bubblers. The precursors were evaporated into the ALD chamber without carrier gas. The ultrahigh purity (99.999%) nitrogen was used as purge gas at a mass flow rate of 15 sccm for 5 s every deposition cycle."
+}

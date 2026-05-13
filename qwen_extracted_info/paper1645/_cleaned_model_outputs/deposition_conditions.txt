@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150 -300",
+  "pressure": "",
+  "precursor_pulse_time_s": 60,
+  "coreactant_pulse_time_s": 120,
+  "purge_time_s": 240,
+  "number_of_cycles": 4,
+  "reactor_type": "viscous ﬂow reactor",
+  "evidence": "The TiO 2 ﬁlms were deposited at temperatures of 150 -300 °C using alternating exposure to titanium tetrachloride (TiCl 4, Sigma-Aldrich, 99%) and Millipore water with a dose time of 50 s and a purge time of 150 s, where the TiCl 4 and water reservoirs were both kept at room temperature. The TiO 2 ﬁlms prepared with TTIP were deposited at 150 °C with a TTIP dose time of 60 s, a water dose time of 120 s, and a purge time of 240 s."
+}

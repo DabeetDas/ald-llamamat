@@ -1,0 +1,8 @@
+{
+  "target_material": "PrAlOx and NdAlOx",
+  "process_type": "Liquid injection MOCVD and ALD",
+  "main_precursors": ["[PrAl(OPr i)6(PriOH)]2", "[NdAl(OPr i)6(PriOH)]2"],
+  "temperature_range": "250-600 °C for MOCVD, 180-350 °C for ALD",
+  "summary": "PrAlOx and NdAlOx thin films were deposited using liquid injection MOCVD and ALD with bimetallic alkoxide precursors. The films remained amorphous up to 900 °C and showed high purity with no detectable carbon. The electrical properties were evaluated, and NdAlOx exhibited superior dielectric properties compared to PrAlOx.",
+  "evidence": "Thin films of praseodymium aluminate (PrAlO x) and neodymium aluminate (NdAlO x) have been deposited by liquid injection metalorganic chemical vapor deposition (MOCVD) and atomic layer deposition (ALD) using the bimetallic alkoxide precursors [PrAl(OPr i)6(PriOH)]2 and [NdAl(OPr i)6(PriOH)]2. The films remained amorphous up to temperatures of 900 °C. The electrical properties of the films were assessed using C-V and I-V on MOS capacitors. Post-metalization annealing (PMA) in forming gas was effective in reducing charge levels in all films. Following PMA, the dielectric properties of NdAlOx were superior to those of PrAlOx."
+}<|im_end|>

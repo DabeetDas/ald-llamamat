@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(N,N′-disecbutylacetamidinato)dicooper(I) (CuAMD)", "tris(dimethylamido)antimony(III) (SbTDMA)"],
+  "coreactants": ["4% H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Deposition of the CuSbS2 thin films was performed in an Ultratech-Cambridge Nanotech Savannah 200 ALD reactor modified for use with H2S gas that was coupled to the N2-filled glovebox. The timing sequence, reported in seconds, for each deposition followed the typical ALD recipe (t1 − t2 − t3 − t4), where t1 and t3 are the pulse times for the metal and H2S precursors, respectively, and t2 and t4 are the inert purge times. Subsequently, 4% H2S (balance N2, purchased from AirGas) was delivered at room temperature through a 500 μm orifice."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "(Yb,Er)2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["(Yb,Er)(thd)3", "ozone"],
+  "temperature_range": "300 8C",
+  "summary": "The study reports the growth of (Yb,Er)2O3 thin films using thermal atomic layer deposition (ALD) with high-quality crystalline films showing up-conversion properties. The films are used for applications such as near-infrared radiation absorbing layers for solar cells and sensors in biomedical diagnostics.",
+  "evidence": "We report up-converting (Yb,Er)2O3 thin films grown with the atomic layer deposition (ALD) technique. The ALD technique promises to be excellent for producing up-converting films for many applications such as near-infrared radiation absorbing layers for solar cells and sensors in point-of-care biomedical diagnostics."
+}

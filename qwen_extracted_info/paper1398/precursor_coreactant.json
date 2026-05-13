@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "TMA",
+    "TEMAH"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "As the metal precursors, TMA (Air Liquide) and TEMAH (Air Liquide) were applied. Argon was used as a carrier and purging gas."
+}

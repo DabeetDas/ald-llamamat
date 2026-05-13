@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 285,
+  "pressure": "",
+  "precursor_pulse_time_s": 135,
+  "coreactant_pulse_time_s": 50,
+  "purge_time_s": 85,
+  "number_of_cycles": 20,
+  "reactor_type": "HV-ALD dosing chamber",
+  "evidence": "Each ALD cycle consisted of 13.5 ML Si2Cl6 (0.1 Torr dosed for 135 s) followed by 20 ML N2H4 (0.4 Torr dosed for 50 s) at a substrate temperature of 285 ◦C."
+}<|im_end|>

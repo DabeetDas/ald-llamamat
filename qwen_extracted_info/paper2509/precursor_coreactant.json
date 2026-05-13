@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "TaCl5"
+  ],
+  "coreactants": [
+    "atomic hydrogen"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "For Ta PE-ALD, the solid TaCl5 ~powder! source contained in a glass tube was used. The glass tube was maintained at 100 °C to develop adequate vapor pressure and all the delivery lines were heated between 130 and 150 °C to prohibit condensation of the precursor. To improve the delivery, Ar was used as the carrier gas and the flow was controlled by a leak valve upstream from the source tube."
+}

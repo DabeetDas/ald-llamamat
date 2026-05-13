@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reaction(s) taking place which result in saturated growth have a higher sensitivity to the TMAl than the TMGa.",
+  "intermediate_species": ["Al(CH3)2", "Ga(CH3)2", "AlCH3", "GaCH3", "CH3"],
+  "evidence": "The reason for this very narrow saturation region for AlAs is not clear. It would be expected that the higher Al-CH3 bond energies would result in a lower desorption of CH3, thus increasing the self-limited plateau for similar conditions as in the GaAs case [8-11]. Typically, a TMAl radical has a higher decomposition energy than a TMGa radical. For the TMAl case, the loss of the first methyl to form Al(CH3)2 requires 65.2 kcal/mol compared to TMGa which requires 59.5 kcal/mol to form Ga(CH3)2 [10]. The loss of the second methyl to form AlCH3 requires 39.9 kcal/mol [11] compared to TMGa which requires 35.4 kcal/mol to form GaCH3 [10]. The bond energy of the final methyl in AlCH3 can be estimated using the average energy for complete decomposition to atomic Al of 68.3 kcal/mol and the published values for removal of the first two methyls provided above. This yields a value of 99.9 kcal/mol to form Al from AlCH3 as compared to GaCH3 to form Ga which requires 77.6 kcal/mol [10]. These higher bond energies would imply reduced population of the methyl radical (CH3) in the gas phase."
+}

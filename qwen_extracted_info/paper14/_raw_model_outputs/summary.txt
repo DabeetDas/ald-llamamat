@@ -1,0 +1,8 @@
+{
+  "target_material": "Hafnium oxide (HfO2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["HfCl4", "tetrakis-ethyl-methyl-amino-Hf (TEMAHf)"],
+  "temperature_range": "300 -C when using HfCl4, and 250 -C when using TEMA Hf",
+  "summary": "The study investigates the ALD growth of HfO2 on Si substrates, focusing on the formation of an interfacial layer and its impact on the equivalent oxide thickness (EOT). The research uses in situ XPS and UHV-AFM to analyze the growth process and interfacial properties, comparing two ALD procedures with different precursors and conditions.",
+  "evidence": "The ALD of HfO2 was performed in a vessel equipped with valves for introducing the Hf-precursor and the oxidant, with a current feed-through for the direct heating of the sample and a manipulator for transferring the sample into the measurement chamber, separated from the ALD reactor by a gate valve. The substrate temperature during the growth was set to 300 -C when using HfCl4, and to 250 -C when using tetrakis-ethyl-methyl-amino-Hf (TEMAHf)."
+}<|im_end|>

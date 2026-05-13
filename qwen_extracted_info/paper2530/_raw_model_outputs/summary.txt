@@ -1,0 +1,8 @@
+{
+  "target_material": "SnOx",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["SnCl4", "H2O2"],
+  "temperature_range": "150 to 430 °C",
+  "summary": "The study examines the atomic layer deposition (ALD) of tin oxide (SnOx) using in situ quartz crystal microbalance (QCM) and Fourier transform infrared (FTIR) techniques. The process involves sequential exposures of SnCl4 and H2O2 at temperatures ranging from 150 to 430 °C. The ALD growth rate was determined to be approximately 0.7 Å per cycle at 325 °C, with a mass gain of ~60 ng cm−2 per cycle. The study also explores the surface chemistry and the role of surface species in the growth mechanism and electrical properties of the SnOx films, which are relevant for gas sensor applications.",
+  "evidence": "The SnOx films were deposited using sequential exposures of SnCl4 and H2O2 at temperatures from 150 to 430 °C. The linear growth of the tin oxide ALD films was observed by both the mass gain during QCM measurements and the background infrared absorbance increase during FTIR investigations. The mass gain was consistent with a SnOx ALD growth rate of ~0.7 Å per AB reaction cycle at 325 °C."
+}<|im_end|>

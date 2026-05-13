@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the reduction of the chemically bonded monolayer of TBTDEN by hydrogen radicals, generating Nb-N. The process includes the exposure of the substrate to TBTDEN, followed by purging with argon and nitrogen, then hydrogen plasma treatment to reduce the monolayer and form Nb-N. The reaction chamber is purged again with dry argon and nitrogen.",
+  "intermediate_species": ["TBTDEN monolayer", "hydrogen radicals", "Nb-N"],
+  "evidence": "The plasma enhanced atomic layer deposition (PEALD) process we applied consisted of cycles, each made up of four steps. In the first step the substrate was exposed to TBTDEN (1 s, 200 mTorr). After the exposition the reaction chamber was purged with dry argon and nitrogen (ratio 1:3, 7 s, 500 mTorr). Afterwards, hydrogen radicals provided by the remote ICP reduced the chemically bonded monolayer of TBTDEN and generated Nb-N (6–80 mTorr, 5–100 s)."
+}

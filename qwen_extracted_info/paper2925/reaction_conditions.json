@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "IPA reacts with TMA and forms aluminum oxides at 250°C. The oxygen sources will react with TMA* adsorbed on the film surface and form Al2O3. The oxygen sources are then likely to adsorb on both of the outermost surfaces of the newly formed Al2O3 and the newly exposed surface, which had been screened with TMA* before. This is referred to as the secondary adsorption. As a result, the surface of the film will be covered with IPA* or H2O* after the pulse of the oxygen sources, and then these secondary adsorbed oxygen sources will also react with TMA during the following TMA pulse.",
+  "intermediate_species": [
+    "TMA*",
+    "IPA*",
+    "Al2O3",
+    "SiAlxOy"
+  ],
+  "evidence": "During IPA or H2O pulse, the oxygen sources will react with TMA* adsorbed on the film surface and form Al2O3. The oxygen sources are then likely to adsorb on both of the outermost surfaces of the newly formed Al2O3 and the newly exposed surface, which had been screened with TMA* before. This is referred to as the secondary adsorption. As a result, the surface of the film will be covered with IPA* or H2O* after the pulse of the oxygen sources, and then these secondary adsorbed oxygen sources will also react with TMA during the following TMA pulse. The interfacial layer should be formed during an early stage of Al2O3 ALD, because the surface of the Si substrate will be directly exposed to H2O until it is completely covered with an Al2O3 layer, and the exposed surface will almost certainly be oxidized at a temperature of 250°C, which is the deposition temperature of the film. Hence, the interfacial layer should be an oxide having a composition of SiAlxOy, even though it is not pure SiO2. On the other hand, the data herein show that IPA does not thermally oxidize Si at a temperature of 250°C, and thus, although the surface of the Si substrate is also exposed to IPA during an early stage of Al2O3 ALD, there is no chance to form silicon oxides at the interface."
+}

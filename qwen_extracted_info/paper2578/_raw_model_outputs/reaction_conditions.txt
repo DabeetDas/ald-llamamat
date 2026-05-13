@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "x–OH*s + Hf(NCH3)(C2H5)4 → –O–Hf(NCH3)(C2H5)4−x*s + xCH3(C2H5)NH*g",
+    "–O–Hf(NCH3)(C2H5)4−x*s + 4−xH2O → –O–Hf(OH)4−x*s + (4−x)CH3(C2H5)NH*g"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The surface reactions assuming all –N(C2H5)(CH3) ligands are converted to MEA can be summarized as x–OH*s + Hf(NCH3)(C2H5)4 → –O–Hf(NCH3)(C2H5)4−x*s + xCH3(C2H5)NH*g, –O–Hf(NCH3)(C2H5)4−x*s + 4−xH2O → –O–Hf(OH)4−x*s + (4−x)CH3(C2H5)NH*g."
+}<|im_end|>

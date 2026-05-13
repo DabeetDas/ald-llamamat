@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the use of ozone (O3) as the oxidant in atomic layer deposition (ALD) for Al2O3 growth. The high reactivity between TMA and O3 leads to efficient surface reactions and purging, resulting in improved encapsulation properties. The O3–Al2O3 films show reduced hydrogen concentration and better encapsulation compared to H2O-based processes.",
+  "intermediate_species": ["TMA (trimethylaluminum)"],
+  "evidence": "O3-based ALD offer higher throughput as the time required for surface reactions and purging out of the unreacted surface adsorbed species is much shorter than H2O-based processes. This is because of the high chemical reactivity between TMA and O3 and that O3 can be purged out more efficiently than H2O. O3–Al2O3 film also shows a smaller residual hydrogen concentration as compared to H2O–Al2O3 film."
+}<|im_end|>

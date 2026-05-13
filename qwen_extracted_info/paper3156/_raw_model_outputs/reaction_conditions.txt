@@ -1,0 +1,6 @@
+{
+  "reaction_equations": ["2Al(CH3)3 + 3 H2O → Al2O3 + 6 CH4"],
+  "surface_mechanism_description": "The ALD process for Al2O3 deposition involves alternating pulses of trimethylaluminum (Al(CH3)3) and water vapor (H2O) in a flowing N2 carrier gas. The overall reaction forms Al2O3 and methane (CH4) as byproduct.",
+  "intermediate_species": ["Al(CH3)3", "H2O", "Al2O3", "CH4"],
+  "evidence": "The overall reaction 11 of the Al2O3 deposition was 2Al(CH3)3 + 3 H2O → Al2O3 + 6 CH4. The ALD process comprised a number of identical cycles, each of which deposited approximately 1Å of Al2O3."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["W(CO)6"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "For this study tungsten hexacarbonyl W(CO)6 of 99.9% purity was chosen as ALD tungsten precursor 1 and H2O vapor from deionized DI water was used as oxidation precursor 2 source. Nitrogen was used as a carrier gas at a flow of 20 standard cubic centimeters per minute (sccm) and also served as the purge gas."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Mo(CO)6", "NH3"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The Mo precursor was kept at 40 °C, where its vapor pressure is ca. 0.8 Torr. High purity Ar (99.999%) was used as the carrier gas with a flow rate of 50 sccm (standard cubic centimeter per minute). The basic condition of this investigation was set as follows. A precursor pulsing of 10 s and a purge with 200 sccm of Ar for 10 s prior to a reactant pulsing were set. The NH3 gas at a flow rate of 50 sccm was used as the reactant."
+}<|im_end|>

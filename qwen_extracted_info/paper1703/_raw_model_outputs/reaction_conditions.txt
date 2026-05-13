@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the sequential delivery of Bi(mmp)3 and Fe(C5H5)2 precursors, followed by oxidation using ozone. The Bi precursor molecules adsorb on the surface, forming a Bi-O layer, which is then oxidized. Subsequently, Fe(C5H5)2 is introduced to form an Fe-O layer, which is also oxidized. The process is optimized to achieve the desired stoichiometry and structural quality in the resulting film.",
+  "intermediate_species": ["Bi-O layer", "Fe-O layer"],
+  "evidence": "The number of pulses for each precursor within each subcycle was minimized while maintaining the correct stoichiometry in the final Bi−Fe−O films. The process of alternating pulses of selected number and duration is optimized to produce the desired postanneal stoichiometry and structural quality in the resulting film."
+}<|im_end|>

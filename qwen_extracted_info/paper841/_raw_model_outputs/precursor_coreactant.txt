@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethylindium (TMIn, In(CH3)3)", "Trimethylgallium (TMGa, Ga(CH3)3)", "Arsine (AsH3)"],
+  "coreactants": ["AsH3"],
+  "purge_gas": ["H2"],
+  "carrier_gas": [],
+  "evidence": "The substrates used were S-doped n-type InP with a (0 0 1) surface orientation. Materials were grown in hydrogen (H2) ambient at a chamber pressure of 100 Torr. After the InP buffer layer deposition by conventional MOCVD, InGaAs ALE was performed by alternatively injecting TMIn and TMGa mixture and AsH3, separated by H2 purge for 2 seconds (s), if not specified."
+}<|im_end|>

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Fe(C5H5)2 (ferrocene)",
+    "O3 (ozone)"
+  ],
+  "coreactants": [
+    "O3 (ozone)"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The iron oxide films were deposited in a flow-type in-house built hot-wall ALD reactor from Fe(C5H5)2 (ferrocene, FeCp2) as metal precursor. O3 was used as oxygen precursor."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "MgF2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Mg(thd)2", "TiF4"],
+  "temperature_range": "250–400 uC",
+  "summary": "The study describes the development of a novel atomic layer deposition (ALD) process for depositing magnesium fluoride (MgF2) thin films. The process uses Mg(thd)2 and TiF4 as precursors at temperatures ranging from 250 to 400 uC. The films were analyzed for crystallinity, morphology, composition, thickness, and refractive indices. The growth rate was temperature-dependent, decreasing from 1.6 Å/cycle at 250 uC to 0.7 Å/cycle at 400 uC. The films were polycrystalline and showed low impurity levels, making them suitable for optical applications.",
+  "evidence": "MgF 2 films were grown at 250–400 uC using Mg(thd) 2 and TiF4 as precursors. The growth rate was temperature dependent decreasing from 1.6 A˚ cycle21 at 250uCt o 0.7 A˚ cycle21 at 400 uC. The films were polycrystalline at 250–400 uC."
+}<|im_end|>

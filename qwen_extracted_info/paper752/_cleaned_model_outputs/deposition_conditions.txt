@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 120,
+  "pressure": "",
+  "precursor_pulse_time_s": 20,
+  "coreactant_pulse_time_s": 6,
+  "purge_time_s": 5,
+  "number_of_cycles": 135,
+  "reactor_type": "F-120",
+  "evidence": "The substrate temperature was set to 120°C for all experiments . The growth per cycle (GPC) was 1.1 Å per cycle. The process consists of four steps: (1) TDMAS dose, (2) purge of residuals, (3) oxygen plasma dose , and (4) purge of residuals."
+}

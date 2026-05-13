@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 10,
+  "number_of_cycles": 300,
+  "reactor_type": "horizontal fused-silica reactor",
+  "evidence": "The deposition of cobalt nitride film was performed in a home-made horizontal fused-silica reactor (inner diameter 40 mm). The Co( ipr2AMD)2 precursor was kept in a glass container connected to the reactor and maintained at 50 °C, and then delivered into the reactor using pure nitrogen gas as carrier gas with the flow rate at 50 sccm during the precursor feed time. The ammonia gas was employed as the discharge gas, continuously flown into the deposition chamber at 45 sccm flow rate. Typically, glass slides and Si wafers were used as the deposition substrates, and no appreciable difference of these two types of substrates was observed for the films deposited. All the substrate samples were sequentially rinsed with acetone, methanol, and isopropanol and then were pretreated by 1 min of H2 plasma before loading into the reactor."
+}

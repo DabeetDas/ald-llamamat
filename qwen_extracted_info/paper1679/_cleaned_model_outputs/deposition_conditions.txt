@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "60",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "20",
+ "reactor_type": "Cambridge Nanotech",
+ "evidence": "The samples were exposed to a total of 20 ALD cycles, where each cycle conformally deposits =1.1 Å of AlO x onto the substrate. The ALD reactor temperature was kept at 60 °C."
+}

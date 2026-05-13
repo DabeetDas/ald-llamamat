@@ -1,0 +1,12 @@
+{
+  "target_material": "Al2O3 and TiO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "trimethylaluminium",
+    "water",
+    "titanium tetrachloride"
+  ],
+  "temperature_range": "80-300°C",
+  "summary": "The paper discusses the implementation of ALD processes for depositing Al2O3 and TiO2 in MEMS applications. The ALD processes use trimethylaluminium/water for Al2O3 and titanium tetrachloride/water for TiO2. The study highlights the use of ALD for low-temperature conformal insulating layers, protective layers, and high-dielectric-constant materials. The ALD layers are characterized for their uniformity, stress, refractive index, and chemical stability. The paper also describes the application of ALD Al2O3 as an enabling technology in the fabrication of a 3D micromechanical compass.",
+  "evidence": "We have recently implemented two ALD processes, namely the trimethylaluminium/water process to deposit Al2O3 and the titanium tetrachloride/water process to deposit TiO2 in our MEMS processing line. The necessary characterization for the ALD processes has been carried out, including etch rates in various media relevant in microelectronic processing, stress, temperature dependency of the process, conformality, resistance to heating, and patterning by photolithography. ALD can also be a truly enabling technology, like in the processing of a 3D micromechanical compass based on the Lorentz force."
+}

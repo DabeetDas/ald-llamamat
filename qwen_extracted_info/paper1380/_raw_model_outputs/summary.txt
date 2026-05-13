@@ -1,0 +1,8 @@
+{
+  "target_material": "LiAlF4",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Lithium tert-butoxide", "TiF4", "AlCl3"],
+  "temperature_range": "200 to 300 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to create a stable and lithium ion conductive LiAlF4 interfacial layer on lithium ion battery cathodes. This layer improves the stability of high Ni content NMC811 electrodes without compromising rate performance. The ALD process uses precursors such as lithium tert-butoxide, TiF4, and AlCl3, and the films are deposited at temperatures ranging from 200 to 300 °C. The LiAlF4 film demonstrates a wide electrochemical stability window and superior lithium ion conductivity compared to other materials like LiF and AlF3, making it an effective interfacial layer for enhancing battery performance and longevity.",
+  "evidence": "The study describes the use of atomic layer deposition (ALD) to create a stable and lithium ion conductive LiAlF4 interfacial layer on lithium ion battery cathodes. This layer improves the stability of high Ni content NMC811 electrodes without compromising rate performance. The ALD process uses precursors such as lithium tert-butoxide, TiF4, and AlCl3, and the films are deposited at temperatures ranging from 200 to 300 °C. The LiAlF4 film demonstrates a wide electrochemical stability window and superior lithium ion conductivity compared to other materials like LiF and AlF3, making it an effective interfacial layer for enhancing battery performance and longevity."
+}<|im_end|>

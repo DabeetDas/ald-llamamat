@@ -1,0 +1,7 @@
+{
+  "precursors": ["WF6", "H2S"],
+  "coreactants": ["H2 plasma"],
+  "purge_gas": ["He"],
+  "carrier_gas": [],
+  "evidence": "The WS2 layers are deposited from WF6, H2S, and H2 plasma. The text states: 'The WS2 layers are deposited on 300 mm Si substrates covered with a 30 nm amorphous Al2O3 layer. The Al2O3 layer is deposited by ALD from trimethyl aluminum (TMA) and water (H2O) at 300 °C. On the backside of the Si wafer, first a 50 nm Si3N4 film is deposited to prevent the WF6 precursor from reacting with the silicon substrate during WS2 deposition. The Si3N4 layer is deposited by PECVD at 400 °C from the silane (SiH4) precursor and a mixture of ammonia (NH3) and nitrogen (N2) plasma. Next, WS2 is deposited by PEALD from WF6, H2S (10% H2S in He, with 99.9% pure H2S), and H2 plasma in a hot-wall, showerhead-type ASM PECVD reactor with direct (RF) plasma capability, connected to an Eagle12 platform.'"
+}

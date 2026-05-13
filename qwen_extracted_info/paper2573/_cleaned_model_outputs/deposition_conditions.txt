@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "25-155",
+  "pressure": "400 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "parallel plate, capacitively coupled",
+  "evidence": "The reactor used is a parallel plate, capacitively coupled system that was previously used for ZnO PE-ALD and PECVD."
+}

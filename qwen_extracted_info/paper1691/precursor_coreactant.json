@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Trimethylaluminum (TMA)"
+  ],
+  "coreactants": [
+    "Water (H2O)"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "TMA (Witco GmbH) and D2O (Euriso-top, 99.9% D) were vaporized at room temperature. Both precursors were used without further purification. The carrier gas used when measuring this spectra was N2, although in the actual mechanism studies the carrier gas used was Ar."
+}

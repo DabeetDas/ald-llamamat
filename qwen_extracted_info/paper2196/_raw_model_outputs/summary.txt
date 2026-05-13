@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Hf(N(CH3)2)4", "O3"],
+  "temperature_range": "300 °C for predeposition oxidation (POT) and 600 °C for predeposition nitridation (PNT), 800 °C for postdeposition annealing (PDA)",
+  "summary": "The study examines the effects of surface treatments using O3 and NH3 on the electrical properties and chemical structures of high-k HfO2 dielectric films on strained Si1−xGex/Si substrates during atomic layer deposition (ALD) and postdeposition annealing (PDA). The research focuses on the migration behavior of Si and Ge at the interface between the HfO2 film and the Si1−xGex substrate, which significantly affects the capacitance equivalent thickness (CET). The surface treatments, particularly PNT, effectively suppress the diffusion of Si and Ge during ALD and PDA, thereby reducing changes in the CET without significant increases in leakage current density.",
+  "evidence": "The study examined the chemical interactions between an atomic-layer-deposited HfO2 film and strained epitaxial Si1−xGex/Si substrates during film deposition and postdeposition annealing (PDA), as well as their influence on the electrical properties. The influences of various predeposition surface treatments under O3 and NH3 were also investigated. The interdiffusion of the substrate elements during ALD and PDA could be controlled by POT and PNT. PNT was effective in reducing the diffusion of both Si and Ge during ALD and PDA, whereas POT reduced only Si diffusion. The surface treatments reduced the changes in the CET after PDA without any significant increase in the leakage current density."
+}<|im_end|>

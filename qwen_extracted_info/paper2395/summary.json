@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Al(CH3)3",
+    "H2O"
+  ],
+  "temperature_range": "140 ◦C",
+  "summary": "The study investigates the angular behavior of the Berreman effect in uniform Al2O3 layers formed by atomic layer deposition (ALD). The focus is on the angular dependence of surface modes in infrared transmission absorbance, with a critical thickness of around 125 nm where the sin4(θ0) trend is observed. The results show that the behavior is influenced by refraction phenomena below the critical thickness and boundary conditions above it.",
+  "evidence": "Al 2O3 ﬁlms were fabricated by atomic layer deposition (ALD) on Si(100) at 140 ◦C in a homemade hot wall reactor using alternating pulses of Al (CH3)3, Ar, H 2O, and Ar."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "BiOx, Bi–Ta–O, Sr–Bi–Ta–O",
+  "process_type": "ALD",
+  "main_precursors": ["Bi(N(SiMe3)2)3", "H2O"],
+  "temperature_range": "190–200 uC",
+  "summary": "The study describes the atomic layer deposition (ALD) of bismuth-containing oxide films using Bi(N(SiMe3)2)3 as the bismuth precursor and water as the oxygen source. The process was carried out at 190–200 uC, and post-deposition annealing at 800 uC in oxygen resulted in the formation of the SrBi2Ta2O9 layered perovskite phase.",
+  "evidence": "It was found that alternate surface reactions of Bi(N(SiMe3)2)3 and H2O can be used for ALD of amorphous BiOx, Bi–Ta–O and Sr–Bi–Ta–O at 190–200 uC. After post-deposition annealing at 800 uC in oxygen the SrBi2Ta2O9 layered perovskite phase was obtained."
+}

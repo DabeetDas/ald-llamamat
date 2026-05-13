@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMA; Al(CH3)3", "tetraethoxysilane; Si(OC2H5)4"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "In our present paper, aluminum silicate (AlSixOy) films were deposited on p-type Si (100) substrates by PEALD using TMA and tetraethoxysilane (TEOS; Si(OC2H5)4) as Al and Si precursors, respectively. These precursors are widely used for growing Al2O3 and SiO2 films. In addition, O2 mixed with N2 (small amount) was used as the O precursor. Ar gas was used as the carrier gas and the working pressure was fixed at 3.0 Torr."
+}

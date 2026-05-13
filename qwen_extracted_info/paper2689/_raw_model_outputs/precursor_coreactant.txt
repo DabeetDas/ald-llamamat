@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDEAT"],
+  "coreactants": ["O2 plasma", "NF3"],
+  "purge_gas": [],
+  "carrier_gas": ["He"],
+  "evidence": "Tetrakis(DiEthylAmido) Titanium (TDEAT) liquid precursor is used in combination with an O2 plasma for the PEALD deposition of TiO2 oxide. For etching, NF3 gas is used and is mixed to O2 flow. The liquid precursor is carried using He as a gas vector to the evaporating furnace."
+}<|im_end|>

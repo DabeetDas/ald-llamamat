@@ -1,0 +1,8 @@
+{
+  "target_material": "Ta2O5",
+  "process_type": "O3-ALD",
+  "main_precursors": ["pentaethoxytantalum (PET)"],
+  "temperature_range": "300 °C",
+  "summary": "The study compares the growth characteristics and electrical properties of Ta2O5 films deposited via thermal ALD (Th-ALD) and ozone-based ALD (O3-ALD) on TiN substrates for metal–insulator–metal capacitor applications. O3-ALD showed higher growth rates, density, and dielectric constant compared to Th-ALD.",
+  "evidence": "We compared the suitability of tantalum pentoxide (Ta2O5) films produced via thermal and ozone based atomic layer deposition (Th-ALD and O3-ALD, respectively) using pentaethoxytantalum (PET) as a Ta precursor for use as a capacitor insulator in metal–insulator–metal configurations. H2O and O3 were used as reactants for Th-ALD and O3-ALD Ta2O5, respectively. Both of the processes exhibited ALD mode growth with good self-saturation behavior and produced pure Ta2O5 films. However, O3-ALD Ta2O5 films showed higher growth rates (1.1 Å/cycle), density (7.85 g/cm3) and dielectric constant values (~46) compared to those of Th-ALD Ta2O5 (0.9 Å/cycle, 7.3 g/cm3 and ~40, respectively)."
+}

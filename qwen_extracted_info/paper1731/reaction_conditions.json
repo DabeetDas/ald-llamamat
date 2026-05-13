@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Si-OH + Al(CH3)3 -> Si-O-Al(CH3)2 + CH4",
+    "Si-OH + TaCl5 -> Si-O-TaCl4 + HCl",
+    "Si-OH + H2O -> Si-OH2 + OH-"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The mechanisms of layer growth are discussed in terms of surface reactions. The process involves the reactions (1) and (2). By repeating reactions (1) and (2) many times, one can produce an oxide layer of thickness d, which is proportional to the number of deposition cycles (N). The use of TEA, a sufficiently strong proton acceptor, and produced Al2O3 and Ta2O5 layers by repeatedly exposing the surface to AlBr3 (or AlCl3), TaCl5, and water vapor in the presence of TEA, which not only activated the reaction via the formation of an intermediate complex but also stabilized the hydroxyl layer by additional hydrogen bonds and bound the released hydrogen chloride."
+}

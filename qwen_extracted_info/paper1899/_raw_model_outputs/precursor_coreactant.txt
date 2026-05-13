@@ -1,0 +1,7 @@
+{
+  "precursors": ["Bi(OtBu)3", "Bi(OCMe2iPr)3", "Bi(OCiPr3)3", "Bi(thd)3", "Bi(O2CtBu)3"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The text states: 'The film growth experiments were carried out using a commercial hot-wall flow type F-120 reactor (ASM Microchemistry Ltd., Finland) operating under a nitrogen pressure of ca. 10 mbar. N2 (99.999%) was used as a carrier and purging gas with the flow rate of 400 sccm.'"
+}<|im_end|>

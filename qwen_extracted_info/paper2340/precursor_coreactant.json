@@ -1,0 +1,20 @@
+{
+  "precursors": [
+    "tetrakis(dimethylamido)tin(IV) {[(CH3)2N]4Sn, TDMASn}",
+    "germanium(IV) methoxide [Ge(OCH3)4]",
+    "hydrogen sulﬁde (H2S, 4% in N2)",
+    "diethylzinc [Zn(C2H5)2, DEZ]"
+  ],
+  "coreactants": [
+    "hydrogen peroxide (H2O2)",
+    "de-ionized water vapor",
+    "nitrogen gas (N2)"
+  ],
+  "purge_gas": [
+    "hydrogen sulﬁde (H2S, 4% in N2)"
+  ],
+  "carrier_gas": [
+    "hydrogen sulﬁde (H2S, 4% in N2)"
+  ],
+  "evidence": "An ALD process was used to deposit SnO2 using tetrakis(dimethylamido)tin(IV) {[(CH3)2N]4Sn, TDMASn, Sigma Aldrich} and hydrogen peroxide (H2O2, 30% w/w in H2O, Sigma Aldrich). Vapors of TDMASn and H2O2 were injected sequentially into the deposition chamber. To prepare (Sn,Ge)O2, germanium was doped into SnO2 by injecting vapors of germanium(IV) methoxide [Ge(OCH3)4, Sigma Aldrich] and H2O2. TDMASn, Ge(OCH3)4, and H2O2 were kept at 60°C, 30°C, and 30°C, respectively. The SnS films were then annealed under a constant flow of 60 sccm of H2S at 400°C and 10 Torr pressure for an hour. The ZnO thin film was deposited at 120°C by ALD using alternating doses of diethylzinc [Zn(C2H5)2, DEZ, Sigma Aldrich] and de-ionized water vapor."
+}

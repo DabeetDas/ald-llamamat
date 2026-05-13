@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["TiCl4", "H2O2"],
+  "temperature_range": "100◦C",
+  "summary": "The study demonstrates quantum confinement effects in amorphous TiO2 films deposited via atomic layer deposition (ALD). The process uses TiCl4 and H2O2 as precursors at low temperatures to ensure amorphous deposition, with post-deposition thermal annealing to modify crystallite size. The quantum confinement effects are analyzed using spectroscopic ellipsometry and the Brus model, showing a bandgap shift dependent on film thickness and annealing temperature.",
+  "evidence": "TiO2 ﬁlms were deposited at 100◦Cu s i n gT i C l4 and H2O2 in a viscous ﬂow ALD reactor, at a rate of 0.61 ˚A/cycle. The low-temperature process was utilized to guarantee the amorphous deposition of TiO2 layers and post-deposition thermal annealing was employed to promote crystallite-size modiﬁcation. Spectroscopic ellipsometry was used to quantify the optical properties both below and above the bandgap energy. The Brus model was used to develop a correlation between the amorphous TiO2 ﬁlm thickness and the quantum length to promote equivalent bandgap shifts."
+}<|im_end|>

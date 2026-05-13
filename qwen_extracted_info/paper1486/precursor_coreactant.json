@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "CpMeZrCHT",
+    "CpTiCHT"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Nitrogen (>99.999%), generated from air by Nitrox UHPN 3000 N 2-generator, was used as carrier and purging gas."
+}

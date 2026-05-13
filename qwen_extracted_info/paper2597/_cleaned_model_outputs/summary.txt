@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnS",
+  "process_type": "thermal ALD",
+  "main_precursors": ["diethylzinc", "hydrogen sulfide"],
+  "temperature_range": "200 /C14 C",
+  "summary": "The study investigates the use of atomic layer deposition (ALD) to chemically passivate GaSb-based surfaces with ZnS. The ALD process uses diethylzinc and hydrogen sulfide as precursors at 200 /C14 C. The ZnS films are found to provide effective passivation against oxidation, with a 1 nm-thick ZnS layer significantly reducing the formation of gallium and antimony oxides after 14 days of exposure to atmospheric air. The films are amorphous and show linear growth behavior, indicating precise thickness control. The results suggest that oxygen diffusion through the ZnS layer is a key factor in the long-term passivation of GaSb-based surfaces.",
+  "evidence": "The ALD of ZnS made use of diethylzinc (DEZn) and H2S precursors in a tubular hot wall ALD reactor maintained at 200 /C14 C; during deposition, both DEZn and H2S were kept at room temperature (25 /C14 C). The growth mechanism of ZnS from Zn(C2H5)2 and H2S on silicon was reported in earlier studies. The absence of crystalline peaks in the range of 25 /C14 –45/C14 shows the amorphous structure of the resulting film. The study also found that the 1 nm-thick ZnS chemical passivation film effectively reduced the extent of reoxidation of GaSb-based substrates in atmospheric air."
+}

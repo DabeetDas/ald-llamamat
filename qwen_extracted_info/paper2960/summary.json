@@ -1,0 +1,11 @@
+{
+  "target_material": "Tin oxide (SnO2)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "SnCl4",
+    "H2O"
+  ],
+  "temperature_range": "430 to 545°C",
+  "summary": "The study demonstrates the deposition of tin oxide into porous silicon using atomic layer epitaxy (ALE). The process involves the use of SnCl4 and H2O as precursors, with temperature ranging from 430 to 545°C. The porous structure of the substrate significantly affects the deposition parameters, and the study highlights the importance of chemisorption in controlling the growth rate. The conformal coverage of tin oxide on high aspect ratio pores was achieved by optimizing the deposition conditions.",
+  "evidence": "The SnO2 depositions were based on our previous study.16 SnCl4 and H2O pulses separated by pure N2 purging steps were introduced into the flow-through-type atomic layer epitaxy (ALE) reactor. The pressure was 1 mbar, the temperature was varied between 430 and 545°C. The reactant vessels of H2O and SnCl4 were thermostated at 24 and 8°C, respectively. The pulse duration of the reagents was varied from 0.2 to 10 s for SnCl4 and 0.6 to 30 s for H2O, the separating purging pulses were between 3 and 90 s."
+}

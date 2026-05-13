@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "Not explicitly mentioned",
+  "summary": "The study investigates the photocatalytic activity of atomic layer deposited TiO2 coatings on austenitic stainless steel and copper alloys. The coatings were prepared using atomic layer deposition (ALD) with TiCl4 and H2O as precursors. The thicknesses of the coatings ranged from 5 to 200 nm. The photocatalytic activity was found to be low for thin coatings (5 and 10 nm) but increased with thicker coatings (50 nm or higher for stainless steel and 100 nm or higher for copper alloys). The photoinduced hydrophilicity was good across all coating thicknesses.",
+  "evidence": "The TiO2 coatings were prepared by an atomic layer deposition technique from TiCl4 and H2O. The photocatalytic activity of the studied coatings was low with a coating thickness of 5 and 10 nm. When the coating thickness was 50 nm or higher for AISI 304 stainless steel, and 100 nm or higher for DHP and Nordic Gold copper alloys, the photoactivity was good."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "60 – 250",
+  "pressure": "300 mtorr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "6-inch lateral gas flux thermal ALD (Lucida DO100, NCD)",
+  "evidence": "SnO2, and SnO films were deposited on Si, SiO2, or quartz substrates over the deposition temperature range of 60 – 250 oC using 6Oinch lateral gas flux thermal ALD (Lucida DO100, NCD). The chamber pressure was held at 300 mtorr with 50 sccm of N2 purge gas. The sequential process of precursor dose/purge/reactant dose/purge was applied as a standard process. The purge time was set to 10 s for all ALD processes."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALE process involves alternating pulses of vaporized reactants to the surface, where each pulse leads to the formation of a monolayer. The growth is controlled by the number of cycles, with each cycle consisting of a pulse and a purge. The surface reaction mechanism is not explicitly detailed in the text, but it is implied that the surface undergoes a series of reactions that lead to the formation of a monolayer before the next pulse is allowed to react.",
+  "intermediate_species": [],
+  "evidence": "The ALE process is limited to those compounds for which the vapor pressures of solid phases are much lower than the vapor pressures of solid phases of their pure constituents. Reactants are alternately transported as vapor pulses or molecular beam bunches to the surface of a substrate. The film grows stepwise, one monolayer at a time, provided that at least one complete coverage of a constituent element or a chemical compound is formed before the next pulse is allowed to react with the surface."
+}

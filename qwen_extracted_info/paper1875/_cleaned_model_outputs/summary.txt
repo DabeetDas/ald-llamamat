@@ -1,0 +1,8 @@
+{
+  "target_material": "vanadia",
+  "process_type": "ALD",
+  "main_precursors": ["VO(OPr i)3", "Ti(OPr i)4"],
+  "temperature_range": "363 K",
+  "summary": "The study describes the atomic layer deposition (ALD) of vanadia on highly dispersed titania/silica supports. The process involves sequential surface-saturating chemisorptions of vanadyl triisopropoxide and oxygen onto the support surface. The ALD method allows for the homogeneous dispersion of vanadia species, resulting in isolated and tetracoordinated VOx species on the titania/silica supports. The study compares ALD with impregnation methods, highlighting the superior dispersion and acid-base properties of ALD catalysts.",
+  "evidence": "The atomic layer deposition (ALD) method based on surface-saturating gas-solid reactions was applied to grow vanadia species on highly dispersed titania/silica supports. The ALD method is a gas-phase preparative technique to process thin films for e.g. semiconductor applications or to create nano-structured overlayers on porous supports for catalytic use. The ALD catalysts showed a better dispersion of the active species compared to impregnated catalysts."
+}

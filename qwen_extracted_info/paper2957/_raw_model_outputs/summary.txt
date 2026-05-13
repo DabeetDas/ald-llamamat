@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "PEALD",
+  "main_precursors": ["tetrakis(ethylmethylamino)zirconium (TEMAZ)", "O2"],
+  "temperature_range": "110°C to 250°C",
+  "summary": "The study reports the deposition of ZrO2 films using plasma-enhanced atomic layer deposition (PEALD) with tetrakis(ethylmethylamino)zirconium (TEMAZ) and O2 as precursors. The films were deposited at temperatures ranging from 110°C to 250°C, with deposition rates of 0.14 and 0.11 nm/cycle at 110°C and 250°C, respectively. The films showed varying nitrogen and carbon contents depending on the deposition temperature, and their electrical characteristics, including breakdown strength and permittivity, were evaluated. The results indicate that PEALD is a promising low-temperature technique for high-k dielectric applications.",
+  "evidence": "Highly uniform ZrO2 films were deposited by plasma enhanced atomic layer deposition (PEALD) using tetrakis(ethylmethylamino)zirconium (TEMAZ) and O2 as precursors. The deposition rates were 0.14 and 0.11 nm/cycle at temperatures of 110 and 250°C, respectively. ZrO2 films deposited at 150°C contained ~3% nitrogen, incorporated from the Zr-precursor, which contains four amino-groups. The permitivities for 110°C- and 200°C-ZrO2 films were 16.1 and 26.9, respectively."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 125,
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "home-built hot-wall stainless steel tube reactor",
+  "evidence": "The deposition was carried out in a home-built hot-wall stainless steel tube reactor. The pulsed amount ( ∆P) of a precursor and oxidant gas was kept at ∼ 0.1 Torr using metering valves. The ZnO ALD was performed using separate DEZ and H2O exposures, following the sequence: DEZ/Ar/H2O/Ar (1/20/1/20 s), and the doping was performed by substituting TMA exposure for the DEZ."
+}<|im_end|>

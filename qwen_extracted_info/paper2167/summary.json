@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Hf(N(CH3)2C2H5)4",
+    "H2O"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the deposition of HfO2 on GaN using atomic layer deposition (ALD) with Hf(N(CH3)2C2H5)4 and H2O as precursors. The process achieved low leakage current density, good capacitance-voltage characteristics, and an atomically smooth interface. The interfacial layer was identified as GaON, and annealing increased the dielectric constant.",
+  "evidence": "High /H9260HfO2 was deposited on n-type GaN /H208490001/H20850using atomic layer deposition with Hf/H20849NCH3C2H5/H208504 and H 2O as the precursors. ... HfO2 films were grown on the GaN with a wafer temperature of 200 °C ... The TiN/HfO 2 /GaN MOS diode after 375 C annealing ... the dielectric constant from 11.6 to 16.5, and the EOT is correspondingly decreased from 2.96 to 2.08 nm."
+}

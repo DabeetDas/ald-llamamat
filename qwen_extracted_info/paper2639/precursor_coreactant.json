@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Titanium(IV)isopropoxide (TTIP)",
+    "tetrakis(dimethylamido)titanium (TDMAT)"
+  ],
+  "coreactants": [
+    "NH3",
+    "N2 plasma"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "In the TTIP/NH3 process, nitrogen (N2) was used as carrier and purge gas with a flow rate of 40 and 60 sccm during the titanium precursor pulse for the TTIP/NH3 and TDMAT/N2 processes, respectively. During the nitrogen pulse, flow rates of 144 sccm of NH3 (TTIP/NH3) and 265 sccm of N2 (TDMAT/N2) were used."
+}

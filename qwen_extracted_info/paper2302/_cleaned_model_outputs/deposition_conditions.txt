@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 280,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 2,
+  "number_of_cycles": 32,
+  "reactor_type": "Riber 32P",
+  "evidence": "For the ALE 0.5 superlattice, the CdTe layers were synthetized using 32 CdTe ALE cycles (2 Cd ML, 2 Te ML/cycle, 2 s dead times in between!)"
+}

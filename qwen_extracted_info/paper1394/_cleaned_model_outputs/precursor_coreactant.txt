@@ -1,0 +1,7 @@
+{
+  "precursors": ["Et2InN(TMS)2"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "For deposition of the indium oxide thin film, Et2InN(TMS)2 was used as an indium source and water vapor was used as a reactant gas. N2 gas was used as purging gas as well as a carrier gases, whose inlets were separated on the side of the chamber."
+}

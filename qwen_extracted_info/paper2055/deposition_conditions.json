@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "360",
+  "pressure": "",
+  "precursor_pulse_time_s": "11",
+  "coreactant_pulse_time_s": "7",
+  "purge_time_s": "9",
+  "number_of_cycles": "320",
+  "reactor_type": "F-120",
+  "evidence": "The Lu and O precursor pulses were, respectively, 11 and 7 s long. The total number of cycles was 320. hfC5H4sSiMe3dg2LuClj2 and H2O, kept, respectively, at 195 and 18°C, were injected alternately in the reaction chamber using N2 as the carrier gas and were separated by 9 s long purges in N2."
+}

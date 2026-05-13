@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The molecular layering method involves the formation of a layer of functional groups bound to the substrate, which then interact with reagent molecules to form new layers. The process is described as involving chemisorbed groups on the substrate surface, which act as a frame for functional groups that can interact with reagent molecules under certain conditions to form new layers.",
+  "intermediate_species": [
+    "functional groups",
+    "adsorption interactions"
+  ],
+  "evidence": "The authors of the method proceeded from the following considerations. 1 If chemisorbed groups of atoms are present on the substrate surface, then such a solid body can be represented as an unchanging frame to which functional groups of a known chemical nature are bound. If these functional groups manifest chemical activity relative to any molecules, then it is possible to get them to interact under certain conditions and thereby obtain a new layer of functional groups."
+}

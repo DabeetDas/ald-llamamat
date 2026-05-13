@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO–ZnS core-shell nanotubes",
+  "process_type": "thermal ALD",
+  "main_precursors": ["diethylzinc (DEZ)", "H2O"],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the synthesis of ZnO–ZnS core-shell nanotube arrays using atomic-layer deposition (ALD) to grow ZnO nanotubes on an anodic-aluminum oxide (AAO) template, followed by sulfuration with Na2S solution. The process involves the controlled growth of ZnO nanotubes at 200 °C, with the resulting structures exhibiting enhanced photoluminescence properties due to surface passivation by ZnS.",
+  "evidence": "For the growth of the ZnO nanotubes by an ALD process on an AAO template, diethylzinc (DEZ) and H2O reactant gases were alternately fed into the growth chamber with nitrogen as a carrier gas. The ZnO film was deposited on the AAO template at 200 °C."
+}<|im_end|>

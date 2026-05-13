@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150–350",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 12,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 120,
+  "number_of_cycles": null,
+  "reactor_type": "warm wall stainless steel",
+  "evidence": "The Sr-metal precursor was the THF adduct of Sr C i5Pr3H2/C0/C12 (Air Liquide). H2O vapor (Millipore 18 MX) was used as the oxidizer. The solid Sr source compound was heated to 140–145 /C14 C in a glass container where it becomes a light yellow liquid. The temperature of the H2O container was 25 /C14 C. Both inert gas purging and vacuum were used between reactant exposures. Argon was regulated to maintain 1 Torr reactor pressure using leak valves; vacuum pumping was to below 10 mTorr. The whole ALD system was heated to a temperature higher than 150 /C14 C to prevent precursor condensation on the reactor and tubing walls. Typical purging and pumping times were 40 and 30 s due to the relatively large reactor volume."
+}

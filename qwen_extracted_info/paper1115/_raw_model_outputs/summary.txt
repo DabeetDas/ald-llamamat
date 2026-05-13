@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2/Al2O3/ZrO2 laminate",
+  "process_type": "NH3 annealing",
+  "main_precursors": ["Zr[N(CH3)C2H5]4 (TEMAZ)–ozone (O3)", "Al(CH)3 (TMA)–ozone"],
+  "temperature_range": "480 °C",
+  "summary": "The study investigates the low-temperature NH3 annealing of ZrO2/Al2O3/ZrO2 laminate to improve its properties for metal–insulator–metal capacitors. The process leads to tetragonal-to-cubic phase transformation and reduces impurities, resulting in lower dielectric leakage current and longer reliability lifetime.",
+  "evidence": "The study demonstrates that low-temperature NH3 annealing at 480 °C can incorporate N into the dielectric laminate, resulting in tetragonal-to-cubic phase transformation and small crystallites in the ZrO2 layers. The C residue and Cl impurity in the ZrO2/Al2O3/ZrO2 laminate could also be reduced by the nitridation process. As a result of the better surface morphology and less impurity content, lower dielectric leakage current and longer reliability lifetime were observed for the nitrided ZrO2/Al2O3/ZrO2 capacitor."
+}<|im_end|>

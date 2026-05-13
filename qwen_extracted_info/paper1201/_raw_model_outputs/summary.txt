@@ -1,0 +1,8 @@
+{
+  "target_material": "Molybdenum Oxide (MoO3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Si(CH3)3CpMo(CO)2(η3T2Tmethylallyl) (MOTSMA)", "Ozone"],
+  "temperature_range": "250 °C to 350 °C",
+  "summary": "The study investigates the role of initial precursor chemisorption in overcoming the incubation delay for molybdenum oxide (MoO3) atomic layer deposition (ALD) using MOTSMA and ozone. The process involves an initial high-temperature grafting step at 350 °C to fully react the precursor with the substrate, followed by low-temperature ALD at 250 °C or 300 °C to achieve continuous film growth without nucleation delay. The ALD process is characterized by ligand exchange reactions and surface dioxo species formation, confirmed by in-situ FTIR and ex-situ XPS analyses.",
+  "evidence": "The text states that the ALD process at 250 °C and 300 °C is characterized by a nucleation delay attributed to the reaction barrier for the initial reaction of the metal precursor and the formation of the surface product. Allowing for a higher substrate temperature (350 °C) during the initial Mo precursor pulse is critical to fully react it with the substrate, after which a low-temperature (250–300 °C) ALD process is possible with no incubation period, yielding good quality MoO3 films."
+}<|im_end|>

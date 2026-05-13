@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The reaction mechanisms and intermediate species are discussed in the context of plasma-assisted ALD processes, where ligands are removed during the plasma step. The text mentions the dissociation of reaction products in the plasma and their subsequent redeposition on the surface, which implies the formation of intermediate species such as monomethyl aluminum, surface hydroxyls, and formate species. The redeposition effect is described as the dissociation of reaction products and their redeposition, which is linked to the gas residence time and the plasma step."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Nickel sulfide (NiSx)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["bis(N,N’-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2)", "di-tert-butyl disulfide (TBDS)"],
+  "temperature_range": "150 to 250 °C",
+  "summary": "The study introduces an organosulfur precursor, di-tert-butyl disulfide (TBDS), to replace toxic H2S for ALD of metal sulfides. The process uses TBDS with an amidinate-type nickel precursor to deposit high-quality NiSx films. The ALD process shows ideal self-limiting growth behavior and produces pure films with good crystallinity. The mechanism involves surface reactions of TBDS, leading to sulfhydryl groups and efficient carbon removal, making the process safer and more suitable for industrial applications.",
+  "evidence": "The new ALD process using TBDS with an amidinate-type nickel precursor is demonstrated to show an ideal ALD growth behavior, and it can produce high-quality nickel sulfide (NiSx) thin films with very good purity. The process type is ALD, and the temperature range is 150 to 250 °C. The main precursors are bis(N,N’-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2) and di-tert-butyl disulfide (TBDS)."
+}

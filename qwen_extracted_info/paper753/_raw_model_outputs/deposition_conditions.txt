@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.3,
+  "coreactant_pulse_time_s": 0.025,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "Savannah 300S",
+  "evidence": "ALD was carried out at 150 °C in a Veeco Savannah 300S reactor placed under nitrogen atmosphere. Sequential pulses of TDMAHf for 0.300 sec. and ammonia (NH3) for 0.025 sec. with a 10 sec. intra-pulse purge step were used to deposit HfN."
+}<|im_end|>

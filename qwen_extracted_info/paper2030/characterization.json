@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "X-ray reflectivity (XRR)",
+    "Spectroscopic ellipsometry (SE)",
+    "Atomic force microscopy (AFM)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Capacitance versus voltage (C-V) measurements"
+  ],
+  "evidence": "Properties of these films have been investigated using x-ray diffraction, x-ray reflectivity, spectroscopic ellipsometry, atomic force microscopy, x-ray photoelectron spectroscopy, and capacitance versus voltage measurements. XRD, XRR, SE, and AFM analysis indicated that as-deposited films were uniform and amorphous. XPS analysis indicated that the as-deposited films were oxygen rich and contained silicate (likely at the interface) and residual NO3 and NO2 from precursor ligands. Electrical measurements were made on 'dot' capacitors formed by evaporating either Pt or Al through a shadow mask. High frequency (100 kHz and 1 MHz) capacitance versus voltage (C2V) measurements were made with a HP 4284 and I2V with an HP4156A. XRD and XRR measurements were performed using a Philips X’Pert system. XPS measurements were performed at a commercial laboratory using a Physical Electronics Quantum 2000 with a monochromated Al Kα (1486.6 eV) x-ray source. Surface roughness was measured with an AFM in the tapping mode."
+}

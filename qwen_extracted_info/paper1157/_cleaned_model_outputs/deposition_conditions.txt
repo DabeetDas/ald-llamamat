@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "150 Pa",
+  "precursor_pulse_time_s": 8,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": 10,
+  "number_of_cycles": 150,
+  "reactor_type": "warm-wall horizontal cross-flow reactor",
+  "evidence": "The process sequence with repeated ALD cycles, each one comprising the TBTEMT pulse, a first purge, the H2O pulse, and a second purge, was realized fully automatic by computer controlled ALD valves. The films were grown on pieces of p-doped (100) silicon (Si) wafers. These substrates had a resistivity of 1 – 20 Ω cm and were covered by a native silicon oxide (SiO2) with a thickness of around 1.6 nm. The process sequence with repeated ALD cycles, each one comprising the TBTEMT pulse, a first purge, the H2O pulse, and a second purge, was realized fully automatic by computer controlled ALD valves. The films were grown on pieces of p-doped (100) silicon (Si) wafers. These substrates had a resistivity of 1 – 20 Ω cm and were covered by a native silicon oxide (SiO2) with a thickness of around 1.6 nm."
+}

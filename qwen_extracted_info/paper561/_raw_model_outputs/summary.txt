@@ -1,0 +1,8 @@
+{
+  "target_material": "AlN",
+  "process_type": "ALE",
+  "main_precursors": ["AICI3", "AI(CH3)3", "NH3"],
+  "temperature_range": "350--450 °C and 500 °C",
+  "summary": "The study analyzed AlN thin films deposited by atomic layer epitaxy (ALE) using two high-energy ion beam techniques, TOF-ERDA and NRB, to determine the depth profiles of light elements such as hydrogen, oxygen, carbon, and chlorine. The films were grown from different aluminum sources, AICI3 and AI(CH3)3, and ammonia, with the presence of impurities from the precursors and surface contaminants. The analysis revealed the impact of growth temperature on impurity levels and the formation of an oxidized surface layer.",
+  "evidence": "The text describes the deposition of AlN thin films using atomic layer epitaxy (ALE) with aluminum sources AICI3 and AI(CH3)3 and ammonia. It also mentions the temperature range used for growth and the analysis of impurities such as hydrogen, oxygen, carbon, and chlorine using TOF-ERDA and NRB techniques."
+}<|im_end|>

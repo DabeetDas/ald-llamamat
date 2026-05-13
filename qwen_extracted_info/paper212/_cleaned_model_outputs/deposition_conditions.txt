@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "15",
+  "purge_time_s": "15",
+  "number_of_cycles": null,
+  "reactor_type": "downstream-type plasma reactor",
+  "evidence": "The cycle of the RPALD process consisted of four steps: injection of the precursor (1 s), purge (15 s), exposure to hydrogen plasma (10 s), and purge (15 s)."
+}

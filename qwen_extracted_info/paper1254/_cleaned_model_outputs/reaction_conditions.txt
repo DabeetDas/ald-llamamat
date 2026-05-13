@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "Ti(OCH(CH3)2)4 + TiO2* OH* -> HOCH(CH3)* + TiO2 O Ti(OCH(CH3)2)*3",
+    "TiO2 O Ti(OCH(CH3)2)*3 + 2H2O -> TiO2 OH* + 3(HOCH(CH3)2)",
+    "Ti(N(CH3)2)4 + TiO2* OH* -> HN(CH3)* + TiO2 O Ti(N(CH3)2)*3",
+    "TiO2 O Ti(N(CH3)2)*3 + 2H2O -> TiO2 OH* + 3HN(CH3)2"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The surface reaction mechanism and associated chemistry are discussed in the text: 'For TTIP and water: Ti(OCH(CH3)2)4 + TiO2* OH* -> HOCH(CH3)* + TiO2 O Ti(OCH(CH3)2)*3. TiO2 O Ti(OCH(CH3)2)*3 + 2H2O -> TiO2 OH* + 3(HOCH(CH3)2). For TDMAT and water: Ti(N(CH3)2)4 + TiO2* OH* -> HN(CH3)* + TiO2 O Ti(N(CH3)2)*3. TiO2 O Ti(N(CH3)2)*3 + 2H2O -> TiO2 OH* + 3HN(CH3)2.'"
+}

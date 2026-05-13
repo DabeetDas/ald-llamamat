@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 450,
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 6,
+  "number_of_cycles": null,
+  "reactor_type": "CVD-ALE",
+  "evidence": "After lowering the temperature down to the growth temperature (450 “C), ZnCl, and H,Se reactant gases were supplied for 3 s altematively by rotating the substrate. The extra adsorbed reactants on the substrate were purged with Hz gas for 6 s after exposure of each source gas."
+}<|im_end|>

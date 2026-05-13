@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 125,
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": 15,
+  "reactor_type": "viscous flow hot wall ALD",
+  "evidence": "MEMs devices were coated with ALD Al 2O3 and W in a viscous flow hot wall ALD at 125°C. 38 The reactants were pulsed into an ultrahigh purity N2 carrier gas. The W ALD reaction cycle timing was 10 s disilane dose followed by 5 s purge and 1 s tungsten hexafluroride dose followed by 5 s purge leading to ~4.2 Å/cycle."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "SnO2",
+  "process_type": "Non-aqueous ALD",
+  "main_precursors": [
+    "tin(IV) tetra-butoxide",
+    "acetic acid"
+  ],
+  "temperature_range": "75 °C to 200 °C",
+  "summary": "Tin dioxide thin films are grown using a non-hydrolytic atomic layer deposition process at low-moderate temperatures. The process involves the reaction between tin(IV) tetra-butoxide and acetic acid. The study investigates the influence of pulse lengths and deposition temperature on the saturation and growth rate. The films are used for gas sensing applications, particularly as a sensitive layer in NO2 detection.",
+  "evidence": "Tin dioxide thin films are grown at low-moderate temperature using a non-hydrolytic atomic layer deposition process. Granular SnO2 thin films are obtained from tin(IV) tetra-butoxide reacting with acetic acid, at temperatures as low as 75 °C. The ALD process is used for gas sensing applications, particularly as a sensitive layer in NO2 detection."
+}

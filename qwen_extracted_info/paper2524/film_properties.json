@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 12.5,
+  "density_g_cm3": null,
+  "refractive_index": "1.66 to 1.71",
+  "surface_roughness_nm": 0.16,
+  "crystal_phase": "amorphous",
+  "evidence": "An AFM analysis of a 5-nm-thick Al 2O3 film demonstrated smooth surface morphology as indicated by the root mean square (rms) roughness value of 0.16 nm, comparable to that of the HF-last treated Si substrate srms=0.18 nm d. The OAO stacks with EOTs of 12.5 nm exhibit leakage current densities below −0.1 mA/cm 2 at −5 V, comparable to that of an ONO stack. Annealing increased the index of refraction from 1.66 to 1.71, comparable to the bulk value for Al 2O3 (1.760–1.768)."
+}

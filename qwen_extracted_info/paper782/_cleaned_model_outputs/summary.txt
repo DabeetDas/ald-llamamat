@@ -1,0 +1,8 @@
+{
+  "target_material": "Al 2O3",
+  "process_type": "ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "H2O"],
+  "temperature_range": "473–723 K",
+  "summary": "The study demonstrates the atomic layer deposition (ALD) of Al2O3 thin films on diamond for use as a gate insulator in diamond field effect transistors (FETs). The ALD process enables conformal coverage of polycrystalline diamond surfaces, and the resulting films exhibit a stoichiometric composition, abrupt interface with diamond, and high breakdown field, making them suitable for FET gate insulators.",
+  "evidence": "The ALD-Al2O3 film on diamond shows stoichiometric composition, abrupt interface between Al2O3 and diamond, and can be deposited conformally even on bumpy surface such as polycrystalline diamond film. The breakdown field is over 4.9 MV/cm, which is relatively high."
+}

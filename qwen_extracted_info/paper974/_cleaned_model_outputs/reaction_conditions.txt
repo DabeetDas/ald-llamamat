@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "AlOH∗+Al(CH3)3 → AlOAl(CH3)3∗+ CH4",
+    "AlCH3∗+ H2O → AlOH∗+ CH4",
+    "ZnOH∗+ Zn(CH2CH3)2∗→ ZnOZn(CH2CH3)∗+ CH3CH3",
+    "Zn(CH2CH3)∗+ H2O → ZnOH∗+ CH3CH3"
+  ],
+  "surface_mechanism_description": "The ALD process involves sequential exposures of precursor molecules to the surface, with surface species represented by an asterisk. The reactions occur in two steps: first, the surface is exposed to TMA, followed by a purge with nitrogen. Then, the surface is exposed to water vapor, and the reactants and products are purged again. This cycle repeats to build up the film layer by layer.",
+  "intermediate_species": [
+    "AlOH∗",
+    "AlCH3∗",
+    "ZnOH∗",
+    "Zn(CH2CH3)∗"
+  ],
+  "evidence": "The ALD process involves sequential exposures of precursor molecules to the surface, with surface species represented by an asterisk. The reactions occur in two steps: first, the surface is exposed to TMA, followed by a purge with nitrogen. Then, the surface is exposed to water vapor, and the reactants and products are purged again. This cycle repeats to build up the film layer by layer."
+}

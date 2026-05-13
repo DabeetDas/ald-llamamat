@@ -1,0 +1,11 @@
+{
+  "target_material": "WNxCy",
+  "process_type": "remote plasma atomic layer deposition (RPALD)",
+  "main_precursors": [
+    "(MeCp)W(CO)2(NO)",
+    "NH3 plasma"
+  ],
+  "temperature_range": "250 to 450 /C14 C",
+  "summary": "WNxCy films were deposited using remote plasma atomic layer deposition (RPALD) with (MeCp)W(CO)2(NO) as the tungsten source and NH3 plasma as the nitrogen source. The films showed low resistivity and good diffusion barrier properties for Cu, making them suitable for microelectronic circuits. The study confirmed the effectiveness of WNxCy as a Cu diffusion barrier up to 600 /C14 C.",
+  "evidence": "The resistivity of WNxCy film deposited by RPALD was very low compared to that in previous research because of the lower nitrogen content and different crystal structures of the WNxCy. Stable film properties were observed up to 500 /C14 C, confirming that WNxCy film is suitable as a Cu diffusion barrier in microelectronic circuits."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The doping of La2CuO4 takes place by exchanging a fraction of the La(thd)3 pulses with Sr(thd)2. The growth mechanism of oxides from La(thd)3 and Sr(thd)2 are similar, and the growth rates of the binary oxides La2O3 and SrO are comparable.",
+  "intermediate_species": ["La(thd)3", "Sr(thd)2", "La2O3", "SrO"],
+  "evidence": "In the ALD process the doping of La2CuO4 takes place by exchanging a fraction of the La(thd)3 pulses with Sr(thd)2. Like the other precursors used in this study, Sr(thd)2 is kept in an open boat inside the ALD reactor, and is pulsed into the reaction chamber by an inert gas valve system. The precursor temperature is maintained at 188 °C under nitrogen flow. The growth mechanism of oxides from La(thd)3 and Sr(thd)2 are similar, and the growth rates of the binary oxides La2O3 and SrO are comparable."
+}

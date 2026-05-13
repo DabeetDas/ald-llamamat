@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Hf[N(C2H5)(CH3)]4 (TEMAH)", "D2O"],
+  "temperature_range": "300 /C14 C",
+  "summary": "The study investigates the use of D2O as an oxidant in atomic layer deposition (ALD) to incorporate deuterium into HfO2 films, aiming to improve the reliability of gate dielectrics in MOS capacitors. The results show that D2O-processed devices exhibit less charge trapping, lower interface trap density, and longer time-dependent dielectric breakdown (TDDB) under electrical stress compared to H2O-processed devices.",
+  "evidence": "The initial performance and reliability characteristics of metal–oxide–semiconductor (MOS) capacitors with HfO2 films deposited with H2O or D2O as an oxidant and Hf[N(C2H5)(CH3)]4 as a metal precursor using atomic layer deposition (ALD) were investigated. From secondary ion mass spectroscopy (SIMS) analysis, we observed that deuterium was homogeneously incorporated into the HfO2 film using D2O during ALD. Compared with H2O-processed devices, D2O-processed devices exhibit less charge trapping, less interface trap density generation, and longer time-dependent dielectric breakdown (TDDB) under electrical stress."
+}<|im_end|>

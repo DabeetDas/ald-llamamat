@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the alternating pulsing of Al(CH3)3 (TMA) and H2O vapor into the reaction chamber, leading to the formation of Al2O3 on the surface. The surface reactions are self-limiting and occur layer-by-layer, with each ALD cycle depositing about 1 Å of Al2O3.",
+  "intermediate_species": [
+    "Al(CH3)3",
+    "H2O",
+    "Al2O3"
+  ],
+  "evidence": "Al(CH3)3 (trimethylaluminum, TMA, the Al precursor) and H2O vapor (the oxygen precursor) were alternately pulsed into a reaction chamber by an N2 carrier gas flow, with the following sequence: TMA, 0.03 s → N2 purge, 5 s→ H2O, 0.1 s→ N2 purge, 5 s. Each ALD cycle deposited about 1 Å of Al2O3."
+}

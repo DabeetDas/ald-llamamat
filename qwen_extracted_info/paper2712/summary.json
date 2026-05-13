@@ -1,0 +1,13 @@
+{
+  "target_material": "BaSnO3 and SrSnO3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "HyperBa",
+    "HyperSr",
+    "TDMASn",
+    "H2O"
+  ],
+  "temperature_range": "180 °C",
+  "summary": "Epitaxial BaSnO3 and SrSnO3 perovskite thin films were grown on SrTiO3(001) substrates via atomic layer deposition (ALD) at 180 °C. The growth rates were 0.46 ± 0.03 Å and 0.69 ± 0.04 Å per ALD unit cycle for BaSnO3 and SrSnO3, respectively. Postdeposition oxygen annealing was required to crystallize the films. The films were found to be single crystalline and fully relaxed due to large lattice mismatches. The films exhibited high transparency in the visible range, comparable to the STO substrate.",
+  "evidence": "The authors report epitaxial BaSnO3 and SrSnO3 growth on SrTiO3(001) via atomic layer deposition (ALD) at 180 °C, where the BaSnO3 growth rate is 0.46 ± 0.03 Å and the SrSnO3 growth rate is 0.69 ± 0.04 Å per ALD unit cycle. The films were found to be single crystalline and fully relaxed due to large lattice mismatches. The transparency of the films was also explored, showing high transparency in the visible range."
+}

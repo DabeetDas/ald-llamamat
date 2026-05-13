@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3"],
+  "coreactants": ["H2O"],
+  "purge_gas": [],
+  "carrier_gas": ["N2"],
+  "evidence": "A 8-nm-thick Al2O3 oxide layer was deposited at a substrate temperature of 300 °C, by using alternating pulses of Al(CH3)3 (the Al precursor) and H2O (the oxygen precursor) in a carrier N2 gas flow."
+}

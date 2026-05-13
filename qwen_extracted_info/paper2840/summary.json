@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnS",
+  "process_type": "Atomic Layer Epitaxy (ALD)",
+  "main_precursors": [
+    "Zn precursor",
+    "H2S precursor"
+  ],
+  "temperature_range": "not specified",
+  "summary": "The study investigates the effect of ALD growth conditions on the properties of ZnS epilayers grown on (100)-Si substrates.",
+  "evidence": "Effect of Atomic Layer Epitaxy Growth Conditions on the Properties of ZnS Epilayers on (100)-Si Substrate"
+}

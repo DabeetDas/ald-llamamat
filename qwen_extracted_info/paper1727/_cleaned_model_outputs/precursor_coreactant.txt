@@ -1,0 +1,7 @@
+{
+  "precursors": ["La(thd)3"],
+  "coreactants": ["ozone"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "In this work, the La2O3 films were made by alternately pulsing La(thd)3 (thd G 2,2,6,6-tetramethyl-3,5-heptadione) and ozone into a F-120 Sat (ASM Microchemistry Ltd.) reactor. The pulse parameters used for the film growth was: 1.5-sec pulse of La(thd)3 followed by a 1-sec purge time and then a 6-sec pulse of 500 sccm ozone, followed by a 2-sec purge time."
+}

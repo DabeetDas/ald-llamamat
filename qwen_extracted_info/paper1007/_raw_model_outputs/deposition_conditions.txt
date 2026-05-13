@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "375",
+ "pressure": "10 mbar",
+ "precursor_pulse_time_s": "0.2",
+ "coreactant_pulse_time_s": "2",
+ "purge_time_s": "2",
+ "number_of_cycles": "300",
+ "reactor_type": "laboratory ALD reactor",
+ "evidence": "To grow TiO2, the TiCl4 pulse, first purge, CH3OH pulse, and second purge were set at 0.2, 2, 2 and 2 s, respectively."
+}<|im_end|>

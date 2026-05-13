@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "SnCl4",
+    "H2O2"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The reactants in the tin oxide ALD process were SnCl4 and H2O2.25,26 The two, sequential, self-limiting surface chemical reactions for tin oxide ALD can be described as (A) 2SnOH* + SnCl4 f (SnO)2 - SnCl2* + 2HCl (1) (B) SnCl2* + H2O2 f Sn(OH)2* + Cl2 (2)"
+}

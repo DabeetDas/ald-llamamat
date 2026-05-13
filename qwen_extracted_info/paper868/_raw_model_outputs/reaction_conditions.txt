@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions proceed in two steps: CuS + e- + Li+ → 0.5Cu2S + 0.5Li2S and 0.5Cu2S + e- + Li+ → 0.5Li2S + Cu. The intermediate Cu2S product can itself serve as a cathode material.",
+  "intermediate_species": ["Cu2S"],
+  "evidence": "CuS + e/C0 + Liþ40:5Cu2S + 0:5Li2S (1)\n0:5Cu2S + e/C0 + Liþ40:5Li2S + Cu (2)\nIn agreement with Equations (1) and (2), two discharge plateaus are commonly observed, occurring at 2.0 e2.2 and 1.5e1.8 V (vs. Li/\nLiþ), respectively [7,8,10e15]. In this two-step mechanism, the intermediate Cu2S product can itself serve as a cathode material, and it has a theoretical capacity of 337 mAh g /C0 1."
+}<|im_end|>

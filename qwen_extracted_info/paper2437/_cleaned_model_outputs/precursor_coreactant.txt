@@ -1,0 +1,7 @@
+{
+  "precursors": ["dimethylaluminum hydride (DMAH)"],
+  "coreactants": ["O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The ALD cycle was similar to our previous report with the optimized plasma exposure for 1.5 s. The temperature of DMAH source was set to 40°C and the RF power during deposition was 400 W . The thickness of Al2O3 passivation layer was chosen to be 25 nm to ensure suppressed migration of OH – and to require minimal cycles and deposition time. The deposition temperature was varied from 100°C to 300°C. Reactive ion etching was then performed to create the contact holes. Finally, post -annealing was done in O 2 ambient for 2 h at 300°C."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "SiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "H2N(CH2)3Si(OEt)3",
+    "water",
+    "ozone (O3)"
+  ],
+  "temperature_range": "120–2008C",
+  "summary": "A practical ALD process for SiO2 is described, utilizing a self-catalytic mechanism based on the NH3-catalyzed hydrolysis of tetraethoxysilane. The process involves a three-step reaction sequence with a growth rate of (0.6±0.1) nm/cycle and is suitable for creating high-purity SiO2 films and nanostructures.",
+  "evidence": "The film thickness depends linearly on the number of reaction cycles, with a growth rate of (0.6±0.1) nm/cycle. The growth rate remains constant for substrate temperatures varied between 120 and 2008C. The deposited SiO2 films are pure, as determined by X-ray photoelectron spectroscopy (XPS)."
+}

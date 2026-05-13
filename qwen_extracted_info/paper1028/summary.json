@@ -1,0 +1,11 @@
+{
+  "target_material": "GaN nanowires",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Trimethylaluminum (TMA)",
+    "Distilled water (H2O)"
+  ],
+  "temperature_range": "300 jC",
+  "summary": "The study describes the synthesis of GaN nanowires and their coating with Ga2O3 and Al2O3 layers. The GaN nanowires were synthesized via thermal evaporation of ball-milled GaN powders in an NH3 atmosphere. Thermal oxidation formed a 2 nm-thick Ga2O3 layer, while Al2O3 was deposited using atomic layer deposition (ALD) at 300 jC. The Al2O3 coating passivates some surface states, enhancing optical properties.",
+  "evidence": "Al2O3 layers were deposited on the synthesized GaN nanowires at a temperature of 300 jC with ALD technique. Trimethylaluminum (TMA) and distilled water (H2O) were utilized as the precursors for the Al2O3 deposition. The study suggests that the Al2O3-coating passivates some of the surface states in the GaN nanowires."
+}

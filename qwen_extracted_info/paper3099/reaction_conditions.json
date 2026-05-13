@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD of TiO2 involve the sequential adsorption and reaction of TiCl4 and H2O. The process is self-limiting due to the saturated surface adsorption of reactants, with the adsorption amount being almost equal for each experiment. The growth is self-limited by the amount of reactants adsorbed on the surface, leading to a conformal film with digital thickness control.",
+  "intermediate_species": [
+    "amorphous layer",
+    "anatase nuclei",
+    "discrete nucleus islands"
+  ],
+  "evidence": "The surface reactions during ALD of TiO2 involve the sequential adsorption and reaction of TiCl4 and H2O. The process is self-limiting due to the saturated surface adsorption of reactants, with the adsorption amount being almost equal for each experiment. The growth is self-limited by the amount of reactants adsorbed on the surface, leading to a conformal film with digital thickness control. The films grown at temperatures below 400°C consist of crystalline anatase phase only, whereas the films grown at temperature of 500°C consist of a mixture of anatase and rutile phases. At low deposition temperatures such as 200 and 300°C, an amorphous layer was formed initially and then crystallized to anatase as the layer thickness exceeded a critical value. Increasing deposition temperature encourages the formation of anatase nuclei and results in a decrease of grain size. At high deposition temperatures such as 400 and 500°C, discrete nucleus islands were formed initially. The coalescence effect is more pronounced at higher temperatures and results in an increase of grain size with deposition temperature."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4"],
+  "coreactants": ["O2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "For pulsed PECVD, the reactants TiCl4, Ar, and O2 were mixed and delivered continuously. The former was delivered using a calibrated leak valve at a flow rate of 0.5 sccm. For the experiments described below, the Ar and O2 flow rates were fixed at 15 and 50 sccm, respectively, using electronic mass flow controllers."
+}

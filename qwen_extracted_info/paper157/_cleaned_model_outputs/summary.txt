@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["dimethyl zinc (DMZ)"],
+  "temperature_range": "25–120 8C",
+  "summary": "The study explores the use of plasma-enhanced atomic layer deposition (PEALD) to deposit semiconductor-grade ZnO films using dimethyl zinc (DMZ) as the metal precursor. The process is conducted over a temperature range of 25–120 8C, with the deposition rate showing saturation at 1.75 mTorr s. The films exhibit improved properties, such as reduced resistivity and enhanced crystallinity, as temperature increases. The study highlights the advantages of DMZ over DEZ, including its inertness with molecular oxygen and thermal stability.",
+  "evidence": "Zinc oxide ﬁlms are deposited over the temperature range 25–120 8C by plasma-enhanced atomic layer deposition (PEALD) using dimethyl zinc (DMZ, Zn(CH 3)2) as the metal precursor. The saturated growth per cycle increases from 1.6 to 2.9 A ˚ per cycle as the temperature is increased from 25 to 85 8C, and remains constant in the range 85–1208C. The electrical resistivity decreases exponentially from 270 at room temperature to values of /C24 5 V cm within the ALD window. The issues described above do not preclude the use of DEZ for ALD, but suggest that it may not be the ideal precursor, particularly for the formation of semiconductor grade ZnO."
+}

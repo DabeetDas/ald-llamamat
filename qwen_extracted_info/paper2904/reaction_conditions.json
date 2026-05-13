@@ -1,0 +1,19 @@
+{
+  "reaction_equations": [
+    "-In-O* + InEtCp → -In-O-In-EtCp*",
+    "-In-OH* + InEtCp → -In-O-In* + EtCpHĹ",
+    "-In-O-In-EtCp* + H2O → -In-O-In-OH* + EtCpHĹ",
+    "-In-O-In* + H2O → -In-O-In-OH* + 1/2 H2Ĺ",
+    "-In-O-In* + 1/3 O3 → -In-O-In-O*",
+    "-In-O-In-OH* + 1/3 O3 → -In-O-In-O*"
+  ],
+  "surface_mechanism_description": "The In2O3 formation mechanism during the H2O and O3 process involves two routes: (1) absorption and ion-exchange in the InEtCp step, leading to the formation of -In-O-In-OH* and subsequent oxidation to -In-O-In-O*; and (2) direct reaction of InEtCp with surface hydroxyl groups, forming -In-O-In-OH* and oxidizing to -In-O-In-O*.",
+  "intermediate_species": [
+    "-In-O-In-EtCp*",
+    "-In-O-In*",
+    "EtCpHĹ",
+    "-In-O-In-OH*",
+    "-In-O-In-O*"
+  ],
+  "evidence": "The In2O3 formation mechanism during the H2O and O3 process is proposed as follows (31):\n(InEtCp step)\n-In-O* + InEtCp → -In-O-In-EtCp*\n-In-OH* + InEtCp → -In-O-In* + EtCpHĹ\n(H2O/O3 step)\n-In-O-In-EtCp* + H2O → -In-O-In-OH* + EtCpHĹ\n-In-O-In* + H2O → -In-O-In-OH* + 1/2 H2Ĺ\n-In-O-In* + 1/3 O3 → -In-O-In-O*\n-In-O-In-OH* + 1/3 O3 → -In-O-In-O*"
+}

@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "TiCl4",
+    "Ti(OCH(CH3)2)4 (TTIP)"
+  ],
+  "coreactants": [
+    "H2O2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Two different delivery strategies were required to administer the two titanium-containing precursors, because the room-temperature vapor pressure of TTIP is much lower than that of TiCl4. A bubbler was used to deliver a constant flow rate of TTIP effectively to the reactor system, using N2 as the entraining gas, whereas TiCl4 utilized the driving force of its vapor pressure alone."
+}

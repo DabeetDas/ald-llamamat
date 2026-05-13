@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the decomposition of the nickel amidinate precursor (Ni(amd)2) and hydrogen plasma. The Ni(amd)2 precursor decomposes on the surface, and the hydrogen plasma provides reactive species that facilitate the formation of Ni3Cx. The process is self-limiting, with the film growth saturating as the pulse lengths of the precursor and plasma are increased. The growth is attributed to the surface reactions between the nickel precursor and hydrogen plasma, leading to the formation of Ni3Cx without direct reaction between the precursor and molecular H2 gas at low temperatures.",
+  "intermediate_species": [
+    "Ni(amd)2",
+    "surface hydroxyls",
+    "reactive hydrogen species"
+  ],
+  "evidence": "The text states: 'Ni(amd)2 is also believed to be of high reactivity on metal surface, since the metal amidinate family have been widely used for depositing various metals. On the other hand, H2 plasma is a highly reactive coreactant, as it contains many reactive species, such as electrons, photons, ions, radicals, and excited-state molecules. In particular, H2 plasma is much more reactive than molecular H2 for ALD, and, in fact, our trial experiments showed that using molecular H2 instead did not afford film deposition at temperature up to 250 °C.' Additionally, it mentions: 'the Ni(amd)2 precursor is a fairly volatile compound, and it only needs mild heating to ~70 °C to afford sufficient vapor pressure for ALD.'"
+}

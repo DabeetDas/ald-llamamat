@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "tetrakis(dimethylamino)tin (TDMASn)",
+    "cyclopentadienyltris(dimethylamino)zirconium (CpZr)"
+  ],
+  "coreactants": [
+    "hydrogen sulﬁde (H2S)",
+    "ozone (O3)"
+  ],
+  "purge_gas": [
+    "argon (Ar)"
+  ],
+  "carrier_gas": [],
+  "evidence": "To deposit the 12 nm thick of SnS2 thin films, thermal ALD was used with tetrakis(dimethylamino)tin (TDMASn, [(CH3)2N]4Sn) as a tin source and hydrogen sulﬁde (H2S) as a sulfur source. The deposition temperature was fixed at 150 ◦C. In this deposited SnS2 film, one ALD cycle consists of four step; (1) injection of the TDMASn precursor 1s, (2) Ar purge 40s, (3) injection of the H2S reactant gas 3s, (4) Ar purge 50s. For ZrO2 film to deposit, one ALD cycle consists of four step; (1) injection of the cyclopentadienyltris(dimethylamino)zirconium (CpZr, (C5H5)Zr[N(CH3)2]3) precursor 5s, (2) Ar purge 50s, (3) injection of the O3 reactant gas 10s, (4) Ar purge 20s."
+}

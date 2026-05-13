@@ -1,0 +1,11 @@
+{
+  "target_material": "Titanium dioxide (TiO2)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "150-600 °C",
+  "summary": "Titanium dioxide thin films were deposited using atomic layer epitaxy (ALE) with TiCl4 and H2O as precursors. The study investigated the effects of temperature and substrate material on growth rate and crystal structure. The growth mechanism involved surface reactions between TiCl4 and hydroxyl groups, with temperature influencing the reaction dynamics and film properties.",
+  "evidence": "Titanium dioxide thin films were deposited by atomic layer epitaxy using TiCl4 and water as reactants. The film growth was performed over the temperature range 150-600 °C in order to study the effects of temperature on the growth rate. The effect of the substrate material on the growth rate and crystal structure was also investigated."
+}

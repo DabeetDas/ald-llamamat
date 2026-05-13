@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "HfCl4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "HfO2 thin films were deposited on Si wafers using an atomic layer deposition technique at temperatures ranging from 200 to 400 °C with HfCl4 as the precursor and H2O as the oxidant."
+}

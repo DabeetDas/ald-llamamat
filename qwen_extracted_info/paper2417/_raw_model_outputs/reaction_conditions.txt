@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Oxidizing gases such as O2 or NO2 act as an electron accepter in the surface reactions and the width of electron depletion layers is likely to be widened. This leads to an increased resistance of the sensor. On the other hand, the release of electrons occurs in desorption of O2 or NO2. This charge transfer accounts for the resistance change observed in the core–shell nanoﬁber sensor.",
+  "intermediate_species": ["electron depletion layers", "potential barriers"],
+  "evidence": "However, in the nanoﬁber sensors with or without a shell layer, there are junctions by nanoﬁber networking. Only the homo-interfaces are formed at the junctions in the ZnO nanoﬁber sensor. In contrast, a combination of homoand hetero-interfaces are formed in the SnO2–ZnO core–shell nanoﬁber sensor. Therefore, the improved sensitivity of the core–shell nanoﬁber sensor may be attributed to the change in resistance due to both the surface depletion layer of each core–shell nanoﬁber and the potential barriers built in the junctions caused by the combination of homo- and hetero-interfaces."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "precursors": [
+    "SiCl4",
+    "H2O"
+  ],
+  "coreactants": [],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The binary reaction sequence chemistry for SiO2 growth is described as SiCl4 + 2 H2O ~ SiO2 + 4 HC1. This reaction can be separated into two surface half-reactions: (A) SiOH* + SiCl4 --> Si-O-SiCl3 + HC1, (B) SiCl* + H2O --> SiOH* + HC1."
+}

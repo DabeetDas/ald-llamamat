@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 500,
+  "pressure": "20 torr",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 3,
+  "number_of_cycles": null,
+  "reactor_type": "chimney reactor",
+  "evidence": "An ALE cycle is a gas sequence of 4 s ofTMGa pulse (or 7.5 s ofTMAI pulse) .... 3 s ofH2 purge -+ 10 s of AsH3 pulse .... 3 s of H2 purge."
+}<|im_end|>

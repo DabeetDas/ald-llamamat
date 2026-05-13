@@ -1,0 +1,7 @@
+{
+  "precursors": ["molybdenum hexacarbonyl (Mo(CO)6)", "hexamethyldisilathiane (HMDST)"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The MoS2 film was deposited on the cleaned sapphire substrates in a Beneq TFS-200 ALD reactor. The sapphire substrate was alternately exposed to vapors of Mo(CO)6 and HMDST. The temperature of the Mo(CO)6 and HMDST sources were kept at 35 oC and 25 oC separately to generate sufficient vapor pressure, and N2 was used as carrier gas. The ALD process for one deposition cycle consists of 1 s HMDST pulse /10 s N2 purge/3 s Mo(CO)6 pulse /5 s N2 purge, as shown in Figure 1(a)."
+}<|im_end|>

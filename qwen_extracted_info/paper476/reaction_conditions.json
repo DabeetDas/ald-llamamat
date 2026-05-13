@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth is self-regulated at one or fewer monolayers per cycle due to the vapor pressure difference between the elemental source and the growing surface. Once the surface is completely covered, the vapor pressure difference disappears because the surface is in equilibrium with the vapor of the pure element. The substrate is then shifted to the other source, concluding a cycle once equilibrium is reached at this second stage.",
+  "intermediate_species": [
+    "elemental source atoms"
+  ],
+  "evidence": "The growth procedure is based on an isothermal closed space sublimation (ICSS) configuration. However, unlike the traditional precursors used in this technique; we use elemental Zn and Te evaporation sources instead of the compound. At the initial stage of each exposure, the elemental source 'sees' a compound (GaAs or ZnTe) at the growing surface. We expect that once the growing surface is fully covered with the atoms of this elemental source, the difference in vapor pressures disappear because the growing surface will be in equilibrium with the vapor of the pure element."
+}

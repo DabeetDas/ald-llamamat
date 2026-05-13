@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "5 /H1100310−5 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "commercial 200 mm chambers",
+  "evidence": "The deposition temperature for ALD-W ﬁlms was 300°C. The annealing was performed for 30 min at the processing pressure of 5 /H1100310−5 Torr."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "hafnium oxide",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "tetrakis(diethylamino)hafnium",
+    "water vapor"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the annealing behavior of atomic layer deposited hafnium oxide on silicon, focusing on interfacial changes. HfO2 films were deposited at 300 °C using tetrakis(diethylamino)hafnium and water vapor. Annealing at 600–1000 °C in Ar atmosphere induced interfacial transformations, including the formation of hafnium silicate and silicon oxide. The interfacial layer thickness increased with annealing temperature, and the formation of hafnium silicide was observed at higher temperatures.",
+  "evidence": "Thin films of hafnium oxide are deposited on Si substrates by means of atomic layer deposition using tetrakis(diethylamino)hafnium and water on Si at 300 °C. ... Annealing temperatures of 600–1000 °C were required to induce interfacial transformations of the HfO2 films deposited on silicon via ALD and these interfacial changes are studied in detail using a variety of highly spatially resolved analytical techniques."
+}

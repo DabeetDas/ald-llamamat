@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the formation of Hf-silicate layers on SiO2 buffer layers through atomic layer chemical vapor deposition. The presence of the SiO2 buffer layer suppresses the formation of Hf-rich silicate phases and Hf-silicide dislocations at the interfaces, leading to a stable Si-rich interface and a high band offset, which reduces leakage current.",
+  "intermediate_species": [
+    "Hf-silicate",
+    "SiO2 buffer layer",
+    "Hf–O–Si states",
+    "Hf–O*–Si bonds",
+    "SiO2 bonds"
+  ],
+  "evidence": "Unlike Hf-silicate/Si samples, Hf-rich silicate phases or Hf-silicide dislocations were not observed in Hf-silicate/SiO2/Si samples. The valence band offset was increased from 3.26 eV (Hf-silicate) to 4.23 eV (SiO2 buffer layer). These SiO2 buffer layer effects were strongly related to the decrease of leakage current in Hf-silicate/SiO2 films compared to Hf-silicate films. The Hf 4 f peak had a doublet at 19.95 eV (Hf 4 f5/2) and 18.45 eV (Hf 4 f7/2) corresponding to the Hf–O–Si bonds of Hf silicates with Si-rich composition. The O1 s peak was deconvoluted into two states (BE=531.8 and 532.82 eV), which correspond to Hf-silicate (Hf–O*–Si) and SiO2 bonds, respectively."
+}

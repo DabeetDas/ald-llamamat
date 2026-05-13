@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200–300",
+  "pressure": "6–8 Torr",
+  "precursor_pulse_time_s": "0.5–5",
+  "coreactant_pulse_time_s": "1–5",
+  "purge_time_s": "1–5",
+  "number_of_cycles": "700",
+  "reactor_type": "F-120",
+  "evidence": "The pulse period was 0.5–5 s for the precursors and 1–5 s for the purge time between the reactants. The substrate temperature range of 200–300 1C was used for ZnO deposition. ALD was carried out in a commercial flow type F-120 (Microchemistry Ltd., Finland) reactor."
+}

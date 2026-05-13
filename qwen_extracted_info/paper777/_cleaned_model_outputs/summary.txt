@@ -1,0 +1,8 @@
+{
+  "target_material": "GaOx",
+  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["trimethyl[N-(2-methoxyethyl)-2-methylpropan-2-amine] gallium (TMGON)", "Ar/O2"],
+  "temperature_range": "100–250 °C",
+  "summary": "The study describes the development of a novel Ga precursor, trimethyl[N-(2-methoxyethyl)-2-methylpropan-2-amine] gallium (TMGON), for the plasma-enhanced atomic layer deposition (PEALD) of amorphous gallium oxide (GaOx) thin films. The process was conducted at temperatures ranging from 100 to 250 °C, resulting in a growth per cycle (GPC) of 1.0 Å/cycle. The films exhibited low surface roughness, amorphous structure, and good insulator properties with a leakage current of 3.2 × 10−9 A/cm² at 0.5 MV/cm and breakdown fields of 1.52 MV/cm. The results indicate that TMGON is a promising precursor for GaOx deposition due to its high GPC and favorable film properties.",
+  "evidence": "We developed a novel liquid type Ga precursor, trimethyl [N-(2-methoxyethyl)-2-methylpropan-2-amine]gallium (TMGON, Ga(CH[CHOCHCHNHtBu]) with a reasonable vapor pressure (0.5 Torr at 54 °C), to deposit GaOx via plasma-enhanced atomic layer deposition (PEALD) using a mixture gas of Ar/O2 as a reactant at low temperature. In this study, the growth per cycle (GPC) was 1.0 Å/cycle at deposition temperatures between 100 °C and 250 °C. The GaOx films also exhibited acceptable insulator properties, with a leakage current of 3.2 × 10−9 A/cm² at 0.5 MV/cm and breakdown fields of 1.52 MV/cm. These results demonstrate that TMGON is a promising ALD precursor for the deposition of GaOx as well as a multicomponent oxide layer including Ga, due to a high GPC and good film properties."
+}

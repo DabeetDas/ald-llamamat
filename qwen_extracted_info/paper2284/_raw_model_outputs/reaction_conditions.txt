@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Si2H6 + Cl -> SiH2 + HCl",
+    "Si2H6 + SiCl2 -> Si* + H2 + SiCl2"
+  ],
+  "surface_mechanism_description": "The H/Cl exchange mechanism involves the adsorption of Si2H6 and SiCl2 on the Si(100) surface, leading to the formation of surface species such as SiH2 and SiCl. The exchange reactions proceed via the desorption of H2 and HCl, with the latter facilitating the removal of Cl from the surface. Boron doping weakens the Si-Cl and Si-H bonds, enhancing the exchange rate and allowing lower growth temperatures.",
+  "intermediate_species": [
+    "SiH2",
+    "SiCl",
+    "HCl",
+    "Si*"
+  ],
+  "evidence": "The text describes the H/Cl exchange mechanism on the Si(100) surface, involving the adsorption of Si2H6 and SiCl2. The exchange reactions proceed via the desorption of H2 and HCl, with the latter facilitating the removal of Cl from the surface. Boron doping weakens the Si-Cl and Si-H bonds, enhancing the exchange rate and allowing lower growth temperatures. The intermediate species include SiH2, SiCl, HCl, and Si*."
+}<|im_end|>

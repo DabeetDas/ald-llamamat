@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "580",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "modified EMCORE GS/3300 MOCVD system",
+  "evidence": "GaAs epitaxial layers with hole concentration lower than 10 t7 cm -3 and thickness uniformity less than 2% over a 50 mm diameter wafer grown at 580 °C have been obtained."
+}

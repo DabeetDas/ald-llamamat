@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2 and HfO2",
+  "process_type": "plasma-enhanced ALD (PEALD)",
+  "main_precursors": ["TEMAZ", "TEMAH", "TTIP"],
+  "temperature_range": "280 °C",
+  "summary": "The study describes the use of N2O plasma as an oxidant in plasma-enhanced atomic layer deposition (PEALD) to significantly improve the deposition rate of ZrO2 and HfO2 thin films. The process achieves a growth rate of approximately 0.184 nm/cycle for ZrO2, which is close to the ideal monolayer growth rate. The enhanced growth rate is attributed to the efficient removal of ligands from metal precursors by nitric oxide species generated during the N2O plasma process, leading to more effective precursor adsorption and surface coverage. The electrical properties of the films remain comparable to those obtained using conventional O2 plasma.",
+  "evidence": "The formation of an almost full atomic monolayer via surface modification by N2O-plasma in atomic layer deposition of ZrO2 thin films. The deposition rate of ZrO2 thin films ( ∼0.184 nm/cycle) was similar to the full atomic monolayer deposition rate. The N2O-plasma process shows a GR of 0.184 nm/cycle, which is approximately 2.1 times higher than that (0.087 nm/cycle) of the O2-plasma process. The active N atoms of the N-O groups immediately after the N2O-plasma step remove the bulky amino ligands of the precursors more efficiently at the subsequent precursor pulse step and catalyze full coverage of the adsorption sites."
+}<|im_end|>

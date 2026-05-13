@@ -1,0 +1,8 @@
+{
+  "target_material": "Silicon Nitride (SiNx)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Pentachlorodisilane (PCDS, HSi2Cl5)", "Ammonia (NH3)"],
+  "temperature_range": "270−360 °C",
+  "summary": "This study investigates the growth of silicon nitride (SiNx) films using pentachlorodisilane (PCDS) as a precursor in hollow cathode plasma-enhanced atomic layer deposition (PEALD). The process demonstrates self-limiting growth behavior with a higher growth per cycle (GPC) compared to hexachlorodisilane (HCDS). The films exhibit low oxygen and chlorine content, and improved electrical properties such as low leakage current density and high breakdown electric field.",
+  "evidence": "In this work, a novel chlorodisilane precursor, pentachlorodisilane (PCDS, HSi2Cl5), was investigated for the growth of SiNx via hollow cathode plasma-enhanced atomic layer deposition (PEALD). ... The PEALD SiNx films grown by PCDS also exhibited a leakage current density as low as 1−2 nA/cm2 at 2 MV/cm and a breakdown electric field as high as ~12 MV/cm."
+}<|im_end|>

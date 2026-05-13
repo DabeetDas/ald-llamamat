@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "evidence": "High-k TiOx films (2, 4, and 8 nm) were deposited on SiN x film by plasma enhanced atomic layer deposition (PEALD) at a deposition temperature of 250 ° C and a chamber pressure of 3 Torr. Titanium isopropoxide (TTIP) and oxygen plasma were used as the Ti precursor and oxygen reactant gas, respectively. One deposition cycle of TiOx consisted of exposure to the TTIP for 3 s, a purge period with Ar of 5 s, and exposure to the oxygen reactant for 5 s, followed by a final purge period with Ar of 5 s."
+}<|im_end|>

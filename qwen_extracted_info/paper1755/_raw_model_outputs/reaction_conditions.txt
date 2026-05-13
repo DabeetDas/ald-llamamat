@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "n(–OH)(s) + TiF4(g) → (–O–)nTiF4-n(s) + nHF(g)",
+    "(–O–)nTiF4-n(s) + (4 - n)H2O(g) → (–O–)nTi(OH)4-n(s) + (4 - n)HF(g)"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the exchange between TiF4 and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. On soda lime glass, additional reactions involving sodium species occur, leading to the formation of TiO2 and influencing the growth rate and phase composition.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "TiF4 surface species",
+    "NaF",
+    "Na2O·mTiO2"
+  ],
+  "evidence": "In analogy to e.g. the TiCl4–H2O ALD process, the expected exchange reactions, on all substrates, between TiF4 and H2O are the following: n(–OH)(s) + TiF4(g) → (–O–)nTiF4-n(s) + nHF(g) ... During the TiF4 pulse (1) the incoming TiF4 thus reacts with surface hydroxyl groups and HF is released. After purge, during the water pulse (2) the surface is rehydroxylated and HF is again released. ... On soda lime glass the following extra reactions may be responsible for the different growth behavior: During the first TiF4 pulse: 2Na2O(s) + TiF4(g) → 4NaF(s) + TiO2(s) ... During the water pulses: 2NaF(s) + mTiF4(s) + (2m +1 ) H2O(g) → Na2O·mTiO2(s) + (4m + 2)HF(g) ... During subsequent TiF4 pulses: 2Na2O·mTiO2(s) + TiF4(g) → 4NaF(s) + (2m +1 ) TiO2(s)"
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The hydrogen radicals provided by the remote ICP reduce the chemically bonded monolayer of TBTDEN and generate NbN.",
+  "intermediate_species": ["monolayer of TBTDEN"],
+  "evidence": "The whole PEALD process consisted of numerous deposition cycles repeating always the same four basic steps. First, the substrate is exposed to TBTDEN. After the exposure, the reaction chamber is purged with dry argon and nitrogen. Within the third step, the hydrogen radicals provided by the remote ICP reduce the chemically bonded monolayer of TBTDEN and generate NbN."
+}

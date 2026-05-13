@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["HfCl4.H2O", "N2", "O2"],
+  "temperature_range": "below 300 °C",
+  "summary": "The study investigates the thermal stability and structural characteristics of HfO2 films grown on Si(100) by atomic-layer deposition (ALD). The films are grown using HfCl4.H2O as the precursor and N2 as the purge and carrier gas, with O2 as the oxygen source. The structural properties are analyzed using XRD and HRTEM, showing that the film structure is influenced by thickness and postannealing temperature. The interfacial layer of hafnium silicate is observed, and the structural transformation from amorphous to polycrystalline occurs after annealing at 750 °C.",
+  "evidence": "The thermal stability and structural characteristics of HfO2 films on Si(100) grown by atomic-layer deposition were investigated. The structural characteristics and chemical state of the HfO2 films in relation to the film thickness and postannealing temperature were examined by x-ray diffraction and x-ray photoelectron spectroscopy. HfO2 films were grown below 300 °C by using the precursor of HfCl4.H2O vapor served as the oxygen source and N2 was supplied as the purge and carrier gas. The annealing of the films was performed by rapid thermal process in ambient of N2 from 750 °C to 950 °C for 5 min."
+}<|im_end|>

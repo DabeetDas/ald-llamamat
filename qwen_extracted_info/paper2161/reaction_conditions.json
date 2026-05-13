@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of HfO2 films using Hf(CH3)2 and O3 oxidant. The text mentions that the HfO2 films were deposited by atomic layer deposition (ALD) at a wafer temperature of 250 °C using Hf(CH3)2 and O3 oxidant with two different densities. The mechanism is not explicitly detailed in terms of surface reactions, but it is implied that the surface reactions are related to the ALD process, which typically involves alternating pulses of precursor and oxidant gases.",
+  "intermediate_species": [
+    "carbon residue"
+  ],
+  "evidence": "The text discusses the effects of carbon residue in atomic layer deposited HfO2 films on their time-dependent dielectric breakdown reliability. It mentions that the HfO2 films were deposited using Hf(CH3)2 and O3 oxidant with two different densities, and that the higher O3 density resulted in lower carbon impurity concentration. The presence of carbon residue is linked to the reliability and leakage current properties of the films."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "6 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Oxford Plasma Technology OpAL ALD upgraded with an inductive-coupled plasma source",
+  "evidence": "The deposition temperature was initially fixed at 350◦C. Additionally, the temperature dependency of the resistivity and the transition temperature were investigated for deposition temperatures in the range 200–400◦C. A minimum value of 2 .5µ m was obtained at a deposition temperature of 400 ◦C (ﬁgure 2)."
+}

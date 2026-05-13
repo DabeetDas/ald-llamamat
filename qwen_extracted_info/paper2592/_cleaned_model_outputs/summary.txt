@@ -1,0 +1,8 @@
+{
+  "target_material": "Gd2O3",
+  "process_type": "Plasma-enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": ["Gd(iPrCp)3", "O2 plasma"],
+  "temperature_range": "150 to 350 /C14 C",
+  "summary": "The study describes the plasma-enhanced atomic layer deposition (PE-ALD) of high-k gadolinium oxide (Gd2O3) thin films using Gd(iPrCp)3 and O2 plasma. The process is optimized within a narrow temperature range, with a saturated growth rate of 1.4 Å/cycle at 250 /C14 C. The films exhibit good optical properties and a dielectric constant of about 16, but the PE-ALD process forms an interfacial SiO2 layer and generates fixed charge, which may limit its use as a gate dielectric. The study also explores plasma etching of the Gd2O3 films, showing low etching rates and suggesting physical sputtering as the dominant mechanism.",
+  "evidence": "Atomic layer deposition (ALD) of high-quality gadolinium oxide thin films is achieved using Gd(iPrCp)3 and O2 plasma. Gd2O3 growth is observed from 150 to 350 /C14 C, though the optical properties of the film improve at higher temperature. True layer-by-layer ALD growth of Gd2O3 occurred in a relatively narrow window of temperature and precursor dose. A saturated growth rate of 1.4 A˚ /cycle was observed at 250 /C14 C. The Gd2O3 film has a dielectric constant of about 16, exhibits low C–V hysteresis, and allows a 50 /C2 reduction in gate leakage compared to SiO2. However, the plasma enhanced atomic layer deposition (PE-ALD) process causes formation of an /C24 1.8 nm SiO2 interfacial layer, and generates a fixed charge of /C0 1.21 /C2 1012 cm/C0 2, both of which may limit use of PE-ALD Gd2O3 as a gate dielectric."
+}

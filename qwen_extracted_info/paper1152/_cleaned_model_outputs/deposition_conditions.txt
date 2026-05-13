@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300 –380",
+  "pressure": "133.3 Pa",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": "5",
+  "purge_time_s": "10",
+  "number_of_cycles": "200",
+  "reactor_type": "showerhead-type hot-wall",
+  "evidence": "ZrO2 thin ﬁlms were deposited on an Si(100) substrate using a showerhead-type hot-wall ALD reactor, manufactured by ASM Geneteck, Inc. (Korea). The pressure during deposition was 133.3 Pa and the number of cycles of the source pulse was varied from 68 to 200 to control the thickness. A cycle consisted of a sequence of source (5 s)/purge (10 s)/O3 (5 s)/purge (10 s)."
+}

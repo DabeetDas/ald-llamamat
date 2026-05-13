@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-160",
+  "pressure": "5",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Picosun SUNALE R-150",
+  "evidence": "The temperatures in the deposition chamber were selected to be 160 and 250 ◦C. The ALD reactor was operated with a constant nitrogen flow at a pressure of about 5 mbar."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "Reflection High-Energy Electron Diffraction (RHEED)",
+    "Auger Electron Spectroscopy (AES)",
+    "Secondary-Ion Mass Spectroscopy (SIMS)",
+    "Infrared Thermal Video System",
+    "Ellipsometry",
+    "X-ray Photoelectron Spectroscopy (XPS)"
+  ],
+  "evidence": "Thermal desorption of native oxide covering Si(100) and Ge(100) (Ref. 3) wafers produced clear, doubledomain (2X 1), reflection high-energy electron-diFraction (RHEED) patterns. Auger electron spectroscopy (AES) showed no detectable contaminants, such as carbon and oxygen, before or after growth. By monitoring the Ge (52 eV) AES signal and measuring the depth profile using secondary-ion mass spectroscopy (SIMS), we confirmed that there was no Ge segregation and no intermixing at the interface within the temperature range of Fig. 2(a). The light reflectance curve within 400—800 nm was best fitted to the theoretical one assuming a flat Si overlayer. The Si crystal layer on Ge(100) during the initial growth stage, however, consists of islands having [311]facets due to the lattice mismatch between Si and Ge. The curve fitting gives the average thickness (+10% relative uncertainty) over the corrugated Si area based on the linear relationship between the thickness and the degree of dispersion in the light reflectance versus wavelength curve. For coalesced, thick Si film grown by SR-CVD, the measured thickness using the optical method and using a stylus step profiler agreed within 10%."
+}

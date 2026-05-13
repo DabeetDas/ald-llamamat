@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500-700",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "40",
+  "number_of_cycles": null,
+  "reactor_type": "graphite susceptor with He flow between streams",
+  "evidence": "The MOCVD manifold used was not designed for fast gas switching and thus it took about 40 s to go through one Ga-P-In-P growth cycle."
+}

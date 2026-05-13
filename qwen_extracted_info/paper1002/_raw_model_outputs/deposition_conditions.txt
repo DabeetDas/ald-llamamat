@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "250-450",
+ "pressure": "5 mbar",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "3.5",
+ "number_of_cycles": "300",
+ "reactor_type": "Aixtron AIX 200FE AVD",
+ "evidence": "ALD conditions Substrate temperature 250 – 450 °C Pulse sequence (Precursor/purge/water/purge) 2 s/2 s/0.5 s/3.5 s Number of cycles 300"
+}<|im_end|>

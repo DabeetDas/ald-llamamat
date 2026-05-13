@@ -1,0 +1,7 @@
+{
+  "precursors": ["Zn-precursor", "Sn-precursor"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The pulse sequence is kept constant with three Zn-precursor:N2:H2O:N2 cycles for every two Sn-precursor:N2:H2O:N2 cycles"
+}<|im_end|>

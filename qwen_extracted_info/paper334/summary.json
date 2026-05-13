@@ -1,0 +1,11 @@
+{
+  "target_material": "GaAs",
+  "process_type": "laser-ALE",
+  "main_precursors": [
+    "triethylgallium (TEG)",
+    "arsine (AsH3)"
+  ],
+  "temperature_range": "-350°C",
+  "summary": "The study investigates the laser-atomic layer epitaxy (laser-ALE) of GaAs using triethylgallium (TEG) and arsine (AsH3) as source gases. The process is carried out under visible wavelength laser irradiation, and the key mechanism is the 'site-selective-decomposition' of alkylgallium on As-terminated surfaces. The growth occurs at low temperatures, and the laser irradiation enhances the decomposition of TEG molecules on the As-terminated surface, leading to self-arresting deposition. The results show that UV and visible laser irradiation enable ALE growth, while IR laser irradiation does not, due to the absence of surface-specific decomposition.",
+  "evidence": "We have demonstrated laser-ALE of GaAs employing the alkylgallium/AsH3 system combining the alternative gas feeding (pulsed MOVPE) technique with visible Ar+ laser irradiation. The source gases used in our study have no absorption in the visible wavelength region in the gas phase and the crystals are grown at low temperature condition (-350°C), so that no gas phase decomposition of source gases occurs and the reaction is expected to be restricted only at the surface of substrate. We have described in previous reports that Ar+ laser irradiation induces the selective decomposition of the alkylgallium adsorbed on an As-terminated surface but not on a Ga-terminated surface. We have defined this concept as 'site-selective-decomposition'. This 'site-selective-decomposition' causes the self-arresting deposition process in laser-ALE."
+}

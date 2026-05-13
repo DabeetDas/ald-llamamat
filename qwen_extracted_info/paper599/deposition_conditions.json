@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 60,
+  "number_of_cycles": null,
+  "reactor_type": "cold-wall type with flushed optical windows",
+  "evidence": "The growth temperature was 150°C. Typical growth cycle was made up of 1 s exposure to TiC14, 1 s N2 purge, 1 s exposure to H20, and 60 s N2 purge."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Pb(Zr,Ti)Ox (PZT)",
+  "process_type": "liquid injection ALD",
+  "main_precursors": ["Zr(DPM)4", "Pb(DPM)2", "Ti(Oi-Pr)2(DPM)2"],
+  "temperature_range": "240°C to 360°C",
+  "summary": "PZT films were deposited using a combination of binary ALD processes with Zr(DPM)4, Pb(DPM)2, and Ti(Oi-Pr)2(DPM)2 as precursors. The process involved self-regulated growth of ZrOx, PbO, and TiOx films, with the deposition temperature set below the thermal decomposition temperature of the precursors. The films were amorphous after deposition and crystallized after annealing at 650°C, showing a preferred (100)/(001) orientation.",
+  "evidence": "Zr(DPM)4 dissolved in ethylcyclohexane (ECH) was used as a Zr precursor, and the thermal decomposition temperature was estimated to be 360°C based on the Arrhenius plot for the deposition rate of ZrOx films. The deposition temperature of 240°C was used for PZT films, and the films were crystallized after annealing at 650°C."
+}<|im_end|>

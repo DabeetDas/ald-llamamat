@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "105-128",
+  "pressure": "5 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": 0.2,
+  "purge_time_s": 4,
+  "number_of_cycles": 500,
+  "reactor_type": "Aixtron AIX 200FETM",
+  "evidence": "Growth condition Value Growth temperature 80–200 ◦C Reactor pressure 5 mbar Silver precursor (hfac)(1,5-COD)Ag Silver source 0.1 M solution in n-Toluene Vaporizer temperature 130 ◦C Precursor delivery rate 17.5 /H9262l/s Argon flow rate 200 sccm Co-reactant Tertiary butyl hydrazine Co-reactant delivery Vapour draw at ∼ 20 ◦C ALD cycle Inject Purge TBH Purge 0–6 s 4 s 0–4 s 0.5 or 4 s"
+}<|im_end|>

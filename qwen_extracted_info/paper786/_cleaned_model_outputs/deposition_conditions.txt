@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "80 and 70 /C176C",
+ "pressure": "90 m torr",
+ "precursor_pulse_time_s": "2.5",
+ "coreactant_pulse_time_s": "1.5",
+ "purge_time_s": "30",
+ "number_of_cycles": "200",
+ "reactor_type": "Gasonics, Ga-1000",
+ "evidence": "For ALD coating (Gasonics, Ga-1000) of TiO 2 onto the AAO pore walls, we utilized a developed novel procedure well established by other groups. Here, titanium(IV) isopropoxide (TIP, Ti(OCH(CH3)2)4), and water were used as precursors for TiO 2 deposition. The carrier gas was nitrogen (40 ml/min). Within every ALD cycle, each of the precursors is let into the reaction chamber within a pulse, the pulse time, and is allowed to adsorb to the surface of the reaction substrate (here, the surface of AAO and the pore walls) for a certain period of time, the exposure time, followed by a purging period. The pulse time of TIP and water was 2.5 and 1.5 s. The exposure time of precursors was 30 s. The temperature of precursors’ line and chamber has been kept at 80 and 70 /C176C, respectively."
+}

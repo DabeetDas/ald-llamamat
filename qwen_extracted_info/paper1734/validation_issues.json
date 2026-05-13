@@ -1,0 +1,16 @@
+{
+  "summary": [
+    {
+      "code": "missing_evidence",
+      "path": "summary.evidence",
+      "message": "Non-empty extraction is missing an evidence string."
+    }
+  ],
+  "film_properties": [
+    {
+      "code": "evidence_not_found",
+      "path": "film_properties.evidence",
+      "message": "Evidence does not appear in the source text."
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Bis-dimethylamino-silane (BDMAS: SiH2(N(CH3)2)2)", "Tris-dimethylamino-silane (TDMAS: SiH(N(CH3)2)3)"],
+  "coreactants": ["O3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "BDMAS and TDMAS precursors were used for the SiO2 films. A single ALD cycle for SiO2 consisted of the following processes: the Si precursor was introduced into the reactor chamber for 20 s, and this was then purged for 30 s. Following this, an oxidant O3 was introduced for 5 s, and purged for 30 s. In this ALD process, BDMAS was directly introduced into the reactor chamber and controlled using a conventional mass flow system at 20 sccm, because the vapor pressure of BDMAS is very high. On the other hand, TDMAS was introduced into the reactor chamber using a liquid mass flow system and vaporized at 80 °C with Ar as a carrier gas. The TDMAS and carrier gas have flow rates of 10 sccm and 300 sccm, respectively. In the process, a buffer gas of Ar always flowed at 700 sccm in the reactor chamber."
+}

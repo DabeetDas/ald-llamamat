@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "O2 plasma"],
+  "temperature_range": "225 °C",
+  "summary": "The study presents a film growth model for atomic layer deposition (ALD) to evaluate step coverage in microfeatures. The model considers precursor injection time, surface coverage, and reemission mechanisms. It was applied to the deposition of Al2O3 films on holes with an aspect ratio of 10, using trimethylaluminum (TMA) as the Al precursor and O2 plasma as the oxidant. The model parameters were extracted by fitting experimental data, and the results showed good agreement with the model predictions.",
+  "evidence": "The proposed model was applied to the deposition of Al2O3 films on 0.3 μm diameter holes with an aspect ratio of 10 at a substrate temperature of 225 °C and a deposition pressure of 3 torr. The model parameters were extracted by fitting the experimental data for Al2O3 film thickness per cycle at the flat surface and at the bottom inside a hole depending on TMA injection time to the proposed model. It was confirmed that the experimental data for step coverage depending on TMA injection time were in good agreement with the model predictions at different partial pressures of TMA."
+}<|im_end|>

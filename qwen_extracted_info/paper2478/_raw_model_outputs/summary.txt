@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "S-ALD (Spatial ALD)",
+  "main_precursors": ["trimethylaluminum", "water"],
+  "temperature_range": "200 C",
+  "summary": "The paper describes the use of spatial atomic layer deposition (S-ALD) for depositing zinc oxide (ZnO) thin-film transistors (TFTs). The process utilizes gas isolation and operates at atmospheric pressure, allowing for high deposition rates and good film quality. The study highlights the effectiveness of S-ALD in achieving high mobility and stability in ZnO-based devices, as well as its capability for selective area deposition using inhibitors like PMMA.",
+  "evidence": "Abstract—We report on zinc oxide (ZnO)-based devices produced by a fast, open-air atomic layer deposition (ALD) process relying upon the spatial isolation of reactive gases. At deposition rates of greater than 100 /23/65per minute, ZnO-based thin-ﬁlm transistors by spatial atomic layer deposition (S-ALD) show mobility above 15 /99/109/50 /86/115and excellent stability. ... The S-ALD system was designed to maintain uniformity as the deposition head scales up. ... The ability of this new ALD process to leverage patterning by using poly(methyl methacrylate) (PMMA) as a growth inhibitor for selective area deposition is discussed."
+}<|im_end|>

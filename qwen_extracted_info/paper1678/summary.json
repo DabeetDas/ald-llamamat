@@ -1,0 +1,11 @@
+{
+  "target_material": "Aluminum Oxide (Al2O3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "water (D2O)"
+  ],
+  "temperature_range": "100 °C",
+  "summary": "The study describes the atomic layer deposition of aluminum oxide (Al2O3) on carboxylic acid-terminated self-assembled monolayers (COOH-SAMs) using trimethylaluminum (TMA) and water as precursors. The process is carried out at approximately 100 °C, and the resulting Al2O3 films are compared to those on SiO2. The SAMs and Si/SAM interface remain chemically stable up to 400 °C, indicating that the SAMs act as a barrier against diffusion and promote ordered nucleation for ALD. The study also highlights the stability of the Al2O3 films and their effectiveness in preventing substrate oxidation up to 400 °C.",
+  "evidence": "In situ infrared absorption spectroscopy is used to monitor atomic layer deposition (ALD) of aluminum oxide (Al2O3) on carboxylic acid-terminated self-assembled monolayers (SAMs), Si(111)-(CH2)10-COOH (or COOH-SAMs), directly grafted on silicon (111) at ∼100 °C. The quality of resulting Al2O3 films is comparable to Al2O3 on SiO2. Both the SAM film and the Si/SAM interface remain chemically stable during growth and upon post annealing to 400 °C, suggesting that the tight packing of the alkyl chains and COOH-SAM head groups presents a diffusion barrier and promotes ordered nucleation for ALD."
+}

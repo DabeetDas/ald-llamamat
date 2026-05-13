@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TDEAA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The surface mechanism description is derived from the text discussing the ALD process, where ligand exchange between TDEAA and surface hydroxyl groups is mentioned, along with the water pulse to regenerate OH sites. The intermediate species are identified from the discussion on the ALD process and the chemical interactions involved."
+}

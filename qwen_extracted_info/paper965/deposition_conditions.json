@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "6 /C2 10/C0 8 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "atomic layer chemical vapor deposition (ALCVD)",
+  "evidence": "Uniform stoichiometric ultrathin layers of HfO2 (5 nm) were grown using atomic layer chemical vapor deposition (ALCVD) at 300 1C from HfCl4 and H 2O precursors."
+}

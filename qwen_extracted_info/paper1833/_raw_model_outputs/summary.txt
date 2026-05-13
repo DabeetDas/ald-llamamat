@@ -1,0 +1,8 @@
+{
+  "target_material": "cobalt sulfide (CoS_x)",
+  "process_type": "thermal ALD",
+  "main_precursors": ["bis(N,N'-diisopropylacetamidinato) cobalt (Co(AMD)2)", "hydrogen sulfide (H2S)"],
+  "temperature_range": "100 °C",
+  "summary": "The study reports the use of atomic layer deposition (ALD) to deposit cobalt sulfide (CoS_x) at low temperatures for hydrogen evolution reaction (HER) catalysts. The ALD process allows for the deposition of amorphous CoS_x films with excellent conformality and low temperature, which enhances catalytic performance. The amorphous phase of CoS_x was found to have superior electrochemical properties, including a low Tafel slope and high exchange current density, making it a promising candidate for textile-based HER catalysts.",
+  "evidence": "The ALD process allows the deposition of CoS_x at low temperature with excellent conformality. Also, the phase of the deposited films could be controlled by varying growth temperature. DFT calculations were performed that hydrogen adsorption energy of amorphous CoS_x grown at low temperature is close to zero, which confirms the benefit of the amorphous-phase catalyst."
+}<|im_end|>

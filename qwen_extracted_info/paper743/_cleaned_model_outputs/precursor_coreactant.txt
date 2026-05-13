@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMASn"],
+  "coreactants": ["O3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "TDMASn and O3 were used as a Sn precursor and a counter-reactant, respectively. The precursor was contained in stainless-steel bubbler and evaporated at 45 °C to obtain sufficient vapor pressure. Precursor vapors were transported into the reaction chamber by Ar carrier gas with a flow rate of 50 sccm. Furthermore, Ar gas with the same flow rate was also used to purge excess gas molecules and byproducts between each precursor and reactant exposure step."
+}

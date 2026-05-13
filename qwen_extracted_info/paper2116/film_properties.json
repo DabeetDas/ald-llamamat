@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 11.7,
+  "density_g_cm3": 4.7,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.5,
+  "crystal_phase": "Amorphous",
+  "evidence": "The surface roughness of the deposited films is comparable to the surface roughness of the substrate itself. Atomic force microscopy data show that the deposited films have a low surface roughness which is comparable to the surface roughness (0.3 nm) of the substrate. The film thickness deduced does not depend critically on the specific material properties used. The mass density calculated from in situ SE can be compared with ex situ XRR data for two thick TiN films that were deposited at 100 and 400 °C. For a 45 nm thick TiN deposited at 100 °C mass densities of 3.9± 0.1 and 3.7± 0.1 g / cm−3 were obtained from the SE and XRR data, respectively. For a 65 nm thick TiN deposited at 400 °C, the SE and XRR measurements resulted in 4.8± 0.1 and 4.9± 0.1 g cm−3, respectively. These values for the mass density are somewhat lower than the literature value for bulk TiN (5.21 g cm−3), but the values are similar to densities of thin TiN films reported in the literature."
+}

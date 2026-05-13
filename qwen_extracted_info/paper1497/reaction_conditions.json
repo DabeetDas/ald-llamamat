@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Mg(thd)2 + TiF4 → 2MgF + Ti(thd)2 (1)",
+    "MgF2 + Lithd → LiF + Mg(thd)2 (2)"
+  ],
+  "surface_mechanism_description": "Lithium replaces magnesium in a MgF2 film, generating LiF. During this step, magnesium leaves the film and needs to form a volatile compound, reformation of Mg(thd)2 with thd-ligands coming from Lithd.",
+  "intermediate_species": [
+    "Mg(thd)2",
+    "Ti(thd)2",
+    "MgF2",
+    "Mg(thd)2 (reformed)"
+  ],
+  "evidence": "On the basis of these experiments, we propose a reaction mechanism for the deposition of LiF. In the first step, MgF2 is formed by the already demonstrated process from Mg(thd)2 and TiF4 (1).20 During the Lithd pulse, lithium replaces magnesium in the film, generating LiF. During this step, magnesium leaves the film. Because magnesium needs to be transported through the gas phase, it needs to form a volatile compound. The only possibility under these conditions appears to be the reformation of Mg(thd)2, with the thd-ligands coming from Lithd (2). Such an exchange reaction could be assumed to lead to only small carbon and hydrogen impurities, as is in fact seen in these films."
+}

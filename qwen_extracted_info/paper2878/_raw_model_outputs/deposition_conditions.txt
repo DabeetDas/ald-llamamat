@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "0.6 Torr",
+  "precursor_pulse_time_s": "15",
+  "coreactant_pulse_time_s": "10",
+  "purge_time_s": "7",
+  "number_of_cycles": null,
+  "reactor_type": "ALCVD",
+  "evidence": "The Ti–silicate layers were deposited by ALCVD using the liquid precursors tetrakis(diethylamido)titanium [Ti(N(C2H5)2)4] and tetra(butoxyortho)silane [Si(O nC4H9)4]. During the deposition, the pressure and temperature in the chamber were maintained at 0.6 Torr and 200 °C, respectively. The temperatures of the Ti(N(C2H5)2)4 and Si(O nC4H9)4 bubblers were fixed at 70 and 90 °C, respectively. The Ar flow rates of Ti(N(C2H5)2)4 and Si(O nC4H9)4 were 15 sccm. The buffer flow rate was 200 sccm. One cycle of ALCVD consists of supplying the titanium precursor (15 s), Ar purge (7 s), silicon precursor (10 s), and Ar purge (7 s)."
+}<|im_end|>

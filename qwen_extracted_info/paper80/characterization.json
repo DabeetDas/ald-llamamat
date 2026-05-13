@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray reflectometry (XRR)",
+    "X-ray fluorescence (XRF)",
+    "Transmission electron microscopy (TEM)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Scanning electron microscopy (SEM)",
+    "Atomic force microscopy (AFM)",
+    "Energy-dispersive X-ray spectroscopy (EDS)"
+  ],
+  "evidence": "The film thickness, which was used to calculate the growth rate, was directly measured by X-ray reflectometry (XRR) for films deposited at /C20160 8C, but for higher deposition temperatures ( /C21160 8C), the deposited films were too rough (see below) to be analyzed by XRR; therefore, X-ray fluorescence (XRF) was used instead to estimate the thickness. XRF measures the areal density of each element in the film, which can be used to calculate the areal mass of the deposited film. The film microstructures and crystallinity were examined by transmission electron microscopy (TEM). The surface morphology of the FeS x films was examined by both scanning electron microscopy (SEM) and atomic force microscopy (AFM). SEM and AFM images for approximately 20 nm thick films deposited at various temperatures from 80 to 200 8C are shown in Figure 5 a–j. The purity of the ALD films was further analyzed by X-ray photoelectron spectroscopy (XPS). SEM in combination with energy-dispersive X-ray spectroscopy (EDS) was used to examine the elemental composition of the ALD-prepared FeS x/Al2O3 powder."
+}

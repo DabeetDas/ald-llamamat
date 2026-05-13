@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Atomic Force Microscopy (AFM)",
+    "Grazing incidence x-ray diffraction",
+    "Scanning electron microscope (SEM)",
+    "Four-point probe",
+    "Scotch tape pull test"
+  ],
+  "evidence": "The resistivity was determined by first measuring the sheet resistivity using a four-point probe and multiplying by the film thickness measured using cross-sectional micrographs from a scanning electron microscope. The surface morphology of the ALD films was investigated using an atomic force microscope (AFM). Grazing incidence x-ray diffraction was used to investigate the structure of Cu films on all four types of substrates. The Cu films discussed below were all produced with the formalin chemistry. The surface roughness of the ALD film was 4.12 nm compared to 8.35 nm for the CVD film. The electrodeposited film passed the Scotch tape pull test, indicating good adhesion. The grazing incidence x-ray diffraction pattern of this film was not significantly different from that of the seed layer shown in Fig. 2."
+}

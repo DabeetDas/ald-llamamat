@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Trimethylaluminum (TMA)",
+    "deionized water"
+  ],
+  "temperature_range": "75 to 200°C",
+  "summary": "The study investigates the Atomic Layer Deposition (ALD) of aluminum oxide (Al2O3) on natural fiber systems, such as cotton, to achieve conformal coatings. The process uses Trimethylaluminum (TMA) and deionized water as precursors, and the temperature range is between 75 and 200°C. The research highlights the challenges of ALD on complex, three-dimensional surfaces, such as woven fabrics, where surface topology significantly affects film growth. The results show that ALD can produce uniform, conformal coatings on natural fibers, leading to enhanced hydrophobic properties.",
+  "evidence": "The text states: 'Atomic layer deposition of Al2O3 was performed on planar silicon substrates at various temperatures using fixed-deposition conditions... The process temperature was held constant between 75 and 200°C.' It also mentions: 'ALD of aluminum oxide was performed in a hot-wall viscous-flow tube reactor... using TMA and H2O as reactants.' Additionally, it notes: 'The results show that atomic layer deposition uniquely allows reactive growth precursors to penetrate throughout a typical tightly woven fiber network to provide for a highly conformal inorganic coating.'"
+}

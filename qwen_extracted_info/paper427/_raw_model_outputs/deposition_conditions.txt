@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "445",
+  "pressure": "atmospheric",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "1",
+  "number_of_cycles": null,
+  "reactor_type": "atmospheric vent/run MOCVD system",
+  "evidence": "The growth sequence in this paper is characterized by a sequence of exposurelflush times (in seconds). For example, a growth that uses a III exposure time of 2 seconds, a V exposure time of 5 seconds, and 1 second purge times would be characterixed as a (2-l-S-l) sequence."
+}<|im_end|>

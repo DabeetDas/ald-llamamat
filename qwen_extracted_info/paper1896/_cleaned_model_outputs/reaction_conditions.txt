@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process for SiO2 deposition involved the use of 3-aminopropyltriethoxysilane, water, and ozone as precursors. The first precursor, 3-aminopropyltriethoxysilane, was chemisorbed to the surface of the alumina matrix. Subsequently, water was introduced for the self-catalytic removal of the remaining ethoxy groups, followed by elimination of the aminoalkyl arms by introduction of ozone. The cycle was then completed by purging of the by-products, CO2, NOx, and H2O, out of the reaction chamber.",
+  "intermediate_species": ["3-aminopropyltriethoxysilane", "ethoxy groups", "aminoalkyl arms"],
+  "evidence": "The first gaseous precursor, 3-aminopropyltriethoxysilane [H2N(CH2)3Si(OCH2CH3)3] was introduced into the chamber and chemisorbed to the surface of the alumina matrix. In the subsequent steps, water was introduced for the self-catalytic removal of the remaining ethoxy groups, followed by elimination of the aminoalkyl arms by introduction of ozone, the last precursor in the cycle. The cycle was then completed by purging of the by-products, CO2, NOx, and H2O, out of the reaction chamber."
+}

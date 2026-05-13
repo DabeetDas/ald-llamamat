@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Bis-Ni"
+  ],
+  "coreactants": [
+    "H2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "For the ALD, Bis-Ni was used a metal organic precursor, H2 as the reactant gas, and Ar as the purging gas."
+}

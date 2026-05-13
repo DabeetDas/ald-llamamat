@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves the alternating deposition of Cd and Te, with the presence of a weakly bound Te* reservoir facilitating growth. The Cd-terminated surface undergoes a temperature-driven transition from a c(2 32) reconstruction to a disordered state with local 2 31 ordering. The Te* reservoir allows for the neutralization of repulsion between mobile Cd atoms, enabling the formation of a flat surface through the self-regulated growth process.",
+  "intermediate_species": ["Te*", "Cd atoms", "Te dimers"],
+  "evidence": "The text discusses the role of weakly bound Te* atoms in facilitating growth by neutralizing repulsion between mobile Cd atoms. It also describes the formation of Te dimers and the transition between different surface reconstructions, such as c(2 32) and 2 31, depending on temperature and the presence of the Te* reservoir."
+}

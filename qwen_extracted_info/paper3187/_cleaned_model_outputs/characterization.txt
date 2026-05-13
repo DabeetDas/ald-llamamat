@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "Atomic Force Microscopy (AFM)",
+    "Transmission Electron Microscopy (TEM)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Capacitance–voltage (C-V) measurement",
+    "Current vs voltage measurements"
+  ],
+  "evidence": "Physical characterization was done by atomic force microscopy (AFM) and transmission electron microscopy (TEM), and chemical analysis was done by X-ray photoelectron spectroscopy (XPS). Capacitance vs voltage (C-V) was measured with an HP4284 LCR, current vs voltage measurements were made with an HP4155b semiconductor parameter analyzer, and the physical parameters were extracted by least-squares curve-fitting using the NCSU CVC program."
+}

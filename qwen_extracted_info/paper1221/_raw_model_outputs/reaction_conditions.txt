@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [
+    "|S(SH)y + Al(N(CH3)2)3 (g) → |SSySAl(N(CH3)2)(3Sy) + yHN(CH3)2 (g)",
+    "|SSySAl(N(CH3)2)(3Sy) + 1.5H2S (g) → |S(AlS1.5)S(SH)y+ (3Sy)HN(CH3)2 (g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The AlSx ALD growth mechanism was proposed based on mass changes observed during in situ QCM measurements. The mechanism involves ligand exchange reactions where dimethylamido groups are released during H2S exposures and subsequent reactions with H2S to form Al2S3 and regenerate surface thiols."
+}<|im_end|>

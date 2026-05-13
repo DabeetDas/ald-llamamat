@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100 –250",
+  "pressure": "40 –65 Pa",
+  "precursor_pulse_time_s": "0.1",
+  "coreactant_pulse_time_s": "0.2",
+  "purge_time_s": "2",
+  "number_of_cycles": null,
+  "reactor_type": "Showerhead",
+  "evidence": "Typical pulse times for DEZn and H2O feed were 0.15 s and 0.2 s, respectively and the time for purge between the reactants was 2 s. The substrate temperature was varied in a range of 100–250 °C. Process pressure 40 –65 Pa"
+}

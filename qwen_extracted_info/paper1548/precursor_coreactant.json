@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Al(CH3)3 (trimethylaluminum, TMA)",
+    "H2O"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Al2O3 was deposited using sequential exposures of Al(CH3)3 (trimethylaluminum, TMA) and H2O in an ABAB... binary reaction sequence. The TMA and H2O vapors above these reservoirs could be transported to the alumina tubular membranes either directly or by entrainment in a N2 carrier gas stream. One AB cycle consisted of a TMA exposure/N2 purge/H2O exposure/N2 purge."
+}

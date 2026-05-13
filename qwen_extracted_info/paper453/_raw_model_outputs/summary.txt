@@ -1,0 +1,8 @@
+{
+  "target_material": "NbN and Nb,O,",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["NbCl5", "NH3", "Zn", "H2O"],
+  "temperature_range": "500°C",
+  "summary": "The study examines the use of NbCl5 as a niobium source in atomic layer epitaxy (ALE) for the growth of NbN and Nb2O5 films, as well as for Nb doping of TiO2 and SnO2 films. The growth of NbN films was successfully achieved with and without Zn pulses, but the process faced challenges such as low growth rates and issues with the stability of intermediate products like NbOCl3 and NbOCl. The study also highlights the difficulties in using NbCl5 for oxide processes due to the formation of these intermediates, which hindered reproducible growth.",
+  "evidence": "NbCl5 was examined as a niobium source for ALE growth of NbN and Nb2O5 films and for Nb doping of TiO2 and SnO2 films. The growth of NbN films was successfully accomplished both with and without reducing Zn pulses between the NbCl5 and NH3 pulses. All attempts to employ NbCl5 as a precursor in oxide processes failed which, with the aid of thermodynamic calculations, was ascribed to the stability of NbOCl3 and NbOCl intermediate products."
+}<|im_end|>

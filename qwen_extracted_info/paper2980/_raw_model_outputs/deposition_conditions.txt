@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "320-370",
+  "pressure": "below 10 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "cross-flow-type single-wafer",
+  "evidence": "The depositions were made at 270-370°C. The operating pressure of the reaction space was maintained below 10 mbar with a dry mechanical pump and continuous nitrogen flow."
+}<|im_end|>

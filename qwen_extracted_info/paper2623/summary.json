@@ -1,0 +1,11 @@
+{
+  "target_material": "silver",
+  "process_type": "atmospheric pressure plasma enhanced spatial ALD",
+  "main_precursors": [
+    "Ag(fod)(PEt3)",
+    "N2–H2 plasma"
+  ],
+  "temperature_range": "100–120 /C14C",
+  "summary": "The study describes the atmospheric pressure plasma enhanced spatial ALD of silver films using Ag(fod)(PEt3) as the silver precursor and N2–H2 plasma. The process allows for precise control of film morphology through temperature adjustments, with growth rates up to 0.8 nm/min. The films exhibit varying morphologies, from low-coverage islands to fully coalesced films, with resistivity values as low as 18 μΩ cm. The surface diffusion and nucleation density are influenced by temperature, with higher temperatures leading to more isometric island shapes and lower nucleation density.",
+  "evidence": "The authors have investigated the growth of thin silver films using a unique combination of atmospheric process elements: spatial atomic layer deposition and an atmospheric pressure surface dielectric barrier discharge plasma source. Silver films were grown on top of Si substrates with good purity as revealed by resistivity values as low as 18 lX cm and C- and F-levels below detection limits of energy dispersive x-ray analysis. The growth of the silver films starts through the nucleation of islands that subsequently coalesce. The authors show that the surface island morphology is dependent on surface diffusion, which can be controlled by temperature within the deposition temperature range of 100–120 /C14C."
+}

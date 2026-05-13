@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "50 Torr",
+  "precursor_pulse_time_s": 30,
+  "coreactant_pulse_time_s": 60,
+  "purge_time_s": 200,
+  "number_of_cycles": 4,
+  "reactor_type": "Continuous-flow XAFS reactor",
+  "evidence": "During the MeCpPtMe3 exposures, the saturator temperature was fixed at 80 °C to provide a MeCpPtMe3 vapor pressure of 1.58 Torr. 12 In a separate experiment, three ALD cycles with H2 treatment were performed. Each cycle consisted of (1) a Pt dose at 100 °C with He (30 mL/min) as carrier gas, (2) purge with He (60 mL/min) at 100 °C, (3) reduction with 4%H2/He (180 mL/min) at 200 °C, and (4) purge with He (60 mL/min) at 200 °C and cool to 100 °C."
+}<|im_end|>

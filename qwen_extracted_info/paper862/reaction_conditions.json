@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the alternating deposition of TiN and TiO2 layers. During the first cycle, a thin layer of TiN is grown from TiCl4 and NH3. In the second cycle, TiO2 is deposited from TiCl4 and H2O, which also oxidizes the underlying TiN layer to TiO2, leaving some nitrogen in the films to form TiO2−xNx.",
+  "intermediate_species": [
+    "TiN",
+    "TiO2−xNx"
+  ],
+  "evidence": "During the second cycle the TiN layer underneath was also oxidized to TiO2. This oxidation was not complete however, and some nitrogen was left in the films leading to TiO2−xNx."
+}

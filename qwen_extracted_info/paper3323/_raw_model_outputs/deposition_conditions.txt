@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 4,
+  "number_of_cycles": 1500,
+  "reactor_type": "Oxford Instruments OpAL open load reactor",
+  "evidence": "The ALD cycle consists of four repeated steps: Ru(EtCp)2 precursor pulse, precursor purge with Ar (150 sccm), co-reactant pulse with 50 sccm O2, and a final purge with 150 sccm Ar flow. The optimized time for each step was constant at 2 s, 4 s, 3 s, and 4 s, respectively."
+}<|im_end|>

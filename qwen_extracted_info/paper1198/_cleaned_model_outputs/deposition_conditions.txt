@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 20,
+  "number_of_cycles": "100 – 400",
+  "reactor_type": "warm wall Savannah ALD apparatus",
+  "evidence": "For MoON films, the optimal recipe was found to follow the following protocol: (a) dose Mo precursor for 3 s; (b) purge with N2 for 20 s; (c) dose O3 for 3 s; (d) purge with N2 for 20 s. For WO3 films, the optimal recipe was found to follow the following protocol: (a) dose W precursor for 6 s; (b) purge with N2 for 15 s; (c) dose H2O for 5 s; (d) purge with N2 for 15 s."
+}

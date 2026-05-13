@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "175",
+ "pressure": "30 Torr",
+ "precursor_pulse_time_s": "4",
+ "coreactant_pulse_time_s": "2",
+ "purge_time_s": "4",
+ "number_of_cycles": null,
+ "reactor_type": "low pressure metalorganic chemical vapor deposition (LPMOCVD)",
+ "evidence": "H2S pulse duration 4 s\nH2Se pulse duration 2 s\nDMZn pulse duration 4 s\nH2 pulse duration 4 s\nGrowth pressure 30 Torr"
+}<|im_end|>

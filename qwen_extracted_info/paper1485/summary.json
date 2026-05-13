@@ -1,0 +1,11 @@
+{
+  "target_material": "Cobalt",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "tBu-AllylCo(CO)3",
+    "dimethylhydrazine"
+  ],
+  "temperature_range": "140 °C",
+  "summary": "The study demonstrates the substrate selectivity of tBu-AllylCo(CO)3 during thermal ALD of cobalt, showing strong reactivity with H-terminated Si surfaces and no reaction with SiO2 surfaces. This selectivity is attributed to a catalytic hydrogenation-like mechanism, where the precursor acts as a hydrogen donor, leading to the formation of Si-Co metallic bonds. The process enables selective deposition of cobalt without the need for blocking layers, which is beneficial for nanostructure fabrication.",
+  "evidence": "The interaction of tBu-AllylCo(CO)3 with SiO2 surfaces is thermodynamically disfavored, resulting in no chemical reaction at 140 °C. On the other hand, the precursor reacts strongly with H-terminated Si surfaces, depositing ~1 ML of cobalt after the first pulse by forming Si−Co metallic bonds. This selectivity is due to an ALD nucleation reaction process paralleling a catalytic hydrogenation, which requires a coreactant that acts as a hydrogen donor rather than a source of bare protons."
+}

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "430–500",
+ "pressure": "50 Torr",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "2",
+ "number_of_cycles": null,
+ "reactor_type": "vertical",
+ "evidence": "The NPG was tested both as a conventional metalorganic chemical vapor deposition (MOCVD) precursor, and also for use with ALE. Growth of GaAs by MOCVD was done in the temperature range 430–525°C, under flow rates of 500 sccm NPG. ... Each individual ALE cycle consisted of the NPG pulse followed by a 2 s H2 purge, then a 4 s TBA pulse and finally another 2 s purge."
+}<|im_end|>

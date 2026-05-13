@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 225,
+  "pressure": "0.5 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 50,
+  "number_of_cycles": 100,
+  "reactor_type": "warm wall, vacuum ALD chamber",
+  "evidence": "Hafnia deposition was performed in a load-locked, warm wall, vacuum ALD chamber at 225 ° C. The base pressure of the chamber was 10 −7 Torr. During deposition, the pressure was maintained at 0.5 Torr with forming gas flow (5% hydrogen, 95% nitrogen). A vapor of tetrakis dimethyl amino hafnium precursor was used for deposition as the Hf source. The vapor was introduced to the chamber at 90 ° C by 1 s duration pulses at a flow rate of 2.5 SCCM. Room temperature water vapor was used as the oxidant precursor. The water vapor was introduced to the chamber by 1 s pulses at a flow rate of 0.8 SCCM. Both precursors were sequentially pulsed into the chamber with alternating 50-s-long forming gas purging pulses, used to remove residual reactants from the relatively large ALD reactor between precursor pulses."
+}

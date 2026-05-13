@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 65,
+  "pressure": "reduced pressures",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": 10,
+  "reactor_type": "flow-type reactor",
+  "evidence": "Alumina ALD was carried out by alternating reactions of trimethylaluminum (TMA, 97%, Sigma–Aldrich) with deionized water at 65 ◦C. A flow-type reactor was used to deposit alumina on supported LLC polymer membranes by ALD. ... N2 stream with a flow rate of 5 sccm was then fed as the purge gas to help remove unreacted precursor and any by-products formed during the reaction."
+}<|im_end|>

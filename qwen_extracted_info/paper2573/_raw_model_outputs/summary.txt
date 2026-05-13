@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "pulsed plasma-enhanced chemical vapor deposition",
+  "main_precursors": ["dimethyl zinc"],
+  "temperature_range": "25 to 155 °C",
+  "summary": "The study describes the self-limiting deposition of semiconducting ZnO using pulsed plasma-enhanced chemical vapor deposition (PECVD). The process employs dimethyl zinc as the metal precursor and O2 as the oxidizing agent. The deposition rate increases with temperature, and the film quality improves as the temperature increases. The films produced by pulsed PECVD are comparable in quality to those produced by plasma-enhanced atomic layer deposition (PE-ALD), but with significantly higher deposition rates and lower precursor usage.",
+  "evidence": "Self-limiting growth of zinc oxide was accomplished over a temperature range from 25 to 155 °C by pulsed plasma-enhanced chemical vapor deposition using dimethyl zinc as the metal precursor. The deposition rate was independent of plasma exposure but was found to increase from 1.4 to 6.0 Å /cycle as a function of temperature. The film quality was comparable to material grown by plasma-enhanced atomic layer deposition in the same reactor; however, precursor requirements and net deposition rates were improved by an order of magnitude."
+}<|im_end|>

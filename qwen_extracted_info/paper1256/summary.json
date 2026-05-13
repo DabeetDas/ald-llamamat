@@ -1,0 +1,12 @@
+{
+  "target_material": "Boron- and hydrogen-doped aluminium oxide",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "Trimethyl borate (TMB)",
+    "O2 plasma",
+    "Trimethyl aluminum (TMA)"
+  ],
+  "temperature_range": "100 °C",
+  "summary": "The study explores the Atomic Layer Deposition (ALD) of boron- and hydrogen-doped aluminium oxide using trimethyl borate (TMB) as a dopant precursor in combination with O2 plasma. The process involves a mixed growth mechanism where TMB and TMA are alternated with O2 plasma to overcome growth inhibition. The deposited films show non-uniform depth distributions of boron and hydrogen, with the extent of doping controlled by the cycling ratio. The process allows for quasi-continuous tuning of boron concentration in high-purity Al2O3 films.",
+  "evidence": "The study describes the use of trimethyl borate (TMB) and O2 plasma for ALD of B-containing films, targeting the growth of B2O3. It also mentions the use of TMA and O2 plasma for ALD of Al2O3. The process involves a mixed growth mechanism where TMB and TMA are alternated with O2 plasma to overcome growth inhibition. The deposited films show non-uniform depth distributions of boron and hydrogen, with the extent of doping controlled by the cycling ratio. The process allows for quasi-continuous tuning of boron concentration in high-purity Al2O3 films."
+}

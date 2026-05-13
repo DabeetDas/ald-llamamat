@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "TMA molecule is very reactive toward the OH− groups on Si (100) (reaction energy of −1.7 eV / molecule) and is also very small (a TMA molecule is contained in a cube with side of −0.4 nm). Each time TMA molecules are pulsed into the reaction chamber, they leave a very limited number of uncovered Si sites."
+}

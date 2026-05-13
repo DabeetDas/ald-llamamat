@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 3,
+  "number_of_cycles": 120,
+  "reactor_type": "F-120",
+  "evidence": "A working pressure of 1 Torr with alternating pulses of TMA /Ar/H2O/Ar in a period of 3/3/ 3/3 s for each self-limiting cycle was used in the ALD of Al 2O3 for 120 cycles on three different InSb substrates."
+}<|im_end|>

@@ -1,0 +1,12 @@
+{
+  "target_material": "CVD-W",
+  "process_type": "ALD",
+  "main_precursors": [
+    "WF6",
+    "SiH4",
+    "B2H6"
+  ],
+  "temperature_range": "295°C for ALD-W nucleation layer, 375°C for CVD-W bulk film",
+  "summary": "The study investigates the adhesion performance of CVD-W films deposited on a B2H6-based ALD-W nucleation layer. It highlights that while the resistivity of CVD-W can be reduced using a B2H6-based nucleation layer, adhesion issues arise due to boron penetration into the TiN/SiO2 interface. The application of a 5 nm thick sputter-deposited WNx film as a glue layer significantly improves adhesion performance.",
+  "evidence": "The resistivity of CVD-W films was significantly reduced using a B2H6-based ALD-W nucleation layer. However, adhesion performances of CVD-W films growing on the B2H6-based ALD-W nucleation layer were poor compared to those on the SiH4-based W nucleation layer. The application of 5 nm thick sputter-deposited WNx film as a glue layer was found to present an excellent adhesion performance."
+}

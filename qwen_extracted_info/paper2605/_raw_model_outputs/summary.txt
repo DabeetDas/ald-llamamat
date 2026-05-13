@@ -1,0 +1,8 @@
+{
+  "target_material": "zinc indium sulfide (ZnInxSy)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["ZnEt2 (DEZ)", "In(acac)3", "H2S"],
+  "temperature_range": "200 °C",
+  "summary": "The study investigates the atomic layer deposition of zinc indium sulfide (ZnInxSy) films using DEZ, In(acac)3, and H2S as precursors at 200 °C. The research highlights the occurrence of surface exchange reactions and diffusion processes during the deposition, which affect the atomic composition of the films. The findings indicate that both rate-limited exchange reactions and diffusion within the film are essential to explain the observed experimental data.",
+  "evidence": "The authors present the elaboration of zinc indium sulfide (ZnIn xSy) thin films in the context of a cadmium-free buffer layer development for copper indium gallium diselenide photovoltaic solar cells. The films were deposited by atomic layer deposition (ALD) from ZnEt2 (DEZ), In(acac)3, and H2S at 200 °C."
+}<|im_end|>

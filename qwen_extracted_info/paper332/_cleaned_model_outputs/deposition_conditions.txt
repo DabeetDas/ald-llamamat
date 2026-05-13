@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "450",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "Suntola et al.",
+ "evidence": "M(thd)2 and H2S were pulsed alternatively into the ALE equipment of Suntola et al."
+}

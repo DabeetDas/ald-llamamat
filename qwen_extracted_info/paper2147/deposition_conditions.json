@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 240,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "horizontal gas flow reactor",
+  "evidence": "H2O gas was supplied as an oxidant by its own vapor pressure for 1 s from a reservoir kept at 10 ° C. Following the precursor injection and the H2O gas supply, the reactor was purged for 5 – 20 s with 200 SCCM (cubic centimeter per minute at STP) Ar gas for all investigations. The reactor pressure was kept at 1 Torr."
+}

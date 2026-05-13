@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMA)"],
+  "coreactants": ["ASH3"],
+  "purge_gas": [],
+  "carrier_gas": ["Hydrogen"],
+  "evidence": "Growth was carried out using TMA and 10% ASH, concentration in hydrogen at a low pressure of 70 Torr. Hydrogen was used as a carrier gas whose flow rate was fixed at 3 Urnin for all the growth sequences."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "0.45 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "remote plasma atomic layer deposition (RPALD)",
+  "evidence": "The RPALD process consists of precursor injection, Ar purge, O2 plasma, and Ar purge with sequential processing times of 2, 10, 4, and 10 s for 1 ALD cycle, respectively."
+}<|im_end|>

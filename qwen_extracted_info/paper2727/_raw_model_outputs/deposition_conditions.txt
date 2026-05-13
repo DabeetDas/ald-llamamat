@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "180--400",
+  "pressure": "0.1-5",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The ALE deposition rate R per growth cycle remains constant at 0.4 monolayers (ML), 1 ML = 6.8X 1014 cm -2, over a wide range of deposition parameters: growth temperature (Ts = 180--400·C), Si2 H6 exposure (peak pressure during gas pulse = 0.1-5 mTorr), UV laser energy density (1t' = 250--450 mJ cm- 2 where 1t'max is determined by Ts ), and number ofUV laser pulses per cycle."
+}<|im_end|>

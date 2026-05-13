@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 5,
+  "density_g_cm3": 10.11,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "amorphous",
+  "evidence": "The XRF results are in excellent agreement with the results obtained by He-RBS. The composition is also derived from the mixing fraction obtained from the regression of the ellipsometry measurements. The fitted fraction is a volume fraction which requires knowledge of the density of the pure reference oxides for the conversion to molecular fraction. As the mixed oxide layers are all amorphous (according TEM, XRD and ATR) and no amorphous thick HfO2 reference layer can be deposited, some uncertainty exists. The best correspondence with XRF is obtained with the Lorentz Lorenz model and a relatively high density for HfO2 (10.11 g/cm3)."
+}

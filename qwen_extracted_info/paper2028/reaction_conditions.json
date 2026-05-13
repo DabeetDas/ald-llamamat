@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "ALD growth does not occur via a monolayer-by-monolayer mode, since only partial (~14%) monolayer growth per cycle is observed. Subsequent cycles do not necessarily lead to reaction and coverage at previously unreacted Si–OH sites, as about 15% of the starting chemical oxide remains uncovered after the deposition of a monolayer equivalent of HfO2. The partial monolayer growth per cycle implies that after the first cycle, the surface is heterogeneous, consisting of unreacted Si–OH, and newly created Hf–OH sites. If incoming HfCl4 preferentially reacts with previously created Hf–OH sites, growth will predominantly occur on those sites at the expense of growth on the Si areas, leading to a more three-dimensional, islanded morphology.",
+  "intermediate_species": [
+    "Si–OH",
+    "Hf–OH"
+  ],
+  "evidence": "The very quantitative RBS data, combined with the TOFSIMS measurements generated in this article, enable us to comment on the mechanism of HfO2 ALD growth, particularly on chemical oxide underlayers. Clearly, ALD growth does not occur via a monolayer–by–monolayer mode, since only partial (~14%) monolayer growth per cycle is observed (Fig. 3). More importantly, subsequent cycles do not necessarily lead to reaction and coverage at previously unreacted Si–OH sites, as can be observed from Fig. 7, since about 15% of the starting chemical oxide remains uncovered after the deposition of a monolayer equivalent of HfO2. The partial monolayer growth per cycle implies that after the first cycle, the surface is heterogeneous, consisting of unreacted Si–OH, and newly created Hf–OH sites."
+}

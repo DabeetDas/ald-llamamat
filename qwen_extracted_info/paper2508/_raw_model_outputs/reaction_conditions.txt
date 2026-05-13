@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "d/dt uCl = -k_ex uCl^n"
+  ],
+  "surface_mechanism_description": "Cl extraction reaction by atomic H from the Ti surface, where the growth rate is controlled by H removal and the adsorption site generation rate. The growth rate is proportional to the precursor flux, reactive sticking probability, and generation rate of adsorption site density.",
+  "intermediate_species": [
+    "Cl atoms on the surface",
+    "TiCl4 adsorbed on the surface"
+  ],
+  "evidence": "The Cl extraction reaction by atomic H is represented as the following kinetic equation: d/dt uCl = -k_ex uCl^n, where k_ex is the extraction reaction kinetic coefficient, uCl is the surface coverage of Cl atoms, and n is the kinetic order. The growth rate of Ti can be represented by growth rate = N_sat,TiCl4[1 - exp(-k_ex t_exp)]^m. The results agree with previous reports on halide extraction on Si surfaces."
+}<|im_end|>

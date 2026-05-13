@@ -1,0 +1,8 @@
+{
+  "target_material": "aluminum sulfide",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum", "hydrogen sulfide"],
+  "temperature_range": "100–200 /C14 C",
+  "summary": "The study describes the atomic layer deposition (ALD) of aluminum sulfide thin films using trimethylaluminum and hydrogen sulfide as precursors. The process was carried out in the temperature range of 100–200 /C14 C. The growth rate was found to be self-limiting, with an average growth rate of 1.3 A ˚ per ALD cycle. The growth rate was influenced by purge time between the precursors, with increased purge time leading to higher growth rates. The study also investigated the surface chemistry and confirmed the elemental composition of the deposited films using in-situ FTIR spectroscopy and time-of-flight secondary ion mass spectroscopy (TOF-SIMS).",
+  "evidence": "Sequential exposures of trimethylaluminum and hydrogen sulfide are used to deposit aluminum sulfide thin films by atomic layer deposition (ALD) in the temperature ranging from 100 to 200 /C14 C. Growth rate of 1.3 A ˚ per ALD cycle is achieved by in-situ quartz crystal microbalance measurements. It is found that the growth rate per ALD cycle is highly dependent on the purging time between the two precursors. Increased purge time results in higher growth rate. Surface limited chemistry during each ALD half cycle is studied by in-situ Fourier transformed infrared vibration spectroscopy. Time of flight secondary ion-mass spectroscopy measurement is used to confirm elemental composition of the deposited films."
+}<|im_end|>

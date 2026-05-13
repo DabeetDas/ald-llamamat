@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "osmocene (OsCp2)",
+    "O2"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "Os was grown from osmocene (OsCp2) and O2 on in situ grown Al2O3 films. Nitrogen was used as both a carrier and a purging gas."
+}

@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "B2H6",
+    "WF6"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The experimental section states: 'Ar was used as the carrier/dilution gas.'"
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "TMGa molecules are adsorbed without decomposition in the first step, and then fully decomposed into Ga. The three methyl groups of the adsorbed TMGa play an important role in the site selectivity and make the growth self-limited. The decomposition probability of TMGa on the Ga atoms is negligible because the residence time of TMGa on the Ga atom is so short compared to the decomposition time constant.",
+  "intermediate_species": ["dimethylgallium", "monomethylgallium"],
+  "evidence": "We considered the most reasonable thermal decomposition pathway of EDMGa, an ethyl radical would be removed in the first step because of the dissociation energy of the C2H5--Ga bond, which is lower than that of the CH3--Ga bond. Thus, the same kinds of intermediate radicals, such as dimethylgallium or monomethylgallium, would be produced from EDMGa and TMGa."
+}<|im_end|>

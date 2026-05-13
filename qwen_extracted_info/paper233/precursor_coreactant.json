@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "VO(acac) 2"
+  ],
+  "coreactants": [
+    "ozone"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Vanadyl acetylacetonate (99.9%) and oxygen gas (Chemix 99.9995%) were used as the vanadium and O 3 sources and N2 (Chemix 99.9995%) as a purging gas during the deposition with the constant flow of 600 sccm."
+}

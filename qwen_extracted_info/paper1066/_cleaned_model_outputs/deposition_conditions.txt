@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 400,
+  "pressure": "33 Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "tubular hot wall reactor",
+  "evidence": "Aluminum oxide thin films are deposited in an ALD reactor using tris(diethylamino)aluminum precursor and water as oxidizing agent on p doped 1 ″ by 1 ″ Si(100) substrates contained within a tubular hot wall reactor maintained at 400 °C and 33 Pa."
+}

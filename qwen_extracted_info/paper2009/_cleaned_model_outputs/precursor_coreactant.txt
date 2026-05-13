@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMAT"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "TDMAT was injected into the reactor with carrier Ar (100 sccm) and the NH3 flow rate was 94 sccm. Ar gas was used as a purging gas."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "2",
+  "number_of_cycles": "500",
+  "reactor_type": "Quros Plus 150 TM",
+  "evidence": "One ALD cycle was composed of four steps consisting of precursor exposure (ts), purging (tp), reactant exposure (tr), and purging, where the flow of Ar purging gas was 50 sccm. t s and tr were 3s , and tp was 2 s."
+}<|im_end|>

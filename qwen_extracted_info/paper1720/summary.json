@@ -1,0 +1,11 @@
+{
+  "target_material": "GaN",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": [
+    "trimethylgallium",
+    "ammonia"
+  ],
+  "temperature_range": "500±650 8C",
+  "summary": "The study reports the growth of wurtzite GaN films on (0 0 1) GaAs substrates using atomic layer epitaxy (ALE) at low temperatures. The process involves trimethylgallium and ammonia as precursors, with growth temperatures ranging from 500 to 650 8C. The films exhibit a wurtzite structure with smooth surfaces and a cellular structure, and the results show that lower growth rates and TMG flow rates improve film quality.",
+  "evidence": "In this paper, we report the result of GaN films grown on (0 0 1) GaAs substrates by atomic layer epitaxy (ALE) using trimethylgallium and ammonia. ... GaN films with various thicknesses up to a few thousand AÊ were grown at various growth temperatures (500±650 8C). ... GaN films grown at low temperatures by ALE show flat morphology and a mirror-like surface. ... X-ray diffraction measurements using è±2è scans show that the GaN films grown by ALE on (0 0 1) GaAs substrates at the above mentioned temperature range have the wurtzite structure. ... It is reasonable to speculate that GaN islands will merge and recrystallize at the later stage of growth. Thus, GaN films with a cellular structure in which the basal plane of each column is almost parallel to (0 0 1) GaAs surface can be realized. ... A low growth rate and a low TMG flow rate would improve the quality of GaN films."
+}

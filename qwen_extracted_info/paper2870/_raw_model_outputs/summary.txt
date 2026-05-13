@@ -1,0 +1,8 @@
+{
+  "target_material": "Nickel silicide (NiSi)",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Bis-Ni(II)", "H2"],
+  "temperature_range": "200 to 250 /C14C",
+  "summary": "Nickel silicide (NiSi) was formed by annealing a uniform low-resistivity nickel (Ni) film deposited by atomic layer deposition (ALD). The Ni film deposited at 220 /C14C exhibited the lowest sheet resistance of 18 /C10/sq, comparable to that of physical vapor deposition (PVD). The presence of carbon from the metalorganic precursor, forming a Ni3C phase, contributed to the low resistivity and high temperature stability up to 800 /C14C. The study highlights the advantages of ALD in achieving low-resistivity Ni films and stable NiSi for advanced devices.",
+  "evidence": "Nickel silicide (NiSi) was formed by annealing a uniform low-resistivity nickel (Ni) ﬁlm deposited by atomic layer deposition (ALD). A Ni ﬁlm as-deposited at 220 /C14C exhibited the lowest sheet resistance of 18 /C10/sq. comparable to that of the ﬁlm obtained by physical vapor deposition, even though it contained a signiﬁcant amount of carbon from the metalorganic precursor. The existence of carbon at the surface of the ﬁlm causes the ﬁlm to maintain a low-resistivity NiSi phase up to 800 /C14C."
+}<|im_end|>

@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Ir(acac)3"
+  ],
+  "coreactants": [
+    "ozone",
+    "H2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Nitrogen (99.9995%) was produced with a NITROX UHPN 3000 nitrogen generator and used as a carrier and purging gas."
+}

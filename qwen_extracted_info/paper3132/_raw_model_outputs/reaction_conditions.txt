@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + OH* -> Al-O-Al(CH3)2 + CH4",
+    "Al(CH3)3 + OH* -> Al-OH* + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Al-OH*",
+    "monomethyl aluminum",
+    "surface hydroxyls"
+  ],
+  "evidence": "In this process, the TMA chemisorbs at the reactive hydroxyl sites (–OH) present on the substrate. Second, the ligands of the chemisorbed Al(CH3)3 are exchanged by hydroxyl groups by the reaction with H2O, leaving Al2O3 on the surface and restoring the reactive –OH sites at the surface."
+}<|im_end|>

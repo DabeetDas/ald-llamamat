@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "showerhead-type",
+  "evidence": "MoNx was deposited in a commercial showerhead-type ALD reactor (Lucida-MP100, NCD Technology) at 250 °C using Mo(CO) 6 and NH 3. The reaction scheme was set as follows: 10 s pulsing of Mo(CO) 6 – 10s purging of Ar – 10s pulsing of NH 3 – 10s purging of Ar."
+}<|im_end|>

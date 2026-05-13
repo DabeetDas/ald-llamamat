@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnSe/ZnS quantum dots",
+  "process_type": "Metalorganic chemical vapor deposition (MOCVD) under atomic-layer epitaxy (ALE) mode",
+  "main_precursors": [
+    "DMZn",
+    "H2S",
+    "H2Se"
+  ],
+  "temperature_range": "10–150 K",
+  "summary": "ZnSe/ZnS quantum dots were grown in the Stranski–Krastanov mode using MOCVD in the ALE mode. The study investigated temperature-dependent photoluminescence (PL) behavior, revealing carrier transfer through the wetting layer and anomalous PL linewidth narrowing with increasing temperature.",
+  "evidence": "The samples were grown on GaAs substrates using an atmospheric pressure MOCVD technique in the atomic-layer epitaxy (ALE) mode. The ZnSe QDs were formed by alternating supply of DMZn and H2Se precursors. Temperature-dependent PL measurements showed a redshift of the emission peak energy and linewidth narrowing, attributed to carrier transfer through the wetting layer."
+}

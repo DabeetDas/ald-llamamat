@@ -1,0 +1,58 @@
+{
+  "summary": [
+    {
+      "code": "missing_evidence",
+      "path": "summary.evidence",
+      "message": "Non-empty extraction is missing an evidence string."
+    }
+  ],
+  "target_material": [
+    {
+      "code": "missing_evidence",
+      "path": "target_material.evidence",
+      "message": "Non-empty extraction is missing an evidence string."
+    }
+  ],
+  "precursor_coreactant": [
+    {
+      "code": "missing_evidence",
+      "path": "precursor_coreactant.evidence",
+      "message": "Non-empty extraction is missing an evidence string."
+    }
+  ],
+  "deposition_conditions": [
+    {
+      "code": "missing_evidence",
+      "path": "deposition_conditions.evidence",
+      "message": "Non-empty extraction is missing an evidence string."
+    }
+  ],
+  "reaction_conditions": [
+    {
+      "code": "empty_evidence",
+      "path": "reaction_conditions.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ],
+  "substrate_info": [
+    {
+      "code": "missing_evidence",
+      "path": "substrate_info.evidence",
+      "message": "Non-empty extraction is missing an evidence string."
+    }
+  ],
+  "film_properties": [
+    {
+      "code": "missing_evidence",
+      "path": "film_properties.evidence",
+      "message": "Non-empty extraction is missing an evidence string."
+    }
+  ],
+  "characterization": [
+    {
+      "code": "missing_evidence",
+      "path": "characterization.evidence",
+      "message": "Non-empty extraction is missing an evidence string."
+    }
+  ]
+}

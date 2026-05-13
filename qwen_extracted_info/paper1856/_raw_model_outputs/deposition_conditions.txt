@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "275",
+  "pressure": "5 mbar",
+  "precursor_pulse_time_s": "1.0",
+  "coreactant_pulse_time_s": "1.0",
+  "purge_time_s": "1.0",
+  "number_of_cycles": "1000",
+  "reactor_type": "F120",
+  "evidence": "Cobalt sulfide thin films were deposited using a commercial, hot-wall, cross-flow ALD reactor (F120, ASM Microchemistry) operated under approximately 5 mbar pressure."
+}<|im_end|>

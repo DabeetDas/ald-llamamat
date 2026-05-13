@@ -1,0 +1,11 @@
+{
+  "target_material": "CdTe-ZnTe superlattices",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "ZnTe",
+    "CdTe"
+  ],
+  "temperature_range": "215 °C to 300 °C",
+  "summary": "The study describes the growth of CdTe-ZnTe short-period superlattices using atomic layer epitaxy (ALE) on (001) GaAs substrates. The growth rate was found to be self-regulating at 0.5 monolayers per cycle between 270 and 290 °C, allowing precise control over the superlattice structure. The superlattices exhibited excellent periodicity and low interdiffusion, with a composition of 0.5, confirming the reliability of the self-regulating mechanism.",
+  "evidence": "The study describes the growth of CdTe-ZnTe short-period superlattices using atomic layer epitaxy (ALE) on (001) GaAs substrates. The growth rate was found to be self-regulating at 0.5 monolayers per cycle between 270 and 290 °C, allowing precise control over the superlattice structure. The superlattices exhibited excellent periodicity and low interdiffusion, with a composition of 0.5, confirming the reliability of the self-regulating mechanism."
+}

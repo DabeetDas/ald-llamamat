@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["tetrakis(ethylmethylamido)hafnium (TEMAH)", "water"],
+  "temperature_range": "230 °C (wafer chuck), 110 °C (reactor walls), 90 °C (TEMAH line), 110 °C (water line)",
+  "summary": "This study describes the use of time-resolved Fourier transform infrared (FTIR) spectroscopy to investigate the gas-phase dynamics during atomic layer deposition (ALD) of hafnium oxide (HfO2). The process involves the alternating injection of tetrakis(ethylmethylamido)hafnium (TEMAH) and water vapor, with the gas-phase dynamics monitored using FTIR. The study highlights the importance of mass transport and surface reactions in the ALD process and demonstrates the potential of time-resolved FTIR spectroscopy for understanding the behavior of ALD systems.",
+  "evidence": "The text describes the use of time-resolved FTIR spectroscopy to study the gas-phase dynamics during the ALD of HfO2 using TEMAH and water. It also details the temperature conditions for the reactor components and the wafer chuck."
+}<|im_end|>

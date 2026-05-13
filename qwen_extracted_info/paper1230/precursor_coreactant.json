@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "CoCl2(TMEDA)"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "The process was investigated within a temperature range of 225–300 °C. Saturation of the film growth with respect to both precursor pulse lengths was verified. De-ionized water was used as the oxygen source. Nitrogen (AGA, 99.999 %; H2O, ≤3 ppm; O2, ≤3 ppm) was employed as the carrier gas and for purging the reaction chamber."
+}

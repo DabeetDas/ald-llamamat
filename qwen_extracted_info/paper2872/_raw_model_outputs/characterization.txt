@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "Secondary Ion Mass Spectroscopy (SIMS)",
+    "Cross-sectional High-Resolution Transmission Electron Microscopy (HRTEM)",
+    "Capacitance–Voltage (C–V) measurement",
+    "Leakage current density–voltage (J–V) measurement",
+    "Conductance method",
+    "Time-of-Flight Secondary Ion Mass Spectroscopy (TOF-SIMS)"
+  ],
+  "evidence": "From secondary ion mass spectroscopy (SIMS) analysis, we observed that deuterium was homogeneously incorporated into the HfO2 film using D2O during ALD. The HfO2 thickness of both samples was adjusted to 7 nm, which was confirmed by cross-sectional high-resolution transmission electron microscopy (HRTEM). Equivalent oxide thickness (EOT) and flatband voltage were determined accounting quantum mechanical effects from capacitance–voltage data that was measured at 100 kHz in the parallel mode using an HP4284 LCR meter. The interface-trapped charge was also evaluated by a conductance method. Figure 1 shows the time-of-flight secondary ion mass spectroscopy (TOF-SIMS) depth profiles of the HfO2 films."
+}<|im_end|>

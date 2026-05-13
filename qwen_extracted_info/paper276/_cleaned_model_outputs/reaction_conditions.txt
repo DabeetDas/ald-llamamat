@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "C4H9AsH2 -> C4H9 + AsH2",
+    "C4H9AsH2 -> C4H10 + AsH",
+    "AsHx(ad) + AsHx(ad) -> x H2 + As-As(ad)"
+  ],
+  "surface_mechanism_description": "Interactions between AsHx pairs form arsenic dimers with release of H2. The arsenic atoms left behind by desorption of hydrogen tend to form the dimer bond along [110], which is believed to be the surface arsenic bonding configuration on (001) GaAs and contributes to the observed RHEED two-fold reconstruction along [110].",
+  "intermediate_species": [
+    "AsHx (x = 1 or 2)",
+    "As-As dimer",
+    "Ga-Ga dimer"
+  ],
+  "evidence": "It is suggested that AsHx is the adsorbed species after TBAs decomposes on surface Ga atom. Interactions between AsHx pairs form arsenic atoms by H2 release. A reduction of the Ga-Ga dimer population and an increase in the As-As dimer population contribute to the change in AR/R when Ga-rich surfaces are exposed to TBAs. It is generally believed that an arsenic-hydride intermediate is important for growth of high purity GaAs."
+}

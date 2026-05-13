@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "150-350",
+ "pressure": "250 Pa",
+ "precursor_pulse_time_s": "0.5",
+ "coreactant_pulse_time_s": "2",
+ "purge_time_s": "2",
+ "number_of_cycles": "3000",
+ "reactor_type": "flow type low-pressure ALD",
+ "evidence": "The pressure of the carrier gas was kept at about 250 Pa at the reactor outlet. The TiCl4 and H2O flows were set at 0.9 and 8 mPa m3 sÿ1, respectively, in all growth runs. During the thin film growth the H2O pulse time and both purge times were equal to 2 s while the TiCl4 pulse time was set at 0.5 or 2 s."
+}

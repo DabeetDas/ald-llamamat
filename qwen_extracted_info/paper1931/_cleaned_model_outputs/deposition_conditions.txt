@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "2.8 mbar",
+  "precursor_pulse_time_s": "4",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "3",
+  "number_of_cycles": null,
+  "reactor_type": "FS120 Sat reactor (ASM Microchemistry)",
+  "evidence": "Rb:TiO2 was deposited using RbO tBu (synthesized inShouse), Ti(O iPr)4 (TTIP, Sigma Aldrich, 99 %) and deionized water as precursors. RbO tBu was supplied from an open boat inside the reactor and the precursor temperature was maintained at 190 °C. TTIP and water was supplied from external bubblers kept at room temperature, with additional flow of N2 through the TTIP bubbler during pulsing to ensure sufficient doses of precursor reaching the reaction chamber. RbO tBu, TTIP and water were pulsed for 4, 2 and 1 second(s) respectively, while purge times were always 3 seconds."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMGa", "TMAl", "AsH3"],
+  "coreactants": ["H2"],
+  "purge_gas": ["H2"],
+  "carrier_gas": [],
+  "evidence": "Arsine (AsH3) and trimethyl gallium (TMGa) or trimethyl aluminium (TMAl) were used as source gases and sprayed individually on substrates as a pulsed jet. An ALE cycle is a gas sequence of 4 s of TMGa pulse (or 7.5 s of TMAl pulse) .... 3 s of H2 purge -+ 10 s of AsH3 pulse .... 3 s of H2 purge."
+}

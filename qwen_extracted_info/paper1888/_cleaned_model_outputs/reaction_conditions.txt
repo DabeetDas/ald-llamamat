@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the self-limiting growth mode where the precursor molecules adsorb and react on the surface, followed by a purge step to remove byproducts. The process is verified to be ALD-type with no signs of thermal decomposition at or below 400 /C14 C.",
+  "intermediate_species": ["Zr-alkylamides", "surface hydroxyls", "formate species"],
+  "evidence": "The text discusses the ALD-type self-limiting growth mode where the precursor molecules adsorb and react on the surface, followed by a purge step to remove byproducts. It also mentions that no signs of thermal decomposition were observed at or below 400 /C14 C. The intermediate species include Zr-alkylamides, surface hydroxyls, and formate species."
+}

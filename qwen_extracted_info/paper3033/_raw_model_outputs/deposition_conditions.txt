@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 6,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 3,
+  "number_of_cycles": null,
+  "reactor_type": "parallel-plate PEALD reactor",
+  "evidence": "TaN thin films were grown by PEALD on SiO2 (100 nm)/Si wafers at a deposition temperature of 350°C and a process pressure of 3 Torr."
+}<|im_end|>

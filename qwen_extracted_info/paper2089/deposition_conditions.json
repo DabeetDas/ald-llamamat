@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "1.0 Torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "warm-wall reactor",
+  "evidence": "The Ga2O3–TiO2 ﬁlms were prepared using PEALD with an alternating supply of /H20851/H20849CH3/H208502GaNH2/H208523 ,O 2 plasma, Ti/H20851N/H20849CH3/H208502/H208524 and O2 plasma. One deposition cycle consists of four pulses: /H20851/H20849CH3/H208502GaNH2/H208523 or Ti /H20851N/H20849CH3/H208502/H208524 vapor pulse with 100 sccm Ar carrier gas for 0.1 s, Ar purge gas pulse for 2 s, O2 plasma gas pulse for 1 s, Ar purge gas pulse for 0.4 s."
+}

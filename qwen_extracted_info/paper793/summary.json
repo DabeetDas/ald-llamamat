@@ -1,0 +1,13 @@
+{
+  "target_material": "p-NiO / i-Sb2S3 junction",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "bis(ethylcyclopentadienyl)nickel",
+    "ozone",
+    "tris(dimethylamido)antimony",
+    "hydrogen sulfide"
+  ],
+  "temperature_range": "250 ◦C for NiO, 120 ◦C for Sb2S3",
+  "summary": "The study describes the creation of a p-NiO/i-Sb2S3 semiconductor junction using atomic layer deposition (ALD) on anodic alumina oxide (AAO) templates. The ALD process allows for conformal coating of the deep pores of AAO, resulting in a nanostructured device with high purity and nanocrystalline structure. The study investigates the electrochemical and photoelectrochemical properties of the resulting junction, showing its photoelectrochemical activity.",
+  "evidence": "The text states that the p-NiO/i-Sb2S3 junction was created using ALD on AAO templates. The main precursors for NiO were bis(ethylcyclopentadienyl)nickel and ozone, while for Sb2S3, tris(dimethylamido)antimony and hydrogen sulfide were used. The temperature range for NiO deposition was 250 ◦C, and for Sb2S3, it was 120 ◦C. The study also discusses the photoelectrochemical activity of the resulting junction."
+}

@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "Si-O-TiCl3 + (EtO)4Si → Si-O-Ti-O-Si(OEt)3 + C2H5Cl",
+    "Si-O-B-O-CH3 + O=PCl3 → Si-O-B-O-POCl2 + CH3Cl"
+  ],
+  "surface_mechanism_description": "The surface modification process involves successive treatment of the oxide surface with vapors of ortho-esters and metal halides. The reaction of titanium tetrachloride with residual Si-O-C bonds leads to the formation of ethyl chloride, confirming the reaction. Similarly, the reaction between trimethoxyborate and POCI3 vapors results in the formation of methyl chloride, indicating the replacement of surface-bound chloride with phosphorus oxychloride.",
+  "intermediate_species": [
+    "Si-O-TiCl3",
+    "Si(OEt)3",
+    "Si-O-B-O-CH3",
+    "POCl2",
+    "residual Si-O-C bonds",
+    "residual P-Cl bonds"
+  ],
+  "evidence": "The synthesis of titania-silica species was carried out by successive chemisorption of titanium tetrachloride and tetraethoxysilane vapors on silica surface. It was shown that in IR spectra of the silica treated with TiCl4 and Si(OEt)4, a new band at 2800-3000 cm-1 occurs, which may be due to the reaction: Si-O-TiCl3 + (EtO)4Si → Si-O-Ti-O-Si(OEt)3 + C2H5Cl. The formation of ethyl chloride was confirmed by mass-spectrometry. The sequential action of titanium tetrachloride vapor on the samples causes the attenuation of C-H vibrations vCH and 6CH: this proves the reaction of TiCl4 on the residual Si-O-C bonds. In the IR spectra of silica modified with trimethoxyborate after treatment with POCl3 vapors, the intensity of the vCH and 6CH bands decreases, and a new band at 1305 cm-1 appears. In accordance with, it can be assigned to P=O in the species with P-Cl bonds. The formation of the methyl chloride was confirmed by mass-spectrometry of the gas phase in contact with the sample."
+}

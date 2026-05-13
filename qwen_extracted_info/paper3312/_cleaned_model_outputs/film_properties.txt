@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 100,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Single crystal ZnO layer with orientation relation [0001]ZnO == [0001]Al2O3 and [01/C22110]ZnO == [2/C2211/C22110]Al2O3; polycrystalline ZnAl2O4 layer",
+  "evidence": "It was revealed that a single crystal ZnO layer containing a small amount of Al is formed with the orientation relation with respect to the c-Al2O3: [0001]ZnO == [0001]Al2O3 and [01/C22110]ZnO == [2/C2211/C22110]Al2O3, and that a polycrystalline ZnAl2O4 layer is formed between the ZnO layer and the c-Al2O3 substrate."
+}

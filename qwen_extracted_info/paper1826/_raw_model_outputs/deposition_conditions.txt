@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "260-300",
+  "pressure": "2.8 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 3,
+  "number_of_cycles": 5000,
+  "reactor_type": "F-120",
+  "evidence": "The Y-Yb-V-O films were deposited with an F-120 research-type ALD-reactor (AS M Microchemistry Ltd) at a rector pressure of ~2.8 mbar and at a deposition temperature of 260, 290 and 300 °C for three different sets of samples that will be described later . Pulse durations were 3/3/3/3 seconds for (Yb(thd)3, Y(thd)3, VO(thd)2)/purge/O3/purge, for the deposition of Yb2O3, Y2O3 and V2O5 layers, and all parameters were determined to be well within saturating conditions."
+}<|im_end|>

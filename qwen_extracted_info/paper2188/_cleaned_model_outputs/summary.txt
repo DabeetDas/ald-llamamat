@@ -1,0 +1,8 @@
+{
+  "target_material": "TaC xNy",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Tertiaryamylimidotris(dimethylamido)tantalum (Taimata®)"],
+  "temperature_range": "350 °C",
+  "summary": "The study describes the plasma-enhanced atomic layer deposition (PEALD) of TaC xNy films using Ar/H2 plasma as a reducing agent. The use of Ar/H2 plasma significantly reduced the resistivity of the films compared to H2 plasma, improved film density, and enhanced resistance against oxidation and aging. The films were deposited on thermally oxidized SiO2/Si substrates with a thickness of 9–10 nm.",
+  "evidence": "TaCxNy films were grown by a plasma-enhanced atomic layer deposition using Ta /H20849N-t-C5H11/H20850/H20851N/H20849CH3/H208502/H208523 as the precursor and H2 or Ar / H2 plasma as the reducing agent. The Ar / H2 plasma appeared to efficiently break the Ta–N bonds in the Ta precursor and formed more TaC x, which significantly decreased the resistivity of the films. The Ar / H2 plasma also made the films denser and efficiently eliminated the oxygen from the films. This improved the resistance against the elemental diffusion as well as the aging characteristics of the films after exposure to air."
+}

@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "*OH + DNSHf → *O-Hf[Cp(CH 2)(SiMe 2)NMe](NMe 2) + HNMe 2 (g)",
+    "*OH + DNSHf → *O-Hf[Cp(CH 2)(Si(Me)2(NHMe))](NMe 2)2",
+    "*OH + DNSHf → *O-Si(Me) 2(CH 2)Cp[Hf(NMe 2)2(NHMe)]"
+  ],
+  "surface_mechanism_description": "The adsorption mechanism involves the reaction of the DNSHf precursor with surface hydroxyl groups (*OH) leading to the formation of surface species such as *O-Hf and *O-Si. The reaction pathways include the removal of dimethylamine (HNMe 2) and the protonation of silylamido ligands, resulting in the formation of surface-bound Hf and Si species. The adsorption process is exothermic and occurs with low activation energy, facilitating the incorporation of Hf and Si into the thin film.",
+  "intermediate_species": [
+    "dimethylamine (HNMe 2)",
+    "protonated silylamido ligands",
+    "surface-bound Hf species",
+    "surface-bound Si species"
+  ],
+  "evidence": "DFT calculations were performed to obtain insights on the mechanistic details of the surface reactions determining the coexistence of hafnium and silicon cations in the deposited films. Assuming that proton transfer reaction from surface hydroxyl (*OH) to the amido (-NR 2) ligands of the precursor occurs, multiple possible routes exist for the adsorption of the DNSHf precursor on the substrate surface. Initially, physisorption of molecular DNSHf can occur with exothermicity of -88.1 kJ/mol. Then, in the pathway 1, the dimethylamido (-NMe 2) ligand that is bonded only to the Hf atom (N A in Figure 1a) is removed as gaseous dimethylamine (HNMe 2), and Hf-O bond is formed. In the pathways 2 and 3, the silylamido (-N(SiMe 2)Me) N B linking Hf and Si becomes protonated: then, surface O can bond to either Hf (pathway 2) or Si (pathway 3)."
+}

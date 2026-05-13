@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO-Al2O3 and ZnO-TiO2 core-shell nanowires",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["trimethylaluminum", "distilled water", "TiCl4"],
+  "temperature_range": "210 °C for Al2O3, 300 °C for TiO2",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to coat ZnO nanowires with thin shells of amorphous Al2O3 or anatase TiO2 to improve the performance of dye-sensitized solar cells (DSCs). The TiO2 shells significantly enhance the open-circuit voltage (VOC) and fill factor, leading to a substantial improvement in overall conversion efficiency up to 2.25% under simulated sunlight. The superior performance is attributed to a radial surface field within each nanowire that reduces the rate of recombination.",
+  "evidence": "We find that alumina shells of all thicknesses act as insulating barriers that improve cell open-circuit voltage (VOC) only at the expense of a larger decrease in short-circuit current density (JSC). However, titania shells 10-25 nm in thickness cause a dramatic increase in VOC and fill factor with little current falloff, resulting in a substantial improvement in overall conversion efficiency, up to 2.25% under 100 mW cm-2 AM 1.5 simulated sunlight."
+}<|im_end|>

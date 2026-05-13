@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMAT", "TMA"],
+  "coreactants": ["N2 gas"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "For TiN unit cycles, TDMAT was contained in a bubbler and maintained at 35 °C. One deposition cycle of TiN consisted of a TDMAT precursor injection with 25 sccm Ar carrier gas for 1 s, a purge pulse of 50 sccm Ar for 10 s, a plasma pulse of 100 sccm N 2 gas for 20 s, and another 50 sccm Ar purge pulse for 10 s. For AlN unit cycles, the TMA canister was maintained at 25 °C, because of its high vapor pressure. A deposition cycle of AlN consisted of a TMA precursor injection with 25 sccm Ar carrier gas for 1 s, a purge pulse of 50 sccm Ar for 10 s, a plasma pulse with 100 sccm N 2 gas for 10 s, and another 50 sccm Ar purge pulse for 10 s."
+}

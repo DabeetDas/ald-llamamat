@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Scanning Electron Microscopy (SEM)",
+    "Atomic Force Microscopy (AFM)",
+    "Ellipsometry",
+    "X-ray Reflectometry (XRR)",
+    "Auger Electron Spectroscopy (AES)",
+    "Four-point probe measurement"
+  ],
+  "evidence": "The XPS system employed is an SSI S-Probe monochromatized spectrometer, which uses Al Kα radiation (1486 eV) as a probe. The instrument permits detection sensitivity of ∼0.1 at. %. Auger electron spectroscopy (AES) (Evans Analytical Group) was used to look at the micropatterned Pt grid structures on YSZ. The AES instrument used in these studies has a spatial resolution of ∼10 nm and a sensitivity of 0.1 at. % for Pt. Four-point probe measurement was used to determine the Pt film resistivity."
+}

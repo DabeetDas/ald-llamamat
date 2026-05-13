@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3 and W",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum", "water", "WF6", "Si2H6"],
+  "temperature_range": "125 °C and 177 °C",
+  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to deposit insulating, multilayered, and functionalized coatings on carbon nanotubes. The coatings include Al2O3 and W layers, with Al2O3 used as an insulating layer and W as a conductive layer. The ALD process was used to create a nanoscale coaxial cable and functionalize the nanotubes with hydrophobic layers.",
+  "evidence": "Al2O3 ALD coatings were deposited by the following two sequential reactions... The W ALD surface chemistry required alternating exposures of WF6 and Si2H6... The growth rate at 125 °C was 0.35 nm per AB cycle... A TEM image of a carbon nanotube coated with Al2O3 ALD at a deposition temperature of 177 °C is shown in Fig. 1... The Al2O3 ALD film thickness is 25 nm... This paper described the deposition of an insulating Al2O3 ALD layer and the construction of a nanoscale coaxial cable consisting of a carbon nanotube center, an inner insulating Al2O3 ALD layer, a middle conductive W ALD layer, and an outer insulating Al2O3 ALD layer."
+}<|im_end|>

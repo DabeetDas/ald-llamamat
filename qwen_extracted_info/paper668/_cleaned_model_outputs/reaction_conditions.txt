@@ -1,0 +1,19 @@
+{
+  "reaction_equations": [
+    "Co(acac)3(sorg) → Co(acac)2(g) + ‘‘acac’’ (g)",
+    "Co(acac)2 + OH* → Co(acac)2* + OH",
+    "Co(acac)2* → CoO* + 2acac*",
+    "Co(acac)2* + H2 → Co* + 2acac* + H2O"
+  ],
+  "surface_mechanism_description": "The interaction of cobalt acetylacetonate precursors with alumina involves ligand exchange reactions with OH groups, dissociative adsorption on coordinatively unsaturated Al–O pairs, and associative adsorption through hydrogen bonding. The transformation of Co(acac)3 to Co(acac)2 occurs before chemisorption, and the ligands released in this process adsorb dissociatively on the surface. The surface reactions include ligand exchange, dissociative adsorption, and the formation of aluminate species.",
+  "intermediate_species": [
+    "Co(acac)2*",
+    "Co(acac)3*",
+    "Al-acac species",
+    "CoO*",
+    "acac*",
+    "surface hydroxyls (OH*)",
+    "cobalt oxide species"
+  ],
+  "evidence": "Surface reactions that should be considered for the cobalt acetylacetonate precursors Co(acac)2 and Co(acac)3 on alumina include; ligand exchange reaction with OH groups (1) (e.g.). Dissociative adsorption on coordinatively unsaturated Al–O pairs (2) (e.g.). Associative adsorption through hydrogen bonding, reaction (3a), or interaction with surface oxygen, reaction (3b). It has been proposed that a transformation of Co(acac)3 to Co(acac)2 would occur before chemisorption to the surface, reaction (4). In that case, the x in Eqs. (1)–(3) would equal 2. The H(acac) has been shown to react according to reaction (5) on alumina. The shaded box denotes the support surface: (1) (2) (3a) (3b) Co(acac)3(sorg) → Co(acac)2(g) + ‘‘acac’’ (g) (4) (5)."
+}

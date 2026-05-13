@@ -1,0 +1,11 @@
+{
+  "target_material": "SnSx (tin sulfide)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "tetrakis(dimethylamino)tin (TDMASn)",
+    "H2S"
+  ],
+  "temperature_range": "160 °C and 180 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of SnSx thin films on 3D Ni-foam substrates using TDMASn and H2S as precursors at 160 °C and 180 °C. The films were characterized for their structural and electrochemical properties, showing enhanced supercapacitor performance due to the layered structure of SnS2 formed at 160 °C. The optimal thickness of 60 nm was achieved by controlling the number of ALD cycles, resulting in high areal capacitance and excellent cyclic stability.",
+  "evidence": "Layered SnSx thin films were directly and conformally deposited on a three-dimensional (3D) Ni-foam (NF) substrate by atomic layer deposition (ALD), using tetrakis(dimethylamino)tin [tDMASn, ((CH3)2N)4Sn] and H2S. The films were grown at 160 °C and 180 °C, and the optimal thickness of ALD-SnSx thin film was found to be 60 nm for the composite electrode of SnSx@NF grown at 160 °C by controlling the number of ALD cycles. The optimized SnSx@NF electrode delivers an areal capacitance of 805.5 mF/cm2 at a current density of 0.5 mA/cm2 and excellent cyclic stability over 5000 charge/discharge cycles."
+}

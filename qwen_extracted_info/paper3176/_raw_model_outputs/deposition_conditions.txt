@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "170 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Oxford Instruments OpAL ALD reactor",
+  "evidence": "For both ALD methods, trimethylaluminum was used as the Al precursor in the first half cycle of the ALD process. During the second half cycle, either H2O or an O2 plasma was used for thermal and plasma ALD, respectively. 7 Cycle and purge times were optimized to reach a truly self-limiting ALD process at every Tdep."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "plasma-assisted ALD",
+  "main_precursors": ["Al(CH3)3", "H2O"],
+  "temperature_range": "200 °C",
+  "summary": "The study investigates the use of plasma-assisted atomic layer deposition (ALD) to deposit Al2O3 films for surface passivation of crystalline silicon (c-Si). The films are synthesized using alternating exposures of Al(CH3)3 and H2O, with a substrate temperature of 200 °C. The passivation effectiveness is evaluated through techniques such as photoconductance, photoluminescence, and infrared emission. The results show that Al2O3 provides excellent surface passivation, with effective surface recombination velocities as low as 1 cm/s for nearly intrinsic c-Si. The negative fixed charge density in the Al2O3 films contributes significantly to the field-effect passivation, shielding minority carriers from the c-Si surface.",
+  "evidence": "Thin Al2O3 films with a thickness of 7–30 nm synthesized by plasma-assisted atomic layer deposition were used for surface passivation of crystalline silicon. The effective surface recombination velocities of 2 and 6 cm/s were obtained on 1.9 cm n-type and 2.0 cm p-type c-Si, respectively. An effective surface recombination velocity below 1 cm/s was unambiguously obtained for nearly intrinsic c-Si passivated by Al2O3. The negative fixed charge density results in a flat injection level dependence of the effective lifetime on p-type c-Si and explains the excellent passivation of highly B-doped c-Si by Al2O3."
+}<|im_end|>

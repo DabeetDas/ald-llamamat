@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "280",
+  "pressure": "10 hPa",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 6,
+  "number_of_cycles": 10000,
+  "reactor_type": "PICOSUN™ R‡200 Advanced",
+  "evidence": "The Cu(hfac)2 was sublimated at 70°C and the water was kept at 18°C. The reaction chamber pressure was 10 hPa and the temperature was varied from 250°C up to 300°C. N2 was used as carrier and purge gas with a flow rate of 120 sccm in the Cu(hfac)2 line and 150 sccm in the H2O line. The boosting mode was used in order to enhance the vapor pressure of the Cu(hfac)2 precursor. The optimized deposition sequence consists of 3 s of Cu(hfac)2 / 6 s of N2 purge/ 3 s of H2O / 6 s of N2 purge, and the number of cycles was varied between 1500 and 10000."
+}<|im_end|>

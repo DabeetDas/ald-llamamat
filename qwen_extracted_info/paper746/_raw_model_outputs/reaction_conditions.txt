@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "Ru(CO)2L2 → 2 *CO + 2 *L + 1 Ru ∆E = -11.39 eV",
+    "Ru(CO)2L2 + 2 *OH → 2 *CO + 2 *LH + 2 *O + 1 Ru ∆E = + 17.46 eV"
+  ],
+  "surface_mechanism_description": "Dissociative adsorption of the Carish precursor on the Ru(0001) surface occurs spontaneously with large exothermicity, leading to the formation of metallic Ru without significant oxidation. The precursor decomposes into ligands and Ru core, and during the H2O pulse, H and OH are formed by the dissociation of H2O, which clears carbonaceous ligand fragments from the surface.",
+  "intermediate_species": [
+    "Ru(CO)2L2",
+    "2 *CO",
+    "2 *L",
+    "1 Ru",
+    "2 *LH",
+    "2 *O"
+  ],
+  "evidence": "Based on the Eads values above, the energetics of the dissociative adsorption of the Carish precursor on clean and OH-covered Ru are compared. First, on a clean Ru(0001) surface without OH, dissociative adsorption of the precursor into its individual components (2 CO and 2 L = 5-methyl-2,4-hexanediketonato adsorbed on the surface; one Ru(0) atom incorporated into the bulk) is assumed (reaction A). On the other hand, if two surface *OH moieties are present, the diketonato ligands may become protonated to 5-methyl-4-keto-2-hexanol adsorbed on the surface (reaction B). The reaction energies of the two reactions can be summarized as follows: Reaction A: Ru(CO)2L2 → 2 *CO + 2 *L + 1 Ru ∆E = -11.39 eV Reaction B: Ru(CO)2L2 + 2 *OH → 2 *CO + 2 *LH + 2 *O + 1 Ru ∆E = + 17.46 eV It is clear that while the dissociative adsorption of the Carish precursor on the Ru surface would spontaneously occur with a large exothermicity, the reaction does not necessarily involve an OH species to protonate the ligand."
+}<|im_end|>

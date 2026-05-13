@@ -1,0 +1,11 @@
+{
+  "target_material": "tungsten sulfide (WS2)",
+  "process_type": "atomic layer deposition (ALD) with mild annealing",
+  "main_precursors": [
+    "W2(NMe2)6",
+    "H2S"
+  ],
+  "temperature_range": "150 °C for deposition, 400 °C for annealing",
+  "summary": "The study describes the atomic layer deposition of tungsten sulfide (WS2) thin films using W2(NMe2)6 and H2S as precursors. The films were deposited at 150 °C and crystallized through mild postdeposition annealing at 400 °C in an H2S/N2 atmosphere. The process enables the deposition of continuous and smooth WS2 films down to a few monolayers with a low thermal budget, suitable for applications in electronics and energy storage.",
+  "evidence": "The authors deposited WSx thin films by atomic layer deposition using W2(NMe2)6 and H2S as precursors. The films deposited at 150 °C were amorphous and sulfur deficient. The amorphous films crystallized as WS2 by mild postdeposition annealing in H2S/N2 atmosphere at 400 °C. The process enables deposition of continuous and smooth WS2 films down to a few monolayers while retaining a low thermal budget compatible with potential applications in electronics as well as energy production and storage."
+}

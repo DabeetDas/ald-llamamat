@@ -1,0 +1,11 @@
+{
+  "target_material": "hafnium oxide",
+  "process_type": "remote plasma atomic layer deposition (RPALD)",
+  "main_precursors": [
+    "TDEAH",
+    "oxygen plasma"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the growth mechanism of hafnium oxide using remote plasma atomic layer deposition (RPALD) on silicon substrates. The initial phase of the deposition process forms an amorphous hafnium silicate layer, which later transforms into hafnium oxide. The process involves the use of TDEAH as the hafnium precursor and oxygen plasma as the oxidizing agent. The formation of hafnium silicate is thermodynamically favored over hafnium silicide, as indicated by density functional theory calculations.",
+  "evidence": "The hafnium oxide films were deposited by the RPALD method on p-type Si substrates with 100 orientation and 6–1 2 cm resistivity, using TDEAH as the hafnium precursor and oxygen plasma as the oxidizing agent. The process window for HfO2 deposition was optimized at a temperature of 250 °C, plasma power of 100 W. The initial phase of the RPALD HfO2 deposition process is the formation of hafnium silicate from the first cycle. Density functional theory calculations indicate that the hafnium silicate is thermodynamically favored over the hafnium silicide by as much as 250 kJ/mol."
+}

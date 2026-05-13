@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 25,
+  "density_g_cm3": 5.85,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.18,
+  "crystal_phase": "tetragonal",
+  "evidence": "XRD spectra show HfO2 to be predominantly monoclinic. It is noted that HfO2 deposited using halide precursor is a mixture of monoclinic and tetragonal phases instead of mostly monoclinic phase, as seen in HfO2 deposited using TEMAHf and TEMAZr. This difference suggests that the choice of precursors can have subtle impact on film microstructure. As Zr is added, films become a mixture of monoclinic and tetragonal phases. With pure ZrO2, films become predominantly tetragonal. This microstructure study highlights the stabilization of tetragonal phase with Zr addition."
+}<|im_end|>

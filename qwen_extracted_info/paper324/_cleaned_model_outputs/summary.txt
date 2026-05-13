@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "ALD",
+  "main_precursors": ["molybdenum pentachloride (MoCl5)", "hexamethyldisilathiane (HMDST)"],
+  "temperature_range": "350 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of MoS2 films using MoCl5 and HMDST precursors on sapphire and silica substrates. The process achieves high growth rates and uniformity, enabling the fabrication of top-gated FETs and logical circuits with excellent electrical properties. The ALD-grown MoS2 films show high carrier mobility and uniformity, making them suitable for large-scale applications in electronics.",
+  "evidence": "Using molybdenum pentachloride (MoCl5) and hexamethyldisilathiane (HMDST) as ALD precursors, thickness-controlled MoS2 films are uniformly deposited on a 50 mm sapphire and a 100 mm silica substrate. This is done with a high growth-rate (up to 0.90 Å/cycle). Large-scale top-gated FET arrays are fabricated using the films, with a room-temperature mobility of 0.56 cm2/(V·s) and a high on/off current ratio of 106. Excellent electrical uniformity is observed in the whole sapphire wafer."
+}

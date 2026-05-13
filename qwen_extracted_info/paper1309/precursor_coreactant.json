@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Trimethylaluminum (TMA)",
+    "Dimethylaluminum isopropoxide (DMAI)",
+    "Bis(trimethysilyl)amidodiethylindium (INCA-1)"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The text states: 'Ar gas (99.999%) was used as the purge gas (1000 sccm) and carry gas (50 sccm) of bubbler-type canisters.'"
+}

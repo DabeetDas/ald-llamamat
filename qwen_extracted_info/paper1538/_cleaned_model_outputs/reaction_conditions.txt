@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The copper(I)-N,N0-di-sec-butylacetamidinate adsorbs dissociatively on nickel surfaces above 300 K, leading to the reduction of copper atoms to a metallic state. The adsorption is activated and results in the formation of a copper monolayer. At higher temperatures, decomposition beyond monolayer saturation occurs, and the surface chemistry involves the desorption of organic byproducts, which may lead to the formation of surface intermediates that need to be hydrogenated in the second half-cycle of the ALD process.",
+  "intermediate_species": ["organic byproducts", "surface intermediates"],
+  "evidence": "The adsorption is not only dissociative but also activated, since it is faster at higher temperatures. Moreover, the effective sticking probability reflected by the copper uptake is quite high even at 350 K. It appears that ALD processes using copper acetamidinates can, at least in principle, be designed to operate at fairly low temperatures (at least as far as the need to activate the copper precursor is concerned), and to require small copper acetamidinate exposures per cycles (for film deposition on metal substrates)."
+}

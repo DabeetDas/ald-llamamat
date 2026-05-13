@@ -1,0 +1,7 @@
+{
+  "precursors": ["NaO tBu (sodium tertbutoxide)", "Ti[OCH(CH3)2]4 (titanium(IV) isopropoxide)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Sodium titanates were deposited in Savannah 100 ALD system (Ultratech/Cambridge Nanotech) by using sodium tertbutoxide (NaO tBu, NaOC(CH3)3, Sigma Aldrich, 97%), titanium(IV) isopropoxide (TTIP, Ti[OCH(CH3)2]4, Sigma Aldrich, 97%), and distilled water (H2O) as precursors. The use of NaO tBu as an ALD precursor was reported previously. Source temperature for NaO tBu and TTIP was 180 °C and 85 °C respectively, while H2O was kept at room temperature (RT). One ALD cycle of sodium titanates was composed of the following steps: [NaO tBu ( xs pulse/10s purge) - H2O ( ys pulse/10s purge)] + n × [TTIP (1s pulse/10s purge) - H2O (0.5s pulse/10s purge)], where n varies from 1 to 6, in order to tune Na/Ti atomic ratio in the films."
+}<|im_end|>

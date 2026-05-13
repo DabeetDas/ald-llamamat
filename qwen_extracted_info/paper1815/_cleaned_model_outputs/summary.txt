@@ -1,0 +1,8 @@
+{
+  "target_material": "Indium oxide (InOx)",
+  "process_type": "Plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Et2InN(SiMe3)2", "oxygen plasma"],
+  "temperature_range": "100–250 °C",
+  "summary": "Indium oxide thin films are deposited via plasma-enhanced atomic layer deposition (PEALD) using Et2InN(SiMe3)2 as the indium precursor and oxygen plasma as the oxygen source. The films are grown at temperatures ranging from 100 to 250 °C, achieving a saturated growth rate of approximately 1.45 Å per cycle. The PEALD process results in high mobility thin-film transistors (TFTs) with excellent electrical properties, including a high mobility of up to 39.2 cm² V⁻¹ s⁻¹, a turn-on voltage of -1.18 V, and a sub-threshold voltage of 0.27 V. The study demonstrates the potential of PEALD-InOx as a semiconductor material for high-performance oxide TFTs.",
+  "evidence": "Indium oxide thin films are deposited via plasma-enhanced atomic layer deposition (PEALD) to exploit their potential as a semiconductor in high mobility thin-film transistors (TFTs)... The films are successfully grown by the reaction between an Et2InN(SiMe3)2 liquid precursor and oxygen plasma at temperatures ranging from 100 1Ct o 250 1C giving a saturated growth rate value of B1.45 Å per cycle... Indium oxide films grown by PEALD show a lower carrier density of B4 /C2 1019 cm/C0 3 than those prepared by thermal ALD... the possibility of exploiting the potential of semiconductor characteristics of indium oxide is verified from bottom-gate coplanar structured TFTs, which exhibit a high mobility as high as 39.2 cm2 V/C0 1 s/C0 1, a turnon voltage value of /C0 1.18 V, and a sub-threshold voltage of 0.27 V dec /C0 1 in a linear region."
+}

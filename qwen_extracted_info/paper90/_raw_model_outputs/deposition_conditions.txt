@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": null,
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 15,
+  "number_of_cycles": 300,
+  "reactor_type": "F-120",
+  "evidence": "The typical ALD cycle consisted of 5 s pulse of Pd(hfac) 2, 15 s exposure, and 10 s purge, followed by a 1 s pulse of formalin, 15 s exposure and 60 s purge with argon."
+}<|im_end|>

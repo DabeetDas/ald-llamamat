@@ -1,0 +1,7 @@
+{
+  "precursors": ["CuCl", "InCl3", "Cu(acac)2", "In(acac)3"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The source materials for copper, indium and sulfur were copper(I) chloride (CuCl, 99.999%, Alfa Aesar), copper (II) acetylacetonate (Cu(acac)2, 98%, Alfa Aesar), indium(III) chloride (InCl3, 99.99%, Alfa Aesar), indium(III) acetylacetonate (In(acac)3, 98%, Strem Chemicals) and H2S (99.5%, Air Liquide). Nitrogen (N2, 99.9999%, Messer) was used as both carrier and purging gas."
+}

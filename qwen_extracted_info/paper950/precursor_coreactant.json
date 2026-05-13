@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "diethyl-zinc (DEZ)",
+    "hexakis (dimethylamino)gallium (C12H36Ga2N6)"
+  ],
+  "coreactants": [
+    "water"
+  ],
+  "purge_gas": [
+    "nitrogen"
+  ],
+  "carrier_gas": [
+    "nitrogen"
+  ],
+  "evidence": "The precursors used as Zn and Ga sources were diethyl-zinc (DEZ), and hexakis (dimethylamino)gallium (C12H36Ga2N6), respectively. 18 M Ω cm purity deionized water was used as an oxidizing agent while the carrier and purging gas was 99.999% purity nitrogen."
+}

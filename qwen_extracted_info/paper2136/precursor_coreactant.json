@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethylaluminum",
+    "water"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Trimethylaluminum and water vapor (H2O) were used as the chemical precursors to provide Al and O to the growing surface, respectively. The precursors are alternately fed into the reactor, using pure N2 as a carrier gas. In order to avoid gas phase reactions caused by intermixing the precursors, the reactor was also purged with pure N2 gas after each precursor pulse."
+}

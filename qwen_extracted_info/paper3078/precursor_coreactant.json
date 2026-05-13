@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "TEMAH"
+  ],
+  "coreactants": [
+    "H2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "For the ALD process investigated, TEMAH was delivered into the chamber using Ar carrier gas at a precursor reservoir temperature of 80°C, and mixed Ar /H2 plasma was used as the coreactant."
+}

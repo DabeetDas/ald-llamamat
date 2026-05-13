@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMADT", "TDMAT"],
+  "coreactants": ["O2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The precursors were pulsed without additional carrier gas. For all depositions, RF power was set to 200 W while the reflected power was 50–55 W. Oxygen (AirLiquide, 99.995%) and argon (AirLiquide, 99.999%) gas flow was monitored during the respective pulse times by mass flow meters. A fixed flow rate of 15 sccm was set for Ar."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the self-limiting adsorption of TDMASn followed by reaction with H2O2. The growth rate using H2O2 is three times higher than with H2O, likely due to the higher reactivity of H2O2. The process window for ALD SnO2 is between 100–200 ◦C, where the growth rate remains constant, indicating the existence of an ALD process window. The surface reactions are self-limiting, and the growth is attributed to the sequential surface reactions of TDMASn and H2O2.",
+  "intermediate_species": ["TDMASn", "H2O2", "SnO2"],
+  "evidence": "The surface reactions involve the self-limiting adsorption of TDMASn followed by reaction with H2O2. The growth rate using H2O2 is three times higher than with H2O, likely due to the higher reactivity of H2 O2. The process window for ALD SnO2 is between 100–200 ◦C, where the growth rate remains constant, indicating the existence of an ALD process window. The surface reactions are self-limiting, and the growth is attributed to the sequential surface reactions of TDMASn and H2O2."
+}

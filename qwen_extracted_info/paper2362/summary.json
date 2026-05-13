@@ -1,0 +1,11 @@
+{
+  "target_material": "HfxAlyOz nanomixed films",
+  "process_type": "plasma-enhanced ALD (PEALD)",
+  "main_precursors": [
+    "TEMAH {[Hf(N(CH3)2)4]2}",
+    "TMA [(CH3)3Al]"
+  ],
+  "temperature_range": "300°C",
+  "summary": "The study investigates the effect of nitrogen incorporation on the electrical properties of HfxAlyOz nanomixed films grown on Ru metal electrodes by atomic layer deposition. The films were treated with N2-plasma at varying rf power and treatment temperatures. The dielectric constant remained unchanged, while leakage current density was significantly influenced by treatment temperature. The optimal conditions for improving leakage current characteristics were found to be 300°C and 70 W.",
+  "evidence": "The HfxAlyOz nanomixed capacitors grown by atomic layer deposition were treated by N2-plasma to improve electrical properties. Especially, leakage current characteristics was studied as a function of rf power and treatment temperature. The dielectric constant of the films was not varied irrespective of an increase of rf power and treatment temperature. The leakage current densities of the films treated by N2-plasma were effectively influenced by the treatment temperature rather than rf power. The N2-plasma treatment at 300°C and 70 W exhibits the most effective influence on improvement of the leakage current characteristics."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Scandium oxide (Sc2O3)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Sc(MeCp)2(Me2pz)", "ozone"],
+  "temperature_range": "225 °C to 275 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of scandium oxide (Sc2O3) thin films using Sc(MeCp)2(Me2pz) and ozone on hydroxyl-terminated oxidized Si(111) substrates at 225 and 275 °C. The process involves chemisorption of the precursor, reaction with the substrate, and oxidation by ozone, leading to the formation of Sc2O3 films. The study highlights the temperature-dependent interactions between the precursor, substrate, and ozone, and the resulting changes in film growth and surface reactions.",
+  "evidence": "The atomic layer deposition (ALD) of scandium oxide (Sc2O3) thin films is investigated using Sc(MeCp)2(Me2pz) and ozone on hydroxyl-terminated oxidized Si(111) substrates at 225 and 275 °C. In situ Fourier transform infrared spectroscopy reveals that 1 not only reacts with surface hydroxyl groups at 275 °C, as expected but also with the SiO2 layer, as evidenced by losses in the SiO2 longitudinal optical and transverse optical phonon modes, resulting in the partial transformation of near-surface SiO2 to an ScSixOy interface layer. Ozone then combusts the MeCp groups of the O–Sc(MeCp)2 chemisorbed species, yielding surface carbonates, and oxidizes some of the underlying silicon, evidenced by gains in the SiO2 phonon modes."
+}

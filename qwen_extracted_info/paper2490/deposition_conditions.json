@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "2 mTorr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 7,
+  "purge_time_s": 10,
+  "number_of_cycles": 600,
+  "reactor_type": "Oxford Plasma Technology OpAL ALD system with an inductively coupled remote plasma source (ICP)",
+  "evidence": "The plasma enhanced atomic layer deposition (PEALD) process we applied consisted of cycles, each made up of four steps. In the first step the substrate was exposed to TBTDEN (1 s, 200 mTorr). After the exposition the reaction chamber was purged with dry argon and nitrogen (ratio 1:3, 7 s, 500 mTorr). Afterwards, hydrogen radicals provided by the remote ICP reduced the chemically bonded monolayer of TBTDEN and generated Nb-N (6–80 mTorr, 5–100 s). Finally the reaction chamber was purged again with dry argon and nitrogen (10 s, 300 mTorr). The resulting ALD growth rate was saturated at 0.46 ˚A per cycle at a substrate temperature of 350 °C."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-325",
+  "pressure": "0.001–1",
+  "precursor_pulse_time_s": "0.1",
+  "coreactant_pulse_time_s": "0.1",
+  "purge_time_s": "60",
+  "number_of_cycles": "280-420",
+  "reactor_type": "cold-wall",
+  "evidence": "The HWALD chamber (reactor 1) could be evacuated to a base pressure of 10/C0 7 mbar by a turbomolecular pump. Maximum temperature of the substrate holder was 400 8C. High-speed ALD valves were used, with a time resolution of 0.1 s. ... One cycle consisted of 0.1 s at-H exposure, 60 s of purge, 0.1 s of WF6 exposure, and 60 s purge. ... The one-cycle variations in the inset reflect the changes of optical properties of the surface upon exposure to different reactants. ... The time resolution of SE was 2.5 s, so the recorded points in every cycle were sufficient to delineate the growth."
+}<|im_end|>

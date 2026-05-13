@@ -1,0 +1,11 @@
+{
+  "target_material": "CdS",
+  "process_type": "Atomic-layer epitaxy (ALE)",
+  "main_precursors": [
+    "dimethylcadmium (DMCd)",
+    "H2S"
+  ],
+  "temperature_range": "Room temperature (near room temperature, 250-350 K)",
+  "summary": "The study investigates the surface chemistry of atomic-layer epitaxy (ALE) for the growth of CdS on ZnSe(100). The process involves a binary reaction sequence with dimethylcadmium (DMCd) and H2S, leading to self-limiting, layer-by-layer growth. The surface reactions are self-limiting, and the process is driven by chemical interactions rather than thermal diffusion. The study highlights the importance of surface chemistry in achieving atomic-scale control of thin-film growth.",
+  "evidence": "The study describes an in situ investigation of the surface chemistry of atomic-layer epitaxy (ALE) for the growth of CdS on ZnSe(100). The process involves a binary reaction sequence with dimethylcadmium (DMCd) and H2S, leading to self-limiting, layer-by-layer growth. The surface reactions are self-limiting, and the process is driven by chemical interactions rather than thermal diffusion. The study highlights the importance of surface chemistry in achieving atomic-scale control of thin-film growth."
+}

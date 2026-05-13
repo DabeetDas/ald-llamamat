@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "CH3 groups from TMA are exchanged for OH from H2O, releasing CH4 as reaction product."
+  ],
+  "surface_mechanism_description": "The thermal ALD process involves ligand exchange between TMA and surface hydroxyl groups, followed by water pulse to regenerate OH sites. The plasma-enhanced ALD process involves combustion-like reactions between TMA ligands and O radicals formed in the remote plasma.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The thermal ALD Al2O3 growth process from (CH3)3Al and H2O is a pure ligand exchange-based process, in which CH3 groups from TMA are exchanged for OH from H2O, releasing CH4 as reaction product. In the plasma-enhanced ALD (PE-ALD) process, the CH3 ligands undergo a combustion-like process with the O radicals formed in the remote plasma."
+}

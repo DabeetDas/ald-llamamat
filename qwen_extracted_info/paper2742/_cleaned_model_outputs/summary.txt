@@ -1,0 +1,8 @@
+{
+  "target_material": "Si",
+  "process_type": "Thermal ALD and photothermal ALD",
+  "main_precursors": ["Si2H6"],
+  "temperature_range": "300 K to 955 K",
+  "summary": "The study investigates the growth of epitaxial Si layers using atomic-layer epitaxy (ALE) through thermal and photostimulated reactions on Si(100)2×1 surfaces saturated with Si2H6. The process involves the dissociative adsorption of Si2H6, followed by thermal annealing and photothermal laser irradiation to drive hydrogen evolution and surface reordering. The results show that epitaxial Si layers can be formed at steady-state temperatures as low as 525 K using photothermal stimulation.",
+  "evidence": "One pulse of 120 mJ cm-2 ArF laser-beam irradiation resulted in significant hydrogen evolution from Si2H6-saturated dihydride surfaces at 300 K and complete hydrogen desorption, with the reestablishment of the initial clean-surface EELS spectrum, at 525 K. The mechanism was found to be photothermal rather than photolytic and the maximum temperature during the ;:::20-ns pulse (at 525-K starting temperature) was calculated to be 800 K."
+}

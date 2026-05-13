@@ -1,0 +1,8 @@
+{
+  "target_material": "Germanium (Ge)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Dimethylgermane (DMG)", "Atomic hydrogen (H)"],
+  "temperature_range": "500–530 °C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) of germanium (Ge) on the 111 surface, focusing on the hydrogen-induced abstraction mechanism of methyl groups. The process involves the use of dimethylgermane (DMG) and atomic hydrogen (H) as precursors. The ideal growth rate of 1 ML/cycle was achieved within a narrow temperature range of 500–530 °C. The H-induced abstraction mechanism, specifically the modified Eley-Rideal (MER) mechanism, was found to be responsible for the effective removal of methyl groups, leading to the self-limiting growth observed. The activation energy for the H-induced abstraction reaction was determined to be 3.2 eV, and the process was supported by ab initio molecular orbital calculations and experimental data.",
+  "evidence": "The study investigates the atomic layer epitaxy (ALE) of germanium (Ge) on the 111 surface, focusing on the hydrogen-induced abstraction mechanism of methyl groups. The process involves the use of dimethylgermane (DMG) and atomic hydrogen (H) as precursors. The ideal growth rate of 1 ML/cycle was achieved within a narrow temperature range of 500–530 °C. The H-induced abstraction mechanism, specifically the modified Eley-Rideal (MER) mechanism, was found to be responsible for the effective removal of methyl groups, leading to the self-limiting growth observed. The activation energy for the H-induced abstraction reaction was determined to be 3.2 eV, and the process was supported by ab initio molecular orbital calculations and experimental data."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "polyimide",
+  "process_type": "ALD",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "water"
+  ],
+  "temperature_range": "177 °C",
+  "summary": "Al2O3 ALD films were used to protect polyimide substrates from erosion by hyperthermal atomic oxygen. The study demonstrated that a film thickness of approximately 35 Å, achieved through 50 AB cycles, effectively prevents erosion. The ALD process was performed using trimethylaluminum and water as precursors at 177 °C, resulting in defect-free, pinhole-free films that provide an excellent barrier against atomic oxygen.",
+  "evidence": "Al2O3 ALD films with varying thicknesses were grown on the polyimide substrates. The ALD-coated polyimide materials were then exposed to a hyperthermal atomic-oxygen beam. Al2O3 ALD film thicknesses of ∼ 35 Å were found to protect the polymer from erosion. The Al2O3 ALD was performed at 177 °C in a viscous flow, hot-wall ALD flow reactor. The TMA and H2O yield Al2O3 ALD according to the following two reactions. The Al2O3 ALD film thickness of ∼ 35 Å required to protect the polyimide can be compared with the native oxide thickness of 30–40 Å on aluminum nanoparticles."
+}

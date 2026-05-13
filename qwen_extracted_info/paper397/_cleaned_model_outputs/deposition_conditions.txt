@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 340,
+  "pressure": "slightly above atmospheric pressure",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 8,
+  "purge_time_s": 3,
+  "number_of_cycles": 99,
+  "reactor_type": "horizontal atmospheric pressure MOCVD reactor",
+  "evidence": "The ALE cycle was 3 s TMI, 3 s purge, 8 s TBP, 3 s purge. The growth temperature was 340 °C."
+}

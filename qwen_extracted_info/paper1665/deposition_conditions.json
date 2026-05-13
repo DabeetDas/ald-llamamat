@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150 -400",
+  "pressure": "2 mbar",
+  "precursor_pulse_time_s": "3.0",
+  "coreactant_pulse_time_s": "3.0",
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "ASM Microchemistry, Ltd.",
+  "evidence": "The (CH3)2AlCl and D2O pulse lengths were 3.0 s, and the purge length was 10 s."
+}

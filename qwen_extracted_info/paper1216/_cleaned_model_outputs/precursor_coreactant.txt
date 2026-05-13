@@ -1,0 +1,7 @@
+{
+  "precursors": ["HGeCl3", "Sb(OC2H5)3", "((CH3)3Si)2Te"],
+  "coreactants": [],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The precursors of Ge, Sb, and Te were HGeCl3, Sb(OC2H5)3 and ((CH3)3Si)2Te, respectively. Each of the precursors was contained in a separate stainless steel canister, which was maintained at 3°C for the Ge precursor, at 40°C for the Sb precursor, and at 35°C for the Te precursor. The vapor from the canister was diluted with 50 standard cubic centimeters per minute (sccm) of Ar gas."
+}

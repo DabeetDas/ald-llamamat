@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 225,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.2,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "Savannah 100",
+  "evidence": "The Li2O subcycle consisted of alternating pulses of lithium tert-butoxide (LiOtBu, (CH3)3COLi) and H2O, while the Ta2O5 subcycle consisted of alternating pulses of tantalum(V) ethoxide (Ta(OEt)5, Ta(OC2H5)5) and H2O. The pulse times of LiOtBu and Ta(OEt)5 were varied from 0.2 to 1.5 s, while the pulse time of H2O remained at 1 s. All precursor pulses were separated by a 10 s nitrogen purge."
+}<|im_end|>

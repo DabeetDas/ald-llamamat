@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 10.5,
+  "density_g_cm3": 2.33,
+  "refractive_index": "1.64 at 633 nm",
+  "surface_roughness_nm": 2.4,
+  "crystal_phase": "Amorphous",
+  "evidence": "The Si 2p photoemission intensity increases monotonically and saturates after a total exposure of -2 L. The line shape remains essentially the same for all exposures up to 50 L, suggesting that the relative abundances of various surface Si species are nearly independent of the exposure."
+}

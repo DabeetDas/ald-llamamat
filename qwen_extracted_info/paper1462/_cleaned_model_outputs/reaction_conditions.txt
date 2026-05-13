@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "SH*(s) + Cd(CH3)2(g) -> S-Cd-CH3*(s) + CH4(g)"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves the dissociative chemisorption of DMCd on a hydrogenated sulfur surface, where the precursor reacts with surface species to form a surface-bound complex and release methane gas. The surface coverage and thermodynamic effects influence the growth rate, with lower coverage systems being favored at higher temperatures due to entropy and steric effects.",
+  "intermediate_species": [
+    "S-Cd-CH3*",
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The SH*(s) + Cd(CH3)2(g) -> S-Cd-CH3*(s) + CH4(g) reaction mechanism was suggested to be the major pathway of DMCd dissociation with a hydrogenated sulfur surface. The study also discusses the effect of surface coverage and thermodynamic factors on the growth rate, indicating the presence of intermediate species such as S-Cd-CH3* and the influence of steric hindrance at highly covered surfaces."
+}

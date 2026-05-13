@@ -1,0 +1,8 @@
+{
+  "target_material": "InAs and InxGa1-xAs (0 < x < 0.43)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["triethylindium (TEI)", "AsH3", "trimethylgallium (TMG)"],
+  "temperature_range": "480°C and 630°C",
+  "summary": "The study demonstrates the use of atomic layer epitaxy (ALE) to grow InAs and InxGa1-xAs compounds with improved compositional uniformity by separating column III and column V precursors. The process involves alternating deposition of In or Ga+In layers and As layers, with a self-limiting mechanism controlling the growth to one monolayer per cycle. The results show that ALE reduces gas-phase reactions and enhances uniformity compared to conventional MOCVD.",
+  "evidence": "The ALE of InAs, for example, proceeds by the deposition of a single layer of In followed by the deposition of a single layer of As. This cycle is repeated until the desired thickness is achieved. The column III and column V species are physically separated and thus the gas phase reaction between triethylindium and AsH3 is greatly reduced. This leads to improved incorporation of indium in the solid and improved compositional uniformity across the substrate. The growth rate of InAs was approximately one monolayer per cycle, independent of the TEl flux. The incorporation of In in the solid by ALE is quite linear with the TEl flux, keeping the TMG flux constant. The variation in the In composition by bulk growth may be explained by a reaction between AsH3 and TEl in the thermal boundary layer above the substrate."
+}<|im_end|>

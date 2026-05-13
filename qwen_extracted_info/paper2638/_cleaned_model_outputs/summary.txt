@@ -1,0 +1,8 @@
+{
+  "target_material": "Silver (Ag)",
+  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Ag(fod)(PEt3)"],
+  "temperature_range": "70 to 200 /C14 C",
+  "summary": "Silver layers were deposited using remote plasma enhanced atomic layer deposition (PALD) with Ag(fod)(PEt3) as the precursor and hydrogen plasma. The study investigated the adhesion and properties of silver films on various substrates such as SiO2, TiN, Ti/TiN, Co, Ni, and W. The films were analyzed using XPS, AFM, SEM, TEM, and XRD. The results showed that silver films on Co, Ni, TiN, Ti/TiN, and SiO2 had good adhesion, while those on W had poor adhesion due to native oxide formation. The resistivity of the silver films was measured and found to be 5.7 × 10−6 Ω·cm for a 97 nm thick film.",
+  "evidence": "Silver (Ag) layers were deposited by remote plasma enhanced atomic layer deposition (PALD) using Ag(fod)(PEt3) as precursor and hydrogen plasma on silicon substrate covered with thin films of SiO2, TiN, Ti/TiN, Co, Ni, and W at different deposition temperatures from 70 to 200 /C14 C. XPS revealed pure Ag with carbon and oxygen contamination close to the detection limit after 30 s argon sputtering for depositions made at 120 and 200 /C14 C. A resistivity of 5.7 /C2 10/C0 6 X cm was obtained for approximately 97 nm Ag film on SiO2/Si substrate. The deposited silver films were analyzed by XPS, AFM, SEM, TEM, and XRD. XPS analysis showed that Ag films on Co, Ni, TiN, Ti/TiN, and SiO2 had good adhesion, while those on W had poor adhesion due to native oxide formation."
+}

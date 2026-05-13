@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "HfCl4",
+    "H2O",
+    "Hf((CH3)2N)4",
+    "O2"
+  ],
+  "coreactants": [
+    "H2O",
+    "O2"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "In the former case (ALD), HfO2 films were deposited on substrates cleaned by the IMEC technology , i.e., covered by a CVD silicon dioxide layer 0.8 nm in thickness. The substrate temperature was kept at 300°C. HfCl4 and H2O were used as precursors. In the latter case (MOCVD), HfO2 films were deposited on a substrate kept at 485 °C with Hf((CH3)2N)4 and O2 as precursors."
+}

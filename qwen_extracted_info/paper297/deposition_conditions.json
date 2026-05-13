@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 230,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 50,
+  "number_of_cycles": 400,
+  "reactor_type": "Plasma-enhanced atomic layer deposition (PEALD) using hydrogen plasma",
+  "evidence": "TaN films were deposited on 100-nm-thick SiO2/Si substrates by PEALD at a growth temperature of 230 °C using an alternating supply of TAIMA TA and H2 plasma. The deposition pressure was kept at 3 Torr. ... The pulse times of the TAIMA TA and the reactant (or plasma) were fixed at 15 and 20 s respectively. ... One deposition cycle of PEALD-TaN consisted of four steps: (i) exposure of TAIMA TA; (ii) purge pulse with 50 sccm of Ar; (iii) H2 plasma exposure; and (iv) another purge with 50 sccm of Ar."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "TaN",
+  "process_type": "ALD",
+  "main_precursors": ["PDMAT", "NH3"],
+  "temperature_range": "100–250 8C",
+  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of tantalum nitride (TaN) thin films using pentakis(dimethylamido)tantalum(V) (PDMAT) and ammonia (NH3) as precursors. The research explores the thermodynamic behavior of the precursor, mass transport, and the operating conditions necessary for achieving conformal deposition on complex-shaped substrates such as nanodots, through silicon vias (TSVs), silicon nanowires, and carbon nanotubes. The ALD process is optimized to ensure uniform film growth and is evaluated for its effectiveness in microelectronics applications, particularly as a diffusion barrier for copper.",
+  "evidence": "The text discusses the ALD of TaN thin films using PDMAT and NH3 as precursors, and it details the thermodynamic behavior of the precursor, mass transport, and the operating conditions necessary for achieving conformal deposition on complex-shaped substrates. It also mentions the use of ALD for microelectronics applications, particularly as a diffusion barrier for copper."
+}

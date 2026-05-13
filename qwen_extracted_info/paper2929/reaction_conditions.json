@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "HfI4(g) → HfI2(s) + I2(g)",
+    "HfI2(s) + 2H2O(g) → HfO2(s) + 2HI(g) + H2(g)",
+    "~-OH!2(s) + HfI4(g) → ~-O-!2HfI2(s) + 2HI(g)",
+    "~-O-!2HfI2(s) + 2H2O(g) → ~-O-!2Hf(OH)2(s) + 2HI(g)"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of HfI4 on the surface, releasing iodine, followed by the reaction of surface species with water vapor. The mechanism includes the adsorption of HfI4, decomposition into HfI2 and iodine, and subsequent reaction with water to form HfO2 and release hydrogen iodide and hydrogen gas. The process is self-limited and depends on the I/Hf ratio in the adsorbate layer.",
+  "intermediate_species": [
+    "HfI2",
+    "~-OH!2",
+    "~-O-!2HfI2",
+    "~-O-!2Hf(OH)2"
+  ],
+  "evidence": "The most probable reaction mechanisms at TG = 220-260°C can be presented as HfI4(g) → HfI2(s) + I2(g); HfI2(s) + 2H2O(g) → HfO2(s) + 2HI(g) + H2(g) and/or ~-OH!2(s) + HfI4(g) → ~-O-!2HfI2(s) + 2HI(g); ~-O-!2HfI2(s) + 2H2O(g) → ~-O-!2Hf(OH)2(s) + 2HI(g)."
+}

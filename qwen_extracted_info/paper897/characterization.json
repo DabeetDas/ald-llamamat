@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Rutherford back scattering (RBS)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "X-ray reflectometry (XRR)",
+    "Auger electron spectroscopy (AES)",
+    "Atomic force microscopy (AFM)",
+    "X-ray diffraction (XRD)",
+    "Four-point probe sheet resistance measurements"
+  ],
+  "evidence": "The growth characteristics of the different films were analyzed by Rutherford back scattering (RBS). X-ray photoelectron spectroscopy (XPS) was deployed to determine the layer composition at the surface and inside the layer. In order to determine the density of the barrier layers, samples were analyzed with a high-resolution specular X-ray reflectometer (XRR). The surface contamination and film purity were analyzed on a Thermo VG scientific Microlab 350 using Auger electron spectroscopy (AES). Surface smoothness of the deposited films was evaluated with atomic force microscopy (AFM). Grazing angle X-ray diffraction (XRD) analysis was conducted to determine the crystal structure. The film resistivity was calculated using four point probe sheet resistance measurements and film thickness."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "methylzinc isopropoxide (MZI)",
+    "water (H2O)",
+    "dimethylaluminum isopropoxide (DMAI)"
+  ],
+  "temperature_range": "160–240 /compBC",
+  "summary": "The study describes the atomic layer deposition (ALD) of undoped and Al-doped ZnO thin films using methylzinc isopropoxide (MZI) and water (H2O) as precursors. The process was optimized to achieve a growth rate of 1.9–2.58 Å/cycle within a temperature range of 160–240 /compBC. Al-doping with DMAI reduced the resistivity of the ZnO films, enhancing their conductivity. The films exhibited strong free excitonic peaks in photoluminescence measurements, indicating high crystallinity and low defect density.",
+  "evidence": "Undoped and Al-doped ZnO thin films have been prepared by atomic layer deposition (ALD) using the Zn precursor methylzinc isopropoxide [MZI, (CH3)Zn(OCH(CH 3)2 )] with water (H2 O). ... Under optimal reaction conditions, the growth rate of the ZnO films was 1.9∼2.0 Å/cycle in the substrate temperature range of 160∼200 /compBC and the maximum growth rate reached about 2.58 Å/cycle at 240/compBC. ... By Al-doping, the resistivity was minimized to∼1/periodori35 × 10−4 /UPOmegacm."
+}

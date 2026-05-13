@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of the tungsten precursor (BTBMW) with plasma-generated species. The mechanism is influenced by the type of plasma used (N2, H2/N2, or NH3), with the H2/N2 plasma showing a more favorable reaction for producing low-resistivity films. The plasma-generated species lead to the formation of tungsten nitride (WN) through surface reactions that are temperature and gas flow rate dependent.",
+  "intermediate_species": ["tungsten precursor (BTBMW)", "surface hydroxyls", "nitrogen species", "nitrogen-containing surface intermediates"],
+  "evidence": "The surface reaction mechanism involves the interaction of the tungsten precursor (BTBMW) with plasma-generated species. The mechanism is influenced by the type of plasma used (N2, H2/N2, or NH3), with the H2/N2 plasma showing a more favorable reaction for producing low-resistivity films. The plasma-generated species lead to the formation of tungsten nitride (WN) through surface reactions that are temperature and gas flow rate dependent."
+}<|im_end|>

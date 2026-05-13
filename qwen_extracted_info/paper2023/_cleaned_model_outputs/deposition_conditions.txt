@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "plasma enhanced ALD",
+  "evidence": "ZrO2 films were deposited at 250 °C and the process pressure was kept constant to be 1 Torr. The sequential times of Zr precursor, Ar purge, oxygen reactant gas, and Ar purge were fixed to be 5 s, except the oxygen plasma process time which was fixed to be 8 s."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "550-650",
+  "pressure": "2–7 O cm",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": "360",
+  "reactor_type": "load-locked ultra-high vacuum chamber",
+  "evidence": "Si TCH –ALE growth were also carried out by repeating (1) thermally-cracked Si 2H6 exposure with a dose of 80,000 l; (2) evacuation down to /C243 /C210/C08 Torr; (3) substrate annealing at 400 8C for 10 s to remove hydrogen; and (4) cooling down to below /C2470 8C."
+}

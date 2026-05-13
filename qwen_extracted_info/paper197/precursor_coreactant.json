@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "TDMAT",
+    "TMA"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "TiO2 films were grown from tetrakis(dimethylamido)titanium (TDMAT) (Sigma-Aldrich, 99,999%) and O3 and Al2O3 films from trimethylaluminum (TMA) (STREM Chemicals, 98%) and ozone (O3)."
+}

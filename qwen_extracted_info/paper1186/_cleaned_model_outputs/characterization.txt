@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Atomic Force Microscopy (AFM)",
+    "Scanning Electron Microscopy (SEM)",
+    "Transmission Electron Microscopy (TEM)",
+    "Electrochemical Impedance Spectroscopy (EIS)",
+    "In-situ spectroscopic ellipsometry"
+  ],
+  "evidence": "Post-deposition, substrates were transferred under UHV from the ALD system to a Kratos Ultra DLD XPS system. ... Ex-situ AFM characterization was conducted using an NT-MDT NTEGRA Spectra system in tapping mode at a scan rate of 1 μm/s. SEM imaging was done with a Hitachi SU-70 microscope, and TEM imaging was done with a JEM 2100 LAB6 microscope. ... For electrochemical characterization, ALD LiPON was deposited onto stainless steel substrates and transferred to our glovebox without air exposure. ... EIS and CV measurements were carried out using a Bio-Logic VSP potentiostat. ... We use in-situ spectroscopic ellipsometry to determine growth rates for process optimization."
+}

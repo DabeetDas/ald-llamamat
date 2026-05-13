@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 85,
+  "pressure": "10 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 20,
+  "number_of_cycles": 90,
+  "reactor_type": "vertical deposition",
+  "evidence": "The ALD reaction cycle was optimized for efficient diffusion of precursors into and full infiltration of the opal templates and while minimizing the formation of excess oxide layer on the outer surface of the template. One ALD reaction cycle consisted of a 1 s exposure to TMA, DEtZn, or TiCl4 followed by a 20 s N2 purge, and a 1 s exposure to H2O vapor, followed another 20 s N2 purge."
+}

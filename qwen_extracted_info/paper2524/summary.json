@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "ozone"
+  ],
+  "temperature_range": "450 °C",
+  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of aluminum oxide (Al2O3) for reducing the equivalent oxide thickness (EOT) in interpoly dielectrics for flash memory applications. The ALD process uses trimethylaluminum (TMA) and ozone as precursors, and the films are deposited at 450 °C. The OAO stack (SiO2/Al2O3/SiO2) showed improved electrical properties, including lower leakage current and higher breakdown field, compared to the conventional ONO stack.",
+  "evidence": "Aluminum oxide films were deposited from alternating pulses of trimethylaluminum and ozone. The OAO stack exhibited leakage current density below 0.1 mA/cm2 at an electric field of 5 MV/cm while an 11% reduction in EOT to 12.5 nm was achieved as compared with an ONO stack. The OAO stack has higher breakdown field and greater charge to breakdown than the ONO stack."
+}

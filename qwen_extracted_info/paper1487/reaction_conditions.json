@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ge(OCH3)4 + [(CH3)3Si]2Te → GeTe2 + 2(CH3)3SiOCH3",
+    "Sb(OC2H5)3 + [(CH3)3Si]2Te → SbTe3 + 3(CH3)3SiOC2H5"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The silyl-Te precursor works as a reactant to the Ge precursor via a vigorous ligand exchange reaction as a result of the strong affinity between the Si and O atoms of the two molecules. This is similar to what was reported by V. Pore et al., where the vigorous reaction between Si and Cl atoms induced the ALD reaction."
+}

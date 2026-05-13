@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 120,
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 12,
+  "number_of_cycles": 100,
+  "reactor_type": "Cambridge Nanotech Savannah",
+  "evidence": "The Al 2O3 ALD reaction cycle was: (1) TMA dose to 10.0 Torr for 4 s, (2) evacuation to 0.5 Torr for 12 s, (3) H2O dose to 10.0 Torr for 4 s, (4) evacuation to 0.5 Torr for 12 s."
+}

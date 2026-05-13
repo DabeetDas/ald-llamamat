@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "",
+  "precursor_pulse_time_s": 40,
+  "coreactant_pulse_time_s": 6,
+  "purge_time_s": 4,
+  "number_of_cycles": 20,
+  "reactor_type": "Oxford Instruments FlexAL TM ALD",
+  "evidence": "To conﬁrm ALD behavior, the GPC was determined using in situ spectroscopic ellipsometry (SE) as a function of TMA dosing time, plasma exposure time, and purge times at a deposition temperature of 200 /C14 C.28 The saturation curve for the plasma exposure time in Fig. 1 clearly indicates saturation around 5–10 s. 20 cycles of Al 2O3 ALD were performed prior to AlF 3 deposition to prevent etching of the Si (100) substrate (see supplementary material ). The GPC as a function of precursor dosing time was found to saturate after 40 ms, and self-limiting behavior was also conﬁrmed as a function of both purge times and for a deposition temperature of 50 /C14 C( supplementary material, Fig. S1). Based on the saturation curves, a TMA dose of 80 ms, followed by a purge step of 6 s, a plasma exposure of 10 s, and a ﬁnal purge step of 4 s were used for the remainder of the experiments."
+}

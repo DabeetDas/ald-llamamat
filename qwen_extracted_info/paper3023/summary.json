@@ -1,0 +1,10 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "HfN(CH3)(C2H5)4"
+  ],
+  "temperature_range": "275°C",
+  "summary": "The study investigates the effect of O3 concentration on the electrical properties of ultrathin HfO2 gate dielectrics deposited by atomic layer deposition (ALD) using HfN(CH3)(C2H5)4 as a precursor on HF-cleaned silicon substrates. The results show that O3 concentrations of 25–50 g/N m3 are suitable for improving the electrical properties of HfO2 gate dielectrics by reducing leakage current and interfacial layer thickness.",
+  "evidence": "The HfO2 films were intended for use in replacement metal gate transistors and were fabricated on silicon substrates that had undergone a final clean using diluted hydrofluoric acid. The ALD process temperature of 275°C was very important for the fabrication of high-quality HfO2 gate dielectrics to improve the leakage current characteristics using HfN(CH3)(C2H5)4 and O3. The leakage current densities for 25–200 g/N m3 of O3 were reduced by about 5 orders of magnitude with respect to reference SiO2 films. From these results, it was judged that O3 concentrations of 25–50 g/N m3 were suitable for the fabrication of ultrathin HfO2 gate dielectrics and would improve their electrical properties."
+}

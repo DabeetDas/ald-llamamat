@@ -1,0 +1,8 @@
+{
+  "target_material": {
+    "chemical_formula": "Pt",
+    "material_name": "Platinum",
+    "material_class": "Pure Metal"
+  },
+  "evidence": "The composition of the material was analyzed by EDX. All peaks present in the EDX spectrum could be assigned to Pt, and from this it is concluded that the Pt purity is virtually 100%, with the carbon detection limit estimated at 5 at. % (acknowledging the limitations of EDX for detecting light-element impurities)."
+}

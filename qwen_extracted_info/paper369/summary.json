@@ -1,0 +1,11 @@
+{
+  "target_material": "tantalum oxide",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": [
+    "TaCl5",
+    "H2O"
+  ],
+  "temperature_range": "240 to 400°C",
+  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of tantalum oxide films using TaCl5 and H2O as precursors. It highlights the effects of reactor temperature and precursor doses on the growth rate, showing that etching occurs at high TaCl5 doses. The optimal growth rate of 0.06 nm per cycle was achieved at 300°C. The films were deposited on various substrates, and their properties were analyzed using optical transmission, electron probe microanalysis, and reflection high energy electron diffraction. The films were found to be amorphous with a tantalum-to-oxygen ratio corresponding to TaO2.",
+  "evidence": "Effects of the reactor temperature and TaCl5-precurseordose on the atomic layer epitaxy (ALE) growth of tantalum oxide films are studied. It is shown that etching takes place instead of growth when high TaCl5 doses are used. The etching rate is enhanced by increase of the reactor temperature. In the case of optimum precursor doses, a growth rate equal to 0.06 nm per cycle was obtained at 300°C growth temperature."
+}

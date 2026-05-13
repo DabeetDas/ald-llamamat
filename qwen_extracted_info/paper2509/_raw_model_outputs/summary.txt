@@ -1,0 +1,8 @@
+{
+  "target_material": "Ta (tantalum)",
+  "process_type": "plasma-enhanced atomic-layer deposition (PE-ALD)",
+  "main_precursors": ["TaCl5", "atomic hydrogen"],
+  "temperature_range": "400 °C",
+  "summary": "The study investigates the diffusion barrier properties of tantalum (Ta) thin films grown by plasma-enhanced atomic-layer deposition (PE-ALD) for copper (Cu) interconnects. The films are grown on Si(001) and polycrystalline Si substrates using TaCl5 and atomic hydrogen as precursors. The ALD Ta films show significantly higher failure temperatures compared to PVD Ta, attributed to their uniform, smooth surface and amorphous or nanocrystalline microstructure. The failure temperature was determined using in situ x-ray diffraction, elastic light scattering, and resistance analysis.",
+  "evidence": "Ta thin films were grown on Si (001) and polycrystalline Si substrates by plasma-enhanced atomic-layer deposition (PE-ALD) using TaCl5 and atomic hydrogen as precursors. The ALD Ta barrier films show significantly higher failure temperatures compared to PVD Ta; at least 70 °C at comparable thicknesses, which is thought to be due to the uniform, smooth surface and amorphous or nanocrystalline microstructure of ALD Ta."
+}<|im_end|>

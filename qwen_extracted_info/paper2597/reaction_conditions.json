@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "surface-S-H + Zn(C2H5)2 -> surface-S-ZnC2H5 + C2H6"
+  ],
+  "surface_mechanism_description": "The surface reaction involves the adsorption of diethylzinc (DEZn) onto surface sulﬁde sites (surface-S-H), leading to the formation of a Zn-containing surface species (surface-S-ZnC2H5) and the desorption of ethane (C2H6). This process is part of the ALD growth mechanism for ZnS on TAM-treated GaSb surfaces.",
+  "intermediate_species": [
+    "surface-S-H",
+    "surface-S-ZnC2H5"
+  ],
+  "evidence": "The relevant reaction on the substrate surface during the zinc precursor pulse is surface-S-H + Zn(C2H5)2 -> surface-S-ZnC2H5 + C2H6, which suggests that the robust chemical adsorption of Zn(C2H5)2 likely requires active adsorption sites of sulﬁde species (i.e., surface-S-H)."
+}

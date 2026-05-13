@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 100,
+  "density_g_cm3": null,
+  "refractive_index": "1.94 at 632 nm",
+  "surface_roughness_nm": null,
+  "crystal_phase": "polycrystalline",
+  "evidence": "The refractive index value at 632 nm increased from 1.86 at 100°C to 1.94 at 185°C (within the self-limiting growth regime) and further increased to 2.05 for a growth temperature of 500°C, indicating a densification of the AlN layers with increasing growth temperature. The GIXRD and transmission electron microscopy (TEM) of AlN films grown at 100, 185, 400, and 500°C, indicate that the layers are composed of a highly polycrystalline hexagonal structure due to the observation of XRD Bragg reflexes of (100), (101), (002), (102), (110), and (103) diffraction planes."
+}<|im_end|>

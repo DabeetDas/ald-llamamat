@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "substrate–AH + ML → substrate–AML + HL",
+    "substrate–AML + AH → substrate–A–ML + HL",
+    "substrate–A–ML + AN → substrate–A–AN + ML"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the sequential interaction of reactive precursors with the substrate surface. The first precursor forms a saturated layer on the substrate, which is then exposed to the second precursor, leading to an exchange reaction that produces the desired film and eliminates by-products. The process is self-limiting, ensuring layer-by-layer growth with precise control over film thickness and uniformity.",
+  "intermediate_species": [
+    "surface–AH",
+    "surface–AML",
+    "surface–A–ML",
+    "surface–A–AN"
+  ],
+  "evidence": "The text describes the surface reactions in detail, stating that the first precursor forms a saturated layer on the substrate, which is then exposed to the second precursor, leading to an exchange reaction. The process is self-limiting, ensuring layer-by-layer growth with precise control over film thickness and uniformity. The intermediate species include surface–AH, surface–AML, surface–A–ML, and surface–A–AN."
+}

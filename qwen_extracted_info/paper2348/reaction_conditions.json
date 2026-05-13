@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The self-limiting mechanism controls the thickness deposited per cycle to about one monolayer independent of the column III flux. The incorporation of In in the solid by ALE is quite linear with the TEl flux, keeping the TMG flux constant. The AsH3 and TEl are separated during growth by ALE and thus any gas phase reaction between the two is prevented from occurring.",
+  "intermediate_species": [
+    "TEl",
+    "AsH3",
+    "In",
+    "As",
+    "Ga",
+    "InGaAs"
+  ],
+  "evidence": "The ALE of InAs, for example, proceeds by the deposition of a single layer of In followed by the deposition of a single layer of As. This cycle is repeated until the desired thickness is achieved. The column III and column V species are physically separated and thus the gas phase reaction between triethylindium and AsH3 is greatly reduced. This leads to improved incorporation of indium in the solid and improved compositional uniformity across the substrate. A self-limiting mechanism has been found which controls the thickness deposited per cycle to about one monolayer independent of the column III flux. The incorporation of In in the solid by ALE is quite linear with the TEl flux, keeping the TMG flux constant. The AsH3 and TEl are separated during growth by ALE and thus any gas phase reaction between the two is prevented from occurring."
+}

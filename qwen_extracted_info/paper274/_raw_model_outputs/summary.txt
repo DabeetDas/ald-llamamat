@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe-ZnTe and CdTe-MnTe superlattices",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["CdTe", "ZnTe", "MnTe"],
+  "temperature_range": "270 to 290~C",
+  "summary": "The study describes the growth of CdTe-ZnTe and CdTe-MnTe superlattices using atomic layer epitaxy (ALE) on GaAs substrates. The process is self-regulating within a specific temperature range, allowing precise control over layer thickness and periodicity. The growth rate was found to be 0.5 monolayers per reaction cycle for CdTe and ZnTe at optimal temperatures, while MnTe growth required different conditions due to its metastable cubic structure. The superlattices were characterized using high-resolution x-ray diffraction and photoluminescence, showing excellent period constancy and minimal interdiffusion.",
+  "evidence": "CdTe-ZnTe superlattices (SLs) with a period ranging from 13 to 38~ have been grown by atomic layer epitaxy (ALE) on (001) GaAs-substrates. In a substrate temperature range between 270 and 290~ the growth rate for both CdTe and ZnTe regulated itself to exactly 0.5 monolayers per reaction cycle, allowing the growth of very precisely tailored structures. The CdTe/MnTe SLs were grown on a 0.1 to 1 ~m thick MBE-CdTe buffer layer in order to initiate the growth of MnTe in the cubic phase. The CdTe/ZnTe superlattices exhibit excellent period constancy and that interdiffusion in the CdTe/MnTe SLs is extremely low."
+}<|im_end|>

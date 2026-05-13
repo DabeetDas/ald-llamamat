@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Suppression of TEI decomposition on the indium surface during TEI injection, suppression of phosphorus dissociation from the InP surface during TBP evacuation, and complete reaction between TEI and TBP during TBP injection.",
+  "intermediate_species": ["TEI-related molecules", "indium atoms", "phosphorus atoms"],
+  "evidence": "The surface morphology of the InP layers was specular when self-limiting growth was obtained. By analyzing the limitation of the growth rate as well as the surface morphology of the layer, self-limiting mechanisms were proposed with respect to the suppression of the TEI decomposition on the indium surface during TEI injection, suppression of the phosphorus dissociation from InP surface during TBP evacuation, and complete reaction between TEI and TBP during TBP injection."
+}

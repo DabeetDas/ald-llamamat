@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethylaluminum (TMA)"],
+  "coreactants": ["de-ionized water ( H2O)"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": [],
+  "evidence": "Trimethylaluminum (TMA) and de-ionized water ( H2O) were used as chemical precursors for the deposition of alumina films. The ALD process was initiated by first injecting a 70 ms pulse of H2O. One ALD growth cycle consisted of a 70 ms pulse of H2O followed by a 4s nitrogen purge period, a 70 ms pulse of TMA, and another 4s nitrogen purge period."
+}

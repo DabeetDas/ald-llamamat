@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "5",
+  "purge_time_s": "25",
+  "number_of_cycles": "300",
+  "reactor_type": "hot wall tube furnace",
+  "evidence": "Using growth behavior observed in previous work for Zn(TMHD) 2 (Ref. 21) and in literature for Cu(TMHD) 2,25 a substrate temperature of 200 /C14 C was chosen for this work. The cycle timing sequence chosen was the same as identified in previous work, 21 which is a 25 s purge step, followed by a 5s H 2S pulse, then another 25 s purge, and finally a 2 s metal precursor pulse (Cu or Zn)."
+}

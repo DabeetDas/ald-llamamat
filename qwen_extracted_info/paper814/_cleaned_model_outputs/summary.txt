@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2",
+  "process_type": "ALD",
+  "main_precursors": ["SnCl4", "SnI4", "H2O", "H2O2", "O2"],
+  "temperature_range": "600/C14C",
+  "summary": "The study investigates the microstructure of epitaxial SnO2 thin films deposited by atomic layer deposition (ALD) on α-Al2O3 (0 1 2) substrates using different tin precursors (SnCl4 and SnI4) and oxygen precursors (H2O, H2O2, and O2). The films' microstructure and morphology are analyzed using X-ray diffraction and transmission electron microscopy (TEM). The results show that the SnI4 process yields films with a flat surface, uniform thickness, and low defect density, approaching a perfect single crystal, while the SnCl4 process results in rough surfaces and a high density of defects such as twins and anti-phase boundaries (APBs). The study highlights the impact of precursor selection on film quality and microstructure.",
+  "evidence": "The microstructures of epitaxial SnO2 (rutile) thin films deposited by atomic layer deposition on α-Al2O3 (0 1 2) substrates at 600/C14C using either SnCl4 or SnI4 as tin precursor have been investigated by X-ray diffraction and transmission electron microscopy. It is shown that the film/substrate interface is flat without any visible additional phase, while the film structure and surface morphology depend on the metal precursor. Typical of the SnCl4-process films is a rough surface and a high density of defects, including (0 1 1) and (1 0 1) twins and anti-phase boundaries (APBs). In contrast, the SnI4-process films with their uniform thickness, flat surface and low density of APBs approach the perfect single crystal."
+}

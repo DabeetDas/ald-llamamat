@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Me3Au(PMe3)"
+  ],
+  "coreactants": [
+    "H2 plasma"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "Argon"
+  ],
+  "evidence": "The precursor was kept in a glass container which was heated to 50◦C during depositions and the delivery line was heated to 55 ◦C. Argon was used as the carrier gas during all depositions."
+}

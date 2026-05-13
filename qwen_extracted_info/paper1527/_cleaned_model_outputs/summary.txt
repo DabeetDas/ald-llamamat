@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["titanium tetrachloride (TiCl4)", "water (H2O)"],
+  "temperature_range": "sample stage temperature of 100 °C and a reactor wall temperature of 125 °C",
+  "summary": "The study demonstrates the control of TiO2 Atomic Layer Deposition (ALD) in silica aerogels through surface functionalization. Functionalization with trimethylsilane (TMS) inhibits TiO2 growth by blocking nucleation sites, while reactivation via heat or plasma treatment restores deposition. The process uses thermal ALD with specific precursors and temperature conditions.",
+  "evidence": "TiO2 ALD on centimeter-sized AG monoliths was performed through alternating exposures to titanium tetrachloride (TiCl4) and water (H2O) in an ALD reactor at a sample stage temperature of 100 °C and a reactor wall temperature of 125 °C."
+}

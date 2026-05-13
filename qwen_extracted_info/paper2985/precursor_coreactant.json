@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "tetrakis-diethylamido-hafnium",
+    "tetra-n-butyl-orthosilicate",
+    "trimethylaluminum"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Argon"
+  ],
+  "carrier_gas": [
+    "Argon"
+  ],
+  "evidence": "HfxSiyOz films were deposited by ALCVD at 300°C using an alternating supply of tetrakis-diethylamido-hafnium and tetra-n-butyl-orthosilicate. In order to deposit Al2O3 films on Si, trimethylaluminum and H2O were used as source materials. Argon was used as a buffer flow to keep the flow uniform, and carrier gas was used to transport source vapors into the reactor."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "AlP and AlP GaP superlattice",
+  "process_type": "Atomic layer epitaxy (ALE)",
+  "main_precursors": ["ethyldimethylamine alane (EDMAAl)", "phosphine (PH3)"],
+  "temperature_range": "400 to 720 8C",
+  "summary": "The study describes the atomic layer epitaxy (ALE) of AlP and AlP GaP superlattices using ethyldimethylamine alane (EDMAAl) as a new aluminum source. The process exhibits self-limiting growth at one and two monolayers per cycle, and the impurity levels in ALE-grown layers were significantly reduced compared to MOVPE-grown layers. The ALE process was used to fabricate AlP GaP superlattices with good structural quality, and the optical properties of the superlattices were characterized by photoluminescence measurements.",
+  "evidence": "Atomic layer epitaxy ALE of AlP was realized using ethyldimethylamine alane EDMAAl as a new Al source. Self-limiting growth of AlP took place at one and two monolayers per ALE cycle. Secondary ion mass spectroscopy revealed that the amounts of incorporated impurities carbon, hydrogen and oxygen in ALE-grown AlP layers was greatly suppressed by using the new Al source, to nearly the same levels as in high-quality MOVPE-grown layers. We also achieved the successful ALE growth of AlP GaP short-period superlattices SLs, taking advantage of the overlapping temperature windows of ALE-GaP and ALE-AlP."
+}

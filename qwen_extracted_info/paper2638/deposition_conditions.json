@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "70-200",
+  "pressure": "0.01–1 mbar",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 2,
+  "number_of_cycles": 3068,
+  "reactor_type": "single wafer PALD reactor with two heated precursor lines",
+  "evidence": "Typical process times (pulse/purge) were 2/2 s for silver precursor and 10/1 s for hydrogen plasma at 50 W plasma power."
+}

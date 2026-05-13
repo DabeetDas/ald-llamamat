@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The MoNx thin film is grown on NF by the sequential exposure of Mo(CO)6 and NH3 at 225 °C. The reaction mechanism involves the sequential exposure of the precursors, with an intermediate purging by inert gas, leading to self-limiting growth of the film.",
+  "intermediate_species": [
+    "Mo(CO)6",
+    "NH3",
+    "surface hydroxyls",
+    "oxygen contamination"
+  ],
+  "evidence": "The MoNx thin film is grown on NF by the sequential exposure of Mo(CO)6 and NH3 at 225 °C. The reaction mechanism involves the sequential exposure of the precursors, with an intermediate purging by inert gas, leading to self-limiting growth of the film. The XPS analysis reveals that oxygen contamination is concentrated at the surface because of surface oxidation of the MoNx film under ambient conditions."
+}

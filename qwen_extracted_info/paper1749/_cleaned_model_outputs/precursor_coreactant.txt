@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ba(C5Me5)2(THF)2", "Ba(Pr3C5H2)2(THF)2", "Ba(But3C5H2)2(THF)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Precursors 1, 7 and 8 were studied in BaTiO3 ALD experiments with Ti(OPri)4 and water as the titanium and oxygen precursors... Each metal precursor pulse was followed by a water pulse i.e. the sequencing order was Ti(OPri)4 – purge – H2O – purge for Ti–O cycles, and barium compound – purge – H2O – purge for Ba–O cycles."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Alumina supported cobalt",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["Co(acac)2", "Co(acac)3"],
+  "temperature_range": "450–650 8C",
+  "summary": "Alumina supported cobalt catalysts were prepared by atomic layer deposition (ALD) using cobalt acetylacetonate precursors (Co(acac)2 and Co(acac)3). The interaction between the precursors and alumina involved ligand exchange with OH groups and dissociative adsorption on coordinatively unsaturated Al3+ sites. The reducibility and dispersion of the catalysts were influenced by calcination conditions, with uncalcined samples showing higher reducibility. The study aimed to investigate the chemisorption mechanisms, interaction of cobalt species with alumina, and their effects on catalyst properties such as reducibility and dispersion.",
+  "evidence": "Alumina supported cobalt catalysts were prepared by atomic layer deposition (ALD) of cobalt acetylacetonate precursors (Co(acac)2 and Co(acac)3). The main modes of interaction between the acetylacetonate precursors and the support were found to be the exchange reaction between the alumina OH-groups and the acac-ligands of the precursor and dissociative adsorption on coordinatively unsaturated Al3+ sites."
+}

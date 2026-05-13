@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Cd", "Te"],
+  "temperature_range": "280 3C",
+  "summary": "The study investigates the formation of nanoscale clusters on CdTe epilayers grown by atomic layer epitaxy (ALE) on CdZnTe buffers. The clusters form ex situ due to oxidation of the CdTe surface upon exposure to air, leading to the creation of 3D oxide islands and subsequent Ostwald ripening. The process involves the deposition of CdTe at 280 3C using alternating exposures to Cd and Te monolayers.",
+  "evidence": "CdTe was deposited by atomic layer epitaxy (ALE) at 280 3C on a CdZnTe buffer... The dynamics of the ripening process is interpreted in terms of both the development of CdTe oxidation creating 3D islands, followed by an Ostwald ripening process."
+}<|im_end|>

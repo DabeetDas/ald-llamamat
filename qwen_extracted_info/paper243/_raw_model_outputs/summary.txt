@@ -1,0 +1,8 @@
+{
+  "target_material": "Platinum nanoparticles",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["(methylcyclopentadienyl)trimethylplatinum(IV) (MeCpPtMe3)", "oxygen"],
+  "temperature_range": "300 °C",
+  "summary": "Platinum nanoparticles are grown on strontium titanate (SrTiO3) nanocubes using atomic layer deposition (ALD). The size, dispersion, and chemical state of the Pt nanoparticles are controlled by the number of ALD growth cycles. The Pt nanoparticles are well-dispersed on the SrTiO3 nanocubes, and their size and spacing increase with the number of ALD cycles. The chemical state of the Pt nanoparticles transitions from platinum(II) oxide to metallic platinum as the number of ALD cycles increases.",
+  "evidence": "The Pt nanoparticles are grown by atomic layer deposition (ALD) on the surfaces of SrTiO3 nanocubes. The size, dispersion, and chemical state of the Pt nanoparticles are controlled by the number of ALD growth cycles. The Pt nanoparticles are well-dispersed on the SrTiO3 nanocubes, and their size and spacing increase with the number of ALD cycles. The chemical state of the Pt nanoparticles transitions from platinum(II) oxide to metallic platinum as the number of ALD cycles increases."
+}<|im_end|>

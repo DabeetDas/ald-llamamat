@@ -1,0 +1,7 @@
+{
+  "precursors": ["CoCp2", "CoCp (CO)2"],
+  "coreactants": ["NH3 plasma"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The text states: 'High-quality Co films with low resistivity /H2084910/H20850/H9262/H9024cm/H20850were deposited by plasma-enhanced atomic layer deposition /H20849PE-ALD/H20850 from metallorganic precursors and NH3 plasma.' Additionally, 'The reactant gas, NH3, was flown into the chamber through remote plasma generation system... The standard PE-ALD process was composed of precursor exposure time ts = 2 s and reactant exposure time tr = 6 s with purging time tp = 3 s between these two steps. The postdeposition annealing was done at rapid thermal annealing (RTA) system in N2 environment.'"
+}

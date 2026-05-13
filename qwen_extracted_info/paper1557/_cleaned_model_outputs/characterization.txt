@@ -1,0 +1,17 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "Magnetometer (SQUID)",
+    "Inductively coupled plasma atomic emission spectroscopy (ICP-AES)",
+    "Mass spectrometer (QMS200)",
+    "UV-Vis spectrophotometer (Lambda 35)",
+    "Particle size analyzer (Mastersizer 2000)",
+    "High-resolution transmission electron microscopy (HRTEM)",
+    "Scanning transmission electron microscopy (STEM)",
+    "Energy-dispersive X-ray spectroscopy (EDS)",
+    "Leco oxygen analyzer",
+    "Four-point probe",
+    "Atomic force microscopy (AFM)"
+  ],
+  "evidence": "The XRD spectra conﬁrm the presence of iron oxide and identified that it was in the form of Fe3O4. A mass spectrometer (QMS200, Stanford Research Systems) was attached to the outlet of the reactor to monitor the progression of ALD half-reactions. The particle size distribution information of the oxalate powders was measured with a Mastersizer 2000. High resolution transmission electron microscopy (HRTEM) and scanning transmission electron microscopy (STEM) images were obtained. The crystallinity of the nanostructures was characterized by powder X-ray diffraction (XRD). Inductively coupled plasma atomic emission spectroscopy (ICP-AES) was used to measure the deposited Ti and Al content of the films. The oxygen content was measured with a LECO oxygen analyzer. A magnetometer based on a superconducting quantum interference device (SQUID) was used to measure the magnetic properties of the particles. The photoactivity of the TiO2 ALD films was evaluated by studying the decomposition kinetics of a methylene blue solution. The concentration of each MB sample was determined by the absorbance at a wavelength of 664 nm with a UV-vis spectrophotometer. The specific magnetization curves were calculated as magnetic moment per unit mass of particles’ core."
+}

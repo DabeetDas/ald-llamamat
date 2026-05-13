@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Hf[N(CH3)(C2H5)]4",
+    "O3"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study describes the fabrication of metal-insulator-semiconductor capacitors using sputtered ZnO and atomic layer deposited HfO2 as the semiconductor and gate dielectric layers, respectively. Pre-deposition annealing of the ZnO layer at 300 °C in air significantly improved the interface properties by reducing interfacial trap density and OH bonds on the ZnO surface. The ALD process used thermal conditions at 250 °C with HfO2 as the high-k gate insulator. The results showed a very small capacitance equivalent thickness of 1.3 nm, which significantly reduced the operation voltage of the device to below 5 V.",
+  "evidence": "Metal-insulator-semiconductor capacitors were fabricated with sputtered ZnO and atomic layer deposited HfO2 as the semiconductor and gate dielectric layers, respectively. ... HfO2 thin films were grown on ZnO using a thermal ALD process at 250 °C ... pre-deposition annealing of the ZnO layer at 300 °C in air greatly decreased the interfacial trap density ... X-ray photoelectron spectroscopy showed a decrease in the OH bonds adsorbed on the ZnO surface after pre-deposition annealing ... A very small capacitance equivalent thickness of 1.3 nm was achieved, which decreased the operation voltage (b 5 V) of the device significantly."
+}

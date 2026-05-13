@@ -1,0 +1,7 @@
+{
+  "precursors": ["Pr(C5H4iPr)3", "AlMe3"],
+  "coreactants": ["water"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Pr(C5H4iPr)3 was first evaluated as a precursor for the formation of thin films of the binary oxide Pr2O3 using water as the co-reactant. Self-limited growth of Pr2O3 was demonstrated for pulse lengths of ≥3 s, with a growth rate of ~0.85 Å/cycle. The ALD growth of PrAlO3 films was examined on Si, thermal SiO2, and (001)-oriented SrTiO3 substrates. Self-limited growth was demonstrated for Pr(C5H4iPr)3, AlMe3, and water at 300 °C using a 1:1 ratio of the number of Pr(C5H4iPr)3 and AlMe3 pulses."
+}

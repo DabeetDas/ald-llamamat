@@ -1,0 +1,7 @@
+{
+  "precursors": ["SnCl4", "H2O", "Ga(acac)3", "O3"],
+  "coreactants": ["O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The ALE depositions were carried out in a nitrogen-flow-type ALE reactor at 1–2 mbar total pressure. SnO2 was deposited onto flat Si(100) and into PS from SnCl4 and H2O precursors separated by N2 purging at 500 8C. Gallium oxide was deposited from Ga(acac)3 and O2:O3 10:1 at 370 8C with a pulsing sequence of t(Ga(acac)3)s30 s, t(purge)s30 s, t(O2–O3)s15 s and t(purge)s60 s repeated 150 times."
+}<|im_end|>

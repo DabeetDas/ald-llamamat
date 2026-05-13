@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2-GNS nanocomposites",
+  "process_type": "thermal ALD",
+  "main_precursors": ["SnCl4", "H2O"],
+  "temperature_range": "200 °C and 400 °C",
+  "summary": "The study describes the synthesis of SnO2-GNS nanocomposites using atomic layer deposition (ALD) with SnCl4 and H2O as precursors. The process allows for the controlled formation of both amorphous and crystalline phases of SnO2 by adjusting the growth temperature. The ALD method provides precise control over the morphology and structural phases of the nanocomposites, making them suitable for applications such as lithium-ion batteries, solar cells, and gas sensing.",
+  "evidence": "It was found that the SnO2 component can present amorphous and crystalline phase through suitably adjusting the growth temperature. In addition, due to the cycling nature of ALD, the synthesis of SnO2-GNS nanocomposites also showed a characteristic on precisely controlling the morphologies of as-deposited SnO2. Thus, this work is significant with respect to three main outcomes: (i) ALD was for the first time suggested and successfully demonstrated as an efficient strategy to synthesize MO-GNCs; (2) the as-synthesized nanocomposites of SnO2-GNS presented fine-tuned morphologies; and (3) well-controlled structural phases from amorphous to crystalline SnO2."
+}

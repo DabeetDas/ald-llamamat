@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "s/OH* + 1/2 [Al(CH3)2(OiPr)]2(g) → s/OAl(CH3)(OiPr)* + CH4(g)",
+    "s/OH* + 1/2 Al(CH3)2(OiPr)2(g) → s/OAl(CH3)2* + HOiPr(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between DMAI and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The most likely simultaneous surface reactions occurring during the DMAI dose are represented by Eqs. (1a) and (1b): s/OH* + 1/2 [Al(CH3)2(OiPr)]2(g) → s/OAl(CH3)(OiPr)* + CH4(g); s/OH* + 1/2 Al(CH3)2(OiPr)2(g) → s/OAl(CH3)2* + HOiPr(g)."
+}

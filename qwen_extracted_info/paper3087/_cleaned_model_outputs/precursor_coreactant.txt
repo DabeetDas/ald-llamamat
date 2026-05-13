@@ -1,0 +1,7 @@
+{
+  "precursors": ["Si2Cl6"],
+  "coreactants": ["O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Si2Cl6 was chosen as the Si precursor as it possesses a higher reactivity than SiCl4.3 The deposition kinetics was examined at deposition temperatures ranging from 310 to 471°C for varying levels of precursor and oxidant exposures. N2 was used as the purging gas between the injections of precursors."
+}

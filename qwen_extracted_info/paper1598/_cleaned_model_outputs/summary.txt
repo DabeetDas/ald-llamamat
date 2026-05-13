@@ -1,0 +1,8 @@
+{
+  "target_material": "Silver nanoparticles",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Deionized H2O"],
+  "temperature_range": "50 °C",
+  "summary": "The study investigates the stability of silver nanoparticles coated with Al2O3 layers fabricated by atomic layer deposition (ALD) against femtosecond laser exposure. The ALD process uses TMA and deionized H2O at 50 °C. The Al2O3 layers significantly enhance the stability of the nanoparticles, providing a factor of 10 improvement in resistance to laser-induced structural changes compared to bare nanoparticles. The enhanced stability is attributed to increased surface melting temperature due to reduced mean square displacement of surface atoms. The study demonstrates that Al2O3-coated nanoparticles can serve as a stable platform for surface-enhanced laser spectroscopy.",
+  "evidence": "Al2O3 films were grown by ALD on silver nanoparticles fabricated by NSL. The reactor utilized in these experiments is similar to one described in previous publications. Trimethylaluminum (TMA) and deionized H2O vapors were alternately dosed over the substrates in a nitrogen carrier stream at a mass flow rate of 360 sccm and a pressure of1 Torr, using a growth temperature of 50 °C. One complete ALD cycle consists of four steps: (1) TMA reactant exposure time, 2 s; (2) N2 purge following TMA exposure, 10 s; (3) H2O reactant exposure time, 2.5 s; (4) N2 purge following H2O exposure, 30 s. For our experiments, NSL-fabricated silver nanoparticles were exposed to 4 or 10 ALD cycles, corresponding to an Al2O3 thickness of 0.4 or 1.0 nm, respectively."
+}

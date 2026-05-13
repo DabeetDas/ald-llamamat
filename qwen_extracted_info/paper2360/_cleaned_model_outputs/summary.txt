@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "ALD",
+  "main_precursors": ["Zr tert-butoxide", "H2O", "O2", "N2O"],
+  "temperature_range": "150 to 300◦C",
+  "summary": "The study investigates the effects of different oxidizers (H2O, O2, and N2O) on the characteristics of ZrO2 thin films deposited by atomic layer deposition (ALD). It highlights that lower temperatures (below 250◦C) are in the ALD reaction regime, while higher temperatures (above 300◦C) shift to a CVD reaction regime. The use of O2 and N2O as oxidizers results in amorphous ZrO2 films with lower leakage currents compared to H2O, which leads to crystalline films with higher leakage currents. The study concludes that O2 and N2O are more suitable oxidizers for ALD using Zr tert-butoxide for gate dielectric applications.",
+  "evidence": "In this study, we investigated the effect of O2 and N2O as an oxidizer of atomic layer deposition (ALD) using Zr tert-butoxide on the characteristics of ZrO2 compared to a conventional reactant, H2O. We observe that deposition temperature lower than 250◦C is ALD reaction regime while the temperature higher than 300◦C is CVD reaction region. H2O as an oxidant causes fully crystallization to monoclinic phase, while N2O and O2 results in amorphous phase. Leakage current of ZrO2 films using H2O shows much higher than those of the films using N2O and O2. Compared to conventional H2O, O2 and N2O are suitable for reactant of ALD using Zr-t-butoxide for alternative gate dielectric applications."
+}

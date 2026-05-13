@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Hydroxyl groups are the primary reactive sites for the adsorption of metal precursors in metal oxide ALD processes. During H2O exposure, adsorbed (C5iPr3H2)− surface groups are replaced by OH groups. The growth per cycle (GPC) is sensitive to the crystalline phase (Sr(OH)2 vs SrO) and the crystalline orientation. The enhanced GPC at higher temperatures is related to the orientation of the Sr(OH)2 phase, influenced by the underlying crystal texture of the substrate. A Sr silicate layer with stoichiometry close to Sr2SiO4 forms spontaneously during ALD growth and transiently enhances the GPC.",
+  "intermediate_species": ["Sr silicate", "Sr(OH)2", "surface hydroxyls"],
+  "evidence": "Hydroxyl groups have been widely identified as the primary reactive sites for the adsorption of metal precursors in metal oxide ALD processes. In the present Sr(C5iPr3H2)2/H2O process, it has been found that during H2O exposure, adsorbed (C5iPr3H2)− surface groups are replaced by OH groups. The enhanced GPC at higher temperatures is related to the orientation of the Sr(OH)2 phase, influenced by the underlying crystal texture of the substrate. A Sr silicate layer with stoichiometry close to Sr2SiO4 forms spontaneously during ALD growth and transiently enhances the GPC."
+}

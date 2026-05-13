@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Grazing incidence X-ray diffraction (GIXRD)",
+    "X-ray reflectance (XRR)",
+    "Energy dispersive X-ray (EDX) spectroscopy",
+    "Scanning electron microscopy (SEM)",
+    "Atomic force microscopy (AFM)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Time-of-flight elastic recoil detection analysis (TOF-ERDA)",
+    "Four-point probe"
+  ],
+  "evidence": "The structure of ruthenium films was determined from grazing incidence X-ray diffraction (GIXRD) patterns recorded by a PANalytical X’Pert PRO diffractometer using 1° incidence angle. The film thicknesses were measured either by the GIXRD apparatus in the X-ray reflectance mode (XRR) or by Oxford INCA 350 energy dispersive X-ray (EDX) spectrometer connected to Hitachi S-4800 scanning electron microscope (SEM). The EDX spectra were measured at 20 keV. The beam current and spectrometer gain were determined from an optimization measurement performed under the same beam conditions. The Ru film thicknesses were calculated from the k ratios of RuL lines measured with the calibrated beam. The calculations were done with a GMRFILM program, assuming a density of 12 g/cm3 for Ru. SEM was exploited also for the visualization of the Ru surface morphology. Surface root-mean-square (rms) roughness of selected samples was evaluated by atomic force microscopy (AFM, Veeco Instruments Multimode V with Nanoscope V controller) in tapping mode in air using phosphorus-doped silicon probe (RTESP). The sheet resistance and resistivity of the Ru films was evaluated by four-point probe Cascade Microtech C4S-44. The composition of selected films was evaluated by time-of-flight elastic recoil detection analysis (TOF-ERDA) and X-ray photoelectron spectroscopy (XPS)."
+}<|im_end|>

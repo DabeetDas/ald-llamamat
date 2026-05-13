@@ -1,0 +1,23 @@
+{
+  "precursor_coreactant": [
+    {
+      "code": "empty_evidence",
+      "path": "precursor_coreactant.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ],
+  "substrate_info": [
+    {
+      "code": "empty_evidence",
+      "path": "substrate_info.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ],
+  "film_properties": [
+    {
+      "code": "empty_evidence",
+      "path": "film_properties.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ]
+}

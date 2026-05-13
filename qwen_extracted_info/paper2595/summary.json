@@ -1,0 +1,12 @@
+{
+  "target_material": "Al-doped ZnO (AZO) films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethylzinc (DEZ)",
+    "trimethylaluminum (TMA)",
+    "ozone"
+  ],
+  "temperature_range": "250 /C14 C",
+  "summary": "The study compares two methods for depositing Al-doped ZnO films using ozone as the oxygen source. The first method uses sequential cycles of DEZ/O3 and TMA/O3 to control Al concentration, resulting in a layered microstructure. The second method involves coinjection of DEZ and TMA during each cycle, leading to a homogeneous distribution of Al. The films were characterized for their structural, electrical, and optical properties, with the coinjection method showing superior performance.",
+  "evidence": "Aluminum-doped ZnO ﬁlms were prepared by atomic layer deposition at 250 /C14 C using diethylzinc (DEZ), trimethylaluminum (TMA), and ozone as the precursors. Two deposition methods were compared to assess their impact on the composition, structural, electrical, and optical properties as a function of Al concentration."
+}

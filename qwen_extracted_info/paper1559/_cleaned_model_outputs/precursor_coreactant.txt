@@ -1,0 +1,7 @@
+{
+  "precursors": ["Hf[NEt2]4"],
+  "coreactants": ["DI H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "HfO2 was deposited uniformly onto the sample (including GeNWs, S and D electrodes, and the substrate) by reacting deionized water with tetrakis(diethylamido)hafnium (Hf[NEt2]4) precursor in a layer-by-layer fashion. Nitrogen was used as the carrier gas, and the deposition temperature was 90 °C."
+}

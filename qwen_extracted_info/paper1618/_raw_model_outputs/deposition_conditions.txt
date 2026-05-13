@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-300",
+  "pressure": "5 × 10−1 mbar and 1 mbar",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": 60,
+  "reactor_type": "coldwall ALD chamber",
+  "evidence": "Unless stated otherwise, the pulse time of the MeCpPtMe3 precursor was 10 s, after which the valves to the pumping system were kept closed for another 5 s, resulting in a total exposure time of 15 s. For O3, the pulse time was 5 s and the total exposure time was 8 s."
+}<|im_end|>

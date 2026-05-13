@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 363,
+  "pressure": "1-3 kPa",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": 2,
+  "reactor_type": "F-120",
+  "evidence": "The reaction between VO(OPri)3 and silica pretreated at 873 K was investigated at every 10 K between 363 and 433 K by letting the precursor-carrier gas flow (3 L/h) pass downward through the support bed during 5-8 h. The precursor was used in excess, i.e., around 2.5 mmol per gram of support (g sup), to ensure a complete saturation of the support. 11 Finally, the solids were purged with nitrogen for 2 h at the reaction temperature and calcined in-situ in oxygen at 773 K for 11 h."
+}

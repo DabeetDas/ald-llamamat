@@ -1,0 +1,16 @@
+{
+  "target_material": "Rare-earth oxide thin films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Cp-based lanthanide precursors",
+    "Yb(MeCp)3",
+    "Y(EtCp)3",
+    "Sc(iPrCp)3",
+    "La(iPrCp)3",
+    "Er(MeCp)3",
+    "Erbite12"
+  ],
+  "temperature_range": "150 to 325 °C",
+  "summary": "The study explores the use of cyclopentadienyl (Cp) based lanthanide precursors for atomic layer deposition (ALD) of rare-earth oxide thin films. The research evaluates the thermal properties and ALD performance of various precursors, including Yb(MeCp)3, Y(EtCp)3, Sc(iPrCp)3, La(iPrCp)3, and Er(MeCp)3, for the deposition of Yb2O3, Y2O3, Sc2O3, La2O3, and Er2O3. The study highlights the self-limiting nature of ALD, the effect of precursor dosage on growth rate, and the temperature range for optimal deposition. A heteroleptic precursor, Erbite12, is introduced to improve thermal stability and volatility for ALD of Er2O3.",
+  "evidence": "The study explores the use of cyclopentadienyl (Cp) based lanthanide precursors for atomic layer deposition (ALD) of rare-earth oxide thin films. The research evaluates the thermal properties and ALD performance of various precursors, including Yb(MeCp)3, Y(EtCp)3, Sc(iPrCp)3, La(iPrCp)3, and Er(MeCp)3, for the deposition of Yb2O3, Y2O3, Sc2O3, La2O3, and Er2O3. The study highlights the self-limiting nature of ALD, the effect of precursor dosage on growth rate, and the temperature range for optimal deposition. A heteroleptic precursor, Erbite12, is introduced to improve thermal stability and volatility for ALD of Er2O3."
+}

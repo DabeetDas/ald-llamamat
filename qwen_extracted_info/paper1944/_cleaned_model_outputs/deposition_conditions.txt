@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "150",
+ "pressure": "",
+ "precursor_pulse_time_s": "0.2",
+ "coreactant_pulse_time_s": "0.025",
+ "purge_time_s": "30",
+ "number_of_cycles": "150",
+ "reactor_type": "Cambridge NanoTech Inc. Savannah 100",
+ "evidence": "ALD of high- k ZrO2 has been performed at 1508C in a Cambridge NanoTech Inc. Savannah 100 ALD reactor by using tetrakis-(diethylamino)-zirconium Zr(NEt 2)4 and H 2O as the precursor substances. Respective purging times of 30 s for Zr(NEt 2)4 and of 60 s for H 2O have been applied. pulse/purge times [s]: H 2O: 0.025/60; Zr4: 0.2/30"
+}

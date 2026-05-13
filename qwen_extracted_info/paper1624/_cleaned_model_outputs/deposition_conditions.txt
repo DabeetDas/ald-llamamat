@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "110",
+  "pressure": "2 Torr",
+  "precursor_pulse_time_s": 60,
+  "coreactant_pulse_time_s": 180,
+  "purge_time_s": 240,
+  "number_of_cycles": 20,
+  "reactor_type": "home-built viscous flow reactor",
+  "evidence": "The Ag precursor was contained in a stainless steel bubbler which was heated to ∼63−66 °C to achieve sufficient vapor pressure. Nitrogen at 154 sccm passed through the bubbler and assisted transport of the Ag precursor molecules to the reactor. The operating pressure of the ALD system during Ag deposition was ∼2 Torr. The timing for one ABC-type ALD cycle is denoted as t1−t2−t3−t4−t5−t6 where t1 is the dose time for A; t2 is the purge time for A; t3 is the dose time for B; t4 is the purge time for B; t5 is the dose time for C; and t6 is the purge time for C. ABC-type Ag ALD was performed using the timing 600 − 300−90−240−120−240 s. Longer purge times help prevent precursor intermixing."
+}

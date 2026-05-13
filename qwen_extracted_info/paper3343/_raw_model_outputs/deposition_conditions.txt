@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "77 Pa",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 5,
+  "number_of_cycles": 100,
+  "reactor_type": "F-120",
+  "evidence": "The reactor chamber temperature was maintained at 200 °C which is lower than the decomposition temperature of the precursor. The mass-flow rates for Ar purge and precursor delivery lines were 60 and 100 sccm, respectively. During the process, Ar gas through both purge and precursor delivery is supplied, and with the control of conductance of the turbo molecular pump, the chamber pressure is set to 77 Pa. The injection time of the precursor, the opening time of V Y was fixed to 5 s per cycle. The number of deposition cycles was set to 100 times."
+}<|im_end|>

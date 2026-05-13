@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Y(thd)3",
+    "Y(thd)3(bipyridyl)",
+    "Y(thd)3(1,10-phenanthroline)"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Yttrium oxide thin film deposition by atomic layer epitaxy (ALE) was studied at 200–425 \u001eC using Y(thd) 3, Y(thd)3(bipyridyl), or Y(thd)3(1,10-phenanthroline) (thd = 2,2,6,6-tetramethyl-3,5-heptanedione) as an yttrium precursor, and ozone as an oxygen source. ... The volatility of the precursors was checked by simultaneous TG-DTA (Seiko SSC 5200), using 2 mbar pressure and 99.999 % nitrogen carrier gas, in order to simulate the ALE deposition conditions."
+}

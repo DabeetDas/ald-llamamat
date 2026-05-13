@@ -1,0 +1,8 @@
+{
+  "target_material": "SnS-based solar cells",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tetrakis(dimethylamido)tin(IV) {[(CH3)2N]4Sn, TDMASn}", "hydrogen peroxide (H2O2)", "germanium(IV) methoxide [Ge(OCH3)4]"],
+  "temperature_range": "200 /C14C",
+  "summary": "The study describes the atomic layer deposition of tin germanium oxide (Sn,Ge)O2 as an n-type buffer layer for SnS-based solar cells. The process involves the use of TDMASn, H2O2, and Ge(OCH3)4 as precursors, with a substrate temperature of 200 /C14C. The deposition of (Sn,Ge)O2 is optimized to adjust the band alignment and carrier concentration, leading to improved open-circuit voltage (VOC) and photovoltaic performance. The study highlights the importance of tuning the conduction band energy levels and carrier concentrations to achieve efficient carrier collection and reduce interfacial recombination.",
+  "evidence": "An ALD process was used to deposit SnO2 using tetrakis(dimethylamido)tin(IV) {[(CH3)2N]4Sn, TDMASn, Sigma Aldrich} and hydrogen peroxide (H2O2, 30% w/w in H2O, Sigma Aldrich). To prepare (Sn,Ge)O2, germanium was doped into SnO2 by injecting vapors of germanium(IV) methoxide [Ge(OCH3)4, Sigma Aldrich] and H2O2. TDMASn, Ge(OCH3)4, and H2O2 were kept at 60 /C14C, 30 /C14C, and 30 /C14C, respectively. The (Sn,Ge)O2 thin films were prepared at a substrate temperature of 200 /C14C."
+}

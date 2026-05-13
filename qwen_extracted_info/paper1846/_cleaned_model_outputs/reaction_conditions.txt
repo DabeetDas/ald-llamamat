@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the plasma-assisted atomic layer deposition (PEALD) of NiO using nickelocene (Ni(Cp)2) as a precursor and O2 plasma as a co-reagent. The process utilizes a sequence of precursor pulse and plasma ignition steps to facilitate surface reactions. The plasma provides the necessary oxidizing environment for the deposition of NiO, allowing for the formation of a p-type semiconductor with controlled stoichiometry and minimal carbon contamination.",
+  "intermediate_species": ["Ni(Cp)2", "O2 plasma", "surface hydroxyls", "NiO"],
+  "evidence": "The surface reaction mechanism is described in the text as involving the use of nickelocene (Ni(Cp)2) as a precursor and O2 plasma as a co-reagent. The process is detailed as utilizing a sequence of precursor pulse and plasma ignition steps to facilitate surface reactions. The plasma provides the necessary oxidizing environment for the deposition of NiO, allowing for the formation of a p-type semiconductor with controlled stoichiometry and minimal carbon contamination."
+}

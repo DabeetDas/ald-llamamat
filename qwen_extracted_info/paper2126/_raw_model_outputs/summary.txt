@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylgallium", "arsine"],
+  "temperature_range": "400 °C",
+  "summary": "The study describes the fabrication of photonic crystal thin films of GaAs using atomic layer deposition (ALD). The process involves the in-filling of silica sphere lattices with GaAs using trimethylgallium and arsine as precursors under ALD conditions. The in-filling is achieved through alternating gas pulses of the precursors, with a temperature of 400 °C. The resulting GaAs inverse opals exhibit optical properties that can be understood via Bragg reflection and photonic band structure calculations. The study demonstrates the effectiveness of ALD for tunable in-filling of GaAs into silica opals, achieving up to 91% in-filling.",
+  "evidence": "GaAs growth was performed in a horizontal reactor system maintained at 400 °C and 200 torr using trimethylgallium and arsine as precursors. Alternating gas pulses of TMGa and AsH3 at flow rates of 5.3×10−5 and 4.5×10−3 mol min−1, respectively, were separated by a hydrogen purge. The level of GaAs inﬁll was tuned using an iterative process, varying the number of pulse sequences and calculating the inﬁll using the Bragg expression."
+}<|im_end|>

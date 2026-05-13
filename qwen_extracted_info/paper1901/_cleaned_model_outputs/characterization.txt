@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "Scanning Electron Microscopy (SEM)",
+    "Transmission Electron Microscopy (TEM)",
+    "Energy Dispersive X-ray Spectroscopy (EDS)",
+    "X-ray Diffraction (XRD)",
+    "Cyclic Voltammetry (CV)",
+    "Galvanostatic Cycling",
+    "Electrochemical Impedance Spectroscopy (EIS)",
+    "Profilometry"
+  ],
+  "evidence": "The nanostructured TiO2 electrodes were fabricated on stainless steel discs (15.5 mm ø) where a gold layer is sputtered to facilitate TMV self-assembly. Cross-section TEM of annealed nanowires was used to study the layer structure of the synthesized electrode. The image shown in Fig. 1b combined with Energy Dispersive X-ray Spectroscopy (EDS) data (Fig. S1) clearly illustrates the uniformity of Ni and TiO2 coatings around the virus. The electrochemical properties of TiO2 anodes with and without TMV were studied in half-cell coin batteries. Cyclic Voltammetry (CV) was used to examine the lithium intercalation/deintercalation reactions. The charge/discharge curves for the TMV-structured anode are shown in Fig. 3. The coulombic efficiency for the TMV/Ni/TiO2 rapidly rose to values exceeding 99.5% by the 13th cycle. The high rate performance of TMV/Ni/TiO2 is attributed to the low impedance, as demonstrated by Electrochemical Impedance Spectroscopy (EIS) experiments. Morphology examination of the anode that was cycled at 500 mAg/C01 after 850 cycles using SEM shows retention of the three-dimensional structure of the TMV."
+}

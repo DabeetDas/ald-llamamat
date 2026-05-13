@@ -1,0 +1,11 @@
+{
+  "target_material": "CdTe",
+  "process_type": "atomic-layer epitaxy (ALE)",
+  "main_precursors": [
+    "Cd",
+    "Te"
+  ],
+  "temperature_range": "320°C",
+  "summary": "The study investigates the dimensional structural transition in CdTe/Cd xZn1−xTe nanostructures grown using molecular-beam epitaxy (MBE) and atomic-layer epitaxy (ALE). The focus is on the structural and optical properties of these nanostructures, including the excitonic transitions and activation energies of electrons in the CdTe layers.",
+  "evidence": "CdTe nanostructures were grown on CdxZn1−xTe buffer layers by using molecular-beam epitaxy and atomic-layer epitaxy. The depositions of the ZnTe and the CdTe layers were done at a substrate temperature of 320°C."
+}

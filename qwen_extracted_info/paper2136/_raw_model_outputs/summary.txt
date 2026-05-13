@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum", "water vapor"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the effect of NH3 plasma pretreatment on the ALD of Al2O3 on GaAs substrates. The process uses trimethylaluminum and water vapor as precursors at 300 °C. The NH3 plasma pretreatment improves the electrical properties and reduces surface defects by decreasing GaAs oxides and elemental As.",
+  "evidence": "Al2O3 thin films were deposited by atomic layer deposition on HF-cleaned and NH3 plasma-treated GaAs surfaces, respectively. The precursors used for Al2O3 films are trimethylaluminum and water. The deposition temperature was fixed at 300 °C. NH3 plasma pretreatment efficiently decreases the formation of GaAs oxides and suppresses the interfacial layer regrowth, and thus leads to a larger accumulation capacitance."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.03,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 15,
+  "number_of_cycles": null,
+  "reactor_type": "exposure mode reactor",
+  "evidence": "The ALD valves opened for 0.03 and 1 s for the oxygen source and tin precursor, respectively. The residence time after each precursor pulse was set to 20 s, followed by a nitrogen purge during 15 s."
+}

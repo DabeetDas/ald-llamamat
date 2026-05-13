@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 0.6,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "Under conditions of ALD, the surface sites become saturated with precursor and excess precursor not mono-atomically attached to the surface is removed by subsequent purging. As shown in Figure 8, the growth rate per ALD cycle levels off to ~0.6 Å/cycle (which is sub monolayer growth per cycle) at about 5 doses of precursor per cycle with no variation of film thickness within the ALD regime. The self-limiting nature of the ALD process is also indicated by the high degree of uniformity in the film thickness across the substrate surface."
+}

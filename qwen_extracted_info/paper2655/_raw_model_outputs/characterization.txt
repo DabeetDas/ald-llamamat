@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "Scanning Electron Microscope (SEM)",
+    "X-ray Reflectivity (XRR)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Capacitance-Voltage (C-V) measurement",
+    "Electron Beam Lithography",
+    "Inductively Coupled Plasma Reactive Ion Etching (ICP-RIE)",
+    "Four-point probe",
+    "Rapid Thermal Annealing",
+    "Atomic Force Microscopy (AFM)"
+  ],
+  "evidence": "Following the insulator deposition, the gate contacts were patterned by e-beam lithography using the bilayer resist process, e-beam evaporation of Ti/Au (28/110 nm), and metal lift-off. The thicknesses of the films were then measured by x-ray reflectivity (XRR) (Bruker D8 Discover), and the elemental composition was determined by x-ray photoelectron spectroscopy (XPS). The dielectric properties of the Ti-Al-O films grown on InAlN/GaN and AlGaN/GaN substrates were evaluated through C-V measurements. Leakage current density was measured for both AlGaN/GaN and InAlN/GaN MISH capacitors and is plotted at a gate voltage of /C0 1 V in Fig. 3. The interface between the insulator and semiconductor are filled with interface trapped charges caused by structural defects, impurities, and dangling bonds. Dielectric constants were measured through the 0 V bias accumulation capacitance values. The C-V sweep from þ2 to /C0 5 V for the dielectrics measured on InAlN/GaN. The C-V sweep from þ1 to /C0 5 V for the dielectrics measured on AlGaN/GaN. Both are measured using an AC signal with 10 kHz frequency, 10 mV amplitude, and.05 V step size. The capacitance-voltage (C-V) characteristics of the Ti-Al-O dielectrics measured on InAlN/GaN and AlGaN/GaN MISH capacitors, respectively. The voltage was swept from þ2 (or þ1) to /C0 5 V using a 10 kHz AC signal with 10 mV amplitude and.05 V/300 ms step size. The C-V curve features two slopes during the sweep. The first slope (at –bias) is associated with the accumulation of electrons at the InAlN(AlGaN)/GaN interface. The second slope (at þbias) shows the spill-over of electrons through the barrier layer onto the insulator/semiconductor interface. The interface trap density was extracted from the C-V frequency dispersion in the second slope of the C-V sweep. The trap density is measured at the trap activation energy of 0.44 eV below the conduction band edge. The interface trap density measured from the various MISH capacitor structures."
+}<|im_end|>

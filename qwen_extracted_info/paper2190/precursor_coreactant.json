@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethyl aluminum (TMA)",
+    "hafnium chloride (HfCl4)"
+  ],
+  "coreactants": [
+    "water (H2O)"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "1 – 35 nm ALD Al2O3 films were deposited at growth temperatures of 200– 300 ° C by alternating pulses of trimethyl aluminum (TMA) and water (H2O) as precursors. The pulse length and N2 purge time are 0.8 s and 2.0 s for TMA, and 1.0 s and 2.0 s for H2O, respectively. For HfO2 ALD growth, hafnium chloride (HfCl4) and H2O were used as Hf source and oxidant, respectively."
+}

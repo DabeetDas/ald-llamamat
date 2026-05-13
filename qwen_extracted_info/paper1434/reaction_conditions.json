@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reduction of Cu2+ to Cu1+ upon decomposition of Cu(thd)2 at 175 °C is responsible for the phase transition in ALD. In CVD, the decomposition of Cu(thd)2 and its reaction with H2S compete, leading to a gradual phase transition from CuS to Cu1.8S at higher temperatures.",
+  "intermediate_species": [
+    "Hthd"
+  ],
+  "evidence": "The decomposition of Cu(thd)2 starts with the internal reduction of Cu2+ to Cu1+ followed by the release of a thd ligand or parts thereof. Hthd can only be removed from the surface by H2, explaining the necessity of H2 in the CVD of Cu xS. The presence of the deposition profile in CVD and its absence in ALD indicates that Cu(thd)2 must adsorb without decomposition."
+}

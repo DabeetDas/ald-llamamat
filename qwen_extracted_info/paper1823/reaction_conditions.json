@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of the yttrium tris-guanidinate precursor [Y(DPDMG)3] with water, leading to the formation of Y2O3. The high reactivity of the precursor towards water functionalities enables a water-assisted ALD process, where the surface hydroxyl groups react with the precursor, followed by a water pulse to regenerate OH sites. The process is self-limiting, ensuring uniform film growth.",
+  "intermediate_species": [
+    "Y–OH bonds",
+    "adsorbed water species",
+    "surface hydroxyls"
+  ],
+  "evidence": "The surface reaction mechanism is described in the text as follows: 'The high reactivity of the precursor towards water functionalities enables a water-assisted ALD process, where the surface hydroxyl groups react with the precursor, followed by a water pulse to regenerate OH sites.' Additionally, the text mentions 'the existence of Y–OH bonds and adsorbed water species is in accordance to the ALD process, which ended with a water pulse and purge and thus, reactive hydroxyls can remain on the surface.'"
+}

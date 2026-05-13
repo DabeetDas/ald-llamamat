@@ -1,0 +1,7 @@
+{
+  "precursors": ["tris[dimethylamino]silane (3DMAS)", "trisilylamine (TSA)", "dichlorosilane (DCS)"],
+  "coreactants": ["N2 plasma", "NH3 plasma", "H2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Three precursors were tested for PEALD of SiN x: tris[dimethylamino]silane (3DMAS, Sigma Aldrich), trisilylamine (TSA, Air Liquide Electronics), and dichlorosilane (DCS, Air Liquide America Specialty Gases LLC). All precursors were maintained at room temperature and introduced into the reaction chamber through vapor draw. Throughout the process a flow of 60 sccm of Ar is maintained through the precursor manifold in addition to a flow of 110 sccm through the plasma line."
+}<|im_end|>

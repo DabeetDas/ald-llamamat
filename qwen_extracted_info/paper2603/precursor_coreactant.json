@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "trimethylgallium (TMG)"
+  ],
+  "coreactants": [
+    "oxygen plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Ga2O3 thin films were deposited by plasma-enhanced atomic layer deposition (ALD) using trimethylgallium as the gallium precursor and oxygen plasma as the oxidant. Ar was used as the carrier gas with the flow rates of 60 and 200 sccm for TMG and O2, respectively. For the optimization of growth parameters, 150 cycles were deposited at 250 /C14 C, where one cycle consisted of 0.015 s TMG (precursor bottle temperature /C24 6 /C14 C)/5 s Ar purge/2–60 s (25 sccm, 300 W) O2 plasma/5 s Ar purge."
+}

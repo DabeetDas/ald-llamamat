@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the chemical interaction between the molybdenum precursor and ammonia, with the formation of molybdenum nitride. The process is self-limiting, with the precursor molecules reacting with surface groups and subsequent purging to prevent gas-phase reactions.",
+  "intermediate_species": ["(tBuN)2Mo(NMe2)2", "surface hydroxyls", "ammonia pulse"],
+  "evidence": "The text describes the ALD process as involving the chemical interaction between the molybdenum precursor and ammonia, with the formation of molybdenum nitride. It mentions the self-limiting nature of the process and the use of purging to prevent gas-phase reactions. The synthesis and characterization of the molybdenum precursor are detailed, indicating its role in the surface reaction."
+}<|im_end|>

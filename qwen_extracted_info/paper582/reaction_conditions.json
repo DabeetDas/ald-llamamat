@@ -1,0 +1,26 @@
+{
+  "reaction_equations": [
+    "BOH) + AlCH3 → BOAlCH3 + CH4",
+    "BNH) + AlCH3 → BNAlCH3 + CH4",
+    "BOH) + SiCl4 → BOSiCl4 + HCl",
+    "BNH) + SiCl4 → BNSiCl4 + HCl",
+    "BOAlCH3 + HO → BOAlOH + CH4",
+    "BNAlCH3 + HO → BNAlOH + CH4",
+    "BOSiCl4 + HO → BOSiOH + HCl",
+    "BNSiCl4 + HO → BNSiOH + HCl"
+  ],
+  "surface_mechanism_description": "The surface reactions involve sequential exposure to AlCH3 and H2O, and SiCl4 and H2O. The initial surface species BOH) and BNH) react with AlCH3 or SiCl4 to form surface species such as BOAlCH3, BNAlCH3, BOSiCl4, and BNSiCl4. Subsequent exposure to H2O converts these species to BOAlOH, BNAlOH, BOSiOH, and BNSiOH. The alternating exposures lead to the formation of AlO and SiO films through the self-limiting reactions.",
+  "intermediate_species": [
+    "BOH)",
+    "BNH)",
+    "BOAlCH3",
+    "BNAlCH3",
+    "BOSiCl4",
+    "BNSiCl4",
+    "BOAlOH",
+    "BNAlOH",
+    "BOSiOH",
+    "BNSiOH"
+  ],
+  "evidence": "The text describes the surface reactions and mechanisms for ALD of Al2O3 and SiO2 on BN particles using sequential surface reactions. The reactions involve the initial surface species BOH) and BNH) reacting with AlCH3 or SiCl4 to form surface species such as BOAlCH3, BNAlCH3, BOSiCl4, and BNSiCl4. Subsequent exposure to H2O converts these species to BOAlOH, BNAlOH, BOSiOH, and BNSiOH. The alternating exposures lead to the formation of Al2O3 and SiO2 films through the self-limiting reactions."
+}

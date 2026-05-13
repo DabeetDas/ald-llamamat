@@ -1,0 +1,7 @@
+{
+  "precursors": ["Cu(acac)2"],
+  "coreactants": ["elemental sulfur"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The precursor powders were procured from commercial sources, i.e., Cu(acac)2 from STREM chemicals (purity 97%) and elemental sulfur from Sigma-Aldrich (purity 99.999%) and pulsed into the reactor in a sequence. The sublimation temperatures were: 140 °C for Cu(acac)2 and 115 °C for S, and the pulse time was varied between 1 and 5 s. In each case, the successive N2 gas pulse length for purging was 2 s longer than the precursor pulse."
+}

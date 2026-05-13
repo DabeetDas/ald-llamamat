@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Zr(NMe2)4 + 2 [≡Si-OH] → [(≡SiO)2Zr(-NMe2)2] + 2 HNMe2",
+    "≡Si-O-Mo(NMe2)3 + 2 HS(CH2)2SH → ≡Si-O-Mo(NMe2)(-S-C2H4-SH)2 + 2 HNMe2"
+  ],
+  "surface_mechanism_description": "Ligand exchange between Mo(NMe2)4 and surface hydroxyl groups followed by reaction with 1,2-ethanedithiol to form a surface-bound molybdenum(IV) aminothiolate, which undergoes thermal decomposition to form MoS2.",
+  "intermediate_species": [
+    "≡Si-O-Mo(NMe2)3",
+    "≡Si-O-Mo(NMe2)(-S-C2H4-SH)2",
+    "≡Si-O-Mo(NMe2)(-S-C2H4-S-)2Mo(NMe2)2"
+  ],
+  "evidence": "The text describes the surface reaction mechanisms involving the sequential grafting of Mo(NMe2)4 and 1,2-ethanedithiol on silica surfaces, leading to the formation of a surface-bound molybdenum(IV) aminothiolate. The reaction equations and intermediate species are explicitly mentioned in the context of the ALD process."
+}

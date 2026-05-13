@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Bis(ethylcyclopentadienyl)ruthenium [Ru(EtCp) 2]"
+  ],
+  "coreactants": [
+    "NH3 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Bis(ethylcyclopentadienyl)ruthenium [Ru(EtCp) 2] was used as a precursor and NH3 was used as a plasma enhanced reactant. The typical ALD cycle depositing a high quality of amorphous phase Ru thin film consists of 3 s of source feeding time with 100 sccm Ar as a carrier gas, followed by 5 s of purging time with 300 sccm Ar."
+}

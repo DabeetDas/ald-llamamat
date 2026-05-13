@@ -1,0 +1,11 @@
+{
+  "target_material": "poly-GaN",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "trimethylgallium (TMG)",
+    "ammonia (NH3)"
+  ],
+  "temperature_range": "400 °C",
+  "summary": "The study investigates the charge carrier transport and electroluminescence in thin-film polycrystalline (poly-) GaN/c-Si heterojunction diodes fabricated using plasma enhanced atomic layer deposition (PEALD). The fabricated poly-GaN/p-Si diode with a native oxide at the interface showed a rectifying behavior with a high ideality factor. The effective trap density and other electrical properties were determined from the current-voltage analysis. Infrared electroluminescence corresponding to the Si bandgap was observed, attributed to the improved injector efficiency of the GaN/Si diode due to the wide bandgap of the poly-GaN layer and the resulting band discontinuity at the GaN/Si interface.",
+  "evidence": "The text states: 'The fabricated poly-GaN/p-Si diode with a native oxide at the interface showed a rectifying behavior (I_on/Ioff ratio /C24 10^3 at 63 V) with current-voltage characteristics reaching an ideality factor n of /C245.17.' Additionally, it mentions: 'The observed EL intensity from the GaN/p-Si heterojunction diode is /C243 orders of magnitude higher as compared to the conventional Si only counterpart.'"
+}

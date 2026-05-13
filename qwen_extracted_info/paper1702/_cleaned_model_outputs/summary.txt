@@ -1,0 +1,8 @@
+{
+  "target_material": "Nb:SnO2",
+  "process_type": "atomic layer deposition",
+  "main_precursors": ["tin oxide", "niobium oxide"],
+  "temperature_range": "500 °C",
+  "summary": "The study describes the fabrication of niobium-doped tin oxide (NTO) electrodes using atomic layer deposition (ALD). The NTO material is transparent, conductive, and stable over a wide pH range. It was deposited onto porous substrates and used as a host material in a host−guest strategy for photoelectrochemical water splitting. The optimized NTO films showed high electrical conductivity and low optical attenuation, making them suitable for enhancing photocurrent in hematite photoanodes.",
+  "evidence": "The text states: 'After high temperature crystallization the NTO is transparent, conductive, and stable over a wide range of pH.' It also mentions: 'The resulting materials were conductive, transparent, stable, and depositable on 3D porous substrates.' Additionally, it notes: 'NTO was deposited onto high surface area templates that were subsequently coated with hematite Fe2O3 for the photoelectrochemical water splitting.'"
+}

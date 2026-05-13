@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Hf[N(CH3)2]4",
+    "O3"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the influence of ozone concentration during atomic layer deposition (ALD) of HfO2 films on their dielectric properties and interface trap density (Dit). The research focuses on how varying O3 concentrations affect the performance of HfO2 gate dielectrics on Si substrates, particularly in terms of leakage current, capacitance-equivalent-thickness (CET), and interface states. The results show that higher O3 concentrations lead to increased interface trap density and degradation in dielectric performance, especially at elevated post-deposition annealing (PDA) temperatures.",
+  "evidence": "The inﬂuence of the ozone concentration s160–370 g/m 3d during atomic layer deposition of HfO2-gate dielectrics on the dielectric performance of the ﬁlms grown on Si was studied. ... The O 3 concentration was changed from 160 to 370 g/m 3 and its inﬂuence on the dielectric performance and Dit of the MISCAP using a Pt gate was investigated. ... The 160 sample after PDA at 700 °C shows a very low Dit level which was actually almost identical to that of the SiO2 –Si system. However, when the PDA temperature increased to higher values than 700 °C Dit seriously increased in the whole energy range."
+}

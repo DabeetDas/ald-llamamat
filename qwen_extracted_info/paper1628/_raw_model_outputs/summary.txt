@@ -1,0 +1,8 @@
+{
+  "target_material": "W−Si−N",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["bis(tert-butylimido)bis(bis(trimethylsilylamido))tungsten(VI)", "H2 plasma"],
+  "temperature_range": "300 °C",
+  "summary": "The study describes the synthesis and application of a fluorine-free, silylamide-based W metallorganic precursor, bis(tert-butylimido)bis(bis(trimethylsilylamido))tungsten(VI), for the deposition of W−Si−N thin films via plasma-enhanced atomic layer deposition (PEALD). The films were characterized for their conformality, step coverage, and diffusion barrier properties against Cu metallization. The films showed high growth rates, excellent step coverage, and maintained amorphous structure up to 800 °C, making them effective diffusion barriers for Cu.",
+  "evidence": "Ternary and amorphous tungsten silicon nitride (W−Si−N) thin films were grown by atomic layer deposition (ALD) using a sequential supply of a new fluorine-free, silylamide-based W metallorganic precursor, bis(tert-butylimido)bis(bis(trimethylsilylamido))tungsten(VI) [W(NtBu)2{N(SiMe3)2}2], and H2 plasma at a substrate temperature of 300 °C. The ALD-grown W−Si−N film showed excellent step coverage of ∼100% onto nanotrenches with a width of 25 nm and an aspect ratio ∼4.5. The film kept its amorphous nature until annealing at 800 °C, and an ultrathin (only ∼4 nm thick) ALD-grown W−Si−N film effectively prevented diffusion of Cu into Si after annealing at a temperature up to 600 °C."
+}<|im_end|>

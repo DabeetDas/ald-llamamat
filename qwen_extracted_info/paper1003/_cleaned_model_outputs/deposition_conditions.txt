@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "200",
+ "pressure": "1 Torr",
+ "precursor_pulse_time_s": "0.05",
+ "coreactant_pulse_time_s": "0.02",
+ "purge_time_s": "6",
+ "number_of_cycles": "500",
+ "reactor_type": "in-house design",
+ "evidence": "ALD growth parameters\nMaterial Metal precursor\nvapour pressure/\nTorr (20 °C)\nGrowth\ntemperature/°C\nDuration,\npulse/s\nDuration,\npurge/s\nNumber\nof full\ncycles\nAl2O3 8.64 200 0.05 20 250\nVO2 13.7 490 0.02 6 500"
+}

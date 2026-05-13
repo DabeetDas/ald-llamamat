@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 50,
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "tubular",
+  "evidence": "Lengths of the precursor pulse, purge, and plasma pulse as well as the plasma RF power were varied to determine the saturation growth conditions. We found that (vide infra ) a cyclic deposition schedule of 5 s, 10 s, 10 s, and 10 s for the Cu(amd) pulse, purge, plasma pulse, and purge, respectively, with the RF power of 80 W gave out the ideal ALD saturation growth behavior."
+}

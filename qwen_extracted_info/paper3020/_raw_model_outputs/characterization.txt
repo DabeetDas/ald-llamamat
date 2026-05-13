@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "Spectroscopic ellipsometry (SE)",
+    "Rutherford backscattering (RBS)",
+    "Time-of-flight secondary ion mass spectroscopy (TOF-SIMS)",
+    "Atomic force microscopy (AFM)",
+    "Cross-sectional transmission electron microscopy (TEM)",
+    "Capacitance-voltage (C–V) measurements",
+    "Leakage current measurements",
+    "Ellipsometry",
+    "X-ray Photoelectron Spectroscopy (XPS)"
+  ],
+  "evidence": "The GPC was evaluated from both spectroscopic ellipsometry (SE) and Rutherford backscattering (RBS) for samples where 10–200 reaction cycles of HfO2 were deposited on a 1 nm chemical oxide. RBS gives quantitative results, whereas SE results should be interpreted only qualitatively. SE was performed on a KLA-Tencor ASET F5. RBS was performed in a RBS400 Endstation (Charles Evans and Associates) which is installed around a 6SDH-1 2MV tandem accelerator (National Electrostatics Corporation). The measurements were performed with a 1MeV He+ beam in a rotating random mode. The scatter angle was 168 degrees. The accumulation dose was 20 (C). Beam current was limited to 5 nA to avoid pileup in the electronics. A beamchopper was used for normalization. The RUMP simulation code was applied to calculate the areal density of Hf (number of atoms/cm2). Time-of-flight secondary ion mass spectroscopy (TOF-SIMS) surface measurements and depth profiles were performed with an ION-TOF-IV instrument using a dual-beam setup with a 500 eV Ar+ ion beam. Atomic force microscopy (AFM) was performed on a Veeco Nanoscope IV dimension 3100 operating in tapping mode. The root–mean–square (rms) roughness was extracted from the AFM images with a scan range of 500 nm (or 1–2 μm). Cross-sectional transmission electron microscopy (TEM) specimens were prepared by conventional ion milling and observed in JEOL 200CX and Philips CM30 TEMs at 200 and 300 kV, respectively. Electrical measurements were made on n-MOS capacitors with a physical vapor deposition (PVD) TaN gate. The highest thermal budget in the capacitor fabrication was a 1 min anneal at 650°C after metal-gate deposition. This low-thermal budget limits the regrowth of interfacial oxide. As such, the electrical characterization focuses as much as possible on the effect of the deposition parameters on the ultrathin HfO2 dielectric layers. Capacitance–voltage (C–V) characteristics were measured at 10 and 100 kHz on 30×30 and 100×100 μm capacitors. The EOT was estimated by fitting of the C–V curve with the chemical vapor cleaning (CVC) tool. The leakage current was taken at a gate voltage of −1 V or VFB − 0.6 V on 3×3, 10×10, 30×30, and 50×50 μm capacitors. 60 devices per wafer were analyzed. The trends in leakage current when taken at a gate voltage of −1 V or VFB − 0.6 V were very similar."
+}<|im_end|>

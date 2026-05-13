@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 177,
+  "pressure": "ca. 1–2 Torr",
+  "precursor_pulse_time_s": 60,
+  "coreactant_pulse_time_s": 90,
+  "purge_time_s": 90,
+  "number_of_cycles": null,
+  "reactor_type": "Fluidized bed reactor",
+  "evidence": "The SiO2 particles had a specific surface area of 5.6 m2 gS1 and a bulk density of 0.35 g cmS3. Bed masses ranged from 10–20 g, which corresponds to a volume of ca. 30–60 cm3, and total surface area of ca. 56–112 m 2 per batch. DEZ dosing/purging times ranged between 25/60 s and 60/90 s and varied with batch size. H2O dose/purge times remained constant at 30/90 s. Operating pressures were ca. 1–2 Torr; reactor temperature was maintained at 177 -C using a clamshell furnace with three zone control."
+}<|im_end|>

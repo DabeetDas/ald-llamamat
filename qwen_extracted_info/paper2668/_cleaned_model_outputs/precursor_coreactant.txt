@@ -1,0 +1,7 @@
+{
+  "precursors": ["SiCl2(CH3)2", "CH3I", "Al(CH3)3", "Si2Cl6"],
+  "coreactants": ["NH3 plasma", "H-terminated", "Cl-terminated", "CO plasma", "O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "In the first approach, for depositing carbon-containing SiNx films using ALD, carbon was introduced into the process through a silicon precursor, SiCl2(CH3)2, followed by NH3 plasma exposure. The set of experiments to evaluate the second approach with a three-step ALD process for carbon-containing SiNx growth involved exposing a model –SiHx/SiClx (x ¼ 1, 2, 3) terminated surface to two potential carbon precursors. ALD of carbon-containing SiO2 films was experimented with using Si2Cl6 and a pure CO or CO/O2 plasma. The authors show that both precursors readily react with the silicon surfaces, but neither one provides the appropriate surface termination. CH3I reacts with the silicon surfaces, and Al(CH3)3 reacts with the Cl-terminated Si surface. The third ALD approach to grow carbon-containing SiO2 films involves a two-step ALD process using a reactive silicon precursor, in this case Si2Cl6, and a O2-diluted CO plasma."
+}

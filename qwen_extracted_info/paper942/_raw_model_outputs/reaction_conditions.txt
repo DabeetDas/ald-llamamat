@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the interaction of tetrakis(dimethylamido)titanium (TDMAT) with plasma-generated species, leading to the formation of TiN films. The plasma treatment reduces resistivity by promoting the formation of TiC and reducing C-Hx species, which are responsible for high resistivity and poor stability.",
+  "intermediate_species": ["TiC", "C-Hx"],
+  "evidence": "The existence of organic-carbon (CxHy) impurities in MO-based TiN films is well known and such species were responsible for high resistivity and poor stability of the films. ... reduction of film resistivity by longer plasma pulse time is mainly attributed to the formation of TiC with simultaneous reduction of the level of C-Hx. This may also result in improvement of the film stability by increasing the film density."
+}<|im_end|>

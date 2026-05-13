@@ -1,0 +1,10 @@
+{
+  "target_material": "Palladium",
+  "process_type": "Plasma-Enhanced ALD (PEALD)",
+  "main_precursors": [
+    "Palladium(II) hexafluoroacetylacetonate (Pd II(hfac)2)"
+  ],
+  "temperature_range": "80 °C",
+  "summary": "The paper describes the plasma-enhanced atomic layer deposition (PEALD) of palladium on a polymer substrate, specifically air-exposed, annealed poly(p-xylylene) (Parylene-N). The process uses a remote, inductively coupled hydrogen/nitrogen plasma with Pd II(hfac)2 as the precursor. The plasma enables surface modification of the polymer to introduce active sites for chemisorption of the precursor and facilitates ligand removal and Pd reduction without degrading the polymer. The study demonstrates the successful deposition of Pd films on Parylene-N at low temperatures, which is crucial for applications in advanced logic devices.",
+  "evidence": "Palladium is successfully deposited on PPX at 80 °C using a remote, inductively coupled, hydrogen/nitrogen plasma with palladium (II) hexafluoroacetylacetonate (Pd II(hfac)2) as the precursor. The H2/N2 plasma was able to reduce the Pd and remove the hfac ligand, and did no visible damage to the PPX surface. The Pd films showed clean Pd 3d peaks, suggesting that the Pd films are of similar quality to those previously obtained using all-H2 plasma."
+}

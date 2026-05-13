@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "50 –250",
+  "pressure": "300 mTorr",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "viscous ﬂow ALD reactor",
+  "evidence": "ALD SnO2 thin ﬁlms were deposited in a viscous ﬂow ALD reactor using TDMASn and ozone in a range of 50 –250 °C. N 2 gas (99.9999%) was used as a carrier gas at a ﬂow rate ﬁxed at 50 sccm and working pressure was maintained at 300 mTorr. Each ALD ozone SnO2 sequence was given by TDMASn pulse (1 s)–N2 purge (10 s)–O3 (1 s) pulse–N2 purge (10 s)."
+}

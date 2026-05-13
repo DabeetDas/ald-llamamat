@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "Secondary-ion-mass-spectroscopy (SIMS)",
+    "Optical ellipsometer",
+    "C-V measurement",
+    "Hall Effect",
+    "Four-point probe"
+  ],
+  "evidence": "The physical thickness of the ﬁlm was measured by optical ellipsometer. The composition of different chemical elements in the ﬁlms was determined by SIMS analysis. Electrical characterizations were performed using HP 4284A impedance/gain phase analyzer and HP4156A semiconductor parameter analyzer. EOT was extracted from accumulation capacitance measured at 100 kHz, after accounting for quantum mechanical effects. The single pulse charge trapping measurements were done by Keithley Model 4200SCS together with a switch matrix and a pulse generator. The capacitance-voltage (C-V) hysteresis of the devices was measured."
+}

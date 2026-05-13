@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The intermixing process between HfO2 and Al2O3 layers during thermal annealing is discussed, where the superlattice structure changes into a homogeneous amorphous film. The crystallization temperature increases with Al content, and nitrogen incorporation affects the crystallization and leakage current.",
+  "intermediate_species": [
+    "HfOx",
+    "AlOx",
+    "HfAlOx"
+  ],
+  "evidence": "The text discusses the intermixing process between HfO2 and Al2O3 layers during thermal annealing, where the superlattice structure changes into a homogeneous amorphous film. It also mentions the effects of nitrogen incorporation on crystallization and leakage current, indicating the formation of HfAlOx films with varying Al content."
+}

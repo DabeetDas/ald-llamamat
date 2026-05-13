@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Fe(Cp)2 + O3 -> Fe2O3 + byproducts"
+  ],
+  "surface_mechanism_description": "In situ mass spectrometric analysis reveals the evolution of two distinct cyclic reaction products during the layer-by-layer growth. The self-limiting nature of the surface reaction is observed, with the Fe(Cp)2 half-reaction being self-limiting at 200 /C176C. The reaction products include cyclopentadiene (HCp) and cyclopentadienone, with the latter postulated based on the slow and identical evolution of specific m/z ratios. During the O3 reaction, combustion products are observed, indicating the presence of surface-bound hydrocarbon-based ligands.",
+  "intermediate_species": [
+    "cyclopentadiene (HCp)",
+    "cyclopentadienone",
+    "surface-bound hydrocarbon-based ligands"
+  ],
+  "evidence": "In situ mass spectrometric analysis reveals the evolution of two distinct cyclic reaction products during the layer-by-layer growth. The self-limiting nature of the surface reaction is observed, with the Fe(Cp)2 half-reaction being self-limiting at 200 /C176C. The reaction products include cyclopentadiene (HCp) and cyclopentadienone, with the latter postulated based on the slow and identical evolution of specific m/z ratios. During the O3 reaction, combustion products are observed, indicating the presence of surface-bound hydrocarbon-based ligands."
+}<|im_end|>

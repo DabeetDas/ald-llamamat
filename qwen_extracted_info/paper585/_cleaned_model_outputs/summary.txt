@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminium nitride (AlN)",
+  "process_type": "Atomic Layer Chemical Vapour Deposition (ALCVD)",
+  "main_precursors": ["Trimethylaluminium (TMA)", "Ammonia"],
+  "temperature_range": "423 K and 673 K",
+  "summary": "Aluminium nitride (AlN) was grown on porous silica using atomic layer chemical vapour deposition (ALCVD) with trimethylaluminium (TMA) and ammonia as precursors. The process involved alternating reactions of TMA and ammonia at 423 K and 673 K, respectively, on dehydroxylated and ammonia-pretreated silica. The study aimed to investigate the applicability of ALCVD for coating porous silica with AlN, focusing on the growth mechanism and surface reactions.",
+  "evidence": "Aluminium nitride AlN was grown on porous silica by atomic layer chemical vapour deposition ALCVD from trimethylaluminium TMA and ammonia precursors. The ALCVD growth is based on alternating, separated, saturating reactions of the gaseous precursors with the solid substrate. TMA and ammonia were reacted at 423 and 623 K, respectively, on silica which had been dehydroxylated at 1023 K and pretreated with ammonia at 823 K."
+}

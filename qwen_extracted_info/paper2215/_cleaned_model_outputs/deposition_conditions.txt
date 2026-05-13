@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "200– 300",
+ "pressure": "150 torr",
+ "precursor_pulse_time_s": "5",
+ "coreactant_pulse_time_s": "5",
+ "purge_time_s": "3",
+ "number_of_cycles": "0-200",
+ "reactor_type": "MOCVD",
+ "evidence": "First, an AlN buffer layer was deposited by the PALE method at the temperature of 1200 ° C and pressure of 150 torr. Every period in the growth had the sequence outlined in Fig. 1. As can be seen , 5 s long pulses of the TMA and NH3 precursors were introduced alternately into the MOCVD reactor. There i sa3s interval with only a ﬂow of hydrogen between them."
+}

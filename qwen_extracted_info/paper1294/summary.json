@@ -1,0 +1,12 @@
+{
+  "target_material": "NdNiO3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Nd(iPrCp)3",
+    "Ni(tBu2-amd)2",
+    "O3"
+  ],
+  "temperature_range": "160 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of NdNiO3 thin films on LaAlO3 and FTO substrates. The ALD process used Nd(iPrCp)3 and Ni(tBu2-amd)2 as precursors with ozone as the oxidant. The films were annealed at 600 °C to form the perovskite phase. The ALD-grown films showed good electrochemical stability and high proton diffusion coefficients, making them suitable for electrochromic applications in smart windows.",
+  "evidence": "Atomic Layer Deposition (ALD) of NdNiO3 thin films (ALD-NNO). ALD depositions of NdNiO3 were performed in a Veeco Savannah S200 reactor. The deposition temperature was kept at 160 °C and the pressure was 0.9 mbar, maintained by a 20 sccm of N2. Nd(iPrCp)3 and Ni(tBu2-amd)2 were used as organometallic precursors and evaporated at 160 and 125 °C, respectively, while ozone (O3) with a concentration of ∼200 ng mL−1 was employed as the oxidant. The NdNiO3 films were deposited on single crystalline (001) LaAlO3 (LAO) and fluorine-doped tin oxide (FTO)-coated glass substrates. After the deposition, the films were annealed at 600 °C for 24 h in air for the formation of the perovskite phase."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Self-limiting growth occurs through alternating pulses of TMIn and PH3 with Ar purge, ensuring that only one monolayer is deposited per cycle. The growth rate saturation at 1 ML/cycle is achieved by the sequential saturation of In and P monolayers on the surface, with the formation of a P-rich surface preventing the formation of a second P monolayer at Tg = 340 ~ C.",
+  "intermediate_species": ["In-surface", "P-surface", "InP surface"],
+  "evidence": "The saturation growth rate at 1 ML/cycle is achieved by the sequential saturation of In and P monolayers on the surface, with the formation of a P-rich surface preventing the formation of a second P monolayer at Tg = 340 ~ C. The growth rate increases by decreasing the PH3 flow rate, but for PH3 flow rates less than 50 sccm, the grown surface appears greyish due to TMIn accumulation on a In-rich surface caused by an insufficient supply of PH3."
+}<|im_end|>

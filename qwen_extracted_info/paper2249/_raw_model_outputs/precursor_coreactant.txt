@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMA)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["forming gas (5% H2/95% Ar)"],
+  "carrier_gas": [],
+  "evidence": "During each cycle of the ALD process, TMA was pulsed for 1 s, followed by a 5 s evacuation interval, 45 s forming gas purge, and 5 s evacuation, and then H2O was pulsed for 1 s, followed by 5 s evacuation interval, 60 s forming gas purge, and 1 s evacuation."
+}<|im_end|>

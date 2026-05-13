@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175–300",
+  "pressure": "500 mTorr",
+  "precursor_pulse_time_s": 6,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 15,
+  "number_of_cycles": 300,
+  "reactor_type": "hot-wall, perpendicular flow, diagnostic-accessible",
+  "evidence": "The growth rate was found to be 0.1 6 0.01 nm/cycle within the wide ALD temperature window of 175–300 /C14 C. The deposition was carried out at 100–375 /C14 C substrate temperature and 500 mTorr ALD chamber pressure. The reactor had a base pressure of less than 40 mTorr, and it can be heated up to 450 /C14 C. The reactor has two delivery lines, one of which was loaded with the Sn(acac)2 precursor and kept at 70 /C14 C. The delivery lines and reactor walls are heated to 100 /C14 C to avoid precursor condensation."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Zr silicate",
+  "process_type": "Metal Organic Atomic Layer Deposition (MO-ALD)",
+  "main_precursors": ["zirconium tetratert-butoxide (ZTB)"],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the use of metal organic atomic layer deposition (MO-ALD) to fabricate Zr silicate films for high-k gate dielectrics. The process involves cyclic exposure of a SiO2 substrate to a metal organic precursor and Ar plasma, leading to ion-assisted mixing of metal atoms into the substrate. The resulting Zr silicate films showed improved electrical characteristics compared to those made using O2 plasma or H2O irradiation.",
+  "evidence": "We investigated the use of atomic layer deposition to fabricate metal silicate film for high-k gate dielectrics. We used a metal organic precursor and alternate exposures of Ar plasma to achieve ion-assisted mixing of metal atoms into the substrate during each ALD cycle. The electrical characteristics of the silicate film were better than those of film fabricated using O2 plasma or H2O irradiation."
+}

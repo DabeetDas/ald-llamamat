@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "300 Torr",
+  "precursor_pulse_time_s": "45",
+  "coreactant_pulse_time_s": "60",
+  "purge_time_s": "60",
+  "number_of_cycles": "200",
+  "reactor_type": "traveling-wave type ALD reactor (Lucida-D100, NCD Technology, Korea)",
+  "evidence": "The Ru films were deposited using a traveling-wave type ALD reactor (Lucida-D100, NCD Technology, Korea) with a new beta-diketonate Ru precursor, dicarbonyl-bis(5-methyl-2,4-hexanediketonato) Ru(II) (C16H22O6Ru), at a substrate temperature of 250 /C14 C. The precursor is a yellow liquid at room temperature with a vapor pressure of 0.5 Torr at 100 /C14 C. The working pressure was varied from 10 to 300 Torr to obtain high quality Ru films. The working pressure was controlled with a throttle valve and was kept constant throughout the film deposition."
+}<|im_end|>

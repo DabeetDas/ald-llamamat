@@ -1,0 +1,8 @@
+{
+  "target_material": "Yttria-doped ceria (YDC)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Y(thd)3", "Ce(thd)4", "ozone"],
+  "temperature_range": "300 /C176C",
+  "summary": "The study describes the synthesis of yttria-doped ceria (YDC) thin films using atomic layer deposition (ALD) for solid oxide fuel cell (SOFC) applications. The films were deposited on various substrates, including SOFC electrodes, and exhibited good crystallinity and uniformity without requiring annealing. The electrical properties of the YDC thin films were characterized, showing lower conductivity compared to bulk YDC but superior performance to YSZ thin films at higher temperatures.",
+  "evidence": "Four-hundred-nanometer thick YDC films were deposited at 300 /C176C on soda lime, Si(100), stainless steel (430), La 0.8Sr0.2FeO3 (LSF) cathodes, and on Ni-YSZ anodes. The deposited layers were crystalline as deposited, without any need for annealing. Electrical properties of YDC thin films seem to be superior to those of the YSZ thin films, characterized under the same conditions, in the temperature range of 500 -750 /C176C."
+}

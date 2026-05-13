@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The Al2O3 etch mechanism in the given range of experimental conditions involves ion-assisted chemical reaction. At high source powers, the etch process occurs mostly through the physical sputtering of Al2O3 due to lower chlorination rate. At low source powers, the incident ions sputter the partially chlorinated Al atoms that require lower threshold energy, and the change in etch threshold may be connected with heterogeneous reactions of BClx radicals through the formation of reaction products with different volatilities or through the deposition of the BCl-containing polymer-like layer.",
+  "intermediate_species": [
+    "partially chlorinated Al atoms",
+    "BClx radicals",
+    "reaction products with different volatilities"
+  ],
+  "evidence": "The etch mechanism of the Al2O3 films in chemically active plasmas is not clearly understood, and the basic relationships between input process parameters (gas pressure, input power, bias power) and output characteristics (etch rate, selectivity, anisotropy) are not explored well. This makes difficulties for the optimization of the Al2O3 'dry' etch process. The Al2O3 etch mechanism in the given range of experimental condition can be proposed as follows. At high source powers, the neutral/charged ratio (GCl=Gþ) is lower that provides lower chlorination rate. Accordingly, since the fraction of chlorinated Al atoms q /C28 1, the incident ions impact the native surface and the etch process occurs mostly through the physical sputtering of the Al2O3. At low source powers, the neutral/charged ratio seems to be much higher compared with previous case. This fact results in higher chlorination rate, and the incident ions mostly sputter the partially chlorinated Al atoms that require lower threshold. Except these, the change in etch threshold may be connected with heterogeneous reactions of BClx radicals through the formation of reaction products with different volatilities (desorption energies) or/and through the deposition of the BCl-containing polymer-like layer as was repeatedly mentioned for the CF4-based plasmas."
+}

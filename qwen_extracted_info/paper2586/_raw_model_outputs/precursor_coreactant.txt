@@ -1,0 +1,7 @@
+{
+  "precursors": ["LiHMDS", "ozone"],
+  "coreactants": ["ozone"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Lithium silicate films were deposited using lithium hexamethyldisilazide [LiHMDS, Li(N(SiMe3)2)] and ozone as precursors. Nitrogen was produced with a Domnick Hunter G2100E nitrogen generator and used as a carrier and a purging gas in the ALD reactor."
+}<|im_end|>

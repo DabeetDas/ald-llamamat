@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 450,
+  "pressure": "2.0 = 10y6 torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": 50,
+  "reactor_type": "vacuum apparatus",
+  "evidence": "The sample was held at 450 K during all the Al CH and H O exposures. During low pressure exposures, reactant gases were introduced into the upper chamber with the gate valve open between the upper and lower chambers. These exposures consisted of reactant pressures in the range of 1 =10 y4 ]1=10 y3 torr and were measured with the ion gauge. In addition, a second gate valve between the lower chamber and the turbomolecular pump could be throttled to adjust the pumping speed during these low pressure reactant exposures. The gate valve between the upper and lower chambers was closed for reactant pressures ranging from 0.01 to 10 torr. These static pressures were measured using the Baratron capacitance manometer. Pressures less than 2.0 = 10 y6 torr between the Al CH and H O exposures were obtained using this pumping sequence. These low pressures between reactant exposures were needed to minimize the possibility of Al O chemical vapor deposition CVD on the BN particles."
+}

@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "LiOtBu",
+    "TMA"
+  ],
+  "coreactants": [
+    "H2O",
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The Al2O3 subcycle consisted of alternate pulsing of TMA (trimethyl aluminum) and O3, and the Li2O subcycle consisted of alternate pulsing of LiOtBu and H2O. The reactor pressure was ca. 3 mbar, and a N2 flow (99.9995%) of 300 cm3min−1 was used as a carrier gas."
+}

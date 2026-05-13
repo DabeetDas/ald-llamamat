@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "AlOH* + Al(CH3)3 → AlOAl(CH3)2* + CH4",
+    "Al(CH3)* + H2O → AlOH* + CH4"
+  ],
+  "surface_mechanism_description": "The ALD process for Al2O3 involves sequential, self-limiting exposures to Al(CH3)3 and H2O. The first step involves the reaction of surface hydroxyl groups with trimethylaluminum, forming a surface species and releasing methane. The second step involves the reaction of the surface species with water, regenerating hydroxyl groups and releasing methane again.",
+  "intermediate_species": [
+    "AlOH*",
+    "AlOAl(CH3)2*",
+    "Al(CH3)*"
+  ],
+  "evidence": "Al2O3 ALD is based on sequential, self-limiting exposures to Al(CH3)3 and H2O:11,13\nAlOH* + Al(CH3)3 → AlOAl(CH3)2* + CH4 ,\nAl(CH3)* + H2O → AlOH* + CH4 ."
+}

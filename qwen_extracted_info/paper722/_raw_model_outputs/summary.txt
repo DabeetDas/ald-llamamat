@@ -1,0 +1,8 @@
+{
+  "target_material": "SrCoO3− ı",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Sr(thd)2", "Co(acac)3", "O3"],
+  "temperature_range": "290–330 ◦C",
+  "summary": "The study introduces a novel ALD process for depositing high-quality SrCoO3− ı thin films with precise cation stoichiometry and a high growth rate. The process uses Sr(thd)2, Co(acac)3, and ozone as precursors, with optimal growth achieved at 310 ◦C. Post-annealing at 600–800 ◦C crystallizes the films into the rhombohedral phase. The films are suitable for intermediate-temperature solid oxide fuel cell (IT-SOFC) cathodes due to their high surface area and controlled stoichiometry.",
+  "evidence": "Novel atomic layer deposition (ALD) process to deposit high-quality SrCoO3− ı thin films is introduced. Linear film growth is demonstrated within the film-thickness range of 15–300 nm. Post-annealing at 600 ◦C (in O2 or N2 atmosphere) is required to crystallize the as-deposited amorphous films. The new ALD process produces SrCoO3− ı films with a precisely controlled cation stoichiometry (±2.5%) and an appreciably high growth rate (1.67 Å per supercycle), hence providing us with a prominent method of fabricating high-quality SrCoO3− ı thin films in a readily scalable manner e.g. for intermediate-temperature solid oxide fuel cell cathodes."
+}<|im_end|>

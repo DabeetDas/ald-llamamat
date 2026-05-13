@@ -1,0 +1,8 @@
+{
+  "target_material": "In2O3:H",
+  "process_type": "PEALD",
+  "main_precursors": ["InCp", "H2O", "O2"],
+  "temperature_range": "100 − 350 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of hydrogen-doped indium oxide (In2O3:H) using InCp and a combination of O2 and H2O as precursors. The process is highly promising for transparent conductive oxides, with a high growth per cycle (>0.1 nm) and viability at low temperatures as low as 100 °C. The study investigates the microstructure and hydrogen incorporation during the ALD process, revealing that hydrogen mainly originates from the coreactant (H2O) and that the incorporation of hydrogen decreases from amorphous to crystalline growth. The process also shows that the crystallinity and microstructure significantly affect the optoelectronic properties of the resulting films.",
+  "evidence": "The atomic layer deposition (ALD) process of hydrogen-doped indium oxide (In2O3:H) using indium cyclopentadienyl (InCp) and both O2 and H2O as precursors is highly promising for the preparation of transparent conductive oxides. It yields a high growth per cycle (>0.1 nm), is viable at temperatures as low as 100 °C, and provides a record optoelectronic quality after postdeposition crystallization of the films."
+}<|im_end|>

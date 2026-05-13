@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "Cu(s)q 2TiCl (s)q 8NH (g)™CuCl (g)43 2",
+    "Uq 2TiN(s)q 6NH HCl (g)3",
+    "y WF (s)q BCH (g)™y WF q ØCH (g)3 z6y x 25 y 25",
+    "q BF C H (g)q BF (g)™y WC F q « (4)Ž. 3y zz 25 3 km",
+    "y WC F (s)q NH (g)™y WC NH (s)q yHF(g)Ž. yxy 3 xz"
+  ],
+  "surface_mechanism_description": "The reaction steps involve the deposition of TiN on copper where an ammonia pulse is conducted to the TiCl-terminated surface. The reaction between boron trifluoride and copper is less favorable than the reaction between HF and copper, thus no copper pitting is observed. The reaction between WF and BCH leads to the formation of BF and WC F, which may form a stable complex with copper and vaporize off.",
+  "intermediate_species": [
+    "CuCl",
+    "NH HCl",
+    "BF",
+    "WC F",
+    "yHF"
+  ],
+  "evidence": "Eq. (1) describes the TiN deposition on copper where an ammonia pulse is conducted to the TiCl-terminated surface. Because no thermodynamic data are available for W N equation, TiN equation is presented instead. The reaction between boron trifluoride and copper is less favorable than the reaction between HF and copper and thus no copper pitting is observed Eq. (3)."
+}<|im_end|>

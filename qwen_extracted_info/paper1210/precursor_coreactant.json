@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "[Co(tBu2DAD)2]"
+  ],
+  "coreactants": [
+    "ozone"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "II. Film deposition: Cobalt oxide thin ﬁlms were deposited using a hot -wall ﬂow-type ALD reactor (ASM Microchemistry F-120) operated under a nitrogen atmosphere of approximately 5 mbar. Nitrogen (99.999 %) was used as both carrier and purging gas. The carrier gas flow rate used in all depositions was 400 sccm."
+}

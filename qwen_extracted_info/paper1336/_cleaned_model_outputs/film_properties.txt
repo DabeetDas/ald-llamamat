@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 5,
+  "density_g_cm3": 3.4,
+  "refractive_index": "1.93 at 633 nm",
+  "surface_roughness_nm": 0.8,
+  "crystal_phase": "Amorphous",
+  "evidence": "The obtained surface roughness using from XRR and AFM are shown in Fig. 2b, which is crucial for the electrical properties of the devices.5 The corresponding AFM mapping images of the AlN, AlON, and Al 2O3 films with 200 ALD cycles are shown in Fig. 3. It is found that the surface roughness of all the films prepared in this work is less than 0.8 nm. Obviously, the AFM and XRR results have the same trend. As seen from the RMS values obtained by AFM, the AlN film (NH 3 :O 2 ratio: 100:0) exhibits the highest RMS roughness value of 0.27 nm. It is owing to the AlN films prepared by the PE4ALD are mainly in crystallite phase. 18, 21 Then, the RMS roughness of the obtained films drops evidently within the NH 3 :O 2 ratio range from 95:5 to 75:25. This is probably due to the oxygen doping in the AlN film turns the crystallization orientation of the obtained film form crystallite phase (AlN) to amorphous phase (AlON). After that, as the NH 3 :O 2 ratio further decreased from 25:75 (AlON) to 0:100 (Al 2O3 ), the corresponding RMS roughness exhibit a slight raise. A possible reason is that the films grown in such low NH 3 :O 2 ratio are mainly composed by Al 2O3. Meanwhile, the lattice constant of the Al 2O3 (a=5.14 Å) much larger than that of the AlN (a=3.11 Å). Results show that the surface roughness of the AlON films prepared this is lower than that of the AlN and the Al 2O3 ones, which is suitable for gate dielectric application."
+}

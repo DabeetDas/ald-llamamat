@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 340,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "MBE",
+  "evidence": "The substrate was set at the holder installed in the growth chamber. The substrate in the chamber was immediately heated to 630°C and maintained at that temperature for 30 min to clean the surface. After the thermal etching, a (2 × 1) surface reconstruction pattern was observed on the screen of the reflection high energy electron diffraction (RHEED) system, then the substrate temperature was cooled down to 340°C and the growth was initiated."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth rate exhibits a plateau due to the surface occupancy of phosphorus precursors, and the self-limiting growth is achieved through the desorption of 2nd-XXIs adsorbed on 1st-XXIs when the adsorption sites of 2nd-XXI are not entirely filled.",
+  "intermediate_species": ["1st-XXIs", "2nd-XXIs"],
+  "evidence": "The adsorption sites of 1st-XXI on the InP surface are filled over D.*/, and the adsorption sites of 2nd-XXI are filled over D.!9. A D.!9 of 8]10~6 Torr s for TMI is higher than that of 5]10~6 Torr s for TEI. It is therefore inferred that the adsorption efficiency of TEI is higher than that of TMI, and the reason for this is based on the fact that the vapor pressure of TEI is lower than that of TMI. It is assumed that the number of adsorption sites of 2nd-XXI is almost the same as that of 1st-XXI; thus, the ratios of sticking coefficients for the XXIs on 1st-XXIs to that on the InP surface, D.*//(D.!9!D.*/), are almost 60 and 100% for TMI and TEI, respectively."
+}<|im_end|>

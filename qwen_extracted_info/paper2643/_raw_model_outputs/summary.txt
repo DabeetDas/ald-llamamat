@@ -1,0 +1,8 @@
+{
+  "target_material": "GaN",
+  "process_type": "plasma-assisted atomic layer deposition (PA-ALD)",
+  "main_precursors": ["trimethylgallium (TMG)", "triethylgallium (TEG)"],
+  "temperature_range": "200 /C14 C",
+  "summary": "The study compares the growth of ultrathin GaN films on Si (100) substrates using trimethylgallium (TMG) and triethylgallium (TEG) as gallium precursors via hollow-cathode plasma-assisted atomic layer deposition (PA-ALD). The films were characterized for structural, optical, and surface properties. TMG-grown GaN exhibited improved structural and optical properties compared to TEG-grown GaN.",
+  "evidence": "GaN films grown by hollow cathode plasma-assisted atomic layer deposition using trimethylgallium (TMG) and triethylgallium (TEG) as gallium precursors are compared. Optimized and saturated TMG/TEG pulse widths were used in order to study the effect of group-III precursors. The films were characterized by grazing incidence x-ray diffraction, atomic force microscopy, x-ray photoelectron spectroscopy, and spectroscopic ellipsometry. GaN layers grown using TMG precursor exhibited improved structural and optical properties when compared to GaN films grown with TEG precursor."
+}<|im_end|>

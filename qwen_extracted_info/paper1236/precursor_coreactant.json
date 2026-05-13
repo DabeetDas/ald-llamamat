@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Ru(DMBD)(CO)3"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Ru(DMBD)(CO)3 and H2O were used for Ru metal film deposition. The Ru(DMBD)(CO)3 vapor was delivered using a bubbler by passing 25 standard cubic centimeters per minute (sccm) Ar as a carrier gas. The purge step consisted of a 20 seconds purge with 75 sccm Ar."
+}

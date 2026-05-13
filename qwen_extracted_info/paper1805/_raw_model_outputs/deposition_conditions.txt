@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 200,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 3,
+  "number_of_cycles": null,
+  "reactor_type": "Beneq TFS 200",
+  "evidence": "The (Cd,Zn)S films were grown using atomic layer deposition (ALD) in a Beneq TFS 200 reactor. The precursors for ALD growth were dimethyl cadmium (DMCd, Strem), diethyl zinc (DEZ, Aldrich), tris(dimethylamino)gallium (TDMAGa, Gelest), and H2S (15% H2S/N2 mixture, Matheson). The DMCd and DEZ were held at 20 ◦C, whereas the TDMAGa precursor was heated to 118◦C. The reactor optimized precursor sequence timing was the following: DEZ and DMCd dose/purge = 200 ms/2s; H2S pulse/purge = 200 ms/3s; TDMAGa pulse/purge = 1.5s/5s."
+}<|im_end|>

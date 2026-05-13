@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum Fluoride (AlF3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["tris(dimethylamino)aluminum (TDMAA)", "anhydrous hydrofluoric acid (HF)"],
+  "temperature_range": "150 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit aluminum fluoride (AlF3) on lithium metal to improve its stability in batteries. The ALD process uses tris(dimethylamino)aluminum (TDMAA) and anhydrous hydrofluoric acid (HF) as precursors, and the films are deposited at 150 °C. The AlF3 coating is shown to reduce the formation of the solid electrolyte interphase (SEI) on lithium, improve the cycle life of lithium-sulfur cells, and mitigate dendrite formation. The results indicate that the AlF3 coating can significantly enhance the performance of lithium anodes in rechargeable batteries.",
+  "evidence": "The text states: 'Thin films of AlF3 were deposited in a showerhead-style ALD reactor... Deposition proceeded by alternating exposure to tris(dimethylamino)aluminum (TDMAA) and anhydrous hydrofluoric acid (HF)... ALD behavior was verified by observation of the saturation of film deposition rate as function of precursor dose. For deposition on Si substrates at 150 °C, a saturated rate of 0.6 Å per ALD cycle was observed.'"
+}

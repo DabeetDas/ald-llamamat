@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "370",
+  "pressure": "0.7 Torr",
+  "precursor_pulse_time_s": "3",
+  "coreactant_pulse_time_s": "2",
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "4-in.-diameter single wafer traveling-wave type ALD reactor (CN-1 Co, Plus-100)",
+  "evidence": "The typical ALD process consisted of a precursor pulse (3 s) /C0 Ar purge (5 s) /C0 oxygen source pulse (2 s) /C0 Ar purge (5 s)."
+}

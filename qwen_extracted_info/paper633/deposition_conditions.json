@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "1 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 20,
+  "purge_time_s": 3,
+  "number_of_cycles": 2000,
+  "reactor_type": "flowthrough-type ALE reactor",
+  "evidence": "In the Type I process experiments, the pulsing times of all M acac precursors and all purges were kept constant at 3 s. Hydrogen AGA 99.98%; 30 ccm was fed with a pulse duration of 20 s in the case of Cu and Ni, and 10 s in the case of Pt. The total number of cycles was 2000."
+}

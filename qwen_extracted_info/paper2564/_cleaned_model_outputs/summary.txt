@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2 and HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["cyclopentadienyl", "ozone"],
+  "temperature_range": "350 °C",
+  "summary": "The study investigates the electrical properties of thin zirconium and hafnium oxide high-k gate dielectrics grown by atomic layer deposition using cyclopentadienyl and ozone precursors. The focus is on the impact of precursor chemistry on the electrical characteristics, including interface state densities, flatband voltage transients, and leakage current densities. The results show that the choice of precursor significantly affects the quality of the films, with certain precursors leading to better electrical performance.",
+  "evidence": "ZrO2 and reference HfO2 films grown by atomic layer deposition from metal cyclopentadienyls and ozone as precursors to thicknesses ranging from 3.6 to 13.1 nm on etched silicon showed electrical characteristics adequate to high-k dielectrics. The best results in terms of low interface state densities were obtained when CpMe2ZrMe2 precursor was used. The leakage current densities were also lower in the HfO2 films, compared to ZrO2."
+}

@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "[AlMe2(DMP)] (DMAD)",
+    "[Al(NEt2)2(DMP)] (3, BDEADA)",
+    "[Al(NiPr2)2(DMP)] (4)"
+  ],
+  "coreactants": [
+    "oxygen plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "The text states: 'Additionally, a new and promising plasma enhanced (PE)ALD process using BDEADA and oxygen plasma in a wide temperature range from 60 °C to 220 °C is reported and compared to that of a modified variation of the TMA, namely [AlMe2(DMP)] (DMAD).'"
+}

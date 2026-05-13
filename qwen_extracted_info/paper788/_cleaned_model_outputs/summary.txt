@@ -1,0 +1,8 @@
+{
+  "target_material": "Molybdenum nitride (MoNx)",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["Mo(CO)6", "NH3"],
+  "temperature_range": "250 °C",
+  "summary": "Molybdenum nitride (MoNx) was grown on 3D Ni-foam (NF) at a low temperature of 250 °C using atomic layer deposition (ALD) and tested as an electrode for charge storage. The composite showed high areal capacity (130 mC/cm2) and excellent cyclic stability, making it a promising material for supercapacitors.",
+  "evidence": "Molybdenum nitride (MoNx) was directly grown on 3 -dimensional Ni-foam (NF) at relatively low temperature of 250 °C by atomic layer deposition (ALD) and then tested as an electrode for charge storage. The successful formation of MoNx@NF composite was confirmed by several characterization techniques. High areal capacity (geometrical) of 130 mC/cm2 was achieved at a current density of 2 mA/cm2. The excellent cyclic stability reflected the conducting nature of the composite."
+}

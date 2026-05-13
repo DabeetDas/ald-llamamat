@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis( N,N9-di-tert-butylacetamidinato)iron(II) (Fe(amd)2)"],
+  "coreactants": ["H2 plasma"],
+  "purge_gas": ["H2 gas"],
+  "carrier_gas": ["N2 gas"],
+  "evidence": "Hydrogen gas was safely used as the purging gas because Fe(amd)2 does not react with the molecular H2 gas at the temperature up to 210 °C. The Fe(amd)2 precursor kept in a container was heated up to 60 °C to supply sufficient vapor pressure and then conducted into the reactor vessel by high-purity (99.999%) N2 gas at a flow rate of 50 sccm."
+}<|im_end|>

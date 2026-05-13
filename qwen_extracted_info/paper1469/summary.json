@@ -1,0 +1,13 @@
+{
+  "target_material": "Ferrites (Ni xFe3-xO4 and Co xFe3-xO4)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Fe(II) metallocenes (Cp2Fe)",
+    "Co(II) metallocenes (Cp2Co)",
+    "Ni(II) metallocenes (Cp2Ni)",
+    "Ozone (O3)"
+  ],
+  "temperature_range": "200-250 °C",
+  "summary": "This study demonstrates the direct atomic layer deposition (ALD) of ternary ferrites, specifically Ni xFe3-xO4 (nickel ferrite) and Co xFe3-xO4 (cobalt ferrite), using well-behaved binary oxide ALD processes. The ALD process combines Fe2O3 and either NiO or Co3O4, with ozone as the oxygen source. The films are deposited at low temperatures (200-250 °C) and exhibit tunable magnetic properties depending on the stoichiometry. The process allows for the fabrication of air-stable, smooth, and conformal magnetic layers suitable for applications in spintronics, magnetic storage, and microwave devices.",
+  "evidence": "Here, we demonstrate the combination of two well-behaved binary oxide ALD processes (Fe2O3 and either NiO or Co3O4) to produce the air-stable ferrimagnetic oxides Ni xFe3-xO4 (nickel ferrite) and Co xFe3-xO4 (cobalt ferrite) directly using ALD. The homoleptic cyclopentadienyl complexes of Fe(II), Co(II), and Ni(II) (metallocenes, Cp2M) are combined with ozone for the ferrite ALD reactions. The ALD process for Co3O4 is usually carried out at slightly lower temperatures (100 to 400 °C) and results in a deposition rate of 0.5 Å per cycle. 13 Finally, deposition rates between 3.2 and 0.3 Å per cycle are obtained from 150 to 330 °C for nickel oxide. 2,14 Ozone is chosen in this work as the oxygen source in order to minimize carbon contamination and lower the deposition temperatures. 3,12,15 On the basis of the literature reports and our previous studies, 2,3,12-14 the deposition of Co xFe3-xO4 is investigated at 250 °C and that of Ni xFe3-xO4 at 200 °C in a Savannah reactor from Cambridge Nanotech."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-200",
+  "pressure": "300",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "Lucida D-100, NCD",
+  "evidence": "The ALD process sequence is as follows: Pulsing steps of the source materials (i.e., the precursor and reactants) are separated by 10 s of N2 purging. The precursor pulsing time is fixed to 1 s, the H2O pulsing time is varied from 0.1 to 1.0 s, and the O2 pulsing time is fixed to 1.0 s."
+}

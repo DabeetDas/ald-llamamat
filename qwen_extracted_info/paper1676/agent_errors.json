@@ -1,0 +1,4 @@
+{
+  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{   \"deposition_temperature_C\": 100,   \"pressure\": \"0.5 to 1 Torr\",   \"precursor_pulse_time_s\": 1,   \"coreactant_pulse_time_s\": 2,   \"purge_time_s\": 20,   \"number_of_cycles\": null,   \"reactor_type\": \"hot-wall viscous-flow tube reactor\",   \"evidence\": \"The reactant lines were heated to 60 °C in order'",
+  "film_properties": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": 50,   \"density_g_cm3\": null,   \"refractive_index\": null,   \"surface_roughness_nm\": null,   \"crystal_phase\": \"Amorphous\",   \"evidence\": \"The thickness is \\x1850 nm, consistent with the high-resolution images shown in the left-side panels.\" }'"
+}

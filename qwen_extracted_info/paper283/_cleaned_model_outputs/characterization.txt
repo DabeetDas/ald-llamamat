@@ -1,0 +1,4 @@
+{
+  "characterization_methods": ["Atomic Absorption Spectrometry (AAS)", "Instrumental Neutron Activation Analysis (INAA)", "X-ray Fluorescence Spectrometry (XRF)"],
+  "evidence": "Atomic absorption spectrometry (AAS) was used to calibrate the XRF intensity ratios. The accuracy of an analytical method can be assessed by analyzing a certified reference material. However, for a new metal-support pair, suitable reference materials seldom exist and the best alternative is to compare the results with those obtained by one or more independent techniques. Therefore instrumental neutron activation analysis (INAA) was used as a reference method to confirm the reliability of AAS method. X-ray fluorescence intensities of the samples were measured by a wavelength dispersive Philips PW 1480 spectrometer equipped with a chromium anode."
+}

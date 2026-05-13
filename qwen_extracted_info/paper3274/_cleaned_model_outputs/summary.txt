@@ -1,0 +1,8 @@
+{
+  "target_material": "MgF2, CaF2, LaF3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TiF4", "Mg(thd)2", "Ca(thd)3", "La(thd)3"],
+  "temperature_range": "225 °C–450 °C",
+  "summary": "A novel atomic layer deposition process for depositing metal fluoride thin films using TiF4 as a fluoride precursor and metal precursors such as Mg(thd)2, Ca(thd)3, and La(thd)3. The process was evaluated for optical and structural properties, with films deposited in a temperature range of 225 °C–450 °C. The study highlights the effectiveness of the ALD method in achieving good stoichiometry and low impurity levels, particularly at 350 °C–400 °C.",
+  "evidence": "A novel atomic layer deposition process for the preparation of ﬂuoride thin ﬁlms in a temperature range of 225 °C–400 °C is introduced. The ﬁlms were deposited using a new relatively safe ﬂuoride precursor TiF4, which has a low vapor pressure, is a solid at room temperature, and can thus be readily and safely handled and removed from the reactor exhaust gases. We present here a novel ALD process for depositing MgF2, CaF2, and LaF3 thin ﬁlms. The ﬁlms were grown between 225 °C and 450 °C. Mg(thd)2, Ca(thd)2, and La(thd)3 were used as metal precursors, and TiF4 was used as a novel ﬂuoride precursor. Good stoichiometry was obtained at 350 °C–400 °C with low impurity levels."
+}

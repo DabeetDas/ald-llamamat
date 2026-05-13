@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 210,
+  "pressure": "100 -500 mTorr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 12,
+  "purge_time_s": 12,
+  "number_of_cycles": null,
+  "reactor_type": "traveling-wave",
+  "evidence": "Al2O3 was deposited from trimethylaluminum (97%, Aldrich) and distilled water at 210 °C, using 1 s precursor pulses and a purge time of 12 s."
+}<|im_end|>

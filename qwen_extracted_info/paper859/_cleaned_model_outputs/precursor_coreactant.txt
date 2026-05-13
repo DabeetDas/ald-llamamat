@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "H2O", "Ti(OC2H5)4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "TiO2 ALD films were grown in a F120 commercial flow-type low-pressure (500 Pa) reactor employing titanium tetrachloride, TiCl4, and H2O as the metal and oxygen precursors. The metal precursor pulse, first purge, water pulse and the second purge times were 0.4, 0.5, 0.5 and 0.5 s, respectively. Nitrogen was used as the carrier and purging gas."
+}

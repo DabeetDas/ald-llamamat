@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "(EtCp)Ti(NMe2)3"
+  ],
+  "coreactants": [
+    "Ozone",
+    "D2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The text states: 'The deposition experiments consisted of sequential exposures of 1 and either ozone or D2O (99.9 at. % D, Sigma-Aldrich), with 10-min purges of purified N2 gas (500 sccm, <0.1 ppb O2) between each precursor pulse.'"
+}

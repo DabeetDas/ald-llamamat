@@ -1,0 +1,7 @@
+{
+  "precursors": ["H2N(CH2)3Si(OEt)3"],
+  "coreactants": ["H2O", "O3"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "Based on the NH3-catalyzed hydrolysis of tetraethoxysilane (Si(OEt)4), chemical intuition dictates that a triethoxysilane bearing an aminoalkyl moiety be readily hydrolyzed without any extraneous catalyst. The basic functionality will labilize the strong Si/C0O bonds, a phenomenon that can be called “self-catalysis” to emphasize the fact that one chemical species is both substrate and catalyst. Subsequent oxidative cleavage of the tethered moiety should afford a silanol, amenable to further reaction with aminoalkyltriethoxysilane molecules. Accordingly, a three-step reaction sequence based on 3-aminopropyltriethoxysilane, water, and ozone (O3) can be envisioned for the ALD of SiO2 (Scheme 1)."
+}

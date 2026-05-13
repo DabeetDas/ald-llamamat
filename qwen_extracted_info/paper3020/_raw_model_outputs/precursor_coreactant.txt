@@ -1,0 +1,7 @@
+{
+  "precursors": ["HfCl4", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "HfCl4 is a solid at room temperature. It was heated to approximately 185°C to achieve sufficient vapor pressure for the HfCl4 pulses. The H2O bubbler was kept at 18°C. The pulse times were varied from the standard pulse length (0.3 s) to several minutes. For the long H2O pulse times, the post-H2O purge times were also elongated to several minutes to ensure that the precursor pulses remained well-separated."
+}<|im_end|>

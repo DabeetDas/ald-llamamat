@@ -1,0 +1,8 @@
+{
+  "target_material": "Ta2O5",
+  "process_type": "ALD",
+  "main_precursors": ["Ta(NtBu)(tBu2pz)3", "ozone"],
+  "temperature_range": "300-450 °C",
+  "summary": "The study describes the use of a pyrazolate-based tantalum precursor, Ta(NtBu)(tBu2pz)3, for the atomic layer deposition (ALD) of Ta2O5 thin films. The process exhibits an ALD window between 300 and 450 °C, demonstrating the exceptional thermal stability of the precursor. The films show low impurity incorporation and smooth surface morphology, with a constant growth rate of approximately 0.30 Å/cycle within the ALD window.",
+  "evidence": "The deposition of Ta2O5 thin films on silicon substrates by ALD was studied using 1 as the tantalum precursor and ozone as the oxygen source. The growth rate was approximately 0.30 Å/cycle for substrate temperatures between 300 and 450 °C. Observation of such a temperature range of constant growth rate is a common feature of many ALD processes and has been referred to as the 'ALD window'."
+}<|im_end|>

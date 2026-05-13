@@ -1,0 +1,8 @@
+{
+  "target_material": "La12xCaxMnO3",
+  "process_type": "ALD",
+  "main_precursors": ["Mn(thd)3", "La(thd)3", "Ca(thd)2", "ozone"],
+  "temperature_range": "200–330 uC",
+  "summary": "The study describes the atomic layer deposition (ALD) of La12xCaxMnO3 thin films using Mn(thd)3, La(thd)3, Ca(thd)2, and ozone as precursors. The process type is ALD, and the temperature range for growth is 200–330 uC. The films are deposited on various substrates, and the study investigates the effect of precursor stoichiometry on the resulting film composition. The films are found to be low in carbonate impurities, and the study demonstrates the feasibility of ALD for growing multicomponent manganite films with controlled stoichiometry.",
+  "evidence": "Thin films of calcium substituted lanthanum manganite (La12xCaxMnO3) have been synthesised by the ALD (atomic layer deposition) technique using Mn(thd)3, La(thd)3, Ca(thd)2, and ozone as precursors. The effect of each of these precursors on the product stoichiometry has been investigated, and ALD type growth was achieved in the temperature range 200–330 uC."
+}

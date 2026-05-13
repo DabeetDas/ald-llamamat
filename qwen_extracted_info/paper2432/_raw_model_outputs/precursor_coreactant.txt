@@ -1,0 +1,7 @@
+{
+  "precursors": ["dimethyl cadmium (DMCd)", "H2S"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The process pressure was 2*10−1 torr with high-purity N2 (flow rate = 10 sccm) as the carrier and purging gas. The optimized ALD cycle settings for CdS films were followed with a 0.015 s pulse of H2S, a 10 s purge of N2, a 0.015 s pulse of DMCd and a 10 s purge of N2."
+}<|im_end|>

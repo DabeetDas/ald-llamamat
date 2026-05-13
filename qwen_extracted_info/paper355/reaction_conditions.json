@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The desorption of GaCl from GaAs surfaces is observed, with two peaks at 220 and 330°C for (100) 2x4, 4x6 and (111)A 2x2 surfaces, and a single peak at 330°C for the (111)B surface. The peaks are assigned to adsorption on Ga and As sites, respectively. The self-limiting process in chloride atomic layer epitaxy (ALE) is discussed, suggesting that GaCl adsorbs on both Ga and As sites, with desorption temperatures indicating different adsorption energies.",
+  "intermediate_species": [
+    "GaCl"
+  ],
+  "evidence": "The authors discuss the self-limiting process in chloride atomic layer epitaxy (ALE), suggesting that GaCl adsorbs on both Ga and As sites, with desorption temperatures indicating different adsorption energies. The desorption peak temperatures are used to calculate the adsorption energy of GaCl, with values of 38 kcal/mol for the As site and 32 kcal/mol for the Ga site."
+}

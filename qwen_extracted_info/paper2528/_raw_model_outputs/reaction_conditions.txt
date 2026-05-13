@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Ni–O‡H* + Ni(H2O)2 → Ni–O‡H---Ni(H2O)2*",
+    "Ni-O‡H–Ni(H2O)2* + H2O → Ni–O‡–Ni–O†H* + 2 dmampH↑"
+  ],
+  "surface_mechanism_description": "The Ni–OD–Ni(H2O)2* surface species are formed on the top layer during the Ni(H2O)2 pulse without the Ni(H2O)2 precursor being chemically decomposed. Second, the Ni–O–Ni–OD* surface species are mainly formed during the D2O pulse, with the concurrent production of dmampD by the reaction between the Ni-OD–Ni(H2O)2* surface species and D2O.",
+  "intermediate_species": [
+    "Ni–OD–Ni(H2O)2*",
+    "Ni–O–Ni–OD*",
+    "dmampH",
+    "dmampD"
+  ],
+  "evidence": "The existence of the coordinative bonding was then indirectly investigated by use of Fourier transform infrared spectroscopy of the Ni(H2O)2 precursor. When the precursor was exposed to the air and its IR spectra (not shown) were obtained, all the absorption bands pertaining to the Ni(H2O)2 precursor and the OH group were consistently observed. When this air-exposed precursor was heated in an oven at 120 °C for 5 min and then examined again, the bands due to the Ni(H2O)2 precursor remained unchanged but the bands due to the OH group disappeared. This indicates that the Ni(H2O)2 precursor is stable with some H2O molecules coordinated. Several complexes of Ni have been shown to have six coordination. Ni(H2O)2 exists in the solid state as a monomer with a square planar Ni environment and this structure may allow the precursor to be coordinated to the surface hydroxyl species through the Ni center in its ALD reaction."
+}<|im_end|>

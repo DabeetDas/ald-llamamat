@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "HfCl2[N(SiMe3)2]2"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Bis(dimethylamino)[(methylamino dimethylsilyl)methylcyclopentadienyl] hafnium(IV) (DNSHf, Hf[η5:η1-Cp(CH2)(SiMe2)NMe](NMe2)2, where Cp = C5H4, Me = CH3; Figure 1(a)) was employed as the single source precursor for Hf and Si, and O2 plasma as the oxygen source, respectively. High-purity Ar gas (99.999%) and O2 gas (99.99%) were employed as the purge and carrier gases;"
+}

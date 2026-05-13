@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminum (TMA)"],
+  "coreactants": ["H2O", "O3"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The analyses were performed on Al2O3 samples deposited by ALD with trimethylaluminum (TMA) as the metal precursor and either H2O or O3 as oxidation precursor on arsenic doped silicon."
+}

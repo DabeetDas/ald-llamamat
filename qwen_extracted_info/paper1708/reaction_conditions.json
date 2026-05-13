@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process allows for the self-limiting deposition of precursor molecules, which shrinks the pore size by stopping the deposition when the precursor molecules cannot penetrate into the pore. The pore size remains near the same size of the precursor molecule, which determines the self-limited pore size.",
+  "intermediate_species": [
+    "TiO2 film"
+  ],
+  "evidence": "The ALD process compensates for this limitation by allowing highly controllable and conformal film deposition at the nanometer scale, which is used to shrink the pore size. The self-limiting process of the precursor molecules allows us a wide process window for uniform nanopore structures."
+}

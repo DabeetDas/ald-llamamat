@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 250,
+ "pressure": "",
+ "precursor_pulse_time_s": 1,
+ "coreactant_pulse_time_s": 3,
+ "purge_time_s": 3,
+ "number_of_cycles": null,
+ "reactor_type": "traveling-wave-type ALD reactor (Ever-tek. Co, Plus-100)",
+ "evidence": "The precursor (TisOC3H7)4, TTIP), and oxidant (O3) pulse durations were 1 and 3 s, respectively, and a 3 s long Ar purge was used between each chemical pulse."
+}<|im_end|>

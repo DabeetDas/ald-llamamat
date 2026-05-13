@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Ni(amd)2 + surface hydroxyls -> Ni−O bonds + Hamd"
+  ],
+  "surface_mechanism_description": "The Ni(amd)2 precursor reacts with surface hydroxyl groups to form Ni−O bonds and produce the byproduct Hamd. The surface reaction can proceed at room temperature, and the decomposition of the amidinate moiety starts at 250 °C. The desorption of Hamd begins at 150 °C and is mostly completed at 200 °C. The amidinate moiety remains intact up to 200 °C but starts to decompose at 250 °C, leading to the formation of alkyl or alkenyl carbon residues.",
+  "intermediate_species": [
+    "Ni−O bonds",
+    "Hamd (N,N′-di-tert-butylacetamidine)",
+    "surface hydroxyls"
+  ],
+  "evidence": "The surface reaction of Ni(amd)2 with surface hydroxyl groups to form Ni−O bonds and produce the byproduct Hamd was observed. The desorption of Hamd started at 150 °C and was mostly completed at 200 °C. The decomposition of the amidinate moiety was suggested to involve the scission of C−N bonds, forming surface alkyl or alkenyl groups. The Ni(amd)2 vapor could react with the SiOx surface at room temperature to afford both the O−Ni−amd and O−Ni−O moieties on the surface, and the reaction could also afford the byproduct Hamd which could be adsorbed on the surface."
+}

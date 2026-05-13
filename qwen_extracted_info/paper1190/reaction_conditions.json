@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involved in the ALD process for BiFeO3 synthesis are not explicitly detailed in the text, but the general mechanism involves the sequential pulsing of metalorganic precursors (Bi(TMHD)3 and Fe(TMHD)3) with oxygen radicals. The metalorganic precursors react with the oxygen radicals to form the oxide layers on the substrate.",
+  "intermediate_species": [
+    "Bi(TMHD)3",
+    "Fe(TMHD)3",
+    "oxygen radicals"
+  ],
+  "evidence": "The text describes the use of metalorganic precursors (Bi(TMHD)3 and Fe(TMHD)3) and oxygen radicals in the ALD process for the synthesis of BiFeO3. It mentions the sequential pulsing of these precursors with oxygen radicals, indicating the reaction mechanism involves these species."
+}

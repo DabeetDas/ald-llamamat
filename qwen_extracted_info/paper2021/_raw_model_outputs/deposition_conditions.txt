@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "180-600",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall horizontal flow-type ALD reactor",
+  "evidence": "The ﬁlms were grown in a hot-wall horizontal ﬂow-type ALD reactor 29 onto ~100! oriented p-Si single-crystal substrates in the temperature range of 180–600 °C. Prior to deposition, the Si substrates were etched in hydroﬂuoric acid (5%–10% solution) for 30 s in order to remove the native SiO2 layer and then rinsed in deionized water. The pressure in the reactor was about 250 Pa. ZrCl4 (Alfa, 99.5%) was evaporated from an open boat held at 155 °C inside the reactor. The oxygen precursor vapor was generated from deionized water or aqueous solution of H2O2 (35%) in an external reservoir at room temperature and led into the reactor through needle and solenoid valves. Growth parameters established earlier6 were used to grow ZrO2 ﬁlms in this study. Both the ZrCl4 and oxygen precursor pulse lengths were 2 s. Purge times of 2 s were used after each precursor pulse."
+}<|im_end|>

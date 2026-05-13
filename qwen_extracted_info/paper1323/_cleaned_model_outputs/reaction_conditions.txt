@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The saturated surface reaction between Me2In(EDPA) and O2 plasma was confirmed at a stage temperature of 90 °C. The growth rate was achieved by varying the Me2In(EDPA) pulse time and O2 plasma pulse time. The optimal pulse conditions for the PEALD In2O3 process were determined to be a 12-s Me2In(EDPA) pulse, a 10-s Ar purge, a 5-s O2 plasma pulse, and a 5-s Ar purge.",
+  "intermediate_species": ["Me2In(EDPA)"],
+  "evidence": "The saturated surface reaction between Me2In(EDPA) and O2 plasma was confirmed at a stage temperature of 90 °C. By increasing the Me2In(EDPA) pulse time from 1 to 15 s, a saturated growth rate of 0.053 nm/cycle could be achieved at In precursor pulse lengths over 8 s. A comparable growth rate about 0.053 nm/cycle was also found by varying the O2 plasma pulse time within 3 −10 s at a fixed In precursor pulse time of 12 s."
+}

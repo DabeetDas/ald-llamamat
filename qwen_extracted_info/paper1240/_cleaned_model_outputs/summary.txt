@@ -1,0 +1,8 @@
+{
+  "target_material": "Pt",
+  "process_type": "ALD",
+  "main_precursors": ["Dimethyl(N,N-Dimethyl-3-Butene-1-Amine-N)Platinum (DDAP)", "O2"],
+  "temperature_range": "190 to 340 °C",
+  "summary": "Pt thin films were deposited using ALD with DDAP as the precursor and O2 as the reactant. The process showed a high growth rate of 0.85 Å/cycle at 280 °C and a low resistivity close to bulk Pt. The study demonstrated the effectiveness of DDAP in achieving uniform and high-quality Pt films with good step coverage and low impurities.",
+  "evidence": "The growth rate increased with increasing deposition temperature and became saturated above 280 °C, showing a high growth rate of 0.85 Å /cycle. A very low resistivity, close to the value of bulk Pt, was obtained for all Pt thin films deposited at various temperatures. The Pt thin films were also deposited on a high-aspect-ratio substrate and showed good uniformity and step coverage."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of trimethylaluminum (TMA) and tris(isopropylcyclopentadienyl) lanthanum [La(iPrCp)3] precursors followed by water pulse to regenerate OH sites. The La precursor pulse time and oxidant pulse time influence the formation of La-Al-O bonds and the reduction of La-hydroxide and La-silicate formation.",
+  "intermediate_species": ["La-OH", "La-Al-O", "La-Si-O", "Al-O-Al", "La-O-La"],
+  "evidence": "The text discusses the surface reactions involving the adsorption of TMA and La(iPrCp)3 precursors, followed by water pulse to regenerate OH sites. It mentions the formation of La-Al-O bonds, La-OH, La-Si-O, Al-O-Al, and La-O-La as intermediate species during the ALD process."
+}<|im_end|>

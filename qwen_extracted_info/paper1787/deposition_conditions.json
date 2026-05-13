@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 50,
+  "coreactant_pulse_time_s": 50,
+  "purge_time_s": 5,
+  "number_of_cycles": 4,
+  "reactor_type": "OpALTM",
+  "evidence": "The ZnO:B ALD process details will follow in section 4.1 . The ZnO:Al ALD processes using DMAI and TMA as doping precursors are described elsewhere.35,82. The saturation GPSC was ~0.61 nm/supercycle. The TIB and H2O doses (Fig. 2a and 2c , respectively) both reached saturation at pulse times of ~50 ms . It would be expected that longer precursor doses would increase the GPSC until the process is saturated. However, the TIB dose ( Fig. 2a ) showed a drop in GPSC such that , after saturation , it was ~0.12 nm/supercycle lower than that for the intrinsic ZnO process ( i.e., TIB dose = 0 s in Fig. 2a ) at 150 °C (GPSC = 0.73 nm/supercycle, corresponding to 4 DEZ cycles). The water dose ( Fig. 2c) showed a gradual increase in GPSC, which is typical of water doses. Purge times of 5 s were necessary to remove the volatile reaction products and the excess precursor ( Fig. 2b and d). These dosing/purging times for the B doping process ( i.e. TIB and DI-H2O doses of 50 ms separated by purge steps of 5 s) were used for all further experiments."
+}

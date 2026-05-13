@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "TEG (triethyl-gallium)",
+    "AsH3 (arsine)",
+    "DETe (diethyl-tellurium)"
+  ],
+  "coreactants": [
+    "AsH3 (arsine)"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The dopant precursor used is DETe for n-type growth on GaAs (001). The growth mode was AsH3 supply for 10s, TEG for 1s and DETe for 1s followed by the 2s evacuation, as 10’’ AsH3–2’’–1’’ TEG–2’’–1’’ DETe–2’’ which was effective for higher electron concentration with doping."
+}

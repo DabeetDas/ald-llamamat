@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the sequential adsorption and reaction of metal precursors followed by water pulses. The growth cycle consists of metal precursor exposure, purge, oxygen precursor exposure, and another purge. The saturation of the substrate surface with adsorbing species ensures surface-controlled growth. The reaction steps include the adsorption of metal precursors, followed by a water pulse to regenerate surface hydroxyl groups.",
+  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum", "formate species"],
+  "evidence": "The ALE growth is based on alternate self-limited adsorption of precursors on the substrate surface. One metal oxide growth cycle in the ALE process consists of the metal precursor exposure, the first purge period, oxygen precursor exposure, and the second purge period. The saturation of the substrate surface with the adsorbing species ensures a surface-controlled growth. The reaction steps include the adsorption of metal precursors, followed by a water pulse to regenerate surface hydroxyl groups."
+}

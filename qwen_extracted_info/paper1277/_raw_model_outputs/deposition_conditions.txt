@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "13 mTorr",
+  "precursor_pulse_time_s": 6,
+  "coreactant_pulse_time_s": 11,
+  "purge_time_s": 1,
+  "number_of_cycles": 1000,
+  "reactor_type": "home-built ALD reactor with remote inductively-coupled plasma (ICP) source",
+  "evidence": "The reactor is equipped with a remote inductively-coupled plasma (ICP) source and a turbo pump reaching a base pressure of ~10^-6 Torr. During all experiments, the temperature of the substrate table was set to 300 °C, while the walls were heated to 100 °C."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the self-limiting monolayer adsorption of stable monomethylgallium (MMG) and the exchange reaction of TEG and AsH3 shifted to higher temperatures. The adsorbate GaC2H5 is formed on the wafer during or after TEG supply, and the time required for Ga-C2H5 to release an ethyl group may be longer than 1s. The adsorbed Ga-C2H5 acts to prevent the multilayer deposition of Ga and reacts with AsH3 during AsH3 supply to form a monolayer of GaAs. The surface exchange reaction of DETe/DESe and arsenic hydride fixes Te/Se.",
+  "intermediate_species": [
+    "Ga-C2H5",
+    "arsenic hydride",
+    "monomethylgallium (MMG)"
+  ],
+  "evidence": "In another investigation, the surface reaction mechanism of GaAs MLE using the TEG–AsH3 system was studied, and the average lifetime of the arsenic compound produced from the AsH3 supply, and the lifetime of the ethyl-gallium compound produced from TEG were estimated as 8 and 2s, respectively, at the substrate temperature of 2701C. The adsorbate GaC2H5 is formed on the wafer during or after TEG supply at the temperature of 2701C, and the time required for Ga-C2H5 to release an ethyl group may be longer than 1s. The adsorbed Ga-C2H5 acts to prevent the multilayer deposition of Ga, and reacts with AsH3 during AsH3 supply to form a monolayer of GaAs. The surface exchange reaction of DETe/DESe and arsenic hydride fixes Te/Se."
+}

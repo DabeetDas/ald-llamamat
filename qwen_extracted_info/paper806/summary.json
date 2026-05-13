@@ -1,0 +1,12 @@
+{
+  "target_material": "Indium oxide (InOx)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "diethyl[1,1,1-trimethyl-N-(trimethylsilyl)silanaminato]-Indium",
+    "[3-(dimethylamino-kN)propyl-kC]dimethyl-Indium",
+    "triethyl indium (TEIn)"
+  ],
+  "temperature_range": "Below 100 °C",
+  "summary": "Indium oxide thin films were deposited using low temperature atomic layer deposition (ALD) with liquid precursors and ozone as the oxidant. The study aimed to investigate the electrical, structural, and optical properties of the films grown at different temperatures and with different precursors.",
+  "evidence": "Transparent conducting Indium oxide (InOx) thin films were deposited by atomic layer deposition at low deposition temperatures below 100 °C. For the comparative study with liquid precursors in low temperature thermal ALD, diethyl[1,1,1-trimethyl-N-(trimethylsilyl)silanaminato]-Indium, [3-(dimethylamino-kN)propyl-kC]dimethyl-Indium, and triethyl indium (TEIn) were used as the In precursors. Ozone was used as the oxidant for all precursors."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Nickel (Ni)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["(η3-cyclohexenyl)(η5-cyclopentadienyl)nickel(II) [Ni(Chex)(Cp)]", "NH3"],
+  "temperature_range": "320 −340 °C",
+  "summary": "The study describes a thermal ALD process for depositing nickel using a novel heteroleptic Ni precursor, Ni(Chex)(Cp), and NH3 as a reactant. The process was carried out within a temperature range of 320−340 °C, and a self-limiting growth rate of 1.1 Å/cycle was observed. Postannealing in a H2 ambient environment improved the quality of the Ni film, resulting in a low resistivity of 44.9 μΩcm. The process was also applied to graphene, where Ni was selectively deposited on defects such as wrinkles and grain boundaries.",
+  "evidence": "ABSTRACT: Atomic layer deposition (ALD) of Ni was demonstrated by introducing a novel oxygen-free heteroleptic Ni precursor, (η3-cyclohexenyl)(η5-cyclopentadienyl)nickel-(II) [Ni(Chex)(Cp)]. For this process, non-oxygen-containing reactants (NH3 and H2 molecules) were used within a deposition temperature range of 320 −340 °C. Typical ALD growth behavior was confirmed at 340 °C with a self-limiting growth rate of 1.1 Å/cycle. Furthermore, a postannealing process was carried out in a H2 ambient environment to improve the quality of the as-deposited Ni film. As a result, a high-quality Ni film with a substantially low resistivity (44.9 μΩcm) was obtained, owing to the high purity and excellent crystallinity. Finally, this Ni ALD process was also performed on a graphene surface. Selective deposition of Ni on defects of graphene was confirmed by transmission electron microscopy and atomic force microscopy analyses with a low growth rate (∼0.27 Å/cycle)."
+}

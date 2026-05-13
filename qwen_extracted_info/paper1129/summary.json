@@ -1,0 +1,11 @@
+{
+  "target_material": "Ruthenium (Ru)",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "IMBCHRu",
+    "N2/H2 plasma"
+  ],
+  "temperature_range": "270 °C",
+  "summary": "Ruthenium (Ru) thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) with IMBCHRu as a precursor and N2/H2 plasma as a reactant. The study investigated the effects of varying the N2/H2 gas ratio on the properties of the Ru films, including resistivity, crystallinity, and microstructure. The films showed low resistivity and good step coverage, making them suitable for applications as a seed layer for Cu electroplating.",
+  "evidence": "Ruthenium (Ru) thin ﬁlms were grown by atomic layer deposition using IMBCHRu [( η6-1-Isopropyl-4MethylBenzene)(η4-CycloHexa-1,3-diene)Ruthenium(0)] as a precursor and a nitrogen –hydrogen mixture (N2/H2) plasma as a reactant, at the substrate temperature of 270 °C. ... The deposited ﬁlm was also evaluated as a seed layer for Cu electroplating."
+}

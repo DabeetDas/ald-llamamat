@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 370,
+  "pressure": "0.7 ± 0.2 Torr",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "traveling wave-type ALD reactor (CN-1 Co, Plus-100)",
+  "evidence": "The ALD subcycle process for TiO2 sequentially consisted of precursor injection (3 s), Ar purge (5 s), O3 injection (2 s), and Ar purge (5 s), which was confirmed to be consistent with the saturated ALD conditions. The thin film growth temperature (Tg) was set at 370 °C, and bare Si (containing native oxide), Ru (30 nm)/Ta2O5 (8 nm)/SiO2(100 nm)/Si, or Pt (50 nm)/Ti (20 nm)/SiO2 (200 nm)/Si wafers were used as substrates."
+}

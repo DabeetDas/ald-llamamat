@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Fe(hfa)2TMEDA"
+  ],
+  "coreactants": [
+    "oxalic acid",
+    "water",
+    "ozone"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "De-ionized water (type 2), anhydrous oxalic acid (Sigma-Aldrich >99%), and O3, produced from 99.8% O2 (AGA) in an In USA 2025 ozone generator, were used as co-reactants. N2 was used as carrier and purging gas, and was separated from air in a nitrogen generator (Schmidlin UHPN3001 N2 puriﬁer, >99.999% N2 + Ar purity)."
+}

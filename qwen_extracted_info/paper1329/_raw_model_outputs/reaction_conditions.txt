@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "TMGa + InO* → Ga(CH3)2 + CH4 + InO*",
+    "InCA-1 + H2O2 → InO* + byproducts"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption and decomposition of trimethylgallium (TMGa) on a hydroxylated indium oxide (InOx) surface, leading to the formation of Ga(CH3)2 and CH4. The InOx surface, generated via an InCA-1–H2O2 sequence, facilitates spontaneous decomposition of TMGa. The mechanism also includes ligand exchange between TMGa and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The presence of InOx surface functionality enhances the reactivity of TMGa, enabling gallium incorporation into the IGO thin films.",
+  "intermediate_species": [
+    "Ga(CH3)2",
+    "CH4",
+    "InO*",
+    "surface hydroxyls",
+    "hydroxylated InOx"
+  ],
+  "evidence": "The text describes the decomposition of TMGa on a hydroxylated InOx surface, leading to the formation of Ga(CH3)2 and CH4. It also mentions the role of surface hydroxyls in ligand exchange and regeneration during the ALD process. The mechanism is supported by density functional theory (DFT) calculations and experimental observations of gallium incorporation into IGO thin films."
+}<|im_end|>

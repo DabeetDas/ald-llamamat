@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "bis(1-dimethylamino-2-methyl-2-butoxy) nickel (II) [Ni(dmamb)2]",
+    "H2S"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "A new ALD chemistry is proposed using bis(1-dimethylamino-2-methyl-2-butoxy) nickel (II) [Ni(dmamb)2] and H2S as precursors. ... The deposition/growth process of the Ni3S2 consists of four reaction steps. First, the surface of the substrate is exposed to vapors of Ni(dmamb)2, resulting in surface adsorption in a self-limiting manner. Second, high-purity N2 gas is introduced to purge the residual molecules. Third, the surface is exposed to H2S to form a layer of product. Finally, high-purity N2 gas is introduced again to purge the residual H2S in the chamber."
+}

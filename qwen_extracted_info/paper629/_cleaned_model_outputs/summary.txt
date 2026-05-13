@@ -1,0 +1,8 @@
+{
+  "target_material": "CaS",
+  "process_type": "ALD",
+  "main_precursors": ["Ca(thd)2", "H2S"],
+  "temperature_range": "300-390 8C",
+  "summary": "Polycrystalline CaS thin films were grown on Al2O3 films deposited on Si-wafer using atomic layer deposition (ALD). The study focused on the morphological features of the films, including roughness and crystallite size, to understand the growth mechanism. The growth temperature was found to influence the surface morphology and roughness. The films were characterized using AFM and SEM, with AFM providing detailed surface structure information.",
+  "evidence": "Polycrystalline CaS thin films were grown on Al O films deposited on Si-wafer using the atomic layer deposition ALD technique. The surface structure of these films was studied by AFM and compared with respective SEM images. The polycrystalline film surfaces comprise regular shaped crystallites. First report of a possible growth mechanism is presented, on studying the variation of morphological features i.e., roughness and size of crystallites with thickness and growth rate."
+}

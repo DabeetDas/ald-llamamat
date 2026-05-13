@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 80,
+  "density_g_cm3": null,
+  "refractive_index": "2.9 at 580 nm",
+  "surface_roughness_nm": "0.7 to 1.9",
+  "crystal_phase": "Polycrystalline",
+  "evidence": "Figure 8 is the field emission scanning electron microscope (FESEM) image from a film deposited at the top temperature, which shows the absence of any dramatic features. The inset in Figure 8 plots the root mean square (rms) roughness of films as determined by atomic force microscopy (AFM). Although the roughness increased with deposition temperature, the films were all quite smooth with roughness values ranging from 0.7 to 1.9 nm over the region explored. This trend is consistent with that reported by Park et al. for ALD synthesis of ZnO thin films using DEZ and oxygen plasma."
+}

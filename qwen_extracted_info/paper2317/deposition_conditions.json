@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Fiji F200-LL ALD Reactor (Ultratech/Cambridge NanoTech Inc.)",
+  "evidence": "GaN thin ﬁlms are deposited by HCPA-ALD, using trimethylgallium (GaMe3) as the Ga precursor and N2/H2 gas mixture (50/50 sccm) with 300 W of plasma power as the N precursor at a process temperature of 200 /C14 C."
+}

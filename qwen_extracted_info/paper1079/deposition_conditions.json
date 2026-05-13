@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "hot walled tube",
+  "evidence": "All depositions in this study were carried out at 300 °C. ... The accumulation time of each spectrum acquisition was 0.1 s for low loss spectrum and 5.0 s for core-loss spectrum."
+}

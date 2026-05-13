@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "tetrakis-diethylamido-hafnium [Hf(N(C2H5)2)4]",
+    "tetra-n-butyl-orthosilicate [Si(OC4H9)4]"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "Argon (99.9995%)"
+  ],
+  "carrier_gas": [
+    "Argon (99.9995%)"
+  ],
+  "evidence": "HfSixOy films were deposited by ALCVD at 300 /C14 C using an alternating supply of tetrakis-diethylamido-hafnium [Hf(N(C2H5)2)4] and tetra-n-butyl-orthosilicate [Si(OC4H9)4] on /C24 6 nm Al2O3/Si (100). Argon (99.9995%) was used as a buffer flow to keep the flow uniform and also as the carrier gas to transport source vapors into the reactor."
+}

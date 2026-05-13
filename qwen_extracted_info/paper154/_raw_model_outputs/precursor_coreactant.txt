@@ -1,0 +1,7 @@
+{
+  "precursors": ["tert-butylimido-tris(diethylamido)-tantalum (TBTDET)"],
+  "coreactants": ["hydrogen"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "TBTDET and hydrogen were used as the Ta precursor and reducing agent, respectively. Argon (99.99995%) was used as a carrier and purge gas."
+}<|im_end|>

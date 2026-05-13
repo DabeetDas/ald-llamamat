@@ -1,0 +1,11 @@
+{
+  "target_material": "niobium nitride",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "(tert-butylimido)-tris(diethylamino)-niobium (TBT-DEN)",
+    "hydrogen plasma"
+  ],
+  "temperature_range": "350 °C",
+  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to fabricate niobium nitride (NbN) thin films for superconducting nanowire single-photon detectors (SNSPDs). The ALD technique allows for conformal coverage and wafer-scale fabrication, which is beneficial for novel device concepts. The films were characterized for their transport properties and single-photon response, showing promising results for detector applications.",
+  "evidence": "We demonstrate and characterize superconducting nanowire single-photon detectors (SNSPDs) made from atomic layer-deposited (ALD) NbN layers. ... The ALD technique could open up the possibility to fabricate NbN-based detectors on the wafer scale and to conformally cover also non-planar surfaces for novel device concepts."
+}

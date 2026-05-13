@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "300°C",
+  "summary": "The study compares 5-nm-thick HfO2 films synthesized by atomic layer deposition (ALD) and metal-organic chemical vapor deposition (MOCVD) on Si(100) substrates. X-ray photoelectron spectroscopy (XPS) and X-ray reflectometry were used to analyze the films. The ALD-grown films were found to be amorphous, while the MOCVD-grown films showed signs of crystallinity. The ALD films were more prone to contamination and had a lower interfacial silicon dioxide content compared to the MOCVD films. The study highlights the differences in microstructure and interface properties between the two synthesis methods.",
+  "evidence": "The text states that HfO2 films were deposited on substrates kept at 300°C using HfCl4 and H2O as precursors for ALD. It also mentions that the ALD-grown films are amorphous, while the MOCVD-grown films show signs of a crystal structure. Additionally, the study found that the amount of interfacial silicon dioxide in the MOCVD-grown film is greater than in the ALD-synthesized films."
+}

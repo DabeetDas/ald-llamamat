@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "420",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "ALD",
+  "evidence": "The resistivity increases with decreasing thickness due to the increasing impact of surface and grain boundary scattering. The dependence of the Ru resistivity on the film thickness both as deposited and after annealing for 420 °C for 20 min in forming gas is shown in Figure 1h."
+}

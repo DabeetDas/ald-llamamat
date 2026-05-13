@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Di(sec-butylamino)silane (DSBAS, SiH3N(sBu)2)"
+  ],
+  "coreactants": [
+    "N2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "During precursor dosage, DSBAS was vapour drawn into the reaction chamber using Ar (25 sccm, purity 99.999%) as a carrier gas in the delivery line."
+}

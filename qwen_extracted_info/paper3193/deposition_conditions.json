@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "0.3 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 90,
+  "reactor_type": "flow-type ALD reactor",
+  "evidence": "TiO2 was deposited at a substrate temperature of 250°C by alternatively dosing the vapors from TTIP and H2O2. A trimethylaluminum dose was inserted every 90 cycles of TiO2 to provide aluminum doping to decrease the leakage current."
+}

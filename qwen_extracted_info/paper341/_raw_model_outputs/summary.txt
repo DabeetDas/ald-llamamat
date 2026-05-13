@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Trimethylgallium (TMG)", "Trimethylaluminum (TMA)", "10% AsH3 in H2"],
+  "temperature_range": "500°C to 600°C",
+  "summary": "The study describes the use of AlAs buffer layers grown by atomic layer epitaxy (ALE) to improve the quality of GaAs on Si substrates. The ALE process involves the deposition of GaAs and AlAs layers using specific precursors and temperature ranges. The results indicate that initiating growth from AlAs rather than GaAs improves the quality of the buffer layers and the resulting GaAs layers.",
+  "evidence": "We have developed a new GaAs on Si structure with a thin AlAs buffer layer which was grown by atomic layer epitaxy (ALE). The characteristics of two types of ALE layers, GaAs and AlAs, were studied. We have found that single crystals of GaAs and AlAs layers can be grown directly onto Si substrates. The ALE-AlAs buffer layer will help improve the quality of GaAs on Si."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "substrate_material": "Si(100)",
+  "substrate_orientation": "100",
+  "pretreatment": "NH4OH/H2O2/H2O (1:1:4) at 348 K for 10 min, HCl/H2O2/H2O (1:1:4) at 348 K for 10 min, HF/H2O (1:4) at room temperature for about 2 min, and solution 2 at 348 K for 10 min",
+  "surface_functionalization": "hydroxylated",
+  "evidence": "The Si(100) substrates were first etched by NH4OH/H2O2/H2O in a 1:1:4 ratio (solution 1) at 348 K for 10 min. Subsequently, the substrates were etched by HCl/H2O2/H2O in a 1:1:4 ratio (solution 2) at 348 K for 10 min. The substrates were then etched by HF/H2O in a 1:4 ratio (solution 3) at room temperature for about 2 min. Finally, the substrates were etched again using solution 2 at 348 K for 10 min. This treatment is believed to create an ultrathin SiO2 film with a thickness of ~15 Å with hydroxyl groups on the surface."
+}<|im_end|>

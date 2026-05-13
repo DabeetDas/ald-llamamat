@@ -1,0 +1,10 @@
+{
+  "precursors": [
+    "diethyl zinc (DEZ)",
+    "bis(N,N0-disec-butylacetamidinato)dicopper(I) {[Cu(sBu-amd)]2,Cu 2DBA}"
+  ],
+  "coreactants": [],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "ALD processes operate by alternating doses of different volatile reactants (e.g., cation and anion precursors) with purge steps in between."
+}

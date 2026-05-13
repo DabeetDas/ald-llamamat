@@ -1,0 +1,11 @@
+{
+  "target_material": "Cu (copper)",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "bis(2,2,6,6-tetramethyl-3,5-heptanedionato)copper(II)",
+    "hydrogen"
+  ],
+  "temperature_range": "235±3 °C",
+  "summary": "The study describes the use of thermal atomic layer deposition (ALD) to fabricate nanometer-spaced electrodes with subnanometer precision. Copper films were deposited using bis(2,2,6,6-tetramethyl-3,5-heptanedionato)copper(II) and hydrogen as precursors at a temperature of 235±3 °C. The process enables precise control of electrode spacing through in situ field emission and tunneling measurements. The ALD process was used to reduce the electrode spacing from 20–50 nm to 1–2 nm, with a growth rate of 0.05±0.01 nm per cycle. The study also examines the effects of temperature and air exposure on electrode spacing and barrier height.",
+  "evidence": "ALD is carried out using bis(2,2,6,6-tetramethyl-3,5-heptanedionato)copper(II) and hydrogen to deposit ALD copper films. The entire ALD chamber is heated to 120° C to prevent precursor condensation on the walls. The sample temperature is maintained at 235±3 °C, which is a selective growth window for Cu ALD where growth is observed only on the palladium seeded regions and not on SiO2 regions."
+}

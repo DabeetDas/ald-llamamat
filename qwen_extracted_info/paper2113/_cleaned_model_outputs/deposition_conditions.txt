@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "traveling-wave-type ALD reactor (Evertek. Co., Plus-100)",
+  "evidence": "HfO2 films were deposited using a 4-in-diameter scale traveling-wave-type ALD reactor (Evertek. Co., Plus-100) and Hf[N(CH3)2]4 and O3 as a precursor and an oxidant, respectively, at a wafer temperature of 300 °C on a (100)Si wafer."
+}

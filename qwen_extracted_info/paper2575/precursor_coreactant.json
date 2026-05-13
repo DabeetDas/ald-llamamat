@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Cu(H2O)2bis(2,2,6,6-tetramethyl-3,5-heptanedionate)"
+  ],
+  "coreactants": [
+    "H2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Cu/H20849II/H20850bis/H208492,2,6.6-tetramethyl-3,5-heptanedionate/H20850 was used as the precursor with pure hydrogen gas as the coreactant. Cu precursor and hydrogen pulses were each 10 s with a 10 s argon purge following each pulse."
+}

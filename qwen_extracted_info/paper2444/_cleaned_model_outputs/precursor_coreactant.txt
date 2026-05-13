@@ -1,0 +1,25 @@
+{
+  "precursors": [
+    {
+      "name": "Nb(OC2H5)5",
+      "full_name": "niobium pentaethoxide"
+    },
+    {
+      "name": "Si2(NHC2H5)6",
+      "full_name": "hexakis(ethylamino) disilane"
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "O3",
+      "full_name": "ozone"
+    }
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The silicon precursor used was hexakis(ethylamino)disilane, i.e. Si2(NHEt)6, AHEAD (Air Liquide, Inc.), evaporated at 65-67 oC. The niobium precursor, Nb(OC2H5)5, was evaporated at 90-93 oC. Both precursors were evaporated from open boats inside the reactor, and transported to the substrates by the N2 flow."
+}

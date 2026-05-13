@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350 –750",
+  "pressure": "1.3 kPa",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 6,
+  "number_of_cycles": null,
+  "reactor_type": "home-built flow-type ALD-CVD reactor",
+  "evidence": "In the case of ALD the pulse times were 4 s for SnI4, 6 s for the first N2 purge, 4 s for O2 pulse and 6 s for the second N2 purge in all depositions while both SnI4 and O2 were supplied simultaneously in the CVD process."
+}

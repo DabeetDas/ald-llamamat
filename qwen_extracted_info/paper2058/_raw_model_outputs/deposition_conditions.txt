@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "226-750",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall horizontal flow-type ALD reactor",
+  "evidence": "The films were grown in a hot-wall horizontal flow-type ALD reactor35 onto (100) oriented p-Si or n-Si single crystal substrates in the temperature range of 226–750 °C. Prior to deposition, the Si substrates were etched in 5% aqueous solution of hydrofluoric acid in order to remove the native SiO layer and then rinsed in distilled water. Reference series were grown on silicon substrates covered with chemically grown 1.2 nm thick SiO2. The pressure in the reactor was about 250 Pa and carrier gas flow rate 1.4 m/s, estimated at 300 °C."
+}<|im_end|>

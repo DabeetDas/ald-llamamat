@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "TiO2 + xLi+ + xe- T LixTiO2"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The electrochemical properties of the TiO2 hollow nanoribbon network are presented in Figure 3. Generally, a reversible Li insertion/extraction reaction in anatase TiO2 can be expressed by the following: TiO2 + xLi+ + xe- T LixTiO2 (1) During the Li insertion/extraction, a two-phase reaction occurs with phase equilibrium of the Li-poor Li0.01TiO2 phase and the Li-rich Li0.55TiO2 phase.31,32"
+}<|im_end|>

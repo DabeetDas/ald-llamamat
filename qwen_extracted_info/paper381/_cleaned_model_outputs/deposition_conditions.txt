@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "600-680",
+  "pressure": "1-50",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "UHV with high pressure chamber",
+  "evidence": "The atomic layer growth of SiO2 thin films on Si(100) was achieved at temperatures from 600-680 K with reactant pressures from 1-50 Tort."
+}

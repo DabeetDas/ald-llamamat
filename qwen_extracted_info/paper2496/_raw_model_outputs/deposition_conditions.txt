@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 70,
+  "pressure": "2.3 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Beneq TFS 500",
+  "evidence": "In this paper, the metal-alloy thin-film cryoresistors were coated with a 15-nm-thick alumina layer. In fact, not only was the resistor chip coated but the piece of the circuit board to which the chip was mounted and the bonding wires were also covered with the protective alumina film [Fig. 1(a)]. Only the desired contact areas that were covered with a specific masking tape during the alumina growth remained uncoated. In this case, the deposition temperature and pressure in the ALD reactor were 70◦C and 2.3 mbar, respectively."
+}<|im_end|>

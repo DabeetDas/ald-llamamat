@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "1-2 Torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 15,
+  "number_of_cycles": 200,
+  "reactor_type": "SYSKEY Ltd., Taiwan",
+  "evidence": "The growth cycle consists of precursor exposures and N2 purge following the sequence of DEZn/N2/H2O/N2 with corresponding duration of 5 s/15 s/5 s/15 s. The substrate temperature was maintained at 200/C176 C under a vacuum of 1-2 Torr during the deposition."
+}<|im_end|>

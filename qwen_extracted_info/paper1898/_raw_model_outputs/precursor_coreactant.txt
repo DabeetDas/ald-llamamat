@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminium"],
+  "coreactants": ["water vapor"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": [],
+  "evidence": "One ALD cycle consists of 0.03 s pulse of water vapor with 2 s hold, 65 s nitrogen at 20 sccm nitrogen flow, then trimethylaluminium was released and purged using the same parameters."
+}<|im_end|>

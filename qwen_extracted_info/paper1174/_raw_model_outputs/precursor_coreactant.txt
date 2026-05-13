@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis( t-butylimido)-bis(dimethylamido)tungsten", "nitrogen dioxide"],
+  "coreactants": ["water", "oxygen", "hydrogen peroxide", "ozone"],
+  "purge_gas": ["argon"],
+  "carrier_gas": ["argon"],
+  "evidence": "An ampoule containing (tBuN)2(Me2N)2W (Millipore Sigma, CAS 406462-43-9) is held at 75 °C. The vapor of this compound is delivered to the reaction chamber after mixing it with argon carrier gas. Apart from NO2, the other thermal oxygen sources studied for comparison purposes are water (H2O), oxygen (O2), and a 30% hydrogen peroxide/water solution (H2O2/H2O). All of these precursors are held at 25 °C and are delivered to the reaction chamber by vapor draw."
+}<|im_end|>

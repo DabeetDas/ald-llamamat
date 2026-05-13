@@ -1,0 +1,8 @@
+{
+  "target_material": "Al doped ZnO (AZO)",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["Diethyl zinc (DEZ)", "Deionized water (H2O)", "Tri-methyl aluminum (TMA)"],
+  "temperature_range": "250 ◦C",
+  "summary": "The study investigates the use of Al doped ZnO (AZO) films deposited by atomic layer deposition (ALD) as a transparent conductive anode for organic light emitting diodes (OLEDs). The films were deposited at various Al atomic ratios ranging from 0 to 5% at a deposition temperature of 250 ◦C. The optimal electrical properties were found for the 2% AZO film, with the best luminance, quantum efficiency, and current efficiency achieved in the OLED device using the 2% AZO TCO.",
+  "evidence": "AZO ﬁlms with a thickness of 100 nm were deposited at various Al atomic ratios ranging from 0 to 5% at a deposition temperature (250 ◦C). The optimum electrical properties: the carrier mobility, the resistivity, and the sheet resistance for the 2% AZO ﬁlm were found to be 16.2 cm 2 V−1 s−1, 1.5 × 10−3 cm−3, and 217/DEL/sq, respectively. The red OLED devices were fabricated using AZO anodes utilizing the various Al atomic ratios; the electrical and optical characteristics were then investigated. The best luminance, quantum efﬁciency, and current efﬁciency were found in the OLED device using the 2% AZO TCO; the results were 16599 cd/m 2, 8.2%, and 7.5 cd/A, respectively."
+}<|im_end|>

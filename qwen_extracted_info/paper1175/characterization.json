@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Auger Electron Spectroscopy (AES)",
+    "Scanning Electron Microscopy (SEM)",
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Diffraction (XRD)",
+    "X-ray Reflectivity (XRR)",
+    "Spectroscopic Ellipsometry"
+  ],
+  "evidence": "The chemical bonding and film composition are investigated by X-ray photoelectron spectroscopy (XPS, K-alpha+, Thermo Fisher Scientific Co) and elemental mapping by Auger electron spectroscopy (AES, PHI-700, ULVAC-PHI). The surface morphologies are measured by SEM and atomic force microscopy (AFM, XE-100, Park System). X-ray diffraction (XRD, Rigaku Model SmartLab, Rigaku Corporation) was used to identify the crystallinity of the film, and X-ray reflectivity (XRR) was used to calculate the density and thickness of the film. The Ru film thickness is measured by both spectroscopic ellipsometry (UV-FMS, Ellipso Technology) and XRR measurements."
+}

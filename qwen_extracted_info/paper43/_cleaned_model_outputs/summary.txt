@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO x",
+  "process_type": "ALD",
+  "main_precursors": ["tetrakis(dimethylamino)tin(IV) (TDMASn)", "H2O or O3"],
+  "temperature_range": "100 °C to 200 °C",
+  "summary": "The study demonstrates the use of tin oxide (SnO x) layers deposited by atomic layer deposition (ALD) as highly robust transparent and conductive gas diffusion barriers (TCGDBs). These layers maintain high conductivity and low water vapor transmission rates (WVTR) under damp heat conditions, making them suitable for applications in organic electronic devices such as OLEDs and solar cells.",
+  "evidence": "The conductivity of SnO x layers remains high even after 50 d under damp heat conditions (85 °C/85% RH), while the conductivity of ZnO drops by more than five orders of magnitude within 2 d. The WVTR of SnO x layers is on the order of 10 −6 g (m 2 day) −1 , comparable to the best non-conductive gas diffusion barriers."
+}

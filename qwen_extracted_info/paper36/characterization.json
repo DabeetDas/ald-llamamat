@@ -1,0 +1,16 @@
+{
+  "characterization_methods": [
+    "X-ray diffraction (XRD)",
+    "Atomic force microscopy (AFM)",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Ellipsometry",
+    "Four-point probe",
+    "Current-voltage (I-V) measurement",
+    "Transfer curve measurement",
+    "UV-Vis spectroscopy",
+    "Photoluminescence",
+    "Scanning electron microscopy (SEM)",
+    "Optical microscopy"
+  ],
+  "evidence": "The text mentions the use of X-ray diffraction (XRD) to analyze the crystalline quality of ZnO films, atomic force microscopy (AFM) to determine surface roughness, X-ray photoelectron spectroscopy (XPS) to study chemical composition, ellipsometry for optical properties, four-point probe for electrical measurements, transfer curve measurements for TFT characteristics, UV-Vis spectroscopy for photo-stability, photoluminescence for defect analysis, scanning electron microscopy (SEM) for morphology, and optical microscopy for pixel size measurement."
+}

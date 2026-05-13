@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [
+    "M-OH* + MLn ! M-O-MLn−1* + HL",
+    "M-L* + H2O ! M-OH* + HL"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "Equations (2) and (3) suggest that surface OH groups mediate the ALD growth though acting as reactive sites. This fact has been confirmed both experimentally and theoretically for all three MLn /H2O processes."
+}

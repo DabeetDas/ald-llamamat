@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Dehydroxylation reactions play a role in the surface passivation mechanism, as the decrease in GPC with increasing Tdep is mainly attributed to a decreasing density of OH surface groups due to dehydroxylation reactions. The interfacial oxide (SiOx) that forms between c-Si and Al2O3 is thought to play an essential role in the surface passivation properties of Al2O3.",
+  "intermediate_species": ["OH surface groups", "SiOx"],
+  "evidence": "The decrease in GPC with increasing Tdep can be mainly attributed to a decreasing density of OH surface groups due to dehydroxylation reactions. The interfacial oxide (SiOx) that forms between c-Si and Al2O3 is thought to play an essential role in the surface passivation properties of Al2O3."
+}<|im_end|>

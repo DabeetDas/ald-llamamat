@@ -1,0 +1,8 @@
+{
+  "target_material": "RuSiN",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["C16H22Ru (IMBCHRu)", "NH3 plasma", "tris(isopropylamino)silane (TIPAS)", "NH3 plasma"],
+  "temperature_range": "270°C",
+  "summary": "Nano-crystalline Ru-based ternary thin films, RuSiN, were fabricated by plasma-enhanced atomic layer deposition (PEALD) with repetitions of supercycles consisting of Ru and SiNx PEALD subcycles at 270°C. The films were characterized as having a nano-crystalline microstructure with Ru nanocrystals embedded in an amorphous SiNx matrix, and they were found to be viable candidates as a diffusion barrier for Cu direct plating in advanced interconnects.",
+  "evidence": "Formation of Nano-Crystalline Ru-Based Ternary Thin Films by Plasma-Enhanced Atomic Layer Deposition... RuSiN films were deposited using a showerhead-type PEALD reactor... The Ru and SiN x precursors were vaporized in bubblers at 100 and 30°C, respectively... The deposition was done at the wafer temperature of 270°C... The properties of the PEALD-RuSiN films were analyzed using various tools... Finally, Cu was electrodeposited directly onto an 8 nm thick PEALD-RuSiN film to test the feasibility of the film as a diffusion barrier for seedless Cu interconnects."
+}<|im_end|>

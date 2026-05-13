@@ -1,0 +1,7 @@
+{
+  "precursors": ["CuAMD"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ALD reactor was coupled to a N 2-ﬁlled glove box. Prior to the Cu 2S ALD, SWCNT powders were loaded into a porous container and placed in the reactor. The reactor was then purged using ultrahigh purity (UHP, 99.999%) nitrogen carrier gas at 10 sccm and a pressure of ~0.4 Torr. Next, the SWCNTs were functionalized using a 9-min O 3 treatment (5% in 500 sccm ultrahigh purity oxygen). The Cu 2S ALD was performed using a static (or exposure) mode where the Cu and S precursors were supplied alternatively with a purging period of pure N 2 ﬂow between each exposure."
+}

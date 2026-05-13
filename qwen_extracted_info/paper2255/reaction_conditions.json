@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the atomic layer deposition of HfO2, where the deposition process incrementally decreases the hole radii and increases the slab thickness. The process is self-limiting and deposits one atomic layer at a time, with a deposition rate of approximately 0.1 nm per minute. The formation of an interfacial layer between HfO2 and silicon during the first 20 ALD deposition cycles is noted.",
+  "intermediate_species": [
+    "HfO2 monolayers",
+    "interfacial layer between HfO2 and silicon"
+  ],
+  "evidence": "Prior to each deposition step, samples were cleaned with acetone, isopropanol, and UV ozone. The UV generated ozone was used to create a hydrophilic surface favorable for the ALD process. Monolayer films were deposited at a temperature of 200 °C using two precursors, tetrakis(diethylamido)hafnium and water (H2O) vapor, in alternating pulses. The process is self-limiting and deposits one atomic layer at a time, with deposition rate of approximately 0.1 nm per minute. As shown by the SEM image in Fig. 1(c), the ALD deposited film is high quality and uniform even inside of the air holes. Because ALD is a conformal process, each cycle incrementally decreases the hole radii and increases the slab thickness. The increase in brightness around the hole after ALD deposition is due to charging effects in the HfO2 during SEM imaging."
+}

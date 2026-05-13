@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectometry (XRR)",
+    "Energy-Dispersive X-ray Spectrometry (EDS)",
+    "Field-Emission Scanning Electron Microscope (FESEM)",
+    "GIXRD (Grazing Incidence X-ray Diffraction)",
+    "X-ray Diffraction (XRD)",
+    "Capacitance and Dielectric Loss Measurements",
+    "Leakage Current Measurements",
+    "Sawyer-Tower Q-V Measurements"
+  ],
+  "evidence": "A Bruker D8 Advance diffractometer/reflectometer was used both for measuring film thicknesses by X-ray reflectometry (XRR) and for the X-ray diffraction measurements. The film Bi/(Bi + Ti) cation fraction was measured with energy-dispersive X-ray spectrometry (EDS) and by using the GMRfilm program for the EDS data evaluation. A Hitachi S-4800 field-emission scanning electron microscope equipped with an Oxford Instruments INCA 350 EDS system was used for both FESEM imaging and gathering of the EDS data. Capacitances and dielectric losses were measured with a HP 4284A LCR meter. A Keithley 2400 SourceMeter was used for measuring leakage currents. A modified Sawyer-Tower circuit was used for Q-V measurements with an Agilent 33220A 20 MHz Arbitrary Waveform Generator serving as the 1 kHz sinusoidal signal source and with a National Instruments NI 5102 high-speed digitizer used for recording voltage signals."
+}

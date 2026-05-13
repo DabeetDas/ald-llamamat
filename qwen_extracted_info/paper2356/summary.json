@@ -1,0 +1,11 @@
+{
+  "target_material": "AlN",
+  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "N2:H2:Ar plasma"
+  ],
+  "temperature_range": "180 ○C to 250 ○C",
+  "summary": "The study describes the growth of AlN thin films using plasma-enhanced atomic layer deposition (PE-ALD) at low temperatures. The films were grown on nickel-coated silicon substrates using trimethylaluminum (TMA) and a mixture of N2:H2:Ar gases. The process parameters, including deposition temperature and purging time, were optimized to achieve a preferential (002) orientation, which is crucial for enhancing the piezoelectric response. The highest piezoelectric coefficient of 0.37 C/m² was achieved at 250 ○C with a purging time of 30 s.",
+  "evidence": "The effective transverse piezoelectric e31,f coefficient of 0.37 C/m² was achieved on the AlN film grown at 250 ○C and 30 s with the highest texture coefficient TC(002) of 2.75 along the c-axis orientation."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "275",
+  "pressure": "",
+  "precursor_pulse_time_s": "0.5",
+  "coreactant_pulse_time_s": "0.5",
+  "purge_time_s": "0.5",
+  "number_of_cycles": "200",
+  "reactor_type": "gas inlet placed over the center of the substrate wafer",
+  "evidence": "Relationship between the penetration and deposition conditions was investigated by using the MSX-F. Number of the deposition cycles was varied from 40 to 200 cycles (producing TaN films 2 – 10 nm thick on the SiO2), and exposure time of the PDMA T per cycle was varied from 0.5 to 2 s, and temperature of the substrate was from 250 to 300 °C."
+}

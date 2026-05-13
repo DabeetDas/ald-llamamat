@@ -1,0 +1,11 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2)",
+    "oxygen"
+  ],
+  "temperature_range": "270°C",
+  "summary": "Ruthenium thin films were deposited using atomic layer deposition (ALD) with bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2) and oxygen at 270°C. The relative ratio of Ru(EtCp)2 adsorbed on the film surface to the oxygen partial pressure determined whether the film was Ru or RuO2. The films showed excellent step coverage and suppressed interfacial contaminants, making them suitable as a glue layer for improving the adhesion of MOCVD copper to TiN.",
+  "evidence": "Ruthenium thin films were produced by atomic layer deposition ~ALD! using an alternating supply of bis ~ethylcyclopentadienyl!ruthenium @Ru(EtCp) 2# and oxygen at a deposition temperature of 270°C. The relative ratio of the Ru(EtCp) 2 adsorbed on the film surface to the oxygen partial pressure in the following oxygen pulse determines whether Ru or RuO 2 film was obtained. ... A peel-off adhesion test confirmed that an ALD ruthenium glue layer greatly improved interfacial adhesion of MOCVD copper to barrier metal of TiN."
+}

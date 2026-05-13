@@ -1,0 +1,7 @@
+{
+  "precursors": ["Si2H6", "Si2Cl6"],
+  "coreactants": [],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "Here, each growth cycle consists of separate exposure to Si2H6 and Si2Cl6. An initial Si2H6 exposure largely covers the Ge( 100) surface with Si. Thereafter, Si2Cl6 is dosed onto the H-terminated surface (30 s at 0.002 Torr), and Si2H6 is dosed onto the Cl-terminated surface (300 s at 0.005 Torr)."
+}

@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "480",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "2,4",
+ "reactor_type": "modified atmospheric pressure metalorganic chemical vapor deposition (MOCVD)",
+ "evidence": "The growth temperature for the ALE layers was 480\"C. The details of the ALE growth process have been reported previously. 12-15 To ensure that the InAs was deposited pseudomorphically (elastically strained), the well widths were kept below the critical thickness he for the onset of dislocation generation. In For this large lattice mismatch ( - 7.4% ), he is about 20 kif> As shown in Fig. 1, the growth consisted of first 180 cycles of GaAs (- 500 A) for the bottom confining layer. The TMG source was then turned off and the triethylindium (TEl) source was turned on. The InAs wells were then grown using either two or four cycles, each cycle corresponding to one monolayer of InAs. Then the TEl source was turned off, the TMG source turned on, and the 180 cycle ( - 5DO A) GaAs top confining layer was grown."
+}

@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The self-limiting characteristics of tin oxide PEALD growth are attributed to the surface reactions involving the TASn precursor and the oxidant plasma. The growth is self-limiting with a constant growth-per-cycle (GPC) of 0.046 ± 0.002 nm/cycle, indicating that the surface reactions are controlled by the saturation of surface sites. The mechanism involves the adsorption of the TASn precursor followed by plasma exposure, which leads to the formation of tin oxide through surface reactions.",
+  "intermediate_species": [
+    "TASn species",
+    "adsorbed surface O species"
+  ],
+  "evidence": "The self-limiting characteristics of tin oxide PEALD growth are attributed to the surface reactions involving the TASn precursor and the oxidant plasma. The growth is self-limiting with a constant growth-per-cycle (GPC) of 0.046 ± 0.002 nm/cycle, indicating that the surface reactions are controlled by the saturation of surface sites. The mechanism involves the adsorption of the TASn precursor followed by plasma exposure, which leads to the formation of tin oxide through surface reactions."
+}

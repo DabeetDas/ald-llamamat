@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetra-iso-cyanate-silane (Si(NCO)4)", "H2O"],
+  "temperature_range": "25 °C",
+  "summary": "The study describes the quasi-monolayer deposition of silicon dioxide (SiO2) using tetra-iso-cyanate-silane (TICS) and water as precursors. The process involves alternating exposure of the substrate to TICS and H2O, leading to self-limited monolayer growth. The growth rate was found to be approximately 0.17 nm per cycle, and the film's properties were analyzed using various spectroscopic techniques.",
+  "evidence": "SiO2 films were deposited layer by layer from a new silicon source gas, i.e. tetra-iso-cyanate-silane (Si(NCO)4). An average growth rate of about 0.17 nm per cycle was achieved by a cyclic process of alternating reaction of the substrate surface with Si(NCO)4 and H20 respectively. The detailed deposition characteristics together with chemical and physical properties of the deposited film were evaluated with ellipsometry, Fourier transform IR spectroscopy, X-ray photoelectron spectroscopy and Auger electron spectroscopy."
+}<|im_end|>

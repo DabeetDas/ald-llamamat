@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["TiCl4", "H2O"],
+  "temperature_range": "125–425 ◦C",
+  "summary": "The study investigates the structural properties of TiO2 thin films prepared by atomic layer deposition (ALD) and pulsed laser deposition (PLD). Anatase thin films were grown on silica and silicon substrates at temperatures 125–425 ◦C using ALD. At higher temperatures, mixed anatase and rutile phases formed. Post-growth annealing resulted in anatase-to-rutile phase transitions at 750 ◦C. Films with chlorine residues and amorphous structure transformed into anatase at 400 ◦C and retained it even after annealing at 900 ◦C. On sapphire substrates, phase-pure rutile films were obtained at 425 ◦C. The study also shows that brookite phase films can be deposited by PLD.",
+  "evidence": "Using ALD, anatase thin films were grown on silica and silicon substrates at temperatures 125–425 ◦C. At higher deposition temperatures, mixed anatase and rutile phases grew on these substrates. Post-growth annealing resulted in anatase-to-rutile phase transitions at 750 ◦C in the case of pure anatase films. The films that contained chlorine residues and were amorphous in their as-grown stage transformed into anatase phase at 400 ◦C and retained this phase even after annealing at 900 ◦C. On single crystal sapphire substrates, phase-pure rutile films were obtained by ALD at 425 ◦C and higher temperatures without additional annealing."
+}<|im_end|>

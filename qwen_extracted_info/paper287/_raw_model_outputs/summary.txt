@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["SnCl4", "H2O"],
+  "temperature_range": "500 oC",
+  "summary": "The study investigates the influence of film thickness on the electrical and gas-sensing properties of tin oxide (SnO2) thin films deposited by atomic layer deposition (ALD). The research highlights the role of oxygen depletion layers and their impact on conductance and sensitivity to ethanol vapor. The findings suggest that film thickness significantly affects the sensitivity of the films to ethanol, with sensitivity decreasing as thickness increases beyond 35 nm.",
+  "evidence": "The study reports that the sheet conductance of the films increased with thickness up to 50 nm, and above this value, it was not significantly influenced by thickness. The sensitivity of the films to ethanol was found to decrease with increasing thickness beyond 35 nm. The research also discusses the influence of post-annealing conditions and the role of oxygen depletion layers in determining the electrical properties of the films."
+}<|im_end|>

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the deposition of Ir metal through ALD using iridium(III) acetylacetonate (Ir(acac)3) and O2, with the Ir(acac)3 exposure time controlling the infiltration depth. The activation process involves potential cycling in 0.1 M H2SO4 to form IrOx, which leads to volume expansion and enhanced charge storage capacity.",
+  "intermediate_species": ["Ir(acac)3", "O2", "IrOx"],
+  "evidence": "Ir ALD was conducted with 5–10 s Ir(acac)3 exposures and 2 s O2 exposures, with each exposure followed by a 5 s N2 purge. The AIROFs were prepared by 200 cycles of potential cycling in 0.1 M H2SO4 between −0.7 and 0.8 V vs. mercury/mercurous sulfate electrode (MSE)."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "GaN",
+  "process_type": "ALD",
+  "main_precursors": ["trimethylgallium (TMG)", "NH3"],
+  "temperature_range": "500–950°C",
+  "summary": "GaN films were grown on (0001) sapphire substrates using an alternate supply of trimethylgallium (TMG) and NH3. High-quality GaN films were achieved at 800–900°C with a thin GaN buffer layer predeposited at 500°C. The study focused on optimizing growth parameters to enhance crystallinity and optical properties, with a particular emphasis on reducing yellow luminescence and enhancing near band-to-band emission.",
+  "evidence": "GaN films were grown on (0001) sapphire substrates in a temperature range of 500 950°C by exposing the substrates to trimethylgallium (TMG) and NH3 one at a time. High quality GaN films were achieved at 800 900°C with a thin GaN buffer layer predeposited at 500°C. Increment in growth temperature over a temperature range of 800 900°C is helpful to suppress the intensity of yellow luminescence and to enhance the luminescence intensity of the near band-to-band emission."
+}

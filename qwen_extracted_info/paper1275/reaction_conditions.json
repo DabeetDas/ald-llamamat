@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "B3N3H6 + H* → B3N3H5* + H2"
+  ],
+  "surface_mechanism_description": "During electron exposure, hydrogen species desorb from the surface, creating reactive dangling bonds. These dangling bonds then react with each other to form a hexagonal BN layer. Borazine adsorbs on the BN surface, and the process is self-limiting.",
+  "intermediate_species": [
+    "B3N3H5*",
+    "dangling bonds"
+  ],
+  "evidence": "During electron exposure, hydrogen species desorb from the surface, creating reactive dangling bonds. These dangling bonds then react with each other to form a hexagonal BN layer. Borazine adsorbs on the BN surface, and the process is self-limiting."
+}

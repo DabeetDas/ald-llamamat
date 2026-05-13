@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "300",
+ "pressure": "",
+ "precursor_pulse_time_s": "0.1",
+ "coreactant_pulse_time_s": "0.3",
+ "purge_time_s": null,
+ "number_of_cycles": "34",
+ "reactor_type": "ASM Pulsar2000™",
+ "evidence": "their total oxide thickness, measured with ellipsometry as a function of the initial TMA/water pulse lengths, increases for the same number of cycles (34) as follows: 29.7 Å for 0.1 s/0.3 s; 35.5 Å for 10 min/0.3 s, i.e., nucleation is enhanced by TMA; and 36.9 Å for 10 min/60 min, i.e., subsurface Si oxidation is increased by the long water pulse."
+}

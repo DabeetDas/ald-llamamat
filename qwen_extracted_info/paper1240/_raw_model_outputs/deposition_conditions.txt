@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "280",
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "shower head",
+  "evidence": "One cycle of Pt thin films consisted of a Pt precursor pulse with Ar carrier gas for 10 s, a purge pulse with Ar carrier gas for 10 s, an O2 reactant pulse for 5 s, and another purge pulse for 10 s."
+}<|im_end|>

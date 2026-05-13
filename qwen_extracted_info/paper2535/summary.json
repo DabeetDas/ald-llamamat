@@ -1,0 +1,11 @@
+{
+  "target_material": "tungsten",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "WF6",
+    "SiH4"
+  ],
+  "temperature_range": "325 °C",
+  "summary": "The study focuses on the real-time observation and optimization of tungsten atomic layer deposition (ALD) using WF6 and SiH4 as precursors. The process dynamics were monitored using mass spectrometry, revealing self-limiting surface reactions and the importance of exposure times for achieving uniform film growth. The results demonstrate the temperature dependence of ALD growth rates and the impact of precursor doses on film uniformity and thickness.",
+  "evidence": "The ALD reactor was operated at a nominal process temperature of 325 °C, corresponding to an actual wafer temperature of 350 °C. The study also discusses the temperature dependence of ALD growth rates and the impact of precursor doses on film uniformity and thickness."
+}

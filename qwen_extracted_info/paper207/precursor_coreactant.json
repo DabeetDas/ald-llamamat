@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "[Ti(NMe2)3(guan)]"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "In this work, the [Ti(NMe2)3(guan)] (guan ¼ N,N0-diisopropyl-2-dimethylamidoguanidinato) precursor was used for PE-ALD growth of TiO2 thin films. The typical ALD cycle was: [Ti(NMe2)3(guan)] dose (1 s)/Ar purge (0.5 s)/O2 plasma (0.5 s)/Ar purge (1 s) with a ALD cycle of 5s."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMA (trimethylaluminum)"],
+  "coreactants": ["O2"],
+  "purge_gas": ["O2"],
+  "carrier_gas": ["Ar"],
+  "evidence": "In pulsed PECVD, TMA and O2 flow continuously while the plasma power is applied using square wave modulation. The TMA exposure was varied by adjusting the dosing time from 1 to 5 s. The O2 flow rate and reactor pressure were fixed at 500 sccm and 900 mTorr, respectively. The TMA partial pressure was controlled by adjusting the bubbler pressure, while the exposure was varied by adjusting tOFF. The resulting O2/TMA ratios examined in this work varied from 500–2500, and these values were sufficiently high to ensure self-limiting behavior (i.e., no deposition during continuous wave plasma operation)."
+}

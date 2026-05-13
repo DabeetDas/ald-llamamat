@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 100,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Anatase",
+  "evidence": "Based on the number of ALD cycles applied, and checked from a reference Si substrate, the TiO 2 coating is about 100 nm in thickness. The TiO 2/NiFe2O4 ﬁbers could be collected with a magnet, thereby verifying that the magnetic properties of NiFe2O4 were maintained through the ALD process. These TiO2 coated NiFe2O4 ﬁbers were taken into the photocatalytic tests but found problematic because the powder was so heavy that it could not be dispersed, i.e. kept in a form of slurry by bubbling. When stirred with a magnetic bar, the powder seemed to decompose as the photocatalytic activity could be detected only in the ﬁrst experiment but not any more after collection by a magnet."
+}

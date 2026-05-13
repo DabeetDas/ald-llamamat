@@ -1,0 +1,28 @@
+{
+  "precursors": [
+    {
+      "name": "dicarbonyl-bis(5-methyl-2,4-hexanediketonato) Ru(II)",
+      "abbreviation": "CARISH",
+      "evidence": "Ruthenium (Ru) thin films were grown on thermally-grown SiO2 substrates by plasma enhanced atomic layer deposition (PEALD) using a sequential supply of a new beta-diketonate Ru metallorganic precursor, dicarbonyl-bis(5-methyl-2,4-hexanediketonato) Ru(II) (C16H22O6Ru) with a high vapor pressure and NH3 plasma as a reactant at the substrate temperature ranging from 175 and 310 /compBC."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "NH3 plasma",
+      "evidence": "Ruthenium (Ru) thin films were grown on thermally-grown SiO2 substrates by plasma enhanced atomic layer deposition (PEALD) using a sequential supply of a new beta-diketonate Ru metallorganic precursor, dicarbonyl-bis(5-methyl-2,4-hexanediketonato) Ru(II) (C16H22O6Ru) with a high vapor pressure and NH3 plasma as a reactant at the substrate temperature ranging from 175 and 310 /compBC."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Ar",
+      "evidence": "An Ar gas pulse was performed as a purge step between the precursor pulse and reactant pulse."
+    }
+  ],
+  "carrier_gas": [
+    {
+      "name": "Ar",
+      "evidence": "Ar gas was used as the carrier gas."
+    }
+  ],
+  "evidence": "Ruthenium (Ru) thin films were grown on thermally-grown SiO2 substrates by plasma enhanced atomic layer deposition (PEALD) using a sequential supply of a new beta-diketonate Ru metallorganic precursor, dicarbonyl-bis(5-methyl-2,4-hexanediketonato) Ru(II) (C16H22O6Ru) with a high vapor pressure and NH3 plasma as a reactant at the substrate temperature ranging from 175 and 310 /compBC."
+}

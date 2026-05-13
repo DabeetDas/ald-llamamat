@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "TMA"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "O2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Thin Al2O3 films were deposited in a homebuilt deposition reactor by PA-ALD from sequentially exposing the substrate to TMA vapor and a remote O2 plasma. The deposition chamber was continuously purged by O2 resulting in a pressure of 7.5 mTorr."
+}

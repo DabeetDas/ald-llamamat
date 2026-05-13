@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Diethylzinc (DEZn)",
+    "H2O",
+    "NH3"
+  ],
+  "temperature_range": "150 °C",
+  "summary": "The study investigates the electrical properties of nitrogen-doped p-type ZnO thin films grown by atomic layer epitaxy (ALE) using diethylzinc (DEZn), H2O, and NH3 as precursors. The effects of the reactant feed sequence and NH3 gas flow rate on carrier concentration and mobility are analyzed. Annealing at 1000 °C for 1 hour transforms n-type ZnO to p-type ZnO, with the latter sequence (H2O–NH3–DEZn) showing higher carrier concentration and mobility after annealing.",
+  "evidence": "Nitrogen-doped, p-type ZnO films have been grown successfully on sapphire substrates by atomic layer epitaxy using Zn(C2H5)2 (diethylzinc), H2O, and NH3 as a precursor for zinc, an oxidant, and a doping source gas, respectively. The main process parameters for the growth of p-type ZnO were the NH3 flux and the reactant feed sequence in ALE. An annealing process was performed after the ALE process. The lowest electrical resistivity of the p-type ZnO films grown by ALE was 17.9 cm with a hole concentration of 1.59×10^17 cm−3. The results indicated that the carrier concentrations and carrier mobilities in the as-grown and annealed ZnO thin films depend strongly on the NH3 pulse time and on which step of an ALE cycle the NH3 doping is conducted."
+}

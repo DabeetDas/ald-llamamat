@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMA T"],
+  "coreactants": ["NH3", "H2"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "TDMA T was vaporized from the liquid at 50°C and introduced into the ALD chamber via argon (Ar) carrier gas at a flow rate of 200 sccm. For the PA-ALD of TiN and TiC–TiN thin films, hydrogen radicals are used as a reducing agent along with NH3, which is used as a reactant gas in the conventional ALD of TiN."
+}

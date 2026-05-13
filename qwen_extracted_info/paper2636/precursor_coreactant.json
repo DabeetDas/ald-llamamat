@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "TiCl4",
+    "WF6"
+  ],
+  "coreactants": [
+    "O2",
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "For TiO2 depositions, TiCl4 was used as the metal precursor and O2, as well as H2O, as oxygen precursors. For WO3 depositions, WF6 was used as a metal precursor and H2O as an oxygen source. The TiCl4 and H2O bubbler temperature was constant at 25 /C14 C for all experiments. Argon was fixed at 4.67 Pa (50 sccm) and served as a carrier gas during the plasma step."
+}

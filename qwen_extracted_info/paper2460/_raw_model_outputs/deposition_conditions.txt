@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "5X10",
+  "precursor_pulse_time_s": "20",
+  "coreactant_pulse_time_s": "262",
+  "purge_time_s": "15",
+  "number_of_cycles": "100-300",
+  "reactor_type": "Beam Line 1C at the Photon Factory",
+  "evidence": "The pressure in the chamber was varied from 5 X 10 to 2X10 Torr when the nozzle was opened. Gas exposure for a time period T& was automatically alternated with SR irradiation for a time period Tz in the ALE mode, according to the timing chart shown in Fig. 1. After the nozzle was closed, a 15-sec exhaust interval was sufficient for the pressure to return to the background pressure (7 X 10 Torr)."
+}<|im_end|>

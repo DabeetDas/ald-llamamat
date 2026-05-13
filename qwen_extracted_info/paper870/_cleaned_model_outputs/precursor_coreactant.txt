@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMP*", "TTIP", "DEPA*"],
+  "coreactants": ["N2*"],
+  "purge_gas": [],
+  "carrier_gas": ["Ar"],
+  "evidence": "In the text, it is stated: 'DEPA (Sigma-Aldrich, 98%) was heated up to 115 ◦C, and its vapour was introduced in the reactor using argon at a pressure of 5 ∗ 10 −3 mbar as carrier gas.'"
+}

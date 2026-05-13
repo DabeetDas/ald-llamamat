@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "TaCl5",
+    "AlCl3"
+  ],
+  "coreactants": [
+    "TEA",
+    "H2O"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The use of surface reactions, basic to the ML method, for the fabrication of multilayer structures allows the composition and thickness of such systems to be controlled on a monolayer scale. In this approach, the synthesis of oxide layers involves, as a key step, self-controlled chemisorption of metal halide and water vapors with nearly monolayer surface coverages. For example, on a hydroxylated silicon surface, the process involves the reactions (1) and (2). By repeating reactions (1) and (2) many times, one can produce an oxide layer of thickness d, which is proportional to the number of deposition cycles (N). The linear variation of d with N is typical of chemical assembly processes, as exemplified by the growth of silica/titania and chalcogenide multilayer structures on silicon. The growth parameter d, a key characteristic of the process, allows one to assess the surface coverage and to identify the mechanism of nanostructure growth. Of particular interest is layer-by-layer growth, which can only be achieved on almost fully hydroxylated surfaces and under nonequilibrium conditions of reactions (1) and (2). Therefore, the surface OH groups must be sufficiently reactive and the released hydrogen chloride must be rapidly removed. As shown previously, hydroxyl groups on silicon covered with a thin (<1 nm) oxide layer exhibit rather weak proton-donor properties, and, for surface reactions such as (1) and (2) to reach completion, additional protonation is needed. To this end, we used triethylamine (TEA), a sufficiently strong proton acceptor, and produced Al2O3 and Ta2O5 layers by repeatedly exposing the surface to AlBr3 (or AlCl3), TaCl5, and water vapor in the presence of TEA, which not only activated the reaction via the formation of an intermediate complex but also stabilized the hydroxyl layer by additional hydrogen bonds and bound the released hydrogen chloride."
+}

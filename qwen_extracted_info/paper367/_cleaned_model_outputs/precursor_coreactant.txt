@@ -1,0 +1,7 @@
+{
+  "precursors": ["GaCI"],
+  "coreactants": ["AsH3"],
+  "purge_gas": ["H2"],
+  "carrier_gas": [],
+  "evidence": "The gas flow sequence consisted of four stages: GaCI supply, H2 purge, AsH3 supply and H2 purge. The GaCI was obtained by the reaction between metallic Ga and HCI at 780°C and fed intermittently onto the substrate surface by a suction pump. AsH3 was used as the arsenic source and introduced intermittently from a separate tube using air-operated run-and-vent valves."
+}

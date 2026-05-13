@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "210-302",
+  "pressure": "3.8 mbar",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 6,
+  "number_of_cycles": 500,
+  "reactor_type": "five-zone hotwall ALD reactor",
+  "evidence": "Typically used pulse durations within the ALD cycles in this study were 4 s for Cu/H20849hfac/H208502, 4 s for water, and 4 s for ammonia. The argon purging after each precursor pulse was usually 6 or 8 s long."
+}<|im_end|>

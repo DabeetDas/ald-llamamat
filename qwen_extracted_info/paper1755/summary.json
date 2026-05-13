@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": [
+    "TiF4",
+    "H2O"
+  ],
+  "temperature_range": "300–500 ◦C",
+  "summary": "Titanium dioxide (TiO2) thin films were grown by atomic layer deposition (ALD) using TiF4 and H2O as precursors at temperatures ranging from 300 to 500 ◦C. The films were characterized on two glass substrates, soda lime and borosilicate, and showed different growth rates and crystalline phases depending on the substrate and temperature. The films exhibited photocatalytic activity under UV and visible light, and all films turned superhydrophilic under UV light.",
+  "evidence": "Titanium dioxide (TiO2) thin films were grown by atomic layer deposition (ALD) at 300–500 ◦C using TiF4 and H2O as precursors. The films were characterized by FESEM, EDX, UV/Vis and XRD techniques. Two glass types, soda lime and borosilicate, were used as the substrate materials. It was found that the type of the glass substrate had a very strong influence on the growth and properties of the resulting films. At substrate temperatures of 400 and 500 ◦C, the growth rates on borosilicate were 0.8 and 1.0 A˚ per cycle, respectively, and the films were mainly anatase. With the same deposition conditions on soda lime, rutile phase was formed and the growth rates were 1.1 and 1.5 A˚ per cycle, respectively. Growth saturation was confirmed for both glass substrates at 400 ◦C by varying the pulse lengths of the precursors. Both anatase and rutile films prepared at 400–500 ◦C possessed photocatalytic activity in degrading stearic acid under UV and visible light, whereas the films prepared at 300 ◦C had virtually no activity. All the films, including those prepared at 300 ◦C, turned superhydrophilic under UV light."
+}

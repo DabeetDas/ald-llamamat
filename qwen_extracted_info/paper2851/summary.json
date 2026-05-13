@@ -1,0 +1,11 @@
+{
+  "target_material": "Silicon",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "dichlorosilane (DCS)",
+    "atomic hydrogen (AH)"
+  ],
+  "temperature_range": "540±C to 610±C",
+  "summary": "The study investigates atomic layer epitaxy (ALE) of silicon on the (100) surface, focusing on the temperature window, precursor interactions, and surface morphology. The ALE process involves alternating exposure to dichlorosilane (DCS) and atomic hydrogen (AH), with optimal hydrogen pressure conditions enabling a wide temperature range for ideal growth. The surface roughness is influenced by excess growth, etching, and surface migration of adsorbates, with the process being optimized to achieve a smooth surface.",
+  "evidence": "The ALE temperature window for the (100) surface was as wide as that for the (111) surface, under optimum hydrogen pressure conditions. The grown film surface was smooth only within the upper half of the window. Surface roughness increased with ALE execution cycle, due to the combined dynamic effects of excess growth, etching and surface migration of adsorbates within an execution cycle, but took an extremely small value under a special set of ALE parameters."
+}

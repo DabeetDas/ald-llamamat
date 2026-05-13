@@ -1,0 +1,11 @@
+{
+  "target_material": "SrB2O4",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "bis(tris(pyrazolyl)borate)strontium (SrTp2)",
+    "water"
+  ],
+  "temperature_range": "300 to 375 8C",
+  "summary": "The study describes the atomic layer deposition (ALD) of SrB2O4 films using bis(tris(pyrazolyl)borate)strontium (SrTp2) and water as precursors. The ALD process occurs within a temperature range of 300 to 375 8C, with a growth rate of 0.47 A˚ per cycle. The films are amorphous and exhibit low surface roughness. The study highlights the thermal stability of SrTp2 and its suitability as an ALD precursor for SrB2O4 films.",
+  "evidence": "The atomic layer deposition (ALD) of strontium borate films is carried out using bis(tris(pyrazolyl)borate)strontium (SrTp2) and water as precursors. Self-limiting ALD growth is established at 350 8C with SrTp2 and water pulse lengths of /C21 2.0 s and /C21 0.3 s, respectively. An ALD window is observed from 300 to 375 8C, in which the growth rate is 0.47 A˚ per cycle. The as-deposited films are amorphous. The rms surface roughness of typical 2 mm /C2 2 mm areas for films deposited at 325 and 350 8C are 0.3 and 0.2 nm, respectively."
+}

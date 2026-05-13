@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "isopropoxy-ligand-terminated surface + O3 -> surface carbonates + CO2",
+    "surface carbonates + TTIP -> CO2 + isopropoxy ligands"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism during ozone-based ALD of TiO2 involves the reaction of isopropoxy ligands with ozone to form surface carbonates. These carbonates then react with TTIP, releasing CO2 and forming new isopropoxy ligands on the surface.",
+  "intermediate_species": [
+    "surface carbonates",
+    "CO2",
+    "isopropoxy ligands"
+  ],
+  "evidence": "The surface reaction mechanism during ozone-based ALD of TiO2 involves the reaction of isopropoxy ligands with ozone to form surface carbonates. These carbonates then react with TTIP, releasing CO2 and forming new isopropoxy ligands on the surface. The formation of these carbonates is apparent in the difference spectra in Figure 2c and d, where an increase in absorbance is observed in the 1300 -1700 cm-1 region, while the CHx (x ) 1,3) stretching modes in the ∼ 3000 cm-1 region show a decrease in absorbance."
+}

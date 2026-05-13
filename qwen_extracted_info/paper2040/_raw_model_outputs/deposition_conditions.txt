@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "",
+  "precursor_pulse_time_s": "660",
+  "coreactant_pulse_time_s": "660",
+  "purge_time_s": "550",
+  "number_of_cycles": null,
+  "reactor_type": "flow style reactor",
+  "evidence": "ZnS was grown using ZnCl2 and H2S reactants at 500 °C using a flow style reactor (Microchemistry, Ltd). The substrate was first exposed to a 660 ms ZnCl2 gas pulse, which resulted in the chemiadsorption of a monolayer of molecules on the surface. 18 The substrate was next purged with N2 for 550 ms to remove any excess ZnCl2 . Conversion to ZnS was accomplished by application of a 660 ms H2S pulse to the substrate. An additional 550 ms N2 pulse to remove excess H2S and the HCl byproduct completed the cycle."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["neopentasilane [NPS, (SiH3)4Si]", "trisilylamine [TSA, (SiH3)3N]"],
+  "coreactants": ["N2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The PEALD cycles consisted of exposing the native oxide terminated Si surface to the Si precursor (either NPS or TSA) followed by an Ar purge, and then a direct N2 plasma (with varied time and power) and finally a second Ar purge. Precursor delivery was achieved via vapor draw from the head space of a bubbler."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "ALD",
+  "main_precursors": ["Zn(C2H5)2", "deionized water"],
+  "temperature_range": "60 8C",
+  "summary": "The study describes the use of mesoporous PS-b-P2VP nanorods as templates for atomic-layer deposition (ALD) of zinc oxide (ZnO) to create hierarchical one-dimensional nanostructures with complex morphologies. The ALD process involved the deposition of ZnO using Zn(C2H5)2 and deionized water as precursors at 60 8C. The resulting ZnO nanostructures exhibited hollow helices and stacked doughnuts, mimicking the confinement-induced nanoscopic domain structures of the block-copolymer nanorods.",
+  "evidence": "We exploited the internal mesopore structures in ethanol-treated PS-b-P2VP nanorods derived from confinement-induced nanoscopic domain structures as templates for low-temperature ZnO ALD at 60 8C using Zn(C2H5)2 and deionized water as precursors, thus adapting a process previously applied to inorganic substrates."
+}

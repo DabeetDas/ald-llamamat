@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ta(OEt)5"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "For the PEALD process, Ta2O5 thin films were deposited using a precursor of tantalum pentaethoxide (Ta(OEt)5) and an oxidizer (oxygen plasma, 200 W). For comparison, the pure ALD process of Ta2O5 thin films was carried out using sequentially pulsed Ta(OEt)5 and water (H2O), separated by a purge flow of Ar."
+}

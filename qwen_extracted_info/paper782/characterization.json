@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Rutherford back scattering",
+    "cross-sectional transmission electron microscopy (XTEM)",
+    "high resolution Rutherford back scattering spectrometry (HRBS)",
+    "metal – insulator – semiconductor (MIS) structure",
+    "Fowler – Nordheim plot",
+    "capacitance – voltage (C – V) characteristics",
+    "secondary ion mass spectroscopy"
+  ],
+  "evidence": "The interface structure of the films was observed by a cross-sectional transmission electron microscopy (XTEM). The atomic composition and the depth profile of the deposited films were characterized by high resolution Rutherford back scattering spectrometry (HRBS). The current – voltage characteristics of the MIS devices were analyzed at room temperature using an HP4156A semiconductor parameter analyzer, while the capacitance – voltage characteristics were measured by an HP4284A LCR meter at frequencies from 20 Hz to 1 MHz. The difference of ALD-Al2O3 between the surface terminations, i.e., with oxygen or hydrogen, is investigated by HRBS spectra in terms of atomic composition and deposition rate. The capacitance – voltage (C – V) characteristics measured at various frequencies are plotted as 1/ C2 – V relation. The frequency dependence of the capacitance, measured at zero bias, is shown. Based on the literatures, the frequency dependence for the present MIS device is assumed to be originated from deep traps in the p/C0diamond, since the highly conductive p+ diamond is located at the bottom. The semiconducting properties of B-doped diamond are measured by the MIS structure."
+}

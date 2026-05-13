@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [
+    "Al/C0 OH/C3 + C2H5ZnC2H5(g) -> Al/C0 OZnC2H/C3 5 + C2H6(g)",
+    "Al/C0 OZnC2H/C3 5 + H2O(g) -> Al/C0 OZnOH/C3 + C2H6(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The corresponding surface reaction can be expressed as follows: Al/C0 OH/C3 + C2H5ZnC2H5(g) -> Al/C0 OZnC2H/C3 5 + C2H6(g) (1) Al/C0 OZnC2H/C3 5 + H2O(g) -> Al/C0 OZnOH/C3 + C2H6(g); (2), where the symbol ‘‘*’’ represents surface functional groups."
+}<|im_end|>

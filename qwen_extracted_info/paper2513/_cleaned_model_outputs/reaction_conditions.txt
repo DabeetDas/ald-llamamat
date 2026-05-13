@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "2 Me2AlOiPr + 3 H2O → Al2O3 + 4 CH4 + 2 HOiPr"
+  ],
+  "surface_mechanism_description": "The self-limiting ALD process by alternate surface reactions of DMAI and H2O was confirmed. The growth rate was measured to be 1.06 Å/cycle at 150 °C. The AB binary reaction is similar to the TMA-H2O reaction, where the precursor and water alternate to form Al2O3 on the surface.",
+  "intermediate_species": [
+    "Me2AlOiPr",
+    "HOiPr",
+    "Al2O3"
+  ],
+  "evidence": "Under suitable deposition conditions, the DMAI precursor and water show that each of their surface reactions is a self-limiting process for the AB binary reaction, 2 Me2AlOiPr + 3 H2O → Al2O3 + 4 CH4 + 2 HOiPr. Optimum growth rate was measured to be ;1.06 Å/cycle at 150 °C. The AFM images revealed atomically flat and uniform Al2O3 surfaces. The characteristics of the grown Al2O3 films are comparable to those of the films obtained by the TMA-H2O ALD process."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "GaN/AlN short-period superlattices",
+  "process_type": "switched atomic layer epitaxy (SALE)",
+  "main_precursors": ["triethylgallium (TEG)", "triethylaluminum (TEA)", "ammonia"],
+  "temperature_range": "76 Torr",
+  "summary": "The study reports the fabrication and structural and optical characterization of GaN/AlN short-period superlattices using switched atomic layer epitaxy (SALE). The superlattices were deposited on sapphire substrates with GaN well thicknesses ranging from 2.6 to 20.8 Å and AlN barrier thicknesses of 2.5, 7.5, and 15 Å. The structures exhibited strong room temperature photoluminescence and a sharp absorption edge, indicating high optical quality. The process used TEG, TEA, and ammonia as precursors, and the growth conditions were selected to yield a monolayer-thick AlN (or GaN) per growth cycle.",
+  "evidence": "In this letter we report the fabrication of GaN/AlN short-period superlattices using switched atomic layer epitaxy. ... Similar to our previous letters, we used triethylgallium (TEG), triethylaluminum (TEA), and ammonia as precursors for the deposition of the individual atomic layers. ... The growth conditions were selected to yield a monolayer-thick AlN (or GaN) per growth cycle."
+}<|im_end|>

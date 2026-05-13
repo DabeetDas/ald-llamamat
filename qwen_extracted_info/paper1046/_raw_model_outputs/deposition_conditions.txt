@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 305,
+  "pressure": "1.4 Torr",
+  "precursor_pulse_time_s": 0.15,
+  "coreactant_pulse_time_s": 0.15,
+  "purge_time_s": 10,
+  "number_of_cycles": 5,
+  "reactor_type": "viscous flow reactor",
+  "evidence": "The micropulse exposure sequence was (5,3). The exposure time for each micropulse was 0.15 s. The SiCl4 exposure was composed of five micropulses. There was a purge time of 8 s after each SiCl4 micropulse. After the last SiCl4 micropulse, there was a purge time of 10 s before starting the H2O micropulses."
+}<|im_end|>

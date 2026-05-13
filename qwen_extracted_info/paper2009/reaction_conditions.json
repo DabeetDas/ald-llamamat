@@ -1,0 +1,21 @@
+{
+  "reaction_equations": [
+    "d/dt uAX^(1)S = CAX_S (1 - uAX^(1)S)",
+    "d/dt BY^(j-1)uAX^(j)BY = CAX_BY (BY^(j-1)uBY - BY^(j-1)uAX^(j)BY)",
+    "d/dt BY^(j-1)uAX^(j)S = CAX_S (BY^(j-1)uS - BY^(j-1)uAX^(j)S)",
+    "d/dt BY^(j-1)uAX^(j)AB = CAX_AB (BY^(j-1)uAB + BY^(j-1)uAX^(j)BY - BY^(j-1)uAX^(j)AB)",
+    "d/dt AX^(j)uBY^(j)AX = CBY_AX (AX^(j)uAX - AX^(j)uBY^(j)AX)",
+    "d/dt AX^(j)uBY^(j)S = CBY_S (AX^(j)uS - AX^(j)uBY^(j)S)",
+    "d/dt AX^(j)uBY^(j)AB = CBY_AB (AX^(j)uAB + AX^(j)uBY^(j)AX - AX^(j)uBY^(j)AB)"
+  ],
+  "surface_mechanism_description": "During the initial stage of ALD, the reactant is adsorbed onto the surface of the substrate. As the film forms, the reactant can be adsorbed both onto the film and the substrate. The adsorption coverage is described by differential equations that account for the interactions between adsorbates and the surface properties. The coverage of the reactant reaches a convergent value in the converged region, and the film thickness becomes linear with the number of deposition cycles.",
+  "intermediate_species": [
+    "AX molecules",
+    "BY molecules",
+    "surface hydroxyls",
+    "surface adsorbates",
+    "AB films",
+    "reactant coverage"
+  ],
+  "evidence": "During the initial stage of ALD, the reactant is adsorbed onto the surface of the substrate. As the film forms, the reactant can be adsorbed both onto the film and the substrate. The adsorption coverage is described by differential equations that account for the interactions between adsorbates and the surface properties. The coverage of the reactant reaches a convergent value in the converged region, and the film thickness becomes linear with the number of deposition cycles."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "In(OH)2 + Al(CH3)3 → In(OH)2Al(CH3)3",
+    "In(OH)2Al(CH3)3 → In(OH)Al(CH3)2 + CH4 + H2O"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The surface reaction mechanism was discussed in the context of DFT calculations, where the interaction between precursors was analyzed. The text mentions that the ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites. Additionally, the text describes the formation of intermediate species such as monomethyl aluminum, surface hydroxyls, and formate species during the ALD process."
+}

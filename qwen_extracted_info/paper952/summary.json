@@ -1,0 +1,11 @@
+{
+  "target_material": "silver-silica hybrid nanostructures",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "tri(dimethylamino)silane (TDMAS)",
+    "oxygen plasma"
+  ],
+  "temperature_range": "120–140 °C",
+  "summary": "The study describes the synthesis of 3D silver-silica hybrid nanostructures using metastable atomic layer deposition (MS-ALD). Silver nanoparticles act as templates, and during the deposition of silica, metastable silver oxides form and decompose, leading to side reactions and the formation of self-assembled 3D nanostructures. The process parameters, such as the number of cycles and dose times of the precursors, influence the geometry of the nanostructures.",
+  "evidence": "This article presents a new method to generate 3D silver-silica nanostructures using plasma-enhanced atomic layer deposition of silica with tri(dimethylamino)silane (TDMAS) and oxygen plasma as precursors. The silver nanoparticles are used as templates, and during the deposition of silica, the repeatable process of the formation of metastable silver oxides and their decomposition is involved, leading to strong side reactions and the formation of 3D silver-silica hybrid nanostructures."
+}

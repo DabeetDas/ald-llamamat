@@ -1,0 +1,18 @@
+{
+  "precursors": [
+    {
+      "name": "bis(N,N′-diisopropylacetamidinato)calcium(II) dimer",
+      "abbreviation": "Ca"
+    },
+    {
+      "name": "bis(N,N′-di-sec-butylacetamidinato)magnesium",
+      "abbreviation": "Mg"
+    }
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "ALD of Mg xCa1−xO was carried out in a home-built tubular reactor. Bis( N,N′-diisopropylacetamidinato)calcium(II) dimer,13 bis(N,N′-di-sec-butylacetamidinato)magnesium,14 and H2O were used as calcium, magnesium, and oxygen sources, respectively."
+}

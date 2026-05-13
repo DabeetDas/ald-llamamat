@@ -1,0 +1,22 @@
+{
+  "reaction_equations": [
+    "Ba-OH (s) + Ba( tBu3C5H2)2 (g) → Ba-O-Ba-tBu3C5H2 (s) + tBu3C5H3(g)",
+    "2 Ba-OH (s) + Ba( tBu3C5H2)2 (g) → Ba-O-Ba-O-Ba(s) + 2 tBu3C5H3 (g)",
+    "Ba(OH)2 (s) + Ba(tBu3C5H2)2 (g) → 2 BaO (s) + 2 tBu3C5H3 (g)",
+    "Ba-O-Ba-tBu3C5H2 (s) + H2O (g) → Ba-O-Ba-OH (s) + tBu3C5H3 (g)",
+    "BaO (s) + (n +1 )H2O (g) → Ba(OH)2 (s) + n H2O (g) → Ba(OH)2(H2O)n (s)",
+    "Ba(OH)2(H2O)n (s) → Ba(OH)2 (s) + n H2O (g) → BaO (s) + (n +1 )H2O (g)",
+    "Ba(OH)2(H2O)n (s) + (n + 1)Ba(tBu3C5H2)2 (g) → (n + 2)BaO (s) + (2n + 2) tBu3C5H3 (g)",
+    "Ba(tBu3C5H2)2 (g) + H2O(g) → BaO (s) + 2 (tBu3C5H3) (g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between Ba(tBu3C5H2)2 and surface hydroxyl groups followed by water pulse to regenerate OH sites, leading to hydration/dehydration cycles. The surface reactions involve the formation of Ba(OH)2 and BaO, with subsequent dehydration to form BaO and release of H2O.",
+  "intermediate_species": [
+    "Ba-O-Ba-tBu3C5H2",
+    "Ba-O-Ba-OH",
+    "Ba(OH)2(H2O)n",
+    "Ba(OH)2",
+    "BaO",
+    "tBu3C5H3"
+  ],
+  "evidence": "During the Ba(tBu3C5H2)2 pulse, Ba-OH (s) + Ba( tBu3C5H2)2 (g) → Ba-O-Ba-tBu3C5H2 (s) + tBu3C5H3(g) (1a). During the H2O pulse and following purge, Ba-O-Ba-tBu3C5H2 (s) + H2O (g) → Ba-O-Ba-OH (s) + tBu3C5H3 (g) (2a). Ba(OH)2(H2O)n (s) → Ba(OH)2 (s) + n H2O (g) → BaO (s) + (n +1 )H2O (g) (2c). During the next Ba( tBu3C5H2)2 pulse, Ba(OH)2(H2O)n (s) + (n + 1)Ba(tBu3C5H2)2 (g) → (n + 2)BaO (s) + (2n + 2) tBu3C5H3 (g) (3a)."
+}<|im_end|>

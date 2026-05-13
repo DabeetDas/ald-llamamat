@@ -1,0 +1,16 @@
+{
+  "reaction_conditions": [
+    {
+      "code": "empty_evidence",
+      "path": "reaction_conditions.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ],
+  "film_properties": [
+    {
+      "code": "empty_evidence",
+      "path": "film_properties.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ]
+}

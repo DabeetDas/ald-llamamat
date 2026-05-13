@@ -1,0 +1,8 @@
+{
+  "target_material": "silica",
+  "process_type": "metastable atomic layer deposition (MS-ALD)",
+  "main_precursors": ["tri-(dimethyl)-amino-silane (TDMAS)", "oxygen plasma"],
+  "temperature_range": "120°C",
+  "summary": "This study investigates the use of metastable atomic layer deposition (MS-ALD) to fabricate complex 3D silica/silver structures using planar silver templates. The process involves the cyclic oxidation and decomposition of silver oxide, leading to the formation of porous silica structures with high surface-to-volume ratios. The study explores the effects of various parameters such as Ag film thickness, number of cycles, and precursor exposure times on the resulting structures.",
+  "evidence": "The MS-ALD process is based on a silica plasma-enhanced ALD process using tri-(dimethyl)-amino-silane (TDMAS) and oxygen plasma. The substrate temperature was set to 120°C for all experiments. The growth per cycle (GPC) was 1.1 Å per cycle. The process consists of four steps: (1) TDMAS dose, (2) purge of residuals, (3) oxygen plasma dose, and (4) purge of residuals."
+}<|im_end|>

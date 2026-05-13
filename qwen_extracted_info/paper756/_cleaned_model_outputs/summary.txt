@@ -1,0 +1,8 @@
+{
+  "target_material": "AlN",
+  "process_type": "Atomic layer annealing (ALA)",
+  "main_precursors": ["tris(dimethylamido) aluminum (TDMAA)", "anhydrous hydrazine (N-H)"],
+  "temperature_range": "≤ 400 °C",
+  "summary": "The study demonstrates the low-temperature deposition of polycrystalline AlN films on Si(111) using atomic layer annealing (ALA) with tris(dimethylamido) aluminum (TDMAA) and anhydrous hydrazine (N-H) as precursors. The process results in high-quality AlN films with large grain size and low C/O contamination, which can serve as a templating layer for further AlN growth via sputtering. The ALA process significantly improves grain size compared to amorphous templates.",
+  "evidence": "The low-temperature ( ≤ 400 °C) deposition of polycrystalline AlN films on silicon is demonstrated by atomic layer annealing (ALA) using either trimethyl aluminum (TMA) and anhydrous hydrazine (N-H) or tris(dime-thylamido) aluminum (TDMAA) and anhydrous N-H with an argon plasma treatment utilizing a DC bias to tune the ion energy. Using TDMAA and N-H, high-quality AlN films are deposited with large grain size and low oxygen/carbon contamination which can be used as a templating layer for further high-speed AlN film growth via sputtering. The deposition of high-quality AlN films deposited by ALA are successfully used as templates for sputtered AlN resulting in a > 2x improvement in average grain size when compared to an analogous amorphous template layer."
+}

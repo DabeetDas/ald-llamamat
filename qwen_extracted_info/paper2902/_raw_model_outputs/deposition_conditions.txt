@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "275-350",
+  "pressure": "5-8 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 10,
+  "number_of_cycles": 300,
+  "reactor_type": "Picosun R-200",
+  "evidence": "Films were deposited on 1-2 cm 2 coupons of Si(100) cleaned by the standard RCA method. Films deposited at 150 and 200 °C for 250 cycles had sheet resistivities > 10 6 Ω/square and were highly unstable in air, becoming powdery after several minutes. Higher deposition temperatures afforded stable, reflective, silvery-grey films which allowed for a study of ALD process characteristics. Using a saturative pulse sequence of WCl 6 (3 s), N2 purge (10 s), 1 (3 s), N2 purge (10 s), growth rate was measured as a function of temperature between 250-400 °C after 300 cycles (Fig. 4). An ALD window, where growth rate was approximately independent of temperature, was observed between 275-350 °C with a growth rate of 1.6 Å/cycle."
+}<|im_end|>

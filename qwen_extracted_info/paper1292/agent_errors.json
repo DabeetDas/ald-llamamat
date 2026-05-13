@@ -1,0 +1,3 @@
+{
+  "film_properties": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": 2.4,   \"density_g_cm3\": 5.61,   \"refractive_index\": null,   \"surface_roughness_nm\": 0.38,   \"crystal_phase\": \"Mn3N2 (006) orientation\",   \"evidence\": \"As the deposition temperature rises from 225 to 300 oC, the atomic ratio of Mn/N in the as-deposited film increases from 1.9'"
+}

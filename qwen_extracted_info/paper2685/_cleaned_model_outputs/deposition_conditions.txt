@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "160-350",
+  "pressure": "670 Pa (5.0 Torr)",
+  "precursor_pulse_time_s": 500,
+  "coreactant_pulse_time_s": 500,
+  "purge_time_s": 144,
+  "number_of_cycles": 10,
+  "reactor_type": "Aluminum body with KBr windows",
+  "evidence": "The collimated beam from the FT-IR spectrometer is focused into the reactor and collected on the other side using 90/C14 off-axis parabolic mirrors (f/6). A f/1.3 mirror focuses the beam onto a cryogenic narrow-band mercury-cadmium-telluride detector. The beam path external to the reactor is purged with air that has been conditioned to remove H2O and CO2. The chamber walls were heated to 160/C14 C. A downstream capacitance manometer gauge monitors the pressure, and the pump is throttled with a butterfly valve to obtain a chamber pressure of 670 Pa (5.0 Torr)."
+}

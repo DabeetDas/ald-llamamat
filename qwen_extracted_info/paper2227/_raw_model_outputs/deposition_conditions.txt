@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": null,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 167,
+  "reactor_type": "",
+  "evidence": "After the Al deposition, the samples are taken out in air and transferred to the ALD chamber for the deposition of Al2O3 using trimethyl aluminum as the Al source and H2O as oxidizer. Based on x-ray photoelectron spectroscopy and electrical measurement results, the Al nucleation layer is completely oxidized as soon as the sample is exposed in air to be transferred to ALD chamber. The initial stage of ALD growth starts with an H2O oxidizing cycle at elevated temperatures to further complete the oxidation step."
+}<|im_end|>

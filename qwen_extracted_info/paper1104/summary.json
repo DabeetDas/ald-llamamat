@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Tetrakis-dimethylamido(IV) hafnium (TDMAH)",
+    "Ozone"
+  ],
+  "temperature_range": "150 °C to 250 °C",
+  "summary": "The study investigates the initial stages of HfO2 film growth by atomic layer deposition (ALD) on Co, Ta, and Pt thin films. The research focuses on the adsorption of TDMAH and its decomposition on different metal underlayers, using XPS and ATR-FTIR to analyze surface chemistry and nucleation processes. The study highlights the impact of substrate temperature and surface chemistry on HfO2 growth and the role of hydroxyl groups in the decomposition of TDMAH.",
+  "evidence": "The initial tetrakis-dimethylamido(IV) hafnium (TDMAH) adsorption rate was highest on Co and increased with substrate temperature between 150 °C and 250 °C. The initial adsorption rate of TDMAH on Ta was less than on Co or Pt at the same substrate temperatures. The Ta surface also proved to be more stable with regard to TDMAH decomposition as fluctuations of adsorbed Hf and decomposition products were not observed during ALD cycling."
+}

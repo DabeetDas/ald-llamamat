@@ -1,0 +1,7 @@
+{
+  "precursors": ["Mo(NtBu)2(StBu)2"],
+  "coreactants": ["H2 plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The Mo precursor was vaporized in a bubbler kept at 90 /C14 C and was carried into a process chamber by Ar gas with a flow rate of 50 standard cubic centimeters per minute (SCCM)."
+}

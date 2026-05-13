@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Laser-assisted atomic layer epitaxy (laser ALE)",
+  "main_precursors": ["trimethylgallium (TMG)", "triethylgallium (TEG)", "arsine (AsH3)"],
+  "temperature_range": "350-430 °C",
+  "summary": "The paper discusses laser-assisted atomic layer epitaxy (laser ALE) for the deposition of GaAs. The process involves the use of laser irradiation to achieve atom-selective decomposition of TMG and TEG on the GaAs surface, enabling self-limited monolayer growth. The study highlights the photochemical effect of laser irradiation on the surface, distinguishing it from thermal effects. The growth rate is found to be independent of the feeding time and rate of source gases due to the self-limiting mechanism. The process is shown to produce high-quality epitaxial layers with precise control over thickness and surface morphology.",
+  "evidence": "Laser-assisted atomic layer epitaxy (laser ALE) is reviewed. The mechanism of laser ALE seems to be atom-selective decomposition of trimethylgallium and triethylgallium at the surface of GaAs. This atom-selective decomposition is not a thermal effect but a photochemical effect on the GaAs surface. The growth rate is independent of the feeding time and feeding rate of source gases because of the self-limiting growth mechanism."
+}

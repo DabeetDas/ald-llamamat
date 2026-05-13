@@ -1,0 +1,4 @@
+{
+  "characterization_methods": ["Cavity resonance method", "Vector Network Analyzer (VNA)", "S-parameter measurement", "HFSS (High Frequency Simulation Software)"],
+  "evidence": "The dielectric properties at millimeter-wave band(MMW) of commercially available LTCC substrate were measured using cavity resonance method. ... The transmission losses of CBCPW lines on LTCC substrate with tand less than 0.002 were 0.1dB/mm. ... The transmission losses of lines were critically dependant on the dielectric properties of the substrate used. ... The dielectric properties at 60 GHz band for various LTCC sheet ... The S-parameter measurement result for CBCPW lines on Ferro A6S sheet. ... Ansoft HFSS(High Frequency Simulation Software) was used to simulate the CBCPW lines."
+}

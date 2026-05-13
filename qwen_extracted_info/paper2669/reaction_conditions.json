@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Sn + H2O ! SnO + 2 (CH3)3Si/C2/C3 2NH;",
+    "(CH3)3Si/C2/C3 2NH + 2 –OH ! 2 /C0 O /C0 Si(CH3)3 + NH3"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "bis(trimethylsilyl)amine",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The reaction equations and surface mechanism description are derived from the text discussing the ALD process with water as the oxygen source, where the reaction byproduct HMDS (bis(trimethylsilyl)amine) is identified and its effect on the surface is described."
+}

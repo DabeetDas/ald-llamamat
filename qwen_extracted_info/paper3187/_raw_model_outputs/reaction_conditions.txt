@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The Pt ALD process used in this study consists of a pulse of O2 reacting with the surface layer of Pt to create PtOx. Then, a pulse of MeCpPtMe3 reacts with the PtOx layer, and during the subsequent purge, O atoms are removed, leaving only Pt. On the next cycle, the O2 pulse removes any unreacted precursor and oxidizes the Pt surface, preparing it for the next cycle.",
+  "intermediate_species": ["PtOx", "MeCpPtMe3"],
+  "evidence": "The Pt ALD process used in this study consists of a pulse of O2 reacting with the surface layer of Pt to create PtOx. Then, a pulse of MeCpPtMe3 reacts with the PtOx layer, and during the subsequent purge, O atoms are removed, leaving only Pt. On the next cycle, the O2 pulse removes any unreacted precursor and oxidizes the Pt surface, preparing it for the next cycle."
+}<|im_end|>

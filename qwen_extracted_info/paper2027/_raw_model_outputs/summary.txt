@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "thermal ALD",
+  "main_precursors": ["TiCl4", "NH3"],
+  "temperature_range": "350 °C and 400 °C",
+  "summary": "The study investigates the growth mechanism and continuity of TiN films deposited via atomic layer deposition (ALD) on thermal SiO2. The growth behavior is analyzed using low-energy ion scattering (LEIS) and Rutherford backscattering spectroscopy (RBS). The results show that the growth mechanism transitions from two-dimensional (2D) to three-dimensional (3D) as the deposition progresses, with the temperature significantly affecting the onset of 3D growth and the thickness at which the film becomes continuous.",
+  "evidence": "The text states, 'We studied the growth of TiN films formed by sequentially controlled reaction of TiCl4 and NH3 on thermal SiO2 during the transient, nonlinear period.' It also mentions, 'The deposition of TiN films was carried out at substrate temperatures of 350 °C and 400 °C.' Additionally, it notes, 'At 400 °C, a reduced growth inhibition and an earlier start of three-dimensional growth of islands results in film closure at about 100 cycles, corresponding to a TiN thickness of 24 63 Å.'"
+}<|im_end|>

@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "trimethylgallium",
+    "trimethylaluminum",
+    "arsine"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "hydrogen"
+  ],
+  "carrier_gas": [],
+  "evidence": "In this paper, we present data on the ALE growth kinetics of GaAs and AlAs utilizing trimethylgallium, trimethylaluminum and arsine."
+}

@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of Fe(thd)3 and ozone, followed by surface reactions that lead to the formation of a-Fe2O3. The growth process is influenced by the temperature and the decomposition of the iron precursor on the substrate surface, which affects the crystal orientation and growth mode.",
+  "intermediate_species": ["Fe(thd)2 species", "surface hydroxyls", "iron precursor fragments"],
+  "evidence": "The text describes the ALD process using Fe(thd)3 and ozone as precursors, with the growth mechanism influenced by the decomposition of the iron precursor on the substrate surface. It mentions the adsorption of Fe(thd)2 species on the (006) film surface and the transition from Fe(thd)2 to Fe(thd) as the dominant adsorbed precursor fragment, indicating intermediate species such as Fe(thd)2 and surface hydroxyls."
+}

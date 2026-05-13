@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Zn (C2H5)2 + S–OH ! S–O–Zn–C2H5 + C2H6",
+    "H2O + S–O–Zn–C2H5 ! S–O–Zn–OH + C2H6"
+  ],
+  "surface_mechanism_description": "The chemistry for the ALE growth of ZnO using these precursors has been known as: DetZn pulse: Zn(C2H5)2 + S–OH → S–O–Zn–C2H5 + C2H6; Water pulse: H2O + S–O–Zn–C2H5 → S–O–Zn–OH + C2H6. The growth based on these reactions is known to be completely under surface kinetic control.",
+  "intermediate_species": [
+    "S–O–Zn–C2H5",
+    "S–O–Zn–OH"
+  ],
+  "evidence": "The chemistry for the ALE growth of ZnO using these precursors has been known as: DetZn pulse: Zn(C2H5)2 + S–OH → S–O–Zn–C2H5 + C2H6; Water pulse: H2O + S–O–Zn–C2H5 → S–O–Zn–OH + C2H6. where S denotes a surface site."
+}

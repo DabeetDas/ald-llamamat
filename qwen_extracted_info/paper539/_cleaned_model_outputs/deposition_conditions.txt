@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "272-325",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall horizontal flow-type ALD reactor",
+  "evidence": "The films were grown in a hot-wall horizontal flow-type ALD reactor w15x onto p-Si (100) single crystal substrates at four temperatures: two thickness series at 272 and 325 8C, and reference films at 350 and 375 8C. Metal and oxygen precursor pulse lengths were 2 s. Purge times of 2 s were used after each precursor pulse to separate the precursor flows in the gas phase and to remove the excess reactants and gaseous reaction byproducts from the system."
+}

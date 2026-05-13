@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2/Al2O3 nanolaminates",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["trimethyl aluminum and water", "HfCl4 and water", "tetraethyl-methyl-amino-Hf (TEMA-Hf) and water"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the interface engineering and dielectric properties of HfO2/Al2O3 nanolaminates deposited on GaAs using atomic layer deposition (ALD). The research focuses on the passivation of GaAs surfaces using NH4OH or NH4S treatments and the impact on band bending and interfacial space charge. The ALD process involves alternating cycles of HfO2 and Al2O3, with the films grown at 300 °C. The results show a reduction in band bending and interfacial space charge for surfaces treated with NH4S, indicating a self-cleaning effect during ALD.",
+  "evidence": "The dielectrics were deposited using atomic layer deposition of alternating cycles of HfO2 and Al2O3 on GaAs substrates. The ALD was carried out at 300 °C in an ASM F-120 ALD module. The HfO2 was deposited on NH4OH and NH4S treated n-type GaAs using ten cycles of TEMA-Hf and water to form 1 nm thick films. The study shows a reduction in band bending and interfacial space charge for surfaces treated with NH4S, indicating a self-cleaning effect during ALD."
+}<|im_end|>

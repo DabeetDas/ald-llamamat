@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Rutherford Backscattering Spectroscopy (RBS)",
+    "Low-Energy Ion Scattering (LEIS)",
+    "Time-of-Flight Secondary Ion Mass Spectrometry (TOFSIMS)",
+    "Medium Energy Ion Scattering (MEIS)",
+    "Cross-sectional Transmission Electron Microscopy (TEM)",
+    "X-ray Diffraction (XRD)",
+    "Ellipsometry",
+    "Four-point probe",
+    "Atomic Force Microscopy (AFM)"
+  ],
+  "evidence": "The text explicitly mentions the use of XPS, RBS, LEIS, TOFSIMS, MEIS, TEM, XRD, ellipsometry, and AFM. These techniques are described in the context of analyzing the ALD process and the resulting films."
+}<|im_end|>

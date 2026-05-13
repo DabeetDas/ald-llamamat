@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of ozone and the reaction of Co(thd)2 with surface hydroxyl groups. The mechanism is supported by the observation that the half-life of ozone is very short at high temperatures, indicating rapid decomposition into O2. This decomposition is likely catalyzed by the film itself, as is well known for MnO2. The growth mechanism is further supported by the observed thickness gradients and the influence of pulse and purge parameters on the growth rate.",
+  "intermediate_species": [
+    "ozone",
+    "surface hydroxyl groups",
+    "Co(thd)2"
+  ],
+  "evidence": "The surface reaction mechanism is discussed in the context of the limited lifetime of ozone, which decomposes rapidly into O2 in the relevant temperature range. The half-life of ozone at 250 °C is only 0.03 s, and the film itself may catalyze decomposition of ozone. This mechanism is supported by the fact that several times the ozone flux is needed to produce cobalt oxide films compared to calcium carbonate films with the same equipment."
+}

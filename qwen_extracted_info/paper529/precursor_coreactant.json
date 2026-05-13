@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "SiCl4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "NH3"
+  ],
+  "carrier_gas": [],
+  "evidence": "During the SiCl4 half-reaction, a steady-state NH3 pressure was maintained by continuously flowing NH3 through the deposition chamber. The NH3 partial pressure was controlled by varying the conductivity from the deposition chamber to a mechanical pump using an in-line butterfly valve. Following each SiCl4 pulse, the deposition chamber was continually purged with NH3 to re-establish a steady-state NH3 pressure prior to the next SiCl4 pulse."
+}

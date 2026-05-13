@@ -1,0 +1,8 @@
+{
+  "target_material": "Al: WS2 films",
+  "process_type": "ALD and CS2 vulcanization",
+  "main_precursors": ["Al(CH3)3", "(tBuN)2(Me2N)2W", "O plasma"],
+  "temperature_range": "150 ºC for ALD, 700 ºC for vulcanization",
+  "summary": "Al: WS2 films were synthesized using atomic layer deposition (ALD) and CS2 vulcanization. The study investigates the effects of Al doping on the composition, structure, optical, and electrical properties of the films. The results show that Al doping leads to p-type conductivity, alters the optical band gap, and affects the crystallinity and Hall mobility of the films.",
+  "evidence": "Al: WS2 films were synthesized by ALD and CS2 vulcanization. The XRD patterns show a preferential (002) orientation. Core-level binding energies (BEs) of W 4f, S 2p, O 1s, and Al 2s decrease with increasing Al doping content, indicating p-type conductivity. The optical band gap and Hall mobility are tuned by Al doping content."
+}<|im_end|>

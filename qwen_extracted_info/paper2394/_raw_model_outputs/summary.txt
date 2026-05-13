@@ -1,0 +1,8 @@
+{
+  "target_material": "CdSe quantum dots",
+  "process_type": "molecular beam epitaxy (MBE)",
+  "main_precursors": ["CdSe", "ZnSe"],
+  "temperature_range": "7 K to 77 K",
+  "summary": "The study investigates the photoluminescence properties of single CdSe quantum dots embedded in ZnSe, grown by molecular beam epitaxy (MBE) and atomic layer epitaxy (ALE). The spectral diffusion and on/off behavior of the quantum dots were observed, with the spectral peak shifting becoming quicker as temperature increased. The spectral diffusion range was about 1 meV, much smaller than that found in colloidal CdSe quantum dots. The phenomena were explained by a Stark effect due to Auger ionization processes.",
+  "evidence": "The photoluminescence of single CdSe quantum dots in ZnSe grown by molecular beam epitaxy and that of the same system grown by atomic layer epitaxy were investigated. The spectral diffusion and on/off behaviour of single CdSe quantum dots were observed, and the spectral diffusion range was only about 1 meV. The spectral peak shifting became quicker as the temperature rose. The spectral change from blue-shift to red-shift (or vice versa) was much quicker than that found in CdSe quantum dots synthesized as colloids. The phenomena are qualitatively explained by a Stark effect which originated from an Auger ionization process."
+}<|im_end|>

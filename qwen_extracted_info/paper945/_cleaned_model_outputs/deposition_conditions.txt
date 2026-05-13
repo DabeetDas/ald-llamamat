@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "350",
+ "pressure": "2660Pa",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": "5",
+ "number_of_cycles": "720",
+ "reactor_type": "automated ALD system",
+ "evidence": "The pressure in the reactor was measured by a heated capacitance manometer, and maintained at 2660Pa(20Torr) through a motorized throttle control valve in a feedback loop with the capacitance manometer. The reactants and the purge gas were admitted in 5-s pulses through air actuated pneumatic valves capable of operating at temperatures up to 2001C."
+}

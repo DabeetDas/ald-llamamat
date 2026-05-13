@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["diethylzinc (DEZ)", "hydrogen peroxide (H2O2)"],
+  "temperature_range": "100°C",
+  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to create quantum-confined ZnO nanostructures on both two-dimensional (Si wafers) and three-dimensional (SiO2 particles) substrates. The process involves the use of diethylzinc and hydrogen peroxide as precursors at 100°C, resulting in conformal, pinhole-free films. The films exhibit quantum confinement effects, leading to a blue-shift in the bandgap as the crystallite size decreases. The study also explores the impact of thermal annealing on crystallite size and bandgap modulation.",
+  "evidence": "Polycrystalline ZnO films ranging from ∼1.5 to 15 nm in thickness were deposited via ALD using diethylzinc and hydrogen peroxide at 100°C. The ZnO bandgap was increasingly blue-shifted for films of decreasing crystallite size, approaching +0.3 eV at dimensions of 2–3 nm. Post-deposition annealing steps increased the crystallite size of the films, independently of the coating thickness."
+}<|im_end|>

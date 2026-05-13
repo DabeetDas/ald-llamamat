@@ -1,0 +1,8 @@
+{
+  "target_material": "Si",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Si2H6"],
+  "temperature_range": "380 }5403C",
+  "summary": "The study describes the atomic layer deposition (ALD) of silicon (Si) using Si2H6 as the precursor gas. The process involves temperature modulation (TM) and in situ observation of surface reactions via quadrupole mass spectroscopy (QMS). The growth thickness per cycle saturated at 0.3 monolayer when Si2H6 supply was sufficient. The self-limiting adsorption of Si-H compounds occurs at 4003C, and hydrogen desorption occurs at 5503C.",
+  "evidence": "The growth thickness per cycle saturated at 0.3 monolayer when Si2H6 supply was sufficient. The self-limiting adsorption of Si-H compounds occurs at 4003C, and hydrogen desorption occurs at 5503C."
+}

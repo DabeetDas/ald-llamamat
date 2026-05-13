@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnSe/ZnS strained quantum well structures",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": ["Dimethylzinc (DMZn)", "Hydrogen sulfide (H2S)", "Hydrogen selenide (H2Se)"],
+  "temperature_range": "1508C",
+  "summary": "The study describes the growth of ZnSe/ZnS strained quantum well structures on (100)-oriented Si substrates using low-pressure metalorganic atomic layer epitaxy (ALE) at 1508C. The structures exhibit high crystalline quality and optical properties, with a narrow full-width at half-maximum (FWHM) of 32 meV for the photoluminescence (PL) spectra. The process uses DMZn, H2S, and H2Se as reactants, and the results are supported by X-ray diffraction, secondary ion mass spectrometry, and photoluminescence measurements.",
+  "evidence": "The ZnSe/ZnS strained single quantum well (SSQW) and strained multiple quantum well (SMQW) structures were grown on (100)-oriented Si substrates at 1508C in a horizontal cold-wall quartz reactor by low-pressure metalorganic atomic layer epitaxy (ALE) at a pressure of 30 Torr. Dimethylzinc (DMZn), hydrogen sulfide (H2S) and hydrogen selenide (H2Se) were used as the reactants. The high-quality crystalline ZnS(1000A˚)/ZnSe(7lA˚)/ZnS(1000A˚)/Si SSQW structure exhibits a 32 meV full-width at half-maximum (FWHM) for the 7K PL spectra."
+}<|im_end|>

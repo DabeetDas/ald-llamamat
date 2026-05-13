@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the oxidation of germanium using ozone (O3) and water (H2O) in atomic layer deposition (ALD). The oxidation process leads to the formation of a GeO2 passivation layer, with the GeO2 thickness and interface state density being influenced by the oxidant used. The intermixing at the GeO2/high-κ interface is observed, and the interface state density can be reduced by annealing in forming gas.",
+  "intermediate_species": ["GeOx", "Ge in oxidation states lower than 4+"],
+  "evidence": "The text discusses the oxidation of germanium using ozone (O3) and water (H2O) in atomic layer deposition (ALD). It mentions the formation of a GeO2 passivation layer and the influence of the oxidant on the GeO2 thickness and interface state density. The intermixing at the GeO2/high-κ interface is observed, and the interface state density is affected by annealing in forming gas. The XPS analysis indicates the presence of Ge in oxidation states lower than 4+ and the formation of GeOx."
+}<|im_end|>

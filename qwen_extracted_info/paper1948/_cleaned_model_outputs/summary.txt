@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu,S",
+  "process_type": "ALD and LPCVD",
+  "main_precursors": ["copper(I1) bis-tetramethylheptanedionate (Cu(thd)2)", "hydrogen sulfide (H2S)"],
+  "temperature_range": "125-300 'C for ALD, 127-505 'C for LPCVD",
+  "summary": "The study compares atomic layer deposition (ALD) and low-pressure chemical vapor deposition (LPCVD) for the synthesis of copper sulfide (Cu,S) thin films. The process parameters, including temperature, influence the phase composition, morphology, and stoichiometry of the films. ALD forms CuS at temperatures below 175 'C and Cu9S5 above 175 'C, while LPCVD shows a more complex phase transition with temperature. The ALD process is self-limiting up to 250 'C, and the films exhibit a polycrystalline structure with grain sizes of about 100 nm.",
+  "evidence": "The text states: 'Cu,S films form between 125 and 300 'C with ALD and between 127 and 505 'C with LPCVD. Deposition rates are obtained between 1 and 109 hmin by LPCVD and between 0.15 and 0.40 &cycle by ALD. Self-limited grow by ALD is achieved up to 250 'C at 2 mbar. It is found that in both processes the temperature determines the crystalline phase of the films. CuS is obtained at low deposition temperatures when using either ALD or LPCVD. A phase transition occurs at 175 'C from pure CuS into pure CugSs with ALD. In the LPCVD process the phase composition of the films starts to change at 230 'C from pure CuS into a mixture of CuS and Cu9SS. Pure CugSs is obtained between 285 and 315 'C. The morphology of LPCVD films are fine-structured with an average grain size of -100 nm for films of 500 nm, while 40 nm thin ALD films consist of grains with an average grain size of -100 nm grown in columns perpendicular to the surface.'"
+}

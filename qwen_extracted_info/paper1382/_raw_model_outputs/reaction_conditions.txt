@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Mo[NMe2]4 + SH* -> MoO-SH* + NMe2",
+    "MoO-SH* + H2S -> MoS2 + H2"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the self-limiting reaction of the molybdenum precursor with surface -SH groups, followed by the release of amide groups by H2S, leading to the formation of MoS2 and H2. The process is characterized by a saturation curve and non-ideal behavior in the piezoelectric microbalance data.",
+  "intermediate_species": [
+    "MoO-SH*",
+    "amide groups"
+  ],
+  "evidence": "During each ALD cycle (except the first), the Mo[NMe2]4 precursor reacts in a self-limiting way with the −SH reactive groups terminating the substrate’s surface and leaves a dimethylamide termination. In the subsequent step, these amide groups are released by H2S and the surface reverts to the original −SH termination."
+}<|im_end|>

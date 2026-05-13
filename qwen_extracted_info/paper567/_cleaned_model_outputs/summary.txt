@@ -1,0 +1,8 @@
+{
+  "target_material": "AlP",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["DMAH (dimethylaluminum hydride)", "PH3"],
+  "temperature_range": "590°C",
+  "summary": "The study investigates the surface reaction mechanism and morphology control in AlP atomic layer epitaxy (ALE). It highlights the role of methyl desorption and the subsequent Al±Al reaction in surface roughness formation. The process involves the decomposition of DMAH on the P surface, leading to methyl-terminated surfaces that inhibit excess gas adsorption. Shortening the DMAH feeding time within the methyl desorption lifetime improves surface morphology, resulting in a flat surface with atomic steps. The study also discusses the impact of substrate temperature and the importance of controlling the feeding time of group-III gases for achieving high-quality ALE.",
+  "evidence": "The rate equation analysis based on the adsorption inhibition model was performed to discuss the surface reaction process of AlP atomic layer epitaxy. The reaction process, which takes into consideration the methyl desorption and the following Al±Al reaction, well explained the experimental result that the atomic-scale surface flatness was not always retained during ALE growth. The shortening of the source gas feeding time within that lifetime improved the AlP surface morphology, resulting in a flat surface with atomic steps."
+}

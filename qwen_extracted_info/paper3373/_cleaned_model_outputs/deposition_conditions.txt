@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 30,
+  "number_of_cycles": 100,
+  "reactor_type": "hot-wall benchtop ALD system (GEMSTAR-6)",
+  "evidence": "The ALD system was evacuated (ca. 1.5 × 10−1 Torr), and the temperature of the ALD chamber was well stabilized before starting the deposition. All of the samples were in situ cleaned using UV−ozone to remove any organic impurities (500 ms O3 pulse and 30 s exposure, 10 cycles). The temperature of the reaction chamber and the manifolds was maintained at 200 and 115 °C, respectively. Bis(cyclopentadienyl)-nickel (Nickelocene, Ni(Cp)2) and ozone (O3) were used as the metal and oxygen precursors, respectively. The Ni(Cp)2 (contained at 90 °C in a stainless steel bottle) and O3 (at RT) were introduced in a sequential manner using argon both as a carrier and as a purging gas. Typically, one ALD cycle was adjusted as (i) 2 s pulse of Ni(Cp)2, (ii) 30 s exposure of Ni(Cp)2, (iii) 30 s purge of residues, (iv) 0.5 s pulse of O3, (v) exposure of O3 for 30 s, and (vi) 20 s purge to remove the residues."
+}

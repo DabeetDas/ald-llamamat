@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "125",
+ "pressure": "133 Pa",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "49",
+ "reactor_type": "viscous flow ALD",
+ "evidence": "The ALD W/Al2O3 nanolaminate growth was performed in a viscous flow ALD reactor operating at a N 2 carrier gas pressure of ∼ 133 Pa."
+}

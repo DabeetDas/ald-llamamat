@@ -1,0 +1,19 @@
+{
+  "precursors": [
+    "TMA",
+    "trimethyl aluminum",
+    "water",
+    "ozone"
+  ],
+  "coreactants": [
+    "water",
+    "ozone"
+  ],
+  "purge_gas": [
+    "Nitrogen"
+  ],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "Aluminum oxide layer was grown by ALD technique in a Beneq TFS-500 reactor using trimethyl aluminum (TMA) as the precursor for aluminum, and water or ozone as the precursor for oxidation. The deposition was conducted at 220 °C temperature, and the pressure in the reactor was kept at about 5 mbar. Nitrogen was used as a carrier gas to transport precursor vapors to the wafer surface and purge reaction gases from the reactor during each reaction half-cycle."
+}

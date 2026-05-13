@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "180−220",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": 2000,
+  "reactor_type": "F-120",
+  "evidence": "Film deposition was studied in the temperature range of 180−240 °C. Deposition experiments related to the effect of deposition temperature and saturation were performed using 1000 deposition cycles. For the depositions done at 180 °C, a source temperature of 175 °C for Cu(OAc) 2 was used to maintain a thermal gradient between the copper precursor and the substrates. For the film deposition experiments at 200 −240 °C, a source temperature of 185 °C was used. As seen from Figure 1 a, the growth per cycle (GPC) values for films deposited by 1000 cycles were 0.13 ± 0.01 at 180 °C and 0.11 ± 0.01 at 200 −240 °C."
+}

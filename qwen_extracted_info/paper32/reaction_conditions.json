@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process uses trimethylaluminum (TMA) and water (H2O) as precursors to grow Al2O3 thin films. The presence of H2O during the TMA pulse, even after purging with N2, could potentially originate from the porosity of the first Al2O3 layers due to irregularities in the underlying polymer template. Tubes with a diffuse Al2O3 coating could be more porous, allowing water to penetrate to the polymeric template. P4VP is a hygroscopic polymer and could attract and retain traces of H2O that react with TMA in the following reaction cycle.",
+  "intermediate_species": [
+    "Al2O3 film with lower density",
+    "diffuse edges"
+  ],
+  "evidence": "The presence of H2O during the TMA pulse, even after purging with N2, could potentially originate from the porosity of the first Al2O3 layers due to irregularities in the underlying polymer template. Tubes with a diffuse Al2O3 coating could be more porous, allowing water to penetrate to the polymeric template. P4VP is a hygroscopic polymer and could attract and retain traces of H2O that react with TMA in the following reaction cycle."
+}

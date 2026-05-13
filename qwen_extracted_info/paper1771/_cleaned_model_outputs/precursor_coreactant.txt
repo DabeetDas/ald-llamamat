@@ -1,0 +1,7 @@
+{
+  "precursors": ["lithium tert-butoxide (LTB)", "trimethylaluminum (TMA)", "tetraethyl orthosilane (TEOS)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Metalorganic precursors, lithium tert-butoxide (LTB, Strem Chemicals, 98%), trimethylaluminum (TMA, Sigma-Aldrich, 97%), and tetraethyl orthosilane (TEOS, Sigma-Aldrich, 99.999%) were used as the sources for Li, Al and Si, respectively, while H2O vapor, the oxidant, was supplied by a deionized water reservoir. TEOS was stored in a bubbler and introduced into the reactor using N2 as a carrier gas."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "CdTe, HgTe, HgCdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["methylallytelluride (MATe)", "dimethylmercury (DMHg)", "dimethylcadmium (DMCd)"],
+  "temperature_range": "120-160 °C for HgTe, 250-290 °C for CdTe",
+  "summary": "The study demonstrates the atomic layer epitaxy (ALE) of CdTe, HgTe, and HgCdTe using alkyl precursors on GaAs and CdTe substrates. The ALE process for HgTe was achieved at 140 °C, while CdTe was grown over a wide temperature range (250-290 °C). HgCdTe layers were formed by sequentially depositing HgTe and CdTe and then interdiffusing them at higher temperatures. The process showed monolayer control and uniform film growth.",
+  "evidence": "ALE of HgTe was achieved at 140 °C, and the monolayer per cycle condition extended over a wide range of DMHg flux. ALE growth of CdTe was carried out over a wide temperature range (250-290 °C) and reactant partial pressure. HgCdTe layers were also grown by alternately depositing HgTe and CdTe onto CdTe substrates and then interdiffusing them at higher temperatures."
+}

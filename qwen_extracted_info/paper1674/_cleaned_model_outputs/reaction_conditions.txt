@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "Ti(NMe2)2(OiPr)2 + O* → TiO2 + combustion byproducts (CO2, H2O, CO, NOx)",
+    "Ti(OiPr)3(NiPr-Me-amd) + O* → TiO2 + combustion byproducts (CO2, H2O, CO, NOx)"
+  ],
+  "surface_mechanism_description": "Combustion reactions occur during both ozone and metal precursor pulses, involving active oxygen and readsorbed combustion byproducts as reactive sites for metal precursor adsorption. The adsorption of Ti(NMe2)2(OiPr)2 involves ligand exchange with surface hydroxyl groups and partial decomposition of the amidinate ligand. Similarly, Ti(OiPr)3(NiPr-Me-amd) undergoes ligand exchange with surface hydroxyl groups and partial decomposition of the amidinate ligand during the water process.",
+  "intermediate_species": [
+    "isopropoxy ligands",
+    "alkylamide ligands",
+    "amidinate ligands",
+    "carbonates",
+    "formates",
+    "hydroxyl groups",
+    "active oxygen radicals"
+  ],
+  "evidence": "The reaction mechanisms taking place during the ALD process were studied in situ with quadrupole mass spectrometry (QMS) and quartz crystal microbalance (QCM). The adsorption of Ti(NMe2)2(OiPr)2 molecules with the aforementioned surface species explains the presence of combustion byproducts during the metal precursor pulse. The isopropoxy and alkylamide ligands can react with the hydroxyl and carbonate surface groups, releasing CO2 and hydrogenated ligands, or they can be combusted by the active oxygen radicals, releasing H2O and other combustion byproducts (CO2, CO, and NOx)."
+}

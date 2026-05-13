@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "warm wall stainless steel reactor",
+  "evidence": "The MgO thin films were deposited in a warm wall stainless steel reactor on approximately 1 cm2 Si wafer pieces with 1.6 nm native SiO2 layers."
+}

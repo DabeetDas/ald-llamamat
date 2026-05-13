@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "During the plasma exposure, combustion-like reactions occur, in which the alkylamide N(CH3)2 ligands are oxidized by the O radicals generated in the plasma. The presence of excited C w N* molecules in the plasma was observed.",
+  "intermediate_species": ["HN(CH3)2", "CO", "CO2", "H2O", "CN*", "HCN+", "NCH2+"],
+  "evidence": "During the plasma step, combustion products such as CO, CO2, and H2O were detected. This indicates that combustionlike processes occur, in which the alkylamide N(CH3)2 ligands are oxidized by the O radicals generated in the plasma. Additionally, the presence of excited C w N* molecules in the plasma was observed in the plasma emission."
+}<|im_end|>

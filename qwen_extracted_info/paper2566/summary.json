@@ -1,0 +1,12 @@
+{
+  "target_material": "ZrO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "ZrCp(NMe2)3",
+    "ZrCpMe(NMe2)3",
+    "ZrCpEt(NMe2)3"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "Zirconium oxide (ZrO2) thin films were grown by atomic layer deposition (ALD) from novel monocyclopentadienyl precursors on TiN and SiO2/Si substrates. The films demonstrated conformal growth with step coverage of 80–90% in deep trenches. The films crystallized into cubic or tetragonal polymorphs upon exceeding a threshold thickness or annealing. The study focused on the structural, dielectric, and electrical properties of the films, including leakage current densities and capacitance equivalent oxide thickness (CET).",
+  "evidence": "ZrO2 thin films were grown by atomic layer deposition from new cyclopentadienyl precursors on planar TiN and SiO2/Si substrates, as well as on silicon having deep trenches with aspect ratio of 1:60. The films demonstrated conformal growth in trenches achieving step coverage of 80%–90%. ZrO2 films crystallized either after exceeding threshold thickness or upon annealing dominantly in the cubic or tetragonal polymorph."
+}

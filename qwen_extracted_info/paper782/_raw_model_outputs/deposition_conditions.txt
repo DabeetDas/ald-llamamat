@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-300",
+  "pressure": "2.5 kPa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "500",
+  "reactor_type": "FD-008",
+  "evidence": "The ALD system used in the present experiments was FD-008 of Furukawa Co. Ltd. The deposition cycle was composed of 4 sequential steps, i.e., TMA adsorption, TMA purging from the chamber with N2, Al oxidation by H2O, and H2O purging. The cycle was repeated 500 times at the maximum. The gas pressure was either atmospheric or 2.5 kPa, and the substrate temperature was varied between 473 and 723 K."
+}<|im_end|>

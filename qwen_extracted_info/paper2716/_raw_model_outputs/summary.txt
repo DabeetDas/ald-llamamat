@@ -1,0 +1,8 @@
+{
+  "target_material": "Nitrogen incorporated molybdenum oxide (MoOx:N)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Mo(CO)6", "O3", "NH3"],
+  "temperature_range": "170 °C",
+  "summary": "The study describes the atomic layer deposition of nitrogen incorporated molybdenum oxide (MoOx:N) as a method to enhance the conductivity and electrochemical performance of the material for use in Li-ion batteries. The process involves stacking MoOx and MoNx layers without post-deposition treatment, resulting in a nanolaminate structure. The incorporation of nitrogen creates oxygen vacancies, acting as shallow donor levels, which improve conductivity. The material shows improved electrochemical performance, with a high discharge capacity of 1287 mA h g−1 in the first cycle and stable capacity at higher current rates.",
+  "evidence": "Nitrogen incorporated molybdenum oxide (MoOx:N) thin films are obtained by stacking of atomic layer deposited grown MoOx and MoNx in a nanolaminate architecture without any postdeposition processing. The authors hypothesize that the addition of N-atom creates oxygen vacancies in the films that in turn act as a shallow donor level that results in improved conductivity in the ternary material. The highest discharge capacity of 1287 mA h g−1 was achieved in the first cycle at a current rate of 0.1 A g−1, and a stable capacity of 974 and 610 mA h g−1 is achieved when discharged at 0.1 and 2 A g−1, respectively, from the core-shell structures."
+}<|im_end|>

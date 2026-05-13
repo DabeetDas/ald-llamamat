@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The precursors and oxygen plasma are reacted at the surface of the substrate via a self-limiting reaction.",
+  "intermediate_species": ["Ti 4þ oxidation state", "hydroxyl (OH) species"],
+  "evidence": "This indicates that the precursors and oxygen plasma are reacted at the surface of the substrate via a self-limiting reaction. The XPS results indicate that stoichiometric TiO 2 thin films were deposited for both precursors. The shoulder located at 531.55 eV can be attributed to hydroxyl (OH) species, and about 15% of the oxygen is in the form of OH groups contained in both DM-Ti and TTIP precursors."
+}

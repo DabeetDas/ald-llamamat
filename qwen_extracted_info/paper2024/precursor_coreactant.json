@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "HfI4"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "HfI4 ~Strem Chemicals, 99% ! was evaporated from an open boat held at 185–195 °C inside the reactor. O 2 ~AGA, 99.999%! was fed into the reactor from an external reservoir through a needle and solenoid valves. N 2 ~AGA, 99.999%! was used as both the precursor carrier and purge gas."
+}

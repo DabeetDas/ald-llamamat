@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(dimethylamido)hafnium (Hf(NMe2)4)", "water"],
+  "temperature_range": "250 ◦C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit a HfO2 gate insulator on carbon nanotube field-effect transistors (CNFETs), resulting in a change from p-type to n-type conduction. The change in carrier type is attributed to positive fixed charges introduced at the interface between the HfO2 and SiO2 layers. The technique is compatible with Si CMOS process technology and results in stable n-type conduction in air.",
+  "evidence": "AHfO2 layer with a thickness of 12 nm was deposited on the CNFETs by ALD (Cambridge NanoTech Inc., Savannah 100) at 250 ◦C with tetrakis(dimethylamido)hafnium (Hf(NMe2)4) and water as the precursors [ 12]. The change in carrier type is attributed to positive fixed charges introduced at the interface between the HfO2 and SiO2 layers. The technique is compatible with Si CMOS process technology."
+}<|im_end|>

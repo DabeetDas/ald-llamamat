@@ -1,0 +1,11 @@
+{
+  "target_material": "Hafnium dioxide (HfO2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "225}9403C",
+  "summary": "The study investigates the growth of nanocrystalline hafnium dioxide (HfO2) thin films using atomic layer deposition (ALD) at varying substrate temperatures. The films were grown on silicon and silica substrates using HfCl4 and H2O as precursors. The crystalline films exhibited monoclinic HfO2, with preferential orientation depending on the growth temperature. The crystallite sizes and orientation were influenced by the growth temperature and film thickness. The study also explored the effect of precursor doses and temperature on the phase composition and texture development in the films.",
+  "evidence": "The method allowed deposition of nanocrystalline films on silicon and silica substrates at temperatures 300}9403C. The crystalline films of 30}375nm thickness contained monoclinic HfO2, mainly, independent of the growth temperature used. The crystallite sizes and the effect of them on the properties of the ALD-grown HfO2 films, in turn, have been investigated in a narrow thickness range at the deposition temperature of 3003C, only. The growth rate decrease observed with the increase of „G from 2253C to 6003C is most probably due to the decreasing contribution of surface exchange reactions taking place during HfCl4 adsorption."
+}

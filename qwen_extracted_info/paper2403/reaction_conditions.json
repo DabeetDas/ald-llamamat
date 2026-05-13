@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD Ru process involves the use of DER (2,4-(dimethylpentadienyl)(ethylcyclopentadienyl)Ru) as a precursor and O2 as a reactant. The reaction mechanism is characterized by the self-saturation behavior of DER, indicating a surface reaction where DER molecules adsorb and react with surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The high reactivity of DER leads to good nucleation behavior and low roughness.",
+  "intermediate_species": [
+    "DER molecules",
+    "surface hydroxyl groups",
+    "Ru top surface film"
+  ],
+  "evidence": "The ALD Ru process with a negligible nucleation delay and low roughness was achieved by using 2,4-(dimethylpentadienyl)(ethylcyclopentadienyl)Ru (DER) as a Ru precursor and O2 as a reactant. The high reactivity of DER leads to better nucleation behavior. The Ru top surface film should be removed to fabricate Ru nanodot and nanowire arrays. The Ru top film was removed by using a Cl2 plasma etching."
+}

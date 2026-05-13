@@ -1,0 +1,8 @@
+{
+  "target_material": "BeO",
+  "process_type": "ALD",
+  "main_precursors": ["Be(CH3)2", "water"],
+  "temperature_range": "250°C",
+  "summary": "The study focuses on the fabrication and characterization of atomic layer deposited beryllium oxide (BeO) as a gate dielectric for InGaAs MOS devices. BeO was deposited using a novel ALD process with dimethyl beryllium as a precursor. The results show that BeO provides better electrical performance, lower leakage current, and improved interface quality compared to Al2O3. The ALD process also demonstrated good thermal stability and self-cleaning effects on the InGaAs surface.",
+  "evidence": "The text states that BeO was deposited using a novel ALD process with dimethyl beryllium as a precursor. It also mentions that BeO provides better electrical performance, lower leakage current, and improved interface quality compared to Al2O3. The ALD process was performed at 250°C."
+}<|im_end|>

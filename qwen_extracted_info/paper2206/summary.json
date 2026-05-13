@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnO",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Trimethylaluminum",
+    "Diethylzinc",
+    "H2O"
+  ],
+  "temperature_range": "40 to 120 °C",
+  "summary": "The study describes the synthesis of ZnO and carbon nanotube (CNT) based coaxial heterostructures using atomic layer deposition (ALD). ZnO shells were deposited on CNTs, with the morphology of the ZnO shell being influenced by the presence of an intermediate Al2O3 layer. The process involved varying deposition temperatures and precursor exposure times to achieve uniform ZnO layers.",
+  "evidence": "For ZnO deposition, DEZ and H2O were alternately introduced into the ALD chamber with pulses of 0.4 and 1.5 s, respectively. The deposition was started with a substrate temperature of 70 °C and a background pressure of 0.15 Torr. The shell thickness was controlled by the number of precursor/purge cycles. 50 cycles were used for the deposition of 10 nm of Al2O3 and 70 cycles for the deposition of 25 nm of ZnO."
+}

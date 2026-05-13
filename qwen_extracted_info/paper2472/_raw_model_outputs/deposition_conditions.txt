@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 370,
+  "pressure": "",
+  "precursor_pulse_time_s": 11,
+  "coreactant_pulse_time_s": 11,
+  "purge_time_s": 8,
+  "number_of_cycles": 1600,
+  "reactor_type": "ALD",
+  "evidence": "Lu2O3 films were grown by atomic-layer deposition (ALD) at a growth temperature of 370 °C. Each single growth cycle consisted of separate pulses of (i) a biscyclopentadienyl-Lu compound as a precursor of Lu (duration: 11 s); (ii) N2 for purging (8 s); (iii) H2O as O precursor (11 s); (iv) N2 to purge again (8 s)."
+}<|im_end|>

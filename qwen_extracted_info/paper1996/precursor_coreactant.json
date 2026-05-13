@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Trimethylgallium (TMGa)",
+    "Trimethylaluminum (TMAl)",
+    "Ethyldimethylindium (EDMIn)"
+  ],
+  "coreactants": [
+    "Nitrogen"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "Nitrogen"
+  ],
+  "evidence": "The quality and InN percent of the films were characterized by u–2u x-ray diffraction (u–2u XRD) and x-ray rocking curve (XRC). Figure 1 plots the InN percent, as determined by u–2u XRD, in InGaN as a function of the hydrogen flow injected with the nitrogen carrier gas. All of the samples were grown by MOCVD using 1 sccm of TMGa (210 °C), and 90 sccm of EDMIn (110 °C) in 5 slm of nitrogen carrier gas and 5 slm of ammonia at the temperatures and hydrogen flows indicated."
+}

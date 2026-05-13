@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "plasma-enhanced ALD (ALD AFTEX 600)",
+  "evidence": "The ALD cycle was similar to our previous report with the optimized plasma exposure for 1.5 s."
+}

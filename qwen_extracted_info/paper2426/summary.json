@@ -1,0 +1,11 @@
+{
+  "target_material": "Silver nanoparticles",
+  "process_type": "Liquid injection atomic layer deposition (ALD)",
+  "main_precursors": [
+    "(hfac)Ag(1,5-COD)",
+    "propanol"
+  ],
+  "temperature_range": "110–150 ◦C",
+  "summary": "The study demonstrates the growth of silver nanoparticles using liquid injection atomic layer deposition (ALD) for the first time. The process uses (hfac)Ag(1,5-COD) as the silver precursor dissolved in toluene and propanol as the reducing agent. The effect of substrate temperature on nanoparticle size and distribution was investigated over the range of 110–150 ◦C. Transmission electron microscopy revealed face-centered cubic, faceted silver crystallites, and electron energy loss spectroscopy (EELS) mapping showed localized surface plasmon resonances, including dipolar and quadrupolar modes, with a loss feature at 8.1 eV correlating with the bulk or volume of the nanoparticles.",
+  "evidence": "The silver was deposited from pulses of the organometallic precursor (hfac)Ag(1,5-COD) ((hexaﬂuoroacetylacetonato)silver(I) (1,5-cyclooctadiene)) dissolved in a 0.1 M toluene solution. Catalytic oxidative dehydrogenation of the silver was achieved using intermittent pulses of propanol. The effect of substrate temperature on the size and distribution of nanoparticles has been investigated over the temperature range 110–150 ◦C. Transmission electron microscopy reveals that the nanoparticles consist of face centred cubic, facetted silver crystallites. The localized surface plasmon modes of the nanoparticles have been investigated using electron energy loss spectroscopy mapping. The distributions of plasmons within the ALD nanoparticles are comparable to those grown by solution methods. Both dipolar and quadrupolar resonant modes are observed, which is consistent with previous discrete dipole approximation models. Energy loss mapping of a loss feature at 8.1 eV reveals that it correlates with the bulk or volume region of the silver nanoparticles investigated here."
+}

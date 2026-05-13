@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Ga(N(CH3)2)3(g) + ySH → Ga(N(CH3)2)3-yS + yN(CH3)2(g)",
+    "Ga(N(CH3)2)3-yS + (3 - y)H2S → Ga2S3 + yN(CH3)2(g) + (3 - y)SH"
+  ],
+  "surface_mechanism_description": "The ALD mechanism for GaSx involves the reaction of hexakis(dimethylamido)digallium (Ga2(NMe2)6) with thiol groups (–SH) on the surface, followed by the removal of dimethylamido ligands by H2S to form Ga2S3 and regenerate surface thiols. The reaction is self-limiting and temperature-dependent, with the S/Ga ratio varying between 1.0–1.2 in the temperature range of 125–200 °C.",
+  "intermediate_species": [
+    "Ga(N(CH3)2)3",
+    "Ga(N(CH3)2)3-yS",
+    "dimethylamido ligands (–N(CH3)2)",
+    "thiol groups (–SH)"
+  ],
+  "evidence": "Based on our in situ measurements and ex situ characterization, we proposed the following mechanism for the GaSx ALD: (SH) Ga(N(CH ) ) (g) S Ga(N(CH ) ) yHN(CH ) (g) y3 2 3 y3 2 ( 3 y ) −+ → − − (1) S Ga(N(CH ) ) 1.5H S g (GaS )–(SH) (3 y)HN(CH ) (g) y3 2 ( 3 y ) 2 1 . 5 y ()−− + → − (2) in which the symbol “|–” represents the surface, “(g)” denotes gaseous phase, and the monomeric Ga compound is used for simplicity."
+}

@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnSxSe1~x",
+  "process_type": "Atomic layer epitaxy (ALE)",
+  "main_precursors": [
+    "Dimethylzinc (DMZn)",
+    "H2S",
+    "H2Se"
+  ],
+  "temperature_range": "175 ¡C",
+  "summary": "The study describes the growth of ZnSxSe1~x epitaxial layers on (1 0 0)Si substrates using atomic layer epitaxy (ALE). The layers were characterized using X-ray diffraction and photoluminescence measurements. The lattice match was achieved at x=0.93, resulting in improved crystalline quality. The process conditions included specific flow rates and pulse durations for the precursors, with a growth pressure of 30 Torr and a VI/II ratio of 10.",
+  "evidence": "The experimental procedure is described in the next section. Section 3 presents the data and discusses the results regarding the lattice constant, full-width at half-maximum (FWHM) and band gap as a function of compositionx. The growth conditions of ZnSxSe1~x are listed with a substrate temperature of 175 ¡C."
+}

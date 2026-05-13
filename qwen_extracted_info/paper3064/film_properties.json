@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 300,
+  "density_g_cm3": null,
+  "refractive_index": "1.6 at 633 nm",
+  "surface_roughness_nm": 0.2,
+  "crystal_phase": "Amorphous",
+  "evidence": "Aluminium oxide films did not show any signs of crystallinity, irrespective of the ALD temperature. The samples remained smooth, with AFM rms roughness between 0.2-0.4 nm, the lower values corresponding to lower ALD temperatures."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "850",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "plasma-enhanced ALD (PE-ALD, Oxford Instruments FlexAl)",
+  "evidence": "The tungsten precursor (bis(tert-butylimido)-bis-(dimethylamido) tungsten)34 was dosed into the chamber for 3 seconds at 20 mTorr using 200 sccm argon as a bubbling carrier gas."
+}

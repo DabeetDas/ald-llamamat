@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves alternating saturating surface reactions where a precursor vapor forms a monolayer on the substrate surface, followed by a purge gas to remove excess precursor, and then a reactant gas pulse that reacts with the adsorbed precursor to form the target film. The self-limiting nature of the reactions allows for precise control of film thickness.",
+  "intermediate_species": ["TDMA T", "NH3", "surface hydroxyls", "Ti–N bonds"],
+  "evidence": "The ALD process consists of a set of sequential, self-limiting deposition processes that operate on the principle of alternating saturating surface reactions. During ALD, a substrate is exposed to a precursor vapor that forms a monolayer or sub-monolayer of the precursor on the surface of the substrate. After excess precursor is removed from the vapor phase by a purge gas (e.g. Ar), the reactant gas is subsequently pulsed onto the substrate, where it reacts with the adsorbed precursor layer to form a layer of the target film-forming material."
+}<|im_end|>

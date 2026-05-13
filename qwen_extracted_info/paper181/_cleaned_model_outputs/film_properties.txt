@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 2,
+  "density_g_cm3": 9.5,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.5,
+  "crystal_phase": "Amorphous",
+  "evidence": "The thickness of the PtO x ﬁlms grown on SiO 2, as measured by in-situ SE as a function of cycle number. The inset shows the first 70 cycles. As can be seen, the curve does not take off linearly at the origin. The offset of /C24 20 cycles can be attributed to a nucleation delay that is also known to occur during the initial growth of metallic Pt. The fit shows a linear increase of thickness as a function of cycle number after approximately 30 –50 cycles, which indicates that layer-by-layer growth may occur after the film has reached a thickness of approximately 2 nm. The GPC was 0.052 /C6 0.004 nm, which agrees with the results from Knoops et al. (0.060 /C6 0.004 nm at 100 °C)."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "AlOH* + Al(CH3)3 f Al-O-Al(CH3)2* + CH4",
+    "AlCH3* + H2O f AlOH* + CH4"
+  ],
+  "surface_mechanism_description": "The binary reaction sequence for Al2O3 chemical vapor deposition was separated into two half-reactions: (A) AlOH* + Al(CH3)3 f Al-O-Al(CH3)2* + CH4 and (B) AlCH3* + H2O f AlOH* + CH4. These reactions are self-limiting and occur alternately in an ABAB... sequence to achieve atomic layer controlled deposition on high aspect ratio structures.",
+  "intermediate_species": [
+    "AlOH*",
+    "AlCH3*",
+    "Al-O-Al(CH3)2*"
+  ],
+  "evidence": "The binary reaction 2Al(CH3)3 + 3H2O f Al2O3 + 6CH4 was separated into two half-reactions: (A) AlOH* + Al(CH3)3 f Al-O-Al(CH3)2* + CH4 and (B) AlCH3* + H2O f AlOH* + CH4, where the asterisks designate the surface species."
+}<|im_end|>

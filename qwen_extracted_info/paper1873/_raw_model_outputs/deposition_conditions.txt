@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "170-220",
+  "pressure": "10 kPa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "5",
+  "reactor_type": "flow-type ALD reactor",
+  "evidence": "The catalyst samples were prepared in a flow-type ALD reactor at about 10 kPa with nitrogen (AGA) as carrier gas."
+}<|im_end|>

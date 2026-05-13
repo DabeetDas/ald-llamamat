@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 170,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": 15,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type custom-built reactor",
+  "evidence": "Amorphous molybdenum oxide from molybdenum hexacarbonyl [Mo(CO)6] (Gelest, USA) and ozone (O3) was deposited at 170 °C in a flow-type custom-built reactor with N2 (99.995%) as a carrier and purging gas. The base pressure of the reactor was maintained at approximately 1 Torr for all the experiments."
+}

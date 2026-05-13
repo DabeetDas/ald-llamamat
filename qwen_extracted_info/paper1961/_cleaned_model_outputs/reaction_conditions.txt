@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "TMA + H2O -> Al2O3 + CH4"
+  ],
+  "surface_mechanism_description": "Surface O--H groups react with TMA at room temperature, bonding the Al to the O and freeing CH4 into the gas phase. This leaves a methylated Al atom behind, free to react with H2O during the next vapor pulse, again freeing CH4 into the gas phase, but this time leaving Al-O-H groups on the surface. As the process is repeated, Al2O3 is formed as the surface reaction proceeds.",
+  "intermediate_species": [
+    "Al-O-H groups",
+    "methylated Al atom"
+  ],
+  "evidence": "Infrared spectroscopic studies have shown that surface O--H groups react with TMA at room temperature, bonding the Al to the O freeing CH4 into the gas phase. This leaves a methylated Al atom behind, free to react with H2O during the next vapor pulse, again freeing CH4 into the gas phase, but this time leaving AI-O--H groups on the surface. As the process is repeated, Al2O3 is formed as the surface reaction proceeds."
+}

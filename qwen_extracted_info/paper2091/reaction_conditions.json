@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "AlOH* + Al(CH3)3(g) → AlOAl(CH3)2* + CH4(g)",
+    "AlCH3* + H2O(g) → AlOH* + CH4(g)"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the sequential exposure of carbon nanotubes to trimethylaluminum (Al(CH3)3) and water (H2O). The first reaction forms AlOAl(CH3)2* species, while the second reaction regenerates AlOH* sites through the interaction with water.",
+  "intermediate_species": [
+    "AlOH*",
+    "Al(CH3)3*",
+    "AlOAl(CH3)2*"
+  ],
+  "evidence": "The carbon nanotubes were first exposed to trimethylaluminum (Al(CH3)3) and then to the subsequent water exposure. This pattern was repeated to obtain the desired film thickness. The reactions are described as: AlOH* + Al(CH3)3(g) → AlOAl(CH3)2* + CH4(g), and AlCH3* + H2O(g) → AlOH* + CH4(g)."
+}

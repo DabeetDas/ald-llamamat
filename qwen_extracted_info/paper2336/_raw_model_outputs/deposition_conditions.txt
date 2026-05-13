@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "300 Pa",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 4.0,
+  "number_of_cycles": 500,
+  "reactor_type": "Picosun R-150",
+  "evidence": "For Al2O3 growth, the AlMe3 pulse and purge times were 0.1 and 4.0 s, respectively, followed by 0.1 and 4.0 s H2O pulse and purge steps. This reaction sequence was repeated for 500 cycles, leading approximately to 50 nm film. Chamber pressures for both Al2O3 and TiO2 during the runs were appr. 300 Pa."
+}<|im_end|>

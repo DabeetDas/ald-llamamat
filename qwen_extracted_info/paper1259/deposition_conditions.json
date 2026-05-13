@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "260-350",
+  "pressure": "1.0 × 10−2 mbar",
+  "precursor_pulse_time_s": 6,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 3,
+  "number_of_cycles": "1700",
+  "reactor_type": "home-built plasma ALD reactor",
+  "evidence": "During the precursor dosing step of the ALD recipe, this precursor was dosed into the reactor using Ar as a carrier gas, yielding a pressure of 4.0 × 10−2 mbar inside the chamber; dosing lasted for 6 s. Subsequently, the CoCp2 dosing line and reactor were purged with Ar for 3 s and then the reactor was pumped down for 6 s. As a co-reactant step, NH3 plasma was applied for 10 s."
+}

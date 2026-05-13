@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnS",
+  "process_type": "Metalorganic Molecular Beam Epitaxy",
+  "main_precursors": [
+    "Zn",
+    "H2S"
+  ],
+  "temperature_range": "500°C",
+  "summary": "The study focuses on the atomic layer epitaxy of ZnS on GaAs substrates using metalorganic molecular beam epitaxy.",
+  "evidence": "Atomic Layer Epitaxy of ZnS on GaAs Substrates by Metalorganic Molecular Beam Epitaxy"
+}

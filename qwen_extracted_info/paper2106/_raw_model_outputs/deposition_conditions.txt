@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "100– 175",
+ "pressure": "100 sccm",
+ "precursor_pulse_time_s": "0.1",
+ "coreactant_pulse_time_s": "0.15",
+ "purge_time_s": "30",
+ "number_of_cycles": null,
+ "reactor_type": "hot-wall ALD flow reactor",
+ "evidence": "Al2O3 ALD was performed in a hot-wall ALD flow reactor using sequential, self-limiting exposures to trimethylaluminum (TMA) and water. A typical ALD cycle at 120 ° C consisted of a 0.1 s TMA exposure, a 30 s purge, a 0.15 s water exposure, and another 30 s purge."
+}<|im_end|>

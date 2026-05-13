@@ -1,0 +1,7 @@
+{
+  "precursors": ["Trimethylaluminum [Al(CH3)3, TMA]"],
+  "coreactants": ["water"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "Trimethylaluminum [Al(CH3)3, TMA] and water were selected as the aluminum precursor and oxygen reactant sources, respectively. The deposition was begun with a substrate temperature of 150 °C and a background pressure of 0.15 Torr. During each deposition cycle, TMA and water were alternately introduced into the ALD chamber in pulses of 0.3 and 1.3 s, respectively. An exposition time of 20 s and a successive purge time of 20 s under an Ar stream (10 sccm) were employed for both precursors."
+}

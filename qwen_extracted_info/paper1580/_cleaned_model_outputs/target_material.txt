@@ -1,0 +1,8 @@
+{
+  "target_material": {
+    "chemical_formula": "Fe2O3",
+    "material_name": "Iron(III) oxide",
+    "material_class": "Oxide"
+  },
+  "evidence": "The Fe(acac)3 precursor reacts already at room temperature with YSZ. The reaction proceeds until saturation, which is characteristic for ALD. After the results of repeated ALD cycles, which consist of Fe(acac)3 deposition followed by an oxidation treatment, have been studied, a model could be proposed which describes the growth mode of the iron oxide layer on YSZ."
+}

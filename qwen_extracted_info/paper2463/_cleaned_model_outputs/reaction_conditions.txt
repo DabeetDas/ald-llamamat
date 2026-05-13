@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "SiH2Cl2(g) → Si(a) + 2HCl(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "SiCl(a)",
+    "Cl(a)",
+    "H(a)"
+  ],
+  "evidence": "The reaction has been verified to proceed following the Eley-Rideal mechanism, in which a H atom coming toward the surface combines directly with a Cl adatom, forming a HCl product molecule. The problem here is that the substrate temperature must be high enough that HCl desorption is facilitated. Making the situation more complicated, however, HCl desorption produces excess thermal growth at the same time by releasing HCl directly from the SiH2Cl2 reactant molecule by the following overall scheme: SiH2Cl2(g) → Si(a) + 2HCl(g), where (g) and (a) denote the gas and adsorbate, respectively."
+}

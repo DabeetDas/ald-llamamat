@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Mn(thd)3 + O3 -> MnO2 + byproducts",
+    "Li(thd) + O3 -> Li+ + byproducts",
+    "Li+ + MnO2 -> Li xMn2O4"
+  ],
+  "surface_mechanism_description": "A reduction-oxidation mechanism of manganese during the lithium subcycle is suggested as an explanation for the surprisingly high Li content during deposition. The lithium subcycles can also be separated from the ALD process and applied subsequently to MnO2 deposited films and, interestingly, also to V2O5 films, thereby converting these films to LixMn2O4 and LixV2O5, respectively.",
+  "intermediate_species": [
+    "MnO2",
+    "Li+",
+    "LixMn2O4"
+  ],
+  "evidence": "The reduction-oxidation mechanism of manganese during the lithium subcycle is suggested as an explanation for the surprisingly high Li content during deposition. The lithium subcycles can also be separated from the ALD process and applied subsequently to MnO2 deposited films and, interestingly, also to V2O5 films, thereby converting these films to LixMn2O4 and LixV2O5, respectively."
+}<|im_end|>

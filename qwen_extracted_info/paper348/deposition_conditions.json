@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "450-530",
+  "pressure": "",
+  "precursor_pulse_time_s": 600,
+  "coreactant_pulse_time_s": 600,
+  "purge_time_s": 5,
+  "number_of_cycles": 3000,
+  "reactor_type": "gas flow ALE equipment",
+  "evidence": "The tubing was made of fused quartz and it was kept hot to prevent any condensation of reactants. Pure nitrogen at low pressure was used as the carrier gas for the reactants, and to separate the different ALE reaction phases. The flow velocity inside the reaction tube was set to about 5 ms. The typical length of the ZnC12 pulse was 600 ms, and each pulse contained about 2 x 1019 molecules. The typical length of the H2S pulse was 600 ms and each pulse contained about 1020 molecules."
+}

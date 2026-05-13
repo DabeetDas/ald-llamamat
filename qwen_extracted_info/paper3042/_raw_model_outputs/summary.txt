@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3 and HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Al(CH3)3 (TMA)", "H2O", "Hf(N(CH3)2(C2H5))4 (TEMAH)", "H2O"],
+  "temperature_range": "300°C",
+  "summary": "The study investigates the use of hydrous plasma treatment of Pt electrodes to enhance the ALD growth of ultrathin Al2O3 and HfO2 films. The treatment improves hydrolysis reaction and chemisorption reactivity on the Pt surface, leading to better film uniformity and reduced leakage current in capacitors. The process involves alternating pulses of precursors and gases, with the temperature maintained at 300°C for film deposition.",
+  "evidence": "Ultrathin Al2O3 and HfO2 uniform films of /H110117.3 nm thick were successfully grown by atomic layer deposition /H20849ALD/H20850on Pt electrodes in situ treated with hydrous plasma. The enhancement of hydrolysis reaction and chemisorption reactivity of the metal precursors on the hydroxylated surface of Pt is responsible for improvements in the growth and electrical properties of the ALD films."
+}<|im_end|>

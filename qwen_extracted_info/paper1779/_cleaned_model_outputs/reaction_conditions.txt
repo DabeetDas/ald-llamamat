@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "j–S þ MoðCOÞ6ðgÞ!j –S–MoðCOÞn þð 6 /C0 nÞCOðgÞ",
+    "j–MoðCOÞn þ CH3S2CH3ðgÞ!j –Mo–S þ byproductðgÞ"
+  ],
+  "surface_mechanism_description": "The first-half reaction involves the chemisorption of Mo(CO)6 to form Mo(CO)n, while the second-half reaction involves the dissociative chemisorption of DMDS to form methylthiolate intermediates, which then decompose to produce sulfur adatoms catalyzed by the chemisorbed Mo(CO)n.",
+  "intermediate_species": [
+    "methylthiolate intermediate (CH3S–)",
+    "surface S atoms",
+    "sulfur adatoms"
+  ],
+  "evidence": "The surface reaction mechanism and associated chemistry are described in the text: 'The first-half reaction involves the chemisorption of Mo(CO)6 to form Mo(CO)n, while the second-half reaction involves the dissociative chemisorption of DMDS to form methylthiolate intermediates, which then decompose to produce sulfur adatoms catalyzed by the chemisorbed Mo(CO)n.'"
+}

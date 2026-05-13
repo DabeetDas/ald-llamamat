@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 30,
+  "number_of_cycles": 1500,
+  "reactor_type": "TFS-200",
+  "evidence": "The AlN films were grown by using a commercial PEALD reactor (TFS-200, Beneq, Finland) using standard precursors such as trimethylaluminum Al2(CH3)6 (TMA, Strem Chemicals, Inc., France) and a mixture of N2:H2:Ar gases with a flow ratio of 100 ppm/80 ppm/30 ppm. The AlN films were grown by the following sequence of four steps: TMA (0.1 s), N2 purge (t purge seconds), N2:H2:Ar plasma (20 s), and N2 purge (5 s). The purging time t purge after the TMA pulse was varied to be 5 s, 10 s, 20 s, and 30 s, and the deposition temperature was 180 ○C and 250 ○C."
+}

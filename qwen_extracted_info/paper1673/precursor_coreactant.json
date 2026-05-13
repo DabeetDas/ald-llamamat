@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Fe(2,4-C7H11)2"
+  ],
+  "coreactants": [
+    "H2O2",
+    "O3",
+    "O2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "ALD of iron oxide was performed by alternating exposures of Fe(2,4-C7H11)2 and selected oxygen sources. Fe(2,4-C7H11)2 was held at 55 °C in a stainless steel cylinder attached to a vapor boost (VB) system. High-purity nitrogen carrier gas continuously passes through the ALD chamber at a flow rate of 20 sccm..."
+}

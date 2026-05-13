@@ -1,0 +1,8 @@
+{
+  "target_material": "Praseodymium silicate (Pr9.33(SiO4)6O2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Pr[N(SiMe3)2]3", "H2O"],
+  "temperature_range": "200-400 °C",
+  "summary": "Praseodymium silicate films were deposited using Pr[N(SiMe3)2]3 and H2O via ALD at 200-400 °C. The films contained residual hydrogen and silicon, and crystallized after annealing at 900-1000 °C. The effective permittivity increased upon annealing, and the films showed potential as dielectric layers in capacitive structures.",
+  "evidence": "Amorphous PrOx based films were grown by atomic layer deposition in the temperature range 200-400 °C from Pr[N(SiMe3)2]3 and H2O. The films were Pr9.33(SiO4)6O2 after annealing. Annealing at 800 °C in nitrogen increased the effective permittivity to 15.6-21.0 and decreased the rechargeable trap density. Praseodymium silicate films may be applied after annealing as dielectric layers in capacitive structures."
+}<|im_end|>

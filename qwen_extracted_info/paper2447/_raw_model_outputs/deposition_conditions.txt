@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 500,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "Ultratech/Cambridge NanoTech",
+  "evidence": "The reactor temperature was 300 ◦C. An individual Nb sequence consisted of a 500 ms boosted pulse of TBTDEN followed by a 5 s purge, repeated 3 times. An individual Ti sequence consisted of a 750 ms pulse of TDMAT followed by a 5 s purge."
+}<|im_end|>

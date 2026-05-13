@@ -1,0 +1,12 @@
+{
+  "target_material": "Fe3O4",
+  "process_type": "ALD",
+  "main_precursors": [
+    "ferrocene",
+    "ozone",
+    "3-aminopropyltriethoxysilane"
+  ],
+  "temperature_range": "200 8C",
+  "summary": "The study describes the fabrication of tubular magnetic nanostructures using a combination of glancing angle deposition (GLAD) and atomic layer deposition (ALD). GLAD is used to create columnar Si structures, which are then coated with Fe2O3 via ALD. Subsequent reduction in Ar/H2 atmosphere converts Fe2O3 to Fe3O4. The magnetic properties of the resulting Fe3O4 tubes are analyzed, showing an angular dependence of the coercive field based on the inclination angle of the columns.",
+  "evidence": "We recently established the methodology for creating arrayed tubular magnetic nanostructures based on iron oxide from the ALD precursors ferrocene and ozone in a Cambridge Nanotech Savannah 100 ALD reactor at 200 8C substrate temperature. The organometallic precursor was heated up to 1008C, whereas the oxygen/ozone mixture was generated in an ozone generator of OzoneLab TM by pure oxygen at room temperature as source (inlet pressure of 0.5 bar)."
+}

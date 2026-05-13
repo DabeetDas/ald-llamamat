@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "33",
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "viscous-flow",
+  "evidence": "The time for one complete Al2O3 ALD cycle ranged from 12 s at 177 °C to 203 s at 33 °C. This cycle time was defined by (t1, t2, t3, t4) where t1 is the TMA exposure time, t2 is the N2 purge time following the TMA reactant exposure, t3 is the H2O exposure time, and t4 is the N2 purge time following the H2O reactant exposure. All times are in units of seconds. Longer purge times were required at lower temperatures to avoid Al2O3 chemical vapor deposition (CVD) resulting from insufficient purge times."
+}<|im_end|>

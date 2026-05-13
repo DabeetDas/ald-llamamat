@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "0.8 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 3,
+  "number_of_cycles": null,
+  "reactor_type": "travelling-wave type reactor (Quros. Co, Plus-100)",
+  "evidence": "TTIP vapor was introduced into the chamber for 2 s and then the chamber was purged for 3 s. O 3, which was produced by O 3 generator, was used as an oxygen source with a concentration of 380 g / Nm 3. A mixture of O 2 /N 2 with a flow rate of 700 SCCM/ 5 SCCM (SCCM denotes cubic centimeter per minute at STP) was introduced to the O3 generator to produce O 3. The O 3 feeding time was varied from 1 to 5 s. After the O 3 feeding, residual O 3 and byproducts were purged for 3 s."
+}<|im_end|>

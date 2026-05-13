@@ -1,0 +1,8 @@
+{
+  "target_material": "Iridium and iridium oxide",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["(MeCp)Ir(CHD)", "ozone", "hydrogen"],
+  "temperature_range": "100–180 /C14C",
+  "summary": "The study describes the atomic layer deposition (ALD) of iridium and iridium oxide thin films at low temperatures using (MeCp)Ir(CHD) as the iridium precursor and ozone or hydrogen as the oxidizing/reducing agents. The process allows for the deposition of metallic iridium and iridium oxide films at significantly lower temperatures compared to traditional methods, with the iridium oxide films showing a phase change from crystalline to amorphous at lower temperatures. The study also compares the results with previous processes using molecular oxygen.",
+  "evidence": "Iridium oxide films were successfully grown using (MeCp)Ir(CHD) and ozone between 100 and 180 /C14C, however, the density of the films substantially reduced at 120 /C14C and below. The (MeCp)Ir(CHD)–O3–H2 process is able to produce metallic films at about 100 /C14C lower temperature than the oxygen based process."
+}

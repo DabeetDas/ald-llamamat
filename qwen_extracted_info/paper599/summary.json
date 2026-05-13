@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "150°C",
+  "summary": "The paper describes the use of an optical method, incremental dielectric reflection (IDR), to monitor atomic layer deposition (ALD) of TiO2. The method relies on measuring reflectivity changes at angles close to the Brewster angle, showing high sensitivity for detecting monolayer-by-monolayer growth. The study highlights the application of IDR to track the growth process in transparent systems and demonstrates the effectiveness of the technique in monitoring ALD dynamics.",
+  "evidence": "The method is applied to the monitoring of TiO2 growth. It is shown that the sensitivity of the method is high if one uses the angles of incidence close to the Brewster angle of the substrate. The experiments measured the reflection from growing TiO2 thin films. The growth temperature was 150°C. The main precursors used were TiCl4 and H2O."
+}

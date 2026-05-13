@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "GH&H2-+C,H, + AsH2(ad)",
+    "C&4sH,-+C,H, -t AsHcad) (1’)",
+    "ASH,(ad) + Ashcad) -+xH2 + 2AS(adp (2)"
+  ],
+  "surface_mechanism_description": "Reactions proceed by two routes. The rate-limiting step is the reaction which yields adsorbed ASH, species. Interactions between ASH, pairs form arsenic dimers on the surface. As the substrate temperature increases not only do the reactions proceed more rapidly but surface reconstruction also improves.",
+  "intermediate_species": [
+    "ASH, (x = 1 or 2)",
+    "AsH2(ad)",
+    "As(ad)"
+  ],
+  "evidence": "When the Ga-rich surfaces are exposed to MEAs, arsenic species are deposited on the surfaces at substrate temperatures between 320 and 540 “C. Based on our studies it is suggested that a simple scission of the arsenic-ethyl bond leading to GH&H2-+C,H, + AsH2(ad) or an intramolecular coupling reaction (1) C&4sH,-+C,H, -t AsHcad) (1’) plays a major role when MEAs adsorbs on the Ga-rich surfaces, where (ad) denotes a species adsorbed on the surface. Interactions between adsorbed ASH, (x = 1 or 2) follow as ASH,(ad) + Ashcad) -+xH2 + 2AS(adp (2). At T, = 320 “C, depending on both the exposure level and the exposure time, the extent of reaction ( 1) or (2) can be distinguished. For example, under the experimental conditions depicted in Fig. 1 (a), ASH, may be the adsorbate remaining on the surface. The release of the H ligand might proceed through reaction path (2) or might just involve the thermal desorption of a single ASH, entity. Judging from the increasingly apparent RHEED 2 x4 pattern, the former mechanism seems favored. It is suggested by Tamaru from the decomposition study of ASH, on arsenic surfaces that the reaction ASHJfadl --*AsHZtad) + %a is the rate-determining step. It is likely that the cleavage of the As-alkyl bond of reaction path ( 1) or ( 1’) is the rate-limiting step in our studies. At TS> 400 “C reactions through path ( 1) or (1’) are fast enough such that the As-rich surface is readily obtained through reaction (2)."
+}<|im_end|>

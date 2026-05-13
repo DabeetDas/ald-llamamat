@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150",
+  "pressure": "1 torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 50,
+  "number_of_cycles": 440,
+  "reactor_type": "ALD chamber",
+  "evidence": "The SnS2 lms were deposited by ALD at deposition temperatures of 150 /C14 C. The total time for one SnS 2 ALD cycle was 94 seconds (s). This one cycle time was dened as follows: TDMASn injection 1s-Ar purge 40 s – H2S reactant gas injection 3s-Ar purge 50 s."
+}<|im_end|>

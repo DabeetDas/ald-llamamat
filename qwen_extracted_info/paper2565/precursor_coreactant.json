@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "hafnium tert-butoxide",
+    "titanium isopropoxide"
+  ],
+  "coreactants": [
+    "dry acetic acid"
+  ],
+  "purge_gas": [
+    "pure nitrogen"
+  ],
+  "carrier_gas": [
+    "pure nitrogen"
+  ],
+  "evidence": "Films were deposited using hafnium tert-butoxide or titanium isopropoxide as metal alkoxide precursors. Dry acetic acid was used as oxygen source. Pure nitrogen was used as carrier and purging gas."
+}

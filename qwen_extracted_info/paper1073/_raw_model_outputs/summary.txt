@@ -1,0 +1,8 @@
+{
+  "target_material": "Molybdenum nitride",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["bis( tert-butylimido)-bis(dimethylamido)molybdenum", "ammonia"],
+  "temperature_range": "280 °C",
+  "summary": "Molybdenum nitride nanotubes were synthesized using atomic layer deposition (ALD) on anodized aluminum oxide (AAO) templates. The study investigated the effect of deposition parameters on film growth and nanotube properties. The maximum depth of intrusion of the molybdenum nitride film into the AAO pores was found to be 20 μm, achieved with 7-second precursor pulses. The study also explored the effects of different etching methods on the resulting nanotube structures.",
+  "evidence": "Molybdenum nitride nanotubes were prepared by depositing nitride film on anodized aluminum oxide (AAO) template by atomic layer deposition and then etching away the template with sodium hydroxide solution. The maximum depth of intrusion of the molybdenum nitride film into the AAO pores was found to be 20 μm, achieved with 7-second precursor pulses. The effect of deposition parameters on film growth and the properties of the nanotubes was investigated."
+}<|im_end|>

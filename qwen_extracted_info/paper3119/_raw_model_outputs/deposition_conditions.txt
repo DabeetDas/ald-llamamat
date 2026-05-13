@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "horizontal gas flow reactor",
+  "evidence": "LaAlO3 thin films were deposited in a horizontal gas flow reactor at 300 o C with the precursors lanthanum tris( N,N’-diisopropylformamidinate), trimethylaluminum (TMA) and H 2O. The lanthanum precursor was heated to 120 o C in an oven, while TMA and H2O were kept at ambient temperature."
+}<|im_end|>

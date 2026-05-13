@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Ga(TMHD)3 + O2 plasma -> Ga2O3 + byproducts"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Ga(TMHD)3 molecules on the surface during the precursor pulse, followed by reaction with O radicals from the O2 plasma pulse. This leads to the formation of non-volatile metal oxide and volatile CO and CO2. The ligand combustion mechanism is common in plasma enhanced ALD processes using organometallic precursors.",
+  "intermediate_species": [
+    "Ga(TMHD)3",
+    "O radicals",
+    "CO",
+    "CO2"
+  ],
+  "evidence": "To get more insights into the mechanisms of this novel process, in situ QMS was used to analyze the reaction products formed during both ALD half cycles. The surface reaction kinetics of adsorbed metal b-diketonate precursors with O radicals has been studied extensively by T. T. Van and J. P. Chang. According to the mechanism described in their work, the incoming Ga(TMHD)3 molecules are expected to adsorb non-dissociatively on the surface during the precursor pulse. In the subsequent O2 plasma pulse, O radicals will react with the organic b-diketonate ligands, likely leading to the formation of non-volatile metal oxide and volatile CO and CO2. This type of ligand combustion mechanism is common in plasma enhanced ALD processes using any kind of organometallic precursors."
+}

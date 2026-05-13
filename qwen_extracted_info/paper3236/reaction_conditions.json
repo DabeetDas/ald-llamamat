@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Pb(C11H19O2)2 (g)+(Me3Si)2Te (g)= PbTe (s)+2Me3SiC11H19O2(g)",
+    "Pb(C11H19O2)2 (g)+(Et3Si)2Se (g) = PbSe (s)+2Et3SiC11H19O2(g)"
+  ],
+  "surface_mechanism_description": "The ALD growth of lead telluride and lead selenide followed the Volmer-Weber island growth mode. The nucleation process showed a strong dependence on temperature, and the growth mechanism involved heterogeneous nucleation where atom-to-atom interaction dominated over atom-to-surface interaction. The growth resulted in the formation of numerous isolated PbTe crystallites and polycrystalline structures.",
+  "intermediate_species": [
+    "Me3SiC11H19O2",
+    "Et3SiC11H19O2"
+  ],
+  "evidence": "The reaction involved between the precursors for PbTe is shown below: Pb(C11H19O2)2 (g)+(Me3Si)2Te (g)= PbTe (s)+2Me3SiC11H19O2(g) Pb(C11H19O2)2 (g)+(Et3Si)2Se (g) = PbSe (s)+2Et3SiC11H19O2(g). The ALD growth of lead telluride and lead selenide followed the Volmer-Weber island growth mode. The nucleation process showed a strong dependence on temperature, and the growth mechanism involved heterogeneous nucleation where atom-to-atom interaction dominated over atom-to-surface interaction. The growth resulted in the formation of numerous isolated PbTe crystallites and polycrystalline structures."
+}

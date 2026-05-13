@@ -1,0 +1,8 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "ABC-type ALD",
+  "main_precursors": ["ethylbenzene(1,3-butadiene)Ru(0)", "O2", "H2"],
+  "temperature_range": "225 °C",
+  "summary": "This study investigates the atomic layer deposition (ALD) of ruthenium using an ABC-type process, focusing on the role of oxygen exposure during nucleation. The process involves a three-step ALD cycle with ethylbenzene(1,3-butadiene)Ru(0) precursor, O2 gas, and H2 gas pulses. The addition of an H2 pulse reduces RuOx formed during the O2 pulse to metallic Ru, enabling longer O2 pulses for enhanced nucleation and smoother films. The study demonstrates the deposition of Ru films at 225 °C with low oxygen impurity levels (<4 at. %) and a resistivity of 26 ± 2 μΩ cm. The data highlight the importance of optimizing pulse times for nucleation and steady-growth phases to achieve continuous, smooth films with minimal oxygen incorporation.",
+  "evidence": "The study demonstrates the deposition of Ru films at 225 °C with low oxygen impurity levels (<4 at. %) and a resistivity of 26 ± 2 μΩ cm. The data highlight the importance of optimizing pulse times for nucleation and steady-growth phases to achieve continuous, smooth films with minimal oxygen incorporation."
+}

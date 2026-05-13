@@ -1,0 +1,9 @@
+{
+  "reaction_conditions": [
+    {
+      "code": "missing_evidence",
+      "path": "reaction_conditions.evidence",
+      "message": "Non-empty extraction is missing an evidence string."
+    }
+  ]
+}

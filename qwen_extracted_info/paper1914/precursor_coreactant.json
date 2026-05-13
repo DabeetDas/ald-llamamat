@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "trimethylaluminium (TMA)",
+    "trimethylphosphite (TMP)"
+  ],
+  "coreactants": [
+    "H2O",
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The deposition of AlxPyOz is performed at 150uC by sequentially introducing TMA, H2O, TMP and O3 (9.8 wt% concentration) into the ALD reaction chamber. The ALD sequence is described as 16 (TMA–H2O)–n 6 (TMP–O3)(n =5 ,10 and 20). The pulse time is 0.5 ,1 ,1 and 1s for TMA, H2O, TMP and O3 respectively, and the purge time after each pulse is 15 s."
+}

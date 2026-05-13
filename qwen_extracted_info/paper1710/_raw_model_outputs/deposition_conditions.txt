@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 500,
+  "coreactant_pulse_time_s": 500,
+  "purge_time_s": 500,
+  "number_of_cycles": null,
+  "reactor_type": "cross-flow",
+  "evidence": "Titanium dioxide (TiO2) ALD thin films were thermally deposited at 150 °C in a Beneq TFS-500 cross-flow ALD reactor using tetrakis(dimethylamido)titanium (TDMAT) and water. Pulses and purges of 500 ms for both precursors resulted in atomic thickness control with a growth rate of 0.055 nm/cycle as a submonolayer of film was consistently deposited for each cycle."
+}<|im_end|>

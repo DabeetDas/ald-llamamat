@@ -1,0 +1,7 @@
+{
+  "precursors": ["PDMA T", "TDMA T"],
+  "coreactants": ["water", "oxygen plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "For thermal ALD, the water vapor was used as a reactant. ... For PE-ALD, oxygen gas flowed into an rf plasma source ... The chamber was purged by 75 sccm Ar gas between the precursor and reactant exposure step. To improve gas delivery, Ar was used as a carrier gas ..."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Tungsten",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Si2H6",
+    "WF6"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of tungsten on a single-crystal rutile TiO2(110) support using X-ray standing wave (XSW) techniques. The ALD process involves alternating exposures to Si2H6 and WF6 at 10 Torr for 10 minutes each, followed by nitrogen purging. The results show that tungsten atoms occupy two symmetrically nonequivalent Ti sites with a slight outward displacement, indicating a coherent alignment with the substrate lattice. The study highlights the importance of understanding the initial nucleation process for precise thickness control and smoothness in ALD.",
+  "evidence": "The ALD process began with 10 min exposure of the substrate to Si2H6 at 10 Torr, followed by 10 min exposure to WF6 at 10 Torr. The XSW measurements clearly show that ALD conformal layers can be highly coherent with respect to the substrate lattice. The W coverage was determined to be 0.38 ML, and the 3D atomic image shows surface tungsten atoms equally occupying the two nonequivalent Ti sites with a slight outward displacement."
+}

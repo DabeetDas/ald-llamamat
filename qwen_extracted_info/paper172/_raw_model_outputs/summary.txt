@@ -1,0 +1,8 @@
+{
+  "target_material": "Cobalt",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["CoCp2", "NH3 plasma"],
+  "temperature_range": "300 8C",
+  "summary": "The study investigates the initial growth of Co thin films during plasma-enhanced atomic layer deposition (PE-ALD) using CoCp2 and NH3 plasma as precursor and reactant, respectively. The growth behavior is analyzed using XRR, AFM, and SEM, revealing non-linear growth and low density up to 100 cycles. The formation of an a-SiNx interlayer and substrate-inhibited growth mode are identified as key factors affecting the growth characteristics.",
+  "evidence": "For the PE-ALD of Co, CoCp2 and NH3 plasma were used as precursor and reactant, respectively. The growth rate at the initial stage of growth did not linearly increase with growth cycles, showing deviation from ideal ALD growth. The low density of PE-ALD-produced Co film up to 100 cycles is observed from XRR and confirmed by AFM and SEM results. The growth behavior of Co is explained by island growth under substrate-inhibited growth mode."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Er-doped HfO2",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["HfD-04 (Hf(CH3)2OCH3)", "Er(thd)3 (O3)"],
+  "temperature_range": "315°C for deposition, 800°C for postdeposition anneal, 425°C for forming gas anneal",
+  "summary": "Er-doped HfO2 high-k dielectrics were prepared by atomic layer deposition (ALD) and their electrical and physical properties were studied. The work function of TiN metal gate devices was modulated toward the Si conduction bandedge, and the thermal stability of the HfO2 film was improved. The k-value and leakage properties of Er-doped HfO2 were comparable to those of HfO2.",
+  "evidence": "In this article, Er-doped HfO2 high-k dielectrics /H20849with/H110114 and 7% Er/H20850were prepared by atomic layer deposition, and their electrical and physical properties were studied. With the incorporation of a small amount of Er /H20849up to 7% in this work/H20850,i ti s observed that /H20849i/H20850the work function of devices /H20849TiN metal gate/H20850can be modulated toward the Si conduction bandedge and that /H20849ii/H20850 the thermal stability of the HfO2 film is improved, as evidenced by X-ray photoelectron spectroscopy and X-ray diffraction studies. In addition, the k-value and leakage properties of Er-doped HfO2 are comparable to those of HfO2."
+}

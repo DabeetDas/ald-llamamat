@@ -1,0 +1,8 @@
+{
+  "target_material": "GaAs, InAs, InGaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["trimethylgallium (TMG)", "trimethylindium (TEl)", "arsine (AsH3)"],
+  "temperature_range": "450–700°C",
+  "summary": "The study describes the growth of GaAs, InAs, and InGaAs using atomic layer epitaxy (ALE). A self-limiting mechanism ensures deposition of approximately one monolayer per cycle, independent of precursor fluxes. The process allows for improved compositional uniformity and reduced impurity incorporation, making it suitable for growing ternary and quaternary layers over large areas. The growth is characterized by photoluminescence and Hall measurements, showing improved properties compared to conventional MOCVD.",
+  "evidence": "The growth of GaAs, InAs and In~Ga1 — ~As (0 <x <0.43) by atomic layer epitaxy (ALE) is described. The growth rate by ALE is found to be independent of the column III flux. ALE GaAs, grown between 450 and 630°C, has been characterized by photoluminescence and Hall measurements. Initial results indicate that ALE gives improved incorporation and uniformity in the growth of InGaAs compared to conventional MOCVD and can be a suitable technique for growing ternary and quaternary layers over large areas."
+}<|im_end|>

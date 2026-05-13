@@ -1,0 +1,20 @@
+{
+  "characterization_methods": [
+    "Nomarski microscopy",
+    "X-ray rocking curves",
+    "Hall measurements",
+    "Channeling Rutherford backscattering spectroscopy (CRBS)",
+    "Cross-sectional transmission electron microscopy (CTEM)",
+    "Capacitance-voltage (C-V) measurements",
+    "Steady-state photoconductivity",
+    "Magneto-transport",
+    "Reflection high-energy electron diffraction (RHEED)",
+    "Surface profiler (Dektak)",
+    "Ionization gauge",
+    "Ellipsometry",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Four-point probe",
+    "Electron spin resonance (ESR)"
+  ],
+  "evidence": "Post-growth characterization was performed on all samples with Nomarski microscopy, x-ray rocking curves, and Hall measurements at 300 and 77 K. Some samples were analyzed with channeling Rutherford backscattering spectroscopy (CRBS) and cross-sectional transmission electron microscopy (CTEM). Characterization by capacitance-voltage (C-V) measurements using metal-insulator-semiconductor (MIS) capacitors, steady-state photoconductivity, and magneto-transport will be discussed. The crystalline growth during the ALE process was monitored using RHEED. By masking a portion of a sample during growth and measuring the resulting step with a Dektak surface profiler, the growth rate was determined. The effect of the InSb ALE growth at the InSb/GaAs interface on the InSb surface morphology is shown in the series of Nomarski photomicrographs. The x-ray rocking curve data, 77 K Hall mobility, 77 K carrier concentration, and CRBS Xmin from these samples are presented in Table I. The reduction in the carrier concentration measured in samples grown with low-temperature buffer layers compared to that of the sample with no buffer layer is directly related to the reduction of defects in these layers. The 77 K Hall measurements and x-ray rocking-curves have been the main characterization tools to study the effect of different growth techniques. The C-V measurements yield a value of carrier concentration which corresponds to the Hall values. Electron cyclotron resonance integrated line intensity and linewidths results are also consistent with the electrical transport results. A weak free-electron spin resonance transition has been observed in these films."
+}

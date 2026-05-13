@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "[Ru(TMM)(CO)3]"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The Ru precursor was pulsed and carried by N2 gas at a flow rate of 50 standard cubic centimeters per minute (sccm) into the chamber. N2 gas was purged for 10 s at a flow rate of 100 sccm per cycle after each precursor/reactant pulse."
+}

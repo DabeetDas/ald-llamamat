@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu",
+  "process_type": "PEALD",
+  "main_precursors": ["Cu(acac)2", "atomic hydrogen"],
+  "temperature_range": "85°C",
+  "summary": "A plasma-enhanced atomic layer deposition (PEALD) process using Cu(acac)2 and atomic hydrogen was developed for Cu seed applications in nanoscale semiconductor processing. The study investigated the integration of PEALD Cu with electroplated Cu for advanced interconnect applications, demonstrating void-free electroplated Cu on patterned via structures. The PEALD Cu process was shown to be a promising integration approach for sub-45 nm interconnect structures.",
+  "evidence": "A plasma-enhanced atomic layer deposition /H20849PEALD/H20850copper process, using Cu /H20849II/H20850acetylacetonate and atomic hydrogen, was developed for Cu seed applications in nanoscale semiconductor processing. ... V oid-free electroplated Cu was demonstrated on 60 and 35 nm patterned via structures using both atomic layer deposition Ru/TaN and conventional PVD Ta/TaN liner/barrier structures coupled with PEALD Cu seed layers. The resulting integration characteristics suggest that electroplated/PEALD Cu is a promising integration approach for emerging complementary metal oxide semiconductor metallization applications."
+}<|im_end|>

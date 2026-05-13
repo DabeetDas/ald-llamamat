@@ -1,0 +1,11 @@
+{
+  "target_material": "SnO",
+  "process_type": "ALD",
+  "main_precursors": [
+    "Sn(dmamp)2",
+    "H2O"
+  ],
+  "temperature_range": "150–210 °C",
+  "summary": "High-performance p-type thin film transistors (TFTs) were fabricated using atomic layer deposited (ALD) SnO films. The performance of the SnO TFTs was significantly improved through post-deposition processes such as back-channel surface passivation with ALD-grown Al2O3 and post-deposition annealing at 250 °C, resulting in a high Ion/Ioff ratio of 2 × 106, a low subthreshold swing of 1.8 Vdec-1, and a field effect mobility (μFE) of ~1 cm2V-1s-1.",
+  "evidence": "The growth of SnO films at a high temperature of 210 °C effectively suppresses the hole carrier concentration, leading to a high on-current/off-current (Ion /I off ) ratio. The post-deposition process – back-channel surface passivation with ALD-grown Al2O3 followed by post-deposition annealing at 250 °C – considerably alleviates the defects and hole carriers, resulting in superior TFT performance (I on /I off : 2 × 106, subthreshold swing: 1.8 Vdec-1, μFE : ~ 1 cm2V-1s-1)."
+}

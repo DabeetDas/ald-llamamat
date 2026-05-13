@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reaction involves the Mars-van Krevelen mechanism, where the vanadia active centers undergo a reduction-oxidation cycle starting with the adsorption of the reactant molecules. The redox properties of the vanadium centers were determined through temperature-programmed reduction (TPR) and reoxidation (TPO) analyses, indicating a cooperative action between oxidizing and acidic functions.",
+  "intermediate_species": [
+    "V2O5",
+    "VOx",
+    "V2O3",
+    "VO"
+  ],
+  "evidence": "The reaction takes place through a Mars-van Krevelen mechanism, involving a reduction-oxidation cycle of the vanadia active centers through consecutive steps starting with the adsorption of the reactant molecules. In this perspective, the determination of the redox properties of the vanadium centers, as carried out in the present study, becomes a topic of renewed importance."
+}

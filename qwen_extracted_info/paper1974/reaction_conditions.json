@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "TEG + MMA-As -> Ga-As + Et + MMA"
+  ],
+  "surface_mechanism_description": "The self-limiting mechanism involves the adsorption and reaction of MMA radicals on the Ga surface, which prevent further adsorption of TEG and Ga atoms, thereby controlling the growth rate. The MMA radicals are formed from the decomposition of TDMAAs on the As-stabilized surface and are transferred to the Ga surface, where they block further adsorption of TEG.",
+  "intermediate_species": [
+    "monomethylamine-As (MMA-As)",
+    "MMA radicals",
+    "Et radicals"
+  ],
+  "evidence": "The study on the decomposition mechanism of TDMAAs with RHEED together with a rate-equation analysis indicated that the As-intermediate-state species, especially monomethylamine-As (MMA-As, AsNCH3) and the related molecules, play a role in the decomposition process on GaAs surfaces. The desorption of the MMA-As above 500 “C indicated by the above rate-equation analysis was actually observed by the QMS measurement. This indicates that the As surface after the TDMAAs supply is covered with the amine radicals below 500 “C. When the amine radicals such as MMA adsorbed on the As-stabilized surface keep to remain on the surface up to the following TEG supply, there will be the possibility of the reaction between the MMA radicals adsorbed on the surface and the Et radicals decomposed from the supplied TEG. The amu 58 observed in Fig. 5 corresponds to the desorption of the recombined species between the MMA and Et radicals or between the two MMA radicals. The MMA coverage on the Ga surface indicated in the above discussion is consistent with the characteristics observed in the ALE as discussed in the following."
+}

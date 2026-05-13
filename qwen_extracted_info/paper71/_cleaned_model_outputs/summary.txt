@@ -1,0 +1,8 @@
+{
+  "target_material": "Yttrium oxide (Y2O3)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Y(thd)3", "ozone", "oxygen"],
+  "temperature_range": "425-600 °C",
+  "summary": "Yttrium oxide thin films were deposited using atomic layer epitaxy (ALE) with Y(thd)3 and ozone or oxygen as precursors. The study investigated the effects of substrate and source temperatures, pressure, and pulse durations on film growth. Films grown with ozone were crystalline, while those with oxygen were less crystalline. The growth rate was influenced by temperature and pulse durations, with a maximum growth rate of 0.8 Å/cycle. The films showed preferential orientations depending on the substrate.",
+  "evidence": "Yttrium oxide thin films were deposited in a flow-type ALE reactor from Y(thd)s (Hthd = 2,2,6,6-tetramethyl-3,5-heptanedione) and either ozone or oxygen. The influence of the substrate and source temperatures, pressure and pulse durations on the film growth on soda-lime and silicon substrates was studied. Films were also grown on Corning glass, sapphire and Si/CeO2 substrates to study the effect of the substrate on the growth rate and crystallinity of the films. All the films deposited with ozone were crystalline, but differences in preferential orientation depending on the substrates except sapphire where it was higher. The films deposited with oxygen were less crystalline and the growth rate was significantly lower than in depositions with ozone under the same growth conditions."
+}

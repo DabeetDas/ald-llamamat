@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 185,
+  "pressure": "",
+  "precursor_pulse_time_s": 35,
+  "coreactant_pulse_time_s": 300,
+  "purge_time_s": 500,
+  "number_of_cycles": 20,
+  "reactor_type": "home-built ALD reactor",
+  "evidence": "The ALD is done at a substrate temperature of 185 °C. The effective exposure time to the copper precursor is 35 s, equivalent in our chamber to 185 × 10^6 langmuir (L), and the effective exposure to H2 is 300 s, equivalent to 21 × 10^10 L. However, because of the purging time in between the exposures (∼ 500 s), the time for a full ALD cycle ([Cu(sBu-amd)]2 + H2) is ∼ 21 min. For most experiments, 20 ALD cycles are used leading to a sample soaked at 185 °C for at least 7 h (if no IR measurements are taken in between cycles) and an upper limit of 15 h at a temperature ranging from 60 to 185 °C (if IR measurements are taken)."
+}<|im_end|>

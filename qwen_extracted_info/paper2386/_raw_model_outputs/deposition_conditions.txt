@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "0.3 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 2000,
+  "purge_time_s": 2000,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The Pt layers are deposited by trimethylmethylcyclopentadienylplatinum (Me(Cp)PtMe 3), kept at 70 ◦C, at substrate temperatures of 270 ◦C and 300 ◦C. Oxygen (O 2) was used as the oxygen supplying agent. The pressure during the platinum deposition is kept at 0.3 Torr."
+}<|im_end|>

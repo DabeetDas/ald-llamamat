@@ -1,0 +1,8 @@
+{
+  "target_material": "iron(III) oxide",
+  "process_type": "thermal ALD",
+  "main_precursors": ["ferrocene", "oxygen"],
+  "temperature_range": "367 °C to 534 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of iron(III) oxide on zirconia nanoparticles using ferrocene and oxygen as precursors. The process was carried out in a fluidized bed reactor at temperatures ranging from 367 °C to 534 °C. The films were found to be amorphous iron(III) oxide and could be crystallized into α-Fe2O3 after heat treatment at 850 °C.",
+  "evidence": "Conformal films of amorphous iron(III) oxide and α-Fe2O3 have been coated on zirconia nanoparticles (26 nm) in a fluidized bed reactor by atomic layer deposition. Ferrocene and oxygen were alternately dosed into the reactor at temperatures between 367 °C and 534 °C. After heat treatment at 850 °C in air and N2 atmospheres, α-Fe2O3 was the predominant species."
+}

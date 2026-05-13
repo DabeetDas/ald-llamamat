@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface passivation mechanism involves the formation of a built-in negative charge at the Al2O3/c-Si interface, which is attributed to the presence of unique tetrahedrally coordinated Al sites. This negative charge leads to excellent surface passivation by reducing interface defect states and providing chemical passivation at the c-Si/Al2O3 interface through hydrogen diffusion from the Al2O3 bulk.",
+  "intermediate_species": [
+    "hydrogen",
+    "interface defect states"
+  ],
+  "evidence": "The negative charge in Al2O3 is suggested to be present at the unique tetrahedrally coordinated Al site present at the interface that has a net negative charge, in contrast to the octahedrally coordination site where Al has a charge of 3+. A factor of 10 reduction of the interface defect density was reported for a metal-insulator-semiconductor structure with Al2O3 as the insulator after a 15 min annealing at 500 °C."
+}

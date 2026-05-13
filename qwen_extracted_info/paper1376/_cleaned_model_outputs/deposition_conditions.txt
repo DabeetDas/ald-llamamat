@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250",
+  "pressure": "",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": 60,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "FlexAL ALD reactor",
+  "evidence": "The following optimized exposures were used in our PEALD recipe: 3 pulses of 5 s each for the Hacac dose (Step A), 10 s for the bis(tert-butylimido)-bis(dimethylamido)-tungsten precursor dose (Step B), and 60 s for the H2S plasma exposure (Step C)."
+}

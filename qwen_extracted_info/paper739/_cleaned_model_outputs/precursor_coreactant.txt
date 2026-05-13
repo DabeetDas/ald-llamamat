@@ -1,0 +1,7 @@
+{
+  "precursors": ["TBTDET", "TDMAT", "TiCl4"],
+  "coreactants": ["N2H4"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "In addition to growing films with TiCl4, TiNx deposition with N2H4 and TDMAT was performed. The TBTDET bottle was heated to ~80°C and utilized an N2 carrier gas to help deliver TBTDET to the sample. The N2H4 vessel was pressurized to ~750 torr with ultrahigh purity N2 that was passed through a purifier to act as a push gas for the N2H4."
+}

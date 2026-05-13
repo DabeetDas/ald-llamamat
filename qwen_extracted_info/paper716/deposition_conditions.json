@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 180,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "double shower-head",
+  "evidence": "The ALD Y2O3 process using the Y(iPrCp)2(N-iPr-amd) precursor and H2O were investigated. Fig. 2(a) shows the growth rate per cycle of ALD Y2O3 film as a function of precursor exposure time (ts) at a growth temperature (Ts) of 180 ◦C. The growth rate saturated at ts ≥ 2 s, indicating good saturation growth characteristics. The saturated growth rate of ALD Y2O3 was about 0.4 ˚A/cycle, which is higher than a previous report using Y(thd)3, Y(thd)3(bipy), and Y(thd)3(phen) precursors (∼0.23 ˚A/cycle). According to these results, we fixed the precursor exposure time at ts = 2 s in subsequent experiments."
+}

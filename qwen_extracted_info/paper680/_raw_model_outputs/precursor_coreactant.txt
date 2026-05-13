@@ -1,0 +1,7 @@
+{
+  "precursors": ["HfCl4", "HfI4", "H2O", "O2"],
+  "coreactants": ["H2O", "O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "HfCl4 (Aldrich, 98%) or HfI4 (Strem Chemicals, 99%) was used as the hafnium precursor while O2 (AGA, 99.999%) or the vapor of H2O was used as the oxygen precursor. The metal precursors were evaporated from a cell that was kept in the flow of carrier gas (N2)."
+}<|im_end|>

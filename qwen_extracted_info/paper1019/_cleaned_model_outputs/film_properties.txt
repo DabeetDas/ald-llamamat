@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 6,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "The film thickness was estimated from the damping of the Si 2p signal measured at 758 eV photon energy, using an electron mean free path of 20 A ˚. The binding energy (BE) scale was calibrated vs the Fermi level of the sample holder. The spectra are normalized in intensity to the ring current and the number of scans unless otherwise stated."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Silicon",
+  "process_type": "Electron-enhanced atomic layer deposition (EE-ALD)",
+  "main_precursors": [
+    "disilane (Si2H6)",
+    "electrons"
+  ],
+  "temperature_range": "Room temperature (27 °C)",
+  "summary": "The study describes the electron-enhanced atomic layer deposition (EE-ALD) of silicon thin films at room temperature using sequential exposures of disilane (Si2H6) and electrons. The process utilizes electron-stimulated desorption (ESD) of hydrogen to create reactive dangling bonds, enabling silicon growth at low temperatures. The growth rate was found to be self-limiting and dependent on electron energy, with a maximum growth rate of 0.3 Å/cycle at electron energies of 100–150 eV. The films showed uniform thickness and conformality across the deposition area.",
+  "evidence": "Silicon thin films were deposited at room temperature with electron-enhanced atomic layer deposition (EE-ALD) using sequential exposures of disilane (Si2H6) and electrons. EE-ALD promotes silicon film growth through hydrogen electron stimulated desorption (ESD) that creates reactive dangling bonds and facilitates Si2H6 adsorption at low temperatures. The silicon growth rate was measured using in situ ellipsometry as a function of electron energy up to 200 eV. The silicon growth rate was self-limiting at larger Si2H6 pressures for a fixed exposure time and at longer electron exposure times."
+}

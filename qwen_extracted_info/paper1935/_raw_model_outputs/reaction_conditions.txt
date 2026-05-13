@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Self-limited surface reactions between TiCl4 and AlH2(tBuNCH2CH2NMe2) leading to titanium carbonitride film growth with high growth rate and low Al content.",
+  "intermediate_species": ["AlH2(tBuNCH2CH2NMe2)", "TiCl4", "surface hydroxyls", "Al metal"],
+  "evidence": "Importantly, film growth proceeded via self-limited surface reactions, which is the hallmark of an ALD process. The films were polycrystalline with low intensity, broad reflections corresponding to the cubic TiN/TiC phase. Film composition by X-ray photoelectron spectroscopy was approximately TiC0.8N0.5 at 300 °C with small amounts of Al (6 at%), Cl (4 at%) and O (4 at%) impurities."
+}<|im_end|>

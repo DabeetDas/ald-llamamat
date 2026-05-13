@@ -1,0 +1,11 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "trimethylgallium (TMGa)",
+    "arsine (AsH3)"
+  ],
+  "temperature_range": "Below 300°C and above 300°C",
+  "summary": "The study investigates the reaction of trimethylgallium (TMGa) on the As-rich GaAs(100) surface during atomic layer epitaxy (ALE). At temperatures below 300°C, TMGa chemisorbs dissociatively with methyl radicals remaining on the surface, while above 300°C, TMGa dissociates, releasing all methyl groups and depositing Ga. The process is temperature-dependent, with self-limiting growth observed at higher temperatures. The study also highlights the absence of surface carbon at elevated temperatures, contradicting some previous models.",
+  "evidence": "The initial reaction of the As-rich c(2 × 8) GaAs(100) surface with trimethylgallium (TMGa) has been studied by x-ray and ultraviolet photoemission. TMGa was found to chemisorb dissociatively at temperatures below 300°C with many of the methyl radicals remaining on the surface. At temperatures above 300°C, TMGa was observed to dissociate on the surface, release all the methyl groups, and deposit Ga up to a self-limiting coverage. This process is most effective at high temperatures."
+}

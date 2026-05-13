@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of tris(dimethylamido)borane (TDMAB) with oxygen plasma radicals. The boron oxide film forms through the reaction of TDMAB with oxygen radicals, leading to the formation of boron oxide (B2O3) and the release of byproducts such as methyl groups and possibly other volatile species. The instability of the boron oxide film in ambient air is attributed to its reaction with moisture, forming boric acid (H3BO3).",
+  "intermediate_species": ["boron oxide (B2O3)", "boric acid (H3BO3)", "surface hydroxyls", "monomethyl aluminum"],
+  "evidence": "The text describes the reaction of TDMAB with oxygen plasma radicals to form boron oxide (B2O3) and the release of byproducts. It also mentions the instability of the boron oxide film in ambient air due to its reaction with moisture, forming boric acid (H3BO3)."
+}

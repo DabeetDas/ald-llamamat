@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["dimethylzinc (DMeZn)", "diethylzinc (DEtZn)"],
+  "temperature_range": "90–270 °C",
+  "summary": "The study investigates the influence of substrate temperature and Zn-precursors on the atomic layer deposition (ALD) of polycrystalline ZnO films on glass. The research focuses on the growth rate, crystal structure, and electrical properties of ZnO thin films using two Zn-precursors: dimethylzinc (DMeZn) and diethylzinc (DEtZn). The study highlights the differences in growth characteristics, electrical resistivity, and residual impurities based on the precursor type and substrate temperature.",
+  "evidence": "Inﬂuence of substrate temperature and Zn-precursors on atomic layer deposition of polycrystalline ZnO ﬁlms on glass. Differences between dimethylzinc (DMeZn) and diethylzinc (DEtZn) used as Zn-precursors were examined. The ZnO ﬁlms grown using DMeZn showed higher electrical resistivity compared to that grown using DEtZn. However, the higher resistivity in the case of DMeZn was owing to much amount of residual impurities incorporated during the ALD growth."
+}<|im_end|>

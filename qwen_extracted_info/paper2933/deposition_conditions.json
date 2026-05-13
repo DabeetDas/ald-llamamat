@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "1600",
+  "reactor_type": "F-120",
+  "evidence": "The rf pulse width was varied from 0.3 to 1.5 s. In conventional ALD of Al 2O3 , TMA and H2O were used as Al and O precursors, respectively. The deposition rate with 0.3 s rf pulse width at 100°C was 1.78 Å/cycle that was identical to the results with 0.5 and 0.7 s. These results clearly showed that O 2 plasma with rf pulse as short as 0.3 s could gain energy high enough for depositing oxide film in ALD mode while the thermal heating effect was too small to induce PES substrate bending under the deposition conditions."
+}

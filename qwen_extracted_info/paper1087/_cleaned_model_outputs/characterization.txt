@@ -1,0 +1,11 @@
+{
+  "characterization_methods": [
+    "Ellipsometry",
+    "X-ray photoelectron spectroscopy (XPS)",
+    "Atomic force microscopy (AFM)",
+    "Wet-etching rate measurement",
+    "Current versus voltage (I–V) measurement",
+    "Capacitance versus voltage (C–V) measurement"
+  ],
+  "evidence": "The thickness and refractive index of deposited films were measured by using an Ellipsometer (Woollam Co. M2000D). An X-ray photoelectron spectroscopy (XPS) system was utilized for composition analysis. The surface roughness of deposited films was measured by using atomic force microscope (AFM) (Veeco Co. D3100). The wet-etch rate of the film was evaluated in a diluted HF solution. The Electrical characteristics of various stacks were measured by utilizing metal – oxide–silicon (MOS) structure. The current versus voltage (I –V) and the capacitance versus voltage (C–V) characteristics were measured using HP4155B and HP4194A."
+}

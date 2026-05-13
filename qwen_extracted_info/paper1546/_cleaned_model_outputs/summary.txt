@@ -1,0 +1,8 @@
+{
+  "target_material": "CaS",
+  "process_type": "PEALD",
+  "main_precursors": ["[Ca(thd)2(tetraen)]", "H2S"],
+  "temperature_range": "130-140 °C for source temperature, 350 °C for substrate temperature",
+  "summary": "The study reports the synthesis and application of [Ca(thd)2(tetraen)] as a precursor for atomic layer epitaxy (PEALD) growth of CaS thin films. The growth rate with [Ca(thd)2(tetraen)] is 0.43 Å/cycle, lower than that with [Ca3(thd)6] (0.50 Å/cycle). The optimal source temperature range for [Ca(thd)2(tetraen)] is 130-140 °C, while the optimal substrate temperature is 350 °C. The films exhibit a polycrystalline cubic structure.",
+  "evidence": "The growth rate with [Ca(thd)2(tetraen)] is lower (0.43 Å/cycle) than that with [Ca3(thd)6] (0.50 Å/cycle). The source temperature range 130-140 °C appears ideal for [Ca(thd)2(tetraen)]. The CaS films deposited from [Ca(thd)2(tetraen)] have a polycrystalline cubic structure."
+}

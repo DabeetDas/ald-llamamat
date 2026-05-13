@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "x±OH 1 MLng! ±O±xMLn2x1xHLg 1",
+    "±O±M±OHn2x1n 2 xHLg 2",
+    "2±OH! ±O 1 H2Og 3",
+    "±M±O 1 H2Og! ±M±OH2 4",
+    "M±O±M1H2Og! HO±M±O±M±OH 5"
+  ],
+  "surface_mechanism_description": "Surface hydroxyl groups play an important role as intermediate species remaining on the surface of the growing film after the water exposure. During the subsequent metal precursor exposure sequence the hydroxyl groups react with the incoming metal compounds which thereby become anchored to the surface. The hydroxyl groups formed in Reaction (2) do not necessarily all remain on the surface but some of them may combine with each other liberating water. This dehydroxylation increases with increasing temperature causing a gradual decrease of the surface hydroxyl group density. The amount of metal precursor anchored to the surface, and thereby the ALD growth rate, is determined either by the steric hindrances between the (±O±)xMLn2x surface species or by the density of the hydroxyl groups.",
+  "intermediate_species": [
+    "surface hydroxyl groups",
+    "hydroxyl groups",
+    "formate species",
+    "monomethyl aluminum"
+  ],
+  "evidence": "x±OH 1 MLng! ±O±xMLn2x1xHLg 1 Thin Solid Films 368 (2000) 1±7 ... The amount of metal precursor anchored to the surface, and thereby the ALD growth rate, is determined either by the steric hindrances between the (±O±)xMLn2x surface species or by the density of the hydroxyl groups. This dehydroxylation increases with increasing temperature causing a gradual decrease of the surface hydroxyl group density. ... The hydroxyl groups formed in Reaction (2) do not necessarily all remain on the surface but some of them may combine with each other liberating water. ... Hydroxyl groups may form on the oxide surface also by rehydroxylation which is a reaction essentially reverse to the Eq. 3 ... The resulting hydroxyl groups are bound to the same (Eq. 4) or adjacent (Eq. 5, underlining denoting the surface) surface metal ions."
+}

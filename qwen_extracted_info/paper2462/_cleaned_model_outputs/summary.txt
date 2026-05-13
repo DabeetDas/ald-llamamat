@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnTe",
+  "process_type": "Atomic-layer epitaxy (ALE)",
+  "main_precursors": ["Zn", "Te"],
+  "temperature_range": "225—250 C",
+  "summary": "The study investigates the surface stoichiometry and growth mechanisms of ZnTe(100) using atomic-layer epitaxy (ALE) combined with reflection high-energy electron diffraction (RHEED). It reveals that a c(2X2) Te-rich surface is observed below 240 C, involving 1.5 ML of Te atoms. The growth rate is found to be 0.5 ML per reaction cycle in the temperature range of 270—290 C, corresponding to the formation of a fully Te-saturated (2X1) surface. The study also demonstrates that the c(2X2)Te surface can be stabilized with 1.5 ML of Te, and the growth mechanisms are consistent with the observed surface reconstructions.",
+  "evidence": "Using reflection high-energy electron diffraction analysis of the relaxation process in highly strained heterostructures grown by atomic-layer epitaxy, a method is proposed to provide a quantitative determination of the surface stoichiometry. Applying this method to the case of the ZnTe(100) surface, we have found that a c(2X2) Te-rich reconstruction observed below 240 C involves 1.5 ML of Te atoms. Consistent with this result, we also propose a microscopic model for the growth of ZnTe in atomic-layer epitaxy, and we demonstrate the relationship between growth rate and surface reconstruction."
+}

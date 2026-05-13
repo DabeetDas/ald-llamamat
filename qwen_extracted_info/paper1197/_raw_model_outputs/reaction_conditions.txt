@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the reaction of bis( N,N’pdiptert pbutylacetamidinato)nickel(II) (Ni(amd)2) with H2S, where the nickel precursor reacts with surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The nickel sulfide films are formed through self-limiting surface reactions, and the process is characterized by a layer-by-layer growth mechanism.",
+  "intermediate_species": ["nickel hydroxide", "nickel oxide", "nickel (oxy)hydrate"],
+  "evidence": "The ALD NiS x was found to convert to nickel (oxy)hydrate after electrochemical aging, and the aged product showed remarkable electrocatalytic activity and long-term stability. The Ni 2p spectrum did not show any sulfide-related peaks and also no sulfur was detected in the S 2p spectrum. The presence of potassium in the EDS spectrum was consistent with the formation of nickel (oxy)hydrate."
+}<|im_end|>

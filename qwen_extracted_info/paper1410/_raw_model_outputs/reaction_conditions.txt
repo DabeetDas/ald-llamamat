@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "n-OH(s) + Ti(OCH2CH3)4(g) -> (-O-)nTi(OCH2CH3)4-n(s) + nCH3CH2OH(g)",
+    "(-O-)nTi(OCH2CH3)4-n(s) + (4 - n)H2O(g) -> (-O-)nTi(OH)4-n(s) + (4 - n)CH3CH2OH(g)"
+  ],
+  "surface_mechanism_description": "The film growth proceeds via irreversible exchange reactions between Ti(OCH2CH3)4 and surface hydroxyl groups, followed by water pulse to regenerate OH sites. If the surface becomes completely dehydroxylated, the growth proceeds via chemisorption of Ti(OCH2CH3)4 followed by its hydrolysis.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "Ti(OCH2CH3)4 chemisorbed species",
+    "ethanol",
+    "Ti(OH)4-n surface species"
+  ],
+  "evidence": "n-OH(s) + Ti(OCH2CH3)4(g) -> (-O-)nTi(OCH2CH3)4-n(s) + nCH3CH2OH(g) (-O-)nTi(OCH2CH3)4-n(s) + (4 - n)H2O(g) -> (-O-)nTi(OH)4-n(s) + (4 - n)CH3CH2OH(g) where -OH(s) represents surface hydroxyl and n = 1-3. It should be noted that once formed ethanol may also be dehydrated. On the other hand, if the film surface does become completely dehydroxylated after the water pulse, then the growth will apparently proceed via the chemisorption of Ti(OCH2CH3)4 followed by its hydrolysis: Ti(OCH2CH3)4(g) -> Ti(OCH2CH3)4(ads) Ti(OCH2CH3)4(ads) + 2H2O(g) -> TiO2(s) + CH3CH2OH(g) where (ads) refers to chemisorbed species."
+}<|im_end|>

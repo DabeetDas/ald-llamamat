@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminium oxide (Al2O3)",
+  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["[Al(NMe2)2(DMP)] (DMAD)", "[Al(NEt2)2(DMP)] (3, BDEADA)"],
+  "temperature_range": "60 °C to 220 °C",
+  "summary": "The study introduces new precursor alternatives to pyrophoric trimethyl aluminium (TMA) for the atomic layer deposition (ALD) of aluminium oxide (Al2O3). The new precursors, [Al(NMe2)2(DMP)] (DMAD) and [Al(NEt2)2(DMP)] (BDEADA), are non-pyrophoric and enable the deposition of high-quality Al2O3 films at low temperatures. These precursors show excellent thermal stability, high volatility, and reactivity, making them suitable for applications such as gas barrier layers on polymer substrates like PET. The resulting Al2O3 films are dense, smooth, and uniform, with high purity and good gas barrier performance.",
+  "evidence": "The compounds [Al(NMe2)2(DMP)] (DMAD) and [Al(NEt2)2(DMP)] (3, BDEADA) were used in PEALD processes to deposit Al2O3 films. The films showed high density, smoothness, and uniformity, with excellent gas barrier properties. The process was performed in a temperature range of 60 °C to 220 °C, and the films demonstrated good performance as gas barrier layers on PET substrates."
+}<|im_end|>

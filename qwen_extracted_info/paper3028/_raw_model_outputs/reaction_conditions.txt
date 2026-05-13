@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD-W process involves the alternating exposure of WF6 and reducing agents such as SiH4 or B2H6. The surface reactions are primarily ligand exchange between the reducing agents and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The B2H6 pretreatment enhances the nucleation and step coverage of ALD-W films on SiO2 surfaces.",
+  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum", "formate species"],
+  "evidence": "The surface reactions are primarily ligand exchange between the reducing agents and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The B2H6 pretreatment enhances the nucleation and step coverage of ALD-W films on SiO2 surfaces."
+}<|im_end|>

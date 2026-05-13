@@ -1,0 +1,8 @@
+{
+  "target_material": "Tin Oxide (SnOx)",
+  "process_type": "Spatial Atmospheric Pressure ALD (S-ALD)",
+  "main_precursors": ["Tetrakis(dimethylamino)tin(IV) (TDMASn)", "Water"],
+  "temperature_range": "80°C",
+  "summary": "The study demonstrates the use of spatial atmospheric pressure atomic layer deposition (S-ALD) to grow tin oxide (SnOx) as an impermeable electron extraction layer for perovskite solar cells. The process achieves similar optical transmittance and electrical conductivity as conventional vacuum-based ALD, with a low deposition temperature of 80°C and a high substrate speed of 2.4 m/min. The resulting SnOx layers exhibit a low water vapor transmission rate, enhancing the thermal stability of perovskite solar cells beyond 1000 h in ambient air and over 3000 h at 60°C. This work paves the way for roll-to-roll manufacturing of stable perovskite solar cells.",
+  "evidence": "We achieve similar optical transmittance and electrical conductivity as in SnOx grown by conventional vacuum based ALD. A low deposition temperature of 80°C and a high substrate speed of 2.4 m/min yield SnOx layers with a low water vapor transmission rate of  10-4 gm-2d-1 (at 60°C / 60% r.H.). Thereby, in perovskite solar cells, dense hybrid Al:ZnO/SnOx electron extraction layers are created that are the key for stable cell characteristics beyond 1000 h in ambient air and over 3000 h at 60°C. Most notably, our work of introducing spatial ALD at atmospheric pressure paves the way to the future roll-to-roll manufacturing of stable perovskite solar cells."
+}

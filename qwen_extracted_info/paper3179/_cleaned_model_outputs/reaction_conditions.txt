@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "La–OH–––HO–La → La–O–La + H2O"
+  ],
+  "surface_mechanism_description": "The removal of OH groups from the La2O3 film during RTA is attributed to the reaction where La–OH groups react to form La–O–La bonds and release water molecules.",
+  "intermediate_species": [
+    "La–OH",
+    "La–O–La",
+    "H2O"
+  ],
+  "evidence": "The removal of OH groups may occur through the following reaction La–OH–––HO–La → La–O–La + H2O"
+}

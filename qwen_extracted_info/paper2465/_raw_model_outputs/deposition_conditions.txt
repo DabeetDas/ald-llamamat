@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 900,
+  "pressure": "10 27-torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 60,
+  "number_of_cycles": null,
+  "reactor_type": "UHV",
+  "evidence": "Each annealing lasted for 60 s."
+}<|im_end|>

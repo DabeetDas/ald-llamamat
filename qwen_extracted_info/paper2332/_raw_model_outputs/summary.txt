@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum fluoride (AlF3)",
+  "process_type": "Plasma-enhanced ALD (PEALD)",
+  "main_precursors": ["trimethylaluminum (Al(CH3)3)", "SF6 plasma"],
+  "temperature_range": "50–300 °C",
+  "summary": "This study demonstrates the atomic layer deposition (ALD) of high-purity, nearly stoichiometric aluminum fluoride (AlF3) films using trimethylaluminum (Al(CH3)3) and SF6 plasma as precursors. The process exhibits self-limiting growth with a growth per cycle (GPC) ranging from 1.50 Å to 0.55 Å depending on the deposition temperature. The films show good uniformity, conformality, and optical properties suitable for optical and optoelectronic applications. The use of SF6 plasma as a co-reactant provides an alternative to traditional co-reactants like HF or HF-pyridine, offering advantages in terms of process control and material properties.",
+  "evidence": "Nearly stoichiometric, high-purity AlF3 films were deposited by atomic layer deposition (ALD) using trimethylaluminum [Al(CH3)3] and SF6 plasma. Self-limiting growth was confirmed and the growth per cycle was determined to range from 1.50 Å to 0.55 Å for deposition temperatures between 50 °C and 300 °C. The use of SF6 plasma as a co-reactant is a promising alternative to co-reactants such as metal fluorides, HF, or HF-pyridine."
+}<|im_end|>

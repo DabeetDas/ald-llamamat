@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Self-limiting surface reactions where incoming precursor molecules react with species bound on the surface, and gas-phase reactions are eliminated. TMA and NH3 saturation was observed at 185 /C14C in the self-limiting ALD window where the GPC is independent of the growth temperature and precursor dose.",
+  "intermediate_species": ["TMA", "NH3", "surface hydroxyls"],
+  "evidence": "The authors establish a relationship between growth temperature and optical properties and in addition, the refractive indices of the AlN films were determined to be larger than 1.9 within the 300–1000 nm wavelength range. The temperature dependency of the deposition rate observed at higher temperatures ( >200 /C14C) can be attributed to TMA decomposition (complete TMA decomposition occurs above 300 /C14C)."
+}

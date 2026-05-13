@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["SiCl4", "H2O"],
+  "temperature_range": "600{800 K (thermal ALD) and 300{340 K (catalyzed ALD)",
+  "summary": "The paper describes the atomic layer deposition (ALD) of SiO2 using self-limiting surface reactions. The process involves separating the binary reaction SiCl4 + 2 H2O → SiO2 + 4 HCl into two half-reactions. The use of a pyridine catalyst significantly lowers the required temperature and reactant exposures, enabling deposition at 300 K with reduced reactant exposures. The deposited films are stoichiometric, conformal, and exhibit excellent dielectric properties.",
+  "evidence": "SiO2 thin films were deposited with atomic layer control using self-limiting surface reactions. The SiO2 growth was achieved by separating the binary reaction SiCl4 + 2 H2O → SiO2 + 4 HCl into two half-reactions. Employing pyridine (C5H5N) as a catalyst, the SiO2 films could be deposited at much lower temperatures and reactant exposures. The pyridine catalyst lowered the required SiO2 deposition temperature from > 600 K to 300 K and reduced the reactant exposure required for complete reactions from ∼ 109 L to ∼ 104 L. The deposited films were stoichiometric SiO2 and were extremely flat, with a roughness nearly identical to the initial substrate surface. The films also displayed dielectric breakdown strengths similar to thermally deposited SiO2 films."
+}

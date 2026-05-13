@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the precursor and oxidizing agent (water or ozone) on the surface, followed by surface reactions. For example, with water, the Pr(iPrCp)2(iPr-amd) precursor reacts with water to form PrOx and byproducts such as hydrogen and carbon. The reaction is self-limiting and depends on the purge time after the water pulse, which affects the growth rate and saturation. With ozone, the precursor reacts with ozone to form oxide and byproducts, but the hygroscopic nature of the oxide affects the reaction and growth rate.",
+  "intermediate_species": ["Pr(iPrCp)2(iPr-amd)", "surface hydroxyls", "carbonates", "hydroxyl species"],
+  "evidence": "The text describes the reaction of Pr(iPrCp)2(iPr-amd) with water and ozone, leading to the formation of PrOx and byproducts. It mentions the hygroscopic nature of the oxide, the effect of purge time on growth rate, and the presence of carbon and hydrogen impurities. The reaction with ozone is noted to form carbonate species, while the reaction with water involves surface hydroxyls and hydrogen desorption."
+}

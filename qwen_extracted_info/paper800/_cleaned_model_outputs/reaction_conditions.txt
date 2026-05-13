@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "CoFe2O4 + 3Al2O3 + thermal energy -> CoAl2O4 + 2FeAl2O4 + 0.5O2",
+    "CoAl2O4 + 2FeAl2O4 + H2O -> CoFe2O4 + 3Al2O3 + H2"
+  ],
+  "surface_mechanism_description": "The reaction involves the thermal reduction of CoFe2O4 on Al2O3 substrates, forming FeAl2O4 and CoAl2O4, which then react with steam to regenerate CoFe2O4 and produce H2. The reaction is facilitated by the interaction between the ferrite and the Al2O3 substrate, leading to the formation of FeAl2O4, which is less thermodynamically favorable than FeO but can still split water under non-equilibrium conditions.",
+  "intermediate_species": [
+    "FeAl2O4",
+    "CoAl2O4",
+    "MeO species (FeO, CoO, Fe2O3)"
+  ],
+  "evidence": "The reaction equations and surface mechanism are described in the text: 'We observe significantly lower decomposition temperatures (200–300 /C14 C) for ferrites deposited on Al2O3 compared to bulk coprecipitated powders. Additionally, we successfully generate H2 with these materials at upper operating temperatures of 1200 /C14 C, whereas negligible H2 is formed using ferrites that are not supported on Al2O3 at these temperatures. We couple experimental results with thermodynamic modeling performed using FactSage, and find that thermodynamics agrees very well with our experimental results.'"
+}

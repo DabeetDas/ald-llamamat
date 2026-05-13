@@ -1,0 +1,8 @@
+{
+  "target_material": "Titanium Dioxide (TiO2)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["(EtCp)Ti(NMe2)3", "Ozone"],
+  "temperature_range": "150 °C to 300 °C",
+  "summary": "The study investigates the ALD of TiO2 using (EtCp)Ti(NMe2)3 with ozone or water as coreactants. The process involves chemisorption of the precursor on OH-terminated SiO2 surfaces, followed by reaction with ozone to form TiO2 films. The study highlights the differences in reactivity between ozone and water, showing that water does not react with chemisorbed precursor, leading to gas-phase reactions for film growth.",
+  "evidence": "The text describes the ALD process using (EtCp)Ti(NMe2)3 with ozone or water, highlighting the reaction mechanisms and the role of temperature. It also discusses the differences in reactivity between ozone and water, showing that water does not react with chemisorbed precursor, leading to gas-phase reactions for film growth."
+}<|im_end|>

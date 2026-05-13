@@ -1,0 +1,8 @@
+{
+  "target_material": "Ruthenium (Ru)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Ru(chd)2", "O2"],
+  "temperature_range": "150 to 300 1C",
+  "summary": "The study describes the atomic layer deposition (ALD) of a ruthenium thin film using a novel Ru precursor, Ru(chd)2, with enhanced reactivity. The process was carried out in a temperature range of 150 to 300 1C, resulting in metallic Ru films with low resistivity (10–16 mO cm) and self-limiting growth characteristics. The Ru precursor's open-coordinated structure promoted nucleophilic addition during ALD, reducing the incubation time and enabling uniform film growth. The study also evaluated the effect of different substrates (Pt, TiN, SiO2) on the film properties and growth behavior.",
+  "evidence": "Ruthenium (Ru) thin films were grown via atomic layer deposition (ALD) using a novel Ru precursor with enhanced reactivity, namely Ru(chd)2 and O2. Self-limiting growth during the Ru ALD process was achieved by varying the Ru precursor and O2 feeding times. Metallic Ru films with a low resistivity (10–16 mO cm) grew at deposition temperatures between 200 and 300 1C, where the growth per cycle (GPC) during Ru ALD was 0.2 to 0.4 Å cy /C01 at 265 1C. The Ru incubation times were considerably shorter using the novel precursor (negligible on Pt and TiN, B22 cycles on SiO2) compared with those associated with Ru ALD using a high-valency Ru precursor and O2."
+}

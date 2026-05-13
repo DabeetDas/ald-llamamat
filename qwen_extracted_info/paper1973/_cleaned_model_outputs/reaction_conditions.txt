@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Self-limiting LALE growth using TBAs occurs over a similar range of laser intensities as those using ASH3, specifically from -750 W/cm2 up to 1 kW/cm2 on bare N+ GaAs oriented 2° off (100) and thus is a direct replacement for ASH3. The decomposition of TBAs is believed to remove CH3 from the surface more efficiently than ASH3.",
+  "intermediate_species": ["unsaturated carbon-containing species"],
+  "evidence": "The decomposition of TBAs is believed to remove CH3 from the surface more efficiently than ASH3. Broad area laser diodes have been successfully fabricated from structures grown by ALE and LALE using TBAs. The observed reduction in carbon contamination with the use of TBAs may be attributed to the abundance of species like ASH3 on the growing surface from the decomposition of TBAs."
+}

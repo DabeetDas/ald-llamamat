@@ -1,0 +1,8 @@
+{
+  "target_material": "Pt",
+  "process_type": "thermal ALD",
+  "main_precursors": ["MeCpPtMe3", "O2"],
+  "temperature_range": "300 °C",
+  "summary": "The study describes a combinatorial approach combining electron beam induced deposition (EBID) and atomic layer deposition (ALD) to fabricate high-purity Pt nanostructures. The method uses EBID to create a seed layer and ALD to build up the structure, resulting in high-purity Pt with low resistivity and sub-10 nm resolution.",
+  "evidence": "For combinatorial EBID-ALD of Pt nanostructures, the thermal ALD process of Pt from methylcyclopentadienyl trimethylplatinum (MeCpPtMe3) and O2 dosing was adopted. ALD was carried out at a substrate temperature of 300 °C and at an O2 pressure of 0.02 Torr."
+}<|im_end|>

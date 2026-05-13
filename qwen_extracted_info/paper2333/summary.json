@@ -1,0 +1,11 @@
+{
+  "target_material": "MoS2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "MoCl5",
+    "H2S"
+  ],
+  "temperature_range": "460°C",
+  "summary": "MoS2 solid-lubricating film was fabricated by atomic layer deposition (ALD) on Si substrates using MoCl5 and H2S as precursors. The film effectively reduces friction force by about 30-45% under different loads, indicating its potential as a solid lubricant.",
+  "evidence": "In this work, MoS2 solid-lubricating film was directly grown by atomic layer deposition (ALD) on Si substrate using MoCl5 and H2S. The growth temperature was kept at 460°C. Results show that MoS2 film can effectively reduce the friction force by about 30-45% under different loads."
+}

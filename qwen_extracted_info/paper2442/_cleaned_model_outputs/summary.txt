@@ -1,0 +1,8 @@
+{
+  "target_material": "SnS2",
+  "process_type": "ALD",
+  "main_precursors": ["TDMASn", "H2S"],
+  "temperature_range": "100-400 oC",
+  "summary": "The study reports on the layered deposition of few-layer tin disulfide (SnS2) using atomic layer deposition (ALD). The process involves the use of TDMASn and H2S as precursors, and the deposited SnS2 films were post-annealed with H2S gas to enhance crystallinity. The ALD technique allowed for the controlled deposition of SnS2 with a thickness ranging from 1.79 to 3.66 nm, corresponding to 3 to 6 layers. The SnS2 films were used to fabricate bottom-gated thin-film transistors (TFTs) which exhibited n-type characteristics with an on/off current ratio of ~8.32 x 10^6, a threshold voltage of ~2 V, and a subthreshold swing value of 830 mV/decade. The study highlights the potential of ALD for the realization of flexible and wearable devices based on SnS2.",
+  "evidence": "In this work, we report on the layered deposition of few-layer tin disulfide (SnS2) using atomic layer deposition (ALD). By varying the ALD cycles it was possible to deposit polycrystalline SnS2 with small variation in layer numbers. ... The developed SnS2 ALD technique may aid the realization of two-dimensional SnS2 based flexible and wearable devices."
+}

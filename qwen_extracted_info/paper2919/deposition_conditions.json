@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-500",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 0.2,
+  "coreactant_pulse_time_s": 0.3,
+  "purge_time_s": 0.5,
+  "number_of_cycles": 5000,
+  "reactor_type": "F120",
+  "evidence": "The films were grown on 5 3 5 cm soda-lime glass substrates using a commercial flow-type F120 ALD reactor (ASM-Microchemistry Ltd., Espoo, Finland) operated under a pressure of 10 mbar. For titanium, niobium, and molybdenum chlorides 0.2 s, and for tantalum chloride 0.5 s pulse lengths were used because they were known to be appropriate from the previous studies with NH3-based processes. For DMHy a pulse length of 0.3 s was chosen. The purge length after each reactant pulse was 0.5 s, and all the films were grown using 5000 deposition cycles."
+}

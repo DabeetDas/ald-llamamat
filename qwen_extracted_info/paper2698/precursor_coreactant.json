@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Co(Cp)2"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "ALD of cobalt oxide was performed using alternating N2-purge-separated pulses of bis(cyclopentadienyl)cobalt(II) cobalt [cobaltocene, Co(Cp)2], held at 100 °C, and O3."
+}

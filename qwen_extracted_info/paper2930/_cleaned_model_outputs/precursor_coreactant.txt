@@ -1,0 +1,7 @@
+{
+  "precursors": ["Zn(CH2CH3)2", "Al(CH3)3"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "ZnO ALD is performed using alternating Zn(CH2CH3)2 and H2O exposures44-47. Al2O3 ALD is performed using alternating Al(CH3)3 and H2O exposures48-52. A flow of ;200 sccm of filtered, ultrahigh purity nitrogen at a velocity of ;2.5 m/s and a pressure of ;1 Torr transported the gaseous reactants to the substrates and swept the reaction products into a mechanical pump."
+}

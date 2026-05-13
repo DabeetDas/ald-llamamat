@@ -1,0 +1,7 @@
+{
+  "precursors": ["Si(NCO)4", "TICS"],
+  "coreactants": ["H20"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "In our chemical vapour deposition (CVD) system (Fig. 2) we used pure N2 as a carrier gas, which causes an alternating bubbling in the TICS and the H20 vessels respectively, and brings these gases to the reaction chamber."
+}

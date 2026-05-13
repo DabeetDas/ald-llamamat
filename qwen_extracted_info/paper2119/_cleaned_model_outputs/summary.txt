@@ -1,0 +1,8 @@
+{
+  "target_material": "Hf-silicate and Hf-silicate/SiO2 bilayer",
+  "process_type": "atomic layer chemical vapor deposition (ALCVD)",
+  "main_precursors": ["tetrakis-diethylamido-hafnium", "tetra-n-butyl-orthosilicate"],
+  "temperature_range": "300 °C",
+  "summary": "The study focuses on the fabrication of ultrathin Si-rich Hf-silicate films and Hf-silicate/SiO2 bilayers using atomic layer chemical vapor deposition (ALCVD). The presence of an SiO2 buffer layer significantly suppresses Hf-rich phases and dislocations at the Hf-silicate/Si interfaces, leading to improved electrical properties such as low leakage current density, low flatband voltage shift, and high breakdown voltage. The results indicate that the SiO2 buffer layer enhances the thermal stability and electrical performance of the Hf-silicate/SiO2 bilayer.",
+  "evidence": "Hf-silicate layers were grown by atomic layer chemical vapor deposition using alternate supply of tetrakis-diethylamido-hafnium and tetra-n-butyl-orthosilicate precursors. Ultrathin SiO2 buffer layers effectively suppressed Hf-rich phases and dislocations found at Hf-silicate/Si interfaces in Hf-silicate samples. These effects resulted in the significantly improved electrical properties of bilayers, compared to Hf-silicate films, such as low leakage current density, low flatband voltage shift, and high breakdown voltage."
+}

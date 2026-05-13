@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Cu(hfac)2·XH2O", "H2", "ROH (methanol, ethanol, formalin)"],
+  "temperature_range": "230°C to 300°C",
+  "summary": "The study investigates the deposition of copper seed layers using atomic layer deposition (ALD) for subsequent electrodeposition. The process uses copper(II) hexafluoroacetylacetonate (Cu(hfac)2·XH2O) as the copper source, with reducing agents such as methanol, ethanol, and formalin. The ALD process was performed at temperatures between 230°C and 300°C, and the resulting copper films were found to be conformal, with excellent adhesion on TiN and TaN layers. The study highlights the potential of ALD for producing high-quality, thin copper seed layers for microelectronics applications.",
+  "evidence": "The Cu films were deposited on 50 x 50 mm substrates that included glass plates and silicon wafers that were precoated with a 500 nm layer of SiO2, followed by an ~6 nm thick barrier layer. Three different barrier layers examined were Ta, TaN, and TiN. The Cu source was heated to 75°C and the reducing agents were all at room temperature. Although deposition of Cu was observed in all cases at ~230°C, the results reported here were produced at 300°C, unless otherwise noted. The adhesion of the copper films deposited on TiN and TaN at 300°C was excellent. These films were highly conformal over high aspect ratio trenches."
+}

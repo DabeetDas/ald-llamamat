@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "170–200",
+  "pressure": "≈ 10 mbar",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 1.0,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall cross-flow F-120 ALD reactor",
+  "evidence": "The Co3Sn2 process was studied on 5 × 5 cm Si(100) and soda lime glass substrates at 170–200 ° C. The pulse and purge times, controlled by inert gas valving, were varied from 0.5 to 2.0 s. All the experiments, apart from the purge series itself, were carried out with 1.0 s purges."
+}<|im_end|>

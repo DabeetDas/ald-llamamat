@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "Scanning Electron Microscopy (SEM)",
+    "X-ray Diffraction (XRD)",
+    "Energy-dispersive X-ray analysis (EDX)",
+    "Cyclic Voltammetry (CV)",
+    "Steady-state Electrolysis",
+    "Four-point probe",
+    "Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)",
+    "Atomic Force Microscopy (AFM)",
+    "X-ray Photoelectron Spectroscopy (XPS)"
+  ],
+  "evidence": "The geometry and morphology of the nanostructured samples were characterized by scanning electron microscopy. The crystal structure was analyzed using X-ray diffraction. Energy-dispersive X-ray analysis was used to identify the elements. Cyclic voltammetry and steady-state electrolysis were used to quantify the electrocatalytic performance. The iridium catalyst loading was determined via inductively coupled plasma optical emission spectrometry. The electrochemical studies were performed in a three-electrode setup using a Pt mesh as the counter electrode and a Ag/AgCl reference electrode. The chemical identity of the ALD deposit was confirmed by X-ray diffraction. The black color along the whole sample surface indicated the formation of metallic iridium. The electrochemical oxidation (anodization) was carried out in ethylene glycol containing 5% H2O and 0.5 wt.% NH4F. The resistance of a substrate was determined with a simple two-contact measurement. The Tafel plot was used to compare the performance at different overpotentials. The evolution of dioxygen was demonstrated with an optical oxygen sensor during steady-state electrolysis."
+}

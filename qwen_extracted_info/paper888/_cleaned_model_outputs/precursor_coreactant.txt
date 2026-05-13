@@ -1,0 +1,7 @@
+{
+  "precursors": ["LiHMDS", "NiCp2", "TET"],
+  "coreactants": ["oxygen remote plasma"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Lithium hexamethyldisilazide (LiHMDS), bis(cyclopentadienyl)nickel (II) (NiCp2), and tetraethyl tin (TET) were used as metal-containing reagents while oxygen remote plasma was used as a counter reagent."
+}

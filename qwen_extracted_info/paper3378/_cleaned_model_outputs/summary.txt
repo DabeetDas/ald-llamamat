@@ -1,0 +1,8 @@
+{
+  "target_material": "Barium oxide (BaO) and barium titanate (BaTiO3)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["pyrrole-based barium compound (py-Ba)", "water (H2O)"],
+  "temperature_range": "180–210 °C",
+  "summary": "The study reports the first temperature and dose independent thermal ALD of BaO using a novel pyrrole-based Ba precursor (py-Ba) and water (H2O) as the co-reactant. The process enables self-limiting growth with a constant growth per cycle (GPC) of 0.45 Å, smooth films with low roughness, and conformal coating on non-planar substrates. The approach allows for the deposition of amorphous barium titanate (BTO) with a dielectric constant of 35.",
+  "evidence": "Here we report the first temperature and dose independent thermal BaO deposition using a novel pyrrole based Ba precursor (py-Ba) and water (H2O) as the co-reactant. The growth per cycle (GPC) is constant at 0.45 Å with excellent self-terminating behavior. The films are smooth (root mean squared (RMS) roughness 2.1 Å) and contain minimal impurities at the lowest reported deposition temperatures for Ba containing films (180–210 1C ). We further show conformal coating of non-planar substrates (aspect ratioB 1 : 2.5) at step coverages above 90%. Intermixing TiO2 ALD layers, we deposited amorphous barium titanate with a dielectric constant of 35."
+}

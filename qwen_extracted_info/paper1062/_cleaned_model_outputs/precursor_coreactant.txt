@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The TiCl4 reactant was pulsed for 0.4 s and H2O for 0.5 s. A N2 purge of 0.5 s interposed each reactant pulse for a total of 2000 cycles to attain films of about 100 nm in thickness."
+}

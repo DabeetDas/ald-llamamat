@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "75–110",
+  "pressure": "0.1–2 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "10",
+  "number_of_cycles": null,
+  "reactor_type": "downstream type remote plasma ALD reactor",
+  "evidence": "The sequential processing times for each step were 3, 10, 20, and 10 s, respectively. The flow rate of the Ar purge was fixed at 100 sccm. The process pressure was maintained between 0.1–2 Torr."
+}

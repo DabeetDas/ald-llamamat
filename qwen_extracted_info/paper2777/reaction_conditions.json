@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "Si-OH + Cd -> Si-O-Cd + H",
+    "Si-O-Cd + Se2 -> Si-O-Cd-Se + Se",
+    "Si-O-Cd-Se + Te -> Si-O-Cd-Se-Te + Te"
+  ],
+  "surface_mechanism_description": "The formation of a chalcogenide layer on a hydroxylated silicon surface involves the chemisorption of metal (Cd) and chalcogen (Se or Te) components. The rate of the surface reaction depends on the surface coverage (θ) and the flow density (R+), following the equation V = κθR+. At high coverage, the reaction follows the Eley–Rideal mechanism, where the metal and chalcogen interact on the surface with mutual diffusion in the adsorbed layer. The growth parameter (d0) is determined by the interplanar distance in the direction of nanostructure growth and reflects the surface coverage under specific temperature conditions.",
+  "intermediate_species": [
+    "Si-O-Cd",
+    "Si-O-Cd-Se",
+    "Si-O-Cd-Se-Te"
+  ],
+  "evidence": "The formation of a chalcogenide layer (for CdSe) on a substrate subjected to alternating exposure to component flows on a hydroxylated silicon surface can be represented by the following surface reactions: Si-OH + Cd -> Si-O-Cd + H; Si-O-Cd + Se2 -> Si-O-Cd-Se + Se; Si-O-Cd-Se + Te -> Si-O-Cd-Se-Te + Te. An analysis of conditions for the maximum surface coverage showed that at flow densities R+ > 5 × 10^15 cm–2 s–1 and exposure times τ > 1.5 s, the layer thickness was determined only by the number of exposure cycles and the substrate temperature. The rate of the surface reaction (V) at a fixed temperature depends on the surface coverage (θ): V = κθR+."
+}

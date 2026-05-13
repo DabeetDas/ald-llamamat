@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "TiCl4 (Aldrich Chemicals, 99.9% purity) and H2O (Milli-Q dispenser) were used as precursors. TiO2 films were deposited onto the membranes by sequential pulsing of precursor couples at a substrate temperature of 120 uC in an F-120 viscous flow-type reactor (ASM, Microchemistry). The pulsing times used were 0.4 s/0.5 s/0.5 s/0.5 s for the reaction sequence TiCl4/purge/H2O/purge respectively."
+}

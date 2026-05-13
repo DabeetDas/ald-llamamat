@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "260–300",
+  "pressure": "2–4 mbar",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 3,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The following precursor/purge pulse lengths were selected based on our preliminary experiments (see the supplementary material): 2 s FeCl3/4 s N2/1 s H2O/3 s N2."
+}<|im_end|>

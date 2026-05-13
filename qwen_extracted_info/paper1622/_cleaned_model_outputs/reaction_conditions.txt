@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves the alternate stacking of ZnO and In2O3 atomic layers using diethylzinc (DEZ) and trimethylindium (TMI) precursors, with water vapor as a reactant. The growth mechanism includes precursor exposure, surface reactions, and purge steps. The surface reactions involve the adsorption of DEZ and TMI on the substrate, followed by reaction with water vapor to form the respective oxide layers.",
+  "intermediate_species": ["In2O3", "ZnO", "surface hydroxyls"],
+  "evidence": "The text describes the ALD process for growing IZO films by alternating ZnO and In2O3 layers using DEZ and TMI precursors with water vapor. It mentions the use of precursor exposure, surface reactions, and purge steps, indicating the formation of intermediate species such as In2O3 and ZnO on the surface during the ALD process."
+}

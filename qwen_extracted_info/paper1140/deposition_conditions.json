@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": 30,
+  "number_of_cycles": null,
+  "reactor_type": "custom-built, viscous-flow, hot-wall reactor",
+  "evidence": "For ZnO ALD, we express the pulse time sequences as z 1:z2:z3:z4, where z1 and z3 correspond to the pulse lengths of DEZn and water, respectively, and z2 and z4 correspond to N2 purge times following these doses. A typical ZnO ALD pulse time sequence was 1:15:1:30 s."
+}

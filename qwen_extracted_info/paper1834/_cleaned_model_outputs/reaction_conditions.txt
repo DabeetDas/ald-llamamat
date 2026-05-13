@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "ZnOS + 2Li+ + 2e− → Zn + Li2O + Li2S",
+    "Zn + Li+ + e− → LiZn",
+    "LiZn → Zn + Li+ + e−",
+    "Zn + Li2O + Li2S → ZnOS + 2Li+ + 2e−"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the decomposition of ZnOS into elemental Zn and the formation of Li2O and Li2S during the lithiation process. The alloying reaction between Li and Zn forms LiZn, which is then converted back to Zn and Li+ during delithiation. The reversible conversion reactions are facilitated by the presence of S in ZnOS, which enhances the electrochemical activity and conductivity.",
+  "intermediate_species": [
+    "Li2O",
+    "Li2S",
+    "LiZn",
+    "ZnOS"
+  ],
+  "evidence": "The electrochemical reactions for ZnOS in the half cell configuration can be represented as follows,51\nCathodic reactions:\nZnOS + 2Li+ + 2e− → Zn + Li2O + Li2S (1)\nZn + Li+ + e− → LiZn (2)\nAnodic reactions:\nLiZn → Zn + Li+ + e− (3)\nZn + Li2O + Li2S → ZnOS + 2Li+ + 2e− (4)"
+}

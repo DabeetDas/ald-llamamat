@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Sr(tmhd)2",
+    "Ti(i-OPr)4"
+  ],
+  "coreactants": [
+    "O2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Sr(tmhd)2 0.1 M solution and Ti( i-OPr)4 0.1 M solution were prepared with tetrahydrofuran solvent. Two solutions were injected separately into the evaporator at the same time with two pulsed liquid injectors and vaporized mixtures were introduced into the deposition reactor. After the precursor injection, argon was used as a purge gas for 3 s. Right after the purge, plasma was generated with the oxygen introduction and another argon purge was done before the next injection of the precursor."
+}

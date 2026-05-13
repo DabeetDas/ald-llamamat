@@ -1,0 +1,7 @@
+{
+  "precursors": ["WCl"],
+  "coreactants": ["H", "diethylamine borane (DEAB)", "dimethylamine borane (DMAB)", "triethylaluminum (TEA)", "trimethylaluminum (TMA)", "tert-butyl hydrazine (TBH)", "NH"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "High-purity Ar (200 sccm) was used as a purging gas in between two successive pulses of the precursor and the reactant. The base pressure of the reactor chamber was achieved as 8 mTorr while the working pressure during the reaction was set as ~ 400 mTorr with the help of Ar purging. Additionally, 50 sccm Ar was also used as a carrier gas for the smooth delivery of the WCl precursor."
+}<|im_end|>

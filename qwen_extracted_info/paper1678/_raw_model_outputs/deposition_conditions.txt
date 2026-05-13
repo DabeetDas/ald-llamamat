@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 100,
+  "pressure": "3 Torr",
+  "precursor_pulse_time_s": 10,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 500,
+  "number_of_cycles": 10,
+  "reactor_type": "home-built ALD reactor",
+  "evidence": "During ALD processing, the system is continuously pumped at all times. Since TMA and D2O have a high vapor pressure, no carrier gas is used. However, during the exposure, a small amount of N2 gas (100 sccm) is used to maintain 3 Torr pressure under dynamic pumping. After TMA or D2O exposures, N2 purge is increased to 500 sccm to maintain the pressure."
+}<|im_end|>

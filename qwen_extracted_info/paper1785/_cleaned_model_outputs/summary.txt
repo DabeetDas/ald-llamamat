@@ -1,0 +1,8 @@
+{
+  "target_material": "graphene",
+  "process_type": "remote plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["liquid benzene", "H2/Ar mixture plasma"],
+  "temperature_range": "400 /C14 C",
+  "summary": "This study describes the low-temperature remote plasma-enhanced atomic layer deposition (PEALD) of graphene using liquid benzene as a carbon source. The process allows for the growth of high-quality graphene at a significantly lower temperature compared to conventional chemical vapor deposition (CVD), overcoming the high processing temperature limitations. The atomic structure of the graphene was characterized using aberration-corrected transmission electron microscopy (TEM), revealing a highly crystalline structure with hexagonal carbon rings. The results demonstrate the potential of PEALD for the synthesis of high-quality graphene for potential device applications.",
+  "evidence": "A new technique has been developed to grow graphene sheets at low temperature from the liquid benzene carbon source by means of remote Plasma-Enhanced Atomic Layer Deposition (PEALD). This method features a much lower growth temperature than previously reported, overcoming the disadvantages of the conventional CVD method, such as high processing temperature and difficulties in controlling the number of graphene layers. The characterization of the morphology and atomic structure of the graphene by means of SEM, TEM and EELS shows that high-quality graphene sheets can be prepared on Cu foils at a temperature as low as 400 /C14 C."
+}

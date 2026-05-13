@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "162 /C176 C",
+  "pressure": "",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 12,
+  "purge_time_s": 60,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "An ALD cycle includes four steps: Mo(CO) precursor exposure ( Ts), Ar purging ( Tp1), O 2 plasma reactant exposure ( Tr) and another Ar purging ( Tp2). In the ALD MoO 3 process, the Ts, Tp1, Tr and Tp2 were fixed at 4, 60, 12 and 40 s, respectively."
+}

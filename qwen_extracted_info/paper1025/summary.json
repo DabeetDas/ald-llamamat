@@ -1,0 +1,12 @@
+{
+  "target_material": "Calcium carbonate (CaCO3)",
+  "process_type": "Atomic Layer Chemical Vapour Deposition (ALCVD)",
+  "main_precursors": [
+    "Ca(thd) (calcium 2,2,6,6-tetramethylheptan-3,5-dione)",
+    "ozone",
+    "CO2"
+  ],
+  "temperature_range": "200–400 °C",
+  "summary": "Calcium carbonate (CaCO3) thin films were grown using atomic layer chemical vapour deposition (ALCVD) with Ca(thd), ozone, and CO2 as precursors. The process was self-limiting and operated within a temperature range of 200–400 °C. The films were deposited on various substrates, and their textures and orientations were studied. The films showed different orientations depending on the substrate and temperature. The study aimed to understand the growth conditions for CaCO3 using ALCVD to facilitate the synthesis of more complex oxides with calcium as a constituent.",
+  "evidence": "Thin films of CaCO3 (calcite) have been grown with the atomic layer chemical vapour deposition (ALCVD) technique, using Ca(thd), CO2, and ozone as precursors. Pulse parameters for the ALCVD-type growth are found and self-limiting reaction conditions are established between 200 and 400 °C. Calcium carbonate films have been deposited on soda-lime glass, Si (100), a-Al2O3 (001), a-Al2O3 (012), a-SiO2 (001), and MgO (100) substrates."
+}

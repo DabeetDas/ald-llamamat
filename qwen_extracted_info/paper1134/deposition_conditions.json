@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "5",
+  "purge_time_s": "2",
+  "number_of_cycles": "150",
+  "reactor_type": "SNTEK Co., ALD5008",
+  "evidence": "Fig. 1. Growth rates of Th-ALD and O 3-ALD Ta 2O5 (a) as functions of H 2Oo rO 3 exposure time (t r) on TiN substrates at T s = 300 °C, and (b) as a function of growth temperature T s."
+}

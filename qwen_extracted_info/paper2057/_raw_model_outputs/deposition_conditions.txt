@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": "1.8",
+  "coreactant_pulse_time_s": "2",
+  "purge_time_s": "6",
+  "number_of_cycles": null,
+  "reactor_type": "",
+  "evidence": "Deposition conditions were as follows: temperature of 300°C, duration of HfCl 4 and H 2O pulses of 1.8 and 2 s, respectively, and N 2 purge time between the reactant pulses of 6 s."
+}<|im_end|>

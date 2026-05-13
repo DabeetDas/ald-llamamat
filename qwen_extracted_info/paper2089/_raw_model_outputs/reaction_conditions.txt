@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reaction steps are qualitatively explained through the thermodynamic analysis with the reaction Si + MOx → M + SiO2, where the formation of SiO2 in Ga2O3/Si interface is more possible than that for the TiO2/Si interface.",
+  "intermediate_species": ["SiO2"],
+  "evidence": "These results suggest that the TaN/Ga2O3–TiO2/Si structure is better than the TaN/TiO2–Ga2O3/Si in terms of an improvement of dielectric constant. These phenomena can be qualitatively explained with the thermodynamic analysis through the reaction as follows: Si + MOx → M + SiO2. In Eq. (1), Gibbs free energy changes at 1000 K (ΔG°1000) for TiO2 and Ga2O3 are +7.527 and −79.411 kcal/mol, respectively. The thermodynamic data suggest that the formation of SiO2 in Ga2O3/Si interface is more possible than that for the TiO2/Si interface, resulting in a larger reduction of capacitance in the TaN/TiO2–Ga2O3/Si capacitors with increasing annealing temperature."
+}<|im_end|>

@@ -1,0 +1,13 @@
+{
+ "reaction_equations": [
+    "Al–OH⁎ + Al(CH3)3 → Al–O–Al(CH3)⁎2 + CH4",
+    "Al–CH⁎3 + H2O → Al–OH⁎ + CH4"
+  ],
+  "surface_mechanism_description": "The ALD growth of Al2O3 involves two surface reactions: the first reaction between surface hydroxyl groups and trimethylaluminum, followed by a reaction between the surface species formed and water. The surface reactions are self-limiting and occur in sequential half-reactions.",
+  "intermediate_species": [
+    "Al–O–Al(CH3)⁎2",
+    "Al–CH⁎3",
+    "Al–OH⁎"
+  ],
+  "evidence": "Al2O3 ALD growth was performed using trimethylaluminum, Al(CH3)3, and water according to the following two surface reactions: (A) Al–OH⁎ + Al(CH3)3 → Al–O–Al(CH3)⁎2 + CH4 (1) (B) Al–CH⁎3 + H2O → Al–OH⁎ + CH4 (2) where the asterisks denote the surface groups."
+}

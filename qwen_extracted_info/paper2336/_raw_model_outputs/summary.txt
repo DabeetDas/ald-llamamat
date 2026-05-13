@@ -1,0 +1,8 @@
+{
+  "target_material": "thin films",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum (TMA)", "water (H2O)", "titanium tetrachloride (TiCl4)"],
+  "temperature_range": "300 /C14 C for Al2O3, 110 /C14 C for TiO2",
+  "summary": "The study models the growth kinetics of thin films made by atomic layer deposition (ALD) in lateral high-aspect-ratio structures. The research focuses on the conformality of ALD films, particularly Al2O3 and TiO2, using all-silicon test structures. The model incorporates gas diffusion, surface reactions, and adsorption processes to predict film thickness profiles and extract kinetic parameters. The study compares the results with the Gordon model and validates the model using experimental data from ALD processes.",
+  "evidence": "The conformality of thin films grown by atomic layer deposition (ALD) is studied using all-silicon test structures with long narrow lateral channels. The ALD reactor was a Picosun R-150 with four reactant lines. Al2O3 was grown from trimethylaluminum (TMA) and water (H2O) at 300 /C14 C and TiO2 from titanium tetrachloride (TiCl4) and H2O at 110 /C14 C. The study compares the results with the Gordon model and validates the model using experimental data from ALD processes."
+}<|im_end|>

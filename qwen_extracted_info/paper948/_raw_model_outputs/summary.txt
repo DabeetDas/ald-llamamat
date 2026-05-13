@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["HfCl4", "O3 or H2O"],
+  "temperature_range": "375 1C",
+  "summary": "The study investigates the band alignment between atomic-layer deposition (ALD)-grown HfO2 thin films and n-type Ge(1 0 0) substrates using XPS and IPE. The VBO and CBO values are determined, and the impact of differential charging phenomena on XPS measurements is addressed through recalibration of the energy scale.",
+  "evidence": "The HfO2 films were grown by atomic-layer deposition (ALD) in a F-120 ASM Microchemistry reactor on an n-type Ge(1 0 0) wafer. HfCl4 was used as a precursor for Hf while O3 or H2O was used as the oxygen source. During the growth, the substrate temperature was fixed at 375 1C."
+}<|im_end|>

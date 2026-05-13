@@ -1,0 +1,11 @@
+{
+  "target_material": "AlAs",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "trimethylaluminum",
+    "arsine"
+  ],
+  "temperature_range": "low temperature",
+  "summary": "The study focuses on the growth of an AlAs buffer layer on GaAs using atomic layer epitaxy at low temperatures.",
+  "evidence": "Layer-by-Layer Growth of AlAs Buffer Layer for GaAs on Si at Low Temperature by Atomic Layer Epitaxy"
+}

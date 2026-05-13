@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "BDIPADS"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "High purity N2 (99.999%) was used as a carrier gas (300 sccm). For this study, a novel Si precursor, BDIPADS (Wonik materials Co.), was employed with ~180 g/m 3 O 3 (Ozonetech Co.) as an oxygen source for the purpose of enabling the low temperature deposition of SiO 2 films."
+}

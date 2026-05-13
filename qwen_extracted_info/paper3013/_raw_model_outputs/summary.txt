@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Remote Plasma Atomic Layer Deposition (RPALD)",
+  "main_precursors": ["Hf/H20849mp/H208504", "Hf/H20849NEt2/H208504"],
+  "temperature_range": "250°C",
+  "summary": "The study compares the use of Hf/H20849mp/H208504 and Hf/H20849NEt2/H208504 precursors for depositing HfO2 films via remote plasma atomic layer deposition (RPALD). The Hf/H20849mp/H208504 precursor showed better performance with lower carbon contamination, a wider stable process temperature range, and improved physical stability. The films were characterized for their structural, electrical, and compositional properties.",
+  "evidence": "The Hf/H20849mp/H208504 precursor has a lower growth rate and a wider range of stable RPALD process temperatures than did the Hf/H20849NEt2/H208504 precursor. The Hf/H20849mp/H208504 sample showed improvement in the leakage current characteristics compared to the Hf/H20849NEt2/H208504 sample. The Hf/H20849mp/H208504 precursor is more suitable to achieve thinner physical thickness with full coverage of the wafer by RPALD process because Hf/H20849mp/H208504 has a lower saturation growth rate and wider ALD process window than Hf/H20849NEt2/H208504."
+}<|im_end|>

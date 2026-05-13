@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "400 Pa",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 9,
+  "purge_time_s": 10,
+  "number_of_cycles": 500,
+  "reactor_type": "Picosun R-200",
+  "evidence": "The films were deposited on Si (100) substrates that were cut into approximately 15 x 15 mm pieces. The substrates were loaded into the chamber without a loadlock chamber and placed on to a heated substrate holder. After loading the substrates, the chamber was baked for 2 hours at 450 C with a continuous N2 flow (300 sccm) to minimize oxygen contamination. After baking, the substrates were exposed to 120 s of H2 plasma (1000 W plasma power using a gas mixture of 100 sccm Ar and 10 sccm H2) followed by 120 s N2 plasma (2800 W plasma power using a gas mixture of 80 sccm Ar and 380 sccm N2) to further remove oxygen and moisture, parts of the native silicon oxide as well as to nitridise the substrate surface."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Silicon nitride (SiN x)",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Si2Cl6",
+    "NH3"
+  ],
+  "temperature_range": "515–573 °C",
+  "summary": "The study investigates the growth and characteristics of silicon nitride thin films deposited by alternating exposures to Si2Cl6 and NH3 in a cold-wall reactor. The process is self-limiting at temperatures of 515 and 557 °C, with growth rates of 0.24 and 0.28 nm/cycle, respectively. The films are nonstoichiometric and contain 7–8 at.% oxygen. The deposition using Si2Cl6 shows higher rates with lower reactant exposures compared to SiH2Cl2, and the films exhibit good physical and electrical properties.",
+  "evidence": "We deposited silicon nitride films by alternating exposures to Si2Cl6 and NH3 in a cold-wall reactor, and the growth rate and characteristics were studied with varying process temperature and reactant exposures. The deposition reaction was self-limiting at process temperature of 515 and 557 °C, and the growth rates were 0.24 and 0.28 nm/cycle with Si2Cl6 exposure over 2 × 108 L. The deposited films are nonstoichiometric SiN, and were easily oxidized by air exposure to contain 7 –8 at.% of oxygen in the bulk film. The deposition by using Si2Cl6 exhibited a higher deposition rate with lower reactant exposures as compared with the deposition by using SiH2Cl2, and exhibited good physical and electrical properties that were equivalent or superior to those of the film deposited by using SiH2Cl2."
+}

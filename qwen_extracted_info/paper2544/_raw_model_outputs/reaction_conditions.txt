@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reaction mechanism for TaN ALD involves the removal of NMe2 ligands by H plasma, leading to the formation of TaN. For Ta2O5 ALD, the OH-terminated surface reacts with PDMA T to form Ta2O5 without nitrogen incorporation. The growth rate differences are attributed to surface OH group concentration and reactivity of plasma radicals.",
+  "intermediate_species": ["Ta atoms adsorbed on surface with NH or H bonded", "Ta–N bond", "Ta–O bond", "Ta–C bond"],
+  "evidence": "Based upon these results, we infer that there are distinguished differences in ALD reaction mechanism for nitride and oxide from PDMA T. In the PDMA T+ H plasma reaction, after first step when the surface is saturated by the adsorbed PDMA T molecules, the surface is exposed to hydrogen plasma. At this step, ideally all of the NMe2 is removed by forming H/NMe2. However, since the current results indicate that TaN, not Ta, is formed, at least one out of five ligands should be broken to form a Ta–N bond with a N / Ta ratio of 0.8 in the film. For PDMA T reaction with O plasma during Ta2O5 PE-ALD, although no intended H dosing is present, the OH terminated surface is formed as mentioned earlier. The OH terminated surface reacts with the successive PDMA T exposure, producing N free Ta2O5."
+}<|im_end|>

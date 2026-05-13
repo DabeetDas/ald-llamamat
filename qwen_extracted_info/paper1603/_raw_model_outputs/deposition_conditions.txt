@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 150,
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 90,
+  "coreactant_pulse_time_s": 90,
+  "purge_time_s": 180,
+  "number_of_cycles": 20,
+  "reactor_type": "hot-walled, viscous flow reactor",
+  "evidence": "The ALD Al2O3 timing sequences can be expressed as t1 -t2-t3-t4 where t1 is the TMA exposure time, t2 is the purge time following the TMA exposure, t3 is the H2O exposure time, and t4 is the purge time following the H2O exposure where the units are seconds (s). The typical timing sequence for these studies was 90-180-90-180. During the reactant exposures, the partial pressures of the TMA and H2O reactants were ∼ 0.15 Torr as determined using a Baratron capacitance manometer pressure gauge."
+}<|im_end|>

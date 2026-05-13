@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "yjj/C0OH þ MLnðgÞ ! ðjj/C0O/C0ÞyMLn/C0y þ yHLðgÞ",
+    "jj/C0L þ H2OðgÞ ! jj/C0OH þ HLðgÞ",
+    "jj/C0OH þ jj/C0OH ! jj/C0O/C0jj þH2OðgÞ"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites. The reaction chemistry involves several types of gas–solid reactions (ligand exchange, dissociation/association) and steric hindrance by adsorbed methyl groups terminates the trimethylaluminum reaction.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "adsorbed ligands",
+    "methyl groups",
+    "oxygen bridges"
+  ],
+  "evidence": "The reaction chemistry where several types of gas–solid reactions (ligand exchange, dissociation/association) can occur simultaneously, and where steric hindrance by adsorbed methyl groups terminates the trimethylaluminum reaction. The commonly assumed reaction chemistry where one OH group bonds one aluminum atom through ligand exchange does not describe satisfactorily the trimethylaluminum/water process."
+}<|im_end|>

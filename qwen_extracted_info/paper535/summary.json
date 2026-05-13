@@ -1,0 +1,11 @@
+{
+  "target_material": "Tungsten",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "SiH26",
+    "WF6"
+  ],
+  "temperature_range": "573 K",
+  "summary": "The study examines tungsten atomic layer deposition (ALD) on hydroxylated SiO2 surfaces using Auger electron spectroscopy (AES). Tungsten growth is slow during the initial nucleation period, followed by linear growth at 2.5 Å per AB cycle. The growth mechanism follows the Frank-van der Merwe model, indicating layer-by-layer deposition. Electron backscattering effects are crucial for accurate AES signal interpretation. Nucleation can be accelerated by increasing initial SiH26 exposure or repeated AES probing.",
+  "evidence": "The nucleation and growth during tungsten atomic layer deposition on SiO2 surfaces was examined using Auger electron spectroscopy. Tungsten ALD was performed on a hydroxylated silica surface using repeated exposures to disilane (SiH26) and tungsten hexafluoride (WF6) in an ABAB... sequence at 573 K. The AES measurements revealed that W growth is slow during the first 10 AB reaction cycles. Following this initial nucleation period, the tungsten film grew linearly at 2.5 Å per AB cycle. The W and Si AES signals dramatically oscillated in magnitude versus the sequential SiH26 and WF6 exposures in the linear growth regime. Comparison of the experimental AES signals with predicted AES signals assuming different growth mechanisms determined that tungsten grows in a layer-by-layer fashion following the Frank-van der Merwe mechanism."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Diethylzinc (DEZn)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The growth cycle consists of precursor exposures and N2 purge following the sequence of DEZn/N2/H2O/N2 with corresponding duration of 5 s/15 s/15 s/5 s. After each N2 purging, the reactor was pumped down to ∼1×10-2 Torr. Precursor introduction was done by opening the inlet valve between the reservoir and reactor chamber while the outlet valve was closed; no carrier gas was employed."
+}

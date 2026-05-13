@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": ["Zn(C2H6O2)2 (Diethylzinc, DEZn)", "H2O", "Al(CH3)3 (Trimethylaluminum, TMA)"],
+  "temperature_range": "180 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit ZnO layers on p-GaN for UV electroluminescence (EL) in heterojunction light-emitting diodes (LEDs). The ALD process used Zn(C2H6O2)2 and H2O as precursors at 180 °C. The SiO2–ZnO nanocomposite layer, formed by ALD, acts as a current blocking layer and enhances light extraction efficiency due to its low refractive index. The ALD-deposited ZnO layer showed high crystallinity and optical quality, leading to significant UV emission at low injection currents.",
+  "evidence": "ZnO was deposited by the ALD technique at a substrate temperature of 180 °C with two precursors, Zn(C2H6O2)2 (Diethylzinc, DEZn) and H2O, carried in by a N2 flow. The ALD process consisted of two kinds of cycles, one of which contained the following sequence: DEZn, N2 purge, H2O, N2 purge, 5 s for the deposition of ZnO (cycle A), and the other contained TMA, N2 purge, H2O, N2 purge, 5 s for the Al doping (cycle B). The low refractive index of the SiO2–ZnO nanocomposite layer contributes to the increase in the light extraction efficiency from n-ZnO."
+}<|im_end|>

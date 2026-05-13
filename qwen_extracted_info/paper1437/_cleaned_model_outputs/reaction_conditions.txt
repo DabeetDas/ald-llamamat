@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Pr[N(SiMe3)2]3 and subsequent reaction with water (H2O) to form PrOx films. The reaction is self-limiting and involves the elimination of (Me3Si)2NH as a stable species through surface exchange reactions between the precursor and hydroxyl groups.",
+  "intermediate_species": ["[N(SiMe3)2] group", "(Me3Si)2NH", "surface hydroxyls"],
+  "evidence": "The text states: 'the [N(SiMe3)2] group would be cleanly eliminated as the stable (Me3Si)2NH species via the reaction between Ln[N(SiMe3)2]3 and [OH].'"
+}

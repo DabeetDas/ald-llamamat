@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "Me3AuPMe3",
+    "(CD3)3Au(PMe3)"
+  ],
+  "coreactants": [
+    "H2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The precursor liquids are kept in glass containers, heated to 50◦C and the delivery lines are heated to 55◦C. Argon is used as a carrier gas for the precursors during all depositions."
+}

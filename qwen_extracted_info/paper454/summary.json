@@ -1,0 +1,11 @@
+{
+  "target_material": "aluminum oxide",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum",
+    "hydrogen peroxide"
+  ],
+  "temperature_range": "room temperature",
+  "summary": "The study describes the controlled growth of aluminum oxide films using atomic layer deposition (ALD) with surface chemical reactions. The process involves alternating dosing of trimethylaluminum and hydrogen peroxide vapors at room temperature, resulting in self-limiting growth observed through in situ spectroscopic ellipsometry.",
+  "evidence": "It was found that the self-limiting growth of aluminum oxide films at room temperature was clearly observed with alternate dosing of binary vapors of trimethylaluminum and hydrogen peroxide."
+}

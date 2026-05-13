@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ga incorporation involves a process where Ga atoms react with top-layer As atoms, breaking the dimer and exchanging places with it. The ejected As acquires one or more of the methyl groups liberated by the reaction and desorbs. Other methyl groups made available by this reaction can attach to the neighboring As. The presence of methyl radicals facilitates the desorption of the top-layer As due to the higher bond energy of the As–methyl bond compared to the Ga–methyl bond. The desorption of methyl radicals during the purge following group III exposure leads to a slow exponential decay of the RDS signal.",
+  "intermediate_species": [
+    "methyl radicals",
+    "As–methyl bond",
+    "Ga–methyl bond",
+    "surface hydroxyls"
+  ],
+  "evidence": "During the first phase when the total TMGa supplied to the surface is less than 0.5 ML, the RDS signal continuously changes towards a positive signal during Ga exposure because second-layer As dimers are broken by the incorporation of Ga. A Ga atom from an incoming TMGa molecule reacts with a top-layer As atom, breaking the dimer and exchanging places with it. The ejected As acquires one or more of the methyl groups liberated by the reaction and desorbs. Other methyl groups made available by this reaction can attach to the neighboring As. The fact that the As–methyl bond energy (67.5 kcal/mol) is larger than that of the Ga–methyl bond (59.5 kcal/mol) facilitates the desorption of the top-layer As. This is further aided by the high vapor pressure of TMAs (238 Torr at 20 °C)."
+}

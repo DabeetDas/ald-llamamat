@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "2.8 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 3,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "All depositions were carried out using KO tBu (Aldrich, 97%), Nb(OEt) 5 (Aldrich, 99%), and Ta(OEt) 5 (Aldrich, 99%) as metal precursors. The cation precursors were supplied from open boats inside the reactor, held at 150, 70, and 70 °C, respectively. Pulse durations were set to 3 s for all metal precursors and 2 s for the water pulses. All purge durations were set to 3 s."
+}

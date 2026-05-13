@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "Si* –OH + Hf(NEt2)3 → Si* –O–Hf(NEt2)3 + Et2NH*",
+    "Si* –O–Hf(NEt2)3 + 3 O* → Si* –O–Hf(OH)3 + 3CH3CHvNCH2CH3",
+    "Si* –O–Hf(NEt2)3 + 3 O* → Hf* –O–Si–OH3 + 3CH3CHvNCH2CH3"
+  ],
+  "surface_mechanism_description": "The initial hafnium oxide deposition process forms hafnium silicate through the reaction of TDEAH with surface hydroxyl groups, followed by oxygen plasma pulses that replace diethylamine ligands and generate surface hydroxyl groups. The oxygen plasma also facilitates the exchange of Si atoms with Hf atoms, leading to the formation of silicate sites. The silicate layer grows on the Si substrate, and hafnium oxide begins to form on top of the silicate layer after the 20th cycle.",
+  "intermediate_species": [
+    "Surface hydroxyl groups (Si* –OH)",
+    "Monomethyl aluminum (Et2NH*)",
+    "Surface hydroxyl groups (Si* –O–Hf(NEt2)3)",
+    "Surface hydroxyl groups (Hf* –O–Si–OH3)"
+  ],
+  "evidence": "Si* –OH + Hf(NEt2)3 → Si* –O–Hf(NEt2)3 + Et2NH* where Si* – OH denotes the surface group and Et2NH* represents Et2NH, CH3CHvNCH2CH3 and H2. Et stands for the ethyl group, CH3CH2–. Equation (1) is a feasible channel in multiple manifolds of reactions. At the oxygen plasma pulse, possible reactions would be as follows: Si* –O–Hf(NEt2)3 + 3 O* → Si* –O–Hf(OH)3 + 3CH3CHvNCH2CH3, Si* –O–Hf(NEt2)3 + 3 O* → Hf* –O–Si–OH3 + 3CH3CHvNCH2CH3. O* represents the oxygen plasma source, which replaces diethylamine ligands and generates surface hydroxyl groups. In Eq. (3) the surface Si atom is highly excited by the oxygen plasma energy and results in an exchange with the hafnium atom. Both reactions yield silicate sites."
+}

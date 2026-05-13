@@ -1,0 +1,12 @@
+{
+  "characterization_methods": [
+    "Atomic Force Microscopy (AFM)",
+    "High-resolution Transmission Electron Microscopy (HRTEM)",
+    "Variable Angle Spectroscopic Ellipsometer",
+    "X-ray Diffraction (XRD)",
+    "Conducting Atomic Force Microscopy (C-AFM)",
+    "Four-point probe",
+    "Electrical conduction measurements"
+  ],
+  "evidence": "The surface morphology of the ultrathin TiO2 film and the film capped with Pd nanoparticles were characterized by AFM (Multimode-Digital instruments) in contact mode. The cross-sectional view of the Pd-capped TiO2 film was studied by HRTEM at 300 kV. The growth rate was measured by using a variable angle spectroscopic ellipsometer (J. A. Woollam Company) and further confirmed by high-resolution transmission electron microscopy (HRTEM, model Philips CM300 FEGTEM). The as-prepared TiO2 film was annealed in air at 500 °C for 2 h. The local conductivity and topography were probed by using a commercial silicon cantilever (from Nano World) coated with doped n-type diamond having high wear resistance. The current, from the tip to the sample was measured with a Keithley picoammeter (model 6485). A constant voltage of 1.5V was applied between the tip and the sample. On-off switching effects were also confirmed by electrical conduction measurements, using a two-probe configuration. The sensing system consists of three parts namely gas mixing manifold, sensor test chamber, and data acquisition unit. All the electrical characterizations were performed in a quartz chamber at atmospheric pressure. The current flow through the sample upon application of a constant voltage of 1.5 V was monitored by using a Keithley sourcemeter (model 2400) that was computer interfaced with LABVIEW."
+}

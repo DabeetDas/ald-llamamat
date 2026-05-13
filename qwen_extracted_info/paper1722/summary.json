@@ -1,0 +1,12 @@
+{
+  "target_material": "AlAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Trimethylgallium (TMGa)",
+    "Ethyldimethylamine alane (EDMAA1)",
+    "Arsine (AsH3)"
+  ],
+  "temperature_range": "520 °C",
+  "summary": "The study demonstrates the control of carbon incorporation in AlAs layers grown by atomic layer epitaxy (ALE) using substrates with different orientations. The carbon content was minimized on the (3 1 1)B surface, achieving the lowest carbon content of 2.36×10^17 cm⁻³ under monolayer self-limiting growth conditions. The process involves the use of various substrates to adjust the number of alkyl radicals and dangling bonds, which influences carbon incorporation.",
+  "evidence": "We demonstrate a method for successfully controlling carbon incorporation in AlAs layers grown by atomic layer epitaxy (ALE) using various GaAs substrates with different orientations. The number of alkyl radicals attached to an Al atom at the surface, which is a main factor in carbon incorporation, can be intentionally controlled by changing substrate orientation. We found that the carbon incorporation in ALE-AlAs using the (3 1 1)B surface is 17 cm⁻³, which is the lowest value ever reported for ALE-AlAs that satisfies one-monolayer self-limiting growth conditions."
+}

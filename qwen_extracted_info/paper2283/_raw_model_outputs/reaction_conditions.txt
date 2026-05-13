@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": ["surface hydroxyls", "formate species"],
+  "evidence": "The reaction between H2O and DEZn is expected to be completed very quickly during the H2O pulse, the slow process during the purge may again be related to the removal of physisorbed molecules from the substrate."
+}<|im_end|>

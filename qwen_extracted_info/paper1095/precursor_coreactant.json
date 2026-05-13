@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethylaluminum (TMA)",
+    "tetrakis(diethylamino)zirconium Zr(NEt2)4"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "In the present work, metal carrying precursors for the Al2O3 deposition are trimethylaluminum (TMA), and a chlorine-free tetrakis(diethylamino)zirconium Zr(NEt2)4 for the ZrO2 deposition, whereat the latter precursor has been kept at 110 °C. H2O has been used as oxygen-carrying precursor. The substrate temperatures during ALD growth have been set to 1 10 °C, 150 °C, 200 °C, 250 °C, and 300 °C, respectively. In order to achieve a reliable layer by layer growth, we applied purging times from 10 s to 90 s."
+}

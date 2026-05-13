@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface mechanism involves the initial interaction of TMI with surface P-dimers, resulting in a change in anisotropy. At higher temperatures, the introduction of TMI leads to a steady increase in RA response, suggesting the decomposition of TMI at P-dimers, creating In-dimers that react with incoming phosphine molecules to return the surface to the starting condition.",
+  "intermediate_species": ["monomethylindium", "P-dimers", "In-dimers"],
+  "evidence": "The text describes that the introduction of TMI leads to a change in anisotropy and that at higher temperatures, the decomposition of TMI at P-dimers creates In-dimers, which then react with incoming phosphine molecules. It also mentions that a residual species such as monomethylindium may act as a site blocking agent."
+}

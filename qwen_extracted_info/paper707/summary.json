@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "tetrakis(ethylmethylamido)hafnium",
+    "water"
+  ],
+  "temperature_range": "105 ◦C to 320 ◦C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of HfO2 films using tetrakis(ethylmethylamido)hafnium and water as precursors. The process involves thermal ALD at temperatures ranging from 105 ◦C to 320 ◦C. The research highlights the decomposition of alkylamido ligands at 320 ◦C and the incomplete coverage of the SiO2 substrate at higher temperatures. The study also demonstrates the use of in situ reﬂection absorption infrared spectroscopy (RAIRS) as a diagnostic tool for process optimization.",
+  "evidence": "Tetrakis(ethylmethylamido)hafnium and water are commonly used precursors for atomic layer deposition of HfO2. Using reﬂection absorption infrared spectroscopy with a buried-metal-layer substrate, we probe surface species present during typical deposition conditions. We observe evidence for thermal decomposition of alkylamido ligands at 320 ◦C. Additionally, we ﬁnd that complete saturation of the SiO2 substrate occurs in the ﬁrst cycle at ≈ 100 ◦C whereas incomplete coverage is apparent even after many cycles at higher temperatures. The use of this technique as an in situ diagnostic useful for process optimization is demonstrated."
+}

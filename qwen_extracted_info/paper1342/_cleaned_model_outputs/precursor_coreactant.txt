@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMASn (Tetrakis(dimethylamino)tin(IV))"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "Tetrakis(dimethylamino)tin(IV) (TDMASn) (99.99%, Strem Chemicals) and water were used as precursors. N2 was used as purge gas. Typically, a flow of 150 sccm of N2 through the TDMASn-bubbler and 8 sccm of N2 through the H2O-bubbler have been used with a total gas flow at each precursor line of 2000 sccm."
+}

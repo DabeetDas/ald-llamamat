@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "13",
+  "reactor_type": "",
+  "evidence": "We deposited Si on Ge(100) via alternate pulses of Si,Cl, and Si,H, with T, near 500°C and characterized the very thin Si layers."
+}

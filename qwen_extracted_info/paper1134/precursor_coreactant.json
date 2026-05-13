@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "pentaethoxytantalum (PET)"
+  ],
+  "coreactants": [
+    "H2O",
+    "O3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "Pentaethoxytantalum (PET) was employed as a Ta precursor. ... vaporized precursor molecules were carried to the reaction chamber using Ar gas, at flow rates that were controlled using a mass flow controller."
+}

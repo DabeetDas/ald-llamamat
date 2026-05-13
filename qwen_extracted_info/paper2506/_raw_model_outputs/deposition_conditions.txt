@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-400",
+  "pressure": "30-100 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "Showerhead",
+  "evidence": "The deposition temperature for the Ta ALD films has been found to range from 0.16 to 0.5 Å/cycle at 25 °C to 1.67 Å/cycle at 250–400 °C. The atomic hydrogen source used is a quartz tube connected to the sample chamber by a gate valve and fed from a hydrogen gas supply via a leak valve."
+}<|im_end|>

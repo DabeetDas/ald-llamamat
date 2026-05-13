@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 2.1,
+  "density_g_cm3": 2.6,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.8,
+  "crystal_phase": "Amorphous",
+  "evidence": "Depositions of 10 and 20 nm ALD silicon dioxide films did not increase the roughness of the very smooth silicon nitride surfaces, measured to have an rms surface roughness of 0.8 nm. The density agrees much better with that of quartz (2.65 g / cm3) rather than SiO2 growth thermally from silicon (2.2 g / cm3). This can be accounted for by the growth method of ALD SiO2 that has no geometric constraints, whereas thermally grown silicon dioxide is grown via oxygen diffusion into crystalline silicon, which restricts the final density of the material. In addition, because ALD growth on an amorphous silicon nitride film is likely to be amorphous as well, the stiffness should be significantly less than quartz (100 GPa) or thermally grown silicon dioxide (70 GPa)."
+}

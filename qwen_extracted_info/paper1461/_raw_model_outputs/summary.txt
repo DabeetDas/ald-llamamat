@@ -1,0 +1,8 @@
+{
+  "target_material": "Palladium (Pd)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Pd(II) hexafluoroacetylacetonate (Pd(hfac)2)", "formalin"],
+  "temperature_range": "200 /C176C",
+  "summary": "Palladium catalysts were synthesized using atomic layer deposition (ALD) on ALD metal oxide surfaces, specifically Al2O3 and ZnO, for methanol decomposition. The study compared the catalytic performance of Pd supported on Al2O3 and ZnO, revealing that Pd-Al2O3 showed high activity and hydrogen selectivity, while Pd-ZnO experienced rapid deactivation due to Pd dissolution into the ZnO substrate. ALD Al2O3 overcoating on Pd-ZnO improved stability and activity.",
+  "evidence": "Atomic layer deposition (ALD) palladium films were deposited at 200 /C176C on various ALD metal oxide surfaces using sequential exposures to Pd(II) hexafluoroacetylacetonate (Pd(hfac)2) and formalin. The ALD Pd-Al2O3 showed high activity and hydrogen selectivity at relatively low temperatures while the ALD Pd-ZnO showed very low activity as well as quick deactivation. By applying one cycle of ALD Al2O3 on top of the Pd-ZnO catalyst, the activity was enhanced and the catalyst deactivation was mitigated."
+}<|im_end|>

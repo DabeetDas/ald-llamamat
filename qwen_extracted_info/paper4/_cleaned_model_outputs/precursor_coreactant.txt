@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiI4"],
+  "coreactants": ["H2O2"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "TiI4 (Aldrich, 98 %) was evaporated from an open boat, held at 105–110 C, inside the reactor. Vapor of H2O2 in 30 % aqueous solution (Riedel-de Hae¨n) was generated in an external reservoir at room temperature and led into the reactor through needle and solenoid valves. Nitrogen was used as a precursor carrier and purge gas."
+}

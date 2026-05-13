@@ -1,0 +1,7 @@
+{
+  "precursors": ["TiCl4", "H2O"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "TiCl4 and H2O vapor generated from distilled and de-ionized water were used as the titanium and oxygen sources, respectively. The precursors were carried to substrates in a flow of pure N2 gas (99.999% purity)."
+}

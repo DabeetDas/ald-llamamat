@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The nucleation of HfO2 is suppressed due to remnant Si-H bonds induced by the SiH/NH2CH3/2 precursor after the atomic layer deposited growth of SiO2. The Si-H bonds remain in the films, inhibiting the subsequent nucleation of the Hf precursor.",
+  "intermediate_species": ["Si-H bonds"],
+  "evidence": "The Si-H stretching vibration modes increase with an increase in the ratio of SiO2 cycles, indicating that the Si-H bonds in Hf silicate-like films are higher than that in HfO2. The Si-H bonds remain in the films due to the growth of SiO2 by thermal oxidation causing a decrease in the total number of Si-H bonds."
+}

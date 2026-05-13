@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "ZnNH*2 + Et2Zn / ZnNHZnEt* + C2H6",
+    "ZnNHZnEt* + NH3 / ZnNHZnNH*2 + C2H6"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves two half-reactions: (A) Adsorption of DEZ on Zn–NH* surface site leading to the formation of Zn–CH2CH3 surface sites and desorption of ethylene, and (B) Reaction of NH3 with [ZnNH(C2H5)]* surface site leading to the formation of ZnNHZnNH2 and desorption of ethylene. The overall process is thermodynamically favorable and self-limiting.",
+  "intermediate_species": [
+    "Zn–NH*",
+    "Zn–CH2CH3",
+    "ZnNHZnEt*",
+    "ZnNHZnNH*2",
+    "C2H6"
+  ],
+  "evidence": "The reaction mechanism and pathway were studied using density functional theory (DFT) calculations. The potential energy surface (PES) of Zn(NH2)2 and Zn(C2H5)2 representing the first half reaction on Zn–NH* surface site is shown. The reaction of DEZ with Zn–NH* in the first half results in the formation of Zn–CH2CH3 surface sites which behave as the starting point for the second half reaction. The reaction of NH3 with [ZnNH(C2H5)]* proceeds in a similar mechanism as that of the first half reaction."
+}

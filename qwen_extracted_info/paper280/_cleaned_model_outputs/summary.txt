@@ -1,0 +1,8 @@
+{
+  "target_material": "Titanium nitride (TiN)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TiCl4", "NH3"],
+  "temperature_range": "350-500 °C",
+  "summary": "Titanium nitride thin films were deposited on silicon wafers using ALD with TiCl4 and NH3 as precursors. The films showed a preferred orientation depending on the deposition temperature, with [111] orientation above 450 °C and [100] orientation below 450 °C. The deposition rate was constant at 0.17 Å/cycle, and films grown at 500 °C had low electrical resistivity of 72×10−6 Ω cm. The study aimed to investigate the characteristics of TiN films grown by ALD for microelectronic applications.",
+  "evidence": "Titanium nitride thin film was deposited on a silicon wafer by the Atomic Layer Deposition (ALD) method using TiCl4 and NH3 as source chemicals. The deposition rate was constant as 0.17 Å/cycle irrespective of deposition temperature, which demonstrates TiN film was grown by the ALD growth mechanism. TiN thin films grown at a temperature higher than 450 °C with thickness of 320 Å showed electrical resistivity as low as 72×10−6 Ω cm."
+}

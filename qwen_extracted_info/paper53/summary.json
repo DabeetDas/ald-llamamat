@@ -1,0 +1,11 @@
+{
+  "target_material": "Nickel Oxide (NiO)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PE-ALD)",
+  "main_precursors": [
+    "Nickelocene (NiCp2)",
+    "Oxygen Plasma"
+  ],
+  "temperature_range": "225 to 275 °C",
+  "summary": "This study presents a plasma-enhanced atomic layer deposition (PE-ALD) process for producing thin, conformal films of nickel oxide (NiO) on various substrates. The process uses nickelocene (NiCp2) as a metal precursor and oxygen plasma as an oxidant. The films are characterized by their high uniformity, low surface roughness, and excellent crystallinity. The films are transparent in the visible range and exhibit high electrocatalytic activity for the oxygen evolution reaction (OER), making them suitable for applications in renewable energy conversion and storage. The PE-ALD process is capable of producing ultrathin NiO films with pinhole-free surfaces, which are ideal for use as electron-blocking layers in solar cells and as electrocatalysts for OER.",
+  "evidence": "A plasma-enhanced atomic layer deposition (ALD) process is presented, capable of producing thin conformal films of nickel(II) oxide (NiO) on various substrates. Nickelocene (NiCp2) is used as an inexpensive metal precursor with oxygen plasma as the oxidant. The film growth rate saturates with both nickel precursor and plasma exposure. An ALD window is observed between 225 and 275 °C. Linear growth is achieved at 250 °C with a growth rate of 0.042 nm per cycle. The thickness is highly uniform and the surface roughness is below 1 nm rms for 52 nm thick films on Si(100). Substrates with aspect ratios up to 1:10 can be processed. As-deposited, the films consist of polycrystalline, cubic NiO, and are transparent over the entire visible range with an optical bandgap of 3.7 eV. The films consist of stoichiometric NiO and contain ≈ 1% of carbon impurities. Two promising applications of these films are showcased in renewable energy conversion and storage devices: The films are pinhole-free and exhibit excellent electron blocking capabilities, making them potential hole-selective contact layers in solar cells. Also, high electrocatalytic activity of ultrathin NiO films is demonstrated for the alkaline oxygen evolution reaction, especially in electrolytes containing Fe3+."
+}

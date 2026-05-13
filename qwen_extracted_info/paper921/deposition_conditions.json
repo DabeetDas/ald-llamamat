@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350-400",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "plasma",
+  "evidence": "TDMAT was vaporized from an external reservoir at 45 /C176C and delivered to chamber via argon gas with a ﬂow rate of 20 sccm. We varied ﬁlm deposition temperatures (350–400 /C176C) and thickness (5–10 nm)."
+}

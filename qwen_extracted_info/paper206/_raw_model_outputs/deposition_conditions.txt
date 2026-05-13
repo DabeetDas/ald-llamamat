@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 4,
+  "number_of_cycles": null,
+  "reactor_type": "Pulsar 1 3000 reactor from ASM",
+  "evidence": "The ALD of Al2O3 from TMA and H2O has been studied extensively in the past, as indicated in. The Sc(MeCp)3/H2O process, on the other hand, has not been reported before, but it also shows ideal, self-limiting ALD behavior (Fig. 2). From 2 s Sc(MeCp)3 on, the GPC starts to saturate and the standard deviation (SD), indicative of the thickness uniformity over the wafer, drops fast (Fig. 2a). For a saturated pulse length of 4 s Sc(MeCp)3, very uniform Sc2O3 layers are obtained with a SD below 2%. The H2O reaction occurs quite fast as a GPC of /C24 0.062 nm is already achieved after 0.5 s H2O (Fig. 2b)."
+}<|im_end|>

@@ -1,0 +1,7 @@
+{
+  "precursors": ["bis(ethylcyclopentadienyl)magnesium", "anhydrous hydrogen fluoride"],
+  "coreactants": [],
+  "purge_gas": ["Argon"],
+  "carrier_gas": [],
+  "evidence": "MgF2 was deposited in a showerhead style ALD reactor using bis(ethylcyclopentadienyl)magnesium and anhydrous hydrogen fluoride (HF) as precursors at substrate temperatures from 100 to 250 /C14 C. Argon was used as both the bubble and purge gas and was delivered through a mass flow controller at 70 SCCM."
+}

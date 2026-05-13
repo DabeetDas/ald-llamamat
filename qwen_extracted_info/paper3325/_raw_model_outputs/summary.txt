@@ -1,0 +1,8 @@
+{
+  "target_material": "CuO",
+  "process_type": "thermal ALD",
+  "main_precursors": ["copper (II)-bis-(dimethylamino-2-propoxide)", "ozone"],
+  "temperature_range": "112–165 °C",
+  "summary": "The study reports on the atomic layer deposition (ALD) of CuO thin films using copper (II)-bis-(dimethylamino-2-propoxide) and ozone as precursors on planar and three-dimensional substrates. The process was optimized using quartz crystal monitoring, and the films were characterized for phase composition, structure, and electrical properties. The resistivity measurements revealed a resistivity drop below 4 K, suggesting potential superconductivity.",
+  "evidence": "The resistivity measurements revealed a resistivity drop below the critical temperature of 4 K, which may indicate low-temperature superconductivity of the CuO thin films."
+}<|im_end|>

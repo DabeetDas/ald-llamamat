@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "TMG decomposes only on the substrate surface in nitrogen, whereas in hydrogen, TMG decomposition is promoted by chemical reaction with hydrogen, leading to methane production. The decomposition of TMG in the vapor phase is suppressed in nitrogen, which widens the ALE temperature range.",
+  "intermediate_species": ["methyl radicals", "methane", "Ga atoms", "arsine decomposition products"],
+  "evidence": "The decomposition of TMG in the vapor phase is suppressed in nitrogen, which widens the ALE temperature range. The chemical reaction between TMG and hydrogen, which produces methane, promotes decomposition, and TMG only decomposes thermally in nitrogen. The methyl radicals, regarded as the origin of carbon, are effectively removed as methane formed by the reaction with the abundant hydrogen atoms dissociated from arsine."
+}<|im_end|>

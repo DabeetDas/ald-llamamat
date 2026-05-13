@@ -1,0 +1,8 @@
+{
+  "target_material": "Platinum",
+  "process_type": "Plasma-assisted ALD",
+  "main_precursors": ["MeCpPtMe3", "O2 plasma", "H2 gas or H2 plasma"],
+  "temperature_range": "Room temperature",
+  "summary": "The study describes the development of plasma-assisted atomic layer deposition (ALD) processes for the deposition of platinum films at room temperature. The processes involve MeCpPtMe3 precursor dosing, O2 plasma exposure, and H2 gas or H2 plasma exposure. The H2 pulses are used to reduce PtOx formed during the O2 plasma exposure, enabling the deposition of high-quality, pure platinum films on temperature-sensitive substrates such as polymers, paper, and textiles.",
+  "evidence": "ABSTRACT: Plasma-assisted atomic layer deposition (ALD) processes were developed for the deposition of platinum films at room temperature. High-quality, virtually pure films with a resistivity of 18 −24 μΩ cm were obtained for processes consisting of MeCpPtMe3 dosing, O2 plasma exposure, and H2 gas or H2 plasma exposure. The H2 pulses were used to reduce the PtOx that is otherwise deposited at low substrate temperatures. It is shown that the processes enable the deposition of Pt on polymer, textile, and paper substrates, which is a significant result as it demonstrates the broad application range of Pt ALD, including applications involving temperature-sensitive materials."
+}

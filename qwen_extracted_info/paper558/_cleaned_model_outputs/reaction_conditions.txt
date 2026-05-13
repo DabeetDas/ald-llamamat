@@ -1,0 +1,6 @@
+{
+ "reaction_equations": [],
+ "surface_mechanism_description": "The surface reactions involve the sequential adsorption of AlCl3 and H2O on the substrate, leading to the formation of Al2O3. The process is self-limiting due to the saturation of surface sites during each pulse, resulting in a monolayer of reactants. The growth mechanism is characterized by the saturation of surface sites during each pulse, followed by purging with an inert gas, which leaves only a chemisorbed monolayer of the reactant on the surface of the growing film.",
+ "intermediate_species": ["surface hydroxyls", "chemisorbed monolayer of the reactant"],
+ "evidence": "Atomic layer epitaxy (ALE) [ 1=31 is a thin film deposition technique based on saturative, sequential surface reactions which are accomplished by leading the gaseous precursors on the substrate alternately, one at a time. Between the precursor pulses the reactor is purged with an inert gas leaving only a chemisorbed monolayer of the reactant on the surface of the growing film."
+}

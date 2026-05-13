@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ti OCH CH (Titanium isopropoxide)"],
+  "coreactants": ["H O (water)", "H O (hydrogen peroxide)"],
+  "purge_gas": ["N (carrier gas)"],
+  "carrier_gas": ["N (carrier gas)"],
+  "evidence": "According to data of real-time quartz crystal microbalance QCM measurements, adsorption of Ti OCH CH was a self-limited process at substrate temperatures 100±250 8C. After each precursor pulse the reactor was purged with pure carrier gas in order to remove the gaseous reaction products and avoid overlapping the precursor pulses. N gas with 99.999% purity was used as a carrier leading titanium isopropoxide and the oxygen precursor H O or H O vapors alternately to the substrate. The carrier gas pressure measured at the reactor outlet was kept at about 250 Pa."
+}

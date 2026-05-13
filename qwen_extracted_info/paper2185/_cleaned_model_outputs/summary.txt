@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum", "water vapor"],
+  "temperature_range": "200 °C",
+  "summary": "The study describes the deposition of Al2O3 gate dielectric films on 4 H-SiC using thermal atomic layer deposition (ALD). The films were characterized for their electrical properties, including dielectric constant, leakage current density, and flatband voltage shift. The process involved the use of trimethylaluminum and water vapor as precursors at 200 °C. The films exhibited a dielectric constant of 9 and a flatband voltage shift of +1.3 V. The amorphous films showed lower leakage current density compared to epitaxial films, and the study highlights the potential of Al2O3 as a high-k gate dielectric for SiC-based devices.",
+  "evidence": "Stoichiometric and pure Al2O3 gate dielectric films were grown on n-type 4 H-SiC by a thermal atomic layer deposition process. Al2O3 thin films of 200–300 Å thickness were deposited by thermal atomic layer deposition (ALD) at 200 °C using trimethylaluminum and water vapor. The dielectric constant of 9 was determined. A leakage current density of 10−3 A/cm2 at 8 MV/cm was obtained for the amorphous Al2O3 films."
+}

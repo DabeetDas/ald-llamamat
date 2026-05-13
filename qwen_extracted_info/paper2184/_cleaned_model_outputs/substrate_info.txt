@@ -1,0 +1,7 @@
+{
+  "substrate_material": "Silicon",
+  "substrate_orientation": "Si/H20849111/H20850 and Si/H20849100/H20850",
+  "pretreatment": "standard wet chemical procedure (RCA clean) until a thin layer of oxide was formed, followed by a dip in 1% HF solution for 2 min and a rinse in de-ionized water for Si/H20849100/H20850; etching in a 40%, N2-bubbled NH4F solution for 5 min followed by a rinsing in de-ionized water for Si/H20849111/H20850",
+  "surface_functionalization": "H-termination",
+  "evidence": "They were first cleaned by the standard wet chemical procedure (RCA clean) until a thin layer of oxide was formed. For Si/H20849100/H20850, this was followed by a dip in 1% HF solution for 2 min and a rinse in de-ionized water. This step removes the surface oxide and leaves the surface terminated with silicon monohydride and dihydride species. For Si/H20849111/H20850, the last step was etching in a 40%, N2-bubbled NH4F solution for 5 min followed by a rinsing in de-ionized water which yields an atomically flat surface terminated by silicon monohydride."
+}

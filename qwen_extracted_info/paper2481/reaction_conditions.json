@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Al2O3 + V••o → 2Al•Zn + 3O×o"
+  ],
+  "surface_mechanism_description": "The Al doping effect caused by the thermal diffusion of Al from the sapphire into the ZnO reduces nonradiative recombination, leading to a lower stimulated emission threshold.",
+  "intermediate_species": [
+    "Al•Zn",
+    "O×o",
+    "V••o"
+  ],
+  "evidence": "Al doping in the ZnO film results in the increase in electron concentration and the decrease in the oxygen vacancies, which in turn reduce the nonradiative recombination, Al2O3 + V••o → 2Al•Zn + 3O×o. Thus, the Al doping effect also leads to the lowering of the stimulated emission threshold in the ZnO films."
+}

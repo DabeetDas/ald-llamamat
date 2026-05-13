@@ -1,0 +1,11 @@
+{
+  "target_material": "Tantalum nitride (Ta-N)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": [
+    "tertbutylimidotris(diethylamido)tantalum (TBTDET)",
+    "hydrogen radicals"
+  ],
+  "temperature_range": "260°C",
+  "summary": "The study describes the successful development of plasma-enhanced atomic layer deposition (PEALD) of tantalum nitride (Ta-N) thin films using hydrogen radicals as a reducing agent. The PEALD process yielded high-density, polycrystalline Ta-N films with excellent electrical resistivity and no aging effect under air exposure. The films were deposited at 260°C using TBTDET as a precursor and hydrogen plasma for reduction.",
+  "evidence": "Plasma-enhanced atomic layer deposition ~PEALD! of tantalum nitride ~Ta-N! thin ﬁlms at a deposition temperature of 260°C using hydrogen radicals as a reducing agent for tertbutylimidotris ~diethylamido!tantalum is described. The PEALD yielded superior Ta-N ﬁlms with an electric resistivity of 400 mV cm and no aging effect under exposure to air. The ﬁlm density was higher than that of Ta-N ﬁlms formed by typical ALD, in which NH 3 is used instead of hydrogen radicals. In addition, the as-deposited ﬁlms were not amorphous, but rather polycrystalline structures of cubic TaN."
+}

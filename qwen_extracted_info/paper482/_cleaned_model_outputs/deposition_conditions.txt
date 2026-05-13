@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-455",
+  "pressure": "0.25kPa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": 1000,
+  "reactor_type": "hotwall flow-type ALD reactor",
+  "evidence": "The pulse sequence used in all experiments was TiI4(2s)-purge (2s)-O2 (2s)-purge (2s) and this cycle was repeated 1000 times. These values for the duration of the pulses were determined to be suitable for film growth in a previous QCM study in the same system. The deposition temperature was varied from 2001C to 4551C. The total pressure of the reactor was in the range of 0.25kPa."
+}

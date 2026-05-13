@@ -1,0 +1,7 @@
+{
+  "precursors": ["Bis(1,4-di-tert-butyl-1,3-diazadienyl)cobalt", "tert-butylamine", "diethylamine"],
+  "coreactants": ["tert-butylamine", "diethylamine"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The text states: 'The atomic layer deposition (ALD) of cobalt metal films is described using the precursor bis(1,4(di(tert (butyl(1,3(diazdienyl)cobalt and tert (butylamine or diethylamine.' and 'Depositions used the pulse sequence 1 (4.0 s), N2 purge (10.0 s), diethylamine or triethylamine (0.2 s), and N2 purge (10.0 s) at a deposition temperature of 200 °C, with 200 cycles.'"
+}<|im_end|>

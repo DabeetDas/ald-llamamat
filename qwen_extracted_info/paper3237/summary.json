@@ -1,0 +1,11 @@
+{
+  "target_material": "AlN",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "ammonia (NH3)"
+  ],
+  "temperature_range": "330−370 ◦C",
+  "summary": "The study investigates the growth characteristics and optical constants of AlN thin films deposited via thermal atomic layer deposition (ALD) using trimethylaluminum (TMA) and ammonia (NH3) as precursors. The self-limiting growth was observed at temperatures of 330 and 350 ◦C with deposition rates of 1.5 and 2.1 Å/cycle, respectively. At 370 ◦C, thermal decomposition of TMA dominated the growth mechanism, resulting in non-self-limiting deposition. The refractive index increased with increasing film thickness and growth temperature. The study also highlights the formation of ultra-thin (about 2 nm) continuous AlN films and the strong thickness- and temperature-dependence of the optical functions (n, k).",
+  "evidence": "We have investigated the growth characteristics and optical constants of thin AlN films made by thermal atomic layer deposition (ALD) from trimethylaluminum (TMA) and ammonia (NH3). We observed the nucleation, closure and growth after closure of the films using atomic force microscopy and in-situ spectroscopic ellipsometry. A fully covered surface was obtained for films with a thickness of about 2 nm. The self-limiting ALD growth was observed at temperatures of 330 and 350 ◦C with deposition rates of 1.5 and 2.1 Å/cycle, respectively. At 370 ◦C, thermal decomposition of TMA dominated the growth mechanism, resulting in a fast and non-self-limiting deposition. We found that the refractive index increased remarkably with increasing film thickness and growth temperature."
+}

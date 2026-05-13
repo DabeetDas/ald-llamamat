@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "below 20 Torr",
+  "precursor_pulse_time_s": "0.6",
+  "coreactant_pulse_time_s": "0.1",
+  "purge_time_s": "0.1",
+  "number_of_cycles": null,
+  "reactor_type": "PJ reactor",
+  "evidence": "The exchanges of reactant gases are carried out using a pressure valanced vent and run gas manifold. As a result of these improvements, less than 0.1 s was needed to exchange the reaction gases The alternating pulses of gallium (aluminlum) and arsenic are separated by a hydrogen purge pulse which prevents reactants from mixing."
+}

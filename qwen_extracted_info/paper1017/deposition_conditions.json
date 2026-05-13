@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150-250",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 15,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "Kurt J. Lesker ALD 150L",
+  "evidence": "EF (98%, STREM Chemicals, Inc.) was used as the iron precursor and was maintained at 80 °C. Precursor valve and transportation lines to the ALD reactor were kept at 100 °C and 110 °C, respectively. A 600 W inductively coupled remote plasma system provided an oxygen plasma as the primary reactant (99.993% O2, Praxair)."
+}

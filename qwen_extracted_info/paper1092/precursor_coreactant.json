@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "Hf(O-iPr)4 (Hf(OCH(CH3)2)4, hafnium tetrakis-iso-propoxide)"
+  ],
+  "coreactants": [
+    "O2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The gas streams were Hf(O-iPr)4 vapor diluted in an Ar carrier, pure Ar for removing excessively adsorbed Hf(O-iPr) 4 from the substrate, and O 2 for oxidizing the adsorbed Hf(O-iPr) 4."
+}

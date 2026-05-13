@@ -1,0 +1,18 @@
+{
+  "precursors": [
+    "CoCp2"
+  ],
+  "coreactants": [
+    "NH3",
+    "H2/N2",
+    "N2",
+    "H2"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The CoCp2 precursor (98%, SigmaMAldrich) was contained in a stainless steel bubbler. The bubbler and the dosing line were heated to 80 °C and 120 °C, respectively, as was previously found to be appropriate for deposition of CoOx in the same reactor. The ALD recipe consisted of precursor dosing for 6 s in the first subMcycle, using Ar as a carrier gas, which resulted in a chamber pressure of approximately 15 mTorr. Subsequently, the reactor was purged with Ar for 3 s and pumped down for 6 s."
+}

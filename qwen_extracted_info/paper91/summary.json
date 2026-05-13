@@ -1,0 +1,11 @@
+{
+  "target_material": "Iridium",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "ethylcyclopentadienyl-1,3-cyclohexadiene iridium (EtCp)Ir(CHD)",
+    "ozone (O3)"
+  ],
+  "temperature_range": "220°C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to create a metallic iridium coating on nanoporous anodic aluminum oxide (AAO) templates for water oxidation. A novel ALD reaction using (EtCp)Ir(CHD) and ozone is developed, allowing for the formation of smooth, conformal iridium layers in deep pores. The optimal pore length for electrocatalytic performance is determined by transport limitations, with current densities achieved at very low overpotentials, indicating high reversibility and efficiency for energy storage applications.",
+  "evidence": "The ALD reaction is based on the commercially available precursor ethylcyclopentadienyl-1,3-cyclohexadiene iridium (I), (EtCp)Ir(CHD). When (EtCp)Ir(CHD) and ozone (O3) are pulsed in alternating fashion on planar substrates, a film growth is observed. The deposition of the iridium catalyst is performed using a novel ALD reaction based on (EtCp)Ir(CHD) and ozone. The ALD nature of this reaction is proven by varying the amount of precursor delivered at each cycle. The temperature for deposition is 220°C. The study demonstrates that the reaction can be performed at very low overpotentials with moderate current densities (J = 2.4 mA cm-2 at h = 0.24 V, J = 0.43 mA cm-2 at h = 0.14 V and J = 0.34 mA cm-2 at h = 0.04 V)."
+}

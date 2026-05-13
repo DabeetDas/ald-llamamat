@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Co(acac)3",
+    "Co(acac)2"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The catalyst preparation by ALE consisted of the following steps: (a) preheating of the support, (b) chemisorption of the gaseous cobalt precursor up to surface saturation, and (c) removal of the remaining ligands by calcination in synthetic air. The precursor was evaporated at 180 \u000eC and flowed through the bed of support at 180 \u000eC using nitrogen as carrier gas. The addition of precursor was followed by a nitrogen purge at the same temperature."
+}

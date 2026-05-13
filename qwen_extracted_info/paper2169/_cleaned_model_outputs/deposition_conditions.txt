@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "radical enhanced atomic layer deposition (REALD)",
+  "evidence": "Thin films of Er-doped Y2O3 were deposited on Si (100) substrates or high quality fused silica (Hereaus Suprasil 300) at 350 °C using REALD."
+}

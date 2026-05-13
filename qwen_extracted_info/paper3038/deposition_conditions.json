@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "85 ± 5",
+  "pressure": "",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 50,
+  "number_of_cycles": 150,
+  "reactor_type": "remote H2 plasma",
+  "evidence": "During each deposition for Pd, 50 sccm of Ar was flowed as a purge gas, with 13 sccm of Ar as a carrier gas for Pd II/hfac2, and 100.0 sccm of H2 as a reducing medium. The pulse sequence was 15 s of Pd II/hfac2 followed by 10 s of \"dead time\" with just 50 sccm of Ar flowing as a purge gas, then 9 s of H2 to allow for a steady state in the plasma, and finally 14 s of remote H2 plasma with 100.0 sccm of H2 flow and a 80 W net forward power."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "3Hf(NCH3C2H5)4 + 2 M2O3 → 3HfO2 + 4 M(NCH3C2H5)3",
+    "Hf(NCH3C2H5)4 + MO(OH) → HfO2 + M(NCH3C2H5)3 + HNCH3C2H5"
+  ],
+  "surface_mechanism_description": "Ligand exchange reactions between TEMAH and the native oxides of InGaAs, leading to the formation of volatile compounds such as M(NCH3C2H5)3, which are subsequently purged from the surface during the ALD process.",
+  "intermediate_species": [
+    "M(NCH3C2H5)3",
+    "MO(OH)",
+    "Hf(NCH3C2H5)4"
+  ],
+  "evidence": "The ligand exchange reactions may continuously proceed by chemically inducing the rearrangement or outdiffusion of In, Ga, and As cations to the surface to react with the TEMAH until the native oxides at the interface were all consumed."
+}<|im_end|>

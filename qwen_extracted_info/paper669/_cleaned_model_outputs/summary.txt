@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "plasma enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": ["TDMAT", "O2 plasma"],
+  "temperature_range": "250 8C",
+  "summary": "The study describes the deposition of TiO2 thin films on polymer substrates using plasma enhanced atomic layer deposition (PE-ALD) with TDMAT and O2 plasma as precursors. The films were grown at 250 8C, resulting in anatase phase TiO2 with a bandgap energy of 3.3 eV. The films exhibited superhydrophilic properties and high photocatalytic efficiency, making them suitable for self-cleaning applications.",
+  "evidence": "We prepared photocatalytic TiO2 thin films which exhibited relatively high growth rate and low impurity on polymer substrate by plasma enhanced atomic layer deposition (PE-ALD) from Ti(NMe2)4 [tetrakis (dimethylamido) Ti, TDMAT] and O2 plasma to show the self-cleaning effect. The TiO2 thin films with anatase phase and bandgap energy about 3.3 eV were deposited at growth temperature of 250 8C."
+}

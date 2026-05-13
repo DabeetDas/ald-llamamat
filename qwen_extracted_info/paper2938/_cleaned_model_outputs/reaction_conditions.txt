@@ -1,0 +1,6 @@
+{
+ "reaction_equations": ["HfCl2@N(SiMe3)2#2 + H2O -> HfO2 + 2HCl + (Me3Si)2NH"],
+ "surface_mechanism_description": "A hydroxyl group in water replaces bis(trimethylsilyl)amido ligand and chlorine, releasing hydrogen chloride and hexamethyldisilazane (HMDS) as by-products. At high deposition temperature, the Si-containing amido ligands of absorbed molecules may decompose slightly on the surface and hafnium silicate film forms.",
+ "intermediate_species": ["bis(trimethylsilyl)amido ligand", "hydroxyl group", "hexamethyldisilazane (HMDS)"],
+ "evidence": "ALD process of oxides using water proceeds by successive exchange reactions between hydroxyl groups formed after water dose and the ligands of the precursor. In our ALD process, it is believed that a hydroxyl group in water replaces bis (trimethylsilyl)amido ligand and chlorine, releasing hydrogen chloride and hexamethyldisilazane (HMDS, (Me3Si)2NH) as by-products. At high deposition temperature above 250°C, the Si-containing amido ligands of absorbed molecules may decompose slightly on the surface and hafnium silicate film forms."
+}

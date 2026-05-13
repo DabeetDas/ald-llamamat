@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [
+    "PdH* + Pd(hfac)2(g) → Pd−Pd(hfac)* + H(hfac)(g)",
+    "Pd(hfac)* + H2(g) → PdH* + H(hfac)(g)"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The reaction mechanism is described as follows: 'The proposed reaction mechanism for the H2-based Pd ALD process relies on the dissociation of H2 by the metal surface, yielding atomic H species that can eliminate the ligands of the adsorbed precursor molecules during the co-reactant step, releasing H(hfac) as reaction product. In addition, H atoms are considered to adsorb on the Pd surface, forming a stable Pd hydride surface layer.'"
+}

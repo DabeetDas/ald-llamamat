@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "500",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": "30",
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "modified atmospheric pressure-vertical MOCVD reactor",
+  "evidence": "The 8-doped structure was grown by ALE on both Cr-doped and Si-doped GaAs substrates. HzSe was introduced during the AsH3 exposure part of the growth cycle with minimum AsH3 flux (mass flow controller was set to its minimum value). Exposure time to the HzSe flux was of the order of 30 s and achieved carrier concentration peaking in the 1019/cm3 range as indicated from capacitance-voltage (C-V) measurements."
+}

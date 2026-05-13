@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Al(CH3)3 (TMA)", "H2O"],
+  "temperature_range": "85 °C",
+  "summary": "The study explores the nucleation and growth of Al2O3 atomic layer deposition (ALD) on various polymer films at 85 °C using sequential exposures of Al(CH3)3 (TMA) and H2O. The process was monitored in situ using a quartz crystal microbalance (QCM) and ex situ surface profilometry. The results indicate that Al2O3 ALD can be performed on polymers without specific chemical groups, as TMA adsorbs onto the polymer surface and is absorbed into the near-surface region, where it reacts with H2O to form Al2O3 clusters. The model suggests that the growth of Al2O3 ALD is facilitated by TMA diffusion into the polymer and subsequent reaction with H2O, leading to the formation of a continuous Al2O3 film.",
+  "evidence": "Nucleation and growth during Al2O3 atomic layer deposition (ALD) were explored on a variety of polymer films at 85 °C. Al2O3 ALD was performed using sequential exposures of Al(CH3)3 [trimethylaluminum (TMA)] and H2O. The QCM measurements revealed distinct differences for each polymer in the initial nucleation period during Al2O3 ALD. Following the initial nucleation period, linear Al2O3 ALD growth was observed on all the polymers. The QCM measurements and recent FTIR measurements of Al2O3 ALD on low-density PE, a model is proposed for Al2O3 ALD nucleation and growth on polymers. This model is based on the adsorption of TMA onto the surface and absorption into the near-surface region of the polymer. The adsorbed and absorbed TMA is then available for subsequent reaction with the H2O exposure."
+}

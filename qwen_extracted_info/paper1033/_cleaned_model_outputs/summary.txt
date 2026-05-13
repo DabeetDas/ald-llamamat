@@ -1,0 +1,8 @@
+{
+  "target_material": "Lanthanide oxide (Ln2O3)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Ln(thd)3 (Ln=Nd, Sm, Eu, Gd, Dy, Ho, Er, Tm)", "ozone"],
+  "temperature_range": "300 8C (310 8C for Nd2O3)",
+  "summary": "The study investigates the growth of lanthanide oxide thin films using atomic layer deposition (ALD) with volatile h-diketonate-type Ln(thd)3 compounds and ozone as precursors. The films are grown at approximately 300 8C, with Nd2O3 deposited at 310 8C. The films are polycrystalline with a cubic (C-type) structure, and they show good electrical properties with relative permittivities between 8.4 and 11.1. The study also examines the impact of impurities and the effects of deposition temperature on film quality and electrical characteristics.",
+  "evidence": "Lanthanide oxide (Ln=Nd, Sm, Eu, Gd, Dy, Ho, Er and Tm) thin films were grown onto silicon (100) substrates by atomic layer deposition (ALD) using volatile h-diketonate-type Ln(thd)3 compounds and ozone as precursors. The depositions were carried out at approximately 300 8C under a reduced pressure of 2–3 mbar. X-ray diffraction studies showed all Ln2O3 films to be cubic (C-type) and polycrystalline. Nd2O3 was observed to contain hexagonal phase as well. Compositional studies by time-of-flight elastic recoil detection analysis (TOF-ERDA) revealed the films to be nearly stoichiometric having carbon, fluorine and hydrogen as impurities. Electrical characterization showed that thin films were resistive having relative permittivities between 8.4 and 11.1."
+}

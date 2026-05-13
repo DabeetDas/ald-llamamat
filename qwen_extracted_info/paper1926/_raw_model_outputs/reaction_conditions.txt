@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the precursor 3 onto the surface, followed by a reaction with O3. The reaction is self-limiting due to the consumption of surface reactive sites, and the process is terminated by steric crowding. The mechanism also involves the desorption of protonated ligands after the introduction of O3, which leads to a mass loss observed during the O3 pulse.",
+  "intermediate_species": ["protonated ligand"],
+  "evidence": "The text states: 'Mass loss occurs during the introduction of O3, suggesting that protonated ligand remains on the surface after deposition of compound 3, which then reacts and desorbs with the introduction of O3;'"
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-300",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": "2",
+  "coreactant_pulse_time_s": "1",
+  "purge_time_s": "2",
+  "number_of_cycles": null,
+  "reactor_type": "flow-type hot-wall ALD reactor",
+  "evidence": "The precursors (TIC14 and H20) were led into the reactor alternately using the continuous flow of N2 gas as a carrier. The width of precursor pulses was 2 and 1 s for TiC14 and H20, respectively, while the lengths of purging times were 1 s after TiCI 4 pulse and 2 s after H20 pulse. The flow rate and pressure of the carrier gas were kept equal to 0.8 m3/s and 250 Pa, respectively, in the reaction zone."
+}<|im_end|>

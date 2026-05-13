@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "Scanning Electron Microscopy (SEM)",
+    "Spectroscopic Ellipsometry",
+    "X-ray Diffraction (XRD)",
+    "Atomic Force Microscopy (AFM)",
+    "Electrochemical Impedance Spectroscopy (EIS)",
+    "Current Density-Voltage (J-V) measurement",
+    "External Quantum Efficiency (EQE) measurement",
+    "Photoluminescence (PL) measurement",
+    "Time-Resolved Photoluminescence (TRPL) measurement",
+    "Four-point probe method"
+  ],
+  "evidence": "The plane view and cross section structures of substrates and PVSCs were characterized with a field emission SEM instrument (Hitachi S74800). Crystallinity and the crystal structure of the perovskite layer were analyzed with an Ultima III X-ray Diffractometer using a Ni-filtered Cu Kα x-ray source (Rigaku Corp.). Film thickness was analyzed via spectroscopic ellipsometry using a single rotating compensator multichannel ellipsometer (Model M2000FI, J. A. Woollam Co., Inc.). AFM was carried out with a Nanoscope V atomic force microscope operated in tapping-mode (Veeco Metrology Group). Sheet resistance was measured using four-point probe method resistivity test system (PRO47440N, Lucas labs). Impedance spectra were performed on an electrochemical workstation (Voltalab PGZ7301) at 0 mV bias in dark. Current Density-voltage ( J-V) curves were measured under standard AM 1.5G illumination using solar simulator (PV Measurements, Inc) equipped with a 450 W Xenon lamp with an output intensity of 100 mW/cm2 calibrated with a reference Si cell at the measurement location. The EQE measurement was carried out with an EQE system (PV Measurements, Inc) using 100 Hz chopped monochromatic light ranging from 300 nm to 900 nm under otherwise near-dark test conditions. Transmission spectra and ultraviolet-visible absorbance spectra were measured by an ultraviolet–visible spectrophotometer (CARY5000, Varian, Australia). Steady-state and time resolved photoluminescence measurement PL and TRPL measurement were performed at room temperature in ambient air. The photoluminescence signal was detected by Symphony7II CCD (from Horiba) detector after a 300 g/mm grating monochromator (Integration time = 0.5 s). Time resolved photoluminescence measurements were performed using a time correlated single photon counting module (Becker & Hickel Simple Tau SPCM 1307E/M module)."
+}

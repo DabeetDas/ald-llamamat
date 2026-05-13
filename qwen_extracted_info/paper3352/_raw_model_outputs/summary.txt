@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "plasma-enhanced ALD (PEALD)",
+  "main_precursors": ["dimethylaluminum hydride (DMAH)", "O2"],
+  "temperature_range": "300 °C",
+  "summary": "The study demonstrates the use of dimethylaluminum hydride (DMAH) as a precursor for plasma-enhanced atomic layer deposition (PEALD) of Al2O3 passivation layers for amorphous InGaZnO thin-film transistors (TFTs). The process shows improved stability due to reduced oxygen vacancies and fewer trap sites, as well as a higher deposition rate compared to trimethylaluminum (TMA). The hump phenomenon in transfer characteristics was mitigated by prolonging plasma exposure time.",
+  "evidence": "Atomic layer deposition (ALD) of Al2O3 using dimethylaluminum hydride (DMAH) was demonstrated as an effective passivation for amorphous InGaZnO thin-film transistors (TFTs). ... The higher Al2O3 deposition rate when using DMAH is in line with the requirements of emerging techniques, such as spatial ALD, for improving fabrication throughput. ... We found that prolonged plasma exposure during ALD can eliminate the hump phenomenon, which is only present for DMAH."
+}<|im_end|>

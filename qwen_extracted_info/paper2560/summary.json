@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the formation of the HfO2/Si interface during atomic layer deposition (ALD) using HfCl4 and H2O as precursors. The research highlights the role of Cl contamination in the oxide layer and the impact of adsorption geometries on the oxidation process. The ALD process was carried out at 300 °C, and the growth rate was observed to be 0.33 layers per three cycles. The study also discusses the effect of surface defects and atomic roughness on the adsorption geometry and the resulting Cl incorporation.",
+  "evidence": "The ALD was obtained using HfCl4 and H2O as precursors. The substrate temperature during the growth was set to 300 °C. The averaged growth rate is found to be 0.33 (one layer after three cycles). The oxidation step in the various cycles shows a different efficiency leading to the inclusion of Cl impurities into the Hf oxide. The study discusses the origin of Cl contamination and the adsorption geometry of HfCl4 onto the –OH terminated substrate."
+}

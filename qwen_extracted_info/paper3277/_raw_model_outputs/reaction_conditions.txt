@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [
+    "2AlðsÞþ 6H2Oðaq:Þþ 2KOHðaq:Þ → 2K½AlðOHÞ4/C138ð aq:Þþ 3H2ðgÞ"
+  ],
+  "surface_mechanism_description": "The rapid SiO2 ALD process occurs via siloxane polymerization, where siloxane polymer chains grow at the Al-catalytic sites, and the cross-linking of these polymer chains forms a dense SiO2 film. The first exposure to TMA forms a layer of chemisorbed dimethyl aluminum oxide, which enables the ALD process to continue.",
+  "intermediate_species": [
+    "chemisorbed dimethyl aluminum oxide"
+  ],
+  "evidence": "The rapid SiO2 ALD is believed to occur via siloxane polymerization [16]. Siloxane polymer chains grow at the Al-catalytic sites, and the cross-linking of these polymer chains forms a dense SiO2 film that can grow at rates up to 6 nm per cycle at 300 °C if sufficient TBS is provided. The first exposure to TMA, both surfaces form a layer of chemisorbed dimethyl aluminum oxide, which is the functionality that enables the rapid SiO2 ALD process to continue."
+}<|im_end|>

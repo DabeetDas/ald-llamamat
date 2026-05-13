@@ -1,0 +1,7 @@
+{
+  "precursors": ["(CH3)3Ga", "(C2H5)2GaCl"],
+  "coreactants": ["AsH3"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The proven Ga precursors are organometallic compounds trimethylgallium [TMGa, (CH3)3Ga] (R.efs. 1-4) and diethylgallium chloride [DEGaCl, (C2H5)2GaCl] (Ref. 7). The ALE process is achieved by reacting the GaAs with a Ga precursor and arsine in an alternating sequence."
+}

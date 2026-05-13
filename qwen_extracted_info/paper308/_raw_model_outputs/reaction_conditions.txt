@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the interaction of TMA (tetramethylammonium) and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The growth per cycle (GPC) is affected by the mutual influence of the precursors, leading to a decrease in GPC when TEMAH and TiCl4 are used jointly. The specific surface reactions include ligand exchange between TMA and surface hydroxyl groups, and the formation of intermediate species such as monomethyl aluminum and surface hydroxyls.",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The surface reactions involve the interaction of TMA (tetramethylammonium) and surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The growth per cycle (GPC) is affected by the mutual influence of the precursors, leading to a decrease in GPC when TEMAH and TiCl4 are used jointly. The specific surface reactions include ligand exchange between TMA and surface hydroxyl groups, and the formation of intermediate species such as monomethyl aluminum and surface hydroxyls."
+}<|im_end|>

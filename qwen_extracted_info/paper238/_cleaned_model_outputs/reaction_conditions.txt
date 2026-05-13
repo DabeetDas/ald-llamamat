@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The reaction is initiated by a radical intermediate formed by transferring electron from substrate to catalyst, which is similar to the catalytic system reported by Beller’s group. Initially, tetrahydroquinoline lost an electron in the presence of oxygen and catalyst to form the radical cation. Subsequently, hydrogen was stripped from the ortho carbon to generate imine. Then, the dihydroquinolines re-experienced the C–H abstraction and isomerization to afford the desired product.",
+  "intermediate_species": ["radical cation 1a'", "imine 1a''", "dihydroquinolines"],
+  "evidence": "The dehydrogenation of 1 w under standard conditions was interrupted to analyze the transformation after 2 hours. Isoquinoline 2 w and dihydroisoquinoline 2w’ were respectively detected in 16 % yield and 82 % yield by GC-MS analysis, indicating the dihydroisoquinoline is the key intermediate. In the presence of 2, 6-di-tert-butyl-4-methylphenol (BHT) as the radical scavenger, only trace amount of product was detected and the radical intermediate Int-a was trapped successfully by GC-MS. This result suggests the reaction is possibly initiated by a radical intermediate formed by transferring electron from substrate to catalyst, which is similar to the catalytic system reported by Beller’s group."
+}

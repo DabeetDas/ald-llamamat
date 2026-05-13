@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 325,
+  "pressure": "1.2 Torr",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 6,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "hot-wall flow tube reactor",
+  "evidence": "In the hot wall system, typical cycle times were: RuCp2 3s ; Ar 20s ; O2 6s ; and Ar 20 s, resulting in1 Å/cycle at 325 °C."
+}<|im_end|>

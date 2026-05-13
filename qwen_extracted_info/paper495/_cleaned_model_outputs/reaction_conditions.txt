@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The intermediate surface layer formed during TIC14 pulse plays the primary role in formation of TiO2-II and/or rutile. No pure TiO2-II can be grown when chloride coverage is incomplete, i.e. no saturation of growth rate with increasing TiCI4 dose is achieved. Similarly, pure TiO2-II cannot be obtained when the purge time after TIC14 pulse is insufficient.",
+  "intermediate_species": ["chloride coverage", "surface intermediate layer"],
+  "evidence": "The intermediate surface layer formed during TIC14 pulse plays the primary role in formation of TiO2-II and/or rutile. No pure TiO2-II can be grown when chloride coverage is incomplete, i.e. no saturation of growth rate with increasing TiCI4 dose is achieved. Similarly, pure TiO2-II cannot be obtained when the purge time after TIC14 pulse is insufficient."
+}

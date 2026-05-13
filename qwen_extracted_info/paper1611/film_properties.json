@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 100,
+  "density_g_cm3": 5.83,
+  "refractive_index": "1.98",
+  "surface_roughness_nm": 3.2,
+  "crystal_phase": "polycrystalline",
+  "evidence": "The film density was calculated using the total mass of Sn, Al, and O atoms from RBS analysis and the film thickness obtained from X-ray reflectivity (XRR). The film density from RBS and XRR was 5.83 g/cm³, or 83.4% of the bulk crystalline value for SnO2 (6.99 g/cm³). The observed average grain size of 7.9 atom % Al/C0 SnOx is ∼4/C0 5 nm, which is smaller than that of pure SnO2. The SnO2 surface appears to contain a higher density of hydroxyl groups than Al2O3 does, which correlates with its higher adsorption of TMA."
+}

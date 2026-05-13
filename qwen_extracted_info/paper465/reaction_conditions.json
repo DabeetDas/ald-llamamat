@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "AsH3 + H2 -> SH2 + H2",
+    "TEG + laser -> Ga + As + byproducts"
+  ],
+  "surface_mechanism_description": "The mechanism of laser ALE involves atom-selective photochemical decomposition of TMG or TEG at the surface of GaAs. This decomposition is not a thermal effect but a photochemical effect on the arsenic surface. The decomposition of TMG or TEG on the arsenic atom site is enhanced under laser irradiation, leading to selective decomposition and self-limiting growth.",
+  "intermediate_species": [
+    "TEG adsorbed on arsenic site",
+    "TEG adsorbed on gallium site",
+    "GaAs surface"
+  ],
+  "evidence": "The mechanism of laser ALE seems to be atom-selective photochemical decomposition of TMG or TEG at the surface of GaAs. This atom-selective decomposition is not a thermal effect but a photochemical effect on the arsenic surface. The shift of the photoabsorption band of TMG or TEG adsorbed on an arsenic site of GaAs seems to be the dominant mechanism of atom-selective decomposition of TMG or TEG under laser irradiation."
+}

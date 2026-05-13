@@ -1,0 +1,7 @@
+{
+  "precursors": ["TDMAS"],
+  "coreactants": ["Ozone"],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "TDMAS dissociatively adsorbs on the Si(100) surface to produce adsorbates including hydroaminocarbons and Si hydrides even at room temperature. Ozone oxidizes TDMAS adsorbed on the Si surface and makes the surface active to further TDMAS adsorption to progress the ALD cycle."
+}

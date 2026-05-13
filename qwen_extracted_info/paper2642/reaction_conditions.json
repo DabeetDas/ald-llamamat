@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of phosphorus on V2O5 using atomic layer deposition (ALD), where phosphorus precursors react with surface hydroxyl groups. The phosphorus is oxidized during the process, and the presence of phosphorus suppresses total oxidation reactions, thereby increasing selectivity to maleic anhydride.",
+  "intermediate_species": [
+    "phosphorus precursor",
+    "surface hydroxyl groups",
+    "oxidized phosphorus species"
+  ],
+  "evidence": "The surface reaction mechanism involves the deposition of phosphorus on V2O5 using atomic layer deposition (ALD), where phosphorus precursors react with surface hydroxyl groups. The phosphorus is oxidized during the process, and the presence of phosphorus suppresses total oxidation reactions, thereby increasing selectivity to maleic anhydride."
+}

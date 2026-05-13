@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Tetrakis(dimethylamido)hafnium", "H2O"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the deposition of HfO2 films on strained and standard SOI substrates using atomic layer deposition (ALD). The films are analyzed for their structural, chemical, and interfacial properties after postdeposition annealing. The results show that strain in the SOI layer affects the crystallization of HfO2 and the formation of interlayer silicates.",
+  "evidence": "HfO2 layers were deposited at 250°C using Tetrakis(dimethylamido)hafnium and H2O as the precursor and oxidant, respectively. The study also mentions that the HfO2 films were annealed at temperatures up to 1100°C."
+}<|im_end|>

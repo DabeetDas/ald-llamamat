@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALE growth proceeds through the alternate formation of the Se-stabilized (2 31) and Zn-stabilized c(2 32) reconstructions. The (2 31) surface has the Se-dimer structure, while the c(2 32) surface has the Se-vacancy structure. The growth rate of ZnSe is about 0.5 bilayer per ALE cycle, consistent with the formation of these surface structures.",
+  "intermediate_species": [
+    "Se-dimer",
+    "Se-vacancy"
+  ],
+  "evidence": "The surface structures of ZnSe(001) during ALE growth were determined using RHEED rocking-curve analysis. The (2 31) surface has the Se-dimer structure, while the c(2 32) surface has the Se-vacancy structure. The growth rate of ZnSe was estimated to be about 0.5 bilayer per ALE cycle, consistent with the formation of these surface structures."
+}

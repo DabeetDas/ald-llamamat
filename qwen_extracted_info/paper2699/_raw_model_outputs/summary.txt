@@ -1,0 +1,8 @@
+{
+  "target_material": "Cobalt(II) oxide",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Co(BTSA)2(THF)", "H2O"],
+  "temperature_range": "75 –250 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of cobalt(II) oxide thin films using Co(BTSA)2(THF) and H2O as precursors. The process was carried out in the temperature range of 75–250 °C, with the deposition temperature affecting the film properties. The films were found to contain both cubic rock salt and hexagonal wurtzite phases of CoO, and the primary oxidation state of cobalt was confirmed to be +2. The study also identified the presence of impurities such as hydrogen and silicon, which increased with higher deposition temperatures. The film growth mechanism was determined to be a ligand exchange process.",
+  "evidence": "The saturative growth mode characteristic to ALD was confirmed with respect to both precursors at deposition temperatures of 100 and 200 °C. According to grazing incidence x-ray diffraction measurements, the films contain both cubic rock salt and hexagonal wurtzite phases of CoO. X-ray photoelectron spectroscopy measurements confirmed that the primary oxidation state of cobalt in the films is +2. The film composition was analyzed using time-of-flight elastic recoil detection analysis, which revealed the main impurities in the films to be H and Si. The Si impurities originate from the BTSA ligand and increased with increasing deposition temperature, which indicates that Co(BTSA)2(THF) is best suited for low-temperature deposition."
+}<|im_end|>

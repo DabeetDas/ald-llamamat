@@ -1,0 +1,7 @@
+{
+  "precursors": ["trimethylaluminium", "Pt(MeCp)Me3"],
+  "coreactants": ["water", "oxygen"],
+  "purge_gas": ["nitrogen"],
+  "carrier_gas": ["nitrogen"],
+  "evidence": "Precursor exposure times of 6s were utilized for trimethyl aluminium and water; 5s purge periods were used between precursor exposures to prevent mixing of trimethyl aluminium and water. The platinum coating was deposited using alternating exposures to 99 per cent purity trimethyl (methylcyclopentadienyl) platinum(IV) (Pt(MeCp)Me3) and oxygen at a growth temperature of 300◦C. Precursor exposure times of 50 and 20s were utilized for Pt(MeCp)Me3 and oxygen, respectively; 10s purge periods were used between precursor exposures to prevent mixing of Pt(MeCp)Me3 and oxygen. Ultrahigh purity (99.999%) nitrogen carrier gas was continuously passed through the flow tube at a mass flow rate of 360s.c.c.m. and at a pressure of 1 Torr."
+}

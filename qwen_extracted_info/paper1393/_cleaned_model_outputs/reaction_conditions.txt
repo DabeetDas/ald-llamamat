@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "- * +→ * +− x(SH) In(amd) S In(amd) H(amd)xx x 33 (1)",
+    "* +− → * +− x x S In(amd) (3 )H S SI n ( S H ) ( 3 ) H ( a m d )xx xx 3 (2)"
+  ],
+  "surface_mechanism_description": "A hypothetical mechanism for the sequential surface reactions of In(amd)3 with surface −SH groups and H2S is presented as eqs 1 and 2. This reaction mechanism is in close analogy to the hydroxyl mechanism observed in many oxide ALD processes, including trimethylaluminum (TMA) and water. The repetition of these reactions in an ABAB... sequence leads to In2S3 growth in an atomic layer-by-layer fashion.",
+  "intermediate_species": [
+    "In(amd)3",
+    "H(amd)",
+    "S In(amd)",
+    "SI n ( S H )",
+    "H ( a m d )"
+  ],
+  "evidence": "One hypothetical mechanism for the sequential surface reactions of In(amd)3 with surface −SH groups and H2S is presented as eqs 1 and 2: - * +→ * +− x(SH) In(amd) S In(amd) H(amd)xx x 33 (1) * +− → * +− x x S In(amd) (3 )H S SI n ( S H ) ( 3 ) H ( a m d )xx xx 3 (2) where the asterisk ( *) denotes a surface species. This reaction mechanism is in close analogy to the hydroxyl mechanism observed in many oxide ALD processes, including trimethylaluminum (TMA) and water."
+}

@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 150,
+  "density_g_cm3": 5.0,
+  "refractive_index": null,
+  "surface_roughness_nm": 4.0,
+  "crystal_phase": "α-hematite",
+  "evidence": "The film thickness as a function of number of cycles. All films were deposited with 10 s of ozone and 90–100 torr-s of TBF per cycle (this TBF dose corresponds to saturation for this particular ozone exposure). The dotted line is the linear least squares best fit to the data, the indicated growth per cycle corresponds to the slope of this line, and the given error corresponds to a 95% confidence interval from a t-test. d) The growth per cycle as a function of substrate temperature. These depositions were performed with 30 s of ozone exposure per cycle for 25 cycles. Each data point in (a)–(c) represents one sample. Each data point shown in (d) is the mean of two separate measurements, except for the data at 180 and 200 °C which are each a single measurement."
+}<|im_end|>

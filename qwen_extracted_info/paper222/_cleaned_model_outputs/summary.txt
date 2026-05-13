@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["ZnCl2", "H2O", "Zn(CH3COO)2", "Mn-thd", "Mn-acac"],
+  "temperature_range": "230-250 °C to 500 °C",
+  "summary": "The study describes the growth of ZnO thin films using atomic layer epitaxy (ALE) with various precursors and substrates. The process involves different growth procedures, including the use of inorganic and organic zinc precursors, and Mn doping with organic Mn precursors. The films' structural and optical properties were analyzed using XRD, AFM, and PL techniques.",
+  "evidence": "ZnO films were grown using a F-120 ALE reactor with different precursors and substrates. The study discusses the use of inorganic zinc precursors like ZnCl2 and organic precursors like zinc acetate. Mn doping was achieved using organic Mn precursors such as Mn-thd and Mn-acac. The growth temperature range varied from 230-250 °C to 500 °C, and the structural properties were analyzed using XRD and AFM."
+}

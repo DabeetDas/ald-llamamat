@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "",
+  "precursor_pulse_time_s": "12",
+  "coreactant_pulse_time_s": "12",
+  "purge_time_s": "12",
+  "number_of_cycles": "200",
+  "reactor_type": "flow-type",
+  "evidence": "Nominally 8 nm thick Ru films were deposited by 200 cycles of alternating exposures to bis(cyclopentadienyl)ruthenium (Ru Cp2) and air at 350 ◦C. To ensure penetration of the ALD precursors as deep into the aerogel samples as possible, long pulse times of 12 s were applied for both precursors, and also the purge times (12 s) were much longer than those used on planar surfaces."
+}

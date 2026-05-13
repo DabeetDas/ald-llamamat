@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The formation of Cu3Si is indicated by the appearance of Cu3Si peaks in XRD spectra, suggesting the breakdown of the barrier layers at high temperatures. The breakdown occurs due to the interaction between Cu and Si through the broken down HfO2 or Al2O3 barrier films at 700°C and 750°C, respectively.",
+  "intermediate_species": [
+    "Cu3Si"
+  ],
+  "evidence": "The XRD data suggests that a 3 nm thick Al2O3 barrier layer is effective in restricting the formation of Cu silicide at temperatures even higher than 725°C. The formation of Cu3Si apparently takes place due to the intermixing of Cu and Si through the broken down HfO2 barrier films at 700°C. The XRD data of the thin film structures with HfO2 and Al2O3 as diffusion barriers corroborates the results of the sheet resistance measurements discussed in the previous section. The drastic increase in sheet resistance of the Cu/barrier//Si structure observed after annealing at 700 and 750°C with the HfO2 and Al2O3 diffusion barrier films, respectively, is due to the interaction between Cu and Si leading to the formation of Cu silicide."
+}

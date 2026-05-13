@@ -1,0 +1,11 @@
+{
+  "target_material": "molybdenum oxide",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "bis(tert-butylimido)bis(dimethylamido) molybdenum",
+    "ozone"
+  ],
+  "temperature_range": "100 to 300 /C14 C",
+  "summary": "The study describes the atomic layer deposition (ALD) of molybdenum oxide using bis(tert-butylimido)bis(dimethylamido) molybdenum as the metal precursor and ozone as the oxidant. The process was evaluated over a temperature range of 100 to 300 /C14 C, with the growth rate per cycle varying from 0.3 to 2.4 A˚ /cycle. The ALD process window was found to be usable between 250 and 300 /C14 C with an ozone concentration of 120 mg/l. The films were characterized for uniformity, elemental composition, and surface morphology.",
+  "evidence": "Molybdenum trioxide films have been deposited using thermal atomic layer deposition techniques with bis(tert-butylimido)bis(dimethylamido)molybdenum. Films were deposited at temperatures from 100 to 300 /C14 C using ozone as the oxidant for the process. The measured growth per cycle extends from 0.3 A˚ /cycle at 150 /C14 C to 2.4 A˚ /cycle at >300 /C14 C. A usable ALD process window was demonstrated for temperatures from 250 to 300 /C14 C with the investigated ozone dose and concentration of 120 mg/l."
+}

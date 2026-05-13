@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD-ZnO deposition involve the self-limiting chemical surface reactions that constitute ALD, with the choice of precursors (DEZ vs. DMZ), process steps (dose and purge times), and post-processing affecting the film properties. The standard process uses DEZ and water as precursors, with the surface reactions likely involving the adsorption and reaction of these precursors on the substrate.",
+  "intermediate_species": ["surface hydroxyls"],
+  "evidence": "Due to the self-limiting chemical surface reactions that constitute ALD, there are three possible ways to manipulate the ﬁlm properties: 1) the choice of precursors 2) the ALD process steps themselves (i.e., dose and purge times) 3) post-processing of the ﬁlm."
+}<|im_end|>

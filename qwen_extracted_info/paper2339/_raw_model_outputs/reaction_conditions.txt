@@ -1,0 +1,19 @@
+{
+  "reaction_equations": [
+    "-In-O* + InEtCp → -In-O-In-EtCp*",
+    "-In-OH* + InEtCp → -In-O-In* + EtCpH ↑",
+    "-In-O-In-EtCp* + H2O → -In-O-In-OH* + EtCpH ↑",
+    "-In-O-In* + 1/2 O2 → -In-O-In-O*",
+    "-In-O-In-OH* + 1/2 O⋅ → -In-O-In-O* + 1/2 H2O ↑",
+    "-In-O-In-O* + O⋅ → -In-O-In(-O*-)2"
+  ],
+  "surface_mechanism_description": "The In2O3 formation mechanism during the WpO process involves the adsorption of InEtCp by surface oxygen atoms, followed by reaction with H2O to form -In-O-In-OH∗, and subsequent oxidation during the O2 plasma step to form stoichiometric In2O3. This mechanism is characterized by the route of InEtCp adsorption on the surface oxygen atoms, while the WO process has two routes in the InEtCp step.",
+  "intermediate_species": [
+    "-In-O-In-EtCp*",
+    "-In-O-In*",
+    "-In-O-In-OH*",
+    "-In-O-In-O*",
+    "-In-O-In(-O*-)2"
+  ],
+  "evidence": "Based on the reported reaction of InCp and H2O/O2 gas, the In2O3 formation mechanism during the WpO process is considered to be as follows: (InEtCp step) -In-O* + InEtCp → -In-O-In-EtCp* (4) -In-OH* + InEtCp → -In-O-In* + EtCpH ↑ (5) (H2O step) -In-O-In-EtCp* + H2O → -In-O-In-OH* + EtCpH ↑ (6) (O2 plasma step) -In-O-In* + 1/2 O2 → -In-O-In-O* (7) The InEtCp has a half-sandwich structure similar to that of InCp, and can be adsorbed by surface oxygen atoms (Eq. 4) and undergo an ion-exchange reaction with hydroxyl groups (Eq. 5) on the substrate. During the subsequent H2O step, the EtCp ligands of the adsorbed InEtCp are eliminated by reaction with H2O and form -In-O-In-OH∗ (Eq. 6), while unreacted -In-O-In* still remains. During the O2 plasma step, the surface -In-O-In* groups are oxidized, resulting in -In-O-In-O* formation (Eq. 7). This mechanism is characterized by two routes including absorption and ion-exchange in the InEtCp step."
+}<|im_end|>

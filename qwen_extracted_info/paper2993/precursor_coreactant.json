@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "TiCl4",
+    "NH3"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Nitrogen (99.999%) served both as a carrier and a purging gas."
+}

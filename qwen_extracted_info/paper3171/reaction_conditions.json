@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reduction treatments, including hydrogen plasma treatment and rapid thermal anneal in hydrogen ambient, reduce the nitrogen content in the surface layer of the TaN x ultrathin film. This process forms a new chemical phase with a very small nitrogen content, possibly TaNx, which enhances the adhesion between the TaN x film and the Cu overlayer. The increase in the Ta/N atomic ratio in the RTA-treated TaN x thin film significantly improves the adhesion with the Cu layer.",
+  "intermediate_species": [
+    "TaO xNy",
+    "TaOx",
+    "Ta 4f 7/2 peak"
+  ],
+  "evidence": "The text discusses the formation of a new chemical phase with a very small nitrogen content, possibly TaNx, after RTA treatment. It also mentions the presence of oxygen-containing states due to oxidation of the PE-ALD TaN x thin film and the increase in the Ta/N atomic ratio after reduction treatments."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "HfO2, Al2O3 and HfAlOx layers have been deposited at IMEC by atomic layer deposition (ALD) with alternating pulses of HfCl4, Al(CH3)3 and H2O at 300 ◦C."
+}

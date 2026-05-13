@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Surface reaction between DMEAA and NH3 to form AlN with incomplete reaction of NH3 at lower temperatures, resulting in residual NHx species.",
+  "intermediate_species": ["NH3-x (x = 0-2) species", "surface hydroxyls", "amine ligands"],
+  "evidence": "The N(1s) data showed that the reaction to form AlN is thermally driven, and partially dissociated NH3 species were a product of the reaction between the Al source and NH3 at lower temperatures. The presence of higher energy peaks in the N(1s) spectrum signifies the incomplete reaction of NH3 in the process. The N(1s) binding energies observed in the data were associated with AlN and NHx species incorporated into the films. The N(1s) spectra of AlN processed by ALG showed a dominant AlN peak at 396.8 eV which has been identified by several studies as AlN. Surface reaction experiments have also correlated N(1s) binding energies in the range of 398 -401 eV with NHx species."
+}

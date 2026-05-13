@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 300,
+ "pressure": "",
+ "precursor_pulse_time_s": 2,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": 10,
+ "number_of_cycles": null,
+ "reactor_type": "",
+ "evidence": "The typical pulse lengths were 2 s for the reactants and 10 s for the evacuation between the reactants."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "vanadium oxides",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis[ethylmethylamino]vanadium (TEMAV)", "water", "ozone"],
+  "temperature_range": "150 °C",
+  "summary": "Amorphous vanadium oxide thin films are deposited using atomic layer deposition (ALD) with tetrakis[ethylmethylamino]vanadium (TEMAV) as the vanadium precursor and water or ozone as the oxygen source. The study investigates the crystallization and oxidation behavior of these films on different substrates, demonstrating a series of stable vanadium oxide phases in the VO2–V2O5 series. The films show lithium intercalation behavior and high volumetric capacities, with V4O9 exhibiting the highest capacity.",
+  "evidence": "Amorphous VO2 thin films are deposited by atomic layer deposition (ALD) using tetrakis[ethylmethylamino]vanadium (TEMAV) as vanadium precursor and water or ozone as the oxygen source. The crystallisation and oxidation behaviour is investigated for different oxygen partial pressures between ambient air and 3.7 Pa, resulting in phase formation diagrams on SiO2, TiN and Pt substrates, demonstrating a series of stable vanadium oxide phases in the VO2–V2O5 series."
+}

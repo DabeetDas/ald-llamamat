@@ -1,0 +1,11 @@
+{
+  "target_material": "CuS",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "Cu(acac)2",
+    "elemental sulfur"
+  ],
+  "temperature_range": "140–160 °C",
+  "summary": "A low-temperature thermal ALD process for depositing high-quality p-type conducting CuS thin films using elemental sulfur as the sulfur source and Cu(acac)2 as the copper precursor. The process yields single-phase CuS films with a high growth rate and good crystallinity.",
+  "evidence": "A facile, yet precisely controlled and efficient atomic layer deposition (ALD) process is reported for high-quality copper(II) sulfide thin films based on elemental solid sulfur as the source for sulfur; Cu(acac)2 is used as the copper precursor. In the deposition temperature range as low as 140–160 °C, the process proceeds in an essentially ideal ALD manner and yields single-phase CuS thin films with appreciably high growth rate of ≈ 4 Å per cycle."
+}

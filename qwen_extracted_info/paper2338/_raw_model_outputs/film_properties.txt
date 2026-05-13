@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 3.4,
+  "density_g_cm3": null,
+  "refractive_index": "1.66 at 2 eV",
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "Figure 3 shows the optical properties of the ZNO films as obtained from spectroscopic ellipsometry (SE) measurements. A combination of a Tauc-Lorentz (TL) and a Gaussian oscillator was used to model the dielectric function of the Zn0.09Ni0.91O film, while a single TL oscillator was used for the other two films. The refractive indices (n) of the films at a photon energy of 2 eV were 1.77, 1.73, and 1.66. The bandgap of the films is shown in Fig. 3(b). The bandgap of the ALD NiOx film was found to be ~3.6 eV with a higher n of 2.08, which is similar to that reported in the literature. 15,33 It is evidenced by Fig. 3 that the introduction of Zn in ALD NiOx decreases the bandgap from 3.6 ± 0.01 eV to 3.49 ± 0.02 eV, 3.27 ± 0.02 eV, and 3.06 ± 0.01 eV, which is consistent with the DFT calculations. These values are more comparable to the literature-reported bandgap of ZnO which is 3.3–3.6 eV. 19,34"
+}<|im_end|>

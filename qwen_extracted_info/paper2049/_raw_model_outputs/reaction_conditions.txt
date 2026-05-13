@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "HfCl4(g) + 2H2O(g) → HfO2(s) + 4HCl(g)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between HfCl4 and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The formation of hafnium dioxide in the reaction of hafnium tetrachloride with water is described by the following net reaction: HfCl4(g) + 2H2O(g) → HfO2(s) + 4HCl(g). The ligand exchange reaction of hafnium tetrachloride with one surface hydroxyl (OH) group is chosen as the chemical basis of the modeling."
+}<|im_end|>

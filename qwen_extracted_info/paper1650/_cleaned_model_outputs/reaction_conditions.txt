@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Cp*Ti(OMe)3 + O3 -> CO2 + H2O + Cp*Ti(OMe)x"
+  ],
+  "surface_mechanism_description": "The Cp*Ti(OMe)3 molecule chemisorbs to the surface via the OMe ligand and not via the Cp* ligand. The ozone pulse combusts the Cp* ligand and the remaining methoxy groups releasing CO2 and H2O at a process pressure of 7 mbar.",
+  "intermediate_species": [
+    "Cp*Ti(OMe)x",
+    "MeOH",
+    "CO2",
+    "H2O"
+  ],
+  "evidence": "The in situ QMS studies revealed that the Cp*Ti(OMe)3 molecule chemisorbs to the surface via the OMe ligand and not via the Cp* ligand. The ozone pulse combusts the Cp* ligand and the remaining methoxy groups releasing CO2 and H2O at a process pressure of 7 mbar. The main byproducts obtained in the Cp*Ti(OMe)3/ozone ALD process are CO2 (m/e ) 44), H2O (m/e ) 18), and MeOH (m/e ) 31). The release of MeOH during the precursor pulse and the detection of CO2 and H2O during the ozone pulse were observed."
+}

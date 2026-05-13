@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "75-150",
+ "pressure": "3 Torr",
+ "precursor_pulse_time_s": "4",
+ "coreactant_pulse_time_s": "1.5",
+ "purge_time_s": "4.5",
+ "number_of_cycles": null,
+ "reactor_type": "shower-head-type reactor (Genitech MP-1000)",
+ "evidence": "In the ALD method, DEZ and water were alternatively injected into the reactor using Ar as a carrier gas with a flow rate of 160 sccm. The pulsing times were 4 s for the DEZ, 2.5 s for the H2O, and 4.5 s for each Ar purge. In a typical PEALD method, one PEALD cycle for the ZnO film growth consisted of the sequential injection of DEZ (4s), Ar (4.5 s), O2 gas (60 sccm, 1.5 s), and Ar (0.5 s)."
+}<|im_end|>

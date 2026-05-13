@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "photo-ALD",
+  "main_precursors": [
+    "diethylzinc (DEZ)",
+    "H2O"
+  ],
+  "temperature_range": "105°C to 235°C",
+  "summary": "Low-resistivity ZnO films were grown using photo atomic layer deposition (photo-ALD) with diethylzinc (DEZ) and H2O as reactant gases. UV light irradiation during the process significantly increased the electron concentration, resulting in a resistivity one order of magnitude lower than without UV irradiation. The minimum resistivity of 6.9 × 10-4 Ω cm was achieved at 136°C without intentional doping. The films exhibited high transmittance (85%) in the wavelength range from 400 to 1000 nm, making them suitable for transparent conducting applications.",
+  "evidence": "Low-resistivity ZnO films were grown by photo atomic layer deposition (photo-ALD) technique using diethylzinc (DEZ) and H20 as reactant gases. Self-limiting growth was achieved for the temperature range from 105°C to 235°C. It was found that UV light irradiation was very effective to increase the electron concentration of the films and the electron concentration of 5 x 1020 cm-3 was achieved even in undoped ZnO. Thus, the resistivity of the films grown with UV irradiation was one order of magnitude less than that grown without UV irradiation. The minimum resistivity of 6.9 × 10-4 Ω cm was obtained by photo-ALD method without any intentional doping. These films are appropriate for application in solar cells and other optoelectronic devices."
+}

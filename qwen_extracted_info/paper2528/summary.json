@@ -1,0 +1,11 @@
+{
+  "target_material": "Nickel oxide (NiO)",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "Ni(dmamp)2",
+    "Water (H2O)"
+  ],
+  "temperature_range": "90–150 °C",
+  "summary": "The study describes the atomic layer deposition of nickel oxide (NiO) films using Ni(dmamp)2 as the nickel source and water as the oxygen source. The process was carried out in the temperature range of 90–150 °C, with an optimal growth rate of 0.8 Å/cycle at 120 °C. The films were characterized as amorphous, stoichiometric, and smooth with low surface roughness. The ALD mechanism involves surface reactions where the Ni(dmamp)2 precursor coordinates with the OH-terminated surface without decomposition, followed by decomposition upon water supply to form hydroxylated nickel oxide and release dmampH.",
+  "evidence": "The precursor Ni(dmamp)2 was used as the nickel source and water as the oxygen source. The ALD temperature window was found to be between 90 and 150 °C. The growth rate of the NiO films was 0.8 Å/cycle. The films were characterized as amorphous, stoichiometric, and smooth with low surface roughness. The ALD mechanism involves surface reactions where the Ni(dmamp)2 precursor coordinates with the OH-terminated surface without decomposition, followed by decomposition upon water supply to form hydroxylated nickel oxide and release dmampH."
+}

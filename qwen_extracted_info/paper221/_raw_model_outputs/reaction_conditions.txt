@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "Zn(C2H5)2 + H2O -> ZnO + 2C2H6"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves a double-exchange chemical reaction at the surface where diethylzinc (DEZn) reacts with deionized water as oxygen precursor to form zinc oxide (ZnO).",
+  "intermediate_species": [
+    "Zn(C2H5)2",
+    "H2O"
+  ],
+  "evidence": "Zinc oxide is created here as a result of a double-exchange chemical reaction that takes place at the surface: Zn(C2H5)2 + H2O -> ZnO + 2C2H6."
+}<|im_end|>

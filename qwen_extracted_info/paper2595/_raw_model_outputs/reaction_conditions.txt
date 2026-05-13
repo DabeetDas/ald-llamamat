@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The surface site competition in the coinjection process... the final Al to Zn ratio would reflect the ratio of the TMA to DEZ concentrations in the gas phase multiplied by the selectivity factor k_TMA/k_DEZ, where k_TMA and k_DEZ are the observed rate constants for the deposition of the individual precursors."
+}<|im_end|>

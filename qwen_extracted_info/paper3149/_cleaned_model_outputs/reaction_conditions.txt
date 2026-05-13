@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the in situ oxidation of plasma-enhanced atomic layer deposition HfN middle layer using H2 plasma as a reactant, forming HfOxNy. The nitrogen incorporation during the process reduces leakage currents and improves reliability by passivating oxygen vacancy states and enhancing structural stability. The N–H bonds formed during the process reduce localized states below the conduction band and prevent conduction-band lowering, while the decrement of N–N and N–O bonds reduces trap density.",
+  "intermediate_species": ["N–H bonds", "N–O bonds", "N–N bonds"],
+  "evidence": "The text discusses the formation of N–H bonds during the process, which reduce localized states below the conduction band and prevent conduction-band lowering. It also mentions the decrement of N–N and N–O bonds, which contribute to trap density. The nitrogen incorporation during the process is achieved through the use of H2 plasma as a reactant during PE-ALD, forming HfOxNy."
+}

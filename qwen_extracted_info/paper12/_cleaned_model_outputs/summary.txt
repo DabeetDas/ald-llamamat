@@ -1,0 +1,8 @@
+{
+  "target_material": "GaN",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Ga", "N"],
+  "temperature_range": "730°C",
+  "summary": "The study demonstrates the use of atomic layer epitaxy (ALE) for the growth of GaN nanostructures, including quantum wells (QWs) and quantum dots (QDs). Exposure of GaN, AlGaN, or AlN surfaces to Ga leads to the formation of a self-regulated Ga film, which is then exposed to N to grow GaN. The process allows for controlled growth of QWs or QDs through repeated cycles.",
+  "evidence": "In the case of (0001) GaN, the surface is 1/C21 under usual growth conditions. Exposure to N leads to a 2 /C22 reconstruction up to about 700 /C14C and to a 1 /C21 surface for higher substrate temperatures (Ts). Exposure to Ga leads to a 1/C21 surface in the whole temperature range and, depending on Ts and Ga flux, to Ga droplet formation. It has been established that, for specific Ga flux and Ts values, no Ga droplets are formed. Taking advantage of this self-regulation of the Ga coverage, we then demonstrate ALE for GaN. Furthermore, for appropriate growth conditions, we show that exposing AlN or AlGaN surface to Ga also leads to the formation of a self-regulated Ga film. Then, depending on the number of ALE cycles, we demonstrate that controlled growth of GaN quantum wells (QWs) or quantum dots (QDs) is possible."
+}

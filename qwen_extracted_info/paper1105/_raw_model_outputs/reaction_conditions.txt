@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The deposition of HfO2 films on SAM-passivated Ge surfaces involved the weakening of hydrophobicity caused by the desorption or destruction of the C–C and/or Ge–C bonds in the SAM, allowing for the exposure of Ge atoms to ALD precursors. The ALD process was conducted at 350 °C after partial removal of the SAM passivation layer.",
+  "intermediate_species": ["dangling bonds", "C–C and/or Ge–C bonds"],
+  "evidence": "In this case, the EOT can be given as: EOT = (thigh/C0 k = εhigh/C0 k + tinterface = εinterfaceÞ·εSiO2 (1) where t is the physical thickness of the layer and ε is the dielectric constant. If we ignore the effect of the interface layer on EOT and consider that of the high-k HfO2 film only, a 5.8% reduction of EOT is expected for the SAM-passivated stack, since the total thickness of the stacks is given as 8.14 and 7.67 nm for GeOx and SAM passivation, respectively, from MEIS measurements. In fact, the \"measured\" EOT of the HfO2 stack on top of the SAM passivated sample exhibited a 5.7% reduction in EOT, compared to that of the GeOx-passivated layer. Therefore, we may conclude that the decrease in HfO2 film thickness resulted in a decreased EOT, and thus, SAM passivation is useful for scaling down gate oxides without deterioration of the interfacial layer."
+}<|im_end|>

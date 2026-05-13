@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "diethyl zinc (DEZn or Zn(C2H5)2)",
+    "tetrakis(dimethylamino) tin (TDMASn or Sn(N(CH3)2)4)"
+  ],
+  "coreactants": [
+    "de-ionized water (H2O)"
+  ],
+  "purge_gas": [
+    "nitrogen (N2)"
+  ],
+  "carrier_gas": [
+    "nitrogen (N2)"
+  ],
+  "evidence": "The Zn1/C0xSnxOy buffer layers are grown using a Microchemistry F-120 ALD reactor with a proven process with diethyl zinc (DEZn or Zn(C2H5)2) as zinc precursor, tetrakis(dimethylamino) tin (TDMASn or Sn(N(CH3)2)4) as tin precursor, de-ionized water (H2O) as oxygen precursor and nitrogen (N2) as carrier and purge gas."
+}

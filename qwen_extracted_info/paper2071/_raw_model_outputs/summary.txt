@@ -1,0 +1,8 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["bis-scyclopentadienyldruthenium", "oxygen"],
+  "temperature_range": ",310° to 350 °C",
+  "summary": "The study describes the use of selective area atomic layer deposition (ALD) to deposit ruthenium on SiO2 and HfO2 surfaces using bis-scyclopentadienyldruthenium and oxygen as precursors. The process was applied to create patterned Ru/HfO2/SiO2/Si capacitor stacks, with the effective work function of ALD Ru measured on different dielectrics. The ALD process was carried out in a hot-wall quartz tube reactor at temperatures between 310°C and 350°C, and the growth rate was observed to be approximately 1 Å per cycle. The study also highlights the selectivity of the process using octadecyltrichlorosilane (OTS) monolayers to inhibit film nucleation on certain surfaces.",
+  "evidence": "ALD Ru was carried out in a home-built hot-wall quartz tube reactor using RuCp2 (bis-scyclopentadienyldruthenium) as a precursor and dry oxygen. Under these conditions, self-limiting growth was observed at temperatures between ,310° and 350 °C corresponding to ,1 Å per deposition cycle. The study also mentions the use of OTS monolayers to inhibit film nucleation, enabling selective area ALD of ruthenium on SiO2 and HfO2 surfaces."
+}<|im_end|>

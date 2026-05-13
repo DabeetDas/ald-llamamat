@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["TiCl4", "NH3"],
+  "temperature_range": "550 8C",
+  "summary": "The study investigates the growth mechanism of TiN films on different dielectric films using atomic layer deposition (ALD). The growth mechanism changes from 3-D on SiO2 to layer-by-layer on HfO2. The effective work function of TiN is influenced by both the dielectric film and TiN thickness. The minimum TiN thickness required for complete surface coverage varies depending on the growth mechanism.",
+  "evidence": "TiN growth mechanism changed from 3-D type on SiO2 to layer-by-layer type on HfO2. The minimum TiN thickness required for a complete surface coverage varies according to the growth mechanism. The effective work function of TiN is dependent not only on dielectric films but also on the TiN thickness."
+}<|im_end|>

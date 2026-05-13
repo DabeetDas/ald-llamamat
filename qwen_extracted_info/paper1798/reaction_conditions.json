@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process involves sequential pulsing of NaO tBu, H2O, TTIP, and H2O with N2 gas purge. The reaction mechanism includes surface reactions where NaO tBu reacts with H2O to form surface species, followed by TTIP reacting with the surface species. The exact chemical equations are not explicitly provided in the text.",
+  "intermediate_species": [
+    "surface hydroxyls",
+    "sodium oxide",
+    "anatase TiO2"
+  ],
+  "evidence": "The ALD cycle is executed by sequential pulsing of NaO tBu, H2O, TTIP, and H2O, with an N2 gas purge following each pulse to remove excess precursor and reaction by-products. One ALD cycle consists of two ALD subcycles, i.e. NaO tBu - H2O and TTIP - H2O. The results in Fig. 2a and 2b justify the true ALD process used for the deposition of sodium titanates. The NaO tBu pulse time and H2O pulse time are optimized to achieve saturated growth of sodium titanate films during the ALD process. The physisorption of H2O on the layer(s) produced during NaO tBu-H2O subcycle (possible NaOH or sodium oxide) is mentioned as a reason for the high growth rate. Residual waters would react with TTIP or NaO tBu in the subsequent subcycle, resulting in a higher GPC of sodium titanate films."
+}

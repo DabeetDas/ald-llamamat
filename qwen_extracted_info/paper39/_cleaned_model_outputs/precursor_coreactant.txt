@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMA"],
+  "coreactants": ["H2O"],
+  "purge_gas": [],
+  "carrier_gas": ["Ar"],
+  "evidence": "The TMA (Akzo Nobel HPMO, semiconductor grade) bubbler was heated at 30 ° C and the water bubbler at 75 ° C. A 250 sccm argon flow was fed through the TMA bubbler and was diluted with 750 sscm Ar to a total flow of 1 slm. The gas flows through the bubblers and dilution lines are controlled by flow controllers. The TMA and water are evaporated from bubblers, with argon as carrier gas, and transported through heated lines to prevent condensation."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "CdS",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "(CH3)2Cd",
+    "H2S"
+  ],
+  "temperature_range": "Room temperature (~300 K) to ~480 K",
+  "summary": "The study investigates the surface reaction mechanisms of atomic layer deposition (ALD) for growing ordered CdS layers on ZnSe(100). The process involves alternating dosing of (CH3)2Cd and H2S. Adsorbed (CH3)2Cd dissociates at room temperature to form a methyl-terminated surface, which is self-limiting. At ~370 K, DMZn desorbs due to methyl-exchange reactions. H2S reacts with the methyl-terminated surface to form a sulfur-hydride-terminated surface. The desorption of H2S occurs via recombinative reactions of HS species at ~480 K. The results highlight the role of bond strengths between methyl groups and metal atoms in surface reactions.",
+  "evidence": "The text describes the use of temperature-programmed desorption (TPD) to study the surface chemistry of alternating-grown, ordered atomic layers of CdS on ZnSe(100). It details the dissociation of (CH3)2Cd at room temperature, the formation of a methyl-terminated surface, and the desorption of DMZn at ~370 K. H2S reacts with the methyl-terminated surface to form a sulfur-hydride-terminated surface, with desorption of H2S occurring at ~480 K. The study also discusses the role of bond strengths in surface reactions."
+}

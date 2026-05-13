@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "225-350",
+  "pressure": "less than 10 mbar",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 1,
+  "number_of_cycles": 1000,
+  "reactor_type": "cross-flow F-120",
+  "evidence": "Iridium thin films were successfully grown between 225 and 350 /C14 C in a commercial cross-ﬂow F-120 ALD reactor (ASM Microchemistry Ltd., Finland) under a nitrogen pressure less than 10 mbar."
+}<|im_end|>

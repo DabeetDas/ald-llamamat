@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-400",
+  "pressure": "5-10 mbar",
+  "precursor_pulse_time_s": 0.7,
+  "coreactant_pulse_time_s": 1.0,
+  "purge_time_s": 1.0,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "Thin Film Deposition. ZrO2 and HfO 2 thin films were deposited from [Zr(NEtMe) 2(guan-NEtMe 2)2] and [Hf-(NMe2)2(guan-NMe2)2], respectively, with ozone or water as the oxygen source in a hot-wall flow-type F-120 ALD reactor (ASM Microchemistry Ltd.) on 5 × 5 cm 2 Si(100) substrates (Okmetic, Finland). The reactor pressure was between 5 and 10 mbar during the deposition. ... pulsing sequence times of 0.7/1.0/1.0/1.5 s for the metal precursor pulse/purge/oxygen precursor pulse/purge cycle."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "Tungsten",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "WF6",
+    "Si2H6"
+  ],
+  "temperature_range": "177 - 325 °C",
+  "summary": "This study investigates the atomic layer deposition (ALD) of tungsten using sequential exposures of WF6 and Si2H6. The process is analyzed using in situ quartz crystal microbalance (QCM) measurements to study the surface chemistry and growth rates. The results show that the WF6 reaction is self-limiting, while the Si2H6 reaction is not. The W/Si atomic ratio is consistent with a 1:1 stoichiometry, and the growth rates exhibit temperature-dependent behavior with different activation energies at different temperature ranges. The study also highlights the role of silicon coverage and the mechanism of silylene insertion during the Si2H6 exposure.",
+  "evidence": "The atomic layer deposition (ALD) of tungsten can be accomplished using sequential exposures of WF6 and Si2H6. The QCM measurements revealed that the WF6 reaction is self-limiting. The W ALD growth rates exhibited a slow and continual increase for disilane exposures > 4 /C2104 L. The W ALD growth rate was also weakly temperature-dependent with an activation energy of 1.5 T0.1 kcal/mol at T < 250 -C and a lower activation energy of 0.6 T0.3 kcal/mol at T > 275 -C. The QCM results and previous Auger results for W ALD yield the relationship between the silicon coverage deposited during the Si2H6 exposure and the tungsten coverage deposited during the WF6 exposure. The W/Si atomic ratio of ¨ 1:1 is consistent with earlier Auger investigations of the surface chemistry during W ALD at 200 -C."
+}

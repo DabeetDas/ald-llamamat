@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 250,
+  "density_g_cm3": null,
+  "refractive_index": "1.97 at 580 nm",
+  "surface_roughness_nm": null,
+  "crystal_phase": "polycrystalline",
+  "evidence": "The films were highly transparent and their refractive index at X = 580 nm was about 1.97. In general refractive indices of 1.99 - 2.25 have been measured for AN [l]. The slightly lower values measured for the present films may be due to their low density which, in turn, is attributable to the relatively low temperature. On the other hand, the formation of the oxidation layer on the film surface may also have an effect on the refractive indices evaluated by the rather simple method, Le. by fitting the transmittance spectra with a simplifying assumption that the refractive index would remain constant through the whole film thickness. Apparently, this assumption does not hold in the outermost oxidized surface layers, thus causing uncertainty to the fitting results. Indeed, when a two layer model was employed in fitting the spectra, an increased refractive index of 2.01 was evaluated for the film bulk."
+}

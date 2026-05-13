@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "2680",
+  "pressure": "280 Pa",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "20",
+  "number_of_cycles": "150",
+  "reactor_type": "RF-heated cold-wall low-pressure CVD system with Xe flash lamp",
+  "evidence": "The deposition time sequence after the samples were placed on the susceptor in the reactor is shown in fig. 2. The samples are pre-heated up to 400 0 C to desorb the impurities adsorbed on the substrate surface as described below. Then, the samples are cooled down to the deposition temperature, and GeH4 gas is introduced into the reactor. Under a total pressure of about 280 Pa and substrate surface temperatures between 230 and 290 0 c. at which Ge-hydride decomposition was not observed, Ge-hydrides adsorbed at the surface were decomposed by Xe flash lamp light shots (duration 1 ms, 20 J/cm2)."
+}<|im_end|>

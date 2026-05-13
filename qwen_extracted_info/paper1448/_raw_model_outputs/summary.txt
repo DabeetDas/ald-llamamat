@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2 and Pt",
+  "process_type": "Area-selective ALD",
+  "main_precursors": ["1-alkenes", "1-alkynes"],
+  "temperature_range": "220 °C for thermal method, 300 °C for Pt process",
+  "summary": "The study investigates the use of 1-alkenes and 1-alkynes as monolayer resists for area-selective atomic layer deposition (ALD) of HfO2 and Pt films on hydrogen-terminated germanium and silicon surfaces. The monolayers are formed via hydrogermylation or hydrosilylation reactions and are used to block ALD processes by preventing nucleation and growth of the deposited films. The effectiveness of these monolayers is evaluated based on their hydrophobicity, thickness, and ability to block ALD processes.",
+  "evidence": "The study investigates the use of 1-alkenes and 1-alkynes as monolayer resists for area-selective atomic layer deposition (ALD) of HfO2 and Pt films on hydrogen-terminated germanium and silicon surfaces. The monolayers are formed via hydrogermylation or hydrosilylation reactions and are used to block ALD processes by preventing nucleation and growth of the deposited films. The effectiveness of these monolayers is evaluated based on their hydrophobicity, thickness, and ability to block ALD processes."
+}<|im_end|>

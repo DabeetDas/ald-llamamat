@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "Atmospheric pressure",
+  "precursor_pulse_time_s": "6",
+  "coreactant_pulse_time_s": "9",
+  "purge_time_s": "6",
+  "number_of_cycles": "1800",
+  "reactor_type": "Cross-flow",
+  "evidence": "The zinc exposure time and the sulphur exposure time were 6 and 9 s in one cycle, respectively. The transfer of the substrate required 6 s from the zinc zone to the sulphur zone and 2 s from the sulphur zone to the zinc zone. Consequently, one cycle required 28 s."
+}

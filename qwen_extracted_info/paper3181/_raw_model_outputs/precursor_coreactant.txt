@@ -1,0 +1,7 @@
+{
+  "precursors": ["diethyl zinc (DEZ)"],
+  "coreactants": ["oxygen plasma"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "PE-ALD ZnO thin films were deposited using a cold-wall-type remote ALD chamber with diethyl zinc (DEZ) as a precursor. The DEZ bubbler temperature was maintained at 16°C by using a cooling circulator. The pressure in the DEZ bubbler was maintained at 580 Torr by 20 Torr of DEZ vapor pressure and injected with Ar gas during deposition to prevent possible problems caused by the very high pressure of DEZ. Also, 99.99% of Ar gas was used as a purging and carrier gas, of which flow was controlled by a mass flow controller (5 sccm for DEZ bubbler and 20 sccm for purging)."
+}<|im_end|>

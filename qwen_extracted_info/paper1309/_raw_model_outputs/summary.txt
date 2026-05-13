@@ -1,0 +1,8 @@
+{
+  "target_material": "Indium Aluminum Oxide (IAO)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Trimethylaluminum (TMA)", "Dimethylaluminum isopropoxide (DMAI)"],
+  "temperature_range": "250°C",
+  "summary": "The study investigates the effects of Al precursors on the characteristics of indium-aluminum oxide (IAO) semiconductor films grown by plasma-enhanced atomic layer deposition (PEALD). The research focuses on the use of trimethylaluminum (TMA) and dimethylaluminum isopropoxide (DMAI) as Al precursors, and the impact of these precursors on the composition, electrical properties, and performance of the resulting IAO films. The study demonstrates that DMAI allows for more controlled doping of Al, leading to improved electrical properties in thin-film transistors (TFTs).",
+  "evidence": "The study describes the use of trimethylaluminum (TMA) and dimethylaluminum isopropoxide (DMAI) as Al precursors in the PEALD process to fabricate IAO semiconductor films. It highlights the differences in the effects of these precursors on the composition and performance of the films, with DMAI showing better control over Al doping and resulting in improved electrical properties in TFTs."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "Silicon oxycarbide (SiCOH)",
+  "process_type": "Plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Octamethyl cyclotetrasiloxane (OMCTS)", "CH4 plasma", "Ar plasma"],
+  "temperature_range": "200–400 °C",
+  "summary": "The study investigates the effect of plasma and deposition temperature on the properties of SiCOH low-k thin films using the OMCTS precursor and the ALD process. The results show that the use of CH4 plasma increases carbon content and lowers the dielectric constant, while Ar plasma results in lower carbon content and higher dielectric constant. The formation of a cage structure with high carbon content contributes to the low dielectric constant. The PEALD process allows for good step coverage, particularly on the bottom of structures.",
+  "evidence": "Deposition of silicon oxycarbide (SiCOH) thin films by remote plasma atomic layer deposition was performed. ... The SiCOH film deposited with CH4 plasma can bond three or four carbons to silicon and form a cage structure with a high carbon content and a low dielectric constant. ... The PEALD SiCOH film had a low side step coverage and a high bottom stem coverage."
+}

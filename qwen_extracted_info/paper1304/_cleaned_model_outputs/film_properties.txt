@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 38,
+  "density_g_cm3": null,
+  "refractive_index": "1.965 at 632.8 nm",
+  "surface_roughness_nm": "0.444",
+  "crystal_phase": "α-Ga2O3 (006) and β-Ga2O3 (2̅01)",
+  "evidence": "The film grown at Tsub = 277°C has the largest bandgap and comparatively large refractive indices in the measured spectral range, therefore this film is anticipated to have a higher crystalline quality with possible presence of the α-phase (i.e. the metastable phase with the largest bandgap). As the deposition temperature increases beyond 277°C, the films show refractive index values close to the 277°C film, therefore they are also expected to be dense and crystalline but with lower amount of α-phase or more defects based on their lower bandgap values compared to the 277°C film (see Figure 2(a))."
+}

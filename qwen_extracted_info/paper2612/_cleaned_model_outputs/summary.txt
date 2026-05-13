@@ -1,0 +1,8 @@
+{
+  "target_material": "Bismuth oxide (Bi2O3)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Bi(OCMe2iPr)3", "H2O"],
+  "temperature_range": "90–270 °C",
+  "summary": "Bismuth oxide thin films were deposited using atomic layer deposition (ALD) with Bi(OCMe2iPr)3 and H2O at temperatures between 90 and 270 °C on substrates such as Si3N4, TaN, and TiN. The films showed a linear growth per cycle of 0.039 nm/cycle, a density of 8.3 g/cm³, a band gap of approximately 2.9 eV, and low carbon content. The study aimed to characterize the growth, nonuniformity, crystal structure, density, interfacial roughness, composition, refractive index, and band gap of Bi2O3 films deposited via ALD.",
+  "evidence": "Bismuth oxide thin films were deposited by atomic layer deposition using Bi(OCMe2iPr)3 and H2O at deposition temperatures between 90 and 270 °C on Si3N4, TaN, and TiN substrates. Films were analyzed using spectroscopic ellipsometry, x-ray diffraction, x-ray reflectivity, high-resolution transmission electron microscopy, and Rutherford backscattering spectrometry. Bi2O3 films deposited at 150 °C have a linear growth per cycle of 0.039 nm/cycle, density of 8.3 g/cm³, band gap of approximately 2.9 eV, low carbon content, and show the b phase structure with a (201) preferred crystal orientation."
+}

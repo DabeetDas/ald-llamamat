@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "4000",
+  "reactor_type": "ASM ALCVD ™ Pulsar 2000",
+  "evidence": "HfO2 was deposited in an ASM ALCVD ™ Pulsar 2000 reactor, integrated on a Polygon 8200 platform. Standard depositions were performed from HfCl4 and H2O precursors at 300˚C and 1 Torr."
+}

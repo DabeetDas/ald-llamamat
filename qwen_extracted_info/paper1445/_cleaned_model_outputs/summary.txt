@@ -1,0 +1,8 @@
+{
+  "target_material": "Ga2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Ga2(NMe2)6", "water"],
+  "temperature_range": "170 - 250 °C",
+  "summary": "The study demonstrates the atomic layer deposition (ALD) of Ga2O3 films using Ga2(NMe2)6 as the gallium precursor and water as the oxygen source. The process operates within a temperature range of 170 to 250 °C, achieving a growth rate of 1.0 Å/cycle. The films are amorphous upon deposition but crystallize to α-Ga2O3 upon annealing between 700 and 900 °C under nitrogen. The ALD process provides low growth temperatures, surface-saturative growth, and a wide ALD window, resulting in high-quality Ga2O3 films with low impurity levels.",
+  "evidence": "The atomic layer deposition growth of Ga2O3 films was demonstrated using Ga2(NMe2)6 and water with substrate temperatures between 150 and 300 °C. At 250 °C, surface saturative growth was achieved with Ga2(NMe2)6 vapor pulse lengths of ≥1.5 s. The growth rate was 1.0 Å/cycle at substrate temperatures between 170 and 250 °C. The as-deposited films were amorphous, but crystallized to α-Ga2O3 films upon annealing between 700 and 900 °C under a nitrogen atmosphere."
+}

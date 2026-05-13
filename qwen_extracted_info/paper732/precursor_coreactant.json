@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "(tBuN)2W(NMe2)2",
+    "H2O"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The first goal was to verify that the growth indeed takes place during ALD process. The dependence of the growth rate on the precursor pulse times and on the substrate temperature unambiguously confirms this. Fig. 10(a) and (b) illustrate the growth rate (Å/cycle) dependence on the precursor pulse times. It is evident that the growth is self-limiting. The experimental data for both H2O and (tBuN)2W(NMe2)2 agreed with a surface adsorption model (Langmuir model) fitting. Note that the optimum H2O pulse time 40-100 ms is longer than what is used in typical oxide growths in a Savannah system, but was found necessary. The slow oxidation of (tBuN)2W(NMe2)2 is believed to be responsible for the shorter H2O pulses (e.g., 10 ms). Moreover, it was found that the growth was also highly sensitive to the substrate temperatures. Little product was obtained for the initial operating temperature of ~ 300°C. However, noticeable improvement was observed when the operating temperature was raised to ~350°C (Fig. 10(c)). Therefore, the optimum growth conditions were found as follows: [(tBuN)2W(NMe2)2 pulse 2 s, N2 purge 10 s, H2O pulse 50 ms, N2 flow 5 s without pumping and then 10 s with pumping, T=350°C] yielding a stable WO3 growth (1.01 ± 0.05 Å/cycle), as illustrated in Fig. 10(d). For all data presented here, H2O was kept at room temperature (25°C), and (tBuN)2W(NMe2)2 precursor was pre-heated at 80°C."
+}

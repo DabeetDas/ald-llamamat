@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "120",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 400,
+  "number_of_cycles": 1000,
+  "reactor_type": "Microchemistry F-120",
+  "evidence": "The Zn1-xMgxO and Zn(O,S) buffer layers were grown in a Microchemistry F-120 atomic layer deposition (ALD) reactor using nitrogen as carrier gas. Characteristic pulse lengths used in the Zn1-xMgxO process were 200/600:400:200:400 ms for the DEZn/MgCp2:N2:H2O:N2 precursors, whereas the pulse lengths for Zn(O,S) were 200:400:200/200:400 ms for the DEZn:N2:H2O/H2S:N2 precursors. The films were grown at process temperatures ranging from 50 up to 200 °C."
+}

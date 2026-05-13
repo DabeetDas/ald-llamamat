@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "TEG (triethylgallium)"
+  ],
+  "coreactants": [
+    "NH3/H2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The GaN thin films were deposited on (100) Si substrates. TEG and remote NH3/H2 plasma were utilized as the precursors for gallium and nitrogen, respectively. The flow rate of H2 is fixed at 5 sccm and the carrier gas is Ar."
+}

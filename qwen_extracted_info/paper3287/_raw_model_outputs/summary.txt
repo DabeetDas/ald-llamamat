@@ -1,0 +1,8 @@
+{
+  "target_material": "copper",
+  "process_type": "thermal ALD",
+  "main_precursors": ["copper(II)-1,1,1,5,5,5-hexafluoroacetylacetonate hydrate", "water vapor", "reducing agents (isopropanol or formalin)"],
+  "temperature_range": "260 °C to 300 °C",
+  "summary": "The study describes the deposition of copper films using atomic layer deposition (ALD) with copper(II)-1,1,1,5,5,5-hexafluoroacetylacetonate hydrate as the copper source and water vapor along with reducing agents such as isopropanol or formalin. The process was optimized at temperatures between 260 °C and 300 °C, and the resulting films were used as seed layers for electrodeposition of thicker copper layers for interconnect applications. The films exhibited good conformality, smoothness, and low resistivity, making them suitable for microelectronic applications.",
+  "evidence": "Properties of copper films produced using atomic layer deposition (ALD) were characterized. Films were deposited using a two-step ALD process in which copper(II)-1,1,1,5,5,5-hexafluoroacetylacetonate hydrate and water vapor were introduced in the first step and a reducing agent was introduced in a subsequent step. The optimum deposition temperature with isopropanol was about 260 °C, whereas it was about 300 °C with formalin. These films were also investigated as seed layers for electrodeposition of thicker Cu layers for possible interconnect applications."
+}<|im_end|>

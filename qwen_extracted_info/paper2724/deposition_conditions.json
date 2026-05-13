@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "100-300",
+  "pressure": "5 × 10−3 mbar",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": null,
+  "number_of_cycles": 200,
+  "reactor_type": "home-built pump-type ALD reactor",
+  "evidence": "During deposition, the pressure of the precursor pulse was controlled at 5 × 10−3 mbar with the turbo pump running. The pressure during the plasma pulse was also controlled at 5 × 10−3 mbar. The dosing time of ATSB was 15 s and that of the coreactants was 5 s."
+}

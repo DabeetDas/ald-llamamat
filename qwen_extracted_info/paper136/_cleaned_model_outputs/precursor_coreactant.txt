@@ -1,0 +1,7 @@
+{
+  "precursors": ["Hf(mp)4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Argon was used as carrier and purge gas. The ALD cycles were performed in the following sequence: A [Hf(mp)4 supply: 1–7 s]/Ar purge (40 s)/B (H2O supply: 1 s)/Ar purge (40 s)."
+}

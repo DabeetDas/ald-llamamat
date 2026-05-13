@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 16.9,
+  "density_g_cm3": 1.12,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.6,
+  "crystal_phase": "polycrystalline",
+  "evidence": "From Scherrer analysis [ 27] performed by using the FWHM of the (2 0 0) and the (2 2 0) peaks we estimated the average grain size with these two preferential orientations, depending on the growth temperature. In particular we observe that for the lower deposition temperature range (80–125 ◦C), the grains with [1 0 0] orientation have bigger size (7–8 nm) compared with grains with [110] orientations (3–5 nm), while for higher deposition temperatures (225–350 ◦C) the grains with both orientations have comparable and small dimensions (2–3 nm, see table 1). Moreover, we observe that in MgO-01 (T growth = 80 ◦C) the (1 1 1) peak is absent, while in MgO-04 (T growth = 260 ◦C) the (1 1 1) peak intensity is close to that of the (2 0 0) peak, which suggests the development of different preferential crystal orientations depending on the deposition temperature."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "(ethylbenzyl) (1-ethyl-1,4-cyclohexadienyl) Ru (0) (EBECHRu)",
+    "O2"
+  ],
+  "temperature_range": "325°C",
+  "summary": "The study demonstrates the ALD deposition of Ruthenium for 10 nm half-pitch interconnects, showing low resistivity and good filling with no electromigration failures. The process uses EBECHRu and O2 as precursors at 325°C, and the resistivity is found to be relatively independent of cross-sectional area, making Ru a promising alternative to Cu for advanced interconnects.",
+  "evidence": "All Ru films were deposited by ALD using (ethylbenzyl) (1-ethyl-1,4-cyclohexadienyl) Ru (0) (EBECHRu) in combination with O2 as the reactant. The deposition temperature was 325°C. The Ru resistivity was almost independent of the cross-sectional area, indicating very low sensitivity of Ru to dimension-dependent additional scattering mechanisms."
+}

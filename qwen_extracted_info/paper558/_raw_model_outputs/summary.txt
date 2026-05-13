@@ -1,0 +1,8 @@
+{
+  "target_material": "AI2O3",
+  "process_type": "Atomic layer epitaxy (ALE)",
+  "main_precursors": ["AICI3", "H2O"],
+  "temperature_range": "500 °C",
+  "summary": "The study investigates the morphology of amorphous AI2O3 thin films grown by atomic layer epitaxy (ALE) using AICI3 and H2O as precursors. The films exhibit smooth surfaces with minimal agglomeration, resulting in low surface roughness. The process is compared to crystalline films, which show significant agglomeration and roughness. The results suggest that the amorphous nature of the films contributes to their smoothness and structural integrity, making them suitable for applications such as diffusion barriers and insulators.",
+  "evidence": "The study describes the growth of AI2O3 films using AICI3 and H2O as precursors at 500 °C. It highlights the smoothness of the amorphous films, with a root-mean-square (RMS) roughness of only 0.7 nm for a 730 nm thick film. The comparison with crystalline films, which show significant agglomeration and roughness, is also mentioned."
+}<|im_end|>

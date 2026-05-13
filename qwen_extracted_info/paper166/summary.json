@@ -1,0 +1,11 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "TMA (trimethylaluminum)",
+    "water"
+  ],
+  "temperature_range": "100 8C",
+  "summary": "The study demonstrates the use of thermal ALD to deposit Al2O3 on woven cotton templates, enabling conformal coating even on complex 3D structures. The process preserves the original template structure, allowing for mass analysis to quantify coating growth. The growth rate was found to be 0.13 nm per cycle in the linear regime, consistent with self-limiting ALD behavior.",
+  "evidence": "Atomic layer deposition (ALD) at 1008C provides a conformal coating on woven cotton with a tortuous and complex surfaces. The woven structures are completely preserved and replicated with thin coating of Al2O3, even after removing the cotton templates. The results demonstrate the possibility of a non-local methodology for evaluating the thickness of a coating on 3D objects at various stages of growth. The growth rate calculated from both mass and BET analyses was 0.13 nm per cycle."
+}

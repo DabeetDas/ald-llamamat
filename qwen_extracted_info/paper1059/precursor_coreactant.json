@@ -1,0 +1,12 @@
+{
+  "precursors": [
+    "TiCl4",
+    "NH3"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "Titanium (IV) tetrachloride from Aldrich (99.9%) and anhydrous ammonia from Matheson Tri-Gas (99.99%) were used as received. The precursors were transferred to evacuable glass flasks. Vapor from the reagents was introduced to the infrared cell using standard vacuum line methods. Precursor vapors were added in an A– B sequence. Approximately 0.4 Torr of TiCl4 was added at 400 °C for 10 s followed by evacuation of the system to 10−5 Torr for the A cycle. The B cycle consisted of two NH3 exposures of approximately 0.5 Torr over a 3-min span at 400 °C followed by evacuation of the system to a pressure of 10−5 Torr."
+}

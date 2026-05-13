@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "Metal Organic Atomic Layer Deposition (MOALD)",
+  "main_precursors": ["TDMAT", "NH3"],
+  "temperature_range": "180 /C176 C",
+  "summary": "This study evaluates the use of titanium nitride (TiN) as a metal gate material for deep sub-micron CMOS technology using Metal Organic Atomic Layer Deposition (MOALD) with TDMAT and NH3 precursors. The deposited TiN films exhibit suitable properties for nMOSFET requirements, with an effective work function of 4.2 eV on silicon oxide and good thermal stability up to 1050 /C176 C. The work function on HfO2 is found to be 4.3 eV, but it shows less stability upon high-temperature annealing.",
+  "evidence": "This study reports for the first time, the evaluation of the work function and thermal stability of TiN gate material for deep sub-micron CMOS, elaborated by using metal organic atomic layer deposition, from TDMAT and NH3 precursors. The TiN films exhibit suitable properties for nMOSFET requirement with an effective work function of 4.2 eV obtained on silicon oxide and a good stability up to 1050 /C176 C. The effective work function measured on high-k dielectric (HfO2) is found to be 4.3 eV and the stability upon high temperature annealing is less favorable."
+}<|im_end|>

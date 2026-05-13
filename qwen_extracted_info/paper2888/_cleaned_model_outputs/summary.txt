@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Tetrakis(dimethylamino)titanium (TDMAT)", "NH3"],
+  "temperature_range": "200 °C",
+  "summary": "The study investigates the thermal stability and electrical characteristics of TiN films deposited by atomic layer deposition (ALD) using a TDMAT precursor for metal-gate applications in MOSFETs. The resistivity of ALD TiN was significantly reduced by NH3 post-deposition annealing (PDA). The ALD-TiN gate showed superior performance compared to PVD TiN, attributed to lower interface trap density (Dit) and better thermal stability. The process involved ALD cycles at 200 °C with TDMAT and NH3 precursors, and the films were annealed at 600 °C in an NH3 ambient.",
+  "evidence": "The text states that the ALD TiN films were deposited using a TDMAT precursor and NH3, with a temperature range of 200 °C. It also mentions that NH3 post-deposition annealing (PDA) significantly reduced the resistivity of ALD TiN. The study compares ALD-TiN with PVD-TiN, highlighting the superior performance of ALD-TiN due to lower Dit and better thermal stability."
+}

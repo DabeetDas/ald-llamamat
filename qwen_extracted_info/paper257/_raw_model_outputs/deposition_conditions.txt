@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "five",
+  "reactor_type": "ALE",
+  "evidence": "To achieve self-organized QD formation we basically tried two methods: (1) growth via continuous MBE at 300C until the transiton from the initially 2D streaky reﬂection high-energy electron diffraction (RHEED) to a 3D spotty pattern occured, and (2) atomic layer epitaxy (ALE) at a reduced temperature of 230C and subsequent annealing which has recently been proposed in Ref.."
+}<|im_end|>

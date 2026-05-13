@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "CH3ðÞ 2Al /C0 CH3 /C0! H/C0 OH CH3ðÞ 2Al /C0 OH þ CH4 /C0! TMA CH3ðÞ 2Al /C0 O /C0 Al CH 3ðÞ 2 (1)",
+    "CH3ðÞ 2Al /C0 CH3 /C0! /C15 OþO2 CH3ðÞ 2Al /C0 O /C15þ /C15 CH3 /C0! TMA CH3ðÞ 2Al /C0 O /C0 Al CH 3ðÞ 2þCH3 /C0 CH3 (2)"
+  ],
+  "surface_mechanism_description": "The reaction mechanism between TMA and H2O involves an exchange reaction between the methyl group in TMA and the –OH group in H2O, producing methane as a by-product. In contrast, the reaction mechanism between TMA and O3 involves a radical reaction, producing ethane instead of methane. The formation of Al–OH is inevitable during Al2O3 film growth with H2O, but not with O3.",
+  "intermediate_species": [
+    "Al–OH",
+    "methane",
+    "ethane"
+  ],
+  "evidence": "As shown in Eq. (1), well-known reaction mechanism between TMA and H2O is the exchange reaction between the methyl group in TMA and the –OH group in H2O[18]. This reaction also produced methane as a by-product. Thus, formation of Al–OH is inevitable during the Al2O3 film growth. On the other hand, the proposed reaction mechanism between TMA and O3 was radical reaction and produced ethane instead of methane. Based on this mechanism, Al–OH did not form during the formation of Al2O3."
+}

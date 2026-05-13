@@ -1,0 +1,8 @@
+{
+  "target_material": "SnS2",
+  "process_type": "ALD",
+  "main_precursors": ["tetrakis(dimethylamino)tin (TDMASn)", "hydrogen sulfide (H2S)"],
+  "temperature_range": "150 /C14 C",
+  "summary": "The study describes the deposition of crystalline SnS2 at low temperatures using atomic layer deposition (ALD) with tetrakis(dimethylamino)tin (TDMASn) and hydrogen sulfide (H2S) as precursors. The films were annealed with sulfur powder to improve crystallinity, and the effects of annealing temperature on crystallinity, grain size, and optical properties were investigated.",
+  "evidence": "SnS2 lms were deposited by ALD at deposition temperatures of 150 /C14 C. The precursors used for SnS2 were tetrakis(dimethylamino)tin (TDMASn) as a Sn4+ source and hydrogen sulde (H2S) as sulfur (S) source. The SnS2 lms were annealed at temperatures of 250, 300 and 350 /C14 C."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["MoCl5"],
+  "coreactants": ["Se"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ALD cycle was comprised of four steps described as follows: Se precursor (800 ms) –N2 purge (5 s) –Mo precursor (800 ms)–N2 purge (5 s)."
+}

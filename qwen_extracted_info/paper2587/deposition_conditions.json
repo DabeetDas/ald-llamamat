@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "167",
+  "pressure": "3.5 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "500",
+  "number_of_cycles": "500",
+  "reactor_type": "F-120",
+  "evidence": "Thin films of MoO3 were deposited in a commercial F120 Sat reactor (ASM Microchemistry Ltd.) using ozone, water, and Mo(CO)6 (molybdenum hexacarbonyl 98%, Aldrich) as precursors. An ozone flow of /C24 500 cm3 min/C0 1 was used during the ozone pulses. During all depositions, a background pressure of /C24 3:5 mbar was obtained by applying an N2 carrier gas flow of 300 cm3 min/C0 1. The films were deposited on substrates of single crystalline Si(111) and on alumina wafers. The depositions were done at 167 /C14 C using a total of 500 cycles, giving films thicknesses of about 40 nm."
+}

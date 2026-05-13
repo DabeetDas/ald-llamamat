@@ -1,0 +1,11 @@
+{
+  "target_material": "LaF3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "La(thd)3",
+    "TiF4"
+  ],
+  "temperature_range": "225–350 °C",
+  "summary": "LaF3 thin films were deposited using atomic layer deposition (ALD) with La(thd)3 and TiF4 as precursors. The films were grown in the temperature range of 225–350 °C, showing high growth rates and polycrystalline structures. The study aimed to explore the ALD process for LaF3, which is a promising material for optical applications due to its high refractive index and transparency in the vacuum ultraviolet range.",
+  "evidence": "LaF3 films are grown at 225–350 -C using La(thd)3 and TiF4 as precursors. The films were polycrystalline, and the refractive indices varied between 1.57 and 1.61. The impurities detected in the LaF3 film are Ti, C, O, and H. The level of all of these tends to decrease with increase in the deposition temperature, and is only 3.5 at.-% at 350 -C."
+}

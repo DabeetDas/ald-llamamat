@@ -1,0 +1,8 @@
+{
+  "target_material": "La2O3",
+  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD) and thermal atomic layer deposition (T-ALD)",
+  "main_precursors": ["La(iPrCp)3", "H2O", "O2 plasma"],
+  "temperature_range": "300 °C",
+  "summary": "This study compares the growth characteristics and electrical properties of La2O3 films deposited by thermal ALD (T-ALD) and plasma-enhanced ALD (PE-ALD). The La2O3 films were grown using La(iPrCp)3 as a precursor, with H2O for T-ALD and O2 plasma for PE-ALD. PE-ALD showed higher growth rates, higher dielectric constant, lower leakage current density, and lower interface state density compared to T-ALD. The results suggest that PE-ALD using La(iPrCp)3 is a viable option for future microelectronic applications.",
+  "evidence": "We comparatively investigated thermal and plasma-enhanced atomic layer deposition (T-ALD and PE-ALD, respectively) of lanthanium oxide (La2O3) films using tris(isopropyl-cyclopentadienyl)lanthanum [La(iPrCp)3] as a La precursor. H2O and O2 plasma were used as reactants for T-ALD and PE-ALD La2O3, respectively. PE-ALD La2O3 showed higher growth rate and dielectric constant value than those of T-ALD La2O3. In addition, lower leakage current density and interface state density were observed for PE-ALD La2O3, compared to those of the T-ALD La2O3. These experimental results indicate that the PE-ALD La2O3 process using La(iPrCp)3 precursor can be one of the viable options applicable into future microelectronic industry."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "tetrakis(diethylamino)hafnium",
+    "water"
+  ],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the effectiveness of SiN and SiON barrier layers in controlling interfacial reactions between Atomic Layer Deposited (ALD) HfO2 and Si substrates during post-deposition annealing. It examines the formation of silicate and silicide at the interface and evaluates the performance of different barrier layers in preventing these reactions.",
+  "evidence": "HfO2 film was found to form silicate and silicide at the interface with Si after 5 min post deposition annealing in Ar at 800 and 1000 °C. A 1.5 nm-thick Chemical Vapor Deposited (CVD) SiN was found to effectively prevent interfacial reaction during annealing at temperatures up to 1000 °C."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "ALD",
+  "main_precursors": ["TTIP", "H2O"],
+  "temperature_range": "200 to 300°C",
+  "summary": "TiO2 thin films were grown by atomic layer deposition (ALD) on Ru and Si substrates using TTIP and H2O as precursors. The study focused on the growth characteristics, structural changes, and electrical properties of the films for DRAM capacitor applications. The films showed a dielectric constant of 35 and a leakage current density of 5×10−6 A/cm2 at 1 V.",
+  "evidence": "TiO2 thin films were grown by an atomic-layer-deposition process at growth temperatures ranging from 200 to 300°C on Ru and Si substrates using Ti /H20851OCH/H20849CH3/H208502/H208524 and H2O as metal precursor and oxygen source, respectively, for metal-insulator-metal capacitor application in dynamic random access memories. The TiO2 films grown at temperatures /H11022250°C showed a dielectric constant of /H1101135. A 14-nm-thick TiO2 film showed an equivalent oxide thickness of 1.7 nm and a leakage current density of 5 /H1100310−6 A/cm2 at 1 V."
+}<|im_end|>

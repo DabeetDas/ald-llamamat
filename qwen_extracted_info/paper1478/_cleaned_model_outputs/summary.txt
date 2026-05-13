@@ -1,0 +1,8 @@
+{
+  "target_material": "Li2O/C0 Al2O3",
+  "process_type": "ALD",
+  "main_precursors": ["LiOtBu", "H2O", "TMA", "O3"],
+  "temperature_range": "225 /C176C",
+  "summary": "The study demonstrates the atomic layer deposition (ALD) of Li2O/C0 Al2O3 thin films as a barrier layer for lithium lanthanum titanate (LLT) in all-solid-state batteries. The ALD process combines lithium oxide/hydroxide and aluminum oxide deposition using precursors LiOtBu, H2O, TMA, and O3. The films are grown at 225 /C176C and are amorphous. The growth is self-limiting, and the films show a lithium to aluminum atomic ratio of approximately 2.6:1. The study also investigates the effect of water absorption and purge times on film growth and composition.",
+  "evidence": "The deposition of Li2O/C0 Al2O3 thin films by ALD has been accomplished by combining ALD processes for lithium oxide/hydroxide and aluminum oxide. The growth mechanisms of Li2O/C0 Al2O3 films were studied by quartz crystal microbalance (QCM). The QCM data indicates that some absorbed water is left inside the films and that the absorbed water reacts with the metal precursor during subsequent pulses. The amount of absorbed water is reduced when the purge time after the water pulse is increased. Even if there is a contribution of absorbed water to the film growth, the growth saturates to about 2.8 Å/cycle and the film thickness increases linearly with increasing number of deposition cycles."
+}

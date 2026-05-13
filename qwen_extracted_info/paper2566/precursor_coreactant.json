@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "ZrCp/NMe23",
+    "ZrCpMe/NMe23",
+    "ZrCpEt/NMe23"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "ZrO2 thin films were deposited in a commercial hot-wall horizontal flow-type ALD reactor F-120 (Ref. 23) at 300 °C on Si substrates covered with 10 nm thick TiN layer and on either moderately or highly doped p-Si(100) substrates (14) and 3 – 5 cm, respectively, covered with chemically grown 1.5 nm thick SiO2. Ozone was used as oxygen precursor (concentration of 130–140 g/m3). The ALD cycle times used for the deposition into deep trench and planar substrates were 30-40-30-40 and 1-2-2-2 s, respectively, for the sequence metal precursor pulse—purge—ozone pulse—purge."
+}

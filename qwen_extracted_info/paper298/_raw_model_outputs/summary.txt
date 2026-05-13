@@ -1,0 +1,8 @@
+{
+  "target_material": "ZrO2 and HfO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["ZrCl4", "HfCl4", "H2O"],
+  "temperature_range": "500–600°C",
+  "summary": "The study investigates the phase transformation in ZrO2 and HfO2 thin films grown by atomic layer deposition (ALD) on silicon substrates. The films were grown using ZrCl4 and HfCl4 as metal precursors and H2O as the oxygen precursor. The process was carried out at temperatures of 500°C for ZrO2 and 600°C for HfO2. The study focuses on the formation of metastable phases, particularly the tetragonal phase of ZrO2, and how the phase composition changes with film thickness. Raman spectroscopy and X-ray diffraction (XRD) were used to analyze the structural properties of the films.",
+  "evidence": "Raman spectroscopy and X-ray diffraction (XRD) methods were applied to characterize ZrO2 and HfO2 films grown by atomic layer deposition (ALD) on silicon substrates in chloride-based processes. The growth process consisted of periodically repeated deposition cycles using ZrCl4 and HfCl4 as metal precursors and H2O as the oxygen precursor. The growth temperature was 500 and 600°C for ZrO2 and HfO2 films, respectively."
+}<|im_end|>

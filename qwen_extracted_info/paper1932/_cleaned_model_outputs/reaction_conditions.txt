@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during plasma-assisted ALD of Li2CO3 involve the exposure of the substrate to the lithium precursor (LiOtBu) and O2 plasma, followed by purge steps. The reaction steps include the formation of LiOH and Li2O, which can react with CO2 to form Li2CO3. The process is self-limiting, with the growth per cycle depending on the temperature and plasma exposure time.",
+  "intermediate_species": ["LiOH", "Li2O", "Li2CO3"],
+  "evidence": "The text discusses the formation of LiOH and Li2O during the ALD process, which can react with CO2 to form Li2CO3. It also mentions the self-limiting nature of the reactions and the effect of temperature and plasma exposure on the stoichiometry of the films."
+}

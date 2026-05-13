@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the chemisorption of Fe(thd)3 on terminating surface oxygen, followed by the liberation of thd groups. The presence of a magnetic field may influence the activation of surface iron to accept these liberated thd groups, and the presence of parasitic ferromagnetism may also affect the growth process.",
+  "intermediate_species": [
+    "Fe(thd)2",
+    "Fe(thd)"
+  ],
+  "evidence": "The observations show that growth on the a-Al2O3(0 0 1) substrate is not affected by the presence of a magnetic field, whereas both a change in texture and a reduction of the growth rate by a factor of 3/2 are observed for films grown on soda–lime–glass substrates. For the growth rate to be reduced by a factor of 3/2, some additional mechanism for surface blocking of active sites must be in operation. This could come about if the thd fragment which is normally lost to the exhaust gas in the introductory reaction stage when the Fe(thd)3 precursor adsorbs on a terminating surface oxygen, now is caught by a nearby surface iron site (say a jammed-in surface iron which rules an area large enough to host one thd group, see Fig. 6). The thus produced Fe(thd) fragment would cover about half the area of a Fe(thd)2 fragment, provided it is prevented from rotation (see above). Accordingly the growth rate will be reduced by the observed factor of 3/2. In order for such films to grow randomly oriented, the surface density of the two iron precursor fragments must take similar low values on several surfaces."
+}

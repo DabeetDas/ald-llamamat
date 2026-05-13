@@ -1,0 +1,13 @@
+{
+  "target_material": "SrO",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Sr(PrMe4Cp)2",
+    "oxygen",
+    "ozone",
+    "water"
+  ],
+  "temperature_range": "source temperature of 200 °C and substrate temperatures between 250 and 350 °C",
+  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of SrO using various precursors, with a particular emphasis on the effectiveness of Sr(PrMe4Cp)2 and the impact of different oxygen sources. The research highlights the importance of precursor selection based on bond energies and the resulting carbon contamination in the films. The results indicate that SrO films can be successfully deposited with Sr(PrMe4Cp)2 at specific temperature ranges, with growth rates varying depending on the oxygen source used.",
+  "evidence": "Atomic layer deposition of SrO was tested with Sr(tmhd)2 and Sr(PrMe4Cp)2 and oxygen, ozone, and water as oxygen sources. No deposition was measured with tmhd precursors, and SrO films were deposited with PrMe4Cp with a source temperature of 200 °C and at substrate temperatures between 250 and 350 °C with growth rates increasing for oxygen sources in this order: O2 < H2O < O2 + H2O."
+}

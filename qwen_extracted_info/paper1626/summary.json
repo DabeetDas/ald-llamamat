@@ -1,0 +1,11 @@
+{
+  "target_material": "Nickel and Nickel Carbide",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Nickel acetylacetonate",
+    "Alcohols (methanol, ethanol, propanol)"
+  ],
+  "temperature_range": "250-300 °C",
+  "summary": "The study reports the ALD of nickel and nickel carbide using nickel acetylacetonate and alcohols as reducing agents. The process involves self-limited reactions with alcohols, leading to the formation of carbon-Ni3C thin films with ethanol and propanol, while methanol yields pure metallic nickel. The films exhibit nanocrystalline structures with an average crystallite size of ~10 nm and are conformal, with high electrical conductivity and soft magnetic behavior.",
+  "evidence": "ABSTRACT: Atomic layer deposition (ALD) of nickel and nickel carbide is reported starting from nickel acetylacetonate and a primary alcohol. The sequential reactions of both reactants with the adsorbed species are shown to be self-limited. Use of propanol or ethanol as reducing agents yields the formation of the technologically relevant carbon-Ni3C thin films, whereas the carbon content with use of methanol is less than 5 atom %. These metallic nickel thin films are electrically conductive and feature a soft ferromagnetic behavior. The thermally stable cubic lattice of nickel was grown at 300 °C with methanol as a reducing agent while the metastable hexagonal structure was obtained at lower temperatures."
+}

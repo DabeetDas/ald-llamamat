@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the sequential pulsing of Si2Cl6 and N2H4 precursors at 285 °C. The Si2Cl6 precursor reacts with surface hydroxyl groups, forming Si-O-Si bonds and releasing HCl. The N2H4 precursor then reacts with the surface, forming Si-N bonds and releasing NH3. The process is repeated to build up the SiNx layer.",
+  "intermediate_species": [
+    "Si-O-Si",
+    "Si-N"
+  ],
+  "evidence": "The text describes the ALD process as involving sequential pulsing of Si2Cl6 and N2H4 precursors at 285 °C. It mentions that the Si2Cl6 reacts with surface hydroxyl groups, forming Si-O-Si bonds and releasing HCl, while the N2H4 reacts with the surface to form Si-N bonds and release NH3."
+}

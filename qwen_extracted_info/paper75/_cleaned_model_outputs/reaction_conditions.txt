@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "Cu(dmap)2 + Et2Zn -> Cu + 2 dmap- + 2 ZnR"
+  ],
+  "surface_mechanism_description": "Ligand exchange between [Cu(dmap)2] and diethylzinc (Et2Zn) taking place at the surface, followed by the formation of Cu species and the desorption of by-products ([Zn(dmap)2] and butane) without decomposition.",
+  "intermediate_species": [
+    "[Cu(dmap)2]",
+    "[Zn(dmap)2]",
+    "butane"
+  ],
+  "evidence": "Scheme 1 shows the key step of the process, which is a ligand-exchange reaction of [Cu(dmap)2] with diethylzinc (Et2Zn) taking place either at the internal surface of periodic mesoporous silica supports (MCM-41/48) or in colloidal solution. The stoichiometric by-product [Zn(dmap)2] itself serves as a precursor for nanoscale ZnO species, which are subsequently formed during annealing at temperatures above 200 8C."
+}

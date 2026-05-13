@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of iridium oxide (IrO2) and iridium (Ir) through atomic layer deposition (ALD) using Ir(acac)3 and ozone or oxygen. The Ir(acac)3 is reacted with ozone or oxygen to form IrO2 or metallic Ir, respectively. The process includes a reduction step with hydrogen to convert IrO2 to metallic Ir. The ALD process uses pulse and purge cycles with specific precursor and purge times.",
+  "intermediate_species": ["IrO2", "metallic Ir", "PtOx"],
+  "evidence": "The text describes the ALD process for depositing IrO2 and Ir using Ir(acac)3 and ozone or oxygen. It mentions the reduction of IrO2 to metallic Ir with hydrogen and the deposition of PtOx on PVP fibers. The process involves pulse and purge cycles with specific precursor and purge times."
+}

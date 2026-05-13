@@ -1,0 +1,7 @@
+{
+  "precursors": ["Diethylzinc (DEZ)"],
+  "coreactants": ["H2S"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Standard parameters were used for the ALD of ZnS. Diethylzinc (DEZ) was used as the zinc source, and H2S resulting from the decomposition of thioacetamide (TAA) was used as the sulfur source. ... To aid in precursor delivery and purging, a constant argon gas flow of 20 standard cubic centimeters per minute was used, bringing the deposition pressure to 3 × 10−1 Torr."
+}

@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 3.6,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "hexagonal",
+  "evidence": "Based on Bragg’s equation (1), we can simply calculate the d-spacing value for the (001) plane. 2d × sinθ = λ (1) Here, d is the inter-layer spacing value, θ is the Bragg angle, and λ is the wavelength of the X-ray. The calculated d-spacing value was 0.59 nm, which is in good agreement with JCPDS no. 23-0677. Furthermore, XRD peaks related to tin monosulfide (SnS) and tin sesquisulfide (Sn2S3), which are other representative tin sulfide compounds, are not observed (JCPDS no. 14-0617 and 39-0354). This indicates that our samples have pure hexagonal SnS2 without SnS and Sn2S3 sub-phases."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Copper",
+  "process_type": "Thermal ALD",
+  "main_precursors": [
+    "Cu(dmap)2",
+    "Tertiary Butyl Hydrazine"
+  ],
+  "temperature_range": "80–140 °C",
+  "summary": "This study describes a low-temperature atomic layer deposition (ALD) process for depositing high-purity, low-resistivity copper thin films using Cu(dmap)2 and tertiary butyl hydrazine (TBH) as precursors. The process was studied at temperatures between 80–140 °C on native oxide-terminated silicon substrates. The use of TBH as a reducing agent significantly improved the purity and resistivity of the Cu films compared to previous methods. A 54 nm film deposited at 120 °C exhibited a low resistivity of 1.9 μΩcm and high purity (99.4 at.%) with minimal hydrogen and oxygen impurities. The process demonstrated self-limiting growth and uniform film deposition on various substrates, including Si, glass, Al2O3, TiN, and Ru.",
+  "evidence": "ABSTRACT: Herein, we describe a process for the low -temperature atomic layer deposition of copper using Cu(dmap) 2 (dmap = dimethylamino-2-propoxide). The use of tertiary butyl hydrazine (TBH) as the reducing agent was found to have a significant improvement on the purity and the resistivity of the Cu films compared to previous processes. Our process was studied at low temperatures of 80–140 °C on native oxide terminated Si. At 120 °C, self-limiting Cu deposition was demonstrated with respect to both Cu(dmap)2 and TBH pulse lengths. A 54 nm film deposited at the low temperature of 120 °C exhibited a low resistivity of 1.9 μΩcm. Composition analysis on this film showed remarkably high purity of approximately 99.4 at.%, with the rest being hydrogen and oxygen. The films could be deposited also on hydrogen terminated Si, glass, Al2O3, TiN, and Ru extending the suitability of the process to a wide range of applications."
+}

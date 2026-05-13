@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 175,
+  "pressure": "50 mTorr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 40,
+  "number_of_cycles": null,
+  "reactor_type": "vibrating FBR",
+  "evidence": "The reaction temperature was 175 °C. The minimum pressure inside the reactor was ∼50 mTorr. A typical coating cycle (10 g of 18 nm titania particles) consisted of the following sequence: TMA dose (10 min), N2 fluch (40 min); TPS dose (30 min), N2 fluch (300 min)."
+}<|im_end|>

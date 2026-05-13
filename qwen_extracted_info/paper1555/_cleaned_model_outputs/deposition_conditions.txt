@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 80,
+  "pressure": "50 mTorr",
+  "precursor_pulse_time_s": 30,
+  "coreactant_pulse_time_s": 30,
+  "purge_time_s": 30,
+  "number_of_cycles": 20,
+  "reactor_type": "ALD reactor with bubblers for SiCl4, pyridine, and H2O",
+  "evidence": "The system was pumped down to a pressure of 50 mTorr with a continuous flow of 5 sccm of dry N2 through the run and vent lines. Each reactant was fed to the reactor with a 5 sccm flow through the bubbler. Each reactant was pulled through the membrane via vacuum for 30 s."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Diethyl zinc [Zn(C2H5)2 or DEZn]", "tin(IV) t-butoxide [Sn(C4H9O)4 or Sn(OtBu)4]"],
+  "coreactants": ["deionized water"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The Zn /C0 Sn/C0 O buffer layers are grown in a Microchemistry F-120 ALD-reactor using nitrogen as carrier gas. Diethyl zinc [Zn(C2H5)2 or DEZn] and tin(IV) t-butoxide [Sn(C4H9O)4 or Sn(OtBu)4] are used as metal sources, whereas deionized water is used as oxygen source. A flow of 15 sccm (cm3 min−1) of N2 is used to transport the sublimated Sn(OtBu)4 into the reactor for film growth."
+}<|im_end|>

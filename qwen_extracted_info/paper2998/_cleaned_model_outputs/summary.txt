@@ -1,0 +1,8 @@
+{
+  "target_material": "Germanium (Ge)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["GeEt2H2 (Et = C2H5)"],
+  "temperature_range": "100~176°C for monolayer formation, 400°C for Et group desorption",
+  "summary": "The paper describes a layer-by-layer Germanium epitaxial growth technique using GeEt2H2 gas surface reactions. The process involves alternating gas introduction, evacuation, and temperature changes to control monolayer deposition. The study demonstrates the feasibility of atomic layer epitaxy for Ge on a Ge (100) substrate.",
+  "evidence": "A layer-by-layer controlled Ge deposition was carried out using the following process sequence. One cycle of the sequence consists of four processes; namely, gas introduction, gas evacuation, substrate heating and cooling. The GeEt2H2 gas was introduced on the Ge surface at 220°C at a pressure of 1 × 10^-3-1 × 10^-1 torr. Then, after prompt evacuation to 10^-7 torr, the substrate temperature was increased to 510°C. The same results were obtained for the samples prepared at the gas introduction temperature range of 100~176°C. These facts suggest that a GeEt2 monolayer is formed on the Ge surface through the GeEt2H2 gas surface reaction in a temperature range of 100~176°C and the Et groups on the top surface can be desorbed at temperatures above 400°C."
+}

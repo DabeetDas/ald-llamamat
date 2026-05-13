@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "diethyl zinc (DEZ)",
+    "de-ionized water"
+  ],
+  "temperature_range": "100 ◦C, 120 ◦C, 140 ◦C, 160 ◦C",
+  "summary": "The study investigates the effects of interface carrier concentration on ZnO thin film transistors (TFTs) fabricated by atomic layer deposition (ALD). ZnO films were deposited at different process temperatures, and the resulting electrical properties were analyzed. The carrier concentration increased with temperature, leading to a decrease in resistivity. The study also explores the impact of different channel layer configurations on device performance, including the use of a double channel layer to control the turn-on voltage and threshold voltage.",
+  "evidence": "Thin films of ZnO were deposited by atomic layer deposition (ALD) at different process temperatures and the resulting chemical and electrical characteristics were investigated. As the process temperature increased, the ZnO film exhibited an increase in carrier concentration from 1.3 × 10^15 to 2.1 × 10^19 cm−3, and a decrease in resistivity from 6.7 × 10^3 to 8.2 × 10^−3 /Omega1cm. We utilized this temperature dependence of the electrical properties and fabricated thin film transistors (TFTs) at different temperatures with both single and double channel layers."
+}

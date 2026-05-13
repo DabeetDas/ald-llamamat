@@ -1,0 +1,11 @@
+{
+  "target_material": "cobalt oxide",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "cyclopentadienylcobalt dicarbonyl (CpCo(CO)2)",
+    "ozone (O3)"
+  ],
+  "temperature_range": "50–150 °C",
+  "summary": "The study reports the atomic layer deposition (ALD) of cobalt oxide thin films using cyclopentadienylcobalt dicarbonyl and ozone at low temperatures. The ALD process showed excellent step coverage, with growth rates of 0.08–0.11 nm/cycle. However, at higher temperatures (above 150 °C), thermal decomposition of the cobalt precursor led to a sharp increase in growth rate and cobalt-rich film formation. The study also investigated the reaction mechanisms and surface interactions using in situ quartz crystal microbalance (QCM) and other analytical techniques.",
+  "evidence": "The authors report the atomic layer deposition (ALD) of cobalt oxide thin films at 50–150 °C using alternating exposures to cyclopentadienylcobalt dicarbonyl [CpCo(CO)2] and ozone. The growth rates were 0.08–0.11 nm/cycle and the ALD cobalt oxide films showed excellent step coverage. With increasing substrate temperature to 200 °C, however, the growth rate sharply increased and cobalt-rich film was deposited owing to thermal decomposition of the cobalt precursor."
+}

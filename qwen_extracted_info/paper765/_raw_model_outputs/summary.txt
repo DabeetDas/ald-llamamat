@@ -1,0 +1,8 @@
+{
+  "target_material": "p-type copper oxide (CuOx)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Hexafluoroacetyl-acetonateCu(I)(3,3-Dimethyl-1-butene) ((hfac)Cu(I)(DMB))", "Ozone (O3)"],
+  "temperature_range": "100 ºC",
+  "summary": "p-type copper oxide (CuOx) thin films were grown using atomic layer deposition (ALD) with hexafluoroacetyl-acetonateCu(I)(3,3-Dimethyl-1-butene) ((hfac)Cu(I)(DMB)) as the copper precursor and ozone (O3) as the oxidant at a relatively low temperature of 100 ºC. The films were post-annealed at temperatures between 200 and 500 °C, resulting in different p-type band structures and improved electrical properties. The best performance was achieved at 300 °C, with a field effect mobility of 5.64 cm2/V·s.",
+  "evidence": "Copper oxide (CuOx) films were grown at a relatively low temperature (100 ºC) by atomic layer deposition (ALD). Hexafluoroacetyl-acetyl-acetonateCu(I)(3,3-Dimethyl-1-butene) ((hfac)Cu(I)(DMB)) and ozone (O3) were used as the copper precursor and oxidant, respectively. After annealing at various temperatures (200 ~ 500 °C), different p-type band structures and electron binding information are obtained. Thin film transistors (TFTs) incorporating the ALD-grown CuOx semiconductors are evaluated, and an unusually high p-type device performance is observed, with a field effect mobility of 5.6 cm2/V∙s after annealing at 300 ºC."
+}<|im_end|>

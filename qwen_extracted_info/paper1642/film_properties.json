@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 14,
+  "density_g_cm3": null,
+  "refractive_index": null,
+  "surface_roughness_nm": null,
+  "crystal_phase": "Amorphous",
+  "evidence": "A single ALD cycle of Al2O3 decreases the dark-current density by more than 1 order of magnitude at a given potential. It is important to note that, since ALD is a self-limiting film-fabrication method, one cycle will produce only a single monolayer (or less) of Al2O3. Measurements of thicker layers of Al2O3 as a function of number of ALD cycles yield 1.1 Å/cycle under the conditions used, in good accordance with literature reports."
+}

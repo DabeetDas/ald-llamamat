@@ -1,0 +1,11 @@
+{
+  "target_material": "CrN coated stainless steel",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "titanium tetraisopropoxide (TTIP)",
+    "water"
+  ],
+  "temperature_range": "200 °C",
+  "summary": "A conformal titanium dioxide (TiO2) layer was deposited onto chromium nitride (CrN) coated stainless steel using atomic layer deposition (ALD) to improve corrosion resistance. The TiO2 layer blocked through-thickness cracks or pinholes in the CrN layer, resulting in a significant decrease in corrosion current density and a positive shift in the equilibrium corrosion potential.",
+  "evidence": "A conformal titanium dioxide (TiO 2) layer was deposited onto chromium nitride (CrN) coated stainless steel by atomic layer deposition technique, and the electrochemical corrosion test on the CrN single-layer and TiO 2/CrN double-layer coated sample was carried out. The equilibrium corrosion potential of the double-layer coated sample shifted positively compare to that of the single-layer coated one. Moreover, the corrosion current density decreased significantly with the TiO 2 deposition, revealing that better corrosion resistance was obtained after the deposition of the TiO 2 layer. The improvement in corrosion resistance after the TiO 2 deposition was attributed to the blocking of the through-thickness cracks or pinholes in the CrN layer."
+}

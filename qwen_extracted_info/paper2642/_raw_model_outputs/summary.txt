@@ -1,0 +1,8 @@
+{
+  "target_material": "V2O5",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["trimethylaluminum (TMA)", "phosphorus precursor (HMPT)", "ozone (O3)"],
+  "temperature_range": "120 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to dope vanadia (V2O5) with phosphorus to enhance its catalytic properties for the selective oxidation of n-butane to maleic anhydride. The phosphorus was deposited using trimethylaluminum (TMA), phosphorus precursor (HMPT), and ozone (O3) as precursors. The process was carried out at 120 °C. The results showed that phosphorus doping improved the selectivity to maleic anhydride by suppressing total oxidation reactions.",
+  "evidence": "The oxidation state of vanadium in vanadyl pyrophosphate is 4+. In literature, it was shown that the surface of vanadyl pyrophosphate contains V5+ and is enriched in phosphorus under reaction conditions. On account of this, V2O5 with the oxidation state of 5+ for vanadium partially covered with phosphorus can be regarded as a suitable model catalyst. The catalytic performance of the model catalyst prepared via atomic layer deposition was measured and compared to the performance of catalysts prepared via incipient wetness impregnation and the original V2O5 substrate. It could be clearly shown that the dedicated deposition of phosphorus by atomic layer deposition enhances the catalytic performance of V2O5 by suppression of total oxidation reactions, thereby increasing the selectivity to maleic anhydride."
+}<|im_end|>

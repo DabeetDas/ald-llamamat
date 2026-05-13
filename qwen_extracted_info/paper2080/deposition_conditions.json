@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 85,
+  "pressure": "10 Torr",
+  "precursor_pulse_time_s": 2.0,
+  "coreactant_pulse_time_s": 4.0,
+  "purge_time_s": 30,
+  "number_of_cycles": 300,
+  "reactor_type": "continuous ﬂow ALD reactor",
+  "evidence": "ZnO was formed by inﬁltrating diethyl zinc (Zn(CH2CH3)2) and water as precursors into the opal templates using a continuous ﬂow ALD reactor described elsewhere.19 To avoid deformation or melting of the PS structures, the growth temperature was kept at 85 °C, below the glass transition temperature of PS. The chamber pressure during growth was kept at 10 Torr and a relatively slow ﬂow of N2 carrier gas was maintained through the chamber. One ALD reaction cycle consisted of a 2.0 s exposure to DEtZn, followed by a 30 s N2 purge, a 4.0 s exposure to H2O, and another N2 purge."
+}

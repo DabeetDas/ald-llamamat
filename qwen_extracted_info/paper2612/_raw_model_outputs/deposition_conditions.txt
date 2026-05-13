@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "90-270",
+  "pressure": "1 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 120,
+  "number_of_cycles": 500,
+  "reactor_type": "Picosun SUNALE R-150B shower head",
+  "evidence": "Bi(OCMe2 iPr)3 and H2O in a Picosun SUNALE R-150B shower head reactor. The Bi(OCMe2 iPr)3 metal precursor was synthesized according to the literature procedure of Hatanp€a€a et al. 29 Bi(OCMe2 iPr)3 was delivered to the reaction chamber using a Picosolid Booster delivery system. The N 2 flow rate was set to 150 sccm in all source lines and the pressure in the deposition chamber was approximately 1 Torr. Deposition temperatures between 90 and 270 /C14 C, Bi(OCMe2 iPr)3 precursor temperatures between 85 and 110 /C14 C, and Bi(OCMe2 iPr)3 pulse times between 0 and 2 s were investigated. 120 s N 2 purges were used to produce low film nonuniformity. For most depositions, 500 ALD cycles were used to target a thickness of approximately 18 nm."
+}<|im_end|>

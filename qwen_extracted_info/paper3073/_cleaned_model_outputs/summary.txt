@@ -1,0 +1,8 @@
+{
+  "target_material": "HfxZr1−xO2",
+  "process_type": "ALD",
+  "main_precursors": ["TEMAHf", "TEMAZr", "ozone"],
+  "temperature_range": "330°C (deposition), 1000°C (annealing)",
+  "summary": "The study investigates the physical and electrical properties of HfxZr1−xO2 films deposited using atomic layer deposition (ALD) with TEMAHf, TEMAZr, and ozone. The films are annealed at 1000°C, and their properties are analyzed for varying Zr content. The results show that HfxZr1−xO2 films have improved thermal stability, lower threshold voltage, and higher mobility compared to HfO2, making them promising candidates for replacing SiO2 in future CMOS technologies.",
+  "evidence": "In this work, physical and electrical characteristics of atomic-layer-deposited Hf xZr1−xO2 formed using tetrakis-ethylmethylaminohafnium /H20849TEMAHf/H20850, tetrakis-ethylmethylaminozirconium /H20849TEMAZr/H20850, and ozone are reported. ... HfxZr1−xO2 devices have /H1101150 mV lower threshold voltage than HfO 2 devices. High field mobilities of Hf xZr1−xO2 devices with 50 and 60% Zr content are higher than HfO 2 or ZrO2. All these results indicate Hf xZr1−xO2 is a promising dielectric for SiO2 replacement."
+}

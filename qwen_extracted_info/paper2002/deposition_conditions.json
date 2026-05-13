@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-250",
+  "pressure": "5 310 211 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "UHV chamber",
+  "evidence": "The experiments were performed in a UHV chamber (~base pressure of 5 310 211 mbar! with capabilities for Auger (AES) and x-ray photoelectron spectroscopy (XPS), low energy ion scattering (LEIS) and low energy electron diffraction (LEED)."
+}

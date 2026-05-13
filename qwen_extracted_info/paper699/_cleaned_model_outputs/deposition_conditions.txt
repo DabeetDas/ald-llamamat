@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 180,
+ "pressure": "1 mbar",
+ "precursor_pulse_time_s": 3,
+ "coreactant_pulse_time_s": 2,
+ "purge_time_s": null,
+ "number_of_cycles": 500,
+ "reactor_type": "shower head reactor",
+ "evidence": "The substrate temperature was 180 8C at a process pressure of 1 mbar. TDMAT starts to decompose above 180 8C leading to nonuniform film growth. The precursor pulse time was varied between 0.5 and 3 s while the ozone feeding time was 2 s for all experiments."
+}

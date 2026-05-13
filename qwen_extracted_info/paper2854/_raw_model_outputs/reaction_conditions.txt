@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [
+    "2In(III) + 3Se◦ + 6e− ⇔ In2Se3"
+  ],
+  "surface_mechanism_description": "The reaction involves the interaction of In(III) with surface Se◦ species, leading to the formation of a thin passive layer of indium selenide, which improves surface passivation.",
+  "intermediate_species": [
+    "Se◦"
+  ],
+  "evidence": "The reaction is thermodynamically possible for an applied potential more cathodic than −0.97 V/SME in the experimental conditions. Such a mechanism explains the improved surface passivation by removal of Se◦ and formation of a thin passive layer of indium selenide."
+}<|im_end|>

@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "AI(CH3)3",
+    "AICI3"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The AIN films were deposited in a commercial flow type F-120 ALE reactor using nitrogen (99.999%) as a carrier and purging gas. AI(CH3)3 (Witec) and NH3 (99.999%, Messer Griesheim) were led from their external reservoirs into the reactor through needle and solenoid valves. The substrates used in the AICI3-NH3 process were ordinary soda lime glass whereas Coming 7059 barium aluminium-boron silicate glass was used in the AI(CH3)3-NH3 process."
+}

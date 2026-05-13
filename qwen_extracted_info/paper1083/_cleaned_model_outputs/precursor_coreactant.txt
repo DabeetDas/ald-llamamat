@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ir(acac)3 (acac = 2,4-pentanedione)", "Ti(OMe)4"],
+  "coreactants": ["O2 (99.999%)", "H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Iridium was grown at 225 °C from Ir(acac)3 (acac = 2,4-pentanedione) and O2 (99.999%) and TiO2 at 250 °C from Ti(OMe)4 and H2O. Films were grown in a F120 reactor (ASM Microchemistry Ltd., Finland) and nitrogen was used as a carrier and purging gas."
+}

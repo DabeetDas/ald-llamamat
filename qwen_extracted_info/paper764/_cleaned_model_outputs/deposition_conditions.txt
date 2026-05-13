@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 275,
+  "pressure": "",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "homemade ALD system",
+  "evidence": "A typical ALD growth sequence for the In2O3 layers is composed of exposure to DADI for 1 s, N2 purging for 10 s, and exposure to H2O for 1 s."
+}

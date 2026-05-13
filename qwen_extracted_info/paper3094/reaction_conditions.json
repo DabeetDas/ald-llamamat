@@ -1,0 +1,19 @@
+{
+  "reaction_equations": [
+    "2NH/H20849s/H20850 + Ti/H20851N/H20849CH3/H208502/H208524/H20849g/H20850 → N2Ti/H20851N/H20849CH3/H208502/H208522/H20849s/H20850 + 2HN/H20849CH3/H208502/H20849g/H20850",
+    "N2Ti/H20851N/H20849CH3/H208502/H208522/H20849s/H20850 + H2 plasma → TiN/H20849C/H20850/H20849s/H20850 + HN/H20849CH3/H208502/H20849g/H20850",
+    "N2Ti/H20851N/H20849CH3/H208502/H208522/H20849s/H20850 + H2 plasma → TiN/H20849C/H20850/H20849s/H20850 + CH4/H20849g/H20850",
+    "N2Ti/H20851N/H20849CH3/H208502/H208522/H20849s/H20850 + H2 plasma → TiCN/H20849s/H20850 + CH3NH2/H20849g/H20850"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves two main steps: chemisorption by transamination exchange and hydrogen reduction. In the first step, the TDMA T molecule chemisorbs at the surface through exchange of amine radicals with surface species, forming a chemical bond with the surface and producing dimethylamine. In the second step, the surface chemisorbed dimethylamino species reacts with hydrogen radicals, leading to the formation of Ti–H, Ti–N, and Ti–C bonds through two amine elimination reactions and a transposition reaction. These reactions remove carbon from the film or fix it within Ti–C bonds, contributing to the low resistivity of the resulting TiN film.",
+  "intermediate_species": [
+    "dimethylamine (HN/H20849CH3/H208502)",
+    "surface chemisorbed dimethylamino species (N2Ti/H20851N/H20849CH3/H208502/H208522/H20849s/H20850)",
+    "Ti–H bonds",
+    "Ti–N bonds",
+    "Ti–C bonds",
+    "methane (CH4)",
+    "methylamine (CH3NH2)"
+  ],
+  "evidence": "The surface reaction mechanism is described in the text as follows: 'The mechanism suggested explaining the surface reaction with TDMA T organometallic precursor includes two steps and four reactions. In a first step, the TDMA T molecule is chemisorbed at the surface of the film by exchange of amine radicals with the surface species. A transamination reaction occurs between the TDMA T molecule in gas phase and the −NH /H20849s/H20850 surface sites. In a second step, the reactor is purged from all gaseous TDMA T left in the chamber and the hydrogen plasma is turned on to perform the reduction reactions. Using a hydrogen plasma, it is proposed that the surface chemisorbed dimethylamino species reacts with hydrogen radicals, which produces gaseous methane and/or dimethylamine. Two reactions are possible... These Ti–NH 2 bonds provide the necessary −NH /H20849s/H20850 surface sites for the next atomic layer to grow by Reaction 1 in the next PEALD cycle. Reactions 2a and 2b tend to remove C from the film. It is proposed that under action of the hydrogen radicals, a carbon–nitrogen rearrangement, or transposition reaction, takes place. This reaction tends to retain C inside the film, and the mechanism is believed to consist of a methyl radical CH 3• migration to the titanium atom with expulsion of the methylamine radical CH3N• to form a Ti–C bond in a concerted reaction.'"
+}

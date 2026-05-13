@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 200,
+  "pressure": "150 mTorr",
+  "precursor_pulse_time_s": 0.07,
+  "coreactant_pulse_time_s": 100,
+  "purge_time_s": 10,
+  "number_of_cycles": 700,
+  "reactor_type": "Fiji F200-LL remote-plasma ALD reactor with stainless steel hollow-cathode plasma source",
+  "evidence": "During optimization experiments, N2 plasma flow rate and plasma power were kept constant as 50 sccm and 300W, respectively. Initially, TMI pulse length, purge time, and growth temperature were kept constant as 0.07 s, 10 s, and 200 ◦C, respectively. Growth rate remained constant as 0 .64 Å/cycle for purge times within 5 – 20 s range, indicating that the studied range of purge time satisfies the necessary conditions for self-limiting ideal ALD. After optimization of the main growth parameters, a 700-cycle growth of InN was carried out at 200 ◦C on Si(100) and double-side polished quartz for detailed material characterization."
+}<|im_end|>

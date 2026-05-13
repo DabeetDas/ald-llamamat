@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 10,
+  "number_of_cycles": 400,
+  "reactor_type": "FlexAL ALD reactor",
+  "evidence": "The reaction chamber wall temperature was set to 150 °C, while the substrate table temperature was set to 300 °C. Based on the saturation curves for precursor dosage (Figure S2a in supporting information) and plasma exposure (Figure S2b), a WS2 PEALD cycle with the following step sequence was adopted: 10 s precursor dosing, 10 s purge, 3 s pre-plasma time, 30 s plasma exposure, and 15 s purge."
+}

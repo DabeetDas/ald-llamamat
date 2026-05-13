@@ -1,0 +1,8 @@
+{
+  "target_material": "hafnium oxide and hafnium silicate",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": ["tetrakis(ethylmethylamino)hafnium (TEMAHf)", "tetrakis(ethylmethylamino)silicon (TEMASi)"],
+  "temperature_range": "below 400 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of hafnium oxide (HfO2) and hafnium silicate (HfxSi12xO2) thin films using liquid precursors and ozone. The TEMAHf precursor provides superior quality HfO2 films in terms of deposition rate, purity, and electrical properties. The co-injection of Hf/Si precursor vapor mixtures with alternating pulses of ozone allows the growth of homogeneous Hf xSi12xO2 films at temperatures below 400 °C. The process enables precise thickness control and good electrical properties.",
+  "evidence": "Atomic layer deposition (ALD) processes for HfO2 and HfxSi12xO2 high-k dielectric thin films using liquid precursors and ozone were evaluated. Tetrakis(ethylmethylamino)hafnium (TEMAHf) precursor provides HfO2 films with superior quality as compared to Hf(t-butoxide)4 precursor in terms of deposition rate, purity, and electrical properties of the films. ALD processes for hafnium silicate films have been developed by co-injection of TEMAHf and tetrakis(ethylmethylamino)silicon (TEMASi) precursors. Alternating pulses of the Hf/Si precursor vapor mixture and ozone allow process temperatures below 400 °C to grow Hf xSi12xO2 film."
+}<|im_end|>

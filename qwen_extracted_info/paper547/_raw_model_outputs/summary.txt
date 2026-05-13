@@ -1,0 +1,8 @@
+{
+  "target_material": "indium sulphide",
+  "process_type": "ALCVD",
+  "main_precursors": ["indium acetylacetonate", "hydrogen sulphide"],
+  "temperature_range": "160–220 °C",
+  "summary": "The study describes the use of atomic layer chemical vapour deposition (ALCVD) to deposit indium sulphide buffer layers for cadmium-free Cu(In,Ga)Se (CIGS) thin-film solar modules. The process was scaled up to module areas of 30 × 30 cm², achieving an efficiency of 10.8% for large-area modules. The deposition temperature was varied between 160 and 220 °C, and the process was optimized for stability and performance.",
+  "evidence": "The atomic layer chemical vapour deposition (ALCVD) technique allows the deposition of highly homogeneous thin-films with an excellent step coverage. This method has already shown promising results for the deposition of cadmium-free buffer layers in Cu (In,Ga)Se (CIGS) thin-film solar cells (13.5% efficiency with indium sulphide buffer ). In this work, the process has been up-scaled to module areas of up to 30 =30 cm . The indium sulphide buffer layer was deposited at substrate temperatures between 160 and 220 8C using indium acetylacetonate and hydrogen sulphide precursors. An efficiency of h s 10.8% (opencircuit voltage, V s 592 mV; fill factor, FF s 62%; current density, j s 29.5 mA ycm ) for a module area of 30 =30 cm has22 been achieved."
+}<|im_end|>

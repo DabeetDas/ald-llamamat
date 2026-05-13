@@ -1,0 +1,8 @@
+{
+  "target_material": "Se doped Sb–Te phase change films",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["TDMASb", "Te(t-Bu)2", "Se(SiMe3)2"],
+  "temperature_range": "80 – 300 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of Se-doped Sb–Te phase change films using TDMASb, Te(t-Bu)2, and Se(SiMe3)2 as precursors. The ALD process was optimized to achieve fine controllability and high surface quality. The incorporation of Se into Sb–Te films was found to improve thermal stability and power consumption efficiency in phase-change random access memory (PCRAM) devices. The study also evaluated the effect of Se doping on crystallization temperature and set resistance through electrical measurements and theoretical models.",
+  "evidence": "We used TDMASb, Te(t-Bu)2, and Se(SiMe3)2 as precursors to investigate the behavior of atomic vapor deposition (AVD) during formation of Se doped Sb – Te phase change films. The deposition was prepared by a sequential recipe for the atomic layer deposition (ALD) reaction with consideration of the electrostatic interactions between the Se alkyl-silyl precursor and the Sb and Te precursors. The Sb – Te– Se ternary films could be deposited by AVD at temperatures of 80 – 300 °C with fine controllability and high surface quality. The results indicated that the incorporation of Se into Sb– Te films may provide for improved thermal stability and power consumption efficiency in phase-change random access memory (PCRAM) devices."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "24",
+  "reactor_type": "homeybuilt ALD reactor",
+  "evidence": "The SiyH stretching mode [2083 cm y1] redshifts to 2059 cm y1 and decreases in intensity. Only the hydrocarbonycontaining ligand [CyH peaks from the ethyl group at ~2900 cm y1] is observed (CO and Cp not detected). Upon exposing the surface to O 2 at 300˚C, this ethyl group attached during the first 0.5 cycle is removed, as expected for ALD growth."
+}

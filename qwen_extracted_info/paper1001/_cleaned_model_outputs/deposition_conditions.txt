@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80 ± 5",
+  "pressure": "",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 7,
+  "purge_time_s": 55,
+  "number_of_cycles": 150,
+  "reactor_type": "ALD",
+  "evidence": "The pulse sequence was 15 s of Pd II(hfac)2 followed by 8 s of ‘ dead time’ with 55 sccm Ar (purge gas), then 7 s of H2 to allow for a steady state in the plasma, and then 15 s of remote H 2 inductively coupled plasma with 105 sccm H 2 flow and 65 W of net forward power."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "CdSe",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": ["Cd", "Zn", "Se"],
+  "temperature_range": "230 °C",
+  "summary": "The study investigates the growth of CdSe layers on ZnSe substrates using atomic layer epitaxy (ALE) and examines the structural and strain characteristics of the resulting superlattices. The research highlights the effects of lattice mismatch between CdSe and ZnSe, the formation of misfit dislocations, and the resulting strain relaxation mechanisms as the thickness of the CdSe layer increases.",
+  "evidence": "The sample growth was carried out in a Shengyang Scientific Instrument FW-III MBE machine equipped with a computer controlled shutter system. CdSe-ZnSe was deposited on (0 0 1)ZnSe/(0 0 1)GaAs substrates, and the (0 0 1)GaAs substrate surface preparation was as previously described in. Three diffusion cells containing the elements Cd, Zn and Se separately were employed for molecular beam epitaxy (MBE) growth of ZnSe buffer layer and subsequently for atomic layer epitaxy (ALE) growth of CdSe and ZnSe layers. The substrate temperature was 230 °C for ALE growth and 310 °C for ZnSe buffer layer growth."
+}<|im_end|>

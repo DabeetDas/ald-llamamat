@@ -1,0 +1,7 @@
+{
+  "substrate_material": "FZ-Si",
+  "substrate_orientation": "<100>",
+  "pretreatment": "RCA-cleaning, defect annihilation anneal at 1050 °C for 1 h, HF-dip (∼1%; labeled “HF-last”)",
+  "surface_functionalization": "HF-last, RCA-2 (final HF-dip omitted), thermal oxidation at 700 °C for 2 min",
+  "evidence": "Surface passivation was studied on front and backside deposited,<100>-oriented, shiny-etched, 100 mm diameter, FZ-Si with 5 Ω·cm (n-type,∼400μm thick) and 2.5 Ω·cm (p-type,∼300 μm thick) resistivities. To prevent bulk-lifetime degradation during thermal processing, all FZ-Si wafers received a defect annihilation anneal at 1050 °C for 1 h preceded and followed by RCA-cleaning. Mirror-polished CZ-Si substrates ( ∼5 Ω·cm, both doping types, 100 mm diameter) were used for ellipsometry, electrical measurements, Kelvin probe (KP), and elastic recoil detection analysis (ERDA). All substrates received a complete RCA-cleaning prior to ALD including HF-dip (∼1%; labeled “HF-last”)."
+}<|im_end|>

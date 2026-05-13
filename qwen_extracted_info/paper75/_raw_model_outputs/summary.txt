@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["[Cu(dmap)2]", "diethylzinc (Et2Zn)"],
+  "temperature_range": "100–120 8C",
+  "summary": "The study describes a low-temperature ALD process for depositing high-quality copper metal thin films using the reaction of [Cu(dmap)2] with diethylzinc (Et2Zn). The process enables conformal and uniform copper film deposition at temperatures between 100–120 8C, with self-terminating surface reactions ensuring precise control over film thickness and quality. The process also allows for selective deposition on patterned surfaces and the fabrication of Cu nanotubes with high aspect ratios.",
+  "evidence": "Copper has been of great interest as a conducting material to replace aluminum in device manufacturing... Below, we describe a new ALD process that yields high-quality copper metal thin films using the reaction of [Cu(dmap)2] with Et2Zn (Scheme 1). In this ALD process, the Cu thin films were formed by two sequential saturated surface reactions... The ALD process yields a predominantly [111] oriented thin film without any contaminants at very low substrate temperatures of 100–120 8C."
+}<|im_end|>

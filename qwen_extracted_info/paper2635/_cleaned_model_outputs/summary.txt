@@ -1,0 +1,8 @@
+{
+  "target_material": "cobalt oxide",
+  "process_type": "thermal ALD",
+  "main_precursors": ["dicobalt octacarbonyl [Co2(CO)8]", "ozone (O3)"],
+  "temperature_range": "50 /C14 C",
+  "summary": "Cobalt oxide thin films were deposited using atomic layer deposition (ALD) with dicobalt octacarbonyl and ozone as precursors. The films were tested as catalysts for NaBH4 hydrolysis, showing efficient hydrogen generation. The study aimed to explore the catalytic activity of ALD-deposited cobalt oxide for hydrogen evolution from sodium borohydride hydrolysis.",
+  "evidence": "Thin ﬁlms of cobalt oxide are deposited by atomic layer deposition using dicobalt octacarbonyl [Co2(CO)8] and ozone (O3) at 50 /C14 C on microscope glass substrates and polished Si(111) wafers. Both as-deposited and the annealed ﬁlms have been successfully tested as a catalyst for hydrogen evolution from sodium borohydride hydrolysis."
+}

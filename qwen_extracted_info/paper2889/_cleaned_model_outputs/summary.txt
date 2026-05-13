@@ -1,0 +1,8 @@
+{
+  "target_material": "Silicon oxide (SiO)",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["SiH4", "N2O", "He"],
+  "temperature_range": "200 °C",
+  "summary": "The study investigates the characteristics of silicon oxide films deposited by plasma-enhanced atomic layer deposition (PEALD) and plasma-enhanced chemical vapor deposition (PECVD) as offset spacer films for high-k/metal gate transistors. The PEALD-deposited films exhibit a stoichiometric Si–O bond network, lower wet etch rate, higher film density, lower dielectric constant, and reduced water content compared to PECVD films. The PEALD process at low temperatures suppresses surface oxidation of titanium nitride, leading to improved transistor performance with higher drain current.",
+  "evidence": "We have investigated the characteristics of silicon oxide films deposited by plasma-enhanced atomic layer deposition (PEALD) and plasma-enhanced chemical vapor deposition (PECVD) as offset spacer films of high-k/metal gate stacks. ... PEALD showed excellent thickness controllability. ... X-ray photoelectron spectroscopy showed that the surface oxidation of a titanium nitride film, which is used as a metal gate electrode, during PEALD can be suppressed by using a lower PEALD temperature. ... Finally, we have demonstrated that the drain current of a high-k/metal gate transistor with a silicon oxide offset spacer deposited by PEALD is markedly increased, compared with that with a high-temperature-deposited silicon oxide offset spacer."
+}

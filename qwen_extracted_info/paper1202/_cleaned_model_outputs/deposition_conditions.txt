@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "70",
+  "pressure": "1 −2.5 Torr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 10,
+  "number_of_cycles": 100,
+  "reactor_type": "shower-head-type",
+  "evidence": "The precursors of Ge and Te were Ge(N(Si(CH3)3)2)2 and ((CH3)3Si)2Te, respectively. Each precursor was contained in separated stainless steel canisters. For the Ge-precursor, the canister was maintained at two different conditions, at 50 or 70 °C to control injection rate of the precursor, and for Te-precursor, the canister was at 35 °C. The vapors of Ge- and Te-precursors were carried into the reactor by 100, 50 standard cubic centimeters per minute (sccm) of Ar gas, respectively. Ar gas (200 sccm) was used to purge excess precursor and byproducts after precursor injection sequence. The chamber has a pumping system with a dry-pump (QDP80, Edwards), and its base pressure and working pressure is 30 mTorr and 1 −2.5 Torr, respectively. The process recipes were constructed to induce reaction among precursors, methanol vapor, and their intermediates. In the 50 °C Ge-precursor condition, for the deposition of GeTe films, the baseline process recipe consisted of 100 super cycles of the precursor sequence, as follows: methanol pulse (3 s) − Ge-precursor/methanol pulse (5 s) − methanol pulse (5 s) − Ge purge (10 s) − methanol pulse (3 s) − Te-precursor/methanol pulse (2 s) − Te purge (5 s), otherwise specified to check ALD-type self-limiting behavior. Modified sequences with different methanol injection conditions were also tested to check the role of methanol in the process. In the 70 °C Ge-precursor condition, similarly, a recipe consisting of 100 super cycles of the baseline precursor sequence was used, as follows: methanol pulse (3 s) − Ge-precursor/methanol pulse (15 s) − methanol pulse (5 s) − Ge purge (10 s) − methanol pulse (3 s) − Te-precursor/methanol pulse (2 s) − Te purge (5 s)."
+}

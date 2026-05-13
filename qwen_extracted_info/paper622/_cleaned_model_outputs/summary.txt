@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2, ZrO2, Cr2O3",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["Ti(OPri)4", "TiCl4", "ZrCl4", "Cr(acac)3"],
+  "temperature_range": "100-200°C, 300°C, 450°C",
+  "summary": "The study investigates the modification of supports using atomic layer epitaxy (ALE) to grow metal oxides such as titania (TiO2), zirconia (ZrO2), and chromia (Cr2O3). The process involves alternating reactions between metal precursors and oxidizing agents, with reaction temperatures and precursor-support interactions influencing the growth mechanisms and surface structures. The results show that the interaction between the precursor and support, along with reaction conditions, significantly affects the surface oxide formation and properties.",
+  "evidence": "Different supports were modified with titania, zirconia and chromia by the atomic layer epitaxy technique (ALE). In ALE, a metal precursor is bound to the support in saturating gas-solid reactions. Surface oxides are grown by alternating reactions of the metal precursor and an oxidizing agent. The purpose of this paper is to show how the support, precursor and processing conditions affect the growth mechanisms of surface oxides in ALE."
+}

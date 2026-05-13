@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the incorporation of nitrogen (N) into the HfO2–Al2O3 laminate films during annealing in an NH3 ambient. The N is incorporated into the film and can form different chemical bonds with Si, Hf, and Al. The N species are related to the chemical states of Si–O–N compounds at the interface and are influenced by the stack structure and annealing temperature. The N is not stably maintained in the film after sequential annealing in an N2 ambient, as it diffuses out.",
+  "intermediate_species": ["N species related with Si, Hf, and Al", "Si–O–N compounds at the interface", "molecular N2"],
+  "evidence": "The N1 peak at 396.8 eV can be attributed to N species related with Si, Hf, and Al in the film, while the corresponding N2 peak at 398 eV results from the chemical bond of Si–O–N compounds at the interface. The NEXAFS spectra also support the formation of N2 at 900 °C. The quantity of chemically bonded N and molecular N2 show an opposite tendency; at 900 °C, the quantity of molecular N2 in the film with a buffer layer of Al2O3 is greater than that in the film with a buffer layer of HfO2, while the quantity of chemically bonded N in the HfO2 first-deposited film is greater than that in an Al2O3 first-deposited film."
+}

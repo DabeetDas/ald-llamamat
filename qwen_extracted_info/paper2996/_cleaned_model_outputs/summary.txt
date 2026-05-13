@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Ti(OC3H7)4 (TTIP)", "O3"],
+  "temperature_range": "250°C",
+  "summary": "The study describes the atomic layer deposition (ALD) of high-k TiO2 thin films on Ru electrodes in three-dimensional contact holes. The films were grown at 250°C using Ti(OC3H7)4 and O3 as precursors. The films exhibited a rutile structure due to the high concentration of O3, and the dielectric properties were uniform across the 3D structure. The process was aimed at achieving uniform thickness and dielectric properties for DRAM capacitors.",
+  "evidence": "Atomic-layer-deposited TiO2 thin films with a high bulk dielectric constant were grown on an ALD Ru electrode at a growth temperature of 250°C. The films were grown on flat and contact hole structured Ru electrodes. The as-deposited films were crystallized with a rutile structure due to the adoption of O3 oxidant with a very high concentration. The electrical measurements of the Ru/TiO2/Ru capacitors fabricated on the contact hole structures with different hole sizes and distances between the holes showed that the film’s thickness, crystalline structure, and dielectric properties are uniform over the entire three-dimensional structure."
+}

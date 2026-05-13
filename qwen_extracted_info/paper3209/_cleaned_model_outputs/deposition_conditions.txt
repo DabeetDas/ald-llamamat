@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-350",
+  "pressure": "5×10−10 mbar",
+  "precursor_pulse_time_s": 8,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 4,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "Ruthenium ﬁlms were grown from /H20849ethylcyclopentadienyl/H20850/H20849pyrrolyl/H20850ruthenium, i.e.,/H20849C2H5C5H4/H20850 /H20849NC4H4/H20850Ru, provided by Praxair, Inc. The vapor pressure of ECPR is 0.3 Torr at 90°C. Depositions were carried out in a commercial ﬂow-type hot-wall ALD reactor F120 /H20849ASM Microchemistry/H2085034 and in an in-house built ﬂow-type hot-wall ALD reactor. 35 Ru ﬁlms were formed via oxidative decomposition of the adsorbed metal precursor layers either by air /H20849in F120/H20850or by puriﬁed oxygen /H20849in the in-house built reactor/H20850. Air was used as an oxygen source in the experiments in order to demonstrate the robustness of the process studied. The ECPR precursor was evaporated at 55°C. Substrates used were un-... ALD cycle times for the sequence ECPR pulse-purge-air pulse-purge were typically 4-2-4-4 s in the F120 reactor and 12-6-8-6 s in the in-house built reactor."
+}

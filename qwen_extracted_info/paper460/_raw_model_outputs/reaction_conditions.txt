@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface-terminating hydrocarbon species are extracted by atomic hydrogen, which has a high internal energy, allowing for the removal of hydrocarbon species without significant temperature dependence. The extraction process is described as an Eley-Rideal mechanism where atomic hydrogen interacts directly with surface-terminating species.",
+  "intermediate_species": ["surface-terminating hydrocarbon species"],
+  "evidence": "The extraction process of surface-terminating hydrocarbon by atomic hydrogen has an extremely slight dependence on the substrate temperature, owing to the high internal energy of atomic hydrogen. The second term in Eq. (2) represents the extraction of surface-terminating species by atomic hydrogen, where we assumed that the extraction process is given by the Eley-Rideal mechanism."
+}<|im_end|>

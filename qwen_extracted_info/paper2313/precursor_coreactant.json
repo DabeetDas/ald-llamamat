@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "TiCl4",
+    "NbCl5",
+    "MoCl5"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Nitride films were deposited at 450 8C using metal chlorides (TiCl4, NbCl5, and MoCl5) and ammonia (NH3) as precursors."
+}

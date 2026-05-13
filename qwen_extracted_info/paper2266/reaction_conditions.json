@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "In the ALE technique used to prepare ZnS, one growth cycle consists of a burst of zinc chloride or zinc acetate followed by a burst of hydrogen sulfide. The theoretical maximum growth rate of ALE is one complete ZnS molecule layer at each reaction cycle.",
+  "intermediate_species": [
+    "zinc chloride",
+    "zinc acetate",
+    "hydrogen sulfide"
+  ],
+  "evidence": "In the ALE technique used to prepare ZnS, one growth cycle consists of a burst of zinc chloride or zinc acetate followed by a burst of hydrogen sulfide. The theoretical maximum growth rate of ALE is one complete ZnS molecule layer at each reaction cycle."
+}

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "TiCl4",
+    "H2S"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The films were deposited onto 5 cm × 5 cm substrates in a flow-type F-120 ALD reactor (ASM Microchemistry Oy, Helsinki, Finland). The reactor was operated under a pressure of about 10 mbar using nitrogen (made on site by a Nitrox UHPN 3000 generator, rated purity of 99.9995 %) as a carrier and purging gas."
+}

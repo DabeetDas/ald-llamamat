@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "400",
+  "pressure": "200 torr",
+  "precursor_pulse_time_s": "3",
+  "coreactant_pulse_time_s": "8",
+  "purge_time_s": "2",
+  "number_of_cycles": "800",
+  "reactor_type": "horizontal reactor system (Thomas Swan Scientific Equipment single 2 in. wafer horizontal MOVPE reactor)",
+  "evidence": "GaAs growth was performed in a horizontal reactor system (Thomas Swan Scientific Equipment single 2 in. wafer horizontal MOVPE reactor) maintained at 400 ° C and 200 torr using trimethylgallium (TMGa) and arsine (AsH3) as precursors. Alternating gas pulses of TMGa (3s) and AsH3 (8s) at flow rates of 5.3×10−5 and 4.5×10−3 mol min−1, respectively, were separated by a hydrogen purge (2s) to prevent the reactant gases from mixing in the gas phase."
+}<|im_end|>

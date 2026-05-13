@@ -1,0 +1,8 @@
+{
+  "target_material": "Strontium titanates (STO)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["HyperSr", "PrimeTi", "StarTi", "O3"],
+  "temperature_range": "250 to 275 °C",
+  "summary": "The study explores the ALD of strontium titanates (STO) using a highly volatile strontium precursor, HyperSr, with novel titanium precursors, PrimeTi and StarTi, and ozone (O3) as the oxidizer. The process involves self-limiting kinetics, temperature-dependent growth rates, and the formation of carbonate species in SrO films, which is attributed to atmospheric CO2 exposure. The results show good tunability of STO composition and the potential for integration in microelectronic devices.",
+  "evidence": "In this work, we study the compatibility of a highly volatile strontium precursor, HyperSr, which has a low melting point, good thermal stability and good reactivity, with various Ti precursors for atomic layer deposition (ALD) of strontium titanates (STO). The ALD behavior was observed with HyperSr/O3 and HyperSr/H2O combinations at temperatures up to 275 °C. The study also discusses the formation of carbonate species in SrO films and the tunability of STO composition using different precursor ratios."
+}<|im_end|>

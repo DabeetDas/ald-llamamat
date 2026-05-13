@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "120-460",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 1.0,
+  "purge_time_s": 0.5,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The film growth experiments were carried out using a commercial hot-wall flow-type F-120 reactor (ASM Microchemistry Ltd., Finland) operating under a nitrogen pressure of ca. 10 mbar. ... The evaporation temperatures in the standard experiments were 100, 140, and 160 °C for 1, 2, and 3, respectively. ... The films were deposited by pulsing complexes 1, 2, or 3 and H2S alternately on Al2O3-covered 5 × 5 cm2 glass substrates. ... Pulse and purge lengths for TMA and H2O were 0.4 and 0.5 s, respectively."
+}<|im_end|>

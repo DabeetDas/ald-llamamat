@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth on the H-terminated surface was compared to the results obtained for a chemical oxide surface. These were applied to a simplified mathematical model related to the nucleation sites of a HfCl4 molecule. Parabolic initial growth occurs on the H-terminated surface with a 0.003 creation rate to nucleation sites for a HfCl4 molecule. The chemical oxide enables HfO2 nucleation with a linear growth rate with a value of 1.41×1014 Hf atoms/cm2 and a 1/6 steric hindrance factor.",
+  "intermediate_species": [
+    "HfCl4",
+    "Si–OH",
+    "Hf–OH"
+  ],
+  "evidence": "The Hf coverage data fitted to the solid line and dotted line are also included in Fig. 3. We used a previously reported phenomenological model based on the classical chemical kinetic theory, from which two differential equations are derived. One describes the deposition rate per cycle of HfO2, and the other the rate of creation of OH sites (Si–OH and Hf–OH) per cycle. The major assumptions are that the half reactions are allowed to proceed to saturation that no desorption of adsorbed species occurs during the purge steps, and OH species (Si–OH and Hf–OH) are nucleation sites for ALD growth using halide precursors such as HfCl4.25,27"
+}

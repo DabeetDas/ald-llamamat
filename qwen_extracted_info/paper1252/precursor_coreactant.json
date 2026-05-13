@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "tetrakis (dimethylamido) titanium (TDMAT)"
+  ],
+  "coreactants": [
+    "H2S plasma",
+    "H2S gas"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The metal-organic precursor tetrakis (dimethylamido) titanium (TDMAT) (Sigma-Aldrich Chemie BV, 99.999 % pure) was kept in a stainless steel bubbler at 50 °C, and was bubbled using Ar as the carrier gas. In the first half cycle, the precursor was dosed into the reactor using Ar as the carrier gas and the pressure was maintained at 80 mTorr. Ar (300 sccm) was used as the purge gas after the precursor as well as the co-reactant dose steps in both the ALD processes."
+}

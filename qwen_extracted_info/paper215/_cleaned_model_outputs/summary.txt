@@ -1,0 +1,8 @@
+{
+  "target_material": "MoS2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["MoCl5", "H2S"],
+  "temperature_range": "200 420 °C",
+  "summary": "A low-temperature one-step growth method for few-layer MoS2 using an atomic layer deposition scheme with MoCl5 and H2S precursors was systematically studied by introducing an ultrathin Al seed layer. The process parameters, including deposition temperature and MoCl5 canister temperature, were optimized to enhance the growth behavior and reduce defects. The Al seed layer promoted the surface adsorption of MoCl5 molecules, leading to the synthesis of a polycrystalline mono- to-bilayer MoS2 film with minimal residual contaminants.",
+  "evidence": "A low-temperature one-step growth method for few-layer MoS2 using an atomic layer deposition scheme with MoCl5 and H2S precursors was systematically studied by introducing an ultrathin Al seed layer. First, to optimize the deposition conditions, we investigated the effects of the deposition (200 420 °C) and MoCl5 canister (100160 °C) temperatures on the MoS2 growth behavior. To compensate for the reduced deposition rate while maintaining the MoS2 quality, we introduced an ultrathin Al seed layer (~5 nm), which promoted the surface adsorption of MoCl5 molecules at an early growth stage according to density functional theory calculations. Thus, we successfully synthesized a polycrystalline mono- to-bilayer MoS2 film with negligible amounts of residual contaminants (particularly Cl and Al) using the proposed Al seeding approach."
+}

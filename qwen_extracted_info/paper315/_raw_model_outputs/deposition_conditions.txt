@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "",
+  "precursor_pulse_time_s": "1.0",
+  "coreactant_pulse_time_s": "1.5",
+  "purge_time_s": "1.0",
+  "number_of_cycles": null,
+  "reactor_type": "Microchemistry F-120",
+  "evidence": "The Bi source temperature was set at 110 /C14 C, and the carrier gas was nitrogen. The pulse sequence per cycle was as follows: BiCl3 pulse width of 1.0 s; N2 purge of 1.0 s; H2Se pulse width of 1.5 s; followed by 1.0 s N 2 purge. Uniform films at a constant growth rate (thickness/cycle) occurred over a temperature range of 310 /C14 C to 380 /C14 C. The films reported here were grown at 350/C14 C, where the growth rate was 0.05 nm per cycle."
+}<|im_end|>

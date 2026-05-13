@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 120,
+ "pressure": "500 mTorr",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "",
+ "evidence": "A clean, conformal copper film was deposited at 120 °Ci na n ALD process."
+}

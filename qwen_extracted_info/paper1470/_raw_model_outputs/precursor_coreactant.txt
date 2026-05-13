@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ti(O-iPr)2(tmhd)2"],
+  "coreactants": ["H2O", "O3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Ti(O-iPr)2(tmhd)2 was used as the titanium precursor. The precursor was delivered to the ALD chamber with the assistance of an argon carrier gas at a flow rate of 200 sccm."
+}<|im_end|>

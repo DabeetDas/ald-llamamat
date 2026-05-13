@@ -1,0 +1,8 @@
+{
+  "target_material": "ZnO-based compounds (Zn1-xMgxO and Zn(O,S))",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Diethyl zinc (DEZn)", "Bis-cyclopentadienyl magnesium (MgCp2)", "Deionised water", "Hydrogen sulfide (H2S)"],
+  "temperature_range": "50 up to 200 °C",
+  "summary": "The study focuses on the growth and characterization of ZnO-based buffer layers, specifically Zn1-xMgxO and Zn(O,S), using atomic layer deposition (ALD) for Cu(In,Ga)Se2 (CIGS) solar cells. The ALD process uses metal-organic precursors and is performed at temperatures below 200 °C. The purpose is to optimize the band alignment between CIGS and the buffer layers to enhance solar cell efficiency by controlling the magnesium and sulfur content in the films.",
+  "evidence": "The ZnO-based compounds are grown by atomic layer deposition at deposition temperatures below 200 °C using metal-organic precursors. The study focuses on comparing the film growth characteristics of Zn1-xMgxO and Zn(O,S) by ALD. The deposition processes are first characterized and compared to each other for film growth on glass substrates."
+}<|im_end|>

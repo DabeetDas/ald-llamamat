@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "AlOH* + Al(CH3)3 → AlO–Al(CH3)2 + CH4",
+    "AlO–Al(CH3)2 + H2O → AlO–Al–OH* + CH4"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "AlOH*",
+    "AlO–Al(CH3)2",
+    "AlO–Al–OH*"
+  ],
+  "evidence": "The two self-limiting surface reactions that define Al2O3 ALD growth are18-20 AlOH* + Al(CH3)3 → AlO–Al(CH3)2 + CH4, AlO–Al(CH3)2 + H2O → AlO–Al–OH* + CH4."
+}<|im_end|>

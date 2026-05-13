@@ -1,0 +1,8 @@
+{
+  "target_material": "anatase TiO2",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["TiCl4", "O2"],
+  "temperature_range": "110 °C to 200 °C",
+  "summary": "The study describes the plasma-enhanced atomic layer deposition (PEALD) of anatase TiO2 using TiCl4 and O2. The process achieves a film growth rate of ∼1.35 Å/cycle, independent of temperature. The films are free of impurities and show conformal coverage. The anatase phase is confirmed by FTIR and XRD, and the process eliminates byproducts like H2O and HCl. The results demonstrate that OH groups are not required for this process.",
+  "evidence": "Self-limiting deposition of anatase TiO2 was accomplished by plasma-enhanced atomic layer deposition using TiCl4 and O2. Film growth occurred at a rate of ∼1.35 Å/cycle, independent of temperature. The presence of the anatase phase was confirmed by FTIR and XRD for T ≥ 110 °C. Films were free of impurities with respect to FTIR and XPS, and conformal coverage was confirmed by cross-section microscopy. These results show that OH groups, the most common surface termination in ALD, is not required for this process."
+}<|im_end|>

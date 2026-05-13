@@ -1,0 +1,9 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the formation of ZnFe2O4 through the interaction of ZnO and Fe2O3 layers, where Zn2+ ions diffuse into the bulk of the iron oxide to form the spinel phase. The mechanism requires a mobile ZnO phase on the surface of Fe2O3 as well as partial oxygen loss and reoxidation.",
+  "intermediate_species": [
+    "Zn2+ ions",
+    "oxygen vacancies"
+  ],
+  "evidence": "It requires a mobile ZnO phase on the surface of Fe2O3 as well as partial oxygen loss and reoxidation. Zn2+ ions diffuse into the bulk of the iron oxide to form the spinel phase."
+}

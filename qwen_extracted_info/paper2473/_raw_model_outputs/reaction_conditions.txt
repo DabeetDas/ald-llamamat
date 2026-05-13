@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process for BeO involves the use of Be(CH3)2 as a precursor, which is pulsed into the ALD chamber alternating with water pulses. The self-cleaning effect on the InGaAs substrate removes native oxides, and the thermal stability of BeO is enhanced by its ability to prevent oxide diffusion after post-deposition annealing.",
+  "intermediate_species": ["Be(CH3)2", "surface hydroxyls", "native oxides (InxOy, GaxOy, and AsxOy)"],
+  "evidence": "For ALD BeO growth, Be(CH3)2 precursor was heated up to about 150°C and pulsed into the ALD chamber for 0.4s alternating with 0.02s water pulses. Next, a post-deposition (rapid thermal) annealing (PDA) step was performed at 500°C for 2 minutes in N2 ambient, followed by a 2000A thick TaN metal-gate deposition using a dc magnetron sputtering system. BeO has better thermal stability compared to ALD Al2O3 by showing less oxide diffusion after PDA. The self-cleaning effect on the InGaAs substrate removes its native oxides (InxOy, GaxOy and AsxOy)."
+}<|im_end|>

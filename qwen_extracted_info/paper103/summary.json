@@ -1,0 +1,11 @@
+{
+  "target_material": "CdTe",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Cd",
+    "Te"
+  ],
+  "temperature_range": "385 K to 550 K",
+  "summary": "The study investigates the growth mechanism of CdTe using atomic layer epitaxy (ALE). Auger electron spectroscopy (AES) is employed to monitor the re-evaporation rates of Cd and Te deposits on the (111)A and (111)B surfaces of CdTe substrates. The re-evaporation rates of Cd and Te near the substrate-deposit interface are significantly lower than those of bulk-like amorphous Cd and Te, with activation energies of 0.5 eV, 1.0 eV, and 1.5 eV for Cd on (111)B, Te on (111)B, and Te on (111)A, respectively. The sticking coefficients of Cd and Te are less than unity, and the study highlights the importance of surface polarity and defects in the ALE process.",
+  "evidence": "The mechanism of atomic layer epitaxy (ALE) of cadmium telluride has been studied. Auger electron spectroscopy is used to measure the isothermal re-evaporation rates of elemental Cd and Te deposits on the (111)A and (111)B surfaces of CdTe substrates. The results include an observation that the sticking coefficients of Cd and Te are smaller than unity at the growth temperatures typical of CdTe ALE. The activation energies for reevaporation of the near-interface layer region are estimated to be: 1.5 eV for Te on the (111)A face, 1.0 eV for Te on (111)B and 0.5 eV for Cd on (111)B."
+}

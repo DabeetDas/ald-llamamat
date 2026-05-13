@@ -1,0 +1,8 @@
+{
+  "target_material": "Pt",
+  "process_type": "plasma-assisted ALD",
+  "main_precursors": ["(MeCp)PtMe3", "O2 plasma"],
+  "temperature_range": "300 ◦C",
+  "summary": "The study demonstrates the deposition of highly conformal Pt films in high aspect ratio trenches using plasma-assisted atomic layer deposition (ALD). The process utilizes (MeCp)PtMe3 vapor and O2 plasma, allowing for conformal coverage even in trenches with aspect ratios up to 34. The results show that plasma-assisted ALD enables faster nucleation and deposition at lower temperatures compared to thermal ALD, and the conformality was confirmed through scanning electron microscopy (SEM) and transmission electron microscopy (TEM) analyses.",
+  "evidence": "Plasma-assisted ALD of Pt using O2 plasma can offer several advantages over thermal ALD, such as faster nucleation and deposition at lower temperatures. In this work, it is demonstrated that plasma-assisted ALD at 300 ◦C also allows for the deposition of highly conformal Pt films in trenches with high aspect ratio ranging from 3 to 34. Scanning electron microscopy inspection revealed that the conformality of the deposited Pt films was 100% in trenches with aspect ratio (AR) up to 34."
+}<|im_end|>

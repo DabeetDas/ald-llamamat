@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2",
+  "process_type": "pulsed beam CVD",
+  "main_precursors": ["titanium tetraisopropoxide", "water"],
+  "temperature_range": "60 - 150°C",
+  "summary": "TiO2 thin films were deposited using pulsed beam chemical vapor deposition from titanium tetraisopropoxide and water vapors. The process involved alternating introduction of the precursors using commercial automobile electric fuel injectors. The films were characterized for optical, structural, and compositional properties, and their growth rate and crystallinity were studied as a function of substrate temperature. The study compared the results with those obtained from electron beam evaporation.",
+  "evidence": "Ti02 thin films were deposited by pulsed beam chemical vapor deposition from titanium tetraisopropoxide and HzO vapors. The substrate temperature was varied in the range of 60 - 150°C. The optical absorption spectra, X-ray diffractions and X-ray photoelectron spectra were used to characterize the films. The deposition time can be shortened by using a pulsed beam. The films deposited by pulsed beam CVD were amorphous, whereas the films deposited by EB evaporation showed diffraction peaks fitted to the anatase structure."
+}

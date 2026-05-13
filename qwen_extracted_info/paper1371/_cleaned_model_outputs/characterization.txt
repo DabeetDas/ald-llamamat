@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Scanning Electron Microscopy (SEM)",
+    "Energy Dispersive X-ray Spectroscopy (EDX)",
+    "Transmission Electron Microscopy (TEM)",
+    "Scanning Transmission Electron Microscopy Energy Dispersive X-ray (STEM EDX)",
+    "Cyclic Voltammetry (CV)",
+    "Linear Sweep Voltammetry (LSV)",
+    "Double Layer Capacitance (CDL) measurement"
+  ],
+  "evidence": "X-ray photoelectron spectroscopy (XPS) analysis was conducted using a Kratos AXIS Supra instrument... A Zeiss Sigma scanning electron microscope (SEM) was used for imaging and energy dispersive x-ray (EDX) analysis. Transmission electron microscopy (TEM) and scanning transmission electron microscopy energy dispersive x-ray (STEM EDX) analysis were conducted using a JEOL JEM-ARM200CF... Electrochemical measurements were performed using a Biologic SP-300 potentiostat... The double layer capacitance (CDL) measurement results."
+}

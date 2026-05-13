@@ -1,0 +1,7 @@
+{
+  "precursors": ["titanium tetrachloride (TiCl4)", "trimethylaluminum (TMA)"],
+  "coreactants": [],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "TiAlC was deposited by thermal ALD using TiCl4 as Ti precursor and TMA as Al precursor on Beneq ALD tool TFS200. TiCl4 and TMA were vaporized from liquid source containers at 21 ◦C and introduced into ALD reactor chamber by N2 carrier gas."
+}

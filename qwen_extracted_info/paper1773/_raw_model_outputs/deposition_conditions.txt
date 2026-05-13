@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "150 –275",
+  "pressure": "1 –3 mbar",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "Under the optimized process conditions, the growth of Er2O3 thin films was studied in the temperature range of 150 to 350 /C14 C using the following standard pulsing sequence (ALD growth cycle): 3 s of Er precursor pulse, followed by 5 s of precursor purge, 3 s of water pulse, and finally 10 s of water purging cycle."
+}<|im_end|>

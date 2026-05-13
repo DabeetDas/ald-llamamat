@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the ALD process using diethyl zinc (DEZ) and tetrakis (ethylmethylamino) hafnium (TEMAH) as precursors with deionized water (DI-water) as the oxygen source. The growth cycle consists of DEZ pulse, Ar purge, DI-water pulse, and Ar purge for ZnO, and TEMAH pulse, Ar purge, DI-water pulse, and Ar purge for HfO2. The Hf doping into ZnO films is achieved through ALD supercycles composed of n cycles of DEZ/H2O followed by one cycle of TEMAH/H2O.",
+  "intermediate_species": ["Hf4+"],
+  "evidence": "The metal precursors for Zn and Hf were diethyl zinc (DEZ) and tetrakis (ethylmethylamino) hafnium (TEMAH), respectively. And deionized water (DI-water) acted as oxygen source. The DEZ and DI-water were kept in bottles at 18 °C outside the reactor. TEMAH was evaporated at 80 °C. The precursors were alternately introduced to the reactor chamber using high purity Ar (>99.99%) as carrier gas. The time for one ZnO cycle was composed of 0.5 s DEZ pulse, 2 s Ar purge, 0.5 s H2O pulse, and 2 s Ar purge. A typical ALD growth cycle for HfO2 was 1 s TEMAH pulse/3 s Ar purge/0.3 s H2O pulse/2 s Ar purge."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "TiCl4",
+    "water"
+  ],
+  "temperature_range": "3001C",
+  "summary": "TiO2 thin films were deposited on MgO(001) substrates using atomic layer deposition at 3001C. The films were characterized as epitaxial anatase with a polycrystalline structure and two orientational variants aligned with the MgO cube axes. The study focused on the orientation relationship, grain morphology, and growth rate of the films.",
+  "evidence": "Thin films of TiO2 have been deposited onto MgO(001) substrates using atomic layer deposition at 3001C. X-ray and electron diffraction showed that a polycrystalline, epitaxial anatase film was produced. The c-axis of the anatase was parallel to the MgO(001) surface with two orientational variants at right angles to each other in the plane of the film, each aligned with an MgO cube axis."
+}

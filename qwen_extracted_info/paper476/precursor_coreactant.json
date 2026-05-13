@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "Zn",
+    "Te"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "H2"
+  ],
+  "carrier_gas": [
+    "H2"
+  ],
+  "evidence": "However, it should not be discarded that H2 could act as a transport agent. It is known that it has had this role for Se through the formation of H2Se compound. The H2 flux have been used to have a reactive atmosphere to avoid oxidation of the materials inside the reactor; but also because H2 can be very efficiently purified with Pd, insuring a highly clean atmosphere (it has been used as carrier gas in many vapor deposition systems)."
+}

@@ -1,0 +1,8 @@
+{
+  "film_thickness_nm": 17.8,
+  "density_g_cm3": 100,
+  "refractive_index": null,
+  "surface_roughness_nm": 0.3,
+  "crystal_phase": "polycrystalline hcp Ru",
+  "evidence": "The RMS roughness of the film grown at 100°C was found to have a value of 0.3 nm, while for the other films slightly higher values were found (Figure 7). Though the RMS roughness of the films as determined by AFM doesn’t seem to differ considerably, SEM revealed a clear difference in surface morphology (Figure 7). For the film grown in the ALD regime weaker contrasts are visible compared to the films grown in the p-CVD regime, while the contrasts in the p-CVD regime are present on a smaller scale. The films were polycrystalline hcp Ru as-deposited and though they were grown at a low temperature, they had a low impurity-content according to XPS-measurements and a low resistivity of the order 20 µΩ .cm, even for films of only 3.8 nm thick."
+}

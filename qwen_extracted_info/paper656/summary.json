@@ -1,0 +1,12 @@
+{
+  "target_material": "ZnO",
+  "process_type": "photo-ALD",
+  "main_precursors": [
+    "Diethylzinc (DEZ)",
+    "H2O",
+    "B2H6"
+  ],
+  "temperature_range": "136 3C",
+  "summary": "The study describes the preparation of boron-doped ZnO thin films using photo-atomic layer deposition (photo-ALD). The process involves UV-irradiation and n-type doping with B2H6. The lowest resistivity of 6.9×10⁻⁴ Ω·cm was achieved by optimizing the B2H6 introduction cycle. The films exhibit excellent stability in electrical properties under air exposure.",
+  "evidence": "Low-resistivity and high-stability ZnO films were grown by photo-atomic layer deposition (photo-ALD) technique using boron as an n-type dopant. The resistivity of the ZnO films grown with UV-irradiation was about one order of magnitude lower than that of the ZnO films grown without UV-irradiation. Furthermore, boron-doped ZnO films were grown by the atomic layer deposition (ALD) technique. By optimizing the introduction cycle of B2H6, the lowest resistivity of 6.9×10⁻⁴ Ω·cm was obtained. ZnO films grown by photo-ALD exhibit excellent stability in the electrical properties under air exposure."
+}

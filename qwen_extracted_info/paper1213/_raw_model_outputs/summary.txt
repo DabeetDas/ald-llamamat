@@ -1,0 +1,8 @@
+{
+  "target_material": "Li2PO2N",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["LiO tBu", "DEPA"],
+  "temperature_range": "250-300°C",
+  "summary": "The study describes the thermal atomic layer deposition (ALD) of a lithium polyphosphazene solid state electrolyte, Li2PO2N, using lithium tert-butoxide (LiO tBu) and diethyl phosphoramidate (DEPA) as precursors. The process produces conformal, ionically conductive thin films with a stoichiometry close to Li2PO2N, exhibiting high ionic conductivity and electrochemical stability. The ALD process enables the fabrication of thin film solid state batteries with ultrathin electrolytes, demonstrating compatibility with flexible substrates and integration into full batteries.",
+  "evidence": "The reaction between lithium tert-butoxide (LiO tBu) and diethyl phosphoramidate (DEPA) produces conformal, ionically conductive thin films with a stoichiometry close to Li2PO2N between 250 and 300°C. The process is described as a thermal ALD process, and the films are used in solid state batteries with high ionic conductivity and electrochemical stability."
+}<|im_end|>

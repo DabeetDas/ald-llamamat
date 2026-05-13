@@ -1,0 +1,8 @@
+{
+  "target_material": "BiFeO3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Bi(mmp)3", "Fe(C5H5)2"],
+  "temperature_range": "250 −350 °C",
+  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to produce high-quality, single-crystalline epitaxial BiFeO3 thin films on SrTiO3(001) substrates at ∼450 °C. The process involves sequential delivery of Bi(mmp)3 and Fe(C5H5)2 precursors, followed by ozone oxidation. The films are annealed at 700 °C to achieve crystallization and epitaxial growth, resulting in phase-pure, misfit dislocation-free BiFeO3 films with excellent crystalline quality.",
+  "evidence": "We report how a low vacuum pressure process followed by a few-minute annealing enables epitaxial stabilization, producing high-quality, phase-pure, single-crystalline epitaxial, and misfit dislocation-free BiFeO3(001) thin films on SrTiO3(001) at ∼450 °C less than current routes."
+}<|im_end|>

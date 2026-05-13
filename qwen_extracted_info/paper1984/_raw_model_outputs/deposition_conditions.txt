@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350-360",
+  "pressure": "40 Torr",
+  "precursor_pulse_time_s": "35",
+  "coreactant_pulse_time_s": "8",
+  "purge_time_s": "2",
+  "number_of_cycles": "94",
+  "reactor_type": "horizontal cold-wall quartz reactor",
+  "evidence": "The growth of InP was carried out by alternately introducing the reactants into the reactor in cycles of PH3 and TM1 spaced by intervening Hz purge steps. In our system a purge of 2 s is more than enough to ensure that the reactants are not simultaneously present in the reactor. The TBAs and TM1 bubblers were kept at 27 and 18 “C, respectively. The carrier gas was Pd-purified H2, and the total flow rate in the reactor was maintained at 3000 seem, giving a gas velocity of 50 cm/s at a reactor pressure of 40 Torr. The structure of the samples for x-ray measurements reported in this letter is as follows: an InP layer of 0.6 ym is grown at 600 “C by conventional low-pressure MOCVD, after, growth is interrupted and the temperature is decreased to the ALE growth temperature under a PHs flow. Then a number of InAs cycles (varying from 1 to 4 in different samples) are sandwiched between 30 InP cycles (the buffer layer) and 94 InP cycles (the cap layer)."
+}<|im_end|>

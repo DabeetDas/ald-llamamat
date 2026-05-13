@@ -1,0 +1,8 @@
+{
+  "target_material": "Tin oxide",
+  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": ["Sn(dmamp)2", "oxygen plasma"],
+  "temperature_range": "50–200 8C",
+  "summary": "The study describes the fabrication of tin oxide thin films using plasma-enhanced atomic layer deposition (PE-ALD) with Sn(dmamp)2 as the precursor and oxygen plasma as the reactant. The films were deposited at temperatures ranging from 50 to 200 8C. The low-temperature PE-ALD process is suitable for flexible substrates and results in n-type conductivity due to oxygen vacancies. The films showed good crystallinity and electrical properties, with carrier concentration increasing with temperature.",
+  "evidence": "The text states: 'In this study, TFTs are fabricated with tin oxide film as the channel layer by PE-ALD using the Sn(II) aminoalkoxide precursor, Sn(dmamp)2 [dmamp = OCMe2CH2NMe2], and an oxygen plasma reactant.' It also mentions: 'The tin oxide films were deposited onto a thermally grown SiO2 (200 nm) on a highly phosphorous doped Si(0 0 1) by PE-ALD with Sn(dmamp)2 and oxygen plasma (RF power /C24 150 W) respectively, at a substrate temperature range of 50–200 8C.'"
+}

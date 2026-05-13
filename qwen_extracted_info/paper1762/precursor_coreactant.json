@@ -1,0 +1,15 @@
+{
+  "precursors": [
+    "ferrocene",
+    "Titanium isopropoxide"
+  ],
+  "coreactants": [
+    "water",
+    "ozone"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Hematite was deposited onto the cleaned FTO substrate by alternating pulses of ferrocene as the iron precursor and a combination of water and ozone as the oxidant. Titanium isopropoxide was used as the titanium precursor to add titanium to the films. The ALD chamber temperature was maintained at 200 °C for all depositions."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300",
+  "pressure": "0.5 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "2",
+  "reactor_type": "plasma-enhanced ALD",
+  "evidence": "The HfO2 and Al2O3 in nanomixed films were grown at 300◦C by ALD process using TEMAH {[Hf(N(CH3)2)4]2} and TMA [(CH3)3Al], respectively as precursors and H2O as reactant gas. The system pressure of N2-plasma treatment was 0.5 Torr."
+}

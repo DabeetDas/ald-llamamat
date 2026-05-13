@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "255 /C176C",
+  "pressure": "200 Pa",
+  "precursor_pulse_time_s": "5",
+  "coreactant_pulse_time_s": "10",
+  "purge_time_s": "20",
+  "number_of_cycles": "20",
+  "reactor_type": "top-injection ALD reactor",
+  "evidence": "The samples were heated to a surface temperature around 255 /C176C as determined by spectroscopic ellipsometry. The total process pressure was controlled to 200 Pa. The Ar purging time was 20 s each."
+}

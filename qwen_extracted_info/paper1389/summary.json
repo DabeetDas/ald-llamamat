@@ -1,0 +1,11 @@
+{
+  "target_material": "Aluminum phosphate",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "trimethylaluminum",
+    "triethylphosphate"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "Aluminum phosphate was deposited onto carbon fibers and flat glassy carbon substrates using atomic layer deposition (ALD) with alternating pulses of trimethylaluminum and triethylphosphate vapors. The coatings were uniform, conformal, and provided oxidation resistance. The study aimed to develop a weak and oxidation-stable coating for carbon fibers.",
+  "evidence": "Aluminum phosphate was deposited onto bundles of carbon fibers and flat glassy carbon substrates using atomic layer deposition by exposing them to alternating pulses of trimethylaluminum and triethylphosphate vapors. Scanning electron microscopic (SEM) images revealed that the coatings are uniform and conformal. Thermogravimetric analysis (TGA) indicates an improvement of oxidation resistance of the coated fibers compared to uncoated fibers."
+}

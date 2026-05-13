@@ -1,0 +1,11 @@
+{
+  "target_material": "Y2O3",
+  "process_type": "radical enhanced atomic layer deposition (REALD)",
+  "main_precursors": [
+    "metal β-diketonates (Y or Er)",
+    "oxygen radicals"
+  ],
+  "temperature_range": "350 °C",
+  "summary": "The study investigates the optical properties of Er3+-doped Y2O3 thin films deposited by radical enhanced atomic layer deposition (REALD). The films are characterized by their enhanced optical properties due to the spatially controlled and uniformly distributed Er3+ dopants. The effective absorption cross section of Er3+ in Y2O3 is measured to be 1.9±0.5×10−20 cm2 at 1.53 μm, which is significantly larger than that in SiO2. The study also discusses the structural and photoluminescence properties of the films, highlighting the importance of the chemical coordination and spatial distribution of Er3+ ions.",
+  "evidence": "The study reports that the optical properties of Er3+-doped Y2O3 are enhanced due to the spatially controlled and uniformly distributed Er3+ dopants. The effective absorption cross section of Er3+ in Y2O3 is measured to be 1.9±0.5×10−20 cm2 at 1.53 μm, which is significantly larger than that in SiO2. The films are deposited by radical enhanced atomic layer deposition (REALD) using metal β-diketonates (Y or Er) and oxygen radicals as precursors at 350 °C."
+}

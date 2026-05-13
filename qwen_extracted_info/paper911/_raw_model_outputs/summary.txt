@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3 and HfO2",
+  "process_type": "Thermal ALD and PEALD",
+  "main_precursors": ["HfCl4", "H2O", "TDEAH", "O radicals in O2 plasma", "CH3 groups from TMA", "H2O"],
+  "temperature_range": "300 /C176C",
+  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of high-k dielectrics such as Al2O3 and HfO2 on GaAs substrates. It examines the effects of different precursors, surface preparation methods, and ALD process types (thermal and plasma-enhanced) on the growth characteristics and interface quality. The research highlights the importance of surface preparation and precursor selection in achieving high-quality dielectric layers and mitigating interface defects. The study also explores the relationship between interface states and Fermi level pinning in III/V compound semiconductors.",
+  "evidence": "We will discuss thermal and plasma-enhanced atomic layer deposition (ALD) of a few materials, HfO2 and Al2O3. ... The method of choice for the deposition of such dielectric layers is atomic layer deposition (ALD), mainly because of the low deposition temperature (typically 300 /C176C) that still allows good quality metal oxides ... One of the important things ALD process engineers learned over the years is that the starting surface on which to grow the ALD layer as well as the process conditions (mainly type of precursor and temperature) are among the determining factors for the quality of the resulting interface (Dit, EOT)."
+}<|im_end|>

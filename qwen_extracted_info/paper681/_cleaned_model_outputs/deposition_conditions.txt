@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "ALCVD",
+  "evidence": "HfO2 layers were deposited by ALCVD with alternating pulses of HfCl 4 and H2O."
+}

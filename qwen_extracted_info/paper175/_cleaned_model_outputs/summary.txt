@@ -1,0 +1,8 @@
+{
+  "target_material": "WO3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["W(CO)6", "O3"],
+  "temperature_range": "195–205 8C",
+  "summary": "This study reports a new atomic layer deposition (ALD) process for WO3 thin films using W(CO)6 as the tungsten source and O3 as the oxygen source. The process operates within a narrow temperature window of 195–205 8C, achieving a deposition rate of 0.23 Å per cycle. The as-deposited films are partially crystalline with an rms roughness of 4.7 nm for 90 nm thick films. Annealing at 600–1000 8C under oxygen or nitrogen atmospheres enhances crystallinity. The ALD process is straightforward, utilizing carbonyl compounds and ozone, and is applicable for the deposition of WO3 thin films.",
+  "evidence": "Here we report a new atomic layer deposition (ALD) process for WO3 thin films based on W(CO)6 as a tungsten source and ozone as a source of oxygen. A narrow ALD temperature window is found at 195–205 8C for WO3 with a deposition rate of 0.23 A˚ per cycle. As-deposited films are partially crystalline with root mean square (rms) roughness values of 4.7 nm for 90 nm thick films; annealing the films at 600–1000 8C under oxygen or nitrogen atmospheres enhances the degree of crystallinity considerably. Our results show that the straightforward ALD chemistry of carbonyl compounds and ozone is applicable to the deposition of WO3 thin films."
+}

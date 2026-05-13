@@ -1,0 +1,11 @@
+{
+  "target_material": "Magnesium oxide (MgO)",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "Mg(thd)2",
+    "ozone"
+  ],
+  "temperature_range": "225–250 ‡C",
+  "summary": "The study describes the deposition of magnesium oxide thin films using atomic layer epitaxy (ALE) with Mg(thd)2 and ozone as precursors. The growth was surface-controlled within a narrow temperature range of 225–250 ‡C, resulting in a low growth rate of 0.27 and 0.22 A˚ cycle−1 on soda lime and Si(100) substrates, respectively. The films were characterized by XRD, RBS, XPS, and AFM, showing polycrystalline periclase-type MgO with a (200) peak for thinner films and a (220) peak for thicker films. The study confirms the stoichiometry and morphology of the films, highlighting the potential of ALE for producing high-quality, conformal MgO films.",
+  "evidence": "Magnesium oxide thin films were deposited on soda lime and Si(100) substrates by atomic layer epitaxy from Mg(thd)2 and ozone. The depositions were carried out at 180–450 ‡C, where the growth parameters were studied in detail. A narrow temperature range of 225–250 ‡C was found where the growth was surface-controlled with growth rates of 0.27 and 0.22 A˚ cycle−1 on glass and silicon, respectively. MgO films were characterized by X-ray diffraction (XRD), Rutherford backscattering (RBS), X-ray photoelectron spectroscopy (XPS) and atomic force microscopy (AFM)."
+}

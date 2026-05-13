@@ -1,0 +1,11 @@
+{
+  "target_material": "Ta2O5",
+  "process_type": "PEALD",
+  "main_precursors": [
+    "Ta(OC2H5)5",
+    "oxygen radicals"
+  ],
+  "temperature_range": "260°C (deposition) and 700°C (annealing)",
+  "summary": "The study presents improved electrical properties of Ta2O5 thin films deposited by plasma-enhanced atomic layer deposition (PEALD). The interface oxide layer formed during the initial stage of PEALD retards further growth during annealing, resulting in a high dielectric constant of 38 even after annealing. The films are oxygen-rich with no hydrocarbon impurities, and the interface oxide is thought to be Ta xSi yO rather than pure SiO2.",
+  "evidence": "The improved electrical properties of tantalum oxides grown by plasma-enhanced atomic layer deposition ~PEALD! are presented. In PEALD, oxygen radicals were served as a reactant of Ta ~OC2H5!5 at a deposition temperature of 260°C. The interface oxide layer, which was formed during the initial stage of the PEALD, retards its further growth during the annealing process at 700°C for 2 min in O2 ambient, and is thought to be not pure SiO2 but Ta xSi yO. The stoichiometry of the as-deposited film is oxygen-rich, having no hydrocarbon impurity. As a result, on the films with a thickness of T SiO2.eq 5 1.7 nm, the leakage current density, dominated by Schottky emission, reduces to 3.38 3 1027 A/cm2 at 1 MV/cm, and the dielectric constant is obtained as high as «r 5 38 even after the annealing process."
+}

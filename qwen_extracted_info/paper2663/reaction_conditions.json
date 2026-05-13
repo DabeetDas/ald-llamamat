@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the HfCp(NMe2)3 precursor followed by an O2 plasma step, which leads to the formation of HfO2. The plasma step is crucial for the oxidation process, and the reaction is enhanced by the high reactivity of plasma species, which increases the density of reactive surface sites for precursor adsorption. The mechanism also includes the removal of byproducts such as H2O, which can lead to parasitic CVD growth if not properly purged.",
+  "intermediate_species": [
+    "HfCp(NMe2)3",
+    "surface hydroxyls",
+    "H2O",
+    "HyALD precursor"
+  ],
+  "evidence": "The surface reaction mechanism is described in the text as involving the adsorption of the HfCp(NMe2)3 precursor followed by an O2 plasma step. The plasma step is crucial for the oxidation process, and the reaction is enhanced by the high reactivity of plasma species, which increases the density of reactive surface sites for precursor adsorption. The text also mentions the removal of byproducts such as H2O, which can lead to parasitic CVD growth if not properly purged."
+}

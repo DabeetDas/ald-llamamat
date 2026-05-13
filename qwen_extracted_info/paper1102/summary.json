@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "TiCl4",
+    "H2O"
+  ],
+  "temperature_range": "80 –120 °C",
+  "summary": "This study presents a comprehensive investigation into the atomic layer deposition (ALD) of TiO2 films on silicon and polycarbonate substrates using TiCl4 and H2O as precursors at temperatures in the range 80–120 °C. The study explores the effects of surface pre-treatment on film properties, including adhesion, wettability, and mechanical properties. The results show that the contact angle of the films significantly decreases after UV irradiation, indicating enhanced hydrophilicity. The films were characterized using various techniques, including spectroscopic ellipsometry, AFM, and secondary ion mass spectrometry.",
+  "evidence": "This paper presents a comprehensive study of atomic layer deposition of TiO2 films on silicon and polycarbonate substrates using TiCl4 and H2O as precursors at temperatures in the range 80 –120 °C. An in-situ quartz crystal microbalance was used to monitor different processing conditions and the resultant films were characterised ex-situ using a suite of surface analytical tools. In addition, the contact angle and wettability of as-deposited and UV irradiated films were assessed. The latter was found to reduce the contact angle from ≥80° to < 10°. Finally, the effect of surface pre-treatment on film toughness and adhesion was investigated and the results show a significant improvement for the pre-treated films."
+}

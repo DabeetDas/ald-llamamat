@@ -1,0 +1,24 @@
+{
+  "reaction_equations": [
+    "Si-OH + TiCl4 → Si-Cl + Ti(OH)Cl3",
+    "(Si-O-)nTiCl4-n + (4 - n)H2O → (Si-O-)nTiO2(OH)2-n + (4 - n) HCl",
+    "(Si-O-)TiO2(OH)4-n + TiCl4 → (Si-O-)TiO2(O-TiCl(4-n)) + (4 - n)HCl",
+    "(Si-O-)TiO2(O-TiCl(4-n)) + (4 - n)H2O → (Si-O-)TiO2(TiO2(OH)) + (4 - n)HCl",
+    "(Si-O-)nTiCl4-n + nH2O → nSi(OH) + Ti(OH)nCl4-n"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the initial reaction of TiCl4 with surface silanols to form surface species such as (Si-O-)nTiCl4-n, followed by hydrolysis with water vapor to form a Ti-O-Ti network. The cleavage of Si-O-Ti bonds regenerates Si-OH groups. In subsequent cycles, the reaction occurs on the TiO2 layer, and the amount of TiO2 deposited correlates with the amount of water on the surface. The mechanism also includes the formation of monodentate and bidentate species, and the role of surface water in polymerization and hydrolysis.",
+  "intermediate_species": [
+    "Si-Cl",
+    "Ti(OH)Cl3",
+    "(Si-O-)nTiCl4-n",
+    "Ti(OH)nCl4-n",
+    "Ti(OH)2Cl2",
+    "Si-O-Ti",
+    "Si-O-TiCl3",
+    "(SiO)2TiCl2",
+    "Ti(OH)2Cl2",
+    "Si(OH)",
+    "Ti(OH)nCl4-n"
+  ],
+  "evidence": "The text describes the reaction of TiCl4 with surface silanols forming (Si-O-)nTiCl4-n species, followed by hydrolysis with water vapor to form a Ti-O-Ti network. The cleavage of Si-O-Ti bonds regenerates Si-OH groups. The reaction equations and intermediate species are detailed in the text, including the formation of monodentate and bidentate species, and the role of surface water in polymerization and hydrolysis."
+}<|im_end|>

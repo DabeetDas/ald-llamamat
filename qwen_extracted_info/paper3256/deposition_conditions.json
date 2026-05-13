@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "160-240",
+  "pressure": "0.5 Torr",
+  "precursor_pulse_time_s": "2-6",
+  "coreactant_pulse_time_s": "0.5",
+  "purge_time_s": "5",
+  "number_of_cycles": "200",
+  "reactor_type": "Genitech Inc.",
+  "evidence": "One ALD cycle (AB cycle) was performed using the following sequence: A (MZI: 2–6 s) – Ar purge (5 s) – B( H2O: 0.5 s) – Ar purge (5 s)."
+}

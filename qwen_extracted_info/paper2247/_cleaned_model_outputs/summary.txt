@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2/iron oxides",
+  "process_type": "ALD",
+  "main_precursors": ["titanium iodide (TiI4)", "water", "ferrocene (Fe(Cp)2)", "oxygen"],
+  "temperature_range": "200 °C to 500 °C",
+  "summary": "The study describes the synthesis of double- and triple-walled TiO2/iron oxide nanotubes using atomic layer deposition (ALD) in nanoporous alumina templates. The outer TiO2 layers are polycrystalline with a phase mixture of anatase and rutile, while the inner TiO2 layers are amorphous. Iron oxide layers consist of hematite at 500 °C and a mixture of hematite and magnetite at 400 °C. The nanotubes exhibit weak ferromagnetic behavior and magnetic anisotropy with an easy axis perpendicular to the tube axis.",
+  "evidence": "Double- and triple-walled TiO2/iron oxide nanotubes with well defined interfaces have been produced in nanoporous alumina templates using atomic layer deposition method. The outer layers of TiO2 are polycrystalline and consist of a phase mixture of anatase and rutile, while the inner TiO2 layers grown at lower temperature are amorphous. The iron oxide layers consist of pure hematite when deposited at 500 °C, while a phase mixture of hematite and magnetite was obtained at 400 °C. The magnetization measurements reveal that the studied nanotubes exhibit weak ferromagnetic behavior and magnetic anisotropy with an easy axis perpendicular to the tube axis."
+}

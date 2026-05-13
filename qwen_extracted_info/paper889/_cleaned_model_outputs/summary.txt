@@ -1,0 +1,8 @@
+{
+  "target_material": "TaN",
+  "process_type": "ALD",
+  "main_precursors": ["PDMAT", "NH3"],
+  "temperature_range": "275 °C",
+  "summary": "The study compares the continuity and morphology of TaN barriers deposited by Atomic Layer Deposition (ALD) and Physical Vapor Deposition (PVD). The ALD process uses 20 cycles of PDMAT/NH3 at 275 °C to deposit a thin TaN barrier on oxide substrates. The results show that the ALD TaN barrier is continuous and free from pinholes after an etching test with HF solution. The study highlights the advantages of ALD in achieving uniform and conformal growth, which is crucial for high aspect ratio structures in sub-100 nm interconnects.",
+  "evidence": "The ALD barrier does not show evidence of pinholes after being subjected to the etching test. The results from this etching test indicate that a 20 cycle ALD TaN barrier deposited on oxide is continuous and free from pinholes."
+}

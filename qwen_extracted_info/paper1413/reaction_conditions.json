@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "MXn + M(OR)n → 2MOn/2 + nRX"
+  ],
+  "surface_mechanism_description": "The surface reactions between TaCl5 and Ta(OC2H5)5 lead to the formation of oxygen bridges between adjacent Ta atoms, resulting in the formation of Ta2O5. The reactions proceed through the redistribution of ligands and the formation of alkyl halides, with the simultaneous or alternate pulsing of precursors influencing the growth mechanism.",
+  "intermediate_species": [
+    "alkyl halides",
+    "alkoxide groups",
+    "halide groups",
+    "surface hydroxyls"
+  ],
+  "evidence": "These nonhydrolytic reactions are slow at the temperatures below 110 °C usually applied in sol-gel processes. However, along with the thermal cleavage of bonds in metal alkoxides at the temperatures used in the ALD process described above, the reactions can be accelerated. These reactions lead to the formation of alkyl halides. The reactions proceed until completion, provided the reaction products are removed from the system."
+}

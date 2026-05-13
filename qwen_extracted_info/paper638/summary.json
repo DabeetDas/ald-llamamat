@@ -1,0 +1,11 @@
+{
+  "target_material": "ZnO",
+  "process_type": "Atomic layer-controlled growth (ALD)",
+  "main_precursors": [
+    "diethylzinc (DEtZn)",
+    "water"
+  ],
+  "temperature_range": "100–210 8C",
+  "summary": "The paper describes the atomic layer-controlled growth of transparent conducting ZnO films on various substrates, including flexible PET, using diethylzinc and water as precursors. The process occurs at temperatures between 100–210 8C, and the study highlights the use of buffer layers like Al2O3 to improve adhesion on PET substrates. The films exhibit high transparency and low resistivity, with the best resistivity achieved on glass substrates at 210 8C.",
+  "evidence": "Highly transparent (T > 80%) and conductive (\u001a\u0018 10ÿ3 /C10cm) zinc oxide thin ﬁlms were deposited by atomic layer-controlled growth on a wide variety of substrates, including glass sapphire and ﬂexible polyethylene terephthalate (PET) at temperatures of 100–210 8C using diethylzinc (DEtZn) and water. This is the ﬁrst example of atomic layer-controlled growth or atomic layer epitaxy on a polymer substrate. The resistivity of the ﬁlms improved by doping gallium into the ﬁlms and with increasing temperature. The best ﬁlm grown on PET had a resistivity of 1.4\u0002 10ÿ3 /C10cm, while the best ﬁlm grown on glass had a resistivity of 8 \u0002 10ÿ4 /C10cm."
+}

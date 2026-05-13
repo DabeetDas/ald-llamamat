@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
+  "evidence": "The role played by the TMA molecule in the initial ALD pulse was here exploited in order to passivate the oxide/substrate interface, as broadly investigated in ALD of Al2O3 on GaAs and InxGa1–x As substrates. In this respect XPS analyses revealed, in the latter case, a slightly more pronounced oxidation of the substrate that is associated to the different chemistry of the ALD recipes."
+}

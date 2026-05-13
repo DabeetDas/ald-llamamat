@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "TMGa molecules are adsorbed on the GaAs surface to an amount exceeding 1 ML during supply, but excess TMGa desorbs immediately after supply is stopped. The self-limiting growth is due to the re-evaporation of excess TMGa, preventing further adsorption. TEGa molecules are adsorbed on TEGa molecules or their fragmented derivatives and partially adsorbed on TMGa molecules, but do not decompose to Ga atoms at 470°C.",
+  "intermediate_species": ["TMGa molecules", "TEGa molecules", "fragmented derivatives (e.g., methyl radicals for TMGa, ethyl radicals for TEGa)"],
+  "evidence": "It was found that neither the TMGa molecules nor the TEGa molecules decompose to Ga atoms because the TMGa molecules are not adsorbed on the surface saturated with TMGa or TEGa molecules. It is also found that in the both sources of TMGa and TEGa, there is a layer which prevents the further adsorption of the TMGa molecules. The layers consist of the fragmented derivatives such as methyl radicals for TMGa and ethyl radicals for TEGa, respectively."
+}

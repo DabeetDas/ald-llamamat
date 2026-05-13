@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "Optical Emission Spectroscopy (OES)",
+    "Langmuir Probe",
+    "Spectroscopic Ellipsometry (SE)",
+    "Rutherford Backscattering Spectrometry (RBS)",
+    "Elastic Recoil Detection (ERD)",
+    "X-ray Diffraction (XRD)",
+    "X-ray Reflectometry (XRR)",
+    "Atomic Force Microscopy (AFM)",
+    "Four-point Probe"
+  ],
+  "evidence": "The plasma was studied by optical emission spectroscopy and Langmuir probe, revealing an ion density of 10^9 cm−3 and an electron temperature of 3.5 eV just above the substrate. The film growth was studied by in situ spectroscopic ellipsometry, revealing self-limiting surface reactions for the complete temperature range. The film composition was determined by Rutherford backscattering spectrometry for the Ti, N, Cl, and O content. Elastic recoil detection was used for determining the H content. The microstructure of the films was studied by X-ray diffraction. The surface roughness of the TiN film was determined by atomic force microscopy. Ex situ resistivity measurements were carried out at room temperature using a Signatone four-point probe."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "silica (SiO2)",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tris(tert-butoxy)silanol", "trimethylaluminium"],
+  "temperature_range": "225 /C176C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) of silica (SiO2) to modify porous alumina (AAO) membranes for structural and chemical modification. The ALD process was used to reduce pore diameters and improve the separation properties of the membranes. The membranes were further functionalized with a hydrophobic silane, perfluorodecyldimethylchlorosilane (PFDS), to enhance chemical selectivity. The results showed that the transport and selectivity properties of the membranes could be tailored by functionalization using silane chemistry.",
+  "evidence": "Atomic layer deposition (ALD) of silica (SiO2) has been used for membrane structural modification using tris(tert-butoxy)silanol and trimethylaluminium as the precursor couple. By adjusting the number of ALD deposition cycles (3–20), the effective pore diameter of AAO membranes was significantly reduced to desired values (<10 nm) improving the separation properties of commercial membranes. The chemical functionalization of silica coated AAO membranes with a perfluorodecyldimethylchlorosilane (PFDS) shows that the transport and selectivity properties of silica composite AAO membranes can be varied by functionalization using silane chemistry."
+}

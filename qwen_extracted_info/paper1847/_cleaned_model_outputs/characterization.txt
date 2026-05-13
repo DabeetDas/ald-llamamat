@@ -1,0 +1,10 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)",
+    "Transmission Electron Microscopy (TEM)",
+    "Diffuse Reflectance Infrared Fourier-Transform Spectroscopy (DRIFTS)",
+    "Diffuse Reflectance-Ultraviolet/Visible Spectroscopy (DRS)"
+  ],
+  "evidence": "X-ray Photoelectron Spectroscopy (XPS) samples were analyzed in a Thermo Scientific K-Alpha X-ray spectrometer. The X-ray source was a monochromatic AlKa source with a beam energy of 1486.7 eV and a spot size of 400 μm. The obtained Au 4f, P 2p, O 1s, C1s, and Ti 2p spectra were processed in CasaXPS. Diffuse Reflectance Infrared Fourier-Transform Spectroscopy (DRIFTS) measurements were made using a NICOLET 8700 spectrometer in diffuse reflectance mode with a range of 500-4000 cm-1 (128 scans). For Transmission Electron Microscopy (TEM) measurements multiple samples were taken from the 2g batch. The NPs were suspended in a droplet of ethanol which was then cast on a copper TEM grid. The TEM micrographs were obtained by a JEOL JEM 1400TEM operating at 120 kV. Diffuse Reflectance-Ultraviolet/Visible Spectroscopy (DRS) measurements were performed on a Perkin-Elmer Lambda 900 spectrometer in diffuse reflectance mode at a range of 250 to 800 nm using an integration sphere."
+}

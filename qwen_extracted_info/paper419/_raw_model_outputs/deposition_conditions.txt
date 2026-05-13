@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "80-500",
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 4,
+  "purge_time_s": 2,
+  "number_of_cycles": "1000-6000",
+  "reactor_type": "horizontal flow-type ALD reactor",
+  "evidence": "A single ALD cycle consisted of a sequence of pulses of volatilized precursors separated by purge times. The substrate surface was exposed to TaCl, and H,O beams for l-2 s, while purge times of 0.3 and 1.7-2.7 s were used after TaCl, and H,O pulses respectively."
+}<|im_end|>

@@ -1,0 +1,8 @@
+{
+  "target_material": "B2O3/SiO2",
+  "process_type": "ALD",
+  "main_precursors": ["trimethylborate (TMB)", "bis-(diethylamino)silane (SAM-24)"],
+  "temperature_range": "150 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of B2O3 and SiO2 thin films using trimethylborate (TMB) and bis-(diethylamino)silane (SAM-24) precursors. The ALD processes using O3 and O2 plasma as reactants exhibit well-defined growth saturation and linear growth behavior. The B2O3 films require passivation with a SiO2 layer due to spontaneous decomposition caused by moisture. The study also discusses the dielectric properties of the films and their application in a diffusion doping process for advanced 3D nanoscale devices.",
+  "evidence": "We investigated atomic layer deposition (ALD) of B2O3 and SiO2 thin films using trimethylborate (TMB) and bis-(diethylamino)silane (SAM-24) precursors, focusing on growth characteristics and film properties. For both cases, ALD processes using O3 and O2 plasma as reactants exhibited well-defined growth saturation and linear growth behavior without any incubation cycles, and produced highly pure, stoichiometric films. In the case of B2O3 films, however, SiO2 layer passivation is required onto the B2O3 due to a spontaneous decomposition caused by moisture in air."
+}

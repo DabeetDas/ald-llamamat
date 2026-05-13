@@ -1,0 +1,7 @@
+{
+  "precursors": ["(MeCp)PtMe3"],
+  "coreactants": ["O2 plasma"],
+  "purge_gas": [],
+  "carrier_gas": ["N2"],
+  "evidence": "For ALD of Pt, saturation of surface reactions for planar surfaces can be achieved after a precursor pulse of 1 s, when the precursor container is heated to 30◦C and N2 is used as a carrier gas."
+}

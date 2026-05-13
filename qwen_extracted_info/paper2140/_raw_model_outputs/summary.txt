@@ -1,0 +1,8 @@
+{
+  "target_material": "Hf aluminate",
+  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Tetrakis(ethylmethylamino)hafnium (TEMAHf)", "trimethyl aluminum (TMA)"],
+  "temperature_range": "250 °C (deposition) and 700 °C (annealing)",
+  "summary": "The study describes the enhancement of the dielectric constant in HfO2 thin films by the addition of Al2O3 through plasma-enhanced atomic layer deposition (PEALD). The process involves the stabilization of a metastable tetragonal phase of HfO2 at room temperature, resulting in a significantly higher dielectric constant compared to monoclinic HfO2. The addition of Al2O3 not only stabilizes the tetragonal phase but also changes the preferred crystallographic orientation, contributing to the increased dielectric constant.",
+  "evidence": "Hf aluminate films were deposited on p-type Si (100) at a deposition temperature of 250 °C and a pressure of 3 Torr by plasma-enhanced atomic layer deposition adopting a supercycle concept. After an annealing step at 700 °C, the tetragonal phase, which is a high-temperature phase of HfO2, was stabilized completely at room temperature and the crystallographic direction was changed to the preferred (002) orientation. As a result, Hf aluminate film with a (002)-oriented tetragonal phase had a dielectric constant of 47, approximately twice as large as the reported value of HfO2 film with a monoclinic phase."
+}<|im_end|>

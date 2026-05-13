@@ -1,0 +1,12 @@
+{
+  "target_material": "SiN x:H and SiO2",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": [
+    "SiH4",
+    "N2",
+    "CO2"
+  ],
+  "temperature_range": "250–400 /C14 C",
+  "summary": "The study demonstrates plasma enhanced atomic layer deposition (PEALD) of SiN x:H and SiO2 using alternating exposures of SiH4 and plasma-activated N2 or CO2. The process addresses challenges in step coverage and thickness control compared to traditional PECVD, offering improved conformality and moisture barrier properties. The PEALD process utilizes standard PECVD gases and enables flexibility in processing both PECVD and PEALD on the same tool.",
+  "evidence": "The authors show that alternating SiH4 gas/N2 plasma exposures applied in an atomic layer deposition sequence can be used to deposit SiN x:H films in a self-limiting fashion with improved conformality and superior performance as a moisture barrier. PEALD of SiO2 using alternating SiH4 and CO2 plasma exposures is further demonstrated."
+}

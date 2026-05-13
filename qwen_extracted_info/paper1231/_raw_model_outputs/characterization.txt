@@ -1,0 +1,15 @@
+{
+  "characterization_methods": [
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Rutherford Backscattering Spectroscopy (RBS)",
+    "Atomic Force Microscopy (AFM)",
+    "Time-of-Flight Secondary Ion Mass Spectroscopy (TOFSIMS)",
+    "Transmission Electron Microscopy (TEM)",
+    "X-ray Diffraction (XRD)",
+    "Raman Spectroscopy",
+    "Photoluminescence (PL)",
+    "Electron Spin Resonance (ESR)",
+    "Scanning Probe Microscopy (SPM)"
+  ],
+  "evidence": "XPS is used to measure chemical bonding nature and purity. RBS quantifies the amount of W and S deposited. AFM is used to analyze the morphology of WS2 crystals, including grain size and height. TOFSIMS provides information about the composition of the top surface. TEM is used to analyze the crystalline structure and texture of WS2. XRD evaluates the crystallinity and orientation of the basal plane. Raman spectroscopy and photoluminescence (PL) are used to study the crystalline structure and optical properties. Electron spin resonance (ESR) is used to reveal defects in SiO2 during the PEALD process. Scanning probe microscopy (SPM) techniques are used for surface analysis."
+}<|im_end|>

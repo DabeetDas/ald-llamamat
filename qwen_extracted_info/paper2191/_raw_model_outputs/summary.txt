@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Hf/H20851N/H20849CH3/H208502/H208524", "H2O"],
+  "temperature_range": "250 °C",
+  "summary": "The study describes the in situ H2S passivation of In0.53Ga0.47As/InP metal-oxide-semiconductor capacitors with atomic-layer deposited HfO2 gate dielectric. The process involves the use of H2S at temperatures ranging from 50–350 °C following MOVPE growth, prior to ALD of HfO2 using Hf precursor and H2O. The passivation technique significantly reduces interface oxide growth and improves electrical characteristics of the MOS devices.",
+  "evidence": "We have studied an in situ passivation of In0.53Ga0.47As, based on H2S exposure /H2084950–350 °C /H20850 following metal organic vapor phase epitaxy growth, prior to atomic layer deposition of HfO2 using Hf/H20851N/H20849CH3/H208502/H208524 and H2O precursors."
+}<|im_end|>

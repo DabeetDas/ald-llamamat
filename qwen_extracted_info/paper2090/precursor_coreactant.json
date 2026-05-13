@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "HfCl4"
+  ],
+  "coreactants": [
+    "O3",
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "We report on the growth by atomic layer deposition of HfO2 films on HF-last treated Ge substrates using HfCl4 as a Hf source and either O3 or H2O as oxygen sources."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "indium nitride (InN)",
+  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
+  "main_precursors": [
+    "trimethylindium (TMI)",
+    "nitrogen plasma (N2-only, Ar/N2, and Ar/N2/H2)"
+  ],
+  "temperature_range": "160–240 °C",
+  "summary": "The study investigates the role of nitrogen plasma composition in the low-temperature plasma-assisted growth of indium nitride (InN) thin films using PE-ALD. The films were deposited on Si (100) substrates with trimethylindium (TMI) as the metal precursor and nitrogen plasma as the co-reactant. The process was optimized to achieve nearly stoichiometric single-phase crystalline hexagonal InN (h-InN) films at substrate temperatures above 200 °C under 100 W rf-plasma power. The presence of hydrogen in the plasma gas led to microstructural changes, resulting in the formation of cubic-phase oxide (c-In2O3) films. The study also highlights the impact of hydrogen radicals on surface reactions and the formation of hydroxyl groups, which significantly affects the film composition and structure.",
+  "evidence": "Only the samples grown under hydrogen-free nitrogen plasmas (Ar/N2 or N2-only) resulted in nearly stoichiometric single-phase crystalline hexagonal InN (h-InN) films at substrate temperatures higher than 200 °C under 100 W rf-plasma power. Varying the plasma gas composition by adding H2 led to drastic microstructural changes resulting in a cubic phase oxide (c-In2O3) film."
+}

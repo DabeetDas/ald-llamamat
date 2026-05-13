@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "Cu(OCHMeCH2NMe2)2 + HCOOH -> Cu(HCOO)2 + 2H+ + 2MeNCH2CH2OCHMe",
+    "Cu(HCOO)2 + H2N-NH2 -> Cu + 2HCOONH2"
+  ],
+  "surface_mechanism_description": "The surface-bound metal precursor is treated with formic acid, leading to rapid ligand removal and formation of a surface-bound metal formate. A subsequent hydrazine pulse reduces the metal formate to metal, as exemplified by copper metal growth in the present work.",
+  "intermediate_species": [
+    "copper(II) formate",
+    "surface-bound metal formate",
+    "formate species"
+  ],
+  "evidence": "The treatment of a surface-bound metal precursor with formic acid should lead to rapid and efficient ligand removal and formation of a surface-bound metal formate. Formic acid has been previously employed in ALD to reduce Cu2O films to copper metal, but a ruthenium seed layer was required to catalyze the elimination of carbon dioxide from the surface formate species. If the film growth temperature is below the thermal decomposition point of the metal formate, then a subsequent hydrazine pulse leads to the reduction to the metal, as exemplified by copper metal growth in the present work."
+}<|im_end|>

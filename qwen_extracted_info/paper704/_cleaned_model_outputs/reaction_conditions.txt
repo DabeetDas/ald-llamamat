@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The sticking coefficient (SC) of precursor molecules in ALD depends on the temperature and the molecular symmetry. The SC is influenced by the interaction between the precursor molecule and the reactive surface site, with symmetric molecules and high temperatures being beneficial for efficient ALD processes. The SC is determined by comparing simulated profiles to experimental thickness profiles in cylindrical holes.",
+  "intermediate_species": ["TEMAHf", "Cp*Ti(OMe)3", "OMe-ligands", "CP*-ligand"],
+  "evidence": "The SC of TEMAHf depends exponentially on the substrate temperature. The SC of Cp*Ti(OMe)3 was determined at 270 8C. A possible explanation for the small SC of Cp*Ti(OMe)3 could be the reduced symmetry of the precursor molecule. Therefore, symmetric precursor molecules and high process temperatures appear beneficial for efficient ALD processes. The SC of Cp*Ti(OMe)3 is significantly lower than the SC of TEMAHf at the same temperature. The Cp*Ti(OMe)3 molecule chemisorbs to the surface via the OMe-ligands so that only three out of four ligands are reactive during the adsorption. In addition, the OMe-ligands are much smaller than the CP*-ligand which further reduces the molecular symmetry."
+}

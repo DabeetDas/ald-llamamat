@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "trimethylaluminum (TMA)",
+    "water (H2O)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "Al2O3 films are grown by atomic layer deposition (ALD) using trimethylaluminum and water as precursors on HF-last and NH3 plasma pretreatment Si substrates. The precursors were alternatively fed into the reactor using pure N2 as a carrier gas. To avoid gas-phase reactions caused by intermixing the precursors, the reactor was purged with pure N2 gas after each precursor pulse."
+}

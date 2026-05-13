@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "240 mTorr",
+  "precursor_pulse_time_s": 14,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "cross-flow, hot wall Ultratech-Cambridge Nanotech Savannah",
+  "evidence": "The PEALD depositions were performed at 150 °C in a top flow reactor (Ultratech-CNT Fiji system) using a remote inductively coupled plasma (ICP) unit. The argon gas flow for the process was 20 sccm of Ar carrier gas with 200 sccm of plasma Ar continuously flowing through the chamber. For extended Mo precursor exposure, the downstream vacuum valve was closed for 14 s during the precursor pulse step and then opened for the precursor purge and plasma steps. The coreactant was O2 plasma generated at 300 W in a flowing gas of 20 sccm O2 and 80 sccm Ar. Plasma exposure times were 20 s with a purge time of 5 s."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "120",
+  "pressure": "",
+  "precursor_pulse_time_s": 400,
+  "coreactant_pulse_time_s": 800,
+  "purge_time_s": 400,
+  "number_of_cycles": 1000,
+  "reactor_type": "Microchemistry F-120",
+  "evidence": "A Microchemistry F-120 ALD reactor with a deposition temperature of 120 /C14C was used to grow the Zn –Sn–O buffer layers on either glass substrates or CIGS."
+}

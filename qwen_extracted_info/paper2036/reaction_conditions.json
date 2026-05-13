@@ -1,0 +1,16 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + H/O -> Al–CH3 + CH4",
+    "Al–CH3 + H2O -> Al–OH + CH4",
+    "Al–OH + H2O -> Al–O–Al + H2O"
+  ],
+  "surface_mechanism_description": "TMA reacts with surface hydroxyl groups, forming Al–CH3 species. A subsequent water pulse replaces Al–CH3 with Al–OD, leading to subsurface oxidation of Si and the formation of interfacial SiO2. The process involves methyl transfer from TMA to Si sites, and the replacement of methyl groups with hydroxyl groups during the water pulse.",
+  "intermediate_species": [
+    "Al–CH3",
+    "Al–OD",
+    "Si–CH3",
+    "Si–O–Al",
+    "Si–O–Si"
+  ],
+  "evidence": "TMA reacts with H/Si (111) and H/Si (100) at 300 °C, forming Al–CH3 species. A subsequent water pulse replaces Al–CH3 with Al–OD. The initial reactivity of H/Si is summarized in Fig. 2. The second TMA pulse reacts with surface OD groups, forming Al–CH3. The second water pulse then replaces Al–CH3 with Al–OD as expected. Interfacial SiO2 continues to form for several cycles up to a thickness of 4 Å, while amorphous Al2O3 grows and most Si–CH3 decomposes."
+}

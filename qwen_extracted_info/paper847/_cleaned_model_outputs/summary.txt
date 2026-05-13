@@ -1,0 +1,8 @@
+{
+  "target_material": "SnO2",
+  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["dibutyl tin diacetate", "O2"],
+  "temperature_range": "300 1C",
+  "summary": "Orthorhombic SnO2 films were epitaxially grown on (100), (110), and (111) YSZ substrates using plasma enhanced atomic layer deposition (PEALD). The films exhibited similar electrical resistivity and optical properties, with high transparency in the visible range. The study focused on the structural, electrical, and optical properties of the films, and the epitaxial relationships between the films and substrates were determined using X-ray diffraction, X-ray pole figures, and high-resolution transmission electron microscopy.",
+  "evidence": "SnO2 thin films were deposited on (100), (110), and (111) YSZ substrates using plasma enhanced atomic layer deposition (PEALD), and their structural, electrical, and optical properties were investigated. The deposition was conducted with an RF power of 100 W at 220 mtorr for 1000 cycles. The substrate temperature during deposition was maintained at 300 1C."
+}

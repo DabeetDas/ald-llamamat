@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The transamination reaction between dimethylamine and ammonia, which promotes the exchange reaction between dimethylamine and NH2, resulting in an improvement in film purity.",
+  "intermediate_species": ["dimethylamine", "NH2"],
+  "evidence": "This reaction is composed of the elimination of one ligand as dimethylamine and the insertion of ammonia as NH2. That is, NH3 PDA promoted the exchange reaction between dimethylamine and NH2, resulting in an improvement in film purity."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "Silicon nitride (SiNx)",
+  "process_type": "Plasma enhanced atomic layer deposition (PEALD)",
+  "main_precursors": ["Neopentasilane (NPS)", "Trisilylamine (TSA)"],
+  "temperature_range": "250–300 /C14 C",
+  "summary": "The study investigates the low-temperature plasma enhanced atomic layer deposition (PEALD) of silicon nitride (SiNx) using neopentasilane (NPS) and compares it with trisilylamine (TSA). The research focuses on the impact of plasma conditions on the growth rate, refractive index, and wet etch rate of the deposited films. The results show that NPS provides a higher growth rate and that plasma conditions significantly affect the film properties, particularly the wet etch rate, which is influenced by ion energy and plasma power.",
+  "evidence": "Plasma enhanced atomic layer deposition of silicon nitride using neopentasilane [NPS, (SiH3)4Si] in a plasma enhanced atomic layer deposition process with a direct N2 plasma. The growth with NPS is compared to a more common precursor, trisilylamine [TSA, (SiH3)3N] at identical process conditions. The wet etch rates of the films deposited with NPS are characterized at different plasma conditions and the impact of ion energy is discussed."
+}<|im_end|>

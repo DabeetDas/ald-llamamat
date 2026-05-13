@@ -1,0 +1,10 @@
+{
+  "target_material": "Gd2O3",
+  "process_type": "ALD",
+  "main_precursors": [
+    "[Gd(DPDMG)3]"
+  ],
+  "temperature_range": "175 -275 °C",
+  "summary": "Gd2O3 thin films were deposited using a surface-controlled, self-limiting ALD process with a growth rate of ∼1.1 Å/cycle. The process utilized the homoleptic gadolinium guanidinate precursor [Gd(DPDMG)3] and H2O, achieving high-quality crystalline films with minimal interfacial SiOx layer.",
+  "evidence": "The ALD growth for [Gd(DPDMG)3]/H2O was further verified by investigating the influence of the precursor pulse length on the growth rate of Gd2O3 at 225 °C. The obtained growth rate is nearly 4 times higher than that reported for [{Gd(thd)3}2]/O3 (∼0.3 Å/cycle, ALD window 250 -300 °C). The key to this success was the use of a tailored all-nitrogen-coordinated tris(guanidinato)gadolinium precursor that combines several advantageous properties, including high and selective reactivity toward water at low temperatures."
+}

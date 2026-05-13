@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["trimethylaluminum", "water"],
+  "temperature_range": "200 °C",
+  "summary": "The study demonstrates that using OH-terminated Si(001) substrates in the atomic layer deposition (ALD) of Al2O3 significantly reduces the incubation period and results in smoother thin films. The ALD process was carried out with trimethylaluminum and water as precursors at 200 °C, and the OH-terminated substrates showed enhanced reactivity compared to H-terminated substrates.",
+  "evidence": "The use of OH-terminated Si(001) substrates has another beneficial effect of producing thin films with very smooth surface morphology. The ALD of Al2O3 was carried out with trimethylaluminum and water as sources for aluminum and oxygen, respectively. The substrates were kept at 200 °C for the ALD processes."
+}<|im_end|>

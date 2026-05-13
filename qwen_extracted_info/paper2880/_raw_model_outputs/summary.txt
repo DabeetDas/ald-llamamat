@@ -1,0 +1,8 @@
+{
+  "target_material": "Boundary entropy",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Bulk conformal invariance", "Boundary couplings"],
+  "temperature_range": "0 to 1/T",
+  "summary": "The paper investigates the infrared behavior of boundary entropy in one-dimensional quantum systems. It shows that the boundary entropy decreases with decreasing temperature and is bounded below. The study uses real-time methods and renormalization group techniques to analyze the behavior of boundary couplings and their relation to the boundary entropy. The paper also discusses the implications of conformal invariance and the role of boundary conditions in the infrared limit.",
+  "evidence": "The boundary entropy, s, is a function of the temperature and boundary couplings, and satisfies the renormalization group equation. The boundary entropy decreases with decreasing temperature, which implies that the boundary entropy is bounded below. The paper also discusses the role of conformal invariance and the implications of boundary conditions in the infrared limit."
+}<|im_end|>

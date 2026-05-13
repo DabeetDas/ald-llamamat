@@ -1,0 +1,13 @@
+{
+  "target_material": "Fe3O4",
+  "process_type": "ALD",
+  "main_precursors": [
+    "ferrocene",
+    "ozone",
+    "3-aminopropyltriethoxysilane",
+    "water"
+  ],
+  "temperature_range": "400 °C",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to create modulated magnetic Fe3O4 nanotubes with controlled diameter variations. The process involves anodizing aluminum to form a porous alumina template, followed by ALD to coat the pores with Fe2O3 and SiO2 layers, which are then converted to Fe3O4. The diameter modulations in the nanotubes significantly influence their magnetic properties, such as coercive field and remanence.",
+  "evidence": "Atomic layer deposition (ALD) is particularly suited to the conformal coating of the pore walls for the creation of tubes of oxidic materials, given that it relies on a self-limiting chemical reaction at the surface. ... Annealing the sample under Ar/H2 at 400 °C converts Fe2O3 to the ferrimagnetic Fe3O4. ... The coercive field is only marginally affected by the geometry of the tubes when the field is applied H/H6023/H11036z/H6023. ... The introduction of one or several very short segments of large diameter (150 nm) into an otherwise thin tube (70 nm diameter) brings its initially large coercive field down to a value close to the case of a homogeneously thick tube."
+}

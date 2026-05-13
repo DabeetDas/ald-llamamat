@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 325,
+  "pressure": "0.02 Torr",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 3,
+  "number_of_cycles": 1000,
+  "reactor_type": "open-load thermal and remote plasma ALD reactor",
+  "evidence": "The LiCoO2 films were deposited at a temperature of 325◦C and showed linear growth with a rate of 0.06 nm/cycle. The remote plasma ALD process for LiCoO2 consists of the two individual ALD processes for the deposition of Co3O4 and Li2CO3 which are combined in a so-called super-cycle. The CoCp2 and LiOtBu precursors were heated to 80 ◦C and 120◦C respectively (Table II) and they were bubbled with Ar at a reactor pressure of 0.02 Torr. The CoCp2 dosing time and the plasma exposure time are kept constant at 2 s and 5 s respectively."
+}

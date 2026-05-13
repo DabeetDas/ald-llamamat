@@ -1,0 +1,7 @@
+{
+  "precursors": ["W(CO)6"],
+  "coreactants": ["O3"],
+  "purge_gas": [],
+  "carrier_gas": ["N2"],
+  "evidence": "Tungsten hexacarbonyl (W(CO)6) was used as the metal precursor for this deposition. O3 gas was used as oxygen source that was directly fed to the reactor. The flow of O3 was controlled by a combination of metering valve and computer controlled pneumatic valves. Metal hexacarbonyl precursor was kept at room temperature and was dosed into the reactor using N2 carrier gas with an overhead assembly."
+}

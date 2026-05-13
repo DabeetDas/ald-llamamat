@@ -1,0 +1,8 @@
+{
+  "target_material": "Zn–Sn–O",
+  "process_type": "ALD",
+  "main_precursors": ["tetrakis(dimethylamino) tin (Sn(N(CH3)2)4)", "diethyl zinc (Zn(C2H5)2)", "water (H2O)"],
+  "temperature_range": "120 /C14C",
+  "summary": "A new atomic layer deposition (ALD) process for Zn–Sn–O buffer layers in Cu(In,Ga)Se2 solar cells was developed using tetrakis(dimethylamino) tin, diethyl zinc, and water. The process provides good control over thickness and [Sn]/([Sn]+[Zn]) content. The films are amorphous, have high resistivity, and show lower density compared to ZnO and SnOx. The solar cells with Zn–Sn–O buffer layers achieved an efficiency of 15.3% and showed stability after 1000h of dry heat storage. The light-soaking effect was observed to significantly improve performance.",
+  "evidence": "A new atomic layer deposition (ALD) process for Zn–Sn–O buffer layers in Cu(In,Ga)Se2 solar cells was developed using tetrakis(dimethylamino) tin, diethyl zinc, and water. The process provides good control over thickness and [Sn]/([Sn]+[Zn]) content. The films are amorphous, have high resistivity, and show lower density compared to ZnO and SnOx. The solar cells with Zn–Sn–O buffer layers achieved an efficiency of 15.3% and showed stability after 1000h of dry heat storage. The light-soaking effect was observed to significantly improve performance."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 473,
+  "pressure": "1 /C210/C07 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": 3,
+  "reactor_type": "UHV chamber with internal high pressure reaction cell and capillary array doser",
+  "evidence": "The AES measurements revealed that 3 WF 6/Si2H6 reaction cycles were required to nucleate the W ALD film on Al 2O3 surfaces at 473 K."
+}

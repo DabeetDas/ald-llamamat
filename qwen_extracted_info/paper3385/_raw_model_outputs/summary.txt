@@ -1,0 +1,8 @@
+{
+  "target_material": "SiO2–GeO2 multilayers",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(dimethylamino)germanium (IV) (TDMAGe)", "bis(diethylamino)silane (BDEAS)"],
+  "temperature_range": "100–300 °C",
+  "summary": "The study reports the atomic layer deposition (ALD) growth of SiO2–GeO2 multilayers on silicon substrates using TDMAGe and BDEAS as precursors. The process involves thermal ALD with a temperature range of 100–300 °C. The growth of these multilayers was optimized to achieve layer-by-layer growth with electron density contrast and the absence of chemical intermixing, down to a periodicity of two atomic layers. The study also investigates the dielectric properties of the GeO2 films and the structural characteristics of the multilayered films using XRR and AFM.",
+  "evidence": "The text states: 'We use a Picosun R-200 Advanced hot-wall ALD System... The accessible process temperatures range from 100 °C to 300 °C... The SiO2 growth from BDEAS was optimized... The reactor temperature was set to 300 °C... The minimum operating temperature of our system is, for this process, about 100 °C... The GPC dependence on the pulse length was analyzed... The dielectric properties of GeO2 films grown with the optimized parameters were also investigated... The XRR patterns show clear thickness oscillations in all cases, indicating the good homogeneity of the films and the quality of the top and bottom interfaces.'"
+}<|im_end|>

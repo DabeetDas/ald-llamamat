@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Hydrogen and/or organic ligand adsorption induces Pd surface segregation during ALD growth, which is driven by the adsorption of hydrogen or organic ligands intrinsic to the ALD process. This segregation is responsible for the persistent Pd composition on the surface of the Cu–Pd films despite the Cu deposition.",
+  "intermediate_species": ["hydrogen", "organic ligands", "Pd surface segregation"],
+  "evidence": "The text states: '...the cause for the persistent Pd composition on the surface of the Cu–Pd films is due to Pd surface segregation during growth, which is most likely driven by adsorption of hydrogen or organic ligands intrinsic to the ALD process.'"
+}

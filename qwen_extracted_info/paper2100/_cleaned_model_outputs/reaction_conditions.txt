@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "As2O3 + Al(CH3)3 -> As + Al2O3",
+    "As + H2O -> As2O5"
+  ],
+  "surface_mechanism_description": "The arsenic oxides on the InGaAs surface first interact with Al(CH3)3 to be transformed into arsenic and Al2O3. The arsenic then reacts with H2O to form As2O5, which then reacts again with the next incoming pulse of Al(CH3)3 to become As and Al2O3. The removal of arsenic oxides during the ALD process ensures the Fermi-level unpinning.",
+  "intermediate_species": [
+    "As2O3",
+    "As",
+    "Al2O3",
+    "As2O5"
+  ],
+  "evidence": "It is possible that As2O3, the native oxide on InGaAs surface, first interacts with Al(CH3)3 to be transformed to become arsenic and Al2O3. Note that As2O3 was reduced by Al(CH3)3. However, it is not known that the arsenic form is As, As2, or As4. The arsenic then reacts with H2O to become As2O5, which then reacts again with the next incoming pulse of Al(CH3)3 to become As and Al2O3. As2O5 has a lower Gibbs free energy than As2O3. This reaction has repeated itself during the ALD process."
+}

@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "methylpyrrolidine alane /H20849C5H14NAl/H20850"
+  ],
+  "coreactants": [
+    "O 2 plasma"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "Al 2O3 films were grown on p-type /H20849100/H20850silicon wafers, at 100°C, using methylpyrrolidine alane /H20849C5H14NAl/H20850and capacitively coupled O 2 plasma as the sources of Al and O, respectively. The wafers were then immersed in a 50:1 HF solution, until the surface was hydrophobic. The wafer was then loaded immediately into the ALD reaction chamber and heated up to 100°C. The expected initial oxide thickness was less than 0.5 nm. The MPA and O 2 were alternately supplied into the reaction chamber by a sequential injection of MPA pulse, Ar purge pulse, O 2 pulse with plasma exposure, and another Ar purge pulse."
+}

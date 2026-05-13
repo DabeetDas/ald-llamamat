@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "MeCpPtMe3"
+  ],
+  "coreactants": [
+    "O2",
+    "N2",
+    "NH3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [
+    "Ar"
+  ],
+  "evidence": "The solid platinum precursor MeCpPtMe3 (99%, Strem Chemicals) was heated above its melting point (30 ◦C) in a glass bubbler and argon was used as a carrier gas to reach a pressure of 5 × 10−3 mbar in the reactor chamber during the precursor pulse."
+}

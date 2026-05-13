@@ -1,0 +1,17 @@
+{
+  "precursors": [
+    "Ta(OC2H5)5",
+    "Al(CH3)3",
+    "H2O"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [
+    "N2"
+  ],
+  "evidence": "The precursors employed for the deposition procedure were tantalum ethoxide (Ta(OC2H5)5), trimethylaluminium (Al(CH3)3) and H2O. The ALD reactor was operated with a constant nitrogen flow at a pressure of about 5 mbar. The nitrogen carrier and purge gas flow was 600 sccm with impurity content below 10− 5 (impurity flow below 0.006 sccm)."
+}

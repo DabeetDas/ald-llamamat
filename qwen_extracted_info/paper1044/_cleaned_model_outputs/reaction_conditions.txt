@@ -1,0 +1,18 @@
+{
+  "reaction_equations": [
+    "ðAÞ WSiHFSiH3T þ 2WF6 Y WWWF4T þ 2SiF4 þ 3=2H2 þ HF",
+    "ðB1Þ WF4T þ Si2H6 Y WSiH2FT þ SiHF3 þ 3=2H2",
+    "ðB2Þ WSiH2FT þ 1=2Si2H6 Y WSiHFSiH3T þ 1=2H2"
+  ],
+  "surface_mechanism_description": "The surface reactions during W ALD involve the insertion of silylene from Si2H6 into surface Si–H bonds, leading to the formation of surface species such as WSiH2F* and SiHF3. The WF6 reaction is self-limiting, while the Si2H6 reaction is not strictly self-limiting, resulting in a slow and continual increase in W ALD growth rates for Si2H6 exposures > 4×10−4 L. The mechanism includes the conversion of a silated surface to a fluorinated tungsten surface during WF6 exposures and the reverse during Si2H6 exposures.",
+  "intermediate_species": [
+    "WSiH2F*",
+    "SiHF3",
+    "SiH2F*",
+    "WF4*",
+    "SiHF3",
+    "SiHFSiH3T",
+    "WSiHFSiH3T"
+  ],
+  "evidence": "The surface reactions during W ALD involve the insertion of silylene from Si2H6 into surface Si–H bonds, leading to the formation of surface species such as WSiH2F* and SiHF3. The WF6 reaction is self-limiting, while the Si2H6 reaction is not strictly self-limiting, resulting in a slow and continual increase in W ALD growth rates for Si2H6 exposures > 4×10−4 L. The mechanism includes the conversion of a silated surface to a fluorinated tungsten surface during WF6 exposures and the reverse during Si2H6 exposures."
+}

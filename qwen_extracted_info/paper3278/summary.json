@@ -1,0 +1,12 @@
+{
+  "target_material": "Al2O3 and HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "water",
+    "trimethylaluminum (TMA)",
+    "tetrakis(dimethylamido)hafnium"
+  ],
+  "temperature_range": "250 °C",
+  "summary": "The study investigates the use of atomic layer deposition (ALD) to coat microscale channels with aluminum oxide (Al2O3) and hafnium oxide (HfO2). The research focuses on the uniformity of ALD coatings in high-aspect-ratio structures, such as air wedges and capillary tubes, and evaluates the performance of these coatings in optical applications like Fabry–Perot cavities. ALD Al2O3 shows excellent uniformity and stability, while HfO2 requires optimization but still outperforms other deposition techniques. The study highlights the potential of ALD for micro-optical coatings and environmental stability.",
+  "evidence": "Al2O3 and HfO2 coatings were deposited using standard recipes at 250 °C in a 200 mm diameter crossflow ALD reactor. The process showed remarkable ability to coat within the air wedge structure, with only a 2:2 nm thickness variation. ALD Al2O3 is particularly impressive, with an overall thickness range of only 4% and refractive index variation <0:01. The study also demonstrates the use of ALD for a six-layer Fabry–Perot optical cavity with fixed 500 nm resonance, showing good agreement between measured and simulated results."
+}

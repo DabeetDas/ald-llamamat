@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions during ALD PbTiO3 growth involve the sequential use of Pb(DMAMP)2 and TDMAT precursors with H2O and ozone as oxidizers. The PbOx and TiOx cycles are alternated to form a supercycle, which results in the formation of PbTiO3. The PbOx and TiOx cycles are used to incorporate Pb and Ti into the film, with the stoichiometry controlled by the ratio of PbOx to TiOx cycles. The surface reactions are not explicitly detailed in chemical equations but are implied through the ALD process description.",
+  "intermediate_species": ["PbOx", "TiOx"],
+  "evidence": "The text describes the use of Pb(DMAMP)2 and TDMAT as cation precursors with H2O and ozone as oxidizers. The PbOx and TiOx cycles are alternated to form a supercycle, which results in the formation of PbTiO3. The surface reactions are not explicitly detailed in chemical equations but are implied through the ALD process description."
+}<|im_end|>

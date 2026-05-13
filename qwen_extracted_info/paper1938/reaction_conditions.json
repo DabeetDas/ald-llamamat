@@ -1,0 +1,8 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALA treatment introduces in situ He/Ar plasma during each ALD cycle to provide energy for adatom migration, which enhances crystallinity. The plasma facilitates adatom diffusion and rearrangement, leading to smooth and uniform surfaces.",
+  "intermediate_species": [
+    "adatoms"
+  ],
+  "evidence": "The ALA process with He/Ar plasma treatment in each ALD cycle is introduced to provide energy for adatom migration. The He/Ar plasma facilitates adatom diffusion and rearrangement, thereby leading to the smooth and uniform surfaces of the AlN layer."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["di-sec-butylaminosilane (DSBAS)", "bis(tert-butylamino)silane (BTBAS)"],
+  "coreactants": ["ozone (O3)"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "In the ALD reactor, the DSBAS and BTBAS precursors are vapor drawn from an ampule kept at 50 °C and pulsed into the reactor (typically 5 −10 s pulses). Ozone (O3) is produced using an In-USA ozone generator with controlled concentration (13−18 wt % O3/cm3), and introduced into the reactor using pneumatic valves, with exposure times and flow rates ranging from 0 to 60 s pulses and from 100 to 300 sccm, respectively. For ALD growth, the sample is exposed to alternative pulses of DSBAS (or BTBAS) and ozone followed by 15 min purging with ultrapure N2 gas between precursor pulses."
+}<|im_end|>

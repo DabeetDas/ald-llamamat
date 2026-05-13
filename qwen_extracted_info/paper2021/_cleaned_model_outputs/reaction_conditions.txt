@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of ZrCl4 and H2O or H2O-H2O2 on Si(100) substrates, leading to the formation of ZrO2 films. The growth mechanism is surface-controlled with alternating pulses of precursors, resulting in self-limiting submonolayer-by-submonolayer growth. The reaction steps include the adsorption of ZrCl4, followed by the reaction with surface hydroxyl groups, and subsequent regeneration of hydroxyl sites through a water pulse.",
+  "intermediate_species": ["ZrCl4", "surface hydroxyl groups", "residual chlorine and hydrogen"],
+  "evidence": "The text describes the ALD process using ZrCl4 and H2O or H2O-H2O2 on Si(100) substrates, with the growth mechanism involving alternating pulses of precursors. It mentions the adsorption of ZrCl4, reaction with surface hydroxyl groups, and regeneration of hydroxyl sites through a water pulse. The presence of residual chlorine and hydrogen is noted, indicating incomplete surface reactions at lower temperatures."
+}

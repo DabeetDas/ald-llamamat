@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": ["surface hydroxyls", "formate species"],
+  "evidence": "ALD-Al2O3 was deposited using trimethylaluminum and H2O for 250 reaction cycles at 300°C. During the ALD of the Al2O3 layer, some remaining surfactants on the surface were expected to desorb because the surfactants attached on the colloidal NC surface were readily desorbed above 200°C."
+}<|im_end|>

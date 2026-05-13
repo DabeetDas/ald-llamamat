@@ -1,0 +1,8 @@
+{
+  "target_material": "tin dioxide (SnO2)",
+  "process_type": "pulsed atomic layer chemical vapour deposition",
+  "main_precursors": ["SnCl4", "H2O"],
+  "temperature_range": "400 ◦C to 500 ◦C",
+  "summary": "Sub-nanometre thick tin dioxide films were grown on amorphous Pyrex glass and crystalline sapphire substrates using pulsed atomic layer chemical vapour deposition. The films exhibited epitaxial growth with different crystal orientations depending on the substrate.",
+  "evidence": "Sub-nanometre thick tin dioxide (SnO2) films were grown on both amorphous Pyrex glass and crystalline CZ sapphire substrates using pulsed atomic layer metal-inorganic chemical vapour deposition. The source materials, SnCl4 and H2O, were introduced by pulsed doses as reactants into the cold reactor, and doses were separated by pulse doses of inert purge gas doses. Depositions took place at a reduced pressure 2.5 × 10−2 Torr at the temperature range 400 ◦C to 500 ◦C."
+}

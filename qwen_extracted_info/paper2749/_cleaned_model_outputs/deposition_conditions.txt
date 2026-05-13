@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": 500,
+ "pressure": "10 Torr",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": null,
+ "reactor_type": "F-120",
+ "evidence": "Titanium nitride was deposited at 500 °C on Si @100# in a commercial flow-type ALE reactor ~F-120, Microchemistry Ltd., Espoo, Finland!."
+}

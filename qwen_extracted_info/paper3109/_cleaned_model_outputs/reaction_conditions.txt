@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The chemisorption sites offered by the Pb–O layer for either the Ti/H20849Oi–Pr/H208504 or the Zr/H20849DIBM/H208504 molecules are limited, and that the Ti and Zr molecules competitively occupy these sites.",
+  "intermediate_species": ["Pb–O", "Ti/H20849Oi–Pr/H208504", "Zr/H20849DIBM/H208504"],
+  "evidence": "The deposition rates of Ti and Zr clearly depend on the sequence, whereas the deposition rate of Pb does not. The deposition rate of Zr is increased and that of Ti is decreased when the sequence is changed from /H20849Pb–O/H20850–/H20849Ti–O/H20850–/H20849Zr–O/H20850 to /H20849Pb–O/H20850–/H20849Zr–O/H20850–/H20849Ti–O/H20850. Interestingly, the deposition rate of Zr increased as much as the deposition rate of Ti decreased and vice versa. This finding explains why the Pb //H20849Zr + Ti/H20850 remained constant in contrast to the sequence-dependent Zr //H20849Zr + Ti/H20850 values. It can be hypothesized that the chemisorption sites offered by the Pb–O layer for either the Ti/H20849Oi–Pr/H208504 or the Zr/H20849DIBM/H208504 molecules are limited, and that the Ti and Zr molecules competitively occupy these sites."
+}

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "lanthanum tris(N,N-di-iso-propylformamidinate)",
+    "scandium tris(N,N-diethylacetamidinate)",
+    "lutetium tris(N,N-diethylformamidinate)",
+    "yttrium tris(N,N-di-iso-propylacetamidinate)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [],
+  "evidence": "The oxide films were deposited in a flow-type ALD reactor with water vapor alternating with vapors of metal amidinate precursors: lanthanum tris(N,N-di-iso-propylformamidinate), scandium tris(N,N-diethylacetamidinate), lutetium tris(N,N-diethylformamidinate), and yttrium tris(N,N-di-iso-propylacetamidinate)."
+}

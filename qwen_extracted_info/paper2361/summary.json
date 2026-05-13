@@ -1,0 +1,12 @@
+{
+  "target_material": "HfO2 and Al2O3",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "HfCl4",
+    "Al(CH3)3",
+    "H2O"
+  ],
+  "temperature_range": "300 ◦C",
+  "summary": "The study compares the electrical properties of HfO2 and Al2O3 films deposited via ALD with Pt or n+-polycrystalline-silicon (poly-Si) gates. The HfO2-Al2O3 stack film showed better As diffusion-blocking properties due to the amorphous interface layer containing Al2O3, leading to lower current density and reduced hysteresis voltage. The results suggest that the HfO2-Al2O3 stack is compatible with poly-Si gates and comparable to Pt gates.",
+  "evidence": "Pt or Arsenic (As)-doped polycrystalline-silicon (poly-Si) gate/HfO2 or HfO2Al2O3/p-type Si metal oxide semiconductor (MOS) capacitors were fabricated using an atomic-layer-deposition technique, and their compatibility with poly-Si gate was investigated using a comparison with the Pt gate. The HfO2-Al2O3 stack film was found to have better As diffusion-blocking properties as a result of the rather thick amorphous interface layer including Al2O3 than that of the HfO2 film. N+ doped poly-Si gate/HfO2-Al2O3 MOS capacitors had a lower current density of −1.1 × 10−9 A/cm2 at −1V resulting in a small hysteresis voltage due to the lower As penetration and thick amorphous interface layer. These results suggest that N+ doped poly-Si gate/HfO2-Al2O3 MOS capacitors are compatible with the poly-Si gate, which is also comparable to the Pt gate."
+}

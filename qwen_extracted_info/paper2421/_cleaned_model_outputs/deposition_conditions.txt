@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 400,
+  "pressure": "1.6× 10− 1 Torr",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 1,
+  "number_of_cycles": "100-700",
+  "reactor_type": "quartz tube",
+  "evidence": "The precursors of TiCl 4 and H2O, kept separately in a canister at 30 ± 1 ◦C and 25 ± 1◦C, were used as Ti and O sources, respectively. Pure Ar gas (99.999%) was used as the carrying gas and purge gas. Each deposition cycle consisted of eight steps, which included TiCl 4 reactant, pumpdown, Ar purge, pump-down, H 2O reactant, pump-down, Ar purge and pump-down. Typical pulse time for TiCl 4 and H2 precursors was 1 s and the purge time was 1 s, as well."
+}

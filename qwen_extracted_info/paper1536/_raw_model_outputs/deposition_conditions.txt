@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "60 /C176C",
+  "pressure": "3 mbar",
+  "precursor_pulse_time_s": 15,
+  "coreactant_pulse_time_s": 35,
+  "purge_time_s": 35,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type ALD reactor",
+  "evidence": "The studied processes were SbCl3-(Et3Si)2Te at 60 /C176C and GeCl2 3 C4H8O2-(Et3Si)2Te at 90 /C176C. Typical process cycles were 15 s SbCl3 þ 15 s purge þ 35 s (Et3Si)2Te þ 35 s purge and 20 s GeCl2 3 C4H8O2 þ 20 s purge þ 35 s (Et3Si)2Te þ 35 s purge."
+}<|im_end|>

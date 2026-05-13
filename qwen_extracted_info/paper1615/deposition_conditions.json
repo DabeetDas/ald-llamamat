@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-400",
+  "pressure": "5 −10 mbar",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 1,
+  "number_of_cycles": 1000,
+  "reactor_type": "cross-flow F-120",
+  "evidence": "The ALD reactor was a cross-flow F-120 ALD reactor (ASM Microchemistry Ltd., Finland) under a nitrogen pressure of about 5 −10 mbar. The AlCl3−TMPO and TiCl4−TMPO pulse sequences were used to deposit corresponding aluminum and titanium phosphate films. 1000 cycles were applied in each deposition with 2 s precursor pulses and 1 s purges."
+}

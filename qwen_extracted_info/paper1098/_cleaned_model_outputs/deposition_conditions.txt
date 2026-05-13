@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "60-240",
+  "pressure": "",
+  "precursor_pulse_time_s": "20-90",
+  "coreactant_pulse_time_s": "15",
+  "purge_time_s": "8 s or 20 s",
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "Following growth parameters were used by us in the ALD process: pulsing times (time of introducing of a given precursor): for H2O–15 ms, for DEZn –between 20 ms and 90 ms. To achieve low free electron concentration relatively long purging times: for H2O–8 s or 20 s, for DEZn–8 s were necessary. For films deposited at higher temperature these times could be shorten to 1 s. Substrate temperature (glass, sapphire, silicon for test processes and CdTe for constructing PV cells) was varied between 60 °C and 240 °C. For dimethylzinc (DMZn) as zinc precursor a growth temperature could be reduced to a room temperature. Acknowledgments The research was partially supported by the European Union within European Regional Development Fund, through grant Innovative Economy (POIG.01.01.02-00-008/08). The F-120 ALE reactor of Microchemistry was bought using SEZAM grant of the Foundation for Polish Science."
+}

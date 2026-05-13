@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 342,
+  "pressure": "920 mTorr",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 60,
+  "number_of_cycles": null,
+  "reactor_type": "Atomic Classic, CN-1",
+  "evidence": "AlGaN thin ﬁlm was deposited using thermal ALD system (Atomic Classic, CN-1, Korea) at a wafer temperature of 342 /C14 C. TMA (UP Chemical, Korea) and triethyl gallium (TEG; Lake Materials, Korea) were used as metal precursors for Al and Ga, respectively. NH3 and N2 were used as reactant and purge gas, respectively. As established in our previous study, AlN subcycle was composed of TMA feeding (0.5 s) - N 2 purge (5 s) - NH 3 feeding (5 s) - N 2 purge (60 s) [ 26]. Similarly, GaN subcycle was composed of TEG feeding (0.3 s) - N2 purge (5 s) - NH3 feeding (5 s) - N2 purge (60 s)."
+}<|im_end|>

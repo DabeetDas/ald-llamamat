@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "t-Butoxytris(ethylmethylamido)hafnium [HfO tBu(NEtMe)3, BTEMAH]",
+    "tetrakisisopropoxide titanium [Ti(OC 3H7)4, TTIP]"
+  ],
+  "coreactants": [
+    "O3"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "t-Butoxytris(ethylmethylamido)hafnium [HfO tBu(NEtMe)3, BTEMAH] and tetrakisisopropoxide titanium [Ti(OC 3H7)4, TTIP] were used as the Hf and Ti precursors, respectively. O 3 with a concentration of 400 g/m3 was used as the oxygen source. A mixture of O 2/N2 at a flow rate of 800 sccm/5 sccm was introduced into an O3 generator to produce O3. A cycle for the deposition of HfO 2 was composed of a BTEMAH injection (4.5 s) - Ar purge (5 s)- O3 injection (3 s) - Ar purge (3 s) steps."
+}

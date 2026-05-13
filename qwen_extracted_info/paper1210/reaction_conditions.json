@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of [Co(tBu2DAD)2] with ozone (O3) in a low-temperature ALD process. The precursor [Co(tBu2DAD)2] is first adsorbed onto the surface, followed by the reaction with ozone, leading to the formation of Co3O4. The process is self-limiting, with the surface undergoing a series of reactions that include the decomposition of the precursor and the incorporation of oxygen from ozone. The presence of surface hydroxyl groups and the formation of Co-O bonds are critical steps in the mechanism.",
+  "intermediate_species": [
+    "Co(tBu2DAD)2*",
+    "surface hydroxyls",
+    "Co-O species"
+  ],
+  "evidence": "The surface reaction mechanism is described in the text as follows: 'The presence of surface hydroxyl groups and the formation of Co-O bonds are critical steps in the mechanism.' Additionally, the text mentions the use of [Co(tBu2DAD)2] as a precursor and ozone as the oxygen source, indicating the reaction between these species on the surface."
+}

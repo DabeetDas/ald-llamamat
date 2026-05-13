@@ -1,0 +1,11 @@
+{
+  "target_material": "alumina",
+  "process_type": "thermal ALD",
+  "main_precursors": [
+    "trimethylaluminum (TMA)",
+    "deionized water"
+  ],
+  "temperature_range": "65 °C",
+  "summary": "The study describes the modification of nanoporous supported lyotropic liquid crystal (LLC) polymer membranes using alumina atomic layer deposition (ALD) to reduce effective pore size for size-selective gas separation. The ALD process was carried out at 65 °C using trimethylaluminum (TMA) and deionized water as precursors. The effective pore size was reduced from 0.75 nm to less than 0.55 nm after 10 cycles of ALD, significantly increasing H2/N2 selectivity from 12 to 65 while decreasing H2 permeance by ~40%. The ALD approach is universal and has potential for modifying other nanoporous membranes for size-selective separation.",
+  "evidence": "Supported QI-phase LLC polymer membranes were modified by alumina ALD at 65 °C using trimethylaluminum (TMA) and deionized water. The effective pore size was reduced from 0.75 nm to less than 0.55 nm after 10 cycles of ALD, significantly increasing H2/N2 selectivity from 12 to 65 while decreasing H2 permeance by ~40%. The ALD approach is universal and has potential for modifying other nanoporous membranes for size-selective separation."
+}

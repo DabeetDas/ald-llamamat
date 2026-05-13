@@ -1,0 +1,11 @@
+{
+  "target_material": "TiO2",
+  "process_type": "Atomic layer deposition (ALD)",
+  "main_precursors": [
+    "TiCl4 vapor",
+    "H2O vapor"
+  ],
+  "temperature_range": "80 °C",
+  "summary": "The paper describes the fabrication of ordered TiO2 nanobowl arrays using a combination of monolayer self-assembly of polystyrene spheres, atomic layer deposition (ALD), ion milling, toluene etching, and annealing. The ALD process was used to deposit a uniform TiO2 layer on the polystyrene spheres, followed by ion milling to create the nanobowl structure. The nanobowls were then etched and annealed to transform the amorphous TiO2 into polycrystalline anatase TiO2. The nanobowls were demonstrated to be useful for selecting submicron spheres smaller than their inner diameter.",
+  "evidence": "The process starts with a self-assembled monolayer of polystyrene spheres, which is used as a template for atomic layer deposition of a TiO2 layer. After ion-milling, toluene-etching, and annealing of the TiO2-coated spheres, ordered arrays of nanostructured TiO2 nanobowls have been fabricated. The nanobowls exhibit smooth interior and exterior surfaces and uniform sizes and thickness. The nanobowl arrays have been demonstrated to be useful for selecting spheres smaller than the inner diameter of the bowls."
+}

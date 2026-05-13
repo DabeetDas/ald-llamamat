@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru",
+  "process_type": "thermal ALD",
+  "main_precursors": ["ECPRu", "O2"],
+  "temperature_range": "250 ◦C to 330 ◦C",
+  "summary": "The study focuses on area-selective atomic layer deposition (ALD) of Ru on electron-beam-written Pt(C) patterns versus SiO2 substratum. The research explores the nucleation phenomena of Ru ALD on SiO2 and the impact of temperature on the process. It also investigates the use of FEBID to create Pt(C) micro-patterns, which are then used as activation sites for Ru ALD. The study highlights the importance of temperature in controlling the nucleation and growth of Ru, with lower temperatures facilitating longer incubation periods and enhanced selectivity. The results show that sub-nanometer-thin Pt(C) patterns effectively activate Ru ALD, resulting in a continuous, pure Ru layer on the patterns while keeping the SiO2 substratum free from deposition.",
+  "evidence": "The text discusses the use of thermal ALD for Ru deposition, employing ECPRu and O2 as precursors. It mentions the temperature range of 250 ◦C to 330 ◦C and the impact of temperature on nucleation and selectivity. The study also details the use of FEBID to create Pt(C) patterns and the role of temperature in controlling the ALD process."
+}<|im_end|>

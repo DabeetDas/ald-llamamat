@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 300,
+  "pressure": "1 torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "remote plasma",
+  "evidence": "During the RPO, the RPN, and the HfO2 deposition, the processing pressure and temperature were maintained at 1 torr and 300 ° C."
+}

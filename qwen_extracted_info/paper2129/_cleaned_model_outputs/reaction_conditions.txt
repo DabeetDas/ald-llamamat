@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process for GdScO3 films involved sequential dosing of Sc(Et2-Me-amd)3, H2O, Gd(iPr2-Me-amd)3, and H2O with purging steps. The reactions involved the formation of metal oxide films and volatile amidine byproducts through reactivity with H2O.",
+  "intermediate_species": ["amidine byproducts"],
+  "evidence": "The reactions result in metal oxide films and volatile amidine byproducts."
+}

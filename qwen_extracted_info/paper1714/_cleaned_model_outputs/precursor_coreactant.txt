@@ -1,0 +1,7 @@
+{
+  "precursors": ["Ti[OCH(CH3)2]4 (TIP)", "H2O"],
+  "coreactants": [],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "The ZnO/TiO2 core/H11002shell nanowires were fabricated by ALD deposition of a TiO2 film on the ZnO nanowires using titanium tetraisopropyl oxide (Ti[OCH(CH3)2]4, TIP) and water as Ti precursor and oxygen reactant sources, respectively. Ar flow served as both the carrier of the precursors and the purging gas."
+}

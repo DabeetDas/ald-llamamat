@@ -1,0 +1,14 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectivity",
+    "Grazing incidence X-ray Diffraction (GIXRD)",
+    "Hall Effect measurement",
+    "Four-point probe measurement",
+    "UV–Vis–NIR spectrophotometry",
+    "Field-emission scanning electron microscope (FESEM)",
+    "X-Ray Fluorescence (XRF)",
+    "Current-voltage (I-V) characteristics",
+    "Quantum efficiency (EQE) measurements"
+  ],
+  "evidence": "Absorber and buffer layer thicknesses were determined from samples deposited on borosilicate glass substrates by x-ray reflectivity using a PANalytical Empyrean equipment. The structural properties were monitored under grazing incidence X-Ray Diffraction (GIXRD) conditions with Cu Kα radiation. The electrical properties of the films deposited on borosilicate glass were determined with a Hall effect measurement system (Ecopia HMS-3000), by van-derPauw method at room temperature in a magnetic field of 0.55 T. Optical transmittance and reflectance were obtained with a PerkinElmer Lambda 900 ultraviolet– visible– near infrared (UV – Vis– NIR) spectrophotometer system. Thickness of the front layers has been investigated with a field-emission scanning electron microscope (ZEISS Merlin VP Compact). X-Ray Fluorescence (XRF) with a Fischerscope X-ray XDV-SDD was used to determine CIS thin film compositions. The electrical properties of solar cells were determined by current-voltage (I-V) characteristics measured under standard AM 1.5G spectrum (1000 W/m²) using a Newport Oriel Sol3A class AAA solar simulator. Quantum efficiency measurements were made with an Oriel IQE 200."
+}

@@ -1,0 +1,11 @@
+{
+  "target_material": "Ruthenium",
+  "process_type": "plasma enhanced (PEALD) and thermal",
+  "main_precursors": [
+    "RuO4",
+    "H2"
+  ],
+  "temperature_range": "50°C to 100°C",
+  "summary": "The study reports a low-temperature atomic layer deposition (ALD) process for depositing Ruthenium using RuO4 as the precursor and H2 (thermal ALD) or H2-plasma (plasma enhanced ALD, PEALD). The process is compared in terms of film properties as a function of sample temperature, with the plasma enhanced process allowing for the deposition of pure Ru films even at 50°C, avoiding oxygen impurities. The process is designed to address issues such as long incubation times and low growth rates, making it suitable for applications in semiconductor manufacturing.",
+  "evidence": "The text states: 'A thermal (RuO4/H2-gas) and a plasma enhanced (RuO4/H2-plasma) atomic layer deposition (ALD) process for deposition of Ru are reported.' It also mentions: 'By using H2-plasma instead of H2-gas, these O-impurities could be avoided and growth of pure Ru films was achieved even at 50°C.' Additionally, it notes: 'The resistivity of the films grown with the thermal process at 100°C was low' and 'the narrow temperature window of the thermal ALD process {100°C} is extended to {50°C-100°C} for the plasma enhanced process.'"
+}

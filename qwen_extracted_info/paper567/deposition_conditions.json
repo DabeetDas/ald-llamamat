@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "590",
+  "pressure": "6.0 =10",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "1.0",
+  "number_of_cycles": "250",
+  "reactor_type": "",
+  "evidence": "The substrate temperature and the pressure in the reactor were 5908C and 6.0 =10 2 Pa, respectively, t was 1.0 s, tfp was set at 1.0 s, and n was fixed at 250 cycles."
+}

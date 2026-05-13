@@ -1,0 +1,8 @@
+{
+  "target_material": "Aluminum nitride (AIN)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": ["Dimethylethylamine alane (DMEAA)", "Ammonia"],
+  "temperature_range": "Up to 1200 K",
+  "summary": "The study investigates the ALD growth of aluminum nitride (AIN) thin films on Si(100) using dimethylethylamine alane (DMEAA) and ammonia as precursors. It focuses on the interfacial contamination caused by amine decomposition and proposes passivating the Si surface with ammonia to reduce such contamination. The adsorption and decomposition behavior of DMEAA on Si(100) and ammonia-covered Si(100) are analyzed using TPD, SIMS, and TPSIMS.",
+  "evidence": "In the Atomic Layer Growth of AIN using DMEAA and ammonia, the deposition mechanism is not one of simply nitriding an Al film. Lewis acid-base adducts such as DMEAA, as well as other amine alanes, react with ammonia selectively via nucleophilic displacement. Ammonia, a stronger base, can displace the DMEA adducted to alane and thus eliminate a potential source of carbon contamination from the surface. The resulting alane-ammonia complex on the surface may then be converted to AIN by thermal dehydrogenation."
+}<|im_end|>

@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [
+    "3Al/H20849hfac/H20850/H11569 + Al/H20849CH3/H208503 → Al/H20849hfac/H208503 + 3AlCH3/H11569"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Al/H20849hfac/H20850/H11569",
+    "AlCH3/H11569"
+  ],
+  "evidence": "The loss of Al /H20849hfac/H20850/H11569 species versus TMA exposure can be explained by ligand exchange between TMA and the Al/H20849hfac/H20850/H11569 species. The TMA may displace the Al /H20849hfac/H20850/H11569 species by the reaction: 3Al/H20849hfac/H20850/H11569 + Al/H20849CH3/H208503 → Al/H20849hfac/H208503 + 3AlCH3/H11569, where the asterisks designate the surface species."
+}

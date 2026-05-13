@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "TiCl4 reacts with both isolated and H-bonded OH groups on silica, while Cr(acac)3 and HMDS react preferentially with isolated OH groups. The bonding mode affects surface coverage, with TiCl4 utilizing H-bonded OH groups at lower temperatures and consuming two OH groups per molecule at higher temperatures. The steric hindrance of the acac ligands in Cr(acac)3 affects surface coverage.",
+  "intermediate_species": [
+    "isolated OH groups",
+    "H-bonded OH groups",
+    "surface-bound chromium complex",
+    "surface-bound titanium complex"
+  ],
+  "evidence": "The text discusses the reaction of TiCl4 with both isolated and H-bonded OH groups on silica, while Cr(acac)3 and HMDS react preferentially with isolated OH groups. The bonding mode affects surface coverage, with TiCl4 utilizing H-bonded OH groups at lower temperatures and consuming two OH groups per molecule at higher temperatures. The steric hindrance of the acac ligands in Cr(acac)3 affects surface coverage."
+}

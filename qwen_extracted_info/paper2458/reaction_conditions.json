@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The surface reactions involve the adsorption of NiCp2 and subsequent reaction with O2 plasma. The NiCp2 precursor adsorbs on the substrate surface, followed by a reaction with O2 plasma, leading to the formation of NiO. The process includes the decomposition of NiCp2 and the incorporation of carbon impurities, which are removed through Ar ion etching.",
+  "intermediate_species": [
+    "NiCp2",
+    "Ni(II)-O",
+    "Ni(III)-O",
+    "Ni(II)-OH",
+    "C−C bonds",
+    "metallic Ni atoms"
+  ],
+  "evidence": "The text describes the adsorption of NiCp2 on the substrate surface, followed by reaction with O2 plasma. It mentions the formation of Ni(II)-O, Ni(III)-O, Ni(II)-OH, C−C bonds, and metallic Ni atoms. The presence of carbon impurities and their removal through Ar ion etching is also noted."
+}

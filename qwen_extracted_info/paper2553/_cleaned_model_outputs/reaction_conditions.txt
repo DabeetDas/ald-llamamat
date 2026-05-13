@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The Hf-N and N-O bonds in the HfSi_xOyNz layers were broken by annealing at 800 °C in N2 ambient, leading to the formation of Si-O-N, Hf-O-Si, and Si-O bonds. The excess N atoms from the broken bonds formed bonds with Si atoms in the interfacial region, causing the growth of SiOxNy or SiNx. The excess Hf and O atoms also interacted with Si atoms to form HfSixOy or SiO2.",
+  "intermediate_species": ["Hf-N bonds", "N-O bonds", "Si-O-N bonds", "Hf-O-Si bonds", "Si-O bonds"],
+  "evidence": "The Hf-N and N-O bonds in the HfSi_xOyNz layers were broken by annealing at 800 °C in N2 ambient because their bonds were relatively weak. The peak intensities of the Si-O-N, Hf-O-Si, and Si-O bonds at the interfacial region increased after annealing. The excess N atoms due to the breaking of the Hf-N and N-O bonds can form bonds with Si atoms in the interfacial region and cause the growth of SiOxNy or SiNx. The excess Hf and O atoms can grow HfSixOy or SiO2 due to interactions with Si atoms."
+}

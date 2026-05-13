@@ -1,0 +1,7 @@
+{
+  "precursors": ["HfCl4", "NH2(CH2)3Si(OC2H5)3"],
+  "coreactants": ["H2O", "O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The precursor chemistries used for deposition were HfCl4 /H2O for HfO2 and NH2(CH2)3Si~OC2H5)3 /O3 for SiO2."
+}<|im_end|>

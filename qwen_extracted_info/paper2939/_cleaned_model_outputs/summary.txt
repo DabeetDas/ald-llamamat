@@ -1,0 +1,8 @@
+{
+  "target_material": "SrBi2Ta2O9",
+  "process_type": "Plasma-Enhanced ALD",
+  "main_precursors": ["Sr@Ta(OC2H5)5(OC2H4OCH3)#2", "Bi(C6H5)3"],
+  "temperature_range": "250°C",
+  "summary": "60 nm thick SrBi2Ta2O9 thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) with alternating supply of single cocktail source and oxygen plasma. The films showed a linear relationship between the number of cycles and film thickness, indicating a self-limiting ALD process. The films were annealed at 750°C to crystallize into the perovskite phase and exhibited excellent ferroelectric switching properties with low-voltage switching below 1.5 V.",
+  "evidence": "60 nm thick SrBi2Ta2O9 thin films were fabricated using plasma-enhanced atomic layer deposition (PEALD) with an alternating supply of single cocktail source and oxygen plasma. The linear relationship between the number of cycles and film thickness and a constant deposition rate with source pulse time suggests that a self-limiting process that has distinct characteristics of ALD was achieved. The 60 nm thick SrBi2Ta2O9 films that were annealed at 750°C completely crystallized to the layer-structured perovskite phase. The SBT capacitors showed excellent ferroelectric switching properties. Low voltage switching below 1.5 V was achieved successfully in the 60 nm SBT capacitor."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": "WSe2",
+  "process_type": "Self-limiting layer synthesis (SLS)",
+  "main_precursors": ["WCl6", "diethyl selenide (DESe)"],
+  "temperature_range": "600 °C, 700 °C, 800 °C",
+  "summary": "The study describes a self-limiting layer synthesis (SLS) process for the deposition of WSe2 on SiO2 substrates using WCl6 and diethyl selenide (DESe) as precursors. The process is temperature-dependent, allowing for controlled layer number and uniformity, with the layer number determined by the growth temperature. The SLS method enables the production of uniform, large-area WSe2 layers suitable for electronic and optoelectronic device applications, as demonstrated by the fabrication of a WSe2 back-gated field-effect transistor (FET) with high hole mobility and on/off ratio.",
+  "evidence": "A process for the self-limited layer synthesis(SLS) of WSe2 on SiO2 substrates has been developed that provides systematic layer number controllability with micrometer-scale(>90%) and wafer-scale(∼8c m) uniformity suitable electronic and optoelectronic device applications. This was confirmed by the fabrication and testing of a WSe2 back-gated field effect transistor(FET) using Pd (30 nm) as the contact metal, which exhibited p-type behavior with an on/off ratio of∼106 and a field-effect hole mobility of 2.2 cm2 V−1 s−1 value, which was higher than has been reported for WSe2-based FETs produced by conventional chemical vapor deposition."
+}<|im_end|>

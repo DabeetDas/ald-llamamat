@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "175-250",
+  "pressure": "0.1 –2 mbar",
+  "precursor_pulse_time_s": 4,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 20,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The thermal ALD of Y2O3 was carried out in a commercial F120 reactor (ASM Microchemistry Ltd.) at 0.1 –2 mbar on 200 Si(100) wafers with 200 mg of [Y(DPDMG)3] as precursor vaporized at 130 /C14 C and water (HPLC grade) as co-reactant maintained at room temperature. The following optimized pulse/purge sequence was used during deposition: 4 s [Y(DPDMG)3] pulse, 20 s purge, 3 s water pulse and 30 s purge in a temperature range of 150 –275 /C14 C."
+}

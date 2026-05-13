@@ -1,0 +1,11 @@
+{
+  "target_material": "Palladium nanoparticles (PdNPs)",
+  "process_type": "Atomic Layer Deposition (ALD)",
+  "main_precursors": [
+    "Pd(hfac)2",
+    "formalin"
+  ],
+  "temperature_range": "Not explicitly mentioned",
+  "summary": "The study describes the preparation of highly dispersed palladium nanoparticles (PdNPs) on activated carbon felt electrodes using atomic layer deposition (ALD). The PdNPs exhibited excellent catalytic activity for glycerol oxidation reaction (GOR) and oxygen reduction reaction (ORR) in alkaline media, outperforming commercial Pd/C catalysts. The ALD process enabled the direct growth of PdNPs on the electrode surface, resulting in high dispersion and low metal loading, which enhanced catalytic performance.",
+  "evidence": "The ability to precisely engineer advanced catalysts for oxygen reduction reaction (ORR) and glycerol oxidation reaction (GOR) is crucial for the deployment of fuel cells (FCs) and electrolyzers technologies. In this work, we used an atomic layer deposition (ALD) process in order to prepare highly dispersed palladium nanoparticles (PdNPs) on electro-activated carbon felt electrodes. The PdNPs prepared were well dispersed and presented diameters of 4-6 nm, corresponding to a mass loading of 96 µg Pd cm–2 or 0.9 wt.%. For GOR, the as-synthesized nanocatalysts outperformed the commercial Pd/C (20 wt.%) reference by an order of magnitude."
+}

@@ -1,0 +1,7 @@
+{
+  "precursors": ["Be(C2H5)2 (DEBe)", "H2O"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "The ALD growth sequence consisted of DEBe pulse and purge times of 0.4 and 5 s, respectively, followed by H2O pulse and purge times of 0.4 and 5 s, respectively."
+}

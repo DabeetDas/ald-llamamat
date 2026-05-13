@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "Ti-OH + TiI4(g) → Ti-O-TiI3 + HI(g) (1a)",
+    "Ti-O-TiI3 + H2O2(g) → Ti-O-Ti-O(OH) + HI(g) + I2(g) (1b)",
+    "Ti-O-TiI3 + 2H2O(g) → Ti-O-Ti-O(OH) + 3HI(g) (1c)"
+  ],
+  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of TiI4 on the oxide surface, followed by reaction with the H2O-H2O2 pulse. The adsorbed TiI4 undergoes partial decomposition, releasing iodine and forming surface species that react with the H2O-H2O2 pulse. The surface hydroxyl groups are regenerated during the H2O2-H2O pulse, and the reaction steps involve the exchange of iodide ligands with hydroxyl groups, leading to the formation of TiO2.",
+  "intermediate_species": [
+    "Ti-O-TiI3",
+    "Ti-O-Ti-O(OH)",
+    "HI(g)",
+    "I2(g)"
+  ],
+  "evidence": "The surface hydroxyl groups are recreated in the hydrolysis during the following exposure to H2O2-H2O: whereas the surface OH groups saturate the coordination spheres of surface Ti atoms. The adsorption of the halide may proceed via the reaction with hydroxyl groups created in the preceding H2O2-H2O pulse. The reaction steps involve the exchange of iodide ligands with hydroxyl groups, leading to the formation of TiO2."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-400",
+  "pressure": "0.4 T orr",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 1,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "Savannah 100",
+  "evidence": "ALD-SnO2 was performed on the synthesized N-CNTs through supplying tin (IV) chloride (99% SnCl 4, Sigma–Aldrich) and deionized water into a commercial ALD reactor (Savannah 100, Cambridge Nanotechnology Inc., USA) in an alternating manner. The temperature of the ALD reactor was in a range 200–400 /C176C. Nitrogen was used as the carrier gas with a flow rate of 20 sccm, and the ALD reactor was sustained at a low level of base pressure (typically 0.4 T orr) by a vacuum pump (Pascal 2005 I, Adixon). The ALD procedures were set as follows: (1) a 0.5 s supply of SnCl4; (2) a 3 s extended exposure of SnCl 4 to N-CNTs; (3) a 10 s purge of oversupplied SnCl 4 and any by-products; (4) a 1 s supply of water vapor; (5) a 3 s extended exposure of water to N-CNTs; (6) a 10 s purge of oversupplied water and any by-products."
+}<|im_end|>

@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "WF6"
+  ],
+  "coreactants": [
+    "NH3"
+  ],
+  "purge_gas": [
+    "N2"
+  ],
+  "carrier_gas": [],
+  "evidence": "The ALD cycle was as follows: NH3 gas was introduced into the reactor for 0.3–1 s. The pulse plasma of 7 kV peak to peak bias was also applied to the NH3 gas for the same period. N2 purge and evacuation processes were carried on sequentially. After that, WF6 gas was introduced for 0.3–1 s and N2 purge and evacuation were done."
+}

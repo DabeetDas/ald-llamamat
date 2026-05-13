@@ -1,0 +1,7 @@
+{
+  "precursors": ["Al(CH3)3 (TMA)"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "Al2O3 ALD coatings were deposited by the following two sequential half-reactions, where the asterisks indicate the surface species 23,24: (A) 2AlOH + Al(CH3)3(g) → 2[Al2O2Al(CH3)2/C138/C3 + 2CH4(g) (1) (B) 2[Al2O2Al(CH3)2/C138/C3 + 3H2O(g) → Al2O3 + 2AlOH/C3 + 4CH4(g) (2) At 450 K and bed pressures of B100–200 Pa, the average Al2O3 ALD growth rate was 0.13 nm per AB cycle, which is consistent with the reported values. 24 Al2O3 ALD films were grown using Al(CH3)3 (TMA) (Semiconductor grade, Akzo-Nobel HPMO, Chicago, IL) and water, with N2 as the carrier gas."
+}

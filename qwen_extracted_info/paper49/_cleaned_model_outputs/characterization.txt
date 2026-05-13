@@ -1,0 +1,17 @@
+{
+  "characterization_methods": [
+    "X-ray Reflectivity (XRR)",
+    "X-ray Diffraction (XRD)",
+    "Rutherford Backscattering (RBS)",
+    "Nuclear Reaction Analysis (NRA)",
+    "X-ray Photoelectron Spectroscopy (XPS)",
+    "Atomic Force Microscopy (AFM)",
+    "Scanning Electron Microscopy (SEM)",
+    "Raman Spectroscopy",
+    "UV–vis Spectroscopy",
+    "Ellipsometry",
+    "Four-point probe",
+    "Electrochemical measurements (e.g., photoelectrochemical characterization)"
+  ],
+  "evidence": "X-ray reflectivity (XRR) measurements are a suitable tool to identify the thickness of the deposits via a Fourier transformation on the reflectance spectra. The survey spectra were dominated by the presence of oxygen, iron and carbon photoelectron peaks, along with the respective Auger electron peaks. The concentration of carbon diminishes drastically after sputtering. The O1s spectra of a sample deposited at 125 °C was characterized by the presence of two contributing bands. The Fe2p signal shape and position is in good agreement with previous reports on iron(III) oxides. The Fe/O ratio, calculated basing only on lattice oxygen species, was found to be 0.62. The root-meansquare (rms) roughness estimated for 25 nm thick iron oxide thin films by atomic force microscopy (AFM) measurements. The as-deposited films were found to be amorphous as verified by X-ray diffraction (XRD). The amorphous appearance of the ALD grown iron oxides originates from the low deposition temperature and the low layer thickness. The XRR measurements were used to determine the thickness of the deposits. The XRD patterns were used to identify the crystalline phases. The Raman spectra were used to identify the presence of hematite, magnetite, and maghemite. The AFM images were used to investigate the surface morphology. The SEM images were used to study the deposition temperature effect on the morphology. The UV–vis spectroscopy measurements were used to estimate the optical band gaps. The photoelectrochemical measurements were used to evaluate the photoelectrocatalytic performance."
+}

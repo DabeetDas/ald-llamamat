@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "125-500",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.5,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 2,
+  "number_of_cycles": 3000,
+  "reactor_type": "flow-type",
+  "evidence": "Precursor chemicals, substrate temperature, time parameters (Ti precursor pulse, purge, O precursor pulse, purge) and number of ALD cycles, used to deposit TiO2 films on deep trench and planar substrates, and the thicknesses, d, of the films obtained Precursor materials T substrate (°C) Time parameters, s Number of cycles d,n m TiCl4 and H2O 125 0.5 –2–2–2 3000 191"
+}<|im_end|>

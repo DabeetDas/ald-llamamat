@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 250,
+  "pressure": "0.3 Torr",
+  "precursor_pulse_time_s": 6000,
+  "coreactant_pulse_time_s": 0.1,
+  "purge_time_s": 0.1,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "In the preparation of tantalum nitride by ALD, pentakis-(dimethylamino)tantalum (Ta(N(CH3)2)5; PDMAT) and ammonia (NH3) were used as precursors at 250 °C (Figure 1). The reactor pressure was kept at 0.3 Torr by flowing high-purity nitrogen gas."
+}

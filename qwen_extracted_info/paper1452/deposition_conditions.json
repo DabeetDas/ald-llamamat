@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "260-300",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 2,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": 1500,
+  "reactor_type": "ASM Microchemistry F-120",
+  "evidence": "Deposition temperature varied from 210 °C to 330 °C, while the evaporation temperature of the metal precursors was 40 °C. The deposition temperature window was also explored for the tungsten analogue (Figure 4). The precursor evaporation temperature was 40 °C, and the precursor pulse time was 2 s. The ammonia pulse and purge times were set at 5 s. The ALD growth window for molybdenum nitride was found to be 260 -300 °C. This is lower than that reported earlier. For both precursors, higher temperatures than expected from the DSC data were found to be suitable for atomic layer growth. The deposition temperature was set at 280 °C to achieve maximum ALD growth per cycle. The precursor pulse time was fixed at 2 s, the ammonia pulse time was fixed at 5 s, and the deposition temperature was fixed at 280 °C. The number of deposition cycles was set at 1500."
+}

@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The initial 'electroforming' can generate highly defective components, such as vacancies, metallic clusters, phase separation, dislocations, etc., in the insulating NiO matrix, leading to the interconnected filaments between electrodes. In the on state, the resistance increases with the applied voltage, probably in combination with local Joule heating. Since NiO thin films are highly sensitive to applied voltage, more precisely to power as mentioned above, the Joule heating at local domains drives the defective states to the oxidized ones, isolated into NiO matrix. The formation and rupture of a conducting filament were used to explain the NiO thin films deposited by sputtering.",
+  "intermediate_species": [
+    "vacancies",
+    "metallic clusters",
+    "phase separation",
+    "dislocations"
+  ],
+  "evidence": "As shown in Fig. 1, the initial 'electroforming' can generate highly defective components, such as vacancies, metallic clusters, phase separation, dislocations, etc., in the insulating NiO matrix, leading to the interconnected filaments between electrodes. In the on state, the resistance increases with the applied voltage, probably in combination with local Joule heating. Since NiO thin films are highly sensitive to applied voltage, more precisely to power as mentioned above, the Joule heating at local domains drives the defective states to the oxidized ones, isolated into NiO matrix. The formation and rupture of a conducting filament were used to explain the NiO thin films deposited by sputtering."
+}

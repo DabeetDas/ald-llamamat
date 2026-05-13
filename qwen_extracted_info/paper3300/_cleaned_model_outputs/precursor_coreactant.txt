@@ -1,0 +1,7 @@
+{
+  "precursors": ["TBTDET"],
+  "coreactants": ["NH3"],
+  "purge_gas": ["Ar"],
+  "carrier_gas": ["Ar"],
+  "evidence": "Both Ar and NH3 were supplied by the British Oxygen Corporation (Murray Hill, NJ) at purity levels of, respectively, 99.999% and 99.99%. The Ta source precursor TBTDET, a liquid at room temperature with a vapor pressure of approximately 0.1 torr at 95 °C, was supplied by InorgTech (Allentown, PA) at 99.9% purity grade. It was contained within a heated stainless steel container and was pulsed into the reactor via a heated delivery line by means of 50 sccm of argon (Ar) carrier gas flow. NH3 was used as co-reactant, at a flow of 50 sccm, while Ar was used to purge completely the reactor in-between reactant pulses."
+}

@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "triethylgallium (TEG)"
+  ],
+  "coreactants": [
+    "arsine (AsH3)"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "H2"
+  ],
+  "evidence": "The source gases, TEG and AsH3, were alternatively introduced into the growth chamber for 1 s after an individual interval of 1 s to prevent mixing of the gases, and the total time for the growth of 1 cycle was 4 s. H2 carrier gas was constantly fed with a flow rate of 2700 SCCM"
+}

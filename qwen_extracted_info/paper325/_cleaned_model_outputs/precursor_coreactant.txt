@@ -1,0 +1,7 @@
+{
+  "precursors": ["dibutyltin diacetate"],
+  "coreactants": ["O2 gas"],
+  "purge_gas": ["Ar gas"],
+  "carrier_gas": ["Ar gas"],
+  "evidence": "The tin precursor was dibutyltin diacetate ((CH3CO2)2Sn[(CH2)3CH3]2), which was evaporated at 40oC and transported to the deposition chamber using Ar gas of 99.99% purity at a flow rate of 50 sccm. O2 gas of 99.999% purity and Ar gas of 99.999% purity were used as plasma and purge gases, respectively, at a flow rate of 50 sccm."
+}

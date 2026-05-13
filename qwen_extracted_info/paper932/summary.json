@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "atomic layer deposition (ALD)",
+  "main_precursors": [
+    "HfCl4",
+    "H2O"
+  ],
+  "temperature_range": "300 /C176C",
+  "summary": "The study investigates the electronic conduction behavior in hafnium oxide (HfO2) prepared by atomic layer deposition (ALD) on silicon substrates. The research focuses on the current conduction mechanisms in MOS structures with HfO2 gate oxide, revealing that electron injection from the silicon substrate dominates the conduction process regardless of the biasing polarity and substrate type.",
+  "evidence": "The hafnium oxide was prepared by atomic layer deposition (ALD). ALD method has been demonstrated to be a promising one for HfO2 thin film fabrication. HfO2 films were grown at 300 /C176C on p-Si or n-Si substrate with h100 i orientation and resistivity of 5–7 X cm."
+}

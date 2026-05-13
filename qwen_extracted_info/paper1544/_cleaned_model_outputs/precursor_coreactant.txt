@@ -1,0 +1,7 @@
+{
+  "precursors": ["diethylzinc (DEZ)"],
+  "coreactants": ["water"],
+  "purge_gas": ["Nitrogen"],
+  "carrier_gas": ["Nitrogen"],
+  "evidence": "The cicada wings were coated by ALD in an ASM F-120 (ASM Microchemistry) ALD reactor at 1 -3 mbar pressure. Nitrogen (99.999%, Schmidlin UHPN 3000 nitrogen generator) was used as a carrier and purge gas. Both the Al2O3 and the ZnO depositions were performed at 120 /C176C. The metal precursor and water pulses were separated by equally long N2 purge periods, and the pulse and purge times for Al2O3 and ZnO depositions were 2.5 and 2 s, respectively. The TMA, DEZ, and water precursors were evaporated by means of their vapor pressure from external reservoirs kept at 23 /C176C."
+}

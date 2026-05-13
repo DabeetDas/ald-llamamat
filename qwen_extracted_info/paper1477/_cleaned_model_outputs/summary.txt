@@ -1,0 +1,8 @@
+{
+  "target_material": "Silver",
+  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
+  "main_precursors": ["Ag(fod)(PEt3)", "plasma-activated hydrogen"],
+  "temperature_range": "120 /C0 150 /C176C",
+  "summary": "The study presents a novel PEALD process for depositing silver thin films using Ag(fod)(PEt3) as a precursor and plasma-activated hydrogen as a reducing agent. The process was optimized at temperatures between 120 /C0 150 /C176C, achieving a growth rate of 0.03 nm per cycle. The films exhibited low resistivity and were found to be polycrystalline with (111) and (200) reflections. The research aimed to develop a scalable ALD process for large-area substrates.",
+  "evidence": "The study presents a novel PEALD process for depositing silver thin films using Ag(fod)(PEt3) as a precursor and plasma-activated hydrogen as a reducing agent. The process was optimized at temperatures between 120 /C0 150 /C176C, achieving a growth rate of 0.03 nm per cycle. The films exhibited low resistivity and were found to be polycrystalline with (111) and (200) reflections. The research aimed to develop a scalable ALD process for large-area substrates."
+}

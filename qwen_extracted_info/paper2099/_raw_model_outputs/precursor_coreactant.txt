@@ -1,0 +1,7 @@
+{
+  "precursors": ["HfCl4", "Hf(OC(CH3)3)4"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "ALD was carried out using alternating exposures of the common precursors HfCl4 (detectable metallic impurities: <0.5% Zr, 360 ppm Al, <50 ppm Fe, <25 ppm Ti) and H2O in an N2 carrier gas."
+}<|im_end|>

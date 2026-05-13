@@ -1,0 +1,7 @@
+{
+  "precursors": ["VO(OC3H7)3"],
+  "coreactants": ["H2O"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The ALCVD consisted in a sequential introduction of the reaction precursors, which allows to control the growth of the substrate at the atomic level. The deposition is achieved by repeating the following pulse sequence: t1–t4 up to the desired thickness, where \"t1–t4\" are the individual pulse times (in ms) of triisopropoxyvanadium oxide [VO(OC3H7)3] (denoted VTOP henceforth provided by Alfa Aesar, USA), N2, H2O and N2, respectively. Nitrogen gas was used as carrier and purging gas."
+}<|im_end|>

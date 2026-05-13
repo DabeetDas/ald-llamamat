@@ -1,0 +1,16 @@
+{
+  "characterization_methods": [
+    "spectroscopic ellipsometry",
+    "X-ray diffraction",
+    "Raman spectroscopy",
+    "Rutherford backscattering (RBS)",
+    "XPS (X-ray Photoelectron Spectroscopy)",
+    "elastic recoil detection analysis",
+    "transmission electron microscopy (TEM)",
+    "Four-point probe",
+    "Hall Effect",
+    "spectroscopic ellipsometry",
+    "cross-sectional TEM"
+  ],
+  "evidence": "The films have been determined from spectroscopic ellipsometry using a Tauc–Lorentz oscillator to model the band-to-band absorption, and an additional Gaussian oscillator to account for weak subgap absorption, which is attributed to oxygen-vacancy-derived defects. All films deposited in this temperature range are amorphous, as confirmed by X-ray diffraction and Raman spectroscopy measurements. The presence of oxygen vacancies in the substoichiometric matrix was confirmed by an observable shoulder in the Mo 3d 5/2 peak in the XPS spectra. Elastic recoil detection analysis has revealed a H content around 11 at% for the sample deposited at 50 °C. A high resolution cross-sectional TEM image of the stack after the full process is shown in Fig. 3. The crystallized In2O3 :H film shows a very defect-free crystal structure. The injection-dependent minority carrier lifetime has been tracked after each processing step. A high resolution cross-sectional TEM image showing the passivating a-Si:H/MoO x/c-In2O3:H stack on c-Si. The crystallized In2O3 :H film shows a very defect-free crystal structure, in line with our previous results."
+}

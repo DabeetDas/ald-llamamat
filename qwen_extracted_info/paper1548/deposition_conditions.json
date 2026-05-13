@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 500,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": 10,
+  "number_of_cycles": null,
+  "reactor_type": "deposition chamber with gas manifold and mechanical pump",
+  "evidence": "Al2O3 was deposited in the pores using sequential half-reactions with TMA and H2O. One AB cycle consisted of a TMA exposure/N2 purge/H2O exposure/N2 purge. The N2 purge or carrier gas flow was controlled using a 1 -100 sccm mass flow controller. The purge time was systematically reduced from 45 to 10 min without increasing the Al2O3 growth rate."
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "|-OH + Zn(CH2CH3)2 -> |-OZn(CH2CH3) + C2H6",
+    "|-Zn(CH2CH3) + H2O -> |-ZnOH + C2H6"
+  ],
+  "surface_mechanism_description": "The ALD process involves two half-reactions: the chemisorption of diethylzinc (DEZ) onto surface hydroxyl groups followed by the reaction of the surface-bound DEZ with water vapor. The first half-reaction forms a surface-bound organo-zinc species, while the second half-reaction regenerates surface hydroxyl groups and produces hydrocarbons as byproducts. The reaction is limited by Knudsen diffusion of DEZ within the pores of the nanoporous monolith.",
+  "intermediate_species": [
+    "surface-bound organo-zinc species (|-Zn(CH2CH3))",
+    "surface hydroxyl groups (|-OH)",
+    "surface-bound zinc hydroxide species (|-ZnOH)"
+  ],
+  "evidence": "The text describes the two half-reactions for the ALD process as follows: |-OH + Zn(CH2CH3)2 -> |-OZn(CH2CH3) + C2H6 and |-Zn(CH2CH3) + H2O -> |-ZnOH + C2H6. The surface mechanism involves the chemisorption of DEZ onto hydroxyl groups, followed by reaction with water vapor to regenerate hydroxyl groups and produce hydrocarbons. The Knudsen diffusion of DEZ within the pores of the nanoporous monolith limits the ALD process."
+}<|im_end|>

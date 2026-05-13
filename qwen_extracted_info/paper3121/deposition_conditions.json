@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 350,
+  "pressure": "15 mTorr",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 0,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "FlexAL",
+  "evidence": "Table I. \"Baseline\" deposition conditions for remote plasma ALD of TiN and TaN films. ALD process TiN TaN ALD reactor FlexAL ALD-I Substrate temperature (°C) 350 225 Precursor: TiCl4 Ta/NH3CH325 Dosing time (s) 0.04 5 Temperature (°C) 30 75 Ar pressure (mTorr) 80 30 Plasma: Gas mixture 30 sccm H2 H2 4 sccm N2 Pressure (mTorr) 15 7.5 Power (W) 250 100 Exposure time (s) 51 0"
+}

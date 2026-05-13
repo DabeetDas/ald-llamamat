@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "200",
+ "pressure": "",
+ "precursor_pulse_time_s": "0.5",
+ "coreactant_pulse_time_s": "0.5",
+ "purge_time_s": "30",
+ "number_of_cycles": "100",
+ "reactor_type": "flow-type",
+ "evidence": "The temperatures were set to 200°C for the substrate and to 80°C for the precursor.18,19 A tetrakis (dimethylamido)zirconium precursor and water were used to deposit ZrO2 thin films. Nitrogen was used to purge the deposition chamber and gas manifold for 30 s."
+}

@@ -1,0 +1,8 @@
+{
+  "target_material": {
+    "chemical_formula": "TiO2",
+    "material_name": "Titanium dioxide",
+    "material_class": "Oxide"
+  },
+  "evidence": "We find that cells built from uncoated ZnO rod arrays synthesized by the zinc nitrate and hexamethylenetetramine route are barely functional. Suspecting that the ZnO/P3HT interface is not a suitable one for charge separation, we replaced it with a TiO2/P3HT interface, which is known to readily split excitons generated in P3HT."
+}

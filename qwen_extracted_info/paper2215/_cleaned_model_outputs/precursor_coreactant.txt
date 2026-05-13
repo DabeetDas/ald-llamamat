@@ -1,0 +1,7 @@
+{
+  "precursors": ["TMA", "NH3"],
+  "coreactants": [],
+  "purge_gas": [],
+  "carrier_gas": ["Hydrogen"],
+  "evidence": "TMA and NH3 were used as precursors. Hydrogen was the carrier gas and was kept constant at 10 SLM."
+}

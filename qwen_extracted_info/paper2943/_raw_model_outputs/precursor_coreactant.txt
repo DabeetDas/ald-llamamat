@@ -1,0 +1,7 @@
+{
+  "precursors": ["La@N(SiMe3)2#3"],
+  "coreactants": ["water vapor"],
+  "purge_gas": ["N2"],
+  "carrier_gas": ["N2"],
+  "evidence": "The metal oxide precursors were La@N(SiMe3)2#3 and water vapor, which served as the oxygen source. One deposition cycle consisted of 0.8 s pulse of La@N(SiMe3)2#3 , followed by 1s N2 purge pulse (to remove excess precursor molecules and by-products), then a 0.8 s water pulse, and finally another 1s N2 purge pulse. Nitrogen (300 sccm) also served as the carrier gas for the La@N(SiMe3)2#3."
+}<|im_end|>

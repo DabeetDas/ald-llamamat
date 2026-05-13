@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "600 - 700",
+  "pressure": "700 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "MOCVD system using vertical geometry",
+  "evidence": "The growth pressure and temperature were 700 Torr and 600–700◦C, respectively. The growth was performed using trimethyl gallium (TMGa) as the gallium source (1 sccm) and nitrogen as the carrier gas (5 slm). The nanostructures were grown with only one precursor (TMGa) that flowed to the heated Cu substrate region for 5–15 min (figure 1)."
+}

@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 325,
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 5,
+  "purge_time_s": 5,
+  "number_of_cycles": null,
+  "reactor_type": "cross-flow",
+  "evidence": "Substrates were sequentially exposed to alternating pulses EBECHRu and O2, separated by N2 purges. The exposure times were 5 s EBECHRu, 5 s N2, 0.4 s O2, and 3 s N2 in each case."
+}

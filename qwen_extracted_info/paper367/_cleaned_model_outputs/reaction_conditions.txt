@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "GaCI + AsH3 -> GaAs + HCI"
+  ],
+  "surface_mechanism_description": "The adsorbed complex decomposes during the H2 purge by a first-order reaction and desorbs HCI. The surface becomes a Ga surface. The supply of AsH3 leads to a reaction between the surface Ga and As.",
+  "intermediate_species": [
+    "adsorbed complex",
+    "Ga surface",
+    "surface hydroxyls"
+  ],
+  "evidence": "Based on the above observation, we propose the reaction mechanisms that proceed on the surface during halogen-transport ALE. In Fig. 8, the mechanism is schematically shown. This mechanism is similar to that reported in classical halogen transport vapor-phase epitaxy (VPE). As seen in Fig. 6, when GaCI was supplied, the SPA signal rapidly decreased. This process probably originates in the random adsorption of GaCI on the As sites as shown in Fig. 8a. Then, the SPA signal slowly increased and leveled off. At this stage, the randomly adsorbed GaCI is selected to the tightly adsorbed species by desorbing the extra GaCI. The tightly adsorbed species is a complex. The hydrogen atoms which may terminate the dangling bonds of surface As atoms or hydrogen molecules in the gas phase are involved in the complex (Fig. 8b). All surface As sites are completely covered by the complex, because the layer-by-layer growth occurs in ALE. Next, the complex decomposes during the H2 purge by a first-order reaction and desorbs HCI. At this stage, the surface becomes a Ga surface (Fig. 8c). Finally, the SPA signal variations due to the supply of AsH3 are ascribed to the reaction between the surface Ga and As."
+}

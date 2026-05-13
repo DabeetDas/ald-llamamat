@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "20 mbar",
+  "precursor_pulse_time_s": "400",
+  "coreactant_pulse_time_s": "400",
+  "purge_time_s": "500",
+  "number_of_cycles": "10000",
+  "reactor_type": "hot-wall, flow-type reactor MC-120",
+  "evidence": "The Ca(thd), pulse/purge times 400 ms/500 ms and H2S pulse/purge times 400 ms/400 ms."
+}

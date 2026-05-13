@@ -1,0 +1,8 @@
+{
+  "target_material": "InGaN",
+  "process_type": "atomic layer epitaxy (ALE)",
+  "main_precursors": ["trimethylgallium (TMG)", "ethyldimethylindium (EdMin)", "NH3"],
+  "temperature_range": "600–700 °C",
+  "summary": "High-quality InGaN films were grown by atomic layer epitaxy (ALE) at temperatures between 600–700 °C. The films exhibited low full width at half-maximum (FWHM) values and strong photoluminescence band edge emission. The process utilized a rotating susceptor and avoided gas-phase reactions by alternating exposure to metalorganic precursors and NH3. The study demonstrated the potential for growing InGaN over the entire composition range without excessive In source flows.",
+  "evidence": "InxGa12xN single-crystal films were grown at 600–700 °C by atomic layer epitaxy (ALE). The ALE system is based on the rotating susceptor approach... The ALE growth of InGaN was carried out in the 600–700 °C temperature range at 100 Torr. The primary carrier gas was nitrogen. Sapphire substrates were heated in NH3 at 1050 °C followed by the ALE growth of prelayers of AlN and GaN deposited at 700 °C. For the growth of the InGaN ternary alloy both TMG and EdMin flowed simultaneously through the column III entry tube..."
+}

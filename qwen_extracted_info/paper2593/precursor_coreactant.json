@@ -1,0 +1,13 @@
+{
+  "precursors": [
+    "Sr C i5Pr3H2/C0/C12"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [
+    "Ar"
+  ],
+  "carrier_gas": [],
+  "evidence": "The Sr-metal precursor was the THF adduct of Sr C i5Pr3H2/C0/C12 (Air Liquide). H2O vapor (Millipore 18 MX) was used as the oxidizer. Both inert gas purging and vacuum were used between reactant exposures. Argon was regulated to maintain 1 Torr reactor pressure using leak valves;"
+}

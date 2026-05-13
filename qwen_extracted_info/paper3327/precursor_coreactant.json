@@ -1,0 +1,28 @@
+{
+  "precursors": [
+    {
+      "name": "Lithium hexamethyldisilazide",
+      "abbreviation": "LiHMDS",
+      "evidence": "Lithium hexamethyldisilazide (LiHMDS) and bis(cyclopentadienyl) nickel (II) (NiCp2) were used as the lithium and nickel-containing precursors, respectively."
+    },
+    {
+      "name": "Bis(cyclopentadienyl) nickel (II)",
+      "abbreviation": "Ni(Cp)2",
+      "evidence": "Lithium hexamethyldisilazide (LiHMDS) and bis(cyclopentadienyl) nickel (II) (NiCp2) were used as the lithium and nickel-containing precursors, respectively."
+    }
+  ],
+  "coreactants": [
+    {
+      "name": "Remote oxygen plasma",
+      "evidence": "Remote oxygen plasma was used as a counter-reagent."
+    }
+  ],
+  "purge_gas": [
+    {
+      "name": "Argon (Ar)",
+      "evidence": "The total oxygen plasma pulse time was 19.5 s (Ar purge during 0.5 s with flow rate 40 sccm; Ar and O2 plasma purge during 14 s with flow rate 90 sccm; Ar purge during 5 s with flow rate 40 sccm)."
+    }
+  ],
+  "carrier_gas": [],
+  "evidence": "Lithium hexamethyldisilazide (LiHMDS) and bis(cyclopentadienyl) nickel (II) (NiCp2) were used as the lithium and nickel-containing precursors, respectively. The total oxygen plasma pulse time was 19.5 s (Ar purge during 0.5 s with flow rate 40 sccm; Ar and O2 plasma purge during 14 s with flow rate 90 sccm; Ar purge during 5 s with flow rate 40 sccm)."
+}

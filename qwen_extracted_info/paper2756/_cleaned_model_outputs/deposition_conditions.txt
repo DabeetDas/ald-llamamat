@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200-300",
+  "pressure": "",
+  "precursor_pulse_time_s": 3,
+  "coreactant_pulse_time_s": 3,
+  "purge_time_s": 5,
+  "number_of_cycles": 1000,
+  "reactor_type": "F-120",
+  "evidence": "All depositions were performed in an F-120 Sat reactor (ASM Microchemistry), in the temperature range of 200 –350 °C. The purging gas was N 2 at 300 cm 3 min− 1 from gas cylinders (Praxair, 99.999%, further purified through a Mykrolis purifier) providing a background pressure of ∼ 4 mbar. The depositions were carried out using MoCl 4O (Sigma-Aldrich, 97%) as the Mo source and distilled H 2O and O 3 pulsed simultaneously as the O source. Standard pulsing times were 3 s for both MoCl 4O and O 3 +H 2O, followed by 3 s purging after MoCl 4O and 5 s after O 3 +H 2O, unless otherwise specified."
+}

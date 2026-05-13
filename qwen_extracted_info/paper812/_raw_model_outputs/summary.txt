@@ -1,0 +1,8 @@
+{
+  "target_material": "Pr-doped HfO2",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Pr(thd)3", "O3"],
+  "temperature_range": "225–325 °C",
+  "summary": "The study focuses on the atomic layer deposition (ALD) of Pr-doped HfO2 thin films using Pr(thd)3 and O3 as precursors. The process involves alternating deposition cycles of PrOx and HfO2 to achieve uniform dopant distribution. The temperature range is critical for oxygen absorption and thickness uniformity. The results show that Pr doping stabilizes the t’ form of HfO2 and enhances photoluminescence efficiency.",
+  "evidence": "The uniform Pr distribution in the sub-monolayer PrOx layers, deposited alternatively with HfO2 during synthesis of Pr-doped HfO2, indicates that thickness gradients were developed only in sufficiently thick PrOx films. This result, together with the increase in Pr and Hf mass growth per cycle with an increasing Pr amount in doped HfO2, demonstrates that oxygen absorption in the PrOx-rich material enhanced ALD growth and was a major reason for the formation of thickness gradients in thicker PrOx films grown at temperatures causing the O3 decomposition."
+}<|im_end|>

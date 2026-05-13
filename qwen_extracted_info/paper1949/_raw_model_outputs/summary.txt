@@ -1,0 +1,8 @@
+{
+  "target_material": "AlN",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": ["AlCl3", "NH3"],
+  "temperature_range": "500 \"C",
+  "summary": "AlN thin films were grown using Atomic Layer Epitaxy (ALE) with AlCl3 and NH3 as precursors at 500 \"C. The films were polycrystalline with a strong preferred orientation in the [OOll] direction. The growth rate was 1.0 Å/cycle, and the films contained oxygen and chlorine impurities. The study aimed to explore the feasibility of ALE for growing AlN films on temperature-sensitive substrates.",
+  "evidence": "AlN thin films were grown by the Atomic Layer Epitaxy (ALE) technique employing AlCl3 and NH3 as precursors. A growth rate of 1.0 Å/cycle was obtained in experiments carried out at 500 \"C. The films deposited onto soda lime glass substrates were polycrystalline exhibiting a strong preferred orientation in the [OOll] direction. X-ray Photoelectron Spectroscopy (XPS) measurements revealed that the films contained oxygen and chlorine as impurities."
+}<|im_end|>

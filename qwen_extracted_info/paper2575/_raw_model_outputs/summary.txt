@@ -1,0 +1,8 @@
+{
+  "target_material": "Cu (Copper)",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["Cu(H2d)2", "Hydrogen"],
+  "temperature_range": "190–260 °C",
+  "summary": "The study investigates the atomic layer deposition (ALD) of copper thin films on palladium (Pd) seed layers, focusing on the interdiffusion between Cu and Pd during the ALD process. The research highlights the surface segregation of Pd due to hydrogen adsorption during ALD, which results in a relatively constant Pd surface composition despite increasing Cu deposition. The study also explores the use of alternative seed layers like Pt, which allows for the growth of pure Cu films without Pd surface segregation.",
+  "evidence": "The ALD process uses Cu(H2d)2 as the precursor and hydrogen as the coreactant. The temperature range for selective Cu growth is specified as 190–260 °C. The study notes that Pd surface segregation is driven by hydrogen adsorption during ALD, and Pt seed layers are shown to prevent this segregation, allowing for pure Cu films."
+}<|im_end|>

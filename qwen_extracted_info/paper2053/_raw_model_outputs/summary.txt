@@ -1,0 +1,8 @@
+{
+  "target_material": "TiN",
+  "process_type": "ALD",
+  "main_precursors": ["NH3", "TiCl4"],
+  "temperature_range": "350 °C",
+  "summary": "The study investigates the initial growth mechanism of TiN films deposited by atomic layer deposition (ALD) on different substrates. The growth is dominated by a Volmer–Weber-type mechanism, characterized by the formation of three-dimensional islands due to preferential ligand exchange with surface functional groups. The growth rate and film closure depend on the substrate's functional group density, with lower growth rates observed on substrates with fewer functional groups.",
+  "evidence": "We have investigated the role of the substrate in the growth mechanism of TiN films grown by atomic layer deposition. The early stage of the film formation is dominated by a Volmer–Weber-type growth mode, driven by the ligand exchange of reactant molecules with preferential surface function groups. The density of function groups on the initial surface dictates the density and the vertical dimension of TiN islands, the evolution of the substrate coverage, and the minimum thickness at which the films become continuous."
+}<|im_end|>

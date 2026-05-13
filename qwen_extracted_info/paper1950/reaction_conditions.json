@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The reactivity of 'TaCl5 towards H2O treated tantalum oxide surface is significantly higher than the reactivity of H2O towards TaCl5-treated tantalum oxide. It was shown recently that sticking coefficients of precursor molecules can be estimated using the thickness profile of tantalum oxide grown in a changeable ALD reactor or chemisorption kinetics measured at the outlet or channel-type ALD reactor. The sticking coefficients of TaCl5 and H2O on tantalum oxide surface were determined. The delay time (Fig. 3) was used as a parameter for the calculation of the diffusion coefficient. The calculations have also shown that the delay time is inversely proportional to the precursor concentration at the channel inlet. The values of k and F for TaCl5 and FcO/N2 for H2O were determined by fitting the calculated curves to the experimental points. The maximum slope of the (1139) response signal (Fig. 4) is 118.5, which is a quantity characterizing the time dependence of surface coverage. The results enable to confirm that the sticking coefficient of TaCl5 on the H2O-treated tantalum oxide surface is much higher than that of H2O on TaCl5-treated tantalum oxide."
+}

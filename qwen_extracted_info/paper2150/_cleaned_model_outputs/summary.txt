@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "thermal ALD",
+  "main_precursors": ["hafnium tert butoxide", "molecular oxygen"],
+  "temperature_range": "300 °C",
+  "summary": "The study investigates the band alignment at the HfO2/4H-SiC interface using XPS and DFT simulations. HfO2 films were grown on 4H-SiC substrates via thermal atomic layer deposition (ALD) at 300 °C using hafnium tert butoxide and molecular oxygen precursors. The valence band offset was determined to be 1.74 eV and the conduction band offset was 0.70 eV. The low conduction band offset may lead to high leakage currents, which could affect device performance.",
+  "evidence": "HfO2 films were deposited at 300 °C by an atomic layer deposition process using alternating pulses of hafnium tert butoxide and molecular oxygen precursors."
+}

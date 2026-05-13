@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "2SnOH* + SnCl4 → (SnO)2 - SnCl2* + 2HCl",
+    "SnCl2* + H2O2 → Sn(OH)2* + Cl2"
+  ],
+  "surface_mechanism_description": "The surface reactions involve the sequential self-limiting surface chemical reactions where SnOH* reacts with SnCl4 to form SnO2-SnCl2* and HCl, followed by the reaction of SnCl2* with H2O2 to form Sn(OH)2* and Cl2. These reactions are part of the ALD process for depositing SnOx films.",
+  "intermediate_species": [
+    "SnOH*",
+    "SnCl2*",
+    "Sn(OH)2*"
+  ],
+  "evidence": "The two, sequential, self-limiting surface chemical reactions for tin oxide ALD can be described as (A) 2SnOH* + SnCl4 → (SnO)2 - SnCl2* + 2HCl (1) (B) SnCl2* + H2O2 → Sn(OH)2* + Cl2 (2) where * indicates the surface species."
+}

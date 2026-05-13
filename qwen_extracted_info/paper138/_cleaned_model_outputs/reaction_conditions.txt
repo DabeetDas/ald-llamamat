@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "Al(CH3)3 + H2O -> Al(OH)(CH3)2 + CH4",
+    "Ti(OMe)4 + H2O -> TiO2 + 4 MeOH",
+    "Ir(acac)3 + O2 -> Ir + 3 CO2 + 3 acac"
+  ],
+  "surface_mechanism_description": "The ALD process involves the sequential adsorption and reaction of precursor molecules on the surface. For TiO2, the reaction involves the hydrolysis of Ti(OMe)4 with water, forming TiO2 and methanol. For Al2O3, the reaction involves the hydrolysis of Al(CH3)3 with water, forming Al2O3 and methanol. For Ir, the reaction involves the dissociation of O2 to atomic oxygen, which reacts with Ir(acac)3 to form Ir and carbon monoxide.",
+  "intermediate_species": [
+    "Al(OH)(CH3)2",
+    "TiO2",
+    "Al2O3",
+    "Ir",
+    "CO2",
+    "MeOH"
+  ],
+  "evidence": "TiO2 was deposited from Ti(OMe)4 and H2O at 250 °C, Al2O3 from Al(CH3)3 and H2O at 150 °C, and Ir from Ir(acac)3 and O2 at 250 °C. The ALD growth of Ir involves the catalytic dissociation of O2 to atomic oxygen, which is expected to be very reactive towards cellulosic materials at elevated temperatures."
+}

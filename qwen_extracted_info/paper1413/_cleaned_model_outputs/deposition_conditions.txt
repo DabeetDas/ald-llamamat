@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "250-450",
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": "0.2",
+  "coreactant_pulse_time_s": "0.5",
+  "purge_time_s": "0.5",
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The precursors evaporated are alternately led to one end of the channel and move in the form of adsorption waves along the substrate surfaces toward the other end. The substrate temperature was varied between 250 and 450 °C. Nitrogen was used as a precursor carrier and purge gas. The pressure in the reactor was about 10 mbar. Ta(OC2H5)5 (Aldrich) and TaCl5 (Merck) were evaporated from open boats held at 105 and 90 °C, respectively, inside the reactor. Purge time periods of 0.5 s were used between the precursor pulses in order to avoid gas-phase reactions and to remove the volatile byproducts of surface reactions."
+}

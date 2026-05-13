@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 400,
+  "pressure": "1  10-9 Torr",
+  "precursor_pulse_time_s": 40,
+  "coreactant_pulse_time_s": 40,
+  "purge_time_s": 40,
+  "number_of_cycles": 25,
+  "reactor_type": "two-chamber stainless steel ultrahigh vacuum (UHV) apparatus",
+  "evidence": "Traces are displayed for each individual TiCl4 dose, which consisted of pulses of approximately (4 ( 1)  103 L( Pmax  1  10-4 Torr, ¢t  40 s; 1 L ) 1  10-6 Torr s)."
+}<|im_end|>

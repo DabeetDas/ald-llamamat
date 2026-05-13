@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Oxygen reacted with Ru(DMPD)2 to form metallic ruthenium when short oxygen pulses and low oxygen pressures were utilized. With higher oxygen pressures and longer exposure time, the process was found to deposit ruthenium oxide. Prolonged oxygen exposure is found to be more effective than short intense exposure in producing ruthenium oxide, and we propose that the slow diffusion of oxygen into the film to form subsurface oxygen is a rate-limiting step in the oxide formation.",
+  "intermediate_species": ["oxygen adatoms", "subsurface oxygen"],
+  "evidence": "We propose that the slow diffusion of oxygen to the subsurface region is a rate-limiting step in this process. ... The necessity of long oxygen exposure, on the order of seconds, suggests the presence of a very slow step in the deposition process. ... The process requires the formation of a complete oxygen adlayer on the top surface prior to the diffusion of oxygen atoms into the subsurface layer, according to a literature report."
+}<|im_end|>

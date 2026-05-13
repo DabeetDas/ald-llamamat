@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The ALD process uses diethyl zinc (DEtZn) and water (H2O) as precursors. The reaction cycle consists of a 2.0 s exposure to DEtZn, followed by a 30 s N2 purge, a 4.0 s exposure to H2O, and another N2 purge. The precursor molecules diffuse into and fully infiltrate the porous network of the opal structures.",
+  "intermediate_species": ["ZnO"],
+  "evidence": "ZnO was formed by infiltrating diethyl zinc (DEtZn) and water as precursors into the opal templates using a continuous flow ALD reactor... One ALD reaction cycle consisted of a 2.0 s exposure to DEtZn, followed by a 30 s N2 purge, a 4.0 s exposure to H2O, and another N2 purge."
+}

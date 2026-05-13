@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "atomic layer epitaxy",
+  "main_precursors": ["HfCl4", "water"],
+  "temperature_range": "500 °C",
+  "summary": "HfO2 thin films were grown by atomic layer epitaxy using HfCl4 and water at 500 °C. The films exhibited a thin amorphous starting layer and a subsequent preferentially oriented polycrystalline layer. The films were found to be chlorine-free and had a high refractive index, making them suitable for optical applications.",
+  "evidence": "The structural development of HfO2 thin films grown from HfCl4 and water onto glass substrates by atomic layer epitaxy at 500 °C was studied with X-ray diffraction, atomic force microscopy and scanning electron microscopy. The films were found to contain two regions of different crystallinity: a thin amorphous starting layer and a subsequent preferentially oriented polycrystalline layer. The films were chlorine free as analyzed by Rutherford backscattering spectrometry."
+}

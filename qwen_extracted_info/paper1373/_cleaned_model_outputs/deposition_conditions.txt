@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "270-330",
+  "pressure": "",
+  "precursor_pulse_time_s": 5,
+  "coreactant_pulse_time_s": 10,
+  "purge_time_s": 3,
+  "number_of_cycles": 100,
+  "reactor_type": "PicosunTM R-200 Advanced ALD reactor",
+  "evidence": "Typical [Bi(tmhd)3] exposure / purge times were 5 s / 10 s and 3 s / 5 s for the thermal (T-ALD) and the plasma-enhanced processes (PE-ALD), respectively."
+}

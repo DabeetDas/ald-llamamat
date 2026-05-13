@@ -1,0 +1,8 @@
+{
+  "target_material": "HfO2",
+  "process_type": "ALD",
+  "main_precursors": ["[(MeCp)2HfMe(OiPr)]", "[(MeCp)2HfMe(mmp)]"],
+  "temperature_range": "300–450 °C",
+  "summary": "HfO2 films are deposited using liquid injection MOCVD and ALD with new cyclopentadienyl precursors [(MeCp)2HfMe(OiPr)] and [(MeCp)2HfMe(mmp)]. The films are amorphous initially and crystallize upon annealing. ALD films show lower carbon contamination and better electrical properties compared to MOCVD films. The dielectric properties are evaluated using MOS capacitors, showing permittivity values of ~14 and ~10 for the two precursors, with low leakage current for ALD films.",
+  "evidence": "Thin films of HfO2 are deposited by MOCVD in the temperature range 400–650 °C, and by ALD in the temperature range 300–450 °C, using both [(MeCp)2HfMe(OiPr)] and [(MeCp)2HfMe(mmp)]. The dielectric properties of the as-deposited HfO2 films are evaluated using [Al/HfO2/SiO2/n-Si] MOS capacitor structures with various HfO2 thicknesses ranging from 1.7 nm to 102 nm. The calculated permittivity (εox), assuming the presence of a 1 nm native SiO2 interlayer, is found to be εox ~ 14 for a HfO2 film grown by ALD using [(MeCp)2HfMe(OiPr)], whilst for a film grown by ALD using [(MeCp)2HfMe(mmp)], εox is found to be ~10. The leakage current density for a film grown by ALD using [(MeCp)2HfMe(OiPr)] remains very low (<10–6 A cm–2) up to 2.5 MV cm–1, whereas the leakage current density is significantly higher for the MOCVD-grown films."
+}<|im_end|>

@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "bismethylcyclopentadienylmanganese (CH3C5H4)2Mn ((MeCp) 2Mn)",
+    "trisdimethylaminoarsine As[N(CH 3)2]3 (TDMAAs)"
+  ],
+  "coreactants": [],
+  "purge_gas": [
+    "hydrogen"
+  ],
+  "carrier_gas": [
+    "hydrogen"
+  ],
+  "evidence": "The metalorganic gas source for manganese atom was (MeCp) 2Mn and that for arsenic atom TDMAAs. The carrier gas was hydrogen. Alternating gas-pulses of (MeCp) 2Mn and TDMAAs sources were separated by a hydrogen purge pulse which prevented the reactants from mixing."
+}

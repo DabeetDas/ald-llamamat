@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The formation of the interfacial SiOx layer is attributed to the exposure of Si, terminating the SiC surface, to O3 treatment prior to oxide deposition. The Si 2p spectra of the 1273 K annealed samples exhibit a more intense SiOx peak positioned at higher-binding energy indicating the formation of SiO2. This is attributed to oxidation of part of the SiOx to SiO2 accompanied by a simultaneous reduction to Si of the SiOx. Pure Si was also present as shown by the peak at about 99 eV which is enhanced for the annealed samples.",
+  "intermediate_species": [
+    "SiOx",
+    "SiO2",
+    "Si"
+  ],
+  "evidence": "The formation of this interfacial film may be attributed to the exposure of Si, terminating the SiC surface, to O3 treatment prior to oxide deposition. The Si 2p spectra of the 1273 K annealed samples exhibit a more intense SiOx peak positioned at higher-binding energy indicating the formation of SiO2. This is attributed to oxidation of part of the SiOx to SiO2 accompanied by a simultaneous reduction to Si of the SiOx. Pure Si was also present as shown by the peak at about 99 eV which is enhanced for the annealed samples."
+}

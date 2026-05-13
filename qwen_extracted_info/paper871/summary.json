@@ -1,0 +1,11 @@
+{
+  "target_material": "HfO2",
+  "process_type": "AP-ALD",
+  "main_precursors": [
+    "HfCl4",
+    "O2"
+  ],
+  "temperature_range": "523–923K",
+  "summary": "HfO2 films were deposited on a Si(100) substrate using an alternate reaction of HfCl4 and O2 under atmospheric pressure. The films showed self-limiting growth above 873K, with a monoclinic polycrystalline phase. The effective permittivity value was 9.6 for films grown at 573K. Chloride contamination was minimal, and silicon diffusion into the HfO2 film was observed at higher temperatures.",
+  "evidence": "HfO2 films were deposited onto a Si(100) substrate using an alternate reaction of HfCl4 and O2 under atmospheric pressure. Self-limiting growth of the HfO2 was achieved in the range of the growth temperature above 873K. The X-ray diffraction of the HfO2 films showed a typical diffraction pattern assigned to the monoclinic polycrystalline phase. Residual chloride concentration in HfO2 films was not higher than 0.1at%. When the growth temperature was 973K, the HfSiOx was formed in HfO2 film. This gives effective permittivity value of 9.6 for the HfO2 film grown at 573K."
+}

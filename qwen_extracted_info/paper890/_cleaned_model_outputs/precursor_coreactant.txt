@@ -1,0 +1,7 @@
+{
+  "precursors": ["triethylborane (TEB, (C2H5)3B)", "tungsten hexafluoride (WF6)", "ammonia (NH3)"],
+  "coreactants": ["ammonia (NH3)"],
+  "purge_gas": ["nitrogen (N2)"],
+  "carrier_gas": ["nitrogen (N2)"],
+  "evidence": "The precursors, in process sequence, are triethylborane (TEB, (C2H5)3B), tungsten hexafluoride (WF6), and ammonia (NH3). The WF6 and NH3 gases are diluted with nitrogen gas (N2) and introduced in the chamber, while the liquid precursor (C2H5)3Bi s evaporated and transported by N2 carrier gas at 175 hPa and 18 /C176C over the liquid."
+}

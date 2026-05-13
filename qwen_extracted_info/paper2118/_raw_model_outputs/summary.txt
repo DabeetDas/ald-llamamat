@@ -1,0 +1,8 @@
+{
+  "target_material": "Zn(O,S)",
+  "process_type": "ALD",
+  "main_precursors": ["diethylzinc (DEZ)", "H2S", "H2O"],
+  "temperature_range": "120 °C",
+  "summary": "Zn(O,S) buffer layers were deposited by atomic layer deposition (ALD) at 120 °C using diethylzinc (DEZ), H2S, and H2O as precursors. The study focused on the band alignment and sulfur gradient in these layers for Cu(In,Ga)Se2 (CIGS) based thin film solar cells. The sulfur concentration increased towards the CIGS interface, leading to a graded band profile. Devices with optimized sulfur content achieved high efficiencies up to 16.4%.",
+  "evidence": "Zn(O,S) buffer layers by atomic layer deposition in Cu(In,Ga)Se2 based thin film solar cells: Band alignment and sulfur gradient. The Zn(O,S) layers were deposited by atomic layer deposition (ALD) at 120 °C using diethylzinc (DEZ), H2S, and H2O as precursors. The sulfur concentration increases towards the CIGS interface, leading to a graded band profile. Devices with optimized sulfur content achieved high efficiencies up to 16.4%."
+}<|im_end|>

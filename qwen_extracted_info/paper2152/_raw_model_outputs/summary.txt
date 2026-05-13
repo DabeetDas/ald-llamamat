@@ -1,0 +1,8 @@
+{
+  "target_material": "Al2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["Al(CH3)3 (trimethylaluminum)", "H2O"],
+  "temperature_range": "100 °C",
+  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to grow a thin Al2O3 surface-passivating layer on silicon at low temperature (100 °C) to enhance light emission efficiency. The ALD Al2O3 layer significantly reduces nonradiative recombination, leading to higher external quantum efficiency compared to thermal SiO2 layers.",
+  "evidence": "Thin Al2O3 surface-passivating layers grown by atomic layer deposition at 100 °C were demonstrated to be instrumental in producing efficient light emission from silicon. The ALD Al2O3 insulator serves as a surface-passivating layer to reduce nonradiative recombination of carriers at the silicon surface, thereby enhancing the light-emission efficiency from silicon."
+}<|im_end|>

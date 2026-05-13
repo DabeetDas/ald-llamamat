@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The improved adhesion of titania films on water-plasma-treated polycarbonate is attributed to the formation of hydroxyl groups on the surface, which participate in nucleophilic reactions with precursor species such as TiCl4, leading to the chemisorption of TiClx(–O–)4−x species and the formation of a strongly adherent inorganic layer.",
+  "intermediate_species": ["hydroxyl groups", "phenolic species", "carboxylate species", "TiClx(–O–)4−x species"],
+  "evidence": "The presence of hydroxylated species on the surface, introduced by the water plasma treatment, is consistent with the O 1s XPS peak observed at 532.9 eV in the water-plasma-treated sample. The reactive structure formed by hydroxyl groups allows for nucleophilic reactions with precursor species such as TiCl4, leading to the formation of chemisorbed TiClx(–O–)4−x species. Subsequent ALD half-reactions would then preferentially initiate at these chemisorbed sites, leading to the formation of a strongly adherent inorganic layer on the polycarbonate substrate."
+}<|im_end|>

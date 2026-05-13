@@ -1,0 +1,8 @@
+{
+  "target_material": "Si and Ge",
+  "process_type": "flash-heating CVD",
+  "main_precursors": ["SiH4", "GeH4"],
+  "temperature_range": "200-300°C",
+  "summary": "The study investigates the initial growth stages of Si and Ge using flash-heating CVD with SiH4 and GeH4 gases to control atomic-layer heteroepitaxy. It was found that Si can be deposited on Ge surfaces at temperatures below 300°C without a flash shot, and Ge can be deposited on Si surfaces with a single flash shot at 275°C. The process involves flash light intensity and partial pressure adjustments to achieve single atomic-layer growth.",
+  "evidence": "It was found that Si was deposited on the Ge surface even at substrate temperatures below 300°C without the flash shot, and the deposited Si thickness increased with increasing the SiH4 exposure time and saturated to a single atomic-layer thickness with a longer time to reach saturation at a lower temperature in the range of 200-300°C. In the case of Ge growth on a wet-cleaned Si surface, an incubation period was observed even with the flash shot. By increasing the flash light intensity and the GeH4 partial pressure, the incubation period was reduced and a single atomic-layer growth of Ge on the wet-cleaned Si(100) was achieved with a single flash shot at 275°C."
+}

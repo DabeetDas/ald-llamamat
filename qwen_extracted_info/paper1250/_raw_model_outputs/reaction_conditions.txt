@@ -1,0 +1,17 @@
+{
+  "reaction_equations": [
+    "TDMASb + Se-H* -> Sb-N(CH3)2* + HSe",
+    "SeR4 + Sb-H* -> SeR3 + Sb-R*",
+    "Sb-R* + SeR3 -> Sb-Se + R + R'"
+  ],
+  "surface_mechanism_description": "The reaction mechanism involves two half-cycles: (1) TDMASb reacts with Se-H terminated surface to form Sb-N(CH3)2* and HSe, followed by desorption of TDMASb species and by-products. (2) SeR4 precursor reacts with Sb-H* to form SeR3 and Sb-R*, which then react to form Sb-Se bonds and release R and R' ligands. The process is characterized by self-limiting growth with a saturated growth rate of 0.28 Å/cycle.",
+  "intermediate_species": [
+    "Sb-N(CH3)2*",
+    "HSe",
+    "SeR3",
+    "Sb-R*",
+    "R",
+    "R'"
+  ],
+  "evidence": "The reaction mechanism is described in the text as follows: 'DFT studies also reveal that TMDASb (A) species reacts with the surface Se-H species initiated through a facile proton abstraction reaction resulting in mass increase. The detailed reaction mechanism during the first half cycles is as shown in Scheme 1. ... In the second half cycle, computational endeavor indicates that the SeR4 precursor ... leads to the formation of R and R' ligands.'"
+}<|im_end|>

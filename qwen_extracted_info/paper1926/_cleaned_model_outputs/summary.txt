@@ -1,0 +1,8 @@
+{
+  "target_material": "MoO3",
+  "process_type": "ALD",
+  "main_precursors": ["MoO2(R2AMD)2 (AMD = N,N′-di-R-acetamidinate) with R = Cy (2) and iPr (3)"],
+  "temperature_range": "120–260 °C",
+  "summary": "The study reports the synthesis and characterization of new molybdenum oxo-amidinate precursors for atomic layer deposition (ALD) of MoO3 films. The precursors, MoO2(Cy2AMD)2 (2) and MoO2(iPr2AMD)2 (3), are shown to be more effective than the tBu-based precursor MoO2(tBu2AMD)2 (1) for ALD growth of MoO3 films. The ALD process uses O3 as the second reagent, and the films are found to be free of nitridation, with high uniformity and conformality.",
+  "evidence": "Quartz-crystal microbalance and X-ray photoelectron spectroscopic studies confirm that 3 is an improved ALD precursor versus the R = t-butyl derivative for MoO3 film growth. Complex 3 is accessible in higher yields (80%+), is easier to handle without mass loss, and in conjunction with O3 as the second ALD reagent, yields nitride-free MoO3 films."
+}

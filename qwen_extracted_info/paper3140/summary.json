@@ -1,0 +1,13 @@
+{
+  "target_material": "PbTiO3",
+  "process_type": "modified ALD with periodic relaxation",
+  "main_precursors": [
+    "Pb(DMAMP)2",
+    "Ti(OiPr)4",
+    "H2O",
+    "O3"
+  ],
+  "temperature_range": "200 ℃",
+  "summary": "The study investigates the growth behavior and electrical properties of PbTiO3 thin films deposited using a modified ALD process with periodic relaxation. The process involves dividing the deposition cycle into sub-cycles with periodic relaxation to enhance composition controllability and growth rate. The films were deposited on Ru and Ir electrodes using Pb(DMAMP)2 and Ti(OiPr)4 as precursors, with H2O and O3 as oxidants. The study also examines the effects of post-deposition annealing, electrode materials, and 2-step growth on the structural and electrical properties of the films.",
+  "evidence": "The study investigates the growth behavior and electrical properties of PbTiO3 thin films deposited using a modified ALD process with periodic relaxation. The process involves dividing the deposition cycle into sub-cycles with periodic relaxation to enhance composition controllability and growth rate. The films were deposited on Ru and Ir electrodes using Pb(DMAMP)2 and Ti(OiPr)4 as precursors, with H2O and O3 as oxidants. The study also examines the effects of post-deposition annealing, electrode materials, and 2-step growth on the structural and electrical properties of the films."
+}

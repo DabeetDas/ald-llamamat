@@ -1,0 +1,10 @@
+{
+ "deposition_temperature_C": "450-550",
+ "pressure": "",
+ "precursor_pulse_time_s": null,
+ "coreactant_pulse_time_s": null,
+ "purge_time_s": null,
+ "number_of_cycles": "50-1200",
+ "reactor_type": "horizontal-type quartz hot-wall reactor",
+ "evidence": "The sequence of a single deposition cycle has four steps as follows: ZnCl2 supply (step 1), N2 purge (step 2), O2 supply (step 3), and N2 purge (step 4). This cycle was repeated 50-1200 times/run."
+}<|im_end|>

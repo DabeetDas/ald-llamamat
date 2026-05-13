@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "350",
+  "pressure": "5 to 150 mTorr",
+  "precursor_pulse_time_s": "0.3–1",
+  "coreactant_pulse_time_s": "0.3–1",
+  "purge_time_s": null,
+  "number_of_cycles": "100",
+  "reactor_type": "ALD",
+  "evidence": "The ALD cycle was as follows: NH3 gas was introduced into the reactor for 0.3–1 s. The pulse plasma of 7 kV peak to peak bias was also applied to the NH 3 gas for the same period. N2 purge and evacuation processes were carried on sequentially. After that, WF 6 gas was introduced for 0.3–1 s and N 2 purge and evacuation were done."
+}

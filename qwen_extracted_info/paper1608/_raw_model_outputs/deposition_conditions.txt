@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "200",
+  "pressure": "",
+  "precursor_pulse_time_s": 0.1,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 4,
+  "number_of_cycles": 1100,
+  "reactor_type": "Picosun Oy Sunale (R100) flow type ALD reactor",
+  "evidence": "The H2O2 pulse time was adjusted for the TiO2 deposition. The depositions were done at 200 °C with the Picosun Oy Sunale (R100) flow type ALD reactor. In brief, TMA pulses of 0.1 s, followed by 4 s purge, 2 s H2O2, and 4 s purge in combination with Ti(OiPr)4 pulses of 0.5 s, followed by 4 s purge, 2 s H2O2, and 4 s purge were used in the ALD process."
+}<|im_end|>

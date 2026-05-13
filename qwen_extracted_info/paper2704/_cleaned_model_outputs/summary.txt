@@ -1,0 +1,8 @@
+{
+  "target_material": "TiO2−xSx",
+  "process_type": "thermal ALD",
+  "main_precursors": ["tetrakis(dimethylamido)titanium(IV) (TDMATi)", "hydrogen sulfide (H2S)"],
+  "temperature_range": "150 –180 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of titanium oxysulfide (TiO2−xSx) thin films using tetrakis(dimethylamido)titanium(IV) (TDMATi) and hydrogen sulfide (H2S) precursors. The films were synthesized at 150–180 °C, and subsequent oxidation in ambient conditions led to the formation of TiO2−xSx. The resulting films were analyzed for structural, electrical, and optical properties, showing amorphous structures and n-type semiconductor behavior with good conductivity. The bandgap was found to be between that of TiS2 and TiO2.",
+  "evidence": "The authors describe the atomic layer deposition (ALD) of titanium oxysul ﬁde ﬁlms (TiO 2−xSx). A new ALD chemistry of tetrakis(dimethylamido)titanium and hydrogen sul ﬁde is proposed for fabricating amorphous titanium sul ﬁde layers. They found that the resulting ﬁlms subsequently underwent oxidation upon reactions under the ambient condition, resulting in TiO 2−xSx. The resultant structures were analyzed by using x-ray diffraction, transmission electron microscopy, and x-ray photoelectron spectroscopy, indicative of the formation of TiO 2−xSx. A combined study of Hall effect measurements and Mott –Schottky analysis showed n-type semiconductor behaviors possessing a good conductivity. Optical properties testify that the present system has a moderate bandgap in between the related binary end compounds such as TiS 2 and TiO 2."
+}

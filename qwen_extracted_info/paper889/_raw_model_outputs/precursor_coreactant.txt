@@ -1,0 +1,7 @@
+{
+  "precursors": ["PDMAT", "NH3"],
+  "coreactants": [],
+  "purge_gas": ["Ar"],
+  "carrier_gas": [],
+  "evidence": "The standard ALD recipe uses 20 cycles of PDMAT/NH3 to deposit a TaN thin film at 275 /C176C."
+}<|im_end|>

@@ -1,0 +1,16 @@
+{
+  "precursors": [
+    "trimethylgallium (TMGa)",
+    "trimethylaluminum (TMA)"
+  ],
+  "coreactants": [
+    "arsine gas (AsH3)"
+  ],
+  "purge_gas": [
+    "hydrogen"
+  ],
+  "carrier_gas": [
+    "hydrogen"
+  ],
+  "evidence": "The gas system in this experiment was basically the same as that in a metalorganic chemical vapour deposition (MOCVD) system. The gas source for the group III element was trimethylgallium (TMGa), trimethylgallium (TEGa) or trimethylaluminum (TMA), and that for the group V element was arsine gas. The exchanges of reactant gases are carried out using a pressure valanced vent and run gas manifold. As a result of these improvements, less than 0.1 s was needed to exchange the reaction gases The alternating pulses of gallium (aluminum) and arsenic are separated by a hydrogen purge pulse which prevents reactants from mixing."
+}

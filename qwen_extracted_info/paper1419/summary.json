@@ -1,0 +1,13 @@
+{
+  "target_material": "SrS and BaS",
+  "process_type": "ALD",
+  "main_precursors": [
+    "(C5iPr3H2)2Sr(THF)",
+    "(C5Me5)2Sr(THF)x",
+    "(C5Me5)2Ba(THF)x",
+    "H2S"
+  ],
+  "temperature_range": "120-460 °C, 155-400 °C, 180-400 °C",
+  "summary": "SrS and BaS thin films were grown using atomic layer deposition (ALD) with (C5iPr3H2)2Sr(THF), (C5Me5)2Sr(THF)x, (C5Me5)2Ba(THF)x, and H2S as precursors. The growth rate varied between 0.6 and 3.0 Å/cycle, and all films were polycrystalline. The study aimed to explore the ALD process for these sulfides, focusing on growth mechanisms and precursor behavior at different temperatures.",
+  "evidence": "SrS and BaS thin films were grown on glass substrates using an atomic layer deposition (ALD) technique and (C5iPr3H2)2Sr(THF) (1), (C5Me5)2Sr(THF)x (2), (C5Me5)2Ba(THF)x (3), and H2S as precursors. Deposition temperatures were 120-460, 155-400, and 180-400 °C with 1, 2, and 3, respectively. Growth rate of the films varied between 0.6 and 3.0 Å/cycle and all the films were polycrystalline as deposited."
+}

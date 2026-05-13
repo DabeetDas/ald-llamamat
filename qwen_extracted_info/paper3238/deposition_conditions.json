@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "300-400",
+  "pressure": "4 Torr",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "direct plasma ALD reactor",
+  "evidence": "PEALD SiN was deposited in a direct plasma ALD reactor at 300 ◦C-400◦C using trisilylamine and H 2/N2 RF plasma (high and low frequency)."
+}

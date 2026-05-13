@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The formation of nickel metal films from 1 and tert-butylamine is likely complex. Treatment of physisorbed 1 with tert-butylamine would lead to the formation of a 5-coordinate adduct, in which the tert-butylamine nitrogen atom coordinates to the nickel(II) ion. This coordination would distort the tetrahedral geometry, possibly to square pyramidal, and significant energy changes in the d orbitals would occur. Such coordination would lower the decomposition temperature of surface-bound 1, thus giving nickel metal at lower temperatures than pure 1.",
+  "intermediate_species": [
+    "physisorbed 1",
+    "5-coordinate adduct 3",
+    "neutral diazadienyl ligands",
+    "alkylamine"
+  ],
+  "evidence": "The formation of nickel metal films from 1 and tert-butylamine is likely complex. We recently proposed that treatment of physisorbed 2 with tert-butylamine would lead to the formation of a 5-coordinate adduct, in which the tert-butylamine nitrogen atom coordinates to the cobalt(II) ion in 2. This coordination would distort the tetrahedral geometry, possibly to square pyramidal, and significant energy changes in the d orbitals would occur. Such coordination would lower the decomposition temperature of surface-bound 2, thus giving cobalt metal at lower temperatures than pure 2. Complexes 1 and 2 contain metal(II) ions bonded to radical anion ligands. Thermal decomposition of 1 likely occurs by formation of the 5-coordinate adduct 3, followed by transfer of the electrons from the ligands to the metal ion, thus affording nickel metal. This decomposition also affords the neutral diazadienyl ligands and the alkylamine, which are lost as volatile species. This process would occur upon interaction of physisorbed 1 on metal surfaces with tert-butylamine to afford physisorbed 3, which then decomposes at the film growth temperatures."
+}

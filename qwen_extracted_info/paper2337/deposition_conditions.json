@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 400,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "remote-plasma Picosun R-200",
+  "evidence": "The precursors were trimethylgallium (TMG) for Ga and ammonia (NH3) for N. The depositions were performed at a temperature of 400 /C14C."
+}

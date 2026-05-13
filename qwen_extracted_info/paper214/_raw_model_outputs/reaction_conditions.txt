@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "x /C0 NH þ NiCl2 TMPDAðÞ gðÞ ! /C0 NxNiCl2/C0 x adsðÞ þ xHCl gðÞ þ TMPDA gðÞ"
+  ],
+  "surface_mechanism_description": "The adsorption and reaction of NiCl2(TMPDA) during the Ni precursor pulse involves the dissociation of the neutral TMPDA ligand from the Ni precursor and some of the chloride ligands reacting with the /C0 NH surface groups. The subsequent TBH pulse completes the reaction by eliminating the rest of the chlorides, forming the nitride and regenerating any possible /C0 NH surface species.",
+  "intermediate_species": [
+    "NiCl2(TMPDA) surface species",
+    "chloride ligands",
+    "TMPDA ligand",
+    "NiCl2"
+  ],
+  "evidence": "Equation (2) shows the proposed mechanism for the adsorption and reaction of NiCl2(TMPDA) during the Ni precursor pulse. x /C0 NH þ NiCl2 TMPDAðÞ gðÞ ! /C0 NxNiCl2/C0 x adsðÞ þ xHCl gðÞ þ TMPDA gðÞ (x ¼ 0 /C0 2ðÞ). It is believed that upon adsorption, the neutral TMPDA ligand is dissociated from the Ni precursor and some of the chloride ligands react with the /C0 NH surface groups if existing on the surface. The subsequent TBH pulse completes the reaction by eliminating the rest of the chlorides, forming the nitride and regenerating any possible /C0 NH surface species."
+}<|im_end|>

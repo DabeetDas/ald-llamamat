@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 400,
+  "pressure": "250 Pa",
+  "precursor_pulse_time_s": 1,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 1,
+  "number_of_cycles": 1000,
+  "reactor_type": "low-pressure flow-type ALD reactor",
+  "evidence": "The growth experiments were carried out in a low-pressure flow-type ALD reactor. The films were grown by subsequent leading of volatilized TiCl, and H,O into the reactor where they formed TiO, film as a result of successive surface reactions. The partial pressure of TiCl, was 0.34 Pa while the H20 pressure was varied between 0.65 and 2.9 Pa. N2 was used as the carrier gas and the total pressure in the reactor was 250 Pa. Durations of the precursor pulses were 1 and 2 s for TiCl, and H20, respectively. Purge times equal to 1 and 2 s were used after TiCl, and H,O pulses. respectively, in order to avoid overlapping of reactant pulses and remove the gaseous reaction products from the reactor."
+}

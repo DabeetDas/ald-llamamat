@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 500,
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": 0.4,
+  "coreactant_pulse_time_s": 0.5,
+  "purge_time_s": 0.3,
+  "number_of_cycles": null,
+  "reactor_type": "F-120",
+  "evidence": "The ﬁlms were deposited onto 5 cm × 5 cm borosilicate glass and indium tin oxide (ITO)-coated glass substrates in a ﬂow-type F-120 ALD reactor (ASM Microchemistry Oy, Helsinki, Finland). The reactor was operated under a pressure of about 10 mbar using nitrogen (made on site by a Nitrox UHPN 3000 generator, rated purity of 99.9995%) as a carrier and purging gas. In all depositions the pulse/purge lengths were 0.4/0.5 s for TiCl4 and H2O and 0.5/0.3 s for NH3."
+}<|im_end|>

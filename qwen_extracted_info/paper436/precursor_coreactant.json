@@ -1,0 +1,14 @@
+{
+  "precursors": [
+    "dimethyl zinc (DMZn)",
+    "trimethyl aluminum (TMAl)"
+  ],
+  "coreactants": [
+    "H2O"
+  ],
+  "purge_gas": [],
+  "carrier_gas": [
+    "nitrogen"
+  ],
+  "evidence": "The zinc precursors used were dimethyl zinc (DMZn, (CH3)2Zn, adduct purified grade from Epichem Ltd., standard grade from Witco GmbH) and diethyl zinc (DEZn, (C2H5)2Zn from Witco GmbH). The film was deposited on soda lime glass ... with nitrogen as carrier gas."
+}

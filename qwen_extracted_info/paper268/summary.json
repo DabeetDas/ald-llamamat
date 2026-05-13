@@ -1,0 +1,11 @@
+{
+  "target_material": "GaAs",
+  "process_type": "Atomic Layer Epitaxy (ALE)",
+  "main_precursors": [
+    "trimethylgallium (TMGa)",
+    "arsine (AsH3)"
+  ],
+  "temperature_range": "320 to 530 ~C",
+  "summary": "The study investigates the adsorption and decomposition of trimethylgallium (TMGa) on GaAs (001) surfaces under UHV conditions to simulate atomic layer epitaxy (ALE) growth. The experiments reveal that Ga atoms are the primary adsorbed species, and the self-limiting growth mechanism is attributed to differential chemisorption and decomposition rates of TMGa on As and Ga sites. The process is observed to be temperature-dependent, with monolayer saturation achieved between 370 and 530 ~C.",
+  "evidence": "The study reveals that Ga atoms are the primary adsorbed species, and the self-limiting growth mechanism is attributed to differential chemisorption and decomposition rates of TMGa on As and Ga sites. The process is observed to be temperature-dependent, with monolayer saturation achieved between 370 and 530 ~C."
+}

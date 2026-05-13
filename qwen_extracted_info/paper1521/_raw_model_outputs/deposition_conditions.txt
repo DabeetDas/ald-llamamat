@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 130,
+  "pressure": "about 10 mbar",
+  "precursor_pulse_time_s": 8,
+  "coreactant_pulse_time_s": 2,
+  "purge_time_s": 1,
+  "number_of_cycles": 1000,
+  "reactor_type": "hot-wall flow-type F-120 ALD reactor",
+  "evidence": "Platinum oxide thin films were deposited at 120 and 130 °C while metallic platinum films were obtained at 140 °C and above. The sublimation temperature of Pt(acac)2 set the low temperature limit for oxide film deposition. The platinum oxide films were successfully deposited on Al2O3 and TiO2 adhesion layers, soda lime glass, and silicon substrate with native oxide on top. Platinum films were grown on Al2O3 adhesion layer. The platinum oxide had good adhesion to all tested surfaces, whereas metallic platinum films did not pass the common tape test. Resistivities of 50 -60 nm thick platinum oxide films were between 1.5 and 5 Ω cm at 130 °C and could be varied with both precursor pulse lengths. The resistivity of about 110 nm thick metallic film deposited at 140 °C was about 11 µΩ cm. The platinum films deposited at higher temperatures suffered from deterioration of thickness uniformity. The platinum oxide films can be reduced in 5% H2 gas under reduced pressure at room temperature to porous platinum structures."
+}<|im_end|>

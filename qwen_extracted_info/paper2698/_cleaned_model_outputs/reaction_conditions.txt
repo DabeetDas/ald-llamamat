@@ -1,0 +1,6 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Ligand exchange between Co(Cp)2 and surface hydroxyl groups followed by water pulse to regenerate OH sites",
+  "intermediate_species": ["Co(Cp)2", "surface hydroxyls", "CoO"],
+  "evidence": "The authors report on the optical and electrical properties of atomic layer deposited (ALD) Co3O4 on Si, SiO2/Si, and Co/Si substrates using Co(Cp)2 and ozone. Within the ALD temperature window of 175 and 275 °C, the growth per cycle (GPC) on Si is approximately 0.050 nm/cycle. GPC is slightly lower on SiO2 (0.043 nm/cycle) and much higher on Co substrates (0.21 nm/cycle) due to rapid ozone oxidation of Co during ALD. The reaction mechanism involves ligand exchange between Co(Cp)2 and surface hydroxyl groups followed by water pulse to regenerate OH sites."
+}

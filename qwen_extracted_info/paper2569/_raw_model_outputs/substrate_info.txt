@@ -1,0 +1,7 @@
+{
+  "substrate_material": "Si",
+  "substrate_orientation": "",
+  "pretreatment": "thermal oxidation",
+  "surface_functionalization": "",
+  "evidence": "The designed Si thickness for APC slab is 290 nm for a wavelength of 1550 nm. However, the availability of wafer thicknesses is limited. For example, the typical vertical layer structure of our SOI wafers is 340 nm of Si on top of a 1 μm thick SiO2 spacer layer grown on a Si substrate from Soitec. To reduce the upper Si layer thickness from 340 to 290 nm, thermal oxidation was used to thin the Si waveguide layer since it consumes Si and the process is highly predictable."
+}<|im_end|>

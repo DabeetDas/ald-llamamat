@@ -1,0 +1,13 @@
+{
+  "characterization_methods": [
+    "X-ray photoelectron spectroscopy (XPS)",
+    "X-ray diffraction (XRD)",
+    "spectroscopic ellipsometry",
+    "Hall measurements",
+    "atomic force microscopy (AFM)",
+    "scanning electron microscopy (SEM)",
+    "ultraviolet-visible spectrometry (UV-Vis)",
+    "density functional theory (DFT) calculations"
+  ],
+  "evidence": "The chemical composition was analyzed using the built-in software (Avantage v5.9904) provided by the X-ray Spectrometer and the relevant spectra for chemical quantification were acquired after ion-beam etching for 10 sec, in order to avoid the undesired influence originating from the ambient environment. A high-sensitivity diffractometer (D-2000, Rikagu) was applied to the crystallinity and materials identification based on the X-ray diffraction. Surface morphology and cross-sectional microstructures were evaluated using an atomic force microscope (AFM, XE150, PSIA) and a high-resolution field-emission scanning electron microscope (FE-SEM, S-4800, Hitachi), respectively. Ultraviolet-visible spectrometry (UV-2450, Shimadzu) was employed to measure the optical transmission in the ultraviolet and visible light regimes. Hall measurements (HMS 5500, Ecopia) were made to obtain the electrical parameters of tin-based inorganic thin films for charge transport of their charge transport behavior. The optical parameters such as optical thickness and optical constants, i.e., refractive index and extinction coefficients were calculated using a high-precision spectroscopic ellipsometer (UVISEL AGAX ER, Horiba). Density functional theory (DFT) calculations were carried out using Orca 3.0 program with PBE0 functional and def2-SVP basis set with the respective effective core potential on Sn."
+}

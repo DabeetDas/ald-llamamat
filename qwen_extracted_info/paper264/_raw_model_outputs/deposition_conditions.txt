@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": 500,
+  "pressure": "10 mbar",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": null,
+  "reactor_type": "flow-type atomic layer epitaxy (ALE)",
+  "evidence": "The total pressure of the reactor was of the order of 10 mbar and the growth temperature was 500 ~"
+}<|im_end|>

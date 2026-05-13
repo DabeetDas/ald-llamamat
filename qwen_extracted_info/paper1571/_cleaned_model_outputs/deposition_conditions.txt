@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": null,
+  "pressure": "",
+  "precursor_pulse_time_s": null,
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": null,
+  "number_of_cycles": "30",
+  "reactor_type": "F-120",
+  "evidence": "For comparative studies, CoOx ALD was also performed on planar p +n-Si surfaces, as described throughout the text. AFM analysis following catalyst deposition (Figure 1d) reveals a roughness value of 4.2 nm for CoOx/p+n-Si with nanotextured interfaces. The increase of surface roughness is consistent with previous reports8 and is also similar on planar surfaces (increasing from 1.3 to 2.9 nm, Figure S1), confirming that ALD is suitable for conformal CoOx deposition and retention of the substrate surface texture."
+}

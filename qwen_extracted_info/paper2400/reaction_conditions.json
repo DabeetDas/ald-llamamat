@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "2Al(CH3)3 + 3H2O → Al2O3 + 6CH4",
+    "2AlOH∗ + 2Al(CH3)3 → 2[AlOAl(CH3)2]∗ + 2CH4",
+    "2[AlOAl(CH3)2]∗ + 3H2O → Al2O3 + 2AlOH∗ + 4CH4"
+  ],
+  "surface_mechanism_description": "The sequential exposures of TMA and water represent one coating cycle that deposits a sub-monolayer of alumina. The thickness of this sub-monolayer is approximately 0.11 nm at 177◦C.",
+  "intermediate_species": [
+    "AlOH∗",
+    "[AlOAl(CH3)2]∗"
+  ],
+  "evidence": "Water vapour and trimethylaluminium [Al(CH3)3] (TMA) are used alternately in an ABAB... binary reaction sequence. Film deposition is based on the following binary chemical vapour deposition (CVD) reaction: 2Al(CH3)3 + 3H2O → Al2O3 + 6CH4. (1) Alumina ALD is achieved by splitting this reaction into two separate half-reactions: (A) 2AlOH∗ + 2Al(CH3)3 → 2[AlOAl(CH3)2]∗ + 2CH4 (2) (B) 2[AlOAl(CH3)2]∗ + 3H2O → Al2O3 + 2AlOH∗ + 4CH4 (3) where the asterisks represent the surface species."
+}

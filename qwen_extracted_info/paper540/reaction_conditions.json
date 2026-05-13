@@ -1,0 +1,15 @@
+{
+  "reaction_equations": [
+    "ZnOH* + Al(CH3)3 → ZnOZn(CH3)2* + CH4 (A)",
+    "Zn(CH3)2* + HO → ZnOH* + CH4 (B)",
+    "AlOH* + Al(CH3)3 → AlOAl(CH3)2* + CH4 (A)",
+    "Al(CH3)2* + HO → AlOH* + CH4 (B)"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "monomethyl aluminum",
+    "surface hydroxyls",
+    "formate species"
+  ],
+  "evidence": "The surface reactions and mechanisms are described in the text: 'The A and B surface reactions that define the AB cycle can be written as: ZnOH* + Al(CH3)3 → ZnOZn(CH3)2* + CH4 (A) and Zn(CH3)2* + HO → ZnOH* + CH4 (B). The Al O ALD films were deposited using alternating TMA and H2O exposures. The A and B surface reactions that define the AB cycle for Al O ALD are given by: AlOH* + Al(CH3)3 → AlOAl(CH3)2* + CH4 (A) and Al(CH3)2* + HO → AlOH* + CH4 (B).'"
+}

@@ -1,0 +1,13 @@
+{
+  "reaction_equations": [
+    "3Al(hfac)* + Al(CH3)3 → Al(hfac)3 + 3Al(CH3)/C3"
+  ],
+  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
+  "intermediate_species": [
+    "Al(hfac)*",
+    "Al(CH3)/C3",
+    "Pd-H*",
+    "hfac ligands"
+  ],
+  "evidence": "Goldstein et al. 29 reported that TMA can undergo ligand change reactions with Al(hfac)* surface species: 3AlðhfacÞ/C3 þ AlðCH3Þ3 f AlðhfacÞ3 þ 3AlðCH3Þ/C3 (1)."
+}<|im_end|>

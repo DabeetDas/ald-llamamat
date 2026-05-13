@@ -1,0 +1,8 @@
+{
+  "target_material": "W2O3",
+  "process_type": "thermal ALD",
+  "main_precursors": ["W2(NMe2)6", "water"],
+  "temperature_range": "140 to 200 °C",
+  "summary": "The study describes the atomic layer deposition (ALD) of tungsten(III) oxide (W2O3) thin films using W2(NMe2)6 and water as precursors. The oxidation state of the tungsten in the thin film is determined by the precursor, and the process occurs at lower temperatures compared to CVD. The ALD growth is surface-limited and shows a constant growth rate within a specific temperature range (ALD window).",
+  "evidence": "Herein we describe the ALD growth of W2O3 films from the tungsten(III) precursor W2(NMe2)6 and water. The growth rate was about 1.4 Å/cycle for substrate temperatures between 140 and 200 °C. The present work documents retention of the tungsten(III) oxidation state in the ALD growth of W2O3 films from W2(NMe2)6 and water. The growth of W2O3 in the present work includes low deposition temperatures, the high reactivity of W2(NMe2)6 toward water, as well as the low oxidizing power of water at the growth temperatures."
+}

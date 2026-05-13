@@ -1,0 +1,10 @@
+{
+  "deposition_temperature_C": "room temperature",
+  "pressure": "7.5 mTorr",
+  "precursor_pulse_time_s": "1",
+  "coreactant_pulse_time_s": null,
+  "purge_time_s": "5",
+  "number_of_cycles": null,
+  "reactor_type": "homebuilt deposition reactor",
+  "evidence": "Thin Al2O3 films were deposited in a homebuilt deposition reactor by PA-ALD from sequentially exposing the substrate to TMA vapor and a remote O2 plasma. The deposition chamber was continuously purged by O2 resulting in a pressure of 7.5 mTorr. The PA-ALD cycle, used at all deposition temperatures, consisted of multiple TMA dosing (1 s each) injected from a trapped volume, 5 s purge, 2 s O2 plasma, and 5 s purge."
+}<|im_end|>

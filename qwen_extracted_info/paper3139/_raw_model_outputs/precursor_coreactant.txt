@@ -1,0 +1,7 @@
+{
+  "precursors": ["Yb(MeCp)3", "Y(EtCp)3", "Sc(iPrCp)3", "La(iPrCp)3", "Erbite12", "TEMAHf"],
+  "coreactants": ["H2O", "O3"],
+  "purge_gas": ["N2"],
+  "carrier_gas": [],
+  "evidence": "O3 and H2O are used as the oxidizing agent. The precursor is injected by pulsing rather than a continuous flow, where each pulse is 3 s long. Moisture was pulsed for 2 s to oxidize the chemisorbed metal precursor followed by 5 s N2 purge during ALD of all films. The reactor setup and process description has been reported elsewhere (24)."
+}<|im_end|>

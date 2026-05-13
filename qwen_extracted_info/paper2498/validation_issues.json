@@ -1,0 +1,9 @@
+{
+  "reaction_conditions": [
+    {
+      "code": "empty_evidence",
+      "path": "reaction_conditions.evidence",
+      "message": "Non-empty extraction has an empty evidence field."
+    }
+  ]
+}

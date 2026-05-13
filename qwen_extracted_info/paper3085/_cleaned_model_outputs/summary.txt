@@ -1,0 +1,8 @@
+{
+  "target_material": "Ru nanotubes",
+  "process_type": "thermal ALD",
+  "main_precursors": ["bis(ethylcyclopentadienyl)ruthenium", "O2"],
+  "temperature_range": "300°C",
+  "summary": "Ru nanotubes were fabricated by atomic layer deposition (ALD) using bis(ethylcyclopentadienyl)ruthenium and oxygen onto an anodized aluminum oxide (AAO) template. The wall thickness of the Ru nanotubes could be precisely controlled from 13 to 23 nm by adjusting the number of ALD cycles. The study aimed to investigate the conformal deposition of Ru on high-aspect-ratio structures and the initial nucleation phenomena during ALD growth.",
+  "evidence": "Ru nanotubes were fabricated by atomic layer deposition /H20849ALD/H20850using bis/H20849ethylcyclopentadienyl/H20850ruthenium and oxygen onto an anodized aluminum oxide /H20849AAO/H20850template... Ru was deposited at 300°C by a showerhead-type ALD system... The wall thickness of the Ru nanotubes could be precisely controlled from 13 to 23 nm by adjusting the number of ALD cycles... the initial stage of ALD-Ru growth on the alumina surface was investigated to correlate the conformality of the Ru film inside the hole structure with the maximum nuclei density of Ru."
+}

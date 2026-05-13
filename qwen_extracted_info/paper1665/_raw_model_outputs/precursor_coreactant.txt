@@ -1,0 +1,7 @@
+{
+  "precursors": ["(CH3)2AlCl"],
+  "coreactants": ["D2O"],
+  "purge_gas": ["Argon"],
+  "carrier_gas": ["Argon"],
+  "evidence": "The precursors were (CH3)2AlCl (Witco GmbH) and D2O (Euriso-top, 99.9% D). D2O is used instead of H2O to better distinguish the reaction byproducts from the species forming in the QMS ionizator. Argon (99.99%, flow rate 150 sccm) was used as the carrier and purging gas."
+}<|im_end|>

@@ -1,0 +1,10 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "The growth mechanism involves the supply of GaCl and NH3 in alternating pulses, with GaCl reacting with surface nitrogen atoms and NH3 replenishing the surface hydroxyl groups. The reaction rate between N atoms and GaCl molecules is slower than that between As atoms and GaCl molecules in the GaAs ALE process.",
+  "intermediate_species": [
+    "N atoms terminating the top surface",
+    "GaCl molecules",
+    "surface hydroxyl groups"
+  ],
+  "evidence": "It is considered that the reaction rate between N atoms terminating the top surface and GaCl molecules is slower than that between As atoms on the surface and GaCl molecules in the GaAs ALE process."
+}

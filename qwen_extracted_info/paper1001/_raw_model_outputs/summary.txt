@@ -1,0 +1,8 @@
+{
+  "target_material": "Copper",
+  "process_type": "electroless deposition",
+  "main_precursors": ["CuSO4·5H2O", "glyoxylic acid", "EDTA", "polyethylene glycol", "2,2′-dipyridine"],
+  "temperature_range": "60 °C",
+  "summary": "The study describes the electroless deposition of copper on atomic layer deposited palladium (Pd) layers on iridium (Ir) and tungsten (W) substrates. The Pd layers were deposited via atomic layer deposition (ALD) at 80 ± 5 °C using PdII(hfac)2 as a precursor. The electroless Cu deposition was carried out at 60 °C with a solution pH of 12.5. The Pd layers acted as a catalyst for the Cu deposition, and the resulting Cu films showed good adhesion and uniform coverage on the Pd/Ir and Pd/W substrates.",
+  "evidence": "Palladium was deposited at 80 ± 5 °C with a PdII(hfac)2 sublimation temperature of 46.0 ± 0.5 °C using 13 sccm Ar as a carrier gas, and 105 sccm H2 as a reducing gas on Ir and W substrates for 150 cycles. For the Cu electroless process, ethylenediamine-tetraacetic acid (EDTA) was used as a chelating agent, glyoxylic acid as a reducing agent, and additional chemicals such as polyethylene glycol and 2,2′-dipyridine as surfactant and stabilizer respectively. Electroless Cu was undertaken at 60 °C with good adhesion to iridium and tungsten with Pd as a catalytic layer."
+}<|im_end|>

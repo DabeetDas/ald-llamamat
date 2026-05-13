@@ -1,0 +1,12 @@
+{
+  "reaction_equations": [
+    "ReCl5 + H2S -> ReS2 + HCl"
+  ],
+  "surface_mechanism_description": "The reaction mechanism of building ReS2 by ALD consists of two half-reactions. ReCl5 precursor first forms chemisorption (reaction A), which then has a reaction with the injected H2S to obtain ReS2 (reaction B). By repeating the reaction A and reaction B, the ReS2 film with a desired thickness can be obtained.",
+  "intermediate_species": [
+    "ReCl5",
+    "H2S",
+    "ReS2"
+  ],
+  "evidence": "Scheme 1 shows the procedure of building ReS2 film by ALD, ReS2 can be obtained by ReCl5 and H2S being alternately exposed onto SiO2/Si substrate, the details of which are listed in Experimental details. The reaction mechanism of building ReS2 by ALD is showed in Figure S1. The process of ALD cycle of building ReS2 consists of two half-reactions. ReCl5 precursor first forms chemisorption (reaction A), which then has a reaction with the injected H2S to obtain ReS2 (reaction B)."
+}

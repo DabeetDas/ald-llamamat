@@ -1,0 +1,8 @@
+{
+  "target_material": "Pt (platinum) catalyst",
+  "process_type": "Thermal ALD",
+  "main_precursors": ["dibutyltin diacetate", "oxygen (O2)"],
+  "temperature_range": "300oC to 500oC",
+  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit an ultra-thin tin oxide (SnO2) coating on porous platinum (Pt) films to enhance their thermal stability and prevent agglomeration at high temperatures. The process was conducted at 300oC and 500oC, and the results showed that the SnO2 coating significantly suppressed Pt agglomeration and maintained the morphology of the Pt film.",
+  "evidence": "We confirmed that the ultra-thin tin oxide-coated Pt film was thermally stable at 500oC for 20 hours and maintained its initial morphology. These results show that the thermal stability of metal films can be enhanced by the ultra-thin oxide coating."
+}<|im_end|>

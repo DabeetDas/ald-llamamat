@@ -1,0 +1,14 @@
+{
+  "reaction_equations": [
+    "AlOH/C3 þ Al(CH3)3 ! AlOAl(CH3)2/C3 þ CH4",
+    "AlCH3/C3 þ H2O ! AlOH/C3 þ CH4"
+  ],
+  "surface_mechanism_description": "The alumina shell layer growth proceeds according to two self-limiting surface reactions. Sequential exposures of Al(CH3)3 (TMA) and H2O at 100 8C were used to deposit alumina thin films on the ZnO nanowires. These sequential reactions produce linear, atomic layer controlled alumina layer.",
+  "intermediate_species": [
+    "AlOH/C3",
+    "Al(CH3)3",
+    "AlCH3/C3",
+    "AlOAl(CH3)2/C3"
+  ],
+  "evidence": "The alumina shell layer growth proceeds according to two self-limiting surface reactions. The pulse duration was 0.03 s for each precursor and 20 sccm flow N2 constantly purged the system for 25 s. The TMA and H2O exposures yield alumina thin films according to the following two reactions: where the asterisks denote the surface species. When performed in an ABAB ... reaction sequence, these sequential reactions produce linear, atomic layer controlled alumina layer."
+}

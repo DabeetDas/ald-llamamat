@@ -1,0 +1,11 @@
+{
+  "reaction_equations": [],
+  "surface_mechanism_description": "Cross-relaxation among adjacent Tb2O3 dopant layers depopulates the excited ions in 5D3 level and contributes to the green EL from 5D4 level, which strongly depends on the Al2O3 sublayer thickness with a critical value of ~3 nm. The green EL is attributed to the impact excitation of the Tb3+ ions by hot electrons via Poole-Frenkel mechanism.",
+  "intermediate_species": [
+    "Tb3+ ions",
+    "hot electrons",
+    "excited ions in 5D3 level",
+    "5D4 level"
+  ],
+  "evidence": "The green EL intensity decreases with excessive Tb dopant cycles due to the reduction of optically active Tb3+ ions. Cross-relaxation among adjacent Tb2O3 dopant layers depopulates the excited ions in 5D3 level and contributes to the green EL from 5D4 level, which strongly depends on the Al2O3 sublayer thickness with a critical value of ~3 nm. The conduction mechanism has been proved to be Poole-Frenkel (P-F) conduction mode, in which the conduction mainly corresponds to the electrical field-enhanced emission of electrons from traps in the dielectric layer. The injected electrons are accelerated by electrical field to reach an equilibrium energy distribution, which afterwards excite the Tb3+ ions through inelastic impaction, the following de-excitation process results in the characteristic EL."
+}
