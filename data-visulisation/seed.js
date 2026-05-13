@@ -238,7 +238,7 @@ async function run() {
         await collection.deleteMany({});
         console.log("Cleared existing collection.");
 
-        const extractedDataDir = path.join(process.cwd(), "..", "extracted_data");
+        const extractedDataDir = path.join(process.cwd(), "..", "qwen_extracted_info");
         const dirs = fs.readdirSync(extractedDataDir, { withFileTypes: true })
             .filter(dirent => dirent.isDirectory() && dirent.name.startsWith("paper"))
             .map(dirent => dirent.name);

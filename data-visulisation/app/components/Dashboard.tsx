@@ -250,7 +250,7 @@ export default function Dashboard({
         if (selectedMaterial === null) {
             // Tier 1: Material Groups
             const materialGroups = papers.reduce((acc, p) => {
-                const formula = p.target_material.target_material.chemical_formula || "Unknown";
+                const formula = p.target_material.target_material.chemical_formula || "Others";
                 if (!acc[formula]) {
                     acc[formula] = {
                         formula,
@@ -328,7 +328,7 @@ export default function Dashboard({
         // Tier 2: Papers for Selected Material
         const filteredPapers = papers
             .map((p, originalIdx) => ({ p, originalIdx }))
-            .filter(item => (item.p.target_material.target_material.chemical_formula || "Unknown") === selectedMaterial);
+            .filter(item => (item.p.target_material.target_material.chemical_formula || "Others") === selectedMaterial);
 
         return (
             <div className="p-8 md:p-12 max-w-6xl mx-auto w-full animate-in fade-in duration-700">
