@@ -58,6 +58,7 @@ class AgenticRAGService:
         self.settings = settings
         self._pc = None
         self._index = None
+        self._embedder = None
         self._llm: GeminiLLM | None = None
         self._llm_error: str | None = None
         self._tools = {
@@ -137,21 +138,33 @@ class AgenticRAGService:
             self._index = pc.Index(self.settings.pinecone_index_name)
         return self._index
 
-    def _embed(self, text: str, input_type: str) -> list[float]:
-        pc = self._get_pinecone()
-        embeddings = pc.inference.embed(
-            model=self.settings.pinecone_embed_model,
-            inputs=[text],
-            parameters={"input_type": input_type, "truncate": "END"},
-        )
-        if not embeddings:
-            raise RuntimeError("Pinecone did not return an embedding.")
+    def _get_embedder(self):
+        if self._embedder is not None:
+            return self._embedder
 
-        first = embeddings[0]
-        values = _safe_attr(first, "values")
-        if not values:
-            raise RuntimeError("Embedding response did not contain vector values.")
-        return list(values)
+        try:
+            from sentence_transformers import SentenceTransformer
+        except Exception as exc:
+            raise ConfigurationError(
+                "Local embedding requires `sentence-transformers`. Install it with "
+                "`pip install sentence-transformers` or update agentic_rag_pipeline/requirements.txt."
+            ) from exc
+
+        self._embedder = SentenceTransformer(self.settings.local_embed_model)
+        return self._embedder
+
+    def _embed(self, text: str, input_type: str) -> list[float]:
+        embedder = self._get_embedder()
+        embed_text = text
+        if input_type == "query" and self.settings.local_embed_query_instruction:
+            embed_text = f"{self.settings.local_embed_query_instruction}{text}"
+
+        values = embedder.encode(
+            embed_text,
+            normalize_embeddings=True,
+            convert_to_numpy=True,
+        )
+        return values.astype(float).tolist()
 
     def _query_index(
         self,

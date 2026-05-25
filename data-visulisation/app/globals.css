@@ -335,6 +335,70 @@ body {
   padding: 24px;
 }
 
+.chart-empty {
+  min-height: 220px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  border: 1px dashed rgba(255, 255, 255, 0.14);
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.02);
+}
+
+.chemistry-sankey {
+  width: 100%;
+  overflow-x: auto;
+}
+
+.chemistry-sankey svg {
+  min-width: 820px;
+}
+
+.info-hint {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.info-hint-button {
+  width: 18px;
+  height: 18px;
+  border-radius: 9999px;
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.05);
+  color: var(--text-muted);
+  font-size: 0.7rem;
+  font-weight: 800;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.info-hint-button:hover {
+  color: var(--accent-teal);
+  border-color: rgba(94, 234, 212, 0.35);
+}
+
+.info-hint-popover {
+  position: absolute;
+  left: 24px;
+  top: 50%;
+  z-index: 20;
+  width: min(280px, 70vw);
+  transform: translateY(-50%);
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.14);
+  background: #0a0a0a;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.5);
+  color: var(--text-secondary);
+  font-size: 0.78rem;
+  line-height: 1.45;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
 /* ─── Responsive ─── */
 @media (max-width: 768px) {
   .formula {

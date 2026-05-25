@@ -42,6 +42,8 @@ class Settings:
     pinecone_namespace: str
     pinecone_embed_model: str
     pinecone_rerank_model: str
+    local_embed_model: str
+    local_embed_query_instruction: str
     gemini_api_key: str | None
     gemini_model: str
     hyde_enabled: bool
@@ -65,6 +67,11 @@ def load_settings() -> Settings:
         pinecone_namespace=os.getenv("PINECONE_NAMESPACE", "__default__"),
         pinecone_embed_model=os.getenv("PINECONE_EMBED_MODEL", "llama-text-embed-v2"),
         pinecone_rerank_model=os.getenv("PINECONE_RERANK_MODEL", "bge-reranker-v2-m3"),
+        local_embed_model=os.getenv("LOCAL_EMBED_MODEL", "BAAI/bge-base-en-v1.5"),
+        local_embed_query_instruction=os.getenv(
+            "LOCAL_EMBED_QUERY_INSTRUCTION",
+            "Represent this sentence for searching relevant passages: ",
+        ),
         gemini_api_key=os.getenv("GEMINI_API_KEY") or os.getenv("GOOGLE_API_KEY"),
         gemini_model=os.getenv("GEMINI_MODEL", "gemini-2.5-flash"),
         hyde_enabled=_parse_bool(os.getenv("HYDE_ENABLED"), True),

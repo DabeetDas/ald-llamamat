@@ -15,8 +15,9 @@ import {
     Radar,
     PieChart,
     Pie,
+    Legend,
 } from "recharts";
-import { type PaperData } from "@/app/lib/data-fetcher";
+import { type Chemical, type PaperData } from "@/app/lib/data-fetcher";
 
 // ─── Helpers ───
 function Evidence({ text }: { text: string | null | undefined }) {
@@ -127,6 +128,779 @@ function matchesSearch(query: string, values: Array<string | number | null | und
     }
 
     return values.some((value) => normalizeSearchText(value).includes(normalizedQuery));
+}
+
+function isReportedValue(value: string | number | null | undefined) {
+    if (value === null || value === undefined) {
+        return false;
+    }
+
+    const normalized = String(value).trim().toLowerCase();
+    return normalized !== "" && normalized !== "n/a" && normalized !== "na" && normalized !== "null" && normalized !== "not reported" && normalized !== "unknown";
+}
+
+function getMaterialFormula(paper: PaperData) {
+    return paper.target_material.target_material.chemical_formula || "Others";
+}
+
+function getMethodLabel(method: string) {
+    const match = method.match(/\(([^)]+)\)/);
+    return match ? match[1] : method;
+}
+
+const CHEMICAL_ALIASES = [
+    {
+        label: "H2O",
+        aliases: ["h2o", "h20", "water", "deionized water", "di water", "distilled water", "h2o vapor", "water vapor"],
+    },
+    {
+        label: "O3",
+        aliases: ["o3", "ozone"],
+    },
+    {
+        label: "O2",
+        aliases: ["o2", "oxygen", "molecular oxygen"],
+    },
+    {
+        label: "O2 plasma",
+        aliases: ["o2 plasma", "oxygen plasma", "o2-plasma"],
+    },
+    {
+        label: "H2O2",
+        aliases: ["h2o2", "hydrogen peroxide"],
+    },
+    {
+        label: "NH3",
+        aliases: ["nh3", "ammonia"],
+    },
+    {
+        label: "N2",
+        aliases: ["n2", "nitrogen"],
+    },
+    {
+        label: "Ar",
+        aliases: ["ar", "argon"],
+    },
+    {
+        label: "TMA",
+        aliases: ["tma", "trimethylaluminum", "trimethyl aluminium", "aluminum trimethyl", "aluminium trimethyl"],
+    },
+    {
+        label: "TDMAT",
+        aliases: ["tdmat", "tetrakis(dimethylamido)titanium", "tetrakis(dimethylamino)titanium"],
+    },
+    {
+        label: "TiCl4",
+        aliases: ["ticl4", "titanium tetrachloride"],
+    },
+    {
+        label: "TTIP",
+        aliases: ["ttip", "titanium isopropoxide", "titanium(iv) isopropoxide", "titanium tetraisopropoxide"],
+    },
+    {
+        label: "DEZ",
+        aliases: ["dez", "diethylzinc", "diethyl zinc"],
+    },
+    {
+        label: "ZnO",
+        aliases: ["zno", "zinc oxide"],
+    },
+];
+
+function normalizeChemicalName(value: string) {
+    return value
+        .toLowerCase()
+        .replace(/[₀-₉]/g, (digit) => "0123456789"["₀₁₂₃₄₅₆₇₈₉".indexOf(digit)])
+        .replace(/\s+/g, " ")
+        .replace(/\s*\(\s*/g, "(")
+        .replace(/\s*\)\s*/g, ")")
+        .trim();
+}
+
+function getChemicalLabel(chemical: Chemical) {
+    const abbreviation = chemical.abbreviation?.trim() ?? "";
+    const fullName = chemical.full_name?.trim() ?? "";
+    const candidates = [abbreviation, fullName].filter(isReportedValue).map(normalizeChemicalName);
+
+    for (const group of CHEMICAL_ALIASES) {
+        if (group.aliases.some((alias) => candidates.includes(alias))) {
+            return group.label;
+        }
+    }
+
+    return abbreviation || fullName;
+}
+
+function incrementCount(map: Map<string, number>, key: string) {
+    const cleanKey = key.trim();
+    if (!isReportedValue(cleanKey)) {
+        return;
+    }
+    map.set(cleanKey, (map.get(cleanKey) ?? 0) + 1);
+}
+
+function toCountData(map: Map<string, number>, limit = 8) {
+    return Array.from(map.entries())
+        .map(([name, count]) => ({ name, count }))
+        .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name))
+        .slice(0, limit);
+}
+
+function getAverage(values: number[]) {
+    if (values.length === 0) {
+        return null;
+    }
+
+    const sum = values.reduce((total, value) => total + value, 0);
+    return Math.round(sum / values.length);
+}
+
+function buildCountDistribution(values: number[], label: string) {
+    const counts = new Map<string, number>();
+    values.forEach((value) => incrementCount(counts, `${value} ${label}${value === 1 ? "" : "s"}`));
+    return toCountData(counts, 8);
+}
+
+function buildTemperatureDistribution(temperatures: number[]) {
+    if (temperatures.length === 0) {
+        return [];
+    }
+
+    const binSize = 50;
+    const bins = new Map<number, number>();
+
+    temperatures.forEach((temperature) => {
+        const start = Math.floor(temperature / binSize) * binSize;
+        bins.set(start, (bins.get(start) ?? 0) + 1);
+    });
+
+    return Array.from(bins.entries())
+        .sort(([a], [b]) => a - b)
+        .map(([start, count]) => ({
+            name: `${start}-${start + binSize - 1}°C`,
+            count,
+        }));
+}
+
+function uniqueReportedValues(values: string[]) {
+    return Array.from(new Set(values.filter(isReportedValue)));
+}
+
+function getPhaseLabel(value: string | null | undefined) {
+    if (!isReportedValue(value)) {
+        return "Not reported";
+    }
+
+    const normalized = String(value).trim().replace(/\s+/g, " ");
+    const lower = normalized.toLowerCase();
+
+    if (lower.includes("amorphous")) {
+        return "Amorphous";
+    }
+    if (lower.includes("anatase")) {
+        return "Anatase";
+    }
+    if (lower.includes("rutile")) {
+        return "Rutile";
+    }
+    if (lower.includes("brookite")) {
+        return "Brookite";
+    }
+    if (lower.includes("gamma") || lower.includes("γ")) {
+        return "Gamma";
+    }
+    if (lower.includes("alpha") || lower.includes("α")) {
+        return "Alpha";
+    }
+    if (lower.includes("crystalline") || lower.includes("polycrystalline")) {
+        return "Crystalline";
+    }
+
+    return normalized;
+}
+
+function buildTemperaturePhaseDistribution(materialPapers: PaperData[]) {
+    const binSize = 50;
+    const phaseCounts = new Map<string, number>();
+    const records = materialPapers
+        .map((paper) => ({
+            temperature: paper.deposition_conditions.deposition_temperature_C,
+            phase: getPhaseLabel(paper.film_properties.crystal_phase),
+        }))
+        .filter((record): record is { temperature: number; phase: string } =>
+            typeof record.temperature === "number" &&
+            Number.isFinite(record.temperature) &&
+            record.phase !== "Not reported"
+        );
+
+    records.forEach((record) => incrementCount(phaseCounts, record.phase));
+
+    const topPhases = topNames(phaseCounts, 6);
+    const topPhaseSet = new Set(topPhases);
+    const phases = phaseCounts.size > topPhases.length ? [...topPhases, "Other"] : topPhases;
+    const bins = new Map<number, Record<string, string | number>>();
+
+    records.forEach((record) => {
+        const start = Math.floor(record.temperature / binSize) * binSize;
+        const phase = topPhaseSet.has(record.phase) ? record.phase : "Other";
+        const current = bins.get(start) ?? {
+            name: `${start}-${start + binSize - 1}°C`,
+            total: 0,
+        };
+
+        current[phase] = Number(current[phase] ?? 0) + 1;
+        current.total = Number(current.total) + 1;
+        bins.set(start, current);
+    });
+
+    const data = Array.from(bins.entries())
+        .sort(([a], [b]) => a - b)
+        .map(([, value]) => value);
+
+    return { data, phases };
+}
+
+function topNames(counts: Map<string, number>, limit: number) {
+    return Array.from(counts.entries())
+        .sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]))
+        .slice(0, limit)
+        .map(([name]) => name);
+}
+
+function addPairCount(map: Map<string, number>, source: string, target: string) {
+    const key = `${source}|||${target}`;
+    map.set(key, (map.get(key) ?? 0) + 1);
+}
+
+function parsePairKey(key: string) {
+    const [source, target] = key.split("|||");
+    return { source, target };
+}
+
+function truncateLabel(label: string, maxLength = 18) {
+    return label.length > maxLength ? `${label.slice(0, maxLength - 1)}...` : label;
+}
+
+function buildChemistrySankey(materialPapers: PaperData[]) {
+    const precursorTotals = new Map<string, number>();
+    const coreactantTotals = new Map<string, number>();
+    const phaseTotals = new Map<string, number>();
+    const precursorCoreactantEdges = new Map<string, number>();
+    const coreactantPhaseEdges = new Map<string, number>();
+
+    materialPapers.forEach((paper) => {
+        const precursors = uniqueReportedValues(
+            paper.precursor_coreactant.precursors.map(getChemicalLabel)
+        );
+        const coreactants = uniqueReportedValues(
+            paper.precursor_coreactant.coreactants.map(getChemicalLabel)
+        );
+        const phase = getPhaseLabel(paper.film_properties.crystal_phase);
+
+        if (precursors.length === 0 || coreactants.length === 0) {
+            return;
+        }
+
+        precursors.forEach((precursor) => {
+            incrementCount(precursorTotals, precursor);
+            coreactants.forEach((coreactant) => {
+                addPairCount(precursorCoreactantEdges, precursor, coreactant);
+            });
+        });
+
+        coreactants.forEach((coreactant) => {
+            incrementCount(coreactantTotals, coreactant);
+            incrementCount(phaseTotals, phase);
+            addPairCount(coreactantPhaseEdges, coreactant, phase);
+        });
+    });
+
+    const precursorNames = topNames(precursorTotals, 6);
+    const coreactantNames = topNames(coreactantTotals, 6);
+    const phaseNames = topNames(phaseTotals, 6);
+    const precursorSet = new Set(precursorNames);
+    const coreactantSet = new Set(coreactantNames);
+    const phaseSet = new Set(phaseNames);
+    const edges = [
+        ...Array.from(precursorCoreactantEdges.entries())
+            .map(([key, count]) => ({ ...parsePairKey(key), count, type: "precursor-coreactant" as const }))
+            .filter((edge) => precursorSet.has(edge.source) && coreactantSet.has(edge.target)),
+        ...Array.from(coreactantPhaseEdges.entries())
+            .map(([key, count]) => ({ ...parsePairKey(key), count, type: "coreactant-phase" as const }))
+            .filter((edge) => coreactantSet.has(edge.source) && phaseSet.has(edge.target)),
+    ];
+
+    return {
+        precursorNames,
+        coreactantNames,
+        phaseNames,
+        precursorTotals,
+        coreactantTotals,
+        phaseTotals,
+        edges,
+    };
+}
+
+function buildMaterialInsights(materialPapers: PaperData[]) {
+    const temperatures = materialPapers
+        .map((paper) => paper.deposition_conditions.deposition_temperature_C)
+        .filter((value): value is number => typeof value === "number" && Number.isFinite(value));
+    const methodCounts = new Map<string, number>();
+    const phaseCounts = new Map<string, number>();
+    const precursorCounts = new Map<string, number>();
+    const coreactantCounts = new Map<string, number>();
+    const precursorCountDistribution = materialPapers.map((paper) => paper.precursor_coreactant.precursors.length);
+    const coreactantCountDistribution = materialPapers.map((paper) => paper.precursor_coreactant.coreactants.length);
+
+    materialPapers.forEach((paper) => {
+        paper.characterization.characterization_methods.forEach((method) => incrementCount(methodCounts, getMethodLabel(method)));
+        incrementCount(phaseCounts, paper.film_properties.crystal_phase ?? "");
+        paper.precursor_coreactant.precursors.forEach((chemical) => incrementCount(precursorCounts, getChemicalLabel(chemical)));
+        paper.precursor_coreactant.coreactants.forEach((chemical) => incrementCount(coreactantCounts, getChemicalLabel(chemical)));
+    });
+
+    return {
+        temperatures,
+        averageTemperature: getAverage(temperatures),
+        temperatureDistribution: buildTemperatureDistribution(temperatures),
+        methodData: toCountData(methodCounts, 10),
+        phaseData: toCountData(phaseCounts, 8),
+        precursorData: toCountData(precursorCounts, 8),
+        coreactantData: toCountData(coreactantCounts, 8),
+        precursorCountData: buildCountDistribution(precursorCountDistribution, "precursor"),
+        coreactantCountData: buildCountDistribution(coreactantCountDistribution, "coreactant"),
+        uniqueMethods: methodCounts.size,
+        uniquePrecursors: precursorCounts.size,
+        uniqueCoreactants: coreactantCounts.size,
+        reportedPhases: Array.from(phaseCounts.values()).reduce((total, count) => total + count, 0),
+    };
+}
+
+function EmptyInsight({ label }: { label: string }) {
+    return (
+        <div className="chart-empty">
+            {label}
+        </div>
+    );
+}
+
+function CountBarChart({
+    data,
+    color = "#5eead4",
+    height = 280,
+}: {
+    data: Array<{ name: string; count: number }>;
+    color?: string;
+    height?: number;
+}) {
+    if (data.length === 0) {
+        return <EmptyInsight label="No reported data" />;
+    }
+
+    return (
+        <ResponsiveContainer width="100%" height={height}>
+            <BarChart
+                data={data}
+                layout="vertical"
+                margin={{ left: 8, right: 16, top: 8, bottom: 8 }}
+            >
+                <XAxis type="number" allowDecimals={false} hide />
+                <YAxis
+                    type="category"
+                    dataKey="name"
+                    width={92}
+                    tick={{ fill: "#94a3b8", fontSize: 12 }}
+                    axisLine={false}
+                    tickLine={false}
+                />
+                <Tooltip
+                    cursor={{ fill: "rgba(255,255,255,0.04)" }}
+                    contentStyle={{
+                        background: "#0a0a0a",
+                        border: "1px solid rgba(255,255,255,0.15)",
+                        borderRadius: 8,
+                        color: "#f1f5f9",
+                        fontSize: 13,
+                    }}
+                />
+                <Bar dataKey="count" radius={[0, 6, 6, 0]} barSize={18} fill={color} />
+            </BarChart>
+        </ResponsiveContainer>
+    );
+}
+
+function TemperaturePhaseChart({ materialPapers }: { materialPapers: PaperData[] }) {
+    const { data, phases } = buildTemperaturePhaseDistribution(materialPapers);
+
+    if (data.length === 0 || phases.length === 0) {
+        return <EmptyInsight label="No paired temperature and crystal phase data" />;
+    }
+
+    return (
+        <ResponsiveContainer width="100%" height={300}>
+            <BarChart data={data} margin={{ left: 0, right: 16, top: 8, bottom: 8 }}>
+                <XAxis
+                    dataKey="name"
+                    tick={{ fill: "#94a3b8", fontSize: 11 }}
+                    axisLine={false}
+                    tickLine={false}
+                />
+                <YAxis
+                    allowDecimals={false}
+                    tick={{ fill: "#94a3b8", fontSize: 12 }}
+                    axisLine={false}
+                    tickLine={false}
+                />
+                <Tooltip
+                    cursor={{ fill: "rgba(255,255,255,0.04)" }}
+                    contentStyle={{
+                        background: "#0a0a0a",
+                        border: "1px solid rgba(255,255,255,0.15)",
+                        borderRadius: 8,
+                        color: "#f1f5f9",
+                        fontSize: 13,
+                    }}
+                />
+                <Legend
+                    wrapperStyle={{
+                        color: "#a3a3a3",
+                        fontSize: 12,
+                        paddingTop: 8,
+                    }}
+                />
+                {phases.map((phase, index) => (
+                    <Bar
+                        key={phase}
+                        dataKey={phase}
+                        stackId="phase"
+                        fill={chartColors[index % chartColors.length]}
+                        radius={index === phases.length - 1 ? [6, 6, 0, 0] : [0, 0, 0, 0]}
+                    />
+                ))}
+            </BarChart>
+        </ResponsiveContainer>
+    );
+}
+
+function ChemistrySankey({ materialPapers }: { materialPapers: PaperData[] }) {
+    const sankey = buildChemistrySankey(materialPapers);
+    const maxRows = Math.max(
+        sankey.precursorNames.length,
+        sankey.coreactantNames.length,
+        sankey.phaseNames.length,
+        1
+    );
+    const height = Math.max(300, maxRows * 54 + 72);
+    const width = 900;
+    const nodeWidth = 132;
+    const nodeHeight = 34;
+    const top = 58;
+    const columns = {
+        precursor: { x: 24, color: "#5eead4", title: "Precursor" },
+        coreactant: { x: 384, color: "#fda4af", title: "Coreactant" },
+        phase: { x: 744, color: "#c4b5fd", title: "Crystal Phase" },
+    };
+    const maxEdgeCount = Math.max(...sankey.edges.map((edge) => edge.count), 1);
+
+    const makeNodes = (
+        names: string[],
+        column: keyof typeof columns,
+        totals: Map<string, number>
+    ) => {
+        const gap = names.length <= 1 ? 0 : (height - top - nodeHeight - 28) / (names.length - 1);
+        return names.map((name, index) => ({
+            id: `${column}:${name}`,
+            name,
+            count: totals.get(name) ?? 0,
+            x: columns[column].x,
+            y: top + index * gap,
+            color: columns[column].color,
+        }));
+    };
+
+    const nodes = [
+        ...makeNodes(sankey.precursorNames, "precursor", sankey.precursorTotals),
+        ...makeNodes(sankey.coreactantNames, "coreactant", sankey.coreactantTotals),
+        ...makeNodes(sankey.phaseNames, "phase", sankey.phaseTotals),
+    ];
+    const nodeMap = new Map(nodes.map((node) => [node.id, node]));
+    const visibleEdges = sankey.edges
+        .map((edge) => {
+            const sourceColumn = edge.type === "precursor-coreactant" ? "precursor" : "coreactant";
+            const targetColumn = edge.type === "precursor-coreactant" ? "coreactant" : "phase";
+            const source = nodeMap.get(`${sourceColumn}:${edge.source}`);
+            const target = nodeMap.get(`${targetColumn}:${edge.target}`);
+
+            if (!source || !target) {
+                return null;
+            }
+
+            return { ...edge, source, target };
+        })
+        .filter((edge): edge is NonNullable<typeof edge> => edge !== null);
+
+    if (visibleEdges.length === 0) {
+        return <EmptyInsight label="Not enough precursor-coreactant-phase data" />;
+    }
+
+    return (
+        <div className="chemistry-sankey">
+            <svg
+                viewBox={`0 0 ${width} ${height}`}
+                role="img"
+                aria-label="ALD chemistry flow from precursor to coreactant to crystal phase"
+            >
+                {Object.values(columns).map((column) => (
+                    <text
+                        key={column.title}
+                        x={column.x}
+                        y={24}
+                        fill="#737373"
+                        fontSize="12"
+                        fontWeight="700"
+                        letterSpacing="0.08em"
+                    >
+                        {column.title}
+                    </text>
+                ))}
+
+                <g fill="none">
+                    {visibleEdges.map((edge, index) => {
+                        const x1 = edge.source.x + nodeWidth;
+                        const y1 = edge.source.y + nodeHeight / 2;
+                        const x2 = edge.target.x;
+                        const y2 = edge.target.y + nodeHeight / 2;
+                        const controlOffset = Math.max(120, (x2 - x1) * 0.45);
+                        const strokeWidth = Math.max(3, (edge.count / maxEdgeCount) * 18);
+                        const stroke = edge.type === "precursor-coreactant" ? "#5eead4" : "#fda4af";
+
+                        return (
+                            <path
+                                key={`${edge.source.id}-${edge.target.id}-${index}`}
+                                d={`M ${x1} ${y1} C ${x1 + controlOffset} ${y1}, ${x2 - controlOffset} ${y2}, ${x2} ${y2}`}
+                                stroke={stroke}
+                                strokeWidth={strokeWidth}
+                                strokeOpacity="0.28"
+                                strokeLinecap="round"
+                            >
+                                <title>{`${edge.source.name} to ${edge.target.name}: ${edge.count}`}</title>
+                            </path>
+                        );
+                    })}
+                </g>
+
+                <g>
+                    {nodes.map((node) => (
+                        <g key={node.id}>
+                            <rect
+                                x={node.x}
+                                y={node.y}
+                                width={nodeWidth}
+                                height={nodeHeight}
+                                rx="8"
+                                fill={`${node.color}18`}
+                                stroke={`${node.color}66`}
+                            />
+                            <text
+                                x={node.x + 12}
+                                y={node.y + 21}
+                                fill="#f1f5f9"
+                                fontSize="13"
+                                fontWeight="700"
+                            >
+                                {truncateLabel(node.name)}
+                            </text>
+                            <text
+                                x={node.x + nodeWidth - 10}
+                                y={node.y + 21}
+                                fill={node.color}
+                                fontSize="12"
+                                fontWeight="700"
+                                textAnchor="end"
+                            >
+                                {node.count}
+                            </text>
+                        </g>
+                    ))}
+                </g>
+            </svg>
+        </div>
+    );
+}
+
+function InfoHint({ children }: { children: React.ReactNode }) {
+    const [open, setOpen] = useState(false);
+
+    return (
+        <span className="info-hint">
+            <button
+                type="button"
+                className="info-hint-button"
+                onClick={() => setOpen(!open)}
+                aria-label="How to interpret this graph"
+                aria-expanded={open}
+            >
+                i
+            </button>
+            {open && (
+                <span className="info-hint-popover">
+                    {children}
+                </span>
+            )}
+        </span>
+    );
+}
+
+function MaterialInsights({
+    selectedMaterial,
+    materialPapers,
+}: {
+    selectedMaterial: string;
+    materialPapers: PaperData[];
+}) {
+    const insights = buildMaterialInsights(materialPapers);
+    const statItems = [
+        { label: "Papers", value: materialPapers.length, color: "var(--accent-teal)" },
+        { label: "Avg. temperature", value: insights.averageTemperature !== null ? `${insights.averageTemperature}°C` : null, color: "var(--accent-amber)" },
+        { label: "Reported temps", value: insights.temperatures.length, color: "var(--accent-cyan)" },
+        { label: "Methods", value: insights.uniqueMethods, color: "var(--accent-purple)" },
+        { label: "Precursors", value: insights.uniquePrecursors, color: "var(--accent-emerald)" },
+        { label: "Coreactants", value: insights.uniqueCoreactants, color: "var(--accent-rose)" },
+    ];
+
+    return (
+        <div className="flex flex-col gap-6 mb-8">
+            <Section title={`${selectedMaterial} Insights`}>
+                <div className="stat-grid mb-6">
+                    {statItems.map((item) => (
+                        <DataField
+                            key={item.label}
+                            label={item.label}
+                            value={item.value}
+                            accent={item.color}
+                        />
+                    ))}
+                </div>
+                <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
+                    <div className="chart-container lg:col-span-2">
+                        <div className="flex items-center gap-2 mb-4">
+                            <p className="data-label">ALD Chemistry Flow</p>
+                            <InfoHint>
+                                Read left to right: precursor to coreactant to reported crystal phase. Thicker curves mean that route appears in more papers.
+                            </InfoHint>
+                        </div>
+                        <ChemistrySankey materialPapers={materialPapers} />
+                    </div>
+
+                    <div className="chart-container">
+                        <p className="data-label mb-4">Temperature Distribution</p>
+                        {insights.temperatureDistribution.length > 0 ? (
+                            <ResponsiveContainer width="100%" height={260}>
+                                <BarChart data={insights.temperatureDistribution} margin={{ left: 0, right: 16, top: 8, bottom: 8 }}>
+                                    <XAxis
+                                        dataKey="name"
+                                        tick={{ fill: "#94a3b8", fontSize: 11 }}
+                                        axisLine={false}
+                                        tickLine={false}
+                                    />
+                                    <YAxis
+                                        allowDecimals={false}
+                                        tick={{ fill: "#94a3b8", fontSize: 12 }}
+                                        axisLine={false}
+                                        tickLine={false}
+                                    />
+                                    <Tooltip
+                                        cursor={{ fill: "rgba(255,255,255,0.04)" }}
+                                        contentStyle={{
+                                            background: "#0a0a0a",
+                                            border: "1px solid rgba(255,255,255,0.15)",
+                                            borderRadius: 8,
+                                            color: "#f1f5f9",
+                                            fontSize: 13,
+                                        }}
+                                    />
+                                    <Bar dataKey="count" fill="#fde68a" radius={[6, 6, 0, 0]} />
+                                </BarChart>
+                            </ResponsiveContainer>
+                        ) : (
+                            <EmptyInsight label="No reported temperatures" />
+                        )}
+                    </div>
+
+                    <div className="chart-container">
+                        <p className="data-label mb-4">Common Characterization</p>
+                        <CountBarChart data={insights.methodData} color="#67e8f9" />
+                    </div>
+
+                    <div className="chart-container lg:col-span-2">
+                        <div className="flex items-center gap-2 mb-4">
+                            <p className="data-label">Temperature vs Crystal Phase</p>
+                            <InfoHint>
+                                Each bar is a temperature range. Colored segments show how many papers report each crystal phase in that range.
+                            </InfoHint>
+                        </div>
+                        <TemperaturePhaseChart materialPapers={materialPapers} />
+                    </div>
+
+                    <div className="chart-container">
+                        <p className="data-label mb-4">Precursor Count Per Paper</p>
+                        <CountBarChart data={insights.precursorCountData} color="#5eead4" height={220} />
+                    </div>
+
+                    <div className="chart-container">
+                        <p className="data-label mb-4">Coreactant Count Per Paper</p>
+                        <CountBarChart data={insights.coreactantCountData} color="#c4b5fd" height={220} />
+                    </div>
+
+                    <div className="chart-container">
+                        <p className="data-label mb-4">Crystal Phases</p>
+                        {insights.phaseData.length > 0 ? (
+                            <ResponsiveContainer width="100%" height={260}>
+                                <PieChart>
+                                    <Pie
+                                        data={insights.phaseData}
+                                        cx="50%"
+                                        cy="50%"
+                                        innerRadius={48}
+                                        outerRadius={86}
+                                        paddingAngle={3}
+                                        dataKey="count"
+                                        nameKey="name"
+                                        stroke="none"
+                                    >
+                                        {insights.phaseData.map((_, index) => (
+                                            <Cell key={index} fill={chartColors[index % chartColors.length]} />
+                                        ))}
+                                    </Pie>
+                                    <Tooltip
+                                        contentStyle={{
+                                            background: "#0a0a0a",
+                                            border: "1px solid rgba(255,255,255,0.15)",
+                                            borderRadius: 8,
+                                            color: "#f1f5f9",
+                                            fontSize: 13,
+                                        }}
+                                    />
+                                </PieChart>
+                            </ResponsiveContainer>
+                        ) : (
+                            <EmptyInsight label="No reported crystal phases" />
+                        )}
+                    </div>
+
+                    <div className="chart-container">
+                        <p className="data-label mb-4">Common Precursors</p>
+                        <CountBarChart data={insights.precursorData} color="#6ee7b7" />
+                    </div>
+
+                    <div className="chart-container">
+                        <p className="data-label mb-4">Common Coreactants</p>
+                        <CountBarChart data={insights.coreactantData} color="#fda4af" />
+                    </div>
+                </div>
+            </Section>
+        </div>
+    );
 }
 
 function SearchField({
@@ -250,7 +1024,7 @@ export default function Dashboard({
         if (selectedMaterial === null) {
             // Tier 1: Material Groups
             const materialGroups = papers.reduce((acc, p) => {
-                const formula = p.target_material.target_material.chemical_formula || "Others";
+                const formula = getMaterialFormula(p);
                 if (!acc[formula]) {
                     acc[formula] = {
                         formula,
@@ -328,7 +1102,8 @@ export default function Dashboard({
         // Tier 2: Papers for Selected Material
         const filteredPapers = papers
             .map((p, originalIdx) => ({ p, originalIdx }))
-            .filter(item => (item.p.target_material.target_material.chemical_formula || "Others") === selectedMaterial);
+            .filter(item => getMaterialFormula(item.p) === selectedMaterial);
+        const materialPapers = filteredPapers.map(({ p }) => p);
 
         return (
             <div className="p-8 md:p-12 max-w-6xl mx-auto w-full animate-in fade-in duration-700">
@@ -349,6 +1124,10 @@ export default function Dashboard({
                         Found <span className="text-teal-400 font-bold">{filteredPapers.length}</span> contributions
                     </p>
                 </div>
+                <MaterialInsights
+                    selectedMaterial={selectedMaterial}
+                    materialPapers={materialPapers}
+                />
                 <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                     {filteredPapers.map(({ p, originalIdx }, i) => (
                         <div
@@ -462,6 +1241,7 @@ export default function Dashboard({
                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M19 12H5M12 19l-7-7 7-7" /></svg>
                         Back to {selectedMaterial ? selectedMaterial : "Catalog"}
                     </button>
+{/*                     
                     <button
                         onClick={() => setPdfOpenPaperIndex(showPdf ? null : selectedPaperIndex)}
                         className="px-5 py-2.5 rounded-2xl text-sm font-semibold bg-teal-500/10 text-teal-300 border border-teal-500/20 hover:bg-teal-500/20 transition-all flex items-center gap-2"
@@ -469,6 +1249,7 @@ export default function Dashboard({
                         <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>
                         {showPdf ? "Hide PDF" : "View Original PDF"}
                     </button>
+                     */}
                 </div>
                 <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
                     {[

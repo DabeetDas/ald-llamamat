@@ -239,8 +239,28 @@ async function run() {
         console.log("Cleared existing collection.");
 
         const extractedDataDir = path.join(process.cwd(), "..", "qwen_extracted_info");
+        const requiredJsonFiles = [
+            "summary.json",
+            "target_material.json",
+            "substrate_info.json",
+            "deposition_conditions.json",
+            "precursor_coreactant.json",
+            "reaction_conditions.json",
+            "film_properties.json",
+            "characterization.json",
+        ];
+
         const dirs = fs.readdirSync(extractedDataDir, { withFileTypes: true })
-            .filter(dirent => dirent.isDirectory() && dirent.name.startsWith("paper"))
+            .filter((dirent) => {
+                if (!dirent.isDirectory()) {
+                    return false;
+                }
+
+                const paperDir = path.join(extractedDataDir, dirent.name);
+                return requiredJsonFiles.some((fileName) =>
+                    fs.existsSync(path.join(paperDir, fileName))
+                );
+            })
             .map(dirent => dirent.name);
 
         console.log(`Found ${dirs.length} papers in extracted_data. Parsing...`);

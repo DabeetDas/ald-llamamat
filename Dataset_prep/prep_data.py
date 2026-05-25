@@ -17,8 +17,14 @@ logging.basicConfig(
 )
 logger = logging.getLogger(__name__)
 
-pdf_dir = "/home/dabeet/Desktop/ald-llamamat/Web Scrapper/ald_papers_naming"
-output_dir = "/home/dabeet/Desktop/ald-llamamat/Data"
+pdf_dir = os.getenv(
+    "PDF_DIR",
+    "/home/dabeet/Desktop/ald-llamamat/elsevier_papers/Manual_Download_PDFs",
+)
+output_dir = os.getenv(
+    "OUTPUT_DIR",
+    "/home/dabeet/Desktop/ald-llamamat/Data_Unpaywall_OA",
+)
 
 # Image filtering thresholds (to skip tiny decorative images)
 MIN_IMAGE_WIDTH = 100
