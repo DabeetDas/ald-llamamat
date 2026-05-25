@@ -1,6 +1,0 @@
-{
-  "reaction_equations": ["Hf(N(CH3)2)4 + (t-BuO)3SiOH -> HfO2(SiO2)x"],
-  "surface_mechanism_description": "The reaction involves the vapor deposition of metal silicates through the interaction of metal alkylamides and tris(tert-butoxy)silanols, forming hafnium silicate films under ALD conditions.",
-  "intermediate_species": ["Hf(N(CH3)2)4", "(t-BuO)3SiOH", "HfO2(SiO2)x"],
-  "evidence": "A typical example is the reaction of tetrakis(dimethylamino)-hafnium vapor, Hf(N(CH3)2)4, with tris( tert-butoxy)-silanol vapor, (t-BuO)3SiOH. At substrate temperatures from about 250 to 350 °C these vapors react to form films of hafnium silicate glass, HfO2(SiO2)x, with silicon/hafnium ratios ranging from about x ) 2 to x ) 3, depending on deposition conditions."
-}<|im_end|>

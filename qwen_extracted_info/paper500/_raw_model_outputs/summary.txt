@@ -1,8 +1,0 @@
-{
-  "target_material": "InAs",
-  "process_type": "Atomic layer epitaxy (ALE)",
-  "main_precursors": ["trimethylindium (TMIn)", "tertiarybutylarsine (TBAs)"],
-  "temperature_range": "390¡C",
-  "summary": "The study investigates the growth mechanisms of InAs using atomic layer epitaxy (ALE) with trimethylindium (TMIn) and tertiarybutylarsine (TBAs) as precursors. The research highlights the role of As-rich surfaces in maintaining self-limiting growth behavior and the dynamic changes in surface reconstructions during the ALE process. The surface remains As-rich for a significant portion of the TMIn exposure, and the presence of methyl radicals is suggested to stabilize the surface and prevent the formation of In droplets.",
-  "evidence": "We report a time-resolved reßectance di⁄erence spectroscopy (RDS) study of the growth of InAs during alternating ßow conditions typical of atomic layer epitaxy (ALE). The precursors used were trimethylindium (TMIn) and tertiarybutylarsine (TBAs). For ALE growth we observe that the InAs surface remains As-rich for an appreciable fraction of the 1 monolayer (ML) TMIn pulse. This is similar to results obtained for the growth of GaAs by ALE using trimethylgallium. In both InAs and GaAs the extra As layer appears to play a key role in maintaining self-limiting behaviour."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "SrS and SrS:Ce",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Sr(thd)2", "H2S", "Ce(CpMe4)3"],
-  "temperature_range": "600–850 °C",
-  "summary": "The study investigates the mobility of sodium in SrS and SrS:Ce thin film electroluminescent structures grown by atomic layer epitaxy (ALE). Sodium diffuses rapidly to interfaces between SrS and insulators, acting as a diffusion barrier up to 700 °C. The crystallinity and orientation of the films were studied using WAXS, revealing a preferred [111] orientation. Annealing at 700–750 °C recovers crystallinity, and sodium concentration remains high even after annealing.",
-  "evidence": "Mobility of sodium in SrS-based electroluminescent thin film stacks grown by atomic layer epitaxy was studied in the temperature range 600–850 °C using ion implantation for doping and nuclear resonance broadening for profiling of sodium. The crystallinity and orientation of SrS and SrS:Ce films were studied using wide angle x-ray scattering (WAXS). It was found that sodium diffuses rapidly to the interfaces between SrS and upper and lower Al2O3 insulators. These insulators act effectively as diffusion barriers for sodium up to a temperature of about 700 °C."
-}

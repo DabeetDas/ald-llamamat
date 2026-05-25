@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["trimethylgallium (TMGa)", "trisneopentylgallium (TNPGa)", "triethylgallium (TEGa)"],
-  "temperature_range": "400 °C to 470 °C",
-  "summary": "The study investigates the growth mechanisms of GaAs using different Ga precursors in atomic layer epitaxy (ALE). It highlights the role of methyl radicals in self-limiting growth and the differences in surface morphology and reconstruction between self-limiting and non-self-limiting precursors.",
-  "evidence": "The study presents a detailed analysis of the growth mechanisms of GaAs using three different Ga precursors: trimethylgallium (TMGa), triethylgallium (TEGa), and trisneopentylgallium (TNPGa). The research focuses on the self-limiting behavior of these precursors during ALE and the role of methyl radicals in this process. The temperature range used for the experiments is between 400 °C and 470 °C."
-}<|im_end|>

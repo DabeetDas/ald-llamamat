@@ -1,7 +1,0 @@
-{
-  "substrate_material": "Silicon (Si) and thermally oxidized silicon oxide (SiO2)",
-  "substrate_orientation": "",
-  "pretreatment": "SiO2 substrates were cleaned via ultrasonication in acetone, methanol, and deionized (DI) water for 15 min, then fully dried by blowing with Ar gas. Si substrates were immersed in a dilute hydrofluoric acid (HF) solution (DI water:HF = 100:1) and then dried by blowing with Ar gas.",
-  "surface_functionalization": "The substrates were terminated into a hydrophilic state using diluted buffered oxide etchant (BOE) solution.",
-  "evidence": "SiO2 substrates were cleaned via ultrasonication in acetone, methanol, and deionized (DI) water for 15 min, respectively, and then fully dried by blowing with Ar gas. Si substrates were immersed in a dilute hydrofluoric acid (HF) solution (DI water:HF = 100:1) and then dried by blowing with Ar gas. After the cleaning process, both SiO2 and Si substrates were loaded in an ALD chamber. The process temperature and pressure were maintained at 150 oC and 1.27 torr, respectively. Tetrakis (dimethylamino) tin (TDMASn; [(CH3)2N]4Sn) and H2S gas were employed as the Sn and S sources, respectively. TDMASn was first fed into the ALD chamber for 1 s and then the chamber was purged by Ar gas for 40 s. Then, H2S was fed into the ALD chamber for 3 s and the chamber was purged by Ar gas for 50 s. These four steps comprised one ALD cycle, and 30 cycles were repeated. When the ALD process was finished, the chamber was cooled down to room temperature under vacuum."
-}

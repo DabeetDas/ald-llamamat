@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnS and ZnO",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["dimethylzinc (DMZn)", "diethylzinc (DEZn)", "H2S", "H2O"],
-  "temperature_range": "100–200 °C",
-  "summary": "The study investigates the influence of organozinc ligand design on the growth and material properties of ZnS and ZnO films deposited by atomic layer deposition (ALD). The research compares the use of dimethylzinc (DMZn) and diethylzinc (DEZn) as metal sources with H2S or H2O as counter-reactants. The results show that DMZn leads to faster growth rates due to less steric hindrance, and both DMZn and DEZn can produce pure, crystalline ZnS and ZnO films. The study also highlights the effect of ligand modification on ZnO growth and the structural properties of the deposited films.",
-  "evidence": "Deposition of ZnS and ZnO by the atomic layer deposition technique is performed using both dimethylzinc and diethylzinc as the metal source and H2S or H2O as the counter-reactant. The use of DMZn as the Zn source results in faster material deposition than growth with DEZn due to a less significant steric factor with DMZn. Overall, pure and crystalline ZnS and ZnO films can be deposited via either DMZn or DEZn, and ZnO growth is more affected by the modification of the ligand of the Zn precursor from methyl to ethyl."
-}<|im_end|>

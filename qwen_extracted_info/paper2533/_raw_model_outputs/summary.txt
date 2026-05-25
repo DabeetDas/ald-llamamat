@@ -1,8 +1,0 @@
-{
-  "target_material": "HfAlO (hafnium aluminate)",
-  "process_type": "Atomic Layer Chemical Vapor Deposition (ALCVD)",
-  "main_precursors": ["H2O/HfCl4", "H2O/TMA (trimethylaluminum)"],
-  "temperature_range": "Not explicitly stated, but the study mentions low-temperature growth as it refers to amorphous films",
-  "summary": "The study investigates the optical properties of hafnium aluminate (HfAlO) thin films grown by atomic layer chemical vapor deposition (ALCVD). The films are grown using a 1:1 ratio of H2O/HfCl4 and H2O/TMA precursors. The optical band gap (Eg) is found to shift from 5.56 eV for HfO2 to 5.92 eV for HfAlO with increasing aluminum content. The films are amorphous, as confirmed by HRTEM images, and the optical properties are correlated with the aluminum composition. The study also discusses the effects of aluminum content on the dielectric functions and band gap of the films.",
-  "evidence": "The text states: 'The latter was grown by using an equal number of pulses of H2O/HfCl4 and H2O/TMA precursors in each deposition cycle for HfO2 and Al2O3, respectively.' Additionally, it mentions: 'The absence of the 5.7 eV peak in the pseudodielectric function spectrum, which was previously reported for polycrystalline HfO2 films, indicates that these films are amorphous as confirmed by their HRTEM images.'"
-}<|im_end|>

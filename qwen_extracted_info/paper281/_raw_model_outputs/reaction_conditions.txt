@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves sequential exposure to aluminium chloride (AlCl3) and water (H2O). The substrate is first exposed to AlCl3, followed by purging with nitrogen, then exposed to water vapor, and purged again. This process deposits a layer of alumina on the surface.",
-  "intermediate_species": ["AlCl3", "H2O"],
-  "evidence": "Figure 1 illustrates the principle of ALD using, as an example, alumina deposition via exposure of a surface already bearing hydroxyl groups to aluminium chloride and water. The substrate is exposed to aluminium chloride followed by purging. In the next step it is exposed to water followed, again, by purging. These four steps deposit a layer of known thickness on to the substrate."
-}<|im_end|>

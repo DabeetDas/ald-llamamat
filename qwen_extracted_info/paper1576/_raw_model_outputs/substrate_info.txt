@@ -1,7 +1,0 @@
-{
-  "substrate_material": "Silicon",
-  "substrate_orientation": "Si(111)",
-  "pretreatment": "Cleaning of the silicon surface with its native oxide, hydrogenation of the surface, immersion in piranha solution, etching in diluted hydrofluoric acid, and ammonium fluoride",
-  "surface_functionalization": "Formation of carboxyl-terminated alkyl monolayers through thermal hydrosilylation of alkenes, followed by transformation from ester to carboxylic acid termination using potassium tert-butoxide",
-  "evidence": "Si(111) wafers (Fz, n-type, double side polished with a nominal resistivity of 1 -20 Ω · cm) were purchased from Virginia Semiconductor. ... The Si -H surface is then prepared by 1 min etching in diluted hydrofluoric acid (1:2, v/v with DIW) followed by 2 min 30 s in ammonium fluoride. ... The activation of the ester terminated surface (-COOEth) to the carboxylic acid terminated surface (-COOH) is done via subsequent immersion for 1 min 30 s in 0.25 M potassium tert-butoxide in DMSO, 30 s in pure DMSO, 30 s in HCl 2 M, and 30 s in DIW."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum oxyfluoride (AlO xFy)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Trimethyl aluminum (TMA)", "Water (H2O)", "Hydrofluoric acid (HF)"],
-  "temperature_range": "150 °C",
-  "summary": "This study demonstrates the atomic layer deposition (ALD) of aluminum oxyfluoride (AlO xFy) thin films at 150 °C using trimethyl aluminum (TMA), water, and hydrofluoric acid (HF) as precursors. Two deposition pathways were explored: the HF exchange method and the nanolaminate method. The HF exchange method involves fluorination of Al2O3 by HF, while the nanolaminate method sequentially deposits Al2O3 and AlF3 layers. The stoichiometry of the AlO xFy films was controlled by varying the HF pressure and the thickness of the underlying Al2O3 layer. The films exhibited tunable compositions between Al2O3 and AlF3, with physical sputtering rates dependent on the O and F concentrations.",
-  "evidence": "Atomic layer deposition (ALD) of aluminum oxyfluoride (AlO xFy) thin films was demonstrated at 150 °C. Trimethyl aluminum, water, and HF were used as the aluminum, oxygen, and fluorine sources, respectively. Two deposition pathways were explored to grow the AlO xFy thin films based on the HF exchange method and the nanolaminate method. The HF exchange method is based on the thermodynamically favorable fluorination of Al2O3 by HF. Compositional control was achieved either by changing the HF pressure during the HF exposure or by varying the thickness of the underlying Al2O3 layer prior to the HF exposure. The nanolaminate method is based on the sequential deposition of Al2O3 ALD and AlF3 ALD layers."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process on silica gel involves the reaction of trimethylaluminum (TMA) with surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The initial TMA exposure leads to the formation of surface species such as Si-O-Al(CH3)2* and Si-CH3*, which are difficult to remove during the water purge. This results in a lower initial weight gain and reduced methane release during the first few ALD cycles due to surface poisoning by Si-CH3* species.",
-  "intermediate_species": ["Si-O-Al(CH3)2*", "Si-CH3*"],
-  "evidence": "The text states: 'When the TMA reacts on bridge-bonded oxygen, the resulting surface species are Si-O-Al(CH3)2* and Si-CH3*. These Si-CH3* species are difficult to remove during the water exposures and will prevent adsorption during subsequent ALD cycles on these locations.' Additionally, it mentions: 'The Al2O3 ALD was inhibited on the silica gel surface for the first ∼ 5 ALD cycles, and this leads to a lower initial weight gain as well as a reduced proportion of methane released during the initial TMA exposures.'"
-}<|im_end|>

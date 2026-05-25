@@ -1,8 +1,0 @@
-{
-  "target_material": "Al O and SiO",
-  "process_type": "Atomic layer deposition (ALD) using sequential surface reactions",
-  "main_precursors": ["Al CH33", "H O2", "SiCl4", "H O2"],
-  "temperature_range": "450 K for Al O and 700 K for SiO",
-  "summary": "The study describes the atomic layer deposition of Al O and SiO on BN particles using sequential surface reactions. The process involves alternating exposures of Al CH and H O for Al O deposition and SiCl and H O for SiO deposition. The deposited films were characterized using FTIR, TEM, and XPS, revealing uniform and conformal coatings on BN particles. The results highlight the capability of sequential surface reactions to deposit ultrathin films on BN particles for enhancing their chemical reactivity and loading in polymer composites.",
-  "evidence": "The text states that Al O and SiO were deposited on BN particles using alternating exposures of Al CH and H O, and SiCl and H O, respectively. The process was monitored using FTIR, TEM, and XPS, and the temperature ranges for Al O and SiO deposition were 450 K and 700 K, respectively."
-}<|im_end|>

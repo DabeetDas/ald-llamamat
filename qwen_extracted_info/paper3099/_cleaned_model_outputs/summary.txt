@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "200–500°C",
-  "summary": "The study investigates the growth of TiO2 films via atomic layer deposition (ALD) using TiCl4 and H2O as precursors at temperatures ranging from 200 to 500°C. The crystalline form of the films changes with temperature, transitioning from anatase at lower temperatures to a mixture of anatase and rutile at 500°C. The grain size is minimized at around 400°C. The photoelectrochemical properties are influenced by factors such as defect density, grain size, and the presence of the rutile phase. A two-stage ALD process is proposed to improve these properties by optimizing nucleation and grain growth.",
-  "evidence": "TiO2 films were grown by atomic layer deposition /H20849ALD/H20850at 200–500°C with TiCl4 and H2O as gas sources. The results showed that the crystalline form is anatase at deposition temperatures of 200–400°C and is a mixture of anatase and rutile at 500°C. The potential sweep voltammograms demonstrated that the photoelectrochemical properties of these TiO2 films were deteriorated by either the high defect density or the small grain size, or the existence of rutile phase. In order to modify the morphological properties of ALD TiO2 films, a two-stage ALD with first stage for a nucleation layer and second stage for stress release and grain growth was proposed."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "H2O"],
-  "temperature_range": "below 200 °C",
-  "summary": "The paper describes the development of a low-temperature atomic layer deposition (ALD) process for depositing Al2O3 films as isolation layers in TMR read heads. The process enables uniform, conformal growth with excellent electrical properties, including low leakage current and high breakdown fields. The films are used to isolate permanent magnets in TMR readers, allowing for improved stability and scalability in high-density magnetic storage applications.",
-  "evidence": "ALD Al2O3 films were introduced several years ago and served to end-of-life in GMR spin-valve read heads as second half-gaps. In this technique, growth is controlled by the sequential dosing of Al-bearing and O-bearing precursors, which undergo self-limiting half-reactions at the film surface. A low-temperature deposition process was developed to permit integration with a self-aligned patterning scheme. The resulting films show excellent thickness uniformity (2% within-wafer), leakage current density (74/108/101/97/107/49/49/48/56 A/cm²) and breakdown properties (70/98/100 9 MV/cm)."
-}

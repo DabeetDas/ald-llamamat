@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 500,
-  "density_g_cm3": null,
-  "refractive_index": "1.99 at 700 nm",
-  "surface_roughness_nm": 11.4,
-  "crystal_phase": "Amorphous",
-  "evidence": "AFM measurements were performed on a NanoScope SPM D3100 AFM instrument. All samples had a uniform gate. Measurements were taken on the surface of the 500thick Al2O3 dielectric and on the surface of the ZnO semiconductor. For the thermally evaporated Cr gates on borosilicate glass, an rms roughness range of 8–10 is typical. The Al2O3 dielectric grown on top of this surface shows comparable roughness; for example, the RMS roughness is 11.4 for the 500thick sample in Fig. 9(a)."
-}

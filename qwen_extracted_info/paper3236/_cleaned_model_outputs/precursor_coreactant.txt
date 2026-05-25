@@ -1,7 +1,0 @@
-{
-  "precursors": ["lead(II)bis(2,2,6,6-tetramethyl-3,5-heptanedionato) (Pb(C 11H19O2)2)", "(trimethylsilyl) telluride ((Me 3Si)2Te)", "bis-(triethyl silyl) selane ((Et 3Si)2Se)"],
-  "coreactants": [],
-  "purge_gas": [],
-  "carrier_gas": ["N2"],
-  "evidence": "For our experiments, 20 sccm N2 was used as a carrier gas for the precursors. This carrier gas flow enabled proper transport of precursors from the precursor cylinder to the reaction chamber."
-}

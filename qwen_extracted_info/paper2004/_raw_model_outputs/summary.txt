@@ -1,8 +1,0 @@
-{
-  "target_material": "CdTe",
-  "process_type": "atomic layer epitaxy (ALE)",
-  "main_precursors": ["Cd", "Te"],
-  "temperature_range": "280 °C",
-  "summary": "The study investigates nanoscale surface clustering on CdTe epilayers grown by atomic layer epitaxy (ALE) on CdZnTe buffers. The clusters form ex situ due to oxidation of the CdTe layers when exposed to atmosphere, as evidenced by AFM, RHEED, and XPS measurements. The clusters are identified as oxide formations, specifically TeO2 and CdTeO3, resulting from the oxidation of the CdTe surface.",
-  "evidence": "CdTe layers were deposited by ALE at 280 °C up to a thickness of 40 monolayers. The combination of RHEED, AFM, and XPS measurements leads to the conclusion that the surface clustering occurs ex situ after the growth, due to progressive oxidation of the layers. The oxidation state of tellurium is directly related to the peaks at 576.1 and 586.7 eV, identifying the presence of TeO2 and CdTeO3."
-}<|im_end|>

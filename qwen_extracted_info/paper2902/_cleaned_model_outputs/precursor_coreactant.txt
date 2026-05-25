@@ -1,7 +1,0 @@
-{
-  "precursors": ["WCl6", "AlH2(tBuNCH2CH2NMe2)"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "ALD experiments were conducted on a Picosun R-200 system using nitrogen carrier gas (5N, Airgas) that was passed through an in-line gas purifier (SAES, <100 ppt H2O, O2)."
-}

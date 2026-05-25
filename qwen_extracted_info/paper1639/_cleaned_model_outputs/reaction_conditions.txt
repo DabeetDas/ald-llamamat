@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves sequential exposures of a sample to surface-saturating exposures of reactive precursors used in the deposition. For the case of Al2O3 ALD, trimethylaluminum and water vapors are typically used, and exposures are separated in time using Ar gas flow.",
-  "intermediate_species": ["trimethylaluminum", "water vapors", "surface hydroxyls"],
-  "evidence": "For the case of Al2O3 ALD, trimethylaluminum and water vapors are typically used, and exposures are separated in time using Ar gas flow."
-}

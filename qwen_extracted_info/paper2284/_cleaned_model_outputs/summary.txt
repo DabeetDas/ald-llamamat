@@ -1,8 +1,0 @@
-{
-  "target_material": "Si",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Si2H6", "Si2Cl6"],
-  "temperature_range": "450-550 °C",
-  "summary": "The study describes the growth of silicon layers on Si(100) surfaces using H/Cl exchange chemistry. The process involves alternating exposures of Si2H6 and Si2Cl6, with boron doping affecting the exchange reactions by weakening Si-H and Si-Cl bonds. The growth is not self-limiting but retains some features of atomic layer epitaxy (ALE).",
-  "evidence": "Using alternating exposures of Si2H6 and Si2Cl6, very thin Si layers have been grown on the Si(100) surface at temperatures as low as 475 °C. Doping the surface with boron atoms can lower the growth temperature due to weakening of the Si-H and Si-Cl bonds. The process is not truly self-limiting but retains some features of ALE."
-}

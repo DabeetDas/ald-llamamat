@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "PE-ALD",
-  "main_precursors": ["tris(dimethylamido)-(dimethylamino-2-propanolato)titanium(IV) (TDMADT)"],
-  "temperature_range": "60 1C",
-  "summary": "An efficient plasma-enhanced atomic layer deposition (PE-ALD) process for TiO2 thin films using a new Ti-precursor, tris(dimethylamido)-(dimethylamino-2-propanolato)titanium(IV) (TDMADT), was developed. The process allows for the deposition of stoichiometric titanium dioxide thin films at low temperatures (as low as 60 1C) with low RMS roughness and good barrier performance for gas transmission rates (OTR).",
-  "evidence": "An eﬃcient plasma-enhanced atomic layer deposition (PE-ALD) process was developed for TiO2 thin films of high quality, using a new Ti-precursor, namely tris(dimethylamido)-(dimethylamino-2-propanolato)titanium(IV) (TDMADT). The new PE-ALD process is demonstrated to be an eﬃcient procedure to deposit stoichiometric titanium dioxide thin films under optimized process conditions with deposition temperatures as low as 60 1C. Thin films deposited on Si(100) and polyethylene-terephthalate (PET) exhibit a low RMS roughness of about 0.22 nm. In addition, proof-of-principle studies on TiO2 thin films deposited on PET show promising results in terms of barrier performance with oxygen transmission rates (OTR) found to be as low as 0.12 cm3 /C2 cm/C02 /C2 day/C01 for 14 nm thin films."
-}

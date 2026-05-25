@@ -1,8 +1,0 @@
-{
-  "target_material": "GeSb8Te",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["Ge[(CH3)2N]4", "Sb[(CH3)2N]3", "Te(C4H9)2"],
-  "temperature_range": "190 to 250°C",
-  "summary": "The study describes the deposition of GeSb8Te thin films using plasma-enhanced atomic layer deposition (PEALD) with specific precursors and a temperature range of 190 to 250°C. The films exhibit improved switching speed and reduced reset voltage compared to GST-based devices, attributed to the growth-dominated crystallization mechanism. The results highlight ALD as an attractive method for preparing phase-change materials.",
-  "evidence": "In this study, Ge2Sb2Te5 (GST) and GeSb8Te thin films were deposited by plasma-enhanced atomic layer deposition (ALD) method using Ge [(CH3)2N]4, Sb [(CH3)2N]3, Te (C4H9)2 as precursors... Compared with GST-based device, GeSb8Te-based device exhibits a faster switching speed and reduced reset voltage, which is attributed to the growth-dominated crystallization mechanism of the Sb-rich GeSb8Te films. These results show that ALD is an attractive method for preparation of phase-change materials."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Sb2Te3 and GeTe",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["SbCl3", "GeCl2·C4H8O2", "(Et3Si)2Te"],
-  "temperature_range": "60–176 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of Sb2Te3 and GeTe using SbCl3 and GeCl2·C4H8O2 with (Et3Si)2Te as precursors. The processes occur at temperatures between 60–176 °C. The byproduct Et3SiCl is released during the metal precursor pulses, and the mechanism involves exchange reactions. The study also examines the ALD of GST (Ge2Sb2Te5) and highlights the role of surface -Te(SiEt3) groups as reactive sites.",
-  "evidence": "The text states: 'Reaction mechanisms in the atomic layer deposition (ALD) of Sb2Te3 from SbCl3 and (Et3Si)2Te at 60 /C176C and GeTe from GeCl2 3 C4H8O2 (1,4-dioxane complex of GeCl2) and (Et3Si)2Te at 90 /C176C were studied in situ with a quadrupole mass spectrometer (QMS) and a quartz crystal microbalance (QCM).'"
-}<|im_end|>

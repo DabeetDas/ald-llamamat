@@ -1,8 +1,0 @@
-{
-  "target_material": "Calcium sulfide (CaS)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Bis(N,N'-diisopropylformamidinato)calcium(II) (1)", "Bis(N,N'-diisopropylacetamidinato)calcium(II) (2)", "Hydrogen sulfide (H2S)"],
-  "temperature_range": "150–280 °C",
-  "summary": "The study reports the synthesis of two new calcium(II) amidinate precursors, which are used for the ALD of calcium sulfide (CaS). The ALD process using these precursors shows a significantly wider temperature range (150–280 °C) compared to previously reported methods, enabling the deposition of uniform and high-quality CaS films at lower temperatures. The precursors exhibit excellent thermal stability and volatility, making them suitable for ALD applications.",
-  "evidence": "The ALD of CaS by using the vapor of 1 with H2S as a co-reactant produced pure CaS films within the temperature range of 150–280 °C. The observed ALD window covers a significantly lower and wider temperature range compared to that with [Ca3(tmhd)6]. The growth rate in the ALD window was found to be 0.87 Å/cycle, which is significantly higher than that reported for [Ca3(tmhd)6]."
-}

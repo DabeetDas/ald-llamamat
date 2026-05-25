@@ -1,8 +1,0 @@
-{
-  "target_material": "molybdenum oxide",
-  "process_type": "area-selective atomic layer deposition (AS-ALD)",
-  "main_precursors": ["MoCl4O", "H2O", "O3"],
-  "temperature_range": "200–350 °C",
-  "summary": "This study reports on the area-selective atomic layer deposition (AS-ALD) of molybdenum oxide (MoOx) using the precursor MoCl4O with water and ozone. The process exhibits high selectivity for growth on glass and LiF substrates compared to Si(100) and other substrates. The growth rate is 0.72 Å/cycle at 300 °C, and the films show crystallinity depending on the deposition temperature. The selectivity is attributed to the diffusion of sodium or lithium ions from the substrates.",
-  "evidence": "The process is perfectly selective for growth on glass as compared to Si(100) substrates for deposition temperatures between 200 and 300 °C, with a growth rate of 0.72 Å/cycle at 300 °C. The findings indicate an activated process by diffusion of sodium or lithium through the film during growth."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "Ozone-based ALD",
-  "main_precursors": ["TMA", "O3"],
-  "temperature_range": "140 /C176C and 150 /C176C",
-  "summary": "This study demonstrates that replacing H2O with O3 as the oxidant in ALD significantly improves the encapsulation of organic solar cells (OPVs) with ultrathin Al2O3 layers. The O3-based ALD process provides superior device encapsulation, as evidenced by higher efficiency retention over time and reduced degradation compared to H2O-based ALD. The encapsulation effectiveness was studied at two different ALD temperatures, 140 /C176C and 150 /C176C, and the results showed that O3–Al2O3 layers offer better protection against ambient moisture and oxygen.",
-  "evidence": "The encapsulation characteristics of a barrier layer can be accentuated by replacing H2O with O3 as the ALD oxidant. The Al2O3 layers deposited using O3 offered superior device encapsulation compared to the films deposited using H2O. The OPV efficiency has also been studied as a function of Al2O3 thickness and effective encapsulation has been monitored for two different ALD temperatures – 140 /C176C and 150 /C176C."
-}<|im_end|>

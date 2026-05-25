@@ -1,8 +1,0 @@
-{
-  "target_material": "photocurrent noise",
-  "process_type": "feedback-measurement-induced anticorrelation",
-  "main_precursors": ["photocurrent noise", "amplifier dark noise"],
-  "temperature_range": "",
-  "summary": "The study reports the suppression of in-loop photocurrent noise below the amplifier dark noise in negative feedback LED and LD systems. The suppression is attributed to an anticorrelation effect between the measured photocurrent noise and the amplifier dark noise, which is explained using a semiclassical model. The results show that the photocurrent noise can be reduced below the amplifier dark noise level, indicating an anticorrelation mechanism.",
-  "evidence": "We observed the suppression of the in-loop photocurrent fluctuation below the amplifier dark noise. ... the suppression of the in-loop photocurrent fluctuation below the amplifier dark noise in both the negative-feedback LED and the LD when the feedback gain G was further increased."
-}

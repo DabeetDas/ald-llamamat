@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The oxidation potential of H2O2 leads to the reduction of oxygen vacancies in HfO2 films, which is attributed to the strong oxidation potential of H2O2 compared to H2O. The use of H2O2 as an oxidant results in fully oxidized HfO2 films, which improves their leakage properties.",
-  "intermediate_species": ["oxygen vacancies"],
-  "evidence": "The oxygen vacancies in HfO2 thin films are one of the critical factors in the deterioration of the leakage properties. The oxygen vacancies in HfO2 give rise to defect levels in the band gap. Therefore, such oxygen vacancies could be the origin of a conduction pathway in HfO2 films. In ALD, the use of an oxygen source with a strong oxidation potential is one of the most efficient ways to reduce the oxygen vacancies in HfO2. Although H2O, which is a common oxygen source in ALD, is a favorable oxidizing agent for ligand exchange in the ALD reaction, an oxide film grown using H2O is likely to be less insulating because of its relatively low oxidation potential. H2O2 is a reactive, safe, and versatile oxygen source for ALD. The oxidation potential (1.8 eV) of H2O2 is comparable to that (2.1 eV) of O3. Thus, H2O2 is also expected to efficiently reduce the oxygen vacancies in HfO2 thin films."
-}

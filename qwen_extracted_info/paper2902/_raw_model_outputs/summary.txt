@@ -1,8 +1,0 @@
-{
-  "target_material": "tungsten-rich tungsten carbide",
-  "process_type": "thermal ALD",
-  "main_precursors": ["WCl6", "AlH2(tBuNCH2CH2NMe2)"],
-  "temperature_range": "275-350 °C",
-  "summary": "The study describes the thermal ALD of tungsten-rich tungsten carbide films using WCl6 and AlH2(tBuNCH2CH2NMe2) as precursors. The process exhibits an ALD window between 275-350 °C with a growth rate of 1.6 Å/cycle. High purity tungsten carbide films (WxC, x = 2.8-3.7) are deposited with low levels of impurities. The films are nanocrystalline and convert to the non-stoichiometric β-WC1-x phase above 600 °C. Film densities are 50-60% of bulk values, which may explain the relatively high resistivities.",
-  "evidence": "The thermal atomic layer deposition (ALD) of tungsten-rich tungsten carbide thin films is described using WCl6 and the aluminum dihydride co-reactant AlH2(tBuNCH2CH2NMe2). Smooth and stable films were grown at temperatures >200 °C. An ALD window was observed between 275-350 °C with a growth rate of 1.6 Å/cycle, according to SEM and XRR. XPS analysis showed that high purity tungsten-rich tungsten carbide (WxC, x = 2.8-3.7) films were deposited at 300 °C, with low levels of nitrogen (< 4 at.%), oxygen (< 4 at.%), chlorine (< 3 at.%), and aluminum (< 1 at.%). The as-deposited films were nanocrystalline and converted to the non-stoichiometric β-WC1-x phase above 600 °C. Film densities of the as-deposited films according to XRR were 50-60% of bulk values, which may explain the relatively high film resistivities (1140 µΩ·cm at 300 °C) despite the high film purity."
-}<|im_end|>

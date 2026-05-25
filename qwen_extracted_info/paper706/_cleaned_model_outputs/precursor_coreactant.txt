@@ -1,7 +1,0 @@
-{
-  "precursors": ["tris( N,N′-diisopropylformamidinate)-lanthanum", "tetrakis(diethylamino)zirconium"],
-  "coreactants": ["oxygen (O2)"],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": [],
-  "evidence": "The precursors that have been used for the growth of La2O3 are tris( N,N′-diisopropylformamidinate)-lanthanum and oxygen, O2. ZrO2 was deposited using tetrakis-(diethylamino)zirconium and oxygen, O2. A deposition cycle that yields to the growth of one monolayer is defined as a pulse of the metal-containing precursor, a nitrogen purge to remove non-reacted precursor, a pulse of the oxygen-containing precursor, and a final nitrogen purge."
-}

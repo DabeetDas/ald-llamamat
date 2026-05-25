@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD of Er−HfO2 involve the incorporation of Er and Hf precursors, with the formation of oxygen vacancies (OV) due to the insertion of a 3+ element like Er into the metallic sublattice of HfO2. The OH− content decreases upon annealing, and the release of OH− is accompanied by the relaxation of microstrain, which might increase the dielectric constant.",
-  "intermediate_species": ["oxygen vacancies (OV)", "OH− groups"],
-  "evidence": "The OH− incorporation might be attributed to the formation of Er/OH3 species in as-grown films upon exposure to air. The release of OH− is accompanied by the relaxation of the microstrain, mostly related to the rearrangement of the O sublattice that might increase the dielectric constant. The presence of OH− groups, which are preferentially bonded to Er due to its hygroscopic nature, together with the presence of 2+ charged OV, cause a distortion of the O sublattice within the c structure."
-}

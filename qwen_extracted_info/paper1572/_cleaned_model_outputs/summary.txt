@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Area-selective ALD",
-  "main_precursors": ["hafnium tetra-tert-butoxide (HTB)", "H2O"],
-  "temperature_range": "200 °C during deposition, 600 °C for annealing",
-  "summary": "The study describes the generation of periodic oxide nanopatterns using S-layer proteins as templates and area-selective atomic layer deposition (ALD) of hafnium oxide (HfO2). The process involves modifying the S-layer proteins with octadecyltrichlorosilane (ODTS) to enable selective ALD on the protein-defined pores, followed by thermal annealing to remove the proteins, leaving behind HfO2 nanopatterns.",
-  "evidence": "The periodic HfO2 nanopatterns were generated on Si substrate after selective removal of the ODTS-modified S-layer proteins. The ALD process used hafnium tetra-tert-butoxide (HTB) and H2O as precursors, with the substrate temperature kept at 200 °C during deposition. The sample was annealed in air at 600 °C for 2 h to remove the ODTS-modified S-layer proteins."
-}

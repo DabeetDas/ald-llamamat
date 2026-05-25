@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "An exchange reaction between a surface /C0 OH group and the metal precursor is assumed, where one or more of the ligands are hydrogenated by the surface /C0 OH, leaving the surface more or less intact. The metal then forms the oxide with the oxygen left on the surface.",
-  "intermediate_species": [
-    "surface /C0 OH groups",
-    "ligands"
-  ],
-  "evidence": "In ALD of oxides different metal precursors are supposed to react along different reaction pathways. One possibility is oxidation of the ligands bonded to the metal. This reaction is dominant when O2 or O3 is used as oxygen precursors. When water is used as the oxygen precursor an exchange reaction between a surface /C0 OH group and the metal precursor is assumed, where one or more of the ligands are hydrogenated by the surface /C0 OH, leaving the surface more or less intact. The metal then forms the oxide with the oxygen left on the surface."
-}

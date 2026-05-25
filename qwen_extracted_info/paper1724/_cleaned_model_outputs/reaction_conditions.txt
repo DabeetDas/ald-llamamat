@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALE technique involves the sublimation and chemisorption of cobalt acetylacetonate on the surface of the support, followed by a purge with N2 and calcination to form oxide species. The reaction cycle is repeated to increase cobalt loading on the surface.",
-  "intermediate_species": ["surface hydroxyls", "anchored Co-containing moieties"],
-  "evidence": "Cobalt acetylacetonate was sublimed and chemisorbed at 440 K for 1 h on the surface of the support (preheated at 770 K) using N2 as carrier, following a purge with N2 at 440 K. Then, calcination at 770 K for 1 h in air yielded the oxide species on the surface of the support."
-}

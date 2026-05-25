@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2 nanotube arrays (NTAs)",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "150 °C",
-  "summary": "The study describes the synthesis of transparent, well-aligned TiO2 nanotube arrays (NTAs) on glass substrates using atomic layer deposition (ALD). The NTAs are functionalized with Pd nanoparticles and demonstrate high photocatalytic activity for photodegradation of aqueous methylene blue (MB) solution and solid stearic acid (SA) films. The ALD technique allows precise control of the nanotube wall thickness, enabling transparency while maintaining effective photocatalytic performance.",
-  "evidence": "The text states that TiO2 NTAs were grown on glass substrates via atomic layer deposition (ALD) of TiO2 onto free-standing porous anodic alumina (PAA) templates. The main precursors used were TiCl4 and H2O. The ALD process was conducted at 150 °C. The Pd-functionalized TiO2 NTAs with a wall thickness of 15 nm showed the highest photodegradation efficiency at 76% after 4 h of UV irradiation. The study highlights the ability of ALD to control the wall thickness for both transparency and photocatalytic performance."
-}

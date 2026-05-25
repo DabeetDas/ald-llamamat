@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD of TiO2 on polyamide particles involve the alternating exposure of the surface to titanium tetrachloride (TiCl4) and water (H2O) vapors. The process begins with the adsorption of TiCl4 molecules, followed by the reaction with surface hydroxyl groups (OH*), forming a surface intermediate (Ti-OH*). Subsequently, the surface is exposed to H2O, which reacts with the Ti-OH* intermediate to form TiO2 and release HCl. The cycle is repeated to build up the TiO2 film layer by layer.",
-  "intermediate_species": [
-    "Ti-OH*",
-    "surface hydroxyls"
-  ],
-  "evidence": "The text describes the ALD process as involving alternating exposure to TiCl4 and H2O vapors. It mentions the reaction of TiCl4 with surface hydroxyl groups and the subsequent reaction of water with the surface intermediate, forming TiO2 and releasing HCl. The surface hydroxyl groups are explicitly mentioned as part of the reaction mechanism."
-}

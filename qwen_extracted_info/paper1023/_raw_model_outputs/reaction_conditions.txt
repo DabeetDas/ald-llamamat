@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "During the ALD process, the exchange between water and chlorine is incomplete, leading to residual chlorine in the layer and an open structure with lower density as compared to the oxide. Upon annealing, the chlorine is released and the density of the interfacial layer reaches the value of the bulk oxide. Additionally, Si migration to the surface of HfO results in the formation of a lower density layer.",
-  "intermediate_species": ["residual chlorine", "open structure with lower density", "interfacial silicate"],
-  "evidence": "Considering the ALD process, with the use of HfCl4 as precursor, we conclude that during the early stage of the growth, the exchange between water and chlorine is incomplete leading to residual chlorine in the layer and an open structure with lower density as compared to the oxide. Upon annealing, the chlorine is released and the density of the interfacial layer reaches the value of the bulk oxide, in addition as can be observed from SiO2 signal in Fig. 2, Si migration to the surface of HfO2 results in the formation of a lower density layer in this region, as previously reported w8x."
-}<|im_end|>

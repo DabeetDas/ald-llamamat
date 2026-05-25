@@ -1,7 +1,0 @@
-{
-  "precursors": ["diethylberyllium (DEB, Be(C2H5)2)"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "The BeO films were deposited by an atomic layer deposition system (Lucida M100-PL, NCD Technology) which is capable of PEALD and ThALD. The BeO films were deposited by PEALD at a substrate temperature of 287°C. The Be precursor, diethylberyllium (DEB, Be(C2H5)2), was maintained at 65°C, and oxygen (O2) was used as the reactant. Ar gas was maintained at the working pressure, 0.2Torr, using the total ALD process, and the by-products, excess precursors, and reactants were purged at a flow of 20sccm."
-}

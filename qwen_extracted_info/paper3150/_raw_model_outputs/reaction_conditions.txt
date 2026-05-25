@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the sequential deposition of Y2O3 and HfO2 layers through atomic layer deposition (ALD), where the growth rates of Y2O3 and HfO2 films were 1.7 and 1.5 Å/cycle, respectively. The ALD process alternates between Y2O3 and HfO2 deposition cycles, with the ALD cycle ratio corresponding to the actual atom ratio of Y/Hf. The mechanism is based on the incorporation of yttrium into hafnium oxide films, which stabilizes the cubic phase of HfO2 and enhances the dielectric constant.",
-  "intermediate_species": ["Y2O3", "HfO2", "cubic-HfO2"],
-  "evidence": "The study describes the sequential ALD process used to deposit Y2O3 and HfO2 layers, with the growth rates of Y2O3 and HfO2 films being 1.7 and 1.5 Å/cycle, respectively. The ALD cycle ratio corresponds to the actual atom ratio of Y/Hf. The incorporation of yttrium into hafnium oxide films stabilizes the cubic phase of HfO2 and enhances the dielectric constant."
-}<|im_end|>

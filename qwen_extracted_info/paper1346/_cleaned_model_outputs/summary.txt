@@ -1,8 +1,0 @@
-{
-  "target_material": "Ni3S2",
-  "process_type": "ALD",
-  "main_precursors": ["bis(1-dimethylamino-2-methyl-2-butoxy) nickel (II) [Ni(dmamb)2]", "H2S"],
-  "temperature_range": "250 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of crystalline Ni3S2 thin films using bis(1-dimethylamino-2-methyl-2-butoxy) nickel (II) [Ni(dmamb)2] and H2S as precursors at 250 °C. The resulting Ni3S2 films exhibit high catalytic activity for both the hydrogen evolution reaction (HER) and oxygen evolution reaction (OER) in alkaline solutions, with low overpotentials and high turnover frequencies. The films were successfully deposited on various substrates, including Au and SiO2, and showed stable performance in water splitting applications.",
-  "evidence": "We describe the direct preparation of crystalline Ni3S2 thin films via atomic layer deposition (ALD) techniques at temperatures as low as 250 °C without post-thermal treatments. A new ALD chemistry is proposed using bis(1-dimethylamino-2-methyl-2-butoxy) nickel (II) [Ni(dmamb)2] and H2S as precursors. The resulting crystalline Ni3S2 layers exhibited highly efficient and stable performance as electrocatalysts for both the hydrogen evolution reaction (HER) and the oxygen evolution reaction (OER) in alkaline solutions, with a low overpotential of 300 mV and a high turnover frequency for HER and an overpotential of 400 mV for OER (at a current density of 10 mA/cm2)."
-}

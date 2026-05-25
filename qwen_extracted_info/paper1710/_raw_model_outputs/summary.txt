@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tetrakis(dimethylamido)titanium (TDMAT)", "water"],
-  "temperature_range": "150 °C",
-  "summary": "The study investigates the conformal Atomic Layer Deposition (ALD) of TiO2 on a scalloped aluminum surface formed by removing porous anodic alumina (PAA) membranes. The research focuses on how ALD modifies surface topography, demonstrating its ability to conformally coat complex nanostructures and smooth sharp asperities. The ALD process uses thermal deposition at 150 °C with TDMAT and water as precursors, and the results show that ALD effectively planarizes the surface, reducing surface area as the film thickness increases.",
-  "evidence": "Titanium dioxide (TiO2) ALD thin films were thermally deposited at 150 °C in a Beneq TFS-500 cross-flow ALD reactor using tetrakis(dimethylamido)titanium (TDMAT) and water. Pulses and purges of 500 ms for both precursors resulted in atomic thickness control with a growth rate of 0.055 nm/cycle."
-}<|im_end|>

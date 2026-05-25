@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the interaction of LiHMDS with surface hydroxyl groups, followed by the use of remote oxygen plasma to regenerate the hydroxyl sites. The deposition process includes cycles of metal oxide (Ni or Sn) and lithium oxide, with the growth rate influenced by the number of cycles and the sequence of deposition.",
-  "intermediate_species": ["LiHMDS", "surface hydroxyls", "Li2CO3", "LiOH", "Si", "N"],
-  "evidence": "The presence of silicon and nitrogen atoms was found in films which were not observed during deposition of lithium oxide and nickel oxide structures at the same synthesis conditions. The analysis of O1s, C1s, and Li1s also shows the absence of peak corresponding to binding energy in Li2O. The peaks obtained after deconvolution of Li-Ni-O and unetched Li-Sn-O C1s spectra mainly corresponded to the binding energy of CAC and CAH bonds. The Li1s peak positions in Li2O, Li2CO3, and LiOH are very close, and due to possible shifts, they are difficult to distinguish."
-}<|im_end|>

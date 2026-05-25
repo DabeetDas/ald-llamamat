@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of TiCl4 and H2O2 as precursors in a low-temperature ALD process to deposit amorphous TiO2 films. The process includes a pulse and purge cycle where TiCl4 and H2O2 are alternately introduced to the surface, leading to the formation of TiO2 layers. The presence of residual chlorine is reduced by using H2O2, which acts as a stronger oxidizing agent. The surface reactions are influenced by the thermal annealing process, which affects the crystallinity and impurity content of the films.",
-  "intermediate_species": [
-    "residual chlorine atoms",
-    "TiO2 layers"
-  ],
-  "evidence": "TiO2 films were deposited at 100◦C using TiCl4 and H2O2 in a viscous flow ALD reactor, at a rate of 0.61 ˚A/cycle. The low-temperature process was utilized to guarantee the amorphous deposition of TiO2 layers and post-deposition thermal annealing was employed to promote crystallite-size modification. Hydrogen peroxide significantly reduced the residual chlorine that remained from a typical TiCl4–H2O ALD process at this temperature, down to 1.6%."
-}

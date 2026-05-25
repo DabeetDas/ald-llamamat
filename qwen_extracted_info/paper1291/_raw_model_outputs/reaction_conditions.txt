@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD of Mg xCa1−xO on GaN involve the use of calcium, magnesium, and oxygen precursors. The Mg and Ca precursors are likely to react with surface hydroxyl groups, and the oxygen source is water. The reaction equations are not explicitly provided in the text, but the process is described as involving the sequential dosing of precursors and purging.",
-  "intermediate_species": ["Mg(OH)2"],
-  "evidence": "One possible explanation is that during the early ALD cycles, the Ca growth rate is smaller than that of the Mg. Thus, the Ca content near the interface is lower than in the bulk Mg xCa1−xO film. Another possible explanation is that a trace amount of Mg(OH)2 may also cause interfacial traps, while adding more Ca content may help reduce the number of hydroxyl groups and therefore reduce the D it level."
-}<|im_end|>

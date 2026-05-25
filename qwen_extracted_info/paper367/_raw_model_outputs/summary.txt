@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "halogen transport ALE",
-  "main_precursors": ["GaCI", "AsH3"],
-  "temperature_range": "400 to 600°C",
-  "summary": "The study investigates the growth mechanism of GaAs using halogen transport atomic layer epitaxy (ALE) with in situ gravimetric and optical monitoring. The process involves alternating cycles of GaCI and AsH3 supply, with H2 purge steps. The self-limiting mechanism is attributed to the complete coverage of surface As sites by an adsorbed complex. The growth rate is monitored at the monolayer scale, and the surface chemical species are identified as Ga atoms.",
-  "evidence": "In this paper, we have reviewed our recent study of the growth mechanism of halogen transport GaAs ALE. The gravimetric and optical in situ methods were employed in the study. These methods provide real-time information under an atmospheric pressure. In particular, the gravimetric method is a powerful tool for the investigation of the ALE growth mechanism. The self-limiting mechanism of halogen transport ALE is ascribed to the complete coverage of surface As sites by the adsorbed complex."
-}<|im_end|>

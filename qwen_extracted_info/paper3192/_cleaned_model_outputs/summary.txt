@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Hf(NCH3)4", "O3"],
-  "temperature_range": "250°C",
-  "summary": "The study compares the physicochemical and electrical properties of HfO2 films grown using O3 generated with and without N2 assistance. The films grown without N2 assistance showed reduced metal impurities and higher physical density, leading to improved dielectric properties and reliability.",
-  "evidence": "Approximately 4–5 nm thick HfO2 films (30 cycles) were grown at 250°C in a traveling-wave-type 4 in. thermal ALD reactor on an RCA-cleaned (100)Si substrate using Hf(NCH3)4 and O3 as the metal precursor and oxidant, respectively."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Silicon nitride",
-  "process_type": "Thermal ALD and PEALD",
-  "main_precursors": ["SiCl4", "Si2Cl6", "NH3"],
-  "temperature_range": "400–550 °C",
-  "summary": "The study investigates the reactivity of different surface sites on b-Si3N4 with silicon chlorides during the first half-reaction of atomic layer deposition (ALD). It compares the reactivity of NH*/SiH*, NH*/SiNH2*, and under-coordinated bare pSi]N– sites. The results show that the under-coordinated bare pSi]N– surface is the most reactive, leading to lower energy barriers for reaction. The study also demonstrates that introducing N2 plasma steps before silicon chloride precursor exposure enhances the ALD process by reducing the saturation dose and increasing the growth rate.",
-  "evidence": "We studied the reactivity of different surface sites of b-Si3N4 with silicon chlorides during the first half reaction of an atomic layer deposition (ALD) process... On pSi]N–, the silicon and chlorine atoms of the precursors easily react with the unsaturated nitrogen and silicon atoms, respectively, resulting in very low energy barriers for the reaction... N2 plasma steps were added into every cycle prior to the introduction of silicon precursors... The saturation dose was reduced from 107 L to <106 L and the growth per cycle was increased from 0.59 ˚A per cycle to 1.1 ˚A per cycle."
-}<|im_end|>

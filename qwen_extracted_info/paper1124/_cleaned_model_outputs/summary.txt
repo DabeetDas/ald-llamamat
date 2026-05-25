@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2:Co",
-  "process_type": "ALD",
-  "main_precursors": ["Ti(OMe)4", "Co(acac)3", "H2O", "O3"],
-  "temperature_range": "300 °C",
-  "summary": "TiO2 thin films doped with cobalt oxide were synthesized using atomic layer deposition (ALD) with titanium tetramethoxide and cobalt(III)acetylacetonate as metal precursors, and either water or ozone as oxygen precursors. The films were annealed at 650 °C, resulting in a mixed phase composition of rutile, anatase, and cobalt titanium oxides. The annealed films exhibited magnetic response with hysteresis and coercive fields.",
-  "evidence": "TiO2 thin films doped or mixed with cobalt oxide were grown by atomic layer deposition using titanium tetramethoxide and cobalt(III)acetylacetonate as metal precursors. The films could be deposited using both O3 and H2O as oxygen precursors. The films grown using water exhibited considerably smoother surface than those grown with ozone. The TiO2:Co films with Co/(Co + Ti) cation ratio ranging from 0.01 to 0.30 were crystallized by annealing at 650 °C, possessing mixed phase composition comprising rutile and anatase and, additionally, CoTiO3 or CoTi2O5. The annealed films demonstrated magnetic response expressed by magnetization curves with certain hysteresis and coercive fields."
-}

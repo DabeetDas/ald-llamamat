@@ -1,8 +1,0 @@
-{
-  "target_material": "Lithium manganese oxide (Li xMn2O4)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Mn(thd)3", "Li(thd)", "ozone"],
-  "temperature_range": "225 °C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of lithium manganese oxide (Li xMn2O4) using Mn(thd)3, Li(thd), and ozone as precursors. The process involves a combination of binary processes for Li2O/LiOH and MnO2 or MnO. The films were polycrystalline with less than 0.5 at. % impurities. The chemical reactions between the lithium precursor and the film were found to include a bulk component, contrary to typical ALD processes. The formed Li xMn2O4 films showed high electrochemical capacities and cycling stability. The study also demonstrated a process for transforming ALD-MnO2 and ALD-V2O5 into LixMn2O4 and LixV2O5, respectively, using Li(thd)/ozone and LiO tBu/water treatments.",
-  "evidence": "The text states: 'The chemical reactions between the lithium precursor and the film were found not to be purely surface-limited but to include a bulk component as well, contrary to what is usually found for ALD processes.' Additionally, it mentions: 'The formed Li xMn2O4 films were characterized electrochemically and found to show high electrochemical capacities and high cycling stabilities.'"
-}<|im_end|>

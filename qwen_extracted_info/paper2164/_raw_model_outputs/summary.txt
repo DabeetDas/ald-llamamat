@@ -1,8 +1,0 @@
-{
-  "target_material": "CoSi2",
-  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
-  "main_precursors": ["CoCp2", "NH3 plasma"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the use of plasma-enhanced atomic layer deposition (PE-ALD) to deposit Co films on Si substrates, leading to the formation of epitaxial CoSi2 through nitride-mediated epitaxy. The process involves the use of CoCp2 as a precursor and NH3 plasma as a reactant, resulting in the formation of an amorphous SiNx interlayer that facilitates the epitaxial growth of CoSi2 upon thermal annealing.",
-  "evidence": "The silicide formation by annealing plasma-enhanced atomic layer deposition (PE-ALD) Co and physical vapor deposition (PVD) Co was comparatively studied. Very pure Co films were deposited by PE-ALD with CoCp2 and NH3 plasma. However, various analyses have shown that amorphous SiNx interlayer was formed between PE-ALD Co and Si due to the NH3 plasma exposure in contrast with PVD Co. Due to the nitride interlayer, CoSi2 was epitaxially grown from PE-ALD Co by rapid thermal annealing through nitride mediated epitaxy."
-}<|im_end|>

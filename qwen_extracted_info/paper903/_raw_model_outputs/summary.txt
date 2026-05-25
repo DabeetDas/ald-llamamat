@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["Trimethylaluminum (TMA)", "Ultra pure water vapor"],
-  "temperature_range": "170 /C176C",
-  "summary": "The study compares liquid and gas phase surface preparation of III–V compound semiconductors (InAs and InSb) for atomic layer deposition (ALD) of Al2O3. Gas phase HF etching was found to be more effective in removing native oxides and producing a fluorine-terminated surface, which enabled the deposition of Al2O3 with a chemically sharp interface. The results highlight the importance of surface termination in achieving high-quality interfaces for high-k dielectrics.",
-  "evidence": "Deposition of Al2O3 by atomic layer deposition (ALD) at 170 /C176C directly onto F-terminated InSb produced a chemically sharp Al2O3/InSb interface. ALD of Al2O3 on an In-rich overlayer on InAs resulted in an interfacial layer containing As-oxide."
-}<|im_end|>

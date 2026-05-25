@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylgallium (TMG)"],
-  "coreactants": ["arsine"],
-  "purge_gas": ["hydrogen"],
-  "carrier_gas": ["hydrogen"],
-  "evidence": "The GaAs layers were grown in an ALE mode using cycles consisting of sequential exposure pulses of TMG and arsine, separated by halt and purge steps as indicated in Table 1. The experiments were performed in an atmospheric pressure, horizontal, OMCVD reactor, equipped with a fast switching manifold using hydrogen carrier gas at an average velocity of 30 cm/s."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "remote plasma enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["tetrakis-dimethyl-amino-titanium (TDMAT)"],
-  "temperature_range": "150 to 350 °C",
-  "summary": "TiN thin films were deposited using remote plasma enhanced atomic layer deposition (PEALD) with tetrakis-dimethyl-amino-titanium (TDMAT) precursor and hydrogen, hydrogen/nitrogen mixture, and nitrogen plasmas. The process showed a wide temperature window and lower impurity content compared to other methods. TiN films deposited using N2 plasma exhibited lower resistivity and better conformal step coverage.",
-  "evidence": "TiN films deposited using N2 plasma showed the resistivity value as low as about 300 mV cm and exhibited excellent conformal step coverage on 0.25- mm-wide and 2.5- mm-deep contact hole structure."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["Trimethyl aluminum (TMAl)", "Trimethyl gallium (TMGa)"],
-  "coreactants": ["Water (H2O)", "Ozone (O3)"],
-  "purge_gas": ["Nitrogen (N2)"],
-  "carrier_gas": ["Nitrogen (N2)"],
-  "evidence": "Trimethyl aluminum (TMAl) and trimethyl gallium (TMGa) precursors were used as Al and Ga sources, respectively. Both water (H2O) and ozone (O3) were used as oxidants and nitrogen (N2) was used as purge gas."
-}

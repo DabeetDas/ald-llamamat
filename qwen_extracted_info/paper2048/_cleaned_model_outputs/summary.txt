@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Hf[N(CH3)2]4", "H2O"],
-  "temperature_range": "300 °C",
-  "summary": "HfO2 thin films were deposited using atomic layer deposition (ALD) with a nitrogen-containing Hf[N(CH3)2]4 precursor and H2O oxidant on HF-dipped Si wafers at 300 °C. A thin interfacial SiNx layer was formed during film growth, which prevented Si diffusion into the HfO2 film, improving thermal stability and reducing leakage current density. The study highlights the benefits of using a nitrogen-containing precursor for high-k HfO2 films.",
-  "evidence": "HfO2 thin films were deposited on HF-dipped Si wafers at 300 °C using an atomic-layer-deposition technique with N-containing Hf[N(CH3)2]4 and H2O as the precursor and oxidant, respectively. A thin interfacial SiN x layer was spontaneously formed at the HfO2/Si interface during film growth. This interfacial SiN x layer prevented substrate Si diffusion into the HfO2 film. The lower CET and leakage current density showed a high-k property from the ALD HfO2 layer without adopting any intentional barrier layers."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu xS",
-  "process_type": "ALD and CVD",
-  "main_precursors": ["Cu(thd)2", "H2S"],
-  "temperature_range": "125-280 °C for ALD, 125-505 °C for CVD",
-  "summary": "The study compares the deposition of Cu xS films using atomic layer deposition (ALD) and chemical vapor deposition (CVD) with copper bis-tetramethylheptanedionate (Cu(thd)2) and hydrogen sulfide (H2S) as precursors. The phase transition from CuS to Cu1.8S occurs at 175 °C in ALD, while in CVD, the transition is gradual and occurs at higher temperatures. The decomposition of Cu(thd)2 governs the deposition mechanism in both processes, with ALD showing self-limiting behavior up to 280 °C and CVD transitioning to a thermodynamic regime above 250 °C.",
-  "evidence": "Thin films of CuxS are deposited by both chemical vapor deposition (CVD) and atomic layer deposition (ALD) using copper bis-tetramethylheptanedionate, Cu(thd)2, and H2S as the precursors. The main factor is the decomposition of Cu(thd)2 at 175 °C, which leads to a phase transition from CuS to Cu1.8S in ALD and deposition of mixed phases in CVD. At temperatures higher than 250 °C, decomposition of Cu(thd)2 occurs in the gas phase, leading to a transition from a reaction-limited regime to a thermodynamic regime in CVD and to loss of uniformity and homogeneity in ALD."
-}<|im_end|>

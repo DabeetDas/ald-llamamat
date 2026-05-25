@@ -1,7 +1,0 @@
-{
-  "precursors": ["Cu(5Bu-Meamd)2"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The ALD process for copper deposition features complementarity and self-limitation related to the surface reactions. For a stable supply, the temperature of the canisters for the Cu precursor and H2O was maintained constant at 130 and 30 °C, respectively. In a single thermal ALD Cu2O cycle, the optimized process consists of a Cu-precursor pulse for 30 ms with a 100 sccm N2 flow, a purge pulse of 11 s with 100 sccm of N2 flow, a water pulse for 60 ms with 100 sccm N2 flow, and a purge pulse of 11 s with 100 sccm of N2 flow."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between DSBAS and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "Knoops et al. 42 identified parameters governing the quality of SiN x films deposited using BTBAS and N 2 plasma while Bosch et al.43 investigated the surface chemistry of that process with in-situ infrared spectroscopy. They demonstrated that t -butylamine (NHtBu) ligands remained on the surface after BTBAS adsorption and that these ligands get dissociated into fragments (C, H and N specie s) during the subsequent N2 plasma step."
-}

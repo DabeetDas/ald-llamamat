@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Remote Plasma ALD (RPALD)",
-  "main_precursors": ["tetrakis-diethylaminohafnium (TDEAH)"],
-  "temperature_range": "250°C",
-  "summary": "The study investigates the effects of remote plasma pre-oxidation (RPO) on the characteristics of ALD-deposited HfO2 gate dielectrics. HfO2 films were deposited on both H-terminated and RPO-treated Si substrates using RPALD. The RPO treatment effectively suppressed the formation of initial Hf silicate layers and improved electrical properties such as hysteresis, effective fixed oxide charge density, and equivalent oxide thickness (EOT).",
-  "evidence": "HfO2 films were deposited on Si (100) p-type substrates with a resistivity of 6-9 Ω·cm. HfO2 thin films were grown at 250°C with tetrakis-diethylaminohafnium (TDEAH) precursor. The RPO treatment on a Si substrate prior to the RPALD process effectively suppressed the diffusion of oxygen into Si substrate and silicon into the film during film deposition. The RPO-treated HfO2 films had smaller effective fixed oxide charges than films without RPO. The RPO treatment improved the electrical properties such as hysteresis, effective fixed oxide charge density, and equivalent oxide thickness (EOT)."
-}<|im_end|>

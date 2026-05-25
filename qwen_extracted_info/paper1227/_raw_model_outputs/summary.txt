@@ -1,8 +1,0 @@
-{
-  "target_material": "LaCuO3Ex and La2CuO4",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["La(thd)3", "Cu(acac)2", "O3"],
-  "temperature_range": "210–250 °C",
-  "summary": "The study demonstrates the atomic layer deposition (ALD) of layered lanthanum cuprates, specifically LaCuO3Ex and La2CuO4, using Cu(acac)2 as the copper precursor. The process allows for precise stoichiometric control and phase control through careful selection of substrates and post-deposition annealing. The films exhibit epitaxial growth on LaAlO3 substrates, with the copper layers aligned parallel to the film surface. The oxygen stoichiometry can be tuned by post-deposition treatment, enabling the formation of different phases such as tetragonal, monoclinic, and orthorhombic structures.",
-  "evidence": "In this article, we show that thin films of LaCuO3Ex and La2CuO4 are indeed possible to achieve by ALD, using Cu(acac)2 as the copper precursor. The temperature profile for deposition is discussed in detail to show how sensitive these systems are in terms of thermal decomposition. We show that the stoichiometry in the whole La2O3 – CuO binary oxide range can be controlled, and that phase control in epitaxial films of the interesting ternary compounds LaCuO3–x and La2CuO4 can be obtained by carefully choosing a substrate with high lattice match."
-}<|im_end|>

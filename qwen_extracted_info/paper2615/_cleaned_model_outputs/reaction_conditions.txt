@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "The reaction equations and surface mechanism description are not explicitly provided in the text. However, the text mentions the use of Zn(TMHD)2 and Cu(TMHD)2 as precursors, which are ligand complexes. The surface reaction mechanism is inferred from the context of ALD processes, where ligand exchange and surface hydroxyl groups are common. The intermediate species are identified based on the typical chemistry of ALD processes involving metal precursors and surface reactions."
-}

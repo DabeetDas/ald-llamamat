@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the self-limiting chemisorption of diethylzinc (DEZ) and 1,5-pentanedithiol (PDT) as precursors. The ZnS layer is initially amorphous with a significant S excess. After annealing, the stoichiometry improves, and the layer crystallizes into small crystallites with cubic sphalerite structure. The reaction mechanism is associated with the formation of ZnS nanocrystals through the annealing process.",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "In their work, ZnS films were successfully grown on substrates with an atomic precision by repeating self-limiting chemisorption of DEZ and PDT as precursors of Zn and S, respectively. The obtained ZnS layers were, however, amorphous. Since most ZnS applications require crystalline or polycrystalline forms of ZnS (better for optical or opto-electrical performance), here, we studied the structural and optical evolution of the ZnS thin films prepared from DEZ and PDT after various annealing treatments."
-}

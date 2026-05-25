@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2 and TiO2",
-  "process_type": "ALD",
-  "main_precursors": ["CpMeZrCHT", "CpTiCHT", "ozone"],
-  "temperature_range": "300 −450 °C",
-  "summary": "The study describes the development of novel precursors for ALD of ZrO2 and TiO2, using cycloheptatrienyl (CHT) and cyclopentadienyl (Cp) ligands. The processes showed high growth rates and low impurity levels, with thermal stability and good crystallinity. The introduction of these precursors offers potential for improving ALD processes for group 4 oxide thin films.",
-  "evidence": "The CpMeZrCHT/O3 ALD process yielded high growth rate (0.7 −0.8 Å/cycle) over a wide growth temperature range (300 −450 °C) and diminutive impurity levels in the deposited polycrystalline films. In the case of Ti, the novel precursor, namely CpTiCHT, together with ozone as the oxygen source yielded films with low impurity levels and a strong tendency to form the desired rutile phase upon annealing at rather low temperatures."
-}

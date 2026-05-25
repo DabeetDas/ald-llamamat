@@ -1,8 +1,0 @@
-{
-  "target_material": "AlAs",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "ASH3"],
-  "temperature_range": "460 to 480 °C",
-  "summary": "The study describes the use of thermal ALD to deposit AlAs by decomposing trimethylaluminum (TMA) and ASH3 on a substrate. The process involves a thermal-cracking tube to decompose TMA, and the growth rate saturates at 1 monolayer/cycle between 460 and 480 °C. The decomposition of TMA in the cracking tube reduces the required substrate temperature for chemisorption.",
-  "evidence": "ALE growth of AlAs is accomplished in a substrate temperature range from 460 to 480 °C using an alternate gas supply of ASH3 and thermally decomposed alkylaluminum generated from trimethylaluminum (TMA). The growth rate saturates at 1 monolayer/cycle between 460 and 480 °C. The decomposition of TMA in the cracking tube reduces the required substrate temperature for chemisorption."
-}

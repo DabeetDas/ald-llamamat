@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth mechanism of ALD Cu on oxide surfaces involves copper atoms and chemisorbed precursors rapidly diffusing and self-agglomerating to form large copper nuclei, opening up access to additional reactive sites (most likely –OH groups) at which more copper precursors react. On metallic surfaces, copper atoms have strong adhesion to the underneath metallic atoms, so they do not diffuse to form large nuclei. This slows growth on metals, because the chemisorbed precursors block access to neighboring sites and inhibit further reaction.",
-  "intermediate_species": ["copper metal", "dark powder", "liquid by-product (hydrogenated ligand, N,N-di-sec-butylacetamidine)"],
-  "evidence": "The surface reactions are described as follows: 'The growth mechanism of ALD Cu on oxide surfaces involves copper atoms and chemisorbed precursors rapidly diffusing and self-agglomerating to form large copper nuclei, opening up access to additional reactive sites (most likely –OH groups) at which more copper precursors react. On metallic surfaces, copper atoms have strong adhesion to the underneath metallic atoms, so they do not diffuse to form large nuclei. This slows growth on metals, because the chemisorbed precursors block access to neighboring sites and inhibit further reaction.'"
-}

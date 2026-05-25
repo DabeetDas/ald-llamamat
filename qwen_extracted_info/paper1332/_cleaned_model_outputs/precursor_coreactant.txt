@@ -1,7 +1,0 @@
-{
-  "precursors": ["Zn(C2H5)2", "Sn(N(CH3)2)4"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The ZnO ALD cycle sequence is DEZ/N2 purge/H2O/N2 purge with pulse times of 0.25/5/0.5/5 s respectively. SnOx ALD is performed in a commercial Microchemistry F120 system using a growth temperature of 95, 120, or 150 °C, TDMASn as the metal precursor, and H2O as the counter reactant. A cycle sequence of TDMASn/N2 purge/H2O/N2 purge with pulse times of 0.4/2/0.4/2 s respectively is used for the SnOx ALD."
-}

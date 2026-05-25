@@ -1,7 +1,0 @@
-{
-  "precursors": ["diethylcyclopentadienyl ruthenium"],
-  "coreactants": ["NH3 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "An rf plasma of NH3 (99.999%) diluted by Ar was used as a reducing agent. The flow rates of NH3 during pulsing and Ar during purging were both 150 sccm. Ar (99.999%) gas was used as both a carrier gas and purging gas."
-}

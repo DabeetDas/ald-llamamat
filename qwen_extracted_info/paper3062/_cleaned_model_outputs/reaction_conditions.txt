@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth rate of Al2O3 on TiO2 films is much lower than on Al2O3 films due to the low adsorption rate of Al precursors on TiO2 surfaces compared to Al2O3 surfaces.",
-  "intermediate_species": ["Al2O3 molecules", "TiO2 molecules"],
-  "evidence": "It was found that the film growth rate does not change as the dose of the precursor increases. Therefore, the lower growth rate may be due to the low adsorption rate of Al2O3 molecules on the surface of TiO2 films compared to that of the Al2O3 films."
-}

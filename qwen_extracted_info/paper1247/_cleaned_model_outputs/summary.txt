@@ -1,8 +1,0 @@
-{
-  "target_material": "Nickel Germanide (Ni2Ge)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["NiCl2(tmpda)", "tributylgermanium hydride (TBGH)"],
-  "temperature_range": "160–200 °C",
-  "summary": "This study presents a direct ALD process for depositing nickel germanide (Ni2Ge) thin films at low temperatures. The films were grown using NiCl2(tmpda) and tributylgermanium hydride (TBGH) as precursors. The process was examined at low temperatures of 160–200 °C, with a high growth rate of 0.91 Å/cycle observed at 180 °C. The films exhibited high purity, low resistivity, and good crystallinity, making them suitable for contact applications in Ge-based transistors.",
-  "evidence": "This work presents preparation of nickel germanide (Ni2Ge) thin films by atomic layer deposition (ALD). The films were grown using NiCl2(tmpda) and tributylgermanium hydride (TBGH) serving as a new, efficient reducing agent. The Ni2Ge process was examined at low temperatures of 160–200 °C. Self-limiting, saturative growth with a high growth rate of 0.91 Å/cycle was observed at 180 °C. The films were pure, with the sum of contaminants being less than 1 at.%. Owing to their high purity, the films exhibited low resistivity, suggesting suitability for contact applications."
-}

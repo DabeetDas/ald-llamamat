@@ -1,7 +1,0 @@
-{
-  "precursors": ["Mo(CO)6"],
-  "coreactants": ["H2S"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ALD reactor body temperature was held at 150 °C and constantly purged with 10 SCCM of dry N2 (Praxair, 99.998%) to create a relatively homogeneous thermal environment and avoid precursor condensation."
-}

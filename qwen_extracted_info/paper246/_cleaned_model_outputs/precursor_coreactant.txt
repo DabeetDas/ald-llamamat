@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA (Al(CH3)3)"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The Beneq TFS200 ALD equipment has been used for thin film deposition. An ALD cycle, consists of alternating TMA (Al(CH3)3, Strem Chemicals) (250 ms pulse, 2 s purge) and H2O (250 ms pulse, 2 s purge) under N2 (200/200 sccm flow rate)."
-}

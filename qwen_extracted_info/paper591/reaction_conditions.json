@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "",
-  "intermediate_species": [],
-  "evidence": null,
-  "_error": "ValueError: Could not parse model output as JSON. Preview: '115 /C114/C101/C99/C121/C99/C108/C101 /C100/C101/C108/C97/C121 /C46 /C65 /C98/C97/C99/C107/C103/C114/C111/C117/C110/C100 /C115/C105/C103/C110/C97/C108 /C114/C117/C110 /C117/C110/C100/C101/C114 /C105/C100/C101/C110/C116/C105/C99/C97/C108 /C99/C111/C110/C100/C105/C116/C105/C111/C110/C115 /C119/C105/C1'",
-  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 328, in reaction_conditions_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '115 /C114/C101/C99/C121/C99/C108/C101 /C100/C101/C108/C97/C121 /C46 /C65 /C98/C97/C99/C107/C103/C114/C111/C117/C110/C100 /C115/C105/C103/C110/C97/C108 /C114/C117/C110 /C117/C110/C100/C101/C114 /C105/C100/C101/C110/C116/C105/C99/C97/C108 /C99/C111/C110/C100/C105/C116/C105/C111/C110/C115 /C119/C105/C1'\n"
-}

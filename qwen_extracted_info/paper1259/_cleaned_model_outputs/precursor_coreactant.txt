@@ -1,7 +1,0 @@
-{
-  "precursors": ["CoCp2"],
-  "coreactants": ["NH3 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "During the precursor dosing step of the ALD recipe, this precursor was dosed into the reactor using Ar as a carrier gas, yielding a pressure of 4.0 × 10−2 mbar inside the chamber; dosing lasted for 6 s. Subsequently, the CoCp2 dosing line and reactor were purged with Ar for 3 s and then the reactor was pumped down for 6 s."
-}

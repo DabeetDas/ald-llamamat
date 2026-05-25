@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD involve the adsorption of HfI and HfCl precursors followed by water pulses to regenerate OH sites. The films grown from HfI and HfCl contain residual halide and hydrogen, and annealing does not significantly alter the composition. The growth rate is more stable in the HfI-based process.",
-  "intermediate_species": ["HfI", "HfCl", "surface hydroxyls", "halide residues", "hydrogen"],
-  "evidence": "The text discusses the use of HfI and HfCl as precursors for ALD, with water as an oxygen source. It mentions the presence of halide residues and hydrogen in the films, and the stability of the growth rate in the HfI-based process. The surface reactions are inferred from the discussion of precursor adsorption and regeneration of OH sites."
-}

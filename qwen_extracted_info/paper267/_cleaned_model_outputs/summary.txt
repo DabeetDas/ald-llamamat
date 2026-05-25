@@ -1,8 +1,0 @@
-{
-  "target_material": "Ceria-based electrolytes (CGO)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Ce(thd)3", "Gd(thd)3", "ozone"],
-  "temperature_range": "250 °C",
-  "summary": "The paper investigates the use of Atomic Layer Deposition (ALD) for depositing ceria-based electrolytes (CGO) for intermediate-temperature solid oxide fuel cells (IT-SOFC). The study compares ALD with RF magnetron sputtering, highlighting ALD's ability to produce high-quality, dense, and uniform thin films. The ALD process uses Ce(thd)3 and Gd(thd)3 as precursors along with ozone, and the films are deposited at 250 °C. The results show that ALD can produce thin films with good electrical properties, making it a viable technique for IT-SOFC applications.",
-  "evidence": "ALD has been investigated for the synthesis of CGO ultrathin layers. Film deposition was studied in a commercial flow type F-120 ALD reactor (ASM Micro-chemistry, Finland) using nitrogen as a carrier and purging gas. Several substrates were used including LSM doped with 20% of strontium, Ni-YSZ, being the most often used anode material, as well as silicon Si(100). All ALD depositions were performed using ~-diketonate-type precursors, viz. Ce(thd)3 and Gd(thd)3, synthesized by previously reported methods. Ozone generated from oxygen gas (99.999%) in an ozone generator (Fischer model 502) was used as oxygen source. The film deposition took place at reduced pressure of 2-3 mbar and the reaction chamber temperature was held at 250 °C."
-}

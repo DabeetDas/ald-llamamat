@@ -1,8 +1,0 @@
-{
-  "target_material": "SnOx",
-  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["Tetrakis(dimethylamino)tin (TDMASn)", "O2"],
-  "temperature_range": "250 °C",
-  "summary": "The study describes the use of plasma-enhanced atomic layer deposition (PEALD) to deposit SnOx thin films at a low temperature of 250 °C. Ar plasma treatment was applied to improve crystallinity and reduce precursor residues, resulting in high transparency and conductivity. The films showed excellent performance as infrared transparent conductive materials with low resistivity and good electromagnetic shielding properties.",
-  "evidence": "The performance of atomic layer deposition films is mainly limited by precursor residues, low crystallinity and densities due to low deposition temperatures. Here, we used atomic layer deposition to deposit tin oxide thin films at a relatively low temperature of 250 °C. At this temperature, the change in the valence of Sn due to precursor residue is eliminated by layer-by-layer Ar plasma treatment, and the crystallinity of the films is improved. The film resistivity can be as low as 1.117 × 10−3 Ω·cm. The film has a relatively low level of residual stress due to the fact that there is no need to improve the crystallinity of the film by conventional high temperature annealing. On the basis of the high transparency and high conductivity of the SnOx films with layer by layer Ar plasma treatment in situ, the films can be applied as electromagnetic shielding windows for photodetectors."
-}<|im_end|>

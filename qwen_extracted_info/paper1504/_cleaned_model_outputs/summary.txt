@@ -1,8 +1,0 @@
-{
-  "target_material": "GST (GeTe2)(1−x)(Sb2Te3)x",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Ge(OCH3)4", "Ge(OC2H5)4", "Sb(OC2H5)3", "[(CH3)3Si]2Te"],
-  "temperature_range": "50 to 120 °C",
-  "summary": "The study investigates the Atomic Layer Deposition (ALD) of (GeTe2)(1−x)(Sb2Te3)x layers using Ge(OCH3)4, Ge(OC2H5)4, Sb(OC2H5)3, and [(CH3)3Si]2Te as precursors. The ALD process was analyzed to understand the incorporation behavior of Ge, Sb, and Te precursors, focusing on the kinetic adsorption and desorption processes. The study highlights the differences in growth behavior between Ge(OCH3)4 and Ge(OC2H5)4 precursors, emphasizing the role of vapor pressure and surface interactions in the physisorption and chemisorption processes.",
-  "evidence": "The text states that (GeTe2)(1−x)(Sb2Te3)x layers were deposited via ALD at growth temperatures ranging from 50 to 120 °C using Ge(OCH3)4 or Ge(OC2H5)4, Sb(OC2H5)3, and [(CH3)3Si]2Te as precursors. The study also discusses the kinetic adsorption process and the influence of precursor vapor pressure on the physisorption and chemisorption behavior of Ge precursors."
-}

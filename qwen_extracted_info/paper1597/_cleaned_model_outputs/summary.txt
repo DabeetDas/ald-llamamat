@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "ALD",
-  "main_precursors": ["TiCl4", "deionized H2O"],
-  "temperature_range": "room temperature",
-  "summary": "The study describes the use of free-standing porous anodic alumina (PAA) templates for the atomic layer deposition (ALD) of highly ordered TiO2 nanotube arrays on various substrates such as glass, Si, and flexible polyimide films. The process involves attaching the PAA template to the substrate with a protective PMMA layer, followed by UV-ozone treatment to remove the PMMA layer. TiO2 nanotube arrays with precise wall thickness control are formed via ALD, and the nanotubes are released by etching the PAA template. The method ensures intimate contact between the nanotubes and the substrate, avoiding chemical contamination and surface morphology changes.",
-  "evidence": "Free-standing porous anodic alumina (PAA) templates are used for fabrication of dense, uniform, highly ordered, and well-aligned arrays of TiO2 nanotubes on various substrates, including glass, Si, and flexible polyimide films, via atomic layer deposition (ALD). The TiO2 nanotube arrays with varying wall thickness show size-dependent optical adsorption behaviors. Anatase TiO2 nanotubes are formed by annealing in air above 300 °C. Our method can easily create highly ordered TiO2 nanotube arrays on a wide range of substrates without causing chemical contamination and changing surface morphology on the substrates."
-}

@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth of TiO2-II thin films via ALD involves the use of TiCl4 and H2O as precursors. The process alternates between directing these precursors onto the substrate, where they react with the solid surface. The formation of TiO2-II depends on the precursor doses and purging times, with an increase in the surface coverage of Ti-containing intermediate species before the water vapour pulse promoting the formation of TiO2-II, while high H2O doses led to the appearance of rutile in the films.",
-  "intermediate_species": [
-    "Ti-containing intermediate species"
-  ],
-  "evidence": "An increase in the surface coverage of Ti-containing intermediate species before the water vapour pulse promoted the formation of TiO2-II while high H2O doses led to the appearance of rutile in the films."
-}

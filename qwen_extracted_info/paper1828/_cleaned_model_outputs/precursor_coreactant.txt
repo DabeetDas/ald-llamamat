@@ -1,7 +1,0 @@
-{
-  "precursors": ["La(thd)3", "Cu(acac)2", "Sr(thd)2"],
-  "coreactants": ["ozone"],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": ["nitrogen"],
-  "evidence": "Such films are deposited using La(thd)3, Cu(acac)2 and ozone as precursors, in an ASM Microchemistry F-120 Sat ALD reactor at 2.6 mbar flowing 99.999 % nitrogen atmosphere (thd = 2,2,6,6-tetramethyl-3,5-heptanedionate, acac = acetylacetonate). Pulses of cation precursors are separated by an inert gas purging step facilitating the layer-by-layer self-limiting growth that is characteristic of the ALD technique."
-}

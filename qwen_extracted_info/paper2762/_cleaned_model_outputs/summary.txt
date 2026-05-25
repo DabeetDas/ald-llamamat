@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Mo(CO)6", "H2S"],
-  "temperature_range": "190 °C",
-  "summary": "The study introduces a modified thermal ALD process using Mo(CO)6 and H2S precursors to deposit MoS2 films at 190 °C, achieving a S-to-Mo ratio of 2:1 and crystalline films. The process involves optimizing temperature and time to enhance desorption of carbonyl ligands, leading to improved stoichiometry and crystallinity.",
-  "evidence": "In this study, we introduce a modified ALD recipe using Mo(CO)6 and H2S, resulting in controllable linear growth behavior, a S-to-Mo ratio of 2:1, and crystalline films at a temperature as low as 190 °C."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Pt",
-  "process_type": "ALD",
-  "main_precursors": ["MeCpPtMe3", "air"],
-  "temperature_range": "280–300°C",
-  "summary": "The study describes the use of a water-soluble polymer, PMAM, as a resist for area selective atomic layer deposition (AS-ALD) of Pt. PMAM was spin-coated and patterned using microcontact printing (μCP), allowing for selective Pt deposition on PMAM-free regions. The PMAM layer was easily removed by water, reactivating the substrate for further ALD processes. The results show that PMAM effectively blocks Pt deposition and provides high spatial resolution and selectivity.",
-  "evidence": "The use of PMAM as an ALD resist offers good selectivity and high spatial resolution and provides a new, convenient route toward achieving spatially patterned film growth. PMAM was first deposited on oxide-coated silicon substrates using spin coating. The PMAM layer effectively blocked the Pt deposition. After the formation of PMAM films, the thicknesses of the resulting PMAM films were measured by a Gaertner Scientiﬁc Corp. L116C He–Ne ellipsometer. The PMAM layer was simply removed just by dipping in water. After the removal process, the PMAM-coated surface exhibited the same properties as the original SiO2 surface. The use of PMAM as an AS-ALD resist provides a new, convenient route toward achieving spatially patterned film growth."
-}<|im_end|>

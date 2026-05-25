@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["ZrCl4", "O3"],
-  "temperature_range": "220–500 °C",
-  "summary": "ZrO2 thin films were grown by atomic layer deposition using ZrCl4 and O3 as precursors. The films were grown on silicon substrates in the temperature range of 220–500 °C. The ALD rate decreased from 0.085 to 0.060 nm/cycle with increasing temperature. The films contained low levels of chlorine and hydrogen, and exhibited mixed phase compositions of monoclinic and metastable tetragonal/cubic polymorphs. The dielectric properties of the films were characterized, showing permittivity values between 12 and 25 at 100 kHz and breakdown fields ranging from 1.5 to 3.0 MV/cm.",
-  "evidence": "ZrO2 ﬁlms were grown by atomic layer deposition using ZrCl4 and O3 as precursors. The ﬁlms were grown on silicon substrates in the temperature range of 220–500 °C. The ALD rate was monotonously decreasing from 0.085 to 0.060 nm/cycle in this temperature range towards the highest temperatures studied. The content of chlorine in the ﬁlms did not exceed 0.2 at.% as measured by elastic recoil detection analysis. The content of hydrogen was 0.30 and 0.14 at.% in the ﬁlms grown at 300 and 400 °C, respectively. Structural studies revealed the ﬁlms consisting of mixtures of stable monoclinic and metastable tetragonal/cubic polymorphs of ZrO2, and dominantly metastable phases of ZrO2 below and above 300 °C, respectively. Permittivity of dielectric layers in Al/Ti/ZrO2/(TiN/)Si capacitors with 15–40 nm thick ZrO2 ranged between 12 and 25 at 100 kHz and the dielectric breakdown ﬁelds were in the range of 1.5 –3.0 MV/cm."
-}

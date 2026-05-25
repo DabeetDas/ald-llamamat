@@ -1,8 +1,0 @@
-{
-  "target_material": "CdTe",
-  "process_type": "Ultrahigh vacuum atomic layer epitaxy (UHV-ALE)",
-  "main_precursors": ["Cd", "Te"],
-  "temperature_range": "255-285 °C",
-  "summary": "The study describes the growth of CdTe using ultrahigh vacuum atomic layer epitaxy (UHV-ALE) on substrates such as GaAs and BaF2. The process involves alternating pulses of Cd and Te precursors, with a self-regulatory regime where monolayer-by-monolayer growth occurs. The growth rate is influenced by substrate temperature, and a thermodynamic model was developed to predict the stability range of the monolayer growth regime. The results show that the growth rate is self-regulating within a specific temperature range, and the process was validated using RHEED intensity measurements and Monte Carlo simulations.",
-  "evidence": "The experiments were carried out in two molecular beam epitaxy (MBE) machines, one containing only a Cd and a Te source... The occurrence of monolayer growth is limited to a relatively narrow substrate temperature range between 255 and 285 °C. The model leads essentially to the following conclusions... The results of the fit are shown as solid lines in Fig. 2. With the parameters used for this fit, the growth rate under different growth conditions can be calculated."
-}

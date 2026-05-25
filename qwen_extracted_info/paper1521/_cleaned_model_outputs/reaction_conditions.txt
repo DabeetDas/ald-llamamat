@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Thermal ALD noble metal processes employ molecular oxygen as a reactive agent, which is dissociatively chemisorbed on the noble metal surface as atomic oxygen. During the noble metal precursor pulse, a reaction takes place between the ligands of the metal precursor and the adsorbed oxygen atoms producing a metallic film. However, if the deposition temperature can be lowered to the point where the oxygen atoms deposited in the film will not react with the metal precursor and a more oxidizing precursor is used, an oxide may form.",
-  "intermediate_species": ["adsorbed oxygen atoms", "ligands of the metal precursor"],
-  "evidence": "Thermal ALD noble metal processes employ molecular oxygen as a reactive agent. In these processes molecular oxygen is dissociatively chemisorbed on the noble metal surface as atomic oxygen, partially diffusing into the subsurface region. During the noble metal precursor pulse, a reaction takes place between the ligands of the metal precursor and the adsorbed oxygen atoms producing a metallic film. However, if the deposition temperature can be lowered to the point where the oxygen atoms deposited in the film will not react with the metal precursor and a more oxidizing precursor is used, an oxide may form."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Molecular Layer Epitaxy (MLE)",
-  "main_precursors": ["AsH3", "TEG", "Be(MeCp)2", "DETe", "DES"],
-  "temperature_range": "290 – 360 °C",
-  "summary": "The study describes the use of molecular layer epitaxy (MLE) to grow impurity-doped GaAs layers, specifically focusing on Be and alternate Te and S doping. The process involves controlling surface stoichiometry through precursor supply sequences and time, leading to enhanced impurity incorporation and improved crystal quality. The application of these doped layers is for fabricating ultrashallow sidewall tunnel junctions with high peak current densities.",
-  "evidence": "Impurity-doped p+ and n+-GaAs epitaxial thin layers were grown on (001) GaAs substrates by molecular layer epitaxy (MLE) using an intermittent supply of AsH3 and TEG. The surface stoichiometry before the introduction of the impurity precursor was controlled by changing the gas supply sequences and supply time. Be doping and alternate Te and S doping were applied for the fabrication of ultrashallow GaAs tunnel junctions. These tunnel junctions have shown record peak current densities of up to 31,000 A/cm² at RT."
-}<|im_end|>

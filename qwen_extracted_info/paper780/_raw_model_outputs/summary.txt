@@ -1,8 +1,0 @@
-{
-  "target_material": "ultrananocrystalline diamond (UNCD)",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["tungsten hexafluoride (WF6)", "disilane (Si2H6)"],
-  "temperature_range": "800 /C176 C",
-  "summary": "The study investigates the use of a tungsten (W) interlayer deposited via atomic layer deposition (ALD) to enhance the nucleation and smoothness of ultrananocrystalline diamond (UNCD) films. The W interlayer significantly improves the initial nucleation density, reduces surface roughness, and enables the growth of thinner, continuous UNCD films. The ALD process allows for precise control over the W thickness, making it suitable for coating complex surfaces.",
-  "evidence": "UNCD films were deposited on bare and W-coated Si wafers at 800 /C176 C at a power of 1200 W using a commercial microwave plasma system. W films were deposited using atomic layer deposition (ALD). ALD offers the advantage of coating complex, non-planar surfaces with monolayer control over the W thickness."
-}<|im_end|>

@@ -1,7 +1,0 @@
-{
-  "precursors": ["bis(2,2,6,6-tetramethylheptanedionato)-calcium", "H2S"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "In the ALD process of CaS:Pb, bis(2,2,6,6-tetramethylheptanedionato)-calcium [@Ca(thd)2#] and H2S were used as the precursors of Ca and S, respectively. One cycle of PbS deposition is composed of the pulses of TEL, N2, H2S, and N2 purge."
-}

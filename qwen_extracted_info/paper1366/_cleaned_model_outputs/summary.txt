@@ -1,8 +1,0 @@
-{
-  "target_material": "Graphene",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Dimethyl(N,N-dimethyl-3-butene-1-amine-N)platinum(II) (DDAP)", "O2"],
-  "temperature_range": "165 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to dope graphene with platinum (Pt) to enhance its electrical conductivity for transparent conducting electrode (TCE) applications. The process utilizes a novel Pt precursor, DDAP, allowing for low-temperature ALD at 165 °C. The selective deposition of Pt on graphene defects significantly reduces the sheet resistance (Rs) from 471 Ωsq-1 to 86.8 Ωsq-1 after 200 cycles while maintaining high optical transmittance (T) above 90%.",
-  "evidence": "The introduction of a novel Pt precursor [Dimethyl(N,N-dimethyl-3-butene-1-amine-N)platinum(II); C8H19NPt; DDAP] facilitates a low-temperature (165 °C) process. The sheet resistance (Rs) of graphene is reduced significantly from 471 Ωsq-1 to 86.8 Ωsq-1 after 200 cycles of Pt ALD, while the optical transmittance at 550 nm (T) is maintained above 90% up to 200 cycles due to the selective growth of Pt on the defects of graphene."
-}

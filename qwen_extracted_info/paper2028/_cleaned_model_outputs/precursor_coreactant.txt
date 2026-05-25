@@ -1,7 +1,0 @@
-{
-  "precursors": ["HfCl4"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "ALD HfO2 films were grown using an H2O/HfCl4 chemistry, in a commercial ALD reactor. After underlayer preparation, the wafers were loaded into the ALD tool loadlock within about five minutes, where they remained at a pressure of 10-22 Torr until each was transferred to the ALD deposition chamber. The HfO2 films were grown at 300 °C. One cycle of HfO2 growth consisted of a 400 ms pulse of H2O, followed by a 200 ms pulse of HfCl4, each carried by a flow of N2 and separated by several seconds."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "MoSexOy-coated TiO2 nanotube layers",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Mo(CO)6", "(Me3Si)2Se"],
-  "temperature_range": "167 °C",
-  "summary": "The study describes the synthesis of ultrathin molybdenum oxyselenide (MoSexOy) coatings within anodic 1D TiO2 nanotube layers using atomic layer deposition (ALD). The coatings significantly enhance the photoelectrochemical and photocatalytic activities of the TiO2 nanotubes, particularly in the visible spectral region. The optimal performance is achieved with a coating thickness between 2 and 5 nm, which is feasible only through ALD. The enhanced photoactivity is attributed to the passivation effect of MoSexOy on the TiO2 nanotube walls and the suitable bandgap alignment for efficient charge transfer.",
-  "evidence": "Ultrathin molybdenum oxyselenide (MoSexOy) coatings are made first ever by atomic layer deposition (ALD) within anodic 1D TiO2 nanotube layers for photoelectrochemical and photocatalytic applications. The coating thickness is controlled through varying ALD cycles from 5 to 50 cycles (corresponding to ≈1–10 nm). In the ultraviolet region, the coatings have enhanced up to four times the incident photon-to-current conversion efficiency (IPCE), and the highest IPCE is recorded at 32% at (at λ = 365 nm). The coatings notably extend the photoresponse to the visible spectral region and remarkable improvement of photocurrent densities up to ≈40 times is registered at λ = 470 nm. As a result, the MoSexOy-coated-TiO2 nanotube layers have shown to be an effective photocatalyst for methylene blue degradation, and the optimal performance is credited to a coating thickness between 2 and 5 nm (feasible only by ALD)."
-}<|im_end|>

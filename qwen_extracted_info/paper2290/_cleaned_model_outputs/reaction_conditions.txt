@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the deposition of SrO and TiO2 sublayers through atomic layer deposition (ALD) using metalorganic precursors. The growth behavior is influenced by the substrate, with different nucleation and growth rates observed on Si and Ru substrates. The initial growth rates for SrO and TiO2 sublayers deviate from steady-state growth, but after a certain number of cycles, they stabilize. The SrO sublayers contain carbonate contaminations, likely due to moisture-mediated reactions with atmospheric CO2. The crystallization of SrTiO3 occurs through interdiffusion of the sublayers, which is facilitated by thermal annealing.",
-  "intermediate_species": ["SrO", "TiO2", "carbonate species"],
-  "evidence": "The text discusses the deposition of SrO and TiO2 sublayers through ALD, noting that the growth behavior is influenced by the substrate. It mentions the presence of carbonate contaminations in SrO sublayers, likely due to moisture-mediated reactions with atmospheric CO2. The crystallization of SrTiO3 is described as occurring through interdiffusion of the sublayers, facilitated by thermal annealing."
-}

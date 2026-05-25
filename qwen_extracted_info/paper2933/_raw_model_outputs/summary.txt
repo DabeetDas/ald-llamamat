@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["trimethylaluminum (TMA)", "O2", "N2"],
-  "temperature_range": "90 to 150°C",
-  "summary": "The study describes the deposition of Al2O3 films on polyethersulfone (PES) substrates using plasma-enhanced atomic layer deposition (PEALD) at low temperatures. The process uses O2 as an O-precursor and N2 as an N-precursor, with trimethylaluminum (TMA) as the Al-precursor. The films were deposited at temperatures ranging from 90 to 150°C, with a focus on minimizing substrate bending caused by plasma heating. The results showed that PEALD at 100°C with specific parameters could produce uniform and high-quality Al2O3 films without significant substrate deformation.",
-  "evidence": "Very uniform Al2O3 films could be deposited on polyethersulfone (PES) by plasma-enhanced atomic layer deposition (PEALD) using O2 as O-precursor at temperatures ranging from 90 to 150°C. The study was focused on clarifying and minimizing the effect of rf plasma on substrate bending because PEALD using rf plasma induces the deformation of substrate by heating the surface of plastic substrate. The Al2O3 films were deposited successfully at 100°C by PEALD with 0.3 s pulse width and 300 W without measurable bending of PES substrate and decrease of deposition rate."
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The mechanism of GaAs growth selectivity is believed to be caused by growth limitation due to As desorption. The limitation of the growth rates on the GaAs (111)A and (110) planes may be caused by the limiting effect of the adsorption of a Ga precursor at an As site, which is formed on the surface by As desorption during the hydrogen purge after AsH3 supply.",
-  "intermediate_species": ["As covered surface", "Ga precursor at an As site"],
-  "evidence": "It can therefore be considered that the decreasing growth rate on the GaAs (111)A and (110) planes, with increasing hydrogen purge time, is principally due to As atom desorption from an As covered surface during the hydrogen purging. It is speculated that the limitation of the growth rates on the GaAs (111)A and (110) planes, may be caused by limiting effect of the adsorption of a Ga precursor at an As site, which is formed on the surface by As desorption during the hydrogen purge after ASH3 supply."
-}<|im_end|>

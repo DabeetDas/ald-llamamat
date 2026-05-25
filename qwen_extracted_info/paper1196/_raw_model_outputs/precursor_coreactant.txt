@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylphosphinotrimethylgold(III)"],
-  "coreactants": ["oxygen plasma", "water"],
-  "purge_gas": ["nitrogen gas"],
-  "carrier_gas": ["N2"],
-  "evidence": "The typical pulse sequence was 4 s Au | 14 s O2 plasma | 0.1 s water each separated by a 10 s nitrogen gas (≥99.999%) purge. The flow rates of N2 carrier gas for the gold precursor and water were (120 sccm) and (100 sccm) respectively."
-}<|im_end|>

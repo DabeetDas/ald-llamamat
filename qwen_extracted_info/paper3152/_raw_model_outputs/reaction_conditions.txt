@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The self-limiting nature of the precursor adsorption process ensures that no more than a monolayer of precursor is adsorbed. During the precursor reduction step, the substrate is negatively biased as a result of the presence of the hydrogen plasma, which may facilitate the transportation of hydrogen ions into high AR trenches.",
-  "intermediate_species": ["Ru oxide", "surface hydroxyl groups", "hydrogen ions"],
-  "evidence": "During the precursor pulse step, the self-limiting nature of the precursor adsorption process ensures that no more than a monolayer of precursor is adsorbed. This monolayer of precursor does not contain enough metal atoms to form a full monolayer of metallic film because of the size of adsorbed precursor molecules, which blocks surface sites due to steric effects. During the precursor reduction step, the substrate is negatively biased as a result of the presence of the hydrogen plasma, which may facilitate the transportation of hydrogen ions into high AR trenches."
-}<|im_end|>

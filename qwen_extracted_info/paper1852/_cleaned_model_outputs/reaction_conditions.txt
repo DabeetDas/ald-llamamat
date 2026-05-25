@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the self-limiting growth of GaN using tris(dimethylamido)gallium(III) (1) and NH3 plasma. The precursor 1 reacts with NH3 plasma in a self-limiting manner, leading to the formation of GaN with a Ga/N ratio close to stoichiometric. The reaction is characterized by a growth rate of 1.4 Å per cycle between 130–250 1C, indicating a surface reaction mechanism where the precursor and plasma interact to form GaN without the need for an AlN buffer layer.",
-  "intermediate_species": ["tris(dimethylamido)gallium(III) (1)"],
-  "evidence": "The surface reaction mechanism is described as self-limiting with a growth rate of 1.4 Å per cycle between 130–250 1C. The text states that the GaN films were crystalline on Si (100) at all deposition temperatures with a near stochiometric Ga/N ratio and low carbon and oxygen impurities. The use of tris(dimethylamido)gallium(III) (1) with NH3 plasma is highlighted as a key factor in achieving this self-limiting growth."
-}

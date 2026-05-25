@@ -1,8 +1,0 @@
-{
-  "target_material": "BiFeO3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["ferrocene", "triphene-bismuth", "ozone"],
-  "temperature_range": "450 8C",
-  "summary": "The study describes the growth of polycrystalline BiFeO3 thin films using atomic layer deposition (ALD) with ferrocene, triphenyl-bismuth, and ozone as precursors. The process involves alternating layers of Fe2O3 and Bi2O3 to form a superlattice, which is then annealed to initiate crystallization of BiFeO3. The crystallization occurs in the Bi2O3 layers at 450 8C through cation intermixing and diffusion. The study highlights the formation mechanism, microstructural evolution, and implications for optimizing ferroelectric properties.",
-  "evidence": "We report on the growth of polycrystalline BiFeO3 thin films on SiO2/Si(001) and Pt(111) substrates by atomic layer deposition using the precursors ferrocene, triphenyl-bismuth, and ozone. By growing alternating layers of Fe2O3 and Bi2O3, we employ a superlattice approach and demonstrate an efficient control of the cation stoichiometry. No intermediate ternary phases are formed and BiFeO3 crystallization is initiated in the Bi2O3 layers at 450 8C following the diffusion-driven intermixing of the cations."
-}

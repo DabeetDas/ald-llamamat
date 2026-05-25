@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "Atomic layer deposition",
-  "main_precursors": ["titanium (IV) tetrakis(isopropoxide)", "hydrogen peroxide"],
-  "temperature_range": "250°C",
-  "summary": "The paper describes the epitaxial growth of high permittivity rutile TiO2 thin films on SnO2 substrates using atomic layer deposition (ALD) at low temperature. The process uses titanium (IV) tetrakis(isopropoxide) and hydrogen peroxide as precursors. The study highlights the successful deposition of rutile TiO2 on SnO2 substrates, which are low-cost and abundant alternatives to noble metal electrodes. The epitaxial relations between TiO2 and SnO2 are confirmed through TEM and SAD analysis, and the films show high dielectric constants, making them suitable for high-density MIM capacitors.",
-  "evidence": "Atomic layer deposition at low temperature (250°C) was used with titanium (IV) tetrakis(isopropoxide) and hydrogen peroxide as precursors. The rutile TiO2 thin films have crystalline grains that match the structure and orientation of the grains in the polycrystalline rutile phase SnO2 substrates. The epitaxial relations can be clearly identified from the continuous lattice fringes across the interfaces."
-}

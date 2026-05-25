@@ -1,7 +1,0 @@
-{
-  "precursors": ["copper di-sec-butylacetamidinate [Cu(sBu-amd)]2"],
-  "coreactants": ["H2"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The ALD is done at a substrate temperature of 185 °C. The effective exposure time to the copper precursor is 35 s, equivalent in our chamber to 185 × 106 langmuir (L), and the effective exposure to H2 is 300 s, equivalent to 21 × 1010 L. However, because of the purging time in between the exposures (∼ 500 s), the time for a full ALD cycle ([Cu(sBu-amd)]2 + H2) is ∼ 21 min."
-}

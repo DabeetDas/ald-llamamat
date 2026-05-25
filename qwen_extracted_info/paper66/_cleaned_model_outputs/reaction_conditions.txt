@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD involve the adsorption of Al(CH3)3, In(CH3)3, and Ti(OCH(CH3)2)4 precursors on the Al2O3 surface, followed by the reaction with O2 plasma to form Al2O3 and InTiO films. The mechanism includes the formation of surface hydroxyl groups and the subsequent reaction with the precursors to form the desired oxide layers.",
-  "intermediate_species": ["surface hydroxyl groups", "Al-OH*", "In-OH*", "Ti-OH*"],
-  "evidence": "The Al2O3 and InTiO films were formed using trimethylaluminum [Al(CH3)3], trimethylindium [In(CH3)3], and titanium isopropoxide [Ti(OCH(CH3)2)4] as the Al, In, and Ti precursors, respectively. These precursors were supplied with Ar as the carrier gas, and O2 gas was used as a reactant, where the radio-frequency (rf) plasma was only applied during the supply of O2 gas. A single cycle involved sequential input pulses of precursor, purge, reactant gas, plasma, and purge."
-}

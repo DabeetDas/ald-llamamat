@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the autoregulated growth of MgTe during atomic layer epitaxy (ALE), where Mg and Te are alternately pulsed onto the surface. The growth is self-regulated, with a periodic stabilization of the surface after each pulse, leading to a consistent growth rate of approximately 0.7 ± 0.1 MgTe monolayers per ALE cycle. The process includes the incorporation of Mg atoms and Te atoms, with the surface reconstruction playing a role in stabilizing the growth.",
-  "intermediate_species": ["Mg atoms", "Te atoms", "surface reconstruction"],
-  "evidence": "The text describes the autoregulated growth of MgTe during ALE, where the surface reconstruction and the periodic stabilization of the surface after each pulse are key factors. The growth rate is determined by the stabilization of the surface after exposure to Mg and Te, with the formation of a self-regulated growth mode. The text also mentions the incorporation of Mg and Te atoms, and the role of surface reconstruction in stabilizing the growth."
-}

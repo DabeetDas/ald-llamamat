@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Cu(OCHMeCH2NMe2)2", "BH3(NHMe2)"],
-  "temperature_range": "130 −160 °C",
-  "summary": "The study describes the low-temperature atomic layer deposition (ALD) of copper (Cu) films using a two-step process with Cu(OCHMeCH2NMe2)2 and BH3(NHMe2) on Ru substrates, and a three-step process with Cu(OCHMeCH2NMe2)2, formic acid, and BH3(NHMe2) on Pd and Pt substrates. The two-step process demonstrated self-limited ALD growth at 150 °C with a growth rate of about 0.13 Å/cycle. The three-step process showed self-limited ALD growth on Pd and Pt at 150 °C with a growth rate of 0.20 Å/cycle. The Cu films exhibited low electrical resistivities and were smooth and continuous on Pd and Pt substrates.",
-  "evidence": "The atomic layer deposition (ALD) of Cu metal films was carried out by a two-step process with Cu(OCHMeCH2NMe2)2 and BH3(NHMe2) on Ru substrates and by a three-step process employing Cu(OCHMeCH2NMe2)2, formic acid, and BH3(NHMe2) on Pd and Pt substrates. The two-step process demonstrated self-limited ALD growth at 150 °C with Cu(OCHMeCH2NMe2)2 and BH3(NHMe2) pulse lengths of ≥3.0 and ≥1.0 s, respectively. An ALD window was observed between 130 and 160 °C, with a growth rate of about 0.13 Å/cycle. The three-step process showed self-limited ALD growth on Pd and Pt at 150 °C with Cu(OCHMeCH2NMe2)2, formic acid, and BH3(NHMe2) pulse lengths of ≥3.0, ≥ 0.3, and ≥1.0 s, respectively. ALD windows were observed between 135 and 165 °C on both Pd and Pt, with growth rates of 0.20 Å/cycle on both substrates. The Cu films on Pd and Pt showed smooth, continuous films at all thicknesses and had low electrical resistivities."
-}

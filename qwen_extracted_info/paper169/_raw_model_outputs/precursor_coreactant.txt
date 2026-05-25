@@ -1,7 +1,0 @@
-{
-  "precursors": ["PDMAT (pentakis(dimethylamido)tantalum(V))"],
-  "coreactants": ["NH3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The deposition occurs in an ALD cycle divided into four pulses; i) the injection of PDMAT (time t1), ii) a purge of the reactor with argon (time t2), iii) injection of NH3(g) (time t3), and iv) another purge of argon (time t4). Argon (99.99%, flow rate of 20 sccm) was used as the carrier and purging gas."
-}<|im_end|>

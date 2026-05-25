@@ -1,8 +1,0 @@
-{
-  "target_material": "CaMoO4",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["MoCl4O", "Ca(thd)2", "O3", "H2O"],
-  "temperature_range": "300-400 °C",
-  "summary": "The study describes the use of design of experiments (DoE) to develop an atomic layer deposition (ALD) process for depositing crystalline, luminescent CaMoO4. The process involves the use of MoCl4O, Ca(thd)2, O3, and H2O as precursors, with deposition temperatures ranging from 300 to 400 °C. The optimized process involves a deposition temperature of 350 °C, 29% pulsed Mo, and annealing at 612.5 °C for 30 minutes, resulting in highly luminescent CaMoO4 thin films.",
-  "evidence": "The study describes the use of design of experiments (DoE) to develop an atomic layer deposition (ALD) process for depositing crystalline, luminescent CaMoO4. The process involves the use of MoCl4O, Ca(thd)2, O3, and H2O as precursors, with deposition temperatures ranging from 300 to 400 °C. The optimized process involves a deposition temperature of 350 °C, 29% pulsed Mo, and annealing at 612.5 °C for 30 minutes, resulting in highly luminescent CaMoO4 thin films."
-}

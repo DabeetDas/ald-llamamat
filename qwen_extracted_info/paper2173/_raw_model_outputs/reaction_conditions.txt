@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The supplied Ru precursor is adsorbed on the surface and reacts with the oxygen that was adsorbed on the Ru surface during the previous oxygen pulse. The ligands of the Ru precursor are completely or partly oxidized to volatile by-products, mainly H2O and CO2. During the oxygen pulse, oxygen starts to adsorb on the Ru surface dissociatively, while at the same time, the remaining ligands of the adsorbed Ru precursor are removed, resulting in the growth of the Ru film.",
-  "intermediate_species": ["Ru precursor ligands", "surface hydroxyls", "volatile by-products (H2O and CO2)"],
-  "evidence": "Oxygen was used in Ru ALD as a reactant gas for several Ru precursors. Aaltonen et al. reported the film growth mechanism in Ru ALD using Ru(Cp)2 and Ru(thd)3 precursors. The supplied Ru precursor is adsorbed on the surface and reacts with the oxygen that was adsorbed on the Ru surface during the previous oxygen pulse. The ligands of the Ru precursor are completely or partly oxidized to volatile by-products, mainly H2O and CO2. During the oxygen pulse, oxygen starts to adsorb on the Ru surface dissociatively, while at the same time, the remaining ligands of the adsorbed Ru precursor are removed, resulting in the growth of the Ru film."
-}<|im_end|>

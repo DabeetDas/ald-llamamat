@@ -1,3 +1,0 @@
-{
-  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{   \"deposition_temperature_C\": 167,   \"pressure\": \"\",   \"precursor_pulse_time_s\": null,   \"coreactant_pulse_time_s\": null,   \"purge_time_s\": null,   \"number_of_cycles\": 300,   \"reactor_type\": \"custom-built UHV chamber\",   \"evidence\": \"The base pressure of the chamber is typically below 1 \\x02 10-9 Tor'"
-}

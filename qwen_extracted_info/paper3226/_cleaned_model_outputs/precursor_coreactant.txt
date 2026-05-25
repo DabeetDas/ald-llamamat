@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ru(EtCp)2", "MCPRu"],
-  "coreactants": ["N2/H2", "NH3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ambient during the plasma step was N2/NH3 or N2/H2. The total N2 flow during the plasma strike was kept constant whereas the NH3 and H2 flow were varied to change the N2/NH3 and N2/H2 ratio, respectively."
-}

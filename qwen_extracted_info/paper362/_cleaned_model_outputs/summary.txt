@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnSe",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["ZnCI2", "H2Se"],
-  "temperature_range": "400—500°C",
-  "summary": "ZnSe films were grown on (100) GaAs substrates using atomic layer epitaxy (ALE) with ZnCI2 and H2Se as precursors. The self-limiting mechanism was demonstrated, and the films showed good crystallographic quality and surface morphology. The growth temperature range was found to be between 400 and 500°C, with optimal results around 400—450°C for surface morphology.",
-  "evidence": "The growth of ZnSe by ALE, in this work, consists of the following steps in sequence; ZnCI2 is introduced in vapor phase forming zinc bonds on the surface. Excess ZnCI2 vapor is subsequently purged away by H2 gas and then H2Se is introduced as vapor. ZnSe is formed when H2Se reacts with the adsorbed ZnCl2, and HCI is liberated. The epilayer thickness per operating cycle was nearly constant (1 monolayer, 2.83 A) in the substrate temperature range of 400—500°C. The self-limiting mechanism takes place for temperatures between 400 and 500°C. The surface morphology was observed to be smoothest at temperatures between 400—450°C."
-}

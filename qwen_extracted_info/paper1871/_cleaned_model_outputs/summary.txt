@@ -1,8 +1,0 @@
-{
-  "target_material": "Cerium dioxide (CeO2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Ce(thd)4", "Ce(thd)3phen"],
-  "temperature_range": "175–275 uC for Ce(thd)4 and 225–275 uC for Ce(thd)3phen",
-  "summary": "Cerium dioxide thin films were deposited by atomic layer deposition (ALD) using Ce(thd)4 and Ce(thd)3phen as precursors with ozone as the oxidant. The study focused on low-temperature deposition, with growth rates observed within specific temperature ranges. The films were polycrystalline and showed good uniformity, with impurities such as hydrogen, carbon, and fluorine detected.",
-  "evidence": "Thin films of cerium dioxide were deposited by atomic layer deposition (ALD). Temperature ranges studied in detail were 175–375 uC and 225–350 uC for the Ce(thd)4 and Ce(thd)3phen precursors, respectively. Ozone was used in both cases as oxygen source. Narrow ALD windows, i.e. temperature ranges with constant growth rate, were observed at temperatures 175–250 uC for Ce(thd)4 and 225–275 uC for Ce(thd)3phen. The growth rates of CeO2 inside the ALD windows were 0.32 A˚ (cycle)21 and 0.42 A˚ (cycle)21 for Ce(thd)4 and Ce(thd)3phen, respectively. CeO2 films grown on soda lime glass and Si(100) were polycrystalline and slightly oriented with the (200) and (111) peaks as the strongest reflections."
-}

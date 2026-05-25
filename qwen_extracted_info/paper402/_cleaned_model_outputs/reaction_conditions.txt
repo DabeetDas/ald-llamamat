@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of SiClx on the clean Si surface, followed by the reduction of surface-terminating Cl atoms by H atoms. The H atoms are generated from the decomposition of H2 using an incandescent tungsten filament. The reduction of Cl atoms by H atoms regenerates the clean surface, allowing for monolayer growth.",
-  "intermediate_species": ["SiClx", "Cl atoms", "H atoms"],
-  "evidence": "SiH2CI2 was decomposed into SiClx, and SiClx was adsorbed on the clean Si surface. The clean surface was recovered by the reduction of surface-terminating Cl atoms by H2 to HCl. H atoms can be created easily and without a plasma by decomposition of H2 using an incandescent tungsten filament. H2 molecules arriving at the filament are decomposed into H atoms, and H atoms arriving on the surface reduce Cl atoms on the surface."
-}

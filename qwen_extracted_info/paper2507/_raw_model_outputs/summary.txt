@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "ALCVD",
-  "main_precursors": ["diethylzinc (DEZ)", "water vapor"],
-  "temperature_range": "130 °C",
-  "summary": "The study investigates the atomic layer chemical vapor deposition (ALCVD) process for depositing ZnO using diethylzinc (DEZ) and water vapor as precursors. The process is monitored in situ using XPS to analyze the growth of each monolayer. The temperature range is maintained at 130 °C, and the results confirm the ALCVD theory with a growth rate of approximately 1.6 Å per cycle.",
-  "evidence": "The text states, 'water and DEZ precursors were used to deposit ZnO at a temperature of 130 °C.' It also mentions, 'the thickness of the grown ZnO layer was determined to 250 Å' and 'the growth rate of nearly 1.6 Å per cycle is in good agreement with earlier rates achieved with the original reactor design.'"
-}<|im_end|>

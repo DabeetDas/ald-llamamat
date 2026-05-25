@@ -1,8 +1,0 @@
-{
-  "target_material": "SnO2",
-  "process_type": "ML-ALE",
-  "main_precursors": ["Me,Sn", "Et,Sn", "N,O,"],
-  "temperature_range": "250-290°C and 400-450°C",
-  "summary": "The study investigates the ML-ALE synthesis of tin oxide (SnO2) using organometallic compounds (MOC). The process involves alternating cycles of tin and oxygen precursor exposure, with the temperature range of 250-290°C and 400-450°C for different precursors. The role of active oxygen atoms and buffer oxide layers in the growth mechanism is analyzed, and the conductivity and transparency of the resulting SnO2 layers are evaluated.",
-  "evidence": "The synthesis was carried out in a closed-vacuum-type reactor over a wide temperature range. Me,Sn and Et,Sn were used as tin-providing reactants, and as an oxygen-providing reactant N,O, was used. The 'processing windows' for TMT and TET, as it was found, lie in the range of 400-450°C and 250-290°C respectively. The conductivity of the tin oxide layers grown within the 'processing window' was measured (Table 1)."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["titanium tetraisopropyl oxide (TIP)", "tetramethylaluminum (TMA)"],
-  "coreactants": ["water"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "In the next step the substrate is exposed to a second precursor, which is in our case water, hydrolyzing the adsorbed first layer to the desired metal oxide. However, biomolecules often contain accessible amines and alcohols and bound water molecules which are not removed by drying. Water, in particular, can instantaneously react with TIP or TMA to build the first metal oxide layer on the biomolecules. The precursor layers in the successive cycles are hydrolyzed with the second precursor. After the hydrolysis reaction, the excess water molecules and the reaction products are removed by purging, to prevent side reactions during the next cycle. Purging was done with Ar gas with a flow rate of 10 sccm."
-}<|im_end|>

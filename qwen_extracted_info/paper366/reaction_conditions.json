@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth mechanism involves alternating irradiation of Zn and S molecular beams, leading to surface reconstructions of c(2 x 2)-Zn and (2 x 1)-S. The surface structure alternates between these reconstructions during the ALE growth, indicating a layer-by-layer growth mode.",
-  "intermediate_species": [
-    "Zn-covered surface",
-    "S-covered surface"
-  ],
-  "evidence": "The surface reconstruction of the Zn-irradiated epilayer surface is recognized to be c(2 x 2). On the other hand, the (2 x 1) reconstruction is shown only in the RHEED pattern of [011] azimuth when the S-beam irradiated. Namely, the surface reconstruction of the S-irradiated epilayer is (2 x 1). This change was repeatedly observed when each molecular beam of constituents was alternately irradiated toward the surface until the growth of 1000 cycles."
-}

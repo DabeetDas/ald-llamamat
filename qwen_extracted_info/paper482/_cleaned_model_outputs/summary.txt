@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "ALD",
-  "main_precursors": ["TiI4", "O2"],
-  "temperature_range": "200–455°C",
-  "summary": "This study demonstrates the use of a hydroxyl-free atomic layer deposition (ALD) process to epitaxially grow titanium oxide (TiO2) films using TiI4 and O2 as precursors. The process was applied on two different single-crystalline substrates, a-Al2O3(012) and MgO(001), and the resulting films exhibited either rutile or anatase phases depending on the deposition temperature. The study also confirmed the epitaxial relationships between the deposited films and the substrates through various characterization techniques.",
-  "evidence": "This study demonstrates that TiI4–O2 is a well-working precursor system for epitaxial growth of titanium oxide films in an atomic layer deposition process that is not based on reactions with surface hydroxyl groups. The epitaxial relationships were determined by j-scan and were found to be ½010/C138rutile8½100/C138a-Al2O3; ½10 %1/C138rutile8½%1 %21 /C138a-Al2O3 for the rutile films grown on a-Al2O3(012) and [010]anatase8[010]MgO and [001]anatase8[100]MgO for the anatase films grown on MgO(001). These relationships were also confirmed by TEM."
-}

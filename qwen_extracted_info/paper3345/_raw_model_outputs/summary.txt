@@ -1,8 +1,0 @@
-{
-  "target_material": "Molybdenum Oxide (MoO3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["molybdenum hexacarbonyl [Mo(CO)6]", "ozone (O3)"],
-  "temperature_range": "165 to 175 oC",
-  "summary": "This study demonstrates the atomic layer deposition of molybdenum oxide (MoO3) using molybdenum hexacarbonyl and ozone as precursors. The ALD process was characterized by in-situ quartz crystal microbalance (QCM) studies, revealing a temperature window of 165 to 175 oC with a maximum growth rate of 0.45 Å per ALD cycle. The as-deposited films were amorphous and converted to monoclinic MoO3 after annealing. The material shows potential as a buffer layer in solar cells due to its optical properties and work function.",
-  "evidence": "This work focuses on synthesis of molybdenum oxide (MoO3) by Atomic layer deposition (ALD) using molybdenum hexacarbonyl [Mo(CO)6] and ozone. ALD temperature window for this material lies between 165 to 175 oC giving a maximum growth rate of 0.45 Å per ALD cycle. The as deposited films were found to be amorphous in nature which converts to monoclinic-MoO3 after annealing as seen by transmission electron microscopy."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu",
-  "process_type": "PEALD",
-  "main_precursors": ["Pd(II) hexafluoroacetylacetonate"],
-  "temperature_range": "85 ± 5°C",
-  "summary": "The study describes the direct plating of copper (Cu) on plasma-enhanced atomic layer deposited (PEALD) palladium (Pd) coated tantalum nitride (TaN) barrier layers for ultralarge scale integration applications. The Pd layer acts as a wetting layer to improve adhesion of Cu to TaN, which is critical for achieving uniform and continuous Cu coverage in sub-100 nm features. The PEALD process for Pd was carried out at 85 ± 5°C using Pd(II) hexafluoroacetylacetonate as the precursor. The study also investigates the resistivity and surface roughness of the Cu films, showing that annealing reduces resistivity to near bulk Cu values. The results demonstrate the feasibility of using a thin PEALD Pd layer for direct Cu plating on TaN, which is essential for advanced interconnect technologies.",
-  "evidence": "Palladium was deposited on Si wafers possessing 1000 Å SiO2 and 30 nm TaN barrier layers obtained from Intel Corporation. The Pd layer was deposited by PEALD at a temperature of 85 ± 5°C and a Pd(II) hexafluoroacetylacetonate sublimation temperature of 47.5 ± 0.5°C. The use of a 4–5 nm PEALD Pd metal seed layer enables conformal deposition. The measured as-plated resistivity was relatively low, averaging 4.33 Ω·cm. This value decreases to a minimum of 2.31 Ω·cm with room-temperature self-annealing. Annealing at elevated temperatures increases the resistivity of as-deposited Cu due to the diffusion of Pd in the copper grains."
-}

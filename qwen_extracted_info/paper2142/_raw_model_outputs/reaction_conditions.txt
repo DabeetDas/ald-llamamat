@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface TMA pretreatment increases the initial interfacial layer (IL) thickness during the early deposition cycles due to the interfacial Al catalyzing subsurface Si oxidation. However, the long-term TMA pretreatment leads to steric hindrance, which limits the oxygen source from reaching the interface, thereby suppressing the IL formation. The continuous Al2O3 layer acts as an oxygen diffusion barrier, protecting the subsurface Si from oxidation and resulting in a thinner final IL.",
-  "intermediate_species": ["Si–O–Al bond", "suboxide Si2+", "Si3+"],
-  "evidence": "It is reported by Frank et al. that the interfacial Al can catalyze subsurface Si oxidation during ALD of Al2O3 deposition. For ST samples, it is believed that more interfacial Al exist during initial deposition cycles. The surface TMA pretreatment significantly increases Al 2p signal intensity, indicating that it indeed facilitates the initial TMA adsorption. The interfacial Al catalyzing effect can well explain why the initial IL is thicker in the case of ST. Taking into account the steric hindrance effect together with the interfacial Al catalyzing subsurface Si oxidation effect, we can illustrate the whole process of IL formation."
-}<|im_end|>

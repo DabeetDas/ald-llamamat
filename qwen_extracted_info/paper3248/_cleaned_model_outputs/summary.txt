@@ -1,8 +1,0 @@
-{
-  "target_material": "Thulium oxide (Tm2O3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TmCp3", "H2O"],
-  "temperature_range": "200–300 ◦C",
-  "summary": "A novel ALD process for depositing thulium oxide (Tm2O3) using TmCp3 as the metal precursor and H2O as the oxidizing agent was developed. The process operates in the temperature range of 200–300 ◦C, achieving a high deposition rate of ∼1.5 Å/cycle. The films are polycrystalline with low surface roughness and a relative dielectric constant of ∼16. The study highlights the advantages of using H2O over O3 to avoid Si substrate oxidation, making it suitable for high-k/metal gate CMOS technology.",
-  "evidence": "A novel process for atomic layer deposition of thulium oxide (Tm2O3) has been developed, employing TmCp3 as metal precursor and H2O as oxidizing agent. The use of a highly reactive organometallic precursor eliminates the need for a strong oxidizing agent (such as O3) and provides a high deposition rate of ∼1.5 Å/cycle. A thorough characterization of the process has been performed, identifying true ALD-type film growth in the temperature range 200–300 ◦C. The ALD process has been further investigated by extensive physical and electrical characterization of the deposited films in terms of composition, crystalline phase, surface roughness and extraction of the dielectric constant. The films were found to be oxygen-rich Tm2O3, with low carbon impurity content at low deposition temperature and after annealing at 600 ◦C. The developed process produced polycrystalline films, with a surface roughness <1 nm RMS. Integration in MOS capacitors demonstrated well-behaved CV curves after annealing at 600 ◦C, with a relative dielectric constant of ∼16."
-}

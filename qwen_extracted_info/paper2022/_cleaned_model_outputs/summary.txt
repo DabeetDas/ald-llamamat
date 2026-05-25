@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Zr(t-OC4H9)4", "H2O"],
-  "temperature_range": "200 °C",
-  "summary": "ZrO2 thin films for gate dielectrics were formed at low temperatures (200 °C) using Zr(t-OC4H9)4 and H2O source gases. An ultrathin Si nitride barrier layer was deposited to suppress the formation of a SiO2 interfacial layer. The ALD process for the ZrO2/Si nitride stack structure is promising for ultrathin gate dielectrics in sub-0.1-μm complementary metal–oxide–semiconductor transistors.",
-  "evidence": "ZrO2 thin ﬁlms for gate dielectrics have been formed at low temperatures (~200 °C) by an atomic-layer deposition (ALD) technique using Zr(t-OC4H9)4 and H2O source gases. ... Because of the extremely uniform thickness control capability in the ultrathin region and the low thermal budget of the ALD process, the ALD process for the ZrO2/Si nitride stack structure is a promising candidate for fabricating the ultrathin gate dielectrics for sub-0.1-μm complementary metal–oxide–semiconductor transistors."
-}

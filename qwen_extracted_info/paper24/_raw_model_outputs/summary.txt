@@ -1,8 +1,0 @@
-{
-  "target_material": "Silver",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["(hexafluoroacetylacetonato) silver(I)(1,5-cyclooctadiene) (hfac)Ag(1,5-COD)"],
-  "temperature_range": "125 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to coat titanium implants with a nanolayer of silver to inhibit bacterial colonization and promote bone ingrowth. The ALD process was carried out at 125 °C using silver precursors, resulting in a thin, uniform silver layer on titanium scaffolds. The silver-coated implants showed significant reduction in bacterial growth, particularly for Staphylococcus epidermidis, and supported vascularized bone ingrowth in vivo.",
-  "evidence": "The text states: 'we developed 3D titanium structures using selective laser melting and then coated them with a silver nanolayer using atomic layer deposition.' It also mentions: 'Silver was deposited on half the total number of solid and porous implants by direct liquid injection ALD using an Aixtron AIX200FE reactor.' Additionally, 'the reactor temperature was adjusted slightly until a low mass thermocouple attached to the top of one of the implants read 125 °C (the midpoint of the self-limiting ALD temperature window).'"
-}<|im_end|>

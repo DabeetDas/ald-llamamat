@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TDMA-Hf", "water vapor"],
-  "temperature_range": "100–300 °C",
-  "summary": "HfO2 films were deposited on InAs substrates using atomic-layer deposition (ALD) with TDMA-Hf and water vapor as precursors. The study investigated the effects of substrate temperature and pretreatment on the electrical properties of the resulting films, showing that higher temperatures improved capacitance and reduced interface trap density.",
-  "evidence": "Hafnium dioxide films were grown using a Cambridge NanoTech Savannah 100 (ALD) system using TDMA-Hf [tetrakis(dimethylamido)hafnium, Hf(NMe2)4] and water vapor as source materials. The substrates were n-type InAs substrates and the depositions were done in the range of 100–300 °C. The I–V characteristics reveal that the leakage current is greatly influenced by deposition temperature."
-}

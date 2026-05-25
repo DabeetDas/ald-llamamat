@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Lithium ions intercalate into the MnO2 film through a two-step process: first, lithium ions penetrate only to the surface region of the MnO2 film, forming a mixture of MnO2 and a lithium deficient non-stoichiometric spinel phase LixMn2O4 (0 < x < 0.5). When the lithium concentration exceeds x ≈ 0.5 in LixMn2O4, the crystalline phase of manganese oxide changes from the tetragonal pyrolusite to the cubic spinel, enabling Li+ ions to migrate throughout the whole film.",
-  "intermediate_species": ["Li1-xMn2O4", "LixMn2O4", "MnO2"],
-  "evidence": "The phase change from the pyrolusite MnO2 to the spinel LiMn2O4 is clearly visible in XRD and XAS measurements. The samples are divided into three groups with increasing progress in the phase change: when the average composition of the sample is x < 0.5 in LixMn2O4, when x ≈ 0.5 in LixMn2O4, and after the samples are annealed."
-}<|im_end|>

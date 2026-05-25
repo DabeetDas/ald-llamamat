@@ -1,8 +1,0 @@
-{
-  "target_material": "Bismuth vanadates",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Triphenylbismuth (BiPh3)", "Vanadium(V) oxytriisopropoxide (VTIP)", "Water (W)"],
-  "temperature_range": "130 8C",
-  "summary": "The study reports the atomic layer deposition (ALD) of bismuth vanadates using triphenylbismuth (BiPh3), vanadium(V) oxytriisopropoxide (VTIP), and water. The ALD process enables the deposition of conformal films on arbitrary substrates, which are then calcined to form the photoactive scheelite phase of BiVO4. The films exhibit efficient solar-assisted water splitting with thin-film photocurrents greater than 1 mA cm-2 under simulated AM 1.5 illumination.",
-  "evidence": "The ALD of bismuth vanadates is a key step towards its development into host–guest composite nanostructures. Here, a catalytic effect of vanadium(V) oxytriisopropoxide (VTIP) on the subsequent deposition from BiPh3 enables the first ALD of bismuth vanadates. Post processing of these films led to phase-pure and photoactive BiVO4 with the scheelite crystal structure."
-}

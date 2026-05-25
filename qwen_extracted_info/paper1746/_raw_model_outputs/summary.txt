@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["MoCl5", "H2S"],
-  "temperature_range": "500 °C, 700 °C, 900 °C",
-  "summary": "The study describes the self-limiting layer synthesis (SLS) of MoS2 using atomic layer deposition (ALD), where the number of layers is determined by growth temperature rather than process cycles. The process achieves high layer uniformity and controllability, enabling the fabrication of devices such as top-gated field-effect transistors and PN diodes. The self-limiting behavior is attributed to the chemically inactive surface of MoS2, which influences precursor adsorption and desorption dynamics.",
-  "evidence": "The study reports that the number of layers is determined by growth temperature rather than process cycles due to the chemically inactive nature of 2D MoS2. The process is applied to fabricate a MoS2/WSe2 heterostructure PN diode with gate-tunable rectifying characteristics. The self-limiting behavior is explained by the chemically inactive surface of MoS2, which affects precursor adsorption and desorption."
-}<|im_end|>

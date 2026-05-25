@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3/InGaAs Metal-Oxide-Semiconductor Interface",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tri-methylaluminum (TMA)", "(iPrCp)3Gd", "(MeCp)3Sc", "H2O"],
-  "temperature_range": "250◦C for Gd2O3 and 300◦C for Al2O3 and Sc2O3",
-  "summary": "The study investigates the use of Atomic Layer Deposition (ALD) to passivate the InGaAs/Al2O3 interface by depositing Al2O3, Gd2O3, and Sc2O3. The impact of different precursors and process parameters on interface trap density (Dit), frequency dispersion, leakage current, and breakdown field is analyzed. The results show that increasing TMA exposure during the initial cycles reduces Dit and improves electrical properties. Gd2O3 and Sc2O3 interfacial layers are found to enhance interface quality, with Sc2O3 providing the lowest Dit values.",
-  "evidence": "We investigate InGaAs passivation by Atomic Layer Deposition (ALD) of Al2O3, Gd2O3, and Sc2O3 using tri-methylaluminum (TMA), (iPrCp)3Gd, (MeCp)3Sc, and H2O as precursors. Increasing the TMA pulse time to five seconds during the first five cycles reduce the Dit to 1.8 × 1012 eV−1 cm−2, while frequency dispersion, leakage current and breakdown field generally improve. Gd2O3 and Sc2O3 interfacial layers between InGaAs and Al2O3 are examined. The lowest Dit values, 2.5 × 1012 eV−1 cm−2 and 1.8 × 1012 eV−1 cm−2, are obtained for four cycles of Sc2O3 and Gd2O3, respectively."
-}<|im_end|>

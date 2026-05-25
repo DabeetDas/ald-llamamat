@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "A selective adsorption model was used to explain the self-limiting mechanism in PJE. In PJE, most gallium atoms are supplied to the surface in the form of methylgallium, which is assumed to adsorb on the arsenic atoms with a time constant 'T.' but not onto the gallium atoms (or to easily remove from the gallium atom with a small desorption time constant) on the growing surface. Methylgallium adsorbed on arsenic atoms would be desorbed from the surface with a desorption time 'Tds' or thermally decomposed with a decomposition time 'idc'.",
-  "intermediate_species": [
-    "methylgallium"
-  ],
-  "evidence": "A selective adsorption model was used to explain the self-limiting mechanism in PJE. In PJE, most gallium atoms are supplied to the surface in the form of methylgallium, The methylgallium is assumed to adsorb on the arsenic atoms with a time constant 'T.' but not onto the gallium atoms (or to easily remove from the gallium atom with a small desorption time constant) on the growing surface, Methy!gaUium adsorbed on arsenic atoms would be desorbed frem the sur- face with a desorption time 'Tds' or thermaHy decomposed with a decomposition time 'idc'."
-}

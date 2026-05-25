@@ -1,3 +1,0 @@
-{
-  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{   \"deposition_temperature_C\": 300,   \"pressure\": \"\",   \"precursor_pulse_time_s\": null,   \"coreactant_pulse_time_s\": null,   \"purge_time_s\": null,   \"number_of_cycles\": null,   \"reactor_type\": \"\",   \"evidence\": \"Experiments involved the exposure of the clean Si(100)-2 \\x02 1 surface to 1000 langmuirs '"
-}

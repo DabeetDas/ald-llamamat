@@ -1,7 +1,0 @@
-{
-  "precursors": ["tin(IV) tert-butoxide"],
-  "coreactants": ["acetic acid"],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": ["nitrogen"],
-  "evidence": "Tin dioxide was deposited on silicon wafer, carbon nanotubes (Applied Science PR-24-PS, unfunctionalized and functionalized), and on boron nitride nanotubes. Tin tert-butoxide and acetic acid were used as metal and oxygen precursors, respectively. The depositions took place between 75 °C and 250 °C in an exposure mode reactor. Metal precursor and carboxylic acid were introduced subsequently by pneumatic ALD valves from their reservoirs, which were kept at 80 and 30 °C, respectively. For the deposition, pure nitrogen was used as a carrier gas at a constant flow rate of 5 sccm."
-}

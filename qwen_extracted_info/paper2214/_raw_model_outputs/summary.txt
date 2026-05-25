@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of HfO2 on Si(001) using HfCl4 and H2O as precursors at 300 °C. The process was monitored in situ with synchrotron radiation photoelectron spectroscopy (PES) and X-ray absorption spectroscopy (XAS). The initial layers showed Cl contamination and a sparse structure, while the second layer was denser and stoichiometric. The study highlights the importance of the early growth stages in determining the final properties of the HfO2/Si interface.",
-  "evidence": "We have grown HfO2 on Si(001) by atomic layer deposition using HfCl4 and H2O as precursors. The early stages of the ALD were investigated with high-resolution photoelectron spectroscopy and x-ray absorption spectroscopy. The first layer consists of a sparse and Cl-contaminated oxide because of the incomplete oxidation, and the second layer is denser than the first one and with an almost stoichiometric O/Hf ratio. The substrate temperature during the growth was set to 300 °C because it was demonstrated that the best substrate temperature for delivering high quality HfO2 films using HfCl4 and H2O is between 300 and 350 °C."
-}<|im_end|>

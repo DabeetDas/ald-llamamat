@@ -1,8 +1,0 @@
-{
-  "target_material": "TaN, Ta3N5, and TaOxNy",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TaCl5", "NH3", "Zn", "H2O"],
-  "temperature_range": "400-500 °C",
-  "summary": "TaN, Ta3N5, and TaOxNy films were deposited using atomic layer deposition (ALD). The process involved alternating surface reactions between TaCl5 and NH3 to form Ta3N5, while the addition of elemental zinc as a reducing agent resulted in TaN. TaOxNy films were created by first depositing Ta3N5 and then oxidizing it with water pulses. The study aimed to control the composition and properties of these films for applications such as diffusion barriers, passivation layers, and high permittivity dielectrics.",
-  "evidence": "TaN, Ta3N5, and TaOxNy films were deposited by the atomic layer deposition technique. The alternate surface reactions between TaCl5 and NH3 resulted in Ta3N5 films, but when elemental zinc, serving as an additional reducing agent, was supplied on the substrates between the TaCl5 and NH3 pulses, TaN with a resistivity of 9 × 10-4 Ω cm was obtained. TaOxNy films were grown by depositing first thin Ta3N5 layers which were then partially oxidized by single water pulses."
-}<|im_end|>

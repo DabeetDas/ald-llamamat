@@ -1,7 +1,0 @@
-{
-  "precursors": ["AlCl3", "H2O"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "AlCl3 and H2O were used as precursors. Nitrogen was used as the carrier of precursor as well as the purging gas."
-}

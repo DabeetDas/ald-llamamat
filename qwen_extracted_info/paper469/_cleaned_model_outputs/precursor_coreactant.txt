@@ -1,7 +1,0 @@
-{
-  "precursors": ["Cr(acac)3"],
-  "coreactants": ["NH3", "H2O", "O2"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The chemisorption of Cr(acac)3 (Riedel–de Häen, 99%) at 200 ◦C was investigated on the n·AlN/Al2O3 samples and on 200, 400, 560, and 800 ◦C alumina. A support bed typically of 5 g was stabilized in the ALD reactor at a reaction temperature of 200 ◦C. About 2 g of Cr(acac)3 was vaporized under vacuum at 180 ◦C and directed through the stationary substrate bed. Excess precursor was collected in a condenser tube placed after the reaction space and held at room temperature. After the reaction, the sample bed was purged with nitrogen for 2 h to remove any unreacted Cr(acac)3. Thereafter, either the system was cooled in nitrogen to remove the sample from the ALD reactor with the acac ligands intact, or the ligands were removed with ammonia, water, or oxygen."
-}

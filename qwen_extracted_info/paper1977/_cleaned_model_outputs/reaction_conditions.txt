@@ -1,6 +1,0 @@
-{
-  "reaction_equations": ["Mg(C2H5)2 + H2O = MgO + 2C2H6"],
-  "surface_mechanism_description": "The reaction mechanism in the present ALG appears to be a hydrolysis surface reaction.",
-  "intermediate_species": ["MgO"],
-  "evidence": "In our growth, if oxygen was used to replace the water, no MgO film could be obtained. Therefore, the reaction mechanism in the present ALG appears to be a hydrolysis surface reaction: Mg(C2H5)2 + H2O = MgO + 2C2H6."
-}

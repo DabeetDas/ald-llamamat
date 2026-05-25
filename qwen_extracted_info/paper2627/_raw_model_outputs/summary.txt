@@ -1,8 +1,0 @@
-{
-  "target_material": "tin oxide and zinc tin oxide",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tetraethyltin", "ozone", "diethylzinc"],
-  "temperature_range": "290 to 320 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of tin oxide (SnO2) and zinc tin oxide (ZTO) using tetraethyltin (TET) and ozone (O3) as precursors. The process involves sequential pulses of TET and O3, with the metal composition controlled by the ratio of TET to diethylzinc (DEZ) pulses. The films were amorphous and transparent, with the TPC (thickness per cycle) of 0.2 nm/cycle observed in a temperature window of 290 to 320 °C. The study also reports the electrical and optical properties of the deposited films, including carrier concentration and mobility, and demonstrates the fabrication of a broken gap pn junction using ALD-deposited ZTO and sputtered Cu2O.",
-  "evidence": "Silicon or glass substrates exposed to sequential pulses of tetraethyltin (TET) and ozone (O3) were coated with thin films of SnO2. Self-limiting deposition was found using 8 s pulse times, and a uniform thickness per cycle (TPC) of 0.2 nm/cycle was observed in a small, yet reproducible, temperature window from 290 to 320 °C. Interspersing pulses of diethylzinc and O3 among the TET:O3 pulses resulted in deposition of zinc tin oxide films, where the fraction of tin, defined as [at. % Sn/(at. % Sn + at. % Zn)], was controlled by the ratio of TET pulses, specifically nTET:(nTET + nDEZ) where nTET and nDEZ are the number of precursor/O3 subcycles within each atomic layer deposition (ALD) supercycle."
-}<|im_end|>

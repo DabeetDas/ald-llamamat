@@ -1,4 +1,0 @@
-{
-  "characterization_methods": ["Photodiode (PD)", "Spectrum Analyzer (SA)", "Amplifier (A1, A2)", "Photocurrent Noise Measurement", "Quantum Efficiency Measurement", "Noise Spectrum Analysis"],
-  "evidence": "The text mentions the use of a photodiode (PD) to detect light emission, a spectrum analyzer (SA) to measure the ac signal, amplifiers (A1, A2) to process signals, and the analysis of noise spectra. It also refers to the calibration of quantum efficiency and the measurement of photocurrent noise and its spectrum."
-}

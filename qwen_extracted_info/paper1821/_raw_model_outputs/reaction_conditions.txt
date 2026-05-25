@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD involve the sequential deposition of SnO2 and Pt layers, followed by temperature programmed reduction (TPR) to form Pt–Sn bimetallic nanoparticles. The reduction process incorporates Sn into the Pt fcc lattice, forming intermetallic alloys such as PtSn and Pt3Sn. The exact reaction mechanism is not explicitly detailed in the text, but the formation of these alloys is attributed to the reduction of SnO2 and the subsequent alloying with Pt.",
-  "intermediate_species": ["SnO2", "Pt", "PtSn", "Pt3Sn"],
-  "evidence": "The text describes the formation of Pt–Sn bimetallic nanoparticles through the reduction of SnO2 and Pt layers during TPR. It mentions the incorporation of reduced Sn into the Pt fcc lattice, leading to the formation of intermetallic alloys such as PtSn and Pt3Sn. The exact surface reaction equations are not provided, but the formation of these alloys is discussed in the context of the ALD process and TPR."
-}<|im_end|>

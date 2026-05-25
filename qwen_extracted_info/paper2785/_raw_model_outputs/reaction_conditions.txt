@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD of HfO2 involve the adsorption of hafnium precursors and subsequent reactions with surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The process leads to the formation of a HfO2 layer with an amorphous structure, and the presence of metallic hafnium at the interface is indicated by the formation of a metallic hafnium layer during argon ion etching.",
-  "intermediate_species": ["surface hydroxyls", "metallic hafnium"],
-  "evidence": "It is found that (i) the ALD-grown HfO2 films are amorphous, while the MOCVD-grown films show signs of a crystal structure; (ii) the surface of the ALD-grown films is more prone to contamination and/or is more reactive; and (iii) the amount of interfacial silicon dioxide in the case of the MOCVD-grown film is greater than in the case of the films synthesized by ALD. It is also shown that the argon ion etching of the HfO2 film results in the formation of a metallic hafnium layer at the interface."
-}<|im_end|>

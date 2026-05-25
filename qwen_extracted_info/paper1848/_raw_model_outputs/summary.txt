@@ -1,8 +1,0 @@
-{
-  "target_material": "SiO2",
-  "process_type": "pure ALD",
-  "main_precursors": ["SiCl4", "H2O", "NH3"],
-  "temperature_range": "room temperature",
-  "summary": "The study describes the growth of porous SiO2 thin films through a pure atomic layer deposition (ALD) process at room temperature using SiCl4, H2O, and NH3 as precursors. The process minimizes contamination and enables the deposition of ultra-thin films with low chloride contamination, suitable for 3D-coated substrates.",
-  "evidence": "In this study, less contaminated and porous SiO2 films were grown via ALD at room temperature. ... This pure ALD approach generated porous oxide layers with very low chloride contamination in films. ... The ALD mode was confirmed by tuning the exposition of each precursor and the related purges. ... The study describes the growth of porous SiO2 thin films through a pure atomic layer deposition (ALD) process at room temperature using SiCl4, H2O, and NH3 as precursors."
-}<|im_end|>

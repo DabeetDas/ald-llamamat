@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ge(N(Si(CH3)3)2)2", "((CH3)3Si)2Se"],
-  "coreactants": ["methanol"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The Ge and Se precursors were Ge(N(Si(CH3)3)2)2 and ((CH3)3Si)2Se, respectively... The Ge- and Se- precursor vapors were carried into the ALD reactor with 100, 50 standard cubic centimeters per minute (sccm) of Ar carrier gas while methanol was carried with 200 sccm. To purge excess precursors and byproducts, 200 sccm Ar gas was injected right after the precursor injection sequence."
-}<|im_end|>

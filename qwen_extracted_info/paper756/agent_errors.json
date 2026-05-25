@@ -1,3 +1,0 @@
-{
-  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{   \"deposition_temperature_C\": 400,   \"pressure\": \"5 mTorr\",   \"precursor_pulse_time_s\": 35,   \"coreactant_pulse_time_s\": 100,   \"purge_time_s\": 10,   \"number_of_cycles\": null,   \"reactor_type\": \"home-built reactor\",   \"evidence\": \"For ALA samples, each cycle also included a 20 s Ar plasma treatmen'"
-}

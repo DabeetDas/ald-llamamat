@@ -1,7 +1,0 @@
-{
-  "precursors": ["Mo(CO) 6", "Mo(NtBu)2(NMe2)2"],
-  "coreactants": ["O3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "ALD of MoO x: Amorphous molybdenum oxide was deposited from molybdenum hexacarbonyl [Mo(CO) 6] (Gelest, USA) and ozone (O 3) at 170 °C in a flow type custom build reactor using N2 (99.995%) as carrier and purging gas."
-}

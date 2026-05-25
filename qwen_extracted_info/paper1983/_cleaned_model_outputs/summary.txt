@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "atomic layer epitaxy (ALE)",
-  "main_precursors": ["trimethylgallium (TMGa)", "tertiarybutylarsine (TBAs)"],
-  "temperature_range": "500–550 °C",
-  "summary": "The study investigates the real-time behavior of the RHEED specular beam intensity during atomic layer epitaxy (ALE) of GaAs using trimethylgallium (TMGa) and tertiarybutylarsine (TBAs) as precursors. The temporal variations in RHEED intensity and reflectance difference (RD) signal provide insights into surface reactions and the evolution of surface reconstructions during ALE. The process involves distinct phases of surface reactions, with RHEED intensity reflecting changes in surface atomic structure and morphology, while RD monitors Ga dimer formation/annihilation.",
-  "evidence": "The intensity behavior of the specular beam in reflection high energy electron diffraction (RHEED) from GaAs (001) is investigated during the exposure of trimethylgallium (TMGa) and tertiarybutylarsine (TBAs) in atomic layer epitaxy (ALE) of GaAs. The temporal behavior of RHEED specular beam intensity corresponding to the transient behavior of the reflectance difference (RD) at 632.8 nm reveals several phases of surface reactions in ALE using TMGa and TBAs. The experiments were performed in an UHV system with substrate temperatures ranging from 500 to 550 °C."
-}

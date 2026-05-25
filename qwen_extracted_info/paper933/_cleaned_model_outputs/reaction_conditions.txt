@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The decomposition of TDMAH in the presence of water produces HN(CH3)2 under both CVD and ALD conditions. In the ALD water pulse cycle, HN(CH3)2 is not the dominant gas phase product observed. Additionally, increasing amounts of CH4, CO and HCN, that could give rise to impurity incorporation, are produced as the growth temperature is increased.",
-  "intermediate_species": ["HN(CH3)2", "CH4", "CO", "HCN"],
-  "evidence": "In the study presented in this work HfO2 deposition was performed with tetrakis(dimethylamido)hafnium (TDMAH) [...] the production of these small molecules at elevated temperatures is not too surprising. However, whether their appearance plays a distinct role in determining the nature of the deposited oxide remains to be established. [...] The complete identiﬁcation of all of these species is not yet fully realized, however we can conﬁrm that they include CH4, CO and HCN, characteristic spectral features and their temperatures of observation are tabulated in Table 1 for the CVD and ALD half-cycle studies."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The reduction in C incorporation in the GaAs film grown by LALE using TEGa relative to that using TMGa is a result of different reaction mechanisms. One of the expected decomposition products from TEGa is C2H4 as opposed to a radical CH3 in the case of TMGa. The stable C2H4 is much less reactive and less likely to be involved in processes resulting in C incorporation. The 13-elimination model of TEGa decomposition leads to Ga species free of C.",
-  "intermediate_species": ["C2H4", "CH3", "Ga species free of C"],
-  "evidence": "The reduction in C incorporation in the GaAs film grown by LALE using TEGa relative to that using TMGa is a result of different reaction mechanisms. The details of TEGa and TMGa decomposition on GaAs surfaces are still being developed. A comparison can be made only by inferring the mechanism from their gas phase decomposition behavior. One of the expected decomposition products from TEGa is C2H4 as opposed to a radical CH3 in the case of TMGa. The stable C2H4 is much less reactive and less likely to be involved in processes resulting in C incorporation. The 13-elimination model of TEGa decomposition leads to Ga species free of C."
-}

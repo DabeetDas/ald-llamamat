@@ -1,7 +1,0 @@
-{
-  "precursors": ["TEMAH"],
-  "coreactants": ["H2O", "O3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "HfO2 was deposited in an ASM Pulsar 3000 reactor, a low profile hot wall cross-flow ALD reactor. HfO2 layers were deposited either by TEMAH /H2O or TEMAH /O3 chemistry, besides a small set of reference samples by HfCl4 /H2O. TEMAH /H2O (highly viscous liquid) and HfCl4 /H2O (powder) were delivered from a heated source with a cross-flow style vessel (no bubbling). N2 was used as carrier and purge gas."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "Ozone-Based ALD",
-  "main_precursors": ["Dimethylaluminum chloride (DMACl)", "Ozone"],
-  "temperature_range": "150 to 350 °C",
-  "summary": "The study explores the use of ozone as an oxidant in the atomic layer deposition (ALD) of Al2O3 films using dimethylaluminum chloride (DMACl) as the aluminum precursor. The process is compared to traditional water-based ALD processes, highlighting benefits such as improved film adhesion, shorter purge times, and enhanced surface passivation. The optimal deposition temperature is found to be 250 °C, which provides the best chemical passivation after thermal treatments. The results indicate that ozone-based ALD can effectively passivate silicon surfaces, making it a viable alternative to water-based processes in semiconductor applications.",
-  "evidence": "The study explores the use of ozone as an oxidant in the atomic layer deposition (ALD) of Al2O3 films using dimethylaluminum chloride (DMACl) as the aluminum precursor. The process is compared to traditional water-based ALD processes, highlighting benefits such as improved film adhesion, shorter purge times, and enhanced surface passivation. The optimal deposition temperature is found to be 250 °C, which provides the best chemical passivation after thermal treatments. The results indicate that ozone-based ALD can effectively passivate silicon surfaces, making it a viable alternative to water-based processes in semiconductor applications."
-}

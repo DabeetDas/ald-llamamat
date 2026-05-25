@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Titanium isopropoxide (TIP)", "deionized water"],
-  "temperature_range": "70 /C176C",
-  "summary": "The study investigates the growth of TiO2 nanostructures using atomic layer deposition (ALD) on apoferritin protein cages. The process involves the use of TIP and deionized water as precursors, with thermal pretreatment and osmotic dehydration to control deposition on both the outer surface and inner cavity of apoferritin. The results show the formation of either hollow spherical nanoparticles or core-shell nanoparticles depending on the experimental conditions.",
-  "evidence": "The text states: 'Deposition was performed at 70 /C176Cu n d e rN 2 atmosphere.' and 'Thermal pretreatment and osmotic dehydration lead to controllable deposition both on the outer surface and within the inner cavity of apoferritin.'"
-}<|im_end|>

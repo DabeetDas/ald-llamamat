@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "During the Ru subcycle, nitrogen radicals in the N2/H2 plasma reacted with metallic Ta, and hydrogen radicals broke Ta–C bonding to form metallic Ta. This process reduced carbon impurities and increased the atomic concentration ratio of N to Ta in Ru–TaN.",
-  "intermediate_species": ["metallic Ta", "nitrogen radicals", "hydrogen radicals"],
-  "evidence": "Nitridation of Ta into TaN using nitrogen-containing reactive species has been reported. Therefore, hydrogen radicals in N2/H2 plasma broke Ta–C bonding, and nitrogen radicals in the plasma reacted to metallic Ta during N2/H2 plasma pulsing in Ru subcycles of Ru–TaN supercycles."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "a-Fe2O3",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Fe(thd)3", "ozone"],
-  "temperature_range": "186 8C",
-  "summary": "The study investigates the effect of magnetic fields on the growth of a-Fe2O3 thin films using atomic layer deposition (ALD). The growth of films on soda-lime-glass substrates is influenced by magnetic fields, leading to changes in texture and growth rate, while films on a-Al2O3(0 0 1) substrates remain unaffected. The growth rate on soda-lime-glass substrates is reduced by a factor of 3/2 in the presence of a magnetic field.",
-  "evidence": "The thin-ﬁlm growth of a-Fe2O3 was performed with Fe(thd)3 (Hthd: 2,2,6,6-tetramethylheptan-3,5-dione) as iron precursor and ozone as oxygen source. The reaction temperature was 186 8C. The growth rate of ﬁlms deposited on soda–lime–glass substrates is reduced by a factor of 3/2 by application of a magnetic ﬁeld, whereas the growth rate on a-Al2O3(0 0 1) is not affected."
-}

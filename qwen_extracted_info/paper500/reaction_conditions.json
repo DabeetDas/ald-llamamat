@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The excess As is actually required to achieve single ML/cycle growth. In this model the extra outer layer As protects the inner complete As layer from desorption and facilitates the reaction of the incoming group III source in an epitaxial fashion.",
-  "intermediate_species": [
-    "As dimers",
-    "methyl radicals"
-  ],
-  "evidence": "In a recent publication we proposed a model for the chemical processes governing ALE of GaAs using RDS as the main analytical technique. Since the known surface reconstructions of GaAs following As-exposure under ALE conditions are known to involve more than one ML of As, it has been di⁄cult to explain how self-limiting growth rates of 1 ML per cycle could be obtained under ALE conditions. We proposed a simple model in which the excess As is actually required to achieve single ML/cycle growth. In this model the extra outer layer As protects the inner complete As layer from desorption and facilitates the reaction of the incoming group III source in an epitaxial fashion. As evidence for this model we showed by time resolved RDS measurements that an As-rich surface remains As rich despite the addition of over 0.5 ML of trimethylgallium. In a similar fashion, it has previously been proposed that methyl radicals stabilize the surface coverage of Ga terminated surfaces under ALE conditions. In the absence of methyl radicals, all known Ga-rich surfaces of GaAs consists of less than 1 ML of Ga. In our model both mechanisms are required to give the observed growth rate of 1 ML/cycle."
-}

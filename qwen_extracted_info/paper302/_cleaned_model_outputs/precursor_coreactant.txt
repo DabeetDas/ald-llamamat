@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ge(O nBu)4", "(C5H5)Zr[N(CH3)2]3"],
-  "coreactants": ["O3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "For ALD, germanium butoxide (Ge(O nBu)4) and tris(dimethylamino)cyclopentadienyl zirconium ((C5H5)Zr[N(CH3)2]3) were used as the Ge and Zr precursors, respectively. Each of these precursors was contained in a stainless-steel bubbler, which was heated to 105–40 /C176C, respectively, to achieve sufficient vapor pressures. Both precursor vapors were transported to a reaction chamber using Ar as the carrier gas, whose flow rate of 50 sccm was controlled by a mass flow controller (MFC). Ar gas with the same flow rate was used to purge the excess gas molecules and by-products between each precursor and reactant exposure step."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Antimony and its compounds",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["SbCl3", "(Et3Si)3Sb"],
-  "temperature_range": "95 /C176C to 250 /C176C",
-  "summary": "The study reports the atomic layer deposition (ALD) of antimony and its compounds using dechlorosilylation reactions of tris(triethylsilyl)antimony with SbCl3. The process enables the deposition of elemental antimony and various antimony compounds such as GeSb, Sb2Te, GaSb, and AlSb. The low growth temperatures down to 95 /C176C allow for the use of temperature-sensitive materials. The ALD process is significant for the development of non-volatile phase change random access memories (PCRAM) and the deposition of III-V antimonide compounds.",
-  "evidence": "Pure and conformal thin films of elemental antimony were prepared by ALD using SbCl3 and (Et3Si)3Sb as precursors. In situ reaction mechanism studies showed that the dehalosilylation reactions involved are very efficient in eliminating the ligands from the growing surface enabling the use of low growth temperatures down to 95 /C176C. Various antimony compounds, such as GeSb, Sb2Te, GaSb, and AlSb, can also be deposited by reacting (Et3Si)3Sb with other metal halides or mixing Sb growth cycles with other ALD processes. The new antimony ALD process is a major step in the realization of non-volatile phase change random access memories (PCRAM) and ALD of III-V compounds."
-}

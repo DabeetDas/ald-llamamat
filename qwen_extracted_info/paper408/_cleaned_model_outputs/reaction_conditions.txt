@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Self-limiting growth occurs for both silicon and carbon surfaces. Silicon growth by Si2H6 exposure at 1050 °C ends at 1.3 ML, producing a (3 x 2) silicon-covered surface. Carbon growth by C2H2 exposure ends at 1 ML, producing a c(2 x 2) carbon surface. The spontaneous atomic layer desorption of silicon during C2H2 exposure is consistent with the nature of exact atomic layer epitaxy.",
-  "intermediate_species": ["silicon dimer layer", "additional silicon atoms", "carbon atoms"],
-  "evidence": "The silicon desorption during C2H2 exposure may be attributed to weak bonding between the additional silicon atoms and the silicon atoms underneath. Takai et al. found, from numerical calculations, that the Si-Si and the Si-C surface bond energies are 2.817 eV and 3.895 eV respectively. This suggests that Si-Si bonds between the top additional silicon atoms and the silicon atoms in the second layer are considerably weaker than bulk Si-C bonds. This weak adsorption of the additional silicon atoms seems to be the cause of the desorption under C2H2 exposure at the high temperature of 1050 °C."
-}

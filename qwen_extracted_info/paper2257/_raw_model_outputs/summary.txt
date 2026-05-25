@@ -1,8 +1,0 @@
-{
-  "target_material": "CdTe",
-  "process_type": "Atomic layer epitaxy (ALE)",
-  "main_precursors": ["Cadmium", "Tellurium"],
-  "temperature_range": "540 K",
-  "summary": "The study describes the atomic layer epitaxy (ALE) growth of high-quality CdTe films on CdTe (110) substrates. The process involves alternating pulses of Cd and Te2, with a growth temperature of 540 K. The films exhibit high structural perfection and stoichiometry, with a work function of 5.75 eV ± 0.05 eV. The research also highlights the presence of an intrinsic surface state at 0.33 eV below the valence-band maximum, observed for the first time in epitaxially grown II-VI compound semiconductor films.",
-  "evidence": "It is shown that growth of homo epitaxial CdTe films on CdTe (110) substrates by the atomic layer epitaxy method can lead to high structural perfection. The work function of the films was found to be 5.75 eV ± 0.05 eV independent of whether the growth was terminated by a Cd pulse or Te2 pulse. The ALE-grown films were analysed in situ at room temperature by employing electron spectroscopic methods and low-energy electron diffraction (LEEO)."
-}<|im_end|>

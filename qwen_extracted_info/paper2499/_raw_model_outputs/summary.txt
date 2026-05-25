@@ -1,8 +1,0 @@
-{
-  "target_material": "alumina",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminum", "water"],
-  "temperature_range": "450 K",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to coat titania nanoparticles with ultrathin alumina films. The process involves sequential surface reactions of trimethylaluminum and water, resulting in highly uniform and conformal films. The films were found to be amorphous and did not promote particle sintering. The ALD process was carried out in a fluidized bed reactor at low pressure and under mechanical vibration.",
-  "evidence": "Surface modification of titania nanoparticles was achieved by coating them with ultrathin alumina films using atomic layer deposition. The coating process was performed in a fluidized bed reactor at low pressure and under mechanical vibration. Films were deposited using self-limiting, sequential surface reactions of trimethylaluminum and water. The deposited films had an average growth rate of 0.2 nm/coating cycle and were highly uniform and conformal as demonstrated by transmission electron microscopy and X-ray spectroscopy. Deposited alumina films were amorphous as verified through X-ray diffraction and high-resolution electron microscopy. The coating process did not promote particle sintering as validated via particle size and surface area analysis."
-}<|im_end|>

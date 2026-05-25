@@ -1,7 +1,0 @@
-{
-  "precursors": ["Y(iPrCp)3"],
-  "coreactants": ["O2 remote plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "The precursor and the oxidant are Y(iPrCp)3 and remote oxygen plasma, respectively. ... The mass-flow rates for Ar purge and precursor delivery lines were 60 and 100 sccm, respectively. ... The cylinder of the precursor was kept at 140 °C. ... The Ar boost gas was injected into the cylinder first before the precursor is injected into the chamber."
-}

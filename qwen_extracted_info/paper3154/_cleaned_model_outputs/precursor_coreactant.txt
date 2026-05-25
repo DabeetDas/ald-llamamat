@@ -1,7 +1,0 @@
-{
-  "precursors": ["HfCl4", "TiCl4"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The metal precursors were HfCl4 and TiCl4. H2O was used as the oxygen source. A typical ALD process occurs in a sequence of metal and oxygen source pulses separated by N2 purge periods."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The formation of lanthanum hydroxide (La(OH)3) due to moisture absorption, which leads to the degradation of La2O3 films. The Al2O3 capping layer suppresses the formation of lanthanum hydroxide by preventing the diffusion of OH groups.",
-  "intermediate_species": ["lanthanum hydroxide", "La-silicate"],
-  "evidence": "The results of x-ray photoemission spectroscopy showed that the quantity of OH groups absorbed increased after exposure to air. The formation of low permittivity lanthanum hydroxide and La-silicate grown at the interface, which generate charges in the gate dielectric and lead to a large flatband voltage shift."
-}<|im_end|>

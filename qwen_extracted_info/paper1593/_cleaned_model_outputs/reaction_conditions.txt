@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process reduces the pores of the PAA template by depositing SiO2 layers, which are subsequently removed by dry etching, allowing for the electrodeposition of Au nanowires. The pore reduction is achieved through the deposition and removal of SiO2 layers, which enables the fabrication of size-reduced nanowires while maintaining interpore spacing and pore density.",
-  "intermediate_species": ["SiO2 nanotubes", "SiO2 layer", "open ends of SiO2 nanotubes"],
-  "evidence": "The ALD technique enables the fine-tuning of the pore size or the nanowire diameter at an angstrom scale. The SiO2 ALD was carried out in a home-built setup at room temperature using sequential SiCl4 and DI water exposures. The growth rate was measured by variable angle spectroscopic ellipsometer and high-resolution transmission electron microscopy. The SiO2 nanotubes enveloping the Au NWs have a side-wall thickness of 10 nm (80 cycles), 17 nm (220 cycles), and 22 nm (280 cycles). The TEM images show that the SiO2 nanotubes have open ends as a result of the dry etching prior to electrodeposition."
-}

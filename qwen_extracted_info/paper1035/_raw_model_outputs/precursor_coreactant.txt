@@ -1,7 +1,0 @@
-{
-  "precursors": ["Hf[N(CH3)(C2H5)]4", "HfCl4", "Ta(OC2H5)5", "Nb(OC2H5)5"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "HfO2 films were grown at 205, 235, and 300 8C from Hf[N(CH3)(C2H5)]4 onto the Si(100) substrate covered with chemically grown 1.2- to 1.8-nm-thick SiO2 layer. The Hf[N(CH3)(C2H5)]4 was evaporated from an open boat at 60 8C inside the reactor. HfO2 films were also grown from HfCl4 at 300 8C, but onto Si(100) substrate etched in HF aqueous solution (1%) for 0.5 min in order to remove native SiO2. HfCl4 was evaporated at 160 8C. The Ta2O5 films were grown from Ta(OC2H5)5 and H2O at 300 8C on HF-etched p-Si(100), using Ta precursor pulse length of 0.2 s and water pulse length of 2.0 s. Purge time was 0.5 s. The same parameters were used for Nb2O5 growth."
-}<|im_end|>

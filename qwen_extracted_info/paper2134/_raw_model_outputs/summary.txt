@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "O3", "H2O"],
-  "temperature_range": "375 °C",
-  "summary": "The study investigates the energy band alignment of HfO2 films grown on Ge using atomic layer deposition (ALD). The films were grown using HfCl4 as the hafnium precursor and O3 or H2O as oxygen precursors. The valence-band offset (VBO) values were determined by XPS to be 3.0±0.1 eV and 3.1±0.1 eV for samples grown with O3 and H2O, respectively. The conduction-band offset (CBO) was found to be 2.0±0.1 eV by IPE. The presence of a GeOx interfacial layer did not affect the band alignment. The study aimed to understand the band alignment for potential use in high-k dielectrics in microelectronic devices.",
-  "evidence": "HfO2 films have been grown using HfCl4 as hafnium precursor while O3 or H2O have been used as oxygen precursors. The valence-band offset (VBO) values, determined by XPS, are 3.0±0.1 eV and 3.1±0.1 eV for the samples grown using O3 and H2O, respectively. A conduction-band offset (CBO) value of 2.0±0.1 eV has been obtained by IPE for all the samples. The presence of a thick GeOx interfacial layer in the samples grown using O3 is not affecting the band alignment of the HfO2/Ge heterojunction."
-}<|im_end|>

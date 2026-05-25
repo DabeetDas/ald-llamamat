@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "Plasma-Assisted ALD",
-  "main_precursors": ["TiCl4", "H2-N2 plasma"],
-  "temperature_range": "100 to 400°C",
-  "summary": "The study describes the deposition of titanium nitride (TiN) using plasma-assisted atomic layer deposition (PA-ALD) with TiCl4 as a precursor and H2-N2 plasma. The process was investigated for its ability to deposit high-quality TiN films at low temperatures, with a focus on the effects of plasma exposure and deposition temperature on film properties such as resistivity, impurity content, and growth rate. The results show that PA-ALD can produce TiN films with low resistivity and good step coverage, making it suitable for applications requiring low-temperature deposition.",
-  "evidence": "Titanium nitride /H20849TiN/H20850 films were deposited by a plasma-assisted atomic layer deposition /H20849PA-ALD/H20850 process, based on TiCl4 precursor dosing and remote H2-N2 plasma exposure, at temperatures ranging from 100 to 400°C. The plasma, the PA-ALD process, and the resulting TiN material properties were extensively investigated. The stoichiometry of the films varied with the plasma exposure time, while the Cl content was mostly affected by the deposition temperature. Resistivities as low as 71/H9262/H9024cm were obtained at a temperature of 400°C, while at 100°C a fair resistivity of 209 /H9262/H9024cm was reached. These results show that PA-ALD with TiCl4 and H2-N2 plasma is well suited for low-temperature deposition of high-quality TiN films."
-}

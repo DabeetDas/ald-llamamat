@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "A chemisorption reaction of Zr precursor on a Ti-O layer, leading to a deposited Zr-O layer with a different surface termination structure from that in the binary process. The deposition rate of Zr was constant throughout repetition and independent of the underlying Ti-O and Zr-O layers.",
-  "intermediate_species": ["Zr-O layer", "Ti-O layer", "Pb-O layer"],
-  "evidence": "The deposition rate of Zr was independent of the underlying Ti-O and Zr-O layers. The deposited Zr-O layer might have a different surface termination structure from that in the binary process. The present linear relationship with the zero x and y-intercepts indicates that the deposition rate of Zr was constant throughout repetition."
-}

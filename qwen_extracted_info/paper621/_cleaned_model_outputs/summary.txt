@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnS",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["ZnCl2", "H2S"],
-  "temperature_range": "500 °C",
-  "summary": "Polycrystalline ZnS films were grown on glass and mica using atomic layer epitaxy (ALE). The study focused on the morphological and crystalline changes during the ALE growth of ZnS, revealing differences in nucleation density and surface roughness between the two substrates. The films on glass were smoother than those on mica due to higher nucleation density on glass.",
-  "evidence": "Polycrystalline ZnS films were grown from ZnCl2 and H2S on glass and mica using the atomic layer epitaxy ALE technique. The growth rate was 1.0 ± 0.1 Å/cycle on glass, but on mica the growth rate was dependent on the number of the deposition cycles. The nucleation density on glass is much higher and, as a consequence, the films on glass remain considerably smoother than on mica."
-}

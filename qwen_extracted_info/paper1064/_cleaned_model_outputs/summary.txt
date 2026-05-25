@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "ALD",
-  "main_precursors": ["Diethyl zinc (DEZn)", "H2O"],
-  "temperature_range": "100–250 °C",
-  "summary": "The study investigates the effects of substrate temperature on the microstructure and photoluminescence properties of ZnO thin films deposited by atomic layer deposition (ALD). The ALD window is found to be 130–180 °C, with the film growth rate increasing as the substrate temperature increases outside this range. The crystallinity of the ZnO thin film is improved by increasing the process time per ALD cycle or post-annealing treatment. The grain size and shape of the ZnO film are influenced by the annealing temperature.",
-  "evidence": "The ALD window is found to be 130 –180 °C. The ZnO film growth rate in ALD increases as the substrate temperature increases in the temperature range except the temperature window. The crystal quality depends most strongly upon the substrate temperature among all the process parameters of ALD. The crystallinity of the ZnO thin film is improved by increasing the process time per ALD cycle or doing post-annealing treatment. The grain size of the ZnO film tends to increase and the grain shape tends to change from a worm-like longish shape to a round one as the annealing temperature increases from 600 to 1000 °C."
-}

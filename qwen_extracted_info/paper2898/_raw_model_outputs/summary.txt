@@ -1,8 +1,0 @@
-{
-  "target_material": "Zirconia (ZrO2)",
-  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["tris(dimethylaminocyclopentadienyl)-zirconium (ZyALD)", "tertbutyliminotris(diethylamino)tantalum (TBTDET)", "tetrakis(dimethylamino)germanium (TDMAGe)"],
-  "temperature_range": "250°C",
-  "summary": "The study focuses on stabilizing the tetragonal phase of zirconia (ZrO2) for use in Metal-Insulator-Metal (MIM) capacitors by alloying it with metals such as tantalum (Ta) and germanium (Ge). The stabilization of the tetragonal phase is crucial for achieving the required capacitance density of 40fF/µm². The PEALD process is used to deposit the zirconia films, and the addition of metal precursors modifies the crystalline structure and electrical properties of the films. The results show that germanium incorporation increases the crystallization temperature, leading to amorphous layers at high concentrations, while tantalum forms orthorhombic compounds that reduce the dielectric constant. The study highlights the importance of metal addition in improving the reliability and electrical properties of ZrO2 for decoupling capacitors.",
-  "evidence": "Zirconia thin films were deposited by Plasma Enhanced Atomic Layer Deposition (PEALD) in a ASM ® Emerald reactor. Depositions were made at 250°C. We used tris(dimethylaminocyclopentadienyl)-zirconium (ZyALD), tertbutyliminotris(diethylamino)tantalum (TBTDET) and tetrakis(dimethylamino)germanium (TDMAGe) as zirconium, tantalum and germanium precursors, respectively."
-}<|im_end|>

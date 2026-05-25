@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Oxygen diffusion from high-k gate dielectric to metal gate causes [V++] in dielectric. Longer deposition cycle (i.e. thicker TiN) would have more hydrogen-related defects into films because NH3 was employed as a reactant gas, which affects VFB. Relative higher VFB with ALD TaN cap stems from incorporated oxygen in film. Incorporated oxygen into ALD TaN is known to pMOS compatible metal gate because oxygen would passivate pre-existing [V++]",
-  "intermediate_species": ["oxygen vacancy (V++)", "hydrogen-related defects"],
-  "evidence": "Oxygen diffusion from high-k gate dielectric to metal gate causes [V++] in dielectric. Longer deposition cycle (i.e. thicker TiN) would have more hydrogen-related defects into films because NH3 was employed as a reactant gas, which affects VFB. Relative higher VFB with ALD TaN cap stems from incorporated oxygen in film. Incorporated oxygen into ALD TaN is known to pMOS compatible metal gate because oxygen would passivate pre-existing [V++]"
-}<|im_end|>

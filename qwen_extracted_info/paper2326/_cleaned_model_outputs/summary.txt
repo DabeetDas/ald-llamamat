@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3 and AlF3",
-  "process_type": "Thermal ALD and ALE",
-  "main_precursors": ["trimethylaluminum (TMA)", "hydrogen fluoride (HF)"],
-  "temperature_range": "155–245 ◦C",
-  "summary": "The study investigates the competition between Al2O3 atomic layer etching (ALE) and AlF3 atomic layer deposition (ALD) using sequential exposures of trimethylaluminum (TMA) and hydrogen fluoride (HF). The process is influenced by reaction temperature and background gas pressure, with higher temperatures favoring ALE and lower temperatures favoring ALD. The transition between ALD and ALE is determined by the stability of surface species and the thermal conductivity of the background gas.",
-  "evidence": "The transition from AlF3 ALD to Al2O3 ALE occurred versus reaction temperature and was also influenced by the N2 or He background gas pressure. Higher temperatures and lower background gas pressures led to Al2O3 ALE. Lower temperatures and higher background gas pressures led to AlF3 ALD."
-}

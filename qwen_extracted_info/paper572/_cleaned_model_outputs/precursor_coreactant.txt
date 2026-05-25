@@ -1,7 +1,0 @@
-{
-  "precursors": ["Indium acetyl acetonate", "Diethylzinc", "Trimethylaluminum"],
-  "coreactants": ["H2S", "Water"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The metal elements were either zinc (from electronic grade diethylzinc), aluminum (from trimethylaluminum) or indium (from Indium acetyl acetonate). The carrier and purging gas was nitrogen (99.999%)."
-}

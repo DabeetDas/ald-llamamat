@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2-II",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "375 to 550°C",
-  "summary": "The study investigates the formation of TiO2-II thin films via atomic layer deposition (ALD) using TiCl4 and H2O as precursors. The growth conditions, including precursor doses, purge times, and surface reactions, significantly influence the crystal structure of the films. The critical thickness (dc) where TiO2-II structure is maintained is affected by precursor doses and purge times, with incomplete chloride coverage leading to rutile formation. The process type is thermal ALD, and the temperature range is 375 to 550°C.",
-  "evidence": "The role of precursor doses and purge times on the atomic layer deposition (ALD) of high-density ~-PbO2-type TiO2 polymorph (TiO2-II) is studied. It has been shown that the conditions closest to ideal ALD result in the most favourable growth of TiO2-II films from TiCl4 and H2O. Complete coverage of solid surface with chloride during TiCl4 pulse is a crucial precondition for obtaining TiO2-II structure. The maximum thickness of pure TiO2-II films is limited and depends on the growth conditions. The gas-phase reactions and the surface reactions via OH-groups which reduce the C1/Ti ratio in the surface intermediate layer formed during TiCl4 pulse, cause a decrease in this value."
-}<|im_end|>

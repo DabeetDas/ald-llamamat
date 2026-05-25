@@ -1,7 +1,0 @@
-{
-  "precursors": ["TiCl4"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ALE Procedure section states: 'Nitrogen (99.999%) was used as carrier gas in the ALE reactor.' Additionally, the text mentions 'the reaction at 550 "C was also carried out with silica preheated at 750 and 820 "C.' The coreactant H2O is mentioned in the discussion: 'At temperatures above 300 "C an increasing number of OH groups of silica most probably were directly chlorinated by Tic4 leading to volatile Ti(OH)Clx (x = 1-3) species.'"
-}<|im_end|>

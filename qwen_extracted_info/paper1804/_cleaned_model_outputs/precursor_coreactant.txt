@@ -1,7 +1,0 @@
-{
-  "precursors": ["Mo(CO) 6", "H2S"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The growth was performed on a 100 nm-thick thermally oxidized SiO 2/Si substrates at growth temperatures ranging from 120 to 200 oC. Mo(CO) 6 was used as the Mo precursor. The canister containing the Mo(CO) 6 precursor was kept at room temperature and the precursor was delivered into the chamber using a N 2 flow rate of 150 sccm. The delivery line of the Mo(CO) 6 precursor was heated to 55 oC. H2S (3.5%)/N 2 gas with a flow rate of 200 sccm was used as the S source. The reactor was thoroughly purged with N 2 gas between the Mo(CO) 6 and H 2S injection steps in order to prevent the intermixing of the precursors."
-}

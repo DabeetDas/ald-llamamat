@@ -1,8 +1,0 @@
-{
-  "target_material": "Silicon dioxide (SiO2)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["3-aminopropyltriethoxysilane (APTES)", "water", "ozone"],
-  "temperature_range": "150 °C",
-  "summary": "The study presents a low-temperature thermal atomic layer deposition (ALD) process for silicon dioxide (SiO2) using 3-aminopropyltriethoxysilane (APTES), water, and ozone as precursors. The process achieves uniform and perfect surface coverage, even in nanoscale pores, and demonstrates high-quality SiO2 with properties comparable to thermal oxide. Rapid thermal annealing (RTA) at 1000 °C significantly improves certain properties, such as etch rate and oxide charges. The material shows excellent optical, structural, and electrical properties, making it suitable for nanoelectronics and nanotechnology applications.",
-  "evidence": "The text states: 'Low temperature silicon dioxide by thermal atomic layer deposition: Investigation of material properties' and 'The ALD reaction based on 3-aminopropyltriethoxysilane, water, and ozone provides outstanding SiO2 quality and is free of catalysts or corrosive by-products.' Additionally, 'The substrate temperature for all samples was 150 °C.'"
-}<|im_end|>

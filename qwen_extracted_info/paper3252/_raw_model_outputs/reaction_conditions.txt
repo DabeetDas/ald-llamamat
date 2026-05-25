@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the formation of an interlayer mediated by SiN_x during the PE-ALD process using N2/H2 plasma, which limits the diffusion of Co into Si during RTA, resulting in the epitaxial formation of CoSi2. The NH3 radicals, formed from the N2/H2 plasma, play a critical role in depositing low-resistivity Co films.",
-  "intermediate_species": ["SiN_x interlayer", "NH3 radicals"],
-  "evidence": "The formation of an interlayer mediated by SiN_x during the PE-ALD process using N2/H2 plasma, which limits the diffusion of Co into Si during RTA, resulting in the epitaxial formation of CoSi2. The NH3 radicals, formed from the N2/H2 plasma, play a critical role in depositing low-resistivity Co films."
-}<|im_end|>

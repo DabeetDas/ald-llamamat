@@ -1,7 +1,0 @@
-{
-  "precursors": ["Mn(EtCp)2", "TTIP"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "A careful choice of precursors and ALD conditions is necessary for the growth of a ternary oxide system. Bis-(ethylcyclopentadienyl)manganese (Mn(EtCp)2 Strem Chemicals), titanium tetraisopropoxide (TTIP, Aldrich), and water were used as the Mn source, Ti source, and O source, respectively. The saturation conditions for the binary oxide components were selected from previous reports and reevaluated throughout sample preparation. The precursors for these systems were chosen to have compatible ALD windows. Both TTIP and Mn(EtCp)2 use water as the counter reactant. The ALD window is reported to be between ∼190 and 260 °C for the formation of TiO2 and between 100 and 300 °C for the formation of MnO. A stage temperature of 200 °C, falling within both systems’ ALD windows, was selected. The chemistry of the reactants was also chosen to avoid formation of more stable non-oxide byproducts. For example, the use of TiCl4 as the Ti source leads to the formation of MnCl2, which interferes with the desired ALD behavior. ALD was performed in a custom-built, hot-wall ALD reactor complete with five ports for precursors. Films were deposited at 200 °C with a continuous N2 flow rate of 10 sccm."
-}<|im_end|>

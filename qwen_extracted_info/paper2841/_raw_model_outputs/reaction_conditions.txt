@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The actuation mechanism of IPMCs involves the migration of hydrated alkali metal molecules with water molecules to the cathode under an applied bias voltage, leading to an unbalanced stress and bending toward the anode. The redistribution of water molecules generates this stress, and the level of water content significantly affects the actuation performance.",
-  "intermediate_species": ["hydrated alkali metal molecules", "water molecules", "sodium ions"],
-  "evidence": "When a bias voltage is applied between the parallel electrodes, the hydrated alkali metal molecules with water molecules migrate to the cathode, as illustrated in figure 1(b). The redistribution of water molecules in the polymer generates an unbalanced stress, causing the IPMC to bend toward the anode, as shown in figure 1(c)."
-}<|im_end|>

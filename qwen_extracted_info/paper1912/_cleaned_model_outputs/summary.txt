@@ -1,8 +1,0 @@
-{
-  "target_material": "Lithium nitride (Li3N) and lithium carbonate (Li2CO3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["LiN(SiMe3)2", "H2O", "NH3", "CO2"],
-  "temperature_range": "89–332 °C",
-  "summary": "This study demonstrates the atomic layer deposition of lithium nitride (Li3N) and lithium carbonate (Li2CO3) using lithium silylamide (LiN(SiMe3)2) as a precursor. The process involves alternating pulses of the precursor and reactants, with Li2CO3 serving as a model system to study the chemistry and determine the temperature window for deposition. The growth rates for Li3N and Li2CO3 are 0.95 Å/cycle and 0.35 Å/cycle, respectively. The study also highlights the importance of buffer layers for uniform film growth and the crystalline state of the deposited materials.",
-  "evidence": "Lithium silylamide, LiN(SiMe3)2, has been explored as a precursor for the successful deposition of thin films of lithium nitride, Li3N, and of lithium carbonate, Li2CO3, by atomic layer deposition. The growth rate of Li3N is 0.95 Å cycle−1. The growth rate of Li2CO3 is 0.35 Å cycle−1. The crystalline state of Li3N depends on the deposition conditions, and varies from amorphous to a phase mixture of α-Li3N and β-Li3N. The study also discusses the use of buffer layers for uniform film growth and the importance of temperature in determining the crystalline state of the deposited materials."
-}

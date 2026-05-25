@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of precursor molecules on the surface hydroxyl groups, followed by a reaction that forms a surface species and regenerates hydroxyl groups. The stop-flow process allows for higher Knudsen flow rates of precursor gases, leading to homogeneous and complete filling at lower cycle times.",
-  "intermediate_species": ["surface hydroxyls", "precursor molecules"],
-  "evidence": "The text discusses the adsorption of precursor molecules on surface hydroxyl groups and the regeneration of hydroxyl groups during the ALD process. It also mentions the role of Knudsen flow rates in achieving homogeneous filling."
-}<|im_end|>

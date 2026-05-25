@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "ALD",
-  "main_precursors": ["H2O", "diethylzinc (Zn(C2H5)2, DEZn)"],
-  "temperature_range": "150 ◦C",
-  "summary": "The study describes the synthesis of hollow ZnO nanofibers (ZNFs) with uniform wall thicknesses using atomic layer deposition (ALD) on polymer templates. The ALD process involves the sequential deposition of ZnO using H2O and diethylzinc (DEZn) as precursors. The hollow ZNFs are formed by selectively removing the polymer templates through heat treatment. The hollow ZNFs exhibit enhanced sensing properties for gases such as O2, NO2, and CO due to their increased surface-to-volume ratio and nanograins.",
-  "evidence": "ZnO was deposited on these polymer ﬁbers via a conventional ALD technique. The ALD system used in the present work had a horizontal wall reactor. H2O and diethylzinc (Zn(C2H5)2, DEZn) were used as precursors. The temperature and pressure in the reactor were kept at 150 ◦C and 0.3 Torr, respectively. The formation of hollow ZNFs was achieved by heat treatments of >400 ◦C. The excellent sensing properties observed in the hollow ZNF sensor are ascribed to (1) the more pronounced change in resistance due to the presence of nanograins and (2) the doubling of the surface-to-volume ratio due to the generation of inner surfaces."
-}

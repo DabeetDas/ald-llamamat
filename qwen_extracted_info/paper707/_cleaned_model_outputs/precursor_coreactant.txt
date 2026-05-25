@@ -1,7 +1,0 @@
-{
-  "precursors": ["tetrakis(ethylmethylamido)hafnium (TEMAH), Hf[N(CH3)(C2H5)]4"],
-  "coreactants": ["water"],
-  "purge_gas": ["He"],
-  "carrier_gas": [],
-  "evidence": "Two gas lines continuously deliver He to the reactor while two others alternate between delivering TEMAH or water. During the purging step between precursor injections, 75 sccm of He flow through each of the four lines."
-}

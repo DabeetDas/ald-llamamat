@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "Plasma ALD",
-  "main_precursors": ["TDMAT", "NH3"],
-  "temperature_range": "350–400 °C",
-  "summary": "The study evaluates plasma atomic layer deposition (ALD) of TiN as a gate electrode for metal–oxide–semiconductor (MOS) devices, focusing on deposition temperature, capping layers, and post-annealing effects. Lower deposition temperatures and thinner TiN layers with in situ processed ALD TaN capping result in more positive flatband voltage (VFB), suitable for pMOS devices. The EOT is scaled down to around 1.2 nm, and post-annealing at 450 °C causes a negative VFB shift and increased EOT. The mid-gap work-function behavior of plasma ALD TiN indicates its potential as a metal gate material for 3-D devices such as FiNFET.",
-  "evidence": "We evaluated plasma atomic layer deposition (ALD)-based TiN as a gate electrode for the metal–oxide–semiconductor (MOS) devices application by varying thickness, deposition temperature, subsequent metal capping layer and post forming gas anneal (FGA). Lower deposition temperature, thinner TiN, in situ processed ALD TaN capping provides more positive flatband voltage (VFB), compatible for ptype MOS devices. Equivalent oxide thickness (EOT) can be scaled down to /C24 1.2 nm range. With post 450 /C176C FGA, additional negative VFB shift is observed while EOT is substantially increased (>0.2–0.3 nm). Mid-gap work-function behavior is observed with plasma ALD-based TiN, indicating a strong potential candidate metal gate material for replacement gate processed three-dimensional (3-D) devices such as FiN shaped field effect transistor (FiNFET)."
-}<|im_end|>

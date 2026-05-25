@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu",
-  "process_type": "electroless plating",
-  "main_precursors": ["EDTA", "glyoxylic acid", "polyethylene glycol", "Re-610", "2,2'-dipyridine"],
-  "temperature_range": "60-65°C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit a Pd catalyst on a TaN barrier layer for Cu electroless plating. The Pd layer was 3 nm thick and provided good coverage with low surface roughness. The Cu electroless plating process used EDTA as a chelating agent, glyoxylic acid as a reducing agent, and additional chemicals as surfactants and stabilizers. The process was performed at 60-65°C, and ultrasonic vibration was used to remove hydrogen gas generated during the reaction, which improved the adhesion and gap-filling capability of the Cu film.",
-  "evidence": "The Pd ﬁlm deposited by ALD was 3 nm thickness on the TaN substrate and had good coverage with low surface roughness. For the Cu ELD process, we used ethylenediamine-tetraacetic acid (EDTA), glyoxylic acid, and additional chemicals such as polyethylene glycol, Re-610 and 2,2'-dipyridine. The Cu ELD was performed at a temperature of 60-65°C. The success of ELD Cu in gap filling a patterned TaN substrate with 130 nm openings and an aspect ratio of three is attributed to the removal of hydrogen gas from the surface by ultrasonic vibration for 1 s after 15 min of deposition in the bath."
-}<|im_end|>

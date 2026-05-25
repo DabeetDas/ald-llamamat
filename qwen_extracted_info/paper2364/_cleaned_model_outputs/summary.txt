@@ -1,8 +1,0 @@
-{
-  "target_material": "Ga2O3",
-  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["[(CH3)2GaNH2]3", "oxygen plasma"],
-  "temperature_range": "50, 150, and 250 ◦C",
-  "summary": "The study investigates the growth temperature dependence of Ga2O3 thin films deposited by plasma-enhanced atomic layer deposition (PEALD) on p-type Si (100) and quartz substrates. The films were characterized for structural, electrical, and optical properties, with a focus on surface morphology, crystallinity, dielectric behavior, and transmittance. The results show that the films exhibit smooth surfaces, amorphous structures at lower temperatures, and β-phase Ga2O3 after annealing. The dielectric constant decreases with increasing temperature, and the films show high transmittance with band gap energies ranging from 5.0 to 5.3 eV.",
-  "evidence": "In this report, plasma-enhanced atomic layer deposition (PEALD) technique was used to deposit dielectric Ga2O3 thin films at various temperatures (50, 150, and 250 ◦C) on p-type Si (100) and quartz substrates with an alternating supply of reactant source, [(CH3)2GaNH2]3, and oxygen plasma of 150 W. The growth temperature dependences of the Ga2O3 thin films were investigated. The structural, electrical, and optical properties of Ga2O3 thin films deposited at different temperatures were investigated and discussed."
-}

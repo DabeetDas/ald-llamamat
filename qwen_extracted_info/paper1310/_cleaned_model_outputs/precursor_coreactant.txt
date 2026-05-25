@@ -1,7 +1,0 @@
-{
-  "precursors": ["Si2Cl6", "NH3 plasma"],
-  "coreactants": ["NH3 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "During the Si2Cl6 half-cycle, the infrared difference spectra at both temperatures show an almost complete consumption of surface −NH2 species indicated by a decrease in absorbance at ∼1550 cm−1, which is nearly identical to the increase in absorbance for this mode during the NH3 plasma half-cycle."
-}

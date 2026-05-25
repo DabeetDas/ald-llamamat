@@ -1,8 +1,0 @@
-{
-  "target_material": "Ir nanocrystals",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethylaluminum (TMA)", "H2O", "Ir(acac)3", "O2"],
-  "temperature_range": "300 /C14 C",
-  "summary": "The study investigates the growth of high-density Ir nanocrystals (NCs) using atomic layer deposition (ALD) on Al2O3 for nonvolatile memory applications. The in situ growth of Ir NCs on ALD-grown Al2O3 surfaces is found to produce pure metallic Ir NCs with a face-centered cubic crystalline phase, while ex situ nucleation is difficult. The Ir NCs are used as charge trapping layers in memory devices, showing a large memory window and good retention properties. The study highlights the importance of surface conditions in ALD nucleation and the potential of in situ ALD-grown Ir NCs for high-density nonvolatile memory applications.",
-  "evidence": "A careful investigation is made of the growth of Ir nanocrystals (NCs) on Al2O3 by atomic layer deposition (ALD), and a charge trapping memory device using ALD-grown Ir NCs as the charge trapping layer and ALD-grown Al2O3/HfO2 as the tunneling/blocking layers is fabricated. It is found that the ex situ nucleation of Ir NCs on ALD-grown Al2O3 is difficult, though in situ growth can produce pure metallic Ir NCs with a face-centered cubic crystalline phase directly on ALD-grown Al2O3 at the initial growth stage, which follows the nucleation incubation model. The growth of these metallic Ir NCs is attributed to the presence of a uniform coverage of reactive groups (hydroxyl or dimethylaluminum) on the as-deposited fresh ALD-grown Al2O3 surface, which greatly promotes the uniform nucleation of Ir."
-}<|im_end|>

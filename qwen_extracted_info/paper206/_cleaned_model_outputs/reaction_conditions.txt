@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves sequential self-limiting gas-solid reactions, where the surface reactions are saturated and the growth is linear. The surface chemistry of the subcycles has been examined by in situ time-resolved quadrupole mass spectrometry (QMS). The hygroscopic nature of Gd2O3 allows H2O to be absorbed onto or into the oxide layer, resulting in additional growth. The saturation behavior of Gd(iPrCp)3 and H2O has been investigated in GdxAl2/C0 xO3 compounds with a (Gd(iPrCp)3/H2O)4(TMA/H2O)1 supercycle. The surface reactions are self-limiting, and the growth is controlled by the number of subcycles.",
-  "intermediate_species": ["Gd(iPrCp)3", "Sc(MeCp)3", "H2O", "Gd2O3", "Sc2O3"],
-  "evidence": "The surface chemistry of these subcycles has also been examined by in situ time-resolved quadrupole mass spectrometry (QMS). The sensitivity of Gd2O3 towards moisture absorption is reflected in the thickness uniformity over the wafer. The saturation behavior of Gd(iPrCp)3 and H2O has been investigated in GdxAl2/C0 xO3 compounds with a (Gd(iPrCp)3/H2O)4(TMA/H2O)1 supercycle. The hygroscopic nature of Gd2O3 allows H2O to be absorbed onto or into the oxide layer, resulting in additional growth."
-}

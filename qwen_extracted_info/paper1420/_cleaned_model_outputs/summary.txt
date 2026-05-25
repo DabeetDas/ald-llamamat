@@ -1,8 +1,0 @@
-{
-  "target_material": "Sc2O3",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Sc(thd)3", "O3", "(C5H5)3Sc", "H2O"],
-  "temperature_range": "175 - 500 °C",
-  "summary": "Sc2O3 thin films were deposited using atomic layer epitaxy (ALE) with Sc(thd)3/O3 and (C5H5)3Sc/H2O precursors. The study investigated the effects of temperature, pulsing times, and oxidizers on the growth rate and film properties. The films were characterized for crystallinity, morphology, and stoichiometry.",
-  "evidence": "Scandium oxide thin film deposition by atomic layer epitaxy was studied at 175 -500 °C using Sc(thd)3 and (C5H5)3Sc as scandium precursors. The use of H2O2 as an additional oxidizer slightly increased the deposition rate. When (C5H5)3Sc and H2O were used as precursors, the growth rate of Sc2O3 was significantly higher."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["RuO4", "H2"],
-  "temperature_range": "100°C",
-  "summary": "The study describes a thermal ALD process for depositing Ruthenium using RuO4 and H2 gas on H-terminated Si (Si-H) and SiO2 substrates. The process exhibits inherent substrate selectivity, where Ru growth occurs on Si-H but not on SiO2 due to oxidation of Si-H by RuO4. A method to enhance nucleation on oxide substrates using trimethylaluminum (TMA) is also reported, allowing for non-selective Ru deposition on various surfaces.",
-  "evidence": "The text states: 'Inherent substrate selectivity is reported for the thermal RuO4 (ToRuS TM)/H2-gas atomic layer deposition process (ALD) on H-terminated Si (Si-H) versus SiO2.' It also mentions: 'The following half-reactions were proposed for the process in steady growth conditions (linear ALD growth): Ru (s) + RuO4 (g) → 2RuO2 (s) (1) and RuO2 (s) + 2H2 (g) → Ru (s) + 2H2O (g) (2).'"
-}<|im_end|>

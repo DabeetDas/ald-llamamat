@@ -1,7 +1,0 @@
-{
-  "precursors": ["SbCl3", "(trimethylsilyl)telluride [(Me3Si)2Te]"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "SbCl3 and (trimethylsilyl)telluride [(Me3Si)2Te] were applied as precursors for Sb2Te3 growth in a commercial ALD reactor. Nitrogen gas (99.999% in purity) was used as a carrier gas at a flow rate of 10 sccm."
-}

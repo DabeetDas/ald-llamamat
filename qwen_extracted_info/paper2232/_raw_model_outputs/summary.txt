@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2/GeOxNy/Ge gate stacks",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tetradimethylaminohafnium (TDMAHf)", "H2O"],
-  "temperature_range": "225 °C",
-  "summary": "The study investigates the deposition of HfO2 on GeOxNy/Ge gate stacks using atomic layer deposition (ALD) to achieve low interface state density and capacitance scaling. The process involves nitridation of Ge surfaces using a remote plasma source with a H2/N2/Ar gas mixture at temperatures between 300–435 °C. The ALD process uses tetradimethylaminohafnium (TDMAHf) and H2O as precursors at 225 °C. The nitrogen content in the GeOxNy layer significantly affects the crystalline structure of the overlying HfO2 and Ge diffusion into the HfO2 layer. The study also explores the impact of nitridation temperature on the interface state density (Dit) and capacitance equivalent oxide thickness (CET).",
-  "evidence": "We obtained gate stacks with low interface state density /H20849Dit/H20850and a small capacitance equivalent oxide thickness /H20849CET/H20850of /H110111.35 nm by nitridation of Ge /H20849100/H20850and atomic layer deposition of HfO 2. The nitridation of the Ge /H20849100/H20850surface was effected by active species generated in the remote plasma /H20849780 W/H20850using a H2 /N2 /Ar gas mixture at 300–435 °C, 160 Pa for 150 s. Electrical properties were evaluated using MOS capacitors with HfO 2 gate dielectric layers deposited at 225 °C using tetradimethylaminohafnium /H20849TDMAHf, Air Liquide /H20850 and H2O by ALD for 25–75 cycles /H208493–6 nm/H20850after in situ Ge substrate nitridation in the ALD chamber /H20849no vacuum break/H20850."
-}<|im_end|>

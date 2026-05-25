@@ -1,7 +1,0 @@
-{
-  "precursors": ["Star-Ti (pentamethylcyclopentadienyltrimethoxy-titanium)", "Hyper-Sr (bis(trisisopropylcyclopentadienyl)strontium with 1,2-dimethoxyethane adduct)"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The precursors were contained in stainless steel bubblers and they were heated to 110 and 120°C, resulting in vapor pressures of ~2 and ~0.5 Torr for Star-Ti and Hyper-Sr, respectively. The precursor transport to the reactor was facilitated by using Ar bubbling (purity 99.999%)."
-}

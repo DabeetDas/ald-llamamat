@@ -1,8 +1,0 @@
-{
-  "target_material": "SnO2",
-  "process_type": "ALD",
-  "main_precursors": ["SnCl4", "H2O2", "SnI4", "O2"],
-  "temperature_range": "175–7001C",
-  "summary": "The study reports the atomic-layer-deposition growth of SnO2 thin films using two precursor combinations: SnCl4 and H2O2 (case A), and SnI4 and O2 (case B) on (012)-oriented α-Al2O3 substrates. The growth rate varied with temperature, with case B showing a higher growth rate at higher temperatures. The films exhibited a tetragonal (cassiterite) structure and epitaxial growth at specific temperatures.",
-  "evidence": "We report the atomic-layer-deposition growth of SnO2 thin films from SnCl4 and H2O2 (case A), and SnI4 and O2 (case B) on (012)-oriented α-Al2O3 (corundum) substrates. In case A, the growth rate had a maximum at 250–5001C and slowly decreased at higher temperatures. In case B, the growth rate increased monotonically with temperature, increase being relatively slow at 500–7501C. At 500–6001C, the films grew three times faster in case B than in case A. The phase content, crystalline properties, purity, and thickness of the films were characterized by X-ray diffraction, X-ray reflection, and X-ray fluorescence spectroscopy. The films grown at 2501C and higher temperatures had a tetragonal (cassiterite) structure. At 7001C in case A and 400–7501C in case B, the overgrowth could be considered as epitaxial."
-}<|im_end|>

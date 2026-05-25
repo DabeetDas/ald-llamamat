@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of Al-doped TiO2 through atomic layer deposition (ALD) using Ti(NMe2)4 and O3 as precursors. The process includes the formation of surface species such as Ti-O* and Al-O* through the reaction of the precursors with the surface, followed by the removal of byproducts like CH4 and H2O. The plasma-assisted oxidation cycles with O-radicals enhance the film quality by increasing the density of oxygen radicals on the surface, reducing oxygen vacancies, and improving film density.",
-  "intermediate_species": ["Ti-O*", "Al-O*", "oxygen radicals"],
-  "evidence": "The surface reaction mechanism involves the deposition of Al-doped TiO2 through atomic layer deposition (ALD) using Ti(NMe2)4 and O3 as precursors. The process includes the formation of surface species such as Ti-O* and Al-O* through the reaction of the precursors with the surface, followed by the removal of byproducts like CH4 and H2O. The plasma-assisted oxidation cycles with O-radicals enhance the film quality by increasing the density of oxygen radicals on the surface, reducing oxygen vacancies, and improving film density."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["Zn(C2H5)2", "Al(CH3)3"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ZnO films were deposited using alternating exposures to Zn(C2H5)2 and H2O, while the Al2O3 films used alternating Al(CH3)3 and H2O exposures. The nitrogen carrier gas transports the reactive precursor gas pulses to the samples and also carries the unreacted precursors and reaction products out of the flow tube and into the mechanical pump. The total carrier gas flow is 200 cm3(STP) min-1."
-}

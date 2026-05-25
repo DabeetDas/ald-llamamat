@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 20,
-  "density_g_cm3": 4.85,
-  "refractive_index": null,
-  "surface_roughness_nm": 20,
-  "crystal_phase": "polycrystalline",
-  "evidence": "The simulated data from XRR imply density of deposited film close to 4.85 g/cm³. This density is used in all the in situ QCM data presented for NiS ALD to calculate growth rate per cycle. The growth rate observed here is found to be slightly lower than that obtained from QCM measurements. This discrepancy can be due to longer nucleation period before it reaches to the linear growth regime. XRR measurements revealed higher surface roughness for NiS films, the cross section SEM imaging is also investigated to validate the thickness measurement from XRR, which suggested a thickness of ca. 20–25 nm throughout the film."
-}<|im_end|>

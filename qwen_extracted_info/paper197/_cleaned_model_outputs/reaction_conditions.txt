@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves sequential exposures of gas phase reactants, with each cycle consisting of a metal precursor pulse, purge, and oxygen precursor pulse. The metal compound precursor reacts with the surface, followed by reaction with the oxygen precursor. The reaction cycle for TiO2 involves TDMAT and ozone, while for Al2O3, it involves TMA and ozone. The reaction equations are not explicitly provided in the text.",
-  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum", "formate species"],
-  "evidence": "The text describes the ALD process as involving sequential exposures of gas phase reactants, with each cycle consisting of a metal precursor pulse, purge, and oxygen precursor pulse. The metal compound precursor reacts with the surface, followed by reaction with the oxygen precursor. The reaction cycle for TiO2 involves TDMAT and ozone, while for Al2O3, it involves TMA and ozone. The text also mentions the formation of surface hydroxyls, monomethyl aluminum, and formate species during the ALD process."
-}

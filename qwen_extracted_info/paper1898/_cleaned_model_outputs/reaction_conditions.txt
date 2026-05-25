@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves a sequence of self-limiting reactions where water vapor and trimethylaluminium are alternately pulsed onto the template. The water pulse reacts with surface hydroxyl groups, and the trimethylaluminium pulse reacts with the surface to deposit alumina. The process is repeated in cycles, with each cycle contributing to the conformal deposition of alumina.",
-  "intermediate_species": ["surface hydroxyl groups", "trimethylaluminium"],
-  "evidence": "One ALD cycle consists of 0.03 s pulse of water vapor with 2 s hold, 65 s nitrogen at 20 sccm nitrogen flow, then trimethylaluminium was released and purged using the same parameters."
-}

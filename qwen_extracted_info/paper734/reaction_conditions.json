@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "When there is no bias applied between the electrodes of the device in the dark, the oxygen molecules from the surrounding air absorb on the monolayer WO3, combining with electrons and creating a depletion sub-layer near the surface [O2(gas) + e- → O2-(adsorb)]. Once bias is applied, the current through the monolayer is very low, due to its low conductivity resulted from the depletion sub-layer. Upon UV illumination, the photogenerated holes move to the surface along the potential gradient produced by band-bending and desorb oxygen from the surface, substantiated the rise of the free carriers concentration and decreased the width of the depletion sub-layer [h+ + O2-(adsorb) → O2(gas)].",
-  "intermediate_species": [
-    "O2-(adsorb)",
-    "h+"
-  ],
-  "evidence": "When there is no bias applied between the electrodes of the device in the dark, the oxygen molecules from the surrounding air absorb on the monolayer WO3, combining with electrons and creating a depletion sub-layer near the surface [O2(gas) + e- → O2-(adsorb)]. Once bias is applied, the current through the monolayer is very low, due to its low conductivity resulted from the depletion sub-layer. Upon UV illumination, the photogenerated holes move to the surface along the potential gradient produced by band-bending and desorb oxygen from the surface, substantiated the rise of the free carriers concentration and decreased the width of the depletion sub-layer [h+ + O2-(adsorb) → O2(gas)]."
-}

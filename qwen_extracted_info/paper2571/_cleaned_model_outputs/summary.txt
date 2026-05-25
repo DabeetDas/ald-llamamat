@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["diethylzinc (DEZn)", "water"],
-  "temperature_range": "120–155 °C",
-  "summary": "ZnO films were deposited using atomic-layer deposition (ALD) technique on glass substrates. A metal-semiconductor-metal (MSM) structured ultraviolet (UV) photodetector was fabricated from these films. The photodetector showed a cutoff wavelength at around 390 nm and had a responsivity in the entire UV A spectral range. The study aimed to develop a UV photodetector for monitoring solar irradiation to protect humans from UV exposure.",
-  "evidence": "Zinc oxide (ZnO) films have been prepared on glass substrate in layer-by-layer mode using an atomic-layer deposition (ALD) technique, and a metal-semiconductor-metal structured photodetector has been fabricated on the ZnO films employing interdigital Au as metal contacts. The photodetector shows a cutoff wavelength at around 390 nm and has an obvious responsivity in the whole UV A spectral range. Because the response of the ZnO photodetector covers the whole UV solar irradiation that can reach the earth, the photodetector promises to be useful in monitoring UV solar irradiation to protect people from harm caused by the solar irradiation."
-}

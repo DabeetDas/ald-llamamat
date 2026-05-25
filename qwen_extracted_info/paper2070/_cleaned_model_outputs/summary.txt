@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the initial growth stage of HfO2 films on Si(100) using atomic layer deposition (ALD) with in situ medium energy ion scattering (MEIS). The results show island-like growth during the initial stage, which transitions to a continuous atomic layer with increasing ALD cycles. The growth behavior is nonlinear due to insufficient nucleation density, and slight silicate formation is observed at the interface.",
-  "evidence": "HfO2 films were deposited on the oxidized Si surface by showerhead-type ALD at a temperature of 300 °C. The precursors used for the Hf and the O sources were HfCl4 and H2O, respectively. The MEIS results showed that the ALD growth was not linear at the initial growth stage because of island-like growth with 2–3 monolayer (ML) atomic layer height distribution. The Hf coverage increased rapidly at the first cycle and then grew slowly after the second cycle to the steady state growth region. The growth rate increased to a value of 2.1 × 1014 Hf atoms/cm2/cycle after ~30 cycles. The initial growth stage showed nonlinear growth behavior due to island-like growth, and slight silicate formation was observed at the interface."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "PtOx",
-  "process_type": "Plasma-Assisted ALD (PA-ALD)",
-  "main_precursors": ["(MeCp)PtMe3", "O2 plasma"],
-  "temperature_range": "30 °C to 300 °C",
-  "summary": "This study demonstrates the plasma-assisted atomic layer deposition (PA-ALD) of platinum oxide (PtOx) using (MeCp)PtMe3 and O2 plasma. The process can be carried out in a temperature range from room temperature (RT) to 300 °C. The formation of PtOx is influenced by the O2 plasma exposure time and precursor exposure. The study also highlights the conformality of the deposited PtOx films in high aspect ratio trenches and the nucleation behavior of PtOx.",
-  "evidence": "Atomic layer deposition (ALD) using (MeCp)PtMe3 and O2 gas or O2 plasma is a well-established technique for the deposition of thin films of Pt, but the potential of ALD to deposit platinum oxide (PtOx) has not yet been systematically explored. This work demonstrates how PtOx can be deposited by plasma-assisted (PA)-ALD in a temperature window from room temperature (RT) to 300 °C by controlling the O2 plasma and (MeCp)PtMe3 exposure."
-}

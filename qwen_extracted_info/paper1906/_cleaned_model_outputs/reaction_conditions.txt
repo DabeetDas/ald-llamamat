@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the hydrolysis of CaTp2, where the boron-hydrogen bonds and calcium ion are hydrolyzed, leading to the formation of surface-bound species that react with water to form CaB2O4. The hydrolysis is rapid and efficient, ensuring stoichiometric control of the boron to calcium ratio.",
-  "intermediate_species": ["surface-bound calcium species", "boron-hydrogen bonds"],
-  "evidence": "The text states: 'Such stoichiometry control implies that the two Tp ligands remain coordinated to the surface-bound calcium species, and that hydrolysis of CaTp2 is rapid and very efficient.' Additionally, it mentions: 'The boron to calcium ratios were 2 : 1 within the experimental error of the ERDA analyses.'"
-}

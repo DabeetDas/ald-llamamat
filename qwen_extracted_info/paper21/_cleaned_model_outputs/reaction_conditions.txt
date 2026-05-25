@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process for Co2FeO4 films involves the alternate pulsing of cobaltocene (Co(Cp)2) and ferrocene (Fe(Cp)2) precursors combined with ozone (O3) to achieve the required film stoichiometry (2Co:1Fe). The surface reactions are self-limited, leading to the formation of ultrasmooth and pure Co2FeO4 thin films with no phase segregation.",
-  "intermediate_species": ["Co(Cp)2", "Fe(Cp)2", "O3"],
-  "evidence": "ALD of Co2FeO4 Films: Co2FeO4 films were prepared in a Cambridge Nanotech Savannah flow-type reactor at 250 °C by alternate pulsing of cobaltocene (Co(Cp)2) and ferrocene (Fe(Cp)2) combined with ozone (O3) to obtain the required film stoichiometry (2Co:1Fe)."
-}

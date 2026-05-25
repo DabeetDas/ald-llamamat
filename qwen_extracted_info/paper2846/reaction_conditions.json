@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Thermally cracked Si2H6 reacts with a ¯1-state monohydride surface, but a ¯2-state dihydride surface interrupts further adsorption. The reactivity with the ¯1-state monohydride surface is due to the presence of dimer bonds which the ¯2-state dihydride surface does not have.",
-  "intermediate_species": [
-    "¯2-state dihydride surface",
-    "¯1-state monohydride surface"
-  ],
-  "evidence": "The hydrogen desorption behavior suggests that hydrogen is completely removed from the hydrogen-terminated surface by annealing at 775 K for 1 min after exposure to thermally cracked Si2H6 and a clean Si surface reappears. The results probably reflect the reaction mechanism that thermally cracked Si2H6 species react with a ¯1-state monohydride surface; however, a ¯2-state dihydride surface area interrupts their further adsorption. The reactivity with the ¯1-state monohydride surface is probably due to the presence of dimer bonds which the ¯2-state dihydride surface does not have."
-}

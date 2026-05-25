@@ -1,8 +1,0 @@
-{
-  "target_material": "NbN",
-  "process_type": "plasma-enhanced ALD",
-  "main_precursors": ["Nb(N-t-Bu)(NMeEt)3 (TBTMEN)"],
-  "temperature_range": "250 ◦C to 350 ◦C",
-  "summary": "NbN thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) from the precursor Nb(N-t-Bu)(NMeEt)3 (TBTMEN). The process involved optimizing parameters such as plasma pressure, exposure time, and deposition temperature to achieve low-resistivity films with homogeneous thickness. The study demonstrated that PEALD is an effective method for fabricating low-resistivity metallic films at reduced process temperatures, suitable for applications like gate electrodes in CMOS technology.",
-  "evidence": "NbN thin ﬁlms have been deposited by plasma-enhanced atomic layer deposition (PEALD) from the metal organic precursor Nb(N- t-Bu)(NMeEt)3 (TBTMEN). ... The deposition parameters were adjusted in order to obtain ﬁlms with a homogenous ﬁlm thickness and resistivity. Lowering of the plasma pressure reduced the speciﬁc resistance of the Nb ﬁlms. ... Compared to other deposition methods, PEALD was shown to be an excellent method for the fabrication of low-resistivity metallic ﬁlms at a reduced process temperature."
-}<|im_end|>

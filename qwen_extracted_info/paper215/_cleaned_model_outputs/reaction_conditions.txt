@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The Al seed layer enhances the surface adsorption efficiency of MoCl5, promoting the direct synthesis of MoS2 with negligible residual contaminants. The adsorption of MoCl5 on Al is more facile than on SiO2, as confirmed by DFT calculations, which showed a lower energy barrier and higher energy release during chemisorption.",
-  "intermediate_species": ["MoCl5", "surface hydroxyls", "Al-Cl bonds"],
-  "evidence": "The adsorption of MoCl5 on Al was found to require a negligible energy barrier and also releases a large energy of 1.76 eV. During this change, the Mo-Cl bond is stretched to a length of 2.68 Å, and the Cl atom forms a shorter Al-Cl bond with a length (dAlCl) of 2.29 Å. These bond length changes indicate a high probability of spontaneous Mo-Cl bond breaking and chemisorption of MoCl5 on Al."
-}

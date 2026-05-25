@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Anhydrous hafnium nitrate (Hf(NO3)4)", "H2O vapor"],
-  "temperature_range": "160°C to 180°C",
-  "summary": "The study demonstrates the atomic layer deposition of hafnium oxide (HfO2) on hydrogen-terminated silicon surfaces using anhydrous hafnium nitrate (Hf(NO3)4) as a precursor and water vapor. The process was carried out at substrate temperatures as low as 160°C, resulting in uniform, smooth, and amorphous films. Post-deposition annealing altered the film morphology and eliminated residual NO3 and NO2 from the precursor. The films exhibited a high dielectric constant (k > 10.5) and a capacitive equivalent thickness (CET) of ~21 Å.",
-  "evidence": "Atomic layer deposition of uniform thin hafnium oxide films has been demonstrated directly on H-terminated silicon surfaces using anhydrous hafnium nitrate (Hf(NO3)4) precursor and H2O vapor. Atomic layer deposition was initiated on hydrogen terminated silicon surfaces and occurred at substrate temperatures as low as 160°C. X-ray diffraction analysis indicated that as-deposited films were smooth, uniform, and amorphous, and that film morphology can be altered by a post-deposition anneal. X-ray photoelectron spectroscopy analysis indicated that films are oxygen rich, contain silicate, and that residual NO3 and NO2 from the precursor can be eliminated by a post-deposition anneal. For a ;5 7Å HfO2 film, a dielectric constant of k > 10.5 and a capacitive equivalent thickness of ;21 Å were obtained."
-}<|im_end|>

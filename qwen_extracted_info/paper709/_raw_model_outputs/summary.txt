@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium dioxide (TiO2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["titanium ethoxide", "water", "titanium methoxide"],
-  "temperature_range": "250–300 ◦C",
-  "summary": "The study investigates the structural properties of TiO2 thin films grown by ALD on both Si- and Ti-substrates using titanium ethoxide and water, and titanium methoxide and water as precursors. The films transition from amorphous to polycrystalline anatase structure with increasing reaction cycles. The use of titanium methoxide, with smaller ligands, results in higher growth per cycle and improved crystallinity.",
-  "evidence": "A dependence of structural properties of TiO2 films grown on both Si- and Ti-substrates by atomic layer deposition (ALD) at the temperature range of 250–300 ◦C from titanium ethoxide and water on the number of reaction cycles N was investigated... The average growth per cycle of TiO2 deposited from titanium methoxide and water (0.052 ± 0.01 nm/cycle) was essentially higher than that for TiO2 grown from titanium ethoxide and water (0.043 ± 0.01 nm/cycle). Ligands of smaller sizes were found to promote the higher crystallinity of TiO2 in comparison with the case of using the titanium precursor with ligands of bigger sizes."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "hydrocarbons and hydrogen",
-  "process_type": "none",
-  "main_precursors": ["hydrogen", "hydrocarbons"],
-  "temperature_range": "15 OC",
-  "summary": "The study investigates the stopping power of hydrogen and hydrocarbon vapours for alpha particles over the energy range 1 to 8 MeV. The effect of molecular binding on stopping power is examined by comparing the range of alpha particles in different hydrocarbons and their hydrogen mixtures. The results suggest that molecular binding has a minimal effect on stopping power, and the additivity law holds at high energies down to 1 MeV. The mean excitation potential and differential stopping powers are calculated for various hydrocarbons.",
-  "evidence": "The stopping power of hydrogen and hydrocarbon vapours for alpha particles over the energy range 1 to 8 MeV has been experimentally determined. The effect of molecular binding on stopping power is studied by comparing the range of alpha particles in different hydrocarbons and their hydrogen mixtures. The results indicate that molecular binding has a minimal effect on stopping power, and the additivity law holds at high energies down to 1 MeV. The mean excitation potential and differential stopping powers are calculated for various hydrocarbons."
-}

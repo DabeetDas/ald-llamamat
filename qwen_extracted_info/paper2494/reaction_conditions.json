@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The BeO IPL suppresses interfacial native oxide growth and oxygen diffusion from HfO2 to Si substrates during postdeposition annealing (PDA).",
-  "intermediate_species": [
-    "BeO",
-    "SiOx"
-  ],
-  "evidence": "The BeO IPL suppresses not only Si oxidation but also leakage current after PDA. The use of ALD BeO as an oxygen diffusion barrier results in lower equivalent oxide thickness, more competitive leakage current, and better reliability characteristics after PDA than Al2O3 and HfO2 gate stacks."
-}

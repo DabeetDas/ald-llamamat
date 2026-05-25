@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Titanium tetra-isopropoxide (TTIP)", "ammonia (NH3) gas"],
-  "temperature_range": "140 ◦C",
-  "summary": "The study describes the fabrication of hollow TiO2 nanoribbon network electrodes for dye-sensitized solar cells (DSSCs) using a biotemplating process combining peptide self-assembly and atomic layer deposition (ALD). A thin TiO2 layer was deposited via ALD at 140 ◦C on a peptide template, followed by pyrolysis to create a highly entangled nanotubular TiO2 framework. The process involved calcination at 400 or 500 ◦C to control the crystal phase and crystallite size of the TiO2 nanostructures. The resulting DSSCs exhibited a power conversion efficiency of 3.8%, comparable to conventional TiO2 nanoparticle-based DSSCs.",
-  "evidence": "A thin TiO2 layer was deposited at the surface of the peptide template via the ALD process. The TTIP was used as a precursor and ammonia (NH3) gas was used as a reactant. The ALD process was performed at 140 ◦C. The peptide template was removed by calcination at 400 or 500 ◦C for 1 h under air. The evolution of the crystal phase and crystallite size of the TiO2 nanostructure was exploited by controlling the calcination temperature."
-}<|im_end|>

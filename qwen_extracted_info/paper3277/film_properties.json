@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 120,
-  "density_g_cm3": null,
-  "refractive_index": "1.54 to 1.47 at 633 nm",
-  "surface_roughness_nm": "1.8 nm",
-  "crystal_phase": "Amorphous",
-  "evidence": "The film thickness resulting from the ALD deposition is linear in the number of cycles with a slope of ∼1:09 nm=cycle. Figure 1 also shows that the refractive index measured at 633 nm decreases as a function of the number of deposition cycles, dropping from ∼1:54 to ∼1:47 over the course of the 200 cycles. The nonzero intercept (0:763 nm) obtained in the linear regression likely reflects the nucleation and accommodation process taking place during the first several cycles of the ALD processes. The observed decrease in refractive index with increasing thickness is consistent with previous reports. This effect is normally ascribed to the effect of silicon substrate on the properties of the SiO2 film. The effect of the film near the silicon/silica interface on the average value of the refractive index of the overall film obviously decreases with increasing film thickness [19–21]."
-}

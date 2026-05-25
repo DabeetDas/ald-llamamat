@@ -1,8 +1,0 @@
-{
-  "target_material": "Beryllium oxide (BeO)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["dimethyl beryllium", "water"],
-  "temperature_range": "200 1C",
-  "summary": "The study reports the ALD growth of crystalline BeO as a potential high-k gate dielectric and interface passivation layer (IPL). The BeO thin film was grown on Si and GaAs substrates using ALD, and it was found to have a wurtzite structure with high crystallinity. The process involved the use of dimethyl beryllium and water as precursors, and the films exhibited excellent electrical and physical characteristics, including a high dielectric constant and low leakage current.",
-  "evidence": "ALD BeO from 5 to 24 nm (deposition rate: 0.8–1.1 ˚A/cycle, self-limiting process) was deposited at 200 1C using a Nano Cambridge ALD module. The BeO was deposited using dimethyl beryllium and water as reagents."
-}<|im_end|>

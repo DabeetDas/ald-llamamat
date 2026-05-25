@@ -1,8 +1,0 @@
-{
-  "target_material": "SrHfO3",
-  "process_type": "plasma-assisted ALD",
-  "main_precursors": ["Sr(iPr3Cp)2", "(MeCp)2Hf(OMe)Me"],
-  "temperature_range": "250 /C176 C",
-  "summary": "The study demonstrates the deposition of stoichiometric SrHfO3 films on Si(100) using plasma-assisted atomic layer deposition (ALD). The process involves the use of Sr(iPr3Cp)2 and (MeCp)2Hf(OMe)Me as precursors with an oxygen plasma as the oxidant. The films were grown at 250 /C176 C, and the Sr:Hf ratio was controlled by varying the number of ALD cycles. The films showed good crystallinity after annealing and exhibited a relative permittivity of 21.",
-  "evidence": "Herein, we demonstrate the deposition of SrHfO3 films by oxygen plasma-assisted ALD, on Si(100) substrates to explore the relationship between its crystalline phase and permittivity. The deposition of SrHfO3 films is investigated at a substrate temperature of 250 /C176 C using a Oxford Instruments Opal Reactor. The metal precursors used were Sr(iPr3Cp)2 and (MeCp)2Hf(OMe)Me with an oxygen plasma as the oxidant. The need for a 3:1 ratio is attributed to the faster growth rate of HfO2 using (MeCp)2Hf(OMe)Me than for SrO employing the Sr(iPr3Cp)2 source. The crystalline SrHfO3 dielectric has a relative permittivity (κ) of 21 measured at a 100 kHz bias voltage."
-}<|im_end|>

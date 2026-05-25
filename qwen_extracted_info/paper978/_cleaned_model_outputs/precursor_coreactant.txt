@@ -1,7 +1,0 @@
-{
-  "precursors": ["SnCl4", "H2O2"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The SnO x ALD film was deposited on the hotplate template using SnCl4 and H2O2 as the reactants. The N2 carrier gas facilitated the transport of the SnCl4 and H2O2 reactants through the reactor. The N2 carrier gas also served as the gas purge between the reactant exposures."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum oxide",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethyl aluminum (TMA)", "H2O"],
-  "temperature_range": "150 8C",
-  "summary": "The study describes the fabrication and characterization of single electron memory devices using aluminum oxide as a tunnel dielectric. Two methods were used to fabricate the tunnel barriers: plasma oxidation of aluminum and atomic layer deposition (ALD) of aluminum oxide. The ALD process involved alternating exposure to trimethyl aluminum (TMA) and H2O at 150 8C. The devices were characterized at 300 mK, showing nonvolatile memory behavior. The ALD process was found to be critical for depositing uniform oxide layers on the floating gates, and the study highlights the importance of optimizing the fabrication sequence to achieve desired oxide thickness for memory performance.",
-  "evidence": "To deposit Al2O3 on the floating gates, the samples were alternately exposed to trimethyl aluminum (TMA) and H2O in a viscous flow ALD reactor at a temperature of 150 8C. The devices were coated using 81 TMA/H2O cycles to deposit ALD Al2O3 films of thickness of 10.0 nm. The characterization of the ALD tunnel oxide barrier device is shown in Fig. 4 where the conductance through the SET is plotted as the control gate bias is swept in two directions starting from zero. The threshold voltages which have to be applied to the control gate to initiate electron tunneling are rather low at about 10 mV and K75 mV for discharging of the floating gate, respectively. This implies that the tunnel oxide barrier thickness in this device is not exactly 10 nm as expected from the number of ALD cycles and the deposition rate per cycle."
-}

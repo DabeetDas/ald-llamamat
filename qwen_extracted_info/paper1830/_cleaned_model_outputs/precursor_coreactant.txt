@@ -1,7 +1,0 @@
-{
-  "precursors": ["[(NtBu)2(NMe2)2Mo]"],
-  "coreactants": ["H2S"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The Mo precursor employed was [(NtBu)2(NMe2)2Mo], ... For the precursor delivery to the deposition chamber a 100 sccm Ar (>99.999 % purity) bubbling flow was employed. An intermediate Ar purge step with 100 sccm of Ar flow was applied after each precursor and plasma exposure steps."
-}

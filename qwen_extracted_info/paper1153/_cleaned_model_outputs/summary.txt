@@ -1,8 +1,0 @@
-{
-  "target_material": "Copper sulfide (Cu xS)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Cu(acac)2", "H2S"],
-  "temperature_range": "130 - 200°C",
-  "summary": "Copper sulfide thin films were synthesized via ALD using Cu(acac)2 and H2S as precursors. The process occurs within a temperature range of 130-200°C with an average growth rate of 0.25 Å/cycle. The films exhibit p-doping and varying stoichiometries depending on the number of ALD cycles, resulting in multiphase or single-phase compounds. The study highlights the role of precursors in controlling film composition and the growth mechanism involving in-situ copper reduction and sulfur evaporation.",
-  "evidence": "Atomic Layer Deposition (ALD) of copper sulfide (Cu xS) thin films from Cu(acac) 2 and H 2S as Cu and S precursors is reported. Typical self-saturated reactions (“ALD window “) are obtained in the temperature range Tdep = 130 - 200°C for an average growth per cycle (GR) = 0.25 Å/cycle. Depending on the number of ALD cycles, multiphase compounds (made of digenite Cu1.8S, chalcocite Cu 2S, djurleite Cu31S16 and covellite CuS) or single-phase digenite Cu1.8S films are obtained via a growth mechanism that involves in -situ copper reduction and loss of sulfur by evaporation."
-}

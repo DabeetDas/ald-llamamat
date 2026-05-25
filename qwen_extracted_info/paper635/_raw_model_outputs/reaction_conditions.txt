@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The self-limiting mechanism takes place where the growth rate is nearly constant (2.83 A/cycle) in the temperature range of 100-200°C for GaAs and 150-250°C for Si substrates, indicating the formation of a monolayer per cycle.",
-  "intermediate_species": ["adsorbed DMZn"],
-  "evidence": "During the epilayer growth of ZnSe by ALE using the source materials mentioned above, a premature reaction takes place spontaneously. In region II, the growth rate is nearly 2.83 A/cycle and is constant. It indicates that the self-limiting mechanism takes place."
-}<|im_end|>

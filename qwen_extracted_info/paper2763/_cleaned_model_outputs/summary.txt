@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "water (H2O)"],
-  "temperature_range": "400 ",
-  "summary": "The study investigates the Atomic Layer Deposition (ALD) of Al2O3 on graphene, specifically focusing on the effects of NF3 pre-treatment on CVD graphene and epitaxial graphene. The ALD process uses TMA and H2O as precursors at a substrate temperature of 400 . The study aims to address the challenges of depositing high-k dielectrics on graphene by improving nucleation and reducing defects.",
-  "evidence": "The ALD growth initiation was observed by in-situ real-time Spectroscopic Ellipsometry (irtSE) with a sampling rate above 1 Hz. The ALD reactor was operated at a substrate set-point temperature of 400 . The study aimed to test an alternative fluorinating agent, such as Nitrogen trifluoride (NF3), which is a gas at room temperature and has been widely established in the microelectronics industry."
-}

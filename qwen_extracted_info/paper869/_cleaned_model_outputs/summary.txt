@@ -1,8 +1,0 @@
-{
-  "target_material": "LiF",
-  "process_type": "ALD",
-  "main_precursors": ["LiOtBut", "Hfac", "TiF"],
-  "temperature_range": "220 °C",
-  "summary": "LiF was deposited on LMNO cathode powder via ALD using two different fluorine sources, Hfac and TiF. The study evaluated the protective characteristics of the coatings against Mn dissolution and their electrochemical performance. The results showed that the choice of fluorine source significantly affected the coating's properties and performance.",
-  "evidence": "A protective lithium fluoride (LiF) film was deposited onto individual grains of LiMn1.5Ni0.5Ocathode powder material for high voltage Li-ion batteries via an Atomic Layer Deposition (ALD) technique. Lithium Tert-Butoxide (LiOtBut) was used as the Li source, alongside with two different fluoride sources: Hexafluoroacetylacetone (Hfac) and TiF. The films show an improved protection against Mn dissolution. Electrochemical performance of LiF coated powder presented distinctive differences depending on the F source."
-}

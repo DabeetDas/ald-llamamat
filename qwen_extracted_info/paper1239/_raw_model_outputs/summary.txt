@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium (Ru)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Ethylbenzenecyclohexadiene Ru(0) (EBCHDRu)", "O2 gas", "H2 gas"],
-  "temperature_range": "150 °C",
-  "summary": "The study demonstrates area-selective atomic layer deposition (ALD) of Ru on metal seed layers (Pt or Ru) with SiO2 as the non-growth area. The process combines ALD with periodic etching steps using O2 plasma and H2 gas to enhance selectivity and achieve high conformality and precise thickness control. The ALD process uses thermal ABC-type steps with EBCHDRu precursor, O2 gas pulse, and H2 gas pulse. The etch steps help remove unwanted Ru nucleation on SiO2, enabling selective deposition on Pt or Ru substrates.",
-  "evidence": "The text describes the use of thermal ALD for Ru deposition with a process type involving an ABC-type sequence using EBCHDRu precursor, O2 gas pulse, and H2 gas pulse. The temperature range is specified as 150 °C. The etch steps involve O2 plasma and H2 gas to remove unwanted Ru nucleation on SiO2, enhancing selectivity. The study highlights the combination of ALD with periodic etching to achieve high selectivity and conformal growth on metal substrates."
-}<|im_end|>

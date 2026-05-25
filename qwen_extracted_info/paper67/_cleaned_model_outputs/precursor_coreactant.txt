@@ -1,7 +1,0 @@
-{
-  "precursors": ["Sn(amd)2", "H2S"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "SnS thin films were deposited in a custom-built hot-wall ALD reactor [48] from the reaction of Sn(amd)2 and H2S. The tin precursor was kept at a constant temperature of 95 °C which gives vapor pressure of 0.64 Torr, as measured by a capacitance manometer. A gas mixture of 4% H2S in N2 was used as the source of sulfur. Purified N2 gas was used for assisting the delivery of Sn(amd)2 vapor from the precursor container to the deposition zone and also for purging between each precursor pulse."
-}

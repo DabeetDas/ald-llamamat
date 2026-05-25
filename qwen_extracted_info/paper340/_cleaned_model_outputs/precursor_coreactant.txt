@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethyl-Ga (TMG)", "triethyl-Ga (TEG)"],
-  "coreactants": ["arsine"],
-  "purge_gas": ["hydrogen"],
-  "carrier_gas": ["hydrogen"],
-  "evidence": "The experiments were performed in a Riber MBE-2300 chamber modified for the chemical beam epitaxy (CBE) process. TMG, triethyl-Ga (TEG) and arsine were used as source gases. Arsine was thermally decomposed to provide primarily an As2 beam including some partially cracked hydrides. For the ALE experiment, TMG and arsine were introduced alternately using a flow less than 1 SCCM, giving a system background pressure below 1 x 10^-6 or 1 x 10^-7 Torr, depending whether hydrogen was used as carrier gas."
-}

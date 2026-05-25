@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "220 °C",
-  "summary": "The study investigates the use of sulfur passivation on germanium (Ge) surfaces to improve the electrical properties of HfO2 gate dielectrics. Sulfur passivation is achieved using aqueous ammonium sulfide (NH4HS). The passivation layer is preserved during atomic layer deposition (ALD) of HfO2 at low temperatures (e.g., 220 °C), resulting in lower fixed charge and interface state density compared to conventional NH3-annealed Ge substrates. The HfO2/GeOS/Ge gate stack exhibits improved electrical characteristics, making it a promising candidate for future Ge-based devices.",
-  "evidence": "Sulfur passivation of Ge is achieved using aqueous ammonium sulfide (NH4HS). The passivation layer is largely preserved after atomic layer deposition of the high-κ dielectric material HfO2 when sufficiently low growth temperatures (e.g., 220 °C) are employed. The resulting HfO2/GeOS/Ge stacks exhibit lower fixed charge and interface state density than what is achieved with conventional NH3-annealed Ge substrates."
-}<|im_end|>

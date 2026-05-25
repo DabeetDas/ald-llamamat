@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the sequential exposure of the substrate to surface-saturating doses of complementary chemical precursors, separated by inert purge gas steps. The precursor chemically reacts with surface moieties produced from the previous precursor exposure and prepares the surface for reaction with the next precursor dose. The mechanism also includes the use of plasma to generate reactive radicals for the coreactant.",
-  "intermediate_species": ["NbN surface moieties", "surface hydroxyls"],
-  "evidence": "The precursor chemically reacts with surface moieties produced from the previous precursor exposure and also prepares the surface for reaction with the next precursor dose. The mechanism also includes the use of plasma to generate reactive radicals for the coreactant."
-}

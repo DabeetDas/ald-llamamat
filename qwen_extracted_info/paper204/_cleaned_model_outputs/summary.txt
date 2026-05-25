@@ -1,8 +1,0 @@
-{
-  "target_material": "Zinc oxide (ZnO)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["diethyl zinc (DEZ)", "H2O"],
-  "temperature_range": "100 8C",
-  "summary": "The study compares the photoluminescence and conduction mechanisms of low-temperature pulsed laser deposited (PLD) and atomic layer deposited (ALD) ZnO thin films. The ALD films were grown at 100 8C using diethyl zinc and water as precursors. The films were analyzed for structural, electrical, and optical properties before and after annealing at 300 8C in argon, vacuum, and air. The PL of ALD films showed a broad defect emission band peaking at 605 nm, which decreased in intensity after annealing. The study highlights the impact of annealing on the electrical and optical properties of ALD films, attributing these properties to the relative concentrations of zinc interstitials and oxygen vacancies.",
-  "evidence": "Zinc oxide (ZnO) thin films were synthesized by pulsed laser deposition (PLD) and atomic layer deposition (ALD) at 100 8C on glass, and their structural, electrical, and optical properties were compared before and after 300 8C post-deposition annealing in argon, vacuum, and air. The room temperature photoluminescence (PL) of the ALD films grown at 100 8C was characterized by a broad, defect emission band peaking at 605 nm, which decreased in intensity after annealing. The electro-optical properties of the PLD films are determined by Zn interstitials. The potential impact of the observed absorption and emission bands on optoelectronic applications is discussed."
-}

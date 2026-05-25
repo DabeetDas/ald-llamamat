@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the removal of precursor residues through Ar plasma treatment, which enhances crystallinity and reduces residual stress. The plasma treatment leads to the reduction of precursor residues, resulting in a dominant Sn4+ valency state and improved film properties.",
-  "intermediate_species": [
-    "Sn2+"
-  ],
-  "evidence": "The text states: 'During the deposition of the atomic layer, the precursor may be too viscous to be completely purge cleaned, and the reductive precursors remain on the film surface, resulting in a partial reduction of the metal ions to Sn2+.' Additionally, it mentions: 'The content of Sn2+ (~59%) initially dominates without Ar treatment.'"
-}

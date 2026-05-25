@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD involve the adsorption of metal precursors and oxygen precursors on the surface of the substrate, followed by surface reactions that lead to the formation of the oxide layers. The growth is achieved through self-limiting surface reactions, where the reactant gas pulses saturate the surface of the substrate during each pulse, and the growth occurs through the surface reactions. The growth parameters such as deposition temperature, number of cycles, and growth per cycle are optimized to ensure uniform growth and saturation.",
-  "intermediate_species": ["TiO2", "Fe2O3", "magnetite nanoparticles", "hematite"],
-  "evidence": "The surface reactions during ALD involve the adsorption of metal precursors and oxygen precursors on the surface of the substrate, followed by surface reactions that lead to the formation of the oxide layers. The growth is achieved through self-limiting surface reactions, where the reactant gas pulses saturate the surface of the substrate during each pulse, and the growth occurs through the surface reactions. The growth parameters such as deposition temperature, number of cycles, and growth per cycle are optimized to ensure uniform growth and saturation."
-}

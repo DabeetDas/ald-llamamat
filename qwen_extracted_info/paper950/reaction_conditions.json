@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the incorporation of gallium into the ZnO lattice through atomic layer deposition, where gallium atoms substitute zinc sites, acting as donors to reduce resistivity. The mechanism is influenced by deposition temperature, with lower temperatures leading to less effective doping due to partial decomposition of the gallium precursor and different growth chemistries.",
-  "intermediate_species": [
-    "Gallium precursor (hexakis (dimethylamino)gallium)"
-  ],
-  "evidence": "The text discusses the use of hexakis (dimethylamino)gallium as a Ga precursor and mentions that the partial decomposition of the gallium precursor at higher temperatures affects the doping efficiency. It also notes that the growth chemistry changes with temperature, influencing the surface reactions."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs and AlAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["trimethylgallium (TMG)", "triethylgallium (TEG)", "tris-dimethylamino-arsenic (TDMAAs)", "trimethylaluminum (TMAAl)"],
-  "temperature_range": "440-495°C for GaAs, 310-400°C for AlAs",
-  "summary": "The study demonstrates the role of tris-dimethylamino-arsenic (TDMAAs) as a Column-V precursor in atomic layer epitaxy (ALE) of GaAs and AlAs. The use of TDMAAs significantly modifies the temperature range for ALE growth, expanding the ALE window. The process involves alternating supplies of precursors, with desorption properties of amine species playing a crucial role in the growth mechanism. The study also highlights the impact of purging times on the desorption of MMA and the p-elimination process, which affects the growth rate.",
-  "evidence": "The temperature range for ALE was drastically modified by the selection of TDMAAs in place of arsine. The main factor for this modification was studied with temperature programmed desorption measurements on Ga and Al surfaces during ALE. It is shown that amine species transferred from As surfaces to Ga or Al surfaces during the alternate supplies of precursors and their desorption properties have profound effects on the ALE growth mechanism."
-}<|im_end|>

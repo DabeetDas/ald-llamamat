@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["diethylzinc", "water"],
-  "temperature_range": "100 8C to 1608C",
-  "summary": "The study investigates the atomic layer epitaxy (ALE) of zinc oxide (ZnO) using diethylzinc and water as precursors. The process is analyzed using in-situ quartz crystal microgravimetry (QCM) to monitor growth at the monolayer level. The ALE window, where growth occurs under surface saturation conditions, is identified between 100 8C and 1608C. The study also explores the effects of temperature, pulse lengths, and substrate characteristics on the growth mechanism, including nucleation and coalescence effects. The results highlight the importance of surface structure and reactivity in the ALE process.",
-  "evidence": "The deposition of ZnO thin films by atomic layer epitaxy ALE from diethylzinc and water precursors is studied for the first time by an in-situ quartz crystal microbalance technique. The site saturation regime ALE window is between 100 8C and 1608C and corresponds to the growth of one 100 monolayer with possible effects of roughness and surface reconstruction. The analysis of the mass variation during individual cycles raises some questions about the growth mechanism."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO/Al2O3 alloy films",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Zn(CH2CH3)2", "H2O", "Al(CH3)3"],
-  "temperature_range": "177°C",
-  "summary": "The study explores the properties of ZnO/Al2O3 alloy films grown using Atomic Layer Deposition (ALD). The films are prepared by varying the ratio of ZnO and Al2O3 precursors, allowing for tunable physical properties such as refractive index, resistivity, surface roughness, and crystallinity. The ALD process uses alternating exposures of Zn(CH2CH3)2/H2O for ZnO and Al(CH3)3/H2O for Al2O3. The films exhibit a wide range of properties due to the differing characteristics of ZnO (conductor) and Al2O3 (insulator). The study also identifies anomalies in surface roughness and density at specific Zn content, attributed to etching effects during the ALD process.",
-  "evidence": "The study explores the properties of ZnO/Al2O3 alloy films grown using Atomic Layer Deposition (ALD). The films are prepared by varying the ratio of ZnO and Al2O3 precursors, allowing for tunable physical properties such as refractive index, resistivity, surface roughness, and crystallinity. The ALD process uses alternating exposures of Zn(CH2CH3)2/H2O for ZnO and Al(CH3)3/H2O for Al2O3. The films exhibit a wide range of properties due to the differing characteristics of ZnO (conductor) and Al2O3 (insulator). The study also identifies anomalies in surface roughness and density at specific Zn content, attributed to etching effects during the ALD process."
-}<|im_end|>

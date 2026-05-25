@@ -1,8 +1,0 @@
-{
-  "target_material": "ε-Fe2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["FeCl3", "H2O"],
-  "temperature_range": "260–300◦C",
-  "summary": "The paper describes a simple thermal ALD process for growing ε-Fe2O3 thin films using FeCl3 and H2O precursors at temperatures ranging from 260 to 300°C. The films are polycrystalline and exhibit ferrimagnetic properties with a coercive field of approximately 1.6 kOe. The study highlights the advantages of ALD over other techniques like electrodeposition and pulsed laser deposition, including lower deposition temperatures and the ability to grow films on various substrates without lattice matching.",
-  "evidence": "Atomic layer deposition (ALD) is an advanced industrially feasible technique for fabricating functional materials as high-quality thin films. Here we exploit the technique for the first time for growing thin films of the rare ε-Fe2O3 phase... With ALD, polycrystalline thin films of the ε-Fe2O3 phase are achieved on various substrate surfaces at a relatively low deposition temperature (260–300◦C) from FeCl3 and H2O precursors. The films are ferrimagnetic having an ∼1.6 kOe coercive field."
-}

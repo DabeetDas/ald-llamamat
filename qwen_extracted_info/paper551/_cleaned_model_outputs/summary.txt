@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "ALD",
-  "main_precursors": ["TDMAT", "NH3"],
-  "temperature_range": "60–240 8C",
-  "summary": "The study investigates the surface chemistry and film growth during TiN atomic layer deposition (ALD) using TDMAT and NH3. The process is found to be far from ideal, with issues such as high porosity and non-self-limiting reactions. The ALD growth rate increases with temperature, and the films exhibit high resistivity and porosity, which may compromise their use as diffusion barriers.",
-  "evidence": "The FTIR studies revealed that TDMAT reacts with NH3 species on the TiN surface following NH3 exposures to deposit new Ti(N(CH3)2)* species. Subsequent NH3 exposure consumes the dimethylamino species and regenerates the NH3* species. These observations are consistent with transamination exchange reactions during the TDMAT and NH3 exposures. QCM studies determined that the TDMAT and NH3 reactions are nearly self-limiting. However, slow continual growth occurs with long TDMAT exposures. In addition, the TiN ALD growth rate increases progressively with growth temperature. The resistivities of the TiN ALD films were 010 mV cm and the densities were (3g ycm corresponding to a porosity of ;40%. The high porosity allows facile oxidation of the TiN films and lowers the film resistivities. These high film porosities will seriously impair the use of these TiN ALD films as diffusion barriers."
-}

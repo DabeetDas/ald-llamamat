@@ -1,8 +1,0 @@
-{
-  "target_material": "Cobalt",
-  "process_type": "remote plasma ALD",
-  "main_precursors": ["dicobalt octacarbonyl (Co2(CO)8)"],
-  "temperature_range": "75–110°C",
-  "summary": "Cobalt thin films were deposited using a remote plasma ALD method with dicobalt octacarbonyl as the precursor. The study investigated the effect of plasma power on impurity content and silicide formation. The deposition rate was 1.2 Å per cycle in the ALD window of 75–110°C. Impurity content, such as oxygen and carbon, was influenced by plasma power, with higher plasma power reducing impurities. Silicide formation was observed after rapid thermal annealing.",
-  "evidence": "Cobalt thin films were deposited by a remote plasma atomic layer deposition /H20849ALD/H20850system with a metalorganic precursor of dicobalt octacarbonyl /H20849Co2/H20849CO/H208508/H20850. The deposition rate of Co films was /H110111.2 Å/cycle in the ALD window of 75–110°C. The extent of impurity content such as oxygen and carbon was highly affected by plasma power. The impurity content was minimized when H2 plasma was used with a plasma power of 300 W. Silicide formation was observed after RTA."
-}

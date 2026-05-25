@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ir was oxidized to form IrO2 during the temperature-rising step above 550°C, and the oxidized IrO2 was reduced to Ir at 850°C. The surface roughening was due to the volume expansion from oxidation, and the reduction of IrO2 to Ir caused an abrupt increase in rms roughness due to volume shrinkage.",
-  "intermediate_species": ["IrO2"],
-  "evidence": "When Ir films were annealed in ambient oxygen, IrO2 peaks began to appear at 550°C but disappeared at 850°C, as shown in Fig. 2b. When Ir films were annealed in ambient argon, however, only Ir peaks were detected; there was no dependence on the annealing temperature. Detection of IrO2 peaks after annealing at 550°C in ambient oxygen means that Ir was oxidized to form IrO2. At this temperature, the volume expansion from oxidation led to surface roughening. However, the IrO2 peaks disappeared in ambient oxygen at an annealing temperature of 850°C because IrO2 was reduced to Ir at this high temperature."
-}

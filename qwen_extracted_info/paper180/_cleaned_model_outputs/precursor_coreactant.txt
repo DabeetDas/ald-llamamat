@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethyl aluminum (TMA)", "tungsten hexafluoride (WF6)", "disilane (Si2H6)"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The TMA (97%, Aldrich), deionized H2O, Si2H6 (99.998%, Aldrich) and WF6 (99.8%, Aldrich) precursors were maintained at room temperature. The ultrahigh purity N2 carrier gas flow was set to 300 sccm, which provided a base pressure of 1.0 Torr in the ALD reaction chamber as measured by a heated Baratron pressure gauge (MKS model 629B)."
-}

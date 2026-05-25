@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 20,
-  "density_g_cm3": 6.67,
-  "refractive_index": "2.8 at 320 nm",
-  "surface_roughness_nm": 0.28,
-  "crystal_phase": "rock-salt (NaCl) structure",
-  "evidence": "The rms value is 0.28 nm. The diffraction peaks at 37.20°, 43.20°, and 62.8° indicate the (111), (200), and (220) planes of NiO with a face-centred cubic, rock-salt structure (JCPDS no. 04-0835)."
-}

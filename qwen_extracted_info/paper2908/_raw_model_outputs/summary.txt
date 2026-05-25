@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "ALD",
-  "main_precursors": ["tetrakis(dimethylamido)titanium (TDMAT)", "ammonia (NH3)"],
-  "temperature_range": "180°C",
-  "summary": "The study focuses on the kinetic modeling of film growth rate in Atomic Layer Deposition (ALD) for TiN films on SiO2 substrates using TDMAT and NH3 as precursors. The research highlights the transient and converged regions of ALD, where the film growth kinetics differ. The model accounts for the adsorption and reaction dynamics, and the optimal pulse times for maximum throughput are determined.",
-  "evidence": "The existence of the transient regime is confirmed from the experimental results, which show a nonlinear dependence of the TiN film thickness on the number of deposition cycles during the initial stage. The proposed model was applied to TiN-ALD on a SiO2 substrate using tetrakis(dimethylamido)titanium (TDMAT) and NH3 as reactants."
-}<|im_end|>

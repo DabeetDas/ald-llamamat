@@ -1,8 +1,0 @@
-{
-  "target_material": "Al-doped ZnO (AZO)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["diethylzinc (DEZ)", "aluminum isopropoxide (AIP)"],
-  "temperature_range": "200 8C",
-  "summary": "Al-doped ZnO (AZO) films were deposited at 200 8C by atomic layer deposition (ALD) on borosilicate glass and Si(001) substrates using diethylzinc (DEZ) and aluminum isopropoxide (AIP) as the Zn and Al precursors, respectively. The study investigated the effect of the Zn/Al ALD cycle ratio and the AIP source temperature on the Al dopant concentration and resistivity of AZO films. The optimal Zn/Al cycle ratio of 19:1 and an AIP temperature of 120 8C resulted in the lowest resistivity of 9.4 /C2 10/C0 4 V cm for 60 nm thick AZO films, with better optical transparency.",
-  "evidence": "Al-doped ZnO (AZO) ﬁlms are deposited at 200 8C by atomic layer deposition (ALD) on borosilicate glass and Si(001) substrates using diethylzinc (DEZ) and aluminum isopropoxide (AIP) as the Zn and Al precursors, respectively. The effect of the Zn/Al ALD cycle ratio and the AIP source temperature on the Al dopant concentration and resistivity of AZO ﬁlms is carefully investigated. By changing the AIP temperature from 115 8C to 135 8C, at the optimal Zn/Al cycle ratio of 19:1, the Al dopant concentration ([Al]/([Al] þ [Zn])) in AZO ﬁlms varies from 0.15 at.-% to 2.32 at.-%. The 60 nm thick AZO ﬁlms deposited at an AIP temperature of 120 8C show the lowest resistivity of 9.4 /C2 10/C0 4 V cm, with better optical transparency."
-}

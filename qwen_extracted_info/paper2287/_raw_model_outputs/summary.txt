@@ -1,8 +1,0 @@
-{
-  "target_material": "Beryllium oxide (BeO)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["dimethylberyllium (Be(CH3)2)", "water"],
-  "temperature_range": "200 /C14 C",
-  "summary": "The study investigates the use of atomic layer deposited beryllium oxide (BeO) as an effective passivation layer for III-V metal/oxide/semiconductor (MOS) devices. BeO is compared to Al2O3, showing lower interface defect density, hysteresis, and leakage current density, along with excellent self-cleaning properties. The process involves the use of dimethylberyllium and water as precursors, with deposition carried out at 200 /C14 C. The results demonstrate BeO's potential as a high-quality interfacial passivation layer due to its superior dielectric properties and thermal stability.",
-  "evidence": "Electrical and physical characteristics of the atomic layer deposited beryllium oxide (BeO) grown on the Si and GaAs substrates were evaluated as a barrier/passivation layer in the III-V devices. BeO was deposited using dimethylberyllium and water for reagents. The leakage current and capacitance were measured using a Keithley semiconductor parameter analyzer and HP4284A LCR meter with frequencies varying from 1 MHz to 1 kHz. The effective oxide thickness (EOT) values were extracted from the C-V data using the NCSU CVC program."
-}<|im_end|>

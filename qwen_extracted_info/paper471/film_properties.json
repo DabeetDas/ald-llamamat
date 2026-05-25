@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 194,
-  "density_g_cm3": null,
-  "refractive_index": "2.21 at 580 nm",
-  "surface_roughness_nm": null,
-  "crystal_phase": "Amorphous",
-  "evidence": "The film thicknesses and refractive indexes were calculated using the method described by Ylilammi and Ranta-aho from optical transmission spectra measured by a Hitachi U-2000 spectrophotometer within a wavelength range of 370 } 1100nm. The absorption coefficient calculated by fitting the transmission spectra was correlated with the haziness of the samples. Here the absorption coefficient describes total losses in transmission and thus involves both the true absorption and scattering losses due to the rough surface and grain boundaries. Thus, when the films became more scattering with the increase in the crystallinity, the absorption coefficient increased."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Tungsten nitride (WNx)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["B2H6", "WF6", "NH3"],
-  "temperature_range": "200–350°C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of tungsten nitride (WNx) using B2H6, WF6, and NH3 as precursors. The ALD-WNx film was investigated for use as a contact barrier layer in DRAM. The film's properties, including resistivity, W/N ratio, density, and phase, were influenced by deposition temperature and B2H6 flow rate. The film showed excellent step coverage and thermal stability up to 800°C, but annealing at 900°C caused it to convert to body-centered-cubic W with nitrogen release. The ALD-WNx film demonstrated lower contact resistance compared to TiN-based films, making it a viable alternative for advanced DRAM applications.",
-  "evidence": "Tungsten nitride /H20849WNx/H20850 thin films were grown by atomic layer deposition /H20849ALD/H20850 within the temperature range of 200–350°C from diborane /H20849B2H6/H20850, tungsten hexafluoride /H20849WF6/H20850, and ammonia /H20849NH3/H20850 for application to a contact barrier layer in dynamic random access memory /H20849DRAM/H20850. The ALD-WNx film was evaluated as a barrier layer for W-plug deposition for 70 nm design-rule DRAM. The results showed that the integration scheme with ALD-WNx showed lower contact resistance than metallorganic chemical vapor deposition TiN or TiCl4-based chemical vapor deposited TiN."
-}<|im_end|>

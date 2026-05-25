@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "In 'MBE-like' ALE mode, the source materials are supplied onto the substrate surface in the form of constituent elements, which can migrate on the surface through fairly long distance. In 'CVD-like' ALE mode, DMZn and H2Se themselves react to form ZnSe on the surface, it is fairly hard for them to migrate on the surface.",
-  "intermediate_species": ["Zn", "Se2"],
-  "evidence": "In metalorganic molecular beam epitaxy (MOMBE) of ZnSe using dimethyizinc (DMZn) and H2Se as source materials, both CVD-like and MBE-like film growth can be achieved depending on whether the source materials are cracked before reaching substrate or not. The dominant species formed by cracking DMZn and H2Se are Zn and Se2, respectively."
-}

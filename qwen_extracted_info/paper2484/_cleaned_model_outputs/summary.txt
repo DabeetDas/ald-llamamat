@@ -1,8 +1,0 @@
-{
-  "target_material": "AlN",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["N2−H2", "trimethylaluminum (TMA) plasma"],
-  "temperature_range": "300 ◦C",
-  "summary": "The study presents an effective passivation technique for AlGaN/GaN HEMTs using a thin AlN film grown by plasma-enhanced atomic layer deposition (PEALD). The process involves in situ remote plasma pretreatment (RPP) to achieve an atomically sharp interface between the ALD-AlN and III-nitride surface, significantly reducing current collapse and dynamic ON-resistance under high-drain-bias switching conditions.",
-  "evidence": "In this letter, we demonstrate an effective passivation technique featuring an AlN thin ﬁlm grown by PEALD on AlGaN/GaN HEMTs. Assisted by in situ RPP , an atomically sharp interface is obtained between the ALD-grown AlN and the III-nitride surface, resulting in signiﬁcant reduction of the current collapse and the dynamic ON-resistance (dynamic_R on) in AlGaN/GaN HEMTs, speciﬁcally when the devices switch from high drain bias."
-}

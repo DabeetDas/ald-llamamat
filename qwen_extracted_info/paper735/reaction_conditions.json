@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Me2In(EDPA) and subsequent reaction with H2O. The reaction is self-limiting, with the formation of In2O3 through the surface reaction of the precursor with water, leading to the growth of the oxide layer. The mechanism is supported by XPS analysis showing the presence of In-O bonds and the absence of significant impurities.",
-  "intermediate_species": [
-    "In-OH*"
-  ],
-  "evidence": "XPS analysis revealed negligible carbon and nitrogen impurities incorporation within the films. The In 3d spectrum consisted of a main peak and a clear shoulder peak appearing at a lower binding energy. The spectrum was deconvoluted into two sub-peaks, InO centered at 444.5 eV and In In centered at 443.6 eV, which are in good agreement with reported values. The significant presence of In In bond at 150 ◦C might indicate reduced surface reaction between chemisorbed precursor and H2O reactant due to the relatively low deposition temperature."
-}

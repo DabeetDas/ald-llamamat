@@ -1,8 +1,0 @@
-{
-  "target_material": "LiPON",
-  "process_type": "ALD",
-  "main_precursors": ["lithium tert-butoxide (LiO tBu)", "H2O", "trimethylphosphate (TMP)", "plasma N2 (PN2)"],
-  "temperature_range": "250 °C",
-  "summary": "The study demonstrates an atomic layer deposition (ALD) process for the solid electrolyte lithium phosphorousoxynitride (LiPON) using lithium tert-butoxide (LiO tBu), H2O, trimethylphosphate (TMP), and plasma N2 (PN2) as precursors. The process allows for tunable nitrogen doping, which affects the amorphous or polycrystalline nature of the films and their ionic conductivity. The ALD process is optimized for uniform, thin, and conformal deposition on high aspect ratio structures, making it suitable for advanced battery applications.",
-  "evidence": "We demonstrate an atomic layer deposition (ALD) process for the solid electrolyte lithium phosphorousoxynitride (LiPON) using lithium tert-butoxide (LiO tBu), H2O, trimethylphosphate (TMP), and plasma N2 (PN2) as precursors. We use in-situ spectroscopic ellipsometry to determine growth rates for process optimization to design a rational, quaternary precursor ALD process where only certain substrate −precursor chemical reactions are favorable. We demonstrate via in-situ XPS tunable nitrogen incorporation into the films by variation of the PN2 dose and find that ALD films over approximately 4.5% nitrogen are amorphous, whereas LiPON ALD films with less than 4.5% nitrogen are polycrystalline. Finally, we characterize the ionic conductivity of the ALD films as a function of nitrogen content and demonstrate their functionality on a model battery electrode—a Si anode on a Cu current collector."
-}

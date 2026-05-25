@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "250–350 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of TiO2 films on silicon substrates, focusing on the effects of deposition temperature and substrate treatment (RCA vs. HF). The process uses TiCl4 as a precursor, water vapor as an oxygen source, and pure N2 as a carrier gas. The films are characterized using transmission electron microscopy (TEM), revealing that the microstructure and crystallinity depend on the substrate type and temperature. The study shows that the crystallization of TiO2 films is influenced by the nucleation process, with different growth modes observed on RCA and HF-treated silicon substrates.",
-  "evidence": "The text states: 'The influence of deposition temperature (250–350 8C) and substrate type on the film microstructure have been determined.' It also mentions: 'TiCl was used as the precursor material, with pure N as a carrier gas and water vapour as the nucleophilic oxygen source.' Additionally, it notes: 'The major influence of temperature on the films grown on RCA treated silicon was to control nucleation of crystallisation within the amorphous layers.'"
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of reactant molecules onto the substrate and film, followed by reactions between adsorbed molecules. The adsorption probability depends on the surface properties, and the reaction is governed by the Rideal-Eley mechanism, where reactant molecules adsorb onto previously adsorbed molecules on the film surface.",
-  "intermediate_species": ["TDMAT molecules", "NH3 molecules", "surface hydroxyls", "TiN film"],
-  "evidence": "The surface reaction mechanism involves the adsorption of reactant molecules onto the substrate and film, followed by reactions between adsorbed molecules. The adsorption probability depends on the surface properties, and the reaction is governed by the Rideal-Eley mechanism, where reactant molecules adsorb onto previously adsorbed molecules on the film surface."
-}

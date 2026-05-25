@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 1.8,
-  "density_g_cm3": 10.5,
-  "refractive_index": null,
-  "surface_roughness_nm": null,
-  "crystal_phase": "Amorphous",
-  "evidence": "The average size of the particles in Figure 3 (after removing a few bigger particles, fitting with a Gaussian and correcting for the probe effect) is 1.8 ± 0.4 nm. The Ag particles are approximately spherical in shape with ∼180 Ag atoms each, assuming a density of 10.5 g/cm³."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "SnO2",
-  "process_type": "ALD",
-  "main_precursors": ["Tetrakis(dimethylamino)tin", "Hydrogen peroxide"],
-  "temperature_range": "100–200 ◦C",
-  "summary": "The study investigates the ALD growth of SnO2 thin films using TDMASn as a Sn precursor and H2O2 as a reactant. The films show low resistivity, high carrier mobility, and high transmittance, making them suitable for transparent conductive applications. The process window for ALD SnO2 is found to be 100–200 ◦C, with optimal properties at 200 ◦C.",
-  "evidence": "The ALD SnO2 thin films were investigated as a function of growth temperature to obtain optimized process and film properties using tetrakis(dimethylamino)tin as a Sn precursor, and hydrogen peroxide as reactant. The film growth shows 1.2 ˚A/cycle in the 100–200 ◦C temperature range and follows typical ALD window behavior. ALD SnO2 thin films show low resistivity (9.7 × 10−4 /DEL cm) at 200 ◦C, and high carrier mobility (22 cm2/V sec). The transmittance of 40 nm ALD SnO2 films was over 80% at all of temperatures."
-}<|im_end|>

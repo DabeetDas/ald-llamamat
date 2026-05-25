@@ -1,8 +1,0 @@
-{
-  "target_material": "NiO/Ni nanoparticles",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Ni(Cp)2", "O3"],
-  "temperature_range": "270°C",
-  "summary": "The study describes the deposition of NiO/Ni nanoparticles on carbon fiber paper using atomic layer deposition (ALD) followed by reduction and oxidation annealing treatments. The NiO/Ni nanoparticles exhibit high electrocatalytic activity for water splitting, with a current density of 10 mA·cm−2 at overpotentials of 189 mV for hydrogen evolution and 257 mV for oxygen evolution. The process involves the use of Ni(Cp)2 and O3 as precursors at 270°C, and the resulting catalyst shows stability and durability.",
-  "evidence": "NiO was deposited on the TORAY carbon paper using atomic layer deposition (QinALD, Institute of Coal Chemistry Chinese Academy of Sciences, Taiyuan, China). During the process of deposition; Ni(Cp)2 and O3 were used as Ni and O precursors, respectively. Ni(Cp)2 was evaporated at 80 ◦C. The growth temperature in the ALD process was 270◦C."
-}

@@ -1,9 +1,0 @@
-{
-  "characterization_methods": [
-    "spectroscopic ellipsometry (SE)",
-    "X-ray reflectivity (XRR)",
-    "Rutherford backscattering (RBS)",
-    "time of flight secondary-ion mass spectrometry (TOFSIMS)"
-  ],
-  "evidence": "The GPC, expressed in terms of thickness or Hf atom density, was investigated by spectroscopic ellipsometry (SE), X-ray reflectivity (XRR), or Rutherford backscattering (RBS). We mostly applied SE to determine the layer thickness by using a SpectraCD 100 instrument from KLA-Tencor. XRR measurements were performed on a Jordan Valley BedeMetrix-L tool with Cu K radiation, while spectra were evaluated with a reflectivity and fluorescence software. Next to layer thickness, XRR was also applied to estimate layer roughness and density. RBS use a Me+ beam (rotating random mode) in an RBS400 endstation from Charles Evans and Associates, which is installed around a 2 MV Pelletron (SDH2-1; National Electrostatics). The C contamination of the layers is determined by time of flight secondary-ion mass spectrometry (TOFSIMS), which uses an IONTOF IV instrument with a dual-beam setup."
-}

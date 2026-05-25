@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2, HfAlOx alloy, Al2O3/HfO2 stack",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Trimethyl aluminum (TMA)", "Tetrakis(ethylmethylamino)hafnium (TEMAH)", "Water (H2O)"],
-  "temperature_range": "200°C",
-  "summary": "The study investigates the thermal stability of HfO2, HfAlOx alloy, and Al2O3/HfO2 stack thin films deposited by atomic layer deposition (ALD). The HfAlOx alloy and Al2O3/HfO2 stack show improved thermal stability compared to pure HfO2, with the HfAlOx alloy retaining an amorphous structure up to 1000°C, which suppresses leakage current and reduces interface trap density. The study highlights the benefits of Al incorporation in enhancing thermal stability for gate dielectric applications.",
-  "evidence": "The thermal stability in structural and electrical properties of HfO2, HfAlOx alloy, and Al2O3/HfO2 stack thin films prepared by atomic layer deposition were comparatively investigated. Both HfAlOx and Al2O3/HfO2 exhibit improved property against thermal degradation compared to the HfO2 film. However, the incorporation of Al in alloy form provides characteristics superior to that in stack structure by retaining an amorphous structure up to 1000°C, which suppresses the leakage current and retards the growth of interfacial layer giving rise to lower increment of equivalent-oxide-thickness and interface trap density."
-}

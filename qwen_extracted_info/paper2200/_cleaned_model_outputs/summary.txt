@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum oxide (Al2O3)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["trimethyl aluminum (TMA)", "water vapor"],
-  "temperature_range": "60 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to create nanometer-thick passivating layers of aluminum oxide (Al2O3) on self-assembled monolayers (SAMs) with hydrophilic terminal groups. This process protects the molecular layer from damage during electrode deposition and enables the creation of large-area, nonshorting molecular junctions. The ALD process uses trimethyl aluminum (TMA) and water vapor as precursors, with a reactor temperature of 60 °C. The passivation process is shown to preserve the molecular monolayer and functional tailgroups, as confirmed by Auger electron spectroscopy and X-ray photoelectron spectroscopy. The study demonstrates the viability of this method for creating electrically stable molecular junctions for molecular electronics.",
-  "evidence": "We demonstrate that depositing nanometer thick aluminum oxide layers onto a variety of organic self-assembled monolayers is sufficient to eliminate metal penetration through the SAM during evaporation of top metal contacts. The ALD reactor temperature was kept at 60 °C. The samples were exposed to the precursors for between 5 and 30 s / cycle, and purging times varied from 20 to 50 s. Nitrogen was used as a purge gas, with a flow rate of 10 SCCM. Nonshorting devices were fabricated with Al2O3 thicknesses ranging from 1 – 4 nm. After Al2O3 deposition, a 30 nm thick top Au electrode was deposited onto the Al2O3 layer using electron beam evaporation with a shadowmask pattern, completing the device."
-}

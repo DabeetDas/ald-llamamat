@@ -1,8 +1,0 @@
-{
-  "target_material": "Tin nitride (SnNx)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Tetrakis(dimethylamino) tin (TDMASn)", "Ammonia (NH3)"],
-  "temperature_range": "70–200 °C",
-  "summary": "The study presents a low-temperature atomic layer deposition (ALD) process for synthesizing tin nitride (SnNx) thin films using TDMASn and NH3 as precursors. The process exhibits self-limiting growth behavior, with optimal growth per cycle (GPC) at 150 °C. The films show high conformality and uniformity, making them suitable for energy storage applications such as supercapacitors and Li-ion batteries. The study also explores the phase, microstructure, and optical properties of the ALD-SnNx films.",
-  "evidence": "We present an atomic layer deposition (ALD) process for the synthesis of tin nitride (SnNx) thin films using tetrakis(dimethylamino) tin [TDMASn, Ti(NMe2)4] and ammonia (NH3) as the precursors at low deposition temperatures (70–200 °C). This newly developed ALD scheme exhibits ideal ALD features like self-limited film growth at 150 ºC. The growth per cycle (GPC) was found to be ~0.21 nm/cycle at 70 °C, which decreased with increasing deposition temperature. Thermodynamic analysis via density functional theory (DFT) calculations showed that self-saturation of TDMASn would occur on an NH2-terminated surface. Moreover, it also suggests that condensation of molecular precursor and desorption of surface *NH2 moieties would occur at lower and higher temperatures outside the ALD window, respectively. Thanks to the characteristics of ALD, this process could be used to conformally and uniformly deposit SnNx onto an ultra-narrow dual trenched Si structure (minimum width: 15 nm and aspect ratio: ~6.3) with ~100% step coverage."
-}<|im_end|>

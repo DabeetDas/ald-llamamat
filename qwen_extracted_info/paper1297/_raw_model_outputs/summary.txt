@@ -1,8 +1,0 @@
-{
-  "target_material": "WO3",
-  "process_type": "plasma-enhanced ALD",
-  "main_precursors": ["(tBuN)2(Me2N)2W", "O2 plasma"],
-  "temperature_range": "300℃",
-  "summary": "The study evaluates the impact of physical and chemical defects in WO3 thin films on photoelectrochemical (PEC) water splitting performance. The results show that ALD-deposited WO3 films annealed in air have the least physical defects and an appropriate amount of oxygen vacancies, leading to the highest PEC performance.",
-  "evidence": "The highest performance was obtained for WO3 films deposited by ALD and annealed in air, which have the least physical defects and an appropriate amount of oxygen vacancies."
-}<|im_end|>

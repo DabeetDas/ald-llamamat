@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the use of self-assembled monolayers (SAMs) as deactivating agents to block the atomic layer deposition (ALD) of HfO2. The effectiveness of SAMs depends on factors such as chain length, tailgroup structure, and reactive headgroup. The results show that densely packed, highly hydrophobic monolayers with high reactivity and nonbulky tailgroups are crucial for effective deactivation. The ALD process involves two self-limiting chemical reactions using HfCl4 and H2O as precursors, and the deposited HfO2 films are characterized by ellipsometry and XPS.",
-  "evidence": "The ALD process includes two self-limiting chemical reactions, repeated in alternating ABAB sequences. The chemistry for HfO2 deposition was: A: Hf-OH* + HfCl4 → Hf-O-HfCl3* + HCl; B: Hf-Cl* + H2O → Hf-OH* + HCl. The base pressure of the ALD reactor was kept at 5 × 10-8 Torr, and the reactor was operated at 0.5 Torr. The source temperatures were 20 and 150 °C for the H2O and HfCl4 precursors, respectively. The sample surface was alternately exposed to HfCl4 and water vapor. The deposition was carried out at a substrate temperature of 300 °C."
-}<|im_end|>

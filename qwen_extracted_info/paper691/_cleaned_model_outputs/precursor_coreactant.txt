@@ -1,7 +1,0 @@
-{
-  "precursors": ["lanthanum 2,2,6,6-tetramethyl-3,5-heptanedione [La(TMHD) 3]", "H2O"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "La(TMHD) 3 and H2O were used as precursors. Ultra pure N2 gas (99.999%) was used as a carrier gas. The sequence of the ALD cycle was H2O (3 s)/N2 (30 s)/La(TMHD)3 (10 s)/N2 (30 s)."
-}

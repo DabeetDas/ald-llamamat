@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "575 K to 700 K",
-  "summary": "The study investigates the photoluminescence properties of nanocrystalline TiO2 thin films grown by atomic layer deposition (ALD). The films consist of anatase, rutile, and TiO2-II phases, and their photoluminescence spectra reveal distinct emission bands and peaks. The temperature dependence and decay times of the emission bands are analyzed, and the results suggest the involvement of self-trapped excitons and defect-trapped excitons in the luminescence mechanism.",
-  "evidence": "TiO2 thin ®lms were grown in a ¯ow-type atomic layer deposition reactor on fused silica and (111)-oriented silicon substrates. TiCl4 and H2O were used as precursors. The ®lms were grown at temperatures 575 K and 700 K. The PL spectra of anatase ®lms consisted of a broad band with the maximum at 2.24 eV and two sharp peaks at 3.31 and 3.37 eV. The temperature dependence and decay times of different emission bands were also investigated."
-}

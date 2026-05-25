@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu(In,Ga)(S,Se)2 (CIGS)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Cu(acac)2", "In(acac)3", "H2S", "Zn(C2H5)2", "Al(CH3)3", "In(acac)3", "H2S", "deionized water"],
-  "temperature_range": "150 °C to 200 °C",
-  "summary": "The study explores the feasibility of preparing complete CIGS-type solar cells using Atomic Layer Deposition (ALD). The materials used include CuInS2 as the absorber layer, In2S3 as the buffer layer, and ZnO/ZnO:Al as the window layers. The process involves synthesizing each layer and optimizing their deposition conditions. The results show that ALD can produce thin films with good structural and optical properties, although the efficiency of the resulting solar cells is still low.",
-  "evidence": "The text states that the study explores the feasibility of preparing complete CIGS-type solar cells by ALD, with the materials used being CuInS2 as the absorber layer, In2S3 as the buffer layer, and ZnO/ZnO:Al as the window layers. The process involves synthesizing each layer and optimizing their deposition conditions. The results show that ALD can produce thin films with good structural and optical properties, although the efficiency of the resulting solar cells is still low."
-}<|im_end|>

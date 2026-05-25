@@ -1,7 +1,0 @@
-{
-  "precursors": ["diethyl zinc", "tungsten hexafluoride"],
-  "coreactants": ["water", "disilane"],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": [],
-  "evidence": "ZnO ALD films were grown using diethyl zinc (DEZ) and water at 177 °C with exposure times of 1 s and purge times of 5 s. Additional in situ resistivity measurements explored W ALD. The W ALD was performed using tungsten hexafluoride (WF6) and disilane (Si2H6) exposures of 2 s and purge times of 5 s at 300 °C."
-}

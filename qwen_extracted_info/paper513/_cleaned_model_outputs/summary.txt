@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "water (H2O)"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of Al2O3 using TMA and H2O as precursors on Si and SiO2 surfaces. The process involves sequential surface reactions and is used to grow ultra-thin dielectric layers. The growth mechanism involves two half-reactions, and the study focuses on the stoichiometry, contamination, and interface properties of the deposited films. Post-deposition annealing significantly affects the interface and oxidation behavior.",
-  "evidence": "Thin Al2O3 layers were grown by atomic layer deposition using trimethylaluminum (TMA) and water (H2O) as precursors on 1.2 nm thermal SiO2 and HF cleaned Si surfaces. The Al2O3 growth mechanism using TMA/H2O cycles has been widely discussed in previous studies and can be summarized by two half reactions. The study focuses on the stoichiometry (Al/O), on the H and C contamination, and on the interface properties of the films."
-}

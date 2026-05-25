@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "TMA reacts with chlorine of the metal chlorine complex and results in aluminum and methyl chlorine. The reducing effect of TMA is due to the relatively low decomposition energy of the Al–CH3 bonding compared to the stronger one of the Al–Cl bonding and the C–Cl bonding. The TMA pulse is used as an additional reducing agent in the TPDS–NH3 ALD sequence.",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "TMA was supposed to react with chlorine of the metal chlorine complex and should result in aluminum and methyl chlorine. The reducing effect of the TMA was expected from the relatively low decomposition energy of the Al–CH3 bonding (ca. 280 kJ/mol) compared to the stronger one of the Al–Cl bonding (421 kJ/mol) and the C–Cl bonding (327 kJ/mol)."
-}

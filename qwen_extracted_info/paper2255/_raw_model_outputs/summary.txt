@@ -1,8 +1,0 @@
-{
-  "target_material": "silicon photonic-crystal waveguides",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["tetrakis(diethylamido)hafnium", "water (H2O) vapor"],
-  "temperature_range": "200 °C",
-  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to deterministically tune the slow-light regime in silicon photonic-crystal waveguides (PhCWGs) by depositing hafnium oxide (HfO2) monolayers. The process allows for precise control of the slow-light mode onset edge, enabling applications such as chip-scale optical interconnects and Raman amplification.",
-  "evidence": "We demonstrate digital tuning of the slow-light regime in silicon photonic-crystal waveguides by performing atomic layer deposition of hafnium oxide. The high group-index regime was deterministically controlled redshift of 140 ±10 pm per atomic layer without affecting the group-velocity dispersion and third-order dispersion."
-}<|im_end|>

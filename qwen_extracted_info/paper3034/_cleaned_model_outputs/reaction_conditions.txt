@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions are self-limiting and involve the interaction of TiCl4 precursor with the substrate surface, followed by plasma exposure that generates reactive species such as H and N radicals. These radicals contribute to surface chemistry, and the ion flux from the plasma provides additional energy for surface reactions. The plasma exposure time and temperature affect the stoichiometry and impurity content of the resulting TiN films.",
-  "intermediate_species": ["TiCl4", "surface hydroxyls", "Cl impurities", "H and N radicals"],
-  "evidence": "The surface reactions are self-limiting and involve the interaction of TiCl4 precursor with the substrate surface, followed by plasma exposure that generates reactive species such as H and N radicals. These radicals contribute to surface chemistry, and the ion flux from the plasma provides additional energy for surface reactions. The plasma exposure time and temperature affect the stoichiometry and impurity content of the resulting TiN films."
-}

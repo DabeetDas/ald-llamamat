@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2/Si(0 0 1) interface",
-  "process_type": "atomic-layer chemical vapor deposition (ALCVD)",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "300 8C",
-  "summary": "The study characterizes the HfO2/Si(0 0 1) interface formed by atomic-layer chemical vapor deposition (ALCVD) and reports the presence of a thin SiOx layer between the HfO2 film and the Si(0 0 1) substrate. The interface exhibits compressive strain perpendicular to the surface, with a maximum strain of about 1% at the interface.",
-  "evidence": "A ultrathin HfO2 film /C243 nm thick was prepared on p-type Si(0 0 1) by means of atomic-layer chemical vapor deposition (ALCVD) at 300 8C. The HfO2/Si(0 0 1) interface was observed ex situ with HRBS. The observed maximum strain is about 1% at the interface and the strained region extends down to /C243 nm from the interface."
-}

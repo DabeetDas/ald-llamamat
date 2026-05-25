@@ -1,8 +1,0 @@
-{
-  "target_material": "InAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Trimethylindium (TMIn)", "10% AsH3 in H2"],
-  "temperature_range": "340°C",
-  "summary": "The study demonstrates atomic layer epitaxy (ALE) of InAs, achieving a growth rate of one monolayer per cycle at 340°C. The process involves alternating exposures of Trimethylindium (TMIn) and AsH3 in H2, with a focus on steric hindrance effects during growth. The ALE technique is highlighted for its self-limiting mechanism, which allows precise control over layer thickness and reduced intermixing between source materials.",
-  "evidence": "Atomic layer epitaxy of InAs is demonstrated. Saturation of the growth rate of one monolayer per cycle is achieved at a growth temperature of 340°C. The growth rate is found to be a strong function of trimethylindium exposure times for the same total amount of reactant exposure per cycle. Trimethylindium (TMIn) and 10% AsH3 in H2 were used as In and As source materials, respectively. The ALE growth sequence consisted of (1) TMIn exposure, (2) H2 purging, (3) AsH3 exposure, and (4) H2 purging."
-}

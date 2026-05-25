@@ -1,7 +1,0 @@
-{
-  "precursors": ["HfCl4", "tetrakis-ethyl-methyl-amino-Hf (TEMAHf)"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The ALD of HfO2 was performed in a vessel equipped with valves for introducing the Hf-precursor and the oxidant, with a current feed-through for the direct heating of the sample and a manipulator for transferring the sample into the measurement chamber, separated from the ALD reactor by a gate valve. The substrate temperature during the growth was set to 300 -C when using HfCl4, and to 250 -C when using tetrakis-ethyl-methyl-amino-Hf (TEMAHf). The exposure to HfCl4 was for 6 min at a pressure of 5 T 10S5 mbar, and to H2O was for 20 s at 1 T 10S2 mbar. During the two steps and after the oxidation step, the chamber was purged by N2 exposed for 120 s at a pressure of 1 T 10S2 mbar."
-}<|im_end|>

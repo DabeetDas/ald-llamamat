@@ -1,7 +1,0 @@
-{
-  "precursors": ["LiN(SiMe3)2 (LiHMDS)", "H2NP(O)(OC2H5)2 (DEPA)"],
-  "coreactants": [],
-  "purge_gas": ["Nitrogen (99.999%)"],
-  "carrier_gas": ["Nitrogen (99.999%)"],
-  "evidence": "The LiPON thin films were deposited using an F-120 flow-type hot-wall ALD reactor (ASM Microchemistry Ltd.) from lithium hexamethyldisilazide LiN(SiMe3)2 (LiHMDS) and diethyl phosphoramidate H2NP(O)(OC2H5)2 (DEPA) precursors. Nitrogen (99.999%) was used both as a carrier and purging gas with a flow rate of 300 sccm."
-}

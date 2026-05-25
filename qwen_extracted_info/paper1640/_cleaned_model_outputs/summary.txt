@@ -1,8 +1,0 @@
-{
-  "target_material": "SiO2",
-  "process_type": "PEALD",
-  "main_precursors": ["TDMAS", "H2O2"],
-  "temperature_range": "150 -550 °C",
-  "summary": "The study explores the atomic layer deposition (ALD) of silicon dioxide (SiO2) using tris(dimethylamino)silane (TDMAS) and hydrogen peroxide (H2O2) as precursors. The process was characterized using in situ Fourier transform infrared (FTIR) spectroscopy to monitor surface reactions and film growth. The results indicate that the removal of SiH* surface species is temperature-dependent, with complete removal occurring at temperatures >450 °C. The growth rate of SiO2 films increased with temperature, ranging from 0.8 Å/cycle at 150 °C to 1.8 Å/cycle at 550 °C. The study highlights the effectiveness of TDMAS and H2O2 for SiO2 ALD at temperatures >450 °C.",
-  "evidence": "The atomic layer deposition (ALD) of silicon dioxide (SiO2) was initially explored using a variety of silicon precursors with H2O as the oxidant. The silicon precursors were (N,N-dimethylamino)trimethylsilane) (CH3)3SiN(CH3)2, vinyltrimethoxysilane CH2dCHSi(OCH3)3, trivinylmethoxysilane (CH2dCH)3SiOCH3, tetrakis(dimethylamino)silane Si(N(CH3)2)4, and tris(dimethylamino)silane (TDMAS) SiH(N(CH3)2)3. TDMAS was determined to be the most effective of these precursors. However, additional studies determined that SiH* surface species from TDMAS were difficult to remove using only H2O. Subsequent studies utilized TDMAS and H2O2 as the oxidant and explored SiO2 ALD in the temperature range of 150 -550 °C."
-}

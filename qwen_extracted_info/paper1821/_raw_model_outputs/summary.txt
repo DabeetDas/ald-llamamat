@@ -1,8 +1,0 @@
-{
-  "target_material": "Pt–Sn bimetallic nanoparticles",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["tetrakis-(dimethylamino)tin", "H2O", "trimethyl-(methylcyclopentadienyl)platinum", "O3"],
-  "temperature_range": "700 /C14 C",
-  "summary": "Pt–Sn bimetallic nanoparticles were synthesized using atomic layer deposition (ALD) followed by temperature programmed reduction (TPR). The process allows for precise control over the size and composition of the nanoparticles by adjusting the thickness of the deposited layers and the reduction temperature. The study demonstrates the ability to tune the crystalline phase and particle size of the Pt–Sn alloys, which is crucial for catalytic applications.",
-  "evidence": "Pt–Sn bimetallic nanoparticles (BMNPs) were prepared via a two-step synthesis procedure combining atomic layer deposition (ALD) and temperature programmed reduction (TPR). The size of the BMNPs could be tuned by changing the total thickness of the bilayers, while keeping the Pt/(Pt + Sn) atomic ratio constant. The formation of alloyed Pt–Sn particles was achieved through TPR at 700 /C14 C in 10% H2/N2."
-}<|im_end|>

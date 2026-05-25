@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The adsorbed DMEAA, upon heating, converts to Al, but may also produce decomposed amine on the Si surface. The amine may go through several decomposition steps on the surface before finally converting to N-CH3, which then desorbs at 650-800 K.",
-  "intermediate_species": [
-    "N-CH3",
-    "AlHNDY"
-  ],
-  "evidence": "The adsorbed DMEAA, upon heating, converts to Al, but may also produce decomposed amine on the Si surface. The amine may go through several decomposition steps on the surface before finally converting to N-CH3, which then desorbs at 650-800 K. The majority of the amine was displaced from TMAA upon adsorption of ammonia, and the dominant surface species was AlHNDY."
-}

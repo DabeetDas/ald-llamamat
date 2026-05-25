@@ -1,8 +1,0 @@
-{
-  "target_material": "α-MoO3",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["(NtBuN)2(NMe2)2Mo", "plasma oxygen gases"],
-  "temperature_range": "100-350°C",
-  "summary": "The study describes the development of 4.9 nm thick two-dimensional α-MoO3 nano-films using atomic layer deposition (ALD) for hydrogen peroxide (H2O2) electrochemical sensing. The nano-films were fabricated on SiO2/Si wafers and annealed at 200°C. The ALD process utilized (NtBuN)2(NMe2)2Mo as the molybdenum precursor and plasma oxygen gases as the oxygen precursor. The resulting nano-films exhibited high sensitivity (168.72 µA·mM-1·cm-2), a wide linear detection range (0.4 µM – 57.6 mM), and a low detection limit (0.076 µM). The sensors demonstrated excellent selectivity, stability, and fast response/recovery times, making them suitable for practical H2O2 detection applications.",
-  "evidence": "The text states: 'Two-dimensional (2D) α-MoO3 nano-films with thickness of 4.9 nm were fabricated via atomic layer deposition (ALD) technique for the first time on the wafer scale and were subsequently annealed at 200°C.' It also mentions: 'The ALD-fabricated 2D α-MoO3 nano-films with thickness of 4.9 nm have clearly demonstrated high performance activity towards H2O2 detection at various conditions.' Additionally, the main precursors are specified as '(NtBuN)2(NMe2)2Mo' and 'plasma oxygen gases'."
-}<|im_end|>

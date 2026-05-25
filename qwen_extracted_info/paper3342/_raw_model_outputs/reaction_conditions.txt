@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves sequential self-limiting reactions where the Sn precursor (TDMASn) and S precursor (H2S) alternate, leading to the formation of SnS2 on the substrate. The surface reaction mechanism includes the adsorption of Sn precursors followed by the reaction with surface hydroxyl groups, and subsequent purging with N2. The surface species formed during the process include Sn-O-Sn and Sn-S bonds, with the final product being amorphous SnS2.",
-  "intermediate_species": ["Sn-O-Sn", "Sn-S"],
-  "evidence": "The self-saturation state of the ALD process can be achieved by alternately changing the pulse times of the tin and sulfur sources. The optimal SnxSy film deposition sequence of one ALD cycle was determined to be: Sn pulse (2.0 s), N2 purge (12.0 s), H2S pulse (1.0 s), then N2 purge (12.0 s)."
-}<|im_end|>

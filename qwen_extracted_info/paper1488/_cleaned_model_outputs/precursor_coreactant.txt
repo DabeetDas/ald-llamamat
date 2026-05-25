@@ -1,7 +1,0 @@
-{
-  "precursors": ["Trimethylgallium (TMGa)"],
-  "coreactants": ["Ozone (O3)"],
-  "purge_gas": ["Nitrogen (N2)"],
-  "carrier_gas": ["Nitrogen (N2)"],
-  "evidence": "Ga2O3 ALD was conducted using TMGa (99+%, Strem Chemicals, Inc.) as the Ga source. TMGa was dosed through a 100 μm diameter orifice to achieve a TMGa partial pressure of ∼20 mTorr within the reactor. A variety of oxygen sources were screened, including H2O, H2O2 (30 wt % in H2O), isopropanol, O2, O3, and H2O/O2 mixtures. The pressure within the reactor was maintained at ∼1 Torr using a 300 sccm flow of ultra high purity (UHP, 99.999%) nitrogen carrier gas."
-}

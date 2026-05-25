@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium nitride (TiN)",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["tetrakis(ethylmethylamido)titanium (TEMAT)", "ammonia (NH3)"],
-  "temperature_range": "150-350°C",
-  "summary": "This study investigates the PEALD of TiN using TEMAT and remote ammonia plasma, focusing on the effects of substrate temperature and plasma time on film properties such as resistivity, carbon content, N/Ti ratio, and film density. The lowest resistivity of ~250 µΩ·cm was achieved at 300-350°C and 20s plasma time.",
-  "evidence": "This paper presents the plasma-enhanced atomic layer deposition (PEALD) of titanium nitride (TiN) using the organic precursor tetrakis(ethylmethylamido)titanium (TEMAT), with remote ammonia (NH3) plasma as reactant gas. The lowest resistivity of ~250 µΩ.cm was achieved at substrate temperatures 300-350°C and plasma time of 20s."
-}

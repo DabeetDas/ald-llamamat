@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of molecular oxygen as a co-reactant for the Ru seed layer deposition, leading to the formation of RuOx and subsurface oxygen, which act as active sites for the subsequent ECPR pulse. Excess oxygen is converted by a hydrogen purge step, resulting in a homogenization of the surface and formation of blister-free ruthenium films without RuOx.",
-  "intermediate_species": ["RuOx", "subsurface oxygen"],
-  "evidence": "Due to action of co-reactant oxygen, locally preferred RuOx formation and/or subsurface oxygen [20] can be assumed to serve as active sites for the following ECPR pulse. This excess oxygen is converted by a hydrogen purge step resulting in a homogenization of the surface and formation of blister-free ruthenium films without RuOx."
-}<|im_end|>

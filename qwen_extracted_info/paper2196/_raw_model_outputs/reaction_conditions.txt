@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "The authors reported that the migration of substrate elements (Si and Ge) during the atomic layer deposition (ALD) of HfO2 and postdeposition annealing (PDA) play an important role in determining the capacitance equivalent thickness (CET) of the ALD HfO2 films on Si1−xGex substrates. It was also reported that PDA generally improved the electrical properties. The interdiffusion of the substrate elements during ALD and PDA could be controlled by POT and PNT. PNT was effective in reducing the diffusion of both Si and Ge during the ALD and PDA, whereas POT reduced only Si diffusion. The surface treatments reduced the changes in the CET after PDA without any significant increase in the leakage current density."
-}<|im_end|>

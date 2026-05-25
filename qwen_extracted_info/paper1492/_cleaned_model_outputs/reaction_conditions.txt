@@ -1,6 +1,0 @@
-{
-  "reaction_equations": ["Ni-precursor + OH* → Ni-OH* + byproducts", "Ni-OH* + O* → NiO + H*"],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Ni-precursor molecules onto surface hydroxyl groups (OH*), followed by a plasma-enhanced oxygen pulse that provides oxygen atoms (O*). The Ni-precursor reacts with the surface hydroxyl groups to form Ni-OH* species, which then react with oxygen atoms to form NiO and release hydrogen (H*). The presence of WO3 on the surface of the W substrate enhances the adsorption sites for the Ni-precursor, leading to a higher growth rate.",
-  "intermediate_species": ["Ni-OH*", "WO3", "surface hydroxyls", "formate species"],
-  "evidence": "The surface reaction mechanism involves the adsorption of Ni-precursor molecules onto surface hydroxyl groups (OH*), followed by a plasma-enhanced oxygen pulse that provides oxygen atoms (O*). The Ni-precursor reacts with the surface hydroxyl groups to form Ni-OH* species, which then react with oxygen atoms to form NiO and release hydrogen (H*). The presence of WO3 on the surface of the W substrate enhances the adsorption sites for the Ni-precursor, leading to a higher growth rate."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Hf(N(CH3)2)4", "O3"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the influence of oxygen concentration during atomic layer deposition (ALD) of HfO2 gate dielectric films on the electron mobility of polycrystalline-Si gate transistors. It shows that a lower ozone concentration (150 g/m³) produces a stoichiometric HfO2 film with lower interfacial trap density (Dit) and higher electron mobility compared to a higher ozone concentration (390 g/m³) which results in an oxygen-excess HfO2 film with higher Dit and lower electron mobility.",
-  "evidence": "The use of a lower ozone concentration (150 g/m³) produced a HfO2 film with a stoichiometric oxygen concentration, whereas a higher ozone concentration (390 g/m³) produced an oxygen excess HfO2 film. An almost identical Dit to that of the SiO2 gate dielectric film was obtained from the stoichiometric HfO2, whereas the oxygen excess HfO2 gate dielectric produced a much higher Dit with the polycrystalline-Si electrode. The effective mobility from the MOSFET with the oxygen excess HfO2 film was only 45%."
-}

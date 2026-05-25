@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of octadecyltrichlorosilane (OTS) monolayers to inhibit film nucleation, enabling selective area atomic layer deposition (ALD) of ruthenium on SiO2 and HfO2 surfaces. The OTS monolayer deactivates film growth on thermal silicon oxide and hafnium oxide surfaces. The growth rate of ALD Ru is similar on various starting surfaces, but the growth initiation differs substantially. The OTS monolayer resists Ru nucleation, which is less sensitive to monolayer quality compared to Hf or Zr oxide and Ti-based film deposition.",
-  "intermediate_species": ["OTS monolayer"],
-  "evidence": "The OTS could deactivate film growth on thermal silicon oxide and hafnium oxide surfaces. The results suggest that Ru nucleation is not as sensitive to quality of the monolayer surface as observed for Hf or Zr oxide and Ti-based film deposition. This may be due to the higher oxygen affinity of Hf, Zr, and Ti where these metals are more likely to penetrate the monolayer and react with oxide present at the Si/monolayer interface."
-}<|im_end|>

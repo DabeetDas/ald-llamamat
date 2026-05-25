@@ -1,8 +1,0 @@
-{
-  "target_material": "Co and Ni nanorods",
-  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
-  "main_precursors": ["bis(cyclopentadienyl)cobalt(II) (CoCp2)", "bis(dimethylamino-2-methyl-2-butoxo)nickel(II) (Ni(dmamb)2)"],
-  "temperature_range": "not explicitly stated",
-  "summary": "A novel method for the template-free synthesis of magnetic-metal nanorods (NRs) of Co and Ni using plasma-enhanced atomic layer deposition (PE-ALD) is developed. The process involves the use of NH3 plasma mixed with a suitable amount of SiH4 as a reactant, resulting in the spontaneous formation of vertical NRs. The lengths of the NRs are controlled by the number of PE-ALD growth cycles. The study confirms the magnetic anisotropy of Co NRs due to shape anisotropy.",
-  "evidence": "A novel fabrication method of Co and Ni metal nanorods (NRs) without catalyst or template, based on the spontaneous formation of NRs during plasma-enhanced atomic layer deposition (PE-ALD) is developed. ... The same conditions used in Co NR growth were applied to the PE-ALD of Ni with bis(dimethylamino-2-methyl-2-butoxo)nickel(II) (Ni(dmamb)2). ... SQUID magnetometer measurements confirmed the magnetic anisotropy of Co NRs due to shape anisotropy."
-}

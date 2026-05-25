@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the alternating exposure of Pt(MeCp)Me3 and O2, and Ir(acac)3 and O2, with each precursor forming a self-terminating monolayer. The growth rate of Pt is 0.45–0.64 Å cycle−1 and Ir is 0.46–0.47 Å cycle−1. The composition of the PtIr alloy is controlled by adjusting the ratio of Pt to Ir cycles, with the growth rate of Ir being slower than Pt, leading to a reduced Ir content relative to the percentage of Ir cycles.",
-  "intermediate_species": ["Pt(MeCp)Me3", "Ir(acac)3", "O2", "surface hydroxyls"],
-  "evidence": "Pt and Ir ALD were conducted by alternating exposures of Pt(MeCp)Me3 and O2, and Ir(acac)3 and O2. The growth rate of Pt is 0.45–0.64 Å cycle−1 and Ir is 0.46–0.47 Å cycle−1. The composition of the PtIr alloy is controlled by adjusting the ratio of Pt to Ir cycles, with the growth rate of Ir being slower than Pt, leading to a reduced Ir content relative to the percentage of Ir cycles."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Gallium Oxide (Ga2O3)",
-  "process_type": "Plasma Enhanced ALD (PEALD)",
-  "main_precursors": ["Triethylgallium", "Oxygen Plasma"],
-  "temperature_range": "190°C to 277°C",
-  "summary": "This study explores the use of plasma enhanced atomic layer deposition (PEALD) to grow crystalline gallium oxide (Ga2O3) thin films on c-plane sapphire substrates at low thermal budgets. The process enables the formation of highly oriented crystalline films with minimal thermal energy, achieving crystallinity at as low as 190°C. The films exhibit preferred orientations of α-Ga2O3 (006) and β-Ga2O3 (2̅01) planes parallel to the sapphire (006) planes. The study also demonstrates that annealing at 550°C can transform the films into pure β-Ga2O3 with high crystallinity and low defect density, making it suitable for applications in power electronics and optoelectronics.",
-  "evidence": "The Ga2O3 films exhibited strong preferred orientation on c-plane sapphire substrate. Onset of formation of crystalline gallium oxide is determined, at which only two sets of planes, i.e. α-Ga2O3 (006) and β-Ga2O3 (4̅02) are present parallel to the surface. More specifically, this work reports, for the first time, that epitaxial gallium oxide films on sapphire start to form at deposition temperatures ≥ 190°C using an optimized plasma enhanced ALD process such that α-Ga2O3 (006)║α-Al2O3 (006) and β-Ga2O3 (2̅01)║α-Al2O3 (006)."
-}<|im_end|>

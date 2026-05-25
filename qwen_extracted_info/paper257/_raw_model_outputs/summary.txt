@@ -1,8 +1,0 @@
-{
-  "target_material": "CdSe",
-  "process_type": "atomic layer epitaxy (ALE)",
-  "main_precursors": ["CdSe", "ZnSe"],
-  "temperature_range": "230 °C",
-  "summary": "The study describes the growth of self-organized CdSe quantum dots (QDs) embedded in ZnSe using atomic layer epitaxy (ALE) at 230 °C, followed by annealing. The QDs were characterized using time-resolved photoluminescence, revealing distinct optical properties and the effects of resonant excitation on the emission behavior.",
-  "evidence": "The samples were grown on thermally cleaned (100) GaAs by molecular beam epitaxy (MBE) using elemental sources. Prior to the CdSe growth, a ZnSe buffer layer of typically 120 nm was deposited at 300°C and a growth rate of 240 nm h−1. To achieve self-organized QD formation we basically tried two methods: (1) growth via continuous MBE at 300°C until the transition from the initially 2D streaky reflection high-energy electron diffraction (RHEED) to a 3D spotty pattern occurred, and (2) atomic layer epitaxy (ALE) at a reduced temperature of 230°C and subsequent annealing."
-}<|im_end|>

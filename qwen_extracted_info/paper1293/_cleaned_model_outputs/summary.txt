@@ -1,8 +1,0 @@
-{
-  "target_material": "MgxCa1−xO",
-  "process_type": "ALD",
-  "main_precursors": ["bis(N,N'-di-secbutylacetamidinato)magnesium", "bis(N,N'-diisopropylacetamidinato)calcium(II) dimer"],
-  "temperature_range": "220 to 340 °C",
-  "summary": "The study describes the development of an Atomic Layer Deposition (ALD) process for growing MgxCa1−xO on GaN substrates using amidinate-based precursors. The process involves optimizing deposition temperature to achieve high-quality, hydroxyl- and carbon-free films. The study also investigates the band offset analysis of MgxCa1−xO/GaN samples using X-ray photoelectron spectroscopy (XPS) to understand their electrical and interfacial properties.",
-  "evidence": "ALD processes were developed for growing MgO and CaO on GaN substrates using a home-built ALD reactor with amidinate-based precursors. An optimal deposition condition was then determined to deposit pure MgxCa1−xO by tuning deposition temperature, achieving a high-quality film without carbon and hydroxyl contamination. Band offset analysis was conducted by X-ray photoelectron spectroscopy on MgxCa1−xO/GaN samples with various compositions."
-}

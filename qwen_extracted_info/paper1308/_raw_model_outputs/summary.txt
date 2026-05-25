@@ -1,8 +1,0 @@
-{
-  "target_material": "Indium Gallium Oxide (IGO)",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["In(CH3)3[CH3OCH2CH2NHtBu] (TMION)", "Ga(CH3)3[CH3OCH2CH2NHtBu] (TMGON)", "(CH3)2In(CH2)3N(CH3)2 (DADI)", "(CH3)3Ga (TMGa)"],
-  "temperature_range": "100 to 250 °C",
-  "summary": "The study investigates the deposition of Indium Gallium Oxide (IGO) thin films using plasma-enhanced atomic layer deposition (PEALD) with different precursor combinations. The research focuses on the impact of precursor structures on the growth mechanisms, metal composition ratios, and electrical properties of the resulting IGO films. The study highlights the differences in growth behavior and electrical characteristics due to variations in precursor chemisorption and surface reactivity.",
-  "evidence": "The text discusses the use of two sets of In and Ga precursors for PEALD deposition of IGO thin films, varying the number of InO subcycles to control chemical composition. It also details the effects of precursor structures on the metal ratios, growth behavior, and electrical properties of the films, emphasizing the role of surface reactivity and chemisorption."
-}<|im_end|>

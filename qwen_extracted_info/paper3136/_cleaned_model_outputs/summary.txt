@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2 and HfSiOx",
-  "process_type": "ALD",
-  "main_precursors": ["HfCl4", "H2O", "SiCl4"],
-  "temperature_range": "300°C",
-  "summary": "The study investigates the role of moisture control in Atomic Layer Deposition (ALD) of Hf-based dielectrics, specifically HfO2 and HfSiOx, on Equivalent Oxide Thickness (EOT) scaling in gate-first devices. The presence of moisture (H2O) during high-temperature spike annealing leads to an increase in EOT due to interfacial oxide regrowth. A premetallization degas at 350–550°C reduces H2O levels, thereby minimizing EOT increase. The study also highlights the impact of Hf concentration and nitridation on H2O adsorption and EOT scaling.",
-  "evidence": "The text states: 'By reducing the amount of H2O present in the gate stack, the EOT increase during high-temperature (1030°C) spike annealing is reduced from 0.5 to 0.25 nm. This was achieved by a premetallization degas at 350–550°C for 3 min.' Additionally, it mentions: 'The H2O concentration is dependent on the Hf concentration and nitridation. Non-nitrided HfSiOx with Hf=40% adsorbs twice as much H2O as HfO2.'"
-}

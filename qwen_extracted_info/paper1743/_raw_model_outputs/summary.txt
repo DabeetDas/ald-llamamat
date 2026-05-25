@@ -1,8 +1,0 @@
-{
-  "target_material": "WS2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["WO3", "H2S"],
-  "temperature_range": "650 °C to 850 °C",
-  "summary": "The study describes a scalable method for producing high refractive index WS2 layers by chemical conversion of ALD-synthesized WO3. The process involves depositing WO3 via ALD, followed by high-temperature conversion in the presence of H2S to form WS2. The resulting WS2 films exhibit high refractive indices (n > 3.9) and structural fidelity, enabling the fabrication of photonic structures such as 2D hole arrays and 3D inverse opal photonic crystals. The method allows for conformal coating of complex templates, demonstrating the potential for high refractive index materials in photonic applications.",
-  "evidence": "These conformal nanocrystalline thin films demonstrate a surprisingly high index of refraction (n > 3.9), and structural fidelity compatible with lithographically defined features down to ~10 nm. WO3 thin films of about 30 nm thickness were deposited onto fused silica and thermal oxide coated silicon wafers with ALD. After annealing in H2S at high temperature, characteristic Raman modes in the Raman spectrum confirmed conversion into WS2. The refractive indices of WS2 converted at 650 °C and 850 °C are compared to literature values for WS2, Si, and GaP."
-}<|im_end|>

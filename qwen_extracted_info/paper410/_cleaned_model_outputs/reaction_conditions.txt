@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth process involves a self-regulatory regime where layer-by-layer growth occurs. The surface reordering at high substrate temperatures plays a key role, with the formation of monolayers dependent on the balance between deposition and re-evaporation of surface atoms. The growth rate is determined by the parameters of the component with the lower vapor pressure, and the stability range of the monolayer growth regime is influenced by the molecular beam fluxes.",
-  "intermediate_species": ["Cd atoms", "Te atoms", "surface hydroxyls", "Te2 molecules"],
-  "evidence": "The text describes the growth process as involving a self-regulatory regime where layer-by-layer growth occurs. The surface reordering at high substrate temperatures plays a key role, with the formation of monolayers dependent on the balance between deposition and re-evaporation of surface atoms. The growth rate is determined by the parameters of the component with the lower vapor pressure, and the stability range of the monolayer growth regime is influenced by the molecular beam fluxes. The adsorption behavior of Te is different from that of Cd, with Te adsorbing as a large and comparably immobile Te2 molecule that cannot easily change its site if it is hit by a second Te2 particle."
-}

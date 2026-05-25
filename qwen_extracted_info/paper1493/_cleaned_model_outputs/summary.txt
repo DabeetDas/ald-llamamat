@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnS",
-  "process_type": "ALD",
-  "main_precursors": ["Diethylzinc (DEZ)", "H2S"],
-  "temperature_range": "25 to 160 °C",
-  "summary": "The study presents in situ topographical observations of the nucleation and growth of ZnS films during the initial cycles of atomic layer deposition (ALD) on Au(111) surfaces. The process involves the use of scanning tunneling microscopy (STM) to track individual grain growth and morphology changes over multiple cycles. The temperature dependence of grain morphology and size is observed, with grain size increasing as the deposition temperature increases from 100 to 160 °C. The study highlights the importance of understanding the initial growth phases of ALD for the development of ultrathin films.",
-  "evidence": "We report measurements of ALD growth of zinc sulﬁde on Au(111) substrates. ZnS, a wide-bandgap semiconductor, is of interest in thin-ﬁlm photovoltaics as its optoelectronic properties and nontoxicity make it a candidate for buﬀer layers in Cu(In, Ga)Se2 (CIGS) solar cells. Standard parameters were used for the ALD of ZnS. Diethylzinc (DEZ) was used as the zinc source, and H2S resulting from the decomposition of thioacetamide (TAA) was used as the sulfur source. The sample temperature was varied from 25 to 160 °C. We observe for the DEZ/H2S/Au system that chemisorption of the ALD precursors occurs at temperatures from 60 to 160 °C. We find that grain morphology is temperature-dependent and grain size increases with deposition temperature from 100 to 160 °C."
-}

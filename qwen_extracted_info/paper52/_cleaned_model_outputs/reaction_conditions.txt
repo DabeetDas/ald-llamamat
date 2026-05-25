@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves sequential self-limiting gas-surface reactions using copper acetylacetonate (Cu(acac)2) and elemental sulfur (S) as precursors. The surface reactions are self-limiting, leading to the formation of CuS thin films through the interaction of the copper precursor with sulfur atoms. The process proceeds in an ideal ALD manner at low temperatures (140–160 °C), yielding single-phase CuS films with a growth rate of ≈4 Å per cycle.",
-  "intermediate_species": ["Cu(acac)2", "S", "CuS"],
-  "evidence": "The text describes the ALD process using copper acetylacetonate (Cu(acac)2) and elemental sulfur (S) as precursors. It states that the process proceeds in an ideal ALD manner at low temperatures (140–160 °C), yielding single-phase CuS films with a growth rate of ≈4 Å per cycle. The surface reactions are self-limiting, and the process involves the interaction of the copper precursor with sulfur atoms."
-}

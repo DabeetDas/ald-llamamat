@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "PEALD (plasma-enhanced ALD)",
-  "main_precursors": ["tetrakismethylethylaminohafnium (Hf[N(CH3)(C2H5)]4)", "ozone (O3)"],
-  "temperature_range": "180 °C for deposition, 400 °C for MMT treatment",
-  "summary": "The study investigates the effects of plasma treatments (CCP and MMT) on ALD-grown HfO2 films. The MMT treatment effectively reduces carbon impurities and improves electrical properties, such as reducing hysteresis and leakage current, compared to CCP treatment.",
-  "evidence": "The MMT treated films exhibited a significant reduction in their carbon contents and the efficient incorporation of nitrogen atoms. Although the incorporated nitrogen was easily released during the post-thermal annealing of the MMT treated samples, it was more effective than the CCP treatment in removing the film impurities. Consequently, the MMT treated samples exhibited excellent electrical properties as compared to the as-deposited HfO2 films, including negligible hysteresis (flatband voltage shift), a low leakage current, and the reduced equivalent oxide thickness of the gate stack."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2/SiO2/Si",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["tetrakis(ethylmethylamido)hafnium", "ozone"],
-  "temperature_range": "290 °C",
-  "summary": "The study focuses on the band offset characterization of HfO2/SiO2/Si stacks using charge-corrected X-ray photoelectron spectroscopy (XPS). The HfO2 layers were deposited via atomic layer deposition (ALD) on a thermally grown SiO2 layer. The research investigates the impact of annealing on the band offsets and band bending in the Si substrate, as well as the chemical composition of the SiO2 layer. The study also examines the effect of sample charging on the measured band offsets and provides insights into the electronic structure of the HfO2/SiO2/Si interface.",
-  "evidence": "All HfO2 films were grown on thermally grown 12 Å thick SiO2 layers on 300 mm p-Si wafers by atomic layer deposition using tetrakis(ethylmethylamido)hafnium and ozone at a wafer temperature of 290 °C."
-}<|im_end|>

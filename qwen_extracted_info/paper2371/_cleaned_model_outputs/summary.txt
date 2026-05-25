@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3/ZnO alloy",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminium (TMA)", "water (H2O)", "diethylzinc (DEZ)"],
-  "temperature_range": "100 ◦C",
-  "summary": "The paper discusses the use of atomic layer deposition (ALD) to create ultra-thin dielectric layers for radio frequency micro-electro-mechanical systems (RF MEMS). The ALD process involves the deposition of Al2O3/ZnO alloy films using alternating exposures of TMA, water, and DEZ. These films are used as dielectric layers in RF MEMS capacitive switches to improve performance and reliability by reducing stiction and enhancing charge dissipation.",
-  "evidence": "ALD offers unparalleled process control for the coating of polySi microstructures with ultra-thin solid-state coatings and is demonstrated to prevent electrical shorting and extend the operational lifetime of micro-electro-mechanical devices such as RF capacitive switches. Encapsulating micromechanical structures with ALD ultra-thin films also reduces stiction and allows superior wear resistance compared with uncoated polySi devices."
-}

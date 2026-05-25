@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["TMG", "arsine"],
-  "temperature_range": "490 to 520 °C",
-  "summary": "The study investigates the effects of nitrogen carrier gas on atomic layer epitaxy (ALE) conditions and the electrical quality of GaAs. It shows that nitrogen carrier gas expands the ALE temperature range and reduces carbon incorporation in the epilayers.",
-  "evidence": "Carrier gas effects on the atomic layer epitaxial (ALE) conditions and the electrical quality of GaAs are investigated. ALE is achieved over a relatively wide temperature range of 490 to 520 0 C using nitrogen carrier gas. The use of nitrogen reduces carbon incorporation in the epilayers by about one order of magnitude (compared to hydrogen) by promoting the arsine decomposition."
-}<|im_end|>

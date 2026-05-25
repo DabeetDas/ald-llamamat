@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of PbS via alternating pulses of H2S and Pb(tmhd)2 precursors, followed by conversion to PbI2 through exposure to iodine gas, and then conversion to MAPbI3 through a dip in methylammonium iodide (MAI) in isopropyl alcohol (IPA).",
-  "intermediate_species": ["PbS", "PbI2", "MAPbI3"],
-  "evidence": "The text describes the ALD process for depositing PbS from alternating pulses of H2S and Pb(tmhd)2 precursors. The PbS is then converted to PbI2 through exposure to iodine gas and subsequently to MAPbI3 through a dip in methylammonium iodide (MAI) in IPA. The conversion processes are confirmed by X-ray diffraction analysis, indicating complete stepwise conversion without prior crystalline phases."
-}<|im_end|>

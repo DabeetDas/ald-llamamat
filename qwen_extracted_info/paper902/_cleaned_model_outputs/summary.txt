@@ -1,8 +1,0 @@
-{
-  "target_material": "TaNx",
-  "process_type": "plasma enhanced ALD (PEALD)",
-  "main_precursors": ["PDMAT", "N2 or NH3 plasma"],
-  "temperature_range": "100 /C176C to 200 /C176C",
-  "summary": "TaNx films were deposited by plasma enhanced atomic layer deposition (PEALD) using PDMAT and either N2 or NH3 plasma. The study focused on the diffusion barrier properties of these films for Cu metallization, with the aim of improving thermal stability and barrier effectiveness through process optimization.",
-  "evidence": "Carbon free TaNx films were deposited by plasma enhanced atomic layer deposition (PEALD) using a combination of pentakis(dimethylamino)Ta (PDMAT) and either N2 or NH3 plasma. The thermal stability of the TaNx films could be improved by reducing the pressure of the reactants and by increasing the plasma exposure time. The TaNx films deposited using N2 plasma exhibit better diffusion barrier properties than the films deposited using NH3 plasma."
-}

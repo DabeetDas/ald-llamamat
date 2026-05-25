@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 70,
-  "density_g_cm3": 1.55,
-  "refractive_index": "1.4 at 633 nm",
-  "surface_roughness_nm": null,
-  "crystal_phase": "Amorphous",
-  "evidence": "The Li2S thickness extracted from Figure 2d is ∼70 nm, in good agreement with the growth per cycle of 1.1 Å/cycle deduced from the SE measurements. The refractive index at 633 nm determined by SE is also nearly constant with temperature at ∼1.4 (see Figure 2b). This value is substantially lower than the value of n = 1.9 reported for crystalline Li2S.37 The refractive index is an indirect measure of density and implies a lower density for the ALD Li2S compared to crystalline Li2S. By equating the QCM and SE growth per cycle values, we obtain a density of ∼1.55 g/cm3 for ALD Li2S that is indeed lower than the bulk value. This lower density is consistent with the amorphous structure of ALD Li2S determined by X-ray diffraction (XRD) measurements (see Figure SI-7 in SI)."
-}<|im_end|>

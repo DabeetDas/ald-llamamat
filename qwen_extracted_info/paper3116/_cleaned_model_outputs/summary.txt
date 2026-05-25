@@ -1,8 +1,0 @@
-{
-  "target_material": "TiSiO (TSO) films",
-  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["TTIP", "TEOS"],
-  "temperature_range": "250 ℃",
-  "summary": "TiSiO (TSO) thin film varistors were fabricated using plasma enhanced atomic layer deposition (PEALD) to lower the varistor voltage. The Ti content in the TSO films was controlled by adjusting the cycle ratio of TiO2 and SiO2 precursors. The nonlinear coefficient was found to be 13.6, and the operating voltage was below 10 V in all samples. The asymmetric I-V curves indicated that conduction is affected by the electrode and that potential barriers between the electrode and TSO film dominate the carrier conduction.",
-  "evidence": "In this article, Ti xSi1-xO (TSO) thin film varistors were fabricated by plasma enhanced atomic layer deposition (PEALD). The TSO films with 70 nm were grown by PEALD at 250 ℃. The TTIP and TEOS were used as precursors for TiO2 and SiO2, respectively. The nonlinear coefficient is 13.6, which is larger than other report’s value of thin film varistor. The operating voltage is below 10 V in all samples. Asymmetric curves with both polarities were observed, which indicates that conduction is affected by the electrode."
-}

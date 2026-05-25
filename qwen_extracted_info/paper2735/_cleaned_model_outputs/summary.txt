@@ -1,8 +1,0 @@
-{
-  "target_material": "Molybdenum",
-  "process_type": "Atomic Layer Deposition (ALE)",
-  "main_precursors": ["MoCl5", "Zn"],
-  "temperature_range": "400–500 °C",
-  "summary": "Molybdenum thin films were deposited using an atomic layer deposition (ALE) process with MoCl5 and Zn as precursors. The study focused on the effects of growth temperature and purge length on film growth, zinc content, and film properties. The process was optimized to achieve a balance between growth rate and zinc content, with the best results obtained at 420 °C.",
-  "evidence": "Molybdenum thin films were deposited onto both soda lime glass and Al2O3 film by an alternate supply of MoCl5 and Zn. The film growth was performed over a temperature range of 400–500 °C in order to study the temperature effect on the growth. The purge length after zinc was also seen to have a considerable effect on the growth. The best growth temperature was concluded to be 420 °C."
-}

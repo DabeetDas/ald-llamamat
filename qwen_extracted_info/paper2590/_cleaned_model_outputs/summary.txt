@@ -1,8 +1,0 @@
-{
-  "target_material": "GaN",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["trimethylgallium (TMG)", "ammonia (NH3)"],
-  "temperature_range": "185–385 °C",
-  "summary": "The study reports on the self-limiting growth of GaN thin films at low temperatures using plasma-enhanced atomic layer deposition (PEALD) with trimethylgallium (TMG) and ammonia (NH3) as precursors. The deposition rate was constant at 0.51 Å/cycle within the temperature range of 250–350 °C, and the ALD temperature window was observed from 185 to 385 °C. The films showed constant Ga, N, and O concentrations, with oxygen attributed to impurities in the NH3 precursor. High-resolution TEM revealed a microstructure of small crystallites in an amorphous matrix.",
-  "evidence": "The authors report on the self-limiting growth of GaN thin films at low temperatures. Films were deposited on Si substrates by plasma-enhanced atomic layer deposition using trimethylgallium (TMG) and ammonia (NH3) as the group-III and -V precursors, respectively. Atomic layer deposition temperature window was observed from 185 to 385 °C. Deposition rate, which is constant at 0.51 Å/cycle within the temperature range of 250–350 °C, increased slightly as the temperature decreased to 185 °C. In the bulk film, concentrations of Ga, N, and O were constant at 36.6, 43.9, and 19.5 at. %, respectively. High-resolution transmission electron microscopy studies revealed a microstructure consisting of small crystallites dispersed in an amorphous matrix."
-}

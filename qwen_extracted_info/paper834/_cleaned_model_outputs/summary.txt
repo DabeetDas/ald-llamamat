@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["diethylzinc (DEZn)", "deionized water"],
-  "temperature_range": "90–200 °C",
-  "summary": "The study reports on the structural and optical properties of low-temperature ZnO films grown by atomic layer deposition using diethylzinc and water precursors. The films show good quality with controllable surface roughness, crystallographic orientation, and optical properties depending on growth parameters such as temperature, pulsing, and purging time. The results indicate that the ALD process can produce high-quality ZnO films suitable for applications like transparent electrodes, gas sensors, and optoelectronic devices.",
-  "evidence": "We report on properties of low-temperature (LT) ZnO films grown by the atomic layer deposition method with diethylzinc (DEZn) precursor. It is shown that the ZnO thin film crystallographic orientation, quality of the surface, and optical properties depend on the main growth parameters like temperature, pulsing, and purging time and thus can be varied in controllable manner. All the presented results were obtained for ZnO layers grown at temperature between 90 and 200 1C."
-}

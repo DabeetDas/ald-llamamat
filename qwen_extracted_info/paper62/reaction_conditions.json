@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The FePO4 coating acts as a lithium-ion reservoir during cycling, facilitating lithium diffusion and serving as an electrochemical buffer layer between the electrolyte and LNMO by maintaining the interface electrochemical potential above the electrolyte’s highest occupied molecular orbital (HOMO).",
-  "intermediate_species": [
-    "FePO4"
-  ],
-  "evidence": "The FePO4 coating acts as a lithium-ion reservoir during cycling, which may act as both a lithium diffusion facilitator and an electrochemical buffer layer between the electrolyte and LNMO by keeping the interface electrochemical potential above the electrolyte’s highest occupied molecular orbital (HOMO), at which the electrolyte starts to get oxidized."
-}

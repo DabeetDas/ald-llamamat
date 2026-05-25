@@ -1,8 +1,0 @@
-{
-  "target_material": "bismuth oxide chloride",
-  "process_type": "PEALD",
-  "main_precursors": ["BiCl3", "O3"],
-  "temperature_range": "130 °C to 300 °C",
-  "summary": "The study describes the synthesis of MnFe2O4 nanoparticles and their coating with bismuth oxide chloride films via atomic layer deposition. The composite exhibited nonlinear polarization behavior in both magnetic and electric fields at room temperature. The process involved a two-temperature ALD process starting at 130 °C and completing at 300 °C.",
-  "evidence": "Bismuth oxide films were grown on ferrite particle layer in a low-pressure flow type in-house built hot-wall atomic layer deposition (ALD) reactor in a two temperature ALD process. The process was started at 130 °C (10 cycles, only metal precursor pulse of 5 s and purge 5 s) and completed at 300 °C (250 cycles) using BiCl3 (Aldrich, 99.99%) and O3."
-}<|im_end|>

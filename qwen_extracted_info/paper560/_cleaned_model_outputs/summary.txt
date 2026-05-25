@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum nitride (AIN)",
-  "process_type": "Atomic Layer Growth (ALG)",
-  "main_precursors": ["dimethylethylaminealane (DMEAA)", "ammonia (NH3)"],
-  "temperature_range": "300 K to 600 K",
-  "summary": "The study investigates the atomic layer growth of aluminum nitride (AIN) using dimethylethylaminealane (DMEAA) and ammonia (NH3) precursors on oxidized AI(111) surfaces. The process involves sequential exposures of DMEAA and NH3 at temperatures ranging from 300 K to 600 K, resulting in the formation of AIN films with reduced carbon contamination at higher temperatures. The reactive sticking probability of DMEAA is temperature-dependent, with higher sticking probabilities observed at temperatures above 300 K. The ALG process allows for the deposition of one atomic layer at a time, with the formation of AIN confirmed by Auger electron spectroscopy (AES).",
-  "evidence": "The formation of AIN thin films with low carbon impurity levels is achieved in UHV using an ALG process at surface temperatures as low as 600 K. A DMEAA exposure on oxidized AI(111) at 600 K deposits a layer of aluminum that is subsequently nitrided to form AIN when NH3 is introduced in the following step. At lower deposition temperatures, higher levels of impurities are deposited in the films. These results are in good agreement with our studies of AIN deposition in an atmospheric MOCVD reactor using the same precursors, where a temperature regime of 613 + 40 K was identified for ALG of AIN films."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["ZnCI2", "H2Se"],
-  "coreactants": ["H2 gas"],
-  "purge_gas": ["H2 gas"],
-  "carrier_gas": [],
-  "evidence": "The growth of ZnSe by ALE, in this work, consists of the following steps in sequence; ZnCI2 is introduced in vapor phase forming zinc bonds on the surface. Excess ZnCI2 vapor is subsequently purged away by H2 gas and then H2Se is introduced as vapor. ZnSe is formed when H2Se reacts with the adsorbed ZnCl2, and HCI is liberated."
-}

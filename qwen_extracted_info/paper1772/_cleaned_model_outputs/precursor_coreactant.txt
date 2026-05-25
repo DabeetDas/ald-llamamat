@@ -1,7 +1,0 @@
-{
-  "precursors": ["LiN(SiMe3)2", "Nb(OEt)5"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "Thin films were deposited in an ASM F1120 Sat ALD reactor using lithium silylamide [LiN(SiMe3)2], niobium ethoxide [Nb(OEt)5] and deionized water as precursors. Nitrogen was used as carrier gas supplied at a total rate of 500 cm3/min from a Schmidelin-Sirocco15 N2 generator providing >99.999 % (N2 + Ar)."
-}

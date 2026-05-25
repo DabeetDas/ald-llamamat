@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of (CpMe)Ti(OMe) via methoxy ligands rather than via the CpMe ligand during the injection of the Ti precursor. The growth characteristics of the TiO2 ALD process correlating with growth temperature are not fully understood, but the high thermal stability of (CpMe)Ti(OMe) enabled ALD reaction up to a high temperature of 345 °C.",
-  "intermediate_species": [
-    "(CpMe)Ti(OMe)"
-  ],
-  "evidence": "Rose et al. also reported in an in-situ quadrupole mass spectrometry study that (CpMe)Ti(OMe) adsorbed onto the reaction surface via methoxy ligands rather than via the CpMe ligand during the injection of the Ti precursor."
-}

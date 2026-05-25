@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["tetrakis(diethylamino)hafnium (TDEAH)", "O2 plasma"],
-  "temperature_range": "250 °C",
-  "summary": "The study investigates the thermodynamic properties and interfacial layer characteristics of HfO2 thin films deposited by plasma-enhanced atomic layer deposition (PEALD). The crystallization of HfO2 layers begins around the 35th cycle (approximately 2.8 nm) of the DPALD process. The interfacial layer composition changes with the number of process cycles, forming a HfO2-like Hf-silicate layer. The enhanced physical reactivity of oxygen ions in the direct plasma and the Hf-silicate layer are identified as driving forces for early crystallization.",
-  "evidence": "The as-deposited HfO2 films that were deposited by the DPALD method show crystallization of the HfO2 layers, which initiates at approximately the 35th cycle (about 2.8 nm) of the DPALD process. The enhanced physical reactivity of the oxygen ions in the direct plasma and the Hf-silicate layer may be the driving forces that accelerate the early crystallization of the HfO2 layer in the DPALD process in the as-deposited state."
-}<|im_end|>

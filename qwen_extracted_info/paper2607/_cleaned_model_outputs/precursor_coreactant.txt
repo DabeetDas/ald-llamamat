@@ -1,7 +1,0 @@
-{
-  "precursors": ["Zn(TMHD)2"],
-  "coreactants": ["H2S"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The precursors used were Zn(TMHD)2 and H2S. Nitrogen was used as the carrier and purge gas at a constant flow rate of 40 sccm."
-}

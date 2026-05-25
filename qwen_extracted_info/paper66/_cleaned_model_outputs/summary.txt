@@ -1,8 +1,0 @@
-{
-  "target_material": "InTiO",
-  "process_type": "plasma-enhanced ALD (PEALD)",
-  "main_precursors": ["trimethylindium", "titanium isopropoxide"],
-  "temperature_range": "200 °C",
-  "summary": "InTiO films were deposited via plasma-enhanced atomic layer deposition (PEALD) using trimethylindium and titanium isopropoxide precursors at 200 °C. The films were used as channel layers in thin film transistors (TFTs) for photo-induced synaptic behavior. The study aimed to improve operational stability and reduce off-current in In2O3-based TFTs by incorporating TiO2 into the In2O3 matrix. The films exhibited high transparency, good electrical properties, and photo-induced memory characteristics, making them suitable for applications in photoelectric devices.",
-  "evidence": "Herein, InxTiyO films are successfully deposited via the atomic layer deposition method, which involves sub-cycles of In2 O3 and TiO2 application at a growth temperature of 200 °C. In xTiyO films are an excellent alternative to In2 O3 films for use in channels of thin film transistors (TFTs), and can be used to avoid issues such as metal-like conduction characteristics and undesirable negative shifts. The InxTiyO film-based memory devices are programmed and erased using UV light and gate voltage, respectively, wherein deep trap sites at the interface between the InTiO and Al2 O3 layers facilitate the retention of charge during memory operation."
-}

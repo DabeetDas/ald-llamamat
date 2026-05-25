@@ -1,8 +1,0 @@
-{
-  "target_material": "CuOx",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PE-ALD)",
-  "main_precursors": ["[Cu(sBu-amd)]2", "oxygen plasma", "hydrogen plasma"],
-  "temperature_range": "150 °C",
-  "summary": "This study describes the plasma-enhanced atomic layer deposition (PE-ALD) of p-type copper oxide (CuOx) semiconductors, using a non-fluorinated copper amidinate precursor, hydrogen and oxygen plasma, and postdeposition annealing. The process allows for tuning of the phase, oxidation state, and morphology of the films, which are crucial for optimizing the electronic properties of CuOx films. The study demonstrates the fabrication of p-type Cu2O thin-film transistors (TFTs) with high on/off current ratios and field-effect mobility.",
-  "evidence": "In this study, p-type CuOx was grown by plasma-enhanced atomic layer deposition (PE-ALD) using different ratios of hydrogen and oxygen plasma and a non-fluorinated copper amidinate precursor. This approach, combined with postdeposition annealing, enables tuning of the phase, oxidation state, and morphology of the films. ... Using the as-deposited and postdeposition annealed CuOx films, p-type TFTs were fabricated. Vacuum-annealed H*:O* = 0:1 films exhibited a high on/off current ratio of ∼105 and a field effect mobility of ∼0.01 cm2V−1s−1."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Manganese borate and cobalt borate",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Manganese bis(tris(pyrazolyl)borate) (MnTp2)", "Ozone"],
-  "temperature_range": "300–350 °C",
-  "summary": "The study describes the ALD growth of manganese borate and cobalt borate films using MnTp2 and CoTp2 precursors with ozone as the coreactant. The films exhibit different stoichiometries due to the oxidizing properties of intermediate manganese oxide layers, which affect the transformation of the precursors.",
-  "evidence": "The differing film stoichiometries obtained from the very similar precursors MnTp2 and CoTp2 are proposed to arise from the oxidizing ability of the intermediate high valent manganese oxide layers and lack thereof for cobalt."
-}<|im_end|>

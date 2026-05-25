@@ -1,8 +1,0 @@
-{
-  "target_material": "BeO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["diethyl beryllium (DEB)", "H2O"],
-  "temperature_range": "150 – 200 °C",
-  "summary": "Crystalline BeO was grown on 4H-SiC via thermal atomic layer deposition (ALD) using diethyl beryllium (DEB) as a precursor and H2O as an oxidant. The growth rate was 0.8 Å/cycle at temperatures between 150–200 °C. The study focused on the band alignment and interface defects of BeO/4H-SiC, determining the conduction band offset (CBO), valence band offset (VBO), and energy bandgap of BeO and 4H-SiC. The results showed that BeO films exhibited a wurtzite structure and had a bandgap of 8.3 eV, with interface defect levels identified through internal photoemission spectroscopy (IPE).",
-  "evidence": "A crystalline beryllium oxide (BeO) film was grown on 4H silicon carbide (4HSiC) via thermal atomic layer deposition (ALD). Self-produced diethyl beryllium was a precursor, and H2O was an oxidant. The growth rate of BeO corresponded to 0.8 Å/cycle in the growth temperatures of 150 – 200 °C. The conduction band offset (CBO), valence band offset (VBO), energy bandgap of 4H-SiC and BeO corresponded to 2.28 ± 0.1 eV, 2.53 ± 0.01 eV, 3.16 ± 0.1 eV, and 8.3 ± 0.05 eV, respectively."
-}<|im_end|>

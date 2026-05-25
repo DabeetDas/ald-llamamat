@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["diethylzinc (DEtZn)", "water"],
-  "temperature_range": "140 °C",
-  "summary": "The study investigates the effects of surface pretreatment on the growth of polycrystalline ZnO thin films by ALD. The process uses diethylzinc and water as precursors at 140 °C. Surface pretreatments, including SC1 and HMDS, influence the growth characteristics, including incubation period, surface morphology, and crystalline size. The HMDS treatment leads to a longer incubation period, rougher surface morphology, and larger crystalline size compared to SC1 treatment.",
-  "evidence": "Undoped ZnO thin films were deposited on 4 inches glass substrates by ALD at the substrate temperature of 140 °C using an ultra-high-vacuum growth chamber. Precursors of diethylzinc (DEtZn) and water were alternately supplied. Different surface treatments were employed prior to the ALD growth. The incubation period was longer for the hexamethyl disilazane (HMDS) pretreated case compared to the others. Surface morphology and in-plane crystalline size were also affected by the surface pretreatment."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["GaCl3", "AlCl3", "AsH3"],
-  "coreactants": ["AsH3"],
-  "purge_gas": ["H2"],
-  "carrier_gas": ["H2"],
-  "evidence": "Either AsH3 (10% in H2) or solid arsenic (purity 99.999%) was used as the arsenic source. The GaCI3 and AICI3 were maintained at 93°C (vapor pressure of GaCI3: 10 Torr) and 125°C (vapor pressure of AICI3: 10 Torr), respectively, and were conveyed to the reactor by H2 carrier gas."
-}<|im_end|>

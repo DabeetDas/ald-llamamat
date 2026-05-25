@@ -1,8 +1,0 @@
-{
-  "target_material": "Li3BO3–Li2CO3 (LBCO)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Lithium tert-butoxide", "Ozone", "Triisopropyl borate"],
-  "temperature_range": "200–260 °C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of amorphous lithium borate-carbonate (LBCO) films for solid-state Li metal batteries. The films exhibit high ionic conductivity, up to 2.2 × 10⁻⁶ S cm⁻¹, and are stable against both Li metal anodes and cathode materials. The ALD process uses lithium tert-butoxide, ozone, and triisopropyl borate as precursors, with a temperature range of 200–260 °C. The films show excellent electrochemical stability and are suitable for use as solid electrolytes in thin-film batteries.",
-  "evidence": "The text states, 'Here we present an Atomic Layer Deposition (ALD) process for synthesis of amorphous lithium borate-carbonate (LBCO) films.' It also mentions, 'Lithium tert-butoxide was selected as the lithium source... Ozone was used as the oxidant... Triisopropyl borate was selected as the boron source.' Additionally, 'Substrate temperatures between 200 °C and 260 °C yielded a relatively consistent growth rate.'"
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "In the PEALD mode, (similar to 14, 45) a constant flow of argon was purged into the chamber, while a typical four-step pulse sequence is repeatedly executed for a number of cycles to obtain a specific film thickness. During a first step, a pulse of argon carrier gas introduces the RuEtcp2 precursor into the chamber, followed by a first purge step. The aim of purging in ALD processes is to separate the precursor from reactant or by-product gases, in order to avoid CVD effects in the vicinity of the wafer. In a third step, an Ar/N2/H2 plasma was ignited to reduce the ligands in the uppermost layer of the growing film, i.e. ligands from adsorbed RuEtcp2 precursor molecules. Here, in particular ethyl and methyl groups have to be removed to obtain Ru-rich films with a low impurity level."
-}

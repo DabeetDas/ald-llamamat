@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["diethylzinc (DEZn)", "deionized water"],
-  "temperature_range": "100–200 °C",
-  "summary": "The study investigates the origin of hydrogen in ZnO films grown by atomic layer deposition (ALD) using deionized water and heavy water (D2O) as oxygen precursors. It shows that hydrogen introduced by the water precursor can be removed by annealing, while hydrogen from the diethylzinc (DEZn) precursor remains stable. The study also highlights the impact of hydrogen on the electrical and structural properties of ZnO films.",
-  "evidence": "The origin of unintentional hydrogen incorporation in ZnO films grown by thermal atomic layer deposition is investigated by comparing layers deposited using H2O and D2O as oxygen precursors. Secondary ion mass spectroscopy measurements of as-grown and 800 °C annealed layers provide evidence that the hydrogen contribution originating from the oxygen precursor is weakly chemically bound and is mostly removed by rapid thermal annealing conducted at 800 °C for 3 min in oxygen atmosphere. On the other hand, the remaining hydrogen introduced by ethyl groups originating from the metalorganic zinc precursor withstands such treatment."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "SnO2",
-  "process_type": "ALD",
-  "main_precursors": ["tetrakis(dimethylamino)tin", "hydrogen peroxide"],
-  "temperature_range": "50–300 °C",
-  "summary": "This study describes a new method for preparing SnO2 thin films using atomic layer deposition (ALD) with tetrakis(dimethylamino)tin and hydrogen peroxide. The process avoids issues associated with traditional halogenated precursors like SnCl4, such as corrosion and agglomeration. The films were deposited at temperatures ranging from 50 to 300 °C with an average growth rate of 1.2 Å/cycle. The films were found to be smooth, conformal, and amorphous, with high transparency and low resistivity. The method allows for low-temperature growth of SnO2 films and is suitable for conformal coating of high aspect ratio substrates.",
-  "evidence": "The authors present a new method for preparing thin films of SnO2 by atomic layer deposition using alternating exposures to tetrakis(dimethylamino)tin and hydrogen peroxide. This method avoids problems of corrosion and agglomeration associated with the halogenated compound, SnCl4. Tin oxide films were successfully deposited on a variety of substrates using deposition temperatures of 50–300 °C at an average growth rate of 1.2 Å/cycle."
-}

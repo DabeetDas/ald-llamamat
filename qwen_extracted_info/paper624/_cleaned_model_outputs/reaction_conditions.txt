@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface relaxation is associated with the deformation at the free edges of the small islands formed during the growth, which is induced by surface reconstructions. The relaxation in the [110] direction is explained by the inward relaxation of Cd atoms and the displacement of Te atoms at the free edges of the islands, leading to an increase in the lattice parameter in the [110] direction.",
-  "intermediate_species": ["Te bridges", "loosely adsorbed Te2 molecules", "chemisorbed Te dimers", "weakly bonded Te atoms"],
-  "evidence": "The surface relaxation is associated with the deformation at the free edges of the small islands formed during the growth, which is induced by surface reconstructions. The relaxation in the [110] direction is explained by the inward relaxation of Cd atoms and the displacement of Te atoms at the free edges of the islands, leading to an increase in the lattice parameter in the [110] direction. These Te atoms have been attributed to Te bridges but may also be loosely adsorbed Te2 molecules. The presence of additional weakly bonded Te atoms is demonstrated when the growth occurs at low temperature."
-}

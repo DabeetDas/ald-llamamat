@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [
-    "-(H)x* + LiOtBu → Li(OtBu)1-x* + x HOtBu",
-    "Li(OtBu)1-x* + HF → LiF-(H)x* + (1-x) HOtBu"
-  ],
-  "surface_mechanism_description": "Ligand exchange between tert-butoxide and surface hydrogen species followed by HF pulse to regenerate surface hydrogen sites.",
-  "intermediate_species": ["tert-butoxide ligands", "surface hydroxyls", "HOtBu"],
-  "evidence": "We propose the following half-reactions for the LiF ALD: -(H)x* + LiOtBu → Li(OtBu)1-x* + x HOtBu (1) Li(OtBu)1-x* + HF → LiF-(H)x* + (1-x) HOtBu (2) where the asterisks designate surface species."
-}<|im_end|>

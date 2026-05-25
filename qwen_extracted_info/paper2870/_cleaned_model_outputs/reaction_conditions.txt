@@ -1,6 +1,0 @@
-{
-  "reaction_equations": ["Ni(dmamb) 2(g) + H2(g) ! Ni(S) + 2H(dmamb) 2(g)"],
-  "surface_mechanism_description": "The reaction mechanism for Ni deposition involves the chemical reaction between the metalorganic precursor Bis-Ni(II) and hydrogen gas, resulting in the formation of Ni on the surface and the release of H(dmamb) 2. The formation of Ni3C phase during deposition is believed to lower the sheet resistance of the film.",
-  "intermediate_species": ["Ni3C", "H(dmamb) 2", "Ni(S)"],
-  "evidence": "The reaction mechanism for Ni deposition is Ni(dmamb) 2(g) + H2(g) ! Ni(S) + 2H(dmamb) 2(g). The formation of Ni3C phase during deposition is believed to lower the sheet resistance of the film."
-}

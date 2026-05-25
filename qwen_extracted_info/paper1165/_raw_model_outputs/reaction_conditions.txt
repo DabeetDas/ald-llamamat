@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD of TiO2 on FTO involve the adsorption of titanium tetrachloride (TiCl4) and water (H2O) on the substrate. The process is self-limiting, with each pulse of precursor leading to a monolayer formation. The reaction equations are not explicitly provided in the text, but the mechanism is described as involving the formation of surface species such as Ti-O and subsequent reactions with H2O to form TiO2.",
-  "intermediate_species": ["Ti-O", "surface hydroxyls"],
-  "evidence": "The text describes the ALD process as involving the adsorption of TiCl4 and H2O on the FTO substrate, with the formation of surface species such as Ti-O and surface hydroxyls. The mechanism is characterized by self-limiting growth and the formation of a monolayer through the reaction of the precursors with the surface."
-}<|im_end|>

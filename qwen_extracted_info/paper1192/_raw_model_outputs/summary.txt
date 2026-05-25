@@ -1,8 +1,0 @@
-{
-  "target_material": "Tungsten",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["SiH4", "WF6"],
-  "temperature_range": "220 °C",
-  "summary": "The study explores the use of hydrogen (H2) in the tungsten (W) atomic layer deposition (ALD) process to enhance substrate selectivity. By introducing H2 during the WF6 dose step, the nucleation of W on SiO2 is suppressed, thereby expanding the ALD selectivity window. This approach allows for additional W growth on Si without significant nucleation on SiO2, enabling selective deposition for sub-10 nm semiconductor devices.",
-  "evidence": "We show that modifying the W ALD process chemistry can decrease the W nucleation rate on SiO2, thereby expanding the ALD “selectivity window”. Specifically, we find that adding H2 during the WF6 dose step helps passivate SiO2 against W nucleation without modifying W growth on silicon."
-}<|im_end|>

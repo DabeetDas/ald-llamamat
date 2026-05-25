@@ -1,7 +1,0 @@
-{
-  "precursors": ["TDMAT (tetrakis(dimethylamido)titanium)"],
-  "coreactants": ["NH3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "TDMAT was delivered from the bubbler (30 °C) to the reactor using Ar (70 sccm) as a carrier gas. Also, the flow rates of NH3 and SiH4 (forming gas with 10% SiH4/90% Ar) diluted in Ar were fixed at 70 sccm."
-}

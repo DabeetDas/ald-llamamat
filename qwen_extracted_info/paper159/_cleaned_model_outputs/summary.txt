@@ -1,8 +1,0 @@
-{
-  "target_material": "CeO2",
-  "process_type": "ALD",
-  "main_precursors": ["[Ce(mmp)4]"],
-  "temperature_range": "150–350 °C",
-  "summary": "The study reports the synthesis and use of a novel monomeric Ce IV alkoxide precursor, [Ce(mmp)4], for the deposition of CeO2 thin films via liquid injection MOCVD and ALD. The precursor offers high volatility and thermal stability, enabling the deposition of high-purity CeO2 films with good crystallinity. The ALD process uses H2O as the oxygen source, avoiding the formation of a low permittivity interfacial layer.",
-  "evidence": "The 1H NMR spectrum of [Ce(mmp)4] in C7D8 shows three sharp resonances at room temperature which do not broaden or split on cooling to 198 K, indicating that the solution structure of the complex is not fluxional. The TGA studies show that [Ce(mmp)4] sublimes intact at 120 °C under low pressure. The CeO2 films deposited by ALD (250, 350 °C) were high purity with carbon levels below the AES detection limit."
-}

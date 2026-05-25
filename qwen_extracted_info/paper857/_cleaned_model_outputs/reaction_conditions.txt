@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the sequential deposition of AlN and TiN through a supercycle, where AlN and TiN subcycles are alternated. The growth rates of AlN and TiN were saturated at 0.102 nm/cycle and 0.052 nm/cycle, respectively, indicating self-limiting reactions. The supercycle design for TiAlN PEALD involved one AlN subcycle and ten TiN subcycles, with the number of unit cycles intentionally set to achieve a stoichiometric Ti0.25Al0.25N0.50 composition.",
-  "intermediate_species": ["AlN", "TiN", "TiAlN"],
-  "evidence": "The surface reaction mechanism involves the sequential deposition of AlN and TiN through a supercycle, where AlN and TiN subcycles are alternated. The growth rates of AlN and TiN were saturated at 0.102 nm/cycle and 0.052 nm/cycle, respectively, indicating self-limiting reactions. The supercycle design for TiAlN PEALD involved one AlN subcycle and ten TiN subcycles, with the number of unit cycles intentionally set to achieve a stoichiometric Ti0.25Al0.25N0.50 composition."
-}

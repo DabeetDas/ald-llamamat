@@ -1,8 +1,0 @@
-{
-  "target_material": "Zirconia (ZrO2)",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Zr(thd)4", "Cp2Zr(CH3)2", "Cp2ZrCl2"],
-  "temperature_range": "375–400 uC for Zr(thd)4/O3, 310–365 uC for Cp2Zr(CH3)2/O3, 275–350 uC for Cp2ZrCl2/O3",
-  "summary": "Zirconia thin films were deposited by atomic layer epitaxy (ALE) using Zr(thd)4, Cp2Zr(CH3)2, and Cp2ZrCl2 as zirconium precursors and ozone as the oxygen source. The study compared the deposition processes and their temperature ranges, growth rates, and film characteristics. The films showed varying crystallinity and impurity levels depending on the precursor and temperature used.",
-  "evidence": "Zirconium oxide thin films have been deposited by atomic layer epitaxy (ALE) using Zr(thd)4, Cp2Zr(CH3)2 and Cp2ZrCl2 as zirconium precursors and ozone as the oxygen source. A plateau of constant growth rate (ALE window) was observed for the Zr(thd)4/O3 process at 375–400 uC, for Cp2Zr(CH3)2/O3 at 310–365 uC and for Cp2ZrCl2/O3 at 275–350 uC."
-}

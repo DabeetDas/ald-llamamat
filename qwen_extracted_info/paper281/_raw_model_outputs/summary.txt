@@ -1,8 +1,0 @@
-{
-  "target_material": "alumina",
-  "process_type": "thermal ALD",
-  "main_precursors": ["aluminium chloride", "water"],
-  "temperature_range": "500 °C, 300 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to coat carbon fibers with alumina using aluminium chloride and water as precursors. The process was carried out at temperatures of 500 °C and 300 °C, with the latter minimizing fiber damage. The ALD process resulted in uniform, conformal coatings that improved the oxidation resistance of the carbon fibers.",
-  "evidence": "Abstract Layers of alumina were deposited on to bundled carbon fibers in an atomic layer deposition (ALD) process via sequential exposure to vapors of aluminium chloride and water, respectively. ... At temperatures of 300 °C, no damaged fibers were observed, the average deposition rate decreased down to 0.033 nm per cycle. Oxidation resistance of the alumina-coated fibers was characterized by thermogravimetric analysis (TGA)."
-}<|im_end|>

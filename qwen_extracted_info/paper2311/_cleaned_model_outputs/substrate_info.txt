@@ -1,7 +1,0 @@
-{
-  "substrate_material": "Si(111), sapphire (112220), GaN/sapphire",
-  "substrate_orientation": "112220",
-  "pretreatment": "ex situ with sequential wet chemical treatments with dilute (2%) HF at room temperature for 5 min followed by piranha (H2SO4:H2O2 = 5:1) etch at 80 /C14 C for 10 min; in situ with alternating pulses of 99.9999% pure trimethylgallium (TMG, 0.015 s) and 75 sccm/300 W ultrahigh purity (UHP) hydrogen plasma (30 s)",
-  "surface_functionalization": "",
-  "evidence": "All wafers were solvent cleaned and rinsed with DI water before any further surface pretreatments. The Si(111) surfaces were pretreated with 2% HF for 5 min at room temperature. The established ex situ GaN surface pretreatment is sequential wet chemical treatments with dilute (2%) HF at room temperature for 5 min followed by piranha (H2SO4:H2O2 = 5:1) etch at 80 /C14 C for 10 min. After ex situ chemical treatments samples were immediately loaded onto a preheated reactor chuck (100 /C14 C) in the ALD system and pumped down to the system base pressure of /C24 6 mTorr. Upon reaching the system base pressure, the substrate chuck was heated resistively to the growth temperature while the chamber wall temperatures were ramped from 100 to about 250 /C14 C. Once at growth temperature the substrate surfaces were treated in situ with 30 alternating pulses of 99.9999% pure trimethylgallium (TMG, 0.015 s) and 75 sccm/300 W ultrahigh purity (UHP) hydrogen plasma (30 s) in an effort to emulate a Ga-flash-off process."
-}

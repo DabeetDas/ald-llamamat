@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["trimethylgallium (TMGa)", "tertiarybutylarsine (TBAs)"],
-  "temperature_range": "430–500 °C",
-  "summary": "This study investigates the surface reactions during atomic layer epitaxy (ALE) of GaAs using trimethylgallium (TMGa) and tertiarybutylarsine (TBAs). The research highlights the self-limiting nature of the TMGa exposure cycle, the role of surface reactions in GaAs growth, and the use of reflectance-difference spectroscopy (RDS) to monitor these processes. TBAs is identified as a promising alternative arsenic source for ALE of GaAs due to its lower decomposition temperature and the presence of As-H ligands.",
-  "evidence": "The study reports that optimal growth conditions can be achieved through RDS monitoring. It is shown that TBAs is a promising arsenic source for atomic layer epitaxy. The experiments are performed at substrate temperatures ranging from 430 to 500 °C. The self-limiting mechanism which occurs in TMGa exposure cycle is believed to result from both selective adsorption and reaction of TMGa at As atoms and Ga vacancy induced Ga-rich surface reconstruction."
-}<|im_end|>

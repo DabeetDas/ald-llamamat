@@ -1,8 +1,0 @@
-{
-  "target_material": "Cd1-xMnxTe",
-  "process_type": "atomic layer epitaxy",
-  "main_precursors": ["cadmium", "tellurium", "manganese"],
-  "temperature_range": "540 K",
-  "summary": "The study describes the growth of Cd1-xMnxTe thin films using atomic layer epitaxy (ALE) on CdTe (111) substrates. The films are epitaxially grown with no manganese interdiffusion, and the process involves alternating pulses of Cd, Te2, and Mn beams. The growth temperature is 540 K, and the films show good structural quality. The deposition rates are monitored using a quartz crystal oscillator, and the composition is determined through Auger electron spectroscopy.",
-  "evidence": "Thin Cd1_xMnxTe semiconductor films with x ranging from 0 to 0.9 have been grown on CdTe (111) substrates using the atomic layer epitaxy method. The films grow epitaxially at all concentrations and show no manganese interdiffusion. The substrates were oriented along a (111) B crystallographic plane and polished mechanically, and then rinsed in pure methanol and ethanol. The source materials were elemental cadmium, tellurium, and manganese. Growth temperature was 540 K. The deposition rates were monitored by a quartz crystal oscillator."
-}

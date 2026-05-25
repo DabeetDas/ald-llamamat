@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ti(Oipr)4", "H2O", "DEZn"],
-  "coreactants": ["H2O", "DEZn"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "H2O and diethylzinc (Zn(C2H5)2, DEZn) were used as the oxygen and zinc precursors, respectively. DEZn and H2O were separately introduced into the growth reactor, in order to prevent the vigorous pre-reaction of the two precursors, while keeping the temperature and pressure in the reactor at 1501C and 0.3 torr, respectively. The typical ALD pulse lengths were set at 0.15 s for DEZn dosing, 3 s for N2 purging, 0.2 s for H2O dosing, and 3 s for N2 purging."
-}

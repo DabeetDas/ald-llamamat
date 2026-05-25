@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2 and Si nitride",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tetrakis(diethylamino)hafnium (TDEAH)", "water", "SiCl4", "NH3"],
-  "temperature_range": "300 /C14C to 350 /C14C",
-  "summary": "HfO2 and Si nitride thin films were deposited on Ge substrates using atomic layer deposition (ALD) with TDEAH + H2O and SiCl4 + NH3 as precursor combinations. The study aimed to investigate the feasibility of ALD for high-k gate dielectrics on Ge substrates for next-generation MOSFET technology.",
-  "evidence": "Hafnium oxide (HfO2) thin films were deposited on Ge substrates at 300 /C14C using atomic layer deposition (ALD) with tetrakis(diethylamino)hafnium (termed as TDEAH) as a precursor and water as an oxidant. Si nitride thin films were also deposited on Ge by ALD using SiCl4 as a precursor and NH3 as an oxidant. The study aimed to investigate the feasibility of ALD for high-k gate dielectrics on Ge substrates for next-generation MOSFET technology."
-}<|im_end|>

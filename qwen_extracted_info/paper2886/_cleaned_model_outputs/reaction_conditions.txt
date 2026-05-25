@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The Hf(NMe2)4 precursor decomposed sequentially at different temperatures, releasing methyl groups, aziridine, 1-methyl aziridine, and acetonitrile. The surface adsorbed compound further decomposed to produce acetonitrile at 355°C, and finally, the surface compound was condensed to residue containing Hf, N, and C by liberating H2 at 427°C. The N species from the Hf precursor formed an SiNx interlayer by reaction with the Si substrate during the initial stage of the ALD process.",
-  "intermediate_species": ["aziridine", "1-methyl aziridine", "acetonitrile", "N species", "SiNx interlayer"],
-  "evidence": "The thermal decomposition of Hf(NMe2)4 was investigated using temperature-programmed decomposition in an ultra-high vacuum (UHV-TPD). The TPD results indicated that Hf(NMe2)4 was decomposed sequentially at different temperatures, as described in Fig. 3. The decomposition of the Hf precursor liberating aziridines and acetonitrile in the maximum amounts occurred in the temperature range of 277–355°C. The N species originating from the Hf precursor formed an SiNx interlayer by reaction with the Si substrate during the initial period of the ALD process."
-}

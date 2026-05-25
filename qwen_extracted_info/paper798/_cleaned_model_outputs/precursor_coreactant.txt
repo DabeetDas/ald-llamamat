@@ -1,7 +1,0 @@
-{
-  "precursors": ["MoCl5", "(Me3Si)2Se", "(Et3Si)2Se", "(iPr3Si)2Se", "(Me3Sn)2Se"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ALD process was initiated immediately after 5 pulses of ultrapure water (18 MΩ) were applied to increase the number of active sites on the substrates surface. All processes used N2 (99.999%) as a carrier gas at a flow rate of 40 standard cubic centimeter per minute (sccm)."
-}

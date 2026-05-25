@@ -1,7 +1,0 @@
-{
-  "precursors": ["Tertiarybutylarsine (TBAs)", "Trimethylindium (TMIn)", "Pure phosphine (PH3)"],
-  "coreactants": [],
-  "purge_gas": ["H2"],
-  "carrier_gas": ["H2"],
-  "evidence": "The TBAs and TMIn bubblers were kept at 27 and 18 “C!, respectively. The carrier gas was Pd-purified HZ, and the total flow rate in the reactor was maintained at 3000 seem, giving a gas velocity of 50 cm/s at a reactor pressure of 40 Torr. The growth of InP or InAs was carried out by alternately introducing the reactants into the reactor in cycles of PHs or TBAs, respectively, and TMIn spaced by intervening H2 purge steps."
-}

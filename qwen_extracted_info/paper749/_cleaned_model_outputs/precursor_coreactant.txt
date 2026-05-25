@@ -1,7 +1,0 @@
-{
-  "precursors": ["diethyl-beryllium (DEB)"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "A 16-nm BeO layer was deposited using a NCD LucidaTM M100 ALD (reaction-chamber temperature: 250 °C, sublimation temperature of diethyl-beryllium (DEB): 65 °C, DEB pulse/purge: 3.5/30 s, H2O pulse/purge: 1/30 s, chamber pressure: 1.6 mTorr, growth-per-cycle: 0.8 Å/cycle)."
-}

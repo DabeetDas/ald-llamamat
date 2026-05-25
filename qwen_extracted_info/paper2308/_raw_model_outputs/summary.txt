@@ -1,8 +1,0 @@
-{
-  "target_material": "Ru",
-  "process_type": "thermal ALD",
-  "main_precursors": ["cyclopentadienyl ethylruthenium dicarbonyl (Ru(Cp)(CO)2Et)", "O2"],
-  "temperature_range": "room temperature",
-  "summary": "The study investigates the electrical characteristics of ultra-thin Ru films deposited on H-passivated Si(111) surfaces using atomic layer deposition (ALD). The research focuses on the conductivity of Ru films and the impact of the island-growth mechanism on film conductivity. The study compares the sheet resistance measured by a four-probe technique with the resistivity derived from optical ellipsometry data.",
-  "evidence": "The sheet resistance measured by a four-probe technique is compared to the resistivity data derived from the optical response of thin ruthenium films grown on hydrogen-passivated Si(111) surfaces by atomic-layer deposition using cyclopentadienyl ethylruthenium dicarbonyl, Ru(Cp)(CO)2Et and O2 as gas reactant."
-}<|im_end|>

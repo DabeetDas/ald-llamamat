@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "PEALD",
-  "main_precursors": ["TiCl4", "NH3", "Zn"],
-  "temperature_range": "500~",
-  "summary": "TiN thin films were grown using atomic layer epitaxy (ALE) with TiCl4 and NH3 as precursors, and a reducing zinc pulse was introduced after the TiCl4 dose. The process resulted in lower electrical resistivity and reduced chlorine content. The growth rate was low, around 0.2 A/cycle, and the films showed good uniformity and crystallinity.",
-  "evidence": "TiN thin films were grown on soda lime glass substrates by atomic layer epitaxy. The latter process was found to result in films with lower electrical resistivity. Resistivities as low as 50 ~s cm were measured for films grown with zinc at 500~ while those prepared without zinc had resistivities of about 250 ~t~ cm. In both cases the contents of chlorine residues were below the detection limit of Rutherford backscattering spectrometry (RBS), i.e., about 0.5 atom percent."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Strontium Titanate (SrTiO3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Sr(tBu3Cp)2", "Ti(OMe)4", "H2O"],
-  "temperature_range": "250°C",
-  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of SrTiO3 films using Sr(tBu3Cp)2 and Ti(OMe)4 as precursors, with H2O as an oxidizer. The process is carried out at 250°C, and the films are annealed at 600°C to achieve crystallization. The research evaluates the growth behavior, stoichiometry, and electrical properties of the films, highlighting the impact of Sr and Ti incorporation on crystallization temperature, refractive index, dielectric constant, and leakage current density.",
-  "evidence": "Strontium titanate /H20849STO/H20850is a promising candidate as a high- k dielectric for dynamic random access memory application. STO thin films are deposited by atomic layer deposition using Sr /H20849tBu3Cp/H208502, Ti /H20849OMe/H208504, and H2O as precursors. The deposition temperature was 250°C, at which the growth/uniformity was optimal. The films were heat-treated in a Levitor /H20849ASM/H20850rapid thermal annealing furnace at 600°C in a nitrogen atmosphere for 5 min."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Self-limited growth occurs through surface reactions with water, where the surface hydroxyl groups react with the precursor, and subsequent water pulses regenerate the hydroxyl sites.",
-  "intermediate_species": ["surface hydroxyl groups"],
-  "evidence": "The surface reactive sites have been consumed, additional precursor molecules cannot react and are removed during the subsequent purge cycle, and therefore do not contribute to film growth."
-}<|im_end|>

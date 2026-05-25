@@ -1,8 +1,0 @@
-{
-  "target_material": "Core–shell-structured nanothermites",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Diethyl zinc (DEZ)", "Tin chloride (SnCl4)", "Water (H2O)", "Hydrogen peroxide (H2O2)"],
-  "temperature_range": "393 K for ZnO, 573 K for SnO2",
-  "summary": "The study describes the synthesis of core–shell-structured nanothermites using atomic layer deposition (ALD) to enhance thermite reaction rates. ZnO and SnO2 were deposited onto Al nanopowder as oxidizers, resulting in improved reaction kinetics due to uniform distribution of reactants on the nanometer scale. The ALD process allows for precise control of the oxidizer layer thickness by adjusting the number of cycles. The results show that the reaction rates of the core–shell nanothermites are significantly faster than traditional thermite mixtures.",
-  "evidence": "The text states that 'core–shell-structured nanothermites can be produced by depositing certain types of metal oxides (oxidizers) onto a commercial Al nanopowder' and 'the reaction rates of the core–shell-structured nanothermites are several times faster than the mixture of nanopowders.' Additionally, it mentions that 'the ALD process allows for precise control of the oxidizer layer thickness by adjusting the number of cycles.'"
-}<|im_end|>

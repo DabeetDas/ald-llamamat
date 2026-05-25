@@ -1,8 +1,0 @@
-{
-  "target_material": "Al O",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminum", "water"],
-  "temperature_range": "125 to 425 8C",
-  "summary": "Al O films were grown using atomic layer deposition (ALD) with trimethylaluminum and water as precursors. The films were deposited on various substrates including silicon and metals. The study focused on the electrical properties of these films, including leakage currents, dielectric constants, and interfacial oxide layers. The films showed excellent insulating properties with dielectric constants around 7.6.",
-  "evidence": "Al O films with thicknesses ranging from 30 to 3540 A were grown in a viscous flow reactor using atomic layer deposition (ALD) with trimethylaluminum and water as the reactants. Growth temperatures ranged from 125 to 425 8C. The Al O ALD films were deposited successfully on a variety of substrates including Au, Co, Cr, Cu, Mo, Ni, NiFe, NiMn, Pt, PtMn, Si, stainless steel, W , and ZnO. Electrical properties were characterized by current–voltage and capacitance–voltage measurements using a mercury probe. These measurements focused mainly on Al O ALD films deposited on n-type Si (100 ) and on Mo-coated Si(100 ) substrates. Excellent insulating properties were observed for nearly all of the Al O films. For a typical Al O ALD film with a 120 A thickness, leakage currents of -1n A ycm were observed at an applied electric field of 2 MV ycm. Dielectric constants of k;7.6 were measured for thick Al O ALD films."
-}<|im_end|>

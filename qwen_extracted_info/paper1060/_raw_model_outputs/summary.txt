@@ -1,8 +1,0 @@
-{
-  "target_material": "SiO2",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["Bis-dimethylamino-silane (BDMAS)", "Tris-dimethylamino-silane (TDMAS)"],
-  "temperature_range": "275 °C",
-  "summary": "The study compares the use of Bis-dimethylamino-silane (BDMAS) and Tris-dimethylamino-silane (TDMAS) precursors for atomic layer deposition (ALD) of SiO2 films for Hf-silicate gate dielectrics. The growth rates and residual impurities were evaluated, with BDMAS showing a higher growth rate and lower carbon impurities compared to TDMAS. The process was conducted at 275 °C, and annealing at 1000 °C further reduced carbon impurities.",
-  "evidence": "The purpose of this study is to evaluate these precursors for their suitability for ALD of hafnium (Hf)-silicate gate dielectrics. The advantages of these precursors are that the melting points and vapor pressures are moderate. The growth rate was different for each precursor, that for BDMAS being 1.5 times that for TDMAS at the same reactor pressure. The carbon impurity in the SiO2 film deposited using BDMAS was about half an order of magnitude less than that using for TDMAS. Furthermore, the carbon impurity was reduced to about the detection limit of secondary ion mass spectrometry after high temperature annealing at 1000 °C during 5 s."
-}<|im_end|>

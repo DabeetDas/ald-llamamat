@@ -1,8 +1,0 @@
-{
-  "target_material": "HfAlOx",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["HfCl4", "Al(CH3)3"],
-  "temperature_range": "Not explicitly mentioned",
-  "summary": "The study focuses on the physical characterization of mixed HfAlOx layers deposited by atomic layer deposition (ALD) using HfCl4 and Al(CH3)3 as precursors. The layers are deposited on silicon oxide substrates, and various analytical techniques are employed to determine properties such as density, thickness, composition, and interfacial layer characteristics. The results highlight the thickness dependency of density and the composition variation with layer thickness.",
-  "evidence": "HfAlOx layers are deposited by atomic layer deposition (ALD) with a cycle ratio of 2:1, 1:1 and 1:2 and a total cycle number of 9 (or 10), 27 (or 28) and 90 using HfCl4 and Al(CH3)3 as precursors for the hafnia and alumina deposition, respectively. The layers are deposited on a 1 nm silicon oxide grown in situ by rapid thermal oxidation on 200 mm silicon wafers."
-}

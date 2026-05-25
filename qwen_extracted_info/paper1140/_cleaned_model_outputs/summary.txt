@@ -1,8 +1,0 @@
-{
-  "target_material": "Zinc tin oxide (ZTO)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["tetrakis(dimethylamido)tin", "diethyl zinc", "water"],
-  "temperature_range": "150 °C",
-  "summary": "The study explores the atomic layer deposition (ALD) of zinc tin oxide (ZTO) using thermal ALD, focusing on the control of thickness and composition. The process involves alternating growth of tin oxide (SnOx) and zinc oxide (ZnO) using tetrakis(dimethylamido)tin and diethyl zinc as metal precursors, with water as the oxygen source. The growth behavior, structural properties, and optical characteristics of the resulting films are characterized. The study highlights the effects of bilayer period and cycle fraction on the growth rate, composition, and optical properties of ZTO films.",
-  "evidence": "ZTO was deposited at 150 °C by alternating growth of tin oxide (SnOx) and zinc oxide (ZnO) using tetrakis(dimethylamido)tin and diethyl zinc as metal precursors and water as the oxygen source."
-}

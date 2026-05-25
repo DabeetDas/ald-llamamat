@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylgallium (TMG)", "triethylgallium (TEG)"],
-  "coreactants": ["N2/H2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "Each ALD cycle consisted of four steps: 0.03 s TMG/0.5 s TEG, 10 s Ar purge, 40 s 50 þ 50 sccm 300 W N2/H2 plasma, 10 s Ar purge, repeated for 1750 cycles in order to deposit TEG-grown GaN films and 2727 cycles in order to deposit TMG-grown GaN films."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Lanthanum-based ternary oxides (La xM2−xO3, M = Sc, Lu, or Y)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["lanthanum tris(N,N-di-iso-propylformamidinate)", "scandium tris(N,N-diethylacetamidinate)", "lutetium tris(N,N-diethylformamidinate)", "yttrium tris(N,N-di-iso-propylacetamidinate)", "H2O"],
-  "temperature_range": "300°C for LaScO3 and LaLuO3, 280°C for La xY2−xO3",
-  "summary": "Lanthanum-based ternary oxides (La xM2−xO3, M = Sc, Lu, or Y) were deposited using atomic layer deposition (ALD) with metal amidinate precursors and H2O. The films are amorphous and free of interfacial layers, showing high dielectric constants, low leakage current density, and good scalability to sub-nanometer effective oxide thickness (EOT). The study highlights the structural and electrical properties of these materials for potential applications in advanced electronic devices.",
-  "evidence": "Lanthanum-based ternary oxide La xM2−xO3/H20849M=S c ,L u ,o rY/H20850films were deposited on HF-last Si substrates by atomic layer deposition. Both LaScO 3 and LaLuO3 films are amorphous while the as-deposited La xY2−xO3 films form a polycrystalline layer/amorphous layer structure on Si. The dielectric constants for LaScO 3, LaLuO3, and La1.23Y0.77O3 films are /H1101123, 28 /H110061, and 17 /H110061.3, respectively, with leakage current density up to 6 orders of magnitude lower than that of thermal SiO 2 with the same effective oxide thickness. Conformal coating thickness is demonstrated on holes with aspect ratio /H1101180:1."
-}

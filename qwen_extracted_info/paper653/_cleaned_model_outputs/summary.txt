@@ -1,8 +1,0 @@
-{
-  "target_material": "citronellol",
-  "process_type": "atomic layer epitaxy (ALE)",
-  "main_precursors": ["Ni(acac)2", "synthetic air"],
-  "temperature_range": "400 ◦C",
-  "summary": "The study investigates the selective hydrogenation of citral to citronellol using Ni-supported catalysts prepared by atomic layer epitaxy (ALE) and incipient wetness methods. The highest selectivity to citronellol was achieved with a Ni/Al2O3 catalyst prepared by ALE at 400 ◦C, showing the potential of ALE in liquid-phase hydrogenation.",
-  "evidence": "The highest maximum selectivity to citronellol was 82% in ethanol at 70 ◦C and 5.3 bar hydrogen with this catalyst, which was reduced at 400 ◦C. The ALE technique allows for molecular-level control and homogeneous distribution of surface species, leading to higher specific metal surface area and improved hydrogenation rates."
-}

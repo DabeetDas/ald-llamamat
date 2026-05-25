@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the use of titanium alkoxides and water or hydrogen peroxide as precursors. The ALD process uses sequential surface reactions where one reactant is introduced, followed by surface reactions and purging with an inert gas. The reaction mechanism includes the formation of surface hydroxyls and the incorporation of titanium species onto the surface, with the removal of by-products.",
-  "intermediate_species": ["surface hydroxyls", "residual impurities (carbon, hydrogen, chlorine)"],
-  "evidence": "The text describes the ALD process as involving sequential surface reactions where one reactant is introduced, followed by surface reactions and purging with an inert gas. It mentions the use of titanium alkoxides and water or hydrogen peroxide as precursors, and the formation of surface hydroxyls and residual impurities (carbon, hydrogen, chlorine) as intermediate species."
-}

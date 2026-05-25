@@ -1,8 +1,0 @@
-{
-  "target_material": "Al 2O3",
-  "process_type": "ALCVD",
-  "main_precursors": ["trimethylaluminum (TMA)", "water"],
-  "temperature_range": "not explicitly mentioned",
-  "summary": "Ultrathin Al2O3 films were deposited on Si(100) wafers using atomic layer chemical vapor deposition (ALCVD) with trimethylaluminum (TMA) and water as precursors. The films showed uniform stoichiometric Al2O3 with abrupt interfaces, suitable for gate dielectric applications in metal-oxide semiconductor devices.",
-  "evidence": "Ultrathin (2–8 nm) films of Al2O3 were deposited on Si(100) (p and n type) wafers by atomic layer chemical vapor deposition (ALCVD) using a Microchemistry F-200 reactor. Cycles of trimethylaluminum (TMA) and water were used to grow the films."
-}

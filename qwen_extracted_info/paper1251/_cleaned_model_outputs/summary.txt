@@ -1,8 +1,0 @@
-{
-  "target_material": "GeTe−Sb2Te3 pseudobinary films",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Ge(II)-amidoguanidinate (Ge(guan)NMe2)", "Te(SiMe3)2", "Sb(OEt)3", "NH3"],
-  "temperature_range": "130 °C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of nanocrystalline-as-deposited GeTe−Sb2Te3 pseudobinary films for phase change memory applications. The process utilizes Ge(II)-amidoguanidinate, Te(SiMe3)2, and Sb(OEt)3 with NH3 as a coreagent. The films were deposited at 130 °C, resulting in a high density and uniform composition, which enabled high cycling endurance (>10^7) in phase change memory devices.",
-  "evidence": "The paper introduces a new ALD process for highly conformal, nanocrystalline-as-deposited GeTe−Sb2Te3 pseudobinary film growth at a deposition temperature of 130 °C. The process utilizes Ge(II)-amidoguanidinate, Te(SiMe3)2, and Sb(OEt)3 with an NH3 coreagent. The demonstration of the phase change memory device achieved high cycling endurance (>10^7)."
-}

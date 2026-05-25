@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the formation of an interfacial SiN_x layer on H-terminated c-Si substrates during plasma-assisted atomic layer deposition (PA-ALD) of TiN. This interfacial layer facilitates TiN nucleation by providing reactive surface groups for TiCl4 precursor molecules.",
-  "intermediate_species": ["SiN_x interface layer", "surface hydroxyls", "TiCl4 precursor molecules"],
-  "evidence": "The formation of an interfacial SiN_x layer on H-terminated c-Si substrates during PA-ALD of TiN was observed, which facilitated TiN nucleation. The surface hydroxyl density on thermal oxide substrates influenced the nucleation delay, and the plasma-induced formation of SiN_x provided reactive groups for TiCl4 molecules."
-}<|im_end|>

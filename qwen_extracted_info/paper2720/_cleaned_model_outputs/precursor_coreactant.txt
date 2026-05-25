@@ -1,7 +1,0 @@
-{
-  "precursors": ["dimethyl-(N,N-dimethyl-3-butene-1amine-N) platinum (C8H19NPt)"],
-  "coreactants": ["diluted molecular oxygen (O2)"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "A Pt thin film was deposited in a traveling-wave type ALD reactor (NCD, Lucida D100, Korea) using metal-organic precursors, DDAP. Diluted O2 [50 standard cubic centimeters per minute (SCCM) with 100 SCCM N2 co-dosing] was used as a reducing gas (co-reactant) to deposit the Pt thin film. A continuous 50 SCCM flow of N2 was used as the purging and carrier gas for the metal precursors during the deposition process."
-}

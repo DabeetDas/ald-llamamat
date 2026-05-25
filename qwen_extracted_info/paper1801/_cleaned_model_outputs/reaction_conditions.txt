@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the precursor TDMADT on the substrate, followed by surface saturation and the formation of a titanium oxide layer. The process is self-limiting, with the surface saturation achieved through the adsorption of the precursor and subsequent reactions leading to the formation of TiO2. The presence of the dmap-ligand after surface adsorption and its role in facilitating the formation of an inorganic thin film are highlighted.",
-  "intermediate_species": ["dmap-ligand", "Ti(NMe2)2", "Ti(NMe2)(dmap)"],
-  "evidence": "The surface reaction mechanism is described in the context of the adsorption of TDMADT on the substrate, surface saturation, and the formation of TiO2. The presence of the dmap-ligand after surface adsorption and its role in facilitating the formation of an inorganic thin film are discussed. The text mentions that the new compound TDMADT comprises a titanium–oxygen bond, which facilitates the formation of an inorganic thin film more likely at an earlier stage of the PE-ALD process compared to TDMAT."
-}

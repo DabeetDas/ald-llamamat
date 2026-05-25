@@ -1,8 +1,0 @@
-{
-  "target_material": "Indium-tin-oxide (ITO)",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["InCl3", "SnCl4", "water"],
-  "temperature_range": "500~C",
-  "summary": "Indium-tin-oxide (ITO) thin films were deposited by atomic layer epitaxy (ALE) using InCl3, SnCl4, and water as precursors at 500~C. The films were characterized by x-ray diffraction, scanning electron microscopy, energy dispersive x-ray analysis, and electrical measurements. The films had a polycrystalline In2O3 structure with a [100] orientation, and the SnO2 phase was detected in films with higher tin content. The resistivity of the films was optimized by adjusting the tin doping procedure, achieving resistivities as low as 2.4 × 10^-4 Ω cm. Postannealing slightly decreased the resistivity.",
-  "evidence": "Indium-tin-oxide thin films were deposited by atomic layer epitaxy at 500~C using InCl3, SnCl4, and water as precursors. The films had polycrystalline In2O3 structure. High transparencies and resistivities in the order of 2.4 × 10^-4 Ω cm could be achieved by optimizing the tin doping procedure. Postannealing decreased the resistivity about 5%."
-}

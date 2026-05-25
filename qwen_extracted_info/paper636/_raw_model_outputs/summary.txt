@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnSe/ZnS strained-layer superlattice",
-  "process_type": "Atomic layer epitaxy (ALE)",
-  "main_precursors": ["Dimethyldizinc (DMZn)", "Hydrogen sulfide (H2S)", "Hydrogen selenide (H2Se)"],
-  "temperature_range": "175°C",
-  "summary": "High-quality ZnSe/ZnS strained-layer superlattices were grown on Si substrates using atomic layer epitaxy (ALE) with a metal-organic chemical vapor deposition (MOCVD) system. The study investigated the optical and structural properties of these superlattices, focusing on photoluminescence (PL) and X-ray diffraction (XRD) analysis. The results showed that the emission peak shifted towards higher energy as the ZnSe well-layer thickness decreased, indicating quantum size effects. The activation energy was found to depend on the ZnSe well-layer thickness, with the behavior attributed to two-dimensional exciton effects in quantum wells.",
-  "evidence": "High-quality ZnSe-ZnS strained-layer superlattices were successfully grown on Si substrate by atomic layer epitaxy using a metal-organic chemical vapor deposition system. The characteristics of the ZnSe-ZnS strained-layer superlattices were investigated. Using photoluminescence measurements, an intense excitonic emission line and no emission due to deep levels were observed. As the ZnSe well-layer thickness increased, the peak of the line shifted markedly towards the lower-energy side. This behavior may be related to the quantum size effect. As the thickness of the ZnSe well-layer decreased, the activation energy increased. The ZnSe thickness is less than the three-dimensional exciton Bohr radius in bulk ZnSe. It is proposed that the dependence of the activation energy is due to two-dimensional exciton behavior in quantum wells."
-}<|im_end|>

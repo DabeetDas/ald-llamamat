@@ -1,8 +1,0 @@
-{
-  "target_material": "Metal Fluorides",
-  "process_type": "ALD",
-  "main_precursors": ["HF−pyridine", "tetrakis(ethylmethylamido) zirconium", "bis(ethylcyclopentadienyl) manganese", "tetrakis(dimethylamido) hafnium", "bis(ethylcyclopentadienyl) magnesium", "diethylzinc", "zirconium tetra-tert-butoxide"],
-  "temperature_range": "150 °C",
-  "summary": "The study demonstrates the atomic layer deposition (ALD) of various metal fluorides including ZrF4, MnF2, HfF4, MgF2, and ZnF2 using HF−pyridine as the fluorine precursor. The process involves self-limiting reactions and in situ quartz crystal microbalance (QCM) measurements to monitor growth. The growth rates and properties of the deposited films are characterized using ex situ techniques such as X-ray reflectivity, spectroscopic ellipsometry, and X-ray photoelectron spectroscopy. The results show that the metal fluorides exhibit self-limiting behavior and have high purity, with some displaying strong Lewis acid properties.",
-  "evidence": "The atomic layer deposition (ALD) of a variety of metal fluorides including ZrF4, MnF2, HfF4, MgF2, and ZnF2 was demonstrated using HF from a HF−pyridine solution. The QCM measurements determined a mass gain per cycle (MGPC) of 35.5 ng/(cm2 cycle) for ZrF4 ALD at 150 °C. The growth rates for MnF2, HfF4, MgF2, ZnF2, and ZrF4 ALD were 0.4, 0.8, 0.4, 0.7, and 0.6 Å/cycle, respectively, at 150 °C. All of these metal fluoride ALD systems displayed self-limiting reactions."
-}

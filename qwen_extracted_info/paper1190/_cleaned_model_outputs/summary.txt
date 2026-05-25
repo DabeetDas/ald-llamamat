@@ -1,8 +1,0 @@
-{
-  "target_material": "BiFeO3",
-  "process_type": "radical-enhanced atomic layer deposition (RE-ALD)",
-  "main_precursors": ["tris(2,2,6,6-tetramethyl-3,5-heptanedionato) bismuth(III) (Bi(TMHD)3)", "tris(2,2,6,6-tetramethyl-3,5-heptanedionato) iron(III) (Fe(TMHD)3)"],
-  "temperature_range": "210 °C for deposition, 450 to 750 °C for crystallization",
-  "summary": "The study describes the synthesis of BiFeO3 thin films using radical-enhanced atomic layer deposition (RE-ALD) with metalorganic precursors Bi(TMHD)3 and Fe(TMHD)3. The films were deposited at 210 °C and crystallized between 450 and 750 °C. The process yielded phase-pure, epitaxial BiFeO3 films with ferroelectric and weak ferromagnetic properties, demonstrating the potential of RE-ALD for multiferroic oxide thin film synthesis.",
-  "evidence": "A radical-enhanced atomic layer deposition (RE-ALD) process is described for the synthesis of BiFeO3. Metalorganic precursors β-diketonate, tris(2,2,6,6-tetramethyl-3,5-heptanedionato) iron(III) (Fe(TMHD)3), and Bi(TMHD)3 are coreacted with oxygen radicals... Stoichiometric BiFeO3 films were deposited on SrTiO3 (001) substrates at 210 °C and crystallized from 450 to 750 °C."
-}

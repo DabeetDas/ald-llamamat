@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["methylpyrrolidine alane (C5H14NAl)", "O2 plasma"],
-  "temperature_range": "100°C",
-  "summary": "The study investigates the incorporation of interstitial oxygen into a silicon substrate during plasma enhanced atomic layer deposition (PEALD) of Al2O3. The process uses methylpyrrolidine alane and O2 plasma as sources for Al and O, respectively. The amount of interstitial oxygen increases with the thickness of the Al2O3 layer, indicating that the Al2O3 layer does not effectively serve as a diffusion barrier for atomic oxygen from plasma.",
-  "evidence": "The incorporation of interstitial oxygen into a silicon substrate was found by Fourier transform infrared spectroscopy, and the amount of interstitial oxygen found increased when the thickness of Al2O3 was increased. This phenomenon was attributed to the diffusion of oxygen atoms throughout the Al2O3 layer. The Al2O3 layer does not effectively serve as a diffusion barrier of atomic oxygen from plasma."
-}<|im_end|>

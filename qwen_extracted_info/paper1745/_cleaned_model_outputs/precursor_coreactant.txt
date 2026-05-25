@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ti(OCH(CH3)2))4 (titanium tetraisopropoxide, TTIP)", "(tBuN)2(Me2N)2W"],
-  "coreactants": ["H2O", "O3 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "For TiO2, during each cycle the temperature of the Ti(OCH(CH3)2))4 (titanium tetraisopropoxide, TTIP) precursor was held at 80 °C while the temperature of the sample was maintained at 200 °C. Pressurized argon was injected into the precursor cylinder in order to transport of the low volatility tungsten precursor to the sample reactor."
-}

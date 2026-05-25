@@ -1,8 +1,0 @@
-{
-  "target_material": "BTAO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Bi(mmp)3", "Ti(mmp)4", "trimethylaluminum (TMA)", "water vapor"],
-  "temperature_range": "250°C",
-  "summary": "The study investigates the effect of alumina addition on Bi1−x−yTixAlyOz (BTAO) dielectric thin films using atomic layer deposition (ALD). The addition of alumina layers increases the bandgap and improves the insulating properties of BTAO, while decreasing the dielectric constant. The n-type nature of BTAO is enhanced with higher aluminum content. The films were deposited on silicon wafers at 250°C through an alternating growth of BT and alumina layers by ALD.",
-  "evidence": "BTAO was deposited in nanolaminate forms through an alternating growth of BT and alumina layers by atomic layer deposition (ALD). The dielectric constant of BTAO increased with decreasing the aluminum content, but the insulating property became improved by the addition of alumina layers. BTAO thin films were deposited at 250°C on 8 in. silicon wafers in nanolaminate forms through an alternating growth of BT and alumina layers by ALD."
-}

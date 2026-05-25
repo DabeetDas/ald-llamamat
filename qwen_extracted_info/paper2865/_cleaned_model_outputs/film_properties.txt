@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 0.35,
-  "density_g_cm3": null,
-  "refractive_index": "1.48",
-  "surface_roughness_nm": 0.193,
-  "crystal_phase": "Amorphous",
-  "evidence": "The RMS surface roughness of the substrate was 0.099 nm and that of the ALD film was 0.193 nm as compared to the LPCVD (0.380 nm) and APCVD (0.282 nm) films. It is considered that oxide films prepared by ALD using SiH2Cl2 and O3/O2 grew into stoichiometric SiO2 thin films because the binding energy of the Si 2p peak was 103.2 eV similar to those of the thermal oxide and LPCVD oxide films."
-}

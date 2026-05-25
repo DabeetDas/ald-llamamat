@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the reaction of CoCl2(TMEDA) with water, where the Co precursor reacts with water to deposit CoO. The reaction is characterized by a saturated growth rate and the formation of CoO films with a 1:1 Co:O stoichiometry at 275 °C. The process is influenced by temperature, water pulse length, and substrate material, with the CoO films being reducible to Co metal at 250 °C in 10% forming gas.",
-  "intermediate_species": ["CoCl2(TMEDA)"],
-  "evidence": "The surface reaction mechanism is described as the reaction of CoCl2(TMEDA) with water to deposit CoO. The process was investigated within a temperature range of 225–300 °C, and the films were a mixture of hexagonal and cubic CoO. The CoO films could be reduced to Co metal at an exceptionally low temperature of 250 °C in 10% forming gas. The CoCl2(TMEDA) pulse length had no significant effect on the crystal structure."
-}

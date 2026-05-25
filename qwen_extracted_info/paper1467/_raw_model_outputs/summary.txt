@@ -1,8 +1,0 @@
-{
-  "target_material": "[Ca2CoO3]0.62[CoO2]",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Ca(thd)2", "Co(thd)2", "O3"],
-  "temperature_range": "200 - 300 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of [Ca2CoO3]0.62[CoO2] thin films using Ca(thd)2, Co(thd)2, and O3 as precursors. The films were heat-treated in O2 gas to crystallize and then reannealed in N2 gas to control oxygen content, which influenced the lattice parameter and Seebeck coefficient. The ALD process enabled precise tuning of oxygen content, affecting the thermoelectric properties of the films.",
-  "evidence": "Thin films of the p-type thermoelectric misfit-layered oxide, [Ca2CoO3]0.62[CoO2], were prepared for the first time by means of the atomic layer deposition (ALD) technique using Ca(thd)2, Co(thd)2, and O3 as precursors. The as-deposited films were amorphous; however, with heat treatment in an O2 gas flow, well-crystallized highly c-axis-oriented [Ca2CoO3]0.62[CoO2] films were obtained. The oxygen content of the O2-annealed film was further controlled through a reductive N2-annealing."
-}<|im_end|>

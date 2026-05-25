@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The presence of the alkoxide ligand inhibits the formation of [Cp – CH2– Zr– CH2– Cp] intermediate species, leading to a different pyrolysis mechanism that suppresses the formation of Zr-carbide species during heating or pyrolysis.",
-  "intermediate_species": ["[Cp – CH2– Zr– CH2– Cp]"],
-  "evidence": "The high carbon contamination was attributed to the presence of the Me group on the Cp ring which leads to the formation of [Cp – CH2– Zr– CH2– Cp] intermediate species. These subsequently liberate H2 and Cp to form stable [Zr– C] moieties resulting in heavy carbon contamination in the oxide film. The relatively low levels of carbon in the ZrO2 films grown using [(MeCp)2ZrMe(OMe)] and [(MeCp)2ZrMe(OBut)] indicates that a different pyrolysis mechanism is taking place, in which the presence of the alkoxide ligand inhibits the formation of the [Cp – CH2– Zr– CH2– Cp] intermediate species."
-}

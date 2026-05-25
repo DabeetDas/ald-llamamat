@@ -1,8 +1,0 @@
-{
-  "target_material": "silicon nitride",
-  "process_type": "thermal ALD",
-  "main_precursors": ["NH3", "SiH2Cl2"],
-  "temperature_range": "250–500 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of silicon nitride (SiN) using a self-limiting mechanism. The process involves plasma nitridation of silicon with NH3 remote plasma and thermal deposition of silicon using SiH2Cl2. The deposition rate is self-limited at approximately half a molecular layer per cycle, and the process is optimized for low-temperature uniform deposition of ultrathin films.",
-  "evidence": "The SiN thickness deposited by ALD is shown in Fig. 2 as a function of deposition cycle. The growth rate is constant at 0.091 nm/cycle, independent on NH3 plasma power, SiH2Cl2 exposure time, substrate temperature, and orientation of Si substrate. The deposition rate is saturated at 0.09 nm/cycle for the NH3 plasma power larger than 40 W. The substrate temperature was varied from 250 to 500 °C."
-}<|im_end|>

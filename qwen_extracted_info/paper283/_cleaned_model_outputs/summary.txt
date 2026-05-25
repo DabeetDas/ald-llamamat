@@ -1,8 +1,0 @@
-{
-  "target_material": "AlCl3/SiO2 and Al2O3/SiO2",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["AlCl3", "water"],
-  "temperature_range": "500 °C",
-  "summary": "The study describes the use of atomic layer epitaxy (ALE) to prepare AlCl3 and Al2O3 modified silica catalyst supports. The process involves gas-solid reactions using AlCl3 or AlCl3 and water as adsorbates on silica support. The ALE process allows for conformal coating and surface saturation through chemisorption reactions. The study focuses on quantifying aluminium content in these modified supports using X-ray fluorescence (XRF) spectrometry, calibrated with atomic absorption spectrometry (AAS) and instrumental neutron activation analysis (INAA).",
-  "evidence": "Atomic Layer Epitaxy (ALE) process was originally developed in the early 1970s for growing single crystals and high quality thin films. In the 1990s the ALE technique was applied to the preparation of catalysts on porous high surface area supports. The primary advantage of ALE is that it allows a good conformal coating. In ALE growth, surface saturation is achieved and the desired surface structures are formed via chemisorption reactions. Therefore ALE growth is controlled by the surface itself, not by the dose of the reactant. Owing to this self-controlling nature of ALE the method is very suitable for tailoring catalyst supports. The silica-based catalyst supports were prepared by saturating gas-solid reactions of AlCl3 or AlCl3 and water in a modified flow-type atomic layer epitaxy reactor at lowered pressure (6–10 kPa)."
-}

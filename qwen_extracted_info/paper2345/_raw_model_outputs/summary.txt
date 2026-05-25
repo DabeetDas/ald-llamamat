@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["AsH3", "trimethylgallium (TMG)"],
-  "temperature_range": "630°C",
-  "summary": "The study investigates the self-limiting mechanism in the atomic layer epitaxy (ALE) of GaAs using trimethylgallium (TMG) and AsH3. The process is found to be insensitive to the mole fractions of the reactive gases, allowing for precise control of layer thickness and growth rates. The self-limiting mechanism is attributed to the decomposition of TMG on the substrate surface and the thermal boundary layer, preventing excess deposition and maintaining a single monolayer per cycle.",
-  "evidence": "A self-limiting mechanism has been observed in the atomic layer epitaxy (ALE) of GaAs deposited by alternate exposure to AsH3 and trimethylgallium (TMG). The thickness of the deposited film was found to be independent of the mole fractions of both TMG and AsH3 in the gas phase. This self-limiting mechanism may be related to the process of decomposition of trimethylgallium (TMG) on the substrate surface and in the thermal boundary layer."
-}<|im_end|>

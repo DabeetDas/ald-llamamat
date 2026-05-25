@@ -1,8 +1,0 @@
-{
-  "target_material": "Molybdenum oxides",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Mo(NMe2)4", "water", "ozone"],
-  "temperature_range": "60 °C to 120 °C",
-  "summary": "The study describes the development of low-temperature atomic layer deposition (ALD) processes for molybdenum oxides with tunable stoichiometry, enabling controllable doping of MoS2. The processes use Mo(NMe2)4 as a precursor with either water or ozone as oxidants, allowing for the deposition of amorphous molybdenum oxides with varying oxidation states. The ALD processes enable uniform growth on 2D materials without damage, and the resulting oxides can be used to tune the electronic properties of MoS2 by adjusting the oxide composition.",
-  "evidence": "The study describes the development of low-temperature atomic layer deposition (ALD) processes for molybdenum oxides with tunable stoichiometry, enabling controllable doping of MoS2. The processes use Mo(NMe2)4 as a precursor with either water or ozone as oxidants, allowing for the deposition of amorphous molybdenum oxides with varying oxidation states. The ALD processes enable uniform growth on 2D materials without damage, and the resulting oxides can be used to tune the electronic properties of MoS2 by adjusting the oxide composition."
-}

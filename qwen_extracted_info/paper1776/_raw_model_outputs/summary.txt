@@ -1,8 +1,0 @@
-{
-  "target_material": "sodium and potassium oxides",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["sodium tert-butoxide", "potassium tert-butoxide", "sodium trimethylsilanolate", "hexamethyldisilazide"],
-  "temperature_range": "225 to 375 °C for sodium, 250 to 300 °C for potassium",
-  "summary": "The study reports the successful atomic layer deposition of sodium and potassium oxides using precursors such as sodium and potassium tert-butoxides, sodium trimethylsilanolate, and hexamethyldisilazide. The process was tested at various temperatures, and the films showed self-limiting growth. The crystal structures of NaO tBu and KOtBu were determined, and the ALD technique was demonstrated to be suitable for depositing thin films containing alkaline elements at wafer scale.",
-  "evidence": "Sodium and potassium tert-butoxide and sodium trimethylsilanolate showed self-limiting growth and proved useable at deposition temperatures from 225 to 375 or 300 °C, respectively. The current work demonstrates the suitability of the ALD technique to deposit thin films containing alkaline elements even at 8 '' wafer scale."
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the use of (tBuN)2W(NMe2)2 as a tungsten precursor and H2O as an oxygen precursor. The surface reactions are self-limiting, with the growth mechanism involving the adsorption of precursor molecules on the surface, followed by surface reactions and desorption. The process is characterized by alternating pulses of the precursors separated by purging steps, leading to the formation of a monolayer of WO3 with precise control over thickness.",
-  "intermediate_species": ["(tBuN)2W(NMe2)2", "H2O", "surface hydroxyls", "monomethyl aluminum"],
-  "evidence": "The surface reactions are self-limiting, with the growth mechanism involving the adsorption of precursor molecules on the surface, followed by surface reactions and desorption. The process is characterized by alternating pulses of the precursors separated by purging steps, leading to the formation of a monolayer of WO3 with precise control over thickness. The ALD process involves the use of (tBuN)2W(NMe2)2 as a tungsten precursor and H2O as an oxygen precursor."
-}

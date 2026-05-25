@@ -1,7 +1,0 @@
-{
-  "precursors": ["tetrakis-dimethylamidotitanium [(NMe2)4-Ti, TDMAT]", "tris-(dimethylamido)-mono-(N,N′-diisopropyl-dimethyl-amido-guanidinato)-titanium {[(NiPr)2NMe2]Ti(NMe2)3, TiA3G1}"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The text states: 'The ALD processes were conducted on a homemade system consisting of a liquid injection vaporizer kept at 155 °C connected to an Aixtron FE 200 plug flow reactor. In the reactor tube, a rectangular quartz tube was installed in series with a sample holder. This configuration assured a laminar gas flow over the rotating sample. The sample holder was heated by infrared radiation, and temperature stability was achieved by a feedback controller with a thermocouple inside the sample holder. For liquid injection delivery, the precursors were dissolved in toluene (Sigma-Aldrich, Chromasolve plus, ≥99.99%) at a concentration of 0.1 mol/L (TDMAT, 99.999%, Sigma-Aldrich) and 0.09 mol/L (TiA3G1). The injection of several microliters for each precursor feeding step was conducted with modified Bosch injectors. A bottle of ultrapure water, kept at 5 °C, was connected to an automatic valve. The water vapor was transported through heated lines in which it was heated to 100 °C before entering the reactor. Ar gas flow (220 sccm) was used to transport the precursor gas, and the purging after delivery of each reactant was performed with a 500 sccm Ar flow.'"
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
-  "main_precursors": ["Diethyl zinc (DEZ)", "O2 plasma"],
-  "temperature_range": "room temperature",
-  "summary": "The study reports on the growth of ZnO thin films using plasma-enhanced atomic layer deposition (PE-ALD) at room temperature. The process utilizes diethyl zinc (DEZ) as the metal precursor and O2 plasma as the coreactant. The films exhibit a polycrystalline structure with a (100) texture and low carbon content. The ability to tune crystallite size, refractive index, and bandgap by adjusting the plasma radio-frequency power is demonstrated. The process is optimized to achieve self-limited growth with a growth per cycle (GPC) of approximately 1.5 Å/cycle.",
-  "evidence": "The ability to grow inorganic thin films with highly controllable structural and optical properties at low substrate temperature enables the manufacturing of functional devices on thermo-sensitive substrates without the need of material postprocessing. In this study, the authors report on the growth of zinc oxide films by direct plasma-enhanced atomic layer deposition at near room temperature. Diethyl zinc and oxygen plasma were used as the precursor and coreactant, respectively. The process was optimized with respect to the precursor and coreactant dosing as well as to the purging times, which ultimately resulted in saturated atomic layer deposition growth. The so-obtained films exhibit a polycrystalline pattern with a (100) texture and low amount of incorporated carbon. Furthermore, the possibility to tune crystallite size, refractive index, and bandgap of the films by adapting the plasma radio-frequency power is demonstrated."
-}<|im_end|>

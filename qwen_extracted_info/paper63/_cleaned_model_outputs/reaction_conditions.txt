@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The aliovalent Mg2+-for-Cr3+ substitution leads to hole creation at the chromium site, which is responsible for the transport properties in the Cr-based delafossite phases. The presence of interstitial oxygen in Cu(Cr,Mg)O2 thin films could improve the electrical conductivity due to hole doping.",
-  "intermediate_species": ["Cr3+/Cr4+ mixed valency", "interstitial oxygen"],
-  "evidence": "The initial decrease in electrical resistivity and Seebeck coefficient upon increasing x is ascribed to the hole (i.e., Cr4+) creation at the chromium site due to the aliovalent Mg2+-for-Cr3+ substitution; the Cr3+/Cr4+ mixed valency is widely considered as responsible for the transport properties in the Cr-based delafossite phases. The presence of interstitial oxygen in Cu(Cr,Mg)O2 thin films could improve the electrical conductivity due to hole doping."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["(ethylbenzene)(1,3-cyclohexadiene)Ru(0) (EBCHDRu, C14H18Ru)"],
-  "coreactants": ["O2"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "Ru precursor was vaporized in a bubbler at the temperature of ~ 100 °C and carried into the process chamber by N 2 gas at a flow rate of 100 standard cubic centimeters per minute (sccm). O 2 gas was delivered with a flow rate of 50 sccm as a reactant with 200 sccm of N 2 gas. Between the precursor pulsing and the reactant pulsing, a purging process was done with 200 sccm of N 2; the sequence of precursor pulsing, purging, reactant pulsing and then purging occurs in each ALD cycle."
-}

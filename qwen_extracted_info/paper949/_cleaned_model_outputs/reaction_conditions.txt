@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The exchange reaction and self-limited growth exhibited in ALD were confirmed by optimization of the length of purge and pulse time. The electrostatic interactions between the Se alkyl-silyl precursor and the Sb and Te precursors were considered in the deposition process. The chemical reactions of the Se–Sb precursors and Se–Te precursors were induced even at low temperatures due to the electrostatic attraction between the core elements and ligands of different precursors.",
-  "intermediate_species": ["Se alkyl-silyl precursor", "Sb and Te precursors"],
-  "evidence": "The surface mechanism description is derived from the text discussing the ALD reaction, electrostatic interactions, and chemical reactions of the precursors. The text states: 'The ALD technique in particular provides high step coverage, fine roughness control, and low temperature deposition, and the origin of this reaction involves both an exchange reaction and a self-limited reaction. Delicate controls of the deposition process and precursor design are essential in the ALD reactions of binary and ternary compounds because the exchange reaction requires an electrostatic attraction between core elements and ligands of different precursors.'"
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["Dimethyl(N,N-Dimethyl-3-Butene-1-Amine-N)Platinum (DDAP)"],
-  "coreactants": ["O2"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "One cycle of Pt thin films consisted of a Pt precursor pulse with Ar carrier gas for 10 s, a purge pulse with Ar carrier gas for 10 s, an O2 reactant pulse for 5 s, and another purge pulse for 10 s."
-}

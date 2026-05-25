@@ -1,8 +1,0 @@
-{
-  "target_material": "SiN x",
-  "process_type": "PEALD",
-  "main_precursors": ["di-isopropylaminosilane (DIPAS)", "N2 plasma"],
-  "temperature_range": "60–250 °C",
-  "summary": "The study investigates the plasma-enhanced atomic layer deposition (PEALD) of silicon nitride (SiN x) films using di-isopropylaminosilane (DIPAS) and N2 plasma as precursors. The research focuses on the chemical and structural properties of the films deposited at various temperatures, highlighting the instability of films at low temperatures due to unreacted ligands and subsequent chemical reactions with ambient air, leading to SiO2 formation. The study also examines the growth behavior, refractive index, and surface morphology of the films.",
-  "evidence": "Silicon nitride (Si3N4) films have received great attention not only as dielectric materials for the gate dielectric of transistors and the insulator of capacitors, but also as a buffer layer and etch-stop layer for the semiconductor industry. In this work, the growth behavior and chemistry of SiN x (x < 1.33) film deposited by the PEALD process at various growth temperatures were developed. Insufficient thermal energy from low growth temperature induces an unstable chemical state of deposited film due to the remaining unreacted ligand of adsorbed precursors. This state results in a further chemical reaction to SiO2 formation by air exposure."
-}<|im_end|>

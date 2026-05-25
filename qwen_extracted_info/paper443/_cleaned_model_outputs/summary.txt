@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnSe",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Zn", "Se"],
-  "temperature_range": "275°C",
-  "summary": "The study investigates the atomic layer epitaxy (ALE) of ZnSe using reflectance difference (RD) spectroscopy to monitor the self-limiting process. The ALE growth was performed on a ZnSe buffer layer grown on a GaAs substrate at 275°C. The self-limiting mechanism was observed during the deposition of Se atoms, while Zn atoms sublimated at the same temperature. The RD signal intensity showed cyclic changes corresponding to the alternating supply of Zn and Se atoms, confirming the ALE process.",
-  "evidence": "We applied reflectance difference (RD) spectroscopy to the atomic layer epitaxy (ALE) of ZnSe and proved the self-limiting process of Se atoms by means of in-situ monitoring of the RD intensity. The ALE of ZnSe was performed on a ZnSe buffer layer grown on a GaAs substrate at 275°C. During the ALE growth with the alternate molecular beam supply of Zn and Se atoms, the intensity of the RD signal at 4.2 eV showed a cyclic change between the Zn level and the Se level, respectively. These facts show that the self-limiting mechanism prevails only in the atomic layer formation of Se on the ZnSe outermost surface."
-}

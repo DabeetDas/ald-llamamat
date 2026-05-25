@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium oxide (TiO2) and titanium nitride (TiN)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Cp2Ti[(NiPr)2CN(H)iPr]"],
-  "temperature_range": "149 /C176C to 330 /C176C",
-  "summary": "This study introduces a new class of volatile and thermally stable titanium guanidinate precursors for ALD. The compounds were synthesized and characterized for their suitability as ALD precursors. Surface reactivity on high surface area silica was investigated to understand the chemisorption mechanism. The study highlights the potential of these precursors for depositing titanium-based materials, such as TiO2 and TiN, through ALD.",
-  "evidence": "A family of new mixed-ligand titanium guanidinate compounds was synthesized as potential atomic layer deposition precursors, and the surface chemistry on silica of a promising candidate (Cp2Ti[(NiPr)2CN(H)iPr]) was explored. The surface reactivity was found to differ if the silica was preheated to 350 or 900 /C176C; this was attributed to the hydroxyl nucleation site density of the silica, which is known to vary with the temperature. The surface reaction products were characterized by solid-state NMR, and these agreed well with a calculated model."
-}

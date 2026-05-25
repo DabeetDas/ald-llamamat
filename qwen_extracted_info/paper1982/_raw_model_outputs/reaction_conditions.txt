@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "During the Si,H6 exposure, Si* is grown via the desorption of both H2 and HCl. The self-limiting Si,C16 exposure is speculated to grow 1/3 ML of Si* per cycle, with the amount of Si* grown from Si,H6 being temperature-dependent.",
-  "intermediate_species": ["Si*"],
-  "evidence": "Elsewhere, we have speculated on the growth mechanism using Si2H6 and Si2Cl6 on the Si(100) surface. After a continuous Si film is established on the Ge(100) surface, we speculate that = 1/3 ML of Si* is grown with each self-limiting Si,C16 exposure (1 ML of Cl as monochloride gives 2/6 ML of Si). During the Si,H6 exposure (300 s), Si* is probably grown via the desorption of both H2 and HCl. The amount of Si* grown from Si,H6 is expected to be T dependent, and is = 1.6 ML at 465 “C."
-}<|im_end|>

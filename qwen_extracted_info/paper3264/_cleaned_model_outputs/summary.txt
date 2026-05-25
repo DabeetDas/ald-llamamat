@@ -1,8 +1,0 @@
-{
-  "target_material": "textile materials (cotton/polyester blends)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethylaluminum (TMA)", "water (DI-H2O)"],
-  "temperature_range": "100°C",
-  "summary": "The study investigates the effect of weave geometry on the surface energy modification of textile materials using atomic layer deposition (ALD) of aluminum oxide (Al2O3). The ALD process was used to modify various fabric weaves, and the results showed that the surface properties, particularly hydrophobicity and hydrophilicity, are influenced by the inter-fiber spacing and weave structure. The ALD process was found to be effective in creating nanoscale coatings that alter the surface energy of the fabrics, with the potential for applications in creating water-resistant, breathable, and windproof textiles.",
-  "evidence": "Atomic layer deposition (ALD) has recently been demonstrated as a novel method for the creation of nanoscale coatings on fiber-based materials. The ALD process has proven effective in altering the surface energy of both woven and nonwoven materials. In this work, the effect of fabric weave geometry on the behavior of ALD-modified fabrics has been studied. Aluminum oxide ALD was used to modify a series of fabric weaves which were then analyzed using sessile contact angle measurements. The experimental results demonstrated the ability of the ALD process to modify the surface energy of a variety of weave structures, regardless of the inter-fiber spacing within the yarns."
-}

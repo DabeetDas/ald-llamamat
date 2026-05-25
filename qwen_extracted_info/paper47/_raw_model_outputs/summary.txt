@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "ALD",
-  "main_precursors": ["diethyl Zn (DEZ)", "pentakis-dimethylamino Ta (PDMAT)", "H2O"],
-  "temperature_range": "170 °C",
-  "summary": "The study investigates the effect of tantalum (Ta) doping on ZnO films using atomic layer deposition (ALD). The Ta doping leads to changes in the oxygen vacancy and Zn vacancy formation, affecting the electrical and optical properties of the films. The optimal Ta doping percentage is found to be 1.8 at%, resulting in the lowest resistivity and highest carrier concentration.",
-  "evidence": "The films are synthesized using atomic layer deposition. The precursor for Ta is pentakis-dimethylamino Ta (PDMAT) whereas, diethyl Zn (DEZ) is used for ZnO deposition with H2O as an oxidant. Hall measurements show the lowest resistivity for a 30 nm Ta doped ZnO film to be 4 × 10−3 Ω cm with a peak carrier concentration of 1.2 × 1020 cm−3. The ideal cycle ratio used to achieve these properties is 40:1 of (DEZ+H2O):(PDMAT+H2O) pulses."
-}<|im_end|>

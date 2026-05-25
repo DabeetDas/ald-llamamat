@@ -1,7 +1,0 @@
-{
-  "precursors": ["Cu 2DBA", "SnTDMA", "DEZ"],
-  "coreactants": ["H2S", "H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "For Cu2S, the precursor for Cu+ was bis(N,N′-di-sec-butylacetamidinato)dicopper(I) (Dupont), which is abbreviated as Cu2DBA. The Cu2DBA precursor reservoir was kept at 160 °C. The vapor was fed into the chamber using a nitrogen-assisted vapor delivery system. One cycle of ZnS consisted of a 0.015 s pulse of DEZ, followed by a 20.0 s purge, followed by a 1.0 s H2S pulse, finishing with a 20.0 s purge. For ZnS, one cycle consisted of pulsing DEZ for 0.015 s, purging with N2 for 10 s, pulsing H2S for 1.0 s, and purging with N2 for 10.0 s."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta2O5",
-  "process_type": "ALD",
-  "main_precursors": ["TaI5", "H2O-H2O2"],
-  "temperature_range": "240 - 400 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of tantalum oxide (Ta2O5) thin films using TaI5 and H2O-H2O2 as precursors. The process was studied in the temperature range of 240-400 °C. The films were found to be free from iodine residues, and the refractive index reached 2.24. The growth rate decreased linearly with increasing substrate temperature, and etching of Ta2O5 was observed at around 350 °C. The study also highlights the phase composition of the films, showing the formation of different Ta2O5 polymorphs.",
-  "evidence": "Atomic layer deposition (ALD) of Ta2O5 films from evaporated TaI5 and H2O-H2O2 was investigated in the temperature range of 240 -400 °C. It was shown that TaI5 as a novel ALD precursor is sufficiently stable for deposition of amorphous or polycrystalline films. According to XPS, the films were free from iodine residues. The refractive index of the films reached 2.24. The film formation mechanism depended on the substrate temperature. The growth rate decreased linearly with substrate temperature. Real time monitoring of the growth process with a quartz crystal microbalance revealed the self-limiting nature of reactions between the film surface and precursors at substrate temperatures up to 325 °C. Etching of Ta2O5 in the TaI5 flow was observed at around 350 °C and higher temperatures. At 350 °C, the crystal growth was also initiated."
-}

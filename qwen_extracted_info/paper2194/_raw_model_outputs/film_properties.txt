@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 20,
-  "density_g_cm3": null,
-  "refractive_index": null,
-  "surface_roughness_nm": 0.42,
-  "crystal_phase": "amorphous",
-  "evidence": "The HfO2 film was etched by 1:200 HF aqueous solutions in a layer-by-layer fashion with numerous SRPES spectra taken between these etchings. This layer-by-layer etching was carried out in an argon purged glove bag connected to the analytical load lock of the photoemission chamber to avoid any air exposure. In order to guarantee that the S-passivated GaAs surface and the HF-etched HfO2 surfaces were smooth and without pinholes, AFM was used to monitor the surface morphology and extract root-mean-square roughness (Rrms) as a function of etching time, as illustrated in Fig. 1. Note that AFM was not carried out in the glove bag, so the interpretation rests on assuming that the native oxide surface has a similar roughness as the etched. As shown in Fig. 1, the GaAs surface roughness was slightly increased after the chemical treatments, and the Rrms level during HF etching was maintained at around 0.42– 0.58 nm before the entire HfO2 layer was removed."
-}<|im_end|>

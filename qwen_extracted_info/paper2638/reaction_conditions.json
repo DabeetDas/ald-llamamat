@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of hydrogen plasma to remove the ligand from the silver precursor, allowing for the formation of a continuous silver layer. The growth starts from isolated silver islands and progresses to a percolation and bulk regime as the number of deposition cycles increases.",
-  "intermediate_species": [
-    "Ag precursor ligand"
-  ],
-  "evidence": "The text states that 'the hydrogen plasma completely removes the Ag precursor ligand' and 'the growth starts from isolated silver islands and progresses to a percolation and bulk regime as the number of deposition cycles increases.'"
-}

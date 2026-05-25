@@ -1,8 +1,0 @@
-{
-  "target_material": "MgO",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["bis(cyclopentadienyl)magnesium (CP2Mg)"],
-  "temperature_range": "500 °C to 900 °C",
-  "summary": "The study investigates the surface morphology of MgO thin films deposited by ALD, showing that growth orientation and grain size change with substrate temperature. The adsorbates during deposition are dissociated Mg molecules or atoms, depending on temperature, and the process involves surface diffusion and chemical reactions.",
-  "evidence": "The X-ray diffraction results of MgO films show orientation changes from [1 1 1] to [1 0 0] when the substrate temperature changes from 500 °C to 900 °C. The grains have a plate-like structure at temperatures above 700 °C, and the adsorbates on the surface in the deposition processes could be fully dissociated Mg compound at 600 °C or higher."
-}<|im_end|>

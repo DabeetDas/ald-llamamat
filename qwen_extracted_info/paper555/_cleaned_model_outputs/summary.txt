@@ -1,8 +1,0 @@
-{
-  "target_material": "Tantalum (Ta)",
-  "process_type": "Plasma-enhanced atomic layer deposition (PE-ALD)",
-  "main_precursors": ["TaCl5", "Atomic hydrogen"],
-  "temperature_range": "150–300 °C",
-  "summary": "The study investigates the plasma-enhanced atomic layer deposition (PE-ALD) of tantalum (Ta) thin films on Si and SiO2 substrates. The growth rate increases with TaCl5 exposure time, saturating at approximately 0.08 Å per cycle. The films are amorphous, and their resistivity and Cl content are influenced by H exposure time and growth temperature. Low resistivity and low Cl content films were obtained at 150 °C. Annealing at 900 °C leads to intermixing of Ta and Si and the formation of Ta silicide. The films show good thermal stability and are suitable for use as diffusion barriers.",
-  "evidence": "Ta thin films were grown by plasma-enhanced atomic layer deposition (PE-ALD) on Si and SiO2 substrates. The growth rate increases with increasing TaCl5 exposure time to saturate at approximately 0.08 Å per cycle. Transmission electron microscopy and X-ray diffraction show that the grown films are amorphous. Low resistivity and low Cl content films were obtained at a low substrate temperature of 150 °C. The growth mechanisms and thermal stability of PE-ALD Ta thin films are discussed based upon these results."
-}

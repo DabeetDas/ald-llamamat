@@ -1,9 +1,0 @@
-{
-  "precursors": [],
-  "coreactants": [],
-  "purge_gas": [],
-  "carrier_gas": [],
-  "evidence": null,
-  "_error": "ValueError: Could not parse model output as JSON. Preview: '10/C101/C100 /C116/C104/C101 /C102/C105/C108/C109/C115 /C100/C101/C112/C111/C115/C105/C116/C101/C100 /C97/C116 /C53/C53/C48 /C30/C67 /C97/C110/C100 /C119/C105/C108/C108 /C98/C101 /C112/C117/C98/C108/C105/C115/C104/C101/C100 /C105/C110 /C109/C111/C114/C101 /C100/C101/C116/C97/C105/C108 /C101/C108/C11'",
-  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 257, in precurosr_coreactant_purge_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '10/C101/C100 /C116/C104/C101 /C102/C105/C108/C109/C115 /C100/C101/C112/C111/C115/C105/C116/C101/C100 /C97/C116 /C53/C53/C48 /C30/C67 /C97/C110/C100 /C119/C105/C108/C108 /C98/C101 /C112/C117/C98/C108/C105/C115/C104/C101/C100 /C105/C110 /C109/C111/C114/C101 /C100/C101/C116/C97/C105/C108 /C101/C108/C11'\n"
-}

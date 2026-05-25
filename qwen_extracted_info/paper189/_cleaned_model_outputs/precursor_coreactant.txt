@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA (trimethylaluminum)", "tridecaﬂuoro-1,1,2,2-tetrahydro-octyl-methyl-bis(dimethylamino)silane"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ALD alumina was deposited by using sequential exposures of trimethylaluminum (TMA, Al(CH3)3) and water. The system utilized a viscous flow of nitrogen carrier gas to transport the reactants to the substrate and to purge the reaction products from the flow tube."
-}

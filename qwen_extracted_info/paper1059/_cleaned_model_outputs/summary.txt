@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium nitride (TiN)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TiCl4", "NH3"],
-  "temperature_range": "400 °C",
-  "summary": "The study investigates the surface chemistry of titanium nitride atomic layer deposition on silica using TiCl4 and NH3 as precursors at 400 °C. The process involves sequential exposure of the precursors, leading to the formation of TiN on the silica surface. Incomplete surface reactions and the presence of byproducts like HCl and NH4Cl are observed. The infrared spectroscopy analysis confirms the formation of TiN after six ALD cycles.",
-  "evidence": "The initial stages of titanium nitride atomic layer deposition using sequential additions of TiCl4 and NH3 on fumed silica powder were investigated using in situ Fourier transform infrared spectroscopy techniques. After the first stage, the primary active surface species for the formation of TiN were determined to be TiClx and Ti2NH. After six complete atomic layer deposition cycles the infrared spectrum indicated a strong TiN band that was verified by diffuse reflectance infrared spectroscopy recorded on pure TiN powder."
-}

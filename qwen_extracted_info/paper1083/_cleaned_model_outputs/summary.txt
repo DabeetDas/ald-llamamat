@@ -1,8 +1,0 @@
-{
-  "target_material": "Iridium and TiO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Ir(acac)3", "O2", "Ti(OMe)4", "H2O"],
-  "temperature_range": "225 °C for Iridium, 250 °C for TiO2",
-  "summary": "The study investigates the use of microcontact printed self-assembled monolayers (SAMs) of octadecyltrichlorosilane (OTS) as mask layers for selective-area atomic layer deposition (ALD) of iridium and titanium dioxide (TiO2). The SAMs were prepared using a PDMS stamp with 1.5 µm wide lines and spaces. The ALD processes were carried out at 225 °C for iridium and 250 °C for TiO2. The effectiveness of the SAMs in passivating the surface against ALD growth was evaluated using water contact angle measurements and confirmed by SEM and EDX analysis.",
-  "evidence": "Selective-area atomic layer deposition (ALD) was studied using microcontact printed self-assembled monolayers (SAM) as growth preventing mask layers. Iridium was grown at 225 °C and TiO2 at 250 °C. The quality of SAM was controlled by water contact angle measurements. Patterned iridium and TiO2 films were studied with field emission scanning electron microscope and energy dispersive X-ray spectrometer."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["Diethylzinc (DEZn)"],
-  "coreactants": ["H2S"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "Diethylzinc (DEZn) and H2S were used as the zinc source and sulfur source, respectively. One cycle of the ALD process consisted of 0.1 s DEZn pulsing, 15 s N2 purging, 0.2 s H2S pulsing, and 15 s N2 purging. N2 was used as a carrier and purging gas."
-}

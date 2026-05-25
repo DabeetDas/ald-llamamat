@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["RuO4", "H2"],
-  "temperature_range": "100°C",
-  "summary": "A low-temperature ALD process for depositing ruthenium at 100°C using RuO4 as the precursor and H2 as the reactant is reported. The process avoids thermal decomposition of the precursor by operating below the decomposition threshold, enabling conformal growth on various substrates with a high growth rate of 0.1 nm/cycle. The films exhibit low impurity content and good electrical properties.",
-  "evidence": "In this paper we report a low temperature (100°C) ALD process for Ru using the RuO4 precursor (ToRuS™) and H2 as the reactant. The thermal decomposition behaviour of the precursor in the range 50°C-250°C was investigated and it was found that thermal decomposition of RuO4 on RuO2 starts at a sample temperature of 125°C. The RuO4/H2 process (0.0045 mbar/4 mbar) was attempted at temperatures below this decomposition limit and it was found that ALD growth of pure Ru is possible in a narrow temperature window near 100°C. The growth rate during steady state growth was found to be 0.1 nm/cycle. The Ru film nucleated easily on a wide range of substrates (H-terminated Si, TiN, Pt and Al2O3). Although the films are grown at a low temperature, they are considerably pure and are of good quality as evidenced by a resistivity of 18 µΩ.cm for an 18 nm film and a relative atomic concentration of impurities < 5% as determined by XPS."
-}<|im_end|>

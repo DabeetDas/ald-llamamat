@@ -1,8 +1,0 @@
-{
-  "target_material": "Co (Cobalt)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["bis(1,4-ditert-butyl-1,3-diazadienyl)cobalt (Co(t-Bu2DAD)2)", "tertbutylamine (tBuNH2)"],
-  "temperature_range": "180 °C",
-  "summary": "The study demonstrates the ALD growth of ultra-thin Co layers on a granular topological insulator Sb2Te3, showing excellent conformality and structural continuity. The process uses thermal ALD with specific precursors and achieves a controlled growth rate, influenced by the substrate's chemical and structural properties. The Co layers exhibit different crystalline structures depending on the substrate, with hcp on Sb2Te3 and fcc on Pt, indicating substrate-induced epitaxy.",
-  "evidence": "The ALD of Co metal films was performed by alternating a saturative pulsing sequence of (1) (4 s), N2 purge (10 s), (2) (0.1 s) and N2 purge (10 s) at 180°C. The growth rate for Co/Sb2Te3 heterostructures was 0.5 Å/cycle and for Co on Pt was 0.35 Å/cycle. The Co layers showed different crystalline structures depending on the substrate, with hcp on Sb2Te3 and fcc on Pt."
-}

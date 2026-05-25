@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 53,
-  "density_g_cm3": 4.2,
-  "refractive_index": null,
-  "surface_roughness_nm": null,
-  "crystal_phase": "Amorphous",
-  "evidence": "The ZTO buffer layer is extremely beam sensitive as crystal growth is triggered by simple exposure to the electron beam. A few minutes are enough to crystallize the ZTO buffer layer completely. However, when the beam exposure is lowered to the strict minimum for a TEM image acquisition (15 –20 s), the sample where the ZTO buffer layer is deposited at 120 °C shows only a few crystals with sizes below 3 –4 nm, while the 180 °C sample demonstrates more crystals with a sizes around 5 –7 nm. The results in demonstrate that ALD ZTO films contain ZnO or ZnO (Sn) crystallites in the nanometer range, and that these increase in size when the deposition temperature and/or the zinc content increases. The results from the TEM investigations performed for this paper show that this also seems to be valid when ZTO is deposited on CIGS."
-}

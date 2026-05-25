@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "Surface transamination",
-  "main_precursors": ["TDMAT", "NH3"],
-  "temperature_range": "300 K",
-  "summary": "The study investigates the surface transamination reaction of TDMAT with NHX-terminated Si(100) surfaces at 300 K, which is the first step in the atomic layer deposition (ALD) of TiN on silicon. The reaction involves the elimination of dimethylamine and the attachment of Ti to the surface N atom. The process is thermodynamically favorable and is crucial for forming a well-defined Si/TiN interface.",
-  "evidence": "The reaction of TDMAT with NHX-terminated Si(100) surfaces at 300 K is followed by infrared (IR) spectroscopy, temperature-programmed desorption (TPD), and density functional calculations. Experimental observations suggest the occurrence of a surface transamination reaction, where an approaching TDMAT molecule reacts with a surface NHX site, eliminating dimethylamine and attaching Ti to the surface N atom."
-}

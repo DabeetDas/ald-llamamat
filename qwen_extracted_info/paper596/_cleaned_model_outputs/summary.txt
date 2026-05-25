@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum oxide (Al2O3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethylaluminum (TMA)", "water (H2O)", "ozone (O3)"],
-  "temperature_range": "200–450 °C",
-  "summary": "The study investigates the structural properties of thin ALD-deposited Al2O3 films on silicon oxide or silicon nitride interfaces, using water or ozone as oxidation precursors. The focus is on contamination, bonding conditions, and temperature effects on diffusion. The results show that silicon diffuses along grain boundaries, hydrogen and carbon are present at the interface, and ozone oxidation reduces carbon content. The study also compares different oxidation processes and interface layers.",
-  "evidence": "Aluminum oxide was deposited using atomic layer deposition on either a silicon oxide or a silicon nitride interface. Water vapor or ozone were used as oxidation precursors. The structural properties of these films were investigated by time-of-flight secondary-ion-mass-spectroscopy (ToF-SIMS), X-ray photoelectron spectroscopy (XPS) and elastic recoil detection (ERD). The results suggest that the silicon most likely diffused along grain boundaries of polycrystalline Al2O3. Carbon and hydrogen were located at the interface and furthermore hydrogen diffused out of the film to some extent due to anneal. Carbon content in the layer was reduced when using O3 as an oxidant."
-}

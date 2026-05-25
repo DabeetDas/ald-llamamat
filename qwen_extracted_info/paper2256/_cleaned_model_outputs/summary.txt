@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethyl aluminum (TMA)", "H2O"],
-  "temperature_range": "250 °C",
-  "summary": "The study investigates the use of ultrathin Al2O3 interlayers deposited by atomic layer deposition (ALD) to reduce gate leakage current in TiO2/Ge interfaces for scaled Ge-channel metal-oxide-semiconductor devices. The ALD-Al2O3 interlayer significantly reduces gate leakage by six orders of magnitude at flatband voltage, demonstrating its effectiveness in passivating the interface and enabling subnanometer equivalent oxide thickness.",
-  "evidence": "ALD-Al2O3 ILs of 0.8, 1.2, and 3 nm thicknesses were deposited at 250 °C from a trimethyl aluminum (TMA)/H2O process. The introduction of an ultrathin Al2O3 IL reduces the leakage current significantly, by approximately six orders of magnitude at the flatband voltage. The hysteresis of the capacitance-voltage curves was ±10 mV for TiO2/Al2O3/Ge capacitors with different Al2O3 thicknesses."
-}

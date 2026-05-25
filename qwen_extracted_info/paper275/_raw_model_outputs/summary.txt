@@ -1,8 +1,0 @@
-{
-  "target_material": "MgO, Al2O3, MgAl2O4",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["bis(cyclopentadienyl)magnesium (CP2Mg)", "triethylaluminum (TEAl)", "H2O"],
-  "temperature_range": "370~ to 1000~",
-  "summary": "The study describes the atomic layer deposition (ALD) of MgO, Al2O3, and MgAl2O4 thin films on silicon substrates using bis(cyclopentadienyl)magnesium, triethylaluminum, and H2O as precursors. The films were characterized for their structural and compositional properties, with a focus on the effects of substrate temperature on crystallinity and morphology. The results show that MgO films deposited above 500~ are polycrystalline, while those around 400~ are amorphous. The deposited Al2O3 and MgAl2O4 films were amorphous, and the study discusses the challenges in achieving stoichiometry for complex oxides through ALD.",
-  "evidence": "MgO, A1203 and MgA1204 thin films were deposited on silicon substrates at various temperatures by the atomic layer deposition (ALD) method using bis(cyclopentadienyl)magnesium, triethylaluminum, and H20 and were characterized systematically. High-quality polycrystalline MgO films were deposited for a substrate temperature above 500~ and amorphous thin films were deposited around 400~ The deposited A1203 and MgA1204 thin films were characterized as amorphous in structure. Applicability of ALD to complex oxides is discussed."
-}<|im_end|>

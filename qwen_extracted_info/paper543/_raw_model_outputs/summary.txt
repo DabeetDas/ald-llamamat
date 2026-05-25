@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["HfI4", "HfCl4", "H2O"],
-  "temperature_range": "300 8C",
-  "summary": "HfO2 films were grown using HfI4 and HfCl4 as metal precursors and H2O as an oxygen precursor at 300 8C. The films were analyzed for their structural and dielectric properties, showing differences in phase composition and electrical characteristics based on the precursor used. The study aimed to compare the effects of different precursors on the properties of HfO2 films for potential use in high-k gate oxide materials.",
-  "evidence": "Stoichiometric HfO films were atomic layer deposited from HfI and HfCl at 300 8C on p-Si (100 ) substrates. Water was in both cases used as an oxygen precursor. The films consisted dominantly of monoclinic HfO2 phase. The films grown from HfI were more resistant against breakdown. The films grown from either precursor contained 0.4 at.% of halide residues and 1.0–1.5 at.% hydrogen. Annealing in forming gas at 400 8C did not affect the film composition. The growth rate was somewhat more stable in the HfI based process."
-}<|im_end|>

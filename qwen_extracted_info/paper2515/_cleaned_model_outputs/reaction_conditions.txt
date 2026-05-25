@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The NH3 pulse plasma modifies Si and SiO2 surfaces to become Si–N and Si–O–N surfaces, suppressing the catalytic reaction of Si with WF6 and preventing the initial growth of the W layer. This allows for the successful growth of W–N films by forming a uniform distribution of N concentration and preventing Si diffusion through pinholes in the native oxide layer.",
-  "intermediate_species": ["Si–O–N", "NH radicals", "Si–N"],
-  "evidence": "The NH3 pulse plasma provides reactive radicals such as NH+, NH2+, NH3, and H+ at the initial stage. These radicals suppress the fast reaction of the Si catalytic element and WF6. Because the pinholes in native-oxide layer are passivated by the formation of Si–O–N, this nitridation process prevents the diffusion of Si through the pinholes, resulting in the successful growth of W–N film on the native-oxide layer."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "MoNx",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Mo(CO)6", "NH3"],
-  "temperature_range": "200–215 °C",
-  "summary": "The study investigates the hydrogen evolution reaction (HER) using atomic layer deposited MoNx on porous carbon substrates. The MoNx is deposited on carbon cloth (CC) and nitrogen-carbon powder modified carbon cloth (NCCC) using ALD. The as-deposited film shows a nanocrystalline characteristic close to amorphous with a composition of ~Mo2N. The MoNx/NCCC electrode exhibits the highest HER activity due to the high surface area and porosity of the NCCC substrate. Annealing at 400 °C improves both activity and durability, while annealing at 600 °C forms the Mo2C phase, further enhancing activity. The study highlights the importance of porosity and phase changes in the performance of Mo-based catalysts for HER.",
-  "evidence": "The as-deposited film shows a nanocrystalline characteristic close to amorphous. The film has a composition of ~Mo2N with noticeable oxygen contamination, mainly at the surface. The MoNx/NCCC shows the highest HER activity (overpotential, η of ~236 mV to achieve 10 mA cm-2geo) due to the high surface area and porosity of the NCCC substrate. Annealing at 400 °C improves both the activity and durability of the electrode without significant change in the phase and porosity. Whereas, annealing at an elevated temperature of 600 °C results in the formation of the Mo2C phase that further enhances the activity (η of ~196 mV to achieve 10 mA cm-2geo)."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylindium (TMI)"],
-  "coreactants": ["N2 plasma"],
-  "purge_gas": ["UHP Ar"],
-  "carrier_gas": ["UHP Ar"],
-  "evidence": "The reactor pressure was at 166 millitorr for a 30/100 sccm flow of UHP Ar. After each TMI pulse, the main pumping valve was stopped for 5 s to promote saturation of the surface by TMI molecules. Unreacted precursor and by products were removed by purging the chamber with UHP Ar for 10 s. A 20 s long, 300 W UHP N2 plasma pulse was used as a nitrogen precursor. To remove unreacted precursors, the deposition chamber was purged with UHP Ar for 10 s."
-}

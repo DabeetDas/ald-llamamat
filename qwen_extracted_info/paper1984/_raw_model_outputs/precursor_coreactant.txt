@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethyl indium (TMI)", "pure phosphine (PH3)"],
-  "coreactants": ["PH3", "TM1"],
-  "purge_gas": ["H2"],
-  "carrier_gas": ["H2"],
-  "evidence": "The growth of InP was carried out by alternately introducing the reactants into the reactor in cycles of PH3 and TM1 spaced by intervening H2 purge steps."
-}<|im_end|>

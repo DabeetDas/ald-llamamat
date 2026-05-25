@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Self-limiting growth occurs on the p-SiC(OO1) surface where silicon and carbon layers are deposited alternately. Silicon growth by SiH4 exposure at 1050°C onto a carbon-terminated surface stops at 1.3 ML, forming a (3 x 2) silicon-covered surface. Similarly, carbon growth by C2H2 exposure onto a silicon-covered (3 x 2) surface stops at about 1 ML, forming a c(2 x 2) carbon surface. This suggests that the growth is self-limiting, with each monolayer deposition stopping at one monolayer.",
-  "intermediate_species": ["silicon monolayer", "carbon monolayer", "additional silicon dimer layer", "additional carbon dimer layer"],
-  "evidence": "The saturation of the composition in the (3 X 2) region suggests silicon self-limiting growth on the carbon-terminated (2 x 2) surface. The saturation of the composition in the (2 x 2) region suggests the carbon self-limiting growth on the silicon-covered (3 X 2) surface. The desorption of the additional silicon dimers may be attributed to their weak bonding between the additional silicon atoms and the silicon atoms underneath them."
-}

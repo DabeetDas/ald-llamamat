@@ -1,8 +1,0 @@
-{
-  "target_material": "SnO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["SnCl4", "H2O2"],
-  "temperature_range": "250–400 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of SnO2 on ZrO2 and Al nanoparticles using SnCl4 and H2O2 as precursors. The ALD process was performed in a fluidized bed reactor at temperatures ranging from 250 to 400 °C. The SnO2-coated Al nanoparticles showed enhanced reactivity compared to uncoated Al nanoparticles, although the Sn mass percent was lower than expected, indicating challenges in achieving stoichiometric coatings. The results highlight the utility of ALD for creating enhanced thermite materials by coating oxidizers on fuel nanoparticles.",
-  "evidence": "The SnO2 ALD was performed in a small, hot wall, vertical fluidized bed reactor. The growth temperatures used in this study were 250 or 350 °C. The report describes the growth rate of SnO2 using SnCl4 and H2O2 as 0.35 Å/AB cycle at growth temperatures of 250–400 °C. The study also mentions that the SnO2-coated Al nanoparticles reacted much more quickly and violently than the uncoated Al particles."
-}<|im_end|>

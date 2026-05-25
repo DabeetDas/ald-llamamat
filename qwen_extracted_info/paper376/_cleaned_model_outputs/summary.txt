@@ -1,8 +1,0 @@
-{
-  "target_material": "silicon dioxide (SiO2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["H3SiNCO", "ozone"],
-  "temperature_range": "room temperature",
-  "summary": "The study explores the use of isocyanate compounds for atomic layer deposition (ALD) of silicon dioxide (SiO2). It focuses on improving the deposition rate and uniformity by using new isocyanate compounds, such as H3SiNCO, which offer better layer-by-layer deposition characteristics compared to traditional precursors like Si(NCO)4. The process involves alternating exposure of the precursor and ozone, leading to chemisorption and oxidation steps that form Si-O-Si bonds and an OH-terminated surface. The results show improved deposition rates and film properties.",
-  "evidence": "Based on the first result of the layer-by-layer deposition of silicon dioxide films by a cyclic exposure of water and tetra isocyanate silane, Si(NCO)4, new isocyanate compounds preferable to Si(NCO)4 have been proposed for ideal layer-by-layer deposition characteristics. Superior AL-CVD kinetics of alternative exposure of H3SiNCO and ozone can be visualized in Fig. 1. The deposition rate is shown in Fig. 3 by a solid curve together with results (sharp curve) of TICS experiments. The authors concluded that oxidation should be done satisfactorily, and H3SiNCO is the most preferable among the proposed substances because it is the smallest in size and oxidized easily."
-}

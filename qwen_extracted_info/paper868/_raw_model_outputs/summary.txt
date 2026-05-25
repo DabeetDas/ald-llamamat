@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu2S",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Bis(N,N'-disec-butylacetamidinato)dicopper(I) (CuAMD)", "1% H2S"],
-  "temperature_range": "135 °C",
-  "summary": "Cu2S thin films were prepared by atomic layer deposition (ALD) on networks of single-walled carbon nanotubes (SWCNTs) to create core-shell SWCNT-n-Cu2S composites. These composites showed excellent stability as LIB cathodes, achieving >99% Coulombic efficiency and 92% theoretical capacity over 200 cycles.",
-  "evidence": "C15 Cu2S thin ﬁlms were prepared by atomic layer deposition. These nanocomposites showed excellent stability as LIB cathodes. >99% Coulombic ef ﬁciency and 92% theoretical capacity were achieved over 200 cycles."
-}<|im_end|>

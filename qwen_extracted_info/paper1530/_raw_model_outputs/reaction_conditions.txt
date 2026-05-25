@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves alternating pulses of precursor chemicals, with self-limiting surface chemistry due to ligand groups on the precursor molecules. Each precursor pulse is separated by purging with an inert gas to avoid gas-phase reactions, ensuring all chemical reactions occur on the film surface. The surface reaction mechanism involves the substitution of ligands with sulfur from H2S.",
-  "intermediate_species": ["ligands from Pb(tmhd)2", "surface hydroxyls", "sulfur from H2S"],
-  "evidence": "The surface reaction mechanism involves the substitution of ligands with sulfur from H2S. The text states, 'the lack of any organic contamination in the film indicates that the ALD surface reaction was complete, and the ligands were completely substituted for by sulfur from the H2S.'"
-}<|im_end|>

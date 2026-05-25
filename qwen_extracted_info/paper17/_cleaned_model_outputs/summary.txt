@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Diethylzinc (DEZ)", "Water (H2O)"],
-  "temperature_range": "177 8C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of ZnO films on SiO2 and TiO2 nanoparticles using a fluidized bed reactor. The process involves the use of diethylzinc (DEZ) and water as precursors at 177 8C. The deposited ZnO films enhance the UV-absorbing properties of the nanoparticles, making them suitable for sunscreen and cosmetic applications. The films are conformal, pinhole-free, and optically smooth, with the ability to be tuned for specific optical properties through thermal annealing.",
-  "evidence": "Atomic layer deposition (ALD) was used to apply conformal, nanothick ZnO coatings on particle substrates using a fluidized bed reactor. Diethylzinc (DEZ) and water were used as precursors at 177 8C. Observed growth rates were ca. 2.0 A˚ /cycle on primary particles as verified by HRTEM. ICP-AES and XPS were used to quantify Zn:substrate ratios. Layers of 6, 18, and 30 nm were deposited on 550 nm SiO2 spheres for UV blocking cosmetics particles. TiO2 nanoparticles were coated in the second part of this work by ZnO shells of 2, 5, and 10 nm thickness as novel inorganic sunscreen particles."
-}

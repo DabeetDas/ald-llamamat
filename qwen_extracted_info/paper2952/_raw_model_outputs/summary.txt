@@ -1,8 +1,0 @@
-{
-  "target_material": "HfSiO4",
-  "process_type": "ALD",
-  "main_precursors": ["HfCl4", "NH2(CH2)3Si(OC2H5)3"],
-  "temperature_range": "300°C",
-  "summary": "The study reports on the deposition of HfSiO4 dielectric layers using atomic layer deposition (ALD) with HfCl4 and NH2(CH2)3Si(OC2H5)3 as precursors. Two processes with different precursor pulse ratios (5:1 and 1:1) were investigated. The layers were characterized for their physical and electrical properties, including k-values, leakage currents, and crystallization behavior. Postdeposition annealing was found essential for optimizing stoichiometry and reducing leakage currents.",
-  "evidence": "The physical and electrical properties of HfSiO4 dielectric layers deposited by atomic layer deposition (ALD) are reported. The precursor chemistries used for deposition were HfCl4/H2O for HfO2 and NH2(CH2)3Si(OC2H5)3/O3 for SiO2. Two processes with HfCl4:NH2(CH2)3Si(OC2H5)3 precursor pulse ratios of 5:1 (''HfO2-rich'') and 1:1 (''SiO2-rich'') are investigated. ... It is concluded that postdeposition annealing of HfSiO4 layers for application as gate dielectrics applications in advanced complementary MOS technologies is essential to optimize stoichiometry and reduce leakage currents."
-}<|im_end|>

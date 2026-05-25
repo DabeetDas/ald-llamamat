@@ -1,8 +1,0 @@
-{
-  "target_material": "Au/TiO2",
-  "process_type": "ALD",
-  "main_precursors": ["tetramethyl orthosilicate (TMOS)", "water vapor"],
-  "temperature_range": "150 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to modify Au/TiO2 catalysts with amorphous SiO2. The process involves alternating exposures to TMOS and water vapor at 150 °C. The SiO2 coating was found to stabilize gold nanoparticles against sintering and alter catalytic activities in CO and H2 oxidation. The results indicate that the ALD method can be used to create complex metal-support and metal-modifier interfaces, which can influence catalytic performance.",
-  "evidence": "Atomic layer deposition (ALD) was utilized for the surface engineering of metallic nanoparticles to tame their sintering problems and catalytic activities. ... The ALD-based approach described in the current work may open up a new avenue for the construction of versatile model catalysts with complex metal-support, metal-modifier, and modifier-support interfaces."
-}

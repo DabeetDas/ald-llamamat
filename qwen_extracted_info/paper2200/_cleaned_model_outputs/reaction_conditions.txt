@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["surface hydroxyls", "formate species"],
-  "evidence": "The ALD process involves the reaction of TMA with the hydrophilic endgroup until the surface is completely passivated. Unreacted reagents are pumped away. Water vapor is pulsed onto the system, reacting with the surface, forming aluminum-oxygen bridges. Steps (b) and (c) are then repeated to create an Al2O3 layer of the desired thickness."
-}

@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 25,
-  "density_g_cm3": null,
-  "refractive_index": "1.34 at 633 nm",
-  "surface_roughness_nm": 3.32,
-  "crystal_phase": "tetragonal",
-  "evidence": "The refractive index was modeled by fitting a three parameter transparent Cauchy model to multiangle SE data. An example of this fitting procedure is shown in Fig. 6 for a 24 nm thick MgF2 film deposited at 250 /C14 C. The resulting values of refractive index versus wavelength for several substrate temperatures are shown in Fig. 7. At all deposition temperatures, optical models that included nonzero values of the extinction coefficient did not improve the quality of the ellipsometric fit suggesting that, within the range of this measurement, these materials are highly transparent. It is noted that extinction coefficient values between 0 and 0.01 are difficult to differentiate in these measurements, and this uncertainty places an upper limit of 4% absorptance at 190 nm for the thicker films evaluated in this paper. The high-quality of the fit, combined with the simplicity of the optical model used, also suggests good overall optical behavior. Recent reflectivity analysis of the same ALD MgF2 materials at shorter wavelengths confirms this good behavior well into the FUV. 8"
-}

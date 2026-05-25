@@ -1,8 +1,0 @@
-{
-  "target_material": "Gd xHf1−xOy",
-  "process_type": "ALD",
-  "main_precursors": ["tris(isopropylcyclopentadienyl)gadolinium (Gd(iPrCp)3)", "HfCl4"],
-  "temperature_range": "300°C",
-  "summary": "Gd xHf1−xOy thin films were deposited by atomic layer deposition using tris(isopropylcyclopentadienyl)gadolinium (Gd(iPrCp)3) and HfCl4 with H2O as an oxidizer. The growth curves showed nearly ideal ALD behavior. The films crystallized into a cubic/tetragonal HfO2-like phase during spike or laser annealing up to 1300°C. The dielectric constant reached a maximum of 36 for x = 0.11.",
-  "evidence": "GdxHf1−xOy thin films were deposited by ALD using tris(isopropylcyclopentadienyl)gadolinium (Gd(iPrCp)3) and HfCl4 with H2O as an oxidizer. The growth curves showed nearly ideal ALD behavior. The films crystallized into a cubic/tetragonal HfO2-like phase during spike or laser annealing up to 1300°C. The dielectric constant reached a maximum of 36 for x = 0.11."
-}

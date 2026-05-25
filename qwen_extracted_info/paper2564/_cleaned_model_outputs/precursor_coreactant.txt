@@ -1,7 +1,0 @@
-{
-  "precursors": ["(CpMe)2ZrMe2", "(CpMe)2Zr(HMe)Me", "(CpMe)2Hf(HMe)Me"],
-  "coreactants": ["O3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "ZrO2 and reference HfO2 films grown by atomic layer deposition from metal cyclopentadienyls and ozone as precursors to thicknesses ranging from 3.6 to 13.1 nm on etched silicon showed electrical characteristics adequate to high-k dielectrics. The best results in terms of low interface state densities were obtained when (CpMe)2ZrMe2 precursor was used, with Cp denoting the cyclopentadienyl group (C5H5), and Me the methyl group (CH3). The ZrO2 films grown from (CpMe)2Zr(HMe)Me possessed nearly an order of magnitude higher trap state densities. Similar dependence on the precursor chemistry was observed upon recording the flatband voltage time transients. The flatband voltage transients, originating from phonon-assisted tunneling between localized states at oxide silicon interface, were the lowest in HfO2 films grown from (CpMe)2Hf(HMe)Me. The leakage current densities were also lower in the HfO2 films, compared to ZrO2. On the other hand, interfacial trap state densities in HfO2 based capacitors remained higher than those measured in the case of ZrO2 films. Process-dependent qualities of the capacitors have been described. At the same time, the current conduction mechanisms in all films were essentially bulk driven, not affected noticeably by the interfacial barriers."
-}

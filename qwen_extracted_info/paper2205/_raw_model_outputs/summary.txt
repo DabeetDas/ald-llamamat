@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "plasma-assisted ALD",
-  "main_precursors": ["Al(CH3)3", "O2 plasma"],
-  "temperature_range": "25–150 °C",
-  "summary": "The study investigates the surface chemistry of plasma-assisted atomic layer deposition (ALD) of Al2O3 using infrared spectroscopy. It reveals that –CH3 and –OH surface groups are dominant after the Al(CH3)3 and O2 plasma half-cycles, respectively. The results show that –OH groups govern the surface chemistry, and the process allows for deposition at lower temperatures without compromising film quality. The study also addresses impurity incorporation and the influence of deposition temperature on surface species.",
-  "evidence": "The surface groups created during plasma-assisted atomic layer deposition (ALD) of Al2O3 were studied by infrared spectroscopy. For temperatures in the range of 25–150 °C, –CH3 and –OH were unveiled as dominant surface groups after the Al(CH3)3 precursor and O2 plasma half-cycles, respectively. At lower temperatures more –OH and C-related impurities were found to be incorporated in the Al2O3 film, but the impurity level could be reduced by prolonging the plasma exposure. The results demonstrate that –OH surface groups rule the surface chemistry of the Al2O3 process and likely that of plasma-assisted ALD of metal oxides from organometallic precursors in general."
-}<|im_end|>

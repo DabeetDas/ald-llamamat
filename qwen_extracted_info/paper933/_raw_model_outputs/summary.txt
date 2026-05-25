@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2 and Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["Hf[N(CH3)2]4", "H2O", "Al(CH3)3"],
-  "temperature_range": "70 /C176C to 400 /C176C",
-  "summary": "The study investigates the ALD of HfO2 using Hf[N(CH3)2]4 and H2O, and the ALD of Al2O3 using Al(CH3)3 and H2O. In situ FTIR and NIR-TDLAS techniques are employed to monitor gas phase products, revealing the formation of dimethylamine (HN(CH3)2), CH4, CO, and HCN. The gas phase chemistry is shown to influence the growth process and material quality, with temperature affecting the concentration of by-products.",
-  "evidence": "The focus of this paper is the application of Fourier transform infrared spectroscopy (FTIR) and near infrared-tuneable diode laser spectroscopy (NIR-TDLAS) as in situ tools to monitor the formation of gas phase products during atomic layer deposition (ALD). The ALD reactor utilized in this study was based on a home built cross flow system that has been previously used to grow excellent quality HfO2. The production of these small molecules at elevated temperatures is not too surprising. However, whether their appearance plays a distinct role in determining the nature of the deposited oxide remains to be established."
-}<|im_end|>

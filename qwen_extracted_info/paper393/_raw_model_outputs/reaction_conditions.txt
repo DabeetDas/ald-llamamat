@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption and decomposition of trimethylgallium (TMG) on a methyl-terminated GaAs surface. The decomposition of TMG leads to the formation of a Ga metal surface, and the methyl groups desorb, forming a metastable methyl-terminated surface. The self-limitation in ALE is due to the inhibited adsorption of excess TMG molecules on the methyl-terminated surface, not selective adsorption. The desorption of methyl groups is a key step, and the stability of the methyl-terminated surface is supported by the observed reflectivity changes during hydrogen purging.",
-  "intermediate_species": ["methyl groups", "Ga metal surface", "metastably methyl-terminated surface", "monomethylgallium"],
-  "evidence": "The text describes the adsorption and decomposition of TMG on a methyl-terminated GaAs surface, leading to the formation of a Ga metal surface. The desorption of methyl groups is discussed, and the stability of the methyl-terminated surface is supported by the observed reflectivity changes during hydrogen purging. The self-limitation in ALE is attributed to the inhibited adsorption of excess TMG molecules on the methyl-terminated surface."
-}<|im_end|>

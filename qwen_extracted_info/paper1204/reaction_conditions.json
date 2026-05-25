@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The reducing agent BH3(NHMe2) reacts on the Ag surface and forms even more reducing species than itself. This effect was also observed on Ru surfaces, where BH3(NHMe2) decomposes to form reactive surface groups such as [Me2NBBH2]2 and H2, which are more reducing than BH3(NHMe2) itself.",
-  "intermediate_species": [
-    "[Me2NBBH2]2",
-    "H2"
-  ],
-  "evidence": "According to the observation on the enhancement of the Ag growth when BH3(NHMe2) was in contact with Ru, and literature references 15,16 it is likely that BH3(NHMe2) adsorbs on Ru and reacts. Not only reductive surface groups are formed on the catalytic surface, but also species that desorb from the Ru surface are created. These species can be transported into the ALD reaction chamber. Because the Ru catalyst caused enhancement of the growth, desorbed species appear to be even more reactive (or reducing) than BH3(NHMe2) itself. Considering the literature concerning BH3(NHMe2)24, formation of [Me2NBBH2]2 and H2 on Ru and Ag surface can be proposed."
-}

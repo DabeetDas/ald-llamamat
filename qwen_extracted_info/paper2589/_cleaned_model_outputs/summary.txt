@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium phosphate",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["Titanium tetrachloride (TiCl4)", "Trimethylphosphate ((MeO)3PO)", "Water (H2O)"],
-  "temperature_range": "150–300 °C",
-  "summary": "Titanium phosphate was deposited on silica nanoparticles using atomic layer deposition (ALD) with titanium tetrachloride (TiCl4), trimethylphosphate ((MeO)3PO), and water (H2O) as precursors. The process was studied under varying temperatures and pulse sequences, with the sequence TiCl4-H2O-(MeO)3PO-H2O showing self-limiting growth at 200 °C and lower chlorine incorporation. The surface area of the silica decreased significantly after coating with titanium phosphate.",
-  "evidence": "Titanium phosphate was deposited on silica nanoparticles by atomic layer deposition (ALD). The precursors were titanium tetrachloride (TiCl4), trimethylphosphate ((MeO)3PO), and water. Depositions were done at 150–300 /C14 C employing a variety of pulse sequences which altered the self-limiting deposition process. Using the pulse sequence TiCl4-H2O-(MeO)3PO-H2O, the process was self-limiting at 200 /C14 C, and /C20 0.3 at.% Cl was incorporated into the material."
-}

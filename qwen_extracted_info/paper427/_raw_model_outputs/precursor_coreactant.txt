@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMGa"],
-  "coreactants": ["arsine"],
-  "purge_gas": ["hydrogen"],
-  "carrier_gas": ["hydrogen", "nitrogen"],
-  "evidence": "The growth sequence in this paper is characterized by a sequence of exposurelflush times (in seconds). For example, a growth that uses a III exposure time of 2 seconds, a V exposure time of 5 seconds, and 1 second purge times would be characterixed as a (2-l-S-l) sequence. The gas source system utilized for these studies consisted of an atmospheric vent/run MOCVD system which employs a pressure transducer and hydrogen makeup line to eliminate gas concentration fluctuations. The growth reactor is a small-volume rectangular tube which is water cooled at the top to promote laminar gas flow. The data showing the dependence of growth rate upon TMGa flow is shown in Fig.3. Note tbt the growth rate at 500°C is less than one monolayer per cycle in N2 whereas in H2 the growth rate at this temperature is no longer saturated. The decomposition rate of TMGa in N2 is lower than in H2 due to the reeluced reactivity of N2 and its smaller thermal conductivity. The data of Figures 1 and 2 suggest that although surface reactions may dominate the growth rate, gas phase reaction likely play a role in the III deposition step. To provide additional information about the role of gas phase reactions in atmospheric pressure ALE, growth of GaAs in a nitrogen environment was undertaken."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "300 8C",
-  "summary": "The study investigates the influence of Si(100) surface pretreatment on the morphology of TiO2 films grown by atomic layer deposition (ALD). The films were deposited at 300 8C using TiCl4 and H2O as precursors. The morphology of the films was found to depend on the initial surface treatment, with hydrophilic surfaces leading to continuous amorphous films that crystallized during growth, while hydrophobic surfaces resulted in island growth of small crystalline grains. Water plasma treatment of the Si surface increased hydroxyl groups, which influenced the film growth.",
-  "evidence": "TiO films have been deposited on surface-treated Si substrates by ALD, employing TiCl and H O as reac-42 tants w7,8x. The film morphology was found to depend on the nature of the initial surface. The film on a water plasma treated surface (crystallite size range 150–300 nm) more closely resembles that deposited on an RCA-cleaned surface, indicating that hydroxyl groups are directing the morphology of the film."
-}<|im_end|>

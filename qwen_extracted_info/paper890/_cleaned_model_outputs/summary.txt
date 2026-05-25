@@ -1,8 +1,0 @@
-{
-  "target_material": "tungsten nitride carbide (WNC) and tantalum nitride (TaN)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["triethylborane (TEB)", "tungsten hexafluoride (WF6)", "ammonia (NH3)", "pentakis(dimethylamido)tantalum (PDMAT)"],
-  "temperature_range": "300 /C176C for WNC and 275 /C176C for TaN",
-  "summary": "The study investigates the atomic layer deposition (ALD) of tungsten nitride carbide (WNC) and tantalum nitride (TaN) on various dielectric substrates (SiC, SiO2, SiON) using X-ray reflectivity (XRR) to analyze interface properties and density variations. The process involves sequential delivery of precursors and is sensitive to substrate chemistry, with the goal of understanding the relationship between surface chemistry, interface properties, and film density.",
-  "evidence": "The text describes the ALD process of WNC and TaN on different substrates, including the use of specific precursors and temperature ranges. It also mentions the use of XRR to study the resulting structures and their density variations."
-}

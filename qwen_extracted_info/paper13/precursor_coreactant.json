@@ -1,9 +1,0 @@
-{
-  "precursors": [],
-  "coreactants": [],
-  "purge_gas": [],
-  "carrier_gas": [],
-  "evidence": null,
-  "_error": "ValueError: Could not parse model output as JSON. Preview: '[\"TiCl4\", \"Ti(OEt)4\", \"Ti(OiPr)4\", \"ZrCl4\", \"HfCl4\", \"Zr(OtBu)4\", \"Hf(OtBu)4\", \"Zr(thd)4\", \"Hf(thd)4\", \"Zr(NEtMe)4\", \"Hf(NEtMe)4\", \"Zr(NMe2)4\", \"Hf(NMe2)4\", \"Zr(NEt2)4\", \"Hf(NEt2)4\", \"ZrCl2[N(SiMe3)2]2\", \"HfCl2[N(SiMe3)2]'",
-  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 257, in precurosr_coreactant_purge_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '[\"TiCl4\", \"Ti(OEt)4\", \"Ti(OiPr)4\", \"ZrCl4\", \"HfCl4\", \"Zr(OtBu)4\", \"Hf(OtBu)4\", \"Zr(thd)4\", \"Hf(thd)4\", \"Zr(NEtMe)4\", \"Hf(NEtMe)4\", \"Zr(NMe2)4\", \"Hf(NMe2)4\", \"Zr(NEt2)4\", \"Hf(NEt2)4\", \"ZrCl2[N(SiMe3)2]2\", \"HfCl2[N(SiMe3)2]'\n"
-}

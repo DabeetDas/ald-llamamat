@@ -1,8 +1,0 @@
-{
-  "target_material": "Indium nitride (InN)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tris(N,N-dimethyl-N',N''-diisopropylguanidinato)indium(III)", "tris(N,N'-diisopropylamidinato)indium(III)", "tris(N,N'-diisopropylformamidinato)indium(III)"],
-  "temperature_range": "200-300 °C",
-  "summary": "The study investigates the Atomic Layer Deposition (ALD) of InN using In precursors with bidentate ligands forming In–N bonds. The size of the substituent in the endocyclic position of the ligand backbone affects the film quality, with smaller substituents leading to higher crystallinity, lower roughness, and an In/N ratio closer to unity. The results suggest that smaller substituents reduce steric hindrance and improve surface chemistry for the nitridation step in the ALD cycle.",
-  "evidence": "The study shows that when the size of the substituent decreases, InN films with higher crystallinity and optical quality, lower roughness and an In/N ratio closer to unity is achieved. The smaller substituents lead to less steric repulsion and weaker bonds between the ligand and In centre, which renders a more favorable surface chemistry for the nitridation step in the ALD cycle."
-}

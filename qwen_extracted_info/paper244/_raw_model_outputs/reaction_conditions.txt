@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions for ALD of Pt involve the use of (methylcyclopentadienyl) trimethylplatinum (MeCpPtMe3) and oxygen as precursors. The functional groups on the acid-treated carbon substrates provide reactive sites for the surface reactions, enabling the deposition of Pt nanoparticles. The surface functional groups are consumed during the ALD process, leading to a saturation effect in Pt loading.",
-  "intermediate_species": ["functional groups on carbon substrates"],
-  "evidence": "Since the ALD process takes place by surface reactions, the surface condition of the substrate determined whether or not the reactions occurred. It was observed that Pt could not be deposited on carbon cloth without acid treatment, as shown in Figure 2a. After acid treatment, Pt particles could then be deposited as white dots, as shown in Figure 2b. This could be ascribed to the presence of some surface functional groups that provide reactive sites for surface reactions."
-}<|im_end|>

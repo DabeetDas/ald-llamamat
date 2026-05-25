@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 45,
-  "density_g_cm3": null,
-  "refractive_index": null,
-  "surface_roughness_nm": 1.38,
-  "crystal_phase": "hcp",
-  "evidence": "The films appear grainy and coarse, and the grain size increases with the number of cycles. In addition, the root-mean-square (rms) surface roughness increases from 0.24 nm (12 cycles) to 1.38 nm (24 cycles). X-ray diffraction analysis reveals that the film structure is hexagonal close packed (hcp) expected for pure Ru."
-}

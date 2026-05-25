@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ge(guan)NMe2", "Te(SiMe3)2"],
-  "coreactants": ["NH3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The Ge and Te precursors were heated to 65 and 35 °C, respectively, where 0.079 and 1 Torr vapor pressures were achieved. The precursors were carried to the ALD chamber by the Ar carrier gas at a flow rate of 50 standard cubic centimeters per min (sccm). For the purge process, 200 sccm Ar gas was used."
-}

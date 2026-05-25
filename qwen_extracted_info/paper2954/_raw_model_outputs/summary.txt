@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "plasma-enhanced ALD (PEALD)",
-  "main_precursors": ["Ti(OCH(CH3)2)4 (TTIP)", "water", "O2 and N2 plasma"],
-  "temperature_range": "250°C",
-  "summary": "The study describes the deposition of TiO2 films using plasma-enhanced atomic layer deposition (PEALD) with a mixture of O2 and N2 plasma. The process improves film uniformity, growth rate, and electrical properties compared to conventional ALD. The plasma process enhances precursor adsorption and suppresses surface roughening, leading to better film quality and interface properties.",
-  "evidence": "High-quality TiO2 films were grown at 250°C by plasma-enhanced atomic layer deposition (ALD) with a mixture of O2 and N2 plasma for the first time. The films exhibited an improved uniformity of within 63%, a reliable growth rate of 0.042 nm/cycle, and improved electrical properties, including dielectric constant and leakage current compared to those prepared by conventional ALD. In particular, the plasma process enhanced the rate of adsorption of precursors during the initial growth stage by generating new active functional groups and the surface roughening was suppressed."
-}<|im_end|>

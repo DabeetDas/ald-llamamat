@@ -1,8 +1,0 @@
-{
-  "target_material": "In2S3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["indium acetylacetonate (In(CH3COCHCOCH3)3)", "hydrogen sulphide (H2S)"],
-  "temperature_range": "210 8C",
-  "summary": "The study investigates the stability of Cd-free Cu(In,Ga)Se2 solar modules with an In2S3 buffer layer deposited by atomic layer deposition (ALD). The ALD process was performed at 210 8C using indium acetylacetonate and hydrogen sulphide as precursors. The results show comparable stability to CdS buffer layers, reinforcing In2S3 as a promising buffer material for high-efficiency CIGS modules.",
-  "evidence": "The ALD process was performed in an ASM microchemistry F-450 reactor at a deposition temperature of 210 8C without any pretreatment of the CIGS films. Source precursors were indium acetylacetonate In(CH3COCHCOCH3)3 and hydrogen sulphide H2S."
-}<|im_end|>

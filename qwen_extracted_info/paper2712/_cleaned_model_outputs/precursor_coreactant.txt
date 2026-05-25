@@ -1,7 +1,0 @@
-{
-  "precursors": ["barium bis(triisopropylcyclopentadienyl)", "strontium bis(triisopropylcyclopentadienyl)", "tetrakis(dimethylamino) tin"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["argon"],
-  "carrier_gas": ["argon"],
-  "evidence": "Ultrahigh purity argon was used as both carrier and purge gas for the ALD chamber. Tetrakis(dimethylamino) tin {Sn[N(CH3)2]4} (TDMASn, Strem Chemicals, Inc.), barium bis(triisopropylcyclopentadienyl) [Ba(iPr3Cp)2] (HyperBa, Air Liquide), and strontium bis(triisopropylcyclopentadienyl) [Sr(iPr3Cp)2] (HyperSr, Air Liquide) were utilized as the precursors for Sn, Ba, and Sr, respectively."
-}

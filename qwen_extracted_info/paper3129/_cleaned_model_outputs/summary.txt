@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2 and HfO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tetrakis(dimethylamido)hafnium(IV)", "tetrakis(dimethylamido)zirconium(IV)"],
-  "temperature_range": "250°C",
-  "summary": "The study describes the fabrication of highly ordered zirconia and hafnia nanotubes using atomic layer deposition (ALD) within an anodic aluminum oxide (AAO) template. The ALD process was used to deposit ZrO2 and HfO2 at 250°C using water vapor as the oxidant and tetrakis(dimethylamido)hafnium(IV) and tetrakis(dimethylamido)zirconium(IV) as precursors. The number of ALD cycles controlled the nanotube wall thickness, and the process conformally replicated the AAO template dimensions. The results showed that the ALD technique can produce uniform and conformal coatings within the nanopores of the AAO template.",
-  "evidence": "The ZrO2 and HfO2 deposition was done at 250°C using water vapor as the oxidant and tetrakis(dimethylamido)hafnium(IV) and tetrakis(dimethylamido)zirconium(IV) as the precursor, respectively. The ALD process conformally replicated the AAO template dimensions. The number of ALD cycles controlled the resultant nanotube wall thickness."
-}

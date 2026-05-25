@@ -1,8 +1,0 @@
-{
-  "target_material": "Lead sulfide (PbS)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Pb(tmhd)2", "H2S"],
-  "temperature_range": "140 /C176 C",
-  "summary": "Lead sulfide (PbS) thin films were deposited by atomic layer deposition (ALD) for quantum confinement structures. The films exhibited a linear growth rate of 0.9 A˚/cycle and were characterized by XPS, XRD, AFM, and STM. The bandgap was modified through quantum confinement by depositing sub-10 nm films on a thermally grown SiO2 layer, with bandgap values ranging from 0.4 to 2.75 eV by varying the number of ALD cycles.",
-  "evidence": "Lead sulfide (PbS) thin films were deposited by atomic layer deposition (ALD) for the fabrication of quantum well structures. A linear growth rate of 0.9 A ˚/cycle and pulse saturation behavior characteristic of ALD were observed. The stoichiometry of the films was confirmed using X-ray photoelectron spectroscopy (XPS) with no chemical contamination. The polycrystalline film morphology was observed with grain sizes ranging from 30 to 150 nm. Size quantization effects are shown on the bandgap by fabricating PbS quantum wells with a sub-10 nm thickness. Bandgap values were measured by tunneling spectroscopy (TS) using scanning tunneling microscopy (STM) and are matched to an effective mass model. The bandgap of the films was changed from 0.4 to 2.75 eV by varying only the number of ALD cycles."
-}

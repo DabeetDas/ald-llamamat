@@ -1,8 +1,0 @@
-{
-  "target_material": "AlN",
-  "process_type": "PEALD",
-  "main_precursors": ["Trimethylaluminum (TMA)", "N2-H2 gas mixture"],
-  "temperature_range": "300°C",
-  "summary": "The study investigates the effect of substrate biasing during plasma-enhanced atomic layer deposition (PEALD) on the quality of aluminum nitride (AlN) films deposited on silicon substrates. The results show that applying a substrate bias of 5W significantly improves the AlN film quality by increasing the number of N-Al bonds, enhancing permittivity, and reducing leakage current density. The use of substrate biasing during PEALD is highlighted as a promising strategy for improving AlN film properties.",
-  "evidence": "The use of substrate biasing during PEALD is thereby a promising strategy for the improvement of AlN film quality. ... The AlN film quality can be significantly improved. Indeed, compared to films commonly deposited without bias, AlN deposited with a platen power of 5W displays a 14% increase in the number of N-Al bonds according to X-Ray spectroscopy analysis. Moreover, after having integrated them into Metal-AlN-Si capacitors, the 5W AlN film exhibits a permittivity increase from 4.5 to 7.0 along with a drastic drop of leakage current density of more than 5 orders of magnitude."
-}<|im_end|>

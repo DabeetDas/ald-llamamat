@@ -1,8 +1,0 @@
-{
-  "target_material": "TiCxNy",
-  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["H2", "CH4", "NH3"],
-  "temperature_range": "100°C ∼ 300°C",
-  "summary": "The study investigates the deposition of TiCxNy films using PEALD with H2/CH4 reactive gas, comparing it with H2 and NH3 PEALD. The process involves controlling CH4 concentration, plasma power, and substrate temperature to optimize film properties such as resistivity, crystallinity, and work function. The results show that CH4 enhances TiC phase formation, reduces resistivity, and suppresses oxygen uptake, leading to lower work function and improved conductivity.",
-  "evidence": "H2/CH4 mixture gas was introduced as a reactive gas for plasma enhanced atomic layer deposition (PEALD) to deposit TiCxNy film as a gate electrode, and it was compared with H2 and NH3 PEALD. CH4 stimulated the formation of TiC phase and suppressed the post deposition oxygen uptake to give similarly conductive film as NH3 PEALD but with lower work function. The resistivity of the TiCxNy film was decreased with the increase of the plasma power and substrate temperature due to the change in film composition and crystallinity."
-}

@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The data suggests a latent period on the surface during which the adsorbed species inhibit further adsorption at coverage below one monolayer. This inhibiting effect is attributed to steric hindrance by the initial adsorbates. The large physical size of the adsorbates prevents additional adsorption on neighboring sites until it has decomposed on the surface to release one or more of its alkyls or until it has desorbed without further reaction.",
-  "intermediate_species": [
-    "adsorbates",
-    "alkyls"
-  ],
-  "evidence": "The data of Figs. 2 and 3 suggest that there is a latent period on the surface during which the adsorbed species inhibit further adsorption at coverage below one monolayer. We believe this inhibiting effect is the result of steric hindrances by the initial adsorbates. The large physical size of the adsorbates prevents additional adsorption on neighboring sites until it has decomposed on the surface to release one or more of its alkyls or until it has desorbed without further reaction."
-}

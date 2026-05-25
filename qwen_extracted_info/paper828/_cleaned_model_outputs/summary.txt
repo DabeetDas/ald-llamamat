@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnTe",
-  "process_type": "isothermal closed space sublimation (ICSS)",
-  "main_precursors": ["Zn", "Te"],
-  "temperature_range": "390 1C",
-  "summary": "The study investigates the growth of ZnTe films using isothermal closed space sublimation (ICSS) on different substrates. It explores the effects of exposure and purge times on the growth rate and structural properties of the films. The results show that epitaxial ZnTe layers can be grown on GaAs substrates, while Si substrates lead to powder-like structures. The growth rate is influenced by the balance between exposure and purge times, with multilayer adsorption playing a significant role.",
-  "evidence": "The study discusses the growth of ZnTe films using isothermal closed space sublimation (ICSS) on GaAs and Si substrates. It highlights the effects of exposure and purge times on the growth rate and structural properties. The results show that epitaxial ZnTe layers are obtained on GaAs substrates, while Si substrates lead to powder-like structures. The growth rate is influenced by the balance between exposure and purge times, with multilayer adsorption playing a significant role."
-}

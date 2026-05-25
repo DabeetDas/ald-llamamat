@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["MoCl5", "H2S"],
-  "temperature_range": "300 /C14 C",
-  "summary": "A mono- to multilayer thick MoS2 film was grown using atomic layer deposition (ALD) at 300 /C14 C on a sapphire wafer. The process involves alternating exposure to MoCl5 and H2S vapors, with post-deposition annealing at 800 /C14 C to improve crystallinity. The study focuses on the precise control of film thickness and the resulting optical and structural properties of the MoS2 film.",
-  "evidence": "A mono- to multilayer thick MoS2 film has been grown by using the atomic layer deposition (ALD) technique at 300 /C14 C on a sapphire wafer. ALD provides precise control of the MoS2 film thickness due to pulsed introduction of the reactants and self-limiting reactions of MoCl5 and H2S. A post-deposition annealing of the ALD-deposited monolayer film improves the crystallinity of the film, which is evident from the presence of triangle-shaped crystals that exhibit strong photoluminescence in the visible range."
-}<|im_end|>

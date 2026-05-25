@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["tri-methyl aluminum (TMA)", "water"],
-  "temperature_range": "160 -C",
-  "summary": "The paper describes the use of Atomic Layer Deposition (ALD) to coat LiMn2O4 particles with Al2O3 under atmospheric pressure in a fluidized bed reactor. The process uses TMA and water as precursors, and the coating thickness is controlled by the number of ALD cycles. The resulting coatings are homogeneous and amorphous, with the Al2O3 layer preventing the dissolution of Mn ions in the electrolyte, thus improving the performance of Li-ion batteries.",
-  "evidence": "In this paper we will describe the technique of ALD for the coating of (nano)particles in a fluidized bed reactor under atmospheric pressure. We will also demonstrate an application of this process by coating LiMn2O4 with Al2O3. The process for particle ALD was patented in three US patents by George et al. The growth rate of this process is 0.1 nm per cycle on flat substrates, and around 0.2 nm per cycle on nanoparticles. We performed the process in a fluidized bed reactor, and thus need to use a reasonable gas flux to keep the particles in fluidized condition, so using atmospheric pressure is an obvious choice. The resulting Al2O3 coatings were amorphous and homogeneous."
-}<|im_end|>

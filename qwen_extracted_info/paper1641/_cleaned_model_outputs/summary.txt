@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TiCl4", "deionized H2O"],
-  "temperature_range": "150 °C",
-  "summary": "The study demonstrates the use of atomic layer deposition (ALD) of TiO2 as a 'nanoglue' to bond a free-standing nanoporous alumina (AAO) template onto a gold-coated high-refractive-index glass substrate. This process enables the creation of a planar optical waveguide sensor with subangstrom sensitivity for monitoring interfacial association/dissociation reactions, such as BSA adsorption/desorption. The ALD process fills voids and gaps between the AAO template and the substrate, ensuring intimate contact for optical waveguide applications.",
-  "evidence": "Free-standing AAO templates attached on the substrates were deposited with TiO2 films in a home-built viscous flow ALD setup at 150 °C. The substrates were exposed to alternating vapors of TiCl4 and deionized H2O at a base pressure of 1 Torr in a 200 sccm N2 flow. The growth rate was measured using a variable angle spectroscopic ellipsometer and further confirmed by high-resolution transmission electron microscopy."
-}

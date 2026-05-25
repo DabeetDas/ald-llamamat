@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum oxide",
-  "process_type": "Radical Enhanced ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "oxygen radicals"],
-  "temperature_range": "25-300°C",
-  "summary": "Aluminum oxide thin films were deposited using radical enhanced atomic layer deposition (ALD) with trimethylaluminum (TMA) and oxygen radicals. The process was conducted in a temperature range of 25-300°C, and the films were grown on various substrates including silicon, glass, and heat-sensitive materials like polyethene, polypropene, and wool. The films exhibited good electrical properties and smooth surfaces, with a high growth rate and low impurity levels.",
-  "evidence": "Aluminum oxide was deposited by radical enhanced atomic layer deposition using trimethylaluminum ~TMA! and oxygen radicals in the temperature range 25-300°C. The radicals were produced by dissociating oxygen gas in a remote microwave plasma discharge. The films were amorphous according to X-ray diffraction. The films were also very smooth; the surface root-mean-square roughness was less than 0.8 nm for 180 nm thick films. The films had breakdown fields, defined as the field corresponding to the leakage current density of 1 mA/cm2, between 6 and 10 MV/cm, and dielectric constants between 6.5 and 8.1."
-}

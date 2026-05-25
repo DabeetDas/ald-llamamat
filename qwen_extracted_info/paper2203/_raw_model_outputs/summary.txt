@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "ozone (O3)"],
-  "temperature_range": "200 °C",
-  "summary": "The study describes the deposition of a conformal Al2O3 dielectric layer on highly oriented pyrolytic graphite (HOPG) using atomic layer deposition (ALD). The process involves ozone pretreatment to functionalize the graphene surface, enabling uniform and conformal Al2O3 growth across both step edges and basal planes of the HOPG surface. The ALD process uses TMA and O3 as precursors, and the deposited Al2O3 layer is characterized by atomic force microscopy (AFM), transmission electron microscopy (TEM), and XPS analysis.",
-  "evidence": "We present a facile route which combines the functionalization of a highly oriented pyrolytic graphite surface with an atomic layer deposition (ALD) process to allow for conformal Al2O3 layers. O3 pretreatment, immediately followed by the ALD process with TMA/O3 chemistry, formed Al2O3 layers without any preferential deposition at the step edges. This is attributed to functionalization of graphene by ozone treatment, imparting a hydrophilic character which is desirable for ALD deposition."
-}<|im_end|>

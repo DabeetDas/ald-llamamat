@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Molecular Layer Epitaxy (MLE)",
-  "main_precursors": ["arsine (AsH3)", "triethylgallium (TEG)", "diethylsulfide (DES)", "diethyltelluride (DETe)"],
-  "temperature_range": "360°C",
-  "summary": "The study investigates the enhanced incorporation of Te and S impurities in GaAs through alternate doping using molecular layer epitaxy (MLE). The process involves intermittent injection of AsH3 and TEG, with Te and S dopants introduced via DETe and DES, respectively. The results show that the incorporation of Te is enhanced when S coverage is present, and the co-doping of Te and S improves crystal quality by reducing strain.",
-  "evidence": "The text describes the use of molecular layer epitaxy (MLE) to grow GaAs layers with Te and S co-doping. It mentions the use of AsH3 and TEG as precursors, and DETe and DES as dopants. The study shows that Te incorporation is enhanced when S coverage is present, and the co-doping of Te and S improves crystal quality by reducing strain."
-}

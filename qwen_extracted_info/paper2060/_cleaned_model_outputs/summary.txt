@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "350°C",
-  "summary": "The study investigates the growth of HfO2 films on strained Si1−xGex layers using atomic layer deposition (ALD) at 350°C. The research focuses on optimizing surface treatments (chemical oxidation vs. HF 'last' treatment) to achieve high-quality HfO2 films with minimal interfacial layer thickness. The results show that HF 'last' treated surfaces yield better HfO2 film quality, as evidenced by lower chlorine contamination and improved electrical properties. The study also examines the impact of post-deposition annealing on the equivalent oxide thickness (EOT) and interface state density.",
-  "evidence": "HfO2 layers were deposited in a Pulsar™ 2000 reactor at 350°C using HfCl4 and H2O as precursors. The study found that HF 'last' treated surfaces are more convenient for high-quality HfO2 growth. The EOT was measured using a mercury probe, and the results showed that a 2.5 nm as-deposited HfO2 film achieved an EOT as low as 0.7 nm. Post-deposition annealing at 800°C under N2 reduced interface state density by a factor of 5."
-}

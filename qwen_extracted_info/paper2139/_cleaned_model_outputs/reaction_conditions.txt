@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The TMA molecule is very reactive toward the OH− groups on Si(100), with a reaction energy of −1.7 eV/mol, and also very small (a TMA molecule is contained in a cube with side of ~0.4 nm). The tiny TMA molecule leaves a very limited uncovered Si area each time it is pulsed into the ALD reaction chamber, leaving very narrow space to oxidize Si(100).",
-  "intermediate_species": ["TMA molecule", "OH− groups on Si(100)"],
-  "evidence": "For HfO2 films deposited on c.o.- and H–Si (Fig. 3) the chemical shift between the Si 1s peaks for HfO2/Si(100) is smaller than for Al2O3/Si(100), suggesting that in the former system an Hf-silicate type of compound forms at the bottom interface and on top. This indicates that Hf(mmp)4 as oxygen source is not effective in preventing IL formation. The explanation might be in the large size of the Hf(mmp)4 molecules, which occupy a volume corresponding to a cube with side of ~1 nm. 17 In addition, the HfCl4 precursor has a reaction energy with surface OH− groups of only about −0.3 eV/mol, 25 so it is also not more efficient than Hf(mmp)4 in covering in short time a large Si(100) area. This makes IL formation even more unavoidable."
-}

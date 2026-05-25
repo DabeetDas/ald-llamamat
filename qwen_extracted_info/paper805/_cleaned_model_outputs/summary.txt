@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium oxide (RuO2)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["(ethylbenzyl)(1,3-cyclohexadienyl)Ru(0) (EBCHDRu)", "molecular oxygen (O2)"],
-  "temperature_range": "185-270 °C",
-  "summary": "Highly conformal and conductive RuO2 thin films were deposited using atomic layer deposition (ALD) with a zero-valent Ru precursor, EBCHDRu, and molecular oxygen (O2) as a reactant. The films were deposited at 225 °C with optimized pulsing conditions, resulting in a tetragonal structure, low resistivity (118 µΩ·cm), high density (6.85 g/cm³), and excellent step coverage. The ALD-RuO2 films showed thermal stability up to 700 °C and were evaluated as a bottom electrode for a MIM capacitor with a high-k ALD-TiO2 dielectric, demonstrating a high dielectric constant (~68).",
-  "evidence": "Highly conformal and conductive RuO2 thin films were deposited without nucleation delay using atomic layer deposition (ALD) by zero-valent metallorganic precursor, (ethylbenzyl)(1,3-cyclohexadienyl)Ru(0) (EBCHDRu) and molecular oxygen (O2) as a precursor and reactant, respectively. RuO2 thin films could be successfully prepared by controlling the process parameters... The ALD-RuO2 film was thermally stable up to annealing at 700 °C in both O2 and N2 ambient. Finally, the ALD-RuO2 film was evaluated as a bottom electrode of a metal-insulator-metal capacitor with a high-k (dielectric constant) ALD-TiO2 dielectric."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "alcohol oxidants (MeOH, EtOH, n-PrOH)"],
-  "temperature_range": "150 °C",
-  "summary": "The study investigates the reaction mechanisms of non-hydrolytic atomic layer deposition (ALD) of Al2O3 using trimethylaluminum (TMA) and various alcohol oxidants (MeOH, EtOH, n-PrOH). The process aims to reduce substrate oxidation and improve the electrical properties of the deposited films. The study finds that ethanol (EtOH) is the most suitable oxidant, showing a growth rate of 0.96 Å/cycle and lower carbon impurities, leading to better electrical performance.",
-  "evidence": "The study finds that ethanol (EtOH) is the most suitable oxidant, showing a growth rate of 0.96 Å/cycle and lower carbon impurities, leading to better electrical performance."
-}

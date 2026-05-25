@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Mo(NMe2)4", "H2S"],
-  "temperature_range": "60 8C",
-  "summary": "The study demonstrates the low-temperature atomic layer deposition (ALD) of MoS2 films using Mo(NMe2)4 and H2S as precursors. The process enables the growth of MoS2 at record low temperatures, as low as 60 8C, and the films can be crystallized through annealing. The low-temperature ALD process is compatible with photolithography and lift-off techniques, facilitating the fabrication of diverse device structures. The study highlights the advantages of this method for scalable applications in electronics and catalysis.",
-  "evidence": "The as-deposited films are amorphous but can be readily crystallized by annealing. Importantly, the low ALD growth temperature is compatible with photolithographic and lift-off patterning for the straightforward fabrication of diverse device structures. This approach suggests scalable processes for applications from electronics to catalysis."
-}

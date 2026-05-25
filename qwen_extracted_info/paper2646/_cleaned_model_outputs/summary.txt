@@ -1,8 +1,0 @@
-{
-  "target_material": "NiS",
-  "process_type": "thermal ALD",
-  "main_precursors": ["bis(2,2,6,6-tetramethylheptane-3,5-dionate)nickel(II) [Ni(thd)2]", "hydrogen sulfide (H2S)"],
-  "temperature_range": "175–250 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of nickel sulfide (NiS) using sequential exposures of bis(2,2,6,6-tetramethylheptane-3,5-dionate)nickel(II) [Ni(thd)2] and hydrogen sulfide (H2S) at temperatures between 175–250 °C. The ALD process is self-limiting with a saturated growth rate of approximately 0.21 Å per cycle. The deposited NiS films are polycrystalline and exhibit high catalytic activity for the reduction of I⁻/I3⁻ electrolyte, making them a viable replacement for platinum (Pt) as a counter electrode in dye-sensitized solar cells (DSSCs).",
-  "evidence": "Nickel sulﬁde (NiS) is grown by atomic layer deposition (ALD) using sequential exposures of bis(2,2,6,6-tetramethylheptane-3,5-dionate)nickel(II) [Ni(thd) 2] and hydrogen sulﬁde (H 2S) at 175 /C14 C. The saturated growth rate of ca. 0.21 A˚ per ALD cycle is obtained, which is constant within the ALD temperature window (175–250 /C14 C). The ALD grown NiS thin ﬁlm demonstrates high catalytic activity for the reduction of I /C0 /I3 /C0 electrolyte that opens its usage as cost-effective counter electrode in dye sensitized solar cells, replacing Pt."
-}

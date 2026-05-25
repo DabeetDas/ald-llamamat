@@ -1,8 +1,0 @@
-{
-  "target_material": "SrTiO3",
-  "process_type": "ALD",
-  "main_precursors": ["Ti(O-iPr)2(tmhd)2", "Sr(iPr3Cp)2"],
-  "temperature_range": "370 /C176C",
-  "summary": "The study describes an Atomic Layer Deposition (ALD) process for depositing SrTiO3 thin films with significantly enhanced growth rate for ultrahigh density capacitors. The process uses Ti(O-iPr)2(tmhd)2 as a Ti-precursor and Sr(iPr3Cp)2 as a Sr-precursor, with O3 and H2O as oxygen sources for TiO2 and SrO layers, respectively. The process achieves a high growth per cycle (GPC) of 0.107 nm/unit-cycle (0.428 nm/supercycle) at 370 /C176C, which is approximately 7 times higher than previously reported. The films exhibit excellent step coverage and low leakage current, making them suitable for next-generation DRAM capacitors.",
-  "evidence": "The study describes an Atomic Layer Deposition (ALD) process for depositing SrTiO3 thin films with significantly enhanced growth rate for ultrahigh density capacitors. The process uses Ti(O-iPr)2(tmhd)2 as a Ti-precursor and Sr(iPr3Cp)2 as a Sr-precursor, with O3 and H2O as oxygen sources for TiO2 and SrO layers, respectively. The process achieves a high growth per cycle (GPC) of 0.107 nm/unit-cycle (0.428 nm/supercycle) at 370 /C176C, which is approximately 7 times higher than previously reported. The films exhibit excellent step coverage and low leakage current, making them suitable for next-generation DRAM capacitors."
-}<|im_end|>

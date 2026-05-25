@@ -1,8 +1,0 @@
-{
-  "target_material": "AlN",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "ammonia (NH3)"],
-  "temperature_range": "600 K",
-  "summary": "The study demonstrates the atomic layer growth of AlN on Si using sequential exposures of TMA and NH3 at 600 K. TMA adsorbs dissociatively to Si at temperatures above 300 K, and coadsorption with NH3 leads to formation of Al-N covalent bonding and a surface adduct species. Self-limiting adsorption of TMA and site-selective reaction with NH3 at 600 K enable atomic layer growth of AlN.",
-  "evidence": "TMA adsorbs dissociatively with a high sticking probability to Si at temperatures above 300 K. At temperatures below 650 K, adsorption is self-limiting at <1 monolayer, with most carbon remaining in the form of CH3. At substrate temperatures <550 K, coadsorption of TMA and NH3 is self-limiting at less than a monolayer, while above this temperature reaction is rapid to form a thick film of AlN. Self-limiting adsorption of TMA at <650 K and rapid, site-selective reaction with NH3 to form AlN at >550 K suggest that an atomic layer growth process for AlN is possible at about 600 K by using sequential exposures of TMA and NH3."
-}<|im_end|>

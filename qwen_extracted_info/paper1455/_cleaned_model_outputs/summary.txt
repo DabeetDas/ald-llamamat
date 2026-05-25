@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["(CpMe)2HfMe2", "(CpMe)2Hf(OMe)Me"],
-  "temperature_range": "350-500 °C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of HfO2 thin films using novel cyclopentadienyl precursors. The ALD process was carried out with ozone as the oxygen source, and the growth was observed to be self-limiting at high temperatures. The films showed good conformality and stoichiometric properties, with impurity levels below the detection limit. The process was found to be suitable for high-k HfO2 growth in microelectronics applications, especially for trench DRAM capacitors.",
-  "evidence": "Atomic layer deposition (ALD) of HfO2 thin films was studied using four novel cyclopentadienyl precursors... ALD-type growth was verified also on 60:1 aspect ratio trench structures even at 450 °C... Time-of-flight elastic recoil detection analyses demonstrated stoichiometric HfO2 films... The liquid cyclopentadienyl compounds of hafnium introduced herein thus offer a feasible industrial solution for the high-k HfO2 growth by ALD for gate dielectric and especially for trench DRAM capacitor applications in which extreme conformality, purity, and uniformity are required."
-}

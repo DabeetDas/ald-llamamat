@@ -1,8 +1,0 @@
-{
-  "target_material": "alumina",
-  "process_type": "thermal ALD",
-  "main_precursors": ["water vapor", "trimethylaluminium"],
-  "temperature_range": "85 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to conformally fill complex three-dimensional porous structures, specifically SU-8 photonic crystal templates, with alumina. The process involves thermal ALD using water vapor and trimethylaluminium as precursors at 85 °C. The conformal deposition was validated through experimental measurements and simulations, showing good agreement between the calculated and observed structures.",
-  "evidence": "The SU-8 withstands the 85 °C ALD temperature and permits the use of an exposure intensity iso-surface to analytically describe the template surface. One ALD cycle consists of 0.03 s pulse of water vapor with 2 s hold, 65 s nitrogen at 20 sccm nitrogen flow, then trimethylaluminium was released and purged using the same parameters."
-}

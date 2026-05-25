@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions in ALE involve the sequential adsorption and reaction of precursor molecules on the substrate surface. The growth process is self-limiting due to the saturation of surface reactions, which allows for precise control over film thickness. The mechanism includes the adsorption of precursor molecules, surface reactions, and the removal of byproducts through purging with an inert gas.",
-  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum", "formate species"],
-  "evidence": "The unique feature of ALE which distinguishes it from the closely related CVD is that the precursors are led on to the substrate alternately, one at a time. Between the reactant doses the reactor is purged with an inert gas, removing all the other species except those which are tightly chemisorbed. Therefore the film growth proceeds via sequential surface reactions which, under properly chosen conditions, are saturated making the film growth self-controlled."
-}

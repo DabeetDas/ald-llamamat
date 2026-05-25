@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2:Y",
-  "process_type": "ALD",
-  "main_precursors": ["Hf /H20849NEtMe/H208504", "/H20849CpMe/H208503Y"],
-  "temperature_range": "275°C to 350°C",
-  "summary": "The study describes the atomic layer deposition of yttrium-doped HfO2 films using alternating HfO2 and Y2O3 growth cycles. The films were deposited on TiN and native-oxide-covered Si using an F-120 ALD reactor. The process involved varying growth temperatures and precursor ratios to optimize the crystallinity and dielectric properties of the films. The best results were achieved with a yttrium content of about 6–7 atom %, leading to high permittivity values and low leakage current.",
-  "evidence": "Yttrium-doped HfO2 films were grown by atomic layer deposition via alternating HfO2 and Y2O3 growth cycles. Precursors used were Hf /H20849NEtMe/H208504 and /H20849CpMe/H208503Y together with ozone. The best combination of low leakage current of 10−7 A/cm2 at 1 V and high capacitance was achieved with the films grown from Hf /H20849NEtMe/H208504, with yttrium content being about 6–7 atom %."
-}

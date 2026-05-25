@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Tri-Methyl-Aluminum (TMA)", "water vapor"],
-  "temperature_range": "250-450°C",
-  "summary": "Al2O3 films were deposited on silicon wafers using Atomic Layer Epitaxy (ALE) with Tri-Methyl-Aluminum (TMA) and water vapor as precursors. Post-deposition annealing at 900°C reduced film thickness by about 10% and increased the refractive index by about 3%. The films showed improved leakage current reduction and charge trapping properties after annealing. The study aimed to evaluate Al2O3 as a potential buried insulator for Silicon-On-Insulator (SOI) materials.",
-  "evidence": "The text describes the deposition of Al2O3 films using ALE with TMA and water vapor as precursors. It mentions the post-deposition annealing at 900°C and the resulting changes in film thickness and refractive index. The study's purpose is stated as evaluating Al2O3 as a buried insulator for SOI materials."
-}<|im_end|>

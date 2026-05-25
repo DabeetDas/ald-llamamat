@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminum", "water"],
-  "temperature_range": "110 °C",
-  "summary": "A hybrid encapsulation method for organic electronics combines plasma enhanced chemical vapor deposition (PECVD) of SiOx or SiNx with atomic layer deposition (ALD) of Al2O3 and a parylene layer. The ALD process uses trimethylaluminum and water as precursors at 110 °C, resulting in a thin Al2O3 layer that passivates defects in the SiOx or SiNx films, providing effective barrier performance against water vapor.",
-  "evidence": "The ALD process was carried out at 110 °C using a Savannah 100 ALD system by Cambridge NanoTech with trimethylaluminum and water as precursors. The Al2O3 layer passivates defects in the SiOx or SiNx films, providing a barrier with effective WVTR values on the order of 10−5 g/m2 day."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "GaN",
-  "process_type": "switched atomic-layer-epitaxy (SALE)",
-  "main_precursors": ["GaN", "AlN"],
-  "temperature_range": "room-temperature",
-  "summary": "The study reports on the fabrication and characterization of high-responsivity photoconductive ultraviolet detectors based on insulating single-crystal GaN epilayers deposited using a switched atomic-layer-epitaxy (SALE) process. The sensors exhibit a sharp long-wavelength cutoff at 365 nm, making them suitable for applications in flame detection and fire control.",
-  "evidence": "The active layer (GaN) was deposited over basal-plane sapphire substrates using a unique switched atomic-layer-epitaxy process. ... This was accomplished by a unique switched atomic-layer-epitaxy procedure (SALE) using a low-pressure MOCVD. ... We now report on the fabrication and characterization of high-responsivity photoconductive UV detectors using the insulating GaN material resulting from the SALE process."
-}<|im_end|>

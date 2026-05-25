@@ -1,7 +1,0 @@
-{
-  "precursors": ["MoO2(tBuAMD)2", "WO2(tBuAMD)2"],
-  "coreactants": ["O3", "H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "Using 1 and O3, amorphous, ultrathin molybdenum oxynitride (MoON) films are grown on Si(100) wafers. Using 2 and H2O yields amorphous WO3 films on Si(100) wafers that crystallize as WO3 nanowires upon annealing."
-}

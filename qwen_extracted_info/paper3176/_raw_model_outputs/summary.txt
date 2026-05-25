@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD, plasma ALD, PECVD",
-  "main_precursors": ["trimethylaluminum", "H2O or O2 plasma"],
-  "temperature_range": "25–400°C",
-  "summary": "The study investigates the influence of deposition temperature on the properties and surface passivation performance of Al2O3 films synthesized by thermal ALD, plasma ALD, and PECVD. Optimal surface passivation was achieved for thermal ALD and plasma ALD at temperatures between 150–250°C, while PECVD provided comparable passivation at 150–300°C. The material properties, such as refractive index, mass density, and hydrogen content, were found to be temperature-dependent, and the passivation performance was linked to the fixed negative charge density at the c-Si/Al2O3 interface.",
-  "evidence": "The material properties and c-Si surface passivation have been investigated for Al2O3 films deposited using thermal and plasma atomic layer deposition and plasma-enhanced chemical vapor deposition for temperatures between 25 and 400°C. Optimal surface passivation by ALD Al2O3 was achieved at Tdep = 150–250°C with Seff for p-type c-Si. PECVD Al2O3 provided a comparable high level of passivation for Tdep = 150–300°C and contained a high fixed negative charge density. The results demonstrate that thermal ALD and plasma ALD provide excellent surface passivation at 150–250°C, while PECVD achieves similar performance at 150–300°C."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Molecular Layer Epitaxy (MLE)",
-  "main_precursors": ["AsH3", "trimethyl-gallium (TMG)"],
-  "temperature_range": "500~C",
-  "summary": "The paper reports the successful implementation of molecular layer epitaxy (MLE) for the deposition of GaAs using AsH3 and TMG as precursors. The process involves alternating gas admittance cycles with specific pressures and temperatures, leading to monolayer growth. The study highlights the influence of gas admittance rates, substrate temperature, and photoirradiation on film quality and electrical properties. The results show that MLE can produce high-quality single-crystal GaAs films with controlled thickness and improved surface morphology through photoirradiation.",
-  "evidence": "We report, for the first time, the success of GaAs molecular layer epitaxy (MLE) using AsH3 as an As containing gas and trimethyl-gallium (TMG) as a Ga containing gas. The substrate temperature of 500~ fulfilled the conditions for a monolayer growth, where the film thickness per one cycle is saturated with the admittance quantity, at the higher temperature that increased with the TMG admittance quantity. Photoirradiation during the growth by a high pressure Hg lamp, Ar laser (514.5 nm), and with a doubler (257.3 nm) largely improved the surface morphology and electrical properties of the films by MLE."
-}<|im_end|>

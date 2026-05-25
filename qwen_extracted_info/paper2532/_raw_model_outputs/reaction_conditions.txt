@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The plasma-assisted atomic layer deposition (PA-ALD) process of TiN involves alternating TiCl4 precursor dosing and H2–N2 plasma exposure. The plasma-produced radicals react with the adsorbed TiCl4 precursor, leading to surface reactions that form TiN. The growth rate saturates at higher plasma exposure times, indicating an almost complete surface reaction between the plasma-produced radicals and adsorbed TiCl4 precursor.",
-  "intermediate_species": ["TiCl4 precursor", "plasma-produced radicals"],
-  "evidence": "The plasma-assisted atomic layer deposition (PA-ALD) process of TiN involves alternating TiCl4 precursor dosing and H2–N2 plasma exposure. The plasma-produced radicals react with the adsorbed TiCl4 precursor, leading to surface reactions that form TiN. The growth rate saturates at higher plasma exposure times, indicating an almost complete surface reaction between the plasma-produced radicals and adsorbed TiCl4 precursor."
-}<|im_end|>

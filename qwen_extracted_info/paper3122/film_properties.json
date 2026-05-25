@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 1.1,
-  "density_g_cm3": null,
-  "refractive_index": null,
-  "surface_roughness_nm": null,
-  "crystal_phase": "Amorphous",
-  "evidence": "The thickness of the GeO xNy layer d (Fig. 1b) was estimated using the following calculation procedure reported by Carlson and McGuire10 IG eON /IG e = /H9268GeONNGeON/H9261GeON/H208491 − exp A/H20850 /H9268GeNGe/H9261Ge exp A A = − d /H9261GeON sin /H9258 where IGeON and IGe are the intensities of Ge 3d core-level photoelectrons detected from the GeO xNy layer and Ge substrate, /H9268GeON and /H9268Ge are the photoelectron cross sections, NGeON and NGe are the surface atomic densities of Ge in each layer, /H9261GeON and /H9261Ge are the mean-free paths of electrons, and /H9258/H2084935° in this study/H20850is the angle of the detector relative to the sample surface. We assumed /H9261GeON to be equal to /H9261Ge, and /H9261Ge /H110152.8 nm /H20849kinetic energy/H110111450 eV/H20850, according to the calculation by Tanuma et al. 11 /H9268GeON was also assumed to be equal to /H9268Ge. The surface atomic density of Ge atoms in the GeOxNy layer was taken from reported simulation data of Ge 3N4 /H20849/H110113.4 /H110031022 atoms cm−3/H20850. By using these assumptions, we calculate a GeO xNy layer thickness of 1.1 nm."
-}

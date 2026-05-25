@@ -1,8 +1,0 @@
-{
-  "target_material": "Platinum nanoparticles",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["trimethyl(methylcyclopentadienyl)platinum(IV) (MeCpPtMe3)", "O2 or H2"],
-  "temperature_range": "300 /C176C",
-  "summary": "The study investigates the deposition of platinum nanoparticles on carbon supports using atomic layer deposition (ALD) with trimethyl(methylcyclopentadienyl)platinum(IV) (MeCpPtMe3) as the platinum precursor and either oxygen or hydrogen as the ligand-removing second reactant. The process was performed on both unmodified and functionalized XC72R carbon supports. The results show that using hydrogen as the second reactant on functionalized carbon produced smaller and more dispersed platinum nanoparticles compared to using oxygen. The study also highlights the role of surface oxygen in stabilizing platinum nanoparticles and the impact of the second reactant on particle aggregation and deposition efficiency.",
-  "evidence": "The platinum precursor dose time was varied between 5 and 40 min, with corresponding longer second precursor dose times and purge times. The study also discusses the effects of using oxygen or hydrogen as the second reactant on the characteristics of the deposited platinum nanoparticles, including particle size, dispersion, and weight loading."
-}<|im_end|>

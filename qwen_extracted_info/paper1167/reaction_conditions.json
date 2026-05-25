@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The step ratio, R, is defined by the net frequency change at the end of purge B (H2O) divided by the net frequency change at the end of purge A (TMA). This quantity relates to the number of surface hydroxyl groups, n, reacting with each TMA molecule by R = 51/(72 - 16n).",
-  "intermediate_species": [
-    "surface hydroxyl groups"
-  ],
-  "evidence": "The ALD steps in Figure 3a show a rapid frequency drop during the TMA exposures followed by a flat region during the TMA purge times. The H2O exposures produce a small increase in frequency followed by a flat region during the H2O purges. The step ratio, R, is defined by the net frequency change at the end of purge B (H2O) divided by the net frequency change at the end of purge A (TMA). This quantity relates to the number of surface hydroxyl groups, n, reacting with each TMA molecule by R = 51/(72 - 16n)."
-}

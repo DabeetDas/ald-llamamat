@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylindium (TMI)", "tetrakis(dimethylamino)tin(IV) (TDMASn)"],
-  "coreactants": ["ozone"],
-  "purge_gas": ["Argon (Ar)"],
-  "carrier_gas": [],
-  "evidence": "Trimethylindium and ozone were used as precursors for IO, while a tetrakis(dimethylamino)tin(IV) source was used for Sn doping to produce ITO. High purity Argon (Airgas) flowing at 10 sccm was used to purge the reactor during and after precursor pulses."
-}

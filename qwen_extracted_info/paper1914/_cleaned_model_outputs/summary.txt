@@ -1,8 +1,0 @@
-{
-  "target_material": "aluminium phosphate (AlPO4)",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["trimethylaluminium (TMA)", "H2O", "trimethylphosphite (TMP)", "O3"],
-  "temperature_range": "150 uC",
-  "summary": "Uniform amorphous aluminium phosphate thin films were deposited on nitrogen-doped carbon nanotubes (NCNTs) using a new atomic layer deposition approach at 150 uC. The process involves subcycles of Al2O3 and POx, with trimethylaluminium (TMA)–H2O for the Al2O3 subcycle and trimethylphosphite (TMP)–O3 for the POx subcycle. The study aimed to improve the oxidation resistance of carbonaceous materials by coating them with an aluminium phosphate protective layer.",
-  "evidence": "Uniform amorphous aluminium phosphate thin films with precisely controlled thickness and tunable composition were deposited on nitrogen-doped carbon nanotubes at 150 uC through a new atomic layer deposition approach. The deposition of AlxPyOz is performed at 150uC by sequentially introducing TMA, H2O, TMP and O3 (9.8 wt% concentration) into the ALD reaction chamber."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Ru nanocrystals",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["bis(cyclopentadienyl)-ruthenium", "oxygen"],
-  "temperature_range": "300 ◦C",
-  "summary": "The study describes the atomic layer deposition of Ru nanocrystals embedded into Al2O3 for memory applications. The process uses bis(cyclopentadienyl)-ruthenium and oxygen precursors at 330◦C. The Ru nanocrystals are formed directly at a low temperature, and the resulting metal-oxide-silicon capacitors demonstrate significant memory effects such as a large hysteresis memory window and a flat-band voltage shift.",
-  "evidence": "Growth of uniformly distributed Ru nanocrystals on Al2O3 is demonstrated via atomic layer deposition using bis(cyclopentadienyl)-ruthenium and oxygen precursors. The Ru nanocrystals are formed directly at a low temperature of 300◦C, which is much lower than the required post-annealing temperature for the formation of Ru nanocrystals from the sputtered Ru. The metal-oxide-silicon capacitors with Ru nanocrystals embedded into Al2O3 are electrically measured, exhibiting a large hysteresis memory window of 3.4 V for the sweeping gate voltage of −2.5/ + 8 V and a significant flat-band voltage shift of 3.2 V under the programming of 10 V/1 ms."
-}

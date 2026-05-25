@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the reduction of C16H18N3S+ + H+ → C16H18N3HS (colorless) and the generation of protons through the reaction H2O → H+ + OH−ads + h+ → H+ + OH•, where h+ is a hole carrier created by band-to-band transition. The WL excited photocatalysis is attributed to band gap shrinkage due to doping.",
-  "intermediate_species": ["OH−ads", "H+"],
-  "evidence": "For MB degradation the process involves reduction of C16H18N3S+ + H+ → C16H18N3HS (colorless)16 and the determining step comes from proton generation expressed as (H2O → H+ + OH−ads + h+ → H+ + OH•, where h+ is band-to-band transition created hole carriers. Namely, the WL excited photocatalysis is attributed to band gap shrinkage, in contrast with quantum confinement induced blueshift previously detected at amorphous oxide."
-}

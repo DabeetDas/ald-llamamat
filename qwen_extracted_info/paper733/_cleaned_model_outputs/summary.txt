@@ -1,8 +1,0 @@
-{
-  "target_material": "Silver",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["(hfac)Ag(1,5-COD)", "Tertiary butyl hydrazine (TBH)"],
-  "temperature_range": "105–128 ◦C",
-  "summary": "The study describes the use of tertiary butyl hydrazine (TBH) as a co-reactant in thermal atomic layer deposition (ALD) to deposit metallic silver films. The process provides a wider ALD temperature window compared to using alcohols as co-reactants, enabling lower temperature deposition and self-limiting growth conditions. The resulting films are crystalline, conductive, and free from fluorine contamination.",
-  "evidence": "The process provides a 23 ◦C wide ‘self-limiting’ ALD temperature window between 105 and 128 ◦C, which is significantly wider than is achievable using alcohol as a co-reactant. A mass deposition rate of ∼ 20 ng/cm2/cycle (∼ 0.18 Å/cycle) is observed under self-limiting growth conditions. The resulting films are crystalline metallic silver with a near planar film-like morphology which are electrically conductive."
-}

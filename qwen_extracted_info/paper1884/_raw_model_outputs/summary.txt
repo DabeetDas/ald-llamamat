@@ -1,8 +1,0 @@
-{
-  "target_material": "tungsten nitride",
-  "process_type": "thermal ALD",
-  "main_precursors": ["W2(NMe2)6", "ammonia"],
-  "temperature_range": "150–250 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of tungsten nitride (WNx) films using the precursors W2(NMe2)6 and ammonia. The process was carried out at substrate temperatures between 150 and 250 °C, with optimal growth observed at 180 °C. The films were found to be amorphous and showed surface saturative growth. The ALD process exhibited a temperature window between 180 and 210 °C for constant growth rates. The films were sensitive to ambient atmosphere, leading to oxidation and increased resistivity. Protective AlN layers were used to prevent degradation.",
-  "evidence": "The atomic layer deposition growth of tungsten nitride films was demonstrated using the precursors W2(NMe2)6 and ammonia with substrate temperatures between 150 and 250 uC. At 180 uC, surface saturative growth was achieved with W2(NMe2)6 pulse lengths of 2.0 s. The growth rates were between 0.74 and 0.81 A˚ cycle21 at substrate temperatures between 180 and 210 uC. Films grown at 180 and 210 uC exhibited resistivity values between 810 and 4600 mV cm. The as-deposited films were amorphous. Amorphous films containing a protective AlN overlayer were annealed to 600–800 uC under a nitrogen atmosphere. X-Ray diffraction patterns suggested that crystallization does not occur at or below 800 uC."
-}<|im_end|>

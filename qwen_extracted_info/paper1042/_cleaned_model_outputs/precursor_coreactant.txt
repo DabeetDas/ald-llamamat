@@ -1,7 +1,0 @@
-{
-  "precursors": ["TiCl4", "NH3"],
-  "coreactants": [],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "The precursors of TiCl4 and NH3 were alternatively introduced into the ALCVD chamber through time controlled solenoid valves. The 6-steps cycle adds a pump-down step between the reactant pulse and Ar purge steps to improve the removal efficiency of residual reactants and by-products."
-}

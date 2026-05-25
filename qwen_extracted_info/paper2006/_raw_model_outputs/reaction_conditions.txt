@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The reaction between TDMAT and NH3 occurs on the surface, and the SiH4 adsorbed on the surface is involved in the Ti–Si–N formation. Excess SiH4 remains on the surface after the NH3 pulse and acts as a blockade toward the adsorption of TDMAT during the following TDMAT pulse of the next cycle.",
-  "intermediate_species": ["TDMAT molecules", "SiH4 adsorbed on the surface"],
-  "evidence": "As mentioned above, SiH4 cannot react directly with TDMAT or NH3 at this MOALD temperature of 180 °C. Thus, SiH4 can only take part in the Ti–Si–N formation during the reaction between TDMAT and NH3. Therefore, when the substrate covered with both TDMAT and SiH4 is exposed to the NH3 pulse, the reaction between TDMAT and NH3 should at first occur on the surface. And then, the SiH4 adsorbed on the surface could be involved into the Ti–Si–N formation. But, excess SiH4 would still remain on the surface after the end of the NH3 pulse and act as a blockade toward the adsorption of TDMAT during the following TDMAT pulse of the next cycle."
-}<|im_end|>

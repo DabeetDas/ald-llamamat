@@ -1,8 +1,0 @@
-{
-  "target_material": "WS2",
-  "process_type": "PEALD",
-  "main_precursors": ["WF6", "H2S"],
-  "temperature_range": "300-450°C",
-  "summary": "The study demonstrates low-temperature deposition of 2D WS2 layers using WF6 and H2S precursors through PEALD and pulsed CVD processes. The use of reducing agents like Si layers and H2 plasma enables monolayer control and the formation of 2D WS2 structures without the need for a template or annealing.",
-  "evidence": "We demonstrate the impact of reducing agents for Chemical Vapor Deposition (CVD) and Atomic Layer Deposition (ALD) of WS2 from WF6 and H2S precursors. ... The growth control and conformality originate from the use of self-limiting chemisorption reactions of gas phase precursors with a substrate. ... The deposition of WS2 layers on Al2O3 is enabled by a plasma enhanced ALD (PEALD) process at temperatures between 300 and 450°C."
-}

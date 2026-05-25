@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2",
-  "process_type": "ALD",
-  "main_precursors": ["[Zr(NEtMe)2(guan-NEtMe2)2]", "water", "ozone"],
-  "temperature_range": "250–400 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of ZrO2 using [Zr(NEtMe)2(guan-NEtMe2)2] as a novel precursor with water or ozone as the oxygen source. The process exhibits self-limiting growth at 300 °C, with high growth rates (0.9 and 1.15 Å/cycle for water and ozone, respectively). The films are deposited in the high-permittivity cubic phase, even at low temperatures as low as 250 °C. The films show low carbon and nitrogen contamination, excellent conformality, and good dielectric properties, making them suitable for capacitor applications.",
-  "evidence": "With water as the oxygen source, the growth rate remained constant over a wide temperature range, whereas with ozone the growth rate increased steadily with deposition temperature. Both ALD processes were successfully developed: the characteristic self-limiting ALD growth mode was confirmed at 300 °C. The growth rates were exceptionally high, 0.9 and 1.15 Å/cycle with water and ozone, respectively. X-ray diffraction (XRD) indicated that the films were deposited in the high-permittivity cubic phase, even when grown at temperatures as low as 250 °C."
-}

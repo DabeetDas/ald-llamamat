@@ -1,7 +1,0 @@
-{
-  "precursors": ["SiCl4", "TiCl4"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "SiO2 ALD was accomplished using alternating exposures of SiCl4 and H2O. The TiO2 ALD was achieved using alternating exposures of TiCl4 and H2O. The N2 purges are required to remove the previous reactant and to avoid chemical vapor deposition."
-}

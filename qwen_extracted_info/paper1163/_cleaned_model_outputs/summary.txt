@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnSe and ZnO",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["elemental Zn", "Se (or O)", "ZnCl2", "H2O", "O2"],
-  "temperature_range": "380–430 °C for ZnSe growth; 480 °C for ZnO growth; 390 °C for ZnCl2 in ZnO growth",
-  "summary": "The study reports on the growth of monocrystalline thin films of ZnSe and ZnO using atomic layer epitaxy (ALE) by reacting elemental precursors. The films were characterized for structural and optical properties, showing good structural quality and flat surfaces. The process involved varying temperatures and precursor combinations, with ZnO films showing lower growth rates and three-dimensional growth patterns under certain conditions.",
-  "evidence": "We report on the growth of monocrystalline thin films of ZnSe and ZnO by atomic layer epitaxy by simple reaction between elemental precursors. Structural and optical properties of these films are discussed with reference to the investigations performed with atomic force microscopy, scanning electron microscopy, cathodoluminescence and photoluminescence."
-}

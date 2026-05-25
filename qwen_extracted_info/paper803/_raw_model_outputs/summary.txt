@@ -1,8 +1,0 @@
-{
-  "target_material": "RuAlO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["IMBCHRu", "O2", "trimethylaluminum", "water vapor"],
-  "temperature_range": "225 /C176C",
-  "summary": "The study describes the deposition of RuAlO thin films using thermal ALD by repeating super-cycles of Ru and AlOx ALD sub-cycles at 225 /C176C. The incorporation of AlOx into Ru matrices was controlled by varying the number of AlOx ALD unit cycles. The films were evaluated for their performance as Cu diffusion barriers, showing improved properties with increased AlOx content, including enhanced interfacial adhesion energy and diffusion barrier performance. The resistivity of the films increased with higher AlOx content, and no interfacial oxide was formed on Cu surfaces during deposition.",
-  "evidence": "The text states that RuAlO thin films were grown using atomic layer deposition (ALD) by repeating super-cycles consisting of Ru and AlOx ALD sub-cycles at 225 /C176C. The incorporation of AlOx into Ru was controlled by varying the number of AlOx ALD unit cycles. The study also mentions that the resistivity of the RuAlO film increased with higher AlOx content and that no interfacial oxide was formed on Cu surfaces during deposition."
-}<|im_end|>

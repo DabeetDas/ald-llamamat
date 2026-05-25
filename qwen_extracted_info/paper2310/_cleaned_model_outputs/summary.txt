@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnSnO3",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["C4H10Zn", "C12H28N2O2Sn", "O3"],
-  "temperature_range": "150 °C",
-  "summary": "The study examines the electronic structure of crystalline and amorphous ZnSnO3 thin films using ab-initio calculations and experimental results from atomic layer deposition (ALD). The material is deposited using Zn, Sn, and O precursors at 150 °C. The electronic properties are analyzed through O K-edge X-ray absorption spectroscopy, X-ray diffraction, and thin-film transistors. The conduction band minimum is mainly composed of Sn 5s states, with differences in localization between crystalline and amorphous phases.",
-  "evidence": "In order to examine the disorder effects in ZTO experimentally, two 60-nm-thick ZTO thin films were prepared by ALD using C4H10Zn, C12H28N2O2Sn, and O3 as the precursors for Zn, Sn, and O, respectively, on a Si wafer at 150 °C."
-}

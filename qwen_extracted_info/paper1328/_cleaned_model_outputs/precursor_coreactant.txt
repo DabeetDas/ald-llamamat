@@ -1,7 +1,0 @@
-{
-  "precursors": ["BBr3", "NH3"],
-  "coreactants": ["NH3"],
-  "purge_gas": ["Argon"],
-  "carrier_gas": [],
-  "evidence": "In this work, we developed an ALD process based on the use of BBr3 and NH3 as precursors in order to synthesize BN thin films. The deposited films were characterized in terms of thickness, composition and microstructure. Next, we used the newly developed process to grow BN films on anodic aluminium oxide (AAO) nanoporous templates, demonstrating the conformality benefit of BN prepared by ALD, and its scalability for the manufacturing of membranes."
-}

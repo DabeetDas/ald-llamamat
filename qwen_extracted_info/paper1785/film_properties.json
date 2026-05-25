@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 0.246,
-  "density_g_cm3": null,
-  "refractive_index": null,
-  "surface_roughness_nm": null,
-  "crystal_phase": "hexagonal",
-  "evidence": "The distance between the second-nearest neighbour carbon atoms in the hexagonal carbon rings was measured using the Gatan's Digital-Micrograph software. Ten hexagonal lattice atomic distances were measured along the blue line in inset (A) of Fig. 5 to get an average value (and to reduce the measurement error). It is known that the C –C bond length in graphite is 0.142 nm, which implies that the distance between the second-nearest neighbour carbon atoms in the hexagonal carbon rings must be 0.2459 nm in an ideal graphene structure. Our measured value is 0.246 nm, which is in good agreement with the reported value for graphene and confirms that the graphene deposited, is of high quality."
-}

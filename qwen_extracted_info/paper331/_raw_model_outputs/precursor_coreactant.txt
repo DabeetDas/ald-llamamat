@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylgallium (TMG)", "triethylindium (TEL)", "arsine (AsH3)"],
-  "coreactants": ["H2"],
-  "purge_gas": ["H2"],
-  "carrier_gas": ["H2"],
-  "evidence": "The sources for the Ga and As were trimethylgallium (TMG) (— 13°C) and the AsH3 (5% in H2) respectively. The H2 carrier gas flows for the TMG and AsH3 were 500 SCCM each. The H2 flow through the TMG bubbler was varied from 0.75 to 10 SCCM. The H2 flow through the TEL bubbler was varied from 75 to 450 SCCM. The H2 carrier gas flows for the column III and column V species were 800 SCCM each."
-}<|im_end|>

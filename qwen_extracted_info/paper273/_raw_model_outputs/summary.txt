@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnSe",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["zinc", "selenium", "nitrogen"],
-  "temperature_range": "250~",
-  "summary": "The study describes the atomic layer epitaxy (ALE) of nitrogen-doped ZnSe on GaAs(001) substrates. Nitrogen was introduced as a dopant without plasma or cracking processes, and the films were characterized by photoluminescence (PL) and electrical measurements. The results indicated nitrogen incorporation as a shallow acceptor, enhancing the p-type conductivity of ZnSe. The process was compared with conventional MBE, showing improved nitrogen sticking coefficient in ALE.",
-  "evidence": "Atomic layer epitaxy of nitrogen-doped ZnSe was studied. The ZnSe films were grown on GaAs(001) substrates at 250~ with a continuous flow of nitrogen and alternate supplies of zinc and selenium. The grown films were characterized by photoluminescence spectra at 4.2K, and it was found that nitrogen was incorporated as a shallow acceptor in the films. The Schottky diodes were prepared by evaporating gold on the nitrogen-doped films grown on p-type GaAs substrates. A rectifying characteristic that was consistent with the structure, assuming p-type conductivity of ZnSe, was observed."
-}<|im_end|>

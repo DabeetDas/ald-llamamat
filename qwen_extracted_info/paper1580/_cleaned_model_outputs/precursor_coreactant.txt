@@ -1,7 +1,0 @@
-{
-  "precursors": ["Fe(acac)3"],
-  "coreactants": ["O2"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The precursor (Fe(acac)3) is valved into the reaction chamber using its own vapor pressure (no carrier gas is used)."
-}

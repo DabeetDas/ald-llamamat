@@ -1,8 +1,0 @@
-{
-  "target_material": "Molybdenum nitride",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Bis(tert-butylimido)-bis(diethylamido)molybdenum", "Ammonia"],
-  "temperature_range": "285–300 8C",
-  "summary": "The study investigates the use of bis(tert-butylimido)-bis(diethylamido)molybdenum and ammonia as precursors for ALD of molybdenum nitride. The ALD process is found to be applicable with a temperature range of 285–300 8C, producing smooth, conformal, and amorphous films. The thermal stability of the precursor is crucial for successful ALD, and the study highlights the effect of alkyl group size on thermal stability and ALD properties.",
-  "evidence": "For molybdenum nitride deposition from 2 and ammonia, the pulse times were optimized. The ALD window is 285–300 8C. High conformality of the deposited films, low CVD character in the growth, and good linearity film thickness as a function of cycle count suggest surface-controlled growth."
-}

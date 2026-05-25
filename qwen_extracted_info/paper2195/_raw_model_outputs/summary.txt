@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs interfacial oxides",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TMA (trimethylaluminum)", "TEMA-Hf (tetrakis(ethylmethylamino)hafnium)"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the reduction and removal of surface oxides from GaAs substrates using atomic layer deposition (ALD) of Al2O3 and HfO2. The interfacial self-cleaning process is shown to be dependent on the oxidation state and the metal organic precursor used. The removal of certain surface oxides is driven by thermodynamics, charge balance, and oxygen coordination, with the selection of appropriate precursors influencing the interfacial bonding arrangements.",
-  "evidence": "The reduction and removal of surface oxides from GaAs substrates by atomic layer deposition of Al2O3 and HfO2 are studied using in situ monochromatic x-ray photoelectron spectroscopy. The interfacial 'self-cleaning' is shown to be oxidation state dependent as well as metal organic precursor dependent. Thermodynamics, charge balance, and oxygen coordination drive the removal of certain species of surface oxides while allowing others to remain."
-}<|im_end|>

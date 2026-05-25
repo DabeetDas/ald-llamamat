@@ -1,7 +1,0 @@
-{
-  "substrate_material": "rutile TiO2(110)",
-  "substrate_orientation": "110",
-  "pretreatment": "annealed in air at 950 °C for 4 h, then exposed to UV radiation (240 nm) for 5 min in air. The sample was then immersed in deionized water (resistivity > 10^18 Ω cm-1) at 90 °C for 1 h, rinsed with dilute HCl and H2O, and then blown-dry with N2. The substrate was further dried in the ALD reactor, using an ultrahigh-purity N2 flow at 360 sccm at a pressure of 1 Torr for 10 min at 200 °C.",
-  "surface_functionalization": "hydroxylation",
-  "evidence": "The expected starting surface in air is a fully hydroxylated R-TiO2(110) surface whose structural model34-36 is shown in Figure 1. The surface hydroxyls are quite important because these chemical species initiate the nucleation and growth of ALD W on oxide surfaces."
-}

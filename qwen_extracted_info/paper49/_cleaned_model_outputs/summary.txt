@@ -1,8 +1,0 @@
-{
-  "target_material": "Fe2O3",
-  "process_type": "Water-assisted ALD and Low-temperature CVD",
-  "main_precursors": ["[bis(N-isopropylketoiminate) iron(II)]"],
-  "temperature_range": "100–150 °C for ALD, 350 °C for CVD",
-  "summary": "The study reports on the development of a new iron ketoiminate precursor, [bis(N-isopropylketoiminate) iron(II)], for the vapor phase deposition of iron oxide via atomic layer deposition (ALD) and chemical vapor deposition (CVD). The ALD process was carried out at low temperatures (100–150 °C) using water as a co-reactant, resulting in amorphous Fe2O3 layers. CVD at 350 °C produced polycrystalline hematite (α-Fe2O3) layers. The deposited films were characterized for their structural, morphological, and photoelectrochemical properties, showing promising results for photoelectrochemical water splitting applications.",
-  "evidence": "The text states: 'The water-assisted ALD process developed here is characterized by a constant growth of amorphous Fe2O3 at a rate of 0.47 Å per cycle in a temperature range of 100–150 °C and polycrystalline layers of hematite (α-Fe2O3) were obtained by CVD for temperatures as low as 350 °C.'"
-}

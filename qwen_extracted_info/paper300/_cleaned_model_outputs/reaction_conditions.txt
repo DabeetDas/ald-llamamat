@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD were not explicitly described with formal chemical equations in the text. However, the text mentions that the films were deposited by alternating pulses of DEZ and H2O with pulses of TMA and H2O or TMP and H2O in a ratio according to the targeted dopant content. This suggests a surface reaction mechanism involving the alternating pulses of precursors and water, which is typical for ALD processes.",
-  "intermediate_species": ["surface hydroxyls"],
-  "evidence": "The text mentions that the films were deposited by alternating pulses of DEZ and H2O with pulses of TMA and H2O or TMP and H2O in a ratio according to the targeted dopant content. This suggests a surface reaction mechanism involving the alternating pulses of precursors and water, which is typical for ALD processes."
-}

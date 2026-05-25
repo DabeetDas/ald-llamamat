@@ -1,7 +1,0 @@
-{
-  "precursors": ["HfCl4", "H2O"],
-  "coreactants": [],
-  "purge_gas": ["Ar", "N2"],
-  "carrier_gas": [],
-  "evidence": "HfO2 thin films were grown on metal (Pt, Ir, Ru) films at 300°C in a flow-type ALD reactor, 38 using HfCl4 and H2O as precursors and 2 s precursor pulse and purge times."
-}

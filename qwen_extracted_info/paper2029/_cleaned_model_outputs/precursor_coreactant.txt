@@ -1,7 +1,0 @@
-{
-  "precursors": ["HfCl4", "TMA"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The two pairs of precursors pulsed in each deposition cycle were H2O/HfCl4 (hafnium tetrachloride) and H2O/TMA (trimethylaluminum), for depositing HfO2 and Al2O3, respectively. By using nitrogen (flow rate ~800 sccm!) as both the carrier and purging gas, gas phase reactions between precursors are prevented."
-}

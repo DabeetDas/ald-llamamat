@@ -1,8 +1,0 @@
-{
-  "target_material": "Li2CO3",
-  "process_type": "plasma-assisted and thermal ALD",
-  "main_precursors": ["lithium tert-butoxide", "O2 plasma or H2O/CO2"],
-  "temperature_range": "50–300 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of lithium carbonate (Li2CO3) using both plasma-assisted and thermal ALD processes. The goal is to achieve uniform and conformal coatings for applications in electrochemical devices. The plasma-assisted ALD process allows for higher growth per cycle, lower substrate temperatures, and shorter cycle times compared to thermal ALD. The stoichiometry of the films can be controlled by adjusting the substrate temperature and O2 plasma exposure time. The ionic conductivity of the films is measured and found to be in the order of 10−10 S cm−1 after normalization to the effective surface area.",
-  "evidence": "In this work, plasma-assisted and thermal ALD were adopted to grow ultra-thin, conformal Li2CO3 films between 50 and 300 °C using lithium tert-butoxide as a precursor and O2 plasma or H2O/CO2 as co-reactants. Plasma-assisted ALD allows for higher growth per cycle values (0.82 vs. 0.60 Å), lower substrate temperatures and shorter cycle times. The stoichiometry of the films, ranging from Li2CO3 to Li2O, can be controlled by substrate temperature and O2 plasma exposure time. The ionic conductivity for both plasma-assisted and thermal ALD is measured for the first time and is in the order of 10−10 S cm−1 after normalization to the different effective surface areas."
-}

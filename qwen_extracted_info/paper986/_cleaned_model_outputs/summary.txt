@@ -1,8 +1,0 @@
-{
-  "target_material": "Zn(O,S)",
-  "process_type": "Spatial ALD",
-  "main_precursors": ["Diethylzinc (DEZ)", "Water (H2O)", "Hydrogen sulfite (H2S)"],
-  "temperature_range": "120 °C",
-  "summary": "Zinc oxysulﬁde (Zn(O,S)) is deposited using spatial atomic layer deposition (S-ALD) as a buffer layer in Cu(In,Ga)Se2 (CIGS) solar cells. The process uses diethylzinc, water, and hydrogen sulfite as precursors. The S/(S + O) ratio is controlled by co-injecting H2O and H2S precursors. The optimal S/(S + O) ratio of 0.4 results in improved short circuit current density (Jsc) and cell efficiency (η) compared to CdS buffer layers.",
-  "evidence": "Zinc oxysulﬁde has been grown by spatial atomic layer deposition (S-ALD) and successfully applied as buffer layer in Cu(In, Ga)Se2 (CIGS) solar cells. Diethylzinc, water and hydrogen sulﬁte (H2S) have been used as zinc, oxygen and sulfur precursor, respectively. The S/(S + O) ratio in the ﬁlm is accurately controlled by exposing the substrate simultaneously to both H2O and H2S precursors, which are pre-mixed and co-injected in the same deposition zone. An optimum value of S/(S + O) ratio of about 0.4 is found for which both the short circuit current density (Jsc = 34.2 mA/cm2) and cell efficiency (η = 15.9%) increase, as compared to reference cells with CdS buffer layer (Jsc = 32.1 mA/cm2, η = 15.5%)."
-}

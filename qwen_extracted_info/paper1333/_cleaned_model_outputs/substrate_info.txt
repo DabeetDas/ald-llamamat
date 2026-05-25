@@ -1,7 +1,0 @@
-{
-  "substrate_material": "SiCN",
-  "substrate_orientation": "",
-  "pretreatment": "H2/N2 plasma treatment for 7 s followed by an additional 3 s H2 plasma treatment",
-  "surface_functionalization": "H2 plasma surface modification to inhibit Ru ALD nucleation on a-C:H while allowing nucleation on SiCN",
-  "evidence": "The plasma conditions employed in this study are summarized in Table 1. Plasma Pressure, mTorr Power, W Remarks H2/N2 120 500 (60 MHz) + 80 (13.6 MHz) Anisotropic etch, ratio H2/N2 = 1/1 H2 50 300 (60 MHz) Used as a post treatment, in order to promote the ALD Ru selectivity on SiCN with respect to a-C:H He/H2 3000 2000 Additional plasma treatment to investigate the a-C:H modification in H2-based plasma, ratio He/H2 = 30/1"
-}

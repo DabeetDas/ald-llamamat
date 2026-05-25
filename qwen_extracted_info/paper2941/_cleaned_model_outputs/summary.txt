@@ -1,8 +1,0 @@
-{
-  "target_material": "Zirconium silicate",
-  "process_type": "Chemical Vapor Deposition (CVD)",
-  "main_precursors": ["tetrakis(diethylamido)zirconium (Zr(NEt2)4)", "tetra-n-butyl orthosilicate (Si(OnBu)4)"],
-  "temperature_range": "400°C",
-  "summary": "Zirconium silicate films were deposited on Si(100) substrates using Zr(NEt2)4 and Si(OnBu)4 precursors. The films exhibited an amorphous structure up to 800°C and showed low hysteresis and leakage current density, making them suitable for gate dielectric applications. The study aimed to develop high-k dielectrics for sub-0.1 μm CMOS technology.",
-  "evidence": "Zirconium silicate films were deposited on Si(100) substrates at 400°C by CVD. The films were amorphous up to 800°C and showed low hysteresis and leakage current density. The study aimed to develop high-k dielectrics for sub-0.1 μm CMOS technology."
-}

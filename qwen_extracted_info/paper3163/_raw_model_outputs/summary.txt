@@ -1,8 +1,0 @@
-{
-  "target_material": "Tantalum Nitride (TaN)",
-  "process_type": "Two-Step Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Tantalum pentafluoride (TaF5)", "Ammonia (NH3)"],
-  "temperature_range": "200–350°C",
-  "summary": "The study describes a two-step ALD process for depositing tantalum nitride (TaN) as a copper diffusion barrier. The process involves reducing TaF5 with hydrogen plasma to form elemental tantalum, followed by nitridation with NH3. The study highlights the formation of cubic TaN with a Ta/N ratio of 1 at low temperatures (200°C) and the impact of NH3 dosage on microstructure and resistivity. The results show that cubic TaN can be achieved at low temperatures without Ta3N5 formation, making it suitable for low-temperature applications.",
-  "evidence": "A cubic /H9254-TaN thin ﬁlm with an electrical resistivity of 400 /H9262/H9024cm was successfully obtained by suppressing the formation of Ta3N5 using two-step atomic layer deposition independent of NH 3 dosage. The deposition cycle involved two chemical reaction steps: The formation of elemental tantalum /H20849Ta/H20850by reducing tantalum pentaﬂuoride /H20849TaF5/H20850with hydrogen plasma and the subsequent nitridation of the preformed Ta with NH 3 at 200–350°C. At a deposition temperature of less than 250°C, cubic /H9254-TaN with a Ta /N ratio of 1 was achieved independent of the NH 3 dosage."
-}<|im_end|>

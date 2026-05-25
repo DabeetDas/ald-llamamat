@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the inhibition of ALD precursors by the ODTS SAM, preventing deposition on areas where the SAM is present. The ODTS layer blocks the precursors, allowing deposition only on regions where the SAM has been removed by AFM oxidation and HF etching.",
-  "intermediate_species": ["ODTS SAM"],
-  "evidence": "On the loosely packed ODTS layers, the precursors can bond with the hydrophilic surface sites such as the remaining hydroxyl groups and oxygen atoms. Once the precursors nucleate at the defects, a significant amount of ZrO2 deposition would occur from these sites. The use of AFM oxidation lithography and HF etching enables oxide patterning and selective removal of the ODTS SAM, while the ODTS SAM in the rest of the substrate remains intact."
-}

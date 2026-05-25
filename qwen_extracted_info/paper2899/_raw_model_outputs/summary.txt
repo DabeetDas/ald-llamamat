@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu/Mn alloy",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Cu(OCHMeCH2NMe2)2", "Mn2(tBuNCHC(tBu)(Me)O)4", "BH3(NHMe2)"],
-  "temperature_range": "160 °C",
-  "summary": "The paper describes the thermal ALD growth of Cu/Mn alloy films using specific precursors at 160 °C. The process involves combining Cu and Mn ALD steps to achieve a Cu/Mn ratio of approximately 70:30. The films were deposited on various substrates, and the study investigates Mn diffusion behavior in the films, particularly in Cu/Mn/Cu stacks. The results show that Mn atoms can diffuse to the SiO2/Cu interface, forming potential diffusion barriers.",
-  "evidence": "This paper describes the thermal ALD growth of Cu/Mn alloy films using the precursors Cu(OCHMeCH2NMe2)2, Mn2(tBuNCHC(tBu)(Me)O)4, and BH3(NHMe2) at 160 °C. Deposition rates of about 0.09 Å/cycle were observed on a variety of substrates. Cu:Mn ratios of about 70:30 were obtained by controlling the number of Cu and Mn cycles. X-ray photoelectron spectroscopy confirms the presence of metallic Cu and Mn within the Cu/Mn alloys. Similar precursors and chemistry were used to deposit 3550 nm thick Cu/Mn/Cu film stacks on Ru, Pd, and Pt substrates."
-}<|im_end|>

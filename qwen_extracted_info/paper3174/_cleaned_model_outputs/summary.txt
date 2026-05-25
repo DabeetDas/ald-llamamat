@@ -1,8 +1,0 @@
-{
-  "target_material": "CdSe colloidal nanocrystals",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminum", "H2O"],
-  "temperature_range": "300°C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit an Al2O3 layer on a CdSe nanocrystal (NC) embedded SiO2 nanopatterned substrate for memory device applications. The ALD process was performed using trimethylaluminum and H2O at 300°C.",
-  "evidence": "ALD-Al2O3 was deposited using trimethylaluminum and H2O for 250 reaction cycles at 300°C."
-}

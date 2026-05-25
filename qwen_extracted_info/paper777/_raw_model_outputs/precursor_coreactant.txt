@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethyl[N-(2-methoxyethyl)-2-methylpropan-2-amine] gallium (TMGON)"],
-  "coreactants": ["O plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "For the deposition of GaOx film, we selected TMGON as the Ga precursor for the PEALD process. Ar/O2 (Ar:O2 = 500:500) plasma was generated to supply reactive oxygen radicals and Ar+ ions. ... Each ALD cycle for GaOx film deposition consisted of five subsequent steps: injection of the Ga precursor assists for 1.0 s, Ga precursor vaporization for 1.5 s, purge gas for 25 s, O2 plasma for 5 s, and purge gas for 15 s, as illustrated in Fig. 1 (b)."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "PEALD",
-  "main_precursors": ["O2 plasma", "N2 gas", "trimethylaluminum"],
-  "temperature_range": "200 /C176C",
-  "summary": "A stable Al2O3 gate oxide film was deposited on a plastic substrate for low-temperature poly-silicon thin film transistors (TFTs) in flexible displays using plasma enhanced atomic layer deposition (PEALD). The process involved in situ plasma oxidation prior to deposition, with post-annealing at 200 /C176C to passivate defects by H diffusion from SiN x:H. The study aimed to improve the electrical properties and interface stability of the Al2O3/poly-Si interface.",
-  "evidence": "A stable aluminum oxide (Al2O3) film was obtained on a plastic substrate for use as low-temperature polycrystalline silicon (LTPS) thin film transistors (TFT) in a flexible display by in situ plasma oxidation prior to the deposition of gate dielectric grown by plasma enhanced atomic layer deposition (PEALD). The hysteresis value was minimized to about 2 V when more than 100 W of plasma power was applied during oxidation, which provides a formation of a high quality interfacial oxide layer. Moreover, by post-annealing at 200 /C176C without a plasma application, flat band voltage was shifted to near 1.2 V, which may be attributed to defect passivation by H diffusing out from SiN x:H."
-}

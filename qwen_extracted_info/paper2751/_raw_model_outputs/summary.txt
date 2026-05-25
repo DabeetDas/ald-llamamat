@@ -1,8 +1,0 @@
-{
-  "target_material": "SiO2",
-  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["tris(dimethylamino)silane", "O2 plasma"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the growth rate of SiO2 films on various metal–oxide (M–O) underlayers using plasma-enhanced atomic layer deposition (PEALD) with tris(dimethylamino)silane (TDMAS) as a precursor. The growth per cycle (GPC) values vary depending on the underlayer material, and a correlation between the GPC and the electronegativity difference of the M–O underlayer is established.",
-  "evidence": "The growth rate of an SiO2 film on various metal–oxide (M–O) underlayers by plasma-enhanced atomic layer deposition (ALD) using tris(dimethylamino)silane precursor and O2 plasma gas is systematically investigated, and the effect of the difference in the electronegativity of the M–O underlayer on the ALD-SiO2 growth mechanism is also discussed."
-}<|im_end|>

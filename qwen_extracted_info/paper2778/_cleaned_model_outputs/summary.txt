@@ -1,8 +1,0 @@
-{
-  "target_material": "Zinc sulfide",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Zinc", "Sulfur"],
-  "temperature_range": "373–623 K",
-  "summary": "The study investigates the atomic layer deposition (ALD) of zinc sulfide (ZnS) nanolayers on monocrystalline silicon substrates with different orientations. The process involves the cyclic feeding of reagents, with the temperature range of 373–623 K. The formation of ZnS layers is controlled by the thermodynamics of chemical reactions, and the study identifies the mechanism of layer growth based on the temperature and the surface reactions of the components.",
-  "evidence": "The formation of zinc sulfide thin films via the atomic laminating of components from a gas phase on single-crystal silicon substrates with (100), (110), and (111) orientations is examined. The characteristic temperatures of changes in the mechanism of layer formation and structural perfection are determined. The conditions for using the mechanism of layer growth are determined."
-}

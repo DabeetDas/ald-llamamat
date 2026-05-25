@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylgallium (TMG)", "ammonia (NH3)"],
-  "coreactants": [],
-  "purge_gas": ["argon (Ar)"],
-  "carrier_gas": [],
-  "evidence": "The GaCN layers were deposited on 4-inch Si wafers from alternating pulses of trimethylgallium (TMG) and ammonia (NH3), to eventually mimic an ALD process. An inert (argon) gas purge was applied between consecutive precursor doses."
-}

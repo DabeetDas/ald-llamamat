@@ -1,8 +1,0 @@
-{
-  "target_material": "Gold",
-  "process_type": "PEALD",
-  "main_precursors": ["Me3AuPMe3"],
-  "temperature_range": "50°C to 120°C",
-  "summary": "The study investigates the reaction mechanism of the Me3AuPMe3-H2 plasma-enhanced atomic layer deposition (PEALD) process. The process involves the deposition of gold using Me3AuPMe3 as the precursor and H2 plasma as the co-reactant. The reaction mechanism includes the chemisorption of the precursor, self-limiting adsorption, and removal of surface ligands by H2 plasma. The decomposition behavior of the precursor on gold surfaces is analyzed, showing that the stability of the ligands affects the self-limiting growth during ALD. The study also compares the use of different co-reactants and highlights the importance of temperature in precursor decomposition.",
-  "evidence": "The reaction mechanism of the Me3AuPMe3-H2 plasma ALD process was investigated using in-situ characterization techniques. The decomposition behavior of the Me3AuPMe3 precursor on a gold surface is presented and linked to the stability of the precursor ligands. The study also compares the use of different co-reactants and highlights the importance of temperature in precursor decomposition."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "ALD",
-  "main_precursors": ["TDMAH", "H2O/D2O"],
-  "temperature_range": "25-300°C",
-  "summary": "The study investigates the adsorption and reaction of tetrakis(dimethylamido)hafnium (TDMAH) on hydrogen-terminated Si(100) surfaces using atomic layer deposition (ALD). The process involves the interaction of TDMAH with the surface, leading to the formation of Hf-Si bonds and the release of byproducts such as dimethylamine (DMA) and N-methyl methyleneimine (MMI). The study also explores the decomposition mechanisms of TDMAH in the gas phase and on the surface, including β-hydride elimination and intramolecular insertion reactions. The results highlight the importance of surface reactions and the role of temperature in the ALD process.",
-  "evidence": "The adsorption and reaction of tetrakis(dimethylamido)hafnium (TDMAH) on hydrogen-terminated Si(100) surfaces were studied by using in situ attenuated total reflectance Fourier transform infrared spectroscopy (ATRFTIR), transmission IR, and quadrupole mass spectrometry (Q-MS). Surface and gas phase reactions were investigated at temperatures between 25 and 300°C."
-}<|im_end|>

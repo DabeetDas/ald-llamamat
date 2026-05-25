@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the reaction of the precursor with H2S, where the thiol groups on the surface react with the precursor, leading to the formation of SnS or GeS. The reaction is self-limiting due to surface saturation, and the growth rate is determined by the exposure of the precursor and H2S.",
-  "intermediate_species": ["surface hydroxyls", "thiol groups", "surface reaction product"],
-  "evidence": "The surface reaction mechanism is described as self-limiting due to surface saturation, and the growth rate is determined by the exposure of the precursor and H2S. The reaction of the precursor with H2S leads to the formation of SnS or GeS. The surface reaction product is mentioned as being desorbed at higher temperatures, indicating it is a transient species on the surface."
-}

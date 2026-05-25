@@ -1,8 +1,0 @@
-{
-  "target_material": "Zn(O,S)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["dimethylzinc (DMZn)", "H2O", "H2S"],
-  "temperature_range": "100–300 °C",
-  "summary": "The study investigates the growth characteristics, material properties, and optical properties of zinc oxysulfide (Zn(O,S)) films deposited by atomic layer deposition (ALD) using dimethylzinc (DMZn), H2O, and H2S. The films are characterized by x-ray diffraction (XRD), x-ray photoelectron spectroscopy (XPS), and spectroscopic ellipsometry. The Zn(O,S) films show a transition from cubic ZnS to hexagonal ZnO as the ZnO/(ZnO + ZnS) cycle ratio increases, with amorphous characteristics observed at higher ratios. The optical properties, including bandgap, are influenced by the composition and structure of the films.",
-  "evidence": "Zinc oxysulﬁde—Zn(O,S)—is a wide bandgap semiconductor with tunable electronic and optical properties, making it of potential interest as a buffer layer for thin ﬁlm photovoltaics. Atomic layer deposition (ALD) of ZnS, ZnO, and Zn(O,S) ﬁlms from dimethylzinc, H2O, and H2S was performed, and the deposited ﬁlms were characterized by means of x-ray diffraction, x-ray photoelectron spectroscopy, and spectroscopic ellipsometry. With focus on the investigation of Zn(O,S) ﬁlm growth characteristics and material properties, the ZnO/(ZnO + ZnS) ALD cycle ratios were systematically varied from 0 (ZnS ALD) to 1 (ZnO ALD)."
-}

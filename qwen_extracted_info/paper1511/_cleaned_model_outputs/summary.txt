@@ -1,7 +1,0 @@
-{
-  "target_material": "AlF3",
-  "process_type": "halide−halide exchange reaction",
-  "main_precursors": ["AlCl3", "TiF4"],
-  "temperature_range": "160 −340 °C",
-  "summary": "AlF3 thin films were deposited using a halide−halide exchange reaction with AlCl3 and TiF4 as precursors. The films showed good crystallinity at higher temperatures and had a refractive index of 1.36 at 580 nm. The growth rate was temperature-dependent, with a maximum of approximately 1.1 Å per cycle at 220 °C. The films contained small amounts of Cl and Ti impurities at high temperatures, and surface oxidation was observed due to moisture in ambient air.",
-  "evidence": "Our method makes use of a halide −halide exchange reaction with AlCl3 and TiF4 as the precursors. With this new chemistry, thin films of AlF3 can be deposited at a temperature range of 160 −340 °C. At 220 °C, the growth rate of the films is approximately 1.1 Å per cycle, and the refractive index is 1.36 (at 580 nm). The films show only small amounts of Cl and Ti impurities when deposited at high temperatures, as determined by ToF-ERDA. Surface oxidation of the films due to moisture in ambient air is observed."

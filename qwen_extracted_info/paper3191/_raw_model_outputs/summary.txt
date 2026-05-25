@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["diethylzinc (DEZ)", "H2O", "NH3"],
-  "temperature_range": "less than 100°C",
-  "summary": "The study describes the fabrication of pentacene/ZnO thin-film diodes on plastic substrates using atomic layer deposition (ALD) for ZnO and thermal evaporation for pentacene. The ALD process used diethylzinc, water, and ammonia as precursors at temperatures below 100°C. The diodes showed fast reverse recovery behavior, making them promising for fast switching applications.",
-  "evidence": "The 60 nm thick ZnO:N thin film was grown by atomic layer deposition on ITO-coated plastic film with a root-mean-square roughness at less than 100°C, which is marginal for PET substrate, under 2 Torr using diethylzinc, H2O, and ammonia gas as ALD precursors."
-}<|im_end|>

@@ -1,7 +1,0 @@
-{
-  "precursors": ["Sc(MeCp)3", "Gd(iPrCp)3", "TMA"],
-  "coreactants": ["H2O"],
-  "purge_gas": [],
-  "carrier_gas": [],
-  "evidence": "We use tris(methyl cyclopentadienyl)scandium (Sc(MeCp) 3) as the Sc precursor, which has not been illustrated in ALD before. The Sc(MeCp) 3 ampoule is obtained from SAFC and is heated to 145 8C to achieve sufficiently high vapor pressure. Tris(isopropyl cyclopentadienyl)gadolinium (Gd( iPrCp)3) and trimethylaluminum (TMA), both obtained from Air Products, are heated and cooled down to 200 and 15 8C, respectively. H 2O is applied as the oxidizer during the ALD of Gd xSc2/C0 xO3 and Al xSc2/C0 xO3 because O 3-based ALD of GdxAl2/C0 xO3 from Gd(iPrCp)3 and TMA has been shown to result in high leakage currents."
-}

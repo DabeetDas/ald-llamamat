@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the low-temperature atomic layer deposition (ALD) of Al2O3 using trimethylaluminum and water as precursors. The Al2O3 is grown on the SU-8 template, which is then removed to create an inverted replica. This inverted replica is then used as a template for the high-temperature ALD of TiO2 or GaP. The process includes the formation of an intermediate Al2O3 layer, which is selectively etched after the deposition of high-index materials.",
-  "intermediate_species": ["Al2O3"],
-  "evidence": "Al2O3 was chosen since it can be grown by ALD at temperatures as low as 33 ° C, produces smooth conformal films with root-mean-square (rms) roughness ≤0.4 nm, and can be etched by dilute HF. The intermediate Al2O3 replica was removed by three 15 min. etches in 2% HF. The resulting PC, shown in Fig. 1(e), is a precise shell-type replica of the original PC: one isolated void per primitive unit cell remains where the channels in the template were widest."
-}<|im_end|>

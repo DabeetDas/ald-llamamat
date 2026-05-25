@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "ALD",
-  "main_precursors": ["diethyl zinc", "deionized water"],
-  "temperature_range": "100 8C",
-  "summary": "The study describes the application of Atomic Layer Deposition (ALD) to infiltrate ZnO into colloidal CdSe and core/shell quantum-dot films. The ALD process was performed using diethyl zinc and deionized water at 100 8C. The ZnO ALD significantly improved the photoconductivity and mechanical properties of the quantum dot films, while also affecting their optical properties and photoluminescence.",
-  "evidence": "ZnO ALD was performed in two separate instruments, using alternating exposures to diethyl zinc (Strem) and deionized water (partial pressures /C24 133.3 Pa, 1–50 s duration, at 100 8C). The study also mentions that the ZnO ALD leads to faster, higher mass uptake, of up to 1400 ng cm/C0 2 cycle/C0 1, which is equivalent to 13 ZnO layers."
-}

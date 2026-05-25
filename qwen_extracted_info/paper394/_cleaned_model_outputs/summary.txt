@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs and InP",
-  "process_type": "chloride atomic layer epitaxy (ALE)",
-  "main_precursors": ["GaCI", "AsH3", "InCI", "tertialybutylphosphine (TBP)"],
-  "temperature_range": "300 °C to 680 °C",
-  "summary": "The study investigates the in situ optical characterization of GaAs and InP surfaces during chloride atomic layer epitaxy (ALE). The process involves alternating supply of GaCI and AsH3 or InCI and tertialybutylphosphine (TBP). The self-limiting mechanism of chloride ALE is observed, with the reflection intensity varying depending on the source gas supply sequence. The GaAs surface under GaCI supply is assumed to be covered by Ga, while the InP surface under InCI supply is covered by InCl, preventing dimer formation. The study also discusses the surface adsorption states and their relation to the growth mechanism.",
-  "evidence": "The reflection intensity varied by several per cent, depending on the source gas supply sequence. This reflection intensity was constant during the GaC1 and InC1 supply from both the GaAs and InP surfaces, probably corresponding to the self-limiting mechanism of chloride ALE. The GaAs surface under GaCI supply is assumed to be covered by Ga. The spectra from an InP surface during InCI supply were isotropic and different from the anisotropic spectra measured from an In-stabilized surface formed by P desorption. The different behavior of C1 on GaAs and InP may be due to a different reaction rate with H2."
-}

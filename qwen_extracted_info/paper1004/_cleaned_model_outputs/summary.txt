@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["titanium tetraisopropoxide (TTIP)", "water"],
-  "temperature_range": "150 °C",
-  "summary": "TiO2 films were deposited onto stainless steel substrates using atomic layer deposition (ALD) to enhance corrosion resistance. The films were amorphous and provided effective protection against corrosion in sodium chloride solution.",
-  "evidence": "The TiO2 films were prepared by ALD using titanium tetraisopropoxide (TTIP) and water as precursors, and the growth temperature was fixed at 150 °C. The films were amorphous in structure as characterized by X-ray diffraction. The corrosion resistance of the TiO2 films was confirmed through electrochemical measurements and impedance spectroscopy."
-}

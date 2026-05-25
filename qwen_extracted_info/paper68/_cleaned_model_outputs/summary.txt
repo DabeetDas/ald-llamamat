@@ -1,8 +1,0 @@
-{
-  "target_material": "CdS Quantum Dots",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["dimethyl cadmium (DMCd)", "in situ generated hydrogen sulfide (H2S)"],
-  "temperature_range": "150 °C",
-  "summary": "The study describes the use of Atomic Layer Deposition (ALD) to grow CdS quantum dots (QDs) on TiO2 surfaces for application in solid-state quantum dot sensitized solar cells (ssQDSSCs). The ALD process allows for the controlled growth of CdS QDs with variable sizes by adjusting the number of ALD cycles. The QDs are used as sensitizers in ssQDSSCs, and their size and optical properties are tuned through the ALD process. The study also highlights the advantages of ALD, such as excellent conformality and the ability to deposit materials in high aspect ratio substrates.",
-  "evidence": "We use ALD to grow CdS QDs by limiting the number of cycles to within the so-called ALD incubation period. The ALD approach described here can be applied to fabrication of quantum-conﬁ ned structures for a variety of applications, including solar electricity and solar fuels. The CdS QDs are grown on TiO2 surfaces using ALD with dimethyl cadmium (DMCd) and in situ generated hydrogen sulfide (H2S) as precursors at 150 °C."
-}

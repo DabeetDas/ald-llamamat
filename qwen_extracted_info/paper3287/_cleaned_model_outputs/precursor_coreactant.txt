@@ -1,7 +1,0 @@
-{
-  "precursors": ["copper(II)-1,1,1,5,5,5-hexafluoroacetylacetonate hydrate"],
-  "coreactants": ["water vapor", "isopropanol", "formalin"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["H2"],
-  "evidence": "The Cu films were deposited using a two-step ALD process in which copper(II)-1,1,1,5,5,5-hexafluoroacetylacetonate hydrate and water vapor were introduced in the first step and a reducing agent was introduced in a subsequent step. The carrier gas for the reducing agent and Cu(hfac)2 was H2."
-}

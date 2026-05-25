@@ -1,7 +1,0 @@
-{
-  "precursors": ["Mn(EtCp)2", "NH3 plasma"],
-  "coreactants": [],
-  "purge_gas": ["N2", "Ar"],
-  "carrier_gas": ["N2", "Ar"],
-  "evidence": "Mn(EtCp)2 (99.999%) was used as the Mn precursor, which was stored in a container at 130 oC and delivered into the reaction chamber with a N2 carrier gas. The remote NH3 plasma was activated by an inductively-coupled plasma generator under a radio frequency power of 2.8 kW and introduced into the chamber with an Ar carrier gas."
-}

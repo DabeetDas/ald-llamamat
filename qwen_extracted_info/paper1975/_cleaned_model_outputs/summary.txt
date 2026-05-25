@@ -1,8 +1,0 @@
-{
-  "target_material": "InAs and (InAs)1(GaAs)5 superlattice",
-  "process_type": "metalorganic atomic layer epitaxy (MOALE)",
-  "main_precursors": ["dimethylindium chloride (DMInCl)", "arsine (AsH3)"],
-  "temperature_range": "425 to 475 °C",
-  "summary": "InAs and (InAs)1(GaAs)5 superlattice were grown using metalorganic atomic layer epitaxy (MOALE) with dimethylindium chloride (DMInCl) as the In source and arsine (AsH3) as the As source. The process was carried out in a horizontal low-pressure MOCVD system, achieving monolayer-unit growth over a wide temperature range of 425 to 475 °C. The self-limiting growth mechanism allowed for the fabrication of high-quality superlattices with excellent selectivity and uniformity.",
-  "evidence": "InAs is grown by metalorganic atomic layer epitaxy (MOALE) using dimethylindium chloride (DMInCl) as a new In source material for ALE in a horizontal, low-pressure metalorganic chemical vapor deposition (MOCVD) system. Both InAs and GaAs growth are self-limited over a temperature range of 50 °C, from 425 to 475 °C. This advantage is applied to ALE growth of (InAs)1(GaAs)5 superlattice."
-}

@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the use of molybdenum hexacarbonyl (Mo(CO)6) and oxygen plasma. The growth mechanism is based on surface reactions between the precursor and reactant, with self-limiting growth observed at a deposition temperature of 162–176 °C. The growth rate was determined to be 0.76 Å/cycle, indicating a surface reaction mechanism where the precursor and reactant exposure times (Ts and Tr) are critical for achieving saturation.",
-  "intermediate_species": [
-    "Mo(CO)6",
-    "O2 plasma"
-  ],
-  "evidence": "The ALD process involves the use of molybdenum hexacarbonyl (Mo(CO)6) and oxygen plasma. The growth mechanism is based on surface reactions between the precursor and reactant, with self-limiting growth observed at a deposition temperature of 162–176 °C. The growth rate was determined to be 0.76 Å/cycle, indicating a surface reaction mechanism where the precursor and reactant exposure times (Ts and Tr) are critical for achieving saturation."
-}

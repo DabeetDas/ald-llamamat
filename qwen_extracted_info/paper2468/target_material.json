@@ -1,8 +1,0 @@
-{
-  "target_material": {
-    "chemical_formula": "Fe3O4",
-    "material_name": "Iron(II,III) oxide",
-    "material_class": "Oxide"
-  },
-  "evidence": "We have successfully used ALD to create Fe2O3 nanotubes in porous anodic alumina templates from two different chemical reactions with similar results. In method I, oxidation of ferrocene (also called bis(cyclopentadienyl)iron, usually abbreviated Cp2Fe) with an ozone/dioxygen (O3 / O2) mixture at 200 ° C yields a growth rate of 0.2 Å per cycle. Method II consists of the reaction of the dimeric iron (III)tert-butoxide, Fe2(OtBu)6, with water at 140 ° C, with 0.25 Å deposited per cycle. 22 Both methods yield a wall thickness distribution within each sample below 10%. The results are shown in Figs. 1 and 2. Smooth tubes of 50 or 160 nm outer diameters can be obtained, with aspect ratios on the order of 100. The thickness of the wall can be accurately controlled between 1 and 50 nm. Subsequent reduction of the Fe2O3 material by H2 at 400 ° C results in the formation of the strongly magnetic phase Fe3O4, a transformation veriﬁed by x-ray photoelectron spectroscopy and accompanied by the expected color change from yellow, orange, or brown (depending on the thickness) to black."
-}

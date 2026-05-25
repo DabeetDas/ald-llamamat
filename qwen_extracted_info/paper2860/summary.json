@@ -1,8 +1,0 @@
-{
-  "target_material": "silicone oil",
-  "process_type": "ultrasonic vibration",
-  "main_precursors": [],
-  "temperature_range": "",
-  "summary": "The study focuses on reducing mechanical friction in an electromagnetically spinning (EMS) viscometer using ultrasonic vibration to improve the accuracy of low-viscosity measurements. The system uses piezoelectric actuators to induce ultrasonic vibrations, which reduce the friction torque by a factor of 1/3, leading to a significant improvement in measurement accuracy.",
-  "evidence": "The application of ultrasonic vibration to reduce mechanical friction was applied in our experiment to improve the accuracy of viscosity measurements. We made a new EMS system equipped with piezoactuators to excite ultrasonic vibration to the sample cell, thereby successfully reducing the mechanical friction to one third that in the previous system."
-}

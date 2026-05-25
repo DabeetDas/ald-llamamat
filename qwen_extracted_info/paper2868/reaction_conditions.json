@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The etch-byproduct deposited during stopper etching contains C, N, and F, which may have reduced the Ta penetration for the stopper-etched sample. The etch-byproduct is a CFx-based material that seals the pores, preventing Ta penetration.",
-  "intermediate_species": [
-    "CFx-based etch-byproduct",
-    "SiC cap etch-byproduct"
-  ],
-  "evidence": "The etch-byproduct deposited during the stopper etching contains C, N, and F. Posseme et al. reported that using CF4/N2/Ar plasma resulted in a CFx-based etch-byproduct on the plain SiOCH surface. Our result by XPS also shows the deposition of CFx based etch-byproduct. The top surface was irradiated by ions during the stopper etching; therefore, deposition of the etch-byproduct should be larger at the sidewall than the top surface. This etch-byproduct at the sidewall may have reduced the Ta penetration for the stopper-etched sample."
-}

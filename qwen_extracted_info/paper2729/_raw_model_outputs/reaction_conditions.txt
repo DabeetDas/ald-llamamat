@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "SiH2Cl2 chemisorbs dissociatively forming silicon monochloride surface species. The passivating Cl is reacted off through a reduction reaction with H2 to form HCl. However, molecular H2 does not react with the Cl-passivated surface, and atomic hydrogen must be used to remove Cl from the surface.",
-  "intermediate_species": ["SiCl", "SiCl2", "SiCl3"],
-  "evidence": "SiH2Cl2 chemisorbs dissociatively forming silicon monochloride surface species. The passivating Cl is reacted off through a reduction reaction with H2 to form HCl. However, molecular H2 does not react with the Cl-passivated surface, and atomic hydrogen must be used to remove Cl from the surface. The observation only of SiCI shifts in the Si 2p photoelectron spectra thus precludes the presence of SiCl2 and SiCl3 on the surfaces, but does not rule out SiR, SiR2, SiRCI, or SiH2CI, etc."
-}<|im_end|>

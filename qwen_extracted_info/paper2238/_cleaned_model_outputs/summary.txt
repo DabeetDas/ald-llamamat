@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "H2O"],
-  "temperature_range": "125 °C",
-  "summary": "The study investigates the use of Al2O3 atomic layer deposition (ALD) and SiN plasma-enhanced chemical vapor deposition (PECVD) as gas diffusion barriers on polymer substrates. The ALD process uses TMA and H2O as precursors, and the films are grown at 125 °C. The combination of ALD Al2O3 and PECVD SiN significantly improves barrier properties, reducing water vapor transmission rates (WVTR) to the lower limit of the Ca test. The ALD process is used to deposit thin Al2O3 layers on SiN PECVD films, which enhances the barrier performance and reduces the required thickness of the Al2O3 layer.",
-  "evidence": "The text states: 'Al2O3 ALD films can be deposited at low temperatures below the glass transition temperature of many polymers.' and 'A typical ALD cycle to produce Al2O3 at 125 °C consisted of a 0.1 s TMA exposure, followed by a 30 s purge, then a 0.15 s water exposure, followed again with a 30 s purge.' Additionally, it mentions: 'The SiN PECVD layers were formed using SiH4 and N2 as reactants in a plasma intensified using electron cyclotron resonance.'"
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "SrS and SrO",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Sr(thd)2", "H2O", "H2S"],
-  "temperature_range": "200-420°C for reactor temperature (TR), 200-340°C for source temperature (Ts)",
-  "summary": "The study investigates the use of Sr(thd)2 as a precursor for the atomic layer epitaxy (ALE) growth of SrS and SrO thin films. The growth process is influenced by the source temperature, with decomposition of Sr(thd)2 observed at temperatures between 240-270°C, leading to a decrease in growth rate or etching. The decomposition of the precursor affects the growth mechanism, and the study highlights the importance of controlling the source temperature to achieve stable deposition.",
-  "evidence": "The Sr(thd), source temperature, T,, significantly affects the growth rate. At T, = 240-270 "C, a decrease of growth rate and in some cases even etching of the grown film takes place. These phenomena can be explained by the decomposition of Sr(thd),, which also explains the dependence of the growth rate on the reactor temperature, T,, observed when T,<240 "C and 240 < T,/"C <400."
-}<|im_end|>

@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ti ethaoxide", "silanol"],
-  "coreactants": ["water"],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": [],
-  "evidence": "The TiO2 precursor was Ti ethaoxide heated to ,140 °C. The SiO2 precursor was silanol heated to ,110 °C. For both precursors, the reagent used was water maintained at ,13 °C. The nanolaminate was formed by repeating a cycle in which M monolayers of TiO2 were deposited, followed by a single monolayer of SiO2. To deposit a TiO2 monolayer, water was introduced into the chamber for 2 s, followed by a 2 s nitrogen purge. Then Ti ethaoxide was introduced into the chamber, followed by another 2 s nitrogen purge. SiO2 monolayers were deposited by introducing water into the ALD chamber for 1 s, followed by a 2 s nitrogen purge. Silanol was then introduced for 1 s."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "PEALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "O2 gas mixed with N2 gas"],
-  "temperature_range": "100°C to 350°C",
-  "summary": "The study describes the use of plasma-enhanced atomic layer deposition (PEALD) to grow Al2O3 thin films with improved electrical properties compared to conventional ALD. The process uses TMA and O2/N2 gas mixtures as precursors, achieving a higher growth rate and film density, which results in better breakdown fields and dielectric constants. The films were deposited at temperatures below 250°C for applications in flexible displays and low-temperature poly-Si thin-film transistors.",
-  "evidence": "Plasma-enhanced atomic layer deposition ~PEALD! technique using trimethylaluminum ~TMA! precursors and O2 gas mixed with N2 gas, was adopted as a promising method for growing Al2O3 thin films with improved electrical properties compared to the conventional ALD. PEALD provides a higher growth rate of 0.18 nm/cycle than ALD does of 0.11 nm/cycle at 100°C. Due to superior film density of PEALD compared to that of ALD, excellent breakdown fields of 9 MV/cm were obtained in PEALD Al2O3. The dielectric constants for Al2O3 films grown by PEALD were also higher than constants produced by ALD."
-}<|im_end|>

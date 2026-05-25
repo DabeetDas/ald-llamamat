@@ -1,3 +1,0 @@
-{
-  "film_properties": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": 2,   \"density_g_cm3\": null,   \"refractive_index\": null,   \"surface_roughness_nm\": null,   \"crystal_phase\": \"Amorphous\",   \"evidence\": \"The sample containing five 2-ML-thick UTQWs, grown at 270\\x0eC, presented the best emission features: a very intense and sharp emission at 2.26'"
-}

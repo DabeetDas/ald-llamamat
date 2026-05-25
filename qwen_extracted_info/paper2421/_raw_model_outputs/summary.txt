@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "400 ◦C",
-  "summary": "The study investigates the heterojunction effects on the photoconductive properties of TiO2 nanotubes fabricated by atomic layer deposition (ALD). The TiO2 nanotubes were grown using TiCl4 and H2O precursors at 400 ◦C. The process allows for precise control of the nanotube wall thickness, which influences the photoresponse by altering the interfacial area between the TiO2 and electrodes. The study compares the photoresponses of Ti/TiO2/Si and ITO/TiO2/Si photodiodes, highlighting the impact of different electrode materials on the heterojunction behavior.",
-  "evidence": "The precursors of TiCl4 and H2O, kept separately in a canister at 30 ± 1 ◦C and 25 ± 1◦C, were used as Ti and O sources, respectively. The operating environment of the chamber was maintained at 1.6× 10−1 Torr and 400 ◦C."
-}<|im_end|>

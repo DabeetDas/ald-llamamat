@@ -1,7 +1,0 @@
-{
-  "precursors": ["[Al(NMe2)2(DMP)]", "[Al(NEt2)2(DMP)]", "[Al(N iPr2)2(DMP)]", "[AlMe2(DMP)]"],
-  "coreactants": ["H2O", "O2 plasma"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The process shows typical ALD like growth characteristics yielding homogeneous, smooth and high purity Al2O3 thin films that are comparable to Al2O3 layers grown by well-established, but highly pyrophoric, trimethylaluminium (TMA)-based ALD processes. By using the highly pyrophoric trimethylaluminium [Al(CH3)3] (TMA) in combination with water, which is often described as the ideal ALD process, or in plasma enhanced (PE) ALD with oxygen plasma, the deposition temperature could be decreased down to nearly room temperature."
-}

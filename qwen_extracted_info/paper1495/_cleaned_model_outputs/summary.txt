@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tetrakis-dimethylamidotitanium (TDMAT)", "tris-(dimethylamido)-mono-(N,N′-diisopropyl-dimethyl-amido-guanidinato)-titanium (TiA3G1)"],
-  "temperature_range": "150–330 °C",
-  "summary": "The study investigates the growth of TiO2 thin films using thermal ALD with two titanium precursors, TDMAT and TiA3G1, and water vapor as the oxygen source. The ALD process was optimized for different temperatures, and the growth behavior, crystallization, and structural properties of the films were analyzed. The results show that TiA3G1 offers a broader ALD temperature range and improved thermal stability compared to TDMAT. The films exhibited different crystalline phases (anatase, brookite, rutile) depending on the process conditions, and the crystallization behavior was influenced by the ALD process time and temperature.",
-  "evidence": "The study discusses the growth of TiO2 using TDMAT and TiA3G1 with water vapor as the oxygen source. It highlights the thermal stability and ALD window of TiA3G1, which extends to 330 °C, and the crystallization behavior influenced by process time and temperature. The results show that the ALD process time and temperature significantly affect the phase composition and crystallinity of the films."
-}

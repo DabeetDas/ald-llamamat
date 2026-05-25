@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "300 /C176 C",
-  "summary": "The study focuses on the atomic layer deposition (ALD) of structurally disordered TiO2 thin films and the optimization of post-growth treatment parameters to reduce leakage currents and improve the electrical characteristics of the films. The process involves the use of TiCl4 and H2O as precursors, with post-deposition annealing at specific temperatures and durations to achieve measurable metal-oxide-semiconductor (MOS) structures. The best annealing conditions for p-type substrates were found to be 625 /C176 C for 30 minutes, which significantly reduced interfacial state density and improved the overall quality of the films.",
-  "evidence": "TiO2 ALD films were grown in a F120 commercial flow-type low-pressure (500 Pa) reactor employing titanium tetrachloride, TiCl4, and H2O as the metal and oxygen precursors. The growth temperature was 300 /C176 C. The annealing conditions that provide high enough quality TiO2 films were 625 /C176 C, 10 min for p-type silicon substrates, and 550 /C176 C, 10 min for n-type silicon substrates. The best combination of annealing parameters for p-type substrates is 625 /C176 C with the length extended to 30 min."
-}

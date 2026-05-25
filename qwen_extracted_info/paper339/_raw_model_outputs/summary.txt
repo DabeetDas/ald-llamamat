@@ -1,8 +1,0 @@
-{
-  "target_material": "CdS/ZnS superlattices",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["ZnS", "CdS"],
-  "temperature_range": "185 or 190°C",
-  "summary": "The paper describes the growth of CdS/ZnS superlattices on (100)GaAs using atomic layer epitaxy (ALE) at low temperatures. The study highlights the surface reconstructions observed during the growth process and confirms the formation of superlattice structures through X-ray diffraction and photoluminescence measurements. The results suggest that ALE is effective for growing high-quality CdS/ZnS superlattices with flat and smooth surfaces.",
-  "evidence": "The CdS/ZnS SLs were grown on (100)GaAs at low growth temperature of 185 or 190°C by atomic layer epitaxy using a molecular beam epitaxy system. The SL growth progresses with the surface reconstruction change from c(2 X 2)-Zn to (2 X 1)-S for ZnS and from (1 x 1)-Cd or c(2 X 2)-Cd to (2 X 1)-S for CdS. The SL structures are confirmed by the satellite peaks observed in X-ray diffraction spectra. The SLs exhibit flat and smooth surfaces."
-}<|im_end|>

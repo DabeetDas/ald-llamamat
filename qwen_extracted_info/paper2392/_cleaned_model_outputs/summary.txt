@@ -1,8 +1,0 @@
-{
-  "target_material": "WSe2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["WCl5", "H2Se"],
-  "temperature_range": "390 °C",
-  "summary": "The study demonstrates the growth of large area, few-layered WSe2 films using atomic layer deposition (ALD) with WCl5 and H2Se as precursors. The films exhibit smooth and continuous growth, comparable to exfoliation and chemical vapor deposition methods. The ALD process allows precise control of film composition and thickness, and the resulting films show ambipolar characteristics with high carrier mobilities.",
-  "evidence": "The WSe2 films were grown in a Microchemistry F-120 ALD reactor with WCl5 and H2Se as precursors. The growth temperature was 390 °C, and the films showed ambipolar characteristics with high carrier mobilities. The process enables precise control of film composition and thickness, and the films were comparable to those produced by exfoliation and chemical vapor deposition."
-}

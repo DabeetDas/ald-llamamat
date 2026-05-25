@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["H2O", "HfCl4"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the nucleation and growth of atomic layer deposited HfO2 gate dielectric layers on chemical oxide and thermal oxide underlayers. It highlights the advantages of chemical oxide underlayers in enabling linear growth, minimal nucleation barriers, and high two-dimensionality of HfO2 films.",
-  "evidence": "HfO2 films were grown at 300 °C using an H2O/HfCl4 chemistry. The use of a chemical oxide underlayer results in almost no barrier to film nucleation, enables linear and predictable growth at constant film density, and the most two-dimensionally continuous HfO2 films."
-}

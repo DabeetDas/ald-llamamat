@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta-based barriers",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TaCl5", "NH3"],
-  "temperature_range": "300–390 °C",
-  "summary": "The study investigates the initial formation of Ta-based barriers on SiLK™ low dielectric constant films using atomic layer deposition (ALD) and physical vapor deposition (PVD). The ALD process using TaCl5 and NH3 precursors forms a dielectric Ta3N5 film with a sharp interface, while PVD forms a metallic Ta or TaN film. The ALD process showed reduced interface thickness and suppressed Ta diffusion, leading to a dense structure and a sharp interface.",
-  "evidence": "Conventional thermal ALD process using TaCl5 chemistry had ready nucleation on the SiLK™ surface. The absence of \"carbide\"-like peak in C1s spectra throughout deposition suggested a similar interface formation mechanism. After an initial dielectric interface, the final nitride film was found to be metallic by e-beam evaporation but dielectric Ta3N5 by atomic layer deposition. XPS uptake curves indicated the thinnest interface for ALD Ta3N5 and the thickest interface for PVD Ta. This can be attributed to suppressed diffusion of Ta atoms in the presence of NH3 and limited diffusion of TaCl5 molecules in SiLK™."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnOyAl O nanolaminates",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["diethyl zinc (DEZ)", "trimethyl aluminum (TMA)", "H2O"],
-  "temperature_range": "177 8C",
-  "summary": "The study investigates the growth of ZnOyAl O nanolaminates using atomic layer deposition (ALD) and examines the effect of interfacial density on surface roughness. ZnO and Al O films were deposited at 177 8C using alternating exposures to DEZ and H2O for ZnO, and TMA and H2O for Al O. The ZnO ALD films exhibited a growth rate of 2.01 A/cycle and significant surface roughness, while Al O ALD films showed a lower growth rate of 1.29 A/cycle and remained smooth. The nanolaminates were found to have reduced surface roughness with increased interfacial density, attributed to the amorphous Al O layers interrupting ZnO crystal growth.",
-  "evidence": "ZnOyAl O nanolaminates were grown using atomic layer deposition (ALD) methods. The ZnO and Al O films were deposited at 177 8C using alternating diethyl zinc yH2O exposures and trimethyl aluminumyH2O exposures, respectively. The ZnO ALD films grew at 2.01 A/cycle and roughened significantly versus film thickness because of the presence of ZnO nanocrystals. In contrast, the Al O ALD films grew at 1.9 A/cycle and remained remarkably smooth versus film thickness because of their amorphous structure."
-}<|im_end|>

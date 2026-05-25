@@ -1,8 +1,0 @@
-{
-  "target_material": "Pt/SnO2 core–shell nanowires",
-  "process_type": "thermal ALD",
-  "main_precursors": ["MeCpPtMe3", "oxygen"],
-  "temperature_range": "250°C",
-  "summary": "Pt/SnO2 core–shell nanowires were synthesized using thermal evaporation of SnO2 nanowires followed by atomic layer deposition (ALD) of Pt. The Pt shell significantly enhanced the gas and photon-sensing properties of the nanowires.",
-  "evidence": "The Pt /SnO2 core–shell nanowires exhibit a much higher gas sensitivity of /H1101122.0 to 500 ppm ethanol vapor, which obviously increases to 15.6 times that of pristine SnO2 nanowires, and both the gas and photoresponse and recovery time of Pt /SnO2 core–shell nanowires are much smaller than that of pristine SnO 2 nanowires. During ALD, the container for MeCpPtMe3 was kept at 45°C, providing a steady-state flux of MeCpPtMe3 at a constant pressure of 0.308 Torr to the reactor. After the preparation of SnO2 nanowires, Pt nanofilms were deposited on the nanowire surface to form Pt /SnO2 core–shell nanowires by ALD of Pt after 250 reaction cycles using alternating exposures to MeCpPtMe3 and oxygen at 250°C."
-}

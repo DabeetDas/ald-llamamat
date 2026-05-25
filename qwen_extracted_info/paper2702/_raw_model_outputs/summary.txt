@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Zr(Cp)(tBuDAD)(OiPr)", "Zr(MeCp)(TMEA)", "Zr(Me5Cp)(TEA)"],
-  "temperature_range": "200 –425 °C",
-  "summary": "This study compares the use of three novel heteroleptic zirconium precursors for atomic layer deposition (ALD) of ZrO2 using water or ozone as the oxygen source. The Zr(Me5Cp)(TEA) precursor showed excellent thermal stability and film purity, with self-limiting growth at temperatures up to 375 °C. The phase of the deposited films (tetragonal and monoclinic ZrO2) was influenced by deposition temperature and film thickness. Ozone as the oxygen source resulted in lower impurity levels compared to water.",
-  "evidence": "Three heteroleptic Zr precursors were studied for atomic layer deposition (ALD) of ZrO2. Films were deposited from Zr(Cp)(tBuDAD)(OiPr), Zr(MeCp)(TMEA), and Zr(Me5Cp)(TEA) with either water or ozone as the oxygen source. Self-limiting film growth was confirmed for the Zr(Cp)(tBuDAD)(OiPr)/O3 process at 250 °C and for the Zr(Me5Cp)(TEA)/O3 process at 375 °C, which is among the highest temperatures for advanced heteroleptic precursors. Excellent film purity with C, H, and N levels below the detection limit of the elastic recoil detection analysis was obtained with ozone as the oxygen source."
-}<|im_end|>

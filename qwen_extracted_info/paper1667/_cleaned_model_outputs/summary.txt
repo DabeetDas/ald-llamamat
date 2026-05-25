@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2",
-  "process_type": "ALD",
-  "main_precursors": ["Cp2Zr(CH3)2", "D2O"],
-  "temperature_range": "210-440 °C",
-  "summary": "The study investigates the ALD process of ZrO2 using Cp2Zr(CH3)2 and deuterated water as precursors. The reactions were monitored in situ with quadrupole mass spectrometry (QMS). The process exhibits self-limiting growth between 210-400 °C, with a notable decrease in growth rate below 300 °C. The study highlights the release of reaction byproducts such as CpD and CH3D during the precursor pulses and discusses the effect of temperature on the reaction mechanism and film growth.",
-  "evidence": "Reactions during the atomic layer deposition (ALD) process of ZrO2 from Cp2Zr(CH3)2 and deuterated water as precursors were studied with a quadrupole mass spectrometer (QMS) at 210-440 °C. The detected reaction byproducts were CpD (m/z ) 67) and CH3D( m/z ) 17). ALD-type self-limiting growth was confirmed from 210 to 400 °C. However, below 300 °C the growth rate was low. Precursor decomposition affected the film growth mechanism at temperatures exceeding 400 °C."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["{η5:η1-Cp(CH2)3NMe}Zr(NMe2)2", "O3"],
-  "temperature_range": "300 – 380 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of ZrO2 thin films using a linked cyclopentadienyl-amido zirconium precursor, {η5:η1-Cp(CH2)3NMe}Zr(NMe2)2, and ozone. The ALD process was optimized to achieve a growth rate of about 0.95 Å/cycle within a temperature range of 300–380 °C. The films exhibited good conformality, low impurity levels, and a strong tendency to form tetragonal/cubic phases. The linked precursor showed better ALD performance compared to the commonly used CpZr(NMe2)3 precursor.",
-  "evidence": "Atomic layer deposition (ALD) of ZrO2 thin ﬁlms was investigated using a linked cyclopentadienyl-amido compound of zirconium, { η5:η1-Cp(CH2)3NMe}Zr(NMe2)2 with ozone. The ALD-window was established as 300 – 380 °C with a growth rate of about 0.95 Å/cycle. A good ﬁlm conformality of 0.95 for 5.7 –6.1 nm-thick ﬁlm was obtained for bottom and sidewall step coverages of 0.93 and 0.95, respectively. The ALD at 330 °C yielded a ZrO2 having good crystallinity. The ﬁlm showed low impurity levels and a strong tendency to form the tetragonal/cubic phases despite a low ﬁlm thickness of 8.58 nm (root-mean-square roughness = 0.49 nm). Better ALD performance was obtained with this linked precursor than with the commonly used CpZr(NMe 2)3 precursor."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium",
-  "process_type": "PEALD",
-  "main_precursors": ["bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2)", "NH3 plasma"],
-  "temperature_range": "270°C",
-  "summary": "Ruthenium thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) with bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2) and NH3 plasma at 270°C. The process showed a self-limited film thickness of 0.038 nm/cycle, thinner than conventional ALD using oxygen. The PEALD process improved interfacial adhesion between copper and diffusion barrier metals by forming Cu-Ru bonds without degrading copper resistivity.",
-  "evidence": "Ruthenium thin films were produced by plasma-enhanced atomic layer deposition (PEALD) using an alternating supply of bis(ethylcyclopentadienyl)ruthenium [Ru(EtCp)2] and NH3 plasma at a deposition temperature of 270°C. The PEALD of ruthenium shows a merit in controlling ultrathin film thickness with less than 2 nm more precisely and more easily than the conventional ALD, due to the reduced transient period at the initial film growth stage. Also, ruthenium thin film improved the interfacial adhesion of metallorganic chemical vapor deposited copper to diffusion barrier metals by forming Cu-Ru chemical bonds at the interface without degrading the film resistivity of copper."
-}

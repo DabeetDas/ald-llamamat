@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of NH3 as a reducing agent for the deposition of Co thin films through thermal ALD. The Co precursor, bis(N,N-diisopropylacetamidinato)Co(II), reacts with NH3, leading to the formation of pure Co films with high density and low resistivity. The mechanism is characterized by the reduction of the Co precursor by NH3, which effectively cleaves the Co–N bonds, resulting in the deposition of pure Co without significant nitrogen contamination.",
-  "intermediate_species": ["Co–N bonds", "surface hydroxyls", "Co–O bonding", "shake-up satellite peak"],
-  "evidence": "The Co precursor, bis(N,N-diisopropylacetamidinato)Co(II), reacts with NH3, leading to the formation of pure Co films with high density and low resistivity. The mechanism is characterized by the reduction of the Co precursor by NH3, which effectively cleaves the Co–N bonds, resulting in the deposition of pure Co without significant nitrogen contamination. The XPS analysis showed that the Co peaks of the TH Co film were broad, indicating oxidation of the film, while the TNH Co showed narrow XPS peaks corresponding to metallic Co."
-}<|im_end|>

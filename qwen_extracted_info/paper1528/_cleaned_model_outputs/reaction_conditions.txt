@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD involve the sequential deposition of BaO, ZrO2, and Y2O3 using precursors, with water as the oxidant. The growth of the films is surface-controlled, and the process is self-limiting, indicating that the surface reactions are critical for the ALD mechanism.",
-  "intermediate_species": ["Y2O3", "BaO", "ZrO2"],
-  "evidence": "The text describes the ALD process for fabricating BYZ films using sequential deposition of its component oxides (BaO, ZrO2, and Y2O3) with water as the oxidant. It mentions that the growth rates of the films were measured and that the process is self-limiting, indicating surface-controlled reactions. The text also states that the films were characterized using XPS and XRD, confirming the stoichiometry and structure of the deposited films."
-}

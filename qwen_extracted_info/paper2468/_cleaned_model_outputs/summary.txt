@@ -1,8 +1,0 @@
-{
-  "target_material": "Fe3O4",
-  "process_type": "thermal ALD",
-  "main_precursors": ["ferrocene", "ozone/dioxygen", "dimeric iron(III) tert-butoxide", "water"],
-  "temperature_range": "200 °C, 140 °C",
-  "summary": "The study investigates the magnetization reversal in ordered arrays of iron oxide nanotubes grown by atomic layer deposition (ALD). The magnetization reversal mechanism changes depending on the wall thickness of the nanotubes, transitioning from a vortex domain boundary in thin tubes to a transverse domain boundary in thick tubes. The ALD process was used to create Fe3O4 nanotubes with controlled wall thicknesses, and the study highlights the effect of magnetostatic interactions on the coercive field.",
-  "evidence": "We have successfully used ALD to create Fe2O3 nanotubes in porous anodic alumina templates from two different chemical reactions with similar results. In method I, oxidation of ferrocene with an ozone/dioxygen mixture at 200 °C yields a growth rate of 0.2 Å per cycle. Method II consists of the reaction of the dimeric iron(III) tert-butoxide with water at 140 °C, with 0.25 Å deposited per cycle."
-}

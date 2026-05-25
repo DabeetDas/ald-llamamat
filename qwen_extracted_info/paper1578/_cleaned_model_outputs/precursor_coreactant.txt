@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA", "NH3"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "Nitrogen (Oy Aga Ab, H2O < 3 ppm, O2 < 3 ppm) was used as an inert carrier and purging gas. Before use, it was purified with Messer Griesham Oxisorb and Hydrosorb filters. Trimethylaluminum (Witco GmbH, 97.5 wt %, Cl < 0.01 wt %) and ammonia (Oy Aga Ab, 99,998%, H2O < 5 ppm) were used as received."
-}

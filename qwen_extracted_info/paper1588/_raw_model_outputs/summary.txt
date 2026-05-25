@@ -1,8 +1,0 @@
-{
-  "target_material": "SiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the oxidation mechanism of silicon in the presence of a thin HfO2 layer using atomic layer deposition (ALD). The oxidation process is found to occur through two stages: an initial fast oxidation driven by moisture chemisorbed in the HfO2 layer, and a slower oxidation process involving molecular oxygen diffusion. The study highlights the role of moisture in promoting oxidation and the effectiveness of HfO2 as a diffusion barrier for molecular oxygen.",
-  "evidence": "The text states: 'A set of HfO2 films were deposited... by atomic layer deposition (ALD) using either a F-120 reactor (ASM-Microchemistry) or a Pulsar system (ASM). The temperature of the substrate during the growth was 300 °C, whereas the solid precursor (HfCl4 as the source of Hf) was kept at 160 °C.'"
-}<|im_end|>

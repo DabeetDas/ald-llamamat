@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of dimethylaminodimethylindium (DMLDMIn) and deionized water (DI water) on the substrate, followed by surface reactions that lead to the formation of indium oxide (In2O3). The growth process is self-limited due to surface saturation, which is a characteristic of ALD.",
-  "intermediate_species": ["DMLDMIn", "DI water", "In(OH)3"],
-  "evidence": "The surface reaction mechanism involves the adsorption of dimethylaminodimethylindium (DMLDMIn) and deionized water (DI water) on the substrate, followed by surface reactions that lead to the formation of indium oxide (In2O3). The growth process is self-limited due to surface saturation, which is a characteristic of ALD. It is also known that the presence of metal hydroxides in films affects their electrical properties. Films of binary oxides have high electrical conductivities, owing to the existence of native defects such as oxygen vacancies, cation interstitials, and substitutional/interstitial hydrogen atoms, which act as shallow donors. In the case of In2O3 films, In(OH)3 is formed in the films, resulting in oxygen vacancies; these vacancies affect the metallic properties of the films."
-}<|im_end|>

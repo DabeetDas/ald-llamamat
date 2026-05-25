@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the deposition of CoSx at low temperatures through the reaction of Co(AMD)2 and H2S. The surface reactions are not explicitly detailed with formal chemical equations, but the mechanism is described as involving the adsorption and reaction of precursor molecules on the surface, followed by the formation of CoSx through surface reactions. The amorphous phase of CoSx is formed, which is attributed to the low-temperature ALD process and is confirmed by DFT calculations.",
-  "intermediate_species": ["Co(AMD)2", "H2S", "surface hydroxyls", "amorphous CoSx"],
-  "evidence": "The surface reactions and mechanism are discussed in the context of the ALD process for CoSx deposition. The text mentions the use of Co(AMD)2 and H2S as precursor and reactant, respectively, and the formation of amorphous CoSx through the ALD process. The amorphous phase is confirmed by DFT calculations, indicating the surface reactions leading to the formation of CoSx."
-}

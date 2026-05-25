@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium nitride (TiN)",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["Tetrakis-dimethyl-amino-titanium (TDMA T)", "Hydrogen (H2)"],
-  "temperature_range": "150°C",
-  "summary": "The study describes the development of a low-temperature PEALD process for depositing low-resistivity TiN films using TDMA T as the organometallic precursor and hydrogen as the coreactant. The process achieves resistivity values between 210 and 275 Ω·cm for 10 nm thick films at 150°C. The surface reaction mechanism involves chemisorption through transamination exchange and hydrogen reduction, leading to the formation of Ti–C bonds and Ti–N bonds, as well as Ti–H bonds. The process is evaluated for industrial viability on 300 mm wafers, showing good uniformity and step coverage.",
-  "evidence": "Titanium nitride /H20849TiN/H20850films were deposited using plasma-enhanced atomic layer deposition /H20849PEALD/H20850from the organometallic precursor tetrakis-dimethyl-amino-titanium /H20849TDMA T/H20850with hydrogen /H20849H2/H20850as a coreactant. Low-resistivity values lying from 210 to 275 /H9262/H9024cm were achieved for 10 nm thick films deposited at low temperature: 150°C. The PEALD TiN film resistivity value obtained is almost as low as those obtained with ALD TiCl 4. A low resistivity value of 209 /H9262/H9024cm for TiN has been reported 15 at 100°C for 45 nm thick TiN films, with PEALD TiCl 4. The process was evaluated on 300 mm wafers, showing good performances on wafer-to-wafer uniformity and step coverage."
-}<|im_end|>

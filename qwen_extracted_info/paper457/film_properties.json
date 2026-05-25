@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 100,
-  "density_g_cm3": null,
-  "refractive_index": "1.68 + 0.02 (A = 632.8 nm)",
-  "surface_roughness_nm": null,
-  "crystal_phase": "",
-  "evidence": "Ellipsometric measurements (A = 632.8 nm) performed in the range of 0.5 to 115 nm showed that the thickness of the synthesized dielectric layer was linearly dependent on the number of reaction cycles, and that it could be selected with an accuracy of up to 0.2 nm. The formation time for the 100 nm layer was about 40 min. The refraction index for these layers was n = 1.68 + 0.02 (A = 632.8 nm) and the relative permittivity value was E = 5.3 + 0.2 (f= 1 MHz)."
-}

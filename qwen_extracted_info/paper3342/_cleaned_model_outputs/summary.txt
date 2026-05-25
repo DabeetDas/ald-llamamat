@@ -1,8 +1,0 @@
-{
-  "target_material": "Amorphous SnS2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Tetrakis (dimethylamino) tin (IV) (TDMASn)", "Hydrogen sulﬁde (H2S)"],
-  "temperature_range": "60 to 180°C",
-  "summary": "The study describes the fabrication of amorphous SnS2 thin films using Atomic Layer Deposition (ALD) at 140°C, achieving a stable photocurrent density of 51.5 µA/cm2 at 0.8 V vs. SCE. The films showed better performance compared to most polycrystalline SnS2 films, attributed to adjustable optical band gap, precise thickness control, and close contact with the substrate. The ALD process allows for the creation of smooth, uniform, and amorphous films with controlled properties for photoelectrochemical applications.",
-  "evidence": "The optimal stable photocurrent density of the 50-nm-thick amorphous SnS2 film fabricated at 140°C was 51.5 µA/cm2 at an oxygen evolution reaction (0.8 V vs. saturated calomel electrode (SCE)). These results are attributed mainly to adjustable optical band gap in the range of 2.80 to 2.52 eV, precise control of the film thickness at the nanoscale, and the close contact between the prepared SnS2 film and substrate."
-}

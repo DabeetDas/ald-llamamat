@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["TiCl4", "O3"],
-  "temperature_range": "225 –600 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of TiO2 using TiCl4 and O3 as precursors on Si(100) substrates. The process allows for higher growth rates and lower surface roughness compared to the TiCl4–H2O process, particularly at temperatures between 275–600 °C. The films exhibit anatase and rutile phases depending on the deposition temperature, with the anatase phase dominating at lower temperatures and rutile forming at higher temperatures. The use of O3 as an oxygen precursor reduces hydrogen contamination, which is beneficial for applications requiring high purity and low hydrogen content.",
-  "evidence": "Atomic layer deposition (ALD) of thin films from TiCl4 and O3 on Si(100) substrates was investigated. The growth of TiO2 was obtained at substrate temperatures of 225 –600 °C from these hydrogen-free precursors. Formation of anatase phase in the films was observed at 250 –600 °C. In addition, the rutile phase was revealed in thicker films deposited at 600 °C. Compared to the well studied TiCl4–H2O ALD process the TiCl4–O3 process allowed higher growth rate at 275 –600 °C. In addition, relatively low surface roughness was obtained for thicker (N50 nm) films of the anatase structure deposited from TiCl4 and O3 at 350–400 °C. Therefore TiCl4 and O3 appeared to be a good precursor combination for ALD of TiO2, particularly for applications that require low concentration of hydrogen contamination."
-}

@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 4,
-  "density_g_cm3": null,
-  "refractive_index": "1.465 for SiO2 and 1.766 for Al2O3",
-  "surface_roughness_nm": null,
-  "crystal_phase": "Amorphous",
-  "evidence": "Dielectric thickness was monitored on the metal films as well as on reference samples of bare silicon with a Philips SD 2300 ellipsometer at a wavelength of 632.8 nm, using bulk refractive index values of 1.465 for SiO2 and 1.766 for Al2O3."
-}

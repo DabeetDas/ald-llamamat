@@ -1,7 +1,0 @@
-{
-  "precursors": ["tris(dimethylaminocyclopentadienyl)-zirconium (ZyALD)", "tertbutyliminotris(diethylamino)tantalum (TBTDET)", "tetrakis(dimethylamino)germanium (TDMAGe)"],
-  "coreactants": ["O2"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "We used tris(dimethylaminocyclopentadienyl)-zirconium (ZyALD), tertbutyliminotris(diethylamino)tantalum (TBTDET) and tetrakis(dimethylamino)germanium (TDMAGe) as zirconium, tantalum and germanium precursors, respectively. Argon purge steps are skipped to remove transition times and a constant flow of Ar and O 2 is flowed into the reactor."
-}

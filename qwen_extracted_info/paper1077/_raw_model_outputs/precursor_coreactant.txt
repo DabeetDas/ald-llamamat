@@ -1,7 +1,0 @@
-{
-  "precursors": ["bis(cyclopentadienyl)ruthenium (RuCp2)"],
-  "coreactants": ["oxygen (O2) gas"],
-  "purge_gas": ["argon (Ar)"],
-  "carrier_gas": ["argon (Ar)"],
-  "evidence": "The ALD chamber is connected to rf sputtering chamber through load lock to form a cluster system. Thus, a sample can be transferred between these two chambers without breaking vacuum. Ru thin films were deposited using RuCp2 as a precursor and O2 as an oxidative reactant. The bubbler containing RuCp2 powder was heated to 85 °C to produce sufficient vapor pressure. The generated vapor was delivered to the reaction chamber by argon (Ar) carrier gas at a flow rate of 20 sccm for the exposure time of 2 s. Oxygen gas, without other carrier gas, was used as a reactant. Argon purging gas at a flow rate of 50 sccm was delivered to the reaction chamber between a pulse of RuCp2 and O2 gas in each deposition cycle for 2 s."
-}<|im_end|>

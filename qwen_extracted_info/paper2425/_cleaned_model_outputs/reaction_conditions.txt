@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions for the ALD of Ta2O5 and TiO2 were not explicitly described in the text, but the process involved the sequential pulsing of precursors (Ta(OEt)5 and H2O for Ta2O5, TiCl4 and H2O for TiO2) on the pore walls of porous alumina membranes. The mechanism likely involves the adsorption and reaction of precursor molecules on the surface, followed by the removal of byproducts through purging.",
-  "intermediate_species": ["Ta(OEt)5", "H2O", "TiCl4", "surface hydroxyls"],
-  "evidence": "The text mentions the use of Ta(OEt)5 and H2O for Ta2O5 deposition and TiCl4 and H2O for TiO2 deposition, indicating the precursors involved. The process is described as sequential pulsing of precursors on the pore walls, suggesting the formation of surface intermediates such as surface hydroxyls."
-}

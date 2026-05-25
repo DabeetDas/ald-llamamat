@@ -1,8 +1,0 @@
-{
-  "target_material": "Chromium oxide",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["CrO2Cl2", "water vapor", "methanol"],
-  "temperature_range": "200°ë to 523 K",
-  "summary": "The study describes the synthesis of chromium oxide nanostructures on silicon and gallium arsenide using atomic layer deposition (ALD). The process involves alternating treatment with chromium oxychloride (CrO2Cl2) and hydroxylating agents like water or methanol. The temperature range was between 200°ë and 523 K, and the thickness of the layers was controlled by the number of treatment cycles. The properties of the layers, including their composition and conductivity, were influenced by the synthesis conditions and the type of hydroxylating reagent used.",
-  "evidence": "The preparation of oxide layers by molecular layering is based on self-restrained chemisorption of metal halide (MCln) and water vapor under the conditions close to monolayer surface coverage. The thickness of the layers synthesized was determined ellipsometrically by measuring the polarization angles and calculated in the approximation of the Drude–Tronston one-layer model. The synthesis of chromium oxide layers that almost did not contain Cr(VI) was only observed in a reducing medium. The data obtained allowed us to suggest a scheme of the formation of nanolayers containing Cr(III) and Cr(VI) components."
-}<|im_end|>

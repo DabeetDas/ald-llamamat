@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "chloride atomic layer epitaxy (ALE)",
-  "main_precursors": ["GaCl"],
-  "temperature_range": "450 °C",
-  "summary": "The study investigates the adsorption and desorption of GaCl on GaAs surfaces using temperature programmed desorption (TPD). The desorption peaks at 220 and 330°C are attributed to adsorption on Ga and As sites, respectively. The adsorption energy for GaCl on As sites is 38 kcal/mol, and on Ga sites is 32 kcal/mol. The self-limiting process in chloride ALE is discussed, with GaCl desorption observed only from the surfaces without detection of other species.",
-  "evidence": "The adsorption energy of GaCI is calculated to be 38 kcal/mol for the As sites and 32 kcal/mol for the Ga sites. The self-limiting process in chloride atomic layer epitaxy (ALE) is discussed."
-}<|im_end|>

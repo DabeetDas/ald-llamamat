@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The exchange reaction between the surface OH groups and the metal precursor, followed by a water pulse to liberate the remaining ligands.",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "carbon containing fragments"],
-  "evidence": "Since the C and H impurities retained in the HfO2 films are low at the deposition temperatures of 350 and 400 uC, it is believed that only the metal–carbon bond is broken as a result of the exchange reaction between the surface OH groups and the metal precursor. The following H2O pulse then liberates the remaining ligands and thus carbon containing fragments are not left in the film."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["(ethylbenzyl) (1-ethyl-1,4-cyclohexadienyl) Ru(0)", "O2"],
-  "temperature_range": "420 °C",
-  "summary": "The study explores the use of Ruthenium (Ru) as a barrierless metallization solution for sub-10 nm interconnects. ALD Ru is deposited using (ethylbenzyl) (1-ethyl-1,4-cyclohexadienyl) Ru(0) and O2. The process includes an ALD TiN interface layer and postdeposition annealing. The effective resistance of Ru is lower than Cu/barrier systems at sub-10 nm dimensions, and Ru shows excellent electromigration behavior and negligible ion drift into low-κ dielectrics up to 200 °C. These results suggest Ru as a promising replacement for Cu in future interconnect technologies.",
-  "evidence": "Atomic layer deposition of ruthenium is studied as a barrierless metallization solution for future sub-10 nm interconnect technology nodes. We demonstrate the void-free filling in sub-10 nm wide single damascene lines using an ALD process in combination with 2.5 Å of ALD TiN interface and postdeposition annealing. At such small dimensions, the ruthenium effective resistance depends less on the scaling than that of Cu/barrier systems. Ruthenium effective resistance potentially crosses the Cu curve at 14 and 10 nm according to the semiempirical interconnect resistance model for advanced technology nodes. These extremely scaled ruthenium lines show excellent electromigration behavior. Time-dependent dielectric breakdown measurements reveal negligible ruthenium ion drift into low-κ dielectrics up to 200 °C, demonstrating that ruthenium can be used as a barrierless metallization in interconnects."
-}

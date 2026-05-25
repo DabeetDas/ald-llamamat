@@ -1,8 +1,0 @@
-{
-  "target_material": "PbTiO3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["lead bis(3-N,N-dimethyl-2-methyl-2-propanoxide)", "tetrakis dimethylamino titanium"],
-  "temperature_range": "250 °C",
-  "summary": "PbTiO3 thin films were deposited by atomic layer deposition (ALD) using lead bis(3-N,N-dimethyl-2-methyl-2-propanoxide) and tetrakis dimethylamino titanium as cation precursors, with H2O and ozone as oxidizers. The films were crystallized via rapid thermal anneal (RTA) at 700 °C for 1 min. The study aimed to analyze the effect of PbOx and TiOx nucleation layers on the crystallization of ALD PbTiO3 and to provide detailed electronic characterization.",
-  "evidence": "PbTiO3 thin films were deposited by atomic layer deposition (ALD) and crystallized via rapid thermal anneal. The films were grown using lead bis(3-N,N-dimethyl-2-methyl-2-propanoxide) and tetrakis dimethylamino titanium as cation precursors. A combination of H2O and ozone was used as oxidizers. The films were annealed by RTA at 700 °C for 1 min with a 90 °C/s standard ramp rate in O2 atmosphere."
-}<|im_end|>

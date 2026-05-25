@@ -1,7 +1,0 @@
-{
-  "precursors": ["TDMAT"],
-  "coreactants": ["NH3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The TDMAT precursor bottle is kept at 40 /C176C by a temperature controller. The tube from the precursor bottle to the chamber is heated to 50 /C176C to prevent condensation of the precursor gas. Computer controlled pneumatic valves allow the flow of TDMAT (Sigma Aldrich, 99.999%) in Ar carrier gas into the chamber."
-}<|im_end|>

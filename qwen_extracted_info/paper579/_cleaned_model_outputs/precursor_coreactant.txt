@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylindium (TMIn)"],
-  "coreactants": ["PH3"],
-  "purge_gas": ["H2"],
-  "carrier_gas": [],
-  "evidence": "After conventional cleaning sequence and the growth of a 1000-A InP buffer layer on the (001) InP substrate, the TMIn decomposition experiment and InP ALE were performed at 76 Torr using TMIn and PH as source gases. During H purge after the TMIn injection, the SPA signal increased slowly again because of slow desorption of methyl radicals. (In Figs. 1 and 5, as indicated below by growth sequence, when both TMIn and PH are off, H gas was on for purging purposes.)"
-}

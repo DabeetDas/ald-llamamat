@@ -1,8 +1,0 @@
-{
-  "target_material": "tin oxide-phosphate",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tetrakis(dimethylamino)tin", "trimethyl phosphate"],
-  "temperature_range": "200–250 °C",
-  "summary": "This study reports the atomic layer deposition (ALD) of tin oxide-phosphate films using tetrakis(dimethylamino)tin and trimethyl phosphate as precursors. The films were deposited at temperatures ranging from 200 to 250 °C, and the highest ionic conductivity was achieved at 300 °C. The ionic conductivity was found to be significantly influenced by the hydroxyl ion content in the films.",
-  "evidence": "This work reports the atomic layer deposition (ALD) of tin oxide-phosphate films using tetrakis (dimethylamino)tin and trimethyl phosphate as precursors. The growth rates were 1.23–1.84 A˚ /cycle depending upon the deposition temperature and precursor combination. The ionic conductivity of the ALD tin oxide-phosphate films was evaluated by cross-plane impedance measurements in the temperature range of 50–300 /C14 C under atmospheric air, with the highest conductivity measured as 1.92 /C2 10/C0 5 Sc m /C0 1 at 300 /C14 C."
-}

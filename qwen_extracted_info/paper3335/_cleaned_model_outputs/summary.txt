@@ -1,8 +1,0 @@
-{
-  "target_material": "CuInS2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Cu(acac)2", "H2S", "In(acac)3"],
-  "temperature_range": "150 °C to 180 °C",
-  "summary": "The study investigates the ALD process for depositing CuInS2, focusing on ion exchanges and reaction mechanisms in the Cu-In-S ternary system. It highlights challenges such as cation exchange and non-direct correlation between cycle ratio and film composition, proposing strategies to control these phenomena for scalable deposition.",
-  "evidence": "The study discusses the ALD process for CuInS2, emphasizing the challenges of cation exchange and non-direct correlation between cycle ratio and film composition. It also mentions the use of precursors Cu(acac)2, H2S, and In(acac)3, with deposition temperatures ranging from 150 °C to 180 °C."
-}

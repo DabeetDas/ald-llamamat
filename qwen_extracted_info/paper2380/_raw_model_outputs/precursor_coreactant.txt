@@ -1,7 +1,0 @@
-{
-  "precursors": ["TEMAHf"],
-  "coreactants": ["H2O", "O3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The HfO2 films were deposited at 300 ◦C using TEMAHf as an Hf precursor, and either H2O vapour or O3 gas was used as an oxidant. One cycle of HfO2 deposition consisted of a sequential injection of TEMAHf–N2–oxidant (H2O or O3)–N2 gases with a duration time of 2 s–10 s–1.5 (for H2O)/0.5 s (for O3)–15 s, respectively. The flow rates of N2 carrier, H2O, O3 and N2 purging gases were 50 sccm, 10 sccm, 50 sccm and 200 sccm, respectively."
-}<|im_end|>

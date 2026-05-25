@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["RuO4", "H2"],
-  "temperature_range": "200 /C176C to 400 /C176C",
-  "summary": "Ruthenium films were deposited using RuO4 as a precursor and hydrogen as a reducing co-reactant. The process was carried out using both Chemical Vapor Deposition (CVD) and Atomic Layer Deposition (ALD) methods. The use of ToRuS, a solvent solution containing RuO4, enabled the formation of low impurity content ruthenium films with good uniformity, adherence, and low incubation time. The process was found to be non-toxic and suitable for semiconductor manufacturing applications.",
-  "evidence": "Ruthenium films were deposited using an inorganic precursor, RuO4. The use of hydrogen as the only reducing co-reactant enabled us to form low impurity content ruthenium films. Tests were successfully carried out at low pressure by Chemical Vapor Deposition (CVD) and Atomic Layer Deposition (ALD) methods, in which ruthenium films were deposited at temperatures as low as 200 /C176C. The self-limiting characteristic of the ALD regime was clearly established as the deposition rate stays constant as the ToRuS pulse length increases. The adherence of the Ru metal films that were obtained was checked by a tape peeling test. Good adherence was observed for all films on a variety of different substrates. The use of this solution results in positive outcomes in terms of absence of incubation time (ALD) and low deposition temperature."
-}<|im_end|>

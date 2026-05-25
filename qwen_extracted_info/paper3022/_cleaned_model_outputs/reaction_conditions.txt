@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The deposition cycle consisted of two subcycles: the first subcycle reduced elemental Ta metal from TaF5 with H2/Ar plasma, and the second subcycle converted the resulting Ta into TaN using NH3.",
-  "intermediate_species": ["elemental Ta"],
-  "evidence": "The deposition cycle consisted of two subcycles. The first subcycle is a Ta formation step by reducing TaF5 with H2/Ar plasma, and the second subcycle is a nitridation step to convert the preformed Ta into TaN using NH3."
-}

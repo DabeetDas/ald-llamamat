@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Atomic-layer deposition (ALD)",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "300 ◦C",
-  "summary": "The paper describes the use of atomic-layer deposition (ALD) to deposit HfO2 for low thermal-budget n-channel FETs with solid-phase epitaxially regrown (SPER) junctions. The study compares the performance of devices with different gate stack configurations and thermal budgets, focusing on electrical characteristics such as equivalent oxide thickness (EOT), leakage current, and mobility. The results show that the low thermal-budget SPER process provides improved performance with lower EOT and reduced leakage current.",
-  "evidence": "The HfO2 films were grown by atomic-layer deposition (ALD) in a PULSAR 2000 reactor, attached to a Polygon 8200 platform. The depositions were done at 300 ◦C with HfCl4 and H2O precursors."
-}<|im_end|>

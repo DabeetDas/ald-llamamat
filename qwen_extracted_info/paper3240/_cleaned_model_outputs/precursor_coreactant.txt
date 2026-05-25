@@ -1,7 +1,0 @@
-{
-  "precursors": ["Sr[Ta(OC2H5)5-(OC2H4OCH3)2]", "Ti(OPri)2(mmp)2", "Ta=NBu t(NEt2)3", "Ce(mmp)4", "Et2AlOEt", "Ba(thd)2", "Hf(thd)4", "TaF5", "NbF5", "(1,2,4-tertiarybutyl-Cp)2Sr", "Ti(OMe)4"],
-  "coreactants": ["O2", "H2O", "O3"],
-  "purge_gas": ["Argon"],
-  "carrier_gas": ["Argon"],
-  "evidence": "Argon was used as carrier gas for vapor transportation to the hot substrate where vapor decomposes and the growth of the layer occurs."
-}

@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Once hafnium and silicon precursors are co-injected, both precursors react at the surface and a single atomic layer is formed because of their self-limiting chemisorption characteristics. Then, the oxidant gas is injected to oxidize chemically adsorbed precursors and make the surface reactive again to the incoming precursors, which would be injected in another cycle. Thus, with using an alkoxide as an oxidant, a total of two atomic layers can be formed in each cycle, which leads to a much higher growth rate.",
-  "intermediate_species": [
-    "alkoxide precursors",
-    "chemically adsorbed precursors"
-  ],
-  "evidence": "In Fig. 4(a), once hafnium and silicon precursors are co-injected, both precursors react at the surface and a single atomic layer is formed because of their self-limiting chemisorption characteristics. Then, the oxidant gas is injected to oxidize chemically adsorbed precursors and make the surface reactive again to the incoming precursors, which would be injected in another cycle. Thus, with using an alkoxide as an oxidant, a total of two atomic layers can be formed in each cycle, which leads to a much higher growth rate."
-}

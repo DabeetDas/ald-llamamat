@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": [
-    "surface hydroxyls",
-    "formate species"
-  ],
-  "evidence": "The presence of a LSPR band for the Cu NP was demonstrated by spectroscopic ellipsometry. The model employed for samples obtained after 1500, 3000 and 5000 ALD cycles is schematically represented in Figure 3a. The film stack consists in Cu NP deposited on a ZnO film grown on the Si substrate. In the case of the sample deposited at 10000 cycles, a Cu film with a certain porosity was considered since this film was thick enough to be opaque (details on the models to fit spectroscopic ellipsometric data are provided as Supporting Information, Figure S5, S6 and S7)."
-}

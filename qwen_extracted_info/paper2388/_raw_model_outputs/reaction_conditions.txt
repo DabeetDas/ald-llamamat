@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the formation of NbNx through plasma exposure after precursor dosing. The plasma parameters, such as pressure and exposure time, influence the specific resistance and deposition rate. The nitrogen content is varied by admixing nitrogen into the plasma, leading to the formation of stoichiometric NbN with low resistivity.",
-  "intermediate_species": ["NbNx", "NbOx"],
-  "evidence": "The text discusses the formation of NbNx through plasma exposure after precursor dosing. It also mentions the influence of nitrogen content on the film composition and the formation of NbOx as an intermediate species. The plasma parameters affect the specific resistance and deposition rate, indicating the role of plasma in the surface reactions."
-}<|im_end|>

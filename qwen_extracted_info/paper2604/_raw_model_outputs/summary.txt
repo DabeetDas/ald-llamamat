@@ -1,8 +1,0 @@
-{
-  "target_material": "Hf xZr1−xO2",
-  "process_type": "co-injection atomic layer deposition",
-  "main_precursors": ["tetrakis(ethylmethylamino) Hf (TEMAH)", "tetrakis(ethylmethylamino) Zr (TEMAZ)"],
-  "temperature_range": "250 °C",
-  "summary": "This study demonstrates the use of co-injection atomic layer deposition (ALD) to control the composition of Hf xZr1−xO2 films by varying the molar flow ratio of Hf and Zr precursors during the precursor exposure step. The co-injection approach allows for uniform and tunable composition control, with the Hf/(Hf + Zr)% values influenced by the chemisorption efficiency of the precursors. The process was compared with alternating HfO2 and ZrO2 growth cycles, and both methods resulted in similar electrical properties and compositional uniformity.",
-  "evidence": "The co-injection process was demonstrated for both H2O and O3-based ALD processes and good compositional uniformity on a 300 mm wafer was obtained. The co-injection approach was observed to lead to lower Hf content (x values) as compared to Hf xZr1−xO2 films deposited using the conventional HfO2 and ZrO2 ALD cycle ratio approach. The lower Hf content was explained in terms of more efficient chemisorption of the Zr precursor compared to the Hf precursor."
-}<|im_end|>

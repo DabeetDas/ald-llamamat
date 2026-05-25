@@ -1,7 +1,0 @@
-{
-  "precursors": ["Diethylzinc (DEZ)", "H2S", "H2O"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["Ar"],
-  "evidence": "For the conditions reported in this paper, diethylzinc [Zn(C2H5)2, (DEZ)], H2O and H2S are used as precursors for zinc, oxygen and sulfur respectively. DEZ and deionized water are evaporated from bubblers, using argon as carrier gas and transported to the reactor injection head through heated lines, to prevent condensation. A 3.5% H2S/N2 mixture is used as H2S source."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "D2O"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the nucleation and interface formation mechanisms during atomic layer deposition (ALD) of Al2O3 on hydrogen-terminated silicon. It highlights the role of the metal precursor (TMA) in controlling nucleation and the formation of interfacial SiO2. The process involves alternating pulses of TMA and water (or D2O) at 300 °C, with in situ infrared spectroscopy used to monitor surface reactions and oxide formation.",
-  "evidence": "We present an in situ infrared spectroscopic study of the interface formation during atomic layer deposition of alternative high-permittivity (high-k) gate dielectrics. Layer-by-layer oxide growth may be achieved by alternating pulses of a molecular metal precursor (e.g., trimethylaluminum for aluminum oxide growth) and water vapor. The sample temperature is maintained at 50 °C for data acquisition and raised to 300 °C during ALD precursor exposure."
-}

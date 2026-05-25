@@ -1,8 +1,0 @@
-{
-  "target_material": "NbN and NbSiN",
-  "process_type": "thermal ALD",
-  "main_precursors": ["NbCl5", "NH3", "SiCl4"],
-  "temperature_range": "400°C",
-  "summary": "NbN and NbSiN films were deposited using thermal atomic layer deposition (ALD) at 400°C with NbCl5 and NH3 as precursors for NbN, and SiCl4 as an additional precursor for NbSiN. The work function of these films was determined using high-frequency capacitance–voltage measurements. NbN has a work function of 4.7 eV on SiO2 and 4.9 eV on HfO2, while NbSiN has a work function of 4.7 eV on SiO2 and 4.8 eV on HfO2. The thermal stability of NbN is limited to 950°C, and the incorporation of silicon into NbN increases its thermal stability on SiO2. The study aimed to evaluate these materials as potential gate electrode materials for advanced complementary metal oxide semiconductor devices.",
-  "evidence": "Nb/H20849Si/H20850N ﬁlms deposited by thermal atomic layer deposition /H20849ALD/H20850have been investigated as potential gate electrode materials in advanced complementary metal oxide semiconductor devices. The NbN ﬁlms were deposited at 400°C using NbCl 5 and NH 3 as precursors. For NbSiN, SiCl 4 was added as a precursor. It was found that NbN has a work function of /H110114.7 eV on SiO 2 and /H110114.9 eV on HfO 2. However, thermal stability is limited to /H11011950°C. The thermal stability on SiO 2 is increased by incorporation of silicon into the NbN. NbSiN has a work function of /H110114.7 eV on SiO 2 and /H110114.8 eV on Hf O 2."
-}

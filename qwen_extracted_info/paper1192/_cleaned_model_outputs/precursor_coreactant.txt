@@ -1,7 +1,0 @@
-{
-  "precursors": ["WF6", "SiH4"],
-  "coreactants": ["H2"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The ALD half-reactions are written as −− * + →− − * + + (WSiH ) WF6(g) 4(g) 2(g) (1) −* + →− − * + + (WF H ) SiH (W Si F H ) SiF H yz 4(g) 4(g) 2(g) (2) where the asterisk ( *) denotes adsorbed surface species. Research grade Ar (99.999%, Machine & Welding Supply Company) served as the process carrier gas and was purified using an Entegris Gate-Keeper."
-}

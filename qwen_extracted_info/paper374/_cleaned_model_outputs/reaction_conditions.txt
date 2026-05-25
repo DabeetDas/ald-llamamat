@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth mechanism involves the suppression of new island or step formation due to the maintenance of 100% surface coverage of III and V compound precursors during each source gas supply. The self-limiting mechanism prevents further growth beyond a monolayer, and the surface reconstruction consisting of a double As layer is avoided due to the self-limiting mechanism of incoming AsH3 molecules.",
-  "intermediate_species": ["GaMe (Me = CH3)"],
-  "evidence": "The surface reconstruction consisting of a double As layer that enhances the facet growth can be avoided since incoming AsH3 molecules cannot adsorb on the As surface because of a self-limiting mechanism."
-}

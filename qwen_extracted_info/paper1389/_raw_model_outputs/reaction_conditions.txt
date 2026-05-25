@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the alternating exposure of carbon fibers to trimethylaluminum (AlMe3) and triethylphosphate (OP(OEt)3) vapors at 250 °C. The mechanism is characterized by the formation of a weak and oxidation-resistant coating of aluminum phosphate (AlPO4) through the reaction of these precursors on the surface of the fibers. The process is described as an atomic layer deposition (ALD) process, where the surface reactions are self-limiting and lead to the formation of a uniform and conformal coating.",
-  "intermediate_species": ["Al(PO3)3"],
-  "evidence": "The surface reaction mechanism is described in the text as follows: 'Aluminum phosphate was deposited onto bundles of carbon fibers and flat glassy carbon substrates using atomic layer deposition by exposing them to alternating pulses of trimethylaluminum and triethylphosphate vapors.' Additionally, the text mentions that 'the reaction of the phosphoric ester with the surface is slow or hindered' and that 'the molar ratio of phosphorus to aluminum in the coating was analyzed via ICP-OES.' The presence of Al(PO3)3 is noted in the NMR analysis, indicating it as an intermediate species."
-}<|im_end|>

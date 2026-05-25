@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2",
-  "process_type": "plasma-enhanced ALD (PEALD)",
-  "main_precursors": ["zirconium t-butoxide", "oxygen"],
-  "temperature_range": "250°C",
-  "summary": "ZrO2 gate dielectric films were deposited using plasma-enhanced atomic layer deposition (PEALD) with zirconium t-butoxide and oxygen as precursors. The films showed improved quality with lower carbon content and higher growth rate when deposited using oxygen plasma. The study demonstrated the potential of PEALD for high-quality ZrO2 gate dielectric thin film deposition.",
-  "evidence": "Zirconium oxide (ZrO2) films were investigated as a potential replacement for a silicon dioxide (SiO2) gate dielectric and were successfully deposited by the atomic layer deposition (ALD) method using zirconium t-butoxide and oxygen as the Zr precursor and reactant gas, respectively. ZrO2 films deposited with the oxygen plasma state showed higher growth rate with lower carbon content than the films deposited with the oxygen gas phase. This study demonstrated the possible application of the plasma-enhanced ALD technique for high-quality ZrO2 gate dielectric thin film deposition."
-}

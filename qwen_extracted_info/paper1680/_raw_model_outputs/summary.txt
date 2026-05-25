@@ -1,8 +1,0 @@
-{
-  "target_material": "Silver nanoparticles",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Titanium isopropoxide (TIP)", "Water", "Trimethyl aluminum (TMA)"],
-  "temperature_range": "200 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to coat silver nanoparticles with titanium dioxide (TiO2) to protect them from corrosion in dye-sensitized solar cells (DSSCs). The results show that a 7.7 nm (300 cycles) TiO2 layer is required for full protection without an adhesion layer, while a 0.2 nm (2 cycles) Al2O3 adhesion layer reduces the required TiO2 thickness to 5.8 nm (211 cycles).",
-  "evidence": "The resulting assemblies were exposed to corrosive I-/I3- solutions, and the degree of silver etching was determined via scanning electron microscopy and ultraviolet -visible spectroscopy. To form a pinhole-free (i.e., fully protective) crystalline TiO2 layer, 7.7 nm (300 cycles) must be deposited. If, however, a 0.2 nm (2 cycles) Al2O3 adhesion layer is included, only 5.8 nm (211 cycles) of TiO2 are necessary for the formation of a pinhole-free coating."
-}<|im_end|>

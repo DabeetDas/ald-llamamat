@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ni(MeCp)2"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "Each ALD cycle consists of 3 s Ni(MeCp)2 dose, 4 s purge time, 3 s O2 plasma exposure (100 W) and 1 s purge time, as represented schematically in Fig. 1."
-}

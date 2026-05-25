@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2",
-  "process_type": "plasma-enhanced ALCVD",
-  "main_precursors": ["zirconium tertiary butoxide (ZTB)", "hydrogen plasma"],
-  "temperature_range": "150 ◦C",
-  "summary": "ZrO2 was deposited on SiC nanowires using plasma-enhanced atomic layer chemical vapor deposition (PE-ALCVD) to form a core-shell structure. The process involved ZrO2 growth at 150 ◦C with a growth rate of 1.3 ˚A/cycle. The thickness of the ZrO2 layer was controlled by the number of pulse cycles. After annealing at 900 ◦C, the ZrO2 layer became polycrystalline.",
-  "evidence": "Plasma-enhanced ALCVD of ZrO2 was performed to coat SiC nanowires. Zirconium tertiary butoxide (ZTB) and hydrogen plasma pulse cycles were used to grow ZrO2 films. The growth temperature of ZrO2 PE-ALCVD was 150 ◦C with a growth rate of 1.3 ˚A/cycle. After being annealed at 900 ◦C, a polycrystalline structure of ZrO2 layer was observed."
-}

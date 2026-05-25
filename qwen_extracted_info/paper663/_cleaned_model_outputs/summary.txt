@@ -1,8 +1,0 @@
-{
-  "target_material": "Co",
-  "process_type": "plasma-enhanced ALD (PE-ALD)",
-  "main_precursors": ["Co(MeCp)2", "NH3 or H2 or their plasma"],
-  "temperature_range": "100 ◦C to 350 ◦C",
-  "summary": "The study investigates plasma-enhanced atomic layer deposition (PE-ALD) of cobalt (Co) using Co(MeCp)2 as a precursor and NH3 or H2 or their plasma as reactants. The process allows for low-temperature growth of Co films down to 100 ◦C, with significant changes in growth characteristics and film properties observed with varying temperatures. The films show different microstructural and electrical properties depending on the growth temperature and precursor used.",
-  "evidence": "PE-ALD produced Co thin films at low growth temperature down to 100◦C. The growth characteristics and films properties of PE-ALD Co using bis(η-methylcyclopentadienyl) Co(II) (Co(MeCp)2) was compared with those of PE-ALD Co using other Cp based metal organic precursors, bis-cyclopentadienyl cobalt (II) (CoCp2) and cyclopentadienyl isopropyl acetamidinato-cobalt (Co(CpAMD))."
-}

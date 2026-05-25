@@ -1,8 +1,0 @@
-{
-  "target_material": "Sn metal",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["SnCl4", "silyl dihydropyrazine (DHP)"],
-  "temperature_range": "170–210 °C",
-  "summary": "This study presents a thermal atomic layer deposition (ALD) process for depositing tin (Sn) metal using SnCl4 and a vapor-phase silyl dihydropyrazine (DHP) reducing agent. The ALD window was determined to be between 170 and 210 °C, with a growth rate of approximately 0.3 Å per cycle at 190 °C. The process involves the reduction of SnCl4 by DHP, leading to the formation of Sn metal and the removal of surface Cl through volatile by-products. The study also highlights the importance of temperature in achieving uniform and pure Sn films, with reduced impurities observed at higher temperatures.",
-  "evidence": "The authors explored a range of temperatures between 130 and 210 °C to determine the ALD window, which was found to be 170 –210 °C. The authors show that this process yields a growth rate of ∼0.3 Å per cycle at 190 °C. Furthermore, X-ray photoelectron spectroscopy results showed that the ﬁlm impurities are reduced for depositions within the ALD window."
-}<|im_end|>

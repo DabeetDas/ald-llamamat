@@ -1,8 +1,0 @@
-{
-  "target_material": "InGaP/GaAs single quantum well (SQW) structures",
-  "process_type": "chloride atomic layer epitaxy (ALE)",
-  "main_precursors": ["GaCl", "InCl", "AsH3", "PH3"],
-  "temperature_range": "400 °C",
-  "summary": "The study describes the growth of InGaP/GaAs single quantum well (SQW) structures on GaAs facet walls using chloride atomic layer epitaxy (ALE). The process involves the use of chloride source gases and selective area growth on GaAs facets with {111}B and {011} sidewalls. The ALE process enables monolayer-controlled growth, resulting in smooth and uniform surfaces, as confirmed by scanning electron microscopy and cathodoluminescence measurements. The study highlights the potential of ALE for selective area growth and its application in low-dimensional electron devices.",
-  "evidence": "InGaP/GaAs single quantum well (SQW) structure growth on GaAs facet wall is achieved by atomic layer epitaxy (ALE) using chloride source gases, such as InCl and GaCl. The growth temperature was 400 °C. ALE growth of SQWs onto these faces results in a very smooth and uniform surface, as shown by scanning electron microscopy observation and cathodoluminescence measurements. The self-limiting mechanism for ALE is also retained in such selective sidewall growth of heterostructures."
-}<|im_end|>

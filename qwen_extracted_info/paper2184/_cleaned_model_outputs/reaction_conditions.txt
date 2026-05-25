@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [
-    "Al – OH* + Al(CH3)3(g) → Al–O–Al(CH3)2 + CH4(g)",
-    "Al – CH3* + H2O(g) → Al – OH* + CH4(g)"
-  ],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "The text describes the ALD process for Al2O3 on H-terminated silicon, with the following equations: 'Al – OH* + Al(CH3)3(g) → Al–O–Al(CH3)2 + CH4(g)' and 'Al – CH3* + H2O(g) → Al – OH* + CH4(g)'. The intermediate species include monomethyl aluminum, surface hydroxyls, and formate species."
-}

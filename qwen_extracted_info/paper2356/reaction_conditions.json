@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth mechanism is based on thermodynamic parameters where the kinetic energy and surface mobility of adatoms determine the crystalline orientations. The surface energy of the (002) plane is highest, and increasing the movement of adatoms by higher substrate temperature and longer purging time facilitates the movement and arrangement of adatoms, promoting growth along the (002) orientation.",
-  "intermediate_species": [
-    "adatoms"
-  ],
-  "evidence": "The surface energy of (002) is highest. Increasing the movement of adatoms by a higher substrate temperature and a longer purging time facilitates the movement and arrangement of adatoms, thus promoting growth along the (002) orientation."
-}

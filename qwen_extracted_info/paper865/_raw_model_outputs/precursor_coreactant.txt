@@ -1,7 +1,0 @@
-{
-  "precursors": ["TiCl4"],
-  "coreactants": ["NH3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The ALD reaction consists of a series of sequential, self-terminating surface half-reactions on a substrate followed by an inert gas purge. In the case of TiN, made from TiCl4 and NH3, the TiCl4 chemisorbs onto the substrate and, after purging the excess precursor from the system, NH3 then reacts with the Ti–Cl-terminated surface to form one theoretical monolayer."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Hafnium oxide (HfO2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Hafnium tetraiodide (HfI4)", "Oxygen (O2)"],
-  "temperature_range": "400–750 8C",
-  "summary": "Hafnium tetraiodide and oxygen were used as precursors for atomic layer deposition of hafnium dioxide thin films on silicon substrates at temperatures of 400–750 8C. The growth rate ranged from 0.11 to 0.12 nm per cycle at 500–750 8C and decreased to 0.035 nm per cycle at 400 8C. The films contained monoclinic HfO2, with some cubic, tetragonal, or orthorhombic phases observed in thinner films. The relative dielectric constant of the films reached 16.",
-  "evidence": "Hafnium tetraiodide and oxygen were used as precursors for atomic layer deposition of hafnium dioxide (HfO2) thin films on silicon substrates at temperatures of 400–750 8C. At 500–750 8C the growth rate ranged from 0.11 to 0.12 nm ycycle and, within the experimental uncertainty, did not depend on the substrate temperature. With the decrease of the substrate temperature from 500 to 400 8C, however, the growth rate decreased to 0.035 nm ycycle. All films contained monoclinic HfO2. In addition, some amount of cubic, tetragonal or orthorhombic phase was observed in thinner films, particularly in those deposited at lower substrate temperatures and lower oxygen doses. The relative dielectric constant of the films measured at the frequency of 500 kHz reached 16."
-}

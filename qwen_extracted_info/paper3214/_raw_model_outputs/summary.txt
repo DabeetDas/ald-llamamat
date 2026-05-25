@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO:Zr",
-  "process_type": "thermal ALD",
-  "main_precursors": ["diethylzinc (DEZn)", "tetrakis-(dimethylamino)-zirconium (TDMAZ)", "H2O vapor"],
-  "temperature_range": "180 °C",
-  "summary": "The study describes the deposition of Zr-doped ZnO thin films using atomic layer deposition (ALD) on sapphire substrates. The films exhibited low resistivity, high carrier concentration, and high transparency, making them suitable for transparent conductive oxide and ultraviolet light-emitting materials. The process involved alternating pulses of DEZn, TDMAZ, and H2O vapor in an N2 carrier gas flow.",
-  "evidence": "The ZnO:Zr films were deposited on c-Al2O3 (sapphire) substrates by ALD using alternating pulses of diethylzinc (Zn(C2H5)2, abbreviated as DEZn), tetrakis-(dimethylamino)-zirconium (Zr[N(CH3)2]4, abbreviated as TDMAZ), and H2O vapor in an N2 carrier gas flow."
-}<|im_end|>

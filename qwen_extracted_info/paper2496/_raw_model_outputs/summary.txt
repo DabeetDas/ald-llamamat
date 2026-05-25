@@ -1,8 +1,0 @@
-{
-  "target_material": "Alumina (Al2O3)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Trimethyl aluminum (TMA)", "Water vapor"],
-  "temperature_range": "70 °C",
-  "summary": "The paper describes the use of atomic layer deposition (ALD) to coat metal-alloy thin-film cryoresistors with a 15-nm-thick alumina (Al2O3) layer. The study demonstrates that this protective coating significantly improves the long-term stability and repeatability of high-value thin-film resistors, particularly at room temperature and low temperatures. The ALD process was carried out at a temperature of 70 °C using trimethyl aluminum (TMA) and water vapor as precursors.",
-  "evidence": "The ALD alumina films were deposited using a Beneq TFS 500 ALD reactor. Trimethyl aluminum [Al(CH3)3, TMA] and water vapor were used as precursors for the alumina growth. The deposition temperature and pressure in the ALD reactor were 70 °C and 2.3 mbar, respectively."
-}<|im_end|>

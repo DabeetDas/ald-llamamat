@@ -1,8 +1,0 @@
-{
-  "target_material": "Sb2S3",
-  "process_type": "ALD",
-  "main_precursors": ["tris-dimethylamino antimony (Sb(N(CH3)2)3)", "H2S"],
-  "temperature_range": "130 oC",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to form a high-quality, uniform Sb2S3 thin film on a TiO2/FTO substrate, which is used in planar solar cells. The ALD process results in a pure Sb2S3 layer without oxide impurities, leading to improved power conversion efficiency and reduced backward recombination compared to the conventional CBD method.",
-  "evidence": "A high-quality Sb2S3 thin absorber with controllable thickness was reproducibly formed by atomic layer deposition (ALD) technique. Compared with conventional chemical bath deposition (CBD), the Sb2S3 absorber deposited by ALD did not contain oxide or oxygen impurities and showed very uniform thickness of Sb2S3 absorbers formed on rough surface of dense blocking TiO2/FTO substrate. The high efficiency and good reproducibility of ALDvSb2S3 solar cell devices is attributed to the reduced backward recombination due to the inhibition of oxide defects within ALDvSb2S3 absorber and the conformal deposition of very uniform Sb2S3 absorbers on blocking TiO2 surface by ALD process."
-}

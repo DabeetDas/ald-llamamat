@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The NH yAryH plasma was used to extract Cl from AlCl and to form AlN. The growth rate became saturated, suggesting the ALD process is self-limiting adsorption of AlCl.",
-  "intermediate_species": ["Cl", "HCl", "volatile molecules"],
-  "evidence": "To optimize the process parameters, the lengths of the AlCl and plasma pulses were varied. The growth rate was defined in terms of film thickness ycycle and calculated by dividing the total film thickness by the number of cycles. The growth rate became constant at ;0.042 nm ycycle, suggesting that the ALD process is the self-limiting adsorption of AlCl. The NH yAryH plasma was used to extract Cl from AlCl , and subsequently to form volatile molecules (e.g. HCl, Cl , etc. ) and AlN.2"
-}<|im_end|>

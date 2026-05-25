@@ -1,8 +1,0 @@
-{
-  "target_material": "GeO2",
-  "process_type": "ALD",
-  "main_precursors": ["tetrakis(dimethylamino)germanium (Ge(N(Me)2)4)", "germanium-n-butoxide (Ge(OnBu)4)"],
-  "temperature_range": "200 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of GeO2 thin films for use in water-erasable memory devices. The ALD process uses two precursors, tetrakis(dimethylamino)germanium (Ge(N(Me)2)4) and germanium-n-butoxide (Ge(OnBu)4), and is performed at 200 °C. The resulting GeO2 films are highly stoichiometric, pure, and water-soluble, making them suitable for secure memory applications where data can be erased by exposure to water. The ALD process provides excellent conformality, low impurity levels, and high film density, which contribute to the superior electrical properties of the GeO2 films compared to sputtered films.",
-  "evidence": "The text states: 'We have investigated the atomic layer deposition (ALD) of GeO2 thin films that dissolve in water rapidly and have excellent electrical properties for use in memory devices.' It also mentions: 'The ALD process produces highly stoichiometric GeO2 films; for example, GeO2 thin films grown by ALD with 1,20-bis[(2,6-diisopropyl phenol)imino]acenaphthene-germanium and O3 show excellent stoichiometry.' Additionally, it notes: 'The ALD process was performed at 200 °C.'"
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the adsorption of trimethylaluminum (TMA) followed by oxidation with water (H2O). The reaction steps are cyclically repeated, with the adsorption of Al monolayer and an oxidation step.",
-  "intermediate_species": ["trimethylaluminum", "surface hydroxyls"],
-  "evidence": "This method enables precisely controlled deposition in atomic scale: for the Al2O3 case, the adsorption step of Al monolayer and an oxidation step are cyclically repeated."
-}

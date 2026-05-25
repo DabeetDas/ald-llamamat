@@ -1,8 +1,0 @@
-{
-  "target_material": "TiS2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Titanium tetrachloride (TiCl4)", "Hydrogen sulfide (H2S)"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the diffusion and intercalation mechanisms of Li+ and Na+ ions in TiS2 films grown by atomic layer deposition (ALD). The ALD process provides compact and dense films without polymer binder and carbon additives. The research highlights the impact of ionic size and solid electrolyte interphase on diffusion processes and compares the diffusion coefficients of Li+ and Na+ ions using GITT and impedance methods. The study also examines the effect of alumina coating on the stability of the solid electrolyte interphase (SEI) and its impact on ion diffusion.",
-  "evidence": "TiS2 thin films having nanowall network morphology are grown by atomic layer deposition on single crystalline c-sapphire (0001), and stainless steel using a flow type Beneq TFS 200 ALD reactor. Titanium tetrachloride (TiCl4) and hydrogen sulfide (H2S) are employed as Ti and S precursors respectively. The reactor and chamber are heated to 300 °C and allowed to stay for 30 min to stabilize the temperature. The ALD temperature window is tested between 150 and 300 oC. The films appear to grow more uniformly at 300 oC without any residual chlorine."
-}

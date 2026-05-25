@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2-functionalized metal nanoparticles",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TiCl4", "H2O2", "TTIP", "H2O"],
-  "temperature_range": "100 °C",
-  "summary": "The study describes the in situ synthesis of TiO2-functionalized metal nanoparticles using atomic layer deposition (ALD). Metal nanopowders were synthesized from metal oxalates through dehydration and decomposition in a fluidized-bed reactor. TiO2 ALD was used to passivate the nanoparticles, preventing exposure to air. The process involved two ALD routes using titanium tetrachloride (TiCl4) or titanium tetraisopropoxide (TTIP) with water (H2O) or hydrogen peroxide (H2O2) as oxidants. The ALD process was optimized to achieve precise thickness control and to enhance the oxidation resistance of the metal nanoparticles.",
-  "evidence": "The ability to prepare and functionalize passivated nanosized metal powders was demonstrated using TiO2 films that were deposited via atomic layer deposition (ALD). ... Two ALD routes to deposit amorphous TiO2 films on surfaces with precision thickness utilize titanium tetrachloride (TiCl4) or the organometallic, titanium tetraisopropoxide (Ti(OCH(CH3)2)4, TTIP) at 100 °C. ... The sequential application of the reactions in eqs 3 and 4 can produce atomic-layer-controlled TiO2 deposition using the organometallic TTIP precursor and H2O, which evolves isopropanol vapor as the reaction product. ... ALD of nanothick TiO2 films on bulk quantities of metal powders is presented here to augment the magnetic properties of the core materials with those inherent to TiO2."
-}<|im_end|>

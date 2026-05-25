@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The adsorbing oxygen generates localized surface states which trap conduction band electrons; this leads to an increase in the resistance. Another possibility is that the adsorbing oxygen enters into the lattice and fills there oxygen vacancies. This mechanism, too, decreases the density of conduction electrons leading to an increase in the resistance.",
-  "intermediate_species": ["adsorbed oxygen", "oxygen vacancies"],
-  "evidence": "The sensing behavior seems to be qualitatively similar in the three studied temperatures and is typical for n-type oxides. The resistance started to increase rapidly when O2 was introduced into the chamber (step a), and when the exposure was stopped, the resistance started to decrease (b). According to the commonly used model for the sensing mechanism of n-type oxides, see e.g. Ref., the adsorbing oxygen generates localized surface states which trap conduction band electrons; this leads to increase in the resistance. Another possibility is that the adsorbing oxygen enters into the lattice and fills there oxygen vacancies. This mechanism, too, decreases the density of conduction electrons leading to increase in the resistance."
-}<|im_end|>

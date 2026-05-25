@@ -1,8 +1,0 @@
-{
-  "target_material": "Copper",
-  "process_type": "ALD",
-  "main_precursors": ["copper(I) N,N′-di-sec-butylacetamidinate", "ammonia"],
-  "temperature_range": "160 °C",
-  "summary": "The paper describes the production of thin, continuous, and conformal copper films through the reduction of atomic layer deposited copper nitride (Cu3N). The process involves ALD of Cu3N using copper(I) N,N′-di-sec-butylacetamidinate and ammonia at 160 °C, followed by reduction with molecular hydrogen to form copper metal films. The resulting copper films are highly conductive and suitable as seed layers for electroplating in microelectronics.",
-  "evidence": "The first step in our process is atomic layer deposition (ALD) of copper(I) nitride, Cu3N, by the alternating reactions of copper(I) N,N′-di-sec-butylacetamidinate vapor and ammonia on surfaces heated to approximately 160 °C. At this temperature, Cu3N is thermally stable, but is readily reduced to copper metal by exposure to molecular hydrogen gas (H2)."
-}<|im_end|>

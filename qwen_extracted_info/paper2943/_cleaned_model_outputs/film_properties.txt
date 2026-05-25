@@ -1,8 +1,0 @@
-{
- "film_thickness_nm": 89.0,
- "density_g_cm3": null,
- "refractive_index": "1.836",
- "surface_roughness_nm": 0.59,
- "crystal_phase": "amorphous",
- "evidence": "The film thickness was determined using the spectroscopic ellipsometer (SE). The SE modeling indicated the refractive index of the as deposited films to be 1.836, with an extinction coefficient value of 0 at 632.8 nm. The surface roughness was evaluated using X-ray reflectivity (XRR) as shown in Fig. 2. For this annealed sample, XRR analysis was used to extract a film thickness of 89.0 ± 0.5 nm, 0.59 nm surface roughness, and 0.55 nm roughness at the Si/La2O3 interface."
-}

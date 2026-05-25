@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["TEMAH hfHfs NsCH3d2d4g2j", "H2O", "Rus EtCpd2 hfsCH3CH2dC5H4g2Ruj"],
-  "temperature_range": "300°C",
-  "summary": "HfO2 films with an EOT of 9 Å were deposited on Ru/TiN/SiO2/Si substrates using atomic layer deposition. The electrical properties of Ru/HfO2/Ru capacitors were investigated as a function of film thickness and annealing temperature. The capacitors showed stable electrical properties up to 600°C thermal treatment.",
-  "evidence": "HfO2 films with an EOT of 9 Å were deposited on Ru/TiN/SiO2/Si using an atomic layer deposition and the electrical properties of Ru/HfO2/Ru capacitors were investigated as a function of the film thickness and an annealing temperature. The capacitors exhibit the stable electrical properties in a thermal treatment up to 600°C."
-}

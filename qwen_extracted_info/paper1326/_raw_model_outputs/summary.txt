@@ -1,8 +1,0 @@
-{
-  "target_material": "CuSbS2",
-  "process_type": "ALD",
-  "main_precursors": ["bis(N,N'-disecbutylacetamidinato)dicopper(I) (CuAMD)", "tris(dimethylamido)antimony(III) (SbTDMA)"],
-  "temperature_range": "100 °C to 155 °C",
-  "summary": "The study describes the low-temperature atomic layer deposition (ALD) of CuSbS2 thin films for photovoltaic applications. The ALD process uses CuAMD and SbTDMA precursors, and the films are annealed at 225 °C for 15 minutes to crystallize. The resulting films exhibit a band gap of 1.6 eV, high absorption coefficient (>10^4 cm^-1), and a hole concentration of 10^15 cm^-3. These films are paired with ALD-grown TiO2 to form a photovoltaic device, demonstrating an open-circuit voltage comparable to CdS-based devices.",
-  "evidence": "The text states: 'After a short (15 min) postprocess anneal at 225 °C, the ALD-grown CuSbS2 films were crystalline with micron-sized grains, exhibited a band gap of 1.6 eV and an absorption coefficient >10^4 cm−1, as well as a hole concentration of 10^15 cm−3.' Additionally, it mentions: 'Deposition of the CuSbS2 thin films was performed in an Ultratech-Cambridge Nanotech Savannah 200 ALD reactor... The deposition chamber and gas delivery manifold temperatures were 100 and 155 °C, respectively, whereas bis(N,N'-disecbutylacetamidinato)dicopper(I) (CuAMD) and tris(dimethylamido)antimony(III) (SbTDMA) were heated to 150 and 55 °C, respectively.'"
-}<|im_end|>

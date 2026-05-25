@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of aluminum oxide via atomic layer deposition using tris(diethylamino)aluminum (TDEAA) and water. The mechanism is not explicitly detailed with formal chemical equations, but the text implies that the surface reactions involve the interaction of TDEAA with surface hydroxyl groups and subsequent water pulses to regenerate OH sites. The interfacial layer changes observed are attributed to silicate formation and silicon oxide growth, which are influenced by annealing conditions.",
-  "intermediate_species": ["silicon oxide", "silicates"],
-  "evidence": "The text discusses the changes in the interfacial layer after annealing, attributing the observed interfacial layer changes to silicate formation and silicon oxide growth. It also mentions the appearance of an asymmetric Si–O–Si peak in FTIR spectra, indicating the presence of silicon oxide at the interface. The formation of silicates is also noted as a result of oxygen diffusion and reaction at the interface."
-}

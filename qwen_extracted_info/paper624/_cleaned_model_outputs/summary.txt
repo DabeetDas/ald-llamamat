@@ -1,8 +1,0 @@
-{
-  "target_material": "CdTe",
-  "process_type": "homoepitaxial growth",
-  "main_precursors": ["CdTe", "Cd", "Te"],
-  "temperature_range": "240°C to 280°C",
-  "summary": "The study investigates the homoepitaxial growth of (001) CdTe using molecular beam epitaxy (MBE) and atomic layer epitaxy (ALE). It focuses on the oscillatory behavior of the lattice parameter during growth, the role of surface reconstructions, and the influence of stoichiometry and strain on growth mechanisms. The oscillations are attributed to the relaxation at the free edges of 2D islands formed during growth.",
-  "evidence": "The oscillations of the lattice parameter during the homoepitaxial growth of CdTe are attributed to the relaxation at their free edges of small 2D islands which are formed during the growth. The study also discusses the influence of strain on the stoichiometry and growth kinetics."
-}

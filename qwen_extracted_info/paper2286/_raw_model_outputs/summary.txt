@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["trimethylgallium (TMGa)", "diethylgallium chloride (DEGaCl)"],
-  "temperature_range": "400–520 °C",
-  "summary": "The study investigates the mechanisms of atomic layer epitaxy (ALE) for GaAs using trimethylgallium (TMGa) and diethylgallium chloride (DEGaCl) as precursors. It highlights the role of surface chemistry, self-limiting deposition, and the impact of Ga/As stoichiometry on the reaction pathways and desorption rates. The process is temperature-dependent, with self-limiting behavior observed up to a critical temperature.",
-  "evidence": "The text discusses the use of TMGa and DEGaCl as precursors for GaAs deposition, the temperature range of 400–520 °C, and the self-limiting behavior of the deposition process due to surface reactions and stoichiometry-dependent desorption rates."
-}<|im_end|>

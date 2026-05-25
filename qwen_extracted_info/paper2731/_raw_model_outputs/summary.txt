@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Al(CH3)2Cl", "H2O"],
-  "temperature_range": "125–500 °C",
-  "summary": "The study describes the atomic layer epitaxy (ALE) growth of aluminum oxide (Al2O3) thin films using Al(CH3)2Cl as a novel aluminum precursor and H2O as an oxygen precursor. The films were deposited in the temperature range of 125–500 °C, and the process was found to produce amorphous films with varying properties depending on the growth temperature. The refractive index and permittivity of the films increased with higher growth temperatures, while the residual contents of carbon, chlorine, and hydrogen decreased. The leakage current density was lowest at 200 °C and increased with higher temperatures. The study highlights the advantages of using Al(CH3)2Cl as a precursor due to its lower chlorine content and reduced corrosive byproducts compared to AlCl3.",
-  "evidence": "The deposition of Al2O3 thin films by atomic layer epitaxy was investigated using Al(CH3)2Cl as a new aluminum precursor. All the films grown in the temperature range of 125–500 °C were amorphous as examined by x-ray diffraction analysis. The residual contents of carbon, chlorine, and hydrogen in the film deposited at 200 °C were 0.2, 2.1, and 12 at. %, respectively, and diminished rapidly with increasing growth temperature. The refractive index of the films increased with deposition temperature, stabilizing at the highest value of 1.68 above 300 °C. The permittivity of the films increased from 7.3 to 8.7 with increasing growth temperature from 200 to 500 °C. The leakage current density was lowest in the film deposited at 200 °C and increased markedly at higher deposition temperatures."
-}<|im_end|>

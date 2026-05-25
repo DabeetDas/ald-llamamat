@@ -1,8 +1,0 @@
-{
-  "target_material": "TiB2 metal gate",
-  "process_type": "thermal ALD",
-  "main_precursors": ["SiH3N", "Hf(NEtMe)4 (TEMAH)"],
-  "temperature_range": "300 °C",
-  "summary": "The study evaluates the thermal stability of TiB2 metal gate on Hf silicate for p-channel metal oxide semiconductor applications using atomic layer deposition. The work function of TiB2 gate was found to be around 5.08 eV, and it remained stable up to 1000 °C annealing. However, at 1100 °C, work function lowering was observed due to metal-dielectric intermixing and oxygen vacancy formation.",
-  "evidence": "HfSiOx films were directly deposited on p-type substrates with a resistivity of 3 – 25 cm by atomic layer deposition at 300 °C. The oxidizing agents for TEMAH and Si were O3 and H2O, respectively. The work function lowering at 1100 °C was caused by metal-dielectric intermixing and oxygen vacancy formation."
-}<|im_end|>

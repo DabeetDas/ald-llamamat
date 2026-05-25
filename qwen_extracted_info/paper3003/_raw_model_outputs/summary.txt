@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "ALD",
-  "main_precursors": ["Cp2Hf(CH3)2", "ozone", "water"],
-  "temperature_range": "350–400°C",
-  "summary": "HfO2 thin films were deposited using cyclopentadienyl-type precursors (Cp2Hf(CH3)2 or Cp2HfCl2) and ozone or water as oxygen sources. Ozone as an oxygen source resulted in lower impurity levels, higher growth rates, smoother morphology, and better crystallinity. The study aimed to evaluate the effects of different oxygen sources on HfO2 film growth and properties, including electrical characteristics.",
-  "evidence": "HfO2 thin films have been deposited onto p-Si substrates by atomic layer deposition using Cp2Hf(CH3)2 or Cp2HfCl2 and water or ozone as precursors. The purity of HfO2 films was better when ozone instead of water was used as oxygen precursor. The use of Cp2Hf(CH3)2 together with ozone in the ALD window range, viz. 350–400°C, yielded HfO2 films with less than 0.1 atom % C and H impurities. When using Cp2Hf(CH3)2 as the metal source, the higher reactivity of ozone as compared to H2O yielded slightly higher growth rate, smoother morphology, higher degree of crystallinity for thicker films, and a close to ideal density. Furthermore, with ozone no inhibition of the growth during initial ALD cycles could be detected."
-}<|im_end|>

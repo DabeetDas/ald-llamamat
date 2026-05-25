@@ -1,7 +1,0 @@
-{
-  "precursors": ["DEZ"],
-  "coreactants": ["H2O", "H2S"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The DEZ (diethylzinc) and H2O/H2S were used as precursors and coreactants, respectively. A continuous flow of N2 at 50 sccm was used for purging and as the carrier gas during the ALD process."
-}<|im_end|>

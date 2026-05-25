@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The reduction process of SiCl2 molecules on the surface of the substrate during SiH2Cl2 supply, where H2 is supplied simultaneously with SiH2Cl2 to reduce the SiCl2 molecules, leading to the formation of a self-limiting process of SiCl2 adsorption.",
-  "intermediate_species": ["SiCl2 molecules", "residual Si atoms", "Si layer"],
-  "evidence": "It is generally recognized that SiCl2 molecules are formed by thermal decomposition of SiH2Cl2 over the temperature range studied. The generated SiCl2 molecules are adsorbed on the surface of the substrate. If H2 is simultaneously supplied with SiH2Cl2, the adsorbed SiCl2 molecules on the surface of the substrate are sure to be reduced by H2 at once. Cl atoms will be removed from the surface of the substrate, leaving residual Si atoms to be incorporated into the surface of the substrate."
-}

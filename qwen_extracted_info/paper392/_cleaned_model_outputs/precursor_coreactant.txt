@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylgallium (Ga(CH3)3, TMG)", "arsine (AsH3)"],
-  "coreactants": ["H2"],
-  "purge_gas": ["H2"],
-  "carrier_gas": [],
-  "evidence": "We have recently developed a multitransient version of RDS and applied it to a simulated ALE cycle involving TMG and AsH3 in an atmospheric pressure (AP) organometallic chemical vapor deposition (OMCVD) reactor. The partial pressures of AsH3 and TMG were 2.3 and 0.011 Torr respectively. The sample temperature was 450 °C. These conditions and this sequence are those that are typically used for ALE, but exposure and purge periods have been lengthened to better establish surface evolutions."
-}

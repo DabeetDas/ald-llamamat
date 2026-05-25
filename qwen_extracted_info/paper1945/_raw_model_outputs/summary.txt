@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethyl aluminium (TMA)", "H2O"],
-  "temperature_range": "250–14 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to fabricate Al2O3 embedded current-confinement structures in long-wavelength InAlGaAs VCSELs. The ALD process uses trimethyl aluminium (TMA) and H2O as precursors at a temperature range of 250–14 °C. The Al2O3 thin films provide mechanical stability and suppress leakage current, enabling high output power and direct modulation characteristics.",
-  "evidence": "In this work, Al2O3 films were deposited at a temperature of 250/C14 C using trimethyl aluminium (TMA) and H2O as precursors."
-}<|im_end|>

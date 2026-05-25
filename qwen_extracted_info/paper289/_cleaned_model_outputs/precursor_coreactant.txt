@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylaluminum (TMA)", "triethylgallium (TEG)", "NH3"],
-  "coreactants": ["N2"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["vapor-draw"],
-  "evidence": "The temperature was ramped up to 335 °C to deposit ~ 20-nm-thick AlN and AlGaN layers using trimethylaluminum (TMA), TEG, and NH3 as precursors. TMA and TEG were carried by vapor-draw, while NH3 was allowed to flow at a rate of 60 sccm. The ALD reaction for AlN (GaN) film proceeded according to the following steps: TMA (TEG) feed, N2 purge, NH3 feed, and N2 purge."
-}

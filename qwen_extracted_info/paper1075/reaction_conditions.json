@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ZnO ALD process involves alternating exposures of diethyl zinc (DEZ) and water. The ZnO formation is suppressed by the ALD process at 200 °C until after the saturation of the ALD surface reactions, at which point the DEZ partial pressure is restored to its steady-state value and the deposition of Zn metal commences. The Zn metal appears to accelerate with additional ZnO ALD cycles, suggesting continued growth of Zn metal on the heteroepitaxial pseudomorphic ZnO layer.",
-  "intermediate_species": [
-    "Zn metal"
-  ],
-  "evidence": "The Zn metal phase begins to form as soon as the ZnO ALD surface reactions have saturated, indicating that the Zn growth is strongly dependent on the availability of excess DEZ precursor. The Zn metal appears to accelerate with additional ZnO ALD cycles as illustrated in Fig. 6. This suggests that continued growth of Zn metal on the heteroepitaxial pseudomorphic ZnO layer occurs while there is no evidence that Zn metal CVD occurs on the pure ZnO nanocrystals."
-}

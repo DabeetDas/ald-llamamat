@@ -1,8 +1,0 @@
-{
-  "target_material": "manganese oxide",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Mn2(CO)10", "ozone"],
-  "temperature_range": "60~100 °C for α-Mn2O3 and 120~160 °C for Mn3O4",
-  "summary": "This study presents a new low-temperature atomic layer deposition (ALD) process using Mn2(CO)10 and ozone as precursors to fabricate crystalline α-Mn2O3 and Mn3O4 thin films. The phase composition is controlled by the deposition temperature, with α-Mn2O3 forming at 60~100 °C and Mn3O4 at 120~160 °C. The process achieves a high growth rate of ~1.2 Å/cycle and demonstrates the successful control of phase composition. The spinel-structured Mn3O4 films are ferrimagnetic with a Curie temperature of ~47 K.",
-  "evidence": "We present a new low-temperature atomic layer deposition (ALD) process based on Mn2(CO)10 and ozone as precursors to fabricate crystalline α-Mn2O3 and Mn3O4 thin films; the phase composition is controlled by the deposition temperature such that the former phase forms in the range 60~100 °C and the latter in the range 120~160 °C. In both cases an appreciably high growth rate of ~1.2 Å/cycle is achieved. The spinel-structured Mn3O4 thin films are shown to be ferrimagnetic with the transition temperature determined at ~47 K."
-}

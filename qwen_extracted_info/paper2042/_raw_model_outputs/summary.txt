@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["ZrCl4", "H2O"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the atomic layer deposition of ZrO2 on Ge (100) substrates using ZrCl4 and H2O at 300 °C, resulting in local epitaxial growth without a distinct interfacial layer. The process was found to produce a high-k dielectric with low leakage current density and significant hysteresis and frequency dispersion due to interfacial dislocations.",
-  "evidence": "Atomic layer deposition of ;55-Å ZrO2 film on a Ge (100) substrate using ZrCl4 and H2O at 300 °C was found to produce local epitaxial growth [...] without a distinct interfacial layer [...] Large hysteresis (~200 mV) and high frequency dispersion were observed [...] due to the high density of interface states."
-}<|im_end|>

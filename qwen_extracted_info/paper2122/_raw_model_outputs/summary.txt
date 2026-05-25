@@ -1,8 +1,0 @@
-{
-  "target_material": "W (tungsten)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["disilane (Si2H6)", "tungsten hexafluoride (WF6)"],
-  "temperature_range": "200 °C",
-  "summary": "The study demonstrates the atomic layer deposition (ALD) of tungsten (W) on nanoporous carbon aerogels. The process involves alternating exposures to disilane (Si2H6) and tungsten hexafluoride (WF6) at 200 °C. The W coating completely encapsulates the carbon aerogel strands, leading to a significant increase in mass and surface area. The conformal coating of high aspect ratio nanoporous materials by ALD is highlighted as a unique method for creating metal-functionalized high surface area materials.",
-  "evidence": "In this study, the authors demonstrate the ability to apply precise, conformal W coatings onto all surfaces of nanoporous carbon aerogels using atomic layer deposition (ALD). W ALD using alternating exposures to disilane (Si2H6) and tungsten hexafluoride (WF6) was chosen for this study... Subsequently, W ALD was performed at 200 °C using alternating exposures to 5 Torr Si2H6 for 10 min and 10 Torr WF6 for 10 min separated by 5 min purges in flowing nitrogen."
-}<|im_end|>

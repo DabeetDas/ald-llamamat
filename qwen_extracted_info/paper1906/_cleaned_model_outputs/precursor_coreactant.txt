@@ -1,7 +1,0 @@
-{
-  "precursors": ["CaTp2", "water"],
-  "coreactants": ["water"],
-  "purge_gas": ["Nitrogen"],
-  "carrier_gas": ["Nitrogen"],
-  "evidence": "The atomic layer deposition of CaB2O4 was carried out using bis(tris(pyrazolyl)borate)calcium (CaTp2) and water as precursors."
-}

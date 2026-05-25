@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 170.04,
-  "density_g_cm3": null,
-  "refractive_index": "1.64 at 632.8 nm",
-  "surface_roughness_nm": null,
-  "crystal_phase": "amorphous",
-  "evidence": "SE data was collected using a J. A. Wollam /H9251-SE spectroscopic ellipsometer in the 390–900 nm wavelength range, and subsequently modeled to a Cauchy-function using the CompleteEASE software package, in order to extract thickness and refractive index values (at /NAK = 632.8 nm)."
-}

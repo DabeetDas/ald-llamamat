@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ni(MeCp)2"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "In the second step, the NiO films are reduced in H2 atmosphere at 400-800 °C. The Si wafers deliver polished surfaces covered with an amorphous native SiO2 layer, permitting the formation of OH groups with the H2O precursor. The precursor Ni(MeCp)2, was supplied from a bubbler and kept at 50 °C. The bubbler temperature of the H2O was 19 °C. In each ALD cycle, the water vapor and the precursor were supplied to the reactor one after the other using Ar as carrier gas with Ar flushing between the gas pulses."
-}

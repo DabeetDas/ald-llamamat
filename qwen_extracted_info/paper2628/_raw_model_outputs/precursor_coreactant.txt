@@ -1,7 +1,0 @@
-{
-  "precursors": ["tris(dimethylamido)borane (B(NMe2)3 or (TDMAB)"],
-  "coreactants": ["oxygen radicals"],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": ["nitrogen"],
-  "evidence": "The boron precursor that was used for the deposition processes was tris(dimethylamido)borane (B(NMe2)3 or (TDMAB) from Sigma-Aldrich (SAFC). The vapor pressure was stabilized at about 6500 Pa by precursor container heating to 70 /C14 C. Vapor containing lines were generally kept at 120 /C14 C in order to surely avoid any condensation of vapor. The deposition cycles consisted of several substeps that could be individually defined. Typical sequences for the TDMAB precursor (init/pulse/exposure/purge) were 3 s/25 ms/6 s/15 s and for oxygen (init/plasma/exposure/purge) 1 s/10 s/2 s/15 s. The processes were not further optimized in terms of throughput, shorter purge and exposure times might be applicable. The oxide thickness was measured ex-situ by spectroscopic ellipsometry with an SE 850 from Sentech Instruments GmbH by using a wavelength range from 320 to 800 nm."
-}<|im_end|>

@@ -1,7 +1,0 @@
-{
-  "precursors": ["Trimethylgallium (TMG)", "Phosphine (PH3)"],
-  "coreactants": [],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["H2"],
-  "evidence": "Trimethylgallium (TMG) and phosphine (PH3) were used as the precursors of gallium and phosphorus, respectively. Hydrogen (H2) was used as a carrier gas for TMG providing a precursor flow into the chamber using a bubbling system. After exposure to each precursor, the chamber was purged with argon to avoid mixing precursors and parasitic CVD growth."
-}<|im_end|>

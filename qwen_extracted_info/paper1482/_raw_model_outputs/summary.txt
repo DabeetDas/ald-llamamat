@@ -1,8 +1,0 @@
-{
-  "target_material": "copper",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Cu(OCHMeCH2NMe2)2", "formic acid", "hydrazine"],
-  "temperature_range": "100–180 /C176C",
-  "summary": "The study describes a low-temperature ALD process for depositing high-purity, low-resistivity copper films using Cu(OCHMeCH2NMe2)2, formic acid, and hydrazine as precursors. The process avoids issues with previous methods, such as zinc incorporation and high growth temperatures, and demonstrates self-limiting ALD growth with a constant growth rate of approximately 0.50 Å/cycle at 120 /C176C. The films exhibit high purity and low resistivity, with resistivity values ranging from 9.6 to 16.4 μΩ cm at 20 /C176C, compared to the bulk resistivity of copper (1.72 μΩ cm).",
-  "evidence": "The growth of copper metal films by ALD was carried out using 1, formic acid, and anhydrous hydrazine as precursors on Si(100) substrates with the native oxide. The resistivities of 45 /C050 nm thick copper films deposited at 100, 120, and 140 /C176C ranged from 9.6 to 16.4 μΩ cm at 20 /C176C, compared to the bulk resistivity of copper of 1.72 μΩ cm at 20 /C176C."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Silica (SiO2)",
-  "process_type": "Catalyzed Atomic Layer Deposition (C-ALD)",
-  "main_precursors": ["SiCl4", "pyridine", "H2O"],
-  "temperature_range": "25-80 °C",
-  "summary": "The study describes the use of catalyzed atomic layer deposition (C-ALD) to modify mesoporous silica membranes for pore size control and defect repair. Pyridine was used as a catalyst to reduce reaction temperature and act as a template for pore size reduction. The process significantly reduced viscous flow defects while maintaining porosity and flux. The modified membranes showed improved gas separation properties and had pore sizes in the transition region between microporous and mesoporous.",
-  "evidence": "The catalyst, pyridine, in addition to reducing the reaction temperature, acted as a template for controlling pore size. The catalyst limited the deposition reaction within the mesoporous matrix, by reactant exclusion from the pores. This self-limiting pore size reduction was confirmed using single-gas permeation measurements on the modified membranes. The self-limiting pore size reduction was found extremely beneficial for reducing defects which contributed to viscous flow in the mesoporous membrane, without plugging up the membrane and maintaining reasonable fluxes."
-}

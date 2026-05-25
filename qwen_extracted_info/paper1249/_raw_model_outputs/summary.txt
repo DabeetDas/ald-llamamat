@@ -1,8 +1,0 @@
-{
-  "target_material": "GaOxNy",
-  "process_type": "Plasma-Enhanced ALD (PEALD)",
-  "main_precursors": ["O2", "NH3", "tris(dimethylamino)silane (TMG)"],
-  "temperature_range": "200 oC",
-  "summary": "This study describes the deposition of high-quality GaOxNy films using plasma-enhanced atomic layer deposition (PEALD). The growth rate, composition, and optical properties of the GaOxNy film were controlled by adjusting the O2:NH3 ratio. The energy bandgap was tuned from 3.46 to 4.78 eV with increased O2 ratios. The film exhibited lower leakage current and higher breakdown voltage compared to GaN and Ga2O3, making it suitable for applications in photodetection, photoelectrochemical water splitting, and high-voltage devices.",
-  "evidence": "This study provided a novel method for depositing high-quality GaOxNy film by plasma-enhanced atomic layer deposition (ALD). To obtain a uniform nitrogen and oxygen composition, O2 and NH3 were led into the ALD chamber at the same time. It was found that the growth rate, composition, and optical properties of the GaOxNy film could be precisely controlled by adjusting the O2:NH3 ratio. The energy bandgap was well tuned from 3.46 to 4.78 eV with increased O2 ratios. The energy band structure of all GaOxNy films deposited in this study was obtained from a detailed analysis of the valence band spectra. Importantly, the GaOxNy was found to exhibit lower leakage current and higher breakdown voltage than both GaN and Ga2O3."
-}<|im_end|>

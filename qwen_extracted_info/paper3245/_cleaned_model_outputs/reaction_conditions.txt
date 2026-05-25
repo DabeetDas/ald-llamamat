@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The formation of LiPON via thermal ALD involves the substitution of oxygen in the P–O–P bond sections of the phosphate matrix with nitrogen. The nitriding step uses NH3 gas to create a reducing atmosphere, leading to the direct formation of P = N–P bonds. The deposition process uses O2 as an oxidizing agent to limit oxidation and suppress P–O–P bond formation.",
-  "intermediate_species": ["P = N–P bonds", "P–O–P bonds"],
-  "evidence": "Fig. 7 shows a schematic of the reaction mechanism by which LiPON is formed via thermal ALD. High-energy N is required to sever the temporarily formed P–O–P bonds and substitute O with N. Examples include irradiation with plasma or ion implantation. In the thermal ALD process, nitriding of the LiPON film does not involve the replacement of O with N; on the other hand, P = N–P bonds must be generated from the beginning of the process. The deposition process in this experiment uses O2, which is relatively weakly oxidative, as the oxidizing agent, allowing us to limit oxidation and suppress the formation of P–O–P bonds. Therefore, in the subsequent nitriding steps, NH3 gas causes the atmosphere in the field to become a reducing agent, leading to the direct formation of P = N–P bonds."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Boron Nitride (BN)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["BBr3", "NH3"],
-  "temperature_range": "750°C",
-  "summary": "The study describes the development of an Atomic Layer Deposition (ALD) process using BBr3 and NH3 precursors to synthesize boron nitride (BN) thin films. The process was applied to coat nanoporous membranes, demonstrating conformality and scalability. The ALD process was used to tune the diameter of single nanopores and study ionic transport properties. The surface charge density of the BN nanopores was estimated, and molecular dynamics simulations confirmed the results. The high surface charge and scalability of the process open new possibilities for applications in ionic separation, energy harvesting, and ultrafiltration.",
-  "evidence": "In this work, we report the design and the fine-tuning of boron nitride single nanopore and nanoporous membranes by atomic layer deposition (ALD). First, we developed an ALD process based on the use of BBr3 and NH3 as precursors in order to synthesize BN thin films. The deposited films were characterized in terms of thickness, composition and microstructure. Next, we used the newly developed process to grow BN films on anodic aluminium oxide (AAO) nanoporous templates, demonstrating the conformality benefit of BN prepared by ALD, and its scalability for the manufacturing of membranes. For the first time, the ALD process was then used to tune the diameter of fabricated single transmembrane nanopores by adjusting the BN thickness and to enable studies of the fundamental aspects of ionic transport on a single nanopore."
-}<|im_end|>

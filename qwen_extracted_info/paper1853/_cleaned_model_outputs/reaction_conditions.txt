@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The inductive effect on the subsurface Si-N chemical bonding environment determines the rate of the nucleophilic substitution (specifically, SN2) reaction. As SiNx films become N rich, the electrophilicity of Si atoms increases as more electronegative N withdraws electron from Si, facilitating easier SN2 reaction in wet etch process to reduce wet etch resistance. If the SiNx films are Si rich, such electron-withdrawing effect can be weakened by Si-Si bonds to result in a higher wet etch resistance.",
-  "intermediate_species": ["Si-N bonds", "Si-Si bonds"],
-  "evidence": "Here, to further support this claim, we propose the following etching reaction mechanism in which the inductive effect on the subsurface Si-N chemical bonding environment determines the rate of the nucleophilic substitution (specifically, SN2) reaction (Fig. 6). As SiNx films become N rich, the electrophilicity of Si atoms increases as more electronegative N withdraws electron from Si. This facilitates easier SN2 reaction in wet etch process to reduce wet etch resistance (Fig. 6a). If the SiNx films are Si rich, such electron-withdrawing effect can be weakened by Si-Si bonds to result in a higher wet etch resistance just as in the SiNx films grown from TDSA (Fig. 6b)."
-}

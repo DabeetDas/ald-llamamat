@@ -1,8 +1,0 @@
-{
-  "target_material": "NiO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Ni(dmamb)2", "water"],
-  "temperature_range": "140 °C",
-  "summary": "The study investigates the resistive switching behavior of NiO thin films prepared through atomic layer deposition (ALD). The films were deposited using Ni(dmamb)2 as a nickel precursor and water as an oxygen source at 140 °C. Impedance spectroscopy was used to analyze the electrical and dielectric properties, revealing that the resistive switching originates from bulk-related responses rather than interfacial effects. The low dielectric constant and bias-independent capacitance support the bulk-based switching mechanism.",
-  "evidence": "NiO thin films were deposited using atomic layer deposition (ALD) which used Ni(dmamb)2 as a Ni precursor, where dmamb is described as 1-dimethylamino-2-methyl-2-butanolate and water as an oxygen source.15 Two amorphous NiO thin films, 40 and 190 nm, were deposited onto commercial Pt-coated wafers at 140 °C."
-}

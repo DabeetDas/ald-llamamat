@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The co-injection process involves the simultaneous flow of Hf and Zr precursors during the precursor exposure step, with the growth per cycle (GPC) determined by the relative chemisorption rates of the precursors. The deviation from the cycle ratio trendline suggests more efficient chemisorption of TEMAZ compared to TEMAH.",
-  "intermediate_species": [
-    "TEMAZ",
-    "TEMAH"
-  ],
-  "evidence": "The authors have also evaluated these films in metal–oxide–semiconductor capacitor structures and verified the electrical equivalence and similar within-wafer distributions of Hf0.2Zr0.8O2 obtained from both processing schemes. The co-injection approach was observed to lead to lower Hf content (x values) as compared to Hf xZr1/C0 xO2 films deposited using the conventional HfO2 and ZrO2 ALD cycle ratio approach. The lower Hf content was explained in terms of more efficient chemisorption of the Zr precursor compared to the Hf precursor."
-}

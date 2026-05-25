@@ -1,8 +1,0 @@
-{
-  "target_material": "Si",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Si2H6"],
-  "temperature_range": "4001C to 5501C",
-  "summary": "The study investigates the temperature modulation Si molecular-layer epitaxy (TM Si MLE) process for growing Si thin epitaxial layers using Si2H6 gas. The process involves alternating temperature modulation between 4001C and 5501C to achieve self-limiting adsorption and hydrogen desorption, resulting in selective epitaxial growth.",
-  "evidence": "Si thin epitaxial layers were grown by a temperature modulation Si molecular-layer epitaxy (TM Si MLE) method using Si2H6 gas. The in situ observation of the surface hydrogen desorption reaction during TM Si MLE was systematically investigated under different growth conditions. The growth thickness per cycle saturated at 0.3 monolayers when the Si2H6 gas supply was sufficient. The surface of thin film grown by TM Si MLE was observed by the use of high-resolution field-emission scanning electron microscope (FE-SEM) and perfect selective growth was observed."
-}

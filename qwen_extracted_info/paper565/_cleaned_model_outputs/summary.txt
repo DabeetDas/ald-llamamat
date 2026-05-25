@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TIC14", "H2O"],
-  "temperature_range": "100-400°C",
-  "summary": "The study investigates the effect of crystal structure on the optical properties of TiO2 films grown by atomic layer deposition (ALD). Amorphous films grown at 100°C have a lower refractive index compared to those grown at higher temperatures, where crystalline structures like anatase and rutile are formed. The refractive index increases with growth temperature, and the formation of preferentially oriented anatase structures significantly contributes to this increase. The study also highlights the importance of growth temperature in controlling the optical properties and structural characteristics of the films.",
-  "evidence": "The dependence of optical characteristics on the structure of atomic-layer-deposited titania (TiO2) thin films is studied. Amorphous films grown at 100°C have an optical band gap of 3.3 eV while the refractive index values of these films range from 2.2 to 2.3 at a wavelength of 633 nm. The refractive index can be increased up to 2.65 by using the growth temperatures about 300°C. Composition and structure studies reveal that the formation of preferentially oriented crystal (anatase) structure contributes to this increase of refractive index most significantly."
-}

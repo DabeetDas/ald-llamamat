@@ -1,7 +1,0 @@
-{
-  "precursors": ["HfCl4"],
-  "coreactants": ["O2"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "HfCl4 (98%) and O2 (99.995%) gas were used as the Hf and O sources, respectively. Films of HfO2 were deposited onto a Si(100) substrate using a horizontal quartz hot-wall type ALD reactor, as shown in Fig. 1. HfCl4 was evaporated at 433 K and introduced into the growth zone with purified N2 as a carrier gas. Oxidation was carried out using O2, which was introduced into the deposition zone with purified N2 as well."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Cobalt",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Co(acac)3", "La(acac)3"],
-  "temperature_range": "970 K",
-  "summary": "The study investigates the stability of cobalt-supported catalysts on ZrO2 and La-doped ZrO2 for methane combustion. Cobalt was deposited using atomic layer epitaxy (ALE) and wet impregnation techniques. The catalysts were tested for stability over 150 hours at 970 K. The results showed that cobalt supported on La-doped ZrO2 exhibited higher stability compared to those on plain ZrO2, indicating that lanthanum doping enhances the resistance to deactivation.",
-  "evidence": "Cobalt supported on La-doped ZrO2 showed much more stability after the aging treatment. The initial activity of cobalt supported on ZrO2 by ALE was significantly higher than that on La/ZrO2. But, after maintaining the former catalysts for 150 h at 970 K on stream (stability test), their initial high activities significantly decreased. On the other hand, when Co was supported on La-doped ZrO2 the resulting catalysts became much more stable."
-}<|im_end|>

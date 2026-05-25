@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "Not explicitly mentioned",
-  "summary": "The study investigates the relationship between local order, long range order, and sub-band-gap defects in hafnium oxide (HfO2) and hafnium silicate (HfSiO) films grown by atomic layer deposition (ALD) and chemical vapor deposition (CVD). The research focuses on the crystallinity and structural properties of HfO2 films, revealing that ALD-grown films can be crystalline for thicknesses of 20 nm or more, even though XRD measurements are not sensitive to such small crystallites. The study also highlights the presence of sub-band-gap defects and their correlation with the crystalline state of HfO2.",
-  "evidence": "The ALD-grown HfO2 films were deposited via alternating exposures of HfCl4 and H2O using N2 as a carrier gas. The study found that ALD-grown HfO2 films are crystalline for thicknesses of 20 nm or more, even though XRD measurements are not sensitive to such small crystallites. The XAS data indicated the presence of monoclinic HfO2 nanocrystallites in the 20 nm ALD-grown films."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "YVO4:Yb3+",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Yb(thd)3", "Y(thd)3", "VO(thd)2", "O3"],
-  "temperature_range": "260-300 °C",
-  "summary": "YVO4:Yb3+ thin films were deposited using atomic layer deposition (ALD) with precursors Yb(thd)3, Y(thd)3, VO(thd)2, and O3 at temperatures between 260-300 °C. The films exhibited intense near-infrared (NIR) emission under UV excitation after post-deposition annealing at 1000 °C. The NIR emission is attributed to a quantum splitting process, where one UV photon is converted to two NIR photons. The study aimed to assess the efficiency of UV to NIR conversion and optimize pulse parameters for NIR emission intensity.",
-  "evidence": "We demonstrate controlled deposition by atomic layer deposition of YVO4:Yb3+ thin films exhibiting an intense NIR emission under UV excitation after post deposition annealing at 1000 °C. The samples are deposited using the precursor combinations Yb(thd)3, Y(thd)3 and VO(thd)2 with O3 (thd = 2,2,6,6-tetramethyl-3,5-heptanedione) at deposition temperatures between 260-300 °C."
-}

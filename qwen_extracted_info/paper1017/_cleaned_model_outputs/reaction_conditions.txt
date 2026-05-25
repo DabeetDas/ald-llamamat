@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the use of ethylferrocene (EF) as a precursor and an oxygen plasma co-reactant. The growth per cycle (GPC) is determined by the saturation of surface sites, with a GPC of 0.1 Å/cycle at 150–250 °C. The reaction mechanism includes precursor chemisorption, followed by a plasma-induced oxidation step. The oxygen plasma reacts with the chemisorbed EF to form iron oxide, with the reaction being limited by the saturation of surface sites.",
-  "intermediate_species": ["ethylferrocene", "surface hydroxyls", "oxygen plasma radicals"],
-  "evidence": "The text describes the ALD process using ethylferrocene and an oxygen plasma co-reactant, with a saturating growth rate of 0.1 Å/cycle in the temperature range of 150–250 °C. It mentions that the oxygen plasma reacts with the chemisorbed EF to form iron oxide, and the growth is limited by the saturation of surface sites. The reaction mechanism involves precursor chemisorption and plasma-induced oxidation."
-}

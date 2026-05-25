@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tetrakis(dimethylamino)hafnium (TDMAH)", "H2O"],
-  "temperature_range": "275 °C",
-  "summary": "The study investigates the deposition of HfO2 films on GaAs (100) surfaces using atomic layer deposition (ALD) with tetrakis(dimethylamino)hafnium (TDMAH) and H2O precursors at 275 °C. The process effectively passivates the GaAs surface, removing native oxides and preventing regrowth of As oxide during film growth. The results show linear growth of 1.0 Å per cycle and steady-state coverage after about 10 ALD cycles.",
-  "evidence": "The HfO2 depositions were performed at 275 °C by using tetrakis(dimethylamino)hafnium (TDMAH) and H2O and a 1-20-1-20 s TDMAH-purge-H2O-purge pulse sequence. No interface oxidation is detected after 15 cycles of HfO2 ALD implying effective passivation of the GaAs surface. Spectroscopic ellipsometry confirms linear growth at 1.0 Å / cycle on both starting surfaces, while Rutherford backscattering spectrometry indicates steady-state coverage after about 10 ALD cycles."
-}

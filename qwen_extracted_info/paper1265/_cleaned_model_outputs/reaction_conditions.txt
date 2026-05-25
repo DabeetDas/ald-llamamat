@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [
-    "−* + → −− *M OH LiOC(CH ) M OH LiOC(CH )33 33",
-    "−− * + → −− *M OH LiOC(CH ) H O M OH LiOH HOC(CH )33 2 33"
-  ],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "During LTB exposure, the LTB precursor is believed to undergo a molecular adsorption onto the hydroxylated surface: −* + → −− *M OH LiOC(CH ) M OH LiOC(CH )33 33 (1) where an asterisk is used to denote surface species. Upon subsequent H2O exposure, the tert-butoxy (−OC-(CH3)3) ligand undergoes hydrolysis, at which point a tert-butanol (HOC(CH3)3) is released: −− * + → −− *M OH LiOC(CH ) H O M OH LiOH HOC(CH )33 2 33 (2)."
-}

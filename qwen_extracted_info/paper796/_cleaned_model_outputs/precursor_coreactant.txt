@@ -1,7 +1,0 @@
-{
-  "precursors": ["AlCl3", "TMA", "TiCl4", "H2O", "TDMAT", "DEZ", "PdII(hfac)", "Cu(acac)2", "WF6", "C2H5)3B", "Si2H6"],
-  "coreactants": ["H2O", "O3", "oxygen radicals", "NH3", "H2O", "H2O", "hydrogen/nitrogen plasma", "hydrogen radicals", "NH3", "H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "AlCl3 was evaporated in an open boat at 70 /C176C inside the F-120 reactor and its pulsing was done via inert-gas valving. All other precursor vapors were pulsed into the reaction chamber from external cylinders held at room temperature. Nitrogen was used as the carrier and purging gas, and the reaction chamber pressure was about 10 mbar during the depositions."
-}

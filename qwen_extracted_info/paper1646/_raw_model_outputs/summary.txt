@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium dioxide (TiO2)",
-  "process_type": "Plasma-assisted ALD (PEALD)",
-  "main_precursors": ["titanium tetraisopropoxide (TTIP)", "O2 plasma"],
-  "temperature_range": "150 °C",
-  "summary": "The study investigates the surface reaction mechanisms during O2-plasma-assisted atomic layer deposition (ALD) of TiO2 using titanium tetraisopropoxide (TTIP) as the metal precursor. The process involves both surface hydroxyl groups and metal carbonates as reactive sites for chemisorption. The films exhibit an anatase crystal structure at 150 °C with a growth per cycle of ∼0.83 Å. The study highlights the role of plasma-activated H2O in generating -OH groups and carbonates, which are consumed during the ALD cycle. The process offers advantages such as reduced purge times and high reactivity.",
-  "evidence": "We have investigated the surface reaction mechanisms during the O2-plasma-assisted atomic layer deposition (ALD) of TiO2 from titanium tetraisopropoxide using in situ attenuated total reflection Fourier transform infrared spectroscopy. We show that the reaction mechanism involves a combination of O3- and H2O-based ALD chemistries, where both metal carbonates and surface hydroxyl groups are the reactive site for chemisorption of the metal precursor. The TiO2 films have an anatase crystal structure at 150 °C with a growth per cycle of ∼0.83 Å, which is much higher than that for amorphous films."
-}<|im_end|>

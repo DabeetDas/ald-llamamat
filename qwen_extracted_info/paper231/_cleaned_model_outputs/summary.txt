@@ -1,8 +1,0 @@
-{
-  "target_material": "MoSe2",
-  "process_type": "ALD",
-  "main_precursors": ["((CH3)3Si)2Se", "Mo(CO)6", "MoCl5"],
-  "temperature_range": "167 and 300 /C14 C",
-  "summary": "The study demonstrates the preparation of 2D MoSe2 structures using atomic layer deposition (ALD) with ((CH3)3Si)2Se as the Se precursor and Mo(CO)6 or MoCl5 as the Mo precursors. The results show that using MoCl5 precursor leads to high-quality crystalline MoSe2 flake structures, while Mo(CO)6 results in MoSe2 films with significant oxygen content. The ALD process was conducted at different temperatures depending on the precursor used.",
-  "evidence": "Here, we demonstrate the preparation of 2D MoSe2 structures by the atomic layer deposition technique. In this work, we use ((CH3)3Si)2Se as the Se precursor and Mo(CO)6 or MoCl5 as the Mo precursors. The ALD growth was conducted under the same conditions except of the deposition temperatures which were 167 and 300 /C14 C for Mo(CO)6 and MoCl5, respectively, since Mo(CO)6 decomposes above 175 /C14 C."
-}

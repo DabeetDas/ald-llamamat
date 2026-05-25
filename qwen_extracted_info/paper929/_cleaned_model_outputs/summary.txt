@@ -1,8 +1,0 @@
-{
-  "target_material": "Alumina (Al2O3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Deionized water", "Trimethylaluminum (TMA)"],
-  "temperature_range": "77 ◦C",
-  "summary": "The study describes the fabrication of polymer/ceramic nanocomposite membranes using atomic layer deposition (ALD) to coat high-density polyethylene (HDPE) particles with alumina (Al2O3) films. The ALD process was performed at 77 ◦C, and the resulting nanocomposite membranes showed improved barrier properties. However, voids formed at the polymer-ceramic interface during extrusion affected permeability. Surface modification with 3-aminopropyltriethoxysilane (APS) improved wettability and reduced permeability by 20%.",
-  "evidence": "Atomic layer deposition (ALD) was used to deposit alumina films on primary, micron-sized (16 and 60 /H9262m) high-density polyethylene (HDPE) particles at a rate of ∼ 0.5 nm/cycle at 77 ◦C. The diffusion coefficient of fabricated nanocomposite membranes can be reduced to half with the inclusion of 7.29 vol.% alumina flake. However, a corresponding increase in permeability was also observed due to the voids formed at or near the interface of the polymer and alumina flake. The low surface wettability of the alumina outerlayers was believed to be one of the main reasons of void formation. Particle surface wettability was improved using 3-aminopropyltriethoxysilane (APS) to coat the particle ALD surface modified polymer particles prior to extrusion. The diffusion coefficient and permeability of the membrane using surfactant-modified particles decreased by 20%, relative to the non-modified case."
-}

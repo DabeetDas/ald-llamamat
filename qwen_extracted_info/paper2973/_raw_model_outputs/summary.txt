@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta2O5",
-  "process_type": "ALD",
-  "main_precursors": ["TaF5", "H2O"],
-  "temperature_range": "400 to 450°C",
-  "summary": "The study reports on the atomic layer deposition of hexagonal-phase Ta2O5 using TaF5 and H2O precursors. The deposition rate exhibits two growth regimes, influenced by the partial pressure of TaF5 and H2O. The deposited phase transitions from amorphous to crystalline hexagonal Ta2O5 as temperature and pressure increase. The partial pressure of TaF5 is identified as the controlling factor for crystallization.",
-  "evidence": "The results of atomic layer deposition of Ta2O5 on silicon using the precursors TaF5 and H2O are reported. The films are stoichiometric Ta2O5 at the surface, becoming Ta-rich as the interface is approached. For deposition temperatures from 400 to 450°C and chamber pressures from 0.5 to 5 Torr, the deposition rate exhibits two growth regimes, postulated to be due to differences in the densities of hydroxyl species on the chemically cleaned Si substrates and on the deposited Ta2O5 layer. The deposited phase changes from amorphous to crystalline ~hexagonal! in the same interval of pressure and temperature. The controlling factor for formation of the hexagonal polymorph is the partial pressure of the TaF5 precursor."
-}<|im_end|>

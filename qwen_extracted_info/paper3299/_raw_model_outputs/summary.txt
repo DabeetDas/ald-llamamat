@@ -1,8 +1,0 @@
-{
-  "target_material": "HfAlOx",
-  "process_type": "Layer-by-Layer Deposition & Annealing (LL-D&A)",
-  "main_precursors": ["Hf[N(CH3)2]4", "TMA", "H2O"],
-  "temperature_range": "650 °C to 950 °C",
-  "summary": "The study investigates HfAlOx films deposited by layer-by-layer growth for CMOS high-k gate dielectrics. The process involves alternating deposition of HfO2 and Al2O3 layers, followed by thermal annealing to control intermixing and crystallization. Nitrogen incorporation is explored to increase crystallization temperature and reduce leakage current, though it introduces tradeoffs. The results show that the intermixing process occurs between 750 and 850 °C, and the crystallization temperature increases with Al content.",
-  "evidence": "We have investigated ternary metal oxide films for high-k gate dielectrics by using a layer-by-layer deposition & annealing method so as to keep the dielectric constant of the film high with no crystallization. HfAlOx films have been prepared by alternating deposition of HfO2 and Al2O3 layers, where it is a key for the improvement of the film quality to understand the intermixing process between two layers by thermal treatments. The annealing temperature in NH3 during the LL-D&A process is very important to increase the nitrogen concentration in the film. Also it is noted that the nitrogen incorporation enhances the crystallization temperature, while it degrades the gate leakage current."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["(CH3)2AlCl", "D2O"],
-  "temperature_range": "150 - 400 °C",
-  "summary": "The study investigates the ALD process for depositing Al2O3 using (CH3)2AlCl and D2O. The reaction mechanisms were analyzed using QMS and QCM, revealing that most chloride ligands are released during the water pulse, while methyl ligands are released during both precursor pulses. The process temperature range is 150-400 °C, and the growth rate was determined from QMS and QCM data.",
-  "evidence": "The observed reaction byproducts were DCl and CH3D. QMS showed that about one-third of the chlorine, and half of the methyl ligands were released during the (CH3)2AlCl pulse. The growth rate deduced from the QMS and QCM data was in qualitative agreement with the previously published growth rate from ALD film growth experiments."
-}

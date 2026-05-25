@@ -1,8 +1,0 @@
-{
-  "target_material": "HfZrOx",
-  "process_type": "ALD",
-  "main_precursors": ["TDEAH", "TDEAZ", "H2O"],
-  "temperature_range": "250°C",
-  "summary": "A 300mm ALD HfZrOx process using TDEAH, TDEAZ, and H2O is developed. This process applies a nano-laminate approach to grow a HfZrOx film by intermixing ALD HfO2 and ZrO2 around 250°C. The as-deposited HfZrOx films are amorphous and can be crystallized with a 950°C post-deposition anneal. CMOS transistors using HfZrOx as gate dielectric are fabricated, showing promising device performance for sub-1nm EOT scaling.",
-  "evidence": "A 300mm ALD HfZrOx process using TDEAH, TDEAZ, and H2O is developed. This process applie s a nano-laminate approach to grow a HfZrOx film by intermixing ALD HfO2 and ZrO2 around 250°C. The as-deposited HfZrOx films are amorphous, which can be crystallized with a 950°C post-deposition anneal. CMOS transistors, using HfZrOx as gate dielectric, are fabri cated for the evaluation of the corresponding device performance."
-}<|im_end|>

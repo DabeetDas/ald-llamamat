@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the exposure of the substrate to TBTDEN, which generates a saturated mono-layer, followed by a remote hydrogen plasma step to reduce the mono-layer to form NbN. The process includes purge steps with argon to avoid additional chemical vapor deposition.",
-  "intermediate_species": [
-    "mono-layer of NbN",
-    "residual TBTDEN"
-  ],
-  "evidence": "At the ﬁrst step the substrate surface is exposed to TBTDEN, which generates a saturated mono-layer on the substrate. Then, the residual TBTDEN is purged with argon to avoid additional chemical vapor deposition. The mono-layer is, at the third step, reduced by a remote hydrogen plasma to form a mono-layer of NbN, followed by the fourth step of a second argon purge."
-}

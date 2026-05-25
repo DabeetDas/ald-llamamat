@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The very first ALD cycles define the dielectric properties very near to the dielectric-semiconductor interface, and growing an upper layer at higher ALD temperature produces some annealing of interfacial states, thus improving the interface quality.",
-  "intermediate_species": ["residual hydrogen", "residual chlorine", "OH groups", "H+ ions", "Al3+"],
-  "evidence": "The very first ALD cycles define the dielectric properties very near to the dielectric-semiconductor interface, and growing an upper layer at higher ALD temperature produces some annealing of interfacial states, thus improving the interface quality. Hydrogen in the charge state H+ could justify this positive charge. Hydrogen may serve as both deep donors in Al2O3 or a proton able to drift as ionic current. The tetrahedrally coordinated Al3+ is believed to be another source of the negative charge. The amorphous Al2O3 is quite defective, and crystallization in thin films is accompanied with densification due to the reduction of free volume, i.e., vacancy type of defects in oxygen sublattice."
-}

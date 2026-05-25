@@ -1,4 +1,0 @@
-{
-  "summary": "ValueError: Could not parse model output as JSON. Preview: '{   \"target_material\": \"high-K dielectric films, conductive films, nanolaminate composites, alloys, TiO, TiTaO, ZrO, HfO, AlO, TaO, TiN, Ru-dielectric, TiN-yTaO, HfAlO, ZrAlO, HfO, ZrO, AlO, TaO, TiO, TiTaO, TiN, Ru-dielectric, TiN-yTaO, HfAlO, ZrAlO, HfO, ZrO, AlO, TaO, TiO, TiTaO, TiN, Ru-dielectr'",
-  "precursor_coreactant": "ValueError: Could not parse model output as JSON. Preview: '{   \"precursors\": [\"ZrCl4\", \"H2O\", \"TMA\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\", \"H2O\",'"
-}

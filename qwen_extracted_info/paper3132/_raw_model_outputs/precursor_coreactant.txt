@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA"],
-  "coreactants": ["H2O", "O2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "In the PE ALD process, O2 plasma was used as an oxidant. For the thermal ALD processes, H2O was used as an oxidant. Before deposition, the sample was heated for 3 min in argon."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum nitride (AlN)",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["aluminum chloride (AlCl3)", "ammonia (NH3)"],
-  "temperature_range": "350 8C",
-  "summary": "Aluminum nitride (AlN) thin films were deposited using plasma-enhanced atomic layer deposition (PEALD) with aluminum chloride (AlCl3) as the aluminum source and an ammonia-hydrogen plasma as the nitrogen source. The process involved alternating pulses of AlCl3, purge with Ar-H2, exposure to NH3-H2 plasma, and final purge with Ar-H2. The growth rate was saturated at 0.042 nm per cycle, and the thickness was proportional to the number of cycles. The films showed good anti-oxidation properties after annealing at 650 8C for 30 min.",
-  "evidence": "Aluminum nitride (AlN) thin films were deposited by atomic layer deposition from aluminum chloride (AlCl3) and an ammonia-hydrogen plasma. The growth rate was saturated at ;0.042 nm ycycle, and the thickness was proportional to the number of reaction cycles. AlN films showed good anti-oxidation properties when O was annealed at 650 8C for 30 min."
-}<|im_end|>

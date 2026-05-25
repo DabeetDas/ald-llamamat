@@ -1,8 +1,0 @@
-{
-  "target_material": "Iridium (Ir)",
-  "process_type": "Plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["Ir(EtCp)(COD)", "NH3 plasma"],
-  "temperature_range": "270°C (deposition), 850°C (annealing)",
-  "summary": "The study investigates the use of plasma-enhanced atomic layer deposition (PEALD) to deposit iridium (Ir) thin films and evaluates the effect of a two-step annealing process on their morphological stability. The films were deposited using Ir(EtCp)(COD) and NH3 plasma. The two-step annealing process, involving a temperature-rising step in ambient argon followed by a temperature-maintenance step in ambient oxygen, significantly improved the thermal and morphological stability of the Ir films at 850°C, preventing surface roughening caused by oxidation during the temperature-rising step.",
-  "evidence": "Plasma-enhanced atomic layer deposition /H20849PEALD/H20850of iridium /H20849Ir/H20850films was investigated using Ir /H20849EtCp/H20850/H20849COD/H20850and NH 3 plasma. ... During the temperature-rising step, the surfaces of the Ir films remained smooth because oxygen was not supplied into the RTA system to prevent the oxidation. When the temperature reached 850°C, oxygen was supplied into the RTA system, and annealing in ambient oxygen proceeded where the Ir film existed in stable condition. As a result of the two-step annealing process, the surface of the Ir films remained smooth /H20849rms roughness: 2.6 nm/H20850, and Ir did not oxidize at an annealing temperature of 850°C."
-}<|im_end|>

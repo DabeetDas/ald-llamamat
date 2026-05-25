@@ -1,8 +1,0 @@
-{
-  "target_material": "Silicon",
-  "process_type": "Molecular Layer Epitaxy (MLE)",
-  "main_precursors": ["SiH2Cl2", "Hydrogen"],
-  "temperature_range": "825~ to 850~",
-  "summary": "The study reports on silicon molecular layer epitaxy (MLE) using SiH2Cl2 and hydrogen. The process involves alternating injection of SiH2Cl2 and hydrogen, with optimal growth at 825~. The decomposition of SiH2Cl2 leads to the formation of SiCl2, which is crucial for the growth mechanism. The process is compared to conventional CVD methods, showing advantages in reducing impurity incorporation and maintaining surface morphology.",
-  "evidence": "The paper reports on recent results of silicon molecular layer epitaxy (MLE) using SiH2Cl2 and hydrogen. Growth conditions for monomolecular layers by the monomolecular layer deposition process have been investigated as a function of substrate temperature, pressure in the growth chamber, gas injection time, and vacuum evacuation time. The substrate temperature of 825~ was best suited to the monomolecular layer growth where the film thickness per cycle is saturated with the SiH2Cl2 injection pressure. From the results obtained by mass spectrometry and IR spectroscopy, we may conclude that in the MLE growth the most predominant surface-adsorbed migrating species on silicon is SiCl2."
-}<|im_end|>

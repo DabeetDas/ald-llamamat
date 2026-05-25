@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves alternating surface-saturating precursor doses separated by inert gas purging. The surface-controlled nature of ALD allows for uniform coating of substrates. The metal precursor pulsing ratio Gd : Sc = 5 : 6 yielded stoichiometric films and a growth rate of 0.21 Å/cycle. The films stayed amorphous up to 900 ◦C.",
-  "intermediate_species": ["Gd(thd)3", "Sc(thd)3", "ozone", "surface hydroxyls"],
-  "evidence": "The ALD method is based on self-limiting surface reactions achieved by alternating surface-saturating precursor doses separated by inert gas purging. The surface-controlled nature of ALD allows substrates of various sizes and geometries to be uniformly coated. The metal precursor pulsing ratio Gd : Sc = 5 : 6 resulted in a nearly stoichiometric composition according to XRF. The films stayed amorphous up to 900 ◦C."
-}<|im_end|>

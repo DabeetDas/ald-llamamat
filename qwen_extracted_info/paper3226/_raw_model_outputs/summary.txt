@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium",
-  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2)", "(methylcyclopentadienylpyrrolyl)ruthenium (MCPRu)"],
-  "temperature_range": "330 ◦C",
-  "summary": "The study compares the growth behavior of nm-thin ruthenium layers using N2/NH3 and N2/H2 plasmas during plasma enhanced atomic layer deposition (PEALD) for two ruthenium precursors: bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2) and (methylcyclopentadienylpyrrolyl)ruthenium (MCPRu). The research highlights the impact of plasma ambient on nucleation and growth, showing that MCPRu exhibits less incubation and higher growth-per-cycle (GPC) compared to Ru(EtCp)2. The study also demonstrates that the plasma used during PEALD significantly affects the nucleation and growth of ruthenium films.",
-  "evidence": "We compare the growth behavior of nm-thin ruthenium layers using N2/NH3 and N2/H2 plasmas during plasma enhanced atomic layer deposition for two ruthenium precursors. For bis(ethylcyclopentadienyl)ruthenium, we have found a large incubation time on titanium nitride when using N2/NH3 plasma. With N2/H2 plasma the incubation was reduced and tunable with the Ru dose per pulse. In contrast to the incubation, the steady state growth does not depend significantly on the plasma ambient given that there are H2 or NH3 species. For (methylcyclopentadienylpyrrolyl)ruthenium, no significant incubation was observed for either plasmas, which is attributed to the presence of the pyrrolyl group."
-}<|im_end|>

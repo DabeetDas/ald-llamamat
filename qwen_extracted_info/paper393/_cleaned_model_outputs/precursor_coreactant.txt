@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylgallium (TMG)", "trimethylindium (TMI)"],
-  "coreactants": ["arsine", "PH3", "H2O"],
-  "purge_gas": ["H2"],
-  "carrier_gas": [],
-  "evidence": "The text states: 'For GaAs growth using TMG and arsine, ALE is usually achieved in the temperature range between 400 and 500 °C.' and 'The P surface was stabilized by a PH3 flow rate of 6 tamol s -1.' Additionally, 'hydrogen purging' is mentioned as part of the process."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnMnO",
-  "process_type": "atomic layer deposition",
-  "main_precursors": ["zinc acetate", "water vapor", "2,2,6,6-tetramethyl-3,5-heptanedione", "tris(2,4-pentanedionato)manganese(III)"],
-  "temperature_range": "300–360 °C for substrate, 230–250 °C for zinc precursor, 160 °C for Mn(acac)3, 160–180 °C for Mn(thd)3",
-  "summary": "The study describes the growth of ZnMnO films using atomic layer deposition (ALD) at low temperatures to avoid Mn clustering and oxide inclusions. The process uses organic zinc and manganese precursors, with specific temperature ranges for each precursor and substrate. Post-growth annealing at 450–500 °C improves film quality and Mn homogeneity.",
-  "evidence": "The authors demonstrate that by lowering deposition temperature of ZnMnO films (T ≤ 500 °C) they can avoid Mn clustering and creation of inclusions of Mn oxides, which are frequently formed in ZnMnO layers grown by high temperature methods. Low temperature growth is achieved using atomic layer deposition and organic zinc and manganese precursors."
-}

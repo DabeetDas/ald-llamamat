@@ -1,7 +1,0 @@
-{
-  "precursors": ["diethyl zinc"],
-  "coreactants": ["water"],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": [],
-  "evidence": "ALD was performed with a Savannah 100 (Cambridge Nanotech Inc.) using diethyl zinc, DEZ, and water as precursors. ZnO was grown at 150 8C using reactant exposure times of 20 and 10 s and partial pressures of 2 and 10 Torr for DEZ and H2O, respectively, with 30 s nitrogen purge times between exposures."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the formation of Si–F bonds during plasma etching, which passivates the surface and increases selectivity. The etching step with NF3 converts TiO2 to volatile Ti–F species, and fluorine active species form Si–F bonds on the substrate. The presence of Si–F/Si–OF bonds inhibits TiO2 growth during the initial cycles, and the etching step introduces a delay in nucleation on Si-based surfaces.",
-  "intermediate_species": ["Ti–F", "Si–F", "Si–OF", "Ti–O–Si"],
-  "evidence": "The text states: 'The TiO2 growth rate at first cycles is clearly higher on TiN. To apprehend this effect, we achieved O2 “plasma only” treatment on TiN... The Ti–O contribution disappears after 2 s O2 plasma exposure... The TiO2 thickness is around 1 nm which corresponds precisely to the difference of TiO2 formation at TiO2/TiN interface... The F–Ti contribution increases first until 4 s and then decreases until it fully disappears at 7 s... The Si–F bonds presence at the ultimate surface are visible on Si 2p... The presence of Ti–O contribution attests the growth of TiO2 on the TiN substrate.'"
-}<|im_end|>

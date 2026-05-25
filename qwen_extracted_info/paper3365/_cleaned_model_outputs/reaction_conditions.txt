@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The nitridation of the GaAs capping layer leads to the formation of GaAsN which decreases the conduction band minimum, and thus a carrier trap is formed. The N2/NH3 plasma flux leads to the As replacement by N. The charge carriers are trapped to the insulating AlN layer on the GaAs/AlN interface.",
-  "intermediate_species": ["GaAsN", "surface states caused by aluminum"],
-  "evidence": "We suggest that the nitridation of the surface of the GaAs capping layer leads to the formation of GaAsN which decreases the conduction band minimum, and thus a carrier trap is formed. It has been earlier shown that N and N2/NH3 plasma flux leads to the As replacement by N. Other possible reason for the observed behavior is that the charge carriers are trapped to the insulating AlN layer on the GaAs/AlN interface."
-}

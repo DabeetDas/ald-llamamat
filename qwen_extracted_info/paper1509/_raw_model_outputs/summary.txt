@@ -1,8 +1,0 @@
-{
-  "target_material": "aluminum phosphate",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["trimethyl phosphate (TMP)", "oxygen (O2)", "trimethylaluminum (TMA)"],
-  "temperature_range": "50–320 °C",
-  "summary": "Aluminum phosphate thin films were deposited using plasma-assisted atomic layer deposition (ALD) with trimethyl phosphate (TMP) plasma, O2 plasma, and trimethylaluminum (TMA) exposures. The process showed a temperature-dependent growth behavior, with a growth per cycle (GPC) of 0.37 nm/cycle at 320 °C. The films were amorphous and could be crystallized to triclinic AlPO4 by annealing to 900 °C. The plasma polymerization of TMP played a key role in the process, enabling the formation of a phosphorus-containing surface that reacted with TMA to form aluminum phosphate.",
-  "evidence": "Aluminum phosphate thin films were deposited by plasma-assisted atomic layer deposition (ALD) using a sequence of trimethyl phosphate (TMP) plasma, O2 plasma, and trimethylaluminum (TMA) exposures. In the investigated temperature region between 50 and 320 °C, nucleation delays were absent and linear growth was observed, with the growth per cycle (GPC) being strongly dependent on temperature. Films grown at 320 °C had a GPC value of 0.37 nm/cycle and consisted of amorphous aluminum pyrophosphate (Al4P6O21). They could be crystallized to triclinic AlPO4 (tridymite) by annealing to 900 °C, as evidenced by high-temperature XRD measurements."
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the dissociation of O2 plasma to generate O-radicals, which react with the surface. The O-radicals recombine with surface O-atoms to form molecular oxygen, reducing the flux of O-radicals in high AR trenches. The O2 plasma exposure step is followed by a H2 plasma step to reduce PtOx to Pt.",
-  "intermediate_species": ["O-radicals", "surface O-atoms", "PtOx"],
-  "evidence": "In the thermal ALD process based on (MeCp)PtMe3 and O2 gas, the O2 gas is catalytically dissociated by the Pt surface, leading to reactive O-atoms adsorbed at the surface. Alternatively, instead of O2 gas, an O2 plasma can be used to supply reactive O-radicals directly from the gas phase to the surface. This reduces the activation energy barriers for the surface reactions, giving plasma-assisted ALD of Pt several potential advantages for certain applications. The O2 molecules in the O2 plasma, either the undissociated fraction of the O2 feed gas or the O2 reaction products from surface recombination of O-radicals, can therefore add an extra ALD component to the plasma-assisted ALD component."
-}<|im_end|>

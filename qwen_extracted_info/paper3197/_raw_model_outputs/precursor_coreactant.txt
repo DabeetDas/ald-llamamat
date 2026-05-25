@@ -1,7 +1,0 @@
-{
-  "precursors": ["TEMAH (Tetrakisethylmethylamino Hafnium)"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "In the ALD of TEMAH/H2O, the N2 purge length was typically three times as long as the TEMAH and H2O pulse length with a maximum purge length of 60 s. To investigate the decomposition of the TEMAH precursor, cycling of the TEMAH pulse without oxidizer was also tested. This was referred to as the TEMAH/N2 process. In each case, TEMAH was delivered from a heated source with a cross-flow style vessel by using N2 as the carrier gas."
-}<|im_end|>

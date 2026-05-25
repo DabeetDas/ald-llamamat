@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2, ZrO2, Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Titanium(IV) isopropoxide", "Zirconium(IV) tert-butoxide", "Trimethyl aluminium", "Water vapor"],
-  "temperature_range": "120–160 /C14C",
-  "summary": "The paper describes a method for fabricating oxide nanotubes using atomic layer deposition (ALD) combined with micro-contact printing (mCP). The process involves depositing TiO2, ZrO2, and Al2O3 nanotubes using thermal ALD at temperatures between 120–160 /C14C. The nanotubes are formed within templates such as anodic aluminium oxide (AAO) and polycarbonate (PC) membranes. The study discusses the effects of nanopore size on ALD growth and the role of surface chemistry in selective ALD. The nanotubes are released by dissolving the templates, and the process allows for precise control over nanotube dimensions and wall thickness.",
-  "evidence": "The paper describes a method for fabricating oxide nanotubes using atomic layer deposition (ALD) combined with micro-contact printing (mCP). The process involves depositing TiO2, ZrO2, and Al2O3 nanotubes using thermal ALD at temperatures between 120–160 /C14C. The nanotubes are formed within templates such as anodic aluminium oxide (AAO) and polycarbonate (PC) membranes. The study discusses the effects of nanopore size on ALD growth and the role of surface chemistry in selective ALD. The nanotubes are released by dissolving the templates, and the process allows for precise control over nanotube dimensions and wall thickness."
-}

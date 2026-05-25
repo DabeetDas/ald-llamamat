@@ -1,8 +1,0 @@
-{
-  "target_material": "vanadium dioxide",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["tetrakis(ethylmethyl)amido vanadium", "ozone"],
-  "temperature_range": "≤150°C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to grow high-quality, ultrathin vanadium dioxide (VO2) films on sapphire substrates at low temperatures (≤150°C). The films exhibit a metal-insulator phase transition near 68°C, which is exploited to tune the refractive index by controlling temperature. The optical properties, including transmittance and reflectance, are measured as a function of temperature to create models of the complex optical refractive index, which can be used for developing tunable refractive index materials.",
-  "evidence": "To achieve this, we used atomic layer deposition to grow high-quality, low-temperature ( ≤150°C), ultrathin films of vanadium dioxide on sapphire substrates."
-}

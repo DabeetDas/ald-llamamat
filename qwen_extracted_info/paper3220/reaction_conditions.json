@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process for niobium silicide (NbSi) films involved the use of NbF5 and Si2H6 as precursors. The growth mechanism at 200 °C was examined by in situ QCM and QMS, revealing a self-limiting reaction with a growth rate of 4.5 Å/cycle. The films were found to grow only on oxide-free films prepared using halogenated precursors. The chemical composition, growth rate, structure, and electronic properties of the films were studied over the deposition temperature range 150-400 °C. The films were stoichiometric NbSi (1:1) with no detectable fluorine impurities, amorphous with a density of 6.65g/cm³, and metallic with a resistivity ρ=150 μΩ.cm at 300K for films thicker than 35 nm. The growth rate was nearly constant for deposition temperatures between 150-275 °C, and increased above 300 °C suggesting the onset of non-self-limiting growth.",
-  "intermediate_species": [
-    "fluorine impurities"
-  ],
-  "evidence": "The growth mechanism at 200 °C was examined by in situ QCM and QMS, revealing a self-limiting reaction with a growth rate of 4.5 Å/cycle. NbSi was found to grow only on oxide-free films prepared using halogenated precursors. The electronic properties, growth rate, chemical composition, and structure of the films were studied over the deposition temperature range 150-400 °C. For all temperatures, the films are found to be stoichiometric NbSi (1:1) with no detectable fluorine impurities, amorphous with a density of 6.65g/cm³, and metallic with a resistivity ρ=150 μΩ.cm at 300K for films thicker than 35 nm. The growth rate was nearly constant for deposition temperatures between 150-275 °C, and increased above 300 °C suggesting the onset of non-self-limiting growth."
-}

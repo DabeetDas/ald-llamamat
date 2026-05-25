@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["Al(CH3)3", "H2O"],
-  "temperature_range": "77 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of Al2O3 films on low-density polyethylene (LDPE) particles using sequential exposures of Al(CH3)3 and H2O at 77 °C. The process was characterized using FTIR spectroscopy and TEM, revealing the formation of a conformal Al2O3 coating that acts as an effective gas diffusion barrier. The growth mechanism involves the adsorption of Al(CH3)3 onto the LDPE surface or absorption into the LDPE particle, followed by reaction with H2O. The presence of hydrogen-bonded H2O on the Al2O3 surface enhances the growth rate.",
-  "evidence": "Sequential exposures of Al(CH3)3 and H2O at 77 °C were used to encapsulate low-density polyethylene (LDPE) particles with an ultrathin Al2O3 film. FTIR studies revealed that the nucleation of Al2O3 ALD on the LDPE particles occurred primarily via adsorption of Al(CH3)3 onto the LDPE surface or absorption of Al(CH3)3 into the LDPE particle followed by the reaction with H2O. The FTIR spectra also demonstrated that the sequential exposures of Al(CH3)3 and H2O led to an increase in Al2O3 bulk vibrational modes. The presence of an Al2O3 film on the LDPE particles was confirmed using transmission electron microscopy (TEM)."
-}

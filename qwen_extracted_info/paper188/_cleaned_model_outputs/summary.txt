@@ -1,8 +1,0 @@
-{
-  "target_material": "nickel oxide (NiO)",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["nickel(II) acetylacetonate (Ni(acac)2)", "direct oxygen plasma"],
-  "temperature_range": "200 °C",
-  "summary": "The study describes the growth of nonstoichiometric nickel oxide (NiO) thin films using plasma-enhanced atomic layer deposition (PEALD) with nickel(II) acetylacetonate (Ni(acac)2) and direct oxygen plasma. The films exhibit p-type conductivity, antiferromagnetic properties, and nonstoichiometry, making them suitable for optoelectronic and spintronic applications. The PEALD process provides good control over film stoichiometry and microstructure, with low impurity content and high crystallinity.",
-  "evidence": "Nickel oxide films were deposited at 200 °C on Si, SiO2/Si, and borosilicate glass substrates using PEALD with nickel(II) acetylacetonate (Ni(acac)2) and direct oxygen plasma. The films were nonstoichiometric with significant nickel deficiency, Ni = 40 at.%, O = 57 at.%, corresponding to Ni/O = 0.7. The films were confirmed to have p-type conductivity, with a hole density of 10^17 cm−3 and mobility of 0.1 cm^2 V−1 s−1, independent of the film thickness. The antiferromagnetic nature of the NiO has made it a common material in spintronics research."
-}

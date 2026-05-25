@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["trimethylgallium (TMGa)", "arsine (AsH3)"],
-  "temperature_range": "450-700 °C",
-  "summary": "The study investigates the role of trimethylgallium (TMGa) exposure time in carbon doping and high-temperature atomic layer epitaxy (ALE) of GaAs. It demonstrates that reducing TMGa exposure time allows ALE to be achieved at high growth temperatures, with ALE occurring in the temperature range of 450-700 °C. The process is influenced by the formation and removal of a gaseous boundary layer, which affects the self-limiting growth mechanism. Carbon doping levels are also controlled by adjusting exposure time and growth temperature.",
-  "evidence": "ALE was achieved in the 450-700 °C temperature range. Carbon doping in the 10’5-1020/cm3 range was also achieved by adjusting the exposure time and the growth temperature. The combined role of gas phase decomposition and surface reaction are proposed to explain these results."
-}<|im_end|>

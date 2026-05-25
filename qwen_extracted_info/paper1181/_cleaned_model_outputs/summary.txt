@@ -1,8 +1,0 @@
-{
-  "target_material": "MnO and MnO2",
-  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["Mn(thd)3", "O3", "H2O", "H2", "NH3"],
-  "temperature_range": "140 to 250 °C",
-  "summary": "The study demonstrates the deposition of MnO and MnO2 thin films using plasma-enhanced atomic layer deposition (PEALD) with Mn(thd)3 as the precursor. The process type, temperature range, and the effect of plasma on the oxidation state of the deposited films are discussed. The films show low roughness, crystallinity, and low impurities, and are tested as potential electrode materials for lithium-ion batteries.",
-  "evidence": "The text states: 'Deposition of MnO Anode and MnO2 Cathode Thin Films by Plasma Enhanced Atomic Layer Deposition Using the Mn(thd)3 Precursor' and 'The Mn(thd)3-chemistry-based ALD process was successfully extended to PE-ALD with 3 processes using ammonia, hydrogen, and water plasma.'"
-}

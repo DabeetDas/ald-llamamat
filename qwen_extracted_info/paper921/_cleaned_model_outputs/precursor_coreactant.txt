@@ -1,7 +1,0 @@
-{
-  "precursors": ["TDMAT"],
-  "coreactants": ["NH3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "Tetrakis-dimethyl-amino-titanium (TDMAT) precursor and a NH3 reactant gas were employed to deposit plasma ALD TiN. TDMAT was vaporized from an external reservoir at 45 /C176C and delivered to chamber via argon gas with a flow rate of 20 sccm."
-}

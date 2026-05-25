@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the precursor [Sn(DMP)4] and subsequent reaction with oxygen plasma. The growth process is characterized by a self-limiting surface reaction, where the precursor molecules adsorb and react with surface hydroxyl groups, followed by a plasma-induced oxidation step. The reaction is temperature-dependent, with the formation of SnO2 through the decomposition of the precursor and the incorporation of oxygen from the plasma.",
-  "intermediate_species": ["Sn(DMP)4", "surface hydroxyl groups", "SnO2"],
-  "evidence": "The surface reaction mechanism is described in the text as involving the adsorption of the precursor [Sn(DMP)4] and subsequent reaction with oxygen plasma. The growth process is characterized by a self-limiting surface reaction, where the precursor molecules adsorb and react with surface hydroxyl groups, followed by a plasma-induced oxidation step. The reaction is temperature-dependent, with the formation of SnO2 through the decomposition of the precursor and the incorporation of oxygen from the plasma."
-}

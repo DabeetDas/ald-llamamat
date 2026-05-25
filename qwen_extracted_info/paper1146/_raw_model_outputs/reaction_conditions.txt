@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TDMASn and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "Tanskanen et al. shows that a SnOx cycle (TDMASn/H2O) on ZnO reduces the reaction site density, while subsequent ZnO cycles (DEZn/H2O) increase this density."
-}<|im_end|>

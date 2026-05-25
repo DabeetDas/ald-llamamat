@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the adsorption of the niobium precursor followed by reaction with the oxygen source (either ozone or water). The self-limiting growth is achieved through the saturation of the growth rate as a function of the metal precursor pulse length, indicating a surface reaction mechanism where the precursor reacts with the surface hydroxyl groups and then is purged. The reaction is confirmed to be saturative at 275 °C for tBuNNb(NEt2)3 and tBuNNb(NMeEt)3 with both oxygen sources.",
-  "intermediate_species": ["surface hydroxyl groups", "monomethyl aluminum", "formate species"],
-  "evidence": "The surface reactions involve the adsorption of the niobium precursor followed by reaction with the oxygen source (either ozone or water). The self-limiting growth is achieved through the saturation of the growth rate as a function of the metal precursor pulse length, indicating a surface reaction mechanism where the precursor reacts with the surface hydroxyl groups and then is purged. The reaction is confirmed to be saturative at 275 °C for tBuNNb(NEt2)3 and tBuNNb(NMeEt)3 with both oxygen sources."
-}

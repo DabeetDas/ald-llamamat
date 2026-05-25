@@ -1,8 +1,0 @@
-{
-  "target_material": "CdTe",
-  "process_type": "ALE",
-  "main_precursors": ["Cd", "Te"],
-  "temperature_range": "260-340~",
-  "summary": "The study investigates the Atomic Layer Epitaxy (ALE) growth of CdTe on GaAs substrates using RHEED observations. The process involves alternating deposition of Cd and Te, with the growth rate being influenced by substrate temperature. The RHEED intensity variations are used to monitor surface coverage and adsorption kinetics, showing that the growth rate decreases at higher temperatures, leading to a reduction in surface coverage.",
-  "evidence": "The study presents RHEED observations during ALE growth of CdTe on GaAs substrates. The evolution of RHEED patterns shows that growth becomes two-dimensional after a few monolayers. The intensity variations of RHEED spots under surface resonance conditions are used to monitor surface coverage and adsorption kinetics. The Cd- and Te-spots are observed to change intensity with substrate temperature, indicating a drop in surface coverage at higher temperatures."
-}

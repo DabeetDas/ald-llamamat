@@ -1,7 +1,0 @@
-{
-  "precursors": ["WCl5", "H2S", "tin (II) acetylacetonate"],
-  "coreactants": ["H2S"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["nitrogen"],
-  "evidence": "The precursors for WS2 growth were WCl5 and H2S (9%, balance Ar). The WCl5 source temperature was set at 110 oC and the carrier gas (nitrogen) flow rate was 250 sccm. The SnS films were grown from tin (II) acetylacetonate and H2S."
-}

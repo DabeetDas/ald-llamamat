@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process does not rely on reactions with surface hydroxyl groups. Instead, it uses TiI4 and O2 as precursors, with the oxygen source being O2 rather than water or hydrogen peroxide. The growth mechanism involves the formation of surface species through the interaction of TiI4 and O2 without the involvement of hydroxyl groups.",
-  "intermediate_species": [
-    "TiI4",
-    "O2"
-  ],
-  "evidence": "The ALD process does not rely on reactions with surface hydroxyl groups. Instead, it uses TiI4 and O2 as precursors, with the oxygen source being O2 rather than water or hydrogen peroxide. The growth mechanism involves the formation of surface species through the interaction of TiI4 and O2 without the involvement of hydroxyl groups."
-}

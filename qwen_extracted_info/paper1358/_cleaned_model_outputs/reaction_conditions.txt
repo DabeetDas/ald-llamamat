@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the use of Ni(tBu2DAD)2 and O3 as precursors. The surface reactions are likely to involve the decomposition of Ni(tBu2DAD)2 and subsequent oxidation by O3. The mechanism is similar to other ALD processes using diazadienyl complexes, where the surface reactions involve ligand exchange and oxidation steps.",
-  "intermediate_species": ["Ni(tBu2DAD)2", "O3", "NiO"],
-  "evidence": "The text describes the use of Ni(tBu2DAD)2 and O3 as precursors for ALD of NiO. It mentions that the process is similar to other ALD processes using diazadienyl complexes, where the surface reactions involve ligand exchange and oxidation steps. The text also notes that the decomposition of Ni(tBu2DAD)2 occurs at 230 °C, indicating the formation of NiO through oxidation by O3."
-}

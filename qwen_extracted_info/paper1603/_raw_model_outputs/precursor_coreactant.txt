@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylaluminum (TMA)"],
-  "coreactants": ["deionized water (H2O)"],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": ["nitrogen"],
-  "evidence": "The ALD timing sequences can be expressed as t1 -t2-t3-t4 where t1 is the TMA exposure time, t2 is the purge time following the TMA exposure, t3 is the H2O exposure time, and t4 is the purge time following the H2O exposure where the units are seconds (s). The typical timing sequence for these studies was 90-180-90-180. During the reactant exposures, the partial pressures of the TMA and H2O reactants were ∼ 0.15 Torr as determined using a Baratron capacitance manometer pressure gauge."
-}<|im_end|>

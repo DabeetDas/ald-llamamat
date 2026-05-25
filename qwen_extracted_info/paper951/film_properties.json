@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 100,
-  "density_g_cm3": null,
-  "refractive_index": "2.2 at 580 nm",
-  "surface_roughness_nm": "twice the substrate area",
-  "crystal_phase": "a-MoO3",
-  "evidence": "The thinnest films up to 100 cycles were smooth and amorphous, whereas a crystalline suboxide phase was formed after 250 cycles, which was accompanied by a strong increase in roughness. Thereafter the roughness continued to increase up to 1000 cycles, and changes in phase composition were also observed: both a- and b-MoO3 formed after 500 cycles and their amounts relative to the suboxide seemed to increase with increasing film thickness."
-}

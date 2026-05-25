@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the oxidation of silver (Ag) to form metastable silver oxide (AgO), which then decomposes to release reactive oxygen. This reactive oxygen participates in side reactions with the silica precursors, leading to the self-assembly of 3D nanostructures. The decomposition of AgO during the ALD cycles results in the transformation of the Ag film into nanoparticles and the formation of hierarchical silica structures.",
-  "intermediate_species": ["metastable silver oxide", "reactive oxygen", "silica"],
-  "evidence": "The text states: 'The Ag oxidizes to silver oxide when oxygen plasma is present and becomes metastable at elevated temperatures above 100 °C. Metastable silver oxide will decompose again under the release of reactive oxygen. Side reactions for the formation of excess silica occur with the released oxygen from the cyclic decomposition of the metastable silver oxide, leading to the evolution of the desired 3D structures in a self-assembled way.'"
-}

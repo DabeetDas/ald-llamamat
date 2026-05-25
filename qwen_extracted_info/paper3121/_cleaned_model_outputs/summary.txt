@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN and TaN",
-  "process_type": "Remote plasma ALD",
-  "main_precursors": ["Ta/N(CH3)2/5", "TiCl4"],
-  "temperature_range": "225°C to 400°C",
-  "summary": "TiN and TaN films were deposited using remote plasma ALD for Cu and Li diffusion barrier applications. The films showed good barrier properties, with TiN demonstrating better performance than TaN for both applications. The study focused on the material properties and their dependence on plasma exposure time and deposition conditions.",
-  "evidence": "TaN and TiN films were deposited by remote plasma atomic layer deposition using the combinations of Ta/N(CH3)2/5 precursor with H2 plasma and TiCl4 precursor with H2–N2 plasma, respectively. The TiN films showed low Li intercalation during electrochemical charging and discharging. The TiN films were an effective barrier to Cu diffusion and had no Cu diffusion for anneal temperatures up to 700°C."
-}

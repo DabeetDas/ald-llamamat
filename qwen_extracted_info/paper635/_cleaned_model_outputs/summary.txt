@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnSe",
-  "process_type": "Atomic layer epitaxy (ALE)",
-  "main_precursors": ["DMZn (dimethylzinc)", "H2Se (hydrogen selenide)"],
-  "temperature_range": "100-200°C for GaAs substrates, 150-250°C for Si substrates",
-  "summary": "ZnSe layers were grown on GaAs and Si substrates using atomic layer epitaxy (ALE) with dimethylzinc (DMZn) and hydrogen selenide (H2Se) as precursors. The growth rate per cycle was found to be self-limiting, with a constant growth rate of 2.83 Å per cycle in the temperature range of 100-200°C for GaAs and 150-250°C for Si. The layers exhibited smooth surface morphologies and photoluminescence at 443 nm.",
-  "evidence": "The growth rate per cycle is strongly dependent on the substrate temperature. The self-limiting growth of one monolayer per cycle is obtained in the wide substrate temperature range of 100-200°C for GaAs substrates and 150-250°C for Si substrates. The surface morphologies are smooth and mirror-like. The photoluminescence spectra show an emission at 443 nm at 77 K on both substrates."
-}

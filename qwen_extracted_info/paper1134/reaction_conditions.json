@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of ozone (O3) as an oxidizing agent in ALD processes, which dissociates into reactive oxygen radicals at 300 °C. These radicals efficiently eliminate ligands from the surface, leading to higher growth rates compared to thermal ALD using water. The process also involves post-deposition annealing in oxygen or ozone to reduce oxygen deficiencies and carbon impurities in the film.",
-  "intermediate_species": [
-    "oxygen radicals",
-    "ligands"
-  ],
-  "evidence": "O3 dissociation into reactive O radicals occurs at 300 °C, and therefore the elimination of ligands from the surface by O radicals is expected to be more efficient than when H2O is used."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of TaCl5 and the subsequent reaction with activated nitrogen and hydrogen plasma. The mechanism includes the formation of surface species such as Ta-OH* and the subsequent reaction with nitrogen to form TaN.",
-  "intermediate_species": ["Ta-OH*", "surface hydroxyls", "activated nitrogen"],
-  "evidence": "The text describes the deposition process using TaCl5 and a plasma of hydrogen and nitrogen, indicating the formation of surface species such as Ta-OH* and the reaction with nitrogen to form TaN. The mechanism is inferred from the experimental setup and the resulting properties of the films."
-}

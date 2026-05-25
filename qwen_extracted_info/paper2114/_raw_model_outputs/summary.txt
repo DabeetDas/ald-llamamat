@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["HfCl4", "ZrCl4", "D2O"],
-  "temperature_range": "300 °C (deposition) and 1000 °C (annealing)",
-  "summary": "The study investigates the impact of Zr addition on the properties of atomic layer deposited HfO2. The addition of ZrO2 helps stabilize the tetragonal phase of HfO2, reduces charge trapping, and improves electrical properties. The films were deposited using HfCl4, ZrCl4, and D2O at 300 °C, followed by annealing at 1000 °C.",
-  "evidence": "HfO2 and Hf xZr1−xO2 films were fabricated by atomic layer deposition using HfCl4, ZrCl4, and D2O as the precursors at a deposition temperature of 300 °C. Afterwards 10 nm of metal gate capping layer (TaCy) was deposited and the stack was annealed at 1000 °C for 5 s in a nitrogen ambient."
-}<|im_end|>

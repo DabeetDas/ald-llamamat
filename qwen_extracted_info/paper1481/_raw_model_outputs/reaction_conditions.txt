@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the self-limiting ALD growth with a surface-controlled process. The reaction steps include the adsorption of the metal precursor followed by a water pulse, leading to the formation of oxide layers. The surface reaction is characterized by a constant growth per cycle (GPC) and the saturation behavior of the precursors.",
-  "intermediate_species": ["surface hydroxyls", "chemisorbed precursor species"],
-  "evidence": "The surface reaction mechanism and associated chemistry are discussed in the context of ALD growth characteristics, where the self-limiting behavior and saturation of the precursors are evaluated. The text mentions the presence of surface hydroxyls and chemisorbed precursor species during the ALD process."
-}<|im_end|>

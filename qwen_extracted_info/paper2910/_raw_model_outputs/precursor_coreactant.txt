@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylaluminum (TMA)"],
-  "coreactants": ["water"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The process uses trimethylaluminum (TMA) as the aluminum source and water as the oxidant. An Ar carrier gas sweeps the precursor into the chamber through showerhead zone 1. Ar is bubbled through a room temperature water bubbler at regulated pressure to transport water into the chamber through showerhead zone 2. Additional diluent Ar is fed into showerhead zone 2. An Ar purge introduced through the base of the chamber acts as a ballast gas load to help regulate chamber pressure."
-}<|im_end|>

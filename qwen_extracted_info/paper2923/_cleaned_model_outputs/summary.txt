@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta-N",
-  "process_type": "Plasma-Enhanced ALD (PEALD)",
-  "main_precursors": ["terbutylimidotris(diethylamido)tantalum", "hydrogen radicals"],
-  "temperature_range": "260°C",
-  "summary": "The paper describes the plasma-enhanced atomic layer deposition (PEALD) of tantalum nitride (Ta-N) thin films using terbutylimidotris(diethylamido)tantalum and hydrogen radicals at 260°C. The films show improved properties such as lower resistivity, no aging effects, and excellent step coverage, making them suitable for use as Cu diffusion barriers in microelectronic devices.",
-  "evidence": "The plasma-enhanced atomic layer deposition ~PEALD! of tantalum nitrides ~TaN! thin ﬁlms has been performed using terbutylimidotris~diethylamido!tantalum and hydrogen radicals at a temperature of 260°C. ... A Ta-N ﬁlm formed by PEALD has an excellent ﬁlm resistivity of about 400 mV cm, and shows no aging effects after a long period of exposure to air, as well as completely conformal step coverage on 0.3 mm diam holes with an aspect ratio of 10:1."
-}

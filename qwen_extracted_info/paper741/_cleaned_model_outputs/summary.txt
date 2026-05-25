@@ -1,8 +1,0 @@
-{
-  "target_material": "BeO",
-  "process_type": "ALD",
-  "main_precursors": ["DMBe (dimethylberyllium)"],
-  "temperature_range": "250 °C",
-  "summary": "The paper describes the atomic layer deposition (ALD) of crystalline BeO on 4H-SiC at a low temperature of 250 °C. The BeO film was grown using domain-matching epitaxy (DME) despite a large lattice mismatch with the SiC substrate. The study highlights the excellent thermal conductivity, dielectric constant, and bandgap energy of BeO, which make it suitable for high-power electronics applications. The ALD process was used to deposit BeO on SiC substrates, and the resulting film showed high crystallinity and low interface trap density.",
-  "evidence": "For the first time, an epitaxial beryllium oxide (BeO) film was grown on 4H silicon carbide (4H-SiC) by atomic layer deposition (ALD) at a low temperature of 250 °C. The BeO film had a large lattice mismatch with the substrate (> 7 –8%), but it was successfully grown to a single crystal by domain-matching epitaxy (DME). The high bandgap, thermal conductivity, and excellent crystallinity reduced the dangling bonds at the interface of BeO-on-SiC."
-}

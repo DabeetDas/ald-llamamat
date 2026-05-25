@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["water vapor", "Hf[N(C2H5)CH3]4 (tetrakisethylmethylaminohafnium, TEMAH)"],
-  "temperature_range": "350 8C",
-  "summary": "The study investigates the effect of S-termination on a Ge(1 0 0) surface prior to ALD HfO2 deposition. The ALD process was performed at 350 8C using water vapor and Hf[N(C2H5)CH3]4 as precursors. The interfacial GeOS layer thickness was found to be thinner on the S-terminated surface compared to the O3-oxidized surface, leading to a lower equivalent oxide thickness (EOT) and improved leakage current characteristics.",
-  "evidence": "The ALD process for depositing HfO2 was performed using water vapor and Hf[N(C2H5)CH3]4 (tetrakisethylmethylaminohafnium, TEMAH) on the S-terminated Ge surface. It was found that the oxidized surface had a GeO2 structure. The processing times for water vapor and Hf[N(C2H5)CH3]4 were 0.5 and 2 s, respectively. A 35-s N2 purge was performed after the introduction of each precursor. In order to target 4 and 8 nm of HfO2, 44 and 88 ALD cycles were conducted at 350 8C."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["diethylzinc (DEZ)", "concentrated H2O2"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "ZnO ALD films were deposited using diethylzinc (DEZ) and concentrated H2O2 (50% in H2O) as precursors at substrate temperatures of 100 °C. The operating temperature and strength of the oxygen-containing species, that is, concentrated H2O2 vs only H2O as in eq 2, were selected based on previous studies that balanced precursor decomposition and liquid bridging effects at high and low temperatures, respectively. Reactions 3 and 4 occur solely on the particle substrate, [S], and are each followed by inert (typically N2 or argon) purge steps to prevent unwanted gas-phase side reactions that are normally inherent to CVD processes."
-}<|im_end|>

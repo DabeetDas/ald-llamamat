@@ -1,8 +1,0 @@
-{
-  "target_material": "polyhydrosiloxane",
-  "process_type": "molecular layering",
-  "main_precursors": ["trichlorosilane", "water vapors"],
-  "temperature_range": "180 /G6FC for molecular layering, 600 /G6FC for thermal oxidation",
-  "summary": "The study investigates the oxidation of polyhydrosiloxane layers synthesized via molecular layering on silica. The process involves alternating treatments with trichlorosilane and water vapors at 180 /G6FC. The oxidation behavior of the resulting layers is analyzed at 600 /G6FC in dry air. The thermal stability and oxidation resistance of the layers are compared to those of polyhydrosiloxane obtained through hydrolysis of trichlorosilane. The results show that the oxidation temperature shifts with the number of molecular layering cycles, indicating changes in the layer composition and structure.",
-  "evidence": "The text describes the synthesis of polyhydrosiloxane layers via molecular layering using trichlorosilane and water vapors at 180 /G6FC. It also details the thermal oxidation of these layers at 600 /G6FC and discusses the effect of molecular layering cycles on oxidation temperature and composition. The study highlights the role of hydrosilyl groups and their oxidation behavior under different conditions."
-}

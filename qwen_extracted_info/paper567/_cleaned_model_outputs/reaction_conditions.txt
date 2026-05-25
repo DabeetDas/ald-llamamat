@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction process involves the decomposition of DMAH on the P surface, where methyl-terminated surface prevents excess gas adsorption. However, when the DMAH introduction time is longer than the methyl lifetime on the Al layer, excess gas may adsorb on an Al atom, leading to Al cluster formation. The Al±Al reaction process results in surface roughness.",
-  "intermediate_species": ["methyl-terminated surface", "DMAH", "Al clusters"],
-  "evidence": "The surface reaction process involves the decomposition of DMAH on the P surface, where methyl-terminated surface prevents excess gas adsorption. However, when the DMAH introduction time is longer than the methyl lifetime on the Al layer, excess gas may adsorb on an Al atom, leading to Al cluster formation. The Al±Al reaction process results in surface roughness."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA", "Diethylzinc"],
-  "coreactants": ["H2O", "H2S"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "Reactants were then dosed one at a time, i.e., one pulse of TMA followed by one pulse of water in the case Al2O3. TMA was dosed for a period of 2 s at a pressure of 67 Pa (≈ 0.5 Torr) above the base-line operating pressure (i.e., a total pressure of 134 Pa) to deposit alumina over the iron particles. The water vapor was then dosed (again for a 2 s period at 67 Pa above the operating pressure) to initiate the second half reaction. The ALD cycle for Al2O3 deposition, designated here by a dose/purge sequence of (2,10,2,10), was repeated a number of times to ensure the complete surface coverage of the iron particles. In some of the experiments, additional DEZ cycles were incorporated between the pre-determined number of TMA cycles to add layers of Zinc Sulfide (ZnS) to the coating, generating a binary Al2O3/ZnS coating. The DEZ cycles were carried out in a similar fashion to that of TMA. However, the dosing of DEZ in the first half cycle was carried out for only 1 s under 134 Pa (total pressure) mainly because of the faster growth rate of ZnS compared with Al2O3. The Hydrogen Sulfide (H2S) dosing, corresponding to the second half reaction, was conducted under conditions identical to its H2O counterpart in the TMA cycle."
-}

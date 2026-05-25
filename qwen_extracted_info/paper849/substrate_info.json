@@ -1,7 +1,0 @@
-{
-  "substrate_material": "Si(100)",
-  "substrate_orientation": "",
-  "pretreatment": "",
-  "surface_functionalization": "",
-  "evidence": "Table 1. Film growth parameters (precursor, substrate, T substrate, no. of cycles) and chemical composition of the films as determined by EDX.\nFilm No. Bi precursor Substrate Tsubstrate (°C) No. of cycles Bi (at%) Te (at%)\nI 1 Si(100)[a] 70 °C 10000 38.50 61.50\nII 1 Si(100) 120 °C 4000 40.30 59.70\nIII 4 Si(100) 120 °C 8500 39.04 60.96\nIV 4 Al2O3(0001) 120 °C 7000 40.39 59.61\nV 4 Sb2Te3 120 °C 4000 39.63 60.37\nVI 6 Si(100) 120 °C 4000 39.85 60.15\nVII 6 SiO2[b] 120 °C 4000 39.33 60.67\nVIII 6 Si(100) 170 °C 4000 39.15 60.85\nIX 6 SiO2 170 °C 100 40.89 59.11\nX 6 SiO2 170 °C 500 40.36 59.64\nXI 6 SiO2 170 °C 1000 40.64 59.36\nXII 6 SiO2 170 °C 4000 40.89 59.11\n[a] Si(100) substrates with a native SiO 2 layer; [b] SiO2 substrates with a 500 nm thick SiO 2"
-}

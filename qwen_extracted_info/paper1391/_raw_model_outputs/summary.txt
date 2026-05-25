@@ -1,8 +1,0 @@
-{
-  "target_material": "BiFeO3",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylbismuth", "cyclohexadieneiron tricarbonyl", "deionized water"],
-  "temperature_range": "480 −550 °C",
-  "summary": "The study describes the deposition of ultrathin, highly (001)-oriented BiFeO3 films using atomic layer deposition (ALD) on Si(001) substrates with a LaNiO3 buffer. The ALD process significantly improves the stoichiometry and ferroelectric properties of the films compared to RF-sputtering, with a notable reduction in leakage current, making it suitable for ferroelectric random-access memory (FRAM) applications.",
-  "evidence": "The ALD combined with interrupted flow and an exchange reaction between Bi and Fe precursors provides a superior method to grow ternary compounds. According to X-ray diffraction, upon deposition at a temperature of less than 550 °C, the only phase in the film was BiFeO3. The use of high-resolution transmission electron and atomic force microscopes showed that the layer structure and morphology from ALD presented a satisfactory coverage, more conformal than that with the RF method. The BiFeO3 thin film deposited with ALD shows excellent leakage, improved at least 1000 times with respect to the RF preparation, making this method suitable for the fabrication of ferroelectric random-access memory devices."
-}<|im_end|>

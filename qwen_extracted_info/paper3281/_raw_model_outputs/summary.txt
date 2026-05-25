@@ -1,8 +1,0 @@
-{
-  "target_material": "all-dielectric immersion nanogratings",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["TiO2", "SiO2"],
-  "temperature_range": "300 °C",
-  "summary": "High-performance true zero-order optical retarders were realized using all-dielectric immersion nanogratings filled with nanolaminate materials deposited by atomic layer deposition (ALD). The nanolaminate material, composed of TiO2 and SiO2, was deposited using ALD with a temperature of 300 °C. The process enabled precise control over the refractive index of the filling material, which improved the design and process windows for optical retarders.",
-  "evidence": "The nanolaminate material was deposited by ALD, which was performed using a homemade ALD machine. Prior to depositing the nanolaminate, the grating wafer was heated to 300 °C inside the ALD chamber for ,3 h. The nanolaminate was formed by repeating a cycle in which M monolayers of TiO2 were deposited, followed by a single monolayer of SiO2."
-}<|im_end|>

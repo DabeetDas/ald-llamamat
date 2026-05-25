@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions in an ALD growth cycle are saturated when an increase in a pulse time does not produce a change in film thickness. The copper precursor pulse length required for the growth rate saturation was 1 s. To avoid gas-phase reactions, the following purge period needs to be at least four times as long as the copper precursor pulse. The hydrogen pulse length required for the growth rate saturation was 5 s. The following purge period was held for 3 s throughout the experiments.",
-  "intermediate_species": [
-    "Cu~acac)2",
-    "hydrogen radicals"
-  ],
-  "evidence": "The surface reactions in an ALD growth cycle are saturated when an increase in a pulse time does not produce a change in film thickness. The copper precursor pulse length required for the growth rate saturation was 1 s. To avoid gas-phase reactions, the following purge period needs to be at least four times as long as the copper precursor pulse. The hydrogen pulse length required for the growth rate saturation was 5 s. The following purge period was held for 3 s throughout the experiments."
-}

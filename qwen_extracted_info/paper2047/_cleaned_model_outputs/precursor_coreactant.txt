@@ -1,7 +1,0 @@
-{
-  "precursors": ["tungsten hexaflouride (WF6)", "triethylborane (C2H5)3B", "ammonia (NH3)"],
-  "coreactants": [],
-  "purge_gas": ["nitrogen gas (N2)"],
-  "carrier_gas": ["nitrogen gas (N2)"],
-  "evidence": "An ALD™ Pulsar® 15 2000 reactor integrated with an automated wafer handling platform (ASM Polygon™ 8200) was used to deposit WC0.7N0.3 . This was achieved according to a ABC, A...-type pulse sequence, where individual A, B, and C each stand for one of the precursors tungsten hexaflouride (WF6), triethylborane (C2H5)3B, and ammonia (NH3), respectively, while ABC represents one deposition cycle producing WC0.7N0.3 . WF6 and NH3 gases were mixed with nitrogen gas and introduced in the chamber. Liquid (C2H5)3B was evaporated by flowing N2 gas at 320 hPa over the liquid at 18 °C and introduced in the chamber. Excess precursor was removed by flowing nitrogen gas (N2) for 2s after each precursor pulse."
-}

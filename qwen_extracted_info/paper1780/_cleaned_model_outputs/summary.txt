@@ -1,8 +1,0 @@
-{
-  "target_material": "Zn3N2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["diethylzinc (DEZ)", "ammonia (NH3)"],
-  "temperature_range": "315 /C14 C",
-  "summary": "The paper describes the atomic layer deposition (ALD) of zinc nitride (Zn3N2) thin films using diethylzinc (DEZ) and ammonia (NH3) as precursors. The study investigates the growth mechanism, self-limiting characteristics, and application of Zn3N2 in thin film transistors (TFTs). The films are polycrystalline with preferential orientation in the {321} direction and show promising performance as a channel layer in bottom-gate TFTs. The saturated growth rate is 0.9 Å per ALD cycle at 315 /C14 C.",
-  "evidence": "In this paper we present atomic layer deposition (ALD) of zinc nitride thin films using diethylzinc (DEZ) and ammonia (NH3). ... The self-limiting growth characteristic is verified at 315 /C14 C. ... The as deposited films are found to be polycrystalline with preferential orientation in the {321} direction. ... The performance of the material is further investigated as channel layer in thin film transistor (TFT) applications."
-}

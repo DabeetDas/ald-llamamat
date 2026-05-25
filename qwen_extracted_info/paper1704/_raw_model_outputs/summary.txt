@@ -1,8 +1,0 @@
-{
-  "target_material": "Pt nanoparticles",
-  "process_type": "thermal ALD",
-  "main_precursors": ["(methylcyclopentadienyl)-trimethylplatinum (MeCpPtMe3)", "oxygen (dry air)"],
-  "temperature_range": "125 °C (stage temperature) and 320 °C (wall temperature)",
-  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to deposit Pt nanoparticles on the inner surfaces of carbon aerogels (CA) for catalytic applications. The process allows for ultralow Pt loading while maintaining high catalytic activity for CO oxidation, with conversion efficiencies near 100% in the temperature range of 150-250 °C. The ALD process is shown to be effective in controlling the morphology and loading of Pt nanoparticles, enabling the fabrication of highly active catalysts with minimal noble metal usage.",
-  "evidence": "Using atomic layer deposition (ALD), we show that Pt nanoparticles can be deposited on the inner surfaces of carbon aerogels (CA). The resultant Pt-loaded materials exhibit high catalytic activity for the oxidation of CO even at loading levels as low as ∼0.05 mg Pt/cm2. We observe a conversion efficiency of nearly 100% in the 150-250 °C temperature range, and the total conversion rate seems to be limited only by the thermal stability of the CA support in ambient oxygen."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "La2O3",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["La(iPrCp)3", "H2O"],
-  "temperature_range": "160 /C14 C and 350 /C14 C",
-  "summary": "The study investigates the ALD process for depositing La2O3 using La(iPrCp)3 and H2O as precursors. In situ infrared spectroscopy reveals carbonate formation during deposition, which is influenced by temperature. At low temperatures, carbonate formation occurs during precursor pulses but not during purges, while at high temperatures, thermal decomposition of the La precursor is observed, leading to an opaque deposit with minimal hydrogen.",
-  "evidence": "In situ infrared spectroscopy during La2O3 atomic layer deposition using La(iPrCp)3 and H2O. At low temperature, ligand exchange is seen to occur, and carbonate formation is found. With extended purging, the organic ligands are found to be stable on the surface, and carbonates are not formed. These observations indicate that carbonate formation is occurring during exposure to the precursors. At high temperature, the La precursor is observed to decompose leaving an opaque deposit containing relatively little hydrogen."
-}<|im_end|>

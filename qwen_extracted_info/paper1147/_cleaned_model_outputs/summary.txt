@@ -1,8 +1,0 @@
-{
-  "target_material": "III-N ternary thin films",
-  "process_type": "plasma assisted atomic layer epitaxy (PA-ALE)",
-  "main_precursors": ["trimethylindium (TMI)", "trimethylaluminum (TMA)", "trimethylgallium (TMG)", "nitrogen plasma"],
-  "temperature_range": "240-300 °C for In-containing ternaries, 350-450 °C for AlxGa1-xN ternaries",
-  "summary": "The study reports the growth of III-N ternary thin films (AlxGa1-xN, InxAl1-xN, and InxGa1-xN) at low temperatures (≤ 500°C) using plasma-assisted atomic layer epitaxy (PA-ALE). The ternaries were grown by varying the ratio of binary layers (AlN, GaN, and InN) through a digital alloy method. The process enables epitaxial, smooth, and uniform growth of ternaries, addressing phase separation issues in conventional methods like MBE and MOCVD. The films were characterized using techniques such as XPS, HRXRD, AFM, and optical reflectivity measurements.",
-  "evidence": "We report the growth and characterization of III -nitride ternary thin films (AlxGa1-xN, InxAl1-xN and In xGa1-xN) at ≤ 500°C by plasma assisted atomic layer epitaxy (PA -ALE) over a wide stoichiometric range including the range where phase separation has been an issue for films grown by molecular beam epitaxy and metal organic chemical vapor deposition. The composition of these ternaries was intentionally varied through alterations in the cycle ratios o f the III-nitride binary layers (AlN, GaN, and InN)."
-}

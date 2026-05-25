@@ -1,8 +1,0 @@
-{
-  "target_material": "IrO2-TiO2",
-  "process_type": "atomic layer deposition",
-  "main_precursors": ["Ir(EtCp)(COD)", "titanium isopropoxide (TTIP)"],
-  "temperature_range": "230 °C",
-  "summary": "IrO2-TiO2 thin films were prepared by atomic layer deposition using Ir(EtCp)(COD) and titanium isopropoxide (TTIP). The resistivity of the films can be controlled by varying the IrO2 intermixing ratio, and the films showed a low temperature coefficient of resistance (TCR) and good oxidation resistance. These films were found to be suitable as heater resistor materials for thermal inkjet printheads.",
-  "evidence": "Abstract: IrO2-TiO2 thin films were prepared by atomic layer deposition using Ir(EtCp)(COD) and titanium isopropoxide (TTIP). The resistivity of IrO2-TiO2 thin films can be easily controlled from 1 500 to 356.7 μΩ·cm by the IrO2 intermixing ratio from 0.55 to 0.78 in the IrO2-TiO2 thin films. The low temperature coefficient of resistance (TCR) values can be obtained by adopting IrO2-TiO2 composite thin films. Moreover, the change in the resistivity of IrO2-TiO2 thin films was below 10% even after O2 annealing process at 600 °C. The step stress test results show that IrO2-TiO2 films have better characteristics than conventional TaN0.8 heater resistor. Therefore, IrO2-TiO2 composite thin films can be used as a heater resistor material in thermal inkjet printhead."
-}

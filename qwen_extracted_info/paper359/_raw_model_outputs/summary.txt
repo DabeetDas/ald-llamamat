@@ -1,8 +1,0 @@
-{
-  "target_material": "CdTe",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Dimethylcadmium (DMCd)", "Diethyltelluride (DETe)", "Methylallyltelluride (MATe)"],
-  "temperature_range": "250°C to 320°C",
-  "summary": "The study describes the atomic layer epitaxy (ALE) of CdTe on GaAs using organometallic vapor phase epitaxy (OMVPE). The process involves self-limiting growth at one monolayer per cycle over a temperature range of 250°C to 320°C. The decomposition of DMCd into Cd is the rate-limiting step at and below 250°C, while Te precursors decompose catalytically on the Cd-covered surface. The ALE method improves the morphology and crystal quality of CdTe on GaAs by controlling the initial nucleation step.",
-  "evidence": "In this paper, we report on the atomic layer epitaxy (ALE) of CdTe on GaAs by the organometallic vapor phase epitaxial process. Self-limiting growth at one monolayer was obtained over the temperature range from 250°C to 320°C... The decomposition of DMCd into Cd is the rate-limiting step at and below 250°C, and the Te precursors decompose catalytically on the Cd covered surface. We have used this ALE grown layer to improve the properties of conventionally grown CdTe on GaAs."
-}<|im_end|>

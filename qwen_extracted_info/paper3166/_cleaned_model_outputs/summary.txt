@@ -1,8 +1,0 @@
-{
-  "target_material": "PVP (poly(vinyl pyrrolidone)) as a mask layer",
-  "process_type": "Selective-area ALD",
-  "main_precursors": ["Ir(acac)3", "O2", "MeCpPtMe3", "O2", "RuCp2", "air", "AlCl3", "H2O", "TMA", "H2O", "ZrCl4", "H2O"],
-  "temperature_range": "250–300°C",
-  "summary": "The study investigates the use of poly(vinyl pyrrolidone) (PVP) as a mask layer in selective-area atomic layer deposition (ALD) for noble metals and oxides. PVP films were prepared by spin coating and patterned using UV lithography. The PVP mask was tested in ALD processes for iridium, platinum, ruthenium, Al2O3, and ZrO2 at temperatures between 250–300°C. The PVP film passivated the surface against noble metal deposition but allowed oxide growth on the PVP film. The PVP mask was successfully removed after ALD, enabling lift-off patterning. The study also explored the use of PVP for nanometer-scale patterns using electrospun PVP fibers.",
-  "evidence": "The PVP film was tested in several ALD processes: iridium, platinum, ruthenium, Al2O3, and ZrO2. The deposition temperatures were 250–300°C. The PVP film passivated the surface against the noble metal processes, but the oxide films grew on PVP. The PVP film was removed after the ALD process, allowing lift-off patterning. The PVP film was used up to its melting point of 300°C."
-}

@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The in situ atomic layer annealing (ALA) treatment provides extra energy for bond formation and enhances the crystallization process. The (002) plane growth is preferred due to the lower energy required to form Al and N bonds, and the formation of the wurtzite lattice during deposition is explained by the required energy for bond formation.",
-  "intermediate_species": [
-    "AlN"
-  ],
-  "evidence": "The effect of the ALA treatment is already visible with only 100 W plasma power and 20 s treatment time. Compared to the reference sample without in situ ALA treatment (red line in Figure 1), the intensity increase of the (002) AlN peak is clear in all samples of the series. ALA treatment with 200 W plasma power for 60 s should provide sufficient energy to form the most epitaxial film due to surface heating [22]. Nevertheless, 200 W ALA treatment for 20 s already shows a comparably pronounced (002) peak. The preference of (002) growth can be explained by the required energy to form Al and N bonds. The (002) plane in wurtzite lattice is formed by two bonds with different lengths. The longer bond requires lower energy and forms only the plane (100) or has no preferred orientation. The shorter bond requires higher energy to form. The planes (002) and (101) are formed only when both of the bond types exist in a well-formed order. The formation of wurtzite lattice during deposition of AlN is explained in closer detail by Xu et al. and Zhang et al.."
-}

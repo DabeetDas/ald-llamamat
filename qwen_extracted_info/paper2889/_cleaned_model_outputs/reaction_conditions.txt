@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the formation of a Si–O bond network of the stoichiometric SiO2 film through PEALD, with a lower wet etch rate and smaller amount of water compared to PECVD. The suboxide bonding structures in PECVD lead to a strained Si–O bond network, resulting in lower film quality. A lower PEALD temperature suppresses the surface oxidation of titanium nitride films used as metal gate electrodes.",
-  "intermediate_species": ["Si–O bond network", "suboxide bonding structures", "titanium oxide peak at 459.2 eV"],
-  "evidence": "The surface reaction mechanism involves the formation of a Si–O bond network of the stoichiometric SiO2 film through PEALD, with a lower wet etch rate and smaller amount of water compared to PECVD. The suboxide bonding structures in PECVD lead to a strained Si–O bond network, resulting in lower film quality. A lower PEALD temperature suppresses the surface oxidation of titanium nitride films used as metal gate electrodes."
-}

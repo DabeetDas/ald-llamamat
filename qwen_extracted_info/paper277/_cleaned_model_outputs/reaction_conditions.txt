@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The self-limiting growth mechanism involves the adsorption of TMI and TBA on the InAs surface, followed by decomposition of TMI into less bulky adsorbates such as mono-methylindium or atomic In, which allows for complete In coverage. During TBA exposure, excess As desorbs quickly, leading to an As-terminated surface with 1 ML coverage. The surface then rearranges into a (2 x 4)-like surface during the purge, which is isotropic. The TMI exposure leads to In coverage, and the surface becomes anisotropic with In dimers.",
-  "intermediate_species": ["mono-methylindium", "atomic In", "In dimers", "As dimers"],
-  "evidence": "The self-limiting growth mechanism involves the adsorption of TMI and TBA on the InAs surface, followed by decomposition of TMI into less bulky adsorbates such as mono-methylindium or atomic In, which allows for complete In coverage. During TBA exposure, excess As desorbs quickly, leading to an As-terminated surface with 1 ML coverage. The surface then rearranges into a (2 x 4)-like surface during the purge, which is isotropic. The TMI exposure leads to In coverage, and the surface becomes anisotropic with In dimers."
-}

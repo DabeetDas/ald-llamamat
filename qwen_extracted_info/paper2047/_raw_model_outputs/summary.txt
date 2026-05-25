@@ -1,8 +1,0 @@
-{
-  "target_material": "WC0.7N0.3",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tungsten hexafluoride (WF6)", "triethylborane ((C2H5)3B)", "ammonia (NH3)"],
-  "temperature_range": "350 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of tungsten carbide nitride (WC0.7N0.3) on polymer films. The process involves plasma treatments to enhance growth by creating reactive sites on the polymer surface. The ALD growth is characterized by two regimes: an initial substrate-controlled regime and a linear growth regime. The minimum thickness for a continuous ALD film on untreated polymer is approximately 10 nm, while on plasma-treated polymer, it is between 1.4 and 2.3 nm. The study also highlights the importance of surface preparation in achieving continuous and uniform ALD films.",
-  "evidence": "The text states that 'the minimum thickness of a continuous ALD film is ;10 nm on untreated polymer while on top of a N2 rich reactive ion etch plasma-treated polymer the WC0.7N0.3 film becomes continuous between 1.4 and 2.3 nm.' Additionally, it mentions that 'the process type is ALD' and 'the temperature during deposition was about 350 °C.'"
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process uses Lithd (lithium 2,2,6,6-tetramethyl-3,5-heptanedionate) and TiF4 as precursors. The mechanism involves the reaction of Lithd with TiF4 on the surface, producing crystalline LiF. The process is sensitive to temperature gradients and precursor doses, with the growth rate affected by pulse lengths and purge times. The reaction likely involves surface exchange reactions between the metal precursors and the fluoride source, forming LiF on the surface.",
-  "intermediate_species": ["Lithd", "TiF4", "surface hydroxyls"],
-  "evidence": "The method uses Lithd and TiF4 precursors and produces highly crystalline, pure LiF in the temperature range 250–350 8C. The process is sensitive to temperature gradients and precursor doses, with the growth rate affected by pulse lengths and purge times. The reaction likely involves surface exchange reactions between the metal precursors and the fluoride source, forming LiF on the surface."
-}

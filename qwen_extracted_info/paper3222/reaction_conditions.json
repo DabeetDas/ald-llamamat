@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves alternating exposure to tris(dimethylamino)aluminum (TDMAA) and anhydrous hydrofluoric acid (HF), with the reaction of TDMAA with HF on the surface trapping more fluorine as AlF3 compared to LiF formed when HF reacts with lithium metal.",
-  "intermediate_species": [
-    "AlF3"
-  ],
-  "evidence": "The reaction of TDMAA with HF on the surface should trap more fluorine as AlF3 compared to LiF formed when HF reacts with lithium metal."
-}

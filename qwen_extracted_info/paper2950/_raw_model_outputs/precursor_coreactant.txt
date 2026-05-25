@@ -1,7 +1,0 @@
-{
-  "precursors": ["HfCl4"],
-  "coreactants": ["water"],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": [],
-  "evidence": "The HfO2 films were formed via ALD using hafnium tetrachloride (HfCl4) and water. The HfO2 film thickness is controlled by the number of cycles deposited. One deposition cycle consists of a water pulse, a nitrogen purge (to remove unreacted water), a HfCl4 pulse, and a nitrogen purge."
-}<|im_end|>

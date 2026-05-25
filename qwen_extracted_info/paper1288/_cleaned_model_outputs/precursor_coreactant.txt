@@ -1,7 +1,0 @@
-{
-  "precursors": ["Tributyltin ethoxide"],
-  "coreactants": ["Ozone"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "Tributyltin ethoxide precursor was vapor drawn from an ampoule kept at 95 °C and pulsed into the reactor (1 sec pulse). Ozone (O3) was produced from oxygen using an In-TUSA Ozone generator with controlled concentration (concentration= 250 g/Nm3), and introduced into the reactor using pneumatic valves (flow rate = 100 sccm) for 60 s and with trapping for an extra 60 s, achieved by closing the outlet valve (small pressure rise during that time). To ensure that the respective precursors were fully removed and to allow IR measurements, the reactor was purged for 10 min with ultrapure N2 gas between each precursor and ozone pulse. The carrier gas flow for the ALD process was 20 sccm of purified N2 from a high-purity liquid nitrogen source."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "zirconium oxide and aluminum oxide",
-  "process_type": "thermal ALD",
-  "main_precursors": ["zirconium tetrachloride", "water", "trimethyl aluminum", "water"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the growth mode of zirconium oxide and aluminum oxide deposited via atomic layer deposition (ALD) on hydrogen-terminated silicon. The growth mode was analyzed using a combination of surface fraction measurements and transmission electron microscopy (TEM). The results indicate that island growth occurs, which is attributed to the unreactivity of the hydrogen-terminated silicon surface towards the ALD reactants, except for reactive defect areas. The study also highlights that the growth of islands starts from defect sites and that the presence of these defects leads to the formation of islands rather than a continuous film.",
-  "evidence": "The study states that the growth mode of zirconium oxide and aluminum oxide was investigated by combining information on the total amount of material deposited with information on the surface fraction of the material. The results indicate that the experimental surface fractions of the ALD-grown zirconium oxide and aluminum oxide films were lower than the surface fractions calculated assuming random deposition (RD), suggesting the occurrence of island growth. The conclusion of island growth for the aluminum oxide deposition on hydrogen-terminated silicon contradicts earlier observations. The study also mentions that the unreactivity of the hydrogen-terminated silicon surface towards the ALD reactants, except for reactive defect areas, is proposed as the origin of island growth."
-}

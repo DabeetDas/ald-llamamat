@@ -1,8 +1,0 @@
-{
-  "target_material": "alumina",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Trimethylaluminum (TMA)", "distilled H2O vapors"],
-  "temperature_range": "room temperature (25 /C176C)",
-  "summary": "Amorphous alumina is deposited on nanoporous gold films using atomic layer deposition (ALD) at room temperature. The study explores the optical properties of nanoporous gold-alumina composites, showing that the localized surface plasmon resonance (LSPR) of gold is affected by the alumina layer thickness, which can be precisely controlled at the atomic scale. This tunable optical behavior has potential applications in miniaturized optical devices.",
-  "evidence": "Amorphous alumina is deposited on chemically etched nanoporous gold films using atomic layer deposition at room temperature. Nanoporous gold with ultrafine pores of 7 nm in diameter is uniformly coated with alumina film as thin as 1.4 nm. Localized surface plasmon resonance of gold skeleton exhibits a detectable red-shift in the optical transmittance spectra, the magnitude of which depends on the thickness of the alumina layer. The tunable optical properties of nanoporous gold–alumina composites provide one possibility for implementing miniaturized optical devices with high performances."
-}<|im_end|>

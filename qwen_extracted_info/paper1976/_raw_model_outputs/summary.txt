@@ -1,8 +1,0 @@
-{
-  "target_material": "GaN",
-  "process_type": "switched atomic layer epitaxy (SALE)",
-  "main_precursors": ["Triethylgallium (TEG)", "Ammonia (NH3)", "Triethylaluminum (TEA)"],
-  "temperature_range": "450 to 900 “C",
-  "summary": "The study reports the first switched atomic layer epitaxy (SALE) of single crystal GaN over basal plane sapphire substrates using a low pressure MOCVD system. The process allows for growth at lower temperatures compared to conventional LPMOCVD, achieving single crystal GaN layers with excellent optical and crystalline quality. The SALE process uses TEG, NH3, and TEA as precursors, with hydrogen as the carrier gas. The growth temperature range is 450 to 900 “C, and the process results in highly insulating GaN layers with good band-edge photoluminescence.",
-  "evidence": "In this letter we report the first switched atomic layer epitaxy (SALE) of single crystal GaN over basal plane sapphire substrates. ... The growth temperatures ranged from 450 to 900 “C. ... The SALE process resulted in single crystal insulating GaN layers at growth temperatures ranging from 900 to 450 “C. ... The band-edge transmission and the photoluminescence of the films from the SALE process were comparable to the best LPMOCVD films. ... The switched atomic layer depositions also included an AlN buffer layer identical to the one for conventional growths. ... The growth system for the present study was the same as described earlier. Sapphire substrates were placed on a TEGa Sic coated graphite susceptor and heated with rf induction. ... Triethylgallium (TEG), triethylaluminum (TEA), and ammonia NH3 were used as the precursors with hydrogen as the carrier gas."
-}<|im_end|>

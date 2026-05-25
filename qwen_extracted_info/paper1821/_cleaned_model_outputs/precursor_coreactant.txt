@@ -1,7 +1,0 @@
-{
-  "precursors": ["TDMASn", "trimethyl-(methylcyclopentadienyl)platinum"],
-  "coreactants": ["H2O", "O3"],
-  "purge_gas": [],
-  "carrier_gas": ["Ar"],
-  "evidence": "SnO2 and Pt were deposited using alternating exposures of TDMASn (99%, Strem Chemicals) and H2O for SnO2 ALD21 and (MeCp)PtMe3 (99%, Strem Chemicals) and O3 for Pt ALD.16,22 Ar with 99.999% purity was used as a carrier gas for all precursors."
-}

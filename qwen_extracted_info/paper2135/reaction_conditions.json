@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Growth on surfaces with reactive end groups occurs initially at the SAM/vacuum interface and produces a continuous thin film quickly. For unreactive SAMs, nucleation must start at the SAM/SiO2 interface, with growth of TiN as islands in defective and/or low density areas of the SAM.",
-  "intermediate_species": [
-    "TiN islands"
-  ],
-  "evidence": "Here one might expect the growth of TiN as islands initially in defective and/or low density areas of the SAM. In this case models 18,19 would predict that the initial deposited thickness per cycle would be limited by the density of these defects. The amount of attenuation we observe here is consistent with this picture."
-}

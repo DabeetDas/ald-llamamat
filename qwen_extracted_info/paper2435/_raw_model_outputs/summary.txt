@@ -1,8 +1,0 @@
-{
-  "target_material": "Little string theory on S5",
-  "process_type": "Double-scaling limit of SYM theory",
-  "main_precursors": ["N = 4 SYM on R × S3/Zk", "SYM on R × S2"],
-  "temperature_range": "",
-  "summary": "The paper discusses the derivation of little string theory on S5 from double-scaling limits of SYM theories on R × S2 and R × S3/Zk. The study shows that by taking specific scaling limits of the 't Hooft coupling in these theories, one can obtain the Lin-Maldacena supergravity solution dual to little string theory on S5. The analysis involves matching parameters between the field theories and their dual supergravity solutions, and the results suggest that the double-scaling limits are similar to those found in the plane wave matrix model.",
-  "evidence": "We show that little string theory on S5 can be obtained as double-scaling limits of the maximally supersymmetric Yang-Mills theories on R × S2 and R × S3/Zk. By matching the gauge theory parameters with those in the dual supergravity solutions found by Lin and Maldacena, we determine the limits in the gauge theories that correspond to decoupling of NS5-brane degrees of freedom."
-}<|im_end|>

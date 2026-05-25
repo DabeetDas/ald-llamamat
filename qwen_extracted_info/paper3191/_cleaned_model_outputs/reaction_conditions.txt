@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "The surface reaction mechanism and associated chemistry were discussed in the context of ALD growth of ZnO, where the text mentions the use of diethylzinc (DEZ), H2O, and ammonia (NH3) as ALD precursors. The ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites was implied through the description of the ALD process and the role of the precursors. The intermediate species such as monomethyl aluminum, surface hydroxyls, and formate species were identified as transient chemical species formed on the surface during the pulse and purge cycles."
-}

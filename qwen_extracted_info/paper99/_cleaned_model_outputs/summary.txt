@@ -1,8 +1,0 @@
-{
-  "target_material": "hexagonal boron nitride (h-BN)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trichloroborazine (TCB)", "hexamethyldisilazane (HMDS)"],
-  "temperature_range": "80 °C to 150 °C",
-  "summary": "A novel two-step ammonia-free atomic layer deposition (ALD) approach for fabricating high-quality hexagonal boron nitride (h-BN) thin films is reported. The process uses trichloroborazine (TCB) and hexamethyldisilazane (HMDS) as precursors, enabling conformal and homogeneous deposition of h-BN on various substrates with atomic-scale thickness control. The deposited films demonstrate high hydrophobicity and are effective for water purification through organic/water separation.",
-  "evidence": "Using trichloroborazine and hexamethyldisilazane as precursors, conformal pre-ceramic polymer layer is grown at low temperature, 80 °C, and then converted into dense hexagonal BN (h-BN). The present approach allows conformal and homogeneous deposition of h-BN films on various substrates with a thickness control at the atomic scale. It proves to be successful for fabricating various tuned BN nanostructures and composites that showed to be efficient in water purification. In particular, the obtained nanostructures demonstrate high hydrophobicity and they are investigated as water filter for organic/water separation."
-}

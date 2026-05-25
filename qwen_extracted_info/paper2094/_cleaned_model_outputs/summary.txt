@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Hf(N(CH3)(C2H5))4", "O3"],
-  "temperature_range": "200 °C to 300 °C",
-  "summary": "The study investigates the fabrication of ultrathin HfO2 gate dielectrics using atomic layer deposition (ALD) with Hf(N(CH3)(C2H5))4 as the precursor and O3 as the oxidant. The ALD process temperature significantly affects the quality of the HfO2 films, with 275 °C being optimal for minimizing residual impurities and leakage current.",
-  "evidence": "From secondary ion mass spectrometry analyses, the ALD process temperature was very important for the fabrication of high-quality HfO2 films. The dielectric constant with 275 °C deposition was higher than that at 200–250 °C. Furthermore, the VFB with 200 °C deposition was about 0.1–0.15 V lower than that at 275 °C, due to formation of high residual impurity concentrations, such as carbon, in the HfO2 films. The leakage current densities in the 275 °C case were reduced by about five orders with respect to reference SiO2 films. From these results, it was judged that the ALD process temperature of 275 °C was suitable for the fabrication of ultrathin HfO2 gate dielectrics necessary to improve the leakage current characteristics."
-}

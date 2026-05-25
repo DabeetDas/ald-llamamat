@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth is surface-controlled and chemisorption-dominated. The reaction steps involve the chemisorption of SnCl4 and H2O on the porous silicon surface, followed by the formation of SnO through surface reactions. The process is influenced by the pore geometry, with gas-phase reactions becoming significant at higher temperatures and longer pulse durations.",
-  "intermediate_species": ["SnCl4", "H2O", "SnO", "surface hydroxyls"],
-  "evidence": "The ALE conditions (temperature, pulse times, etc.) for planar structures are described in the concept of the 'ALE' window. Gas-phase decomposition or reevaporation of the chemisorbed precursor determine the maximum deposition temperature whereas the minimum temperature is limited by the physisorption or incomplete chemisorption of the species. The reaction is governed by chemisorption only, if the nonchemisorbed precursor molecules have enough time to leave the cavity during the subsequent purge step."
-}

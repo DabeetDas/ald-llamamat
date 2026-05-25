@@ -1,7 +1,0 @@
-{
-  "precursors": ["[Cu( sBu-amd)]2"],
-  "coreactants": ["oxygen plasma", "hydrogen plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The Cu precursor source temperature was maintained at 110 °C. Argon was used as the carrier gas with a constant flow rate of 110 sccm. One deposition cycle of CuOx consisted of a Cu precursor pulse and purge step, followed by a tunable combination of hydrogen and oxygen plasma pulses and purge steps."
-}<|im_end|>

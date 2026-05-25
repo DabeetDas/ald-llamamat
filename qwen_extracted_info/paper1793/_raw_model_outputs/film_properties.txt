@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 0.092,
-  "density_g_cm3": 2.9,
-  "refractive_index": null,
-  "surface_roughness_nm": null,
-  "crystal_phase": "amorphous and nano-crystalline",
-  "evidence": "The growth-per-cycle (GPC) is evaluated to be 0.092 nm/cycle from the slope. Therefore, considering the GPC and the density (2.9 g/cm³) of the amorphous ALD-MoS2 thin film, the complete coverage of MoS2 can be achieved within 5 cycles under the assumption of the conformal and uniform growth on the CFP. In the HR-TEM image of Fig. 6, MoSx grown on CFP for 200 ALD cycles has a mixed phase of amorphous and nanocrystalline structures, even though the growth temperature is only 100 oC."
-}<|im_end|>

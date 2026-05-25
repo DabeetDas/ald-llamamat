@@ -1,8 +1,0 @@
-{
-  "target_material": "ultrathin cobalt oxide (CoOx) films",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Co(Cp)2", "O3"],
-  "temperature_range": "150~250 °C",
-  "summary": "Ultrathin cobalt oxide (CoOx) films (<10 nm) were prepared using atomic layer deposition (ALD) with Co(Cp)2 and O3 as precursors. The optimal temperature range was 150~250 °C with a saturated growth rate of ~0.37 Å/cycle. The films showed a mixture of Co3O4 and CoO in the initial layers, while the composition shifted to Co3O4 in thicker films. The surface morphology was influenced by deposition temperature, with smoother films at lower temperatures. The study aimed to understand the growth behavior and catalytic performance of the films.",
-  "evidence": "Ultrathin cobalt oxide (CoOx) films (<10 nm) have been prepared on both planar and three dimensional substrates by atomic layer deposition (ALD) using Co(Cp)2 and O3 as precursors. The optimal temperature window was 150~250 °C with a saturated growth rate of ~0.37 Å/cycle. While the main composition of the thicker film consists of Co3O4 as verified by Raman spectrum, the initial few layers grown by ALD show a mixture of Co3O4 and CoO as revealed by XWray photoelectron spectrum (XPS)."
-}

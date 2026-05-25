@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "ALD",
-  "main_precursors": ["diethylzinc (DEZ)", "deionized water (H2O)"],
-  "temperature_range": "200 /C14 C",
-  "summary": "The study focuses on optimizing the ALD process for ZnO thin films to enhance their conductivity as transparent conductive oxides (TCOs). The research explores variations in precursor choice, process parameters, and post-processing techniques. It highlights that reducing purge time and increasing DEZ pulse duration significantly lowers resistivity, achieving a minimum resistivity of 2.8 mΩ cm. The study also investigates the impact of post-deposition annealing in hydrogen atmosphere, finding that it does not improve conductivity for highly conductive films but does for less conductive ones.",
-  "evidence": "The text discusses the optimization of ALD-ZnO thin films toward higher conductivity, focusing on precursor choice, process parameters, and post-processing. It specifically mentions the use of diethylzinc (DEZ) and deionized water (H2O) as precursors, the impact of purge time and pulse duration on resistivity, and the effects of post-deposition annealing in hydrogen atmosphere."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu2S and ZnS",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["diethyl zinc (DEZ)", "bis(N,N0-disec-butylacetamidinato)dicopper(I) (Cu2DBA)"],
-  "temperature_range": "135 to 176 °C",
-  "summary": "The study investigates ion exchange phenomena in ultrathin Cu2S and ZnS films under ALD conditions. Exposure of Cu2S to diethyl zinc (DEZ) converts it to ZnS and copper metal, while exposure of ZnS to Cu2DBA converts it to Cu2S. These processes occur at low temperatures and are supported by experimental evidence including mass measurements, UV/vis/NIR spectroscopy, XRD, and EDS.",
-  "evidence": "Cu2S and ZnS films were synthesized by atomic layer deposition using standard A-B cycles at temperatures ranging from 135 to 176 °C. The Cu2S and ZnS films were then exposed to controlled pulses of DEZ and Cu2DBA respectively. The QCM measurements revealed large mass increases upon exposure of Cu2S to DEZ and ZnS to Cu2DBA. The UV/vis/NIR absorbance spectra, XRD, and EDS results support the proposed ion exchange reactions."
-}<|im_end|>

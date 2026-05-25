@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth of CdTe and CdMnTe by ALE involves a self-regulated regime at 0.5 monolayer (ML) per cycle, with each ALE cycle inducing the alternation of c(2 × 2) 1 (2 × 1)Cd and (2 × 1)Te reconstructed surfaces. The surface roughness modulation corresponds to a deposition of half a monolayer of CdTe per ALE cycle, and the step-flow growth mode is evidenced by the disappearance of the beating of the envelope signal of the RHEED specular spot intensity during the ALE cycles.",
-  "intermediate_species": ["half-filled c(2 × 2)Cd-rich surface", "small islands of CdTe", "monomolecular steps", "CdTe/CdMnTe self-regulated TSLs"],
-  "evidence": "The surface roughness modulation corresponds to a deposition of half a monolayer of CdTe per ALE cycle. This periodic roughness modulation was directly observed by scanning tunneling microscopy (STM), as revealed by the pictures of a slightly misoriented CdTe surface obtained at each state of the ALE bicycle (Fig. 1). The step-flow growth mode can be evidenced by the disappearance of the beating of the envelope signal of the RHEED specular spot intensity during the ALE cycles. This is illustrated in Fig. 2 by comparing the RHEED intensity variations during CdTe ALE on a nominal surface (Fig. 2(a)) and on a 2°A vicinal one (Fig. 2(b))."
-}<|im_end|>

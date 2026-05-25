@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of WO3 on CuO and vice versa, followed by annealing to facilitate a solid-state reaction between CuO and WO3 to form CuWO4. The growth of WO3 on CuO is substrate-inhibited, while CuO grows linearly on WO3. The annealing step allows for the solid-state reaction to produce pure crystalline CuWO4.",
-  "intermediate_species": [
-    "CuO",
-    "WO3"
-  ],
-  "evidence": "Fig. 1a shows the growth rate of WO3 on as-deposited CuO. There is no significant increase in the total film thickness until after 100 cycles of WO3. This suggests that WO3 has substrate-inhibited growth on the CuO surface. After 100 cycles, when the CuO surface is fully covered with WO3, WO3 grows linearly as expected. The annealing step allows for the solid-state reaction between CuO and WO3 to produce pure crystalline CuWO4."
-}

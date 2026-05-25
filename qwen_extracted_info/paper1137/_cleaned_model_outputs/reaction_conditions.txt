@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of TMA (Al(CH3)3) and La(thd)3 with ozone (O3) during atomic layer deposition (ALD). The growth dynamics suggest that both La(thd)3 and TMA experience better growth conditions on an Al–O surface than on a La–O surface. The stoichiometry of the films is controlled by the pulsed ratio of the metal precursors, with a 1:1 ratio achieving a near-linear relationship between pulsed and deposited composition. The surface chemistry changes around the 1:1 composition, indicating a shift in the reaction mechanism.",
-  "intermediate_species": ["Al–O surface", "La–O surface", "surface hydroxyls"],
-  "evidence": "The system proved to be highly complex, as the growth after a particular pulse seemed not only to be correlated to the preceding pulse, but also to the second and third preceding pulses. An analytical solution cannot be given, but the study provides evidence that both La(thd)3 and TMA experience better growth conditions on an Al–O-surface than on a La–O-surface."
-}

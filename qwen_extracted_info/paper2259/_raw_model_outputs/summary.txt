@@ -1,8 +1,0 @@
-{
-  "target_material": "pentacene",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminum", "ozone"],
-  "temperature_range": "350 °C",
-  "summary": "The study describes the fabrication of low-voltage pentacene field-effect transistors using atomic layer deposition (ALD) of aluminum oxide (AlOx) as a gate dielectric and parylene-C shadow masks for patterning. The ALD process allowed precise control of the dielectric thickness, resulting in a low operating voltage of 2.5 V. The use of parylene-C masks enabled the creation of short channel lengths (down to 5 μm) and improved device performance with high field-effect mobility and low contact resistance.",
-  "evidence": "We have fabricated high-performance top-contact pentacene field-effect transistors using a nanometer-scale gate dielectric and parylene-C shadow masks. The high-capacitance gate dielectric, deposited by atomic layer deposition of aluminum oxide, resulted in a low operating voltage of 2.5 V. The flexible and conformal parylene-C shadow masks allowed fabrication of transistors with channel lengths of L = 5, 10, and 20 μm. The field-effect mobility of the transistors was μ = 1.14 ± 0.08 cm² / V s on average, and the I MAX / IMIN ratio was greater than 10⁶. In this work, we used a nanometer-scale AlOx gate dielectric deposited by ALD to achieve low-voltage operation and flexible parylene-C shadow masks to pattern gold electrodes whose distance was less than 10 μm. We demonstrated high-mobility and low-voltage pentacene transistors with short channel lengths as small as 5 μm. Trimethylaluminum and ozone were used as the source materials in the ALD process, where 45 ALD cycles were repeated at 350 °C."
-}<|im_end|>

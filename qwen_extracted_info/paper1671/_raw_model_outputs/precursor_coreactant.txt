@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethyl aluminum [Al(CH3)3, TMA]"],
-  "coreactants": ["O3", "O2 plasma"],
-  "purge_gas": ["O2"],
-  "carrier_gas": [],
-  "evidence": "Al2O3 is deposited by ALD using trimethyl aluminum [Al(CH3)3, TMA] and H2O1,7 as the oxidation source, where surface -OH groups generated during the H2O half-reaction cycle act as the reactive sites for TMA chemisorption in the subsequent cycle.1,7 Since H2O desorbs slowly in cold-wall reactors, H2O-based ALD processes require long purge times. 7,17 Therefore, several nonaqueous oxidizing agents such as O3 and O2 plasma are being explored as an alternative to H2O.4,6,18-20"
-}<|im_end|>

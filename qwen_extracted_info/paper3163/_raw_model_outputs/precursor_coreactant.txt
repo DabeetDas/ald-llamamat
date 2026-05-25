@@ -1,7 +1,0 @@
-{
-  "precursors": ["TaF5"],
-  "coreactants": ["H2", "NH3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["H2"],
-  "evidence": "The Ta precursor was maintained at 70°C and the vapor was carried out with 40 sccm H2 gas. During deposition, H2 and Ar were continuously supplied to the reaction chamber at flow rates of 200 sccm. The subcycle for Ta formation had the following sequence: A Ta precursor injection for 4 s, a purge, an exposure to H2/Ar plasma for 5 s, and another purge step. The subsequent nitridation subcycle consisted of a pulse of NH3 gas and a purge."
-}<|im_end|>

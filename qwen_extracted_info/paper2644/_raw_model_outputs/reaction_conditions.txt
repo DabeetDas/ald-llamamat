@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The injected Si precursor is physisorbed on the substrate surface. Si precursor not physisorbed but remaining in the vapor phase is purged out by short-time purge step by Ar gas. Si precursor gets more reactive by Ar plasma and can react with the surface. Finally, the SiN monolayer is formed by nitridation of Si precursors through NH3 plasma.",
-  "intermediate_species": ["Si precursor", "Si precursor remaining in the vapor phase", "reactive Si precursor"],
-  "evidence": "The injected Si precursor is physisorbed on the substrate surface [Fig. 3(a)]. Si precursor not physisorbed but remaining in the vapor phase is purged out by short-time purge step by Ar gas [purge step in Fig. 2(a)]. Si precursor gets more reactive by Ar plasma and can react with the surface, as shown in Figs. 3(a) and 3(b). Finally, the SiN monolayer is formed by nitridation of Si precursors through NH3 plasma as demonstrated in Figs. 3(c) and 3(d)."
-}<|im_end|>

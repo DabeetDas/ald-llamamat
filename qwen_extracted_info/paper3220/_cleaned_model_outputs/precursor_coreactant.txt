@@ -1,7 +1,0 @@
-{
-  "precursors": ["NbF5", "Si2H6", "Trimethylaluminum (TMA)", "NbF5", "NbCl5", "TiCl4", "NbCl5"],
-  "coreactants": ["Si2H6", "NH3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "ALD of niobium silicide (NbSi) films with a 1:1 stoichiometry was performed using NbF5 and Si2H6 as precursors. Niobium carbide thin films were synthesized by atomic layer deposition using Trimethylaluminum (TMA), NbF5, and NbCl5 precursors. The chemical composition, growth rate, structure, and electronic properties of the films were studied over the deposition temperature range 125-350 oC. We observed that by including elemental Zn as a reducing agent in the metal chloride/NH3 ALD sequence for nitride growth greatly improved the superconducting critical temperature and its homogeneity throughout the films. Each cycle is of the form: XCly + NH3 + Zn → XN + yHCl + ZnCl2 + (3-y)/2 H2. For all films, the ratio of (Nb+Ti)/N is 0.98 and no Zn or Cl impurities were detected by RBS or XPS."
-}

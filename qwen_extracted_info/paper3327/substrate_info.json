@@ -1,9 +1,0 @@
-{
-  "substrate_material": "",
-  "substrate_orientation": "",
-  "pretreatment": "",
-  "surface_functionalization": "",
-  "evidence": null,
-  "_error": "ValueError: Could not parse model output as JSON. Preview: '[CrossRef] 56. Kessels, W.M.M.; Knoops, H.C.M.; Donders, M.E. Remote Plasma Atomic Layer Deposition of LiCoO2 Thin Films. J. Vac. Sci. Technol. A 2012, 30, 051503. [CrossRef] 57. Kessels, W.M.M.; Donders, M.E.; Knoops, H.C.M. Remote Plasma Atomic Layer Deposition of LiCoO2 Thin Films. J. Vac. Sci. T'",
-  "_traceback": "Traceback (most recent call last):\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/run_qwen_all.py\", line 378, in run_single_agent\n    result = agent_fn(fulltext, llm)\n             ^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 363, in substrate_information_agent\n    return robust_json_parse(output, default={\n           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/home/dabeetkd24/ald-llamamat/agentic_information_extraction_ollama/tools.py\", line 138, in robust_json_parse\n    raise ValueError(f\"Could not parse model output as JSON. Preview: {preview!r}\")\nValueError: Could not parse model output as JSON. Preview: '[CrossRef] 56. Kessels, W.M.M.; Knoops, H.C.M.; Donders, M.E. Remote Plasma Atomic Layer Deposition of LiCoO2 Thin Films. J. Vac. Sci. Technol. A 2012, 30, 051503. [CrossRef] 57. Kessels, W.M.M.; Donders, M.E.; Knoops, H.C.M. Remote Plasma Atomic Layer Deposition of LiCoO2 Thin Films. J. Vac. Sci. T'\n"
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["RuCp2", "MeCpPtMe3"],
-  "coreactants": ["oxygen"],
-  "purge_gas": ["Nitrogen", "argon"],
-  "carrier_gas": ["Nitrogen"],
-  "evidence": "Nitrogen ~99.999%!, in some experiments argon ~99.99%!, were used as both purging and carrier gas."
-}

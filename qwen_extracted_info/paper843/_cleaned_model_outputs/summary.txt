@@ -1,8 +1,0 @@
-{
-  "target_material": "TaNx (Tantalum nitride)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Pentakis(dimethylamino)tantalum (PDMAT)", "Ammonia (NH3)", "Monomethylhydrazine (MMH)"],
-  "temperature_range": "200–375 1C",
-  "summary": "This study investigates the thermal ALD of TaNx using PDMAT with ammonia or MMH as nitrogen co-reactants. The process produces both conductive TaN and insulating Ta3N5, with ammonia enabling conductive TaN at lower resistivity and MMH producing Ta3N5. The study highlights the self-limiting behavior of both processes and the impact of temperature on growth rates and film properties.",
-  "evidence": "TaNx thin films were grown at temperatures ranging from 200 to 375 1C using atomic layer deposition (ALD). Pentakis(dimethylamino)tantalum (PDMAT) was used as a tantalum source with either ammonia or monomethylhydrazine (MMH) as a nitrogen co-reactant. Self-limiting behaviour was observed for both ammonia and MMH processes, with growth rates of 0.6 and 0.4 ˚A/cycle, respectively at 300 1C. Films deposited using ammonia were found to have a mono-nitride stoichiometry with resistivities as low as 70 mO cm. In contrast, films deposited using MMH were found to be nitrogen rich Ta3N5 with high resistivities."
-}

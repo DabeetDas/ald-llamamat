@@ -1,7 +1,0 @@
-{
-  "precursors": ["(N tBu)2(NMe2)2Mo"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The standard ALD recipe consists of precursor dosing for 6 s in the first half of the ALD cycle. Ar gas is used as a carrier gas during the precursor dose, resulting in a chamber pressure of 7.5 mTorr."
-}<|im_end|>

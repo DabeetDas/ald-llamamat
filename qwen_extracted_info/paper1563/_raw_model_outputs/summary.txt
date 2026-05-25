@@ -1,8 +1,0 @@
-{
-  "target_material": "SiO2",
-  "process_type": "plasma-assisted ALD (PA-ALD)",
-  "main_precursors": ["TEOS (tetraethyl orthosilicate)", "O2", "Ar"],
-  "temperature_range": "room temperature",
-  "summary": "The study describes the use of plasma-assisted atomic layer deposition (PA-ALD) to seal pores in mesoporous silica films. The process utilizes TEOS and O2 as precursors, with Ar as a carrier and purging gas. The PA-ALD process confines the deposition to the surface, preventing penetration into the porous matrix, allowing for conformal, thin pore-sealing layers. The PA-ALD layer is dense and defect-free, effectively sealing pores and protecting the low-k silica from exposure to gaseous chemicals.",
-  "evidence": "The experiments were carried out in a self-designed, home-built plasma-assisted ALD (PA-ALD) system. The mesoporous silica thin film samples were prepared on silicon substrates by evaporation-induced self-assembly. The nonionic surfactant Brij-56 was used to direct the formation of a cubic mesostructure. Plasma-assisted ALD was performed by first introducing TEOS vapor into the reactor, followed by Ar purging to obtain a monolayer of adsorbed precursor. RF power was then delivered to the coil, creating an O2 and Ar plasma. The PA-ALD layer was found to be 5 nm thick and conformal, with no penetration into the porous matrix. The PA-ALD SiO2 coating was shown to prevent the infiltration of TiCl4 and H2O into the underlying porous silica matrix."
-}<|im_end|>

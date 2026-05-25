@@ -1,8 +1,0 @@
-{
-  "target_material": "PZT",
-  "process_type": "ALD",
-  "main_precursors": ["Pb(DPM)2", "Ti(Oi–Pr)4", "Zr(DIBM)4"],
-  "temperature_range": "240°C",
-  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of Pb(Zr,Ti)O3 (PZT) thin films using a combination of Pb(DPM)2, Ti(Oi–Pr)4, and Zr(DIBM)4 precursors. The process was optimized to achieve a high Zr/(Zr+Ti) ratio in the deposited PZT films, which is crucial for ferroelectric properties. The ALD process was demonstrated to be effective for coating three-dimensional structures uniformly, and the films were found to be compositionally uniform despite the complex oxide nature of PZT.",
-  "evidence": "Quaternary Pb/Zr,Ti/Ox thin films were deposited at 240°C by a combination of liquid-injection atomic layer deposition of binary PbO, TiOx, and ZrOx thin films. The Zr/(Zr+Ti) ratio in the deposited PZT films was increased to more than 0.2, and further increased to 0.5 by modifying the sequence of the discrete-source gas pulses. The study also demonstrated the uniformity of PZT films on 3D structures."
-}<|im_end|>

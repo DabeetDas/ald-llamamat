@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylgallium (TMG)", "trimethylaluminum (TMA)"],
-  "coreactants": ["AsH3", "H2", "PH3"],
-  "purge_gas": ["H2"],
-  "carrier_gas": ["H2"],
-  "evidence": "For the growth of GaAs, AsH3 (5% in H2) + 500 sccm of H2 and trimethylgallium (TMG) + 500 sccm of H2 flowed through tubes A and B, respectively. The flow of H2 through the TMG bubbler and the temperature of the bubbler were set to 0.5 sccm and -15 °C respectively which are the minimum values available in our system. The flow of AsH3 was 10 sccm. Three liters per minute of H2 flowed through the center tube (C) to prevent mixing. The growth of AlAs was carried out in an analogous manner using trimethylaluminum (TMA) at 9 °C and a flow of H2 through the bubbler of 2.5 sccm."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "CdTe",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Cd", "Te"],
-  "temperature_range": "260–340°C",
-  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of CdTe on GaAs substrates using RHEED observations. The process involves alternating pulses of Cd and Te precursors, and the surface periodicity and RHEED spot intensities are monitored to study surface coverage and growth dynamics. The results show that growth becomes two-dimensional after a few monolayers, and the surface coverage is correlated with RHEED spot intensities. The study also highlights the temperature-dependent changes in surface reconstructions and the effect of substrate temperature on growth rate.",
-  "evidence": "We present the first RHEED observations during atomic layer epitaxy growth of CdTe on GaAs substrates. The evolution of the RHEED pattern shows that, despite the large lattice mismatch, growth becomes two-dimensional after the deposition of a few monolayers. The RHEED patterns of the Cd-stabilized surface show half order streaks in the (100) and (110) azimuths, and only integral order streaks in the (110) azimuth. The intensity of these spots was monitored with a video camera and evaluated as a function of time during ALE growth. The maximum intensity values of both spots are arbitrarily set to one. The study also shows that the surface lattice constant reaches that of bulk CdTe after four cycles and that the growth rate decreases in the temperature range between 260 and 340°C."
-}

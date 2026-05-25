@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2 and Al-doped TiO2 (ATO)",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["Ti(O-i-C3H7)4 (TTIP)", "Al(CH3)3 (TMA)"],
-  "temperature_range": "250°C",
-  "summary": "The study investigates the use of plasma-enhanced atomic layer deposition (PEALD) to grow rutile-structured TiO2 and Al-doped TiO2 (ATO) films on Ru electrodes using O2 and N2O plasma as oxidants. The process is compared to traditional O3-based ALD, with a focus on growth rate (GR) and electrical performance. The N2O plasma process results in a higher GR while maintaining similar electrical performance, making it a promising method for mass production.",
-  "evidence": "Rutile-structured TiO2 and Al-doped TiO2 dielectric thin films were grown on a sputtered Ru electrode by atomic layer deposition using O2- or N2O-plasma oxidants. The N2O-plasma-based ALD process resulted in a 1.8 times higher growth rate than that of the O3-oxidant-based ALD process with identical electrical performance. The use of N2O plasma enhanced not only the GR but also the formation of rutile and the resulting dielectric constant of TiO2 films."
-}

@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 10,
-  "density_g_cm3": 3.0,
-  "refractive_index": null,
-  "surface_roughness_nm": null,
-  "crystal_phase": "Polycrystalline",
-  "evidence": "The film densities of the ALA samples were measured by XRR to be 3.0 g/cm³ and 3.3 g/cm³ for the TMA ALA and TDMAA sample, respectively, which indicates that the elevated carbon content in the TMA ALA sample likely prevented crystallization while the TDMAA ALA sample has a density within 1% of bulk crystalline AlN and a full width at half the maximum intensity (FWHM) value of 0.95°, which corresponds to a crystallite size of ~9.2 nm by the Scherer equation."
-}

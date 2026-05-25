@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The current conduction in Si/HfO2/Al structures is governed by electron injection from the silicon into the hafnium oxide, regardless of the biasing polarities and the type of substrate doping. The electron barrier at the Si/HfO2 interface is lower than the hole barrier at the Al/HfO2 interface, making electron injection from the metal the dominant conduction mechanism.",
-  "intermediate_species": [],
-  "evidence": "The current conduction in Si–HfO2–Al structure is governed by the electronic injection only as the electron barrier at Si/SiO2 interface (3.14 eV) is substantially smaller than that of the hole barrier ( /C24 3.8–4.5 eV). The leakage current is governed by the electron injection from Al into HfO2. The electron barrier at Si/HfO2 interface, determined by photoemission measurements, is 2.0 eV. The electron barrier at Al/HfO2 interface measured with photoemission method is 2.1 eV."
-}

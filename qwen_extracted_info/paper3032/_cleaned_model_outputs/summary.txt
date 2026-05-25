@@ -1,8 +1,0 @@
-{
-  "target_material": "Cobalt (Co)",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PE-ALD)",
-  "main_precursors": ["CoCp2", "CoCp(CO)2"],
-  "temperature_range": "250-400°C",
-  "summary": "The study describes the deposition of high-quality cobalt thin films using plasma-enhanced atomic layer deposition (PE-ALD) with metallorganic precursors and NH3 plasma. The process was optimized to achieve low resistivity and high purity Co films, with CoCp2 showing better self-limiting behavior and film quality compared to CoCp(CO)2. The films were analyzed for their microstructure, impurity levels, and resistivity, and their performance was compared to thermal ALD and other deposition techniques.",
-  "evidence": "High-quality Co films with low resistivity were deposited by plasma-enhanced atomic layer deposition (PE-ALD) from metallorganic precursors and NH3 plasma. The PE-ALD Co film has very low resistivity with high purity in contrast to thermal ALD Co using H2 as a reactant. The formation of CoSi2 by post deposition annealing PE-ALD Co with Ti cap layer was also successfully demonstrated."
-}

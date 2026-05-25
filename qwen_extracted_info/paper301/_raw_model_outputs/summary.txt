@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2/Al2O3",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Tetrakis (ethylmethylamino) hafnium", "trimethyl aluminum", "H2O2 solution"],
-  "temperature_range": "250 /C176C",
-  "summary": "The study investigates the thermal stability and structural characteristics of HfO2/Al2O3 multilayer thin films fabricated by atomic layer deposition (ALD). The research focuses on the sub-layer-thickness-dependent thermal stability, crystallization behavior, and electrical properties of the films. The nano-laminated and nano-composite structures are analyzed to determine their impact on thermal stability and dielectric properties.",
-  "evidence": "Atomic layer deposition is adopted to fabricate HfO2/Al2O3 multilayer thin films to study the sub-layer-thickness-dependent thermal stability. The nanolaminated structure with too thin sub-layer might degrade into a nano-composite configuration. Upon thermal annealing, the HfO2 sub-layers in the laminated configuration crystallize into the monoclinic phase without expanding into the neighboring Al2O3 sub-layers, while the crystallization occurs across the Al2O3 sub-layers in the nano-composite configuration."
-}<|im_end|>

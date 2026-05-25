@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "ALD",
-  "main_precursors": ["Mo(NMe2)4", "1,2-ethanedithiol"],
-  "temperature_range": "50°C for deposition, 450°C or 800°C for annealing",
-  "summary": "A two-step ALD process using Mo(NMe2)4 and 1,2-ethanedithiol to deposit ultra-thin MoS2 films on SiO2 through an amorphous surface Mo(IV) thiolate intermediate, followed by annealing to form MoS2 nanocrystals. The process enables chemical control over thickness and uniformity, avoiding high-temperature nucleation issues.",
-  "evidence": "A novel 2-step ALD route to ultra-thin MoS2 films on SiO2 through a surface organometallic intermediate. The lack of scalable-methods for the growth of 2D MoS2 crystals... We report here a two-step ALD route with new organometallic precursors, Mo(NMe2)4 and 1,2-ethanedithiol... followed by a subsequent annealing at higher temperature leading to ultra-thin MoS2 nanocrystals (~20 nm-large) in the 1-2 monolayer range."
-}

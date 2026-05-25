@@ -1,8 +1,0 @@
-{
-  "target_material": "Silicon nitride (SiN_x)",
-  "process_type": "Plasma-assisted ALD",
-  "main_precursors": ["Bis(tert-butylamino)silane (BTBAS)", "N2 plasma"],
-  "temperature_range": "Room temperature to 500 °C",
-  "summary": "This study describes an Atomic Layer Deposition (ALD) process for silicon nitride (SiN_x) using bis(tert-butylamino)silane (BTBAS) and N2 plasma. The process exhibits a wide temperature range from room temperature up to 500 °C. The material properties, including composition, refractive index, and wet-etch rates, were investigated as a function of plasma exposure time, plasma pressure, and substrate temperature. The process was developed to address the need for low-temperature deposition of high-quality SiN_x films for applications such as gate spacers in transistors.",
-  "evidence": "ABSTRACT: Atomic layer deposition (ALD) of silicon nitride (SiN_x) is deemed essential for a variety of applications in nanoelectronics, such as gate spacer layers in transistors. In this work an ALD process using bis( tert-butylamino)silane (BTBAS) and N2 plasma was developed and studied. The process exhibited a wide temperature window starting from room temperature up to 500 °C. The material properties and wet-etch rates were investigated as a function of plasma exposure time, plasma pressure, and substrate table temperature."
-}<|im_end|>

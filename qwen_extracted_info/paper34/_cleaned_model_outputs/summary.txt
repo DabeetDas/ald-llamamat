@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["diethyl zinc", "water"],
-  "temperature_range": "150 8C",
-  "summary": "The paper describes the use of atomic layer deposition (ALD) to coat silica aerogel templates with ZnO to create a pseudo-one-dimensional photoanode for dye-sensitized solar cells (DSSCs). The ALD process was performed at 150 8C using diethyl zinc and water as precursors. The ZnO layers were grown with a controlled thickness, and the resulting structures showed improved light harvesting efficiency and power conversion efficiency compared to traditional ZnO-based DSSCs. The study highlights the potential of ALD-coated aerogel templated photoanodes for enhancing DSSC performance.",
-  "evidence": "ALD was performed with a Savannah 100 (Cambridge Nanotech Inc.) using diethyl zinc, DEZ, and water as precursors. ZnO was grown at 150 8C using reactant exposure times of 20 and 10 s and partial pressures of 2 and 10 Torr for DEZ and H2O, respectively, with 30 s nitrogen purge times between exposures."
-}

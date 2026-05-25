@@ -1,8 +1,0 @@
-{
-  "target_material": "Tantalum oxide",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Ta(OC2H5)5", "NH3"],
-  "temperature_range": "250-275 °C",
-  "summary": "Tantalum oxide films were deposited using ALD with Ta(OC2H5)5 and NH3 as precursors at substrate temperatures between 250-275 °C. The films were amorphous upon deposition but crystallized after annealing at 800 °C in oxygen, showing improved dielectric properties. The process allows for precise control of film thickness through self-limited growth per cycle.",
-  "evidence": "Tantalum oxide films were grown by chemical vapor deposition using an alternating supply of tantalum pentaethoxide and ammonia. At substrate temperature between 250-275 'C the film growth depended only on the number of source supply cycles (0.15 nm/cycle) and did not depend on the substrate temperature nor supply time of the sources. As-deposited films were amorphous, however, were crystallized after annealing at 800 'C in oxygen atmosphere by rapid thermal process. Annealed films showed increased dielectric constant and decreased leakage current density, which were 13.3 and 6.6 pA/cm 2 at 1 MV/cm, respectively, for a 15-nm-thick film after annealing at 800 'C for 10 minutes."
-}

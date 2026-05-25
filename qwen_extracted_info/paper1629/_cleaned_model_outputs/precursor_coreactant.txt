@@ -1,7 +1,0 @@
-{
-  "precursors": ["InCp", "TDMASn"],
-  "coreactants": ["ozone", "hydrogen peroxide"],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": ["nitrogen"],
-  "evidence": "SnO2 ALD was performed using alternating exposures to TDMASn (Gelest, >95% purity) and hydrogen peroxide (H2O2, Aldrich, 50 wt % in water). In 2O3 ALD was performed using alternating exposures to InCp (Strem, electronic grade 99.999+% In) and ozone. The ozone was produced using a commercial ozone generator (Ozone Engineering L11) using a feed of ultrahigh purity oxygen at a flow rate of 400 sccm to produce 10% ozone in oxygen. The TDMASn and InCp were held in separate stainless steel bubblers maintained at 40 °C, and the tubing connecting the bubblers to the ALD reactor was heated to 150 °C to prevent condensation of the precursors on the reactor walls. Ultrahigh purity nitrogen at a mass flow rate of 60 sccm was sent through the bubblers during the reactant exposures and was diverted to bypass the bubblers following the reactant exposures."
-}

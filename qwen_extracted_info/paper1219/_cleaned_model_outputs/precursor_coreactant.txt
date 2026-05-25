@@ -1,7 +1,0 @@
-{
-  "precursors": ["Cu(dmap)2", "tertiary butyl hydrazine"],
-  "coreactants": ["tertiary butyl hydrazine"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The text states: '400 sccm of nitrogen (N2, AGA, 99.999 %) was utilized as the carrier gas and for inert gas purging.' and 'TBH was delivered into the reactor by vacuum draw from an external source maintained at 15 °C.'"
-}

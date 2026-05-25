@@ -1,7 +1,0 @@
-{
-  "precursors": ["GeCl4"],
-  "coreactants": ["H2S plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "The GeCl4 precursor was used in conjunction with a refrigerated bath circulator (RW3, Jeio Tech) that lowered the canister temperature to 5 1C due to a very high vapor pressure of approximately 70 torr at room temperature. Additionally, an Ar-diluted H2S plasma reactant was used by setting the flow rate for H2Sa t5 0s c c ma n d Ar at 200 sccm using a mass flow controller (MFC). The purging was performed with 200 sccm of Ar gas."
-}

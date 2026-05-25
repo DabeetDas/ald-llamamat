@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involved the alternating supply of La(TMHD)3 and H2O precursors to the substrate, with the surface reactions forming La2O3. The ligands from La(TMHD)3 were decomposed during deposition, as indicated by the negligible surface carbon species.",
-  "intermediate_species": ["La(TMHD)3 ligands"],
-  "evidence": "Negligible amount of surface C species suggest that the ligands of La(TMHD)3 were completely decomposed during the deposition."
-}

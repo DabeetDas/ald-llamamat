@@ -1,8 +1,0 @@
-{
-  "target_material": "Beryllium Oxide (BeO)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["H2O", "Be(C2H5)2 (DEBe)"],
-  "temperature_range": "250 °C",
-  "summary": "The study characterizes ALD beryllium oxide (BeO) as a potential high-k gate dielectric for low-leakage AlGaN/GaN MOSHEMTs. BeO was deposited using diethylberyllium (DEBe) and water precursors at 250 °C. The interfacial layer formed during deposition and annealing was observed, and postdeposition annealing at 700 °C and 900 °C had little effect on the BeO binding state but increased Ga oxide formation. The gate leakage current of 1.1 × 10−7 A/cm² was achieved, confirming the potential of ALD BeO for low-leakage applications.",
-  "evidence": "Formation of an interfacial layer was observed in as-deposited samples, similar to the layer formed during ALD HfO2 deposition on GaN. Postdeposition anneal (PDA) at 700/C176C and 900/C176C had little effect on the observed BeO binding state, confirming the strength of the bond, but led to increased Ga oxide formation, indicating the presence of unincorporated oxygen in the dielectric. Despite the interfacial layer, gate leakage current of 1.1 × 10/C0 7 A/cm2 was realized, confirming the potential of ALD BeO for use in low-leakage AlGaN/GaN metal–oxide–semiconductor high-electron-mobility transistors."
-}

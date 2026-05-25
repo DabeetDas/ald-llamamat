@@ -1,7 +1,0 @@
-{
-  "precursors": ["CrO2Cl2", "CH3OH"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The precursors were volatilized in external bubblers at /C020 8C and carried to the reactor by the N2 gas. The rate of the carrier gas flow was 40 standard cubic centimeters per minute (sccm) in each precursor line. Each successive reaction cycle of the deposition process involved an exposure to CrO2Cl2 for 0.2–2 s, N2 purge for 2 s, exposure to CH3OH for 0.5–2 s, and another N2 purge for 2 s."
-}

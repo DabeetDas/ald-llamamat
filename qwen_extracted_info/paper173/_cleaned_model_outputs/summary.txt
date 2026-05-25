@@ -1,8 +1,0 @@
-{
-  "target_material": "NiO",
-  "process_type": "ALD",
-  "main_precursors": ["Ni(dmamb)2", "Ozone"],
-  "temperature_range": "110 8C to 240 8C",
-  "summary": "NiO thin films were synthesized by atomic layer deposition (ALD) using Ni(dmamb)2 and O3 as precursors. The films were analyzed for uniformity, structure, composition, morphology, and homogeneity. The films were polycrystalline with negligible carbon content and showed high uniformity in thickness and composition. The study compared ALD with CVD using the same precursor and demonstrated the advantages of using O3 as an oxidizer for ALD.",
-  "evidence": "NiO thin ﬁlms are deposited by atomic layer deposition (ALD) from the Ni(dmamb) 2 (dmamb ¼ 1-dimethylamino-2-methyl-2butanolate) precursor using O3 as the oxidizer. The ﬁlms are analyzed for wafer uniformity, structure, composition, morphology, microstructure, and homogeneity. The Ni(dmamb) 2 half-cycle shows an initial rapid partial saturation followed by slower further adsorption. By contrast, the O 3 half-cycle shows good saturation behavior. In the studied deposition temperature range for ALD, the ﬁlms are polycrystalline with negligible amounts of carbon in the ﬁlms. Furthermore, the ﬁlms are homogeneous in thickness and composition, demonstrating that high-quality NiO ﬁlms can be deposited by ALD from Ni(dmamb) 2."
-}

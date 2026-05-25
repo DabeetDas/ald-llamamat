@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the dissociative adsorption of O2 on the ruthenium surface, facilitating the oxidative decomposition of RuCp2. The Al2O3 surface contains sufficient hydroxyl groups, promoting the nucleation of ruthenium nanocrystals. Postdeposition annealing at 900 °C leads to the decomposition of RuO2 into pure metallic Ru, minimizing the total surface energy through coalescence and the formation of ball-like nanocrystals.",
-  "intermediate_species": ["RuO2", "pure metallic Ru"],
-  "evidence": "The text states: 'the dissociative adsorption of O2 on the ruthenium surface which facilitates the oxidative decomposition of RuCp2.' It also mentions: 'XPS analyses illustrate that pure metallic ruthenium nanocrystals are formed during the ALD process and whose surfaces are further oxidized into RuO2 while being exposed to air.' Additionally, it notes: 'the decomposition of RuO2 into pure metallic Ru after the PDA.'"
-}<|im_end|>

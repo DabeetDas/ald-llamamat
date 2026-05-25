@@ -1,8 +1,0 @@
-{
-  "target_material": "Si",
-  "process_type": "SR-ALE and SR-CVD",
-  "main_precursors": ["Si2H6"],
-  "temperature_range": "170°C to 590°C",
-  "summary": "The study evaluates Si films grown on Ge(1 0 0) using synchrotron-radiation-excited atomic layer epitaxy (SR-ALE) and chemical vapor deposition (SR-CVD). The morphology of the films changes with temperature, transitioning from two-dimensional (2D) to three-dimensional (3D) growth. The hydrogen-surfactant effect plays a crucial role in maintaining 2D growth at lower temperatures. At higher temperatures, Si atoms interdiffuse into the Ge substrate, but Ge segregation is suppressed by the hydrogen effect. The crystallinity and interface quality are influenced by the growth temperature and the presence of hydrogen.",
-  "evidence": "The morphology of Si films grown on Ge(1 0 0) by synchrotron-radiation-excited atomic layer epitaxy from Si2H6 was found to change from two-dimensional to islands at the threshold temperature for the onset of H2 desorption. In contrast, films grown by synchrotron-radiation-excited chemical vapor deposition with a pressure of 1.3 × 10-3 Torr and at temperatures up to 530°C, were found to be two-dimensional films because of the hydrogen-surfactant effect. The limited thickness of the epitaxial layer before nucleating amorphous was more than 100 A at 230°C. Below 400°C the Si/Ge interface was very abrupt. Above 500°C Si atoms interdiffused significantly into the Ge substrate but the Ge tail in the Si overlayer was sharply cut off."
-}<|im_end|>

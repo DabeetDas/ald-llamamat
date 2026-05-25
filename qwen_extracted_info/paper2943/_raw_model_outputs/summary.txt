@@ -1,8 +1,0 @@
-{
-  "target_material": "La2O3",
-  "process_type": "ALD",
-  "main_precursors": ["La@N(SiMe3)2#3", "water vapor"],
-  "temperature_range": "250°C",
-  "summary": "The paper describes the atomic layer deposition of La2O3 films for high-k gate dielectrics. The films were deposited using La@N(SiMe3)2#3 as the lanthanum precursor and water vapor as the oxygen source. The films exhibited a dielectric constant of 20-23 and a dielectric breakdown field of about 4.2 MV/cm. The electrical properties remained stable even after prolonged ambient exposure.",
-  "evidence": "We have used tris ~bistrimethylsilylamido!-lanthanum La @N(SiMe3)2#3 to achieve atomic layer deposition of La2O3 on a ~100! Si wafer. Dielectric constant values in the range of 20-23, and a dielectric breakdown field of about 4.2 MV/cm were observed. The electrical properties of our structures remain consistent even after prolonged ambient exposure."
-}<|im_end|>

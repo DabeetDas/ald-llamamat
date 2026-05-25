@@ -1,8 +1,0 @@
-{
-  "target_material": "Zn/C0 Sn/C0 O",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["Diethyl zinc (DEZn)", "tin(IV) t-butoxide (Sn(O tBu)4)"],
-  "temperature_range": "120 8C",
-  "summary": "The study evaluates Zn/C0 Sn/C0 O buffer layers deposited by atomic layer deposition (ALD) for CuIn0.5Ga0.5Se2 solar cells. The buffer layers are grown using DEZn and Sn(O tBu)4 precursors at 120 8C. The process allows for tuning the Zn/Sn ratio, and the optimal Sn/(Zn + Sn) ratio is found to be between 0.3 and 0.4, resulting in a maximum conversion efficiency of 13.8%.",
-  "evidence": "The Zn /C0 Sn/C0 O buffer layers were grown by atomic layer deposition (ALD) because of its ability to easily change the Zn /C0 Sn/C0 O composition from ZnO to SnOx. The Zn/C0 Sn/C0 O films are grown at a process temperature of 120 8C on soda lime glass, SLG, and CIGS. The desired Zn/Sn ratio is obtained by controlling the DEZn to Sn(O tBu)4 pulse ratio in the (DEZn/Sn(OtBu)4:N2:H2O:N2) ALD-cycle. The maximum conversion efficiency of 13.8% is reached for a solar cell using the Zn/C0 Sn/C0 O buffer layer which is comparable to the efficiency of 13.5% for a cell using the standard reference CdS buffer layer."
-}

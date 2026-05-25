@@ -1,8 +1,0 @@
-{
-  "target_material": "Tin oxide (SnO_x)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Tributyltin ethoxide", "Ozone"],
-  "temperature_range": "200 °C to 300 °C",
-  "summary": "The study explores the atomic layer deposition (ALD) of tin oxide thin films using tributyltin ethoxide and ozone on an OHT-terminated, SiO2-passivated Si(111) substrate. The process involves ligand exchange reactions, with the formation of carbonate and formate species during ozone pulses. The ALD process is self-limiting, and the films are carbon-free. The growth rate is 0.62 Å per cycle at 225 °C.",
-  "evidence": "The study describes the ALD of tin oxide thin films using tributyltin ethoxide and ozone on an OHT-terminated, SiO2-passivated Si(111) substrate. The process involves ligand exchange reactions, with the formation of carbonate and formate species during ozone pulses. The ALD process is self-limiting, and the films are carbon-free. The growth rate is 0.62 Å per cycle at 225 °C."
-}<|im_end|>

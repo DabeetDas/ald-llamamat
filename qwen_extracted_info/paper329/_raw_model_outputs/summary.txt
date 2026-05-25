@@ -1,8 +1,0 @@
-{
-  "target_material": "Cd1-xMn~Te",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Cd", "Mn", "Te"],
-  "temperature_range": "540 K",
-  "summary": "The study reports on the epitaxial growth of ternary compound semiconductor films of Cd1-xMn~Te with x ~ 0.3 using Atomic Layer Epitaxy (ALE) on CdTe (111)B substrates. The growth process involves alternating pulses of Cd, Mn, and Te, with the vapor pressures of the elements and their evaporation behavior playing a key role in the film formation. The films are grown in ultra high vacuum and show no significant interdiffusion effects, indicating the potential for creating multilayer structures with sharp interfaces.",
-  "evidence": "Atomic Layer Epitaxy (ALE) has been applied for the first time to grow ternary compound semiconductor films, the constituent elements of which do not evaporate congruently. These films are Cd1-xMn~Te wide-gap semi-magnetic semiconductors with x ~ 0.3 deposited onto single crystal CdTe (111)B substrates. The growth parameters and technical details of Cd1-xMn~Te films prepared by the ALE method; the substrate is CdTe (111)B. The most interesting observation made concerns manganese. As illustrated in fig. 3 for the case of Cd0.7Mn0.3Te, both the 2P1/2 and 2P3/2 signals appear as doublets with binding energies of 641.4, 645.6, 652.9 and 658.5 eV. The absence of signals characteristic of metallic Mn suggests that no large clusters of Mn can exist in the film. In summary, it has been shown that thin films of the ternary compound Cd1-xMn~Te with x ~ 0.3 can be grown epitaxially by the ALE method, despite the facts that the constituent elements evaporate incongruently and the lattice constant of the compound decreases rapidly as x is increased."
-}<|im_end|>

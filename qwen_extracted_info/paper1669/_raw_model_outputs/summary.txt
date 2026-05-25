@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["ruthenocene", "oxygen"],
-  "temperature_range": "275 °C to 325 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of ruthenium on different surfaces, including Si-H, SiO2, and HfO2. The process uses ruthenocene and oxygen as precursors, and the growth initiation and nucleation are analyzed using in-situ Auger electron spectroscopy. The results show that the growth rate and nucleation depend on the surface energy and oxygen availability, with HfO2 showing faster growth than SiO2 and Si-H. The study highlights the role of surface oxygen in the nucleation process and the impact of surface properties on film growth.",
-  "evidence": "Growth initiation and film nucleation in atomic layer deposition (ALD) is important for controlling interface composition and achieving atomic-scale films with well-defined composition. Ruthenium ALD is studied here using ruthenocene and oxygen as reactants, and growth initiation and nucleation are characterized on several different growth surfaces, including SiO2, HfO2, and hydrogen terminated silicon, using on-line Auger electron spectroscopy and ex-situ X-ray photoelectron spectroscopy."
-}<|im_end|>

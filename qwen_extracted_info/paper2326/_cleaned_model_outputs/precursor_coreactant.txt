@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylaluminum (TMA)", "hydrogen fluoride (HF)"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The Al2O3 ALD layers grown on the SiO2 nanoparticles were subsequently subjected to alternating exposures of TMA (97%, Sigma-Aldrich) and HF derived from HF-pyridine (70 wt. % HF, Sigma-Aldrich) at various reaction temperatures. A constant flow of 100 sccm of ultra-high purity (UHP) N2 gas was delivered into the reactor during the Al2O3 ALD reactions. The total N2 gas flow resulted in a base pressure of∼1 Torr that was continuously pumped by a mechanical pump."
-}

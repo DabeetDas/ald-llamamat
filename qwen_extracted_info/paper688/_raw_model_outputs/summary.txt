@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2 and ZrO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["HfCl4", "ZrCl4", "H2O"],
-  "temperature_range": "300 8C",
-  "summary": "The study investigates the influence of carrier gas pressure and flow rate on the atomic layer deposition (ALD) of HfO2 and ZrO2 thin films. It demonstrates that increasing carrier gas flow rate and pressure affects the growth rate, film properties, and the formation of metastable phases. The results show that higher carrier gas flow rates lead to lower residual chlorine concentration, higher density, and higher refractive index in the films.",
-  "evidence": "The growth rates of HfO2 and ZrO2 decreased with increasing flow rate and pressure of the N2 carrier gas. Thin films with higher density, higher refractive index and, particularly, lower concentration of residual chlorine were obtained at higher carrier gas flow rates. Increase of the carrier gas flow rate also resulted in a higher concentration of a metastable phase in HfO2 thin films deposited at 300 8C."
-}<|im_end|>

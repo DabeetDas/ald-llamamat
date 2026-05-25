@@ -1,8 +1,0 @@
-{
-  "target_material": "NiO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["bis(dimethylamino-2-methyl-2-butoxo)nickel", "hydrogen peroxide"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit NiO films on n-Si for photoelectrochemical water oxidation. The incorporation of sulfur into the NiO films was found to enhance the charge transfer kinetics and alleviate strain during phase transformation, leading to improved photoelectrochemical performance. The ALD process using Ni(dmamb)2 and H2O2 was employed to grow thin NiO films, and the resulting films showed stable performance under strong alkaline conditions.",
-  "evidence": "Atomic layer deposition (ALD) chemistry using bis(dimethylamino-2-methyl-2-butoxo)nickel and hydrogen peroxide was introduced to grow thin NiO films and was applied to PEC water splitting for the first time. The incorporation of sulfur, S, into NiO films can not only accelerate the initial charge transfer characteristics but also alleviate the film strain by its rapid dissolution during the phase transformation, indicative of prolonged photoelectrochemical (PEC) operation."
-}<|im_end|>

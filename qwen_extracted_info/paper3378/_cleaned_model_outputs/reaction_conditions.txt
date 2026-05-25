@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Self-limiting growth of BaO through surface reactions with H2O, where the growth per cycle (GPC) is constant at 0.45 Å with excellent self-terminating behavior. The process involves precursor dosing, surface reactions, and purge steps to ensure self-limiting growth.",
-  "intermediate_species": ["BaO surface species", "surface hydroxyls", "precursor vapor"],
-  "evidence": "The text discusses the self-limiting nature of BaO deposition using a novel pyrrole-based precursor (py-Ba) and water (H2O) as the co-reactant. It mentions the constant growth per cycle (GPC) at 0.45 Å and the self-terminating behavior, indicating the surface reactions and their self-limiting mechanism. The process involves precursor dosing, surface reactions, and purge steps to ensure self-limiting growth."
-}

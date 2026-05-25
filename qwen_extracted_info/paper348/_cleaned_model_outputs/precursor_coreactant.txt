@@ -1,7 +1,0 @@
-{
-  "precursors": ["ZnCl2"],
-  "coreactants": ["H2S"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "ZnC12 and H2S were used as reactants. Nitrogen at low pressure was used as the carrier gas for the reactants, and to separate the different ALE reaction phases."
-}

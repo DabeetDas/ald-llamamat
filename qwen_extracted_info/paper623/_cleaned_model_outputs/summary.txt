@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN and NbN",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["TiCl4", "NbCl5", "NH3", "Zn"],
-  "temperature_range": "500°C",
-  "summary": "The study investigates the effects of intermediate zinc pulses on the properties of TiN and NbN films deposited by atomic layer epitaxy (ALE). The use of zinc pulses significantly reduces oxygen contamination in TiN films and increases grain size in both TiN and NbN films, leading to improved electrical properties. The films were characterized using various techniques, including time-of-flight elastic recoil detection analysis, secondary ion mass spectrometry, and X-ray diffraction.",
-  "evidence": "The reasons for the improvements gained by using intermediate zinc pulses in atomic layer epitaxy growth of TiN and NbN films were examined by a comprehensive characterization and comparison of films prepared from TiCl4 or NbCl5 and NH3 with and without zinc. The effect of zinc was found to be manifold: both compositional and structural changes were observed. In the case of TiN the major improvement gained by using zinc was significantly decreased oxygen contamination whereas a marked increase of grain size was the dominant effect observed with NbN. A clear correlation between the compositional and structural changes and the improvements of the electrical properties was established."
-}

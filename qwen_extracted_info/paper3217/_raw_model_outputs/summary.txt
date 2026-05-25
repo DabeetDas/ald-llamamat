@@ -1,8 +1,0 @@
-{
-  "target_material": "TaC_x",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["tris(neopentyl) tantalum dichloride", "H2 plasma"],
-  "temperature_range": "300 /C14 C",
-  "summary": "TaC_x films were deposited using plasma-enhanced atomic layer deposition (PEALD) with tris(neopentyl) tantalum dichloride as the precursor and H2 plasma as the reactant. The films were evaluated as a diffusion barrier for Cu interconnects and showed stable performance after annealing at 650 /C14 C for 30 min.",
-  "evidence": "TaCx ﬁlms were deposited by plasma-enhanced atomic layer deposition (PEALD) at a wafer temperature of 300 /C14 C using a novel nitrogen-free Ta precursor, tris(neopentyl) tantalum dichloride, and H2 plasma as the reactant. The results showed that the structure of Cu (100 nm)/ALD-TaC x (15 nm)/Si was stable after annealing at 650 /C14 C for 30 min."
-}<|im_end|>

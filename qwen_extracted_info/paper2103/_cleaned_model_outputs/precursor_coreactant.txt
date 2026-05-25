@@ -1,7 +1,0 @@
-{
-  "precursors": ["Al(CH3)3", "WF6", "Si2H6"],
-  "coreactants": ["H2O", "Si2H6"],
-  "purge_gas": [],
-  "carrier_gas": [],
-  "evidence": "Al2O3 ALD is based on sequential, self-limiting exposures to Al(CH3)3 and H2O:11,13\n/H20849A/H20850AlOH* +A l(CH3)3 → AlOAl(CH3)2* +CH4 , /H208491/H20850\n/H20849B/H20850Al(CH3)* +H 2O → AlOH* +CH4 . /H208492/H20850\nThe W ALD growth rate varies with surface temperature and Si2H6 exposures from 4.5 Å per AB cycle at\n177 ° C to 6.0 Å per AB cycle at 325 ° C. 10,15\nW ALD is based on sequential, self-limiting exposures to WF6 and Si2H6 that are best described as 10,14"
-}

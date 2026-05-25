@@ -1,7 +1,0 @@
-{
-  "precursors": ["[(MeCp)2HfMe(OiPr)]", "[(MeCp)2HfMe(mmp)]"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "The pulse cycle used for ALD was 2s precursor/2s purge/0.5s water/3.5s purge. ... The effect of growth temperature on growth rate of HfO2 by MOCVD and ALD is shown in Figure 2. ... The growth rate of HfO2 using [(MeCp)2HfMe(OiPr)] was significantly higher, increasing steadily up to 400 °C, then increasing dramatically at 450 °C with the onset of thermal decomposition. ... The pulse cycle used for ALD was 2s precursor/2s purge/0.5s water/3.5s purge."
-}

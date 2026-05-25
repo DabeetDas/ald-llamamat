@@ -1,8 +1,0 @@
-{
-  "target_material": "WO3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["(tBuN)2(Me2N)2W", "H2O"],
-  "temperature_range": "250 to 350 8C",
-  "summary": "The study describes the atomic layer deposition (ALD) of tungsten oxide (WO3) using (tBuN)2(Me2N)2W as the tungsten precursor and H2O as the oxygen precursor. The ALD process was optimized to produce high-quality WO3 films with excellent step coverage and conformal coatings. The WO3 films were then coated with an Mn-based catalyst to enhance the stability and efficiency of water splitting under illumination. The ALD process was confirmed to operate in the true ALD regime through the dependence of growth rate on precursor pulse times and substrate temperature. The resulting WO3 films exhibited good crystallinity and were used to create heteronanostructures for solar water splitting applications.",
-  "evidence": "The text states: 'We choose ALD to prepare WO3 because of the following advantages: 1) a high degree of control over the resulting materials; 2) excellent step coverage to yield conformal coatings; and 3) process versatility to tailor the composition of the deposit. WO3 was studied because it is one of the most researched compounds for water splitting. The widely available literature makes it easy to compare our results with existing reports and thus allows us to test the power of the heteronanostructure design. To avoid the production of corrosive byproducts during the ALD process and to ensure the reaction occurs in the true ALD regime, we used (tBuN)2(Me2N)2W as tungsten precursor and H2O as oxygen precursor, as described in the Experimental Section (see Supporting Information for more details).'"
-}

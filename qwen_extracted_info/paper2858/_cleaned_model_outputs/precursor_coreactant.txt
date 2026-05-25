@@ -1,7 +1,0 @@
-{
-  "precursors": ["tetrakisdimethylaminotitanium (TDMAT)", "tetrakisdiethylaminotitanium (TDEAT)"],
-  "coreactants": ["NH3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The precursors, TDMAT and TDEAT, were maintained in an external reservoir at temperatures of 35 and /C14C and introduced into the reactor using Ar carrier gas at flow rates of 15 and 50sccm, respectively. The introduction of TDMAT (or TDEAT), NH3 and purge gases was one basic cycle in this experiment. Ar purge gas was introduced to completely separate the precursor and reactant gases."
-}

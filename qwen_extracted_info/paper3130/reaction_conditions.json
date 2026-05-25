@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The sticking probability is related to the surface coverage by Langmuir’s equation s(θ) = s0(1−θ), where s0 is the initial sticking probability and θ is the surface coverage. This model accounts for the gradual decrease in film thickness as a function of depth in the hole, differing from Gordon et al.'s stepwise profile.",
-  "intermediate_species": [
-    "surface hydroxyls",
-    "adsorbed precursor molecules"
-  ],
-  "evidence": "The sticking probability is related to the surface coverage by Langmuir’s equation s(θ) = s0(1−θ), where s0 is the initial sticking probability and θ is the surface coverage. This model accounts for the gradual decrease in film thickness as a function of depth in the hole, differing from Gordon et al.'s stepwise profile."
-}

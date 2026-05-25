@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 105,
-  "density_g_cm3": null,
-  "refractive_index": "1.64 at 633 nm",
-  "surface_roughness_nm": null,
-  "crystal_phase": "Amorphous",
-  "evidence": "The Zn(O,S) ALD growth and crystal structure resemble those of ZnS up to a 0.6 cycle ratio, at which point XPS indicates 10% oxygen is incorporated into the film. For higher cycle ratios the film structure becomes amorphous, which is confirmed with XRD patterns and also reflected in the optical constants as determined by spectroscopic ellipsometry; in particular, the optical bandgap transforms from direct type for the (cubic) ZnS like phase to a more narrow bandgap with amorphous characteristics, causing bandgap bowing."
-}

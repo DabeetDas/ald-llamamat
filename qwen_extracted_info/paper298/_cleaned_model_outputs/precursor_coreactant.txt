@@ -1,7 +1,0 @@
-{
-  "precursors": ["ZrCl4", "HfCl4", "H2O"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ZrO2 and HfO2 thin films were grown in a low-pressure (250 Pa) flow-type ALD reactor described earlier. We used ZrCl4 and HfCl4 as the metal precursors, and H2O as the oxygen precursor. The transport gas was pure (99.999%) nitrogen. Each cycle included a metal precursor pulse of 2 s, purge time of 1 s, oxygen precursor pulse of 1 s and another purge time of 2 s in duration."
-}

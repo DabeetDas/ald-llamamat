@@ -1,8 +1,0 @@
-{
-  "target_material": "iron oxide",
-  "process_type": "thermal ALD",
-  "main_precursors": ["FeCl3", "H2O"],
-  "temperature_range": "500 °C",
-  "summary": "The study describes the growth of an iron oxide thin film using atomic layer deposition (ALD) for gas-sensing applications. The film was deposited at 500 °C using FeCl3 and H2O as precursors. The film exhibited a granular structure, primarily grown on the glass substrate, leaving the platinum electrodes uncovered. The iron oxide was found to be in the α–Fe2O3 (hematite) phase, with surface iron predominantly in the Fe3+ state and oxygen in two chemical states. The film showed n-type behavior with an activation energy of 0.3–0.5 eV and almost Ohmic I–V characteristics. The gas-sensing behavior was demonstrated with responses to O2 and CO, showing typical n-type behavior.",
-  "evidence": "The iron oxide film was grown with atomic layer deposition (ALD) at 500 °C using FeCl3 and H2O as precursors. The film was characterized with XRD, showing the α–Fe2O3 (hematite) phase. The film had a granular structure and was mainly grown on the glass substrate, leaving the platinum electrodes uncovered. The electric conductivity had an activation energy of 0.3–0.5 eV and almost Ohmic I–V dependency. When exposed to O2 and CO, a typical n-type response was observed."
-}<|im_end|>

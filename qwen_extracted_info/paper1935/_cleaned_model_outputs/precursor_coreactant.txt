@@ -1,7 +1,0 @@
-{
-  "precursors": ["TiCl4", "AlH2(tBuNCH2CH2NMe2)", "AlH2(tBuNCH2CH2NC4H8)"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2", "Ar"],
-  "evidence": "ALD experiments using TiCl4 and AlH2(tBuNCH2CH2NMe2) produced titanium carbonitride films... Nitrogen (>99.999%, Airgas) was used as the carrier gas, and was further purified with an SAES in-line gas purifier. Some experiments used argon as the carrier gas (>99.9997%, Airgas)."
-}

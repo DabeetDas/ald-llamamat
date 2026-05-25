@@ -1,7 +1,0 @@
-{
-  "precursors": ["DMCd", "DETe", "MATe"],
-  "coreactants": [],
-  "purge_gas": ["hydrogen"],
-  "carrier_gas": ["hydrogen"],
-  "evidence": "Dimethylcadmium (DMCd) was used as the Cd source and diethyltelluride (DETe) or methylallyltelluride (MATe) were used as Te precursors. The total hydrogen flow was 4 1/mm, and the reactor diameter was approximately 45 mm, so that it took less than 2 s to flush out the gases in front of the susceptor."
-}

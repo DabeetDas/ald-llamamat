@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the Hf precursor onto the substrate, followed by a self-limiting reaction without gas-phase interactions. The reaction between the Hf precursor and the substrate reaches a self-limiting mode, resulting in a controlled growth rate. The Hf-O bond in Hf/H20849mp/H208504 was more stable than the Hf-N bond in Hf/H20849NEt2/H208504, and the bulky OCMeEt2 ligand in Hf/H20849mp/H208504 was more effective in shielding the Hf atoms than the NEt2 ligand in Hf/H20849NEt2/H208504.",
-  "intermediate_species": ["Hf precursor", "surface hydroxyls", "OCMeEt2 ligand", "NEt2 ligand"],
-  "evidence": "The Hf/H20849mp/H208504 samples had a lower saturated growth rate and wider ALD process temperatures than the Hf/H20849NEt2/H208504 samples. The Hf-O bond in Hf/H20849mp/H208504 was more stable than the Hf-N bond in Hf/H20849NEt2/H208504, and the bulky OCMeEt2 ligand in Hf/H20849mp/H208504 was more effective in shielding the Hf atoms than the NEt2 ligand in Hf/H20849NEt2/H208504."
-}<|im_end|>

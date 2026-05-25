@@ -1,7 +1,0 @@
-{
-  "precursors": ["TiCl4", "Eu(thd)3"],
-  "coreactants": ["H2O", "O3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The precursors used for the Ti –O deposition were TiCl4 and H2O, while Eu(thd)3 (thd ¼ 2,2,6,6-tetramethyl-3,5-heptanedione) and ozone were used for the deposition of Eu –O. Nitrogen was used as carrier and purge gas, and was separated from air in a nitrogen generator (Schmidlin UHPN3001 N2 purifier, >99.999% N2 + Ar purity)."
-}

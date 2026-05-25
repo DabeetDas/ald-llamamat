@@ -1,8 +1,0 @@
-{
-  "target_material": "Er−doped HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["iPrCp3Er", "MeCp2HfMe(OMe)"],
-  "temperature_range": "300 °C (deposition), 400–900 °C (postdeposition annealing)",
-  "summary": "The study investigates the dielectric properties of Er−doped HfO2 films grown by atomic layer deposition (ALD) for high-κ gate stacks. The films are deposited on Si(100) using Er and Hf precursors, with an Er content of 15% achieved by tuning the ALD pulse ratio. The films are annealed at 900 °C, leading to improved dielectric properties, including a higher dielectric constant and reduced leakage currents compared to pure HfO2. The crystallization of the films into the cubic phase and the reduction of microstrain and OH− content contribute to the enhanced performance.",
-  "evidence": "Films were grown in a Savannah 200 ALD reactor at 300 °C on H-terminated n-type Si(100) using iPrCp3Er and MeCp2HfMe(OMe) as Er and Hf sources, respectively, and O3 as the oxygen source. A high temperature postdeposition rapid thermal annealing (RTA) was performed at selected temperatures between 400 and 900 °C. The dielectric constant increased to 33 after RTA at 900 °C due to the increase in the crystallized fraction, the reduction of microstrain and of the OH− content."
-}<|im_end|>

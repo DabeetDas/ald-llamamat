@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["HfCl4", "H2O", "HfI4", "O2"],
-  "temperature_range": "300–600 8C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of HfO2 on silicon substrates using different hafnium precursors (HfCl4 and HfI4) and oxygen precursors (H2O and O2) at temperatures ranging from 300 to 600 8C. It reveals that the HfCl4–H2O process at higher temperatures (450–600 8C) results in non-uniform growth and significant hindrance in the initial stage due to low adsorption probability of HfCl4 on silicon substrates. In contrast, the HfI4–H2O and HfI4–O2 processes allow uniform growth with acceptable rates, leading to smoother, more homogeneous, and denser films. The study also highlights the impact of precursor choice on nucleation and surface structure.",
-  "evidence": "Atomic layer deposition of hafnium dioxide (HfO2) on silicon substrates was studied. It was revealed that due to low adsorption probability of HfCl4 on silicon substrates at higher temperatures (450–600 8C) the growth was non-uniform and markedly hindered in the initial stage of the HfCl4–H2O process. In the HfI4–H2O and HfI4–O2 processes, uniform growth with acceptable rate was obtained from the beginning of deposition. As a result, the HfI4–H2O and HfI4–O2 processes allowed deposition of smoother, more homogeneous and denser films than the HfCl4–H2O process did."
-}

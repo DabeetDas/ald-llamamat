@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO/Al2O3 core/shell nanowires",
-  "process_type": "ALD",
-  "main_precursors": ["Al(CH3)3 (TMA)", "water"],
-  "temperature_range": "150 °C",
-  "summary": "The study investigates the stability of ZnO/Al2O3 core/shell nanowires under electron-beam irradiation in TEM. The ALD-deposited Al2O3 shell was found to reduce the stability of the ZnO core, leading to the formation of nanotubes through local etching. The process is influenced by the defective nature of the ZnO nanowires and the presence of the Al2O3 shell.",
-  "evidence": "ZnO/Al2O3 core/shell nanowires were fabricated by depositing thin Al2O3 layers on the as-synthesized ZnO nanowires at 150 °C by ALD, using Al(CH3)3 (TMA) and water as the aluminum precursor and oxygen reactant source, respectively."
-}<|im_end|>

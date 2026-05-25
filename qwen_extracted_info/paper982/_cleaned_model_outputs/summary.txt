@@ -1,8 +1,0 @@
-{
-  "target_material": "Ga2O3-WO3 heterostructures",
-  "process_type": "thermal ALD",
-  "main_precursors": ["(tBuN)2(Me2N)2W", "Ga(TMHD)3"],
-  "temperature_range": "275°C",
-  "summary": "The study describes the fabrication of ultra-thin Ga2O3-WO3 heterostructures using atomic layer deposition (ALD) for ethanol detection. The heterostructures were deposited on SiO2/Si substrates with a thickness of ~8.0 nm, consisting of a 6.5 nm WO3 layer and a 1.5 nm Ga2O3 layer. The ALD process utilized (tBuN)2(Me2N)2W as the WO3 precursor and Ga(TMHD)3 as the Ga2O3 precursor. The heterostructures demonstrated enhanced gas sensing properties compared to individual WO3 and Ga2O3 nanofilms, with a detection limit of 1.0 ppm for ethanol. The sensors showed improved response, recovery time, and selectivity towards ethanol.",
-  "evidence": "The text states: 'Ga2O3-WO3 heterostructures were developed by two-step ALD process. The thickness of Ga2O3-WO3 heterostructures was ~8.0 nm. The detection limit for ethanol can be as low as 1.0 ppm for Ga2O3-WO3 heterostructures. The results showed that Ga2O3-WO3 heterostructures based gas sensor exhibited about 4 and 10-fold improvement in the response to ethanol compared to that of WO3 and Ga2O3 nanofilms at 275°C.'"
-}

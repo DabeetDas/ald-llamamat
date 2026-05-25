@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2 and Pt",
-  "process_type": "Vapor-phase ALD",
-  "main_precursors": ["octadecyltrichlorosilane (ODTS)", "tridecafluoro-1,1,2,2-tetrahydrooctyltrichlorosilane (FOTS)", "1-octadecene"],
-  "temperature_range": "170 °C for ODTS, 60 °C for FOTS, 180 °C for 1-octadecene",
-  "summary": "This study investigates the use of vapor-phase self-assembled monolayers (SAMs) as resists for area-selective atomic layer deposition (ALD) of HfO2 and Pt. The SAMs are formed from octadecyltrichlorosilane (ODTS), tridecafluoro-1,1,2,2-tetrahydrooctyltrichlorosilane (FOTS), and 1-octadecene on silicon surfaces. The vapor-phase process allows for the formation of high-quality SAMs that effectively block ALD, with the blocking ability improving over time. The study also demonstrates the effectiveness of these vapor-phase SAMs in preventing ALD of both HfO2 and Pt.",
-  "evidence": "The text states that vapor-phase processes provide significant advantages over traditional liquid-phase processes in SAM formation. It also mentions that the vapor-phase delivery of different self-assembled monolayers, including ODTS and FOTS, could form SAMs of sufficiently high quality on SiO2 surfaces to prevent the subsequent ALD of HfO2 and/or Pt. Additionally, the study shows that the vapor-phase SAMs can block both HfO2 and Pt ALD."
-}

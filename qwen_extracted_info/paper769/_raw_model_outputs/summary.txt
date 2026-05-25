@@ -1,8 +1,0 @@
-{
-  "target_material": "Nickel oxide (NiO) and Nickel sulfide (NiS) thin films",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Ni(dmamb)2", "H2O", "H2S"],
-  "temperature_range": "130-150°C for NiO, 80-160°C for NiS",
-  "summary": "The study describes the low-temperature atomic layer deposition (ALD) of nickel oxide (NiO) and nickel sulfide (NiS) thin films using Ni(dmamb)2 as the nickel precursor, with H2O and H2S as oxygen and sulfur sources, respectively. The ALD process demonstrated temperature-independent growth rates for both materials, with NiS showing a lower temperature window. The study also highlights the differences in reactivity between H2O and H2S in the ALD process, supported by density functional theory (DFT) simulations. The material properties of the deposited films were analyzed using various techniques, including XPS, XRD, AFM, and impedance spectroscopy.",
-  "evidence": "Nickel(II) 1-dimethylamino-2-methyl-2-butoxide (Ni(dmamb)2) with water and hydrogen sulfide as oxygen and sulfur sources was employed in atomic layer deposition (ALD) of nickel oxide (NiO) and nickel sulfide (NiS) thin films. Both NiO and NiS thin films demonstrate temperature-independent growth rates per cycle of 0.128 nm/cycle and 0.0765 nm/cycle, at 130-150°C and 80-160°C, respectively. The ALD temperature window with constant growth rate is observed between 130-150°C for nickel oxide, and between 80-160°C for nickel sulfide."
-}<|im_end|>

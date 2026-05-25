@@ -1,7 +1,0 @@
-{
-  "precursors": ["2,4-(dimethylpentadienyl)(ethylcyclopentadienyl) ruthenium (Ru(DER))", "trimethyl(methylcyclopentadienyl) platinum (Pt(MeCp)Me3)"],
-  "coreactants": ["oxygen"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "ALD was performed using alternating exposures to 2,4-(dimethylpentadienyl)(ethylcyclopentadienyl) ruthenium (Ru(DER)) and oxygen for Ru ALD and trimethyl(methylcyclopentadienyl) platinum (Pt(MeCp)Me3) and oxygen for Pt ALD. The ALD noble metal precursors were held in separate heated, stainless steel bubblers... An exposure time of 200 s was used for the noble metal precursors and oxygen and 50 s purge periods were introduced between precursor exposures."
-}

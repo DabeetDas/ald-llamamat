@@ -1,8 +1,0 @@
-{
-  "target_material": "cobalt phosphate and iron phosphate",
-  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
-  "main_precursors": ["trimethylphosphine (TMP)", "oxygen plasma", "Co(Cp)2"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the use of plasma-enhanced atomic layer deposition (PE-ALD) to deposit cobalt and iron phosphate films for electrocatalytic water splitting. The process uses trimethylphosphine (TMP), oxygen plasma, and Co(Cp)2 as precursors. The films are then thermally reduced to form phosphides, which act as bifunctional catalysts for both hydrogen and oxygen evolution reactions. The material shows high catalytic activity and stability in both acidic and alkaline conditions.",
-  "evidence": "A PE-ALD process was developed using the same phosphate source as the reported iron phosphate process but combined with Co(Cp)2 as the cobalt precursor. The process was characterized by running 50-cycle test depositions within a range of substrate temperatures (at constant pulse durations) and with varying pulse durations (at a constant substrate temperature) on silicon substrates. The results show that the process works without O2 plasma but at a much lower GPC of approx. 0.1 nm per cycle compared to the saturated value of 0.8 nm per cycle for the full process. The phosphate starting materials were converted into phosphide catalysts either by thermal annealing or by electrochemical treatment."
-}

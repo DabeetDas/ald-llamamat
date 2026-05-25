@@ -1,8 +1,0 @@
-{
-  "target_material": "aluminum oxide",
-  "process_type": "plasma defect etching",
-  "main_precursors": ["trimethyl aluminum (TMA)", "water", "ozone"],
-  "temperature_range": "220 °C",
-  "summary": "The study investigates the growth of sub-nm aluminum oxide films using atomic layer deposition (ALD) on hydrogen-terminated silicon substrates. The research focuses on the initial growth phase, examining the formation of islands and the transition to a continuous layer. The study uses plasma defect etching (PDE) to visualize the layer continuity by etching silicon through voids and microholes in the aluminum oxide layer. The results show that using water as an oxidation precursor leads to separate islands after five ALD cycles, while ozone promotes a more uniform layer formation. The study also highlights the importance of the initial incubation period and the role of precursor selection in layer growth.",
-  "evidence": "The study investigates the growth of sub-nm aluminum oxide films using atomic layer deposition (ALD) on hydrogen-terminated silicon substrates. The research focuses on the initial growth phase, examining the formation of islands and the transition to a continuous layer. The study uses plasma defect etching (PDE) to visualize the layer continuity by etching silicon through voids and microholes in the aluminum oxide layer. The results show that using water as an oxidation precursor leads to separate islands after five ALD cycles, while ozone promotes a more uniform layer formation. The study also highlights the importance of the initial incubation period and the role of precursor selection in layer growth."
-}

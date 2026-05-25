@@ -1,8 +1,0 @@
-{
-  "target_material": "CdTe/MnTe superlattices",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Cd", "Mn", "Te"],
-  "temperature_range": "280°C",
-  "summary": "The study investigates the growth of CdTe/MnTe superlattices using Atomic Layer Epitaxy (ALE). It compares the structural and optical properties of ALE-grown superlattices with those grown by Molecular Beam Epitaxy (MBE). The research highlights the incorporation of Mn atoms during ALE growth and the resulting effects on interface quality and optical properties.",
-  "evidence": "Atomic layer epitaxy (ALE) is investigated for the growth of CdTe/MnTe superlattices. A systematic structural characterization (X-ray diffraction, transmission electron microscopy), together with a magneto-optical study (reflectivity and photoluminescence), demonstrate that: (i) for MnTe ALE, all deposited Mn atoms are incorporated, so that no autoregulated growth mode can be obtained, in contrast with CdTe ALE, (ii) atomic layer epitaxy allows well-controlled CdTe/MnTe superlattices to be achieved but does not prevent the exchange between Cd and Mn atoms which occurs at the interfaces between CdTe and MnTe, as observed in CdTe/MnTe superlattices grown by conventional molecular beam epitaxy."
-}

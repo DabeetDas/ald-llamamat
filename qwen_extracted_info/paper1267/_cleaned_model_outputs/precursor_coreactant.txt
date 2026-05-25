@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA", "WF6", "Si2H6", "H2O"],
-  "coreactants": [],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The precursors TMA (Aldrich, 99%), deionized H2O, Si2H6 (Voltaix, 99.999%), and WF6 (Aldrich, 99.9%) were used and maintained at room temperature. The ultrahigh purity Ar carrier gas flow was set to 300 sccm, which provided a base pressure of 1.5 Torr in the ALD reaction chamber."
-}

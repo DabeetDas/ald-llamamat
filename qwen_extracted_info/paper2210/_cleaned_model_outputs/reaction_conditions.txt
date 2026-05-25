@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Self-cleaning of the interface during ALD with TMA and H2O precursors, where interfacial oxides are thinned down by reaction with and diffusion into the Al2O3 layer.",
-  "intermediate_species": ["In oxide", "Ga oxide", "As oxide", "OH groups"],
-  "evidence": "Self-cleaning is a reported process whereby interfacial oxides are thinned down by reaction with and diffusion into the Al2O3 layer during ALD with TMA and H2O precursors. ... Deconvolution of O 1 s peaks reveals that this decrease in O content is primarily due to the loss of OH groups. Hydroxyls are known to be commonly incorporated during ALD using H2O as an oxidant."
-}

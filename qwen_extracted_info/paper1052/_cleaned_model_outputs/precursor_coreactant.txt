@@ -1,7 +1,0 @@
-{
-  "precursors": ["Al(CH3)3", "Ta(OC2H5)5", "Zr(N(C2H5)(CH3))4", "Ti(OCH(CH3)2)4"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["N2"],
-  "evidence": "The deposition cycle consisted of four steps: metal precursor pulse, Ar gas purge, oxidant gas pulse and Ar gas purge. For PEALD process, RF power (0.44 W/cm2) was applied to generate plasma between upper electrode and lower substrate holder during the oxidant gas pulse. Both ALD and PEALD processes were performed at 0.4 kPa by using metal precursor (Al(CH3)3, Ta(OC2H5)5, Zr(N(C2H5)(CH3))4 or Ti(OCH(CH3)2)4) and oxidant of H2O vapor or O2/(N2) gas."
-}

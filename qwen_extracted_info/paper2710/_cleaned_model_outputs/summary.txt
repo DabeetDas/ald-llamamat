@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum oxide (Al2O3)",
-  "process_type": "Thermal ALD and plasma-assisted ALD (PEALD)",
-  "main_precursors": ["Aluminum tri-isopropoxide (TIPA)", "Water", "Oxygen plasma", "Water plasma", "Ozone"],
-  "temperature_range": "140 – 300 °C",
-  "summary": "This study investigates the use of aluminum tri-isopropoxide (TIPA) as an alternative precursor for atomic layer deposition (ALD) of aluminum oxide (Al2O3) thin films. The authors explored both thermal and plasma-assisted ALD processes under vacuum and atmospheric pressure conditions. The results show that TIPA can be used as a stable Al source for ALD of Al2O3, with growth rates comparable to those of trimethylaluminum (TMA) and water. The study also highlights the potential of TIPA as a safer and more cost-effective alternative to TMA, particularly for large-scale applications.",
-  "evidence": "The authors have investigated the use of aluminum tri-isopropoxide (TIPA) as an alternative alkoxide precursor for the safe and cost-effective deposition of alumina. In this work, TIPA is used as a stable Al source for atomic layer deposition (ALD) of Al2O3 when different oxidizing agents including water, oxygen plasma, water plasma, and ozone are employed. The authors have explored the deposition of Al2O3 using TIPA in ALD systems operating in vacuum and atmospheric pressure conditions. For thermal and plasma processes in vacuum ALD, a growth rate of 1.1 –2Å /cycle achieved over a range of 140 –300 °C is shown."
-}

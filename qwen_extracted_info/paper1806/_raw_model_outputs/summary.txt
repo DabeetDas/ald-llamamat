@@ -1,8 +1,0 @@
-{
-  "target_material": "tungsten disulphide (WS2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["W(CO)6", "H2S"],
-  "temperature_range": "175–205 °C",
-  "summary": "The study explores the intercalation-based electrochemical storage capacity of ALD-grown WS2 thin films as an anode material for Li-ion batteries. The ALD process uses W(CO)6 and H2S as precursors, and the self-limiting growth behavior is confirmed through in situ QCM, FTIR, and RGA analyses. The as-grown WS2 films are amorphous and show stable cycling performance with high coulombic efficiency (>99%) up to 100 charge-discharge cycles. The introduction of a MWCNT scaffold layer enhances the performance by allowing more active material deposition.",
-  "evidence": "The text states: 'Thin films of tungsten sulphide (WS2) are prepared by atomic layer deposition (ALD) and its intercalation properties as an anode material in Li-ion battery are studied.' It also mentions: 'The ALD reaction mechanism is studied thoroughly with the help of in situ Fourier transform infrared spectroscopy (FTIR) and residual gas analyzer (RGA) analysis.' Additionally, 'The as-grown WS2 is amorphous in nature and characterized in detail by XPS and Raman spectroscopic analysis.'"
-}<|im_end|>

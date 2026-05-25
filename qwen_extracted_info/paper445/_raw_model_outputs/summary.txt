@@ -1,8 +1,0 @@
-{
-  "target_material": "Si",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["SiH4", "SiH4Cl2", "H2"],
-  "temperature_range": "540°C to 650°C",
-  "summary": "The study describes two Atomic Layer Epitaxy (ALE) methods for silicon (Si) deposition. The first method, temperature-modulated ALE (TM-ALE), uses SiH4 as a source gas with temperature modulation to separate adsorption and desorption steps, achieving a thickness of 0.8 ML/cycle. The second method, atomic H-assisted ALE (AH-ALE), uses atomic H as an active reducer, achieving ideal monolayer growth at 540°C. The results show that the use of atomic H significantly lowers the temperature requirement compared to molecular H.",
-  "evidence": "In the first method, H atoms are used as self-limiting species over the grown layer. Si,H, was used as source gas and the substrate temperature was modulated in order to switch two steps, i.e. an adsorption step and a desorption step, in an ALE cycle. When the temperature was lower than 380°C in the adsorption step and higher than 520°C in the desorption step, the grown layer thickness per cycle was saturated at 0.8 ML/cycle. In the second method, atomic H is used as an active reducer of the self-limiting species. SiH,CI, as source gas and atomic H were irradiated to the surface, alternately. An ideal monolayer growth per cycle was obtained with the substrate temperature over 540°C."
-}<|im_end|>

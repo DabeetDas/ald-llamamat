@@ -1,7 +1,0 @@
-{
-  "precursors": ["cobaltocene (CoCp2)", "trimethyl phosphate (TMP)"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["Argon (Ar)"],
-  "carrier_gas": ["Argon (Ar)"],
-  "evidence": "Cobaltocene (CoCp2) and trimethyl phosphate (TMP) were selected as precursors for the process. Argon gas (>99.999% purity) was used to carry CoCp2 vapor from the container to the reactor through a line heated to 100 °C. TMP was vapor drawn to the chamber, heating its container to 50 °C and the line to the reactor to 70 °C."
-}

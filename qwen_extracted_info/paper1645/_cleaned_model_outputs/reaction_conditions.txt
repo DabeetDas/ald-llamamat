@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the adsorption of pyridine on Brønsted acid sites, leading to the formation of pyridinium ions. The presence of Brønsted acid sites is associated with chlorine or carbonyl impurities, and these sites are identified through vibrational modes observed in DRIFTS and Raman spectroscopy.",
-  "intermediate_species": ["pyridinium ions", "silanol groups", "Ti-OH groups", "carbonyl impurities"],
-  "evidence": "The text states that 'the observed edge energies, Eg, reported in Table 1 were also generally consistent with titania loading. The 4TS-150C sample calcined at 500 °C showed a blue shift (Eg) 3.87 eV), which is most likely due to partial dehydration. 12' and 'the bands at 1538 and 1637 cm-1 due to pyridinium ions disappeared together with the carbonyl bands after calcination at 500 °C in oxygen (Figure 5d). These results indicate that the Brønsted acid sites on all of TiO2/SiO2 samples are related to chlorine or carbonyl impurities and not to the intrinsic Ti-O-Si interface.'"
-}

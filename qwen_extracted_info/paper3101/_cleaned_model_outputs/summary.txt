@@ -1,8 +1,0 @@
-{
-  "target_material": "HfLaOx",
-  "process_type": "ALD",
-  "main_precursors": ["La(iPrCp)3", "Hf(NEtMe)4", "H2O"],
-  "temperature_range": "280-480°C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of HfLaOx using La(iPrCp)3 and Hf(NEtMe)4 precursors with H2O as the oxidant. The process shows enhanced deposition rates and self-limiting properties compared to La2O3. The material exhibits excellent electrical properties, including low leakage current and high breakdown field, even after high-temperature annealing up to 1050°C. The energy band structure and composition ratio of HfLaOx are analyzed, showing linear changes in bandgap and band offsets with La percentage.",
-  "evidence": "The ALD process of HfLaOx is described using La(iPrCp)3 and Hf(NEtMe)4 precursors with H2O. The deposition rates of La2O3 and HfLaOx are studied, and the mechanism behind the enhanced deposition rate is discussed. The material shows excellent electrical properties with low leakage current and high breakdown field after annealing up to 1050°C. The energy band structure and composition ratio are analyzed, showing linear changes in bandgap and band offsets with La percentage."
-}

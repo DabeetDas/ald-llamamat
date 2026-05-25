@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium phosphate",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PE-ALD)",
-  "main_precursors": ["Trimethyl phosphate (TMP)", "O2", "Titanium isopropoxide (TTIP)"],
-  "temperature_range": "300 ◦C",
-  "summary": "Titanium phosphate thin films were deposited using a plasma-enhanced atomic layer deposition (PE-ALD) process with trimethyl phosphate (TMP), O2 plasma, and titanium isopropoxide (TTIP) vapor. The process was characterized by in-situ spectroscopic ellipsometry and ex-situ X-ray reflectometry. The films showed linear growth with a growth per cycle (GPC) of 0.66 nm/cycle at 300 ◦C. The as-deposited films were amorphous and could be crystallized to TiP2O7 upon annealing. The material exhibited electrochemical activity for lithium-ion insertion/extraction around 2.7 V vs. Li/Li+.",
-  "evidence": "Titanium phosphate thin films were deposited by a new plasma-enhanced atomic layer deposition process. The process consisted of sequential exposures to trimethyl phosphate (TMP) plasma, O2 plasma and titanium isopropoxide (TTIP) vapor. At a substrate temperature of 300 ◦C and using saturated pulse times, linear growth with a GPC of 0.66 nm/cycle and without nucleation delay was achieved. The as-deposited films were amorphous, while crystalline TiP2O7 was formed upon annealing in air or helium atmospheres. In lithium-ion test cells, the as-deposited films showed insertion and extraction of Li+ around a potential of 2.7 V vs. Li/Li+."
-}

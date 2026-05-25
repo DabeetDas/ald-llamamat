@@ -1,8 +1,0 @@
-{
-  "target_material": "Palladium oxide, palladium, rhodium, platinum",
-  "process_type": "Ozone-based ALD (thermal ALD and PEALD)",
-  "main_precursors": ["Pd(thd)2", "Rh(acac)3", "Pt(acac)2", "ozone", "molecular hydrogen"],
-  "temperature_range": "120–160 °C",
-  "summary": "This study demonstrates the use of ozone-based atomic layer deposition (ALD) for the low-temperature growth of noble metal oxides and metals. The process involves consecutive ozone and molecular hydrogen pulses with noble metal precursors to deposit palladium oxide, rhodium, and platinum at temperatures below 200 °C. The results show that the ozone-based chemistry allows for lower deposition temperatures compared to traditional oxygen-based processes while maintaining good film properties such as resistivity, surface roughness, and adhesion to the underlying Al2O3 substrate.",
-  "evidence": "The study introduces the concept of using consecutive ozone and molecular hydrogen pulses with noble metal precursors in ALD for palladium, rhodium, and platinum. This approach facilitates the growth of noble metal thin films below 200 °C. The growth rates, resistivities, crystallinities, surface roughnesses, impurity contents, and adhesion of the films to the underlying Al2O3 starting surface are reported and the results are compared with the most common noble metal ALD processes."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Fe2O3 and Fe3O4",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Water", "Fe2(OtBu)6"],
-  "temperature_range": "130-170 °C",
-  "summary": "The study describes the fabrication of iron oxide nanotubes using atomic layer deposition (ALD) on ordered porous substrates, resulting in arrays of smooth tubes with controlled geometry and tunable magnetic properties. The process involves the use of water and Fe2(OtBu)6 as precursors, with a temperature range of 130-170 °C. The ALD process enables the creation of Fe2O3 nanotubes, which can be further reduced to Fe3O4 nanotubes. The study highlights the importance of ALD in achieving well-controlled nanostructures for magnetic applications.",
-  "evidence": "Water and the homoleptic dinuclear iron(III) tert-butoxide complex, Fe2(OtBu)6, were used for ALD of Fe2O3. When the Fe2(OtBu)6 precursor was heated to 100 °C, a temperature window was found between 130 and 170 °C in which the solid deposits in amounts proportional to the number of reaction cycles. The results are unaffected by preliminary and/or subsequent ALD of ZrO2 or TiO2, which can be used to facilitate the preparation of samples for electron microscopy. Reduction of the Fe2O3 nanotubes in the Al2O3 matrix by 5% H2/95% Ar at 400 °C converts Fe2O3 to Fe3O4."
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the deposition of Al2O3 and AlWxHy using TMA and H2O or WF6, with the surface reactions being influenced by the electronic properties of the coating materials. The Al2O3 coating is more insulating, leading to higher overpotentials during lithium insertion, while AlWxHy coatings show lower overpotentials due to their higher electronic conductivity.",
-  "intermediate_species": ["Al-OH*", "surface hydroxyls", "formate species"],
-  "evidence": "The text discusses the ALD process for Al2O3 and AlWxHy coatings, noting that Al2O3 is more insulating and leads to higher overpotentials during lithium insertion, while AlWxHy coatings show lower overpotentials due to their higher electronic conductivity. It also mentions the presence of surface hydroxyls and formate species in the context of ALD reactions."
-}<|im_end|>

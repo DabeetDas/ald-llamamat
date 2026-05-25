@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the hydroxyl group-controlled atomic layer deposition (ALD) of hafnium dioxide (HfO2) using hafnium tetrachloride (HfCl4) and water (H2O) as precursors. The research focuses on understanding the growth mechanisms and the effects of substrate interactions on the ALD process, particularly the phenomenon of substrate-inhibited (SI) ALD growth. The study compares two models (Model A and Model B) to explain the growth-per-cycle (GPC) behavior and the role of surface hydroxyl groups in the ALD process.",
-  "evidence": "The text discusses the ALD process of hafnium dioxide using hafnium tetrachloride and water as precursors at 300 °C. It also describes the use of two models (Model A and Model B) to analyze the growth-per-cycle behavior and the role of surface hydroxyl groups in the ALD process."
-}<|im_end|>

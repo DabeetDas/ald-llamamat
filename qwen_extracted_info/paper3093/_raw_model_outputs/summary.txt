@@ -1,8 +1,0 @@
-{
-  "target_material": "Y2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tris(ethylcyclopentadienyl) yttrium", "water vapor"],
-  "temperature_range": "250–285°C",
-  "summary": "The study describes the atomic layer deposition (ALD) of Y2O3 films on silicon using tris(ethylcyclopentadienyl) yttrium as a precursor and water vapor as an oxidizer. The process was optimized to achieve a growth rate of 1.7 ± 0.1 Å/cycle at optimal conditions. The films were found to be stoichiometric, with low carbon contamination and good crystallinity. The ALD temperature window was identified as 250–285°C, where the growth rate was constant and the films showed uniform thickness.",
-  "evidence": "Yttrium oxide films are deposited on silicon using a new precursor, tris(ethylcyclopentadienyl) yttrium with water vapor as the oxidizer, by means of atomic layer deposition. The film growth kinetics has been examined under different reactor conditions, and growth saturation is evident from precursor dosage dependence. The film thickness increases linearly with the number of deposition cycles, yielding a growth rate of 1.7 ± 0.1 Å/cycle at optimal ALD conditions. Increasing the reactor temperature from 200 to 400°C shows gradual increase in growth rate, with a narrow temperature plateau in the range of 250–285°C. X-ray photoelectron spectral analysis of Y2O3 films indicates the film to be stoichiometric with no evidence of carbon contamination, whereas glancing incidence X-ray diffraction data of as-deposited Y2O3 suggests the film structure to be polycrystalline."
-}<|im_end|>

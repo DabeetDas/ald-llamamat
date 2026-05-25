@@ -1,8 +1,0 @@
-{
-  "target_material": "TeO2-core/SnO2-sheath nanowires",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["SnCl4", "H2O"],
-  "temperature_range": "350 1C",
-  "summary": "TeO2-core/SnO2-sheath nanowires were synthesized using a two-step process involving thermal evaporation of Te powders and atomic layer deposition (ALD) of SnO2. The ALD process used SnCl4 as the Sn precursor and H2O as the oxidant. The nanowires showed enhanced blue emission after annealing in a reducing atmosphere, attributed to increased O vacancy and Sn interstitial concentrations in the cores.",
-  "evidence": "The blue emission of the TeO2 nanowires is slightly enhanced in intensity by sheathing them with SnO2 and further enhanced by thermal annealing in a reducing atmosphere. Energy-dispersive X-ray spectroscopy concentration profiles suggest that the enhancement in the blue emission is attributed to the increases in both the O vacancy and Sn interstitial concentrations in the cores during the annealing process."
-}<|im_end|>

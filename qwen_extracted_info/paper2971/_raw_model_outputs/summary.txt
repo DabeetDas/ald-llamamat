@@ -1,8 +1,0 @@
-{
-  "target_material": "Molybdenum nitride (MoNx)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Molybdenum pentachloride (MoCl5)", "Ammonia (NH3)"],
-  "temperature_range": "350-500°C",
-  "summary": "Molybdenum nitride thin films were deposited using atomic layer deposition (ALD) with molybdenum pentachloride and ammonia as precursors within a temperature range of 350-500°C. The films were characterized for their diffusion barrier properties against copper diffusion in microelectronic devices. The study focused on the effect of deposition temperature on the properties of MoNx films, particularly their performance as diffusion barriers.",
-  "evidence": "Molybdenum nitride thin films were deposited by the atomic layer deposition technique within a temperature range of 350-500°C from molybdenum pentachloride and ammonia. The diffusion barrier properties were studied from approximately 10 nm thick MoNx films deposited at 350, 400, and 500°C. Molybdenum nitride showed to be a promising diffusion barrier material."
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD of ZrO2 and HfO2 from cyclopentadienyl and ozone precursors involve the formation of surface hydroxyl groups and the subsequent reaction with the metal precursors. The text mentions that the films grown from CpMe2ZrMe2 precursor showed better stability and lower leakage currents, suggesting a more favorable surface reaction mechanism. The interfacial layer formed is likely silicon oxide due to the strong oxidizing capability of ozone.",
-  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum", "formate species"],
-  "evidence": "The text states that the interfacial layer is probably silicon oxide, formed due to the strong oxidizing capability of ozone used as the oxygen precursor. It also mentions that the films grown from CpMe2ZrMe2 precursor showed better stability and lower leakage currents, suggesting a more favorable surface reaction mechanism. The formation of surface hydroxyl groups and their reaction with the metal precursors is implied by the discussion on the interfacial layer and the precursor chemistry."
-}<|im_end|>

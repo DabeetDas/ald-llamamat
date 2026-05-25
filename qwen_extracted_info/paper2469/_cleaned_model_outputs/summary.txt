@@ -1,8 +1,0 @@
-{
-  "target_material": "Hafnia (HfO2)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Hafnium tetrachloride (HfCl4)", "Water (H2O)"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the structural and electronic properties of hafnia thin films deposited via atomic layer deposition (ALD) using hafnium tetrachloride and water at 300 °C. The films exhibit different crystalline phases and textures depending on their thickness, with polycrystalline monoclinic and tetragonal phases observed. The research combines experimental techniques like transmission electron microscopy (TEM), electron diffraction, and X-ray diffraction with theoretical density-functional theory (DFT) calculations to understand the microstructure and surface properties of the films.",
-  "evidence": "The text states: 'HfO2 films are formed via ALD using hafnium tetrachloride and water at 300 °C as reported previously.' It also mentions: 'Films thicker than 25 nm are purely monoclinic with /H208491¯11/H20850 and /H20849111/H20850 textures.' Additionally, it notes: 'The first study on ALD HfO2 for gate dielectric applications was performed on films deposited using hafnium tetrachloride HfCl4 and water H2O.'"
-}

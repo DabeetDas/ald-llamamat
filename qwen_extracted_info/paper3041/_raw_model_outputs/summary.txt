@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3 and HfO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Trimethylaluminum (TMA)", "Water", "Tetrakis(ethylmethylamido)hafnium (TEMAH)"],
-  "temperature_range": "50–100°C for initial growth, 300°C for post-growth annealing",
-  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to grow high-permittivity dielectrics (Al2O3 and HfO2) on hydrogen-terminated silicon (H/Si) substrates at low temperatures to prevent interfacial silicon oxidation. The process involves two steps: initial low-temperature ALD to form a thin oxide layer, followed by higher-temperature ALD to improve film quality. The hydrogen layer on silicon acts as a barrier against oxidation, and the study shows that this approach results in reduced interfacial SiO2 formation and improved electrical properties.",
-  "evidence": "Growth at moderate temperatures, below 110°C, is shown to prevent interfacial silicon oxidation during atomic layer deposition of high-permittivity gate dielectrics on hydrogen-terminated Si. Trimethylaluminum, employed for aluminum oxide growth, leaves the hydrogen layer completely intact. Tetrakis(ethylmethylamido)hafnium partially scavenges the hydrogen layer during hafnium oxide nucleation, resulting in an interface composed of H-terminated silicon atoms and Si–O–Hf bridges. Once grown at low temperatures, subnanometer Al2O3 layers effectively prevent interfacial SiO2 formation during subsequent growth at higher temperatures required for optimum high-quality. This two-step deposition scheme may thereby be useful for gate-stack scaling."
-}<|im_end|>

@@ -1,7 +1,0 @@
-{
-  "precursors": ["AlMe3", "PO(OMe)3"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "The AlxPOy films were deposited by atomic layer deposition (ALD) between 25 and 300 °C using super-cycles consisting of (i) PO(OMe)3 dosing combined with O2 plasma exposure and (ii) AlMe3 dosing followed by O2 plasma exposure."
-}

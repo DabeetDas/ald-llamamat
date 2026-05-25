@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium (Ru) nanoparticles",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["2,4-(dimethylpentadienyl)-(ethylcyclopentadienyl)Ru", "oxygen"],
-  "temperature_range": "250 /C176C",
-  "summary": "The study describes the atomic layer deposition (ALD) of ruthenium nanoparticles within a low-density dielectric template. The process involves using a porous dielectric with hydrophobic properties as a template, where UV-O3 treatment modifies the pore size and surface chemistry to facilitate Ru nanoparticle nucleation and growth. The Ru nanoparticles formed have a diameter of approximately 2.8 (0.45 nm) and are dispersed within the template structure.",
-  "evidence": "The formation of Ru nanoparticles was performed on a showerhead type thermal ALD system using 2,4-(dimethylpentadienyl)-(ethylcyclopentadienyl)Ru as the metal precursor and oxygen as a reactant at a substrate temperature of 250 /C176C. The study also mentions that hydroxyl groups present on the inner surface of the pores of the porous dielectrics remained at the process temperature (250 /C176C) due to strong hydrogen bonding and acted as viable nucleation sites for Ru-ALD."
-}<|im_end|>

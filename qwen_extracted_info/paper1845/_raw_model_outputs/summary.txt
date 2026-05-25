@@ -1,8 +1,0 @@
-{
-  "target_material": "Platinum (Pt)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["(methylcyclopentadienyl)trimethylplatinum (MeCpPtMe3)", "O2 gas"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of platinum (Pt) on silicon dioxide (SiO2) substrates using in situ X-ray fluorescence (XRF) and grazing incidence small-angle X-ray scattering (GISAXS). The process involves the thermal ALD of Pt using (methylcyclopentadienyl)trimethylplatinum (MeCpPtMe3) and O2 gas at 300 °C. The research focuses on understanding the nucleation and growth behavior of Pt nanoparticles, including the influence of precursor dosing on particle morphology and the role of surface diffusion in particle coalescence. The study highlights the importance of surface mobility and the transition from nucleation to coalescence during the ALD process.",
-  "evidence": "The text states: 'We present an in situ investigation of Pt ALD on planar Si substrates, with native SiO2, by means of X-ray fluorescence (XRF) and grazing incidence small-angle X-ray scattering (GISAXS), using a custom-built synchrotron-compatible high-vacuum ALD setup and focusing on the thermal Pt ALD process, comprising (methylcyclopentadienyl)trimethylplatinum (MeCpPtMe3) and O2 gas at 300 °C.'"
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process used diethyl zinc (DEZn) and deionized water (H2O) as precursors for the formation of the ZnO shell. The ALD technique involves sequential pulses of precursors followed by gas-phase purging, ensuring surface reactions without gas-phase interactions.",
-  "intermediate_species": ["ZnO crystallites"],
-  "evidence": "The ALD technique is a self-limiting growth process that is widely used for many different applications. During the ALD process the target samples are exposed to sequential, separate pulses of precursors in a gas phase. Each cycle of a precursor’s dose is separated by a neutral gas purging the growth chamber. Thus, precursors react only at the substrate’s surface and never meet in a gas phase, allowing very reactive ones to be used."
-}<|im_end|>

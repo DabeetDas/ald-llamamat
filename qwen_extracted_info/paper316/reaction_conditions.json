@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": [
-    "surface hydroxyls",
-    "formate species"
-  ],
-  "evidence": "In the main part of Fig. 2, the arrows are corresponding to the on-set of self-limiting growth. Since both NPG and TMGa decompose by a homolytic reaction, rather than by beta-elimination, this is evidence that organic radicals on the surface are necessary for self-limiting growth by ALE. Note that self-limiting behavior is not seen when triethylgallium, which is known to decompose via beta-elimination, is used for the group V pulse."
-}

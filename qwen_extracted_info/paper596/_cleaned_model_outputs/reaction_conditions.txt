@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "During an ideal ALD process the TMA reacts with OH-groups, bonded to the surface. In doing so, it looses one to two methylgroups, the remaining methylgroups serve as a reactant for the exchange reaction with the oxidation gas (H2O or O3). This gas separates the methylgroups from the aluminum and oxidizes the latter.",
-  "intermediate_species": ["methylgroups"],
-  "evidence": "During an ideal ALD process the TMA reacts with OH-groups, bonded to the surface. In doing so, it looses one to two methylgroups, the remaining methylgroups serve as a reactant for the exchange reaction with the oxidation gas (H2O or O3). This gas separates the methylgroups from the aluminum and oxidizes the latter."
-}

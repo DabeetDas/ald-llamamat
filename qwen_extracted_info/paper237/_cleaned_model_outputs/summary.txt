@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Diethylzinc (DEZn)", "H2O"],
-  "temperature_range": "150 ◦C",
-  "summary": "The study investigates the growth of ZnO channel layers using atomic layer deposition (ALD) on SiO2/p-Si substrates. The effects of channel thickness and thermal annealing on the electrical properties of the ZnO layers are evaluated. The ALD process results in polycrystalline ZnO films with low surface roughness and uniform thickness. The electrical properties, such as resistivity and carrier density, are significantly influenced by the film thickness and thermal treatment. The optimal channel thickness for good TFT performance is found to be 17 nm without thermal annealing, while thermal annealing at 300 ◦C further modifies the carrier density and electrical characteristics.",
-  "evidence": "The ZnO active layers for the oxide TFT devices were grown on SiO2 (200 nm)/p-Si substrates by ALD using Diethylzinc (DEZn) and H2O as the reagents. The thickness of the active layer was controlled by changing the number of cycles at a working temperature of 150 ◦C. The electrical properties of the as-grown and thermally annealed films were characterized by Hall effect measurements. The TFT with the 17 nm thick as-grown channel layer showed a saturation mobility of 1.7 cm2V−1s−1 and an on/off ratio of 3 × 106, while the annealed TFT had a saturation mobility of 1.3 cm2V−1s−1 and an on/off ratio of 9 × 105. The ALD-grown ZnO layers showed reduced electrical resistivity and carrier density after thermal treatment in oxygen."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "SnO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["SnCl4", "H2O"],
-  "temperature_range": "300–450 oC",
-  "summary": "The study investigates the influence of deposition temperature on the properties of SnO2 thin films grown by atomic layer deposition (ALD) using SnCl4 and H2O as reactants. The growth rate, crystallinity, resistivity, carrier concentration, carrier mobility, and visible light transmittance of the films were analyzed. The growth rate increased with temperature up to 400 oC, then decreased at 450 oC. The crystallinity and grain size improved with higher temperatures, while resistivity decreased at 450 oC due to reduced oxygen vacancies. The transmittance remained above 80% in the visible range and was independent of deposition temperature.",
-  "evidence": "In this study, we report on the influence of deposition temperature on the properties of SnO2 thin films grown by atomic layer deposition (ALD) at temperatures between 300 and 450 oC with SnCl4 and H2O as the reactants. The growth rate increased with the increase of deposition temperature at temperatures between 300 and 400 oC, but it became downturned at temperatures beyond 400 oC. The XRD diffraction patterns demonstrated that the as-deposited films were tetragonal rutile SnO2. The resistivity reduced to 60 mȍ-cm at 450 oC. The transmittance of the films was nearly identical for all samples, and the transmittance of the SnO2 film is not related to its film resistivity."
-}

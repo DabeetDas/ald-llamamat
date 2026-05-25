@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "H2O", "O3"],
-  "temperature_range": "250 °C",
-  "summary": "The study investigates the interfacial layer development between thin Al2O3 films grown using atomic layer deposition (ALD) and semiconductor substrates such as Si(100), Ge(100), and GaAs(100). The research focuses on the effects of different oxygen sources (H2O and O3) on interfacial layer formation during ALD growth. The results indicate that no clear interfacial layer is formed between Al2O3 films and the semiconductor substrates when using either H2O or O3 as oxygen sources.",
-  "evidence": "The study investigates the interfacial layer development between thin Al2O3 films grown using atomic layer deposition (ALD) and semiconductor substrates such as Si(100), Ge(100), and GaAs(100). The research focuses on the effects of different oxygen sources (H2O and O3) on interfacial layer formation during ALD growth. The results indicate that no clear interfacial layer is formed between Al2O3 films and the semiconductor substrates when using either H2O or O3 as oxygen sources."
-}

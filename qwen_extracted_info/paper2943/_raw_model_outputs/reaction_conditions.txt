@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves sequential surface half-reactions where the precursor La@N(SiMe3)2#3 is pulsed into the reactor, followed by a nitrogen purge, then a water pulse and another nitrogen purge. The reaction mechanism involves the surface reaction of the precursor with water to form La2O3.",
-  "intermediate_species": ["La@N(SiMe3)2#3", "surface hydroxyls"],
-  "evidence": "The substrates were dipped into 10% HF before they were loaded into the ALD reactor. The metal oxide precursors were La@N(SiMe3)2#3 and water vapor, which served as the oxygen source. A typical ALD sequence proceeded by repeating a growth cycle several times, once the process parameters such as source and growth temperatures and pulse widths were optimized. One deposition cycle consisted of 0.8 s pulse of La@N(SiMe3)2#3 , followed by 1 s N2 purge pulse (to remove excess precursor molecules and by-products), then a 0.8 s water pulse, and finally another 1 s N2 purge pulse."
-}<|im_end|>

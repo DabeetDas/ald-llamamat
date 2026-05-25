@@ -1,8 +1,0 @@
-{
-  "target_material": "Pb–Ti–O",
-  "process_type": "Liquid-Injection ALD",
-  "main_precursors": ["Ti/H20849Oi–Pr/H208502/H20849DPM/H208502", "Pb/H20849TMOD/H208502"],
-  "temperature_range": "240°C to 300°C",
-  "summary": "The study describes the deposition of Pb–Ti–O films using liquid-injection atomic layer deposition (ALD) with Ti and Pb precursors. The process involves evaluating Ti precursors with different ligand structures and selecting Ti/H20849Oi–Pr/H208502/H20849DPM/H208502 for its high precursor efficiency and low temperature dependence. The deposition rates of Pb and Ti in the Pb–Ti–O process were higher than in binary processes, and the interface chemistry between precursors and predeposited cation layers significantly impacts the self-regulated growth mechanism.",
-  "evidence": "Pb–Ti–O films were prepared using Ti /H20849Oi–Pr/H208502/H20849DPM/H208502 and Pb/H20849TMOD/H208502 at deposition temperatures of 240 and 300°C. The deposition rates of Pb and Ti in the Pb–Ti–O process were higher than those in binary PbO and TiOx processes under the same deposition conditions. The interface chemistry between the precursors and predeposited cation layers has critical impact on the self-regulated growth mechanism in the multicomponent oxide ALD."
-}<|im_end|>

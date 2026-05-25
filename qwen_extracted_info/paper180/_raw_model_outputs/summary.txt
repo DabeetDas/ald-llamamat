@@ -1,8 +1,0 @@
-{
-  "target_material": "W:Al2O3 nanocomposite films",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tungsten hexafluoride (WF6)", "disilane (Si2H6)", "trimethyl aluminum (TMA)", "H2O"],
-  "temperature_range": "200°C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of W:Al2O3 nanocomposite films using tungsten hexafluoride (WF6) and disilane (Si2H6) for W ALD and trimethyl aluminum (TMA) and H2O for Al2O3 ALD. The films were found to have tunable resistivity, with resistivity values ranging from 10^12 to 10^8 V cm by adjusting the W cycle percentage between 10% and 30%. The films were uniform in composition and contained Al, O, and metallic W, along with significant F and C. Cross-sectional TEM revealed the composite film structure to be metallic nanoparticles embedded in an amorphous matrix. The films have applications in electron multipliers and electron and ion optics.",
-  "evidence": "Nanocomposite tungsten-aluminum oxide (W:Al2O3) thin films were prepared by atomic layer deposition (ALD) using tungsten hexafluoride (WF6) and disilane (Si2H6) for the W ALD and trimethyl aluminum (TMA) and H2O for the Al2O3 ALD. The resistivity of these composite films could be tuned in the range of 10^12–10^8 V cm by adjusting the W cycle percentage between 10% and 30%W. These films have applications in electron multipliers as well as electron and ion optics."
-}<|im_end|>

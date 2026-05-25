@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Metalorganic Molecular Beam Epitaxy (MOMBE)",
-  "main_precursors": ["trimethylgallium (TMGa)", "arsine (AsH3)", "triethylgallium (TEGa)", "Ga metal"],
-  "temperature_range": "400°C to 470°C",
-  "summary": "The study investigates the self-limiting growth mechanism of GaAs using atomic layer epitaxy (ALE) through Metalorganic Molecular Beam Epitaxy (MOMBE). It was found that TMGa and TEGa molecules do not decompose to Ga atoms and that excess TMGa desorbs after supply is stopped, leading to monolayer growth. The growth rate is limited by the adsorption of TMGa and AsH3 on the GaAs surface, with the process showing self-limiting behavior due to the re-evaporation of excess TMGa.",
-  "evidence": "It was found that TMGa and TEGa molecules do not decompose to Ga atoms, and that the TMGa in excess of 1 ML on the GaAs substrate is desorbed immediately after TMGa supply is stopped. Therefore, it is considered that self-limiting monolayer growth is a result of the re-evaporation of the excess TMGa adsorbed on the substrate."
-}

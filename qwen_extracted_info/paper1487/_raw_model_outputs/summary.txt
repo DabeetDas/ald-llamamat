@@ -1,8 +1,0 @@
-{
-  "target_material": "GeTe2(Sb2Te3)x",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["[(CH3)3Si]2Te", "Ge(OCH3)4", "Sb(OC2H5)3"],
-  "temperature_range": "70 °C",
-  "summary": "The study describes the thermal ALD of GeTe2(Sb2Te3)x layers using silyl-Te and alkoxy-Ge and alkoxy-Sb precursors. The process enables conformal growth of pseudobinary solid solutions with composition (GeTe2)(1−x)(Sb2Te3)x, showing reliable phase change and resistance switching behavior, slightly better than the standard Ge2Sb2Te5 material in the nanoscale.",
-  "evidence": "Atomic layer deposition (ALD) at low temperatures is the most preferred growth method for depositing such complex materials over surfaces possessing extreme topology. In this study, [(CH3)3Si]2Te and stable alkoxy-Ge (Ge(OCH3)4) and alkoxy-Sb (Sb(OC2H5)3) metal-organic precursors were used to deposit various layers with compositions lying on the GeTe2−Sb2Te3 tie lines at a substrate temperature as low as 70 °C using a thermal ALD process. This chemistry-specific ALD process was quite robust against process variations, allowing highly conformal, smooth, and reproducible film growth over a contact hole structure with an extreme geometry. The new composition material showed reliable phase change and accompanying resistance switching behavior, which were slightly better than the standard Ge2Sb2Te5 material in the nanoscale."
-}<|im_end|>

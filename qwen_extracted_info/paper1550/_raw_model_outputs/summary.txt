@@ -1,8 +1,0 @@
-{
-  "target_material": "MgO",
-  "process_type": "ALD",
-  "main_precursors": ["[Mg2(thd)4]", "H2O2"],
-  "temperature_range": "325-425 °C",
-  "summary": "The study describes the synthesis and characterization of [Mg2(thd)4] and [Mg(thd)2(EtOH)2] as precursors for the atomic layer deposition (ALD) of MgO thin films. The ALD process using [Mg2(thd)4] and H2O2 showed a constant growth rate of 0.10-0.14 Å/cycle at temperatures between 325-425 °C. The MgO films exhibited strong (200) orientation and a refractive index close to the literature value, indicating a dense structure.",
-  "evidence": "A rather constant growth rate of 0.10-0.14 Å/cycle was observed at 325-425 °C."
-}<|im_end|>

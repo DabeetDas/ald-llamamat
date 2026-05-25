@@ -1,8 +1,0 @@
-{
-  "target_material": "SiC (silicon carbide)",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Si2H6", "C2H2"],
-  "temperature_range": "1050 °C",
-  "summary": "The study investigates the atomic layer epitaxy (ALE) of cubic silicon carbide (3-SiC) by alternating exposure to Si2H6 and C2H2 at 1050 °C. Self-limiting growth is observed for both silicon and carbon layers, with silicon growth ending at 1.3 ML and carbon growth at 1 ML. The spontaneous desorption of excess silicon during C2H2 exposure enables accurate layer-by-layer growth.",
-  "evidence": "The study investigates the atomic layer epitaxy (ALE) of cubic silicon carbide (3-SiC) by alternating exposure to Si2H6 and C2H2 at 1050 °C. Self-limiting growth is observed for both silicon and carbon layers, with silicon growth ending at 1.3 ML and carbon growth at 1 ML. The spontaneous desorption of excess silicon during C2H2 exposure enables accurate layer-by-layer growth."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Cobalt and Cobalt Nitride",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["Cobaltocene (CoCp2)", "NH3 plasma"],
-  "temperature_range": "260 °C to 350 °C",
-  "summary": "The study investigates the incorporation of nitrogen in cobalt films during plasma-enhanced atomic layer deposition (PEALD) using cobaltocene (CoCp2) and NH3 plasma. The temperature significantly affects the composition of the deposited films, with nitrogen incorporation decreasing as temperature increases. At 260 °C, the films primarily consist of Co2N, while at 300 °C, a mixture of Co3N and Co is formed, and at 350 °C, pure Co is obtained. The decomposition of the nitride layer starts at approximately 290 °C, leading to the removal of nitrogen.",
-  "evidence": "The present study covers the processes that govern the incorporation of nitrogen in the film during atomic layer deposition (ALD) of cobalt and cobalt nitride prepared from cobaltocene (CoCp2) and NH3 plasma. It is demonstrated that nitrogen incorporation is strongly temperature-dependent; at temperatures of 260 °C and below, the deposited films consist primarily of Co2N, whereas increasing the temperature to 300 °C leads to a mixture of Co3N and Co, and at 350 °C, nominally pure Co is obtained."
-}

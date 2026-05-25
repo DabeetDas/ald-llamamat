@@ -1,8 +1,0 @@
-{
-  "target_material": "TiS x-NbSx heterostructures",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["(tert-butylimido)-tris-(diethylamino)-niobium (TBTDEN)", "H2S gas", "tetrakis-(dimethylamido)-titanium (TDMAT)"],
-  "temperature_range": "200 −300 °C",
-  "summary": "The study demonstrates the synthesis of nanometer-thick 2D transition metal dichalcogenide (TMDC) heterostructures, specifically TiS x-NbSx, using atomic layer deposition (ALD) at low temperatures. The ALD process enables conformal growth on both planar and 3D substrates, with precise thickness control of individual layers. The work highlights the advantages of ALD for scalable synthesis of 2D heterostructures with conformality and uniform thickness, which is crucial for nanoelectronic applications.",
-  "evidence": "The scalable and conformal synthesis of two-dimensional (2D) transition metal dichalcogenide (TMDC) heterostructures is a persisting challenge for their implementation in next-generation devices. In this work, we report the synthesis of nanometer-thick 2D TMDC heterostructures consisting of TiS x-NbSx on both planar and 3D structures using atomic layer deposition (ALD) at low temperatures (200 −300 °C)."
-}<|im_end|>

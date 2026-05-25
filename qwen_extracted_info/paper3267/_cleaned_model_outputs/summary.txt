@@ -1,8 +1,0 @@
-{
-  "target_material": "Gallium Oxide (Ga2O3)",
-  "process_type": "Remote plasma atomic layer deposition (RP-ALD)",
-  "main_precursors": ["triethylgallium (TEG)", "O2 plasma"],
-  "temperature_range": "250 °C",
-  "summary": "The study describes the use of remote plasma atomic layer deposition (RP-ALD) to deposit high-quality Ga2O3 films as gate dielectrics and surface passivation layers in AlGaN/GaN metal–oxide–semiconductor high-electron-mobility transistors (MOS-HEMTs). The films were grown using triethylgallium (TEG) and O2 plasma as precursors at 250 °C. The ALD process yielded uniform films with excellent uniformity and smooth Ga2O3–GaN interfaces. The Ga2O3 films significantly improved device performance by reducing gate leakage current and enhancing power-added efficiency, subthreshold swing, and effective interfacial state density. The study highlights the advantages of RP-ALD in achieving low-defect-density films and improved device characteristics.",
-  "evidence": "In this study, films of gallium oxide (Ga2O3) were prepared through remote plasma atomic layer deposition (RP-ALD) using triethylgallium and oxygen plasma. The ALD Ga2O3 films exhibited excellent uniformity and smooth Ga2O3–GaN interfaces. An ALD Ga2O3 film was then used as the gate dielectric and surface passivation layer in a metal–oxide–semiconductor high-electron-mobility transistor (MOS-HEMT), which exhibited device performance superior to that of a corresponding conventional Schottky gate HEMT. The subthreshold swing and effective interfacial state density of the MOS-HEMT were 78 mV decade–1 and 3.62 × 1011 eV–1 cm–2, respectively. The direct-current and radio-frequency performances of the MOS-HEMT device were greater than those of the conventional HEMT."
-}

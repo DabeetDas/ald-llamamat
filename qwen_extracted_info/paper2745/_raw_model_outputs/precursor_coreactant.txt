@@ -1,7 +1,0 @@
-{
-  "precursors": ["dimethylmercury (DMHg)", "dimethylcadmium (DMCd)", "methylallyltelluride (MATe)"],
-  "coreactants": [],
-  "purge_gas": ["hydrogen"],
-  "carrier_gas": [],
-  "evidence": "Methylallyltelluride (MATe) and dimethylmercury (DMHg) were used as the Te and Hg sources, respectively. Dimethylcadmium (DMCd) was used for growing CdTe layers. The switching cycles consisted of 4 s of MATe flow, 4 s of hydrogen flush, 4 s of DMCd flow, and 4 s of hydrogen flow."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "cubic SiC",
-  "process_type": "gas source MBE",
-  "main_precursors": ["Si2H6", "C2H2"],
-  "temperature_range": "1000°C or 1050°C",
-  "summary": "Cubic SiC was epitaxially grown by gas source MBE using the change in surface superstructures when the source gases of Si2H6 and C2H2 were introduced alternately. The growth rate was determined by the number of Si atoms forming the surface superstructure, enabling atomic level control in SiC growth.",
-  "evidence": "Cubic SiC was epitaxially grown by gas source MBE for the first time utilizing the change in surface superstructures when the source gases of Si2H6 and C2H2 were introduced alternately. The number of Si atoms forming the surface superstructure determines the growth rate, which gives atomic level control in SiC growth."
-}

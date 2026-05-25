@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of TBTEMN on the Nb2O5 surface, followed by oxidation using plasma excited humidified Ar. The hydrocarbon groups from TBTEMN are oxidized, leading to the formation of surface hydroxyl groups and the removal of hydrocarbons.",
-  "intermediate_species": [
-    "hydrocarbon groups from TBTEMN",
-    "surface hydroxyl groups"
-  ],
-  "evidence": "The hydrocarbon peak at 2977 cm−1 decreased with increasing treatment time of plasma excited humidified Ar, which is interpreted as the removal or oxidation of the hydrocarbon of TBTEMN. The variation of C—H absorbance with respect to the treatment time showed a sharp decrease in the first 5 min, indicating the full oxidation of hydrocarbons adsorbed by the exposure of TBTEMN."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Silicon Oxide (SiO2)",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["bis-diethylamino-silane (BDEAS)", "O2 plasma"],
-  "temperature_range": "280 ◦C",
-  "summary": "The study describes the deposition of high-quality low-temperature silicon oxide (SiO2) using plasma-enhanced atomic layer deposition (PEALD) with bis-diethylamino-silane (BDEAS) and O2 plasma. The films exhibit excellent electrical properties, including a high breakdown field of ~10 MV/cm, due to low carbon content and absence of oxygen deficiency and nonbridging oxygen. The etch rate is higher compared to wet SiO2, attributed to strained bonds in the film.",
-  "evidence": "The text states: 'SiO2 films were deposited at 280 ◦C by plasma-enhanced atomic layer deposition (ALD) using bis-diethylamino-silane and O2 plasma.' It also mentions: 'the electrical breakdown field of the silicon oxide films was measured at ∼10 MV/cm' and 'the reason for the excellent breakdown field of ALD SiO2 is that it has very low carbon content (< 0.5%) and does not have any oxygen deficiency and nonbridging oxygen.' Additionally, it notes: 'the relatively high etch rate of ALD SiO2 compared to wet SiO2 is due to the existence of strained bonds in the film.'"
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["diethylzinc", "water"],
-  "temperature_range": "",
-  "summary": "The study demonstrates area-selective ALD on cicada wings, resulting in the deposition of ZnO only between the nanopillars, avoiding growth on the pillars themselves. The waxy coating on the pillars acts as a chemical barrier, while the topographical structures provide a physical barrier to prevent lateral growth. The process allows for the creation of nanoscale lateral structures with high precision.",
-  "evidence": "The ALD of ZnO on cicada wings results in material deposition at the bottom between the pillars, whereas there is no growth on the pillars themselves. The role of the waxy coating is to prevent ZnO growth on the pillars, which would otherwise lead to ZnO nanocups instead of a nanoporous ZnO film. The construction of such small lateral structures by ALD, even though the deposited film is multiple times thicker, demonstrates the value of our new concept for blocking the film growth at the nanoscale."
-}<|im_end|>

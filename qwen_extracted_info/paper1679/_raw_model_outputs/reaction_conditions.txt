@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "ALD of AlOx onto hydrophobic SAMs uses H2O as a precursor, where H2O cannot form a stable wetting layer on hydrophobic SAMs, preventing nucleation and growth of the ALD film. Vacancy defects in hydrophobic SAMs serve as nucleation sites for ALD growth by allowing the precursors to reach the substrate.",
-  "intermediate_species": ["vacancy defects"],
-  "evidence": "It has recently been shown that hydrophobic SAMs can act as effective resists for ALD processes that use H2O as a precursor. This is due to the inability of H2O to form a stable wetting layer on the hydrophobic SAMs, thus preventing nucleation and growth of the ALD film. Vacancy defects in hydrophobic SAMs thus serve as nucleation sites for ALD growth by allowing the precursors to reach the substrate."
-}<|im_end|>

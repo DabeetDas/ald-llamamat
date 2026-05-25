@@ -1,8 +1,0 @@
-{
-  "target_material": "hematite (a-Fe2O3)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["FeCl3", "H2O"],
-  "temperature_range": "200–350 °C",
-  "summary": "The study describes a low-temperature atomic layer deposition (ALD) process for hematite (a-Fe2O3) using FeCl3 and H2O precursors. The process demonstrates self-limiting growth with a growth rate of 0.6 Å per cycle. Films deposited at low temperatures (235 °C) exhibit high photoactivity for water oxidation, with photocurrent densities up to 0.71 mA cm-2 at 1.53 V vs. RHE without further processing. Post-deposition annealing in O2 improves crystallinity and photoactivity.",
-  "evidence": "In this work, ALD of Fe2O3 is demonstrated using FeCl3 and H2O precursors at growth temperatures between 200 and 350 °C. Self-limiting growth of Fe2O3 is demonstrated with a growth rate of 0.6 Å per cycle. Planar films deposited at low temperature (235 °C) exhibit remarkably high photocurrent densities of 0.71 mA cm-2 at 1.53 V vs. the reversible hydrogen electrode (RHE) without further processing. Films annealed in air at 500 °C show current densities of up to 0.84 mA cm-2 (1.53 V vs. RHE)."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "molybdenum disulfide (MoS2)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["MoF6", "H2S"],
-  "temperature_range": "200 /C14 C",
-  "summary": "The study describes the atomic layer deposition (ALD) of molybdenum disulfide (MoS2) films using molybdenum hexafluoride (MoF6) and hydrogen sulfide (H2S) at 200 /C14 C. The process was found to produce amorphous MoS2 films, which can be crystallized through annealing at 350 /C14 C in a hydrogen-rich environment. The growth per cycle was observed to be self-limiting, with a growth rate of 0.46 A ˚ /cycle. The study also explored the effect of substituting a fraction of the MoF6 pulses with diethyl zinc (DEZ) to enhance the growth rate.",
-  "evidence": "Molybdenum sulﬁde ﬁlms were grown by atomic layer deposition on silicon and fused silica substrates using molybdenum hexaﬂuoride (MoF 6) and hydrogen sulﬁde at 200 /C14 C. In situ quartz crystal microbalance (QCM) measurements conﬁrmed linear growth at 0.46 A ˚ /cycle and self-limiting chemistry for both precursors. Annealing the ﬁlms at 350 /C14 C in a hydrogen rich environment yielded crystalline MoS 2 and reduced the F concentration in the ﬁlms."
-}<|im_end|>

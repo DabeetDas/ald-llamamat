@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD involve the self-limiting surface reactions of Sr(t-Bu3Cp)2, H2O, and Ti(OCH3)4, leading to the formation of Sr xTi1−xOy films. The process does not require a seed layer and allows for conformal deposition on high aspect ratio structures.",
-  "intermediate_species": ["Sr(t-Bu3Cp)2", "H2O", "Ti(OCH3)4", "SrCO3"],
-  "evidence": "The text states: 'In ALD, the Sr xTi1−xOy growth is determined by self-limiting surface reactions, resulting in conformal deposition of Sr xTi1−xOy in high aspect ratio structures.' Additionally, it mentions the presence of SrCO3 on the film surface, indicating an intermediate species formed during the process."
-}

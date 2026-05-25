@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the self-limiting ALD process where platinum and ruthenium are deposited in a controlled manner. The platinum growth rate is influenced by the precursor pulse times, with the formation of platinum oxide observed when oxygen pulse times are longer. The ruthenium growth rate is also affected by precursor pulse times, with the formation of ruthenium oxide when oxygen pulse times are increased. The platinum and ruthenium films are deposited on substrates, with platinum preferentially nucleating on metal substrates rather than silicon oxide-coated silicon.",
-  "intermediate_species": [
-    "platinum oxide",
-    "ruthenium oxide"
-  ],
-  "evidence": "The text discusses the self-limiting ALD process for platinum and ruthenium deposition, noting that longer oxygen pulse times lead to the formation of platinum oxide and ruthenium oxide. It also mentions that platinum preferentially nucleates on metal substrates rather than silicon oxide-coated silicon, indicating the formation of intermediate species during the ALD process."
-}

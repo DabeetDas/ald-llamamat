@@ -1,8 +1,0 @@
-{
-  "target_material": "Lix Aly S",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["lithium tert-butoxide (LTB)", "H2S", "tris(dimethylamido)aluminum(III) (TDMA-Al)"],
-  "temperature_range": "150 8C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to create ultrathin, ionically conducting lithium aluminum sulfide (Lix Aly S) coatings on lithium-metal anodes to stabilize the Li–electrolyte interface and suppress dendrite formation. The ALD process combines existing Li2S ALD using LTB and H2S with a new Al2S3 ALD using TDMA-Al and H2S, with a cycle ratio of 1:1. The films show high ionic conductivity and effectively suppress dendrite growth, enhancing the lifetime of Li–Cu asymmetric cells.",
-  "evidence": "We developed a process for growing ALD lithium aluminum sulfide (Lix Aly S) films with precisely controlled thickness and composition and showing a relatively high ionic conductivity of 2.5(Ω−1 cm−1) at room temperature. We demonstrate that this material can stabilize the interface between lithium metal and liquid carbonate electrolytes, and effectively suppress lithium dendrite growth."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PE-ALD)",
-  "main_precursors": ["Trimethylaluminum (TMA)", "O2 plasma"],
-  "temperature_range": "200°C",
-  "summary": "The study investigates the conformality of plasma-enhanced atomic layer deposition (PE-ALD) of Al2O3 using trimethylaluminum (TMA) and O2 plasma. It compares the conformality of PE-ALD with thermal ALD and finds that PE-ALD has limited conformality due to surface recombination of radicals. The conformality can be improved by increasing gas pressure, rf power, or plasma exposure time. The study also suggests that H2O produced during the plasma step contributes to the conformality through a secondary thermal ALD reaction.",
-  "evidence": "The conformality of the plasma based process is more limited due to the surface recombination of radicals during the plasma step. The conformality can slightly be improved by raising the gas pressure or the radio-frequency power. Prolonging the plasma exposure time results in further improvement of the conformality. Furthermore, there are indications that the H2O produced during the plasma step in the PE-ALD process for Al2O3 contributes to the observed conformality."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "SnO2 and Ga2O3",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["SnCl4", "H2O", "Ga(acac)3", "O2:O3 10:1"],
-  "temperature_range": "500 8C, 370 8C",
-  "summary": "The study investigates the deposition of tin oxide (SnO2) and gallium oxide (Ga2O3) using atomic layer epitaxy (ALE) onto porous silicon (PS). The process involves the use of specific precursors and temperature conditions to achieve uniform layer-by-layer growth. The results show that SnO2 and Ga2O3 can be uniformly distributed within the PS matrix, with nanocrystallites forming within the pores. The study also highlights the importance of precursor pulse times and purge steps in achieving uniform deposition and avoiding gas-phase mixing.",
-  "evidence": "The text states that 'SnO2 was deposited onto flat Si(100) and into PS from SnCl4 and H2O precursors separated by N2 purging at 500 8C' and 'Gallium oxide was deposited from Ga(acac)3 and O2:O3 10:1 at 370 8C'. It also mentions that 'the process is surface controlled in this regime resulting in a growth rate of 0.35 A˚ per cycle' and 'the nucleation of SnO2 in the PS layer was studied as a function of deposition parameters'."
-}<|im_end|>

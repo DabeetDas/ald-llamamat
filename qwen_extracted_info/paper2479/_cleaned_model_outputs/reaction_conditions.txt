@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface passivation mechanism involves the incorporation of hydrogen into the Ga2O3 film, which reduces interface defect density (Dit). The hydrogen is believed to be incorporated during the ALD process, particularly with insufficient oxidant pulse lengths, leading to better passivation. The negative fixed charge density (Qfix) also contributes to field-effect passivation.",
-  "intermediate_species": ["monomethylgallium"],
-  "evidence": "The text states: 'The Ga2O3 densities derived from ERDA data and ellipsometry thicknesses (cf. Table I) show a clear evolution with deposition temperature and anticorrelate with the H-concentration in the films: 4.8–4.9 g/cm³ for PEALD (75 °C–150 °C, [H] 4.3-6.9 at%) and 5.0–5.2 g/cm³ for th-ALD (250 °C–350 °C, [H] 0.1-0.26 at%).' Additionally, it mentions: 'The nonsaturating th-ALD sample with insufficient O pulses (250-X), we observe up to ∼6-times higher H- and C-concentrations, which indicate that the reason for the drastically reduced GPC and the increased impurity levels is a partial poisoning of the surface with monomethylgallium.'"
-}

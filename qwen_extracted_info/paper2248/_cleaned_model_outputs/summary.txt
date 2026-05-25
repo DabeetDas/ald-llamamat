@@ -1,8 +1,0 @@
-{
-  "target_material": "Sr xTi1−xOy",
-  "process_type": "ALD",
-  "main_precursors": ["Sr(t-Bu3Cp)2", "H2O", "Ti(OCH3)4"],
-  "temperature_range": "250 °C",
-  "summary": "The study investigates the physical and electrical properties of Sr xTi1−xOy-based metal-insulator-metal capacitors prepared by atomic layer deposition using TiN bottom electrodes. The focus is on the impact of Sr/Ti ratio on the properties of the films, including crystallization behavior, dielectric constant, leakage current, and interfacial equivalent oxide thickness (EOT). The results show that Sr-enrichment leads to a decrease in dielectric constant and leakage current, and the crystallization temperature and film texture are influenced by the Sr/Ti ratio.",
-  "evidence": "The study investigates the physical and electrical properties of Sr xTi1−xOy-based metal-insulator-metal capacitors prepared by atomic layer deposition using TiN bottom electrodes. The focus is on the impact of Sr/Ti ratio on the properties of the films, including crystallization behavior, dielectric constant, leakage current, and interfacial equivalent oxide thickness (EOT). The results show that Sr-enrichment leads to a decrease in dielectric constant and leakage current, and the crystallization temperature and film texture are influenced by the Sr/Ti ratio."
-}

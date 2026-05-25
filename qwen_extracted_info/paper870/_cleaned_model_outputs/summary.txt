@@ -1,8 +1,0 @@
-{
-  "target_material": "Ti phosphate",
-  "process_type": "Plasma-enhanced ALD (PE-ALD)",
-  "main_precursors": ["trimethylphosphate (TMP*)", "diethylphosphoramidate (DEPA*)", "titaniumisopropoxide (TTIP)"],
-  "temperature_range": "300 ◦C",
-  "summary": "The study investigates the use of plasma-enhanced atomic layer deposition (PE-ALD) to deposit nitrogen-doped Ti phosphate coatings for improved energy storage in Li-ion batteries. The process involves using a combination of plasma precursors, including diethylphosphoramidate (DEPA*) and nitrogen plasma, to achieve nitrogen doping. The results show that nitrogen doping improves electronic conductivity but slightly decreases ionic conductivity. The coatings significantly enhance the performance of NMC electrodes, increasing energy storage capacity at high discharge rates and improving stability over multiple cycles.",
-  "evidence": "The use of Ti phosphate as a functional coating for Li ion battery electrodes has been investigated, as well as the effect of nitrogen doping on its electrochemical properties. First, previous knowledge on PE-ALD of Ti phosphate (using an exposure sequence of trimethylphosphate plasma–oxygen plasma–titaniumisopropoxide) was used to study an altered process using a nitrogen plasma, i.e. TMP* - N 2* - TTIP. This enabled the deposition of a nitrogen doped (6 at.%) Ti phosphate with a growth per cycle of 0.4 nm/cycle. Next, a dual-source precursor (diethylphosphoramidate plasma, or DEPA*) was introduced instead of TMP*, allowing for a higher growth rate (0.6 nm/cycle) and a higher nitrogen level (8.6 at.%)."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the sequential exposure of trimethylgallium (TMG) and arsine (AsH3) in atomic layer epitaxy (ALE) cycles. The halt step after TMG exposure allows for concentration transients, which increase the effective V/III ratio at the surface, reducing carbon incorporation and affecting the background carrier concentration. The growth is not self-limited at 550°C, allowing surface species to be incorporated during the halt step, which influences the growth rate and impurity levels.",
-  "intermediate_species": ["trimethylgallium", "surface hydroxyls", "carbon species"],
-  "evidence": "The importance of concentration transients during the ALE growth cycles was discussed, explaining the effect of the halt step after TMG exposure in decreasing the reactant group III concentration at the substrate surface, such that upon group V (arsine) exposure, the V/III ratio is effectively enhanced. This enhancement affects the background carrier concentration in the material in a similar way as in conventional growth: it decreases the incorporation of carbon and may even convert the material to n type under specific growth conditions."
-}<|im_end|>

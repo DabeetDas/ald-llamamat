@@ -1,8 +1,0 @@
-{
-  "target_material": "HfN",
-  "process_type": "ALD",
-  "main_precursors": ["TDMAHf", "NH3"],
-  "temperature_range": "150 °C",
-  "summary": "The study investigates the use of octadecanethiol (ODT) self-assembled monolayer (SAM) as a passivation layer to enable area-selective deposition (ASD) of HfN on Cu and SiO2 substrates. The effectiveness of ODT in blocking HfN ALD on Cu is influenced by the surface pre-treatment of Cu, with oxidized Cu surfaces showing better inhibition. The results highlight the importance of surface properties in determining the success of ASD processes.",
-  "evidence": "The results stress the essential contribution of interface properties in forming dense thiol-SAM on metals, which is fundamental to a successful ASD process. It is here demonstrated that ODT on clean Cu cannot block HfN ALD at 150 °C, whereas on oxidized Cu the same organic layer prevents up to 19 nm HfN film growth before the Cu passivation is affected."
-}

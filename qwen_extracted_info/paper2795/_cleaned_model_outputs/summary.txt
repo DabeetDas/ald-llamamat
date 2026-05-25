@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2/Si",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Hf[N(CH3)2]4 (TDMAH)", "water"],
-  "temperature_range": "250 °C",
-  "summary": "The study investigates the impact of surface hydrophilicization prior to ALD for HfO2/Si direct-contact gate stacks. It demonstrates that hydrophilicizing the surface improves the electrical film quality, reduces equivalent oxide thickness (EOT) to 0.56 nm, and lowers leakage current to 0.74 A/cm² at a gate voltage of VFB /C0 1 V.",
-  "evidence": "We developed a novel technique of surface hydrophilicization that changes the nature of hydrogen- (H-) terminated surfaces from hydrophobic to hydrophilic prior to the formation of high- k gate stacks by atomic layer deposition (ALD). By using this method, the equivalent oxide thicknesses of the HfO2/Si direct-contact gate stacks fabricated on hydrophilicized surfaces were reduced to 0.56 nm, and a leakage current of 0.74 A/cm² at a gate voltage of VFB /C0 1 V was obtained."
-}

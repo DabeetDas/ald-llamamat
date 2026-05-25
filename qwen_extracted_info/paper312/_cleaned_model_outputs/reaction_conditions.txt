@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of tris(iso-propylcyclopentadienyl)lanthanum and trimethyl aluminum precursors with water as the oxidizer. The La/Al precursor pulse ratio controls the film composition, with stoichiometric LaAlO3 achieved at ratios of 4/1 to 5/1. The mechanism likely involves the reaction of La(i-PrCpd)3 with water and TMA, leading to the formation of LaAlO3 on SrTiO3 substrates.",
-  "intermediate_species": ["La(i-PrCpd)3", "TMA", "water", "lanthanum hydroxide"],
-  "evidence": "The text discusses the use of tris(iso-propylcyclopentadienyl)lanthanum and trimethyl aluminum precursors with water as the oxidizer. It mentions that lanthanum hydroxide forms during ALD of lanthanum oxide using an amidinate precursor and water. The La/Al precursor pulse ratio controls the film composition, with stoichiometric LaAlO3 achieved at ratios of 4/1 to 5/1."
-}

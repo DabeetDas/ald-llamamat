@@ -1,8 +1,0 @@
-{
-  "target_material": "tantalum oxide",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["tetrakis(dimethylamido)tantalum(V)", "tris(diethylamido)(ethylimido)tantalum(V)"],
-  "temperature_range": "50 to 350 8C",
-  "summary": "The study describes the atomic layer deposition of tantalum oxide using alkylamide precursors and water as the oxygen source. The films showed high conformality, uniform thickness, and excellent electrical properties.",
-  "evidence": "Atomic layer deposition of highly conformal films of tantalum oxide were studied using tantalum alkylamide precursors and water as the oxygen source. These films also exhibited a very high degree of conformality: 100% step coverage on vias with aspect ratios greater than 35. Films were deposited at substrate temperatures from 50 to 350 8C from precursors that were vaporized at temperatures from 50 to 120 8C."
-}

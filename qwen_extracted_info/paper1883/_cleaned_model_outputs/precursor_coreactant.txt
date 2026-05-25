@@ -1,7 +1,0 @@
-{
-  "precursors": ["TiCl4", "water"],
-  "coreactants": [],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": ["nitrogen"],
-  "evidence": "To deposit the TiO2 by ALD, the diatoms were exposed to volatilised titanium tetrachloride (TiCl4; Aldrich Chemicals, 99.9% purity) and water (Milli-Q water) as the precursors of titanium and oxygen, respectively. The precursors were carried to the substrate in a flow of nitrogen gas, which was also used to purge the reactor (ASM F-120 Viscous Flow-type Reactor) between precursor pulses."
-}

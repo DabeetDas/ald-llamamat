@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 55.6,
-  "density_g_cm3": 6.08,
-  "refractive_index": "2.21 at 632 nm",
-  "surface_roughness_nm": 3.9,
-  "crystal_phase": "wurtzite",
-  "evidence": "XRR results show the density of the film to be B95% of the theoretical value. The higher-angle XRR data in Fig. 2b show the characteristic reflectometry spectrum of single-layer thin films. A simulation using a genetic algorithm was run to model the film parameters. The RMS value of 3.1 nm for roughness, from atomic force microscopy, was input in the model. The data from simulation agree well with the experimental data. Simulation, run using Bruker Leptos software, gave the values of 55.6 nm and 6.08 g cm-3 for thickness and mass density, respectively, the latter of which equals 98% of the theoretical value of bulk material. Evaluation of Kiessig fringes is a more accurate measure of density, compared to critical angle, as it takes into account the surface roughness. Nevertheless, the two methods independently give high values for the density of the film. As mentioned earlier, an in situ ellipsometry system was used to monitor the deposition. A Cody–Lorentz model was found to offer a good description of the material’s optical behavior. As was the case in XRR, a roughness value of 3.1 nm measured by AFM was input to the model. The derived value for thickness is 53.2 nm, which is B4% lower than what was obtained from XRR."
-}

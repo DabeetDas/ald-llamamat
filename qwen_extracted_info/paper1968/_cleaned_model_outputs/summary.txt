@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["monoethylarsine (MEAs)", "trimethylgallium (TMGa)"],
-  "temperature_range": "320 to 540 °C",
-  "summary": "The study investigates the surface reactions in atomic layer epitaxy (ALE) of GaAs using monoethylarsine (MEAs) as an alternative arsenic source. The process involves alternating exposure of MEAs and trimethylgallium (TMGa) on GaAs(OO1) surfaces. The self-limiting nature of the reactions allows for atomic-level control of growth. The key findings include the formation of arsenic species through MEAs decomposition, the role of surface temperature in determining the surface stoichiometry, and the potential of MEAs as a promising arsenic source in ALE.",
-  "evidence": "The use of monoethylarsine (MEAs) as an arsine alternative source in GaAs atomic layer epitaxy (ALE) is studied. We use x-ray photoelectron spectroscopy and reflection high-energy electron diffraction (RHEED) to characterize the surface reactions of MEAs on GaAs(OO1) Ga-rich surfaces. At substrate temperatures between 320 and 540 °C, no carbon-related species are observed. At T = 320 °C and an exposure of 1 × 10⁻⁵ Torr of MEAs, ASH₂ (x = 1 or 2) is thought to be the adsorbed arsenic species. The reaction leading to ASH₂ species is the rate-limiting step. ASH₂ pairs react to form arsenic atoms by H₂ release. MEAs is believed to be a promising candidate as an arsenic source in GaAs ALE."
-}

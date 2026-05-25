@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "300 ◦C",
-  "summary": "The study investigates the effect of HCl secondary reactions on the thickness profiles of TiO2 films grown via ALD in flow-type reactors. The process involves the chemisorption of TiCl4 and H2O, leading to the release of HCl, which reacts with the oxide surface, reducing the growth rate and causing thickness variation along the gas-flow direction.",
-  "evidence": "In the present study the possible effect of HCl re-adsorption on the thickness profiles and growth rate of oxide films is investigated. We simulated the growth of TiO2 films in a flow-type ALD reactor by using model calculations. The growth rate decreases in the direction of the gas flow and finally attains a constant level, Rs, at which the release and re-adsorption of HCl are balanced."
-}

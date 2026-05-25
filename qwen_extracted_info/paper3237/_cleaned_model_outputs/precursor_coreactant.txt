@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA", "NH3"],
-  "coreactants": ["NH3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "ALD of AlN.— The ALD of AlN was carried out using TMA and NH3 as precursors in our home-built single wafer ALD reactor. An N2 purge of 6 s was introduced in between the precursor pulses to remove the unused precursors and the reaction by-products."
-}

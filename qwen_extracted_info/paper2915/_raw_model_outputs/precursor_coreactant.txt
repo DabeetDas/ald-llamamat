@@ -1,7 +1,0 @@
-{
-  "precursors": ["SnCl4", "H2O"],
-  "coreactants": ["O3", "O2", "n-hexane"],
-  "purge_gas": ["N2", "O2"],
-  "carrier_gas": ["N2", "O2"],
-  "evidence": "The precursors used in SnO2 ALE are SnCl4 and H2O. The reactor pressure was around 1 mbar in the cases of N2 or O2 carriers (both 99.999%, furnished by AGA). The precursors, SnCl4 (anhydrous, Fluka, 99%) and distilled H2O, were supplied into the reactor by their own vapor pressures from external vessels kept between 22 and 188C and 10248C, respectively. n-Hexane, CH3(CH2)4CH3 (LabScan, 99.0%) was introduced in a similar way from a reservoir kept between 220 and 258C. Ozone was generated on-site by feeding O2 through a Fischer 502 generator for an inlet flow of 50 dm3/h O2. The outlet gas contained about 4% O3 as verified by iodometric titration. The O3/O2 mixture was fed into the reactor at a flow of 60 sccm."
-}<|im_end|>

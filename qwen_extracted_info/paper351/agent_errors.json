@@ -1,3 +1,0 @@
-{
-  "film_properties": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": 20,   \"density_g_cm3\": null,   \"refractive_index\": null,   \"surface_roughness_nm\": null,   \"crystal_phase\": \"Amorphous\",   \"evidence\": \"The ALE process has an improvement in the optical properties that can be related to the enhancement in the surface migration of column III '"
-}

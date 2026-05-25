@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the sequential deposition of In2O3, SnO2, and Al2O3 layers using trimethylindium (TMI), tetrakis(dimethylamino)tin (TDMASn), and trimethylaluminum (TMA) as precursors, with water as the oxidant. The surface reactions are self-limiting, ensuring uniform growth. The incorporation of Al2O3 layers suppresses oxygen vacancies, enhancing stability and reducing trap states.",
-  "intermediate_species": ["surface hydroxyls", "metal oxide species", "metal hydroxide species"],
-  "evidence": "The text describes the ALD process for In2O3, SnO2, and Al2O3 layers using TMI, TDMASn, and TMA with water as oxidant. It mentions the suppression of oxygen vacancies by Al2O3 and the presence of surface hydroxyls and hydroxide species, which are converted to oxide species during post-deposition annealing."
-}

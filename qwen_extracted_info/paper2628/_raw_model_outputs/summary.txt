@@ -1,8 +1,0 @@
-{
-  "target_material": "Boron oxide (B2O3)",
-  "process_type": "Plasma-assisted atomic layer deposition (PALD)",
-  "main_precursors": ["tris(dimethylamido)borane (TDMAB)", "oxygen radicals"],
-  "temperature_range": "Room temperature (20 °C) up to 150 °C",
-  "summary": "Boron oxide (B2O3) films were deposited using plasma-assisted atomic layer deposition (PALD) on silicon substrates for shallow boron doping. The films were unstable in ambient air due to moisture uptake, forming boric acid. Capping with antimony oxide improved stability. The study demonstrated the use of B2O3 films as a dopant source for silicon, with optimal thickness for effective doping.",
-  "evidence": "Plasma-assisted atomic layer deposition (PALD) was carried for growing thin boron oxide films onto silicon aiming at the formation of dopant sources for shallow boron doping of silicon by rapid thermal annealing (RTA). The as-deposited films were highly unstable in ambient air and could be protected by capping with in-situ PALD grown antimony oxide films. Boron doping of silicon was demonstrated using the uncapped PALD B2O3 films for RTA processes without exposing them to air."
-}<|im_end|>

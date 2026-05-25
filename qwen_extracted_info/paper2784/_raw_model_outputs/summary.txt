@@ -1,8 +1,0 @@
-{
-  "target_material": "titanium dioxide (TiO2)",
-  "process_type": "ALD",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "493 K",
-  "summary": "The study investigates the phase transformations during the synthesis of titanium dioxide thin films using the atomic layer deposition (ALD) method. The films were grown on glass substrates at a temperature of 493 K, and the process involves the formation of an amorphous layer, followed by the development of an anatase structure, and eventually the formation of rutile at the late growth stages. The results show that rutile can form at a lower temperature than previously reported in the literature, which is attributed to the strongly nonequilibrium conditions of the ALD process.",
-  "evidence": "Films were prepared from the vapor phase as a result of the reaction between TiCl4 and H2O occurring on a solid substrate surface at high supersaturations by the ML (ALD) method. The substrate temperature during synthesis was Ts = 493 K. It is demonstrated that the process of film formation includes the formation of an amorphous layer, the formation of a coarse-grained structure containing anatase, and, finally, a gradual increase in the degree of crystallinity. A nontrivial effect is revealed, namely, the formation of crystalline rutile at a substrate temperature of 493 K."
-}<|im_end|>

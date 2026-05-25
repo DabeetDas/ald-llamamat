@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 125,
-  "density_g_cm3": 2.02,
-  "refractive_index": null,
-  "surface_roughness_nm": 18,
-  "crystal_phase": "Amorphous",
-  "evidence": "The XRR results confirmed the growth rates observed by QCM from 150 -250 °C. An initial nucleation period of ∼2-3 cycles was observed when using single exposures on a starting Al2O3 ALD surface. Typically, the first rapid SiO2 ALD cycle would only deposit 50% of the growth per cycle obtained in steady state after four to five cycles. The second and third cycles of rapid SiO2 ALD would deposit between 75-90% of the growth per cycle obtained in steady state. Thereafter, each cycle would deposit the SiO2 ALD growth per cycle predicted by the QCM results shown in Figure 2. The SiO2 ALD films were fairly rough using the single exposure conditions. The SiO2 ALD film roughness scaled approximately with the square root of the film thickness as expected for a random deposition process. 30 Consequently, the XRR studies had difficulty obtaining accurate thickness measurements for SiO2 ALD films with thicknesses > 1200 Å."
-}

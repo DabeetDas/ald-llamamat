@@ -1,8 +1,0 @@
-{
-  "target_material": "Luminescent (Er,Ho)3+ O thin films",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["Er(thd)3+", "Ho(thd)3+", "Ozone (O3)"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the fabrication of luminescent (Er,Ho)3+ O thin films using atomic layer deposition (ALD) to enhance the performance of silicon solar cells. The films convert IR photons to visible light through upconversion processes, resulting in a 3% improvement in short-circuit current density under simulated solar excitation.",
-  "evidence": "We have fabricated luminescent (Er,Ho)3+ O thin films by atomic layer deposition (ALD) and studied their capability to enhance the performance of state-of-the-art single-junction c-Si bifacial solar cells. The films convert IR photons (e.g. 1523 nm) by three- and two-photon upconversion process to emit visible-light in the 400 – 700 nm range. When the films were coupled with solar cells, ~3% improvement in the short-circuit current density (620 ± 5 to 638 ± 5 mAcm-2) was recorded under a simulated solar excitation equivalent to 16 suns."
-}<|im_end|>

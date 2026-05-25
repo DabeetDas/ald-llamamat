@@ -1,8 +1,0 @@
-{
-  "target_material": "NiO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Bis(cyclopentadienyl)nickel (Ni(Cp)2)", "Ozone (O3)"],
-  "temperature_range": "90 °C (Ni(Cp)2 container) and 200 °C (reaction chamber)",
-  "summary": "The study describes the synthesis of NiO-SCCNT core-shell heterostructures using atomic layer deposition (ALD). The NiO shell layer is deposited onto stacked-cup carbon nanotubes (SCCNTs) through ALD, and the gas sensing properties of these structures are evaluated. The sensing mechanism is based on the modulation of the hole-accumulation region in the NiO shell layer upon chemisorption of reducing gas molecules. The performance of the sensors is influenced by the thickness of the NiO shell layer, with optimal performance observed at a thickness of 6.5 nm. The study highlights the importance of ALD in achieving conformal and homogeneous coatings for enhanced gas sensing.",
-  "evidence": "The text states: 'Hierarchical core–shell (C–S) heterostructures composed of a NiO shell deposited onto stacked-cup carbon nanotubes (SCCNTs) are synthesized by atomic layer deposition (ALD). A film of NiO particles (0.80–21.8 nm in thickness) is uniformly deposited onto the inner and outer walls of the SCCNTs. The electrical resistance of the samples is found to increase of many orders of magnitude with the increasing of the NiO thickness. The response of NiO–SCCNT sensors toward low concentrations of acetone and ethanol at 200 °C is studied. The sensing mechanism is based on the modulation of the hole-accumulation region in the NiO shell layer upon chemisorption of the reducing gas molecules.'"
-}<|im_end|>

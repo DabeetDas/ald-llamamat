@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnAl2O4 spinel nanotubes",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Trimethylaluminum (TMA)", "Water"],
-  "temperature_range": "800 °C",
-  "summary": "The study investigates the influence of temperature on the evolution of ZnO/Al2O3 one-dimensional heterostructures through thermal ALD. The process involves the formation of spinel nanotubes and porous nanowires by controlling the reaction temperature and the thickness of the Al2O3 shell. The results show that at 800 °C, the formation of completely hollow spinel nanotubes is possible regardless of the initial core-shell diameter ratio, and the wall thickness is determined by the deposited alumina layer.",
-  "evidence": "The text states that 'the wall thickness of the formed nanotubes can be further precisely tailored and defined' through atomic layer deposition (ALD), and 'the formation of completely hollow nanotubes in this system is not strictly limited to a fixed stoichiometry of ZnO/Al2O3 required for the spinel-forming reaction when an annealing temperature of 800 °C is employed.'"
-}

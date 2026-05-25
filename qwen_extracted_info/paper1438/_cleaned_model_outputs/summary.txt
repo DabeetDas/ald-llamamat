@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Al(mmp)3", "H2O"],
-  "temperature_range": "200-450 °C",
-  "summary": "Al2O3 thin films were grown by atomic layer deposition (ALD) using Al(mmp)3 and water vapor in the temperature range of 200-450 °C on p-type Si or Ru/SiO2/Si substrates. The films were amorphous with a refractive index between 1.53 and 1.62, and the aluminum-to-oxygen ratio was 2:3.1. The dielectric constant was evaluated to be 7.7, and the leakage current density was on the order of 10^-7 A/cm2 at 1 MV/cm.",
-  "evidence": "Al2O3 thin films were grown by atomic layer deposition (ALD) using the novel volatile complex Al(mmp)3 and water vapor in the temperature range of 200-450 °C on p-type Si or Ru/SiO2/Si substrates. Al2O3 films were formed at 250 °C through the typical self-limiting mechanism of ALD, wherein the saturated growth rate was about 0.6 Å/cycle. The resultant films were amorphous, and the refractive index of the films varied between 1.53 and 1.62, which was dependent on the growth temperature and water pulse length. The aluminum-to-oxygen ratio of the Al2O3 film grown at 250 °C was 2:3.1, and the carbon content was 2.4%. With capacitance-voltage measurements of Al/Al2O3/SiO2/Si structures, the dielectric constant of Al2O3 grown at 250 °C is evaluated to be 7.7, and the flat band voltage appears at 1.05 V, which corresponds to a negative fixed charge on the order of 10^11/cm2. The leakage current density of the Al2O3 films is on the order of 10^-7 A/cm2 at 1 MV/cm, and the dielectric breakdown voltage is about 6.5 MV/cm."
-}

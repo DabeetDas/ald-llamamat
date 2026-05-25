@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The photocatalytic decomposition of methylene blue follows pseudo-first-order kinetics, where the reaction is described by the equation C16H18SCl + 2 5 1 2 O2 → hν TiO2 HCl + H2SO4 + 3HNO3 + 16CO2 + 6 H2O. The reaction mechanism involves the generation of electron-hole pairs upon UV irradiation, which then drive the decomposition of organic substances.",
-  "intermediate_species": ["electron-hole pairs"],
-  "evidence": "The photocatalytic decomposition of methylene blue follows pseudo-first-order kinetics, where the reaction is described by the equation C16H18SCl + 2 5 1 2 O2 → hν TiO2 HCl + H2SO4 + 3HNO3 + 16CO2 + 6 H2O."
-}<|im_end|>

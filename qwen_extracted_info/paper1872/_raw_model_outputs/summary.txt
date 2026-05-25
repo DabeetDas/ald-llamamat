@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["ZrCl4", "D2O"],
-  "temperature_range": "250–500 uC",
-  "summary": "The study investigates the reaction mechanism of the zirconium chloride–water atomic layer deposition (ALD) process. The reaction byproduct was DCl, and the growth rate was highest at 300 uC. The process involves the release of half the chloride ligands during the ZrCl4 pulse and the other half during the water pulse. At higher temperatures, the mechanism shifts towards releasing one chlorine during the ZrCl4 pulse and three during the D2O pulse due to reduced OD groups on the surface.",
-  "evidence": "The only observed reaction byproduct was DCl. Both the growth rate and the amount of reaction byproduct were the highest at 300 uC. The reaction temperature had no major effect on the reaction mechanism: half of the chloride ligands were released during the ZrCl4 pulse and the other half during the water pulse. However, at higher temperatures the process was slowly moving towards a mechanism where only one chlorine is released during the zirconium pulse and the other three during the D2O pulse."
-}<|im_end|>

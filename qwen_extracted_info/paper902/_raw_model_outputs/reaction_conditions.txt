@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the interaction of PDMAT precursor with plasma-generated radicals. The NH* radicals effectively break C–N bonds, while the absence of these radicals in N2 plasma leads to residual C contamination. The chemical composition changes from Ta–O to Ta–N bonds upon sputter removal of the surface region.",
-  "intermediate_species": ["Ta–O bonds", "Ta–N bonds", "NH* radicals"],
-  "evidence": "The chemical composition changes from Ta–O to Ta–N bonds upon sputter removal of the surface region. It is known that NH* radicals can effectively break the C–N bonds. The absence of these radicals in the N2 plasma results in the high content of residual C, especially for films grown at low temperatures."
-}<|im_end|>

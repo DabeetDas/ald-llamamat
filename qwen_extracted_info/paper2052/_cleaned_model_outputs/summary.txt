@@ -1,8 +1,0 @@
-{
-  "target_material": "Lanthanum aluminum oxide",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tris(N,N8-diisopropylacetamidinato!lanthanum (La(iPrAMD)3)", "trimethylaluminum", "water"],
-  "temperature_range": "300–330 °C",
-  "summary": "The study describes the atomic layer deposition of lanthanum aluminum oxide nano-laminates for electrical applications. The films were grown using a lanthanum precursor, trimethylaluminum, and water. The films showed low leakage current, good uniformity, and a high dielectric strength. The process involved alternating layers of lanthanum oxide and aluminum oxide to form a nanolaminate structure, which helped in reducing water diffusion and improving film quality.",
-  "evidence": "Lanthanum aluminum oxide thin films were grown by atomic layer deposition from a lanthanum precursor, tris(N,N8-diisopropylacetamidinato!lanthanum (La(iPrAMD)3), trimethylaluminum and water. Smooth, amorphous films having compositions La0.5Al1.5O3 and La0.9Al1.1O3 were deposited on HF-last silicon... The growth temperatures were 300–330 °C. The nanolaminate structure consisted of m cycles of lanthanum oxide growth and n cycles of aluminum oxide growth. The films were characterized without postdeposition annealing."
-}

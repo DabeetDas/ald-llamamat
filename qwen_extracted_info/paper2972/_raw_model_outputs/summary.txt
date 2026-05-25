@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminum", "O3"],
-  "temperature_range": "350°C, 400°C",
-  "summary": "The study compares the properties of Al2O3 thin layers grown using different oxidants in an ALD process for HfO2 gate dielectrics. The Al2O3 films were grown using trimethylaluminum as the Al precursor and remote O2 plasma, H2O, and O3 as oxidants. The O3-Al2O3/HfO2 stack showed superior quality and thermal stability, resulting in low leakage current density, making it a promising candidate for gate dielectrics in future field effect transistors.",
-  "evidence": "The O3-Al2O3/HfO2 stack exhibited an extremely low leakage current density suggesting its significance as a gate dielectric film for future field effect transistors."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Iridium oxide (IrOx)",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["iridium(III) acetylacetonate (Ir(acac)3)", "O2"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the synthesis of nanoporous activated iridium oxide films (AIROFs) using atomic layer deposition (ALD) within a nanoporous anodized aluminum oxide (AAO) template. The process involves depositing a thin conformal iridium film using ALD, followed by electrochemical activation in 0.1 M H2SO4 to form AIROFs. The resulting films exhibit enhanced charge storage capacities and are suitable for applications such as pH sensing and neural stimulation.",
-  "evidence": "Iridium oxide (IrOx) has been widely studied due to its applications in electrochromic devices, pH sensing, and neural stimulation. Previous work has demonstrated that both Ir and IrOx films with porous morphologies prepared by sputtering exhibit significantly enhanced charge storage capacities. In this work, we demonstrate an alternative scheme for synthesizing nanoporous Ir and activated IrOx films (AIROFs). This scheme utilizes atomic layer deposition to deposit a thin conformal Ir film within a nanoporous anodized aluminum oxide template. The Ir film is then activated by potential cycling in 0.1 M H2SO4 to form a nanoporous AIROF."
-}

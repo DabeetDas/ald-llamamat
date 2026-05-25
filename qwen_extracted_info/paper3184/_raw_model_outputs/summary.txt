@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta–N-based thin films",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tantalum pentachloride", "diethyl sulfide (TPDS)", "ammonia (NH3)", "trimethylaluminium (TMA)"],
-  "temperature_range": "300–400°C",
-  "summary": "Ta–N-based thin films were deposited using thermal atomic layer deposition (ALD) with tantalum pentachloride (TPDS) as a halide but liquid precursor, ammonia (NH3) as a reacting agent, and trimethylaluminium (TMA) as an additional reducing agent. The process achieved a saturated growth rate of approximately 0.2–0.3 Å/cycle at 300–400°C and resulted in films with low chlorine content and improved resistivity. The study aimed to tune film properties such as electrical resistivity and oxidation resistance by varying the TMA and NH3 pulse percentages.",
-  "evidence": "Ta–N-based thin ﬁlms were deposited by thermal atomic layer deposition. In this work, we introduced a tantalum source. The alternate supply of this halide but liquid precursor tantalum pentachloride, diethyl sulﬁde /H20849TPDS/H20850, and ammonia /H20849NH3/H20850 resulted in Ta–N-based ﬁlms with a saturated growth rate of approximately 0.2–0.3 Å/cycle at 300–400°C and less than 1 atom % chlorine. By pulsing trimethylaluminium /H20849TMA/H20850 as an additional reacting agent between the TPDS and NH3, the resistivity was improved up to 103 /H9262/H9024cm. These ﬁlms showed a chlorine content of 10 atom % and an aluminum content of less than 1 atom %."
-}<|im_end|>

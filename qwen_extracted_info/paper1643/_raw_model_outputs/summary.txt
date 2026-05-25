@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TiCl4", "deionized H2O"],
-  "temperature_range": "150 °C",
-  "summary": "A very thin film of titania (TiO2) with thickness controlled to the order of its Debye length exhibits reversible on/off electrical switching effects upon hydrogen/air exposure at room temperature. The film was fabricated using atomic layer deposition (ALD) with atomic layer control over its thickness. The switching effects are attributed to surface processes that modulate the space-charge layer, encompassing the entire film. The study demonstrates the compatibility of ALD with planar technology and the potential for room temperature hydrogen sensing applications.",
-  "evidence": "The film was prepared by atomic layer deposition (ALD) with atomic layer control over its thickness. The study demonstrates the compatibility of ALD with planar technology and the potential for room temperature hydrogen sensing applications."
-}<|im_end|>

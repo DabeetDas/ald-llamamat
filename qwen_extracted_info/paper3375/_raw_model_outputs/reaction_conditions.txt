@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during plasma-assisted atomic layer epitaxy (PA-ALE) involve the self-limiting growth mechanism where trimethylindium (TMI) pulses and nitrogen precursor pulses alternate. The TMI pulse saturates the surface, followed by a nitrogen pulse to complete the reaction, forming InN layers. The self-limiting nature ensures precise control over film thickness and stoichiometry.",
-  "intermediate_species": ["trimethylindium (TMI) molecules", "surface hydroxyl groups", "nitrogen species"],
-  "evidence": "The text describes the PA-ALE process as involving self-limiting growth where TMI pulses and nitrogen precursor pulses alternate. It mentions that the TMI pulse saturates the surface, followed by a nitrogen pulse to complete the reaction, forming InN layers. The self-limiting nature ensures precise control over film thickness and stoichiometry."
-}<|im_end|>

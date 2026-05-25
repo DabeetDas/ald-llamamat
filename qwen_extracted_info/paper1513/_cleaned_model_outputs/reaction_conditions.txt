@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The reaction between the metal precursor and adsorbed oxygen atoms producing a metallic film. The formation of an oxide film relies on incomplete reactions, which somewhat violates the basic principle of ALD.",
-  "intermediate_species": ["adsorbed oxygen atoms", "subsurface oxygen atoms"],
-  "evidence": "During the noble metal precursor pulse a reaction takes place between the metal precursor and adsorbed oxygen atoms producing a metallic film. Some of the subsurface oxygen atoms may remain if the amount of adsorbed oxygen in the subsurface layer is high, if the noble metal precursor dose is deficient, or if the noble metal precursor pulse time is too short for the reactions to proceed to completion."
-}

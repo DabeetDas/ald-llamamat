@@ -1,8 +1,0 @@
-{
-  "target_material": "tantalum-aluminum oxide",
-  "process_type": "atomic layer epitaxy",
-  "main_precursors": ["metallic chlorides", "H2O"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the deposition of layered tantalum-aluminum oxide films using atomic layer epitaxy (ALE) at 300 °C from metallic chlorides and H2O. The films' composition can be adjusted between pure aluminum oxide and pure tantalum oxide by varying the pulsing ratio. The effective refractive index and relative permittivity are adjustable, and the leakage current of tantalum oxide is reduced by thin interposed aluminum oxide layers. These films have potential applications in memory integrated circuits and large-area displays.",
-  "evidence": "Insulating films consisting of thin layers of tantalum oxide and aluminum oxide were deposited using the atomic layer epitaxy technique at a temperature of 300 °C from metallic chlorides and H20. The average film composition can be modified between pure aluminum oxide and pure tantalum oxide by varying the pulsing ratio. The effective refractive index is adjustable between 1.67 and 2.23 and the relative permittivity between 8.4 and 24. The leakage current of tantalum oxide is significantly reduced by thin interposed layers of aluminum oxide. These multilayers will potentially be useful, for example for applications in future memory integrated circuit and large-area display technologies."
-}

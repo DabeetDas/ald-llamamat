@@ -1,8 +1,0 @@
-{
-  "target_material": "Alumina (Al2O3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethyl aluminum (TMA)", "ozone (O3)", "nitrogen (N2)"],
-  "temperature_range": "350 -C",
-  "summary": "The study investigates the structural characteristics of high dielectric constant (high-k) alumina thin films prepared by atomic layer deposition (ALD) on p-type silicon substrates. The films were characterized using synchrotron X-ray reflectivity (XR) to determine their surface roughness, interfacial roughness, electron density profile, number of layers, and thickness of individual layers. The ALD process involved alternating pulses of trimethyl aluminum (TMA), ozone, and nitrogen at 350 -C. Some films were further thermally annealed at 800 -C for 5 min under argon ambient. The results show that the layer structure and electron density vary depending on the ALD process conditions and thermal annealing.",
-  "evidence": "Al2O3 layers were deposited on p-type Si(100) substrates by atomic layer deposition (ALD) at 350 -C with alternating pulses of trimethyl aluminum (Al(CH3)3: TMA) for 0.5 s and of nitrogen (N2), ozone (O3), and N2 for 1 s. The deposited films were further thermally annealed at 800 -C for 5 min under argon ambient. The study found that the layer structure and electron density vary depending on the ALD process conditions and thermal annealing."
-}<|im_end|>

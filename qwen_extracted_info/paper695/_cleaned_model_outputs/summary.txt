@@ -1,8 +1,0 @@
-{
-  "target_material": "Cr2O3",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["CrO2Cl2", "CH3OH"],
-  "temperature_range": "330–420 8C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of Cr2O3 thin films using CrO2Cl2 and CH3OH precursors on various substrates. The process occurs at temperatures between 330–420 8C, with self-limited growth observed. The crystallization of the films significantly influences their growth and properties, with epitaxial eskolaite formation on a-Al2O3(1 ¯102) substrates. The growth rate varies with temperature and film thickness, and the crystalline phase grows faster than the amorphous phase. The study also highlights the impact of substrate material on film properties and growth behavior.",
-  "evidence": "Atomic layer deposition of Cr2O3 thin ﬁlms from CrO2Cl2 and CH3OH on amorphous SiO2 and crystalline Si(1 0 0) and a-Al2O3(1 ¯102) substrates was investigated, and properties of the ﬁlms were ascertained. Self-limited growth with a rate of 0.05–0.1 nm/cycle was obtained at substrate temperatures of 330–420 8C. In this temperature range epitaxial eskolaite was formed on the a-Al2O3(1 ¯102) substrates. The predominant crystallographic orientation in the epitaxial ﬁlms depended, however, on the growth temperature and ﬁlm thickness. Sufﬁciently thick ﬁlms grown on the SiO2 and Si(1 0 0) substrates contained also the eskolaite phase, but thinner ﬁlms deposited at 330–375 8C on these substrates were amorphous. The growth rate data of ﬁlms with different phase composition allowed a conclusion that the crystalline phase grew markedly faster than the amorphous phase did."
-}

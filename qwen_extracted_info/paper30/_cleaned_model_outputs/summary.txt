@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TiCl4", "water vapor"],
-  "temperature_range": "100 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to infiltrate and create high-index TiO2 inverted replicas of holographically defined photonic crystals. The process involves alternating pulses of TiCl4 and water vapor at 100 °C, resulting in conformal infiltration of the polymer template. The ALD-deposited TiO2 is dense, homogeneous, and has a high refractive index (n > 2.3). The polymer template is subsequently removed by plasma etching, resulting in a TiO2/air photonic crystal with a high refractive index contrast. This technique enables the fabrication of 3D photonic crystals with optical properties consistent with predicted photonic bandgap positions.",
-  "evidence": "Amorphous TiO2, the material that we have chosen, is deposited using alternating pulses of TiCl4 and water vapor. The reactor temperature was maintained at 100 °C during deposition. ALD-deposited amorphous TiO2 is dense and homogeneous, with n > 2.3 and low absorption down to UV wavelengths. The template was placed on quartz substrates in a custom, flowstyle, hot-wall ALD reactor. The temperature range was maintained at 100 °C. The polymer template was removed by plasma etching."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium dioxide",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["titanium tetrachloride", "ion exchanged water"],
-  "temperature_range": "350 °C",
-  "summary": "Titanium dioxide thin films were deposited on soda-lime glass substrates using Atomic Layer Deposition (ALD). The films showed a transition from anatase to rutile as thickness increased. The photoactivity and photocatalytic activity were highest at 15 nm thickness, with a combination of anatase and rutile phases. The study aimed to investigate the relationship between film thickness, crystalline structure, and photocatalytic properties.",
-  "evidence": "Atomic Layer Deposition has been used to deposit titanium dioxide thin films on soda-lime glass substrates. A series of films with thicknesses from 2.6 to 260 nm has been created and the film structure has been studied with X-ray diffraction. It has been observed that at a reaction temperature of 350 °C, titanium dioxide thin films initially grow as anatase but after a certain thickness, growth continues as rutile. The photoactivity and photocatalytic activity of the films have been found to reach their maximum at a film thickness of 15 nm."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "aluminum oxide (AlOx)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethyl aluminum (TMA)", "water vapor"],
-  "temperature_range": "60 °C",
-  "summary": "The study demonstrates the use of atomic layer deposition (ALD) of aluminum oxide (AlOx) to identify and passivate defects in hydrophobic self-assembled monolayers (SAMs). The ALD process selectively deposits AlOx onto defect sites, which are then imaged using scanning electron microscopy (SEM) to reveal nanoscale defects. The deposited AlOx also electrically passivates the defects, improving the electrical properties of the SAMs.",
-  "evidence": "We demonstrate imaging of nanoscale defects in self-assembled monolayers (SAMs). Atomic layer deposition of aluminum oxide (AlOx) onto hydrophobic SAMs is followed by imaging using scanning electron microscopy (SEM). The insulating AlOx selectively deposits onto the exposed substrate at defect sites and becomes charged during imaging, providing high contrast even for nanometer scale defects. The deposited AlOx also acts as a barrier for electron transfer, thereby simultaneously electrically passivating the defects in the SAM as it labels them."
-}

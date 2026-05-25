@@ -1,8 +1,0 @@
-{
-  "target_material": "Germanium nanowires (GeNWs)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tetrakis(diethylamido)hafnium (Hf[NEt2]4)", "deionized water"],
-  "temperature_range": "90 °C",
-  "summary": "High-κ dielectric HfO2 films were grown on clean GeNW surfaces using atomic layer deposition (ALD) with an alkylamide precursor. This process was effective in serving as the first layer of surface passivation for GeNWs, which helped eliminate hysteresis in GeNW FETs by removing surface oxides and preventing water molecule adsorption.",
-  "evidence": "High-  dielectric HfO2 films grown on clean GeNW surfaces by atomic layer deposition (ALD) using an alkylamide precursor is effective in serving as the first layer of surface passivation."
-}<|im_end|>

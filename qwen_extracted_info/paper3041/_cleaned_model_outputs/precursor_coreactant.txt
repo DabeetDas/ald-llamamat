@@ -1,7 +1,0 @@
-{
-  "precursors": ["Trimethylaluminum (TMA)", "Tetrakis(ethylmethylamido)hafnium (TEMAH)"],
-  "coreactants": ["Water (H2O)"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "High-/H9260dielectric growth is performed by alternating metal precursor and water pulses delivered in N2 carrier gas, with N2 purge between precursor pulses."
-}

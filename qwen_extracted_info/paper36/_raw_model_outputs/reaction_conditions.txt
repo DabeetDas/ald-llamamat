@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The chemisorption of trimethylalumium (TMA) and water on the ZnO surface, which leads to the formation of an Al2O3 layer, is discussed. The water vapor process is indicated to result in fewer defects compared to the O2 plasma process, implying a cleaner surface reaction mechanism.",
-  "intermediate_species": ["trimethylalumium (TMA)", "chemisorbed TMA", "water", "surface hydroxyls"],
-  "evidence": "According to the VT shift behavior with the stress period (Fig. 4b), some density of the channel electrons seem to be trapped by the ZnO/Al2O3 interface defects during the gate voltage stress. This is known as gate insulator charge trapping and effectively reduces the channel ID current as a result. This channel current reduction was also observed under a continuous drain/gate stress state as shown in Figure 4c. While TFT1 maintained the initial ID level well, TFT2 showed a gradual ID reduction as time elapsed under the voltage stress. This means that the water vapor process is superior to the O2 plasma process for the channel/dielectric interface formation and introduces a much lower defect density at the interface. Hence, we regard the water-vapor-processed ZnO-TFT (TFT1) as our optimum stable device."
-}<|im_end|>

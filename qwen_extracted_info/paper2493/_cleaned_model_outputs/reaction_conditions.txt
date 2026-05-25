@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface chemistry is tuned using different oxidant sources such as CO2 or N2O, resulting in a highly flexible ZnO deposition process. The PEALD process uses a weak reactant plasma-enhanced atomic layer deposition where the low-reactivity oxidant can be used as the purge gas when the plasma is not active and as the oxidant when the plasma is started.",
-  "intermediate_species": ["ZnO films", "Al2O3 films", "surface hydroxyls"],
-  "evidence": "The simpler weak reactant PEALD process has two fewer valve switches compared with ALD, as well as a rapid purge and fast oxidation, making it a faster deposition process. The weak reactant PEALD process also allows the surface chemistry to be tuned using different oxidant sources such as CO2 or N2O, resulting in a highly flexible ZnO deposition process. PEALD using CO2 as the weak reactant at 200 ◦C was used to deposit a 22-nm-thick Al2O3 dielectric onto a 100-nm-thick chromium layer."
-}

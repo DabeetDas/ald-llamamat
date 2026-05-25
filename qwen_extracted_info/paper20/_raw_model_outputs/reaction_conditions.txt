@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The reaction involves the adsorption of NO2 on the surface of the n-type SnO2 grains, leading to the non-dissociative adsorption of NO2 and a decrease in the concentration of electrons at the surface of the metal oxide, which increases the resistance. The reaction is described as NO2(gas) + e− → NO−2 (ads).",
-  "intermediate_species": ["NO−2 (ads)"],
-  "evidence": "The increase in resistance when the sensor is exposed to NO2 can be interpreted on the basis of the non-dissociative adsorption at the surface of n-type tin dioxide grains:\n\nNO2(gas) + e− → NO−\n2 (ads)\n\nSubsequently, the concentration of electrons at the surface of the metal oxide decreases and the resistance increases accordingly."
-}<|im_end|>

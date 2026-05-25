@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 100,
-  "density_g_cm3": 8.8,
-  "refractive_index": "2.09 at 500 nm",
-  "surface_roughness_nm": 2.9,
-  "crystal_phase": "Monoclinic",
-  "evidence": "The density of the film material increased with the concentration of crystalline phase but, within experimental uncertainty, was independent of orientation and sizes of crystallites in polycrystalline films. Refractive index increased with the material density. In addition, the refractive index values that were calculated from the transmission spectra depended on the surface roughness and crystallite sizes because the light scattering, which directly influenced the extinction coefficient, caused also a decrease of the refractive index determined in this way."
-}

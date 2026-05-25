@@ -1,8 +1,0 @@
-{
-  "target_material": "NiO",
-  "process_type": "ALD and e-beam",
-  "main_precursors": ["Ni(C5H5)2", "O3"],
-  "temperature_range": "300 /C176C and 40 /C176C",
-  "summary": "The study investigates the interfaces in resistive switching NiO thin films deposited by both ALD and e-beam on different substrates. The films are characterized using X-ray reflectivity, grazing incidence X-ray diffraction, and time of flight secondary ion mass spectrometry. The results show that ALD-deposited NiO films have a higher electron density and lower surface roughness compared to e-beam-deposited films. The NiO films are polycrystalline in the cubic phase, and the interfaces with the substrates are sharp and well-defined, with some exceptions like the NiO/W interface where a thin interlayer is detected.",
-  "evidence": "ALD NiO films were deposited in ALD reactor F120 (ASM Microchemistry) at Tg = 300 /C176C from Ni(C5H5)2 precursor and O3 as oxygen source; the Ni precursor was maintained at Tp =4 0/C176C during deposition. NiO films are polycrystalline in the cubic phase. ToF-SIMS profiles confirm NiO/Metal interface sharpness and the optimal uniformity of NiO layers. Intermixing phenomena are limited or absent and the presence of contaminants, such as C, F, and Cl is very low."
-}

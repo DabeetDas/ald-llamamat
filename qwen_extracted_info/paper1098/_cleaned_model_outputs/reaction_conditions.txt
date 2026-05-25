@@ -1,6 +1,0 @@
-{
-  "reaction_equations": ["ZnðC2H5Þ2 þ H2O→ZnO þ 2C2H6"],
-  "surface_mechanism_description": "The surface reaction involves the reaction between diethylzinc (DEZn) and water (H2O) to form ZnO and ethane (C2H6). The ALD process uses sequential surface chemistry with purging steps to ensure self-limiting growth.",
-  "intermediate_species": ["diethylzinc", "surface hydroxyls"],
-  "evidence": "The most effective zinc precursor turned out to be diethylzinc (DEZn, Zn (C2H5)2) with deionized water used as an oxygen precursor: ZnðC2H5Þ2 þ H2O→ZnO þ 2C2H6"
-}

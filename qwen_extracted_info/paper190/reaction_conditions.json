@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves sequential exposures of the substrate to precursor gases, with the alumina precursor, trimethylaluminum (TMA), and high-purity water alternately pumped to the reaction chamber. The reaction mechanism involves the interaction of TMA with surface hydroxyl groups followed by a water pulse to regenerate OH sites.",
-  "intermediate_species": [
-    "surface hydroxyls",
-    "monomethyl aluminum"
-  ],
-  "evidence": "The instrumental configuration of ALD employed in this experiment is similar to that used in previous work. The alumina precursor, trimethylaluminum (TMA), and high-purity water were alternately pumped to the reaction chamber using nitrogen as a carrier gas. The AgIF substrate was placed in the center of the reaction chamber... One complete reaction cycle was 42 s in duration and was composed of the following: (i) TMA reactant exposure time = 1 s; (ii) N2 gas purging time = 20 s; (iii) water vapor exposure time = 1 s and (iv) N2 gas purging time = 20 s."
-}

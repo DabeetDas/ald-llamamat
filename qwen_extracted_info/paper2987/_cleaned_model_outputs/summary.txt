@@ -1,8 +1,0 @@
-{
-  "target_material": "Hf-silicate",
-  "process_type": "ALD",
-  "main_precursors": ["Hf(NCH3)2(C2H5)4", "BDMAS: SiH2(NCH3)2", "TDMAS: SiH(NCH3)2"],
-  "temperature_range": "275°C",
-  "summary": "The study compares Hf-silicate films deposited by ALD using BDMAS and TDMAS precursors. The growth rates and carbon impurity levels differ between the precursors, with BDMAS showing lower carbon impurity. The process involves alternating HfO2 and SiO2 layers, with O3 as the oxidant. The thickness and composition of the films are controlled by the number of growth cycles.",
-  "evidence": "The thickness of SiO2 deposited using ALD process is controlled by the number of growth cycles and the growth rate per cycle was different for each precursor, that for BDMAS being 1.5 times that for TDMAS at the same reactor pressure. Furthermore, the thickness and the Hf/(Hf + Si) compositions of ALD Hf-silicate films deposited using BDMAS and TDMAS precursors can be easily controlled by the number of growth cycles. The carbon impurity in the Hf-silicate film deposited using BDMAS was about an order of magnitude less than that using for TDMAS."
-}

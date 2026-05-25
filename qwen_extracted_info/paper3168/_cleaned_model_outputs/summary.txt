@@ -1,8 +1,0 @@
-{
-  "target_material": "LiCoO2 cathodes",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "H2O"],
-  "temperature_range": "180°C",
-  "summary": "The study demonstrates that ultrathin Al2O3 ALD films significantly enhance the stability of LiCoO2 cathodes in lithium-ion batteries by minimizing Co dissolution and reducing surface electrolyte reactions. The ALD process uses TMA and H2O as precursors at 180°C, and the coated LiCoO2 powders showed 89% capacity retention after 120 charge-discharge cycles, compared to 45% for uncoated powders.",
-  "evidence": "The Al2O3 ALD films were grown directly on the LiCoO2 powders using trimethylaluminum (TMA) and H2O as precursors at 180°C. The coated LiCoO2 powders exhibited a capacity retention of 89% after 120 charge–discharge cycles in the 3.3–4.5 V range, while the bare LiCoO2 powders displayed only 45% capacity retention."
-}

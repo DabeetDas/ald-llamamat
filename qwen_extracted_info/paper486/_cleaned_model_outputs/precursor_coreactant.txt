@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMG", "Ammonia"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "For this approach, metallic Zn and water vapor (from a liquid source) were used as the precursors. The adsorption of Zn was apparently the critical step. To optimize this process the substrate temperature was 4301C, which significantly increased the growth rate of the ZnO films compared to growth by a double exchange reaction technique (similar to that previously used for the growth of ZnS polycrystalline films)."
-}

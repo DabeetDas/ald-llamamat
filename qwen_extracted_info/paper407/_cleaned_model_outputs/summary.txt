@@ -1,8 +1,0 @@
-{
-  "target_material": "3C-SiC",
-  "process_type": "thermal ALD",
-  "main_precursors": ["SiH2Cl2", "C2H2"],
-  "temperature_range": "750-1050 °C",
-  "summary": "The study describes the heteroepitaxial growth of 3C-SiC on Si substrates using low pressure chemical vapor deposition (LPCVD) with alternating supply of SiH2Cl2 and C2H2. The growth rate increases with temperature above 900 °C, while a constant growth rate of 4.4 Å cycle-1 is observed between 800 and 900 °C. The crystallinity of the SiC layers is influenced by the orientation of the Si substrates and the growth temperature. Single-crystalline 3C-SiC is obtained on the Si(111) face at temperatures above 1000 °C, while polycrystalline 3C-SiC forms on the (001) face.",
-  "evidence": "The heteroepitaxial growth of 3C SiC on Si substrates has been studied in a hot-wall-type, low pressure, chemical vapour deposition reactor with an alternating supply of SiH2Cl2 and C2H2 in the temperature range of 750-1050 °C. SiC films have been grown only at temperatures above 800 °C. The growth rate of the SiC films increases with temperature above 900 °C, while a constant growth rate (4.4 Å cycle-1) is obtained in the temperature range between 800 and 900 °C. The crystallinity of the SiC layers was affected by the orientation of the Si substrates and the growth temperature. Monocrystalline 3C-SiC has been obtained on the Si(111) face at temperatures above 1000 °C, while polycrystalline 3C SiC deposits on the (001) face over the range of growth temperature studied."
-}

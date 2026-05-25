@@ -1,7 +1,0 @@
-{
-  "precursors": ["WF6", "SiH4"],
-  "coreactants": [],
-  "purge_gas": ["Ar", "N2"],
-  "carrier_gas": ["Ar", "N2"],
-  "evidence": "Reactants used as ALD precursors were WF6 and dilute SiH4 (1% SiH4 with 99% N2). Research grade Ar gas was used as a carrier gas (99%) during WF6 exposure and as the purge gas between reactant half-cycles, while the N2 diluent in the SiH4 source served as its carrier."
-}<|im_end|>

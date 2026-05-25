@@ -1,8 +1,0 @@
-{
-  "target_material": "tantalum oxide (Ta2O5)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tert-butylimido-tris-ethylmethylamido-tantalum (TBTEMT)", "water"],
-  "temperature_range": "100 to 300 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of tantalum oxide (Ta2O5) thin films using the precursor tert-butylimido-tris-ethylmethylamido-tantalum (TBTEMT) and water. The process was characterized for its growth behavior, film properties, and electrical performance. The ALD process showed self-limiting growth within the temperature range of 100 to 300 °C, with a growth rate of about 0.56 Å/cycle in the temperature window of 250 to 300 °C. The films exhibited high film densities, refractive indices, and dielectric constants, and post-deposition annealing at 800 °C increased the crystallinity and dielectric constant of the films.",
-  "evidence": "In this work, the precursor tert-butylimido-tris-ethylmethylamido-tantalum (TBTEMT) was applied for the atomic layer deposition (ALD) of tantalum oxide (Ta2O5) thin films for the first time. Water was used as the second reactant. A self-limiting, and hence, ALD-like film growth was confirmed in the temperature range from 100 to 300 °C. The temperature window of this process extends from 250 to 300 °C and features a growth rate of about 0.56 Å/cycle. For lower temperatures, the growth rate increases gradually up to 0.92 Å/cycle at 100 °C. At a deposition temperature of 200 °C, the process showed perfect layer-by-layer growth with 0.64 Å/cycle and without any noticeable incubation period on both silicon with native oxide and hydrogen-terminated silicon."
-}

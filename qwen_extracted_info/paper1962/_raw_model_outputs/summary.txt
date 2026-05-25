@@ -1,8 +1,0 @@
-{
-  "target_material": "GaInP",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["TEl", "PH3", "TMGa"],
-  "temperature_range": "500-700°C",
-  "summary": "The study reports the successful growth of ordered GaInP thin films on a GaAs substrate using atomic layer epitaxy (ALE). The process involved alternating exposures to TEl, PH3, and TMGa fluxes, resulting in high-quality, smooth films with a low band gap. The films showed preferential ordering on (111) alternating planes and exhibited anomalous temperature-dependent photoluminescence behavior.",
-  "evidence": "The ALE growth system was used with organometallic and hydride sources. The structure was deposited at substrate temperatures in the range 500-700°C. The ternary GaInP alloy grown at 500°C showed a peak corresponding to x ≈ 46% with a mismatch to the substrate of about 0.3%. The photoluminescence (PL) spectrum showed a sharp peak at 1.868 eV with a FWHM of about 30 meV. The temperature dependence of the near-gap PL peak energy showed anomalous behavior where the peak energy decreases, then increases with increasing temperature in the range 20-60 K."
-}<|im_end|>

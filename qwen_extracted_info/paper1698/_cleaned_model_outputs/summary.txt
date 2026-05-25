@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu nanoparticle chains",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Al(CH3)3", "deionized H2O"],
-  "temperature_range": "200 °C",
-  "summary": "Cu nanoparticle chains encapsulated in Al2O3 nanotubes were synthesized by reducing CuO nanowires embedded in Al2O3 shells produced via atomic layer deposition (ALD). The process involves the formation of nanoparticle chains through Rayleigh instability induced by volume shrinkage during reduction at elevated temperatures.",
-  "evidence": "The Al2O3 coating was deposited by atomic layer deposition (ALD). The voids within the Al2O3 tubes, due to volume shrinkage created by the reduction of oxide to metal, provides the possibility of Rayleigh instability to occur at elevated temperatures."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Hf(NCH3)4", "O3"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the thermal stability and composition changes of atomic layer deposited HfO2 on Si using in situ O3 pretreatment. The process involves growing HfO2 films using ALD with Hf(NCH3)4 as the Hf source and O3 as the oxidant at 300 °C. The thermal stability of the HfO2/SiO2 stack is evaluated after postdeposition annealing (PDA) at temperatures ranging from 760 to 1000 °C. The thick SiO2 layer provides better thermal stability due to the consumption of the interfacial SiO2 layer during Hf silicate formation, while the thin SiO2 layer shows inferior stability due to enhanced Si diffusion from the Si substrate.",
-  "evidence": "HfO2 thin films were grown in 5, 10, and 20 cycles by ALD using Hf(NCH3)4 as Hf source and O3 with a concentration of 160 g/m3 as oxidant at 300 °C on 4 in. diameter p-type (100)Si substrates. PDA was performed using rapid thermal annealing at a temperature ranging from 760 to 1000 °C for 30 s in N2 atmosphere. The HfO2/thick SiO2 stack maintained a good thermal stability up to the postdeposition annealing at 1000 °C because Hf silicate formation was accompanied by the consumption of the interfacial SiO2 layer. On the other hand, the HfO2/thin SiO2 layer stack showed an inferior stability because Hf silicate was formed by enhanced Si diffusion from the Si substrate during the same postdeposition annealing."
-}<|im_end|>

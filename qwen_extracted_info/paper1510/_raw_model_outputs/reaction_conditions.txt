@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the adsorption of the precursors followed by oxidation. The hydrophobicity is maintained due to the shielding of the 4f orbitals by the 5s2p6 shell, reducing interaction with water molecules. The hydrophobicity is degraded upon annealing due to hygroscopy, leading to the formation of hydroxyl groups.",
-  "intermediate_species": ["surface hydroxyls", "adsorbed Dy precursor", "adsorbed Y precursor"],
-  "evidence": "The hydrophobicity of ALD-grown REOs is attributed to the shielding of the 4f orbitals by the 5s2p6 shell, reducing interaction with water molecules. The degradation of hydrophobicity upon annealing is related to the hygroscopy of REOs, leading to the generation of surface hydroxyl groups. The O 2 plasma oxidant is more reactive than H 2O, influencing the reactions of the Dy precursor on the surface."
-}<|im_end|>

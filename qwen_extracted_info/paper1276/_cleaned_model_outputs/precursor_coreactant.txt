@@ -1,7 +1,0 @@
-{
-  "precursors": ["Diethylzinc (DEZ)", "Copper(II) hexafluoroacetylacetonate (Cu(hfac)2)"],
-  "coreactants": ["Hydrogen sulfide (H2S)"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ALD of ZnS (at 150oC), involving the overall chemical reaction (C2H5)2Zn + H2S → ZnS + 2 C2H6 ↑ is described in the supplementary information (Figure S2). Based on the already reported (Metal)(hfac)x chemistries, the binary reaction for CuS ALD can be proposed as follows: Cu(hfac)2 + H2S → CuS + 2 H(hfac) ↑"
-}

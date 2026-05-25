@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALE growth mode involves alternating exposure of the wafer to Group III (TMG) and Group V (AsH3 or TBA) precursors. The growth process is self-limiting, with one monolayer of column III atoms followed by one monolayer of column V atoms, resulting in one monolayer of epitaxial growth. The self-limiting growth is affected by the TMG flux and exposure time, with the process window narrowing at higher temperatures.",
-  "intermediate_species": ["methyl group", "surface hydroxyls", "formate species"],
-  "evidence": "The surface reaction mechanism is described as involving alternating exposure of the wafer to Group III and Group V precursors, with the growth process being self-limiting. The text mentions that the removal of the boundary layer is crucial for obtaining the ALE growth mode over a wide process window. Additionally, the text discusses the reduction of carbon incorporation by efficiently removing the methyl group, which is accomplished by increasing the growth temperature and using high AsH3 flux."
-}

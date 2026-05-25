@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Ru(EtCp)2", "O2"],
-  "temperature_range": "300°C",
-  "summary": "The study describes the fabrication of a porous anodic aluminum oxide (AAO) template with a TiN bottom electrode. The TiO2 pillars formed during anodization were selectively removed using a SC1 solution. Ru nanowires were deposited via thermal ALD using Ru(EtCp)2 as a precursor and O2 as a reactant. The contact resistance between Ru nanowires and the TiN electrode was measured using conductive atomic force microscopy (C-AFM), showing uniform ohmic behavior with a resistance of 2.7 ± 0.3 kΩ per nanowire.",
-  "evidence": "Ru was deposited using a thermal ALD process (GENI-MP1000, ASM-Genitech, Inc.) with diethylcyclopentadienyl ruthenium (Ru(EtCp)2) as a precursor and O2 as a reactant. The deposition temperature was 300°C. The resistance of Ru nanowires was measured by AFM with a conducting tip, showing a resistance of as low as 2.7 ± 0.3 kΩ per single Ru nanowire."
-}<|im_end|>

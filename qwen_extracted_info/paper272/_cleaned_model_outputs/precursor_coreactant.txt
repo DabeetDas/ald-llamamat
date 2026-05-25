@@ -1,7 +1,0 @@
-{
-  "precursors": ["Zn{N[Si(CH3)3]2}2", "H2Se", "ZnEt2"],
-  "coreactants": ["H2Se"],
-  "purge_gas": [],
-  "carrier_gas": [],
-  "evidence": "We have grown nominally undoped ZnSe on GaAs from the precursors H2Se and Et2Zn. Replacement of Et2Zn by Zn[N(TMS)2]2 produced crystalline ZnSe of a lesser quality. Data indicate incorporation of nitrogen into the films when Et2Zn is utilized as the main zinc source with Zn[N(TMS)2]2 being introduced at dopant levels."
-}

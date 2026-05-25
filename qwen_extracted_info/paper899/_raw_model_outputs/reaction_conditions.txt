@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the thermal decomposition of PMMA thin films using a heated cantilever probe, followed by the removal of organic residue through an O2 plasma etch to enable area selective atomic layer deposition (ASALDT). The ALD process uses titanium-isopropoxide and water as precursors to deposit titania features.",
-  "intermediate_species": ["PMMA residue", "organic polymer residue"],
-  "evidence": "It is shown that a brief O2 plasma is capable of removing this organic residue without significant degradation of the patterned PMMA features, thus enabling the deposition of titania features through the PMMA mask using an ALD process based on titanium-isopropoxide and water precursors at an ALD process temperature of 140 /C176C."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3/ZrO2 high-k dielectric stacks",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethylaluminum (TMA)", "tetrakis(diethylamino)zirconium"],
-  "temperature_range": "150°C and 300°C",
-  "summary": "The study investigates the impact of Germanium surface conditioning and ALD-growth temperature on Al2O3/ZrO2 high-k dielectric stacks. It demonstrates that deposition on germanium-oxide-free substrates using HBr-etching pretreatment yields higher breakdown voltages. Lower deposition temperatures (150°C) result in decreased leakage currents and lower inversion capacitances at high frequencies. The process involves ALD using TMA and tetrakis(diethylamino)zirconium precursors with H2O as the oxygen source.",
-  "evidence": "Al2O3,Z r O2, and Al2O3/ZrO2/Al2O3 high-k dielectric stacks are grown on germanium substrates by atomic layer deposition at temperatures of 150 and 300°C. ... The speciﬁc behavior of the inversion MOS capacitance even at high frequencies is still under investigation. ... In this work triple layers of AZA grown on germanium substrates by ALD from a chlorine-free precursor system deposited at 150 and 300°C are investigated and compared in terms of their electrical behavior. ... The ALD proceeded by exposing the substrate surface alternatively to two different precursors. ... Metal-carrying precursors are trimethylaluminum (TMA) for the Al2O3 deposition and chlorine-free tetrakis(diethylamino)zirconium for the ZrO2 deposition, which is at least stable up to 350°C. H2O was used as the oxygen-supplying agent. The substrate temperatures during ALD growth were set to 150 and 300°C, respectively."
-}

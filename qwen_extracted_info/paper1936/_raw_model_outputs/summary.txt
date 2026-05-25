@@ -1,8 +1,0 @@
-{
-  "target_material": "TaOx",
-  "process_type": "PEALD",
-  "main_precursors": ["tantalum ethoxide (Ta(OC2H5)5)", "plasma-activated hydrogen"],
-  "temperature_range": "300°C",
-  "summary": "The study describes the hydrogen radical enhanced atomic layer deposition (PEALD) of TaOx using tantalum ethoxide as the precursor and plasma-activated hydrogen as the reactant. The process allows for the control of oxygen deficiency in the TaOx films, which is crucial for applications requiring adjustable oxygen deficiencies in oxide dielectrics. The growth per cycle saturation behavior was examined, and the chemical state of the TaOx film was found to depend on the active hydrogen pulse duration and hydrogen volume fraction in the H2/Ar plasma mixture. The ab initio calculations of oxygen deficiency concentrations and the energy spectrum were found to correlate with the experimental data.",
-  "evidence": "The growth per cycle saturation behaviors depending on the precursor pulse duration, reactant pulse duration, and reactant concentration were examined for hydrogen radical enhanced atomic layer deposition (PEALD) of TaOx using tantalum ethoxide as the precursor and plasma-activated hydrogen as the reactant. The chemical state of the TaOx film was dependent on the active hydrogen pulse duration and hydrogen volume fraction in the H2/Ar plasma mixture. The ab initio calculations of oxygen deficiency concentrations and the energy spectrum satisfactorily correlated with the experimental data."
-}<|im_end|>

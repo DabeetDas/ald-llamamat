@@ -1,7 +1,0 @@
-{
-  "precursors": ["TEMAHf", "TDMAHf"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "The films were deposited using two different ALD chemistries: i) tetrakis ethylmethyl amino hafnium and H2O at 250° and ii) tetrakis dimethyl amino hafnium and H2O at 275 °C. A filtration system was installed on the inlet of the purge line to remove CO2, moisture and particulates from the purge air. The films were annealed for 2 min in Ar either in a Heatpulse or an ULVAC MILA rapid thermal annealer (RTA)."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum oxide (AlOx)",
-  "process_type": "Two-stage ALD",
-  "main_precursors": ["n-propanol", "water"],
-  "temperature_range": "25 °C",
-  "summary": "The study describes a two-stage ALD process for depositing aluminum oxide (AlOx) on strong hydrophobic alkanethiolate self-assembled monolayers (SAMs). The first stage uses n-propanol as the oxygen source, while the second stage uses water. This process significantly improves the surface morphology of AlOx layers and maintains the structural integrity of the underlying SAMs.",
-  "evidence": "Aluminum oxide (AlOx) was deposited onto strong hydrophobic surfaces of alkanethiolate self-assembled monolayers (SAMs) by a two-stage atomic layer deposition (ALD) process; the first stage utilized n-propanol as the oxygen source, and the second stage proceeded with water. The optimized two-step ALD process significantly improved the surface morphology of AlOx layers and effectively protected the structural integrities of underlying SAMs."
-}

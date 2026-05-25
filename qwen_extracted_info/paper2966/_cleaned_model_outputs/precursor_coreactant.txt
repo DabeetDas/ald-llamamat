@@ -1,7 +1,0 @@
-{
-  "precursors": ["Zr(N(C2H5)2)4"],
-  "coreactants": ["O2 remote plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "Zr-oxide films were deposited on p-type Si (100) substrates by remote PEALD using Zr(N(C2H5)2)4 as a Zr-precursor and oxygen remote plasma as a reactant gas source. Zr(N(C2H5)2)4 was delivered from an external reservoir at 90°C and pulsed into the reactor using Ar carrier gas with the flow rate of 20 sccm. O2 gas flow rate was fixed at 70 sccm and Ar purge gas flow rate at 100 sccm."
-}

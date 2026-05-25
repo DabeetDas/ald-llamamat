@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the sequential exposure of the Sr precursor and water, and Ti(O-i-Pr)4 and water, with the growth rate of SrTiO3 increasing linearly with increasing Sr/Ti cycle ratio. The process is self-limiting, ensuring conformality and uniformity.",
-  "intermediate_species": ["Sr(OH)2*", "Ti(O-i-Pr)4*", "surface hydroxyls", "THF ligands"],
-  "evidence": "The text discusses the ALD process for SrTiO3 and BaTiO3 using cyclopentadienyl compounds as precursors. It mentions the sequential exposure of Sr precursor and water, and Ti(O-i-Pr)4 and water, with the growth rate increasing with the Sr/Ti cycle ratio. The self-limiting nature of the process is highlighted, and the role of surface hydroxyls and THF ligands is implied through the context of precursor release and surface reactions."
-}<|im_end|>

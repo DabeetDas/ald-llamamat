@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ti(NMe2)4 [tetrakis(dimethylamido) Ti, TDMAT]"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "TDMAT was used as a Ti precursor with O2 plasma as a reactant. The chamber was purged by 50 sccm Ar gas between the precursor and the reactant exposure step."
-}

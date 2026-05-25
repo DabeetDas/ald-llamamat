@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu(I) incorporated ZnS (Cu:ZnS)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Diethylzinc (DEZ)", "Copper(II) hexafluoroacetylacetonate (Cu(hfac)2)", "Hydrogen sulfide (H2S)"],
-  "temperature_range": "150°C",
-  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of transparent and conducting p-type Cu(I) incorporated ZnS (Cu:ZnS) thin films. The process involves stacking individual layers of CuS and ZnS using ALD, with the aim of understanding the role of compositional heterogeneity on optical and carrier transport properties. The ALD process uses diethylzinc (DEZ) and copper(II) hexafluoroacetylacetonate (Cu(hfac)2) as metal precursors for ZnS and CuS layers, respectively, with hydrogen sulfide (H2S) as the chalcogen source. The films are deposited at 150°C, and the study investigates the optical transparency, conductivity, and structural properties of the resulting Cu:ZnS films. The optimal composition for transparent conductor application is found to be 80:1, with a resistivity of 1.3×10^−43 Ω·cm and >90% optical transmission.",
-  "evidence": "The study describes the ALD process for depositing Cu:ZnS thin films using DEZ and Cu(hfac)2 as precursors, with H2S as the chalcogen source. The films are deposited at 150°C, and the optimal composition for transparent conductor application is found to be 80:1, with a resistivity of 1.3×10^−43 Ω·cm and >90% optical transmission."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "600 K",
-  "summary": "TiO2 was deposited on ZrO2 particles using alternating exposures of TiCl4 and H2O at 600 K. The process involved sequential surface reactions where TiCl4 removed surface hydroxyls and H2O deposited oxygen, leading to the formation of TiO2 films with atomic layer control. The growth rate was determined to be 0.4 Å per AB cycle.",
-  "evidence": "TiO2 was deposited with atomic layer control on ZrO2 particles using alternating exposures of TiCl4 and H2O. The ZrO2 particles initially displayed vibrational modes consistent with ZrOH* surface species. TiCl4 exposure at 600 K removed the surface hydroxyls and subsequent H2O exposure at 600 K produced TiOH* surface species. Repeating the TiCl4 and H2O exposures in an ABAB... reaction sequence deposited TiO2 with atomic layer control. The intensity of the bulk vibrational modes for TiO2 increased with the number of AB reaction cycles. The ZrO2 particles after TiO2 deposition were examined with transmission electron microscopy (TEM). The TEM images revealed ZrO2 particles encapsulated by conformal TiO2 films with a thickness of /C2416 A˚ after 40 AB reaction cycles. These TEM images are consistent with a TiO2 atomic layer deposition (ALD) growth rate at 600 K of 0.4 A˚ /AB cycle."
-}<|im_end|>

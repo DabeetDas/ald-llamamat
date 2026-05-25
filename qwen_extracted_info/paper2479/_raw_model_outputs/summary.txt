@@ -1,8 +1,0 @@
-{
-  "target_material": "Silicon",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["trimethylgallium (TMGa)", "ozone (O3) or oxygen plasma"],
-  "temperature_range": "75 °C to 350 °C",
-  "summary": "The study investigates the use of plasma-enhanced atomic layer deposition (PEALD) and thermal atomic layer deposition (ALD) to deposit gallium oxide (Ga2O3) films for silicon surface passivation. It highlights that insufficient oxidant pulse lengths in both methods lead to better surface passivation. The study also finds that a critical hydrogen density of ~10^16 cm^-2 is necessary for excellent surface passivation. The results show that PEALD at 75 °C with insufficient oxidant pulses provides the best surface passivation, achieving J0s values of 6 and 9 fA/cm² for n- and p-type silicon, respectively.",
-  "evidence": "The study investigates the use of plasma-enhanced atomic layer deposition (PEALD) and thermal atomic layer deposition (ALD) to deposit gallium oxide (Ga2O3) films for silicon surface passivation. It highlights that insufficient oxidant pulse lengths in both methods lead to better surface passivation. The study also finds that a critical hydrogen density of ~10^16 cm^-2 is necessary for excellent surface passivation. The results show that PEALD at 75 °C with insufficient oxidant pulses provides the best surface passivation, achieving J0s values of 6 and 9 fA/cm² for n- and p-type silicon, respectively."
-}<|im_end|>

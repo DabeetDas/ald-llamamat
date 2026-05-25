@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "PEALD",
-  "main_precursors": ["Mo(CO)6", "H2S plasma"],
-  "temperature_range": "200 oC",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit MoS2 on Si photocathodes for enhancing the photoelectrochemical water reduction reaction. The process involves alternating pulses of Mo and S precursors to form a thin film, followed by post-sulfurization at high temperatures to improve crystallinity and catalytic performance. The ALD process allows for precise control over film thickness and stoichiometry, leading to improved electrochemical performance and stability.",
-  "evidence": "MoS2 film was deposited at 200 oC using a shower-head type plasma-enhanced atomic layer deposition (PEALD) reactor (Lucida(M100, NCD technology) with molybdenum hexacarbonyl [Mo(CO)6] and H2S plasma as a precursor and reactant, respectively."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The titanium oxide film growth mechanism is an intermediate case between the Frank-Van der Merwe (layer-by-layer) and Volmer-Weber (island) models, with the Volmer-Weber model providing a better fit to the experimental data. The growth involves the formation of islands that merge with the film.",
-  "intermediate_species": [
-    "titanium oxide structures"
-  ],
-  "evidence": "The problem of film growth model identification by means of the XPS technique was discussed. It is known that the intensity of photoelectron beam from the overlayer (loverl) and the XPS intensity from a substrate covered by a film of thickness 8 (lsub51) is concerned with the intensity of photoelectrons from a semi-infinite atomically-clean surface of the substrate (overlayer) material (Isub51) and the photoelectron take-off angle e by the following equations. The analysis of the AFM images has allowed one to conclude that as a result of the first cycle of ML the appearance of nanorelief on the microrelief background is observed. The dimension of the titanium oxide structures in the plane of the surface is 3-20 nm and the height (in a direction normal to the plane of the surface) is 0.4-0.8 nm. The following titanium oxide synthesis cycles results in smoothing of coverage profile: after four and eight ML cycles the height of the titanium oxide structures becomes 0.2-0.4 nm."
-}

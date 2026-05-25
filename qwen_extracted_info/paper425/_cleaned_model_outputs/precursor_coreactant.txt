@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylgallium (TMGa)", "triethylgallium (TEGa)", "Ga metal"],
-  "coreactants": ["arsine (AsH3)"],
-  "purge_gas": [],
-  "carrier_gas": [],
-  "evidence": "The flow rates of TMGa (100%), TEGa (100%) and AsH3 (100%) were controlled directly by mass flow controllers (MFC's)."
-}

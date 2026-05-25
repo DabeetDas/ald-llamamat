@@ -1,8 +1,0 @@
-{
-  "target_material": "Hematite (α-Fe2O3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["N,N-(dimethylaminomethyl)ferrocene (DMAMFc)", "Ozone (O3)"],
-  "temperature_range": "230 °C",
-  "summary": "The study describes a low-temperature atomic layer deposition (ALD) process for depositing crystalline and photoactive hematite films without the need for post-annealing. The process uses DMAMFc and ozone as precursors at 230 °C, resulting in phase-pure hematite films with minimal carbon contamination. These films exhibit high photoactivity and are suitable for solar water splitting applications. The ALD process enables conformal deposition on nanostructured substrates, and the films show excellent photoelectrochemical performance, with photocurrent densities up to 0.3 mA cm⁻² at 1.23 V vs. RHE. The study also highlights the benefits of using a TiO2 underlayer to enhance performance and reduce recombination losses.",
-  "evidence": "We developed a low-temperature atomic layer deposition route to deposit phase pure and crystalline hematite (α-Fe2O3) films at 230 °C without the need for post-annealing. These as-deposited α-Fe2O3 films were investigated as photoanodes for photoelectrochemical water oxidation and found to be highly photoactive. Combined with a TiO2 underlayer and a low-cost Ni(OH)2 catalyst, hematite films of less than 10 nm in thickness reached photocurrent densities of 0.3 mA cm⁻² at 1.23 V vs. RHE and a photocurrent onset potential of less than 0.9 V vs. RHE, previously unseen for films this thin and without high temperature annealing."
-}

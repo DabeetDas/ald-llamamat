@@ -1,8 +1,0 @@
-{
-  "target_material": "La xSr1-xTiO3 (La:STO)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Sr(iPr3Cp)2", "La( iPr2-fmd)3", "Ti(O-iPr)4", "water"],
-  "temperature_range": "225 °C for ALD growth, 550 °C to 650 °C for post-deposition annealing",
-  "summary": "La xSr1-xTiO3 (La:STO) thin films were grown on SrTiO3-buffered Si (001) substrates using atomic layer deposition (ALD). The films were post-deposition annealed at 550 °C to 650 °C to achieve crystallization and electrical activation of La. The study aimed to demonstrate the selective incorporation of lanthanum in La:STO films for potential use in ferroelectric field-effect transistors (FeFETs).",
-  "evidence": "Strontium titanate, SrTiO3 (STO), thin films incorporated with lanthanum are grown on Si (001) substrates at a thickness range of 5–25 nm. Atomic layer deposition (ALD) is used to grow the La xSr1-xTiO3 (La:STO) films after buffering the Si (001) substrate with four-unit-cells of STO deposited by molecular beam epitaxy. The low temperature ALD growth (225 °C) and post-deposition annealing at 550 °C for 5 min maintains an abrupt interface between Si (001) and the crystalline oxide."
-}<|im_end|>

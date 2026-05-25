@@ -1,8 +1,0 @@
-{
-  "target_material": "La2O3",
-  "process_type": "RPALD",
-  "main_precursors": ["tris(isopropylcyclopentadienyl)lanthanum", "O2 plasma"],
-  "temperature_range": "300°C for deposition, 800°C for annealing",
-  "summary": "The study investigates the effects of different annealing ambients on the physical and electrical properties of La2O3 films deposited by remote plasma atomic layer deposition (RPALD). The films were annealed at 800°C in O2, N2, and vacuum ambients. The chemical bonding states and interfacial layers were analyzed using XPS, and the electrical properties were studied through C-V and I-V measurements. The annealing process reduced OH groups and affected the interfacial layer thickness and oxide charge, leading to changes in flatband voltage and leakage current.",
-  "evidence": "La2O3 films were deposited on Si substrates by remote plasma atomic layer deposition (RPALD) using tris(isopropylcyclopentadienyl)lanthanum and O2 plasma as precursors. The films were annealed at 800°C for 1 min in O2, N2, and vacuum ambients. The chemical bonding states at the interface between the Si substrate and the La2O3 films were analyzed using XPS. The amount of OH groups absorbed from air in the La2O3 films decreased after annealing at 800°C. The electrical properties of the La2O3 films were studied using capacitance–voltage and current–voltage plots."
-}

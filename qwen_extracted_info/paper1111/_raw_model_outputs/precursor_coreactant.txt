@@ -1,7 +1,0 @@
-{
-  "precursors": ["tri-methyl-aluminum (TMA)"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The ALD deposition process consists of alternating two precursors inside the vacuum reactor chamber: tri-methyl-aluminum (TMA from Sigma Aldrich) and deionized water (18 M Ω ). The TMA precursor is introduced into the reactor chamber for 25 ms, then the reactor chamber is purged with N2 (20 sccm) for 8 s, which is followed by the introduction of the H2O precursor into the process chamber also for 25 ms, and finally the chamber is purged again with N2 (20 sccm) for another 8 s."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Nickel Sulfide (NiS)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["bis(N,N′-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2)", "H2S"],
-  "temperature_range": "200 °C",
-  "summary": "The study investigates the initial growth and agglomeration during the atomic layer deposition (ALD) of nickel sulfide (NiS) on SiOx surfaces using bis(N,N′-di-tert-butylacetamidinato)nickel(II) (Ni(amd)2) and H2S as precursors. The initial growth mechanism differs from the later steady-state growth, involving the formation of Ni−O bonds followed by conversion to NiS through agglomeration. The transition to continuous film growth occurs between 100 and 300 ALD cycles. The results highlight the importance of surface chemistry and agglomeration in the initial stages of ALD for metal sulfides.",
-  "evidence": "The study describes the ALD process of NiS using Ni(amd)2 and H2S as precursors at 200 °C. It details the initial growth mechanism involving Ni−O bonds and their conversion to NiS through agglomeration. The transition from initial reaction-agglomeration growth to steady-state growth is observed between 100 and 300 ALD cycles. The findings emphasize the role of surface chemistry and agglomeration in the initial stages of ALD for metal sulfides."
-}

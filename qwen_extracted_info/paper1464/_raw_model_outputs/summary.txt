@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["t-Butoxytris(ethylmethylamido)hafnium (BTEMAH)", "tetrakis(isopropoxide) titanium (TTIP)"],
-  "temperature_range": "250 /C176C",
-  "summary": "HfO2 thin films were deposited on rutile TiO2 and anatase TiO2 layers using atomic layer deposition (ALD) at 250 /C176C. The crystalline structure of the HfO2 layer was influenced by the TiO2 under-layer, with HfO2 on rutile TiO2 showing a mixed structure of amorphous and tetragonal phases, resulting in a higher dielectric constant of ~29. This structure suppressed leakage current and achieved an equivalent oxide thickness (tox) of 0.41 nm with a leakage current of ~2 /C2 10-7 A/cm2 at 0.8 V.",
-  "evidence": "HfO2/TiO2 bilayered thin films were grown on Ru and TiN electrodes at 250 /C176C by atomic layer deposition. The HfO2 layer grown on an anatase-structured TiO2 layer crystallized into a monoclinic structure with a dielectric constant of ~16, whereas the HfO2 layer grown on rutile-structured TiO2 contained a mixture of tetragonal (or cubic) and amorphous phases. This mixed structured-HfO2 film had a higher dielectric constant of ~29. The HfO2 layer on rutile TiO2 suppressed the leakage current effectively. Consequently, an equivalent oxide thickness of 0.41 nm from the HfO2/TiO2 bilayer (thickness of HfO2 and TiO2 was 0.5 and 6 nm, respectively) was achieved with a leakage current of ~2 /C2 10-7 A/cm2 at an applied voltage of 0.8 V."
-}<|im_end|>

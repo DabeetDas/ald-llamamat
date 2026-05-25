@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface chemistry involves the removal of methyl groups from the surface by NHx species present in the ammonia plasma, which also aids in the formation of InN by reacting with trimethylindium (TMI). The NH3 plasma is crucial for the removal of hydrocarbons and the formation of a nitrogen-rich surface, which facilitates the self-limiting growth of InN.",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "The text states: 'The approach to InN ALD employing NH3 plasma is interesting since the NHx species present in the plasma are believed to remove hydrocarbons from the surface.' Additionally, it mentions: 'The low carbon level is attributed to a favorable surface chemistry enabled by the NH3 plasma.'"
-}<|im_end|>

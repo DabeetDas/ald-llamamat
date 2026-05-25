@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnS",
-  "process_type": "atomic layer epitaxy (ALE)",
-  "main_precursors": ["zinc chloride", "hydrogen sulphide"],
-  "temperature_range": "370°C (ZnCl2) and 510°C (substrate)",
-  "summary": "Monocrystalline ZnS-sphalerite films were grown on GaAs substrates using atomic layer epitaxy with zinc chloride and hydrogen sulphide precursors. The films exhibited cubic structure and maintained the (1 0 0) orientation of the GaAs substrates. The process was performed under specific temperature conditions and showed good controllability.",
-  "evidence": "Monocrystalline films of cubic ZnS have been produced from zinc chloride and hydrogen sulphide by atomic layer epitaxy ALE in a gas flow system. The process has been led under the same conditions, as applied already for the wurtzite film growth [-2], that is 3600 cycles at the temperature of ZnCI2 370°C and of the substrate 510°C. The authors are very indebted to Profs. L. Niinisto and M. Leskela and also to Dr. E. Nykanen for many valuable discussions."
-}

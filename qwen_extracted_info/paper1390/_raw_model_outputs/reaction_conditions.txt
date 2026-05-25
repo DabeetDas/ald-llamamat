@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of TDMASn and H2S on the substrate, followed by surface reactions that form SnSx. The growth rate is highly dependent on the deposition temperature, and reaction times of 1 second for TDMASn and H2S were required to reach the saturation regime. The surface morphology and crystal structure of SnSx are influenced by the deposition temperature, with amorphous films below 120 °C and crystalline structures above 120 °C.",
-  "intermediate_species": ["Sn 3d molecular orbital states", "surface hydroxyls", "unsaturated Sn 3d occupied/empty states"],
-  "evidence": "The text discusses the ALD process using TDMASn and H2S as precursors, with the growth rate dependent on the deposition temperature. It mentions the formation of SnSx films with varying compositions based on temperature, and the role of unsaturated Sn 3d molecular orbital states in improving electrical conductivity. The surface reaction mechanism is described in the context of the ALD process and the resulting crystal structures."
-}<|im_end|>

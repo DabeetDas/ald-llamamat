@@ -1,8 +1,0 @@
-{
-  "target_material": "Si",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["SiH2CI2", "H2"],
-  "temperature_range": "540 °C",
-  "summary": "The study describes the use of atomic H as a reducer gas in atomic layer epitaxy (ALE) of Si. The process involves alternating exposure of the Si(111) substrate to SiH2CI2 and H, achieving ideal monolayer growth at 540 °C. The lower temperature limit is significantly lower than when using H2 as the reducer gas.",
-  "evidence": "The ALE growth was attempted by the alternating exposure of the Si(111) substrate to SiH2CI2 and H. Ideal monolayer growth was obtained and the growth rate was independent of the gas volumes and the substrate temperature. The lower ALE limit of the substrate temperature was 540 °C, about 250 °C lower than the case of H2 as the reducer gas."
-}

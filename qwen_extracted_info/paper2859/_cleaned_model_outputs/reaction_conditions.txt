@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the nitridation of the native oxide on the Si surface by pulse plasma, which suppresses Si diffusion through pinholes in the native oxide. This nitridation process forms a Si–O–N film, preventing the reduction of WF6 and enabling the uniform deposition of W–N thin films. The NH3 pulse plasma provides reactive radicals such as NH+, NH2+, NH+, and H+ that suppress Si reduction of WF6 by passivating the pinholes in the native oxide.",
-  "intermediate_species": ["Si–O–N film", "SiOxNy", "reactive radicals (NH+, NH2+, NH+, H+)"],
-  "evidence": "During the PPALD process, the pulse plasma provides reactive radicals such as NH+, NH2+, NH+, and H+ that suppress Si reduction of WF6 by passivating the pinholes in the native oxide. The formation of Si–O–N film during nitridation prevents the diffusion of Si through the pinholes, which is confirmed by HR-TEM showing that about 5nm thick SiOxNy is remained beneath the W–N layer."
-}

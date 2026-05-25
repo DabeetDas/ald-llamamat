@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO 2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TiCI 4", "H20"],
-  "temperature_range": "100-500°C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of TiO 2 films using TiCI 4 and H20 as precursors at reactor temperatures ranging from 100 to 500°C. The films exhibit different structural properties depending on the growth temperature, with amorphous films formed at temperatures below 165°C, anatase structure observed between 165-350°C, and rutile structure at temperatures above 350°C. The surface morphology and optical properties are significantly influenced by the film structure and growth temperature. The study highlights the ability to control the film structure and surface roughness by adjusting the growth temperature.",
-  "evidence": "Atomic layer deposition of TiO 2 films from TiCI 4 and H20 was studied at reactor temperatures 100-500°C. Amorphous films grew at temperatures below 165°C, anatase structure was observed in the films grown at 165-350°C while rutile dominated in the films obtained at temperatures above 350°C. The surface morphology and optical losses of the films are related to the film structure. The highest surface roughness was observed at the temperature of amorphous to crystalline phase transition. The smoothest surfaces were recorded for amorphous films. The amorphous films grown at 100°C had optical losses below 100 cm -1 in the visible range of the spectrum."
-}

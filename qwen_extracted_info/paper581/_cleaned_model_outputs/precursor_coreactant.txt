@@ -1,7 +1,0 @@
-{
-  "precursors": ["GaCl", "NH3"],
-  "coreactants": [],
-  "purge_gas": ["H2"],
-  "carrier_gas": [],
-  "evidence": "The GaCl obtained by the reaction between metallic Ga and HCl at 780 8C was fed intermittently onto the substrate surface using a suction pump. NH was used as a nitrogen source and introduced intermittently from a separate tube using air-operated valves. One ALE cycle consists of four stages: GaCl supply step 1 , H purge step 2 , NH supply step 3 and H purge step 4 ."
-}

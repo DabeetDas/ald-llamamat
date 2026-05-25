@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Co nuclei were randomly formed and Co deposition occurred on the grown-Co surface rather than the a-SiNx surface, resulting in an apparently high growth rate, high roughness, and low density. The growth per cycle gradually increases and saturates due to the surface being gradually changed from the original surface to a newly grown film surface.",
-  "intermediate_species": [
-    "a-SiN x interlayer"
-  ],
-  "evidence": "Due to the NH 3 plasma, an a-SiN x interlayer was rapidly formed on the Si substrate within 10 cycles. Co nuclei were randomly formed and Co deposition occurred on the grown-Co surface rather than the a-SiNx surface, resulting in an apparently high growth rate, high roughness, and low density. In contrast to this, if the substrate has a higher reaction probability with precursors, growth per cycle decreases and saturates. Therefore, current PE-ALD-produced Co film shows substrate-inhibited growth characteristics between a-SiN x and grown-Co surfaces."
-}

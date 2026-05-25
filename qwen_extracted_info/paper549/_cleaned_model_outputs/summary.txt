@@ -1,8 +1,0 @@
-{
-  "target_material": "W N yTiN and WN C yTiN nanolaminates",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["TiCl3", "ammonia (NH3)", "tungsten hexafluoride (WF6)", "triethylboron (B(CH3)3)"],
-  "temperature_range": "350 8C",
-  "summary": "The study describes the atomic layer deposition (ALD) of W N yTiN and WN C yTiN nanolaminates as diffusion barrier materials for copper metallization. The process involves using different precursors for each layer, with triethylboron acting as a reducing agent for tungsten and gettering agent for halogens. The films were found to have good compatibility with copper, low resistivity, and excellent step coverage. The nanolaminates were designed to create complex diffusion paths, reducing the risk of copper pitting and improving barrier properties.",
-  "evidence": "Diffusion barrier materials, such as TiN, W N, WN C and their nanolaminates were deposited by atomic layer deposition method. TiN film exhibited excellent properties, but W N film exhibited high resistivity despite the low residue concentration. Both TiN and W N films suffered from serious incompatibility with the copper metal. WN C film was deposited by introducing triethylboron as a reducing agent for tungsten. Excellent film properties were obtained, including very good compatibility with the copper metal, evident as strong adhesion and no pitting on the copper surface. Nanolaminate barrier stacks of W N yTiN and WN C yTiN were successfully deposited."
-}

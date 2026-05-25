@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO:H",
-  "process_type": "thermal ALD",
-  "main_precursors": ["DEZ", "H2O"],
-  "temperature_range": "200 °C",
-  "summary": "High-mobility hydrogen-doped zinc oxide (ZnO:H) films were prepared using thermal ALD in conjunction with interleaved H2 plasma treatments. The H2 plasma treatment was found to enhance grain size and reduce grain boundary scattering, leading to high mobility values up to 47 cm²/Vs and a resistivity of 1.8 mΩ cm. The study highlights the potential of ZnO:H as a transparent conductive oxide (TCO) for solar cell applications.",
-  "evidence": "In this work, atomic layer deposition (ALD) has been employed to prepare high-mobility H-doped zinc oxide (ZnO:H) films. Hydrogen doping was achieved by interleaving the ZnO ALD cycles with H2 plasma treatments. It has been shown that doping with H2 plasma offers key advantages over traditional doping by Al and B, and enables a high mobility value up to 47 cm²/Vs and a resistivity of 1.8 mΩ cm."
-}

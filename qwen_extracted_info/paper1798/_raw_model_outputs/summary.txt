@@ -1,8 +1,0 @@
-{
-  "target_material": "sodium titanates",
-  "process_type": "thermal ALD",
-  "main_precursors": ["sodium tertbutoxide (NaO tBu)", "titanium(IV) isopropoxide (TTIP)", "distilled water (H2O)"],
-  "temperature_range": "200 °C to 275 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to fabricate sodium titanate anode materials for sodium-ion batteries. The ALD process allows for precise control over the growth rate, film thickness, and composition of sodium titanates, enabling the deposition of uniform films on various substrates. Amorphous sodium titanates exhibit high specific capacity, excellent rate capability, and ultra-long cycling life, making them promising anode materials for sodium-ion batteries.",
-  "evidence": "The ALD process shows excellent controllability over the growth rate, film thickness, composition of sodium titanates, and high flexibility of coating uniform sodium titanate films onto various dimensions of substrates. Moreover, the amorphous sodium titanate deposited on carbon nanotubes exhibits high specific capacity, excellent rate capability, and ultra-long cycling life (~ 100 mAh g-1 after 3500 cycles)."
-}<|im_end|>

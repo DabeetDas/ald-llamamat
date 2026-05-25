@@ -1,7 +1,0 @@
-{
-  "precursors": ["bis(N,N′-di-tert-butylacetamidinato)nickel(II)"],
-  "coreactants": ["H2 plasma"],
-  "purge_gas": ["H2 gas"],
-  "carrier_gas": ["N2 gas"],
-  "evidence": "The Ni(amd)2 vapor was delivered into the deposition chamber with the assist of purified N 2 gas (50 sccm) as the carrier gas. H 2 gas (50 sccm) as the purging gas to remove excess nickel precursor."
-}

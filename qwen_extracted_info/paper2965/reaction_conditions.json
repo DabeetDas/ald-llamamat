@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the use of trimethylaluminum (TMA) and water (H2O) as precursors. The sequence of pulses for one cycle deposition of AlOx is TMA (0.5 s)/N2 (0.8 s)/H2O (1.43 s)/N2 (2.5 s).",
-  "intermediate_species": [
-    "Al-OH*",
-    "surface hydroxyls"
-  ],
-  "evidence": "The sequence of pulses for one cycle deposition of AlOx is TMA (0.5 s)/N2 (0.8 s)/H2O (1.43 s)/N2 (2.5 s)."
-}

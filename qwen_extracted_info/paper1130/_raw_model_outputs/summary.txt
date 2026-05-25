@@ -1,8 +1,0 @@
-{
-  "target_material": "Fe-doped ZrO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Zr(TMHD)4", "Fe(TMHD)3", "ozone"],
-  "temperature_range": "350 °C",
-  "summary": "The study investigates the effect of Fe doping on the structural properties of ZrO2 films grown by atomic layer deposition (ALD) using Zr(TMHD)4 and Fe(TMHD)3 as precursors, with ozone as the oxygen source. The ALD process was optimized to achieve uniform chemical composition and control Fe content through precursor pulse ratio. The films were annealed at 600 °C, leading to stabilization of the tetragonal/cubic phase of ZrO2 and the formation of oxygen vacancies, which may contribute to ferromagnetism.",
-  "evidence": "In this work we investigated the effect of Fe doping on structural properties of ZrO2 grown by atomic layer deposition (ALD) using Zr(TMHD)4 for Zr and Fe(TMHD)3 for Fe precursors (TMHD = 2,2,6,6-tetramethyl-3,5-heptanedionate) and ozone as oxygen source. The temperature during the growth process was fixed at 350 °C. The ALD process was tuned to obtain Fe-doped ZrO2 films with uniform chemical composition, as seen by the time of flight secondary ion mass spectrometry. The control of Fe content was effectively reached, by controlling the ALD precursor pulse ratio, as checked by X-ray photoemission spectroscopy (XPS) and spectroscopic ellipsometry. From XPS, Fe was found in Fe3+ chemical state, which maximizes the magnetization per atom. We also found, by grazing incidence X-ray diffraction, that the inclusion of Fe impurities in ZrO2 induces amorphization in thin ZrO2 films, while it stabilizes the high temperature crystalline tetragonal/cubic phase after rapid thermal annealing at 600 °C."
-}<|im_end|>

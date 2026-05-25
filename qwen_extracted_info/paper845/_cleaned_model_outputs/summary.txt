@@ -1,8 +1,0 @@
-{
-  "target_material": "iron oxide",
-  "process_type": "thermal ALD",
-  "main_precursors": ["ferrocene", "ozone"],
-  "temperature_range": "300–500 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of iron oxide films on planar and three-dimensional SiO2/Si substrates, with some substrates pre-covered with SnO2 nanoparticles. The films were grown from ferrocene and ozone precursors at temperatures between 300 and 500 °C. The presence of SnO2 nanoparticles influenced the composition and magnetization of the films, resulting in higher saturation magnetization and coercivity compared to films without nanoparticles. The films exhibited a mixed phase structure of hematite (α-Fe2O3), maghemite (γ-Fe2O3), and magnetite (Fe3O4). The study highlights the application of SnO2 nanoparticles to enhance the magnetic properties of the films.",
-  "evidence": "Magnetic iron oxide films were grown by atomic layer deposition. The films were grown from ferrocene and ozone precursors on planar and 3D SiO2/Si substrates. Some substrates were pre-covered with self-assembled SnO2 nanoparticles... The films on SnO2 possessed slightly higher coercivity and markedly higher saturation magnetization compared to the films on SiO2/Si. Both Fe2O3 and Fe3O4 were recognized in the as-deposited films... The application of SnO2 nanoparticles influenced the composition, also promoting growth and magnetization."
-}

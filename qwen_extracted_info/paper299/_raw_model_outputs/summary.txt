@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnS/SnO2 coaxial nanowires",
-  "process_type": "thermal ALD",
-  "main_precursors": ["SnCl4", "H2O"],
-  "temperature_range": "350 /C176C",
-  "summary": "The study investigates the thermal annealing effects on the photoluminescence properties of ZnS-core/SnO2-shell coaxial nanowires synthesized via a two-step process: thermal evaporation of ZnS powders and atomic layer deposition (ALD) of SnO2. The SnO2 shells are crystallized by thermal annealing, and the photoluminescence (PL) intensity is enhanced, particularly in reducing atmospheres.",
-  "evidence": "The ALD technique was chosen to sheath the ZnS wires with SnO2 since ALD is widely known to be a film deposition technique offering excellent thickness uniformity. The SnCl4 and H2O were used as the precursors for Sn and an oxidant, respectively. The typical process parameters for SnO2 deposition used in these ALD processes are as follows: base vacuum = 1.0 9 10-6 Torr, chamber pressure = 0.1 Torr, N2 gas flow rate = 100 sccm, and substrate temperature = 350 /C176C. The PL emission is more significantly enhanced in intensity by annealing in a reducing atmosphere than in an oxidative atmosphere since AuZn- is more easily generated in the ZnS cores in the former atmosphere."
-}<|im_end|>

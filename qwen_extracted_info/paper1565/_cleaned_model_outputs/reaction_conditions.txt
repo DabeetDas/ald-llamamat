@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process uses water and the homoleptic dinuclear iron(III) tert-butoxide complex, Fe2(OtBu)6, to deposit Fe2O3. The Fe2(OtBu)6 precursor is heated to 100 °C, with deposition occurring in a temperature window between 130 and 170 °C. The process involves the thermal decomposition of Fe2(OtBu)6, which sets the upper limit for ALD. The internal walls of the anodic alumina membrane are covered with a smooth layer of Fe2O3, forming nanotubes.",
-  "intermediate_species": ["Fe2(OtBu)6", "tert-butoxide ligands", "surface hydroxyls"],
-  "evidence": "Water and the homoleptic dinuclear iron(III) tert-butoxide complex, Fe2(OtBu)6, were used for ALD of Fe2O3. When the Fe2(OtBu)6 precursor was heated to 100 °C, a temperature window was found between 130 and 170 °C in which the solid deposits in amounts proportional to the number of reaction cycles. The onset of Fe2(OtBu)6 thermal decomposition sets the upper limit of ALD. When the process is carried out with a self-ordered porous anodic alumina membrane as the substrate, the internal walls are covered conformally with a smooth layer of Fe2O3, yielding arrays of tubes."
-}

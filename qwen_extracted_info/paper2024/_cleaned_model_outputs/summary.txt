@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfI4", "O2"],
-  "temperature_range": "570–755 °C",
-  "summary": "Stoichiometric pure HfO2 films monoclinic in structure were grown by an atomic layer deposition process using HfI4 and O2 as the hafnium and oxygen precursors. The oxygen to hafnium ratio corresponded to the stoichiometric dioxide within the limit of accuracy of ion beam analysis. Hysteresis of the capacitance–voltage curves was observed in Al/HfO2/p-Si(100) structures. SiO2 interface layers 1.5–2.0 nm thick formed between HfO2 films and Si substrates. The effective permittivity of the dielectric layers varied between 12 and 16. The breakdown field reached approximately 1.5 MV/cm in the films grown with O2 pressure of 0.3 Torr and 2.0 MV/cm in the films grown with partial pressure of 0.1 Torr.",
-  "evidence": "Stoichiometric pure HfO2 films monoclinic in structure were grown by an atomic layer deposition process using HfI4 and O2 as the hafnium and oxygen precursors. The oxygen to hafnium ratio corresponded to the stoichiometric dioxide within the limit of accuracy of ion beam analysis. Hysteresis of the capacitance–voltage curves was observed in Al/HfO2/p-Si(100) structures. SiO2 interface layers 1.5–2.0 nm thick formed between HfO2 films and Si substrates. The effective permittivity of the dielectric layers varied between 12 and 16. The breakdown field reached approximately 1.5 MV/cm in the films grown with O2 pressure of 0.3 Torr and 2.0 MV/cm in the films grown with partial pressure of 0.1 Torr."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "HgTe, CdTe, and HgCdTe",
-  "process_type": "Flow Modulation Epitaxy (FME)",
-  "main_precursors": ["dimethylmercury (DMHg)", "dimethylcadmium (DMCd)", "methylallyltelluride (MATe)"],
-  "temperature_range": "140 ·C to 290 ·C",
-  "summary": "The study reports on the low-temperature growth of HgTe, CdTe, and HgCdTe using flow modulation epitaxy (FME). The process involves the use of dimethylmercury, dimethylcadmium, and methylallyltelluride as precursors. CdTe growth occurs at temperatures above 250 ·C, while HgTe growth is carried out at 140 ·C. HgCdTe layers are formed by interdiffusing sequential layers of CdTe and HgTe. The growth is self-limiting and results in uniform layers with excellent thickness control.",
-  "evidence": "Growth of CdTe at one monolayer per cycle was obtained at temperatures above 250 ·C. HgTe growth was carried out by FME at 14O·C at atmospheric pressure by precracking the Hg and Te alkyls at 350 .c. HgCdTe layers were grown by interdiffusing sequential layers of CdTe and HgTe."
-}

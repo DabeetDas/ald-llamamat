@@ -1,8 +1,0 @@
-{
-  "target_material": "InP",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["trimethylindium (TMI)", "tertiarybutylphosphine (TBP)"],
-  "temperature_range": "310-350°C",
-  "summary": "The study investigates the self-limiting growth of InP using alternate injections of trimethylindium (TMI) and tertiarybutylphosphine (TBP) in ultrahigh vacuum. Self-limiting growth was achieved at a growth temperature as low as 310°C, with a growth rate of around 0.7 monolayers per cycle. The self-limiting growth conditions were expanded compared to using triethylindium (TEI). The surface morphology was specular under self-limiting growth conditions, and the growth mechanism was attributed to stable surface reconstruction.",
-  "evidence": "Self-limiting growth, in which the growth rate is independent of the injection time and the injection pressure of TMI and TBP, was achieved at a growth temperature as low as 310°C. The range of growth conditions for self-limiting growth using TMI was expanded two-fold compared to that using triethylindium (TEI). The growth rate of around 0.7 monolayer per cycle in self-limiting growth was assumed to be due to stable surface reconstruction of (2×4)-b. The surface morphology of the InP layers was specular under the self-limiting growth conditions."
-}<|im_end|>

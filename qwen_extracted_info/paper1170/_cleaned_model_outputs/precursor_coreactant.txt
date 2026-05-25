@@ -1,7 +1,0 @@
-{
-  "precursors": ["Pb(dbda)", "Pb(btsa)2", "H2S"],
-  "coreactants": ["H2S"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "These precursors produce high quality PbS thin films that are uniform, crystalline, and pure. The films exhibit p-type conductivity and good mobilities of 10−70 cm2 V−1 s−1. Low deposition temperatures enable direct ALD of PbS onto a halide perovskite CH3NH3PbI3 (MAPI) without its decomposition."
-}

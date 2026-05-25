@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethyl aluminum (TMA)"],
-  "coreactants": ["ammonia"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The AlN films were deposited by thermal ALD using TMA and NH3 as a precursor and reaction gas, respectively. The precursor pulse condition for the AlN ALD was as follows: TMA pulse (0.5 s), N2 purge (5 s), NH3 pulse (5 s), and then N2 purge (60 s)."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Hafnium oxide forms silicate and silicide at the interface with Si during postdeposition annealing. The aluminum oxide barrier layer controls interfacial reactions between HfO2 and Si during annealing, preventing silicate and silicide formation up to certain temperatures.",
-  "intermediate_species": ["hafnium silicate", "hafnium silicide"],
-  "evidence": "Hafnium oxide was observed to form silicate and silicide at its interface with Si during 5 min postdeposition annealing in Ar at 800 and 1000 °C. A 0.5-nm-thick Al2O3 barrier layer was found to control interfacial reactions between HfO2 and Si during annealing at 800 °C, but not at 1000 °C, whereas a 1.5-nm-thick barrier of Al2O3 was needed to prevent interfacial reaction up to an annealing temperature of 1000 °C."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Ti-doped Ga2O3 (TGO)",
-  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
-  "main_precursors": ["triethylgallium (TEG)", "oxygen plasma", "titanium tetraisopropoxide (TTIP)", "H2O"],
-  "temperature_range": "120 /C14 C",
-  "summary": "The study describes the synthesis of Ti-doped Ga2O3 (TGO) thin films using plasma-enhanced atomic layer deposition (PE-ALD). The Ti content is controlled up to 11 at% during the PE-ALD process. The optical properties, including bandgap and absorption edges, are tuned by varying Ti concentration, leading to redshifted absorption edges and broader DUV optoelectronic responses. The films are characterized using spectroscopic ellipsometry (SE), transmission spectra, and X-ray photoelectron spectroscopy (XPS).",
-  "evidence": "The Ti content in amorphous TGO thin films is controlled and adjusted up to 11 at% during a plasma-enhanced atomic layer deposition (PE-ALD) process. The major absorption edge of the TGO thin films decreases from 5.2 to 5.0 eV with increasing Ti concentration. A weak absorption at /C25 300 nm and a redshifted absorption edge are observed, ascribed to the insertion of a Ti-related energy level, in the annealed TGO thin films. The optical constants of TGO thin films are analyzed in the wavelength region of 200 –800 nm through spectroscopic ellipsometry (SE) with a point-by-point fitting method."
-}

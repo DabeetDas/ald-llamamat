@@ -1,7 +1,0 @@
-{
-  "precursors": ["Al(CH3)3", "TiCl4"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The binary reaction for Al2O3 is 2Al(CH3)3 + 3H2O → Al2O3 + 6CH4. This binary reaction can be divided into two reactions to define Al2O3 ALD (12, 13) where the asterisks indicate the surface species. For the ALD of TiO2 and SiO2 films, the MCl4 + 2H2O → MO2 + 4HCl reaction for MO2 deposition (where M = Si or Ti) is divided into the following two half-reactions (20-22)."
-}

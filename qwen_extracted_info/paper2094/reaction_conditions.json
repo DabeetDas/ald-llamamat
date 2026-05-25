@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process uses Hf(N(CH3)(C2H5))4 and O3 as oxidant. The ALD process temperature was very important for the fabrication of high-quality HfO2 films. The dielectric constant with 275 °C deposition was higher than that at 200–250 °C. The VFB with 200 °C deposition was about 0.1–0.15 V lower than that at 275 °C, due to formation of high residual impurity concentrations, such as carbon, in the HfO2 films. The leakage current densities in the 275 °C case were reduced by about five orders with respect to reference SiO2 films.",
-  "intermediate_species": [
-    "carbon",
-    "nitrogen"
-  ],
-  "evidence": "The ALD process temperature was very important for the fabrication of high-quality HfO2 films. The dielectric constant with 275 °C deposition was higher than that at 200–250 °C. The VFB with 200 °C deposition was about 0.1–0.15 V lower than that at 275 °C, due to formation of high residual impurity concentrations, such as carbon, in the HfO2 films. The leakage current densities in the 275 °C case were reduced by about five orders with respect to reference SiO2 films."
-}

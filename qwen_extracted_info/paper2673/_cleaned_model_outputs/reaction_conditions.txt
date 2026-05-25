@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the plasma-enhanced atomic layer deposition (PE-ALD) of ZnO using diethyl zinc (DEZ) as the metal precursor and oxygen plasma as the coreactant. The process includes a plasma dose step to activate the surface, followed by Ar purging, DEZ dosing, and another Ar purge. The plasma step is crucial for oxidizing the surface and removing organic ligands from the reacted DEZ molecules, ensuring self-limiting growth.",
-  "intermediate_species": ["surface hydroxyls", "organic ligands"],
-  "evidence": "The text describes the PE-ALD process for ZnO using DEZ and O2 plasma, with the plasma step being essential for oxidizing the surface and removing organic ligands from the reacted DEZ molecules. It mentions that the plasma dose must be sufficient to fully remove the organic ligands to avoid non-self-limiting growth."
-}

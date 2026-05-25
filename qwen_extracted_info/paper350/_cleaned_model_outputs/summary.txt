@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs and AlAs",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["GaCl3", "AlCl3", "AsH3"],
-  "temperature_range": "300–700°C",
-  "summary": "The study explores the low-temperature growth of GaAs and AlAs using direct reaction between GaCl3, AlCl3, and undecomposed AsH3. The growth temperature for GaAs is significantly lower when using AsH3 as the arsenic source compared to solid arsenic. AlAs growth requires higher temperatures due to the stability of AlCl3. The process is influenced by the reactivity of hydrogen in AsH3, which enhances chlorine desorption, and thermodynamic analysis supports the observed growth behaviors.",
-  "evidence": "Low temperature growth of GaAs and AlAs was studied by direct reaction between GaCl3, AlCl3 and undecomposed AsH3. When solid arsenic (As4) was used as the arsenic source, the growth of GaAs and AlAs was obtained at substrate temperatures of 500–650°C and above 650°C, respectively. On the other hand, a much lower temperature (300°C) growth of GaAs could be obtained when undecomposed AsH3 was used. The growth of AlAs, however, was obtained at only above 500°C, even for the direct reaction between AlCl3 and undecomposed AsH3. This is due to the fact that a higher temperature is necessary to reduce the AlCl3 compared with GaCl3."
-}

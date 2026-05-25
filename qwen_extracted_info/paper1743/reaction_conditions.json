@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Conversion of WO3 to WS2 through high-temperature sulfidization in the presence of H2S, leading to the formation of WS2 with high refractive index.",
-  "intermediate_species": [
-    "WO3",
-    "WS2"
-  ],
-  "evidence": "WO3 is readily converted into WS2 at high temperatures in the presence of elemental sulfur or H2S, as demonstrated widely in the literature. The refractive index values of WS2 converted at 650 °C and 850 °C are compared to literature values for bulk WS2."
-}

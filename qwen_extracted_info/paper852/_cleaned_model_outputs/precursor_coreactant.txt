@@ -1,7 +1,0 @@
-{
-  "precursors": ["Mo(CO)6", "dimethyldisulfide (DMDS)"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "Mo(CO)6 and dimethyldisulfide (DMDS) were used as the Mo and S sources, respectively. ALD was performed at 98 °C for a given number of cycles, each consisting of the following steps: Mo(CO)6 exposure (4 s)–N2 purging (30 s)–DMDS exposure (1.5 s) –N2 purging (30 s)."
-}

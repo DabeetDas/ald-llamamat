@@ -1,8 +1,0 @@
-{
-  "target_material": "Co3O4",
-  "process_type": "Remote Plasma ALD",
-  "main_precursors": ["CoCp2", "O2 plasma"],
-  "temperature_range": "100–400 °C",
-  "summary": "Co3O4 thin films were deposited using remote plasma atomic layer deposition (ALD) with CoCp2 as the cobalt precursor and O2 plasma as the oxidant source. The process was conducted over a wide temperature range (100–400 °C) and resulted in high-density, stoichiometric Co3O4 films with a preferential (111) orientation. The growth rate was 0.05 nm/cycle, and the films showed low surface roughness and increasing crystallinity with higher substrate temperatures.",
-  "evidence": "Cobalt oxide thin films have been deposited with remote plasma atomic layer deposition (ALD) within a wide temperature window (100–400 °C), using CoCp2 as a cobalt precursor and with remote O2 plasma as the oxidant source. The growth rate was 0.05 nm/cycle and both the precursor dosing and plasma exposure exhibit saturation after 2 s, all independent of the substrate temperature. This novel combination resulted in the deposition of high density (5.8 g/cm3), stoichiometric Co3O4 showing a preferential (111) orientation for all temperatures."
-}<|im_end|>

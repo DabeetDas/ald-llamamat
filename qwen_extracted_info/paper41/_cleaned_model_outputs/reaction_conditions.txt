@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process employs self-limiting, vapor-based surface reactions to deposit LiFePO4 in a layer-by-layer manner through Fe2O3, POx, and Li2O subcycles. The growth occurs via sequential pulses of FeCp2, O3, TMPO, and H2O, followed by a LiO t Bu and H2O subcycle.",
-  "intermediate_species": ["Fe2O3", "POx", "Li2O"],
-  "evidence": "The ALD growth of LiFePO4 is first verified on a Si (100) substrate. Scheme 1 illustrates the ALD process employed in the deposition of amorphous LiFePO4 at 300 °C with the use of ferrocene (FeCp2), ozone (O3), trimethylphosphate (TMPO), water (H2O), and lithium t-butoxide (LiO t Bu) as precursors. One ALD cycle of LiFePO4 consists of 5 subcycles of (Fe2O3 + POx) and 1 subcycle of Li2O, and is executed by the following sequence of 5 × [FeCp2 (1 s pulse/10 s purge) + O3 (1 s pulse/10 s purge) + TM (2 s pulse/10 s purge) + H2O (1 s pulse/10 s purge)] + 1 × [LiO t Bu (1 s pulse/10 s purge) + H2O (1 s pulse/10 s purge)]."
-}

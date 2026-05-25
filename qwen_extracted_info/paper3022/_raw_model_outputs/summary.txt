@@ -1,8 +1,0 @@
-{
-  "target_material": "Tantalum Nitride (TaN)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["TaF5", "NH3", "H2/Ar plasma"],
-  "temperature_range": "350°C",
-  "summary": "The study describes a two-step thermal ALD process for depositing tantalum nitride (TaN) thin films. The process involves reducing tantalum pentafluoride (TaF5) with hydrogen plasma to form elemental tantalum, followed by nitridation using ammonia (NH3). The resulting TaN films exhibit a 1:1 Ta/N ratio, low fluorine content, and reduced electrical resistivity, making them suitable for copper diffusion barriers in integrated circuits.",
-  "evidence": "The two-step atomic layer deposition of tantalum nitride /H20849TaN/H20850 in which the deposition cycle involved two chemical reaction steps, the formation of elemental tantalum /H20849Ta/H20850 by reducing tantalum–pentafluoride /H20849TaF5/H20850 with hydrogen plasma and the subsequent nitridation of the preformed Ta with NH3, was performed at 350°C. Cubic-TaN with a Ta/N ratio of 1:1 was achieved independently of the nitridation time, and the fluorine content of the films was below the detection limit using Auger electron spectroscopy. As a result, the electrical resistivity of the TaN film was reduced below 500 /H9262/H9024cm by suppressing the formation of Ta3N5."
-}<|im_end|>

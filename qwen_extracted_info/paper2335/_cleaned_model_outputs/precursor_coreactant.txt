@@ -1,7 +1,0 @@
-{
-  "precursors": ["strontium bis(triisopropylcyclopentadienyl)", "tetrakis (dimethylamido) zirconium"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "Bare Ge and Zintl-templated Ge substrate were transferred in situ to the ALD chamber for SZO seed layer growth at 225 /C14 C. Argon carrier gas was at 1 Torr. Strontium bis(triisopropylcyclopentadienyl) from Air Liquide and tetrakis (dimethylamido) zirconium (IV) from Sigma-Aldrich were used as the Sr and Zr precursor and were heated to 130 and 60 /C14 C, respectively. H 2O, maintained at room temperature, was used as the oxygen source. Each unit cycle includes 2-s precursor dosing, 1-s H 2O dosing, and 20-s Ar purging following each reactant exposure."
-}

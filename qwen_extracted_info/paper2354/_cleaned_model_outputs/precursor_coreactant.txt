@@ -1,7 +1,0 @@
-{
-  "precursors": ["DEGaCl (diethylgalliumchloride)"],
-  "coreactants": ["AsH3"],
-  "purge_gas": ["H2"],
-  "carrier_gas": [],
-  "evidence": "One ALE cycle consisted of four steps: AsH3 purge by H2 flow, MO supply with H2 flow, MO purge by H2 flow, and AsH3 supply with Hz flow."
-}

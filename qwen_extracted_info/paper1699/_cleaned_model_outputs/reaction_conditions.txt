@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process facilitates self-sealing and self-limiting behavior during nanochannel fabrication. The conformal deposition of ALD films allows the nanochannels to be self-sealed, and the diameter is automatically determined during ALD, independent of the film thickness. The self-limiting process is based on the undercut geometry formed during wet etching, which dictates the final nanochannel dimension.",
-  "intermediate_species": ["Al2O3/Ru core/shell layers", "Ru gate electrode", "Al2O3 dielectric layer"],
-  "evidence": "The text describes the self-sealing and self-limiting behavior of ALD during nanochannel fabrication. It explains that the conformal deposition of ALD films allows the nanochannels to be self-sealed, and the diameter is automatically determined during ALD, independent of the film thickness. The self-limiting process is based on the undercut geometry formed during wet etching, which dictates the final nanochannel dimension. The core/shell structure is formed by sequential deposition of ALD metal and dielectric layers, with the dielectric layer pinching off the top of the nanochannel."
-}

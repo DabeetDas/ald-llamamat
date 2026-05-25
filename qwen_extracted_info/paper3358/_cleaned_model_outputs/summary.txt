@@ -1,8 +1,0 @@
-{
-  "target_material": "metal fluorides (MgF2, CaF2, LaF3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["hexafluoroacetylacetonate (Hhfac)", "ozone", "Ca(thd)2", "Mg(thd)2", "La(thd)3"],
-  "temperature_range": "300 /C14 C",
-  "summary": "The paper describes the atomic layer deposition of metal fluorides (MgF2, CaF2, LaF3) using two approaches. The first approach involves the reaction of fluorinated metal precursors with ozone, while the second approach uses non-fluorinated metal precursors and ozone, followed by fluorination with hexafluoroacetylacetonate (Hhfac). The films were characterized for their stoichiometry, refractive indices, and optical properties, showing high purity and uniformity.",
-  "evidence": "In this paper, we report on the atomic layer deposition of magnesium, calcium and lanthanum fluorides utilising two different approaches with hexafluoroacetylacetonate as a fluorine source. The first approach is based on the reaction of fluorinated metal precursors with a strong oxygen source. The MgF2, CaF2 and LaF3 thin films prepared using this method showed refractive indices of 1.429, 1.472 and 1.687, respectively. The oxygen content of these films was below the detection limit of the RBS, which is 2 at%."
-}

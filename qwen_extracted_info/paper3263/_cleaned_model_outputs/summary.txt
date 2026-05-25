@@ -1,8 +1,0 @@
-{
-  "target_material": "Metallic Ir, IrO2 and Pt nanotubes and fibers",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["iridium(III) acetylacetonate", "oxygen", "ozone", "platinum(II) acetylacetonate"],
-  "temperature_range": "225 /compBC, 165 /compBC, 500 /compBC",
-  "summary": "The study describes the synthesis of metallic Ir, IrO2, and Pt nanotubes and fibers using a combination of electrospinning and atomic layer deposition (ALD). The process involves electrospinning of polyvinylpyrrolidone (PVP) solutions containing iridium(III) acetylacetonate or platinum(II) acetylacetonate, followed by calcination to remove the organic components and form metal oxides. ALD is then used to deposit metal layers on the PVP templates, which are subsequently reduced to metallic nanotubes and fibers. The study also explores the effects of different ALD process temperatures and precursors on the resulting material properties.",
-  "evidence": "One-dimensional iridium and iridium oxide fibers were prepared by electrospinning of polyvinyl pyrrolidone ethanol solution which contained iridium(III) acetylacetonate as iridium precursor. The Ir precursors/polymer composite fibers were subsequently thermally annealed at 500 /compBC in air for 4 hours to remove the organic parts and leave IrO2 fibers. Metallic iridium fibers were obtained by reducing the IrO2 fibers with hydrogen. Also tubes by fiber templates—process is used to demonstrate how metallic Ir, IrO2 and Pt nanotubes can be produced by combining atomic layer deposition and electrospinning."
-}

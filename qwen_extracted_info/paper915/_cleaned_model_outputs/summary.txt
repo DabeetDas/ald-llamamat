@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta2O5–ZrO2 based dielectrics",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["ZrCl4", "Ta(OC2H5)5", "H2O"],
-  "temperature_range": "200–400 /C176C",
-  "summary": "The study investigates the electrical properties of laminated atomic layer deposited films composed of ZrO2–Ta2O5, ZrO2–Nb2O5–Ta2O5, ZrO2–TaxNb1/C0xO5, and Ta2O5–ZrxNbyOz. The focus is on the capacitance density, leakage currents, and conduction mechanisms of these nanolaminates. The results show that higher capacitance and charge storage factors (Q) are achieved with thicker nanolaminates, particularly when tetragonal ZrO2 is stabilized. The study also explores the impact of different precursor combinations and growth conditions on the dielectric properties.",
-  "evidence": "The text discusses the use of ZrCl4 and Ta(OC2H5)5 as metal precursors with H2O as the oxygen precursor. It also mentions the temperature range of 200–400 /C176C for the ALD process. The study highlights the formation of nanolaminates and their electrical properties, including capacitance density and leakage currents, with a focus on the role of ZrO2 and Ta2O5 in enhancing permittivity and reducing leakage."
-}

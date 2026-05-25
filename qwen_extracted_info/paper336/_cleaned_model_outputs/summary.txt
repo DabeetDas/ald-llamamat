@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["trimethylgallium (TMG)", "triethylgallium (TEG)", "arsine (AsH3)"],
-  "temperature_range": "500 °C",
-  "summary": "The study investigates carbon incorporation in GaAs layers grown by atomic layer epitaxy (ALE) using trimethylgallium (TMG) or triethylgallium (TEG) and arsine. The carbon density varied with TMG or TEG pulse durations and mole fractions. The growth rate per gas cycle saturated at one monolayer (0.283 nm/cycle). The results suggest that carbon is selectively adsorbed on surface gallium atoms, and arsine removes carbon from the growth surface. The study aimed to reduce carbon contamination in GaAs layers.",
-  "evidence": "The mechanism by which carbon is incorporated into GaAs layers by atomic layer epitaxy using trimethylgallium or triethylgallium was investigated. The carbon density varied from 1 × 1013 to 8 × 1015 cm-3 with the trimethylgallium (or triethylgallium) and arsine pulse durations and mole fractions. It was also observed that the carbon incorporation drastically changed at the pulse duration and mole fraction where the growth rate per gas cycle started to saturate to one monolayer (0.283 nm/cycle for a (100) GaAs substrate). The results were explained by the selective adsorption of carbon on surface gallium, the reaction of methylgallium with arsine, and the exchange interaction between arsenic and carbon atoms."
-}

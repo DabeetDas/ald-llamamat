@@ -1,8 +1,0 @@
-{
-  "target_material": "Copper",
-  "process_type": "Plasma-Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["1,3-Diisopropylimidazolin-2-ylidene copper hexamethyldisilazide (1)", "4,5-Dimethyl-1,3-diisopropyl-imidazol-2-ylidene copper hexamethyldisilazide (2)"],
-  "temperature_range": "90 °C to 130 °C",
-  "summary": "The study reports the synthesis and characterization of two novel copper(I) amides containing N-heterocyclic carbene (NHC) ligands as precursors for plasma-enhanced atomic layer deposition (PEALD) of copper. Compound 1 was successfully used to deposit copper metal with a growth rate of 0.2 Å/cycle, while compound 2 was not effective under similar conditions. The study also includes density functional theory (DFT) calculations to understand the adsorption and dissociation mechanisms of the precursors on copper surfaces.",
-  "evidence": "Copper metal with good resistivity was deposited using 1 by plasma-enhanced atomic layer deposition. The precursor demonstrated self-limiting behavior indicative of ALD, and gave a growth rate of 0.2 Å/cycle. Compound 2 was unsuccessful as an ALD precursor under similar conditions. Density functional theory calculations showed that both compounds adsorb dissociatively onto a growing copper film as long as there is some atomic roughness, via cleavage of the Cu-carbene bond."
-}

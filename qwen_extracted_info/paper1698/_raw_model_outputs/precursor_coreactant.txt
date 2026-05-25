@@ -1,7 +1,0 @@
-{
-  "precursors": ["Al(CH3)3", "deionized H2O"],
-  "coreactants": ["TMA", "H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "Al(CH3)3 and deionized H2O were used as aluminum precursor and oxygen reactant sources, respectively, and were delivered to the reactor as ambient-temperature vapors. During the deposition process, the CuO nanowires were alternately exposed to TMA and H2O in the ALD chamber. The pulsing time was 0.1 s for both TMA and water with N2 as carrier gas with a flow rate of 200 sccm. A purging time of 4 s was used for both precursors. Purging was done with N2 gas with a flow rate of 600 sccm."
-}<|im_end|>

@@ -1,7 +1,0 @@
-{
-  "precursors": ["WF6", "Si2H6"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ALD precursors were tungsten hexafluoride (WF6, Aldrich, 99.9% +) and disilane (Si2H6, Scott Speciality Gases, electronic grade). The WF6 and Si2H6 precursors were alternately injected into the nitrogen carrier flow using computer-controlled pneumatic valves. The N2 flow rate was 200 sccm and the pressure in the flow tube was 1.1 Torr."
-}

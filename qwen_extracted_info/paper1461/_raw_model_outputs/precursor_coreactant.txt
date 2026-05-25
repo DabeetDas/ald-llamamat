@@ -1,7 +1,0 @@
-{
-  "precursors": ["Pd(II) hexafluoroacetylacetonate (Pd(hfac)2)", "formalin"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The precursors used to deposit Pd thin films were Pd(II) hexafluoroacetylacetonate (Pd(hfac)2) and formalin. Ultra high purity nitrogen (Airgas, 99.999%) was used as the carrier gas. The ALD timing sequences can be expressed as t1-t2-t3-t4 where t1 and t3 are the exposure times for the two precursors and t2 and t4 are the nitrogen purge times between precursor exposures."
-}<|im_end|>

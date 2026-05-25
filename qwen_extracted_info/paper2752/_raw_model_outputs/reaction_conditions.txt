@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of TEMA V and subsequent reaction with water, with the growth rate being influenced by the precursor dose and residence time. The mechanism is described as involving the adsorption of TEMA V, followed by a reaction with water, and the self-limiting nature of the ALD process.",
-  "intermediate_species": ["TEMA V", "surface hydroxyls", "water molecules"],
-  "evidence": "The text discusses the ALD process for VO2 using TEMA V and H2O, mentioning the self-limiting growth mechanism and the effect of precursor dose and residence time on the growth rate. It also references the adsorption of TEMA V and its reaction with water, indicating the presence of surface hydroxyls and water molecules as intermediate species."
-}<|im_end|>

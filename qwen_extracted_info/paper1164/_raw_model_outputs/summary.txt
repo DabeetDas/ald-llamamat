@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["O2", "trimethylaluminum"],
-  "temperature_range": "423 K",
-  "summary": "The study investigates the etch characteristics of Al2O3 thin films in inductively coupled BCl3/Ar plasma, focusing on the effects of process parameters on etch rate and selectivity. The Al2O3 films were deposited using PEALD at low temperatures, and the etching process involves both chemical and physical pathways, with the etch rate showing a correlation with ion current density.",
-  "evidence": "The Al2O3 films were deposited on the poly-Si substrate by the PEALD method at 423 K using O2 and trimethylaluminum as the working gases. It was found that the Al2O3 etch rate follows the behavior of ion current density while the process rate is noticeably contributed by the chemical etch pathway."
-}<|im_end|>

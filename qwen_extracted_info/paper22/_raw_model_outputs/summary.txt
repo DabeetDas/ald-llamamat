@@ -1,8 +1,0 @@
-{
-  "target_material": "GaS_x",
-  "process_type": "ALD",
-  "main_precursors": ["hexakis(dimethylamido)digallium (Ga2(NMe2)6)", "hydrogen sulfide (H2S)"],
-  "temperature_range": "150–200 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of gallium sulfide (GaS_x) onto single-walled carbon nanotubes (SWCNTs) to create a composite material for use as an anode in lithium-ion batteries (LIBs). The ALD process was performed at 150 °C using hexakis(dimethylamido)digallium and hydrogen sulfide as precursors. The resulting GaS_x thin films were amorphous and uniform, forming a core-shell composite with SWCNTs. The composite exhibited excellent electrochemical performance, with a stable capacity of ≈575 mA g–1 at 120 mA g–1 and a high columbic efficiency of >99.7%. The enhanced performance is attributed to synergistic effects between the SWCNTs and GaS_x components, including improved electronic and Li-ion pathways, stress accommodation, and structural reinforcement.",
-  "evidence": "The ALD GaS_x was performed at 150 °C, and produced uniform and conformal amorphous films. The resulting core-shell, nanostructured SWCNT-GaS_x composite exhibited excellent electrochemical performance as an anode material for lithium-ion batteries (LIBs), yielding a stable capacity of ≈575 mA g–1 at a current density of 120 mA g–1 in the voltage window of 0.01–2 V, and an exceptional columbic efficiency of >99.7%. The GaS_x component of the composite produced a specific capacity of 766 mA g–1, a value two times that of conventional graphite anodes."
-}<|im_end|>

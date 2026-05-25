@@ -1,8 +1,0 @@
-{
-  "target_material": "Ge-doped ZrO2",
-  "process_type": "ALD",
-  "main_precursors": ["germanium butoxide (Ge(O nBu)4)", "Zr tris(dimethylamino)cyclopentadienyl zirconium"],
-  "temperature_range": "300 /C176C",
-  "summary": "The study investigates the structural and electrical properties of Ge-doped ZrO2 thin films grown by atomic layer deposition (ALD) for high-k dielectrics. The research focuses on the stabilization of the cubic/tetragonal phase of ZrO2 through Ge doping, which enhances the dielectric constant and improves the electrical properties of the films. The ALD supercycle process is used to control the Ge content by varying the GeO2/ZrO2 cycle ratios, leading to optimized dielectric properties for future nanoscale devices.",
-  "evidence": "The results revealed that Ge incorporation into ZrO2 induced the stabilization of the cubic/tetragonal phase of the ZrO2 film at low temperatures and improved its dielectric properties. Consequently, this is a systematic and facile method to optimize the dielectric properties of Ge-doped ZrO2 prepared by varying the ALD cycle ratio, and these films could be applied in future nanoscale devices."
-}<|im_end|>

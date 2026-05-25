@@ -1,8 +1,0 @@
-{
-  "target_material": "Co9S8",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["bis( N,N’ -diisopropylacetamidinato)cobalt(II)", "H2S"],
-  "temperature_range": "120 °C",
-  "summary": "The study describes the synthesis of a bifunctional electrocatalyst, Co9S8/CNT, using atomic layer deposition (ALD) to coat carbon nanotubes (CNTs) with a uniform layer of Co9S8. The ALD-synthesized Co9S8/CNT catalyst demonstrates excellent electrocatalytic performance for both oxygen evolution reaction (OER) and oxygen reduction reaction (ORR), making it a promising candidate for high-performance rechargeable Zn-air batteries. The ALD technique allows for precise control over the coating thickness and uniformity, enhancing the catalytic activity and stability of the material.",
-  "evidence": "The ALD of Co9S8 was performed at 120 °C for 200 cycles, using bis( N,N’ -diisopropylacetamidinato)cobalt(II) and H2S as the precursors. The ALD-synthesized Co9S8/CNT catalyst displayed remarkable electrocatalytic performance with excellent catalytic activity and stability toward both OER and ORR."
-}<|im_end|>

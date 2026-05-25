@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 2.1,
-  "density_g_cm3": null,
-  "refractive_index": null,
-  "surface_roughness_nm": 0.55,
-  "crystal_phase": "Amorphous",
-  "evidence": "The surface roughness, Rq (root-mean-square roughness) is relatively high for films grown with 5 and 10 cycles (Rq = 0.84 nm for 5 cycles, Rq = 0.72 nm for 10 cycles), consistent with the 3D growth. The surface of the sample grown for 15 cycles (Rq = 0.55 nm) is substantially smoother. Note that the linear region begins at 15 cycles and is considered the point at which complete coverage of GaN on Si substrate is obtained. This conclusion is supported by noting that the surface roughness of the sample grown for 150 cycles (Rq = 0.58 nm) is close to that of 15 cycles."
-}

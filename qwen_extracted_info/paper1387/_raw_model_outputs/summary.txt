@@ -1,8 +1,0 @@
-{
-  "target_material": "Kapton polyimide, FEP Teﬂon, and poly(methyl methacrylate) (PMMA)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Al(CH3)3", "H2O", "TiCl4"],
-  "temperature_range": "90 °C",
-  "summary": "The study investigates the use of ALD coatings to protect polymers from atomic-oxygen erosion and VUV radiation damage in low Earth orbit (LEO). ALD coatings of Al2O3 and TiO2 were applied to Kapton polyimide, FEP Teﬂon, and PMMA. The results show that Al2O3 ALD coatings effectively protected against atomic-oxygen erosion, while TiO2 ALD coatings provided protection against VUV-induced degradation. The study also highlights the effectiveness of ALD in forming defect-free, pinhole-free coatings on polymer substrates.",
-  "evidence": "We have studied the efficacy of various ALD coatings to protect Kapton polyimide, FEP Teﬂon, and poly(methyl methacrylate) (PMMA) films from atomic-oxygen and VUV attack. Al2O3 ALD coatings protected the underlying substrates from atomic-oxygen attack, and the addition of TiO2 coatings protected the substrates from VUV-induced damage."
-}<|im_end|>

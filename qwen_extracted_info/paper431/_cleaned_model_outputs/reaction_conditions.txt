@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The decomposition of Ca(thd)2 on the substrate surface significantly affects the growth process, and the thermal decomposition of Ca(thd)2 is likely responsible for the CVD-type growth observed. The adsorption of the thd-complex and its reactions with H2O or H2S background are involved, but the role of this background is negligible. The CVD-type reactions are attributed to the thermal decomposition of the precursor, and the growth rate is influenced by the surface structure and composition changes.",
-  "intermediate_species": ["thd-complex", "chemisorbed Ca atoms", "adsorbed thd-complex"],
-  "evidence": "The decomposition of Ca(thd)2 on the substrate surface had a significant effect on the growth process while the fractionation of the precursor in the evaporation cell did not affect the growth rate at source temperatures below 280°C. The activation energy of the Ca(thd)2 decomposition process was determined from the deposit mass measurements, being 30 kJ/mol. The CVD-type growth is attributed to the thermal decomposition of the precursor, and the adsorption of the thd-complex and its reactions with H2O or H2S background are involved. The role of this background is negligible. The CVD-type reactions are attributed to the thermal decomposition of the precursor."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of Hf(NO3)4 as a precursor for ALD of HfO2 on H-terminated Si. The precursor contains oxygen, allowing for the formation of HfO2 without an oxidizing agent via a CVD reaction. However, for ALD, at least two reactants are required, with water being the primary oxidizing agent. The reaction sequence involves alternating pulses of hafnium nitrate and water vapor, leading to the deposition of HfO2 films.",
-  "intermediate_species": ["residual NO3 and NO2 moieties", "silicate layer", "interfacial layer (likely HfSiOx)"],
-  "evidence": "The text discusses the use of Hf(NO3)4 as a precursor for ALD of HfO2 on H-terminated Si surfaces. It mentions that the precursor contains oxygen, allowing for the formation of HfO2 without an oxidizing agent via a CVD reaction. However, for ALD, at least two reactants are required, with water being the primary oxidizing agent. The text also mentions the presence of residual NO3 and NO2 moieties from the nitrate precursor, a silicate layer, and an interfacial layer (likely HfSiOx)."
-}<|im_end|>

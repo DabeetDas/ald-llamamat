@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta3N5",
-  "process_type": "thermal ALD",
-  "main_precursors": ["pentakis-(dimethylamino)tantalum (PDMAT)", "ammonia (NH3)"],
-  "temperature_range": "250 °C",
-  "summary": "The study describes the synthesis of Ta3N5 inverse opal photonic crystals using atomic layer deposition (ALD). The process involves infiltrating silica colloidal crystals with Ta2O5 via ALD, followed by nitridation to convert Ta2O5 to Ta3N5. The resulting material exhibits a high refractive index and transparency in the visible spectrum, making it suitable for photonic applications.",
-  "evidence": "In the preparation of tantalum nitride by ALD, pentakis-(dimethylamino)tantalum (Ta(N(CH3)2)5; PDMAT) and ammonia (NH3) were used as precursors at 250 °C (Figure 1). Ta2O5 was deposited on colloidal silica substrates by alternating exposure to PDMAT vapor and water vapor at 250 °C (Figure 1)."
-}

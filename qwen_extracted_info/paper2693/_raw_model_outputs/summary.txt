@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["(NtBu)2(NMe2)2Mo", "1-propanethiol"],
-  "temperature_range": "350 °C",
-  "summary": "The study describes a thermal atomic layer deposition (ALD) process for producing MoS2 thin films using bis(tert-butylimido)-bis(dimethylamido)molybdenum and 1-propanethiol. The process exhibits self-limiting behavior with respect to both precursors at 350 °C, resulting in a growth per cycle of approximately 0.1 nm/cycle. As-deposited films are amorphous and contain nitrogen and carbon impurities, which are removed upon high-temperature annealing, leading to few-layer crystalline 2H-MoS2 films.",
-  "evidence": "The authors observe a self-limiting reaction behavior with respect to both the Mo and S precursors at a substrate temperature of 350 °C. Film thickness scales linearly with precursor cycling, with growth per cycle values of ≈0.1 nm/cycle. Upon high-temperature annealing, a large portion of the impurities are removed, and the authors obtain few-layer crystalline 2H-MoS2 films."
-}<|im_end|>

@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The N2O plasma process resulted in a higher growth rate due to the more efficient production of active oxygen atoms during the ALD process, which enhanced the formation of RuO2 and contributed to the phase-pure rutile TiO2 film. The presence of N–O species on the film surface after the N2O plasma step played an important role in improving the growth rate during the precursor pulse step by reducing the steric hindrance effect.",
-  "intermediate_species": [
-    "RuO2",
-    "N–O species"
-  ],
-  "evidence": "The authors recently reported a similar increase in the PEALD of ZrO2 and HfO2 thin films using the N2O-plasma-based process compared to the O2-plasma-based process. The presence of N–O species was confirmed by XPS. The adsorbed N after the N2O-plasma step appears to be removed during the subsequent metal precursor pulse and purge steps. The surface N–O groups are believed to play an important role in improving the GR during the precursor pulse step."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "HfS2",
-  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["Hf(N(CH3)(C2H5))4", "H2S"],
-  "temperature_range": "150 to 350 oC",
-  "summary": "The study reports the low-temperature plasma enhanced atomic layer deposition (PEALD) of HfS2 nanocrystal thin films using Hf(N(CH3)(C2H5))4 and H2S as precursors. The process exhibits self-limiting growth behavior within the temperature range of 150 to 350 oC, with a growth rate of approximately 0.11 nm per cycle. The films show uniform nanocrystal structures with grain sizes up to 27 nm, and higher temperatures improve crystallinity but also lead to the formation of HfO2. The results suggest that ALD is a promising method for synthesizing high-quality HfS2 nanocrystals for electronic and electrochemical applications.",
-  "evidence": "We reported on the deposition of HfS2 nanocrystals by remote plasma enhanced atomic layer deposition at low temperature using Hf(N(CH3)(C2H5))4 and H2S as reaction precursors. Self-limiting reaction behavior was observed at the deposition temperatures ranging from 150 to 350 oC, and the film thickness increased linearly with growth cycles. The uniform HfS2 nanocrystal thin films were obtained with the size of nanocrystal grain up to 27 nm. It was demonstrated that higher deposition temperature could enlarge grain size and improve HfS2 crystallinity, while causing crystallization of the mixed HfO2 above 450 oC. Those results suggested that atomic layer deposition was a low-temperature route to synthesize high-quality HfS2 nanocrystals for electronic device or electrochemical applications."
-}

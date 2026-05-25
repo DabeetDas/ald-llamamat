@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "ALD",
-  "main_precursors": ["TiCl4", "NH3"],
-  "temperature_range": "400 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of titanium nitride (TiN) films using TiCl4 and NH3. The process involves self-limiting reactions where TiCl4 adsorbs and reduces to Ti3+ and Ti4+ species, followed by NH3 treatment that removes chlorine and forms nitride. The films show a Ti3N4 layer on top of TiN, and impurities like chlorine and oxygen are detected. The reduction of Ti4+ occurs during TiCl4 exposure, not NH3.",
-  "evidence": "The nature of the species deposited by each half-reaction was explored first. Evidence was obtained for the partial loss of chlorine atoms and the reduction of the metal during the adsorption of the TiCl4. Subsequent ammonia treatment removes most of the remaining chlorine and leads to the formation of a nitride. Both half-reactions were proven self-limited, stopping after the deposition of submonolayer quantities of the materials. Repeated ALD cycles were shown to lead to the buildup of thick films. However, those films display a Ti3N4 layer on top of the expected TiN. The data suggest that the reduction of the Ti4+ species may therefore occur during the TiCl4, not NH3, dosing step."
-}<|im_end|>

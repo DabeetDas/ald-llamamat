@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Al ions are doped into TiO2 films through atomic layer deposition (ALD), where Al-O layers are introduced by substituting Ti-O cycles with Al-O cycles. The Al ions segregate to the film surface, forming an Al-O layer, which contributes to the improvement in electrical properties by increasing the Schottky barrier height and reducing leakage current.",
-  "intermediate_species": ["Al-O layer", "surface hydroxyls", "Al ions"],
-  "evidence": "The text states: 'An Al-O layer was discretely introduced into the film due to the pulse-cycling nature of ALD. However, the Al ions are distributed uniformly along the thickness direction... The Al ions find energetically favorable positions on the rutile TiO2 surface, which greatly contributes to the improvement in the electrical properties.'"
-}<|im_end|>

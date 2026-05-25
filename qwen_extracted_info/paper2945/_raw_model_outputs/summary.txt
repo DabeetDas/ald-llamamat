@@ -1,8 +1,0 @@
-{
-  "target_material": "Iridium",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["tris(2,4-pentanedionato)iridium (Ir(acac)3)", "oxygen"],
-  "temperature_range": "225-375°C",
-  "summary": "The paper describes the atomic layer deposition (ALD) of iridium thin films using tris(2,4-pentanedionato)iridium (Ir(acac)3) and oxygen as precursors. The process was carried out in a temperature range of 225-375°C. The films exhibited low resistivity, good adhesion, and smooth surfaces. The self-limiting growth mechanism was verified, and the films showed a preferred (111) orientation. The study highlights the suitability of ALD for producing high-quality iridium films for various applications.",
-  "evidence": "Thin films of metallic iridium were grown by atomic layer deposition (ALD) in a wide temperature range of 225-375°C from tris(2,4-pentanedionato)iridium [Ir(acac)3] and oxygen. The films had low resistivity and low impurity contents and good adhesion to the substrate. The film growth rate saturated to a constant value as the precursor pulse times were increased, thus verifying the self-limiting growth mechanism. The results show that high-quality iridium films can be grown by ALD."
-}<|im_end|>

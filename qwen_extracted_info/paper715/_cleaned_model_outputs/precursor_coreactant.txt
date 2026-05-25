@@ -1,7 +1,0 @@
-{
-  "precursors": ["(CpMe)3Er"],
-  "coreactants": ["ozone"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "Argon (99.999% purity) was used as both carrier gas for the metal precursor and purging gas to clean the system between the delivery of precursor and oxidant."
-}

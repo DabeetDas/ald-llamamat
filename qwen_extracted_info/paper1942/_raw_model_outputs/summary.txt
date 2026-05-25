@@ -1,8 +1,0 @@
-{
-  "target_material": "PbS",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Pb(OBu')6", "Pb(thd)2", "Pb(dedtc)2"],
-  "temperature_range": "130-180 °C",
-  "summary": "The study describes the atomic layer epitaxy (ALE) growth of PbS thin films using lead tert-butoxide complexes and other precursors. The growth rate was significantly higher with the tert-butoxide complexes, and the process was influenced by substrate temperature and precursor stability. The films were smooth and highly crystalline, with the growth rate affected by precursor decomposition and surface saturation.",
-  "evidence": "The growth on soda lime glass, with and without an alumina coating, was studied by varying the source furnace and the substrate temperatures as well as the total number of cycles. The substrate temperature had a strong effect on the growth rate of PbS thin films. Nevertheless, in the self-controlled region of ALE growth the tert-butoxide complexes gave a significantly higher growth rate than the other source chemicals, with a maximum of 0.9 A per cycle at 150 °C. The films obtained were smooth and generally highly crystalline."
-}<|im_end|>

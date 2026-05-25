@@ -1,7 +1,0 @@
-{
-  "precursors": ["(Me2N)3P", "TMA"],
-  "coreactants": ["O3", "H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "H2O served as the oxygen source and pure N2 gas (99.999%) served as carrier and purge gas. The different precursors were alternately pulsed into the reaction chamber. One ALD cycle consisted of eight steps and followed a dose-purge sequence of (Me2N)3P (0.1 s)–N2 (3 s)–H2O (0.1 s)–N2 (3 s)–TMA(3.5 s)–N2 (4 s)–H2O (0.1 s)–N2 (3 s)."
-}

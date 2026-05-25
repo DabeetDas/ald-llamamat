@@ -1,8 +1,0 @@
-{
-  "target_material": "Fe1−xCx",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["bis( N,N9-di-tert-butylacetamidinato)iron(II) (Fe(amd)2)", "H2 plasma"],
-  "temperature_range": "80 to 210 °C",
-  "summary": "Iron carbide (Fe1−xCx) thin films were successfully grown by plasma-enhanced atomic layer deposition (PEALD) using bis( N,N9-di-tert-butylacetamidinato)iron(II) as a precursor and H2 plasma as a reactant. The films were found to be amorphous at temperatures between 80 and 170 °C, and crystalline Fe7C3 formed at 210 °C. The films showed excellent electrocatalytic performance for hydrogen evolution.",
-  "evidence": "Iron carbide (Fe 1−xCx) thin ﬁlms were successfully grown by plasma-enhanced atomic layer deposition (PEALD) using bis( N,N9-di-tert-butylacetamidinato)iron(II) as a precursor and H 2 plasma as a reactant. Smooth and pure Fe1−xCx thin ﬁlms were obtained by the PEALD process in a layer-by-layer ﬁlm growth fashion, and the x in the nominal formula of Fe 1−xCx is approximately 0.26. For the wide PEALD temperature window from 80 to 210 °C, a saturated ﬁlm growth rate of 0.04 nm/cycle was achieved. X-ray diffraction and transition electron microscope measurements show that the ﬁlms grown at deposition temperature 80 –170 °C are amorphous; however, at 210 °C, the crystal structure of Fe 7C3 is formed. The conformality and resistivity of the deposited ﬁlms have also been studied. At last, the PEALD Fe 1−xCx on carbon cloth shows excellent electrocatalytic performance for hydrogen evolution."
-}

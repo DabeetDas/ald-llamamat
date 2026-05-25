@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the adsorption of TDMASn precursor and ozone reactant, followed by surface reactions that lead to the formation of SnO2. The mechanism is influenced by the growth temperature, with lower temperatures leading to incomplete chemical reactions and the presence of impurities such as carbon and nitrogen. At higher temperatures, the chemical reactivity increases, leading to the formation of a dense and pure SnO2 film.",
-  "intermediate_species": ["carbon impurities", "physisorbed species", "thermally decomposed surface species"],
-  "evidence": "The text discusses the surface reactions and the influence of growth temperature on the chemical reactivity and the presence of impurities. It mentions the adsorption of TDMASn and ozone, the formation of SnO2, and the role of thermal decomposition and physisorbed species in the reaction mechanism."
-}

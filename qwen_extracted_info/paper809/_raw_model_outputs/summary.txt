@@ -1,8 +1,0 @@
-{
-  "target_material": "Cobalt titanium nitride (CoTiN)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Bis(N-tert-butyl-N'-ethylpropionamidinato)cobalt(II)", "Tetraakis(dimethylamido)titanium (TDMAT)"],
-  "temperature_range": "200 °C",
-  "summary": "The study describes the deposition of amorphous cobalt titanium nitride (CoTiN) using atomic layer deposition (ALD). The process involves the cyclic combination of ALD cobalt (Co) and titanium nitride (TiN) precursors. The resulting CoTiN films exhibit amorphous structures and show enhanced thermal stability and mechanical hardness compared to pure ALD Co. The interlayer formation between Co and TiN is unidirectional, with Co diffusing into TiN. The films are evaluated for their diffusion barrier properties against Cu, showing effectiveness in blocking Cu diffusion at elevated temperatures.",
-  "evidence": "The formation of thin amorphous cobalt titanium nitride (CoTiN) layers was investigated using a supercycle method of atomic layer deposition (ALD). The stoichiometry of the resultant ALD CoTiN films was controlled by changing the ratio of Co and TiN thicknesses. The results revealed that ALD TiN undergoes nucleation incubation on the ALD Co surface, whereas ALD Co does not undergo nucleation incubation on the ALD TiN surface. The properties of the amorphous CoTiN layers were evaluated by diffusion experiments and mechanical tests. Because of the lack of grain boundaries, the CoTiN efficiently blocks the diffusion of Cu at elevated temperatures and exhibits higher hardness compared with ALD Co."
-}<|im_end|>

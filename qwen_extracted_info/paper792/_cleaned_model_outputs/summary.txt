@@ -1,8 +1,0 @@
-{
-  "target_material": "Molybdenum sulfide (MoS2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Mo(CO)6", "H2S"],
-  "temperature_range": "155–170 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of amorphous molybdenum sulfide (MoS2) using molybdenum hexacarbonyl (Mo(CO)6) and hydrogen sulfide (H2S) as precursors. The ALD process was characterized by self-limiting growth with a saturated growth rate of 2.5 Å per cycle at 170 °C. The as-deposited MoS2 films were tested as anodes in lithium-ion batteries, showing stable electrochemical performance with a discharge capacity of 851 mAh g⁻¹ after 50 cycles, corresponding to 77% capacity retention. The study highlights the use of ALD for producing a carbon and binder-free electrode for lithium-ion batteries.",
-  "evidence": "Molybdenum sulﬁde is deposited by atomic layer deposition (ALD) using molybdenum hexacarbonyl and hydrogen sulﬁde. A narrow ALD temperature window between 155–170 °C with characteristic saturated growth of ca. 2.5 Å per cycle was observed under self-limiting condition. The as-deposited molybdenum sulﬁde ﬁlms were found to exhibit good electrochemical activity as anode material in lithium ion battery. A stable electrochemical performance was achieved with 375 nm of ﬁlm thickness. Here we emphasize on a carbon and binder free electrode that showed a well comparable electrochemical performance at par with the existing literature."
-}

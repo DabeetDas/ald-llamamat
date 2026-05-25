@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Laser-assisted atomic layer epitaxy (LALE)",
-  "main_precursors": ["Triethylgallium (TEGa)", "Arsine (AsH3)"],
-  "temperature_range": "330 °C (substrate bias temperature), 20 °C (TEGa source temperature), 750 °C (conventional MOCVD growth)",
-  "summary": "The study describes the use of laser-assisted atomic layer epitaxy (LALE) to grow high-quality GaAs with low carbon contamination. The process uses triethylgallium (TEGa) and arsine (AsH3) as precursors, and it is shown to produce GaAs with good optical properties and low C levels. The LALE process is compared to traditional methods, highlighting its advantages in reducing heating effects and improving material quality.",
-  "evidence": "The text states that 'Triethylgallium is used in combination with arsine in selective area deposition of GaAs by laser-assisted atomic layer epitaxy... The low C contamination obtainable from metal-organic chemical vapor deposition (MOCVD) and metal-organic molecular beam epitaxy using TEGa makes it a first candidate in the study aimed at reducing the background impurity levels in the GaAs grown by LALE.' Additionally, it mentions that 'the LALE growth rate (in monolayers per cycle) as a function of TEGa flux per cycle for the same TEGa exposure time of 1.5 s is plotted in Fig. 5.'"
-}

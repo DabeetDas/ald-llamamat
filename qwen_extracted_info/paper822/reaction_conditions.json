@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the cyclic dosing of reactants which chemisorb onto the substrate surface. Following purging to remove excess reactant, a second reactant is introduced to form the species of interest by reacting with the chemisorbed layer. The surface-limited nature of the reaction results in the growth of highly conformal films.",
-  "intermediate_species": [
-    "chemisorbed layer"
-  ],
-  "evidence": "The deposition process involves cyclic dosing with reactants which chemisorb onto the substrate surface. Following purging to remove excess reactant, a second reactant is introduced to form the species of interest by reacting with the chemisorbed layer."
-}

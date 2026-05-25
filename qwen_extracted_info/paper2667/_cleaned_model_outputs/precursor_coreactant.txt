@@ -1,7 +1,0 @@
-{
-  "precursors": ["(t-butylimido) tris(diethylamido) niobium(V) (TBTDEN)"],
-  "coreactants": ["remote H2=N2 plasmas"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "TBTDEN was used for the niobium precursor. The niobium precursor was maintained at 100 /C14 C and delivered to the system with a precursor Boost TM system.32 The Boost system introduces a charge of argon gas into the precursor cylinder prior to pulsing the precursor into the ALD reactor, substantially improving the transfer of low vapor pressure material from the cylinder to the substrate surface."
-}

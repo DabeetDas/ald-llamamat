@@ -1,8 +1,0 @@
-{
-  "target_material": "La x Zr 1 − x O 2 − δ (x = 0.25) high-k dielectrics",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["iPrCp3La", "MeCp2ZrMeOMe", "O3"],
-  "temperature_range": "300 °C",
-  "summary": "The study focuses on the atomic layer deposition of La x Zr 1 − x O 2 − δ (x = 0.25) high-k dielectrics on Si(100) for advanced gate stacks. The films are deposited using iPrCp3La, MeCp2ZrMeOMe, and O3 precursors at 300 °C. The films are annealed in vacuum at 600 °C, resulting in a k value of around 30, resistance to hygroscopicity, and acceptable leakage current density. The study also investigates the structural and chemical properties of the films using various analytical techniques.",
-  "evidence": "Thin La xZr1−xO2−/H9254/H20849x=0.25 /H20850high permittivity /H20849k/H20850films are grown on Si /H20849100/H20850by atomic layer deposition at 300 °C using /H20849iPrCp/H208503La, /H20849MeCp/H208502ZrMe/H20849OMe/H20850and O3 species. Their properties are studied by grazing incidence x-ray diffraction, high resolution transmission electron microscopy, electron energy loss spectroscopy, x-ray photoelectron spectroscopy, and electrical measurements on the as-grown films and after vacuum annealing at 600 °C. Annealed films feature resistance to hygroscopicity, a large k value of around 30 and an acceptable leakage current density."
-}

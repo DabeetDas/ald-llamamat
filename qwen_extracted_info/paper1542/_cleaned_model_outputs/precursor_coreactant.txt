@@ -1,7 +1,0 @@
-{
-  "precursors": ["Hf[N(CH3)(C2H5)]4", "La[N(SiMe3)2]3"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "The precursors were held at 85, 150, and 25 /C176 C, respectively. A detailed film deposition procedure is reported elsewhere. 10 The adsorption of Hf[N(CH3)(C2H5)]4 has been proved to be a self-limiting process at 250 /C176 C.30 The ALD of La2O3 using the same precursor is also reported at the same growth temperature. 31 To remove the native oxide from Si(100), we etched the Si substrates in a 2% HF solution for 30 s, rinsed them in deionized water for 20 s, and then dried them with flowing He. One cycle consists of precursor dosing for 1.5 s, a 15 s purge with Ar, water dosing for 0.05 s, and a 25 s purge with Ar."
-}

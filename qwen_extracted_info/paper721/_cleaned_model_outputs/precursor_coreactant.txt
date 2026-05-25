@@ -1,7 +1,0 @@
-{
-  "precursors": ["Sn(dmamp)2"],
-  "coreactants": ["O3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "Sn(dmamp)2 was used as the Sn precursor. The Sn(dmamp)2 was transported into the reactor with a N2 carrier gas flow of 150 sccm. O3 with a high concentration of 180 g/m3 was used as the oxygen source. The reactor was purged using N2 flow of 300 sccm between the pulses of Sn(dmamp)2 and O3."
-}

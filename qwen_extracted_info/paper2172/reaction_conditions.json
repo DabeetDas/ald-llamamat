@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of the metalorganic precursor (TEMAH) with the Si-H surface, leading to the formation of an interfacial layer consisting of a SiOx/Hf-silicate mixture. The growth rate on both starting surfaces becomes similar after the 7th cycle, indicating the formation of a stable interfacial layer that facilitates HfO2 nucleation.",
-  "intermediate_species": [
-    "SiOx",
-    "Hf-silicate"
-  ],
-  "evidence": "The text states: 'ARXPS measurements reveal that after four ALD cycles an interfacial layer consisting of a SiOx / Hf-silicate mixture is present.' Additionally, it mentions: 'the formation of a SiOx / Hf-silicate interfacial layer, which is detected by ARXPS and HRTEM and determined to be 6.1–6.7 Å thick.'"
-}

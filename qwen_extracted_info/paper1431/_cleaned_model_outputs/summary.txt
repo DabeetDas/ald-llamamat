@@ -1,8 +1,0 @@
-{
-  "target_material": "Zirconium dioxide (ZrO2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Zr(dmae)4", "Zr(dmae)2(OiPr)2", "Zr(dmae)2(OtBu)2"],
-  "temperature_range": "190 - 340 °C",
-  "summary": "The study evaluates new aminoalkoxide precursors for atomic layer deposition (ALD) of zirconium dioxide (ZrO2) thin films. The process involves alternating surface reactions between the precursors and water. The growth rate increases with elongated Zr precursor pulse, likely due to precursor decomposition. The films contain residual hydrogen and carbon, possibly from decomposition. The reaction mechanisms were studied using quadrupole mass spectrometer (QMS) and quartz crystal microbalance (QCM).",
-  "evidence": "Atomic layer deposition (ALD) was used for growing zirconium dioxide (ZrO2) thin films by alternate surface reactions between new aminoalkoxides and water. The zirconium aminoalkoxide precursors were Zr(dmae)4, Zr(dmae)2(OtBu)2, and Zr(dmae)2(OiPr)2. Films were deposited on soda and borosilicate glass at 190 - 340 °C. The growth rate increased with elongated Zr precursor pulse possibly due to precursor decomposition. The as-deposited films contained substantial amounts of residual hydrogen. Reaction mechanisms were studied with a quadrupole mass spectrometer (QMS) and a quartz crystal microbalance (QCM) connected to the ALD reactor."
-}

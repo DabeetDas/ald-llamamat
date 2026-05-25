@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The VO2 film is directly crystallized and grown on the substrate without any postannealing process. The VCl4 is used as an ALD precursor, and the growth mechanism involves the reaction of VCl4 with H2O, leading to the formation of VO2 without the need for postannealing.",
-  "intermediate_species": ["VCl4", "H2O", "VO2"],
-  "evidence": "This work reports that a directly crystalline VO2 film has been successfully grown by ALD using vanadium tetrachloride (VCl4) and H2O as precursors at a reaction temperature of 350°C without any postannealing process. It is noticed that the inorganic VCl4 is used as an ALD precursor for the first time, although a few papers reported that the VCl4 had been used in traditional chemical vapor deposition (CVD) techniques."
-}

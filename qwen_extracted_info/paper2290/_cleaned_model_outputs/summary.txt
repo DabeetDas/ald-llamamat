@@ -1,8 +1,0 @@
-{
-  "target_material": "SrTiO3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Ti(NEtMe)4 (TEMATi)", "Sr(iPr3Cp)2 (AbsoluteSr)"],
-  "temperature_range": "300 /C14 C",
-  "summary": "The study describes the synthesis of SrTiO3 thin films through the crystallization of SrO/TiO2 superlattices prepared by atomic layer deposition (ALD). The process involves the use of metalorganic precursors, Ti(NEtMe)4 and Sr(iPr3Cp)2, on silicon and ruthenium substrates. The films are annealed to achieve crystallization, and the study highlights the impact of substrate-specific growth behavior on the composition and structure of the resulting SrTiO3 films.",
-  "evidence": "The text states that SrO/TiO2 superlattices were deposited by atomic layer deposition using TEMATi and AbsoluteSr as precursors on silicon and ruthenium substrates. The process was carried out at 300 /C14 C, and the films were annealed to achieve crystallization. The study also discusses the substrate-specific growth behavior and its effect on the composition and structure of the films."
-}

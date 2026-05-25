@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of the [N(SiMe3)2] ligand during ALD, leading to the formation of stable (Me3Si)2NH species via the reaction between Ln[N(SiMe3)2]3 and [OH].",
-  "intermediate_species": ["[N(SiMe3)2] ligand", "(Me3Si)2NH species"],
-  "evidence": "PrOx films were deposited at a range of substrate temperatures (200, 250, 300, 350, 400◦C) using alternate pulses of Pr[N(SiMe3)2]3 and H2O. The presence of Si in the PrOx film indicates that the [N(SiMe3)2] ligand is decomposing during the ALD process. The decomposition of [N(SiMe3)2] ligand during ALD leads to the formation of stable (Me3Si)2NH species via the reaction between Ln[N(SiMe3)2]3 and [OH]."
-}

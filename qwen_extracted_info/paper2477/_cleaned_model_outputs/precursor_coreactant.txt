@@ -1,7 +1,0 @@
-{
-  "precursors": ["Zr(DPM)4", "Ti(Oi-Pr)2(DPM)2", "Pb(DPM)2"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "Zr(DPM)4 dissolved in ECH with a concentration of 0.1M (SAES Getters S.p.A.) was used as precursor. H2O gas was supplied as an oxidant for 1s from a reservoir kept at 10°C by its own vapor pressure. The reactor was purged for 3-5s with 500 sccm Ar gas."
-}

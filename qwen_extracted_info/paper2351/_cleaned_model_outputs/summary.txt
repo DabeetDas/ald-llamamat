@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs-InAs superalloy",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["trimethylgallium", "arsine", "triethylindium"],
-  "temperature_range": "480°C",
-  "summary": "The study describes the use of atomic layer epitaxy (ALE) to grow GaAs-InAs superalloys on substrates such as InP and GaAs. The process involves sequential exposure of the substrate to trimethylgallium, arsine, triethylindium, and arsine, resulting in the deposition of monolayers of GaAs and InAs. The thickness of the deposited film is controlled by the number of exposure cycles, and the superalloy structure is characterized by an ordered arrangement of Ga and In atoms on the III sublattice. The results demonstrate the precision and control offered by ALE in depositing thin films with excellent thickness and compositional uniformity.",
-  "evidence": "Ga-As-In-As superalloy has been grown by atomic epitaxy on InP substrates. This has been achieved by sequential exposure of the substrate to trimethylgallium, arsine, triethylindium, and arsine. The thickness of the deposited film is in excellent agreement with the predicted value based on the number of exposure cycles. These results demonstrate that atomic layer epitaxy offers the ultimate control for depositing thin films. The superalloy films have been characterized by transmission electron microscopy and photoluminescence."
-}

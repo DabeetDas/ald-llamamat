@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD step involves successive two-step deposition cycles with intermediate purging steps. In the first step, the sample is exposed to the vapor of a first, reactive precursor so that a layer of the precursor molecules is bound to the substrate surface. Residual precursor molecules are then removed by purging. A second gaseous precursor converts the first one into the target compound in the second step.",
-  "intermediate_species": [
-    "Ti(OiPr)4"
-  ],
-  "evidence": "Figure 1.Diagram showing the preparation of titania/silica hybrid nanowires containing linear mesocage arrays by hierarchical templating. a)A homogeneous precursor solution containing PS-b-PEO as a soft template is infiltrated into a self-ordered porous alumina hard template. b)Evaporation of ethanol induces the formation of spherical PS domains in a PEO/TEOS matrix by EISA. c)Gelation and calcination yields silica nanowires containing linear arrays of spherical mesocages. d)The silica nanowires are released by wet-chemical etching of the hard template and e)coated with titania by ALD. Figure 4a shows a TEM image of mesoporous silica/titania hybrid nanowires coated with an approximately 15nm-thick outer titania layer. The mesoporous silica cores were prepared with a precursor solution containing PS(9500)-b-PEO(18000) as a soft template (weight ratio TEOS/PS-bPEO/0.1m HCl/ethanol/toluene=1:0.5:0.25:50:10) in a hard template with a pore diameter of 35 nm. The cores were subjected to 200 ALD cycles with tetraisopropyl titanate Ti(OiPr)4 and water as precursors."
-}

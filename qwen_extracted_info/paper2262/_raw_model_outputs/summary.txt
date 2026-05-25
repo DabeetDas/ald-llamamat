@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnS",
-  "process_type": "atomic layer epitaxy",
-  "main_precursors": ["zinc acetate", "zinc chloride", "hydrogen sulfide"],
-  "temperature_range": "300-500 °C",
-  "summary": "The study investigates the effect of growth temperature and source materials on the electronic energy band and crystal structure of ZnS thin films grown using atomic layer epitaxy (ALE). The films were grown at temperatures ranging from 300 to 500 °C using zinc acetate or zinc chloride as precursors along with hydrogen sulfide. The crystal structure was found to depend on both the growth temperature and the source materials, with cubic and hexagonal structures observed under different conditions.",
-  "evidence": "The samples studied were grown by ALE at 300-500 °C from zinc acetate or zinc chloride and hydrogen sulfide. The crystal structure of polycrystalline ZnS thin films grown from zinc acetate at 300-375 °C is mainly cubic, whereas the ZnS layers grown from zinc chloride at 425-500 °C are predominantly hexagonal. The crystal structure of zinc sulfide thin films is found to depend both on growth temperature and on source materials."
-}<|im_end|>

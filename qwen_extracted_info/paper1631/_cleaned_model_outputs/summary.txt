@@ -1,8 +1,0 @@
-{
-  "target_material": "SnOx",
-  "process_type": "ALD",
-  "main_precursors": ["SnCl4", "H2O2"],
-  "temperature_range": "325 °C",
-  "summary": "Ultrathin tin oxide (SnOx) films were deposited on SiO2 nanoparticles using atomic layer deposition (ALD) with SnCl4 and H2O2 as precursors. The films were exposed to O2 and CO gas at 300 °C to study their gas-sensing properties. The study used in situ transmission FTIR spectroscopy to monitor the electrical conductivity and gas-phase species, revealing that CO can produce oxygen vacancies on the SnOx surface, increasing conductivity. The films showed reversible responses to O2 and CO, with CO detection possible without O2.",
-  "evidence": "Ultrathin tin oxide ﬁlms were deposited on SiO2 nanoparticles using atomic layer deposition (ALD) techniques with SnCl4 and H2O2 as the reactants. These SnOx ﬁlms were then exposed to O2 and CO gas pressure at 300 °C to measure and understand their ability to serve as CO gas sensors. In situ transmission Fourier transform infrared (FTIR) spectroscopy was used to monitor both the charge conduction in the SnOx ﬁlms and the gas-phase species."
-}

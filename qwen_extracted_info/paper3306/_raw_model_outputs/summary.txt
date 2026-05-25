@@ -1,8 +1,0 @@
-{
-  "target_material": "titania (TiO2)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Ti isopropoxide (TTIP)", "water (H2O)"],
-  "temperature_range": "80 °C",
-  "summary": "Amorphous titania films were deposited using atomic layer deposition (ALD) at 80 °C with Ti isopropoxide and water as precursors. These films were then subjected to hydrothermal treatment at 120 °C, which induced an amorphous-to-anatase phase transformation. The study investigated the effect of precursor chemistry and substrate material on the crystallization process, finding that films deposited on silicon substrates crystallized more readily than those on polycarbonate. The crystallization was monitored using XANES and XPS, and the presence of pre-formed anatase crystallites was shown to accelerate the transformation.",
-  "evidence": "Hydrothermal treatment has been applied successfully to convert amorphous titania films to crystalline anatase at 120 °C, a temperature compatible with most polymeric substrates. The amorphous films were deposited at 80 °C using atomic layer deposition (ALD). The crystallinity of the films was monitored by x-ray absorption near edge structure (XANES), and the film composition was determined by x-ray photoelectron spectroscopy (XPS). The effect of precursor chemistry and substrate material was investigated. It was found that titania films produced from Ti isopropoxide are easier to crystallize than those from Ti tetrachloride as the Ti precursor. The amorphous to crystalline transformation can be achieved more readily with films deposited on Si than polycarbonate substrates."
-}<|im_end|>

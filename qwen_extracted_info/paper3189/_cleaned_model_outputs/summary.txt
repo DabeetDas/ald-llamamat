@@ -1,8 +1,0 @@
-{
-  "target_material": "TaC xNy",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["tert-butylimidotris(diethylamido)tantalum (TBTDET)"],
-  "temperature_range": "100–400°C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of TaC xNy films using tert-butylimidotris(diethylamido)tantalum (TBTDET) as a precursor with hydrogen as a reacting gas. The process involves in situ diagnostics to understand the gas-phase and surface reactions, revealing that atomic hydrogen enhances the formation of Ta–C bonds and suppresses film-forming species, leading to a stable deposition rate at higher temperatures. The phase composition of the film, including TaC, TaN, and Ta3N5, is influenced by the presence of plasma.",
-  "evidence": "The gas phase and the surface reaction mechanism of tert-butylimidotris(diethylamido)tantalum involved in the atomic layer deposition of TaC xNy films were studied. ... The deposition rate per cycle as a function of the deposition temperature was measured. ... It was confirmed that Ta vN and N–C bonds in the precursor disappeared upon adsorption on the oxide surface even at room temperature. Atomic hydrogen dissociated the hydrocarbon species and enhanced the formation of the Ta–C bond. ... The phase composition of the film including TaC, TaN, and Ta3N5 deposited with atomic layer deposition using hydrogen with or without plasma was also measured."
-}

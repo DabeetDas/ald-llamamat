@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylaluminum (TMA)", "Ir(acac)3"],
-  "coreactants": ["H2O", "O2"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The wafers were then transferred to the chamber of an ALD system (Picosun SUNALE TM R-150B, Finland), and a 6 nm-thick Al2O3 layer (60 cycles) was deposited at 300 /C14 C using trimethylaluminum (TMA) and H2O as the precursors and N2 (99.999%) as the carrier/purge gas. 27 Subsequently, ALD was performed to perform ex situ or in situ deposition of Ir NCs at 300 /C14 C on two different Al2O3 surfaces. (1) The first surface was an ALD-grown Al2O3 film on Si that was aged in air for several hours (ex situ), (2) and the second surface was an as-deposited fresh ALD-grown Al2O3 film that was immediately used for Ir NC deposition (in situ). The Ir (III) acetylacetonate (Ir(acac)3) precursor was kept at 200 /C14 C with a vapor pressure of 1–2 millibars, 28–30 and the gas mixture (49% O2 þ 51% N2) used as the O2 precursor was transferred into the reactor with a flow rate of 40 sccm."
-}

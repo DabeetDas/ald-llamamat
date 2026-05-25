@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface mechanism involves the reevaporation of Cd and Te from the CdTe (111) surface, with the activation energies for these processes being determined. The NSQGTLs are located between the first well-ordered, chemisorbed monolayer and the bulk of the elemental molecular or atomic beam. The transition layers create reaction zones where atoms or molecules are weakly bound to the solid surface, allowing them to migrate, become included into the crystal lattice, or thermally desorb into the UHV environment.",
-  "intermediate_species": ["quasi-gas molecular aggregates"],
-  "evidence": "The near surface quasi-gas transition layers (NSQGTLs) occurring in UHV ALE of CdTe, according to the realistic model of this growth process, are located in between the first well ordered, chemisorbed monolayer of the deposit atoms, and the bulk of the elemental molecular or atomic beam, impinging on the surface during the deposition cycle of the ALE process. The transition layers create reaction zones 3-5 monolayers thick near the substrate surface, where the atoms or molecules are weakly bound to the solid surface, so that they may readily migrate over the surface, become included into the crystal lattice of the growing epilayer, or may thermally desorb into the UHV environment."
-}

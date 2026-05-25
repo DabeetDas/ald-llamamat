@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involved in the ALD process for depositing TiO2 on the peptide framework is not explicitly detailed in the text. However, it is mentioned that the ALD process was used to deposit a thin TiO2 layer on the peptide xerogel framework, with the deposition temperature set at 140 °C. The process involved sequential deposition of reactive species, including titanium tetra-isopropoxide (TTIP) and ammonium (NH3) gas, which are typical precursors in ALD for TiO2.",
-  "intermediate_species": ["TiO2 layer"],
-  "evidence": "The text states: 'A nanoscale layer of anatase TiO2 was deposited on the nanoribbon framework by means of atomic layer deposition (ALD). The deposition temperature was 140 °C, where each deposition cycle generated an average deposition thickness of 0.2 Å. The process involved sequential deposition of reactive species, including titanium tetra-isopropoxide (TTIP) and ammonium (NH3) gas.'"
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylaluminum (TMA)"],
-  "coreactants": ["ozone (O3)"],
-  "purge_gas": ["nitrogen (N2)"],
-  "carrier_gas": [],
-  "evidence": "The TMA pulse length (vapor draw) is 5 s for saturation dosage. For ozone, two different pulse lengths (1 and 2 s) and flow rates (100 and 200 sccm) of O3 / O2 mixture gas are used. The ALD reactor is purged with 500 sccm ultrapure nitrogen gas for 5 min after each exposure to prevent cross gas phase reaction between residual precursors."
-}<|im_end|>

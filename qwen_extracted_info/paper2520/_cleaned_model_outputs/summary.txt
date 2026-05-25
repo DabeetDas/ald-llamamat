@@ -1,8 +1,0 @@
-{
-  "target_material": "Tungsten (W)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["WF6", "Si2H6"],
-  "temperature_range": "473 K",
-  "summary": "The study investigates the gas-phase reaction products during tungsten atomic layer deposition (ALD) using WF6 and Si2H6. The main reaction products from the WF6 reaction at 473 K are SiF4, H2, and HF. The Si2H6 reaction at room temperature produces SiHF3 and H2, while at higher temperatures, H2 is the main product. The study confirms the stoichiometry of the surface reactions through mass spectrometry, FTIR, XPS, and AES results.",
-  "evidence": "The gas phase reaction products during tungsten atomic layer deposition using WF6 and Si2H6 were studied using quadrupole mass spectrometry. The main reaction products from the WF6 reaction at 473 K were SiF4, H2, and HF. The Si2H6 reaction at room temperature produces SiHF3 and H2, while at higher temperatures, H2 is the main product. The study confirms the stoichiometry of the surface reactions through mass spectrometry, FTIR, XPS, and AES results."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "AlN",
-  "process_type": "plasma-enhanced ALD (PEALD)",
-  "main_precursors": ["Trimethylaluminum (TMA)", "Hydrogen nitrogen mixture plasma"],
-  "temperature_range": "332 ◦C",
-  "summary": "AlN thin films deposited by plasma-enhanced atomic layer deposition (PEALD) were investigated for their bipolar resistive switching (RS) properties. The films were used to fabricate Cu/PEALD-AlN/Pt devices, which exhibited RS behavior due to the formation and disruption of Cu conducting filaments. The resistance ratio of high and low resistance states (HRS/LRS) was found to be 102–105. The dominant conduction mechanisms at HRS and LRS were trap-controlled space charge limited current and Ohmic behavior, respectively. The study demonstrated the potential of PEALD-AlN films for high-density 3D resistance random access memory (ReRAM) applications.",
-  "evidence": "AlN thin films deposited by plasma-enhanced atomic layer deposition (PEALD) have been used to investigate the resistive switching (RS) behavior. The bipolar RS properties were observed in the Cu/PEALD-AlN/Pt devices, which are induced upon the formation/disruption of Cu conducting filaments, as confirmed by the temperature dependent resistances relationships at different resistance states. The resistance ratio of the high and low resistance states (HRS/LRS) is 102 –10 5. The dominant conduction mechanisms at HRS and LRS are trap-controlled space charge limited current and Ohmic behavior, respectively. This study demonstrated that the PEALD-AlN films have a great potential for the applications in high-density resistance random access memory."
-}

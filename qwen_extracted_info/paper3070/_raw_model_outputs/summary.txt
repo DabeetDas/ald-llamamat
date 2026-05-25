@@ -1,8 +1,0 @@
-{
-  "target_material": "Platinum (Pt)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["methylcyclopentadienyltrimethylplatinum (MeCpPtMe3)", "oxygen (air)"],
-  "temperature_range": "285°C",
-  "summary": "The study describes the atomic layer deposition (ALD) of platinum (Pt) on yttria-stabilized zirconia (YSZ) substrates using methylcyclopentadienyltrimethylplatinum (MeCpPtMe3) and oxygen as precursors. The process is used to create patterned Pt films through area-selective ALD by using microcontact printed self-assembled monolayers (SAMs) of octadecyltrichlorosilane (ODTS) to block the deposition on specific regions. The Pt films exhibit low resistivity and high purity, and the study demonstrates the effectiveness of ODTS SAMs in achieving selective deposition.",
-  "evidence": "Using /H20849methylcyclopentadienyl/H20850trimethylplatinum/H20849MeCpPtMe3/H20850and oxygen as precursors, Pt has been deposited by atomic layer deposition /H20849ALD/H20850on the surfaces of yttria-stabilized zirconia /H20849YSZ/H20850... The use of area-selective ALD to deposit patterned Pt has also been investigated. By coating these same substrates with octadecyltrichlorosilane /H20849ODTS/H20850selfassembled monolayers /H20849SAMs/H20850, Pt ALD can be successfully blocked. Furthermore, it is shown that by transferring the ODTS SAMs to the substrates by microcontact printing /H9262CP/H20850using patterned stamps, platinum thin films are grown selectively on the SAM-free surface regions."
-}<|im_end|>

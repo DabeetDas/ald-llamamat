@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["trimethylgallium (TMGa)", "arsine (AsH3)"],
-  "temperature_range": "550 “C to 580 “C",
-  "summary": "This study reports on the achievement of high growth rates in atomic layer epitaxy (ALE) of GaAs, reaching up to 2 μm/h. The process utilizes a specially designed reactor with a rotating susceptor and a partition system to separate reactant gases, enabling rapid rotation between streams of TMGa and AsH3. The study highlights the impact of partition height on growth behavior and demonstrates that self-limited growth can be achieved at high rotational speeds without significant gas phase mixing. The results indicate that ALE can be a practical technique for depositing high-quality GaAs films with controlled doping levels.",
-  "evidence": "Atomic layer epitaxy (ALE) of GaAs with a growth rate as high as 2 pm/h was achieved in a specially designed reactor based on the rotating susceptor concept. High deposition rates are made possible by a unique partition system that permits rapid rotation of substrates between simultaneous streams of columns III and V reactant gases. The self-limited growth obtained implies that even at 120 rpm no significant gas phase mixing occurs between the columns III and V reactant gases. The study also discusses the impact of temperature and partition height on growth behavior and the effectiveness of the ALE process for depositing high-quality GaAs films."
-}

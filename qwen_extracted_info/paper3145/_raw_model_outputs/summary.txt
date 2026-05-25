@@ -1,8 +1,0 @@
-{
-  "target_material": "Vanadium pentoxide",
-  "process_type": "Thermal ALD and PEALD",
-  "main_precursors": ["Vanadyl-tri-isopropoxide (VTIP)", "Water or oxygen"],
-  "temperature_range": "50–200°C",
-  "summary": "Vanadium pentoxide was deposited using atomic layer deposition (ALD) and plasma-enhanced ALD (PEALD) with vanadyl-tri-isopropoxide (VTIP) as the precursor and water or oxygen as reactive gases. The study compared thermal and plasma-enhanced processes, highlighting differences in growth rates, crystallinity, and contamination levels. The PEALD process showed a wide temperature range and faster growth rates compared to thermal ALD.",
-  "evidence": "Vanadium pentoxide was deposited by atomic layer deposition /H20849ALD/H20850from vanadyl-tri-isopropoxide /H20849VTIP/H20850. Water or oxygen was used as a reactive gas in thermal and plasma-enhanced /H20849PE/H20850processes. For PE ALD, there was a wide ALD temperature window from 50 to 200°C. The PE ALD reactions saturated much faster than during thermal ALD, leading to a growth rate of approximately 0.7 Å/cycle during PE ALD using H2O or O2."
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process on graphene surfaces involved a delayed growth initiation due to the lack of dangling bonds on graphene. The pre-treatment with NF3 provided additional nucleation sites, enabling conformal films without pinholes. The ALD process used trimethylaluminum (TMA) and water (H2O) as precursors, with TMA adsorbing on the surface and reacting with hydroxyl groups, followed by water pulses to regenerate the surface hydroxyls.",
-  "intermediate_species": ["TMA", "surface hydroxyls", "Al-OH*"],
-  "evidence": "The text discusses the ALD process on graphene surfaces, noting the lack of dangling bonds and the use of NF3 pre-treatment to provide additional nucleation sites. It mentions the use of TMA and H2O as precursors, with TMA adsorbing on the surface and reacting with hydroxyl groups, followed by water pulses to regenerate the surface hydroxyls."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALE process for HgTe involved the use of DMHg and MATe precursors, with the growth rate being invariant with temperature in the range 120-160 °C. The one monolayer per cycle condition was achieved with increasing DMHg flux at 140 °C and an MATe partial pressure of 1.4 × 10^-4 atm. The growth of HgTe was observed to not saturate with increasing MATe partial pressure, which was attributed to Te condensation at low deposition temperatures.",
-  "intermediate_species": ["Hg alkyl (DMHg)"],
-  "evidence": "Using an ALE time sequence of 6/2/4/2 s for DMHg/H2/MATe/H2 respectively, the growth rate was invariant with temperature in the range 120-160 °C. Figure 3 shows the stable one monolayer per cycle condition with increasing DMHg flux at 140 °C and an MATe partial pressure of 1.4 × 10^-4 atm. However, the growth rate of HgTe does not seem to saturate with increasing MATe partial pressure. This cannot be due to gas phase intermixing, since negligible growth occurs with conventional MOCVD of HgTe at 140 °C for 1 h, while a uniform film obtains with monolayer growth using the ALE sequence at the same temperature. The cause of this behavior is not understood; one possibility may be Te condensation at these low deposition temperatures."
-}<|im_end|>

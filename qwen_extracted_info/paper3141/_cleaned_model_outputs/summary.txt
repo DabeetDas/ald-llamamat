@@ -1,8 +1,0 @@
-{
-  "target_material": "PbTiO3",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Pb(DMAMP)2", "Ti(Oi-Pr)4"],
-  "temperature_range": "200 oC",
-  "summary": "PbTiO3 thin films were deposited on Si and Ru substrates using atomic layer deposition (ALD) at 200 oC with H2O and O3 as oxidants. The study investigated the growth behavior and catalytic effects of the oxidants on the deposition process. The catalytic effect was attributed to the enhanced growth of component oxide layers (PbO and TiO2) by the previously formed stoichiometric PbTiO3 phase.",
-  "evidence": "PbTiO3 thin films were deposited on Si and Ru substrates by atomic layer deposition (ALD) at a substrate temperature of 200 oC using H2O and O3 as oxidants. The previously reported catalytic effect observed in the PbTiO3 ALD process was attributed to the enhanced growth of the component oxide layer, i.e. PbO and TiO2, by previously formed stoichiometric PbTiO3 phase."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Vanadium oxide",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["VOCl3", "Si-OH groups"],
-  "temperature_range": "600°C to 400°C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of vanadium oxide on silica (SiO2) using vanadium oxychloride (VOCl3) as a precursor. The process involves the reaction of surface hydroxyl groups of silica with VOCl3, followed by hydrolysis and annealing in air to form a vanadium oxide surface phase. The vanadium(V) exists in different oxygen coordination states depending on reaction conditions, and the study investigates the effects of various ligands on the coordination of vanadium atoms.",
-  "evidence": "The reaction of surface hydroxide groups of silica (Aerosil-200, dehydrated and annealed at 600 or 400°C) with VOCI3 is described: ZSi-OH + VOCI3 → Si-O-VOCI3 + HCl. By hydrolytic cleavage of the residual chlorine atoms and annealing in air, a vanadium oxide surface phase on silica is formed. The vanadium(V) exists in different oxygen coordination states depending on the reaction conditions."
-}<|im_end|>

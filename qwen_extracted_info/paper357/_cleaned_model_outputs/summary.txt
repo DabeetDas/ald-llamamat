@@ -1,8 +1,0 @@
-{
-  "target_material": "CuGaS2",
-  "process_type": "alternating-source-feeding MOVPE",
-  "main_precursors": ["CpCu . TEP", "TEG", "H2S"],
-  "temperature_range": "550–600°C",
-  "summary": "The paper describes the successful growth of CuGaS2 layers using alternating-source-feeding MOVPE (ASF-MOVPE) to improve thickness uniformity. The process involves alternating the introduction of copper, gallium, and sulfur sources to prevent premature reactions, resulting in better uniformity and crystalline quality. The study also discusses the growth mechanisms and the impact of precursor flow rates on layer quality.",
-  "evidence": "The observed saturating behavior of the growth rate has been discussed in conjunction with atomic layer epitaxy and other growth mechanisms. The growth system used in this study is the same as that reported previously [1—3], except that we adopted a conventional horizontal quartz reactor with a rectangular cross section instead of using the previous reactor of a complicated design with a nozzle for gas introduction [11. The epitaxial CuGaS2 layers grown on both GaP (001) and GaAs (001) substrates were found by X-ray diffraction measurements to be oriented with the c-axis normal to the substrate surfaces."
-}

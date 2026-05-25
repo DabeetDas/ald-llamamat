@@ -1,8 +1,0 @@
-{
-  "target_material": "niobium nitride (NbN)",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["(t-butylimido) tris(diethylamido) niobium(V) (TBTDEN)", "remote H2=N2 plasmas"],
-  "temperature_range": "100–300 /C14 C",
-  "summary": "The study investigates plasma-enhanced atomic layer deposition (PEALD) of niobium nitride (NbN) using (t-butylimido) tris(diethylamido) niobium(V) (TBTDEN) as the niobium precursor and remote H2=N2 plasmas. The process parameters, including substrate temperature, plasma power, and H2 flow rate, were varied to study their effects on film properties. The results show that higher substrate temperatures and H2 flow rates lead to lower room temperature resistivity and higher superconductivity critical temperatures (Tc). The films exhibited improved electrical properties, with resistivity as low as 173 lX cm and Tc as high as 13.7 K.",
-  "evidence": "Plasma-enhanced atomic layer deposition (PEALD) of NbN with (t-butylimido) tris(diethylamido) niobium(V) and remote H2=N2 plasmas has been investigated. Deposited film properties have been studied as a function of substrate temperature (100–300 /C14 C), plasma power (150–300 W), and H2 flow rate (10–80 sccm). Film composition varied with deposition conditions, but larger cubic NbN crystallites and increased film density at higher substrate temperatures and H2 flow rates lead to room temperature resistivity values as low as 173 lX cm and superconductivity critical temperatures as high as 13.7 K."
-}

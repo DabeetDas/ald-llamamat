@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of (C5H5)2Mg and (CH3)3Al as metal precursors with H2O as the oxygen source. The Mg-Al-O films were deposited by ALD at 100–400 jC. The reaction steps are not explicitly detailed in the text, but the process is described as self-limiting with the pulsing ratio of precursors affecting the film composition and growth rate. The mechanism is inferred to involve surface reactions where the metal precursors and water interact to form the Mg-Al-O film.",
-  "intermediate_species": ["(C5H5)2Mg", "(CH3)3Al", "H2O"],
-  "evidence": "The text states: 'MgAl2O4 films were grown by atomic layer deposition at 100 – 400 jC onto soda lime glass and Si(100) substrates. (C5H5)2Mg, (CH3)3Al and H2O were used as precursors.' It also mentions: 'Deposition rates of both binary metal oxides were dependent on the deposition temperature.' Additionally, it notes: 'The ratio of metal atoms in the deposited Mg – Al – O films was analyzed by TOF-ERDA.'"
-}

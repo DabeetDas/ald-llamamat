@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylgallium (TMG)", "triethylindium (TEl)"],
-  "coreactants": ["AsH3"],
-  "purge_gas": [],
-  "carrier_gas": [],
-  "evidence": "During growth, AsH3 flows continuously on the column V side. While the substrate is under the AsH3 flow, the trimethylgallium (TMG) is turned on and allowed to stabilize prior to rotation through the flow, depositing one monolayer of GaAs. When the substrate is back under AsH3 again, the TMG is turned off and the triethylindium (TEl) is opened and stabilized during the time that trace TMG is purged."
-}<|im_end|>

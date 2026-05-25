@@ -1,8 +1,0 @@
-{
-  "target_material": "La2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tris(N,N0-diisopropylformamidinato) lanthanum [La(iPrfAMD)3]", "H2O or O3"],
-  "temperature_range": "200–250 °C",
-  "summary": "La2O3 films were deposited using a novel formamidinate precursor with H2O and O3 as oxidants. The use of O3 as an oxidant resulted in a stable ALD process window and improved electrical properties by suppressing hydroxide formation. Post-deposition annealing significantly reduced leakage current density.",
-  "evidence": "La2O3 films were grown by atomic layer deposition technique using a novel formamidinate precursor, tris(N,N0-diisopropylformamidinato) lanthanum [La(iPrfAMD)3], with H2O and O3 as an oxidant. The use of O3 as the oxidant revealed a stable ALD process window. Post-deposition annealing (PDA) of the deposited La2O3 films using O3 significantly reduces leakage current density by four orders of magnitude relative to as-deposited samples."
-}

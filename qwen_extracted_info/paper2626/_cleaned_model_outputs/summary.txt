@@ -1,8 +1,0 @@
-{
-  "target_material": "titanium sulfide (TiS2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["titanium tetrachloride (TiCl4)", "hydrogen sulfide (H2S)"],
-  "temperature_range": "75–250 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of titanium sulfide (TiS2) using titanium tetrachloride (TiCl4) and hydrogen sulfide (H2S) as precursors. The ALD process is carried out within a temperature range of 75–250 °C, with a saturated growth rate of approximately 0.5 Å per cycle. The deposited TiS2 films are found to be poorly crystalline and are applied as a photon-harvesting material in solid-state sensitized solar cells. The ALD process is characterized by self-limiting growth, confirmed through in-situ quartz crystal microbalance (QCM) and ex-situ x-ray reflectivity (XRR) measurements. The study also reports an energy conversion efficiency of approximately 0.6% under 1 sun illumination.",
-  "evidence": "Atomic layer deposition of titanium sulﬁde (TiS2) is investigated with titanium tetrachloride and hydrogen sulﬁde precursors. In-situ quartz crystal microbalance and ex-situ x-ray reﬂectivity measurements are carried out to study self-limiting deposition chemistry and material growth characteristics. The saturated growth rate is found to be ca. 0.5 A˚ /cycle within the ALD temperature window of 125–200 /C14 C. ALD grown TiS2 is applied as a photon harvesting material for solid state sensitized solar cells with TiO2 as electron transport medium. Initial results with Spiro-OMeTAD as hole conducting layer show ca. 0.6% energy conversion efﬁciency under 1 sun illumination."
-}

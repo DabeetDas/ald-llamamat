@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO xNy",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["Hf/H20851N/H20849C2H5/H20850/H20849CH3/H20850/H208524", "plasma-activated NH3", "O2"],
-  "temperature_range": "280°C",
-  "summary": "The study investigates the electrical and bias temperature instability characteristics of n-type field-effect transistors using HfO xNy gate dielectrics deposited by plasma-enhanced atomic layer deposition (PEALD). The HfO xNy films showed a lower capacitance equivalent oxide thickness (CET) compared to HfO2, attributed to the incorporation of nitrogen. However, HfO xNy exhibited a higher leakage current due to a reduced bandgap. The study also observed a turnaround effect in the threshold voltage (Vth) shift under positive gate stress bias, which was explained by the surface plasmon model. The nitrogen incorporation in HfO xNy influenced the interface trap density and charge trapping behavior, affecting the reliability of the gate dielectrics.",
-  "evidence": "HfO xNy ﬁlms were deposited directly onto HF cleaned Si wafers by PEALD at a wafer temperature of 280°C. After the pulse/purge steps of Hf/H20851N/H20849C2H5/H20850/H20849CH3/H20850/H208524 as a Hf precursor, the plasma-activated NH3 and O2 reactants were delivered. The radio-frequency plasma of 27.12 MHz was used instead of the conventional frequency of 13.56 MHz to enhance plasma density, and a plasma power of 600 W was induced only at the step of NH3 gas flow. No plasma power was used in the O2 pulse step, which may result in a high N concentration, as shown below."
-}

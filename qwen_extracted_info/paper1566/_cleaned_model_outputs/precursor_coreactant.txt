@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ta(NtBu)(tBu2pz)3 (1, tBu2pz = 3,5-di-tert-butylpyrazolate)"],
-  "coreactants": ["ozone"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The deposition of Ta2O5 thin films on silicon substrates by ALD was studied using 1 as the tantalum precursor and ozone as the oxygen source. The vessel containing 1 was maintained at 160 °C. The growth rate was constant at about 0.30 Å/cycle with >1.0 s pulse lengths of 1, which is consistent with surface-limited growth."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["tBu-AllylCo(CO)3"],
-  "coreactants": ["dimethylhydrazine"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The tBu-AllylCo(CO)3 precursor is exposed by a 2-s pulse using ultrapure N2 carrier gas (flow rate = 10 sccm, P ∼ 20 mTorr) through an ampule kept at 35 °C. The dimethylhydrazine is introduced by a 1-s pulse, drawn directly from the reservoir at room temperature (9 Torr vapor pressure)."
-}

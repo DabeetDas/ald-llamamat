@@ -1,8 +1,0 @@
-{
-  "target_material": "BeO",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["dimethylberyllium (DMB)", "H2O", "O3"],
-  "temperature_range": "150 to 300 °C",
-  "summary": "The study investigates the growth characteristics and properties of BeO thin films deposited by atomic layer deposition (ALD) using H2O and O3 as oxygen sources. The properties of the films, including band gap and dielectric constant, are influenced by the oxygen source and growth temperature. Films grown with O3 at low temperatures show higher impurity concentrations and lower density, while those grown at higher temperatures exhibit improved properties comparable to those grown with H2O.",
-  "evidence": "The properties of the BeO films grown using H2O are temperature-independent. In contrast, the BeO films grown using O3 at low temperatures (< 200 °C) show high concentrations of carbon and hydrogen, possibly owing to the incomplete removal of the ligands of the precursor, leading to a low film density. Above 250 °C, these properties recovered to the levels of the BeO films grown using H2O."
-}<|im_end|>

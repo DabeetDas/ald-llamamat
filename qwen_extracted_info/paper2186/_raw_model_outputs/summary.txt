@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tetrakis(dimethylamino)hafnium", "water"],
-  "temperature_range": "200 °C (deposition) and 500 °C (postdeposition annealing)",
-  "summary": "This study investigates the physical and electrical characteristics of atomic layer deposition (ALD) of HfO2 on GaAs substrates for metal-oxide-semiconductor (MOS) capacitors. The research focuses on the impact of surface chemical treatments, such as sulfur passivation, on the interface quality and electrical performance of the HfO2/GaAs interface. The study also examines the frequency dispersion behavior and leakage current characteristics of the capacitors.",
-  "evidence": "In this letter, we have investigated the physical and electrical characteristics of atomic layer deposition of HfO2 on GaAs substrates. X-ray photoelectron spectroscopy analysis revealed no significant reduction of arsenic oxides upon deposition of HfO2 on GaAs using tetrakis(dimethylamino)hafnium as the metallic precursor. However, XPS confirmed the absence of arsenic oxides at the interface of HfO2 and sulfide-treated GaAs. High-resolution transmission electron microcopy analysis verified a smooth interface between HfO2 and sulfur-passivated GaAs. In addition, frequency dispersion behavior of capacitors on p-type GaAs substrates was remarkably improved by employing an appropriate surface chemical treatment."
-}<|im_end|>

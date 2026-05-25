@@ -1,8 +1,0 @@
-{
-  "target_material": "YMnO3",
-  "process_type": "Radical-enhanced atomic layer deposition (RE-ALD)",
-  "main_precursors": ["tris(2,2,6,6-tetramethyl-3,5-heptanedionato) yttrium", "tris(2,2,6,6-tetramethyl-3,5-heptanedionato) manganese"],
-  "temperature_range": "250 °C",
-  "summary": "YMnO3 thin films were synthesized using radical-enhanced atomic layer deposition (RE-ALD) on silicon (Si) and yttria-stabilized zirconia (YSZ) substrates. The study investigated the effect of film composition and substrates on the intrinsic magnetic properties of the films. The Mn/Y atomic ratio was controlled by adjusting the Mn:Y precursor pulsing ratio. The films exhibited different crystal phases (orthorhombic and hexagonal) depending on the substrate and Mn/Y ratio, and their magnetic properties were analyzed through temperature-dependent DC magnetic susceptibility measurements.",
-  "evidence": "YMnO3 thin films were synthesized by radical-enhanced atomic layer deposition (RE-ALD) on silicon (Si) and yttria-stabilized zirconia (YSZ) substrates, to investigate the effect of film composition and substrates on their intrinsic magnetic properties. The Mn/Y atomic ratio of the YMO thin films could be controlled near unity by adjusting the Mn:Y precursor pulsing ratio during the RE-ALD processes. The ALD YMO thin film on Si(111) was orthorhombic, regardless of the film thickness with a Néel temperature (TN) between 48 ~ 62 K, as determined through the anomalies observed during DC magnetic susceptibility measurements."
-}

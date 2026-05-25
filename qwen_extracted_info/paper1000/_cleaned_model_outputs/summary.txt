@@ -1,8 +1,0 @@
-{
-  "target_material": "LSM (La xSr1 −x)MnO3",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["La(Me4Cp)3", "Sr(n-PrMe4Cp)2", "Mn(Me4Cp)2", "water"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of LSM (La xSr1 −x)MnO3 cathodes for solid oxide fuel cells (SOFCs) to enable low-temperature operation. The ALD process uses Cp-type organometallic precursors and deionized water, with a growth rate of approximately 3.5 nm/cycle. The deposited LSM films are crystalline when grown on yttria-stabilized zirconia (YSZ) substrates. The performance of the fuel cells is limited by oxygen diffusivity and slow kinetics of the oxygen reduction reaction on LSM, indicating that LSM is not optimal for low-temperature operation.",
-  "evidence": "The text states: 'ALD of the mixed conducting oxide LSM is demonstrated using Cp-type organometallic precursors (La(Me4Cp)3, Sr(nPrMe4Cp)2, Mn(Me4Cp)2) and deionized water. The substrate was kept at 300 °C during growth... LSM was grown by repeating pulsed cycles in the order: La/H2O/La/H2O/Mn/H2O/Sr/H2O/Mn/H2O/La/H2O/La/H2O.' Additionally, it mentions: 'LSM was grown at a growth rate of ∼ 3.5 nm/cycle... LSM was crystalline as deposited when grown on crystalline yttria-stabilized zirconia (YSZ) substrates.'"
-}

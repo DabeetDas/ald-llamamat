@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface LO mode absorption is influenced by refraction phenomena at the air/thin film and thin film/substrate interfaces, and boundary conditions at the air/thin film interface. The angular dependence of the absorption follows the sin^4(θ0) function due to the interplay between refraction and the electric field distribution at the oxide film surface.",
-  "intermediate_species": ["surface hydroxyls", "electric field perpendicular to the film surface"],
-  "evidence": "The text discusses the angular dependence of surface LO mode absorption, which is influenced by refraction phenomena at the air/thin film and thin film/substrate interfaces, and boundary conditions at the air/thin film interface. The electric field perpendicular to the film surface is mentioned as a key factor in the interaction with IR radiation."
-}<|im_end|>

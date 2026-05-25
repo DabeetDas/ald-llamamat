@@ -1,8 +1,0 @@
-{
-  "target_material": "Hf xZr1−xO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "ZrCl4", "D2O"],
-  "temperature_range": "200–350 °C",
-  "summary": "The study investigates the addition of zirconium into HfO2 to improve its dielectric properties using atomic-layer deposition (ALD). Hf xZr1−xO2 films were deposited at 200–350 °C and annealed at 1000 °C. The results show that Zr addition leads to smaller and more uniform grain size, stabilization of the tetragonal phase, and improved electrical properties such as higher permittivity, lower threshold voltage shift, and higher mobility. The films exhibit good thermal stability and reduced leakage current.",
-  "evidence": "Hf xZr1−xO2 films were deposited by atomic-layer deposition at 200–350 °C and annealed in a nitrogen ambient environment at 1000 °C. Zr addition leads to changes in film microstructure and grain-size distribution. Hf xZr1−xO2 films have smaller and more uniform grain size compared to HfO2 for all deposition temperatures explored here. A monotonic decrease in band gap is observed as ZrO2 content is increased. The chlorin impurity in the films is strongly dependent on deposition temperature and independent of film composition. TEM images of transistors showed excellent thermal stability as revealed by a sharp Hf xZr1−xO2/Si interface and no Zr silicide formation. Significant improvement in device properties such as lower electrical thickness, higher permittivities, lower threshold voltage shift after stress, improved reliability, and higher mobilities are observed with Zr addition into HfO2."
-}

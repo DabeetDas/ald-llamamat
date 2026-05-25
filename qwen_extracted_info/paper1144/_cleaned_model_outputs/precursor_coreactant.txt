@@ -1,7 +1,0 @@
-{
-  "precursors": ["octachlorotrisilane (OCTS, Si3Cl8)"],
-  "coreactants": ["ammonia"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "Octachlorotrisilane (OCTS, Si3Cl8) was used as a silicon precursor and was supplied by bubbling at 50 °C, while ammonia was used as a coreactant. The films were deposited in an atomic layer deposition mode, i.e. by subsequently applying precursor and reactant pulses separated by chamber purging steps and therefore excluding gas phase reactions. Purge times of 15 s with a purging flow of 500 sccm were used for all experiments."
-}

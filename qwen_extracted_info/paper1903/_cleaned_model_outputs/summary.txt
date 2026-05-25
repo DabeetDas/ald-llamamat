@@ -1,8 +1,0 @@
-{
-  "target_material": "REScO3",
-  "process_type": "ALD",
-  "main_precursors": ["RE(thd)3", "ozone"],
-  "temperature_range": "300 /C14 C",
-  "summary": "The study investigates the effect of rare earth cation size on the properties of REScO3 thin films deposited by atomic layer deposition (ALD). The films were deposited using rare earth b-diketonate precursors (RE(thd)3) and ozone. The deposition temperature was 300 /C14 C, and the films showed varying crystallization behaviors depending on the RE3+ cation size. The results indicate that REScO3 films have potential as high-k gate dielectrics for MOSFETs.",
-  "evidence": "A series of amorphous REScO3 films was deposited by atomic layer deposition (ALD) using rare earth (RE) b-diketonate precursors RE(thd)3 together with ozone in an attempt to study the effect of the RE3+ cation size on various film properties. The deposition temperature was 300 /C14 C. REScO3 films were found to crystallize either as an orthorhombic perovskite phase or as a solid solution of the cubic C-type oxides. The results confirm that REScO3 films deposited by ALD are potential candidates for new generation high-k gate dielectrics."
-}

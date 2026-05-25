@@ -1,8 +1,0 @@
-{
-  "target_material": "MoSe2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["MoCl5", "(Me3Si)2Se", "(Et3Si)2Se", "(iPr3Si)2Se", "(Me3Sn)2Se"],
-  "temperature_range": "300 °C for MoCl5, 167 °C for Mo(CO)6, 275 °C for [Mo(NMe2)2(NtBu)2]",
-  "summary": "The study presents the successful atomic layer deposition (ALD) of MoSe2 using new selenium precursors. The ALD process utilized MoCl5 as the molybdenum precursor and various selenium precursors, including alkysilyl (R3Si)2Se and alkylstannyl (R3Sn)2Se compounds. The results demonstrated the deposition of MoSe2 nanostructures on different substrates with a dominant out-of-plane orientation. The study also explored the growth evolution of MoSe2 during the early ALD stages, revealing concomitant in-plane and out-of-plane growth. The findings highlight the potential of these new selenium precursors for the ALD synthesis of MoSe2, enabling precise control over composition and thickness for various applications.",
-  "evidence": "The text states: 'ALD processes carried out using MoCl5 as Mo precursor counterpart were followed by an extensive characterization of the as deposited material.' It also mentions: 'The ALD processes were carried out in a custom thermal ALD system at a chamber pressure of 2 mbar applying different deposition temperatures as a function of the Mo precursor: MoCl5 (300 °C), Mo(CO)6 (167 °C) and Mo(NMe2)2 (NtBu)2 (275 °C).'"
-}<|im_end|>

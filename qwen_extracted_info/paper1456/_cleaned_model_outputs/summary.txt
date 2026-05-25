@@ -1,8 +1,0 @@
-{
-  "target_material": "CaF2",
-  "process_type": "ALD",
-  "main_precursors": ["Ca(thd)2", "TiF4"],
-  "temperature_range": "300 -450 °C",
-  "summary": "A novel ALD process for depositing CaF2 thin films using TiF4 as a fluoride precursor and Ca(thd)2 as a calcium precursor at temperatures between 300 and 450 °C. The process achieves a high growth rate of 1.6 Å/cycle, resulting in polycrystalline films with low impurity levels and a refractive index of 1.43. The study highlights the advantages of this method over previous approaches, including improved film quality and growth rate.",
-  "evidence": "In this study thin films of calcium fluoride were deposited by atomic layer deposition (ALD) at a temperature range of 300 -450 °C using TiF4 as a new convenient fluoride precursor. Ca(thd)2 was used as a calcium precursor. The growth rate of the film was 1.6 Å/cycle, which is 4 times higher than that published before for CaF2 ALD. All films were polycrystalline and the impurity levels were low. The refractive index was 1.43 and the permittivity 6.6."
-}

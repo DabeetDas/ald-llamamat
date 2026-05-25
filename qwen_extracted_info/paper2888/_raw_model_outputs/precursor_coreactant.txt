@@ -1,7 +1,0 @@
-{
-  "precursors": ["TDMAT"],
-  "coreactants": ["NH3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ALD method using the alternate supply of TDMAT and NH3 was adopted for the film formation of TiN. The number of ALD cycles was set at 50 and one cycle consisted of an exposure to the NH3 gas for 15 s, a purge to the N2 gas for 20 s, an exposure to the TDMAT precursor for 5 s, and a purge to the N2 gas for 20 s. Note that the TDMAT precursor in a heated bubbler was delivered to the reaction chamber by nitrogen carrier gas."
-}<|im_end|>

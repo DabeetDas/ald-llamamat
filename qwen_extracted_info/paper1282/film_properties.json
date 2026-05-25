@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 0.1,
-  "density_g_cm3": null,
-  "refractive_index": null,
-  "surface_roughness_nm": 1.9,
-  "crystal_phase": "polycrystalline wurtzitic",
-  "evidence": "The polycrystalline structure is observed from HRTEM imaging ( Figure 8 , top), which reveals crystalline domains oriented in different directions. The sample used for the GIXRD was deposited on a Si(111) substrate using short, instead of long, NH3 pulse times (10 s) and purge times (4 s each) 52 in order to expedite the deposition and grow a suitably thick layer (35 nm) for GIXRD. The formation of polycrystalline GaN was confirmed from GIXRD, acquired at an incident angle (ω) of 1° (Figure 8, bottom). The peaks correspond to hexagonal wurtzitic GaN, as indicated by the blue bars (COD No. 9011658). The d spacings of the (100), (002), and (101) crystal planes are estimated to be 2.8, 2.6, and 2.5 Å, respectively, which agrees with those reported in the database. The average grain size of the (002) crystal planes, estimated using the Panalytical HighScore Plus software, is revealed to be 3.4 nm. Both GIXRD and HRTEM hence confirm the formation of polycrystalline wurtzitic GaN layers with sub-10 nm grains, with either ALD recipes and substrates."
-}

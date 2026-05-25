@@ -1,7 +1,0 @@
-{
-  "precursors": ["triethylborane (C2H5)3B", "tungsten hexafluoride (WF6)", "ammonia (NH3)"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ALD WN xCy deposition was carried out in an ASM Pulsar®2000 reactor integrated with an automated wafer handling platform. This was achieved with a repetitive ABC A ¯-type pulse sequence of surface reactions, where individual A, B, and C stand for the precursors triethylborane /H20851/H20849C2H5/H208503B/H20852, tungsten hexafluoride /H20849WF6/H20850, and ammonia /H20849NH3/H20850, respectively. WF6 and NH3 gases were mixed with nitrogen gas and introduced in the deposition chamber. Liquid /H20849C2H5/H208503B was evaporated and introduced in the chamber by flowing N2."
-}

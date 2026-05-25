@@ -1,8 +1,0 @@
-{
-  "target_material": "CeO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Ce(iPrCp)2(N-iPr-amd)", "water"],
-  "temperature_range": "165 –285 °C",
-  "summary": "Cerium oxide (CeO2) thin films were deposited using atomic layer deposition (ALD) with a novel Ce(iPrCp)2(N-iPr-amd) precursor and water as the oxygen source. The process showed a self-saturating growth behavior with a growth rate of 1.9 Å/cycle and good thickness uniformity. The films were polycrystalline with a cubic structure and showed oxygen vacancies, with a stoichiometry of CeO1.74. The study aimed to develop a stable cerium precursor for industrial ALD applications.",
-  "evidence": "Cerium oxide thin films were deposited on fused silica using atomic layer deposition (ALD). The novel Ce precursor, Ce(iPrCp)2(N-iPr-amd) ... A relatively broad ALD window of 165 –285 °C resulted in a constant growth rate of 1.9 Å/cycle and good thickness uniformity. The films deposited at 240 °C were found to be polycrystalline with cubic structure ... XPS analysis showed that films are free from contamination, and the Ce:O stoichiometry analysis revealed the existence of oxygen vacancies in the films with composition CeO1.74."
-}

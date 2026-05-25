@@ -1,8 +1,0 @@
-{
-  "target_material": "Iron oxide",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Ethylferrocene", "Oxygen plasma"],
-  "temperature_range": "150 °C to 250 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of iron oxide on a porous carbon substrate using ethylferrocene and an oxygen plasma co-reactant. The process was optimized to achieve a saturating growth rate of 0.1 Å/cycle within a temperature range of 150 °C to 250 °C. The iron oxide coating was applied to a porous gas diffusion layer (GDL) for use as an air electrode in a zinc-air battery. The ALD process was found to provide uniform coverage of the GDL, enhancing catalytic activity towards the oxygen evolution reaction (OER).",
-  "evidence": "Ethylferrocene, a novel precursor for atomic layer deposition (ALD) of iron oxide, was investigated using an oxygen plasma co-reactant. Iron oxide deposition showed a saturating growth rate of 0.1 Å/cycle in the temperature range of 150 °C to 250 °C. The iron oxide coating was subsequently deposited on a porous gas diffusion layer (GDL) for use as an air electrode in a zinc-air battery. X-ray microanalysis confirmed deep penetration of the iron oxide into the porosity of the GDL, with a lower substrate temperature providing deeper coverage."
-}

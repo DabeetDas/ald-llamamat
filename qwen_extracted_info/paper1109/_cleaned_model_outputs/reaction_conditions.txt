@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Oxygen chemisorbs on the ruthenium surface during the oxygen pulse and remains stable during the following purge period. The reaction by-products were detected during both precursor and oxygen pulses, indicating that the ruthenium layer grows during both pulses resulting in increased growth rate.",
-  "intermediate_species": ["oxygen layer"],
-  "evidence": "In another study of ruthenium deposition by ALD the authors analyzed reaction mechanism in-situ using quadrupole mass spectrometry. The reaction by-products were detected during both precursor and oxygen pulses. It indicates that the ruthenium layer grows during both pulses resulting in increased growth rate. As we have used oxygen as reaction gas, we believe that similar mechanism might be responsible also for high growth rate of RuO2 films."
-}

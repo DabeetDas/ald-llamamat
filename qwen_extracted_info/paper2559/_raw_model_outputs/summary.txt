@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TDMAH", "H2O"],
-  "temperature_range": "200–325 °C",
-  "summary": "HfO2 films were deposited on H-terminated Si using TDMAH and H2O precursors at temperatures between 200–325 °C. The study investigated the initial growth and interface formation, revealing a growth barrier on the H-terminated surface and the formation of an interfacial layer of nearly stoichiometric SiO2. The interfacial layer thickness remained stable from 4 to 25 ALD cycles, and the growth rates on both OH-terminated and H-terminated surfaces became similar after 15 cycles.",
-  "evidence": "HfO2 thin films have been deposited by an atomic layer deposition (ALD) process using alternating pulses of tetrakis (dimethylamino) hafnium (TDMAH) and H2O precursors at a substrate temperature of 200–325 °C. The initial stage of film growth on OH- and H-terminated Si surfaces is investigated... The interfacial layer appears to depend weakly on the deposition temperature from 200 to 325 °C, ranging from 6.9 to 8.4 Å."
-}<|im_end|>

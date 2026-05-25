@@ -1,7 +1,0 @@
-{
-  "precursors": ["TiI4"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "During the growth TiI4 was evaporated from a silica crucible kept in a flow of N2 carrier gas (99.999% purity). The vessel with H2O2 was also kept at 208C and if not stated otherwise, the total vapor pressure of this precursor was set at about 10 Pa at the reactor outlet."
-}

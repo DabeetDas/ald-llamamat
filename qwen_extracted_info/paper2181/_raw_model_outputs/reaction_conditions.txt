@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of HfO2 via atomic layer deposition (ALD) using tetrakis(diethylamido)hafnium (Hf(NEt2)4) and water (H2O) as precursors. The process includes alternating pulses of Hf(NEt2)4 and H2O with N2 purge. The surface reaction is self-limiting, and the deposition leads to a red shift in the resonant wavelength of the photonic crystal nanocavities.",
-  "intermediate_species": ["Hf(NEt2)4", "H2O", "O–H-terminated silicon oxide"],
-  "evidence": "Thin films of amorphous HfO2 are deposited conformally on silicon air-bridged photonic crystal slabs by means of ALD at 150 °C. Films were deposited using tetrakis(diethylamido)hafnium (Hf(NEt2)4) and water (H2O) vapor in alternating pulses with N2 purge of the reaction chamber between pulses. The observed linear deposition rate is around 0.93 Å/cycle, which is about a monolayer of hafnium oxide. The surface is still smooth enough to support high-Q modes for L5 nanocavities after HfO2 deposition."
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the formation of a defective interfacial layer near the AlN/GaN interface, which affects the current transport properties. The mechanism is associated with the presence of interface traps and interfacial oxide layers, leading to higher ideality factors and m values in the log I–log V plots for 5-nm-thick AlN.",
-  "intermediate_species": ["interface traps", "interfacial oxide layers"],
-  "evidence": "Based on these results, we drew the schematic band diagrams for each sample under reverse bias conditions, which are shown in Fig. 10. For 5-nm-thick AlN, the activated electrons with an energy of ~ 0.5 eV contributed to the current flow by TAT. For 20-nm-thick AlN, the PF emission with a trap energy of ~ 0.87 eV was dominant in the current flow. It was observed from the AlN/GaN interface that the Ga diffusion into the AlN layer was significant for 7.4-nm-thick AlN, but not for 24-nm-thick AlN. As a result, we can conjecture that, in this work, a defective interfacial layer was formed for 5-nm-thick AlN. Due to this layer, higher ideality factor and higher m values in log I–log V plots might be observed."
-}<|im_end|>

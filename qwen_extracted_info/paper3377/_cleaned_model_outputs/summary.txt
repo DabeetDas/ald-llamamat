@@ -1,8 +1,0 @@
-{
-  "target_material": "Pt nanoparticles",
-  "process_type": "ALD (Atomic Layer Deposition)",
-  "main_precursors": ["trimethyl(methylcyclopentadienyl)platinum", "O2", "N2 plasma"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to independently control the size and coverage of supported Pt nanoparticles. Two ALD processes are combined: one using O2 as a reactant to control particle coverage and another using N2 plasma to tune particle size. The process involves precise control over the number of ALD cycles and the use of in situ and ex situ characterization techniques like GISAXS and XRF to monitor particle growth and morphology.",
-  "evidence": "The text states: 'Our approach exploits the versatility of the atomic layer deposition (ALD) technique by combining two ALD processes for Pt using different reactants. The particle areal density is controlled by tailoring the number of ALD cycles using trimethyl(methylcyclopentadienyl)platinum and oxygen, while subsequent growth using the same Pt precursor in combination with nitrogen plasma allows for tuning of the particle size at the atomic level.'"
-}

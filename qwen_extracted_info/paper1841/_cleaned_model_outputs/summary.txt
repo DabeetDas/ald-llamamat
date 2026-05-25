@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Hf(N(CH3)2)4", "CpHf(N(CH3)2)3"],
-  "temperature_range": "250 1C to 350 1C",
-  "summary": "This study investigates the effects of substituting ligand structures in HfO2 atomic layer deposition (ALD) with cyclopentadiene (Cp) ligands. The research compares Hf(N(CH3)2)4 and CpHf(N(CH3)2)3 precursors, focusing on their impact on the growth characteristics, film properties, and electrical performance of ALD HfO2 films. The study reveals that the Cp ligand affects the growth rate, film density, and leakage current due to steric hindrance and residual OH content.",
-  "evidence": "The study compares Hf(N(CH3)2)4 and CpHf(N(CH3)2)3 precursors, focusing on their impact on the growth characteristics, film properties, and electrical performance of ALD HfO2 films. The research reveals that the Cp ligand affects the growth rate, film density, and leakage current due to steric hindrance and residual OH content."
-}

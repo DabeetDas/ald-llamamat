@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The reduction process involves the nucleation and growth of nuclei, with the rate of reduction being proportional to the rate coefficient and the gas-phase hydrogen concentration. The model assumes instantaneous nucleation and two-dimensional nuclei growth, with the reduction advancing as growing centers on the surface of the supported catalyst.",
-  "intermediate_species": [
-    "germ nuclei",
-    "nuclei growth"
-  ],
-  "evidence": "The model of two-dimensional nuclei growth, alongside the concept of extended reduction degree, gives a good description of the experimental results. The nucleation parameters obtained a multiplicity of values so that the nucleation became instantaneous and virtually complete before the nuclei growth started. The two-dimensional growth of converting centers is highly acceptable for the supported well-dispersed catalyst with Cr6+ on the surface."
-}

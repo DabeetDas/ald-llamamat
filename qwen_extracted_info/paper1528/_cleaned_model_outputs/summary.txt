@@ -1,8 +1,0 @@
-{
-  "target_material": "Yttrium-doped barium zirconate (BYZ)",
-  "process_type": "Atomic Layer Deposition (ALD) and Pulsed Laser Deposition (PLD)",
-  "main_precursors": ["Bis(propyltetramethylcyclopentadienyl)barium (Ba(PrMe4Cp)2)", "Tetrakis(dimethylamido)zirconium (Zr(NMe2)4)", "Tris(methylcyclopentadienyl)yttrium (Y(MeCp)3)"],
-  "temperature_range": "200 - 450 /C176C",
-  "summary": "The study investigates the fabrication and performance of ultrathin yttrium-doped barium zirconate (BYZ) membranes as electrolytes for intermediate-temperature protonic ceramic fuel cells (PCFCs) using atomic layer deposition (ALD) and pulsed laser deposition (PLD). The ALD process achieved a maximum power density of 136 mW/cm² at 400 /C176C, outperforming PLD membranes. The performance difference is attributed to surface morphology and interfacial microstructure.",
-  "evidence": "The membranes were fabricated by both atomic layer deposition (ALD) and pulsed laser deposition (PLD) techniques on micromachined Si substrates. The best-performing cell demonstrated 136 mW/cm² at 400 /C176C employing a BYZ membrane fabricated by ALD and 120 mW/cm² at 450 /C176C employing a BYZ fabricated by PLD."
-}

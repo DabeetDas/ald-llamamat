@@ -1,8 +1,0 @@
-{
-  "target_material": "Ni",
-  "process_type": "ALD",
-  "main_precursors": ["Ni(dmamb)2", "NH3"],
-  "temperature_range": "300°C",
-  "summary": "Ni thin films were deposited using atomic layer deposition (ALD) with Ni(dmamb)2 as a precursor and NH3 as a reactant. The process produced low-resistivity Ni films with minimal oxygen and no nitrogen or carbon impurities. The ALD process was applied to area-selective deposition using an OTS self-assembled monolayer as a blocking layer, enabling selective Ni film deposition on prepatterned substrates. The films showed excellent conformality and uniformity, making them suitable for nanoscale applications.",
-  "evidence": "Ni thin films were deposited by atomic layer deposition using bis(dimethylamino-2-methyl-2-butoxo)nickel (Ni(dmamb)2) as a precursor and NH3 gas as a reactant. The ALD Ni films showed low resistivity and contained only a minimal amount of oxygen and no nitrogen and carbon. Additionally, the ALD Ni process was applied to AS-ALD using octadecyltrichlorosilane (OTS) SAM as a blocking layer. The ALD Ni films were selectively deposited onto the prepatterned OTS lines, forming well-defined Ni lines."
-}<|im_end|>

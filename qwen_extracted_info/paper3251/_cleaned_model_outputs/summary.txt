@@ -1,8 +1,0 @@
-{
-  "target_material": "Ru",
-  "process_type": "ALD",
-  "main_precursors": ["bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2)", "ozone"],
-  "temperature_range": "225–275 ◦C",
-  "summary": "Ru films were deposited using atomic layer deposition (ALD) with bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2) and ozone as precursors and reactant, respectively. The process showed a high growth rate and good adhesion properties, making it suitable for use as a top electrode material for capacitors.",
-  "evidence": "Ru ﬁlms were produced by atomic layer deposition (ALD) with an alternating supply of bis(ethylcyclopentadienyl)ruthenium (Ru(EtCp)2) and ozone at deposition temperatures of 225–275 ◦C. Ozone acted as an effective reactant for Ru(EtCp)2. The interfacial adhesion property between Ru ﬁlms prepared via ALD using ozone (ozone-Ru) and ZrO2 was good and 80% step coverage was achieved on a 3-D structure with a very high aspect ratio of 16:1, making them suitable for use as a top electrode material."
-}

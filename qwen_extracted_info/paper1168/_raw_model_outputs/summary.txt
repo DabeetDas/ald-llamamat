@@ -1,8 +1,0 @@
-{
-  "target_material": "aluminum oxide (Al2O3)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminum", "water"],
-  "temperature_range": "200 °C",
-  "summary": "The paper describes the fabrication of integrated SECM-SICM nanopipet probes using atomic layer deposition (ALD) of aluminum oxide (Al2O3) to insulate gold-coated nanopipets. The ALD process is used to deposit a conformal insulating film, followed by focused ion beam (FIB) milling to expose the gold film as an ultramicroelectrode (UME). The probes are characterized by scanning electron microscopy (SEM) and cyclic voltammetry (CV), and they demonstrate successful SECM-SICM imaging with submicrometer resolution.",
-  "evidence": "The fabrication process utilizes atomic layer deposition (ALD) of aluminum oxide to conformally insulate a gold-coated nanopipet and focused ion beam (FIB) milling to precisely expose a UME at the pipet tip. Al2O3 films were deposited at a temperature of 200 °C with trimethylaluminum and water reactants iteratively pulsed into the reactor with nitrogen carrier gas at dose times of 1 s and purge times of 5 s."
-}<|im_end|>

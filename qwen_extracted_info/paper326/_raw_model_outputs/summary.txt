@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "100–500 °C",
-  "summary": "The study investigates the effect of process temperature and reaction cycle number on the atomic layer deposition (ALD) of TiO2 thin films using TiCl4 and H2O precursors. The research focuses on the correlation between growth per cycle (GPC), film crystallinity, surface roughness, and the presence of by-products such as HCl during the ALD process. The results show that the GPC does not correlate well with film crystallinity and surface roughness, and the crystallinity is primarily influenced by grain growth kinetics. The study also highlights the importance of process temperature and cycle number in determining the film structure and composition.",
-  "evidence": "The effect of process temperature and reaction cycle number on atomic layer-deposited TiO2 thin films onto Si(100) using TiCl4 and H2O precursors was investigated in order to discuss the correlation between the growth per cycle (GPC), film structure (crystallinity), and surface roughness as well as the dependence of some of these properties with gas phase environment such as HCl by-product."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "CuInS2",
-  "process_type": "ALD",
-  "main_precursors": ["CuCl", "InCl3", "H2S", "Cu(acac)2", "In(acac)3"],
-  "temperature_range": "150 °C",
-  "summary": "The study describes the deposition of ultra thin CuInS2 absorber layers by ALD for thin film solar cells at low temperature (down to 150 °C). Two different precursor sets were used: metal chloride precursors (CuCl, InCl3) with H2S, requiring high deposition temperature (380 °C), and acetylacetonate (acac-) metal precursors (Cu(acac)2, In(acac)3) allowing direct deposition at 150 °C. The process involves in situ copper-reduction, exchange reaction, and diffusion processes. The films were implemented as absorbers in a typical CIS-solar cell architecture, achieving conversion efficiencies up to 2.8%.",
-  "evidence": "Deposition of ultra thin CuInS2 absorber layers by ALD for thin film solar cells at low temperature (down to 150°C). Two new processes for the atomic layer deposition of copper indium sulfide (CuInS2) based on the use of two different sets of precursors are reported. Metal chloride precursors (CuCl, InCl3) in combination with H2S imply relatively high deposition temperature (Tdep = 380 °C), and due to exchange reactions, CuInS2 stoechiometry was only achieved by depositing In2S3 layers on a CuxS film. However, the use of acac-metal precursors (Cu(acac)2, In(acac)3) allows the direct deposition of CuInS2 at temperature as low as 150 °C, involving in situ copper-reduction, exchange reaction and diffusion processes. Films were implemented as ultra-thin absorbers in a typical CIS-solar cell architecture and allowed conversion efficiencies up to 2.8%."
-}<|im_end|>

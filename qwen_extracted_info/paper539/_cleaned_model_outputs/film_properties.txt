@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 22.4,
-  "density_g_cm3": 5.5,
-  "refractive_index": null,
-  "surface_roughness_nm": 2.0,
-  "crystal_phase": "tetragonal",
-  "evidence": "The lattice parameters a and c, tetragonality as ayc ratio, and unit cell volume, V, of ZrO films on Si (100)2\nGrowth Film thickness a c ayc V\ntemperature (nm)( A)˚ (A)˚ (A )3˚\n272 8C 24.4 5.140 5.140 1 135.8\n272 8C 30.2 5.132 5.182 0.990 136.5\n272 8C 125 5.127 5.212 0.984 137.0\n325 8C 4.4 5.095 5.095 1 132.3\n325 8C 22.4 5.088 5.233 0.971 135.5"
-}

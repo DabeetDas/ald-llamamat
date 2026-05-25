@@ -1,7 +1,0 @@
-{
-  "precursors": ["HfCl4", "H2O"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The precursors used for the Hf and the O sources were HfCl4 and H2O, respectively. One cycle of ALD-HfO2 growth consisted of an 800 ms pulse of HfCl4, followed by a 200 ms pulse of H2O, each carried by a flow of nitrogen."
-}<|im_end|>

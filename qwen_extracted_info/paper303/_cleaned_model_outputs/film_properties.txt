@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 17.5,
-  "density_g_cm3": null,
-  "refractive_index": "n(k) = A + B/k² + C/k⁴",
-  "surface_roughness_nm": 0.29,
-  "crystal_phase": "cubic CeO2",
-  "evidence": "The calculated thickness range of the CeO x films obtained at different deposition temperatures was 17.5–52.5 nm, which was consistent with SEM observations of the cross sections of the thin films. The CeO x films deposited in the ALD window possessed homogeneous surface roughness (rms = 0.29–0.33 nm). These data agreed well with the CeO x grain sizes in the above SEM images. All as-grown CeO x films showed certain crystallinity with identical peaks at 2θ = 28.6°, which matched well with the (111) plane of the CeO2 phase."
-}

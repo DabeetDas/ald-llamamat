@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TDEAA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["surface hydroxyls", "formate species"],
-  "evidence": "ALD of aluminum oxide using TDEAA and water was found to be self-limiting with respect to both reactants. The temperature window for ALD in the hotwall reactor used was found to be between 200 and 400°C. The ALD rate was 1.4 Å/cycle at optimum conditions. Fourier transform infrared (FTIR) analyses indicated negligible interfacial SiO2 growth during deposition. Both FTIR spectra and transmission electron micrographs showed the ALD aluminum oxide to be amorphous. Also, FTIR and X-ray photoelectron spectral (XPS) analyses showed negligible carbon and nitrogen (≤1% atomic) contamination in the film. Z-contrast images and electron energy loss spectra showed uniform aluminum oxide film with an abrupt interface with Si. XPS analysis revealed aluminum oxide film to be stoichiometric with no detectable Al–Al cluster formation. Also, XP spectra showed no silicate formation at the interface of as-deposited alumina films."
-}

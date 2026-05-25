@@ -1,8 +1,0 @@
-{
-  "target_material": "silicon nitride",
-  "process_type": "atomic-layer deposition (ALD)",
-  "main_precursors": ["SiCl4", "NH3"],
-  "temperature_range": "<550 °C",
-  "summary": "The study describes the low-temperature formation of silicon nitride gate dielectrics using atomic-layer deposition (ALD). The ALD technique allows for the fabrication of extremely thin, uniform silicon nitride layers with atomic-scale control, suitable for future gate dielectrics in semiconductor devices. The process uses SiCl4 and NH3 as precursors, and the resulting silicon nitride layers exhibit low interface state density, minimal hysteresis, and comparable leakage current to SiO2 of the same equivalent oxide thickness (Teq).",
-  "evidence": "Thin (equivalent oxide thickness Teq of 2.4 nm) silicon nitride layers were deposited on Si substrates by an atomic-layer-deposition (ALD) technique at low temperatures (<550 °C). The silicon nitride gate insulator was deposited by alternately supplying SiCl4 and NH3 gases. The SiCl4 exposure at 375 °C followed by NH3 exposure at 550 °C was cyclically repeated 20 times. The ALD technique allows us to fabricate an extremely thin, very uniform silicon nitride layer with atomic-scale control for the near-future gate dielectrics."
-}

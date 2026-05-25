@@ -1,8 +1,0 @@
-{
-  "target_material": "DyScO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Sc(thd)3", "Dy(thd)3", "O3"],
-  "temperature_range": "350 °C",
-  "summary": "DyScO films were deposited on Si and Si-rich SiN using atomic layer deposition (ALD) for use as a blocking layer in TANOS stacks. The films were characterized for their structural and thermal stability, and their dielectric constant was measured. The study aimed to replace Al2O3 with DyScO as a high-k dielectric material.",
-  "evidence": "Films with 10–30 nm nominal thickness were grown by atomic layer deposition on Si substrates for process optimization and structural characterization. Sc(thd)3 and Dy(thd)3 were used as Sc and Dy precursors and O3 as oxidizing agent. The best conditions for the deposition of the ternary DyScO films were found to be Tg = 350 °C and Dy:Sc = 1:1 pulsing ratio. Optimized films were also grown on Si-rich SiN for integration as blocking oxide."
-}<|im_end|>

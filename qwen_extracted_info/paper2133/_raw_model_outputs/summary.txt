@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TiCl4", "H2O"],
-  "temperature_range": "100 °C",
-  "summary": "The study demonstrates the use of atomic layer deposition (ALD) to tune photonic band structures in two-dimensional photonic crystal slab waveguides by depositing TiO2. The ALD process enables precise control over the dielectric contrast, allowing for static tuning of photonic band frequencies and dispersion with high precision.",
-  "evidence": "The depositions were performed at 100 °C in 20 nm steps using TiCl4 and H2O precursors, as described in detail elsewhere."
-}<|im_end|>

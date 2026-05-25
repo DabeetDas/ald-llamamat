@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TiCl4 and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["surface hydroxyls", "adsorbed chloride species"],
-  "evidence": "In TiO2 (O2) thin film deposition, substrate inhibited growth occurs at both temperatures. This could be explained by the need of OH surface groups for ligand exchange reactions to adsorb TiCl4 on silica surfaces. In the case of using O2 gas, water impurities or OH surface groups that have not been removed in the activation step could be an explanation for the growth on silica. In contrast to adsorption on silica surfaces, no OH groups are needed, for the adsorption of TiCl4 on ALD grown TiO2. Dissociation or association of TiCl4 is proposed on solid TiO2 surfaces."
-}

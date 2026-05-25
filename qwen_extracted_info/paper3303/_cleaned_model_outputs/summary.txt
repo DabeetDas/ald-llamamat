@@ -1,8 +1,0 @@
-{
-  "target_material": "platinum (Pt)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["(methylcyclopentadienyl)trimethylplatinum (MeCpPtMe3)", "oxygen (O2)"],
-  "temperature_range": "300 °C",
-  "summary": "A thermal metalorganic atomic layer deposition (ALD) process was developed for the in situ, sequential growth of Pt/TaNx stacks for use as barrier/seed stacks for subsequent copper electroplating. The process used (methylcyclopentadienyl)trimethylplatinum (MeCpPtMe3) and oxygen (O2) as co-reactants. The resulting low-temperature ALD Pt process yielded uniform and continuous Pt films with typical carbon and oxygen impurity levels around 2.5 and 1 at.%, respectively. The process was optimized by investigating saturation of Pt film-growth rate versus MeCpPtMe3 and O2 exposure as controlled by the length of reactant pulses and the duration of the inert gas purge cycles.",
-  "evidence": "A thermal metalorganic atomic layer deposition (ALD) process was developed for the in situ, sequential growth of Pt/TaNx stacks for use as barrier/seed stacks for subsequent copper electroplating. Ultrathin platinum films were deposited by alternating pulses of (methylcyclopentadienyl)trimethylplatinum (MeCpPtMe3) and oxygen (O2) as co-reactants. The resulting low-temperature (300 °C) ALD Pt process yielded uniform and continuous Pt films with typical carbon and oxygen impurity levels around, respectively, 2.5 and 1 at.%. Film conformality was nearly 100% in 120-nm trench structures with 11:1 aspect ratio."
-}

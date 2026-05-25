@@ -1,7 +1,0 @@
-{
-  "precursors": ["TiCl4"],
-  "coreactants": ["H2–N2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "One PA-ALD cycle typically consisted of 5 s exposure to TiCl4 (3 mTorr), followed by 10 s Ar purge, 15 s plasma exposure (10 mTorr H2 and 1 mTorr N2 partial pressures), and 10 s pump-down of the reactor to base pressure (10−6 Torr)."
-}

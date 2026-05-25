@@ -1,8 +1,0 @@
-{
-  "target_material": "tantalum oxide and titanium dioxide",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["tantalum pentaethoxide", "water", "titanium tetramethoxide", "water"],
-  "temperature_range": "240°C",
-  "summary": "The study investigates the diffusion barrier properties of ultrathin tantalum oxide (Ta2O5) and titanium dioxide (TiO2) films deposited by atomic layer deposition (ALD). The films were deposited using metal alkoxides and water as precursors at 240°C. The 3-nm-thick titanium dioxide film showed superior resistance to copper diffusion, as it failed only after annealing at 650°C. The study highlights the effectiveness of these ultrathin oxide films as diffusion barriers for copper metallizations in microelectronics.",
-  "evidence": "Diffusion barrier properties of ultrathin Ta2O5 and TiO2 films deposited by the atomic layer deposition /H20849ALD/H20850method were investigated. The oxide films were deposited using well-deﬁned deposition processes with metal alkoxides and water as precursors. Tantalum oxide films were deposited from tantalum pentaethoxide and water and titanium dioxide films from titanium tetramethoxide and water, both at 240°C. The 3-nm-thick titanium dioxide film was found to possess the best resistance to copper diffusion as the first etch pits were observed only after the annealing at 650°C."
-}

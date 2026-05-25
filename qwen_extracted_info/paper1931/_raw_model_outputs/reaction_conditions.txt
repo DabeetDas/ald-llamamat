@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the incorporation of rubidium through the use of RbO tBu and water. The process is similar to the ALD mechanisms of lithium, sodium, and potassium, where RbO tBu reacts with water to form RbOH and byproducts, enabling the controlled deposition of Rb-containing films.",
-  "intermediate_species": ["RbO tBu", "RbOH", "rubidium carbonate", "rubidium hydroxide"],
-  "evidence": "The surface reaction mechanism involves the incorporation of rubidium through the use of RbO tBu and water. The process is similar to the ALD mechanisms of lithium, sodium, and potassium, where RbO tBu reacts with water to form RbOH and byproducts, enabling the controlled deposition of Rb-containing films. The presence of –CO3 can be attributed to formation of rubidium carbonate from the 'excess' rubidium, i.e. the rubidium that cannot go into the TiOx matrix. This corresponds well with the stability levels that were observed for growth rate and composition as a function of the pulsed ratio of RbO tBu. The drop in refractive index also indicates formation of a less dense phase, pointing towards a larger degree of carbon inclusion through carbonates, as was observed for the Rb:TiOx case."
-}<|im_end|>

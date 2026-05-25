@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Energy transfer from (VO4)3- to Yb3+ via cooperative energy transfer (CET) resulting in NIR emission through a quantum splitting process where one UV photon is converted to two NIR photons.",
-  "intermediate_species": [
-    "(VO4)3-",
-    "Yb3+"
-  ],
-  "evidence": "The energy transfer from (VO4)3- to Yb3+ in the annealed samples is lower than what has been reported for powders, but slightly higher than what has been reported for thin films of the material made by other deposition techniques. The NIR emission is expected to be due to a quantum splitting process in which one UV photon is converted to two NIR photons."
-}

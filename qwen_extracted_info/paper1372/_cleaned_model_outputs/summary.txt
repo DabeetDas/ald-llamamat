@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu2O/ZnO heterojunctions",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Cu(hfac)2", "deionized water"],
-  "temperature_range": "280°C",
-  "summary": "The study describes the fabrication of semi-transparent p-Cu2O/n-ZnO nanoscale-film heterojunctions using atomic layer deposition (ALD) and reactive magnetron sputtering. The Cu2O films were grown on ZnO substrates using Cu(hfac)2 as the copper precursor and deionized water as the reactant. The heterojunctions exhibit high crystalline quality, local epitaxial relations, and show non-linear rectifying behavior, self-powered photo-response, and high transmittance in the visible range. These properties make them promising for photodetection and photovoltaic applications.",
-  "evidence": "The Cu2O films were grown on ZnO substrates by atomic layer deposition in an ALD PICOSUN™ R-200 Advanced reactor using Cu(hfac)2 as the copper precursor and deionized water as the reactant. The temperature of the reaction chamber was 280°C. The heterojunctions exhibit a non-linear rectifying behavior characteristic of a p-n junction, self-powered photo-response under 1-Sun illumination, and an average transmittance of 73% in the visible region of the electromagnetic spectrum."
-}

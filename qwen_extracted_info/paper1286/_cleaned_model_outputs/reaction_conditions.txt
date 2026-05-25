@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the sequential exposure of the surface to Ni(amd)2 and H2S pulses, leading to the formation of NiSx. The growth is self-limiting and occurs through surface reactions where Ni(amd)2 reacts with surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The reaction is monitored in situ using QCM, showing a linear growth behavior with a growth rate of 9.3 ng/cm2 per cycle.",
-  "intermediate_species": ["Ni(amd)2", "surface hydroxyl groups", "H2S"],
-  "evidence": "The surface reaction mechanism involves the sequential exposure of the surface to Ni(amd)2 and H2S pulses, leading to the formation of NiSx. The growth is self-limiting and occurs through surface reactions where Ni(amd)2 reacts with surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The reaction is monitored in situ using QCM, showing a linear growth behavior with a growth rate of 9.3 ng/cm2 per cycle."
-}

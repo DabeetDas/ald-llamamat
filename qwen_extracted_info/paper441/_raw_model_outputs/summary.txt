@@ -1,8 +1,0 @@
-{
-  "target_material": "AlAs and (Al)GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["GaCl3", "AlCl3", "ASH3"],
-  "temperature_range": "350°C to 580°C",
-  "summary": "The study investigates the atomic layer epitaxy (ALE) growth of AlAs and (Al)GaAs using precursors GaCl3, AlCl3, and ASH3. The growth process was monitored using the surface photo-absorption (SPA) method. It was found that AlAs could be grown by simultaneous supply of AlCl3 and ASH3, but not by alternating supply. The presence of AlCl3 in the growth process helped prevent surface oxidation and enabled the growth of (Al)GaAs on AlAs layers. The growth rate was affected by the mole fraction of AlCl3 in the supplied chlorides.",
-  "evidence": "Atomic layer epitaxy (ALE) [ll has been performed for most III-V compound semiconductors except AlGaAs, and has been successfully applied to the fabrication of some devices. However, ALE growth of AlAs shows complicated growth behavior of 1 monolayer (ML)/cycle and 2 ML/cycle depending on the growth condition. In this work, we concentrated to investigate the change of surface adsorption between AlCl3 and GaCl3 on the AlAs surface by the SPA method. Furthermore, ALE growth of a slightly Al-containing (Al)GaAs layer was tried by addition of AlCl3 to GaCl3 in GaAs ALE growth."
-}<|im_end|>

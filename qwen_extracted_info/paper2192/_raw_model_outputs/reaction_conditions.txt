@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD involve the sequential introduction of diethyl zinc (DEZn) and water precursors, with the water pulse used to regenerate surface hydroxyl groups. The mechanism includes the formation of surface hydroxyls and the subsequent reaction with DEZn to form ZnO.",
-  "intermediate_species": ["surface hydroxyls", "OH groups"],
-  "evidence": "The text describes the ALD process using diethyl zinc and water precursors, with the water pulse used to regenerate surface hydroxyl groups. It mentions that OH groups are abundant in the films, suggesting their role as nonradiative recombination centers."
-}<|im_end|>

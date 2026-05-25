@@ -1,8 +1,0 @@
-{
-  "characterization_methods": [
-    "Reflection High-Energy Electron Diffraction (RHEED)",
-    "Auger Electron Spectroscopy (AES)",
-    "Scanning Tunneling Microscopy (STM)"
-  ],
-  "evidence": "Changes in the surface morphology during the ALE process were investigated by observing the RHEED patterns, and the corresponding Si adsorption coverage (µSi) was determined by AES analysis. In this AES analysis, Ge MVV (52 eV) and Ge LMM (1147 eV) Auger signals were detected and the intensity ratio of these signals was used in order to cancel the time-dependent variation in the detection sensitivity of the AES system. The corresponding Si coverage was analytically determined by utilizing the escape depth difference between Ge MVV and Ge LMM Auger electrons. ... The reported value is»0.5 ML and the value determined in this work is»0.55 ML. These values show good agreement with each other and the absolute error in this work is estimated to be within§0.1 ML."
-}

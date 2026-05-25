@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "Due to low surface migration of Al atoms and gas parasitic reaction between trimethyl aluminum (TMA) and NH3, it is very difficult to grow high-quality AlN layer on sapphire, the current main substrate for III-nitride devices. An effective method is to use a pulsed atomic layer epitaxy (PALE) method in the growth of AlN or high Al content AlGaN, which was proposed and realized by Khan et al. This method is via a separate supply of group III and group V sources to enhance the Al atom migration and suppress the gas phase reactions."
-}<|im_end|>

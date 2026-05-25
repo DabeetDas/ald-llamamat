@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process for IrO2 involves the alternating deposition of Ir(acac)3 and ozone (O3) precursors. The reaction equations for the ALD process are not explicitly provided in the text, but the mechanism involves the formation of IrO2 through the reaction of Ir(acac)3 with ozone, resulting in the growth of an ultrathin, crystalline IrO2 layer on the NTO support.",
-  "intermediate_species": ["Ir(acac)3", "O3", "IrO2"],
-  "evidence": "The text states: 'The atomic layer deposition of iridium metal and iridium oxide has been extensively studied. It was reported by Hämäläinen et al. that both iridium metal and iridium(IV) oxide can be grown using Ir(acac)3 and ozone as precursors.'"
-}

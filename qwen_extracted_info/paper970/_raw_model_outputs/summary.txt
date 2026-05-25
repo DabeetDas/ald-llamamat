@@ -1,8 +1,0 @@
-{
-  "target_material": "Zinc oxide (ZnO)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["diethylzinc (DEZ)", "water (H2O)", "oxygen gas (O2)"],
-  "temperature_range": "100 °C to 200 °C",
-  "summary": "The study investigates the effects of oxygen gas pulsing during thermal atomic layer deposition (ALD) on the properties of zinc oxide (ZnO) thin films. The presence of oxygen significantly influences the crystallographic orientation, electrical resistivity, and optical properties of the films. The films grown with oxygen gas show a preferred (002) orientation, increased resistivity, and reduced deep-level emissions, which are attributed to oxygen vacancy reduction and surface passivation.",
-  "evidence": "The preparation of ZnO thin films with controlled electrical resistivity and optical properties is often challenged by the presence of defects, such as oxygen vacancies or interstitial zinc. Here, we investigate the material properties of ZnO polycrystalline thin films prepared by thermal Atomic Layer Deposition (ALD) with the presence of molecular oxygen pulsing during the growth."
-}<|im_end|>

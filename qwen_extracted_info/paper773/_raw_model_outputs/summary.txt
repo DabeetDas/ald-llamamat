@@ -1,8 +1,0 @@
-{
-  "target_material": "Tin oxysulfide (Sn(O,S))",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Sn(dmamp)2", "H2O", "H2S"],
-  "temperature_range": "100-160°C for tin oxide, 100-130°C for tin sulfide",
-  "summary": "The study describes the atomic layer deposition of tin oxysulfide composite thin films using Sn(dmamp)2 as the tin precursor, with water and hydrogen sulfide as oxygen and sulfur sources. The process involves alternating deposition of tin oxide and tin sulfide thin films to form Sn(O,S) composite films. The growth rates per cycle were determined, and the material properties were characterized using various analytical techniques. The results indicate the potential of ALD SnO and SnS as p-type channel materials for transparent electronics.",
-  "evidence": "Sn(II) dimethylamino-2-methyl-2-propoxy (Sn(dmamp)2) with water and hydrogen sulfide as oxygen and sulfur sources was employed in atomic layer deposition (ALD) of composite tin oxysulfide thin films... The material properties of ALD-based SnO, SnS, and Sn(O,S) thin films were characterized in terms of composition, stoichiometry, crystallinity, band structure, and electronic properties, demonstrating the potential of ALD SnO and SnS as p-type channel materials for transparent electronics."
-}<|im_end|>

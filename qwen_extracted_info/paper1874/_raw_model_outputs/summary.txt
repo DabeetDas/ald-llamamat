@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["AlCl3", "Al(OiPr)3"],
-  "temperature_range": "150–375 uC",
-  "summary": "Al2O3 films were deposited using AlCl3 and Al(OiPr)3 as precursors through atomic layer deposition (ALD). The process avoids the need for a separate oxygen source, and the films were grown without forming an interfacial silicon oxide layer. The growth rate was 0.8 Å per cycle at 300 uC, and the films showed good electrical properties after post-deposition annealing.",
-  "evidence": "Al2O3 films have been grown by atomic layer deposition (ALD) using reactions between AlCl3 and Al(OiPr)3. ... The film growth rate was 0.8 A˚ cycle21. ... The chlorine content diminished rapidly with increasing growth temperature. ... Post deposition annealing is required to improve electrical properties of thin films."
-}<|im_end|>

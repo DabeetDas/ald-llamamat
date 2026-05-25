@@ -1,4 +1,0 @@
-{
-  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{  \"deposition_temperature_C\": \"260-290\",  \"pressure\": \"\",  \"precursor_pulse_time_s\": null,  \"coreactant_pulse_time_s\": null,  \"purge_time_s\": null,  \"number_of_cycles\": null,  \"reactor_type\": \"Riber 32P II{VI\",  \"evidence\": \"Samples with 6 and 16 Cd{Te{Zn{Te periods (10 s exposure to each elemental'",
-  "film_properties": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": null,   \"density_g_cm3\": null,   \"refractive_index\": null,   \"surface_roughness_nm\": null,   \"crystal_phase\": \"Amorphous\",   \"evidence\": \"The CdZnTe quantum wells grown at 260\\x0eC present intense and narrow emission peaks at low-temperature.\" }'"
-}

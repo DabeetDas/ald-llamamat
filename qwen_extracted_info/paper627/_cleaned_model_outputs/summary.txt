@@ -1,8 +1,0 @@
-{
-  "target_material": "silicon nitride",
-  "process_type": "thermal catalytic ALD",
-  "main_precursors": ["SiHCl2", "NH3"],
-  "temperature_range": "1700 °C (tungsten filament) and 375 °C (substrate)",
-  "summary": "The study investigates the atomic layer selective deposition of silicon nitride on hydrogen-terminated Si surfaces using thermal catalytic dissociation of NH3 on a tungsten filament. The process selectively deposits silicon nitride on hydrogen-terminated Si surfaces, with no growth on thermal CVD silicon nitride due to the absence of Si-H and N-H bonds. The self-limiting growth mechanism is supported by FT-IR-ATR spectroscopy, showing that the first nitridation step occurs only at surfaces with Si-H bonds, leading to film growth. The catalytic ALD method improves film quality compared to plasma ALD.",
-  "evidence": "The film is deposited by alternate supply of SiHCl2, and NH3 dissociated by thermal catalytic reaction on a tungsten filament. The film quality is improved in comparison with films deposited by using NH3 plasma. The first nitridation by NH3 exposure occurs only at the surface with Si-H bonds. The mechanism of the selective deposition is studied by means of Fourier transform infrared attenuated total reflection FT-IR-ATR spectroscopy. It is shown that the film growth takes place only on the surface with Si-H bonds because the first nitridation by NH3 exposure occurs only at the surface with Si-H bonds. The catalytic ALD method improves film quality compared with films deposited by using NH3 plasma."
-}

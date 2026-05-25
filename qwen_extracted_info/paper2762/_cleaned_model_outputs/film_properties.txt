@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 10.5,
-  "density_g_cm3": 2.1,
-  "refractive_index": "2.3 at 633 nm",
-  "surface_roughness_nm": 0.3,
-  "crystal_phase": "Crystalline",
-  "evidence": "XRR shows that the film is uniform with ∼0.3 nm surface roughness. The calculated S/Mo stoichiometric ratio increases from 1.7 and saturates at a value near 2, while the Mo 3d 5/2 peak position increases from 228.8 eV and plateaus at 229.2 eV. The data show that the signature E 2g and A1g vibrational modes gradually increase and become more pronounced after 75 cycles. The peak widths, peak positions, and distance between peaks do not show a significant change between films of different cycle numbers. The E 2g and A 1g peak separation has been shown in the literature to serve as a fingerprint to quantify the number of layers in a TMD. The measured peak separation of our samples falls between the 23.1 and 23.8 cm−1 range, indicating that the MoS 2 nanocrystalline domains have structures with three or more layers. The crystalline microstructure of the MoS 2 was probed by GIXRD, with the results shown in Fig. 2(c). Q is the momentum transfer, which equals 4πsin(θ)/λ, with 2θ as the scattering angle and λ = 0.73 Å as the incident x-ray wavelength. The peaks located close to 0.95 Å−1 arise from MoS2 (002) diffraction. No diffraction peak is observed for MoS2 films grown for 50 cyc or fewer. This is likely due to either the amorphous nature of those films or the presence of crystallites that are too small to probe by this method. From 75 cyc and above, diffraction peaks begin to emerge with increasing intensity and narrowing peak width. These changes correspond to the formation and growth of crystalline domains, which agrees with the Raman spectroscopy results."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "SnO2",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["SnCl4", "H2O"],
-  "temperature_range": "500C",
-  "summary": "The study demonstrates the use of atomic layer epitaxy (ALE) to deposit SnO2 thin films on commercial AFM microprobes. The ALE process allows for conformal coating with precise thickness control, enabling the modification of AFM probes for various applications, including semiconductor gas sensor studies. The study evaluates the impact of SnO2 coatings on transducer properties, such as force constants, laser beam intensity, and tip shape.",
-  "evidence": "The use of the ALE process for SnO2 coating facilitates especially electronic applications of the AFM probes since by ALE the electronic conductivity of the SnO2 can be varied in a wide range from insulator ( 100 2 cm) to transparent conductor ( 0:001 2 cm) by introducing appropriate dopants or process additives. The SnO2 deposition process was performed in a flow-type ALE reactor at temperature of 500C and pressure of 1m bar in N2 carrier by using separately pulsed SnCl4 and H2O precursors."
-}<|im_end|>

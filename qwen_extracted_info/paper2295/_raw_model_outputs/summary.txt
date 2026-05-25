@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["tertiarybutylarsine (TBA)", "triethylgallium (TEG)"],
-  "temperature_range": "550 °C",
-  "summary": "The study reports on the atomic layer epitaxy (ALE) growth of GaAs using tertiarybutylarsine (TBA) and triethylgallium (TEG) in a chemical beam epitaxy (CBE) system. The process was optimized to achieve a growth rate close to 1 monolayer per cycle, with a stable surface reconstruction observed. The growth conditions were determined by monitoring the RHEED signal, and the resulting GaAs layers exhibited p-type doping with a carrier concentration of 4 × 10^15 cm⁻³. The study also highlights the importance of TBA precracking to enhance the growth rate and the role of surface reactions in the ALE process.",
-  "evidence": "GaAs growth by atomic layer epitaxy (ALE) from tertiarybutylarsine (TBA) and triethylgallium (TEG) in a chemical beam epitaxy (CBE) system is reported. ... The 4X8 surface reconstruction has been proposed as being related to organic Ga radicals on the GaAs surface. ... A carrier concentration of p = 4 × 10^15 cm⁻³ was obtained from combined PCIV and thermoelectric power measurements."
-}<|im_end|>

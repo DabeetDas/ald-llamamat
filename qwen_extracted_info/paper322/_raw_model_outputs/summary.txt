@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "ALD combined with CVD",
-  "main_precursors": ["Mo(CO)6", "ozone"],
-  "temperature_range": "140 °C (ALD), 850 °C (CVD)",
-  "summary": "The study describes the fabrication of MoS2 nano-trenches using a combination of atomic layer deposition (ALD) and chemical vapor deposition (CVD). The process involves depositing a MoO3 film via ALD at 140 °C and then sulfurizing it at 850 °C to form MoS2. The conformal growth of MoS2 on patterned substrates is demonstrated, with uniform coverage on both flat and vertical surfaces of the nano-trenches. The study highlights the impact of substrate morphology on the electronic and optical properties of MoS2 through resonant Raman scattering.",
-  "evidence": "The solid Mo oxide thin film precursors were deposited onto patterned SiO2/Si substrates by means of ALD in a flow type reactor (F120 Sat, ASM Microchemistry Ltd) using Mo(CO)6 as Mo source and ozone (200 g/Nm3) as oxygen source. The Mo source was loaded inside the reactor and held at 35 °C while the growth temperature was set at 140 °C. The solid film precursors were inserted at the centre of a quartz tube and heated up to 850 °C by means of a hot-wall tubular furnace."
-}<|im_end|>

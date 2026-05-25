@@ -1,8 +1,0 @@
-{
-  "target_material": "SnO2/NiO core−shell nanowires",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Bis(cyclopentadienyl)-nickel (Ni(Cp)2)", "Ozone (O3)"],
-  "temperature_range": "200 °C to 115 °C",
-  "summary": "The study describes the synthesis of SnO2/NiO core−shell nanowires using atomic layer deposition (ALD) to enhance hydrogen sensing properties. The ALD process was used to deposit a NiO shell layer on SnO2 nanowires, with the thickness of the NiO shell precisely controlled. The optimal shell thickness was found to be around 4.1 nm, resulting in a significant improvement in hydrogen sensing performance. The ALD process allowed for the controlled deposition of the NiO shell, enabling the formation of a p−n junction at the interface of the SnO2 core and NiO shell, which is crucial for the enhanced sensing mechanism.",
-  "evidence": "The text states: 'NiO-shell layer was precisely controlled between 2 and 8.2 nm. The SnO2/NiO-100 sensor showed the best performance (NiO-shell thickness ca. 4.1 nm), where the radial modulation of the space-charge region is maximized.' Additionally, it mentions: 'Atomic layer deposition (ALD) was performed in a hot-wall benchtop ALD system (GEMSTAR-6) by Arradiance. The ALD system was evacuated (ca. 1.5 × 10−1 Torr), and the temperature of the ALD chamber was well stabilized before starting the deposition.'"
-}

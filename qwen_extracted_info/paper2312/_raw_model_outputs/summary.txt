@@ -1,8 +1,0 @@
-{
-  "target_material": "Er³⁺:Y₂O₃",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Tris(Methylcyclopentadienyl)erbium", "Tris(cyclopentadienyl)yttrium"],
-  "temperature_range": "700 °C",
-  "summary": "The study reports on the thermal conductivity of Er³⁺:Y₂O₃ films grown by atomic layer deposition (ALD). The thermal conductivity increased significantly after post-deposition annealing, attributed to the reduction of -OH/H₂O bonds. The films were deposited on sapphire substrates and characterized using various techniques including X-ray reflectivity, AFM, and SEM. The thermal conductivity of the annealed films was found to be 8 W m⁻¹ K⁻¹, compared to 0.49 W m⁻¹ K⁻¹ for as-deposited films.",
-  "evidence": "Deposition of Er⁺³:Y₂O₃ films was carried out using ALD method. ALD is a sequential, surface-saturating, deposition technique... Post deposition annealing was carried out in a quartz tube furnace at 700 °C under flowing Ultra High Purity (UHP) O₂ for 5 h... Thermal conductivity results show 16-fold increase in thermal conductivity from 0.49 W m⁻¹ K⁻¹ to 8 W m⁻¹ K⁻¹ upon post deposition annealing, partially due to the suppression of the number of the -OH/H₂O bonds in the films after annealing."
-}<|im_end|>

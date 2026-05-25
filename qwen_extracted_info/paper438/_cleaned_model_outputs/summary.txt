@@ -1,8 +1,0 @@
-{
-  "target_material": "In2S3",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["InCl3", "H2S"],
-  "temperature_range": "300-400°C",
-  "summary": "In2S3 thin films were deposited using atomic layer epitaxy (ALE) with InCl3 and H2S as precursors. The films exhibited a band gap of 2.3 eV and were polycrystalline. The highest growth rate was 1.4 Å/cycle at 300°C. The study compared the growth behavior of In2S3 with In2O3 and highlighted the role of precursor reactions and surface etching in growth rate.",
-  "evidence": "In,S, films were deposited by ALE using InCI, and H,S as precursors. The highest growth rate obtained was 1.4 A/cycle at 300°C. The films were polycrystalline P-In,S, having a band gap of 2.3 eV."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "AlSi xOy",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["trimethylaluminum (TMA)", "tetraethoxysilane (TEOS)"],
-  "temperature_range": "150°C",
-  "summary": "Aluminum silicate (AlSixOy) films were deposited using plasma-enhanced atomic layer deposition (PEALD) at 150°C with trimethylaluminum (TMA) and tetraethoxysilane (TEOS) as precursors. The catalytic effect of AlO films allowed for the incorporation of Si atoms, enabling control over Si content. The films showed improved properties compared to Al2O3 films, with reduced leakage current and potential benefits for flexible device applications.",
-  "evidence": "In our present paper, aluminum silicate (AlSixOy) films were deposited on p-type Si (100) substrates by PEALD using TMA and tetraethoxysilane (TEOS) as Al and Si precursors, respectively. The PEALD method was used to grow AlSi xOy films and a detailed description of the PEALD apparatus may be found in our previous articles. The catalytic effect of AlO films permits Si atoms to be incorporated into the films. Hence, it is possible to increase the Si content from 0 to 11.6 atom % by increasing SiO subcycles. The degradation of leakage current for AlSi xOy films did not occur compared to Al2O3 films."
-}<|im_end|>

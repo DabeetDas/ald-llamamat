@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Titanium tetra-isopropoxide (TTIP)", "NH3/O2 mixed gas"],
-  "temperature_range": "140 °C",
-  "summary": "The study describes the fabrication of a TiO2 three-dimensional nanonetwork using atomic layer deposition (ALD) on a peptide template. The ALD process was conducted at 140 °C, and the resulting TiO2 nanonetwork exhibited enhanced electrochemical performance for Li secondary battery applications due to its high surface area, short Li diffusion path, and structural stability.",
-  "evidence": "The functional electrode material chosen in this work is anatase TiO2. ... The peptide template was covered with 15 nm layer of TiO2 via ALD at 140 °C. ... The TiO2 nanonetwork electrode retained approximately 83.2% of its initial specific capacity after 200 cycles."
-}<|im_end|>

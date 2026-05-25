@@ -1,8 +1,0 @@
-{
-  "target_material": "WS2",
-  "process_type": "Plasma-Enhanced ALD (PEALD)",
-  "main_precursors": ["WF6", "H2 plasma", "H2S"],
-  "temperature_range": "300 °C - 450 °C",
-  "summary": "This study investigates the nucleation mechanism of WS2 during plasma-enhanced atomic layer deposition (PEALD) on dielectric surfaces such as SiO2 and Al2O3. The research focuses on how the crystallinity, grain size, and orientation of WS2 layers are influenced by factors like precursor adsorption, surface reactivity, and deposition temperature. The study demonstrates that WS2 can be grown with controlled grain sizes and crystallinity at low temperatures, which is crucial for applications in nanoelectronics.",
-  "evidence": "The paper discusses the nucleation mechanism of WS2 during PEALD, highlighting the role of precursor adsorption, surface reactivity, and deposition temperature. It also describes the use of WF6, H2 plasma, and H2S as precursors and the temperature range of 300 °C to 450 °C for the deposition process."
-}

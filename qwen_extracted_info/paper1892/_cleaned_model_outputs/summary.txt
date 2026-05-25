@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminium (TMA)", "H2O"],
-  "temperature_range": "150 /C14 C",
-  "summary": "Al2O3 films were deposited using atomic layer deposition (ALD) at 150 /C14 C to form a charge recombination barrier (CRB) on the nanoporous TiO2 electrode of dye-sensitized solar cells (DSSCs). The optimal thickness was achieved with one ALD cycle, resulting in a 14% increase in power conversion efficiency (PCE). The effective CRB thickness was determined to be 0.3 nm due to steric hindrance, which is thinner than previously reported sol-gel Al2O3 CRBs.",
-  "evidence": "Al2O3 ﬁlms are deposited conformally and uniformly by atomic layer deposition (ALD) at 150 /C14 C throughout the surface of the nanoporous TiO2 electrode of dye-sensitized solar cells (DSSCs) to serve as charge recombination barriers (CRB). The self-limiting ﬁlm growth of ALD enables detailed analysis of the thickness dependence of the CRB effects on the DSSCs, revealing the optimal Al2O3 CRB thickness to be that produced by 1 ALD cycle (nominal thickness ¼ 0.1 nm), at which the CRB increases the power conversion efﬁciency (PCE) of the DSSCs by 14% (to up to 7.8% PCE)."
-}

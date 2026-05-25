@@ -1,7 +1,0 @@
-{
-  "precursors": ["MoCl5", "H2S"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "MoCl5 and H2S precursors were alternately pulsed into the chamber using 20 sccm of N2 as a carrier gas."
-}

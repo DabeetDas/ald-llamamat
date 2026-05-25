@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO:Ti",
-  "process_type": "ALD",
-  "main_precursors": ["diethyl zinc", "titanium (IV) i-propoxide", "water"],
-  "temperature_range": "200 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of titanium-doped zinc oxide (TZO) as a transparent conductive oxide (TCO) for use in silicon nanowire solar cells. The process involves the use of diethyl zinc, titanium (IV) i-propoxide, and water as precursors. The growth mechanism was investigated using in situ quartz-crystal microbalance (QCM) measurements, revealing different insertion modes of titanium depending on the precursor introduction. The films exhibited low resistivity (1.2 × 10^-3 Ω cm) and high transmittance (>80% in the visible range). The ALD-TZO films were successfully implemented as top electrodes in silicon nanowire solar cells, showing improved external quantum efficiency (EQE) compared to ITO.",
-  "evidence": "In the quest for replacement of indium-tin-oxide (ITO), Ti-doped zinc oxide (TZO) films have been synthesized by atomic layer deposition (ALD) and applied as n-type transparent conductive oxide (TCO). TZO thin films were obtained from titanium (IV) i-propoxide (TTIP), diethyl zinc and water, by introducing TiO2 growth cycle in a ZnO matrix. The growth mechanism was investigated for the first time by in situ quartz-crystal microbalance measurements. Resistivity as low as 1.2 × 10^-3 Ω cm and transmittance > 80% in the visible range were obtained for 72-nm thick films. Finally, the first application of ALD-TZO as TCO was reported. TZO films were successfully implemented as top electrodes in silicon nanowire solar cells."
-}

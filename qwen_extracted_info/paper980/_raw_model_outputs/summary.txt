@@ -1,8 +1,0 @@
-{
-  "target_material": "Tin dioxide",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["tin(IV) chloride", "deionized water"],
-  "temperature_range": "500 ◦C",
-  "summary": "The paper describes the use of atomic layer deposition (ALD) to deposit tin dioxide films for microhotplate gas sensors. The process uses tin(IV) chloride and deionized water as precursors, with a reaction temperature of 500 ◦C. The ALD-deposited tin dioxide films showed good structural stability and fast response times to gases such as ethanol, acetone, and acrylonitrile. The study also details the fabrication of microhotplate gas sensors, including the use of tungsten metallization and plasma-enhanced chemical vapor deposition (PECVD) for dielectrics.",
-  "evidence": "The gas sensing layer was deposited and patterned prior to bulk etching of the microhotplates. Tin dioxide was deposited by atomic layer deposition using tin(IV) chloride (Sigma–Aldrich, 99.995% pure) and deionized water as precursors. The reaction temperature was 500 ◦C, and after deposition, the coated substrates were allowed to cool to room temperature in an atmosphere of 250 sccm of oxygen gas flow. This has been shown to eliminate the formation of an oxygen-deficient surface layer, giving a high resistance sensor."
-}<|im_end|>

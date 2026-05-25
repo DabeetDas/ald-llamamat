@@ -1,8 +1,0 @@
-{
-  "target_material": "YAlO3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tris(ethylcyclopentadienyl)yttrium", "deionized H2O", "trimethylaluminum"],
-  "temperature_range": "900 /C14 C",
-  "summary": "Single-crystal hexagonal perovskite YAlO3 was epitaxially grown on GaAs(111)A substrates through nanolaminated atomic layer deposition (ALD) of Y2O3 and Al2O3 multilayers followed by rapid thermal annealing at 900 /C14 C. The study aimed to investigate the formation of a high dielectric constant material for advanced semiconductor applications.",
-  "evidence": "Single-crystal hexagonal perovskite YAlO3 has been attained through postdeposition rapid thermal annealing with temperatures above 900 /C14 C on nanolaminated atomic-layer-deposited Y2O3 (2.03 nm)/Al2O3 (1.08 nm) multilayers. The perovskite film is epitaxially grown on GaAs(111)A substrates."
-}

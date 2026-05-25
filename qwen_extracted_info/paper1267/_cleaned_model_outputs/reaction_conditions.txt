@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the interaction of tungsten (W) with the alumina (Al2O3) matrix, resulting in the formation of W5d states hybridized with the oxygen 2p band near the valence band edge. The W is present as an oxide for W% < 50 and as metallic W for W% ≥ 50. The metallic W is formed through the reduction of W-oxide during sputtering.",
-  "intermediate_species": ["W5d states hybridized with oxygen 2p band", "W-oxide", "metallic W"],
-  "evidence": "The XPS spectra confirmed the interaction of W with the alumina matrix, resulting in the formation of W 5d states hybridized with the oxygen 2p band near the valence band edge. The W concentrations measured by XPS are significantly lower than the values predicted using a rule-of-mixtures formula in the range W% < 50. This finding is consistent with previous QCM studies that the Al2O3 ALD inhibits the W ALD. The high-resolution scans performed with only minimal sputtering revealed that, for W% < 50, the W is present mostly as an oxide, whereas, for W% ≥ 50, the W is mostly metallic. With prolonged sputtering, the W appeared to become more metallic, but we attribute this observation to sputtering-induced W-oxide reduction to form W metal."
-}

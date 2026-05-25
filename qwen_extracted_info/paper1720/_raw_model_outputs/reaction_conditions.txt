@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth of wurtzite GaN on (0 0 1) GaAs substrates by atomic layer epitaxy (ALE) involves the use of trimethylgallium (TMG) and ammonia (NH3) as Ga and N sources. The GaN films are grown at temperatures between 500 and 650 °C, with a nitridation step prior to growth. The growth process is limited by the dose to one monolayer per cycle, and the bond energy of Ga-N is higher than Ga-Ga, leading to the decomposition of Ga dimers and bonding to nitrogen atoms on the surface to form GaN molecules during the growth process.",
-  "intermediate_species": ["Ga dimers", "nitrogen atoms on the surface", "GaN molecules"],
-  "evidence": "The bond energy of Ga±N is higher than Ga±Ga, Ga dimers decompose and bond to nitrogen atoms on the surface to form GaN molecules during the growth process."
-}<|im_end|>

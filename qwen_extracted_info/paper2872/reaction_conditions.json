@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the incorporation of deuterium into the HfO2 film during ALD using D2O as an oxidant. Deuterium is incorporated homogeneously throughout the dielectric film, which leads to improved reliability characteristics such as reduced charge trapping and interface trap density generation. The deuterium isotope effect is responsible for the enhanced bonding strength of deuterium in the HfO2 film and at the HfO2/Si interface, which suppresses the generation of interface states under electrical stress.",
-  "intermediate_species": [
-    "deuterium",
-    "hydrogen"
-  ],
-  "evidence": "It was also reported that annealing or ion implantation using deuterium rather than hydrogen is more effective for device performance improvement. This improvement of a deuterium-incorporated device has been explained by the heavy mass effect of deuterium. It was confirmed that deuterium can be homogeneously incorporated into a HfO2 film during ALD using D2O as an oxidant. Therefore, this is an effective method for incorporating deuterium into a dielectric film without post-annealing or ion implantation."
-}

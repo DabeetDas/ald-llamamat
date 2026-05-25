@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum Nitride (AlN)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Hydrazinium chloride (N2H5Cl)", "Triisobutylaluminum (Al(C4H9)3)"],
-  "temperature_range": "200–350°C",
-  "summary": "This study investigates the use of hydrazinium chloride (N2H5Cl) and triisobutylaluminum (Al(C4H9)3) as precursors for the atomic layer deposition (ALD) of aluminum nitride (AlN) films. The process involves alternating exposure to the precursors, followed by nitrogen purging. The study also examines the effects of high-temperature annealing in a nitrogen atmosphere on the quality of the AlN films. The results show that the use of N2H5Cl does not lead to chlorine contamination due to the inactivation of HCl at the ALD temperature range. The annealing process enhances the crystallinity and quality of the AlN films, reducing impurities and improving surface properties.",
-  "evidence": "The study states that the use of N2H5Cl does not result in chlorine contamination due to the fact that temperature needed for HCl molecules to become reactive cannot be reached within the AlN ALD window (200–350°C). No amount of chlorine was detected even by the most sensitive techniques such as SIMS, meaning it is fully removed out of the chamber during purge stages. Annealing in nitrogen is known to produce a positive effect on the quality of AlN thin films, hence, we also performed high-temperature annealing of the deposited layers."
-}<|im_end|>

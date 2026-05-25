@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Al(CH3)3 and H2O on the Ge surface, followed by the formation of Al-OH* and subsequent reaction with H2O to form AlOx and release CH4. At higher temperatures, the intermixing of Al2O3 and GeO2 occurs, leading to the formation of a Ge_xAl1−xO interlayer and degradation of the GeO2/Ge interface.",
-  "intermediate_species": ["Al-OH*", "GeOx species", "AlOH* or Al(CH3)3* reactive sites"],
-  "evidence": "The text describes the ALD process using trimethylaluminum (Al(CH3)3) and H2O as precursors. It mentions the formation of Al-OH* and the reaction with H2O to form AlOx and release CH4. Additionally, it discusses the intermixing of Al2O3 and GeO2 at temperatures above 200°C, leading to the formation of a Ge_xAl1−xO interlayer. The text also notes the presence of GeOx species at the surface and their diffusion into the top Al2O3 layer at higher temperatures."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs",
-  "process_type": "thermal ALD",
-  "main_precursors": ["GaCl3", "(Et3Si)3As"],
-  "temperature_range": "125–250 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of gallium arsenide (GaAs) using the precursors GaCl3 and (Et3Si)3As. The process demonstrated uniform, amorphous, and stoichiometric films with low impurity content. The growth rate was found to be temperature-dependent, with optimal results at 200 °C. The films were amorphous as-deposited and could be crystallized by annealing at 400 °C. The ALD process showed saturation behavior with respect to precursor pulse lengths, indicating good controllability.",
-  "evidence": "The ALD process is based on a dechlorosilylation reaction between GaCl3 and (Et3Si)3As. ALD of GaAs produced uniform, amorphous and stoichiometric films with low impurity content. This was done with saturating growth rates and an easily controlled film thickness. Crystallization was achieved by annealing. Even though the growth rate strongly decreased with increasing deposition temperature, good quality film growth was demonstrated at 175 to 200 °C, indicating the presence of an ALD window."
-}

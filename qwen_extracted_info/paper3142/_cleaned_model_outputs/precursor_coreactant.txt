@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ti(i-OC3H7)4 (TTIP)", "2,4-dimethylpentadienyl ethylcyclopentadienyl Ru (DER)"],
-  "coreactants": ["O3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The Ti precursor was titanium tetrakisisopropoxide (Ti(i-OC3H7)4, TTIP). The O3 was used as the oxygen source. Ar gas at a flow rate of 540 sccm was used as the purge gas. The carrier gas was Ar with a flow rate of 500 and 1000 sccm."
-}

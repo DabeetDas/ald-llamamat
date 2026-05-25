@@ -1,8 +1,0 @@
-{
-  "target_material": "nickel",
-  "process_type": "thermal ALD",
-  "main_precursors": ["bis(cyclopentadienyl)-nickel", "water", "hydrogen radical"],
-  "temperature_range": "165°C",
-  "summary": "The study describes the atomic layer deposition (ALD) of nickel using a two-step process involving the oxidation of nickel precursors with water vapor and subsequent reduction with hydrogen radicals. The process forms continuous and conformal nickel thin films suitable as a glue layer between copper and TiN.",
-  "evidence": "A thin film of elementary nickel was formed by atomic layer deposition (ALD). The deposition cycle consisted of two consecutive chemical reaction steps: an oxidizing step and a reducing step. An atomic layer of nickel oxide was made by sequentially supplying bis(cyclopentadienyl)-nickel as a nickel precursor and water as an oxidation agent; the preformed atomic layer of nickel oxide was then reduced to elementary nickel metal by exposure to hydrogen radical at a deposition temperature of 165°C. The proposed two-step ALD method for elementary metals was successful in forming continuous and conformal nickel thin films."
-}

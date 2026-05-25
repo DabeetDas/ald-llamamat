@@ -1,8 +1,0 @@
-{
-  "target_material": "In2O3:H",
-  "process_type": "thermal ALD",
-  "main_precursors": ["InCp", "H2O", "O2"],
-  "temperature_range": "100 °C to 200 °C",
-  "summary": "The study describes the preparation of high-quality hydrogen-doped indium oxide (In2O3:H) using a low-temperature atomic layer deposition (ALD) process followed by solid-phase crystallization. The process involves depositing amorphous In2O3:H at 100 °C and crystallizing it at 150–200 °C. The resulting films exhibit high carrier mobility and low resistivity, making them suitable for transparent conductive oxide applications, particularly in solar cells.",
-  "evidence": "The process consists of ALD of amorphous In2O3:H at 100 °C and subsequent solid-phase crystallization at 150 −200 °C to obtain large-grained polycrystalline In2O3:H films. After crystallization, an excellent carrier mobility of 128 ± 4 cm2/(V s) can be obtained at a carrier density of 1.8 × 1020 cm−3, irrespective of the annealing temperature."
-}

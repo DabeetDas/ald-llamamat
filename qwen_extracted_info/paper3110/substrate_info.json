@@ -1,7 +1,0 @@
-{
-  "substrate_material": "Ge",
-  "substrate_orientation": "",
-  "pretreatment": "HF clean, HBr clean, thermal oxidation",
-  "surface_functionalization": "S-passivation",
-  "evidence": "Ge wafers were cleaned either in 2% HF or 48% HBr aqueous solutions for 5 min. GaAs wafers were first cleaned in sulfuric acid hydrogen peroxide mixture and then in concentrated HCl for 5 min. The wafers were dried in N2 immediately after the cleans. To minimize regrowth of the oxide after clean, the air exposure between clean and ALD was limited to less than 10 min. Thermal oxidation of Ge was also considered as an alternative to wet treatments: HF-cleaned Ge samples were first annealed in H2 at 650°C for 10 min (to desorb O or C that can be present after HF clean) and then oxidized in O2 at 700 Torr at 450°C for 5 min."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "Wang et al. have reported that without any pre-treatment, ALD of thin films gives no direct deposition on defect-free pristine graphene and dangling bonds existing only on the edges and defect sites of graphene, can react with ALD precursors to afford active thin film growth."
-}

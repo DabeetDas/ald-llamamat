@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 50,
-  "density_g_cm3": null,
-  "refractive_index": null,
-  "surface_roughness_nm": null,
-  "crystal_phase": "Amorphous",
-  "evidence": "The film thickness was measured as a function of growth cycle (Figure 1c); for both thermal ALD and PE-ALD, the plots of thickness versus ALD cycle number were fit well by a linear fitting model passing through the origin. This indicated that there was no nucleation incubation, an advantageous property of ALD precursors."
-}

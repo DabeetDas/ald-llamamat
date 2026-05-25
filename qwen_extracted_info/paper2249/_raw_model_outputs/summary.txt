@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "H2O"],
-  "temperature_range": "270 °C",
-  "summary": "The study describes the formation of an atomically abrupt and unpinned Al2O3/In0.53Ga0.47As interface using atomic layer deposition (ALD). The process involves preventing oxidation of the In0.53Ga0.47As surface by in situ desorption of an As2 capping layer before ALD of Al2O3. The resulting interface shows minimal interface dipole and near-ideal flat band voltages, indicating a low density of electrically active defects.",
-  "evidence": "The text states that 'an As2 capping layer deposited at the end of epitaxial growth of the channel was thermally desorbed in situ in an atomic layer deposition reactor prior to Al2O3 gate dielectric deposition.' Additionally, 'the ALD-Al2O3 gate insulator does not significantly perturb the local electronic structure near the channel interface.'"
-}<|im_end|>

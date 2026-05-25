@@ -1,7 +1,0 @@
-{
-  "precursors": ["CH3C5H4Pt(CH3)3"],
-  "coreactants": ["O2(g)"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The Pt ALD process includes two self-limiting chemical reactions, repeated in the alternating ABAB sequences shown below: Pt(s) + O2(g) → Pt—Ox (A) CH3C5H4Pt(CH3)3 + Pt—Ox → Pt(s) + CO2(g) ↑ +H 2O(g) ↑ + other byproducts ↑ (B) where the asterisks represent the surface species."
-}<|im_end|>

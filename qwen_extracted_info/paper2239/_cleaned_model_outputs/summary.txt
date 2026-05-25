@@ -1,8 +1,0 @@
-{
-  "target_material": "photonic crystals",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["trimethylaluminum", "water", "trimethylgallium", "tris(dimethylamino)phosphine"],
-  "temperature_range": "33 °C to 450 °C",
-  "summary": "The study describes the replication of holographically defined photonic crystals using multistage atomic layer deposition (ALD). Low- and high-temperature ALD were combined with selective etching to deposit and remove multiple conformal thin films within three-dimensional polymer templates. The process involved the use of Al2O3 as an intermediate sacrificial layer to enable high-temperature deposition of high-index materials such as TiO2 and GaP, resulting in doubly inverted shell-type replicas of the original photonic crystal structures.",
-  "evidence": "We report the replication of holographically defined photonic crystals using multistage atomic layer deposition. Low- and high-temperature atomic layer depositions were combined with selective etching to deposit and remove multiple conformal thin films within three-dimensional polymer templates. Using intermediate Al2O3 inverse replicas, temperature-sensitive SU-8 photonic crystal templates were faithfully replicated with TiO2 and GaP, greatly increasing the dielectric contrasts of the photonic crystals."
-}

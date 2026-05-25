@@ -1,8 +1,0 @@
-{
-  "target_material": "W–N (tungsten nitride)",
-  "process_type": "plasma enhanced atomic layer deposition (PPALD)",
-  "main_precursors": ["WF6", "NH3"],
-  "temperature_range": "300–350 °C",
-  "summary": "This study introduces a pulse plasma enhanced atomic layer deposition (PPALD) method for depositing tungsten nitride (W–N) thin films as a diffusion barrier for copper interconnects. The process uses WF6 and NH3 as precursors, and the W–N films are deposited on SiO2 surfaces with a rate of 1.3 monolayer/cycle at 350 °C. The PPALD method prevents Si reduction of WF6 by using plasma-enhanced NH3 pulses, resulting in uniform N concentration and good thermal stability against Cu diffusion. The W–N film successfully prevents Cu diffusion after annealing at 600 °C for 30 minutes.",
-  "evidence": "We have deposited W–N thin films with a pulse plasma enhanced atomic layer deposition (PPALD) method by using WF6 and NH3. ... the W–N film successfully prevents Cu diffusion after the annealing at 600 °C for 30 min."
-}<|im_end|>

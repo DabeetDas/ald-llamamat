@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "For Al deposition on an As-stabilized AlAs (100) surface, an Al atomic layer is first formed so that Al atoms occupy the Al sites of the AlAs lattice resulting in one monolayer self-limiting growth. For more than one monolayer per cycle Al deposition, there are two possibilities: one is that the (100) plane of the Al metal lattice, which is lattice matched to AlAs when it is rotated by 45°, is formed by accommodating Al atoms to as many as twice the number of Al sites in the AlAs lattice. The other is that Al atoms also occupy the As site of the AlAs lattice to form a second Al atomic layer.",
-  "intermediate_species": [
-    "DMA1H"
-  ],
-  "evidence": "For Al deposition on an As-stabilized AlAs (100) surface, an Al atomic layer is first formed so that Al atoms occupy the Al sites of the AlAs lattice resulting in one monolayer self-limiting growth. This would be the case in our relatively low supply of DMAIH and also for the growth condition used by Yokoyama et al., where they achieved one monolayer growth of AlAs using thermally decomposed TMAI to form DMA1H in a MOVPE reactor. For more than one monolayer per cycle Al deposition, there are two possibilities which are depicted in Fig. 4. One is that the (100) plane of the AI metal lattice, which is lattice matched to AlAs when it is rotated by 45°, is formed by accommodating A1 atoms to as many as twice the number of A1 sites in the AlAs lattice, as shown in Fig. 4(a). The other is that A1 atoms also occupy the As site of the AlAs lattice to form a second A1 atomic layer as shown in Fig. 4(b)."
-}

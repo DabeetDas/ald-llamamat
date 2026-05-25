@@ -1,8 +1,0 @@
-{
-  "target_material": "AlN",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Al(CH3)3", "NH3"],
-  "temperature_range": "325–400 °C",
-  "summary": "The study investigates the electronic structure of aluminum nitride (AlN) interfaces with Si(100) using atomic layer deposition (ALD). The AlN layers were grown using thermal ALD with Al(CH3)3 and NH3 precursors at temperatures between 325–400 °C. The bandgap of amorphous AlN was found to be 5.8 ± 0.1 eV, increasing to 6.5 ± 0.2 eV after crystallization. The research focuses on understanding the band alignment and electronic properties of AlN for potential applications in semiconductor devices.",
-  "evidence": "The AlN films were grown by atomic layer deposition (ALD) in a hot wall cross-flow-type reactor at a pressure of 10^3 Pa in the temperature range 325–400 °C. The precursors Al(CH3)3 and NH3 were used to form AlN and methane gas. The bandgap of thin a-AlN layers grown using atomic layer deposition is found to be 5.8 ± 0.1 eV, widening to 6.5 ± 0.2 eV after annealing induced crystallization into the wurtzite phase."
-}

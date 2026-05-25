@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnSe",
-  "process_type": "Atomic Layer Epitaxy (ALE) modified from CVD (CVD-ALE)",
-  "main_precursors": ["ZnCl2", "H2Se"],
-  "temperature_range": "450 °C",
-  "summary": "The study investigates the structural properties of ZnSe layers grown on GaAs substrates using atomic layer epitaxy (ALE) modified from chemical vapor deposition (CVD-ALE). The layers were grown with thicknesses ranging from 600 to 6000 Å. The effects of strain in the ZnSe layers were analyzed using X-ray diffraction and micro-Raman spectroscopy. The critical thickness for strain relaxation was found to be around 1500 Å by X-ray diffraction and 1000 Å by Raman spectroscopy. The results suggest a transition from 2D to 3D growth mode around the critical thickness due to plastic relaxation.",
-  "evidence": "ZnSe epilayers were grown on GaAs (100) substrates by atomic layer epitaxy modified from chemical-vapor deposition with thicknesses ranging from 600 to 6000 A. The critical thickness estimated by x-ray rocking curves is 1500 A, while that obtained by micro-Raman scattering is 1000 A. The ALE technique is characterized by a layer-by-layer 2D growth mode."
-}

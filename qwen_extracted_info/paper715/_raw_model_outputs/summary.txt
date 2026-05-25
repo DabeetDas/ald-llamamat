@@ -1,8 +1,0 @@
-{
-  "target_material": "Erbium oxide (Er2O3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tris(methylcyclopentadienyl)erbium", "ozone"],
-  "temperature_range": "170–330 ◦C",
-  "summary": "Erbium oxide thin films were deposited on p-type Si(1 0 0) substrates using tris(methylcyclopentadienyl)erbium and ozone as precursors. The films were found to be stoichiometric with no detectable carbon contamination. Post-deposition annealing at temperatures up to 1000 ◦C increased the crystallinity and silicate formation, while electrical properties improved with annealing at 600 ◦C.",
-  "evidence": "Thin stoichiometric erbium oxide films were atomic layer deposited on p-type Si(1 0 0) substrates using tris(methylcyclopentadienyl)erbium and ozone. The film growth rate was found to be 0.12 ± 0.01 nm/cycle with an atomic layer deposition temperature window of 170–330 ◦C. X-ray photoelectron spectral (XPS) analysis of the resulting Er2O3 films indicated the as-deposited films to be stoichiometric with no evidence of carbon contamination. Post deposition annealing temperatures of 600–1000 ◦C are used for studies on the annealing behavior of the resulting ALD films; after annealing, changes in Er2O3 film structure, interfacial layer, and surface morphology are presented and discussed using a variety of analytical techniques. Electrical characterization of Er2O3 thin gate dielectrics annealed at 600 ◦C exhibited higher dielectric constant (/DC4 = 11.8) than that of as-deposited films (9.8), and a remarkably low hysteresis voltage of less than 50 mV along with a leakage current density of 10−7 A cm−2 at 1 MV cm−1."
-}<|im_end|>

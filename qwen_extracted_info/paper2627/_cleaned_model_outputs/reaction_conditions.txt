@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the sequential deposition of tin oxide (SnO2) and zinc tin oxide (ZTO) using tetraethyltin (TET) and ozone (O3). The metal composition is controlled by the ratio of TET:O3 cycles to DEZ:O3 cycles. The model by Elliott and Nilsen was used to correlate film composition with TET pulse ratio, considering the valence states of the metals and the fraction of ligands deprotonated and desorbed during the ozone pulse.",
-  "intermediate_species": ["Tin ethyl ligands", "Zinc ethyl ligands", "Surface hydroxyls"],
-  "evidence": "The surface reaction mechanism involves the sequential deposition of tin oxide (SnO2) and zinc tin oxide (ZTO) using tetraethyltin (TET) and ozone (O3). The metal composition is controlled by the ratio of TET:O3 cycles to DEZ:O3 cycles. The model by Elliott and Nilsen was used to correlate film composition with TET pulse ratio, considering the valence states of the metals and the fraction of ligands deprotonated and desorbed during the ozone pulse."
-}

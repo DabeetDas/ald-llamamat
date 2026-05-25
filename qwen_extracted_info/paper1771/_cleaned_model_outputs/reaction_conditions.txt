@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions during ALD involve the alternating pulses of precursors, where LiOH, Al2O3, and SiO2 are deposited on the surface. The growth rates of these layers are consistent, indicating well-controlled surface reactions. The deposition of SiO2 occurs as part of a complex oxide, and the growth rates are influenced by the underlying layers.",
-  "intermediate_species": ["LiOH", "Al2O3", "SiO2"],
-  "evidence": "The text describes the ALD process for synthesizing Li xAlySizO thin films by alternating the ALD growth of the constituents, LiOH, Al2O3, and SiO2. The growth rates of these layers are consistent, indicating well-controlled surface reactions. The deposition of SiO2 occurs as part of a complex oxide, and the growth rates are influenced by the underlying layers."
-}

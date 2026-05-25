@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA", "H2O"],
-  "coreactants": [],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The Al2O3 films were deposited using TMA and water as precursors in an F-120 ALD system. In each cycle, TMA was first pulsed into a reaction chamber for 1.5 s, followed by N2 purge for 2.5 s. Then H2O was pulsed into the reaction chamber for 1.0 s, and followed by 3.0 s N2 purge."
-}<|im_end|>

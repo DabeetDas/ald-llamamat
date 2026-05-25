@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "Atomic layer deposition with flow-rate interruption (FRI)",
-  "main_precursors": ["diethylzinc (DEZn)", "deionized water"],
-  "temperature_range": "25–160 ◦C",
-  "summary": "Epitaxial ZnO films were grown at extremely low temperatures using atomic layer deposition with flow-rate interruption (FRI). The process utilized diethylzinc (DEZn) and deionized water as precursors, allowing for optimal growth in a temperature range of 25–160 ◦C. This method significantly reduced the growth temperature compared to conventional continuous-flow ALD, enhancing crystalline quality and optical properties of ZnO films.",
-  "evidence": "With diethylzinc (DEZn) and deionized water as precursors in combination with interrupted flow, we obtained ZnO thin films with an optimal growth window in a range 25–160 ◦C, so effectively lowering the growth temperature by about 120 ◦C relative to the conventional method involving a continuous-flow. The XRD results indicate that the stock time might extend the reaction of DEZn and water through an increased duration. This low temperature for growth results in increased crystalline quality and reduced the non-radiative recombination process to enhance the optical properties of ZnO films."
-}<|im_end|>

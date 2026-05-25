@@ -1,8 +1,0 @@
-{
-  "target_material": "silver–silica hybrid nanostructures",
-  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
-  "main_precursors": ["tri-dimethyl-aminosilane (TDMAS)", "oxygen plasma"],
-  "temperature_range": "120 °C",
-  "summary": "The study describes the synthesis of 3D silver–silica hybrid nanostructures using metastable state assisted atomic layer deposition (MS-ALD). The process involves the sequential use of TDMAS and oxygen plasma to deposit silica on enzymatically generated silver nanoparticles (EGNPs). The metastable silver oxide formed during the oxygen plasma step decomposes, releasing oxygen that reacts with TDMAS, leading to the formation of hierarchical nanostructures. The process allows for the controlled growth of nanosponges and nanoflowers by adjusting the number of ALD cycles.",
-  "evidence": "A novel fabrication strategy is introduced for the synthesis of 3D silver–silica hybrid nanostructures by employing the plasma-enhanced atomic layer deposition (PE-ALD) on the templated substrates with enzymatically generated silver nanoparticles (EGNPs). The formation of the metastable silver oxide and its decomposition repeat cyclically during the PE-ALD process, thereby, the side reaction is going on progressively, and finally, the 3D silver–silica hybrid nanostructures are formed with this novel strategy of metastable state assisted atomic layer deposition."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "WS2",
-  "process_type": "plasma-enhanced ALD (PEALD)",
-  "main_precursors": ["acetylacetone (Hacac)", "bis(tert-butylimido)-bis(dimethylamido)-tungsten", "H2S plasma"],
-  "temperature_range": "250 °C",
-  "summary": "The study demonstrates area-selective atomic layer deposition (AS-ALD) of 2D WS2 nanolayers using an ABC-type plasma-enhanced ALD process. The process involves acetylacetone (Hacac) as an inhibitor, bis(tert-butylimido)-bis(dimethylamido)-tungsten as a precursor, and H2S plasma as a co-reactant at a low deposition temperature of 250 °C. The AS-ALD process selectively deposits WS2 on SiO2 while blocking growth on Al2O3 and HfO2 surfaces. The deposited WS2 films exhibit sharp Raman peaks, indicating crystalline growth, after annealing at temperatures within the thermal budget of semiconductor back-end-of-line processing (≤ 450 °C). The process enables the selective growth of WS2 on various TMDs and transition metal oxides.",
-  "evidence": "Area-selective deposition of WS2 nanolayers is enabled using a ABC-type plasma-enhanced ALD process involving acetylacetone (Hacac) as inhibitor (A), bis(tert-butylimido)-bis(dimethylamido)-tungsten as precursor (B), and H2S plasma as the co-reactant (C) at a low deposition temperature of 250 °C. The developed AS-ALD process results in the immediate growth of WS2 on SiO2 while effectively blocking growth on Al2O3 as confirmed by in situ spectroscopic ellipsometry and ex situ X-ray photoelectron spectroscopy measurements. The AS-ALD WS2 films exhibited sharp Raman (E12g and A1g) peaks on SiO2, a fingerprint of crystalline WS2 layers, upon annealing at temperatures within the thermal budget of semiconductor back-end-of-line processing (≤ 450 °C)."
-}<|im_end|>

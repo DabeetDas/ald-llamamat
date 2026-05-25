@@ -1,7 +1,0 @@
-{
-  "precursors": ["terbutylimidotris(diethylamido)tantalum (TBTDET)"],
-  "coreactants": ["hydrogen radicals"],
-  "purge_gas": ["argon"],
-  "carrier_gas": ["argon"],
-  "evidence": "TBTDET was contained in a bubbler which was heated at 70°C and carried by an argon flow rate of 35 cm3/min. One deposition cycle consists of an exposure to a metallorganic precursor of TBTDET, a purge period with an argon flow rate of 35 cm3/min, and an exposure to hydrogen plasma, followed by another purge period with an argon flow rate of 35 cm3/min."
-}

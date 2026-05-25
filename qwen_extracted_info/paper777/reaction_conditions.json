@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Ga precursor species followed by reaction with oxygen plasma. The Ga precursor, TMGON, decomposes and reacts with oxygen radicals, leading to the formation of GaOx films. The reaction is facilitated by plasma-enhanced conditions, which provide the necessary energy for surface reactions. The process includes adsorption, reaction, and desorption steps, with the surface reaction being self-limiting due to the nature of ALD.",
-  "intermediate_species": [
-    "Ga(CH3)2*"
-  ],
-  "evidence": "With the TMGa precursor, dissociative Ga(CH3) species could be adsorbed onto the film surface and then, these remaining methyl species hindered chemisorption of the precursor [23]."
-}

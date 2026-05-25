@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2 and ZrO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["ZrCl4", "HfCl4", "H2O"],
-  "temperature_range": "900 8C",
-  "summary": "The study investigates the interfacial layers formed between high-k oxides (HfO2 and ZrO2) and silicon (Si) or thermal SiO2 using X-ray reflectivity (XRR) and spectroscopic ellipsometry (SE). The ALD process was used to deposit the films on Si(100) substrates, and the effects of annealing on interfacial oxide growth and structural changes were analyzed. The results show that annealing leads to changes in film thickness and interfacial roughness, with interdiffusion and Si migration observed.",
-  "evidence": "ZrO2 and HfO2 films, were deposited on p-Si (100) substrates by atomic layer deposition (ALD) using an F-120 reactor (ASM-Microchemistry) using ZrCl4 and HfCl4 as sources of Zr and Hf, respectively and H2O as oxygen source. The annealed sample was processed in O2 at a temperature of 900 8C. The study also discusses the structural model and the effects of annealing on the interfacial layers."
-}

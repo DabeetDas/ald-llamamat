@@ -1,8 +1,0 @@
-{
-  "target_material": "Nickel carbide (Ni3C)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["bis(1,4-di-tert-butyl-1,3-diazabutadienyl)nickel(II)", "H2 plasma"],
-  "temperature_range": "95 °C",
-  "summary": "The study describes a new atomic layer deposition (ALD) process for nickel carbide (Ni3C) using bis(1,4-di-tert-butyl-1,3-diazabutadienyl)nickel(II) and H2 plasma. The process produces smooth, pure, crystalline Ni3C thin films with self-limiting growth. The ALD-prepared Ni3C/CNT composite shows excellent performance for supercapacitors and electrocatalytic hydrogen evolution.",
-  "evidence": "The ALD process was able to produce smooth, pure, crystalline Ni3C thin films with an ideal self-limiting ALD growth fashion. Using this ALD process, a uniform thin layer of Ni3C can be conformally coated on carbon nanotubes (CNTs) to afford a core-shell nanostructured Ni3C/CNT composite. The ALD-prepared Ni3C/CNT composite is demonstrated to show excellent performance for supercapacitors and electrocatalytic hydrogen evolution."
-}<|im_end|>

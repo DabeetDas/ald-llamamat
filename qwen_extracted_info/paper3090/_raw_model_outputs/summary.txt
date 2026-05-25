@@ -1,8 +1,0 @@
-{
-  "target_material": "hafnium–zirconium–oxide",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["ZrCl4", "HfCl4", "H2O"],
-  "temperature_range": "300°C",
-  "summary": "Hafnium–zirconium–oxide films were deposited using atomic layer deposition (ALD) with ZrCl4 and HfCl4 as precursors and H2O as the oxidizing agent. Remote plasma nitridation (RPN) was performed to incorporate nitrogen into the films, which improved their thermal stability and electrical properties. The films showed lower equivalent oxide thickness (EOT) and leakage current density compared to non-nitrided samples.",
-  "evidence": "In this study, we deposited hafnium–zirconium–oxide films on Si substrates by atomic layer deposition (ALD). The hafnium–zirconium–oxide film deposition was performed at 300°C. Zirconium tetrachloride (ZrCl4) and hafnium tetrachloride (HfCl4) were used as the metal precursors, and H2O was used as the oxidizing agent. Remote plasma nitridation (RPN) treatment successfully incorporated nitrogen atoms into the HfO2 and ZrO2 mixed-oxide films. The RPN treatment also caused the formation of a silicate layer in the interfacial region. The hafnium–zirconium–oxide films had partially crystallized structures; RPN treatment slightly retarded crystallization of the films after annealing. Films with RPN treatment showed a lower EOT, a lower leakage current, and a higher breakdown voltage than those without RPN treatment."
-}<|im_end|>

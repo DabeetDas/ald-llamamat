@@ -1,7 +1,0 @@
-{
-  "precursors": ["dimethylaminodimethylindium (DMLDMIn)"],
-  "coreactants": ["DI water"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "DMLDMIn and diethylzinc were used as the metal-organic precursors for the In2O3 and ZnO films respectively, and DI water was used as the reactant. Ar gas was used for purging and as the carrier gas for the precursor; a mass flow controller was used to control its flow rate (10 sccm for bubbling and 20 sccm for purging)."
-}

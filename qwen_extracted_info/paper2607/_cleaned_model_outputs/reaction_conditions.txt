@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of Zn(TMHD)2 and H2S, with the formation of ZnS. The reaction is surface-limited, with precursor decomposition observed at higher temperatures. The reaction steps include the adsorption of Zn(TMHD)2 and H2S on the surface, followed by their reaction to form ZnS.",
-  "intermediate_species": ["Zn(TMHD)2", "H2S", "ZnS"],
-  "evidence": "The ALD behavior was confirmed by investigation of growth behavior and saturation curves. The reaction steps include the adsorption of Zn(TMHD)2 and H2S on the surface, followed by their reaction to form ZnS. The growth rate was observed to decrease throughout the temperature range, indicating a surface-limited ALD reaction."
-}

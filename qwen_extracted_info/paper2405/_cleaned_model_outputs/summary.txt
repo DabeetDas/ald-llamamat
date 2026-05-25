@@ -1,8 +1,0 @@
-{
-  "target_material": "SiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tris-dimethylaminosilane (TDMAS)", "H2O2"],
-  "temperature_range": "500 ◦C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to passivate pigment-grade TiO2 particles with nanothick SiO2 films. The process involves the use of TDMAS and H2O2 as precursors at 500 ◦C, resulting in high-quality, pinhole-free SiO2 films that significantly reduce the photocatalytic activity of TiO2 by 98%. The ALD process was carried out in a fluidized bed reactor, and the films were found to provide superior acid resistance and optical properties.",
-  "evidence": "SiO2 films were deposited using tris-dimethylaminosilane (TDMAS) and H2O2 at 500 ◦C. The photocatalytic activity of anatase pigment-grade TiO2 was decreased by 98% after the deposition of 2 nm SiO2 films. H2SO4 digest tests were performed to exhibit the pinhole-free nature of the coatings and the TiO2 digest rate was 40 times faster for uncoated TiO2 than SiO2 coated over a 24 h period."
-}

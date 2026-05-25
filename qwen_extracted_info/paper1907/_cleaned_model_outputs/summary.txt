@@ -1,8 +1,0 @@
-{
-  "target_material": "Zn–Ti–O",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TiO2", "ZnO"],
-  "temperature_range": "90 /C14C for deposition, 600 /C14C for annealing",
-  "summary": "The study describes the atomic layer deposition (ALD) of Zn–Ti–O thin films using alternating cycles of TiO2 and ZnO precursors at 90 /C14C, followed by annealing at 600 /C14C. The process enables fine control of stoichiometry and the formation of specific zinc titanate phases, such as Zn2TiO4 and ZnTiO3, with potential applications in sensors, dielectrics, and electroluminescent devices. The ALD method allows for the synthesis of amorphous films that crystallize upon annealing, with the ability to tailor the composition and structure of the resulting films.",
-  "evidence": "Different Zn–Ti–O phases were prepared with high reproducibility in the form of very thin films (thickness: 40 nm) by alternating atomic layer deposition cycles of TiO2 and ZnO precursors at 90 /C14C, followed by annealing at 600 /C14C. This procedure enables a very fine control of stoichiometry and the achievement of unexpected zinc titanate phases. The Zn–Ti–O thin films were prepared through a layer-by-layer approach based on the alternate deposition of titanium (TiO2) and zinc oxides (ZnO) at 90 /C14C and their subsequent transformation to zinc titanates by annealing in air at 600 /C14C."
-}

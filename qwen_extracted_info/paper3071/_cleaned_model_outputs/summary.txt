@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["titanium tetraisopropoxide (TTIP)", "oxygen plasma"],
-  "temperature_range": "150°C to 225°C",
-  "summary": "The study extends the applicability of a step-coverage model to the deposition of TiO2 thin films using titanium tetraisopropoxide (TTIP) and oxygen plasma. The model parameters were extracted from experimental data, and the effect of precursor partial pressure, deposition temperature, and the number of cycles on step coverage was investigated. The results showed good agreement between the model predictions and experimental data, confirming the validity of the step-coverage model for TiO2 film deposition.",
-  "evidence": "The applicability of the step-coverage model was extended to the deposition of TiO2 films using titanium tetraisopropoxide (TTIP) and oxygen plasma. The model parameters were extracted from fitting the step-coverage model to the experimental data for step coverage depending on precursor injection time. The experimental data agreed well with the model predictions."
-}

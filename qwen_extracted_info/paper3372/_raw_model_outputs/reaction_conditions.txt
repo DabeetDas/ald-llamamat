@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the sequential adsorption and reaction of metal precursors (DADI, TMGa, DEZ) with O2 plasma during PEALD. The growth rate per cycle (GPC) of each oxide layer is different, and the GPC of the super-cycle is determined by the sum of the GPC of each sub-cycle. The O2 plasma pulse during each sub-cycle resets the reactive group on the deposition surface, preventing disturbance from previous sub-cycles.",
-  "intermediate_species": ["In2O3 inter-layer", "Ga-Zn-O inter-layer", "oxygen vacancies"],
-  "evidence": "The surface reaction mechanism involves the sequential adsorption and reaction of metal precursors (DADI, TMGa, DEZ) with O2 plasma during PEALD. The growth rate per cycle (GPC) of each oxide layer is different, and the GPC of the super-cycle is determined by the sum of the GPC of each sub-cycle. The O2 plasma pulse during each sub-cycle resets the reactive group on the deposition surface, preventing disturbance from previous sub-cycles."
-}<|im_end|>

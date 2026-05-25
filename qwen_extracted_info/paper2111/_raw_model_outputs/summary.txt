@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TMA", "water"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the effects of surface pretreatments (TMA and surface nitridation) on the deposition of Al2O3 gate dielectric films using atomic layer deposition (ALD). The results show that both pretreatments reduce the interfacial layer thickness and improve the thermal stability and electrical properties of the Al2O3 films. The sample with surface nitridation (SN) exhibits better interface properties, lower leakage current, and smaller capacitance-voltage (C-V) hysteresis compared to the sample with TMA pretreatment (ST).",
-  "evidence": "The text states that the Al2O3 film was deposited using TMA and water as precursors in an F-120 ALD system. The process was performed at 300 °C. The study compares the effects of surface pretreatments (TMA and surface nitridation) on the properties of the Al2O3 films, showing that both pretreatments reduce the interfacial layer thickness and improve the thermal stability and electrical properties. The sample with surface nitridation (SN) exhibits better interface properties, lower leakage current, and smaller C-V hysteresis compared to the sample with TMA pretreatment (ST)."
-}<|im_end|>

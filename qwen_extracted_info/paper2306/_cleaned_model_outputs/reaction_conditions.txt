@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TDMAT and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["TDMAT molecules", "NH3 molecules", "TiN atomic layer"],
-  "evidence": "During the kth TDMAT vapor pulse, TDMAT molecules adsorb onto the film surface, and then instantly react with the previously readsorbed NH3 molecules, which have adsorbed on the film surface during the NH3 gas pulse in the (k-1)th deposition cycle, to form a new TiN atomic layer. Also, during this TDMAT vapor pulse, other TDMAT molecules will have chances to readsorb onto both the newly formed TiN atomic layer and newly exposed TiN film surface."
-}

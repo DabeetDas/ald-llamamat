@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "ALD",
-  "main_precursors": ["Hf[(C2H5)(CH3)N]4", "H2O2"],
-  "temperature_range": "175–325 ◦C",
-  "summary": "HfO2 thin films were deposited using atomic layer deposition (ALD) with Hf[(C2H5)(CH3)N]4 and H2O2 as precursors at a temperature range of 175–325 ◦C. The growth per cycle decreased up to 280 ◦C and increased above 325 ◦C due to precursor decomposition. HfO2 films grown with H2O2 showed better leakage properties due to full oxidation, and conformal growth on SiO2 structures was achieved.",
-  "evidence": "HfO2 films were deposited by atomic layer deposition (ALD) using Hf[(C2H5)(CH3)N]4 and H2O2 at a temperature range of 175–325 ◦C. The growth per cycle of the HfO2 films decreased with increasing temperature up to 280 ◦C and then abruptly increased above 325 ◦C as a result of the thermal decomposition of the precursor. Although the HfO2 films grown with H2O2 exhibited slightly higher carbon contents than those grown with H2O, the leakage properties of the HfO2 films grown with H2O2 were superior to those of the HfO2 films grown with H2O. This is because the HfO2 films grown with H2O2 were fully oxidized as a result of the strong oxidation potential of H2O2. The use of the ALD process with H2O2 also revealed the conformal growth of HfO2 films on a SiO2 hole structure with an aspect ratio of ∼ 15."
-}

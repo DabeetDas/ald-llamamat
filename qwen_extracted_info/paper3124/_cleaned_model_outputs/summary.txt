@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "PEALD",
-  "main_precursors": ["Ti(HOC3H7)4", "plasma-activated O2"],
-  "temperature_range": "250°C",
-  "summary": "The study investigates the use of an ultrathin TiO2 layer deposited via plasma-enhanced atomic layer deposition (PEALD) to reduce the reset current and power in phase change memory (PCRAM) cells. The TiO2 layer acts as a thermal barrier, improving heat insulation and reducing energy consumption during the reset process.",
-  "evidence": "A 2, 4, and 8 nm thick TiO2 layer was deposited by plasma-enhanced atomic layer deposition (PEALD) at 250°C using Ti(HOC3H7)4 precursor and plasma-activated O2 reactant. The necessary reset current and power decreased with increasing TiO2 interlayer thickness. The adoption of the optimum thickness (4 nm) TiO2 layer decreased the necessary reset power to 45% of the cell without the TiO2 layer. This was attributed mainly to the effective heat insulation by the 4 nm thick TiO2 layer."
-}

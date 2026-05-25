@@ -1,7 +1,0 @@
-{
-  "precursors": ["diethyl zinc (Zn(CH2CH3)2)"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "ZnO was formed by infiltrating diethyl zinc Zn(CH2CH3)2 and water as precursors into the opal templates using a continuous flow ALD reactor... The precursors were heated to 40 °C to ensure high enough partial pressures for consistent dosing. One ALD reaction cycle consisted of a 2.0 s exposure to DEtZn, followed by a 30 s N2 purge, a 4.0 s exposure to H2O, and another N2 purge."
-}

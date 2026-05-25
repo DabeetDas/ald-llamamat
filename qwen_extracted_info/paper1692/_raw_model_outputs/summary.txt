@@ -1,8 +1,0 @@
-{
-  "target_material": "SiO2 and TiO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["SiCl4", "H2O", "TiCl4"],
-  "temperature_range": "600 K for SiO2, 400-800 K for TiO2",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to reduce the pore diameters in alumina tubular membranes by depositing SiO2 and TiO2. The process involves alternating exposures of SiCl4 and H2O for SiO2 ALD, and TiCl4 and H2O for TiO2 ALD. The reduction in pore diameter was monitored using in situ N2 conductance measurements, which showed a progressive decrease in pore diameter with each ALD cycle. The study also highlights the effect of surface species on gas transport through the pores.",
-  "evidence": "The SiO2 ALD was accomplished using alternating exposures of SiCl4 and H2O. The TiO2 ALD was achieved using alternating exposures of TiCl4 and H2O. The reduction of the pore diameter was observed using in situ N2 conductance measurements. The N2 conductance measurements revealed that the SiO2 and TiO2 ALD progressively reduced the pore diameter from an initial diameter of 50 Å to molecular diameters."
-}<|im_end|>

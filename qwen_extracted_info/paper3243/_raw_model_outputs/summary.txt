@@ -1,8 +1,0 @@
-{
-  "target_material": "TiAlC",
-  "process_type": "thermal ALD",
-  "main_precursors": ["TiCl4", "TEA"],
-  "temperature_range": "250 ◦C to 375 ◦C",
-  "summary": "N-type metal gate TiAlC film was grown by thermal atomic layer deposition (ALD) using titanium tetrachloride (TiCl4) and triethylaluminum (TEA) as precursors. The effective workfunction can be tuned from 4.46 eV to 4.24 eV by adjusting the growth temperature and film thickness. The TiAlC film is a promising gate metal candidate for FinFET devices at the 22 nm technology node and beyond.",
-  "evidence": "N type metal gate TiAlC ﬁlm was grown by thermal atomic layer deposition (ALD) technique using titanium tetrachloride (TiCl4)a n d triethylaluminum (TEA) as precursors for the ﬁrst time. The effective workfunction can be tunable from 4.46 eV to 4.24 eV by adjusting the growth temperature and the ﬁlm thickness. These results show that the TiAlC ﬁlm is a promising gate metal candidate for the application in FinFET device of 22 nm technology node and beyond."
-}<|im_end|>

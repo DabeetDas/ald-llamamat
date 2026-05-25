@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3 (alumina)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethylaluminum (TMA)", "H2O"],
-  "temperature_range": "771C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to coat micron-sized high density polyethylene (HDPE) particles with ultrathin alumina (Al2O3) films in a fluidized bed reactor. The ALD process was confirmed by Fourier transform infrared spectroscopy (FTIR), X-ray photoelectron spectroscopy (XPS), transmission electron microscopy (TEM), and focused ion beam cross-sectional scanning electron microscopy (FIB-SEM). The results showed uniform and conformal Al2O3 coatings, with a nucleation period of 10 cycles and a linear growth rate of approximately 0.5 nm per cycle. The coated particles were extruded into HDPE/Al2O3 nanocomposite films, demonstrating successful dispersion of Al2O3 flakes in the polymer matrix. The process offers a low-cost, continuous method for producing polymer/ceramic nanocomposites with improved mechanical properties and reduced permeability.",
-  "evidence": "The text states: 'Micron-sized high density polyethylene particles were coated with ultrathin alumina films by atomic layer deposition in a fluidized bed reactor at 771C.' It also mentions: 'The deposition of alumina on the polymer particle surface was confirmed by Fourier transform infrared spectroscopy and X-ray photoelectron spectroscopy.' Additionally, 'The results of inductively coupled plasma atomic emission spectroscopy suggested that there was a nucleation period.'"
-}<|im_end|>

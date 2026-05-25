@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "350 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of HfO2 on silicon surfaces treated with Cl2. The Cl2 treatment creates nucleation sites necessary for ALD growth by generating OH groups on the silicon surface. The deposited HfO2 layers are analyzed using techniques such as spectroscopic ellipsometry, total X-ray fluorescence spectroscopy, and X-ray photoelectron spectroscopy. The results show that the Cl2 treatment leads to a linear growth rate from the first cycle, resulting in smooth HfO2 layers with a reduced equivalent oxide thickness (EOT).",
-  "evidence": "HfO2 layers were grown at 350 °C on low doped p-type 200 mm Si (100) substrates, in a Pulsar™ 2000 reactor from ASM Microchemistry Ltd using HfCl4 and H2O as precursors. The Cl2 treatment creates nucleation sites necessary for ALD growth by generating OH groups on the silicon surface. The EOT of these layers is extracted from the CsVd curves and is compared to those obtained on a thin chemical SiO2 layer."
-}<|im_end|>

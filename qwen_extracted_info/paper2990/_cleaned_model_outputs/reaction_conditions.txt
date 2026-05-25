@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD of metal oxide proceeds in sequential steps of adsorption of metal-precursors, purge-out of excess precursor molecules using a purge gas, reaction between the injected oxidants and adsorbed metal-precursors to deposit the metal oxide, and the instantaneous desorption of side products, and the purge-out of excess oxidants and side products using a purge gas. One peculiarity of the ALD process is that the surface reaction is self-limiting.",
-  "intermediate_species": ["side products"],
-  "evidence": "Normally, the ALD of metal oxide proceeds in sequential steps of adsorption of metal-precursors, purge-out of excess precursor molecules using a purge gas, reaction between the injected oxidants and adsorbed metal-precursors to deposit the metal oxide, and the instantaneous desorption of side products, and the purge-out of excess oxidants and side products using a purge gas. One peculiarity of the ALD process is that the surface reaction is self-limiting."
-}

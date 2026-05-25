@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions between TMA and NH3 are dominant at low temperatures, where TMA decomposition is weak. The decomposition of TMA on the surface leads to the formation of AlN, and the surface reactions between TMA and NH3 are likely to be the main mechanism controlling the growth rate at low temperatures. The self-limiting growth is not achieved due to the decomposition of TMA, which results in a temperature-dependent growth rate.",
-  "intermediate_species": ["Al-CH3", "-NH2", "methyl groups", "methane (CH4)"],
-  "evidence": "The text states that the decomposition of TMA on the surface leads to the formation of AlN, and the surface reactions between TMA and NH3 are likely to be the main mechanism controlling the growth rate at low temperatures. It also mentions that the decomposition of TMA results in the formation of methyl groups, and the presence of -NH2 species is supported by the detection of hydrogen in the form of -NH2. Additionally, the text notes that the carbon content is related to the decomposition of TMA, and the presence of methane (CH4) is implied by the reaction equations."
-}

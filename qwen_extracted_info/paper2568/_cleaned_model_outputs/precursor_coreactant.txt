@@ -1,7 +1,0 @@
-{
-  "precursors": ["La(Cp)3", "La(thd)3", "Al(CH3)3"],
-  "coreactants": ["H2O", "O3"],
-  "purge_gas": [],
-  "carrier_gas": [],
-  "evidence": "The oxygen sources were H2O and O3 for La(Cp)3 and La(thd)3, respectively. It is underscored that H2O is not considered an effective oxygen precursor in metal-diketonate ALD processes, hence, the preference for O3 in combination with La(thd)3. The Al2O3 layer was deposited from trimethylaluminum (Al(CH3)3) and H2O precursors."
-}

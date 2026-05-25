@@ -1,7 +1,0 @@
-{
-  "precursors": ["TiCl4"],
-  "coreactants": ["H2-N2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "TiCl4 precursor /H20849Sigma-Aldrich,/H1135099.0% purity/H20850is evaporated at room temperature from a bubbler containing liquid TiCl4 and trapped in a fixed volume /H208490.25 cm3/H20850in between two gas valves. The TiCl4 is subsequently injected into the chamber by releasing this trapped volume into the chamber, resulting in a working pressure in the chamber of typically 2.5 mTorr. During the precursor step the gate valves between the chamber and the pump and between the chamber and the plasma source are closed. The latter prevents TiN deposition in the plasma source. ... The H2-N2 gas mixture /H20849/H1102299.999% purity/H20850with typically a 10:1 mixing ratio is fed into the ICP source using leak valves."
-}

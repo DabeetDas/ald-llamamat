@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the deposition of CuInS2 using metal acetylacetonate precursors Cu(acac)2, In(acac)3, and H2S. The ALD process uses self-limiting surface reactions where precursor molecules adsorb and react on the surface, forming the desired compound. The reaction mechanism includes the adsorption of metal precursors followed by the reaction with H2S, leading to the formation of CuInS2. The process also involves the use of a hot solid source for In(acac)3 and the sequential pulsing of precursors and purge gases.",
-  "intermediate_species": ["Cu(acac)2", "In(acac)3", "H2S", "CuInS2"],
-  "evidence": "The surface reactions involve the deposition of CuInS2 using metal acetylacetonate precursors Cu(acac)2, In(acac)3, and H2S. The ALD process uses self-limiting surface reactions where precursor molecules adsorb and react on the surface, forming the desired compound. The reaction mechanism includes the adsorption of metal precursors followed by the reaction with H2S, leading to the formation of CuInS2. The process also involves the use of a hot solid source for In(acac)3 and the sequential pulsing of precursors and purge gases."
-}

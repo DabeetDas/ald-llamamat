@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ti(OCH(CH3)2)4"],
-  "coreactants": ["water"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The Ti(OCH(CH3)2)4 and water were evaporated at 80 and 20 °C, respectively. The cycle consisted of 2-s exposure to Ti(OCH(CH3)2)4, 5 s to Ar purge, 2 s to water, and 5 s to Ar purge. The total flow rate of the Ar gas was 20 standard cubic centimeters per minute."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "LaAlO3",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tris(iso-propylcyclopentadienyl)lanthanum", "trimethyl aluminum (TMA)"],
-  "temperature_range": "300 /C176 C",
-  "summary": "LaAlO3 films were deposited on TiO2-terminated SrTiO3 substrates using atomic layer deposition (ALD) with tris(iso-propylcyclopentadienyl)lanthanum and trimethyl aluminum (TMA) precursors. The film composition was controlled by the ratio of La/Al precursor pulses, with near-stoichiometric LaAlO3 resulting at precursor pulse ratios of 4/1 to 5/1. The films crystallized upon annealing to form epitaxial LaAlO3/SrTiO3 heterostructures, showing electrical conductivity above four unit cells thickness.",
-  "evidence": "Thin ﬁlms of LaAlO3 were deposited on TiO2-terminated (100) SrTiO3 crystals by atomic layer deposition (ALD), using tris(iso-propylcyclopentadienyl)lanthanum and trimethyl aluminum precursors. Water was used as the oxidizer. The ﬁlm composition was shown to be controlled by the ratio of La/Al precursor pulses during ALD, with near-stoichiometric LaAlO3 resulting at precursor pulse ratios of 4/1 to 5/1. Films near the stoichiometric LaAlO3 composition were shown to crystallize on subsequent annealing to form epitaxial LaAlO3/SrTiO3 heterostructures. Electrical characterization of these structures was done by two-terminal direct-current (DC) current–voltage scans at room temperature and under high-vacuum conditions. The results show electrical conductivity for the ALD-deposited epitaxial LaAlO3/SrTiO3 heterostructures, which turns on for thickness above four unit cells for the LaAlO3 ﬁlm."
-}

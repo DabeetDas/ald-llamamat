@@ -1,8 +1,0 @@
-{
-  "target_material": "SnS and SnS2",
-  "process_type": "Atmospheric Pressure Chemical Vapor Deposition (APCVD)",
-  "main_precursors": ["SnCl4", "H2S"],
-  "temperature_range": "300–545 °C",
-  "summary": "The study describes the Atmospheric Pressure Chemical Vapor Deposition (APCVD) of tin sulfides, specifically SnS and SnS2, using tin(IV) chloride (SnCl4) and hydrogen sulfide (H2S) as precursors. The process occurs at temperatures ranging from 300 to 545 °C, with SnS2 formed at lower temperatures and SnS at higher temperatures. The films are characterized by their crystallinity, adherence to glass substrates, and chlorine-free composition. The APCVD method allows for rapid growth rates and is suitable for coating glass substrates directly in commercial float-glass manufacturing lines.",
-  "evidence": "Reaction of tin(IV) chloride with hydrogen sulfide under APCVD conditions produced yellow films that analyzed as SnS2. Films were grown for 30 s using a horizontal bed cold wall reactor using SiCO coated glass. Typical growth rates for all films were of the order of 1–2 mm min–1. The film grown at 545 °C was silver-gray in color and analyzed as SnS. The APCVD reaction of SnCl4 and H2S gives fast growth rates of good quality chlorine-free crystalline tin sulfide films. At lower temperatures SnS2 films are produced whilst at 545 °C SnS films are formed."
-}

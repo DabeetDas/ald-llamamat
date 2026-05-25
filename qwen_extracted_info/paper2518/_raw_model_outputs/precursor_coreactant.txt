@@ -1,7 +1,0 @@
-{
-  "precursors": ["TEMAHf", "HTBO", "TEMASi"],
-  "coreactants": ["ozone"],
-  "purge_gas": ["Argon"],
-  "carrier_gas": ["Argon"],
-  "evidence": "The Hf and Si precursors can be converted to vapor for delivery to the deposition chamber either by bubbling an inert carrier gas separately through each liquid or by using a liquid vaporization unit. Argon was used as the precursor carrier gas within a flow rate range of 100–500 sccm."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Copper oxide",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Copper(II) acetylacetonate (Cu(acac)2)", "Ozone (O3)"],
-  "temperature_range": "150–230 8C",
-  "summary": "The study reports on the atomic layer deposition (ALD) of copper oxide using copper(II) acetylacetonate and ozone as precursors. The ALD process was found to deposit the tenorite phase of copper(II) oxide within a temperature range of 150–230 8C, with a growth rate of 0.038 nm per cycle. The films were characterized using X-ray reflectivity, X-ray diffraction, atomic force microscopy, and X-ray photoelectron spectroscopy. The ALD process was found to be suitable for the formation of complex compounds and has a relatively large temperature window, making it suitable for integration with other deposition processes.",
-  "evidence": "We report on the deposition of copper oxide by atomic layer deposition (ALD) using copper acetylacetonate (Cu(acac)2) and ozone (O3) as precursors. The present study results in ALD-type deposition of the tenorite phase of copper(II) oxide in a temperature window of 1508C to ca. 230 8C, with a growth rate of /C24 0.038 nm per cycle. The resulting ALD characteristics, with a relatively large ALD window in deposition temperature, should be well suited for combination with additional deposition processes for the formation of complex compounds."
-}

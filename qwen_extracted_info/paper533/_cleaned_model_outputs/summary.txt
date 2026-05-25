@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["TEMAT", "NH3"],
-  "temperature_range": "150 to 220 8C",
-  "summary": "Amorphous TiN films were deposited on a p-type Si substrate using atomic layer epitaxy (ALE) with TEMAT and NH3 as precursors at temperatures between 150 and 220 8C. The deposited TiN films showed excellent step coverage and uniformity for trenches with high aspect ratios. The study investigated the diffusion-barrier properties of TiN films against Cu and Si, finding that annealing up to 600 8C maintained the initial composition, while higher temperatures led to interdiffusion.",
-  "evidence": "Amorphous TiN ®lms were deposited on a p- 100 Si substrate using an atomic layer epitaxy technique that employed TEMAT and NH3 as precursors at a temperature range between 150 and 220 8C. The deposited TiN ®lms showed excellent step coverage and uniformity for the trench with a high aspect ratio of hrw } 2.6:0.43 mm. The diffusion-barrier behavior of both as-deposited and post-annealed 45-nm thick TiN ®lms at temperatures between 550 and 700 8C were investigated against vacuum-evaporated Cu ®lms."
-}

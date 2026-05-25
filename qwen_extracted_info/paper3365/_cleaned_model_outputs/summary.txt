@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs surface",
-  "process_type": "plasma-enhanced ALD (PEALD)",
-  "main_precursors": ["Trimethylaluminum (TMA)", "Ammonia (NH3)"],
-  "temperature_range": "200 ◦C",
-  "summary": "The study investigates a low-temperature passivation method for GaAs surfaces using plasma-enhanced atomic-layer-deposition (PEALD) to deposit ultrathin AlN layers. The process is performed at 200 ◦C, and the results show significant passivation effects, including enhanced photoluminescence intensity and longer lifetime of quantum well structures.",
-  "evidence": "A low-temperature passivation method for GaAs surfaces is investigated. Ultrathin AlN layers are deposited by plasma-enhanced atomic-layer-deposition at 200 ◦ C on top of near-surface InGaAs/GaAs quantum well structures. A significant passivation effect is seen as shown by up to 30 times higher photoluminescence intensity and up to seven times longer lifetime compared to uncoated reference samples."
-}

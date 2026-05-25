@@ -1,8 +1,0 @@
-{
-  "target_material": "Ga2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["gallium tri-isopropoxide (GTIP)", "H2O"],
-  "temperature_range": "150 °C to 250 °C",
-  "summary": "Ga2O3 thin films were deposited using thermal ALD with gallium tri-isopropoxide (GTIP) as the gallium source and H2O as the oxygen source at low temperatures (150 °C to 250 °C). The films showed amorphous, smooth, and transparent properties with a Ga:O ratio of 1:1.7 and no carbon impurities. The films exhibited high transmittance (>90%), low leakage current (1 × 10−11 A at 1 MV/cm), and a high breakdown field (6.5–7.6 MV/cm).",
-  "evidence": "Ga2O3 ALD films show amorphous, smooth, and transparent behavior. The Ga:O ratio was measured as 1:1.7 by the Rutherford backscattering spectrometry, and auger electron spectroscopy confirmed that there was no carbon impurity (under the detection limit). The Ga2O3 ALD thin film shows excellent leakage current (1 × 10−11 A at 1 MV/cm) and a very suitable breakdown field (6.5–7.6 MV/cm) as compared to previously reported Ga2O3 films."
-}

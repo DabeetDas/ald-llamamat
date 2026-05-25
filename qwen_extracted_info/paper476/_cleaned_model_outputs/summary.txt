@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnTe",
-  "process_type": "isothermal closed-space sublimation (ICSS-ALE)",
-  "main_precursors": ["elemental Zn", "elemental Te"],
-  "temperature_range": "380°C",
-  "summary": "Atomic layer epitaxy (ALE) of ZnTe thin films was achieved using an isothermal closed-space sublimation (ICSS-ALE) method. The growth mechanism is based on the equilibrium vapor pressure difference between elemental sources and the compound. The process occurs at 380°C in a Pd-purified H2 flux atmosphere. The self-regulating mechanism differs from non-equilibrium techniques like MBE and MOCVD, and the system is noted for its simplicity and low cost.",
-  "evidence": "The growth procedure is based on an isothermal closed space sublimation (ICSS) configuration. The optimum growth temperature was experimentally determined to be 380°C and the process occurs in Pd purified H2 flux at atmospheric pressure. The self-regulating mechanism is based on the equilibrium vapor pressure difference between the elemental sources and the compound. This mechanism is different from that occurring in ultrahigh-vacuum MBE, where kinetics (considered through the sticking coefficient) is the main mechanism."
-}

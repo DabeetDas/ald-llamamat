@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "ALCVD",
-  "main_precursors": ["TiCl4", "NH3"],
-  "temperature_range": "300–500 °C",
-  "summary": "The study investigates the effect of deposition temperature on the properties of TiN diffusion barriers prepared by atomic layer chemical vapor deposition (ALCVD). The results show that the growth rate is independent of temperature, while resistivity decreases exponentially with increasing temperature. The films are polycrystalline with (200) preferred orientation, and the failure temperature of the TiN barriers is related to the deposition temperature. Cl residues are suggested as the cause of early failure of ALCVD TiN barriers.",
-  "evidence": "TiN films were grown on p-type Si (100) substrates and SiO2/Si substrates by a modified atomic layer chemical vapor deposition (ALCVD) cycle using TiCl4 and NH3 as precursors. The results show that the grown films are all polycrystalline with (200) preferred orientation and that the (200) texture is stronger at high deposition temperatures. The growth rate is about 0.03 nm/deposition cycle, and almost independent of deposition temperature. The resistivity, however, exponentially decreases with increasing deposition temperature. The chlorine impurity concentration measured by Auger electron spectrometry is lower than 1 at.% for films grown at deposition temperatures above 350 °C. The failure temperatures are 600, 600–650, 700, and 750 °C for the TiN films deposited at 300, 350–400, 450, and 500 °C, respectively. The formation of voids at some weak spots after annealing suggests that Cl residues are responsible for the cause of early failure of ALCVD TiN barriers."
-}

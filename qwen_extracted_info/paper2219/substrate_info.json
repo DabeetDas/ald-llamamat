@@ -1,7 +1,0 @@
-{
-  "substrate_material": "GaAs",
-  "substrate_orientation": "100",
-  "pretreatment": "degreased in acetone, methanol, and isopropanol and dipped in an HCl:H2O (1:5) solution for 1 min",
-  "surface_functionalization": "S-passivation using (NH4)2S solution (40%–48% by weight in water) at room temperature",
-  "evidence": "The samples were degreased in acetone, methanol, and isopropanol and dipped in an HCl:H2O (1:5) solution for 1 min. S-passivation was established next using (NH4)2S solution (40%–48% by weight in water) at room temperature. This cleaning process removes the surface oxides and inhibits the growth of arsenic oxides during ALD HfO2 dielectric deposition."
-}

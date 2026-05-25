@@ -1,7 +1,0 @@
-{
-  "precursors": ["triethylgallium (TEGa)"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "Adduct grade triethylgallium (TEGa) from Epichem was used as the gallium source and dry O2 from BOC was used as the oxygen source. Argon from BOC was used for chamber purges and as the precursor carrier gas."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "TiOx",
-  "process_type": "Liquid injection ALD",
-  "main_precursors": ["Ti(OCH(CH3)2)4 (TTIP)"],
-  "temperature_range": "240°C",
-  "summary": "TiOx films were deposited using liquid injection atomic layer deposition (ALD) with titanium tetraisopropoxide (TTIP) as the precursor. The study focused on optimizing the deposition process by varying the injection frequency of the TTIP solution and analyzing the effects on film growth and resistive switching properties. The films exhibited amorphous structure and showed both unipolar and bipolar resistive switching behaviors, which are applicable for nonvolatile memory applications.",
-  "evidence": "TiOx films were deposited at 240°C with a wide range of the TTIP solution injections per cycle. The deposited TiOx films were amorphous and clearly showed both unipolar and bipolar resistive switching behaviors, which are applicable to nonvolatile memory applications."
-}

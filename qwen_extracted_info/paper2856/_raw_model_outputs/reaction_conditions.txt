@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the adsorption of TDMAT and NH3 on the TiN surface, leading to the formation of surface species such as Ti-O-Al(CH3)2 and the desorption of byproducts like CH4 and NH3. The process includes the removal of carbon and oxygen through post-treatments like RTN and H2/N2 plasma, which also leads to surface nitridation.",
-  "intermediate_species": ["Ti-O-Al(CH3)2", "surface hydroxyls", "formate species"],
-  "evidence": "The chemical composition of TiN films realized by ALD and MOCVD with and without post-treatments analyzed by X-ray photoelectron spectroscopy (XPS) depth profiling showed that the carbon content in the ALD TiN film is about 10 at% and is lower than that of MOCVD TiN film. During the ALD process, there was no gas phase reaction to yield reactive intermediates due to the separation and introduction of reactants in the reaction chamber. Consequently, no participation of reactive intermediates occurred in the film formation, thus, the carbon content may be lower than that in the case of MOCVD of TiN."
-}<|im_end|>

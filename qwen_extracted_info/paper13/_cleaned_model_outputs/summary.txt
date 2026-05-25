@@ -1,8 +1,0 @@
-{
-  "target_material": "High-k oxides of Group 4 metals (Ti, Zr, Hf)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Metal chlorides (e.g., TiCl4, ZrCl4, HfCl4)", "Water (H2O)", "Ozone (O3)", "Oxygen plasma", "Alkoxides (e.g., Ti(OEt)4, Zr(OEt)4)", "Amidinates", "Cyclopentadienyls (e.g., Cp2ZrMe2)", "Alkylamides (e.g., Zr(NEtMe)4)", "b-Diketonates (e.g., Zr(thd)4)"],
-  "temperature_range": "180–600 °C",
-  "summary": "The paper discusses the Atomic Layer Deposition (ALD) of high-k oxides of Group 4 metals (Ti, Zr, Hf) for memory applications. It highlights the use of various precursors, including metal chlorides, water, ozone, and alkoxides, and explores the process parameters and challenges in achieving high permittivity and low leakage current in thin films for DRAM and other memory devices. The study emphasizes the importance of precursor selection, process optimization, and phase stabilization through doping to meet the demands of next-generation memory technologies.",
-  "evidence": "The paper discusses the ALD of high-k oxides of Group 4 metals (Ti, Zr, Hf) for memory applications. It highlights the use of various precursors, including metal chlorides, water, ozone, and alkoxides, and explores the process parameters and challenges in achieving high permittivity and low leakage current in thin films for DRAM and other memory devices. The study emphasizes the importance of precursor selection, process optimization, and phase stabilization through doping to meet the demands of next-generation memory technologies."
-}

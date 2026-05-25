@@ -1,8 +1,0 @@
-{
-  "target_material": "TaNx",
-  "process_type": "plasma-assisted ALD",
-  "main_precursors": ["Ta(NCH3)25 (PDMA T)", "H2 plasma", "N2 plasma", "NH3 plasma"],
-  "temperature_range": "150–250 °C",
-  "summary": "The study focuses on the synthesis of low-resistivity TaNx films using remote plasma atomic layer deposition (ALD). The process involves the use of different plasma conditions, including H2, H2-N2, and NH3 plasmas, to control the stoichiometry and properties of the deposited films. The films are characterized by in situ spectroscopic ellipsometry and ex situ techniques, revealing that the resistivity and microstructure can be tuned by varying the plasma exposure time and gas composition. The results demonstrate that plasma-assisted ALD allows for the deposition of conductive TaNx films with high mass density and low resistivity.",
-  "evidence": "Remote plasma atomic layer deposition (ALD) of TaNx films from Ta(NCH3)25 (PDMA T) precursor and different remote plasma conditions. The films were deposited at substrate temperatures between 150 and 250 °C. The study shows that the resistivity and microstructure of the films can be controlled by varying the plasma exposure time and gas composition. The results demonstrate that plasma-assisted ALD allows for the deposition of conductive TaNx films with high mass density and low resistivity."
-}<|im_end|>

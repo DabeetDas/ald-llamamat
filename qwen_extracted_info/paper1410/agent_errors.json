@@ -1,3 +1,0 @@
-{
-  "deposition_conditions": "ValueError: Could not parse model output as JSON. Preview: '{   \"deposition_temperature_C\": \"250-300\",   \"pressure\": \"10 mbar\",   \"precursor_pulse_time_s\": 1.5,   \"coreactant_pulse_time_s\": 0.6,   \"purge_time_s\": 0.5,   \"number_of_cycles\": 3000,   \"reactor_type\": \"F-120\",   \"evidence\": \"TiO2 films were deposited onto 5 X 5 cm2 soda lime glass substrates usin'"
-}

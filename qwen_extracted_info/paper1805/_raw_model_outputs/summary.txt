@@ -1,8 +1,0 @@
-{
-  "target_material": "Cd(Zn)S",
-  "process_type": "thermal ALD",
-  "main_precursors": ["dimethyl cadmium (DMCd)", "diethyl zinc (DEZ)", "tris(dimethylamino)gallium (TDMAGa)", "H2S"],
-  "temperature_range": "150°C",
-  "summary": "The study explores the use of atomic layer deposition (ALD) to synthesize (Cd,Zn)S thin films as alternative buffer layers for photovoltaic devices. The films were grown using ALD with dimethyl cadmium, diethyl zinc, tris(dimethylamino)gallium, and H2S precursors at 150°C. The films showed tunable conduction band minima, which were confirmed through XPS and optical absorption measurements. Ga-doping was also investigated to reduce series resistance in contact layers.",
-  "evidence": "The (Cd,Zn)S films were grown using atomic layer deposition (ALD) in a Beneq TFS 200 reactor. The precursors for ALD growth were dimethyl cadmium (DMCd, Strem), diethyl zinc (DEZ, Aldrich), tris(dimethylamino)gallium (TDMAGa, Gelest), and H2S (15% H2S/N2 mixture, Matheson). All films were deposited with a substrate temperature of 150°C."
-}<|im_end|>

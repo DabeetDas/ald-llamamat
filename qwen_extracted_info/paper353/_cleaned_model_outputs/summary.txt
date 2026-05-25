@@ -1,8 +1,0 @@
-{
-  "target_material": "Ge",
-  "process_type": "PEALD",
-  "main_precursors": ["GeH4"],
-  "temperature_range": "230–290 0C",
-  "summary": "Atomic layer epitaxy of Ge on Si using flash heating chemical vapor deposition was investigated. The process involves decomposing GeH4 on a surface heated with a Xe flash lamp in an ultraclean low-pressure environment. Single atomic layer deposition per light shot was achieved under certain conditions. The surface coverage velocity of Ge-hydride was found to be higher at higher GeH4 partial pressures, and the density of adsorbed Ge-hydride became nearly equal to that of the surface atoms. The deposited films showed single crystallinity on (100) substrates and amorphous structure on (111) substrates.",
-  "evidence": "Atomic layer epitaxy of Ge using GeH4 decomposition at a surface heated with a Xe flash lamp in an ultraclean low-pressure environment was investigated. By use of a flash lamp light shot to separate the surface reaction and adsorption of Ge-hydrides, a single Ge atomic layer deposition per light shot has been realized under certain process conditions. It is found that the surface coverage velocity of Ge-hydride is higher at higher GeH4 partial pressures and, in the adsorption equilibrium, the density of adsorbed Ge-hydride becomes nearly equal to that of the surface atoms in the investigated GeH4 partial pressure range. From electron diffraction patterns, single crystallinity is found for the (100) substrate orientation, whereas deposited films are amorphous for the (111) orientation."
-}

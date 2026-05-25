@@ -1,8 +1,0 @@
-{
-  "target_material": "AlN",
-  "process_type": "pulsed atomic-layer epitaxy (PALE)",
-  "main_precursors": ["trimethyl aluminum (TMA)", "NH3"],
-  "temperature_range": "1200 °C",
-  "summary": "The study describes the use of pulsed atomic-layer epitaxy (PALE) to grow an AlN buffer layer on sapphire substrates, which significantly reduces threading dislocation densities in subsequent AlN epilayers. The PALE method involves alternating pulses of TMA and NH3 precursors with hydrogen as a carrier gas, leading to a subinterface between the buffer and epilayer where dislocations are redirected, annihilated, or terminated. This results in improved crystalline quality and reduced dislocation density in the AlN epilayer.",
-  "evidence": "AlN ﬁlms for this study were deposited on sapphire substrates using MOCVD system. TMA and NH3 were used as precursors. Hydrogen was the carrier gas and was kept constant at 10 SLM. First, an AlN buffer layer was deposited by the PALE method at the temperature of 1200 °C and pressure of 150 torr. Every period in the growth had the sequence outlined in Fig. 1. As can be seen, 5 s long pulses of the TMA and NH3 precursors were introduced alternately into the MOCVD reactor. There is a 3 s interval with only a flow of hydrogen between them. The number of periods varied between 0 and 200 in different runs. Then the reactor pressure was reduced to 40 torr and AlN film with thickness of about 1.2 μm was grown by a continuous supply of precursors."
-}<|im_end|>

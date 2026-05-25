@@ -1,8 +1,0 @@
-{
-  "target_material": "Cobalt oxide (Co3O4)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Co(Cp)2", "O3"],
-  "temperature_range": "250 °C",
-  "summary": "The study investigates the ALD of cobalt oxide using Co(Cp)2 and O3 at 250 °C, resulting in smooth, uniform films with a growth rate of 0.50 Å per cycle. The films exhibit cubic Co3O4 structure, a refractive index of 2.8, and p-type semiconducting behavior. The research focuses on the structural, optical, and electrical properties of the as-deposited films for potential applications in devices such as MIM tunnel diodes.",
-  "evidence": "The electrical, optical, and structural properties of cobalt oxide films deposited via atomic layer deposition using Co(Cp)2 and O3 are investigated. At 250 °C, growth is 0.50 Å per cycle and smooth uniform films are deposited across a 5\" wafer with atomic force microscopy showing a root mean square roughness of 0.4 nm. Spectroscopic ellipsometry indicates a refractive index of approximately 2.8 at 632.8 nm while grazing incidence X-ray diffraction of as-deposited films shows cubic Co3O4, a p-type semiconducting phase. Semiconducting behavior is supported by current density versus electric field measurements."
-}

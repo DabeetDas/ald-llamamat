@@ -1,8 +1,0 @@
-{
-  "target_material": "HfLaOx",
-  "process_type": "ALD",
-  "main_precursors": ["Tetrakis(EthylMethylAmino)Hafnium (TEMAH)", "Lanthanum Formamidinate (La(FAMD))", "ozone"],
-  "temperature_range": "265°C",
-  "summary": "The study evaluates HfLaOx as a blocking layer for non-volatile memory applications using atomic layer deposition (ALD). The material is deposited using TEMAH, La(FAMD), and ozone as precursors at 265°C. The films are capped with an Al2O3 layer to prevent contamination and diffusion. The material shows promising electrical properties, including a dielectric constant of 24, and is compared with Al2O3 in terms of leakage current and breakdown voltage.",
-  "evidence": "HfLaOx films have been grown by atomic layer deposition (ALD) using Tetrakis(EthylMethylAmino)Hafnium (TEMAH), Lanthanum Formamidinate (La(FAMD)) and ozone as Hf, La and O precursors, respectively. The deposition occurred at 265°C in ASM Pulsar® 3000. The study evaluates HfLaOx as a blocking layer for non-volatile memory applications. The films are capped with an Al2O3 layer to prevent contamination and diffusion. The material shows promising electrical properties, including a dielectric constant of 24, and is compared with Al2O3 in terms of leakage current and breakdown voltage."
-}<|im_end|>

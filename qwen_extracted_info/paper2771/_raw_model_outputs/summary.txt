@@ -1,8 +1,0 @@
-{
-  "target_material": "CdS thin films and superlattices (CdS/ZnS and CdS/CdSe)",
-  "process_type": "molecular layering (ALE)",
-  "main_precursors": ["dimethyl cadmium", "diethyl zinc", "hydrogen sulfide and selenide"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the synthesis of CdS thin films and superlattices using molecular layering (ALE) at 300 °C. The process involves the use of dimethyl cadmium, diethyl zinc, hydrogen sulfide, and selenide as precursors. The films and superlattices were characterized for photoluminescence properties, and the effect of internal strains and excitation intensity on the photoluminescence spectra was examined. The results show that the photoluminescence maximum shifts with film thickness and excitation intensity, indicating the presence of size effects and internal strains.",
-  "evidence": "The method of molecular layering was developed under the direction of Aleskovski in the middle of the 1960’s and has become known abroad under the name 'atomic-layer epitaxy' (ALE). In the present work we have performed a synthesis on a novel automated setup according to a preset program at a substrate temperature of 300 °C. As the reagents we used dimethyl cadmium, diethyl zinc, and hydrogen sulﬁde and selenide. We implemented the indicated method, we grew thin ﬁlms of CdS, and superlattices of the types CdS/CdSe and CdS/ZnS. The spectrum of the sample with the wide quantum well reveals an intense and relatively narrow emission maximum near the absorption edge of bulk CdS. We observed an analogous shift in CdS/CdSe superlattices (grown by us) like the authors of Ref. 8."
-}<|im_end|>

@@ -1,7 +1,0 @@
-{
-  "precursors": ["TiCl4 (Titanium tetrachloride)"],
-  "coreactants": ["H2O (deionized water)"],
-  "purge_gas": ["N2 (not explicitly mentioned, but purge time is mentioned, and carrier gas is not explicitly stated)"],
-  "carrier_gas": ["N2 (not explicitly mentioned, but carrier gas is not explicitly stated)"],
-  "evidence": "Titanium tetrachloride with 99.999% purity purchased from Sigma Aldrich and deionized water were used as precursors for TiO2 deposition. Carrier gas precursor flow rates of 4:1 and 8:1 were used for H2O and TiCl4, respectively."
-}

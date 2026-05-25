@@ -1,8 +1,0 @@
-{
-  "target_material": "Palladium",
-  "process_type": "Plasma-Assisted ALD (ABC-type)",
-  "main_precursors": ["Pd(hfac)2", "H2 plasma", "O2 plasma"],
-  "temperature_range": "100 °C",
-  "summary": "A plasma-assisted atomic layer deposition (ALD) process was developed to synthesize high-purity palladium thin films at low temperatures (100 °C). The process uses Pd(hfac)2 as a precursor, followed by sequential H2 plasma and O2 plasma steps. The O2 plasma step is crucial for removing carbon contaminants from the Pd surface, which are left after the H2 plasma reduction step. This process results in low-resistivity Pd films with minimal carbon contamination, making it suitable for various applications.",
-  "evidence": "ABSTRACT: A plasma-assisted atomic layer deposition (ALD) process has been developed that allows for low temperature (100 °C) synthesis of virtually 100% pure palladium thin films... The O2 plasma pulse is required to remove carbon contaminants from the Pd surface that remain after the H2 plasma reduction step."
-}

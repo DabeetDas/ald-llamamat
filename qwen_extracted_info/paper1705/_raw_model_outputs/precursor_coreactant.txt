@@ -1,7 +1,0 @@
-{
-  "precursors": ["InCp", "TDMASn", "TiCl4"],
-  "coreactants": ["O3", "H2O2", "H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "For i-ITO samples, the membranes were coated with ∼7 nm of ITO by ALD via 45 alternate exposures to cyclopentadienyl indium (InCp) and O3 at a temperature of 220 °C. Reactant exposure times of 15 and 80 s were employed, respectively, with nitrogen purge periods of 10 and 5 s after respective exposures. Doping of the In2O3 was accomplished by substituting pulses of tetrakisdimethylamido tin (TDMASn) and H2O2 every 10th cycle. The exposure times for TDMASn and H2O2 were 15 s and 10s, respectively, with 10 s N2 purge periods following each exposure. The TiO2 ALD was performed using alternating exposures to TiCl4 and H2O at 100 °C for 6 and 3 s respectively, with nitrogen purges of 10 and 14 s between exposures."
-}<|im_end|>

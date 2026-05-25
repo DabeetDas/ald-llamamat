@@ -1,8 +1,0 @@
-{
-  "target_material": "WS 2/SnS layered semiconductor heterojunctions",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["WCl 5", "H 2S", "tin (II) acetylacetonate"],
-  "temperature_range": "390 oC",
-  "summary": "The study describes the growth of WS 2 and SnS layered semiconductor heterojunctions using atomic layer deposition (ALD) on 5 cm x 5 cm substrates. The materials were grown separately and then combined to form heterostructures. The heterostructures displayed ambipolar behavior with reduced hole mobility due to the misalignment of SnS layers relative to WS 2 layers. The study highlights the use of ALD for large-area growth of layered materials and the impact of crystal structure alignment on electrical properties.",
-  "evidence": "The text states: 'Growth of multiple WS 2/SnS layered semiconductor heterojunctions... using atomic layer deposition on 5 cm x 5 cm substrates.' It also mentions: 'The precursors for WS 2 growth were WCl 5 and H 2S (9%, balance Ar). The SnS films were grown from tin (II) acetylacetonate and H2S.' Additionally, it notes: 'The film growth rate was 0.125 nm/cycle for WS 2 and 0.47 nm/cycle for SnS.'"
-}<|im_end|>

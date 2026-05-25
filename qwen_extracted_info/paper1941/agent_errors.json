@@ -1,4 +1,0 @@
-{
-  "summary": "ValueError: Could not parse model output as JSON. Preview: '{   \"target_material\": \"SrS and SrO\",   \"process_type\": \"Atomic Layer Epitaxy (ALE)\",   \"main_precursors\": [\"Sr(thd)2\", \"H2O\", \"H2S\"],   \"temperature_range\": \"200-420°C for reactor temperature (TR), 200-340°C for source temperature (Ts)\",   \"summary\": \"The study investigates the use of Sr(thd)2 as a'",
-  "film_properties": "Parsed successfully, but extracted content is empty."
-}

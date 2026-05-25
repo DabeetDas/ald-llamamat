@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of CH4 plasma as a reactant to form Si–C bonds, which contribute to the formation of a cage structure that lowers the dielectric constant. The mechanism is influenced by the plasma and deposition temperature, with higher temperatures leading to the breakdown of Si–C bonds and a decrease in carbon content.",
-  "intermediate_species": ["Si–C bonds", "cage structure", "methyl groups"],
-  "evidence": "The text states, 'When CH4 plasma is used as a reactant, Si–C bonds in the thin film form pores and lower ionic polarization to lower the dielectric constant.' Additionally, it mentions, 'the cage structure contributes to lowering the dielectric constant of the thin film' and 'the Si–C bond has less ionic polarization than the Si–O bond.'"
-}

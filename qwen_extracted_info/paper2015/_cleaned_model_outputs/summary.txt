@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3–TiO2 nanoscale laminated films",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethylaluminum (TMA)", "tetrachlorotitanium (TiCl4)"],
-  "temperature_range": "200 °C",
-  "summary": "The study describes the use of Atomic Layer Deposition (ALD) to create nanoscale laminated films of Al2O3 and TiO2 to control the refractive index of optical coatings. The process involves alternating sublayers of Al2O3 and TiO2, with the refractive index adjusted by varying the number of growth cycles for each material. The films were deposited on silica and silicon substrates at 200 °C, and the method allows for precise control of film thickness and refractive index.",
-  "evidence": "Nanoscale laminated films were deposited on silica and silicon substrates at the growth temperature of 200 °C. The details of the equipment used and the basic procedure for film growth were described elsewhere. Reactant A is trimethylaluminum (TMA) for Al2O3 film growth or tetrachlorotitanium (TiCl4) for TiO2 film growth. The growth rates of Al2O3 (gAl2O3) and TiO2 (gTiO2) are 1.1 Å/cycle and 0.39 Å/cycle, respectively."
-}

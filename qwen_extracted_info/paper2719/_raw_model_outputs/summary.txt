@@ -1,8 +1,0 @@
-{
-  "target_material": "tin titanate (SnTiO3, STO)",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["bis(1-dimethylamino-2-methyl-2-propoxy)tin(II) (Sn(dmamp)2)", "titanium-tetrakis-isopropoxide (TTIP)", "water (H2O)"],
-  "temperature_range": "210 –270 °C for ALD growth, 300–500 °C for postdeposition annealing",
-  "summary": "The study investigates the growth of tin titanate (SnTiO3, STO) films using atomic layer deposition (ALD) with bis(1-dimethylamino-2-methyl-2-propoxy)tin(II) as the Sn source, titanium-tetrakis-isopropoxide as the Ti source, and water as the oxygen source. The films remained amorphous below 250 °C and crystallized at 270 °C, but the perovskite phase was not identified. Postannealing in a forming gas atmosphere transformed the films into an intermetallic compound Ti5Sn3 instead of the desired perovskite STO.",
-  "evidence": "In this study, the atomic layer deposition of STO films was attempted using bis(1-dimethylamino-2-methyl-2-propoxy)tin(II) as the Sn source, titanium-tetrakis-isopropoxide as the Ti source, and water as the oxygen source. It was found that during the process, adsorption of both the precursors was enhanced on the heterogeneous reaction surface because of the correlation growth behavior. STO films remained amorphous below 250 °C. Furthermore, although the film was crystallized at 270 °C, the perovskite phase was not identified. Despite the use of the Sn precursor with Sn 2+, Sn ions in all the films transformed into Sn4+. Although the postdeposition annealing process in a forming gas atmosphere was conducted for the perovskite conversion, the STO film transformed into Ti5Sn3, an intermetallic compound, at 500 °C."
-}<|im_end|>

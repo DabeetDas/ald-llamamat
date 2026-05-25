@@ -1,8 +1,0 @@
-{
-  "target_material": "InAs/GaAs single quantum well structures",
-  "process_type": "atomic layer epitaxy (ALE)",
-  "main_precursors": ["GaAs", "InAs"],
-  "temperature_range": "480°C",
-  "summary": "The study demonstrates the growth of high-quality InAs/GaAs single quantum well structures using atomic layer epitaxy (ALE). The structures exhibit sharp photoluminescence peaks with narrow full widths at half-maximum, indicating excellent control over layer thickness and interface quality. The process involves alternating deposition of column III and column V species, allowing for precise control of layer thickness and abrupt interfaces.",
-  "evidence": "The growth of high quality InAs/GaAs single quantum well structures has been demonstrated by atomic layer epitaxy. Photoluminescence spectra from these wells show sharp intense peaks with FWHM for the 2 and 4 cycle wells (corresponding to - 6.6 and 13.1 A) of 12 and 17 meV, respectively. These are among the narrowest reported for such thin wells in this or other material systems. The line shape and FWHM are also very uniform across each sample. In addition, 2 cycle structures grown seven months apart show almost identical spectral characteristics. These results indicate that ALE has the ability to grow uniform, high quality material with excellent control of layer thickness and interface abruptness."
-}<|im_end|>

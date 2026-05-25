@@ -1,7 +1,0 @@
-{
-  "precursors": ["ZrL4 (zirconium alkylamides)", "tris(tert-butoxy)silanol"],
-  "coreactants": ["silanol", "water"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The precursor vapors were alternately pulsed into a heated reactor, yielding about 0.3 to 0.7 nm of metal silicate film for each cycle. Replacing the silanol pulses with water pulses yields pure metal oxides with a thickness of about 0.1 to 0.15 nm per cycle. The precursors were vaporized by flash evaporation. For this purpose, each precursor was dissolved in liquid tetradecane at a concentration of 1 wt%. The flow of 0.1 L/min of nitrogen gas continued through each valve in either position."
-}

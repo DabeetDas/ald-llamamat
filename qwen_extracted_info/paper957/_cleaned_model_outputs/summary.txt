@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3 and HfO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethylaluminum (TMA)", "deuterium oxide (D2O)"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to deposit ultra-thin films of Al2O3 and HfO2 on silicon substrates. The process involves sequential introduction of precursors, with trimethylaluminum (TMA) and deuterium oxide (D2O) used for Al2O3, and tetrakis(ethylmethylamido)hafnium (Hf(NMeEt)4) for HfO2. The films are deposited on a silicon nitride surface at 300 °C, with nitrogen gas purge between precursor exposures. The study focuses on analyzing the composition and thickness of these films using RBS and ion channeling techniques.",
-  "evidence": "Atomic layer deposition of aluminum oxide was performed by introducing sequentially trimethylaluminum (TMA) and deuterium oxide (D2O) precursors to the silicon nitride surface maintained at 300 °C, separated by a 20 min nitrogen gas purge to remove residual precursor and reaction products."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "H2O", "O3"],
-  "temperature_range": "300 °C",
-  "summary": "The study compares HfO2 films grown by atomic layer deposition using HfCl4 as the precursor and either H2O or O3 as the oxidant. The results show that O3 as an oxidant leads to higher oxygen concentration in the HfO2 film, which affects the interfacial SiO2 formation and electrical properties. The films grown with O3 exhibit better electrical properties such as lower fixed charge density, lower interface trap density, and lower leakage current density compared to those grown with H2O. However, the films grown with O3 show a larger decrease in capacitance density after annealing due to increased interfacial SiO2 formation.",
-  "evidence": "HfO2 gate dielectric thin-ﬁlms were deposited on Si wafers using an atomic-layer deposition (ALD) technique with HfCl4 and either H2O or O3 as the precursor and oxidant, respectively. The stronger oxidation power of the O3 compared to H2O increased the oxygen concentration in the HfO2 ﬁlm and the rate of interfacial SiO2 formation even at the as-deposited state. Apart from this weakness, all the other electrical properties, including the fixed charge density, the interface trap density, the leakage current density and the hysteresis in the capacitance–voltage plot of the film grown with O3 were superior to those of the film grown with H2O."
-}

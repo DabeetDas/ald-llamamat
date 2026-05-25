@@ -1,8 +1,0 @@
-{
-  "target_material": "MnOx",
-  "process_type": "PEALD",
-  "main_precursors": ["Bis(Ethylcyclopentadienyl) Manganese ((EtCp)2Mn)", "Water (H2O)", "Forming Gas (FG) plasma (95% N2/5% H2)"],
-  "temperature_range": "100 – 200 °C",
-  "summary": "The study investigates the saturation behavior of atomic layer deposition (ALD) of MnOx using bis(ethylcyclopentadienyl) manganese ((EtCp)2Mn) and water (H2O), with the introduction of a forming gas (FG) plasma step to achieve saturation. The results show that the (EtCp)2Mn + FG plasma + H2O system achieves a constant growth per cycle (GPC) of 1.15 Å/cy at temperatures between 100 – 200 °C, indicating a saturating deposition mechanism. This saturation behavior enhances the coverage of MnOx on porous carbon electrodes, improving the oxygen reduction reaction (ORR) performance for metal-air batteries.",
-  "evidence": "The observed saturation behaviour is in disagreement with previous reports in literature. (EtCp)2Mn + H2O depositions exhibited non-ALD behaviour, as demonstrated by a high growth per cycle (GPC) at substrate temperatures (Tsub) = 40 - 50 °C and non-saturating reactions at Tsub ≥ 60 °C. The introduction of a forming gas (FG) (95% N2 + 5% H2) plasma between the (EtCp)2Mn and H2O doses promoted precursor saturation, with a constant GPC (1.15 Å/cy) in the Tsub range of 100 – 200 °C. The effect of saturation behaviour on porosity coverage was investigated by coating porous carbon electrodes with ALD MnOx. Energy dispersive x-ray (EDX) spectroscopy, electrochemical surface area measurements, and oxygen reduction activity all indicate that the saturating behaviour of the (EtCp)2Mn + FG + H2O deposition resulted in superior coverage compared with the (EtCp)2Mn + H2O depositions."
-}

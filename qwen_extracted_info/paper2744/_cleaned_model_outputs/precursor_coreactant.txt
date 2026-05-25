@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMGa"],
-  "coreactants": ["arsine", "phosphine"],
-  "purge_gas": ["hydrogen"],
-  "carrier_gas": ["hydrogen"],
-  "evidence": "The gas system used in this experiment was basically the same as that used in metal organic vapor phase epitaxy (MOVPE) systems. The reactor had a low-pressure vertical chimney type structure and the carrier gas (hydrogen) was introduced at the bottom of the reactor and exhausted from the top. The alternating pulses of TMGa and arsine (phosphine) were separated by a hydrogen purge pulse to prevent reactants from mixing."
-}

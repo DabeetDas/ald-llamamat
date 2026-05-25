@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the interaction of the selenide precursor with the hydroxyl groups on the substrate surface, followed by the reaction with the Mo precursor. The process includes the formation of Mo–Se–O bonds through the chemical reaction of the Se precursor with the hydroxyl groups and the subsequent reaction of the resulting chemisorbed species with the Mo precursor.",
-  "intermediate_species": ["Mo–Se–O"],
-  "evidence": "The XPS analysis revealed the presence of Mo–Se–O bonds, indicating the chemical reaction of the Se precursor with the hydroxyl groups from the substrate surface and the subsequent reaction of the resulting chemisorbed counterpart with the Mo precursor."
-}

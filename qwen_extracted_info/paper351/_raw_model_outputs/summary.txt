@@ -1,8 +1,0 @@
-{
-  "target_material": "Al~Ga1_~As and GaAs",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["TMGa", "TMA1", "AsH3"],
-  "temperature_range": "550 to 700°C",
-  "summary": "The study reports the Atomic Layer Epitaxy (ALE) growth of Al~Ga1_~As (0 <x < 0.4) and GaAs. The ALE process uses TMGa, TMA1, and AsH3 as precursors, with a temperature range of 550 to 700°C. The ALE films show better composition uniformity and higher quality compared to MOCVD films. The process allows for the growth of high-quality GaAs and AlGaAs/GaAs quantum wells with uniform thickness and good optical properties.",
-  "evidence": "The ALE growth cycle consisted of the simultaneous exposure of the substrate to the TMGa and TMA1 fluxes followed sequentially by an AsH3 exposure. Atomic layer epitaxy was carried over a temperature range from 550 to 700°C, and monolayer growth was only observed over a fairly narrow range of column III flux. ALE films show better composition uniformity than the MOCVD ones. A1GaAs/GaAs quantum wells were also grown solely by ALE at the same temperature with very uniform well thickness. High quality ALE grown GaAs was also achieved."
-}<|im_end|>

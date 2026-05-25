@@ -1,8 +1,0 @@
-{
-  "target_material": "Si",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Si2H6"],
-  "temperature_range": "400-550°C",
-  "summary": "Si thin epitaxial layers were grown using temperature modulation Si molecular-layer epitaxy (TM Si MLE) with Si2H6 gas. The surface morphology changed from three-dimensional island features to a two-dimensional flat surface as the modulated temperature decreased from 530°C to 460°C. The study investigated the effects of temperature modulation on surface morphology and growth rate.",
-  "evidence": "Si thin epitaxial layers were grown by a temperature modulation Si molecular-layer epitaxy (TM Si MLE) method using Si2H6 gas. The surface morphology changed drastically from a three-dimensional island feature to a two-dimensional flat surface with lowering of the modulated temperature from 530°C to 460°C. The growth rate per cycle decreased monotonically with decreasing modulated temperature."
-}

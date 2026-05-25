@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2 and Al2O3",
-  "process_type": "Island growth (type 2 substrate-inhibited ALD)",
-  "main_precursors": ["ZrCl4", "AlMe3", "H2O"],
-  "temperature_range": "300°C",
-  "summary": "The paper describes a phenomenological model for island growth in atomic layer deposition (ALD) on hydrogen-terminated silicon, focusing on ZrO2 and Al2O3. The model explains how the growth-per-cycle (GPC) varies with the number of ALD cycles, leading to a maximum before reaching a steady state. The model accounts for the formation of islands, their coalescence, and the transition to a continuous film.",
-  "evidence": "The paper discusses the ZrCl4/H2O and AlMe3/H2O ALD processes on hydrogen-terminated silicon, where island growth is identified as the origin of type 2 substrate-inhibited growth. The model assumes that the substrate is unreactive except for reactive defects, and islands grow symmetrically from these defects. The GPC curves and surface fractions are simulated and compared with experimental data."
-}<|im_end|>

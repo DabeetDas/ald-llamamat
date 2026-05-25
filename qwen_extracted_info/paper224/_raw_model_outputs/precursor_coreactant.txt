@@ -1,7 +1,0 @@
-{
-  "precursors": ["Al(CH3)3"],
-  "coreactants": ["H2O", "O3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "For both processes, the cycle times were ~7 s and the growth-per-cycle was 1.0 Å and 1.2 Å for thermal and plasma ALD, respectively. The Al2O3 properties were very similar with the refractive index at 2 eV being 1.64 ± 0.01 and the O/Al ratio being 1.52 ± 0.05 as determined by Rutherford backscattering spectroscopy. However the H concentration as measured with elastic recoil detection was notably higher for thermal ALD (3.6 ± 0.2 at%) than for plasma ALD Al2O3 (2.7 ± 0.2 at%)."
-}<|im_end|>

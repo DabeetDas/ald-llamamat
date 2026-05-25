@@ -1,8 +1,0 @@
-{
-  "target_material": "Copper",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Cu(thd)2", "H2"],
-  "temperature_range": "190 to 260°C",
-  "summary": "The paper reports on the atomic layer epitaxy (ALE) of copper using Cu(thd)2 as the copper precursor and H2 as the reducing agent. The process was self-limited in the temperature range 190 to 260°C and allowed for area-selective deposition on platinum-seeded substrates compared to unseeded glass or oxidized metal surfaces. The study highlights the importance of the precursor stability and the role of surface interactions in achieving selective deposition.",
-  "evidence": "The deposition of copper by means of atomic layer epitaxy is reported. Using Cu(II)-2,2,6,6-tetramethyl-3,5-heptanedionate as the precursor, pure and specular copper films were deposited at deposition temperatures below 200°C. The process was self-limited in the temperature range 190 to 260°C. Area-selective deposition was achieved on platinum seeded substrates vs. unseeded glass slides or oxidized metal surfaces in the temperature range 175 to 300°C."
-}

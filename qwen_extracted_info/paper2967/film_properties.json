@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 50,
-  "density_g_cm3": 9.5,
-  "refractive_index": "2.0",
-  "surface_roughness_nm": 0.19,
-  "crystal_phase": "Amorphous",
-  "evidence": "The rms surface roughness value for 300 and 370°C deposited ALD films is 0.19 and 0.26 nm, whereas, the 650°C deposited MOCVD film has a rms value of 0.42 nm. The 300°C deposited ALD film is mainly amorphous, whereas the 370°C deposited ALD film is polycrystalline."
-}

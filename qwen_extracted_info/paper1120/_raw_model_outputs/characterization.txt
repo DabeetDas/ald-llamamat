@@ -1,8 +1,0 @@
-{
-  "characterization_methods": [
-    "Infrared absorption spectroscopy (IRAS)",
-    "X-ray photoelectron spectroscopy (XPS)",
-    "Current – voltage (I – V) measurements"
-  ],
-  "evidence": "To show that SiO2 ALD occurred, we measured the thickness and the breakdown voltage of the deposited SiO2 film by means of X-ray photoelectron spectroscopy (XPS) and current – voltage (I – V) measurements, respectively. In the XPS measurements, we used an Alkα X-ray source with an electron energy of 1486.6 eV and we recorded photoelectrons with a take-off angle of 90° to the sample surface. For the I – V measurement, we fabricated 20 MOS capacitors with the deposited SiO2 films, p-type, 10- Ω cm Si (100) substrates, and Au metal; we took the breakdown voltage as being the applied bias between the metal and the substrate at which the leakage current density reached 10−7 A/cm2."
-}<|im_end|>

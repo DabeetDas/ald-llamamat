@@ -1,8 +1,0 @@
-{
-  "target_material": "",
-  "process_type": "",
-  "main_precursors": [],
-  "temperature_range": "",
-  "summary": "The paper discusses the existence of solutions for integral equations arising from boundary value problems (BVPs) using fixed point theory and cone compression/expansion principles. It introduces a new class of cones to handle Green's functions that change sign, which is crucial for studying differential equations with such kernels. The study focuses on the conditions under which non-trivial fixed points exist for the integral operator, considering both sub-linear and super-linear cases. The results are applied to periodic boundary value problems with specific Green's functions that change sign.",
-  "evidence": "The paper discusses the existence of solutions for integral equations arising from boundary value problems (BVPs) using fixed point theory and cone compression/expansion principles. It introduces a new class of cones to handle Green's functions that change sign, which is crucial for studying differential equations with such kernels. The study focuses on the conditions under which non-trivial fixed points exist for the integral operator, considering both sub-linear and super-linear cases. The results are applied to periodic boundary value problems with specific Green's functions that change sign."
-}<|im_end|>

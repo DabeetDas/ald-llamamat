@@ -1,8 +1,0 @@
-{
-  "target_material": "Manganese(IV) oxide (MnO2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Mn(thd)3", "ozone"],
-  "temperature_range": "186 jC",
-  "summary": "The study investigates the effect of different substrates on the growth of manganese(IV) oxide thin films using atomic layer deposition (ALD). The films were prepared using Mn(thd)3 and ozone as precursors at a reactor temperature of 186 jC. The study identifies four different phases of MnO2 formed depending on the substrate: a-MnO2, h-MnO2, hV-MnO2, and q-MnO2. The results show that the phase and orientation of the deposited films are influenced by the substrate's crystal structure and surface properties.",
-  "evidence": "The films were made using Mn(thd)3 and ozone as precursors. All films were deposited using 5000 cycles at a reactor temperature of 186 jC. The study identifies four different phases of MnO2 formed depending on the substrate: a-MnO2, h-MnO2, hV-MnO2, and q-MnO2."
-}

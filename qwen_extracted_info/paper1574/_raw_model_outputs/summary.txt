@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Ti(i-PrO)4"],
-  "temperature_range": "",
-  "summary": "The study describes the synthesis of TiO2/TiSi2 heterostructures for high-efficiency photoelectrochemical H2O splitting. The TiO2 layer was deposited using atomic layer deposition (ALD) with Ti(i-PrO)4 as the precursor. The heterostructures combine highly conductive TiSi2 nanonets with a photoactive TiO2 coating, enhancing charge transport and photocurrent. The ALD process was carried out in a Cambridge Nanotech Savannah reactor.",
-  "evidence": "The fabrication started with the growth of two-dimensional (2D) TiSi2 NNs, which were subsequently coated with a layer of crystalline TiO2 in a Cambridge Nanotech Savannah atomic layer deposition (ALD) reactor (Ti(i-PrO)4 as the precursor, Figures S1 and S2)."
-}<|im_end|>

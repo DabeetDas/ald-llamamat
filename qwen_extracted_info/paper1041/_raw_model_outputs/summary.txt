@@ -1,8 +1,0 @@
-{
-  "target_material": "TaSi x",
-  "process_type": "ALD",
-  "main_precursors": ["TaF5", "Si2H6"],
-  "temperature_range": "500 K",
-  "summary": "The study describes the atomic layer deposition (ALD) of TaSi x thin films on SiO2 using TaF5 and Si2H6 precursors at 500 K. The process involves alternating exposures to the precursors, resulting in a growth rate of approximately 0.1 nm per cycle after an initial slow growth phase. The films were analyzed using XPS, revealing a non-stoichiometric tantalum silicide-like phase with a surface composition of 26.6% Ta, 51.3% Si, 17.9% F, 1.6% O, and 2.6% C. The formation of a Ta oxyfluoride interfacial compound was observed, attributed to the reaction of TaF5 with SiO2.",
-  "evidence": "The atomic layer deposition (ALD) of TaSi x thin films was achieved on SiO 2 at 500 K through the repetition of separate, alternating exposures to TaF 5 and Si 2H6. The first 25 exposure cycles resulted in an average film thickness of only 0.3 nm. Afterward, film thickness increased linearly at a rate of ¨0.1 nm/cycle, and films deposited using 50 ALD cycles were about 2.5 nm thick. The formation of a Ta oxyfluoride interfacial compound was observed and attributed to the reaction of TaF 5 with SiO2, based upon previous surface chemistry studies."
-}<|im_end|>

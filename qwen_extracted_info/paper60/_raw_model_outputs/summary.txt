@@ -1,8 +1,0 @@
-{
-  "target_material": "HfS2",
-  "process_type": "ALD",
-  "main_precursors": ["tetrakis(dimethylamido)hafnium", "H2S"],
-  "temperature_range": "100 °C",
-  "summary": "The study describes the low-temperature atomic layer deposition (ALD) of HfS2 thin films using tetrakis(dimethylamido)hafnium and H2S as precursors. The process enables the growth of smooth, continuous, and stoichiometric films with thicknesses adjustable from angstroms to >100 nm. The ALD process is characterized by self-limiting surface reactions and is capable of area-selective growth on patterned substrates.",
-  "evidence": "HfS2 films are grown at 100 °C by atomic layer deposition (ALD) based on the precursors tetrakis(dimethylamido)hafnium and H2S. The well-defined surface chemistry enables one to deposit HfS2 selectively using, for example, patterns generated in molecular self-assembled monolayers."
-}<|im_end|>

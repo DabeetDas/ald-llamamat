@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ir(acac)3", "MeCpPtMe3", "RuCp2", "AlCl3", "TMA", "ZrCl4"],
-  "coreactants": ["O2", "H2O", "air"],
-  "purge_gas": ["Nitrogen"],
-  "carrier_gas": ["Nitrogen"],
-  "evidence": "The PVP films were tested in several ALD processes: iridium, platinum, ruthenium, Al2O3, and ZrO2. The deposition temperatures were 250–300°C. ... Iridium was deposited from Ir(acac)3 and O2 at 250 and 300°C for 1000 cycles, platinum was deposited from MeCpPtMe3 and O2 at 300°C for 700 cycles, and ruthenium was deposited from Ru Cp2 and air at 300°C for 1000 cycles. Al2O3 was deposited at 250°C for 500 cycles from AlCl3 and H2O and from trimethylaluminum (TMA) and H2O. ZrO2 was deposited from ZrCl4 and H2O at 250°C for 1000 cycles. Nitrogen was used as a carrier and purging gas."
-}<|im_end|>

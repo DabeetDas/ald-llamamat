@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Tetrakisdimethylaminotitanium (TDMAT)", "Tetrakisdiethylaminotitanium (TDEAT)"],
-  "temperature_range": "175–190°C, 200–210°C, 275–300°C",
-  "summary": "This study compares TiN films deposited using TDMAT and TDEAT as precursors via ALD. The films showed different growth rates and resistivity depending on the precursor used. TDEAT had a higher process temperature and lower resistivity compared to TDMAT. The ALD method produced TiN films with lower carbon content and resistivity than conventional CVD and MOCVD methods.",
-  "evidence": "TiN films were deposited by the atomic layer deposition (ALD) method using either tetrakisdimethylaminotitanium (TDMAT) or tetrakisdiethylaminotitanium (TDEAT) as the Ti precursor and NH3 as the reactant gas. The TiN films deposited using TDMAT showed two saturated TiN film growth regions which were observed in the temperature ranges between 175 and 190°C and between 200 and 210°C. The TiN films deposited using TDEAT showed a saturated growth rate in the temperature range between 275 and 300°C. The resistivity of the TiN films deposited by the ALD method was below 1,000 mΩ·cm. The TiN films deposited using TDEAT showed a lower resistivity than the films deposited using TDMAT. The calculated densities of the TiN films deposited using either TDMAT or TDEAT were about 3.55 and 4.38 g/cm³, respectively."
-}<|im_end|>

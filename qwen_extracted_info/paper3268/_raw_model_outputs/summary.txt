@@ -1,8 +1,0 @@
-{
-  "target_material": "W (tungsten)",
-  "process_type": "ALD (Atomic Layer Deposition)",
-  "main_precursors": ["SiH4", "B2H6"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates pMOSFETs featuring ALD tungsten (W) using SiH4 and B2H6 precursors in 22 nm node CMOS technology. The performance of devices using SiH4-derived ALD W is superior due to higher tensile stress, which induces compressive strain in the channel, enhancing carrier mobility and electrical performance. The ALD W films were deposited at 300 °C, and the study highlights the impact of metal gate-induced strain on device performance.",
-  "evidence": "In this paper, pMOSFETs featuring atomic layer deposition (ALD) tungsten (W) using SiH4 and B2H6 precursors in 22 nm node CMOS technology were investigated. It is found that, in terms of threshold voltage, driving capability, carrier mobility, and the control of short-channel effects, the performance of devices featuring ALD W using SiH4 is superior to that of devices featuring ALD W using B2H6. This disparity in device performance results from different metal gate-induced strain from ALD W using SiH4 and B2H6 precursors, i.e. tensile stresses for SiH4 (~2.4 GPa) and for B2H6 (~0.9 GPa)."
-}<|im_end|>

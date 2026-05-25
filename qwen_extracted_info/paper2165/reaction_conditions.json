@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The HfO2 crystallization in the DPALD process is induced by the enhanced physical reactivity of the oxygen ions in the plasma. The direct plasma causes a compositional change in the interfacial layer as the process progresses, forming a HfO2-like Hf-silicate layer on top of the interfacial layer. The HfO2-like Hf-silicate layer edge may be the driving force that accelerates the early crystallization of the HfO2 layer.",
-  "intermediate_species": [
-    "Hf-silicate layer",
-    "HfO2-like Hf-silicate layer edge"
-  ],
-  "evidence": "The enhanced physical reactivity of the oxygen ions in the direct plasma and the HfO2-like Hf-silicate layer edge may be the driving forces that accelerate the crystallization of the HfO2 layer in the as-deposited state of the DPALD process."
-}

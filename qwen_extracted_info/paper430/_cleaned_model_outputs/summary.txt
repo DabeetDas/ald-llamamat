@@ -1,8 +1,0 @@
-{
-  "target_material": "AI2O3",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TMA", "H2O2"],
-  "temperature_range": "150°C",
-  "summary": "The study investigates the adsorption/desorption and reaction processes in the low-temperature growth of AI2O3 using sequential vapor pulses of TMA and H2O2. The self-limiting behavior of the growth is clarified, showing that the growth is primarily determined by the formation of H2O2 adsorbates. The growth rate is found to be independent of the growth conditions within specific ranges of pulse heights, durations, base pressure, and substrate temperature.",
-  "evidence": "The adsoyption/desorption and reaction processes in the low-temperature growth of AI2O3 using sequential vapor pulses of TMA and H2O2 were studied. The growth rate was nearly independent of the base pressure in the range from 10^-5 to 10^3 Torr. The growth temperature affected the growth rate significantly when it was below 150°C. The self-limited growth has a growth rate of 1.13 Å/cycle which is essentially predominated by the adsorption/desorption processes of the source reactants."
-}

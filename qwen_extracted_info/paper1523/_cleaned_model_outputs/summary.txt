@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum oxide (Al2O3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["[MeC(NiPr)2]AlEt2", "water"],
-  "temperature_range": "125 - 300 °C, most commonly 175 °C",
-  "summary": "The study describes the atomic layer deposition of aluminum oxide thin films using a heteroleptic aluminum compound, [MeC(NiPr)2]AlEt2, and water as precursors. The process was carried out at 175 °C, resulting in high growth rates (2.3-2.7 Å/cycle) and uniform, smooth films with low surface roughness. The precursor was selected for its thermal stability, ease of synthesis, and non-corrosive byproducts. The self-limiting nature of the ALD process was confirmed through saturation curves and linear growth with increasing cycles.",
-  "evidence": "The deposition of aluminum oxide thin films was carried out using [MeC(NiPr)2]AlEt2 and water as precursors. The growth temperature was 175 °C, and the films were found to be uniform and smooth with a surface roughness of 4.71 Å rms. The saturation curves for both precursors demonstrated self-limiting behavior with a growth rate plateau of 2.3-2.7 Å/cycle. The process was confirmed to be self-limiting through linear film thickness with increasing cycles."
-}

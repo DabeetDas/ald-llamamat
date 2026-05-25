@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the deposition of amorphous In2O3:H films through atomic layer deposition (ALD) using cyclopentadienyl indium (InCp) and a combination of H2O and O2 as reactants. The mechanism includes the formation of surface hydroxyl groups and the subsequent reaction with InCp to form In-O bonds, followed by the incorporation of hydrogen during the ALD process. Post-deposition annealing at 200 °C leads to solid-phase crystallization (SPC), which enhances the crystallinity and mobility of the films.",
-  "intermediate_species": ["surface hydroxyl groups", "In-O bonds", "hydrogen"],
-  "evidence": "In 2009, Libera et al. demonstrated the growth of In2O3 films by ALD using cyclopentadienyl indium (InCp) and a combination of both H2O and O2 as reactants. Their highest μ value (111 cm2/V s) was obtained using a simultaneous exposure of the film to O2 and H2O during the reactant step at a deposition temperature of 140 °C, which is just above the transition temperature from amorphous to polycrystalline growth. However, the influence of post-annealing on the In2O3 properties was not researched."
-}<|im_end|>

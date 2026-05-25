@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the ALD process where Ru and AlN layers are deposited by alternating pulses of their respective precursors. The Ru intermixing ratio is controlled by the number of Ru unit cycles, while the AlN unit cycles are fixed. The microstructural evolution and electrical resistivity are influenced by the coalescence of Ru nanocrystals, forming continuous electrical paths.",
-  "intermediate_species": [
-    "Ru nanocrystals",
-    "AlN amorphous matrix"
-  ],
-  "evidence": "The text describes the deposition of Ru–AlN thin films by PEALD, where the Ru intermixing ratio is controlled by the number of Ru unit cycles. The microstructural evolution and electrical resistivity are influenced by the coalescence of Ru nanocrystals, forming continuous electrical paths. The BF-STEM and EDX element mapping analysis revealed that the microstructure of Ru–AlN films varies depending on the Ru intermixing ratios, with Ru nanocrystals forming electrical paths when the Ru intermixing ratio increases."
-}

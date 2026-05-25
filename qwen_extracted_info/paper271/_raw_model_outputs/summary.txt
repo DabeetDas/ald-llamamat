@@ -1,8 +1,0 @@
-{
-  "target_material": "InP",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["TMIn", "PH3"],
-  "temperature_range": "320-360 ~ C",
-  "summary": "The study discusses the growth conditions for Atomic Layer Epitaxy (ALE) of InP using a pulsed flow of TMIn and PH3 with Ar as the carrier gas. The process was carried out in a LP-MOCVD system with a fast switch gas manifold. A self-limiting growth rate of 1 ML/cycle was achieved at a substrate temperature of 320-360 ~ C. InP epitaxial layers were grown on GaAs, InP, and GaInAs(P) substrates, and selective area epitaxy on InP using a Si3N4 mask was demonstrated. The results show that the growth rate and layer morphology are stable within the temperature range and pressure conditions tested.",
-  "evidence": "In this work we will discuss the growth conditions for ALE of InP. Growth experiments were carried out in a LP-MOCVD system with a fast switch gas manifold. InP layers were deposited by pulsing TMIn and PH3, using Argon as carrier gas. A self limiting growth rate at 1 ML/cycle has been obtained with a substrate temperature as low as 320-360 ~ C. InP epitaxial layers were grown on GaAs and InP substrates, and on GaInAs(P) layers previously deposited by conventional MOCVD. Selective area epitaxy on InP using a Si3N4 mask was also demonstrated. Results of this study are very encouraging for hybrid MOCVD/ALE growth of In-based compounds."
-}<|im_end|>

@@ -1,7 +1,0 @@
-{
-  "precursors": ["Trimethylaluminum [TMA, Al(CH3)3]", "Tb(THD)3 (THD = 2,2,6,6-tetramethyl-3,5-heptanedionate)"],
-  "coreactants": ["ozone"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "Trimethylaluminum [TMA, Al(CH3)3] and Tb(THD)3 (THD = 2,2,6,6-tetramethyl-3,5-heptanedionate) were used as the metal precursors for Al2O3 and Tb2O3, respectively, while ozone was used as oxidant. N2 was used as the carrier and purge gas with a flow rate of 20 sccm."
-}

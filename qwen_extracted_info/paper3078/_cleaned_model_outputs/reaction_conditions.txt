@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the reduction of the TMA precursor using H2 plasma, leading to the formation of HfN through the incorporation of nitrogen and the removal of hydrocarbon ligands. The process is influenced by plasma power and exposure time, with higher plasma power leading to a decrease in the N:Hf ratio and improved conductivity.",
-  "intermediate_species": ["HfC_x"],
-  "evidence": "The text discusses the use of H2 plasma as a reducing agent in the ALD process, leading to the formation of HfN. It also mentions the presence of HfC_x as a beneficial component for improving conductivity and stability. The mechanism is influenced by plasma power and exposure time, with higher plasma power leading to a decrease in the N:Hf ratio and improved conductivity."
-}

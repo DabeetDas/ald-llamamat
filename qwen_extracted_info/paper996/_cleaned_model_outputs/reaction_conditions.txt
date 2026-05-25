@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the oxidation of the Si surface using O2 plasma during PEALD, which forms a stable SiOx layer and an interfacial oxide layer. The hysteresis reduction and flat band voltage shift are attributed to defect passivation by H diffusing out from SiNx:H.",
-  "intermediate_species": ["SiOx", "Al2O3"],
-  "evidence": "The hysteresis value was minimized to about 2 V when more than 100 W of plasma power was applied during oxidation, which provides a formation of a high quality interfacial oxide layer. Moreover, by post-annealing at 200 /C176C without a plasma application, flat band voltage was shifted to near 1.2 V, which may be attributed to defect passivation by H diffusing out from SiN x:H."
-}

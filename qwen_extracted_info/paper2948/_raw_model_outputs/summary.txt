@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "ALD",
-  "main_precursors": ["Hf@N(CH3)(C2H5)]4", "H2O"],
-  "temperature_range": "205-300°C",
-  "summary": "HfO2 thin films were grown by atomic layer deposition (ALD) using Hf@N(CH3)(C2H5)]4 and H2O as precursors on HF-etched Si(100) substrates. The films exhibited a constant growth rate of 0.066 nm/cycle, with crystallization observed in thicker films (30-45 nm) and amorphous structure in thinner films (<10 nm). The effective permittivity varied between 6.5 and 17, and the leakage and capacitive characteristics were not significantly affected by growth temperature. The study aimed to investigate the growth of ultrathin HfO2 films and their structural and dielectric properties.",
-  "evidence": "HfO2 films were grown by atomic layer deposition ~ALD! from Hf@N~CH3)(C2H5)]4 and H2O on HF-etched Si(100) substrates. The growth rate was 0.066 nm/cycle. The effective permittivity of the dielectric films varied between 6.5 and 17. The leakage and capacitive characteristics did not show any clear dependence on the HfO2 growth temperature."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Pt/TiO2",
-  "process_type": "ALD",
-  "main_precursors": ["Methylcyclopentadienyl-(trimethyl) Platinum(IV) (MeCpPtMe3)", "oxygen"],
-  "temperature_range": "150–400 ◦C",
-  "summary": "Pt was deposited by atomic layer deposition (ALD) onto TiO2 nanoparticles to enhance photocatalytic activity. The study found that the optimal temperature for Pt ALD was 320 ◦C, resulting in a significant improvement in TiO2 photoactivity. The lower temperature limit for Pt ALD was determined to be approximately 200 ◦C, where ligand removal efficiency was low.",
-  "evidence": "Methylcyclopentadienyl-(trimethyl) Platinum(IV) (MeCpPtMe3) and oxygen were used as precursors over a deposition temperature range of 150–400 ◦C. The lower temperature limit for Pt ALD was found to be approximately 200 ◦C. Although the MeCpPtMe3 chemisorption step occurred on the particle surfaces at 150 ◦C, the ligand removal efficiency from the adsorbed Pt precursor was extremely low for O2 dosing steps at temperatures below 200 ◦C. Pt deposition via ALD resulted in a significant improvement in TiO2 photoactivity. It was determined that one Pt ALD cycle carried out at 320 ◦C was optimal to maximize Pt surface dispersion and increased the photoactivity of TiO2 nanoparticles threefold."
-}

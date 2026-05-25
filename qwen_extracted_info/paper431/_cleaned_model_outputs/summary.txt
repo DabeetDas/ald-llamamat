@@ -1,8 +1,0 @@
-{
-  "target_material": "CaS",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Ca(thd)2", "H2S", "H2O"],
-  "temperature_range": "180-280°C",
-  "summary": "The study investigates the atomic layer epitaxy (ALE) process using Ca(thd)2 and H2S or H2O as precursors for the deposition of CaS films. The decomposition of Ca(thd)2 on the substrate surface significantly affects the growth process, and the activation energy for this decomposition is determined to be 30 kJ/mol. The growth rate is influenced by the source temperature and the number of ALE cycles, with the decomposition of the thd-complex playing a key role in the growth mechanism.",
-  "evidence": "The decomposition of Ca(thd)2 on the substrate surface had a significant effect on the growth process while the fractionation of the precursor in the evaporation cell did not affect the growth rate at source temperatures below 280°C. The activation energy of the Ca(thd)2 decomposition process was determined from the deposit mass measurements, being 30 kJ/mol."
-}

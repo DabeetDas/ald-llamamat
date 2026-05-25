@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 54,
-  "density_g_cm3": null,
-  "refractive_index": null,
-  "surface_roughness_nm": null,
-  "crystal_phase": "",
-  "evidence": "A typical example of the mass change during the plasma-assisted ALD cycles as measured by the QCM is shown in Fig. 1 (a). When pulsing the Al(CH3)3 in the reactor, the chemisorption of Al(CH3)3 on the surface can be observed as a sharp increase in mass (m1) which takes place within the time resolution of the QCM (100 ms). When the plasma is turned on, first a large negative spike is observed in the QCM signal followed by a recovery of the signal to a slightly higher level in mass (m2) than after Al(CH3)3 chemisorption. The growth rate as determined from the QCM measurements (54 ng cm−2 /cycle) as well as from in situ spectroscopic ellipsometry (1.7 Å/cycle) is much higher than for H2O (32 ng cm−2 /cycle or 1.1 Å/cycle) or O3 (1.1 Å/cycle) based processes at 70 °C."
-}

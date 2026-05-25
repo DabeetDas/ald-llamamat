@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 1964,
-  "density_g_cm3": 3.5,
-  "refractive_index": null,
-  "surface_roughness_nm": 1335,
-  "crystal_phase": "Polycrystalline",
-  "evidence": "The XRR measurements yielded the Al2O3 ALD layer thicknesses, W ALD layer thicknesses, and the total film thicknesses given in Table 1. The numbers in parentheses are the predicted thicknesses expected after the various numbers of AB cycles. The predicted thicknesses are based on the QCM investigations assuming a W ALD film density of 16.5 g/cm3 and an Al2O3 ALD film density of 3.5 g/cm3. Although the total film thickness was targeted to be 1000 Å, the nanolaminates with higher interfacial density and larger number of bilayers were considerably thicker than 1000 Å. A comparison between the predicted and measured layer thicknesses reveals that the larger total film thicknesses result primarily from larger than expected Al2O3 ALD layer thicknesses."
-}

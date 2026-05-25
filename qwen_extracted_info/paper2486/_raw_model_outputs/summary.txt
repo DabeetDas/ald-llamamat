@@ -1,8 +1,0 @@
-{
-  "target_material": "Ru (Ruthenium)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["(ethylbenzyl) (1-ethyl-1,4-cyclohexadienyl) Ru(0) (EBECHRu)", "O2"],
-  "temperature_range": "420 °C",
-  "summary": "The study focuses on the resistivity modeling of Ru interconnects using a modified Mayadas-Shatzkes (MS) model derived from thin film resistivity data obtained through atomic layer deposition (ALD). The resistivity of Ru wires is influenced by grain boundary scattering, with surface scattering becoming significant at very small cross-sectional areas. The parameters used in the model were obtained from thin film experiments, and the results indicate that the resistivity of Ru wires can be predicted with reasonable accuracy using these parameters.",
-  "evidence": "The text states that Ru films were deposited by atomic layer deposition (ALD) from (ethylbenzyl) (1-ethyl-1,4-cyclohexadienyl) Ru(0) (EBECHRu) and O2 on SiO2/Si. The films were annealed at 420 °C for 20 min in forming gas. The resistivity modeling was based on thin film experiments, and the results showed that grain boundary scattering was the dominant mechanism for resistivity in Ru wires."
-}<|im_end|>

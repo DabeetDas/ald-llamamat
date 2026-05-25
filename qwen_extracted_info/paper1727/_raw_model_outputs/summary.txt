@@ -1,8 +1,0 @@
-{
-  "target_material": "Ni (nickel)",
-  "process_type": "ALCVD (Atomic-Layer Chemical-Vapor Deposition)",
-  "main_precursors": ["La(thd)3", "ozone"],
-  "temperature_range": "250 °C",
-  "summary": "The study investigates the high-temperature oxidation of nickel (Ni) coated with La2O3 using atomic-layer chemical-vapor deposition (ALCVD). The La2O3 coatings significantly reduce the oxidation rate of Ni by a factor of 5 to 10. The oxide morphology changes with the La2O3 coatings, forming a fine-grain outer layer and a coarser inner region. The presence of La2O3 increases the oxidation resistance of Ni by altering the growth mechanism of the oxide scale, with oxygen transport becoming rate-determining. The study also highlights the formation of a La2Ni4O7 spinel phase at the surface.",
-  "evidence": "The effects of superficial (30–100 nm) La2O3 surface coatings on the oxidation kinetics of Ni from 700 to 1100°C in air and the oxide morphology of the NiO scales have been investigated. The parabolic rate constant is lower than for uncoated Ni by a factor of 5 to 10. The oxide morphology changes with the La2O3 coatings: The oxide scale consists of an outer fine-grain layer with an inner region of coarser, but still equiaxed, grains. SIMS shows that the majority of the La remains at the surface where a highly oxygen-defective spinel, La2Ni4O7, was found by TEM."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Tantalum-doped TiO2",
-  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["Tantalum ethoxide (Ta(OEt)5)", "Titanium isopropoxide (TTIP)"],
-  "temperature_range": "250 °C substrate temperature, bubbler temperature 70–90 °C",
-  "summary": "Tantalum-doped TiO2 thin films were prepared using plasma enhanced atomic layer deposition (PEALD) with tantalum ethoxide and titanium isopropoxide as precursors. The films were used as electron transport layers in perovskite solar cells. The Ta content was controlled by the bubbler temperature, and the films showed improved electrical properties and band alignment, leading to enhanced performance in solar cells.",
-  "evidence": "The Ta content is controlled by the temperature of the metal precursors. The PEALD Ta-doped films show a resistivity three orders of magnitude lower than undoped TiO2, even at a low Ta content (0.8–0.95 at.%). The conduction band edge of TiO2 (about −3.9 eV) is shallower than that of cesium formamidinium-based perovskite, which is one of the most promising classes of perovskite light absorber for solar cells due to its wide band gap and higher durability compared to MAPbI3. The conduction band mismatch at the TiO2 ETL/perovskite interface causes a barrier that is theoretically unfavorable for electron transport. Development of doped TiO2 ETLs is one possible way to have a better band alignment and an improved PSC performance."
-}<|im_end|>

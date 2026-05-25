@@ -1,8 +1,0 @@
-{
-  "target_material": "Hafnium silicate",
-  "process_type": "ALD",
-  "main_precursors": ["Tetrakis(diethylamido)hafnium (TDEAH)", "Tris(2-methyl-2-butoxy)silanol (TMBS)"],
-  "temperature_range": "200–375°C",
-  "summary": "Hafnium silicate thin films were deposited using atomic layer deposition (ALD) with TDEAH and TMBS precursors. The study focused on the growth mechanism, film composition, and the effect of substrate temperature on the growth rate. The films were found to be stoichiometric HfxSi1−xO2, and the process was optimized within a temperature range of 250–350°C. The reaction mechanism involved the interaction between TDEAH and TMBS, leading to the formation of Hf silicate layers with a self-limiting growth behavior.",
-  "evidence": "Hafnium silicate films were grown by atomic layer deposition using the liquid precursors tetrakis(diethylamido)hafnium and tris(2-methyl-2-butoxy)silanol. The temperature window for ALD growth was established as 250–350°C. The films were found to be stoichiometric HfxSi1−xO2. The reaction mechanism between TDEAH and TMBS was proposed, and the growth rate was observed to be self-limiting after several initial cycles."
-}

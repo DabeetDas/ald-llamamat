@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnS",
-  "process_type": "thermal ALD",
-  "main_precursors": ["diethyl zinc", "dimethyl sulfide"],
-  "temperature_range": "120°C",
-  "summary": "ZnS thin films were deposited by atomic layer deposition (ALD) using diethyl zinc and dimethyl sulfide as precursors at 120°C. The study aimed to explore ZnS as an alternative to CdS in solar cells, analyzing growth parameters and optical properties through ex-situ measurements.",
-  "evidence": "In this study, we will present new results on the deposition of ZnS by atomic layer deposition (ALD) as an alternate to CdS deposited by chemical bath deposition. Thin films of ZnS were deposited onto a 2.5 nm native oxide coated Si (100) substrate using atomic layer deposition. Research grade nitrogen gas was used to pulse and purge the precursors from the ALD chamber. Diethyl zinc and Dimethyl sulfide were used as sources for zinc and sulfur, respectively. A flow rate of 5 sccm was used with the precursors at room temperature and the chamber at 120°C."
-}

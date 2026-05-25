@@ -1,3 +1,0 @@
-{
-  "film_properties": "ValueError: Could not parse model output as JSON. Preview: '{   \"film_thickness_nm\": 10,   \"density_g_cm3\": null,   \"refractive_index\": \"1.64 at 633 nm\",   \"surface_roughness_nm\": null,   \"crystal_phase\": \"Amorphous\",   \"evidence\": \"The MoO x ﬁlm thickness determined by spectral ellipsometry, plotted over the number of performed ALD cycles for the 1-second a'"
-}

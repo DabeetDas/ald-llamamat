@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 0.03,
-  "density_g_cm3": null,
-  "refractive_index": null,
-  "surface_roughness_nm": 0.6,
-  "crystal_phase": "polycrystalline",
-  "evidence": "The film resistivity and the Cl residues in TiN films, however, depend on both deposition temperature and the pump-down steps. The implementation of pump-down steps into gaseous-pulse cycle effectively lowers the film resistivity and the Cl residues. TiN films with Cl concentration lower than 1 at.% can be obtained at low deposition temperature of 350 ◦C by the six-steps ALCVD. The RMS roughness value is as low as 0.6 nm for films grown at 300◦C with pump-down steps, while as high as 7.8 nm for films grown at 300 ◦C without pump-down steps. The TiN films are polycrystalline with a (2 0 0) preferred orientation at higher deposition temperature."
-}

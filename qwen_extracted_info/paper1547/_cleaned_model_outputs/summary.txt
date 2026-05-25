@@ -1,8 +1,0 @@
-{
-  "target_material": "AlN",
-  "process_type": "ALD",
-  "main_precursors": ["dimethylethylamine alane (DMEAA)", "ammonia (NH3)"],
-  "temperature_range": "523-723 K",
-  "summary": "The study investigates the deposition of AlN thin films using atomic layer deposition (ALD) with dimethylethylamine alane (DMEAA) and ammonia as precursors. The process was carried out at temperatures ranging from 523 to 723 K. The chemical composition of the films was analyzed using XPS and AES, revealing surface contamination with carbon and oxygen, while the bulk composition was found to be stoichiometric AlN. The hydrogen content in the films decreased at temperatures above 600 K, indicating a more complete reaction to form AlN.",
-  "evidence": "AlN thin films were deposited on Si(100), Si(111), Al2O3(00.1), and Al2O3(01.2) substrates at 523 -723 K using a range of process flow conditions. Auger and X-ray photoelectron spectroscopy were employed to characterize the chemical composition of the films. These measurements detected carbon and oxygen contamination at the surface and smaller concentrations in the bulk. In the high-resolution X-ray photoelectron spectroscopy C(1s) data, binding energies for C -H and C -N species were identified but no C -Al species were present. In the N(1s) data, N -O species were not detected, but chemically bonded H was present in the films as NH3-x (x ) 0-2) species. The composition varied with process conditions, and the hydrogen content decreased in AlN films processed above 600 K."
-}

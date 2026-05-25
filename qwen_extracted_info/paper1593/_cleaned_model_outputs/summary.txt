@@ -1,8 +1,0 @@
-{
-  "target_material": "Au NW arrays",
-  "process_type": "ALD",
-  "main_precursors": ["SiO2", "SiCl4", "DI water"],
-  "temperature_range": "room temperature",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to reduce the pores of a porous anodic alumina (PAA) template for the fabrication of size-reduced gold nanowire (Au NW) arrays on a Si substrate. The ALD process allows for fine-tuning of pore size at an angstrom scale, enabling the creation of nanowires with diameters as small as ~33 nm while maintaining constant interpore spacing. The ALD-reduced PAA template facilitates electrodeposition of Au NWs, which are then released by wet chemical etching. The reduction in nanowire diameter leads to a decrease in double-layer charging current (DCC), indicating improved electrochemical performance for nanoelectrode applications.",
-  "evidence": "The ALD technique enables the fine-tuning of the pore size or the nanowire diameter at an angstrom scale. By using the ALD-reduced PAA template, we can fabricate the size-reduced Au NW arrays directly on the Si substrate with the average diameter reduced from ~79 to ~33 nm while their nanowire density and interwire spacing remain constant. The double-layer charging current (noise of the nanoelectrodes) decreases with the reduction of the nanowire diameter."
-}

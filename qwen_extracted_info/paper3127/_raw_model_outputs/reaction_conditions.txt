@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The adhesion failure of CVD-W films on B2H6-based ALD-W nucleation layers is attributed to boron penetration into the TiN/SiO2 interface during W nucleation layer deposition, which degrades adhesion performance. The boron diffusion through the TiN layer is influenced by the thickness and structure of the TiN film, with amorphous WNx films showing better diffusion barrier properties.",
-  "intermediate_species": ["boron", "TiN", "SiO2", "WNx"],
-  "evidence": "The text states that boron penetration into the interface between TiN and SiO2 during the deposition of the W nucleation layer is a possible reason to degrade the adhesion performances of CVD-W films with B2H6-based W nucleation layers. It also mentions that the adhesion failure mainly occurred at the interface between TiN and SiO2, and that boron could penetrate through the TiN layer and reach the interface between TiN and SiO2, causing adhesion failure. Additionally, the application of 5 nm thick sputter-deposited WNx film as a glue layer was found to present an excellent adhesion performance due to its excellent diffusion barrier performance with an amorphous structure."
-}<|im_end|>

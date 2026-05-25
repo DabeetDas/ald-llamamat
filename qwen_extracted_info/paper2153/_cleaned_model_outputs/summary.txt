@@ -1,8 +1,0 @@
-{
-  "target_material": "high-k gate oxide",
-  "process_type": "thermal ALD",
-  "main_precursors": ["NH4OH", "water", "PDMAT", "TMA"],
-  "temperature_range": "250 °C",
-  "summary": "The study investigates the in situ nitrogen incorporation during atomic layer deposition (ALD) of high-k gate oxides using NH4OH as a single source for reactants, which produces a mixture of water and NH3 vapors. The process improves electrical properties by reducing leakage current and enhancing dielectric strength, without the need for a separate nitridation step.",
-  "evidence": "The results have shown that in situ nitridation is feasible during ALD by using NH4OH as a single source for reactants and the electrical properties of high-k oxides are improved significantly without separate nitridation."
-}

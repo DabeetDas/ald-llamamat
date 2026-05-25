@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates the initial nucleation and growth of HfO2 gate dielectric layers on Si surfaces with different surface conditions using in situ medium energy ion scattering analysis. The growth behavior on H-terminated and chemical oxide surfaces is compared, showing nonlinear and linear growth, respectively. The process involves ALD using HfCl4 and H2O as precursors at 300 °C. The results highlight the impact of surface conditions on the morphology and electrical properties of the HfO2 films.",
-  "evidence": "HfO2 films were grown using HfCl4 and H2O as precursors at a substrate temperature of 300 °C. The initial nucleation and growth of HfO2 on different surface conditions were investigated using in situ medium energy ion scattering analysis."
-}<|im_end|>

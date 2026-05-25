@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the chemisorption of TBF ligands on surface oxygen species, followed by oxidation of the remaining ligands during O2 plasma exposure. The formation of CO2 and H2O during both precursor and reactant pulses indicates the presence of chemisorbed oxygen reacting with TBF ligands. Surface poisoning by precursor fragments followed by removal of surface carbon during the O2 reactant step occurs.",
-  "intermediate_species": ["TBF ligands", "surface hydroxyl groups", "coordinatively unsaturated oxygen species"],
-  "evidence": "In situ mass spectrometry revealed the formation of CO2 and H2O during both the precursor and reactant pulse, indicating the presence of chemisorbed oxygen reacting with TBF ligands. The formation of CO2 and H2O during the first half reaction indicates the presence of chemisorbed oxygen on the surface that reacts with the TBF ligands upon precursor adsorption. In the subsequent exposure to O2 plasma, the remaining ligands of the adsorbed precursor molecules are oxidized. Surface poisoning by precursor fragments followed by removal of the surface carbon during the O2 reactant step has earlier been proposed to occur during Pt and Ru ALD processes using Cp-based precursors."
-}

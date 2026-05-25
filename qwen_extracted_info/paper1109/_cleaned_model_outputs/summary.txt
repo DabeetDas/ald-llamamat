@@ -1,8 +1,0 @@
-{
-  "target_material": "RuO2",
-  "process_type": "ALD",
-  "main_precursors": ["(Ru(thd)2(cod))", "pyridine"],
-  "temperature_range": "290 °C",
-  "summary": "The study describes the growth of RuO2 thin films using liquid injection atomic layer deposition (ALD) with (Ru(thd)2(cod)) dissolved in pyridine. The films exhibited smooth surfaces and low carbon content, with a resistivity of about 160 µΩ cm at room temperature. The process was found to provide conformal coverage on 3D substrates with high aspect ratios.",
-  "evidence": "We have grown RuO2 films by pulsed liquid injection atomic layer deposition using (Ru(thd)2(cod)) dissolved in pyridine. The deposition process took place at 290 °C... The films exhibited smooth surface. Analysis of the films using secondary ion mass spectroscopy (SIMS) revealed low content of carbon in the films. Resistivity of the RuO2 film at room temperature was about 160 µΩ cm."
-}

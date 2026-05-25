@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum Nitride (AlN)",
-  "process_type": "Atomic Layer Deposition (ALD) with UV radiation",
-  "main_precursors": ["Trimethylaluminum (TMA)", "Ammonia (NH3)"],
-  "temperature_range": "370°C",
-  "summary": "Aluminum nitride (AlN) thin films were deposited on p-type Si(100) wafers using atomic layer deposition (ALD) with sequential injection of trimethylaluminum (TMA) and ammonia (NH3) under ultraviolet (UV) radiation. The study investigated the effects of UV radiation during TMA and NH3 injection steps on the properties of the AlN films, including their dielectric constant, leakage current, and hydrogenated nitrogen concentration. The films showed improved dielectric performance with reduced hydrogenated nitrogen content when UV radiation was applied during the TMA injection step.",
-  "evidence": "Aluminum nitride /H20849AlN/H20850thin ﬁlms were prepared on p-type Si /H20849100/H20850wafers using a sequential injection of trimethylaluminum /H20849TMA/H20850and ammonia under ultraviolet /H20849UV/H20850radiation at a temperature of 370°C. A reduction in the hydrogenated nitrogen concentration was observed by X-ray photoelectron spectroscopy when UV photons were radiated during the TMA injection step. The film deposited under UV radiation during TMA injection showed a higher dielectric constant than the films deposited without radiation."
-}<|im_end|>

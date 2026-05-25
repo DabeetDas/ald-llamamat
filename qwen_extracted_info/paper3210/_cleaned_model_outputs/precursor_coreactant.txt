@@ -1,7 +1,0 @@
-{
-  "precursors": ["Diethylzinc", "trimethylphosphite"],
-  "coreactants": ["ozone"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "Diethylzinc (DEZ) was used as the zinc precursor and 2% ozone in oxygen was used as the oxidant gas. Both the DEZ and the liquid phosphorus precursor, trimethylphosphite (TMP), had sufficient volatility to be used without a carrier gas where the total reactor pressure during the DEZ/TMP pulses was 0.20 mbar. High purity nitrogen (N2, 99.99%) was used as the purge gas."
-}

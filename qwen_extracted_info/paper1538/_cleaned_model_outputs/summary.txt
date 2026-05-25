@@ -1,8 +1,0 @@
-{
-  "target_material": "Copper",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Copper(I)-N,N0-di-sec-butylacetamidinate"],
-  "temperature_range": "350-450 K",
-  "summary": "The study investigates the use of copper(I)-N,N0-di-sec-butylacetamidinate as a precursor for atomic layer deposition (ALD) of copper on nickel surfaces. The process involves thermal activation and dissociative adsorption of the precursor, with optimal deposition occurring between 350-450 K. The study highlights the importance of hydrogen in the ALD process and the need for stable organic intermediates to ensure clean deposition.",
-  "evidence": "The adsorption and thermal activation of copper(I)-N,N0-di-sec-butylacetamidinate on a Ni(110) single-crystal surface were characterized in connection with the use of that compound as a precursor for the growth of copper films via atomic layer deposition (ALD) processes. A temperature window between approximately 350 and 450 K was identified for the clean deposition of the precursor on the surface."
-}

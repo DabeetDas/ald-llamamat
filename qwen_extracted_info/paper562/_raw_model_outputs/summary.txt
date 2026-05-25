@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "H2O"],
-  "temperature_range": "350-650 K",
-  "summary": "Al2O3 films were grown on Si(100) using a binary reaction sequence involving trimethylaluminum (TMA) and H2O. The process involved alternating exposures of TMA and H2O to achieve self-limiting surface reactions, resulting in conformal and uniform films with controlled thickness. The growth rate was found to be highest at 450 K, with a deposition rate of 1.1 Å per AB cycle. The films exhibited low surface roughness and high conformality.",
-  "evidence": "Al2O3 films with precisely controlled thicknesses and excellent conformality were grown on Si(100) at low temperatures of 350-650 K using sequential surface chemical reactions. The growth rate of 1.1 Å per AB cycle was measured on the Si(100) substrate using ellipsometry. These Al2O3 films had an index of refraction of n = 1.65 and a corresponding density of p = 3.50 g cm-3. The surface roughness was nearly identical for the initial Si(100) substrate and the deposited Al2O3 films after 20-500 AB reaction cycles."
-}<|im_end|>

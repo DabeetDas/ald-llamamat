@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA"],
-  "coreactants": ["MeOH", "EtOH", "n-PrOH"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "TMA was used as an Al precursor and MeOH (Duksan Reagents, 99.8%), EtOH (Duksan Reagents, 99.9%), and n-PrOH (Duksan Reagents, 99.5%) as oxidants. The partial pressure of TMA was 50 mTorr, and the partial pressures of H2O, MeOH, EtOH, and n-PrOH were 40 mTorr. Ar gas with high purity (>99.99%) was used as the purge gas."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Al(CH3)3", "H2O"],
-  "temperature_range": "150±500 8C",
-  "summary": "The study investigates the effect of varying water dose on the atomic layer deposition (ALD) growth rate of Al2O3 thin films using Al(CH3)3 and H2O as precursors. The growth rate was found to increase with higher water doses, attributed to an increased hydroxyl group density on the film surface. The study also examines other ALD oxide processes, showing similar growth rate enhancements with increased water doses, while the film properties remain largely unaffected.",
-  "evidence": "The growth rate and properties of atomic layer deposited (ALD) Al2O3 thin films were examined by varying the water dose in the Al(CH3)3-H2O process at growth temperatures of 150±500 8C. When the growth rate was followed as a function of water pulse time, it was found to saturate with both small and large water doses but the saturated level was substantially higher for the large water dose, 1.2 vs. 1.0 AÊ /cycle. This increase was attributed to an increased hydroxyl group density on the film surface after the water pulse."
-}

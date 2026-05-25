@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the reaction of trimethyl aluminum (TMA) with surface hydroxyl groups, followed by a water pulse to regenerate OH sites. The reaction is described as a two-step sequence where a gas phase precursor first reacts with available hydroxyl groups resulting in methyl-group termination on the substrate surface. The ALD cycle consists of a TMA dose, inert purge, H2O dose, and inert purge.",
-  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum"],
-  "evidence": "The ALD process consists of a vacuum-based two step reaction sequence where a gas phase precursor first reacts with available hydroxyl groups resulting in methyl-group termination on the substrate surface. One ALD cycle consists of a TMA dose, inert purge, H2O dose, and inert purge. The polypropylene presents no natural reactive sites for reaction with TMA or water. However, upon exposure, the polymer can absorb the TMA. Water diffusion into the fiber will then result in subsurface nucleation and growth."
-}<|im_end|>

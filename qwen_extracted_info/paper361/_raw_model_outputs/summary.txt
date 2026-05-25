@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnTe",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Zn", "Te"],
-  "temperature_range": "230—270°C",
-  "summary": "The study investigates the self-limiting growth of ZnTe using atomic layer epitaxy (ALE) with molecular beam epitaxy (MBE). The growth rate was maintained at 0.5 monolayer per cycle, independent of beam intensities and substrate temperature within specific ranges. The self-limiting growth is attributed to surface reconstruction and surface absorption, with vapor pressure playing a key role. The process was found to be suitable for ZnTe due to the high vapor pressure of the elements involved.",
-  "evidence": "The self-limiting growth in the atomic layer epitaxy of ZnTe was investigated using the molecular beam epitaxy technique. The growth rate was kept constant at 0.5 monolayer per cycle, independent of Zn or Te beam intensities or substrate temperature in their selected ranges. These ranges are found to be narrower than those for the ALE of ZnSe. A mechanism for self-limiting at 0.5 monolayer is described based on vapor pressure of the materials, surface reconstruction and surface absorption of the atoms."
-}<|im_end|>

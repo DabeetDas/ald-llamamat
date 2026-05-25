@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process for BeO on SiC involves the use of dimethylberyllium (DMBe) as a precursor, with water pulses to complete the surface reactions. The surface reactions are self-limiting, allowing for precise control of film thickness and uniformity. The mechanism includes the formation of surface hydroxyl groups and the subsequent reaction with the precursor to form BeO.",
-  "intermediate_species": ["surface hydroxyl groups", "BeO surface species"],
-  "evidence": "The text describes the ALD process for BeO on SiC, mentioning the use of dimethylberyllium (DMBe) as a precursor and water pulses to complete the surface reactions. It also notes the self-limiting nature of the ALD process, which allows for precise control of film thickness and uniformity. The formation of surface hydroxyl groups and the subsequent reaction with the precursor to form BeO are implied through the discussion of the ALD mechanism."
-}

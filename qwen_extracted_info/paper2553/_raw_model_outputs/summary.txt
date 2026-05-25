@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2 / HfSixOyNz stacked gate dielectrics",
-  "process_type": "remote plasma atomic layer deposition (RPALD)",
-  "main_precursors": ["TDEAH (tetrakis(diethylamino)hafnium)", "N2/O2 mixed plasma", "O2 plasma"],
-  "temperature_range": "250 °C (deposition) and 600-800 °C (annealing)",
-  "summary": "The study investigates the growth of HfO2/HfSixOyNz stacked gate dielectrics on Si substrates using remote plasma atomic layer deposition (RPALD). The HfSixOyNz buffer layer suppresses the formation of an interfacial layer and enhances the thermal stability of the HfO2 film. The effects of the buffer layer thickness on the interfacial layer and electrical properties are analyzed through XPS and HRTEM, showing that thicker HfSixOyNz layers improve thermal stability and reduce effective fixed oxide charge density.",
-  "evidence": "The HfSixOyNz layers were grown using TDEAH precursor and N2/O2 mixed plasma. The HfO2 films were grown using O2 plasma. The deposition temperature was 250 °C, and annealing was performed at 600 and 800 °C. The formation of a thick HfSixOyNz layer enhanced the thermal stability of the interfacial layer of the HfO2 film."
-}<|im_end|>

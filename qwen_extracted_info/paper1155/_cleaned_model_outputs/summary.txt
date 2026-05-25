@@ -1,8 +1,0 @@
-{
-  "target_material": "hexagonal ErFeO3",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Er(thd)3", "Fe(thd)3", "ozone"],
-  "temperature_range": "650–700 °C",
-  "summary": "Hexagonal ErFeO3 thin films are synthesized by Atomic Layer Deposition on SiO2/Si substrates, followed by rapid thermal annealing at 650–700 °C. The study demonstrates the feasibility of ALD for growing hexagonal ErFeO3 directly on SiO2/Si substrates, which is metastable compared to the orthorhombic phase. The process involves optimizing growth conditions and annealing parameters to achieve the hexagonal phase.",
-  "evidence": "Hexagonal orthoferrite h-ErFeO3 thin films are synthesized by Atomic Layer Deposition on SiO2(100 nm)/Si substrate, followed by rapid thermal annealing at 650–700 °C. The possibility to grow h-ErFeO3 in contact with SiO2/Si by chemical methods opens perspective for the inclusion of new multiferroics in silicon-based devices."
-}

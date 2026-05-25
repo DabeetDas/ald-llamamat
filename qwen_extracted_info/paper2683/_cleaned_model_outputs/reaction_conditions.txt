@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of tetrakis(dimethylamino)tin (TDMASn) precursor and the interaction with oxygen plasma. The process includes the formation of surface hydroxyl groups (-OH) and their subsequent reaction with tin species. The dehydroxylation of tin oxide layers with increasing temperature leads to a decrease in the high-binding energy O 1s signal, attributed to -OH groups.",
-  "intermediate_species": ["-OH groups", "carboxide groups", "precursor residues (carbon and nitrogen)"],
-  "evidence": "It was shown that with increasing deposition temperature, there is a decrease in this high-binding energy O 1s signal. Assuming that the majority of this signal can indeed be attributed to -OH groups, its thermally induced decrease could be interpreted as a dehydroxylation of the SnO2 layers. Additionally, a shoulder in the O 1s core level spectrum is indicative of -OH groups and/or carboxide groups present in the film, or at its surface."
-}

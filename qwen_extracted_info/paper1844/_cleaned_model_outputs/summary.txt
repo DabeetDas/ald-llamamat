@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum oxide (Al2O3)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Trimethylaluminum (TMA)", "Water"],
-  "temperature_range": "300 1C",
-  "summary": "This study investigates the Atomic Layer Deposition (ALD) process for aluminum oxide (Al2O3) using trimethylaluminum (TMA) and water as precursors at 300 1C. The research focuses on the saturation profile analysis in lateral high-aspect-ratio (LHAR) channels to evaluate conformality and process parameters. The study aims to establish a benchmark for saturation profile-based conformality analysis and provides insights into the surface chemistry and kinetics of the TMA-water ALD process.",
-  "evidence": "The text states: 'We chose the archetypical TMA–water process at the ALD temperature most typically employed for it, 300 1C—as a test vehicle for the saturation profile analysis development, because this process is known as a near-ideal ALD process.' Additionally, it mentions: 'The saturation profiles of ALD Al2O3 films were measured by a spectroscopic reflectometer line scan.'"
-}

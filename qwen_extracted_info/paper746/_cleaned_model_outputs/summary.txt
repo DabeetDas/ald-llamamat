@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium (Ru)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["dicarbonyl-bis(5-methyl-2,4-hexanediketonato)Ru(II) (Carish)"],
-  "temperature_range": "250 °C",
-  "summary": "The study describes the thermal atomic layer deposition (ALD) of metallic Ru using H2O as a reactant. The process forms purely metallic Ru films without significant oxidation, even with extended H2O exposure. The growth rate is approximately 0.75 Å/cycle, and the electrical resistivity is around 18 μΩcm. The process is applicable to substrates with complex morphologies, such as SiO2 powder, forming Ru@SiO2 core-shell structures. Density functional theory (DFT) calculations show that the precursor decomposes spontaneously on the Ru surface, leading to metallic Ru formation.",
-  "evidence": "Thin Ruthenium (Ru) films were deposited on native SiO2 on Si substrate by thermal atomic layer deposition (ALD) using dicarbonyl-bis(5-methyl-2,4-hexanediketonato)Ru(II) precursor with O2 and H2O as reactant. Using H2O, growth rate of ~ 0.75 Å/cycle and electrical resistivity of ~ 18 μΩcm for metallic Ru were obtained at temperatures as low as 250 °C. Through density functional theory (DFT) calculations, it is shown that adsorption of the Ru precursor would spontaneously occur on metallic Ru surface. Ru ALD using H2O reactant is performed on SiO2 powder to successfully form Ru@SiO2 core-shell structure."
-}

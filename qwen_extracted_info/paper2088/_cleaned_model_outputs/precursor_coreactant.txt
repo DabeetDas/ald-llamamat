@@ -1,7 +1,0 @@
-{
-  "precursors": ["tetrakis-diethyl-amino-hafnium (TDEAH)"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["Argon"],
-  "carrier_gas": ["argon"],
-  "evidence": "The hafnium precursor, tetrakis-diethyl-amino-hafnium (TDEAH), was introduced into the ALD chamber by a bubbler using argon as the carrier gas. The oxygen reactant was produced during the pulse of the O2 plasma. Argon purge gas was introduced for the complete separation of the precursor and reactant gas."
-}

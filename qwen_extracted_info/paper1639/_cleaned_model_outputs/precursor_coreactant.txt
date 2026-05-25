@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA", "trimethylaluminum"],
-  "coreactants": ["H2O", "water"],
-  "purge_gas": ["Ar", "argon"],
-  "carrier_gas": ["Ar", "argon"],
-  "evidence": "Atomic layer deposition of Al2O3 was performed using trimethylaluminum (TMA, Al(CH3)3) and deionized water as precursor and oxidant gas, respectively. Argon was used as a carrier and purge gas."
-}

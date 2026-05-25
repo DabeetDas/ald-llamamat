@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO/Al2O3/ZrO2 nanolaminates",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Tetrakis (dimethylamido) zirconium IV (TDZ)", "deionized (DI) H2O", "trimethyl aluminum (TMA)", "diethyl zinc (DEZ)"],
-  "temperature_range": "200-250 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of ZnO/Al2O3/ZrO2 nanolaminates to improve the thermal and wear resistance of carbon-carbon composites (CCCs). The ALD process was used to infiltrate porous CCCs and graphite foams with these nanolaminates, resulting in significant improvements in thermal stability and sliding wear resistance. The nanolaminates consist of ZnO, Al2O3, and ZrO2 layers, with ZnO providing solid lubrication properties and ZrO2 offering thermal resistance. The study also highlights the conformal coating and uniformity of the ALD process, as well as the tribological properties of the nanolaminates.",
-  "evidence": "The text states that 'thermodynamically stable protective oxide nanolaminates (ZnO/Al2O3/ZrO2) have been deposited by atomic layer deposition (ALD) to infiltrate porous CCCs and graphite foams in order to improve their thermal stability and sliding wear resistance.' Additionally, it mentions that 'the ALD ZnO/Al2O3/ZrO2 nanolaminates... exhibited excellent coating conformality and uniformity inside the pores.' The process parameters and precursor details are also provided in the text."
-}

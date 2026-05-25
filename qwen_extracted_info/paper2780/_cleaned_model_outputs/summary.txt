@@ -1,8 +1,0 @@
-{
-  "target_material": "Zinc chalcogenide",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Zinc", "Chalcogen (S, Se, Te)"],
-  "temperature_range": "373–653 K",
-  "summary": "The study describes the synthesis of zinc chalcogenide nanolayers on semiconductor matrices using atomic layer deposition. The process involves the chemosorption of zinc and chalcogen components on surfaces, with the growth mechanism dependent on the temperature, flux density, and exposure duration. The results show that the growth of these nanolayers is influenced by the interplay between the adsorption and desorption processes, and the formation of epitaxial structures is observed under specific conditions.",
-  "evidence": "The synthesis of chalcogenide nanostructures was carried out by a time-shared treatment of the substrate surfaces in vacuum by bunches of metal atoms and chalcogen molecules (sulfur, selenium, tellurium) obtained by evaporation from the Knudsen cells. The process was carried out in an oil-less vacuum at a pressure of residual gases of not higher than 5 × 10–3 Pa and at a substrate temperature range of Ts = 373–653 K."
-}

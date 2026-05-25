@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum Oxide (Al2O3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Trimethylaluminum (Al(CH3)3)", "Water (H2O)"],
-  "temperature_range": "150-400 °C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of aluminum oxide (Al2O3) using trimethylaluminum and water as precursors. The process was studied using in situ quartz crystal microbalance (QCM) and quadrupole mass spectrometry (QMS) over a temperature range of 150-400 °C. The growth rate was highest at 250 °C, and the reaction mechanisms were analyzed to understand the surface reactions and ligand release during the ALD process.",
-  "evidence": "Reaction mechanisms in the atomic layer deposition of Al2O3 from Al(CH3)3 and water were studied with a quartz crystal microbalance at 150-350 °C and with a quadrupole mass spectrometer at 150 -400 °C. The growth rate was the highest at 250 °C. About half of the ligands were released during the Al(CH3)3 pulse and the other half during the water pulse. The reaction temperature had no marked effect on the growth mechanisms, in the temperature range studied."
-}

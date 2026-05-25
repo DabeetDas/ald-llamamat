@@ -1,8 +1,0 @@
-{
-  "target_material": "HfAlO nanocrystals",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "trimethylaluminium"],
-  "temperature_range": "300°C",
-  "summary": "The study investigates the memory characteristics of atomic-layer-deposited high-/H9260HfAlO nanocrystal capacitors. The nanocrystals are formed using ALD with HfCl4 and trimethylaluminium as precursors. Post-deposition annealing at 900°C is performed to form HfAlO nanocrystals embedded in Al-rich HfAlO films. The nanocrystals exhibit a large hysteresis memory window of 10.4 V, small leakage current, and good endurance, making them suitable for next-generation nanoscale flash memory applications.",
-  "evidence": "The high-/H9260HfAlO nanocrystal memory capacitor with a small capacitance equivalent thickness of /H110118.5 ± 0.5 nm shows a small leakage current density of /H1101122 /H9262Ac m2 at a gate voltage of −16 V. A large memory window of /H110118 V has also been observed after 10 5 s of retention, due to the charge conﬁnement in the high-/H9260HfAlO multilayer nanocrystals. The precursor temperatures were 185°C for hafnium tetrachloride /H20849HfCl4/H20850 and 23°C for trimethylaluminium /H20849Al/H20849CH3/H208503/H20852. The substrate temperature and flow rate of the precursors were 300°C and 800 sccm, respectively, during the high-/H9260deposition process. A postdeposition annealing /H20849PDA/H20850 treatment was performed at a substrate temperature of 900°C for 1 min in N2 ambient."
-}<|im_end|>

@@ -1,7 +1,0 @@
-{
-  "precursors": ["[(1,2,5,6-η)-1,5-hexadiene]dimethylplatinum(II) (HDMP)"],
-  "coreactants": ["O2"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The HDMP precursor, which was synthesized and provided by TANAKA KIKINZOKU KOGYO.K.K, was stored in a stainless steel canister, whose temperature was maintained at 50 °C to obtain an appropriate molecular supply during the ALD process. The HDMP canister was connected to the process chamber by one port, and vaporized HDMP molecules were transported by N2 carrier gas. The counter reactant was O2, and its flow was controlled by a mass-flow controller, which was supplied from a 99.99% O2 cylinder. N2 was used for both the carrier gas and purging gas, which also was controlled by mass-flow controller."
-}

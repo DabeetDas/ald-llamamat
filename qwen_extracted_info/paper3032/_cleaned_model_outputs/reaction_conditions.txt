@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the use of NH3 plasma as a reactant in plasma-enhanced atomic layer deposition (PE-ALD) to deposit Co films. The nitrogen incorporation is minimal, and the growth temperature is critical to obtain pure Co films without nitrogen incorporation. The formation of CoSi2 by post-deposition annealing with a Ti capping layer was studied.",
-  "intermediate_species": ["CoCp* (adsorbed cyclopentadienyl Co precursor)", "Cp ligand bonded to Co surface", "Si-Nx or Si-NHx terminated surface"],
-  "evidence": "To effectively remove Cp ligands without carbon incorporation, we deposited Co by PE-ALD using NH3 plasma as a reactant. This process produced metallic, low resistivity films at a temperature range of 250-400°C on both Si and SiO2, irrespective of Co precursors. The formation of Si-Nx or Si-NHx terminated surface by NH3 plasma exposure on H-terminated Si surface, providing reaction sites for nucleation."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["TEMAH {[Hf(N(CH3)2)4]2}", "TMA [(CH3)3Al]"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["NH3"],
-  "carrier_gas": [],
-  "evidence": "The HfO2 and Al2O3 in nanomixed films were grown at 300◦C by ALD process using TEMAH {[Hf(N(CH3)2)4]2} and TMA [(CH3)3Al], respectively as precursors and H2O as reactant gas. The Ru deposition was performed as continuous cycles such as source/purge/NH3 & plasma/purge."
-}

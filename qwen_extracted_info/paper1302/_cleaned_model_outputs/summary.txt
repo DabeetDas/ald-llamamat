@@ -1,8 +1,0 @@
-{
-  "target_material": "Sodium phosphorus oxynitride (NaPON)",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Sodium tert-butoxide (NaO tBu)", "Diethylphosphoramidate (DEPA)"],
-  "temperature_range": "250-400 °C",
-  "summary": "The study describes the development of a thermal ALD process for depositing sodium phosphorus oxynitride (NaPON), a thin-film solid-state sodium-ion conductor. The process uses sodium tert-butoxide and diethylphosphoramidate as precursors. The resulting NaPON film exhibits high ionic conductivity and is compared to lithium phosphorus oxynitride (LiPON) in terms of its structure and performance. The film's properties are characterized using XPS, SEM, and electrochemical methods, showing its potential as a solid electrolyte for sodium-ion batteries.",
-  "evidence": "The ALD process produces a conformal film with a stoichiometry of Na4PO3N, corresponding to a sodium polyphosphazene structure. The NaPON film exhibited a high ionic conductivity of 1.0 × 10^-7 S/cm at 25 °C and up to 2.5 × 10^-6 S/cm at 80°C, with an activation energy of 0.53 eV. The study also highlights the importance of preserving the film's structure to maintain its electrochemical properties."
-}

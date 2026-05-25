@@ -1,7 +1,0 @@
-{
-  "precursors": ["Co(thd)2", "Gd(thd)3", "Ca(thd)2", "O3"],
-  "coreactants": ["O3"],
-  "purge_gas": ["Nitrogen"],
-  "carrier_gas": [],
-  "evidence": "The text states: 'Co(thd)2 (99.9+%, Volatec, Porvoo, Finland), Gd(thd)3 (99.9%, Strem Chemicals Inc., Kehl, Germany) and Ca(thd)2 (99.9+%, Volatec) were used as cation sources... O3 was used as the oxygen source... Pulse durations were set to 1.5 s for all metal precursors, whereas ozone was pulsed for 5 s subsequent to Co(thd)2 and 3 s subsequent to Gd(thd)3 and Ca(thd)2 pulses. Nitrogen was used as a purging gas, supplied from gas cylinders (99.999%, Praxair Norway, Oslo, Norway) and run through a Mykrolis purifier.'"
-}

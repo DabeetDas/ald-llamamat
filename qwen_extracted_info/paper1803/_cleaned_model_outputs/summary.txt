@@ -1,8 +1,0 @@
-{
-  "target_material": "Zinc oxide (ZnO)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["[Zn(eeki)2]"],
-  "temperature_range": "175 –300 °C",
-  "summary": "The study focuses on the development of a new zinc ketoiminate precursor, [Zn(eeki)2], for the atomic layer deposition (ALD) of zinc oxide (ZnO). The compound demonstrates self-saturated, water-assisted growth of ZnO with growth rates of approximately 1.3 Å per cycle. It is the first reported stable high-temperature ALD process for ZnO above 200 °C with promising growth rates. The compound is reactive towards water, has a melting point of 39 °C, and is stable up to 24 days at 220 °C. The study also explores the influence of functional groups on precursor properties and the thermal stability of various zinc ketoiminate compounds.",
-  "evidence": "It demonstrated self-saturated, water assisted growth of zinc oxide (ZnO) with growth rates in the order of 1.3 Å per cycle. Moreover, it displayed a broad temperature window from T Dep = 175 –300 °C and is the first report of a stable high temperature (>200 °C) ALD process for ZnO returning highly promising growth rates."
-}

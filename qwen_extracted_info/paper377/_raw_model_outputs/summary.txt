@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnS",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["zinc acetate", "hydrogen sulfide", "zinc chloride", "hydrogen sulfide"],
-  "temperature_range": "290-390°C for zinc acetate and hydrogen sulfide; 390-460°C for zinc chloride and hydrogen sulfide",
-  "summary": "The study compares ZnS thin films grown by atomic layer epitaxy (ALE) from zinc acetate and hydrogen sulfide at 290-390°C with those from zinc chloride and hydrogen sulfide at 390-460°C. The films exhibit different crystal orientations, crystallite sizes, and surface roughness. The ellipsometric analysis reveals differences in refractive index and surface roughness, with the chloride category films showing more pronounced surface roughness and lower ZnS content in thicker films.",
-  "evidence": "ZnS thin films grown by atomic layer epitaxy (ALE) are investigated in the film thickness range of about 500-2000 nm. The films grown from anhydrous zinc acetate and hydrogen sulfide at 290-390°C have a significantly stronger preferred crystal orientation than the films which were prepared from zinc chloride and hydrogen sulfide at 390-460°C. The ellipsometric refractive index results combined with an effective medium approximation give the average ZnS content of about 0.91-0.94 for most of the samples. The content slightly decreases with film thickness."
-}<|im_end|>

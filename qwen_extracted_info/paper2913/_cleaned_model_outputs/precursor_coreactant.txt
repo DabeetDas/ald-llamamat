@@ -1,7 +1,0 @@
-{
-  "precursors": ["Cu(hfac)2·XH2O"],
-  "coreactants": ["methanol", "ethanol", "formalin"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "The Cu source was heated to 75°C and the reducing agents were all at room temperature. A typical ALD cycle consisted of a 12 s Cu(hfac)2 pulse, then a 20 s N2 purge, followed by a 12 s reducing agent pulse, and finally another 20 s N2 purge."
-}

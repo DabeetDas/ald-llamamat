@@ -1,8 +1,0 @@
-{
-  "target_material": "Alumina (Al2O3)",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Trimethyl aluminum (TMA)", "Water (H2O)"],
-  "temperature_range": "Room temperature",
-  "summary": "The study demonstrates the growth of alumina films on high-surface-area alumina substrates using atomic layer epitaxy (ALE) by sequentially adsorbing trimethyl aluminum (TMA) and water. The reaction pathway involves the formation of surface intermediates such as dimethyl aluminum species and methyl groups, which react with water to form alumina and methane. The process occurs at room temperature in ultrahigh vacuum (UHV) and is supported by infrared and electron energy-loss spectroscopy.",
-  "evidence": "It is demonstrated that it is possible to grow thin alumina films on an alumina substrate by the sequential adsorption of water and trimethyl aluminum (TMA) both on high-surface-area alumina and in ultrahigh vacuum (UHV) at room temperature. The reaction pathway for the growth of alumina on high surface area alumina and in ultrahigh vacuum by a reaction between trimethyl aluminum and water."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The NH3 pulse plasma modification provides reactive sites for WF6 adsorption on the MSQ and TEOS surfaces, and the incubation cycles are necessary for gradually covering this modified surface with W and N adatoms through the repeated exposures of WF6 and NH3, finally providing a monolayer for further growth of a monolayer per cycle.",
-  "intermediate_species": ["WF6", "NH3", "Si–O–N", "NH+", "NH2+", "NH3+", "H+"],
-  "evidence": "The NH3 pulse plasma modification provides adsorption sites for WF6 on the MSQ and TEOS, sequentially the incubation cycles are necessary for gradually covering this modified surface with W and N adatoms through the repeated exposures of WF6 and NH3 and finally provide a monolayer for further growth of a monolayer per cycle. The F concentration in the PPALD W–N films is obviously decreased from ~12 at% to a value below the detection limit and the resistivity is reduced from 4500 to 3200 µΩ cm."
-}

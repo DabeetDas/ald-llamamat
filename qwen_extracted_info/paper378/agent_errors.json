@@ -1,4 +1,0 @@
-{
-  "reaction_conditions": "Parsed successfully, but extracted content is empty.",
-  "characterization": "ValueError: Could not parse model output as JSON. Preview: '{  \"characterization_methods\": [\"X-ray diffraction\", \"Hall measurements\", \"X-ray rocking curve\", \"Ellipsometry\", \"Four-point probe\", \"Scanning electron microscopy (SEM)\", \"Atomic force microscopy (AFM)\", \"X-ray Photoelectron Spectroscopy (XPS)\", \"Raman spectroscopy\", \"Photoluminescence\", \"Transmissi'"
-}

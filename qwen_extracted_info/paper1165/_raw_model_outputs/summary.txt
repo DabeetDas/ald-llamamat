@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["titanium tetrachloride", "water"],
-  "temperature_range": "150-400 ºC",
-  "summary": "TiO2 thin films were deposited on fluorine-doped tin oxide (FTO) glass using atomic layer deposition (ALD) with titanium tetrachloride and water as precursors. The study investigated the structural, morphological, and optical properties of the films as a function of process temperature. The films exhibited different crystalline phases (amorphous, anatase, rutile) depending on the temperature, with the optical properties being influenced by the crystal structure and surface roughness. The results showed that the rutile phase had a higher absorption coefficient, which could be beneficial for UV filtering in solar cells.",
-  "evidence": "TiO2 thin films were deposited on FTO glass by ALD technique using titanium tetrachloride and water as precursors. A thorough investigation of the TiO2/FTO film properties was carried on, varying the process temperature in the range (150-400) ºC... The optical parameters of ALD TiO2 films showed very dependent of the change of crystal phase and roughness, allowing to obtain films with distinct properties for dye-sensitized and perovskite-based solar cells."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta2O5",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Ta(NtBu)(iPrNC(Me)NiPr)2(NMe2)", "water"],
-  "temperature_range": "225–400 /C176C",
-  "summary": "The study demonstrates the atomic layer deposition (ALD) of Ta2O5 films using the precursor Ta(NtBu)(iPrNC(Me)NiPr)2(NMe2) and water. The process exhibits self-limited growth with an ALD window between 275 and 350 /C176C, where the growth rate is 0.28 A˚/cycle. The films are amorphous as deposited but crystallize upon annealing at 700 /C176C. The high thermal stability of the precursor allows for ALD growth at higher temperatures compared to other precursors.",
-  "evidence": "The atomic layer deposition (ALD) growth of Ta2O5 films was demonstrated using Ta(NtBu)(iPrNC(Me)NiPr)2(NMe2) and water with substrate temperatures between 225 and 400 /C176C. At 325 /C176C, self-limited growth was demonstrated with Ta(NtBu)(iPrNC(Me)NiPr)2(NMe2) and water pulse lengths of 0.5 s. An ALD window was observed between 275 and 350 /C176C, with a growth rate of 0.28 A˚/cycle. The films were amorphous as deposited, but annealing at 700 /C176C in dry air resulted in crystallization of hexagonal δ-Ta2O5."
-}<|im_end|>

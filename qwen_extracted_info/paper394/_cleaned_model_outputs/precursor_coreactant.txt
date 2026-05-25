@@ -1,7 +1,0 @@
-{
-  "precursors": ["GaCI", "AsH3", "InCI", "TBP"],
-  "coreactants": ["H2"],
-  "purge_gas": [],
-  "carrier_gas": ["H2"],
-  "evidence": "In the experiments on GaAs, the supplied group III source gases were diethylgalliumchloride (DEGaC1) and triethylgallium (TEGa). When DEGaC1 was used, the upstream part of the reactor was heated to about 680 °C. At this temperature, DEGaC1 is known to decompose thermally into GaC1 and hydrocarbons, such as C2H4. Accordingly, the actual group III source gas is believed to be GaC1. During the supply of TEGa, the upstream part was kept at about 150 °C. TEGa was carried to the GaAs surface without decomposition and, on the surface, decomposed to Ga. In the experiments on InP, the supplied source gases for group III were trimethylindium (TMIn) and HC1. These gases were introduced through separate inlet tubes, as shown in Fig. 1. In this case, the actual group III source gas is believed to be InCl, which was formed through the reaction between TMIn and HC1 in the upstream part of the reactor heated to about 630 °C. In the reaction, methyl radicals would change into stable hydrocarbons, such as CH4. During the experiment, the total H2 flow was about 8 1 min-1 and the reactor pressure was about 760 Torr for the DEGaC1 supply. The pressure was 380 Torr when supplying TEGa and during the experiments on InP in order to obtain a high gas velocity to prevent the gas phase decomposition of TEGa."
-}

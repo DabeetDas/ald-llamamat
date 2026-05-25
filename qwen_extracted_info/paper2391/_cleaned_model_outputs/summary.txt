@@ -1,8 +1,0 @@
-{
-  "target_material": "AlN",
-  "process_type": "plasma-enhanced ALD (PEALD)",
-  "main_precursors": ["N2–H2", "trimethylaluminum (TMA)"],
-  "temperature_range": "300◦C",
-  "summary": "The study describes the use of plasma-enhanced atomic layer deposition (PEALD) to passivate AlGaN/GaN HEMTs with a 4 nm AlN thin film. The PEALD-AlN passivation significantly suppresses current collapse and reduces dynamic ON-resistance, especially under high-drain-bias switching conditions. The AlN film is grown using N2–H2 and trimethylaluminum (TMA) precursors at 300◦C. The passivation technique also improves the RF performance and output power density of the devices.",
-  "evidence": "In this work, effective passivation of AlGaN/GaN HEMT has been developed using a monocrystal-like AlN thin film grown by plasma-enhanced atomic layer deposition (ALD) (PEALD). ... For the PEALD-AlN passivation of S3, a 4 nm AlN layer was deposited immediately after the RPP at 300◦C, using N2–H2 and trimethylaluminum (TMA) plasma precursors as the N and Al sources. ... The PEALD-AlN passivation technique was demonstrated to significantly suppress current collapse and reduce dynamic ON-resistance, especially under high-drain-bias switching conditions."
-}

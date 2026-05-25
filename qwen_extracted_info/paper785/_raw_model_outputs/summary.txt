@@ -1,8 +1,0 @@
-{
-  "target_material": "Tungsten oxide (WO3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Tungsten hexacarbonyl [W(CO)6]", "Ozone [O3]"],
-  "temperature_range": "190 oC",
-  "summary": "Tungsten oxide (WO3) was deposited using atomic layer deposition (ALD) with tungsten hexacarbonyl [W(CO)6] and ozone [O3] as precursors. The process was characterized by a saturated growth rate of 0.21 Å per ALD cycle, and the films were found to be amorphous initially, transforming to monoclinic WO3 upon annealing. The study aimed to explore the applicability of ALD for thin film deposition in solar cell applications.",
-  "evidence": "Tungsten oxide is deposited by atomic layer deposition (ALD) using tungsten hexacarbonyl [W(CO)6] and ozone [O3]. A narrow temperature window is observed with a saturated growth rate of 0.21 Å per ALD cycle. The as-deposited films are found amorphous which crystallized to monoclinic WO3 upon annealing."
-}<|im_end|>

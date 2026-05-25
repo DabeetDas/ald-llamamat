@@ -1,9 +1,0 @@
-{
-  "characterization": [
-    {
-      "code": "missing_evidence",
-      "path": "characterization.evidence",
-      "message": "Non-empty extraction is missing an evidence string."
-    }
-  ]
-}

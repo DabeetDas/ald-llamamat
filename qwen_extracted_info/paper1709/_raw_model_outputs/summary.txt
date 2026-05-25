@@ -1,8 +1,0 @@
-{
-  "target_material": "Yttria-stabilized zirconia (YSZ)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["tetrakis(dimethylamino)zirconium(IV)", "tris(methylcyclopentadienyl)yttrium(III)"],
-  "temperature_range": "250 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to modify the surface of yttria-stabilized zirconia (YSZ) electrolytes in low-temperature solid oxide fuel cells (LT-SOFCs). A 1 nm thin film of YSZ with varying yttria concentrations was deposited to enhance the performance of the fuel cells by increasing the oxide ion incorporation rate on the surface of the electrolyte. The addition of this surface modification layer (SML) led to a 50% performance enhancement at 400 °C.",
-  "evidence": "The addition of the 1 nm film led to an increase of the maximum power density of a low-temperature solid oxide fuel cell (LT-SOFC) by a factor of 1.50 at 400 °C. The enhanced performance can be attributed to an increased oxide ion incorporation rate on the surface of the modified electrolyte."
-}<|im_end|>

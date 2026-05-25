@@ -1,7 +1,0 @@
-{
-  "substrate_material": "graphene",
-  "substrate_orientation": "",
-  "pretreatment": "The synthesis and transfer process of graphene through a CVD process, including the use of PMMA for transfer and etching of Cu.",
-  "surface_functionalization": "Selective deposition of Pt on graphene through ALD, which is adsorbed selectively on defect sites of graphene.",
-  "evidence": "The synthesis and transfer process of graphene through a CVD process. The two-step growth was exploited to form a layer of graphene fully covering Cu. The first growth step was performed by introducing source gases into the chamber (CH4, 0.5 cm3min-1; H2, 12 cm3min-1; Ar, 50 cm3min-1); then, the flow of CH4 was increased to 1 cm3min-1 in the second growth step. The process time for each step was 30 min and the growth temperature was 1030 °C. As-grown graphene was transferred onto the target substrate through a typical wet chemical transfer process. Polymethylmethacrylate (PMMA) was first spin-coated onto the as-grown graphene and PMMA/graphene/Cu was then floated on a solution of 0.1 M ammonium persulfate to etch the Cu. The remaining PMMA/graphene layers were then scooped on target substrates such as SiO2(285 nm)/Si, quartz substrate (for measuring the optical transmittance), and a 20-nm-thick Si3N4 membrane (for TEM analysis)."
-}<|im_end|>

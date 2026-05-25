@@ -1,8 +1,0 @@
-{
-  "target_material": "LiCoO2 cathodes",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethylaluminum (TMA)", "H2O", "tungsten hexafluoride (WF6)"],
-  "temperature_range": "150 and 200 °C",
-  "summary": "The study compares the effectiveness of ALD coatings of Al2O3 and AlWxHy on LiCoO2 cathodes in improving cycle life and mitigating surface-induced capacity losses. The results show that AlWxHy coatings offer better electron transport and capacity retention compared to Al2O3 coatings, making them suitable for high-voltage lithium-ion batteries.",
-  "evidence": "ALD coatings (∼1 nm thick) of both materials are shown to be effective in improving cycle life through mitigation of surface-induced capacity losses. However, the behaviors of Al2O3 and AlWxHy are shown to be significantly different when coated directly on cathode particles versus deposition on a composite electrode composed of active materials, carbons, and binders. Electrochemical impedance spectroscopy, galvanostatic intermittent titration techniques, and four-point measurements suggest that electron transport is more limited in LiCoO2 particles coated with Al2O3 compared with that in particles coated with AlWxHy."
-}

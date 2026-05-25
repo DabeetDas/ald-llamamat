@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "PEALD",
-  "main_precursors": ["Ti(O-iPr)2(tmhd)2", "H2O", "O3"],
-  "temperature_range": "370 /C176C",
-  "summary": "The study examines the role of interfacial reactions in the atomic layer deposition (ALD) of TiO2 thin films using Ti(O-iPr)2(tmhd)2 as the titanium precursor and H2O or O3 as oxygen sources on Ru or RuO2 substrates. The growth temperature was 370 /C176C. Anatase-TiO2 films were formed with H2O, while rutile-TiO2 films were formed with O3. The study highlights the impact of the oxygen source on growth rate, growth mode, and phase formation, with O3 leading to higher growth rates and rutile structures due to in-situ oxidation and reduction processes.",
-  "evidence": "The role of interfacial reaction in atomic layer deposition of TiO2 films was examined using titanium diisopropoxide bis(tetramethylheptadionate) (Ti(O-iPr)2(tmhd)2) as the titanium precursor, and H2O or O3 as the oxygen sources when the films were grown on ruthenium (Ru) or ruthenium dioxide (RuO2) substrate at a growth temperature of 370 /C176C. Anatase-TiO2 films with a dielectric constant of 32 were grown on ruthenium substrates when H2O was used, whereas rutile-TiO2 films with a much higher dielectric constant (89) were grown when O3 was used as the oxygen source."
-}

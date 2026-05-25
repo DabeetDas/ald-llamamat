@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium dioxide",
-  "process_type": "Radical Enhanced Atomic Layer Deposition (RE-ALD)",
-  "main_precursors": ["titanium isopropoxide", "oxygen radicals"],
-  "temperature_range": "50 to 300 °C",
-  "summary": "Titanium dioxide films were deposited using radical-enhanced atomic layer deposition (RE-ALD) with titanium isopropoxide and oxygen radicals. The process allows deposition on various substrates, including heat-sensitive materials like polymers and natural fibers, at low temperatures. The films showed good conformal growth and electrical properties, with impurity levels decreasing at higher temperatures. The study highlights the advantages of RE-ALD in achieving high growth rates and film quality at lower temperatures.",
-  "evidence": "Titanium dioxide films are grown with radical-enhanced atomic layer deposition (RE-ALD) from titanium isopropoxide and oxygen radicals at between 50 and 300 °C on silicon, glass, platinum, and RuO2 surfaces. The oxygen radicals are produced by dissociating molecular oxygen with a remote microwave plasma discharge. The films grown at 50 °C have a dielectric constant of 20, and undergo catastrophic breakdown at 0.6 MV cm–1 electric field. The film density and refractive index are 3.2 g cm–3 and 2.2, respectively, for a film deposited at 50 °C, and increases to 3.8 g cm–3 and 2.4, respectively, for a film deposited at 250 °C. All the films grown below 250 °C are amorphous according to X-ray diffraction (XRD)."
-}

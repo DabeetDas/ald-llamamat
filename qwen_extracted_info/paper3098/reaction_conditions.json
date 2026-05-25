@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The nucleation of Ru nanocrystals is enhanced by plasma-enhanced ALD (PEALD) using NH3 plasma, while thermal ALD is used for growth with O2. The surface reaction mechanism involves the reduction of Ru precursors and the surface state of the substrate, with intermediate O2 pulsing to suppress additional nucleation by oxidizing the nitrided surface.",
-  "intermediate_species": [
-    "nitrided surface",
-    "oxidized surface"
-  ],
-  "evidence": "In the text, it is mentioned that 'the nucleation in the ALD Ru was found to strongly depend on both the method of reducing the precursors and the surface state of the substrate.' Additionally, 'we introduced intermediate O2 pulsing in order to suppress the additional nucleation by oxidizing the surface of the substrate, because the nucleation in PEALD is thought to be enhanced by the NH3 plasma nitridation of the oxide surface.'"
-}

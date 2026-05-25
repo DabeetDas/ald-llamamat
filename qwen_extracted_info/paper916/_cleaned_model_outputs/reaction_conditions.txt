@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the removal of organic ligands by ammonia plasma during ALD, which prevents the formation of ruthenium silicide on Si(1 0 0) substrates. The ammonia plasma creates a silicon oxynitride barrier layer, which inhibits the reaction between ruthenium and silicon during annealing.",
-  "intermediate_species": ["organic ligands"],
-  "evidence": "Comparison with sputter deposited films learned that this occurred because the ammonia plasma created a SiOxNy reaction barrier layer prior to film growth."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ligand exchange between TMA and surface hydroxyl groups followed by water pulse to regenerate OH sites",
-  "intermediate_species": ["trivalent oxides", "suboxides", "Ga–S bonds", "As–S bonds", "volatile compounds such as trimethyl gallium and arsenic"],
-  "evidence": "The preferential reduction in trivalent oxides rather than suboxides supports the hypothesis that the clean up of interfacial oxides is due to a ligand exchange mechanism, 12 a common reaction pathway identified for ALD reactions. Such a reaction would favor trivalent metal oxides because TMA is composed of three methyl groups bonded to a trivalent aluminum atom. It has been shown that high yield reactions of this type are possible for a variety of ligands (denoted by R) for the creation of R3As from a reaction of R3Al and OCH2CH2OAsC for the purpose of creating arsenic precursors for metal organic chemical vapor deposition. Moreover, this hypothesis is supported by the lack of detection of Ga–Ga bonding, for example, which is the expected reduction product of gallium oxide. It is also noted that ligand exchange reactions of trivalent substrate oxides and TMA are expected to result in volatile compounds such as trimethyl gallium and arsenic rather than elemental gallium and arsenic."
-}

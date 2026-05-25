@@ -1,8 +1,0 @@
-{
-  "target_material": "Metal Oxide Thin Films",
-  "process_type": "Plasma-Enhanced ALD",
-  "main_precursors": ["Al(CH3)3", "Ti(OiPr)4", "Ti(CpMe)(OiPr)3", "TiCp(OMe)3", "Ta(NMe2)5"],
-  "temperature_range": "25–400°C",
-  "summary": "The study investigates the plasma-enhanced atomic layer deposition (ALD) of metal oxide thin films, including Al2O3, TiO2, and Ta2O5, at low temperatures. The process uses various precursors and an O2 plasma as the oxygen source. The results show that plasma-enhanced ALD can deposit films at temperatures as low as room temperature, offering advantages over thermal ALD for temperature-sensitive substrates.",
-  "evidence": "The text states that plasma-enhanced ALD of Al2O3, TiO2, and Ta2O5 has been investigated at 25–400°C using various precursors. It also mentions that the process allows for deposition at temperatures as low as room temperature and compares the results with thermal ALD routes."
-}

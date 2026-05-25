@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "ALD",
-  "main_precursors": ["Mo[NMe2]4", "H2S"],
-  "temperature_range": "95 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of amorphous MoS2 on TiO2 nanotube arrays (TNTAs) using Mo[NMe2]4 and H2S as precursors. The ALD process is optimized to achieve a controlled thickness of MoS2, which is characterized by spectroscopic ellipsometry, X-ray photoelectron spectroscopy, and scanning electron microscopy. The electrocatalytic performance of the MoS2-coated TNTAs is evaluated for the hydrogen evolution reaction (HER), showing high current densities and stability. The results indicate that the ALD-deposited MoS2 provides an effective electrocatalyst for HER with a low overpotential and high durability.",
-  "evidence": "Using Mo[NMe2]4 and H2S as precursors, a desired thickness of amorphous MoS2 can be deposited on TiO2 nanotubes by atomic layer deposition. The identity and structure of the MoS2 film are confirmed by spectroscopic ellipsometry, X-ray photoelectron spectroscopy, scanning electron microscopy, and energy dispersive X-ray spectroscopy. The electrocatalytic performance of MoS2 is quantified as it depends on the tube length and the MoS2 layer thickness through voltammetry, steady-state chronoamperometry, and electrochemical impedance spectroscopy. The best sample reaches 10 mA/cm2 current density at 189 mV overpotential in 0.5 M H2SO4."
-}

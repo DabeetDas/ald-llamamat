@@ -1,8 +1,0 @@
-{
-  "target_material": "PbTiOx",
-  "process_type": "ALD",
-  "main_precursors": ["Ti(Oi-Pr)2(DPM)2", "Pb(DPM)2"],
-  "temperature_range": "240 °C",
-  "summary": "PbTiOx films were deposited using a combination of binary oxide atomic layer depositions of TiOx and PbO on Pt-covered Si substrates. The process involved liquid injection of Ti(Oi-Pr)2(DPM)2 and Pb(DPM)2 dissolved in ethylcyclohexane. The deposition rates of Pb and Ti were enhanced in the ternary process compared to their binary processes. The study aimed to achieve uniform coverage and stoichiometric composition on 3D structures, addressing challenges in cation composition uniformity.",
-  "evidence": "Ternary PbTiOx films were deposited at 240 °C on Pt-covered Si substrates using a combination of liquid injection atomic layer depositions of binary TiOx and PbO films. The deposition rates of Pb and Ti were enhanced in the ternary process compared to their binary processes under comparable deposition conditions."
-}

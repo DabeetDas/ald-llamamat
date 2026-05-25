@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "ALD",
-  "main_precursors": ["molybdenum hexacarbonyl", "dimethyldisulfide"],
-  "temperature_range": "100 °C",
-  "summary": "The study reports the atomic layer deposition (ALD) of MoS2 thin films on SiO2/Si substrates using molybdenum hexacarbonyl and dimethyldisulfide as precursors. The films are grown at 100 °C and show amorphous structure with characteristic Raman modes of MoS2. Annealing at 900 °C crystallizes the films with aligned basal planes.",
-  "evidence": "MoS2 can be directly grown on a SiO2/Si substrate at 100 °C via the novel chemical route. The as-grown films are amorphous but show characteristic Raman modes (E12g and A1g) of 2H-MoS2. After annealing at 900 °C for 5 min under Ar atmosphere, the film is crystallized for MoS2 layers to be aligned with its basal plane parallel to the substrate."
-}<|im_end|>

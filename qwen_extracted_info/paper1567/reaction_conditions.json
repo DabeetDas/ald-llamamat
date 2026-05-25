@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the conversion of terminal C dC groups of the SAMs to carboxylic acid groups via ozone treatment, followed by the formation of highly active titanium hydroxyl groups through the exchange reaction of water molecules. The titanium hydroxyl groups provide active sites for the adsorption of the next monolayer.",
-  "intermediate_species": [
-    "carboxylic acid groups",
-    "titanium hydroxyl groups"
-  ],
-  "evidence": "The titanium hydroxyl groups of the SAMs provide a highly active adsorption site for the anchoring of the next monolayer. The terminal C dC group of the SAM reacts with ozone to form a carboxylic acid. Highly active titanium hydroxyl groups were formed on the COOH-terminated SAM by using TIP adsorption followed by exchange reaction of water molecule in order to provide highly active adsorption sites for the anchoring of the next monolayer."
-}

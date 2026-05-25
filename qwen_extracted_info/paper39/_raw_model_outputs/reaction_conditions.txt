@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the sequential dosing of aluminum precursor (TMA) and oxidizing agent (H2O, O2, or O3) in separate reaction zones separated by gas bearings. The TMA reacts with surface hydroxyl groups, followed by an oxidation step to form Al2O3. The process is self-limiting and occurs in two half-reactions, with purge steps eliminated due to the spatial separation.",
-  "intermediate_species": ["surface hydroxyl groups", "monomethyl aluminum"],
-  "evidence": "In conventional ALD, the deposition reaction is divided in two time-sequenced self-limiting half-reactions, each one being separated by purge steps. In the case of Al2O3, one deposition cycle includes a dose of an aluminum precursor (mostly trimethyl aluminum, TMA), followed by a purge step to remove excess precursor and reactants, a subsequent oxidation step by dosing H2O, O2 or O3 and, finally, another purge step."
-}<|im_end|>

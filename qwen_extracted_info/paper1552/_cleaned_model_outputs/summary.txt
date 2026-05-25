@@ -1,8 +1,0 @@
-{
-  "target_material": "copper",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["Cu(diketiminate)L complexes", "1,3-diketimine ligands", "vinyltrimethylsilane (VTMS)"],
-  "temperature_range": "55 °C to 120 °C",
-  "summary": "Nonfluorinated Cu(diketiminate) complexes with vinyltrimethylsilane (VTMS) ligands were developed as volatile and stable precursors for the deposition of copper films via atomic layer deposition (ALD). These complexes are suitable for industrial microelectronic fabrication, particularly for depositing copper seed layers in integrated circuits. The ALD process was demonstrated to produce clean, conformal copper films at relatively low temperatures, with the compounds showing good volatility and stability under inert conditions.",
-  "evidence": "A clean, conformal copper film was deposited at 120 °C in an ALD process. These Cu(I) complexes are the first examples of nonfluorinated copper(I) diketimates that can be readily applied to an industrial microelectronic fabrication process. The results from isothermal TGA data provide some qualitative structure-property relationship. The copper(I) diketiminate complexes are suitable for the deposition of copper films by an ALD process."
-}

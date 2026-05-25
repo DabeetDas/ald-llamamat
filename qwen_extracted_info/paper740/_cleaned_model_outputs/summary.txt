@@ -1,8 +1,0 @@
-{
-  "target_material": "WS2",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["W(CO)6", "H2S plasma"],
-  "temperature_range": "350 °C",
-  "summary": "WS2 thin films were synthesized using plasma-enhanced atomic layer deposition (PEALD) with W(CO)6 and H2S plasma at 350 °C. The films showed high quality, polycrystalline structure with (002) preferential growth. The films were tested as anodes for sodium-ion batteries and as catalysts for hydrogen evolution reaction (HER) with good performance.",
-  "evidence": "WS2 thin films were grown on several types of substrates by plasma-enhanced atomic layer deposition (PEALD) technique using tungsten hexacarbonyl [W(CO)6] and H2S plasma at a relatively low temperature of 350 °C. The method delivers polycrystalline WS2 film with (002) preferential growth and the high quality films could be successfully grown with as low as 30 ALD cycles (corresponding to ~3 nm of thickness)."
-}

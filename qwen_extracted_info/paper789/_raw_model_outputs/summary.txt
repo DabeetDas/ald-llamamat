@@ -1,8 +1,0 @@
-{
-  "target_material": "cobalt phosphate",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Bis(cyclopentadienyl)cobalt(II) (CoCp2)", "trimethyl phosphate (TMP)"],
-  "temperature_range": "100°C for precursor lines, 300°C for substrate holder",
-  "summary": "The study reports on the electrocatalytic activity of ALD-prepared cobalt phosphate thin films for the oxygen evolution reaction (OER). The ALD process allows tuning of the Co-to-P atomic ratio, which significantly affects the activity of the electrocatalyst. The current density for OER increases with a higher Co-to-P ratio, demonstrating the importance of stoichiometry in catalytic performance.",
-  "evidence": "The selected ALD approach enables tuning of the Co-to-P atomic ratio, which is found to significantly affect the activity of the prepared electrocatalyst. Specifically, concurrently with a Co-to-P ratio increase from 1.6 to 1.9, the current density for OER increases from 1.77 mA/cm2 at 1.8V vs. RHE to 2.89 mA/cm2 at 1.8V vs. RHE."
-}<|im_end|>

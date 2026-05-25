@@ -1,8 +1,0 @@
-{
-  "target_material": "CdTe/MnTe",
-  "process_type": "atomic layer epitaxy",
-  "main_precursors": ["CdTe", "MnTe"],
-  "temperature_range": "240°C to 280°C",
-  "summary": "The study describes the growth of CdTe/MnTe tilted superlattices using atomic layer epitaxy on vicinal surfaces. The process involves depositing fractional monolayer superlattices onto 2’ A and 2’ B Cd0.65Zn0.05Te vicinal substrates. The growth is performed in a step-flow mode, with alternating cation and anion layers. The structural and optical properties of the resulting superlattices are analyzed, revealing a reduced lateral modulation due to Cd/Mn vertical exchange and step array disorder.",
-  "evidence": "We have grown CdTe/MnTe tilted superlattices by atomic layer epitaxy. These heterostructures are formed by depositing, in the step-flow growth mode, fractional monolayer superlattices (CdTe),,(MnTe),, with p = m + n z 1, onto 2’ A and 2’ B Cd0.65Zn0.05Te vicinal substrates. The half-monolayer of CdTe is grown via two atomic layer epitaxy (ALE) cycles, during which 4 monolayer (ML) of Cd, then 1 ML of Te are sent onto the surface. Thanks to this step-flow growth mode, the ALE of CdTe/MnTe-tilted superlattices (TSLs) on vicinal surfaces is possible. The TSLs are grown at temperatures ranging from 240°C to 280°C."
-}<|im_end|>

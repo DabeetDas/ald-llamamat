@@ -1,8 +1,0 @@
-{
-  "target_material": "Titanium Dioxide (TiO2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Titanium Tetrachloride (TiCl4)", "Water (D2O)"],
-  "temperature_range": "150-400 °C",
-  "summary": "The study investigates the ALD growth of TiO2 using TiCl4 and D2O at temperatures between 150-400 °C. The process involves surface exchange reactions where TiCl4 reacts with surface hydroxyl groups, releasing DCl as a byproduct. The number of -Cl ligands released decreases with increasing temperature, indicating a shift from surface exchange to molecular adsorption of TiCl4 at higher temperatures.",
-  "evidence": "The ALD growth proceeds via exchange reactions on the film surface. In the first step, TiCl4 is introduced on a surface covered with -OD groups which then become replaced with -OTiClx species, and DCl is released as a volatile byproduct. When the temperature is increased from 150 to 250 °C, the number of -Cl ligands released during the TiCl4 pulse decreases from about two to one. At temperatures higher than 250 °C, less than one -Cl ligand is released, indicating molecular adsorption of TiCl4."
-}<|im_end|>

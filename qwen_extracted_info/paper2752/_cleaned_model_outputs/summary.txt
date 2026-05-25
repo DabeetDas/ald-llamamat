@@ -1,8 +1,0 @@
-{
-  "target_material": "vanadium dioxide (VO2)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tetrakis (ethyl-methyl) amino vanadium (TEMA V)", "H2O"],
-  "temperature_range": "125–175 °C",
-  "summary": "The study investigates the growth rate and uniformity of vanadium dioxide thin films using atomic layer deposition (ALD) with tetrakis (ethyl-methyl) amino vanadium (TEMA V) and H2O as precursors. A novel multiple pulse mode is introduced to enhance the growth rate while maintaining film uniformity. The process is conducted at 150 °C, and the films are annealed post-deposition to achieve polycrystallinity. The multiple pulse mode shows improved growth rate and comparable film quality to the conventional single pulse mode.",
-  "evidence": "The growth of vanadium dioxide (VO2) thin films using tetrakis (ethyl-methyl) amino vanadium (TEMA V) and H2O by atomic layer deposition (ALD) has been investigated as a function of the exposure dose and residence time. The window of the deposition temperatures for the VO2 deposition using TEMA V as the vanadium precursor is reported to be between 125 and 175 °C. The ALD deposition temperature is low, and the as-deposited VO2 thin films are amorphous, requiring postdeposition annealing to produce polycrystalline films. The use of multiple pulsing with very short pulse time allows lower consumption of precursor, but larger exposure dose and longer residence time on the growth surface, resulting in a higher growth rate for a low volatility precursor, while maintaining a good film uniformity across 4-in. wafers."
-}

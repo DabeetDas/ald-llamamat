@@ -1,8 +1,0 @@
-{
-  "target_material": "Zn(O,S) alloys",
-  "process_type": "Atomic Layer Deposition (ALD) and coZdosing",
-  "main_precursors": ["Diethylzinc (DEZ)", "H2O", "H2S"],
-  "temperature_range": "100°C, 150°C, 225°C",
-  "summary": "The study investigates the Atomic Layer Deposition (ALD) of Zn(O,S) alloys using diethylzinc with H2O and H2S. The research focuses on the effect of exchange reactions between ZnO and H2S, which significantly influences the sulfur content in the films. An alternative method, coZdosing of H2O and H2S at 100°C, is explored to control the composition of the Zn(O,S) films more effectively. The study also determines the ratio of exchange reaction rates (k1/k2) using coZdosing experiments.",
-  "evidence": "The study discusses the use of diethylzinc (DEZ), H2O, and H2S as precursors for the ALD of Zn(O,S) alloys. It highlights the exchange reaction between ZnO and H2S, which affects the sulfur content in the films. The coZdosing method at 100°C is presented as an alternative to alternating cycles of ZnO and ZnS ALD. The temperature range used in the experiments is 100°C, 150°C, and 225°C. The research also determines the ratio of exchange reaction rates (k1/k2) through coZdosing experiments."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Erbium carbide (ErC2)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Er(iprCp)3"],
-  "temperature_range": "250 °C",
-  "summary": "Erbium carbide (ErC2) was deposited using atomic layer deposition (ALD) as a low-work-function metal electrode for nMOSFET applications. The material showed a very low effective work function (eWF) on HfO2, good thermal stability, and no significant Fermi-level pinning on high-k dielectrics. The process involved a substrate temperature of 250 °C and demonstrated excellent conformality and integration potential for 3-D structures.",
-  "evidence": "The prepared ErC2 shows a very low effective WF (eWF), as low as 3.9 eV on HfO2, yet with excellent thermal stability. In addition, it did not show significant Fermi-level pinning on high-k dielectrics even after high-temperature annealing. The low eWF property of ErC2 originates from the properties of the lanthanide family, while its good thermal stability is attributed to the properties of metal carbides. ALD-ErC2 has superior conformality over other deposition methods, and thus is a strong candidate for 3-D structure devices."
-}<|im_end|>

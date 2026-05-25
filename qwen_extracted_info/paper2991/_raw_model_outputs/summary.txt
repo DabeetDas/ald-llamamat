@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta2O5",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Ta(OC2H5)5", "H2O"],
-  "temperature_range": "150 to 450~C",
-  "summary": "The study investigates the deposition of tantalum oxide (Ta2O5) thin films using atomic layer epitaxy (ALE) with Ta(OC2H5)5 and H2O as precursors. The films were grown in the temperature range of 150 to 450~C. The growth rate was found to be temperature-dependent, with a stable rate of 0.4 A/cycle between 225 and 325~C. The films were amorphous, and their refractive index increased with temperature, stabilizing at 2.23 above 300~C. The permittivity values were 21 and 25 for films grown at 250~C and 325~C, respectively. The leakage current densities were 4.0 and 2.3 mA/cm² at 1 MV/cm for the same temperatures. The study also highlights the importance of growth interruption in reducing surface roughness and defects.",
-  "evidence": "The deposition of thin Ta2O5 films by atomic layer epitaxy (ALE) was investigated in the temperature range of 150 to 450~C using Ta(OC2H5)5 and water as precursors. The growth rate was found to be temperature-dependent, with a stable rate of 0.4 A/cycle between 225 and 325~C. The films were amorphous, and their refractive index increased with temperature, stabilizing at 2.23 above 300~C. The permittivity values were 21 and 25 for films grown at 250~C and 325~C, respectively. The leakage current densities were 4.0 and 2.3 mA/cm² at 1 MV/cm for the same temperatures."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "iron(II) oxalate (FeC2O4) and iron(III) oxide (Fe2O3)",
-  "process_type": "Atomic Layer Deposition (ALD) and Molecular Layer Deposition (MLD)",
-  "main_precursors": ["Fe(hfa)2TMEDA", "oxalic acid", "ozone (O3)"],
-  "temperature_range": "125–375 ◦C",
-  "summary": "The study explores the use of Fe(hfa)2TMEDA as a precursor for ALD/MLD of Fe(II)-containing compounds. The process involves reactions with oxalic acid and ozone, leading to the formation of hybrid materials and iron(III) oxide films. The ALD process maintains the Fe(II) oxidation state and exhibits self-saturating growth, with temperature affecting growth rate and refractive index. The study also investigates the thermal behavior and structural properties of the deposited films.",
-  "evidence": "The Fe(hfa)2TMEDA + oxalic acid system was studied for ALD growth, with self-saturating conditions observed at 130 and 200 ◦C. The use of ozone led to Fe2O3 films, while oxalic acid enabled Fe(II)-containing materials. The growth rate and refractive index varied with temperature, and the films were characterized by XPS, FTIR, and GIXRD."
-}

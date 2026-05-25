@@ -1,8 +1,0 @@
-{
-  "target_material": "TiN",
-  "process_type": "ALD",
-  "main_precursors": ["TiCl4", "NH3"],
-  "temperature_range": "390 °C",
-  "summary": "The study investigates the atomic stacking configurations and grain boundary structures of ultrathin nanocrystalline TiN films deposited by atomic layer deposition (ALD). The research reveals that the surface topography of the amorphous SiO2 layer and surface reconstruction influence the atomic stacking configurations, leading to the formation of nano-polycrystalline structures. The coherent boundary is identified as the favored boundary in the connection of tilt grains, contributing to the pinhole-free, high-density, and homogeneous TiN films.",
-  "evidence": "A 30 nm TiN film was deposited on the SiO2 layer by ALD technique in a Pulsar 2000 reactor with pure precursors of TiCl4 and NH3 at 390 °C in N2 purging gas. The study shows that the surface topography of the amorphous SiO2 layer is an extrinsic factor to affect the atomic stacking configurations in ultrathin nanocrystalline TiN films. The analysis indicates that the coherent boundary should be the favored boundary in the connection of the tilt grains."
-}

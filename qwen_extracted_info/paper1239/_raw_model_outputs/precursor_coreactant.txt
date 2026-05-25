@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ethylbenzenecyclohexadiene Ru(0) (EBCHDRu)"],
-  "coreactants": ["O2", "H2"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "Ethylbenzenecyclohexadiene Ru(0) (EBCHDRu) was used as the Ru precursor and was heated to 90 °C. Ar was used as a carrier gas, resulting in a chamber pressure of ∼18 mTorr during the precursor dose. The additional H2 pulse in this ABC-type ALD process serves to reduce surface RuOx, formed during the O2 gas pulse, and enables growth of metallic Ru at temperatures < 200 °C."
-}<|im_end|>

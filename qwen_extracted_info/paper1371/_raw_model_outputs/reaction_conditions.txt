@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the interaction of (EtCp)2Mn with water, where the Mn precursor reacts with water to form MnOx. The introduction of a forming gas (FG) plasma step between the (EtCp)2Mn and H2O doses promotes precursor saturation by modifying the surface via N and/or H radicals, leading to a saturating deposition mechanism.",
-  "intermediate_species": ["Mn-containing species", "surface hydroxyls", "carbon impurities"],
-  "evidence": "The surface reactions involve the interaction of (EtCp)2Mn with water, where the Mn precursor reacts with water to form MnOx. The introduction of a forming gas (FG) plasma step between the (EtCp)2Mn and H2O doses promotes precursor saturation by modifying the surface via N and/or H radicals, leading to a saturating deposition mechanism. The films are composed of MnO, with a large amount of C impurities. The reactions do not reach saturation at Tsub ≥ 60 °C, indicating that these depositions do not follow an ALD mechanism. The addition of a FG plasma step promotes precursor saturation by modifying the surface via N and/or H radicals."
-}<|im_end|>

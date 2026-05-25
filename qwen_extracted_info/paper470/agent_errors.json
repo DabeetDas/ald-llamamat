@@ -1,5 +1,0 @@
-{
-  "summary": "ValueError: Could not parse model output as JSON. Preview: '{   \"target_material\": \"ZnSe\",   \"process_type\": \"atomic layer epitaxy (ALE)\",   \"main_precursors\": [\"dimethylzinc (DMZn)\", \"hydrogen selenide (H2Se)\"],   \"temperature_range\": \"150 }2253C\",   \"summary\": \"High-quality undoped ZnSe films on n-type (1 0 0)-silicon substrates were grown using atomic lay'",
-  "reaction_conditions": "Parsed successfully, but extracted content is empty.",
-  "characterization": "ValueError: Could not parse model output as JSON. Preview: '{   \"characterization_methods\": [     \"X-ray di!raction (XRD)\",     \"Photoluminescence (PL)\",     \"Secondary ion mass spectrometry (SIMS)\",     \"Scanning electron microscopy (SEM)\",     \"Ellipsometer\",     \"Electron probe microanalyzer (EPMA)\"   ],   \"evidence\": \"ZnSe epilayer characteristics were i'"
-}

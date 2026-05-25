@@ -1,7 +1,0 @@
-{
-  "precursors": ["diethylzinc (DEZn, Zn(C2H5)2)"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "To grow ZnO films with the required electrical properties we tested several inorganic and organic zinc precursors. The most effective zinc precursor turned out to be diethylzinc (DEZn, Zn(C2H5)2) with deionized water used as an oxygen precursor: Zn(C2H5)2 + H2O → ZnO + 2C2H6"
-}

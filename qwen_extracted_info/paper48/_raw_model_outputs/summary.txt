@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "ALD",
-  "main_precursors": ["Mo(thd)3", "H2S"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of crystalline MoS2 thin films using a new molybdenum precursor, Mo(thd)3, with H2S as the sulfur precursor at a relatively low temperature of 300 °C. The process demonstrates self-limiting growth with a low growth rate of ≈0.025 Å cycle−1, straightforward thickness control, and large-area uniformity. The films show relatively good crystallinity despite the low deposition temperature, although they have significant surface roughness. The study highlights the potential of this ALD method for applications requiring low-temperature processing.",
-  "evidence": "Self-limiting growth with a low growth rate of ≈0.025 Å cycle−1, straightforward thickness control, and large-area uniformity are demonstrated. Film crystallinity is found to be relatively good considering the low deposition temperature, but the films have significant surface roughness."
-}<|im_end|>

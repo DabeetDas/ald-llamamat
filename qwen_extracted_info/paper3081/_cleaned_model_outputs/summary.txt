@@ -1,8 +1,0 @@
-{
-  "target_material": "Copper",
-  "process_type": "Plasma-enhanced ALD (PEALD)",
-  "main_precursors": ["Cu(acac)2", "Hydrogen"],
-  "temperature_range": "85°C",
-  "summary": "The study investigates the effects of hydrogen plasma pretreatments on the plasma-enhanced atomic layer deposition (PEALD) of copper. The results show that hydrogen plasma pretreatments improve Cu nucleation, reduce resistivity, and enhance film continuity by removing surface hydroxyl groups and promoting H-termination of the substrate. The process uses Cu(acac)2 as the precursor and hydrogen plasma for reduction.",
-  "evidence": "The effects of hydrogen plasma substrate pretreatments on the subsequent material and integration properties of a previously developed plasma-enhanced atomic layer deposition Cu process have been investigated. Plasma treatments were observed to improve Cu nucleation and enable lower Cu resistivity, which have important technological implications with respect to the use of copper in nanoelectronic interconnect structures. The observed results can be explained by the removal of substrate surface hydroxyl groups achieved by the hydrogen plasma pretreatments."
-}

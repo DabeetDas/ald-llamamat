@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The MoF6 precursor was adsorbed on the SiO2 substrate, and additional MoF6 molecules were purged by the Ar gas and were not adsorbed on the substrate. The self-limiting reaction of the MoF6 precursor and H2S reactant on the substrate was identified.",
-  "intermediate_species": ["MoF6", "H2S"],
-  "evidence": "Because of the volatile characteristics of MoF6, only 1s precursor exposure is sufficient for the synthesis of MoS2. Furthermore, when the precursor exposure time was increased, the MoS2 layer did not increase, but only saturated to a bilayer in 60 cycles of ALD, as confirmed by the Raman spectra (λexc = 532 nm). This indicates that the MoF6 precursor was adsorbed on the SiO2 substrate and additional MoF (6) molecules were purged by the Ar gas and were not adsorbed on the substrate. The same results were obtained for H2S, and we identified the self-limiting reaction of the MoF6 precursor and H2S reactant on the substrate, respectively."
-}<|im_end|>

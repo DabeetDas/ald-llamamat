@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the decomposition of Gd(MeCp)3 and the interaction with nitrogen plasma. The thermal decomposition of Gd(MeCp)3 leads to the formation of Gd metal cores, which are susceptible to reactions with oxygen impurities. The hydrogen radicals from the plasma act as reducing agents, dissociating the MeCp ligands from the Gd metal center, leading to the formation of unstable Gd metal cores. These cores act as oxygen getters, resulting in oxide formation. The nitrogen plasma exposure time affects the growth rate and the incorporation of nitrogen and oxygen into the films.",
-  "intermediate_species": ["Gd metal cores", "hydrogen radicals", "MeCp ligands"],
-  "evidence": "The text discusses the thermal decomposition of Gd(MeCp)3 and the interaction with nitrogen plasma. It mentions that hydrogen radicals from the plasma act as reducing agents, dissociating the MeCp ligands from the Gd metal center, leading to the formation of unstable Gd metal cores. These cores are susceptible to reactions with oxygen impurities, resulting in oxide formation. The nitrogen plasma exposure time affects the growth rate and the incorporation of nitrogen and oxygen into the films."
-}<|im_end|>

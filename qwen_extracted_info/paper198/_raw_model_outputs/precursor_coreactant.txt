@@ -1,7 +1,0 @@
-{
-  "precursors": ["Al(CH3)3"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["N2/Ar mixture"],
-  "carrier_gas": ["N2"],
-  "evidence": "During the ALD cycle a mixture of nitrogen and argon was introduced into the reactor to act as a purge gas between precursor pulses and to facilitate the generation of a plasma during the plasma cycle. Nitrogen gas (99. 999%, AGA) was introduced normally through the precursor channel also to carry the precursors to the reactor."
-}<|im_end|>

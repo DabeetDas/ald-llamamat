@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of the zero valent Ru precursor (EBCHDRu) on the SiO2 surface, followed by a reaction with O2 molecules. The reaction is self-limiting, and the growth rate is determined by the surface reaction between adsorbed precursors and reactants. The process is enhanced by the use of a zero valent Ru precursor, which leads to a negligible incubation cycle and high nucleation density.",
-  "intermediate_species": ["Ru precursor adsorbed on SiO2 surface"],
-  "evidence": "The text states: 'A self-limiting growth behavior was identified at the deposition temperature of 225 °C with the number of reaction cycles fixed at 200. For precursor pulsing times of more than 5 s, the film thickness after 200 reaction cycles seemed to become saturated on SiO2 substrates. This indicates that no thermal self-decomposition of the precursor takes place at this temperature and that the deposition is accomplished by a self-limiting surface reaction between adsorbed precursors and reactants.'"
-}<|im_end|>

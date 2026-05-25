@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 33,
-  "density_g_cm3": null,
-  "refractive_index": "2.01 for AlN x and 1.98 for SiN x",
-  "surface_roughness_nm": null,
-  "crystal_phase": "Amorphous",
-  "evidence": "From the SE data (at 633 nm wavelength), the index of refraction was 2.01 for AlN x and 1.98 for SiN x. In both cases, the 1 σ index nonuniformity was <1%."
-}

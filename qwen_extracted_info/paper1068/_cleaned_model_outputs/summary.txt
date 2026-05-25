@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["diethyl Zn (DEZ)", "water"],
-  "temperature_range": "100–250 °C",
-  "summary": "ZnO thin films were deposited using atomic layer deposition (ALD) with diethyl Zn (DEZ) as a metal precursor and water as a reactant at growth temperatures between 100 and 250 °C. The study compared ALD ZnO films with rf sputtered ZnO films, focusing on their microstructure, chemical, and electrical properties for application as an active channel layer in transparent thin film transistors (TFTs).",
-  "evidence": "In this study, we deposited ZnO thin films by atomic layer deposition (ALD) from diethyl Zn (DEZ) as a metal precursor and water as a reactant at growth temperatures between 100 and 250 °C. ... ALD ZnO films were deposited at the growth temperature range from 100 °C to 250 °C. ... For application as an active channel layer of TFT, ZnO thin film should have high mobility."
-}

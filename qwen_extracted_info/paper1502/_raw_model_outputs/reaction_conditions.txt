@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [
-    "Ga(N(CH3)2)3 + SH* → Ga(N(CH3)2)2(SH) + N(CH3)2",
-    "Ga(N(CH3)2)2(SH) + 1.5H2S → Ga2S3 + 2N(CH3)2 + 1.5H2"
-  ],
-  "surface_mechanism_description": "Ligand exchange between Ga(N(CH3)2)3 and surface hydroxyl groups followed by water pulse to regenerate OH sites.",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species"],
-  "evidence": "The surface reactions are described as follows: (1a) Ga(N(CH3)2)3 reacts with SH groups, releasing N(CH3)2 ligands. (1b) H2S removes the remaining ligands to form Ga2S3 and repopulate the surface with thiols."
-}<|im_end|>

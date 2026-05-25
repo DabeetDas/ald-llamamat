@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnS/ZnTe and ZnSe/ZnTe superlattices",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["Zn", "Se", "Te"],
-  "temperature_range": "280°C",
-  "summary": "The paper reports the atomic layer epitaxy (ALE) growth of ZnSe/ZnTe superlattices on (100)GaAs substrates at 280°C. The growth involves alternating exposure of Zn and Se shutters followed by Zn and Te shutters, with a buffer layer of ZnSe grown prior to the superlattice formation. The surface morphology and structure were confirmed using RHEED and X-ray diffraction.",
-  "evidence": "For ALE growth of (ZnSe),,(ZnTe),, SL, Zn and Se shutters are opened alternately n times and then Zn and Te shutters are opened alternately m times. The ZnSe/ZnTe SL surface was monitored by RHEED during growth. The surface becomes very smooth as indicated by a streaky RHEED pattern with a surface reconstruction of (2 X 1) for the Zn-covered surface and (1 x 2) for the Se- and Te-covered surface. The SL structure was confirmed by investigating the satellite diffraction peaks in X-ray diffraction spectra."
-}<|im_end|>

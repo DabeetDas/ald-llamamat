@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 50,
-  "density_g_cm3": 9.23,
-  "refractive_index": "2.05 ( 0.02 for hafnium oxide, 2.10 ( 0.01 for zirconium oxide",
-  "surface_roughness_nm": "less than 1% of the film thickness at low deposition temperatures, up to 5% of the film thickness at higher temperatures",
-  "crystal_phase": "Amorphous",
-  "evidence": "The film surface morphology on silicon was analyzed with a Nanoscope VI (Digital Instruments) atomic force microscope (AFM) with a silicon tip (10-nm radius of curvature) in the tapping mode. One-micron areas were scanned at a rate of 2 Hz at a resolution of 8 bits. The rms roughness of the silicon substrate was typically 0.15 nm before deposition. AFM analysis of the as-deposited hafnium oxide films showed an rms roughness that was less than 1% of the film thickness (smooth films) at low deposition temperatures (Figures 5 and 6). The rms roughness reached as much as 5% of the film thickness for the thickest films deposited at higher temperatures (Figures 5 and 6)."
-}<|im_end|>

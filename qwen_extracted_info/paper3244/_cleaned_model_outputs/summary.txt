@@ -1,8 +1,0 @@
-{
-  "target_material": "Al-ZrO2",
-  "process_type": "ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "MeCp2ZrMe(OMe) (ZrD-04)", "H2O"],
-  "temperature_range": "300 ◦C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of Al-doped ZrO2 (Al-ZrO2) thin films as a gate dielectric for In0.53Ga0.47As. The process uses trimethylaluminum (TMA), MeCp2ZrMe(OMe) (ZrD-04), and H2O as precursors. The ALD process is performed at 300 ◦C, and the films are characterized for their dielectric properties and interface quality. The k value of Al-ZrO2 is demonstrated to be 19 ± 2 on SiO2, and the electrical performance of capacitors with Al-ZrO2 as gate dielectric shows promising properties compared to Al2O3. However, further optimization of the interface reactivity is needed to prevent the formation of undesired In, Ga, and As oxidized species.",
-  "evidence": "The study investigates the atomic layer deposition (ALD) of Al-doped ZrO2 (Al-ZrO2) thin films as a gate dielectric for In0.53Ga0.47As. The process uses trimethylaluminum (TMA), MeCp2ZrMe(OMe) (ZrD-04), and H2O as precursors. The ALD process is performed at 300 ◦C, and the films are characterized for their dielectric properties and interface quality. The k value of Al-ZrO2 is demonstrated to be 19 ± 2 on SiO2, and the electrical performance of capacitors with Al-Zr02 as gate dielectric shows promising properties compared to Al2O3. However, further optimization of the interface reactivity is needed to prevent the formation of undesired In, Ga, and As oxidized species."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Nickel nanoparticles",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["bis(methylcyclopentadienyl)nickel(II) (Ni(MeCp)2)", "H2O"],
-  "temperature_range": "200 °C for ALD, 400-800 °C for reduction",
-  "summary": "Nickel nanoparticles were deposited on Si and ceramic substrates using atomic layer deposition (ALD) with bis(methylcyclopentadienyl)nickel(II) (Ni(MeCp)2) and H2O as precursors. The NiO films were reduced in H2 atmosphere at 400-800 °C to form Ni nanoparticles. The size of the nanoparticles was controlled by the reduction temperature, with the largest particles (about 7 nm) formed at 800 °C. The study aimed to develop a method for creating a homogeneous dispersion of fine Ni catalyst particles on porous SOFC anodes.",
-  "evidence": "Ni nanoparticles (diameter < 10 nm) are deposited on Si and ceramic substrates of porous lanthanum-substituted strontium titanate/yttrium-stabilized zirconia (LST/YSZ) composites by a two-step process. First, NiO films are produced by atomic layer deposition at 200 °C using bis(methylcyclopentadienyl)nickel(II) (Ni(MeCp)2) and H2O as precursors. In the second step, the NiO films are reduced in H2 atmosphere at 400-800 °C. The size of the resulting Ni nanoparticles is controlled by the temperature. The largest particles with a diameter of about 7 nm are obtained at 800 °C."
-}<|im_end|>

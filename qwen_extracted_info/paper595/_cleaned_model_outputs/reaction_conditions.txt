@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface-controlled deposition mechanism was observed, where the Sr(thd)2 pulse time and O3 pulse time were optimized. The growth rate was constant at 0.53 A° per cycle between 280–410 8C. The TiO2 surface inhibited the formation of the subsequent Sr layer. The growth rate was dependent on the Sr:Ti pulsing ratio, and the surface chemistry played a dominant role.",
-  "intermediate_species": ["SrCO3", "TiO2", "Sr(thd)2", "surface hydroxyls"],
-  "evidence": "The effect of reactant pulsing times was investigated at 325 8C confirming the surface-controlled deposition mechanism. The TiO2 surface was inhibiting the formation of the subsequent Sr layer. The growth rate was found to be greatly dependent on the pulsing ratio of the Sr and Ti precursors. The XRD measurements showed that the films consisted of SrCO3 instead of SrO. The XPS data indicated the presence of SrCO3 and TiO2 phases."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["GTC", "DMG"],
-  "coreactants": ["H"],
-  "purge_gas": [],
-  "carrier_gas": [],
-  "evidence": "In the first step, i.e., the 1 ML growth procedure of the Ge layer on the Si surface, the Si clean surface is exposed to GTC for an interval of t GTC at a temperature T low D 300±C. GTC adsorbs dissociatively on the Si surface in a self-limiting manner, forming several types of chloride surface species. Next, surface-terminating Cl atoms are abstracted completely by an atomic H exposure. Since the substrate temperature is kept low during the atomic H exposure phase to suppress unwanted desorption of GeCl 2, excessively exposing H atoms can adsorb on the surface. Thus, thirdly, the temperature is elevated to T high D 500±C in an ultrahigh vacuum ambient, to remove H atoms completely from the surface by thermal desorption."
-}

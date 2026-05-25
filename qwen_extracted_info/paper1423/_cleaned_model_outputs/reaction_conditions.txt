@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve alternating exposures to Zn(C2H5)2 and H2O for ZnO, and Al(CH3)3 and H2O for Al2O3. The ALD process uses these precursor gases to form the respective oxide layers on the substrate.",
-  "intermediate_species": ["Zn(C2H5)2", "H2O", "Al(CH3)3"],
-  "evidence": "The ZnO films were deposited using alternating exposures to Zn(C2H5)2 and H2O, while the Al2O3 films used alternating Al(CH3)3 and H2O exposures."
-}

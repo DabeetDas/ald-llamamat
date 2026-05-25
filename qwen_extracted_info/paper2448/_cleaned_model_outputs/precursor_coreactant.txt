@@ -1,7 +1,0 @@
-{
-  "precursors": ["(tert-butylimido)-tris(diethylamino)-niobium (TBT-DEN)"],
-  "coreactants": ["hydrogen plasma"],
-  "purge_gas": ["argon"],
-  "carrier_gas": [],
-  "evidence": "As precursors we used (tert-butylimido)-tris(diethylamino)-niobium (TBT-DEN) and hydrogen plasma . The substrates are alternately exposed to these precursors to deposit monolayers of TBTDEN on the surface and reduce the monolayers to form NbN, respectively. In order to prevent gaseous phase reactions and limit the process to surface reactions , purge steps with argon as an inert gas are introduced between the precursor steps."
-}

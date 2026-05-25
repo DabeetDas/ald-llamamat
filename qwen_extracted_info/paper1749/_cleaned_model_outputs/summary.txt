@@ -1,8 +1,0 @@
-{
-  "target_material": "BaTiO3",
-  "process_type": "ALD",
-  "main_precursors": ["Ba(C5Me5)2(THF)2", "Ba(But3C5H2)2(THF)", "Ba(Me2NC2H4C5Me4)2"],
-  "temperature_range": "275–350 °C",
-  "summary": "The study focuses on the synthesis and characterization of cyclopentadienyl barium complexes as precursors for atomic layer deposition (ALD) of BaTiO3. The complexes were tested for their suitability as ALD precursors, and the results showed that they can be used to deposit BaTiO3 films. The thermal stability and volatility of the complexes were evaluated, and it was found that complexes with bulky cyclopentadienyl ligands are the most suitable for ALD.",
-  "evidence": "Complexes 1, 7 and 8 were successfully tested in BaTiO3 thin film depositions by atomic layer deposition (ALD). The average growth rates of the barium titanate films were found to be higher than the 0.3–0.4 Å cycle−1 observed for the binary TiO2 grown from Ti(OPri)4 and water. Ba–Ti–O growth rates of 0.5–0.8 Å cycle−1 for precursor 1 and 0.4 –1.0 Å cycle−1 for precursor 7 were observed. The study also showed that the films deposited at or below 325 °C were essentially amorphous, and annealing at 500 °C crystallized these films into tetragonal BaTiO3."
-}

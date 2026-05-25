@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The HfI4–O2 precursor combination involves the oxidation of adsorbed HfI4 on the substrate surface. The lower O2 partial pressure (13 Pa) is insufficient to oxidize all adsorbed HfI4, resulting in a low growth rate. In contrast, a higher O2 partial pressure (40 Pa) ensures complete oxidation of all adsorbed HfI4, leading to a higher growth rate. The process is self-limiting, and the growth rate is proportional to the number of deposition cycles.",
-  "intermediate_species": ["adsorbed HfI4"],
-  "evidence": "The observed increased growth rate with increasing O2 partial pressure can be explained as follows. With the chosen pulse time (2s), the lower O2 partial pressure (13 Pa) is insufficient to oxidize all adsorbed HfI4 and a low growth rate is accordingly obtained. In contrast, using the higher O2 partial pressure (40 Pa), all adsorbed HfI4 is oxidized resulting in a higher growth rate."
-}

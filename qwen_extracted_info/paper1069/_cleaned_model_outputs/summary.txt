@@ -1,8 +1,0 @@
-{
-  "target_material": "Co3O4",
-  "process_type": "ALD",
-  "main_precursors": ["Co(thd)2", "ozone"],
-  "temperature_range": "114 –307 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of Co3O4 thin films using Co(thd)2 and ozone as precursors on soda-lime glass and Si(100) substrates. The process was found to occur within a temperature range of 114–307 °C, with orientation preferences depending on the substrate and temperature. The films showed a non-monotonic dependence of electrical resistivity on film thickness, with a minimum for films with a high proportion of grain boundaries.",
-  "evidence": "Abstract: Thin films of cobalt oxide were made by atomic layer deposition (ALD), using Co(thd)2 and ozone as precursors. Films were deposited on soda –lime glass and single crystals of Si(100). Pulse and purge parameters for ALD-type growth were established and such growth was found to occur for depositions within the temperature range of 114 –307 °C. A preferred (100)-orientation was observed at the low end of the temperature range for films deposited on soda –lime glass and Si(100). At the high end of the temperature range, films deposited on Si(100) showed (111)-oriented growth, while films deposited on soda –lime glass substrates were unoriented. The electrical resistivity of as-deposited films on soda –lime glass were in the range of 0.13 –4.48 Ω cm and showed a non-monotonic dependence on film thickness, with a minimum for films with a large proportion of grain boundaries."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnAl2O4",
-  "process_type": "thermal ALD",
-  "main_precursors": ["ZnO", "Al2O3"],
-  "temperature_range": "700–850 °C",
-  "summary": "The study describes the synthesis of hierarchical ZnO and ZnAl2O4 nanostructures through a combination of thermal evaporation, oxidation, and atomic layer deposition (ALD). Zn nanowires and polyhedral Zn microcrystals were first oxidized to form ZnO nanostructures, which were then coated with an amorphous Al2O3 layer via ALD. A solid-state reaction between ZnO and Al2O3 at 800 °C transformed the ZnO nanostructures into ZnAl2O4 while preserving their shape. The process leverages the Kirkendall effect to create hollow, tubular structures.",
-  "evidence": "The obtained ZnO nanostructures were homogeneously covered by a shell of amorphous Al2O3 using atomic layer deposition. Through the solid–solid interfacial reaction of ZnO and Al2O3, the 3D nanostructures were transformed to hierarchical ZnAl2O4 nanostructures conserving the shape of the corresponding ZnO nanostructures. The solid-state reaction at 800 °C induced the transformation of ZnO into ZnAl2O4 while preserving the shape of the original nanostructures."
-}<|im_end|>

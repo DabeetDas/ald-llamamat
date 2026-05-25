@@ -1,7 +1,0 @@
-{
-  "precursors": ["Pd(thd)2", "Rh(acac)3", "Pt(acac)2"],
-  "coreactants": ["O3", "H2"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "Nitrogen was produced with a Domnick Hunter G2100E nitrogen generator and used as both a carrier and a purging gas."
-}

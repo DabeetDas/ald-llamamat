@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3 and Ta2O5",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Ta(OC2H5)5", "trimethylaluminium (Al(CH3)3)", "H2O"],
-  "temperature_range": "160 ◦C and 250 ◦C",
-  "summary": "The study investigates the corrosion protection properties of ultra-thin Al2O3 and Ta2O5 coatings deposited by atomic layer deposition (ALD) on stainless steel substrates. The effects of deposition temperature and coating thickness on the corrosion resistance are analyzed using electrochemical methods and time-of-flight secondary ion mass spectrometry (ToF-SIMS). The results show that higher deposition temperatures reduce contamination and improve the sealing performance of the coatings, leading to better corrosion resistance.",
-  "evidence": "The text states that the coatings were deposited by ALD using Ta(OC2H5)5, trimethylaluminium (Al(CH3)3), and H2O as precursors at temperatures of 160 ◦C and 250 ◦C. It also mentions that the polarization data show a decrease in current density with increasing coating thickness, and the 50 nm thick Al2O3 films deposited at 250 ◦C block pitting corrosion in 0.8 M NaCl. The ToF-SIMS analysis indicates that higher deposition temperatures reduce contamination, which affects the sealing performance and corrosion resistance."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "ALD",
-  "main_precursors": ["Hf[N(CH3)2]4", "H2O"],
-  "temperature_range": "205 – 400 -C",
-  "summary": "HfO2 films were grown by atomic layer deposition using Hf[N(CH3)2]4 and H2O on Si(100) substrates in the temperature range of 205 – 400 -C. The films were almost amorphous but dense, with refractive index values characteristic of dense HfO2 layers. The films contained significant amounts of hydrogen and carbon, which could be reduced by annealing. At intermediate temperatures, films with high permittivity and breakdown fields were obtained.",
-  "evidence": "HfO2 films were grown by atomic layer deposition from Hf[N(CH3)2]4 and H2O on Si(100) substrates in the temperature range of 205 – 400 -C. Around 250 -C, nearly amorphous but dense films grew without marked dependence of their physical properties on the process parameters. The residual hydrogen, carbon and nitrogen contents in the as-deposited films were marked, exceeding several at.%. Hydrogen content was reduced 4 – 5 times by annealing procedures. At intermediate temperatures, films with permittivity of 15 – 16 and breakdown fields 4 – 5 MV/cm could be grown."
-}

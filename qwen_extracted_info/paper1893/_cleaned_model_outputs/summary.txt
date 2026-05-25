@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Titanium(IV) isopropoxide (Ti(OiPr)4)", "Water", "Diethylzinc (ZnEt2)", "Water"],
-  "temperature_range": "70–300 °C",
-  "summary": "The study describes the low-temperature atomic layer deposition (ALD) of ZnO on biotemplates, specifically inner shell membranes (ISM) of avian eggshells, to create flexible and photocatalytic structures. The ZnO-coated membranes showed good bactericidal effects, mechanical flexibility, and thermal stability, even at relatively low temperatures. The ALD process used ZnEt2 and water as precursors, and the resulting ZnO films exhibited polycrystalline phases with strong bactericidal efficiency.",
-  "evidence": "The text states: 'low-temperature ZnO atomic layer deposition (ALD) on biotemplates... The ZnO membranes, even though prepared at fairly low temperatures (B100 1C), exhibited polycrystalline phases and showed a good bactericidal eﬃciency as well as higher mechanical ﬂexibility than the TiO2 coated membranes.'"
-}

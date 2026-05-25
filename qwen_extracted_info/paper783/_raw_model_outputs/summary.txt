@@ -1,8 +1,0 @@
-{
-  "target_material": "Alumina (Al2O3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Al(CH3)3", "H2O"],
-  "temperature_range": "177 °C",
-  "summary": "Ultra-thin alumina films are successfully deposited on primary micron-sized diamond particles using a scalable fluidized bed reactor at 177 °C. The process involves sequential exposures of Al(CH3)3 and H2O, resulting in a growth rate of 0.12 nm per coating cycle. The conformal coating is confirmed by X-ray photoelectron spectroscopy, transmission electron microscopy, and surface area analysis.",
-  "evidence": "The studies of fluidization at reduced pressure show that micron-sized diamond particles can be fluidized with the assistance of vibration. Alumina films are grown at 177 °C by atomic layer deposition (ALD) using sequential exposures of Al(CH3)3 and H2O. The deposited alumina films are characterized by X-ray photoelectron spectroscopy, transmission and scanning electron microscopy, inductively coupled plasma-atomic emission spectroscopy, and surface area. The results indicate that the alumina films are conformally coated on the primary diamond particle surface, and the growth rate of alumina is 0.12 nm per coating cycle."
-}<|im_end|>

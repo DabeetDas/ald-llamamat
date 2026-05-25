@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminium oxide (Al2O3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethylaluminium (TMA)", "water"],
-  "temperature_range": "60 /C14 C to 90 /C14 C",
-  "summary": "The study investigates the chemical reactions during low-temperature atomic layer deposition (ALD) of aluminium oxide on various polymers, including polypropylene (PP), polyvinyl alcohol (PVA), and polyamide-6 (PA-6). The research focuses on the interaction between trimethylaluminium (TMA) and water as precursors with polymer surfaces, examining the reaction mechanisms, mass uptake, and structural changes using in situ techniques such as quartz crystal microgravimetry (QCM) and Fourier-transform infrared (FTIR) spectroscopy. The study highlights the temperature-dependent growth of ALD films and the chemical interactions between TMA and polymer functional groups, such as amide and hydroxyl groups.",
-  "evidence": "Exposing polypropylene to trimethylaluminium results in reactant uptake with minimal precursor/polymer reaction, but the precursor/water ALD sequence leads to subsurface alumina nucleation. A similar treatment to polyvinyl alcohol and polyamide-6 results in rapid precursor diffusion and significant reaction observed by IR, and the extent of reaction is consistent with results from in situ quartz crystal microgravimetry and transmission electron microscopy. Reacting trimethylaluminium with polyamide-6 leads to methyl group insertion into the amide carbonyl group and interaction with the hydrogen-bonded amine units."
-}<|im_end|>

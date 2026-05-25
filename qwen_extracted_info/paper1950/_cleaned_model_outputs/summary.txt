@@ -1,8 +1,0 @@
-{
-  "target_material": "tantalum oxide",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["TaCl5", "H2O"],
-  "temperature_range": "250°C",
-  "summary": "The study investigates the Atomic Layer Deposition (ALD) of tantalum oxide using TaCl5 and H2O as precursors. The reactivity of TaCl5 towards a tantalum oxide surface was found to be significantly higher than that of H2O. The sticking coefficients and diffusion coefficients of the precursors were determined using quartz crystal microbalance measurements during ALD cycles. The results indicate that the sticking coefficient of TaCl5 on a tantalum oxide surface is much higher than that of H2O.",
-  "evidence": "Abstract: Model calculations and time dependencies of the mass deposited by quartz crystal microbalance during atomic layer growth of tantalum oxide were used to determine sticking coefficients of 'TaCl5' and 'H2O', and diffusion coefficient of 'TaCl5'. It is shown that the reactivity of 'TaCl5' towards 'H2O' treated tantalum oxide surface is significantly higher than the reactivity of 'H2O' towards TaCl5-treated tantalum oxide."
-}

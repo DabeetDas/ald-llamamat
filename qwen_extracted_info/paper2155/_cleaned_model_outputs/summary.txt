@@ -1,8 +1,0 @@
-{
-  "target_material": "tantalum nitride",
-  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["isopropylimido(triethylmethylamido)tantalum"],
-  "temperature_range": "400 °C",
-  "summary": "Tantalum nitride films were deposited by plasma enhanced atomic layer deposition (PEALD) using an amido-based metal organic tantalum precursor. The as-deposited films were amorphous and contained 15 at. % oxygen. High temperature annealing caused the transformation from the amorphous Ta3N5 phase to the cubic TaN phase, resulting in a significant decrease in resistivity. The study focused on the phase transformation and electrical properties of PEALD TaN films for gate electrode applications.",
-  "evidence": "Tantalum nitride thin films were deposited at 400 ° C by plasma enhanced atomic layer deposition using an amido-based metal organic tantalum precursor. The as-deposited film was amorphous and contained 15 at. % oxygen in the bulk of the film. High resistivity Ta 3N5 phase crystallized into the cubic TaN phase at 850 ° C. The resistivity of the crystallized film was estimated to be 600 /H9262/H9024cm from four point probe measurements."
-}

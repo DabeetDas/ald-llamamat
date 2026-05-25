@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The PVP film passivated the surface against the ALD growth of noble metals and oxides. The PVP film prevented the ALD growth so well that even possible traces of PVP on patterned areas inhibited or retarded the growth of noble metals. The PVP film also allowed oxide films to grow on its surface but not through it to the substrate.",
-  "intermediate_species": [
-    "PVP residues"
-  ],
-  "evidence": "The PVP film passivated the surface against the ALD growth of all the tested noble metals. EDX measurements showed that the noble metals were grown only on patterned areas of the sample, i.e., areas from where the PVP had been removed by UV lithography, but no growth occurred on PVP. The PVP film residues probably retarded the iridium growth. The PVP film acted differently with the tested ALD oxide processes than with the noble metal processes. EDX measurements showed that the Al2O3 and ZrO2 films were grown on patterned areas as well as on the PVP film. However, the oxide films did not grow on the silicon surface below the PVP film."
-}

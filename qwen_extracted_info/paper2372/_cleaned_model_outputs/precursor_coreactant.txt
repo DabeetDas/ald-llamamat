@@ -1,7 +1,0 @@
-{
-  "precursors": ["TMA", "H2O"],
-  "coreactants": ["O3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "Duenas et al presented the electrical characterization of Al2O3 based metal–insulator–semiconductor structures prepared by ALD using AlCl3 and H2O as precursors. So far, the most commonly used precursor combination for ALD is TMA and H2O, because both are inexpensively volatile liquids and thus easy to handle. In the ALD growth chamber, the film growth took place in a cyclic manner at a base pressure of∼1 Torr. One growth cycle consisted of four consecutive steps: (1) exposure to the metal precursor TMA; (2) nitrogen purge; (3) exposure to H2O and (4) another nitrogen purge."
-}

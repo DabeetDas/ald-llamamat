@@ -1,8 +1,0 @@
-{
-  "target_material": "AlN",
-  "process_type": "plasma enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["TMA", "NH3", "N2/H2", "Ar"],
-  "temperature_range": "200 ◦C",
-  "summary": "The study investigates the influence of plasma chemistry on impurity incorporation in AlN films prepared by plasma enhanced atomic layer deposition (PEALD). The films deposited using NH3- and N2/H2-based processes are nitrogen-rich and heavily hydrogenated, with higher carbon impurities observed in the N2/H2-processes. The presence of nitrile groups and unremoved ligands from the metal precursor are identified as sources of carbon impurities. The study also highlights discrepancies in hydrogen content measurements between ERDA and FTIR techniques, suggesting the presence of unbonded hydrogen in NH3-based films and a lower concentration of unbonded hydrogen in N2/H2-based films. The use of N2-plasma is found to be unsuitable for low-temperature deposition due to instability and oxidation.",
-  "evidence": "The text discusses the influence of plasma chemistry on impurity incorporation in AlN films prepared by plasma enhanced atomic layer deposition (PEALD). It mentions the use of NH3- and N2/H2-based processes, the presence of nitrogen-rich and hydrogenated films, and the identification of carbon impurities from unremoved ligands and plasma reactions. The study also highlights discrepancies in hydrogen content measurements and the unsuitability of N2-plasma for low-temperature deposition."
-}

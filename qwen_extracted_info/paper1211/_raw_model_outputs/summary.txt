@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["(ethylbenzyl)(1-ethyl-1,4-cyclohexadienyl)Ru(0)", "O2"],
-  "temperature_range": "225°C to 325°C",
-  "summary": "The study investigates the atomic layer deposition (ALD) of ruthenium thin films using (ethylbenzyl)(1-ethyl-1,4-cyclohexadienyl)Ru(0) (EBECHRu) and O2 on SiO2 and TiN starting surfaces. The process behavior, surface chemistry, and film properties are analyzed, highlighting the influence of the starting surface on growth characteristics and film quality. The results show that the presence of Ti(O,N)x on TiN surfaces enhances the growth per cycle (GPC) and affects the film's crystallinity and resistivity.",
-  "evidence": "The process characteristics, the surface chemistry, and the resulting film properties of Ru deposited by atomic layer deposition from (ethylbenzyl)(1-ethyl-1,4-cyclohexadienyl)Ru(0) (EBECHRu) and O2 are discussed. The surface chemistry was characterized by both combustion reactions as well as EBECHRu surface reactions by ligand release. The process behavior on TiN starting surfaces at 325°C was strongly influenced by Ti(O,N)x, segregation on the growing Ru surface with consequences for both the growth per cycle as well as the film properties."
-}<|im_end|>

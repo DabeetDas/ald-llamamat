@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process for AlWxFy involved alternating exposures of WF6 and TMA, with self-limiting precursor exposures. The growth mechanism likely involves surface reactions between WF6 and TMA, forming AlF3 and W species, with byproducts such as tungsten and tungsten carbide contributing to the growth rate.",
-  "intermediate_species": ["AlF3", "W", "WCx"],
-  "evidence": "ALD of AlWxFy was accomplished using alternating exposures of WF6 and TMA. In situ quartz crystal microbalance (QCM) measurements recorded during alternating, 1 s WF6 and TMA exposures at 200 °C showed a staircase pattern comprised of 160 ng/cm2 steps consistent with layer-by-layer growth. X-ray photoelectron spectroscopy (XPS) survey scans, performed during depth-profiling of these films deposited on silicon, revealed that they are comprised of W, C, Al, and F. Higher resolution XPS analysis demonstrated that the Al and F are bound as AlF3 and that the W may be present as both metallic W and tungsten carbide (WCx)."
-}

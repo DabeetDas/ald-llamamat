@@ -1,8 +1,0 @@
-{
-  "target_material": "Cobalt",
-  "process_type": "Plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["dicobalt hexavarbonyl tert-butylacetylene (CCTBA)"],
-  "temperature_range": "100 to 250°C",
-  "summary": "The study describes the use of plasma-enhanced atomic layer deposition (PEALD) to deposit cobalt thin films for copper direct electroplating. The process uses dicobalt hexavarbonyl tert-butylacetylene (CCTBA) as a precursor. The effects of H2 plasma pre-treatment of the TaNx substrate and variations in H2 gas flow rate during deposition on the resistivity of the Co films were investigated. The results showed that H2 plasma treatment increased nucleation density and wettability, leading to lower resistivity and smoother films. The Co films were used as a seed layer for Cu direct plating, achieving void-free filling of trenches.",
-  "evidence": "Plasma-enhanced atomic layer deposition (PEALD) of cobalt thin films for copper direct electroplating. ... To decrease the resistivity of Co films, the TaNx substrate was pre-treated with H2 plasma and the flow rate of H2 gas during CCTBA feeding and reactant feeding pulses was increased. ... H2 plasma treatment of the TaNx substrate increased the nucleation density and wettability of the substrate, thereby decreasing the resistivity of the resultant Co films. ... The resistivity of Co films decreased with increasing H2 gas flow rate during both CCTBA feeding and reactant feeding pulses."
-}

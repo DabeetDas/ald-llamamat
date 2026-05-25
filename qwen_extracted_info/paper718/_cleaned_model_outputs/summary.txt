@@ -1,8 +1,0 @@
-{
-  "target_material": "NiTiO3",
-  "process_type": "ALD",
-  "main_precursors": ["Ni(acac)2", "O3", "Ti(OiPr)4", "H2O"],
-  "temperature_range": "175–275 ◦C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of oriented nickel titanate (NiTiO3) using Ni(acac)2 with O3 and Ti(OiPr)4 with H2O as precursors. The ALD process was conducted within a temperature range of 175–275 ◦C, where a stable growth rate of ~43 pm/subcycle was observed. The films exhibited a (0 0 1) orientation, smooth surface morphology, and a direct band gap of 2.27 eV. Annealing at 650 ◦C improved crystallinity and relaxed strain. The process enables precise stoichiometry control through a 1:1 pulsing ratio of NiO:TiO2.",
-  "evidence": "The combination of the two well behaved binary oxide ALD processes, NiO (Ni(acac)2 + O3) and (TiO2 (TiOiPr)4 + H2O), provide excellent means for depositing thin films of NixTi1−xOy with highly controllable stoichiometry. An ALD window was observed between 175 and 275 ◦C for this composition, within which the growth rate remained unchanged at ∼43 pm/subcycle. The described process yielded smooth (0.4–0.9 nm RMS roughness), crystalline films of NiTiO3 as-deposited on Si (1 0 0) substrates, with a strained (0 0 1) orientation. Annealing at 650 ◦C for 15 min relaxed the strain and improved the crystallinity."
-}

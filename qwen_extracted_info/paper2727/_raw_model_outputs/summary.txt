@@ -1,8 +1,0 @@
-{
-  "target_material": "Si",
-  "process_type": "UV-photostimulated atomic-layer epitaxy (ALE)",
-  "main_precursors": ["Si2H6"],
-  "temperature_range": "180--400°C",
-  "summary": "The study describes the mechanisms and kinetics of Si atomic-layer epitaxy (ALE) on Si(001)2×1 substrates using Si2H6 as the precursor. The process involves dissociative adsorption of Si2H6, surface dissociation, and photostimulated desorption of H. The growth rate remains constant at 0.4 monolayers per cycle over a wide range of parameters, including temperature, pressure, and laser energy density. The process is self-limiting due to site blocking during adsorption and surface dissociation steps, and the films are epitaxial with no extended defects.",
-  "evidence": "The text states that 'Single-crystal Si films have been grown on Si(001)2X 1 substrates by ultraviolet (UV) photostimulated atomic-layer epitaxy (ALE) from Si2 H6.' It also mentions that 'the ALE deposition rate R per growth cycle remains constant at 0.4 monolayers (ML)... over a wide range of deposition parameters: growth temperature (Ts = 180--400·C)...' and 'the growth process is self-limited due to site blocking during the adsorption and surface dissociation steps.'"
-}<|im_end|>

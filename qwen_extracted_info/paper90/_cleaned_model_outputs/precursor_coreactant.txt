@@ -1,7 +1,0 @@
-{
-  "precursors": ["Pd(hfac)2"],
-  "coreactants": ["formalin"],
-  "purge_gas": ["argon"],
-  "carrier_gas": [],
-  "evidence": "The typical ALD cycle consisted of 5 s pulse of Pd(hfac) 2, 15 s exposure, and 10 s purge, followed by a 1 s pulse of formalin, 15 s exposure and 60 s purge with argon."
-}

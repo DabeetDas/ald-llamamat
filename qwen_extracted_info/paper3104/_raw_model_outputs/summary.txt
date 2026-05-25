@@ -1,8 +1,0 @@
-{
-  "target_material": "Tantalum carbonitride (TaCN)",
-  "process_type": "Plasma enhanced atomic layer deposition (PEALD) and thermal atomic layer deposition (thermal ALD)",
-  "main_precursors": ["Tert-butylimido-tris(diethylamido)tantalum (TBTDET)", "Ammonia"],
-  "temperature_range": "100–400°C",
-  "summary": "Tantalum carbonitride (TaCN) thin films were deposited using plasma enhanced atomic layer deposition (PEALD) and thermal atomic layer deposition (thermal ALD) with tert-butylimido-tris(diethylamido)tantalum (TBTDET) and ammonia as precursors. The study investigated the effects of deposition temperature and plasma power on the film composition, phase distribution, and electrical properties. The PEALD process produced denser films with lower oxygen uptake and lower resistivity compared to thermal ALD. The film resistivity was significantly influenced by the phase composition, with the PEALD process yielding a resistivity of about 6.75×10^4 Ω·cm at 350°C and 150 W.",
-  "evidence": "Tantalum carbonitride /H20849TaCN/H20850thin films were deposited on SiO2 surface with plasma enhanced atomic layer deposition /H20849PEALD/H20850 and thermal atomic layer deposition using tert-butylimido /H20851tri-diethylamido/H20852tantalum /H20849TBTDET/H20850 and ammonia. It was confirmed that the film was a mixture of TaC, TaN, Ta3N5, and Ta2O5 with oxide phase formed from the postdeposition uptake of oxygen from the air. The resistivity of TaCN film deposited at 350°C and 150 W using PEALD process was about 6.75×10^4 Ω·cm."
-}<|im_end|>

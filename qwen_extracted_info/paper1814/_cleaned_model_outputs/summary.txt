@@ -1,8 +1,0 @@
-{
-  "target_material": "Bismuth vanadate",
-  "process_type": "Surface-functionalized atomic layer deposition (SF-ALD)",
-  "main_precursors": ["Triphenyl bismuth (BiPh3)", "Vanadium(V) triisopropoxy oxide (VTIP)", "Alcohols (ethanol, 2-propanol, methanol)"],
-  "temperature_range": "130 oC for BiPh3 and VTIP, 450 oC for calcination",
-  "summary": "Surface-functionalized atomic layer deposition (SF-ALD) was used to deposit phase-pure monoclinic-scheelite bismuth vanadate (BiVO4) with improved stoichiometry and photoactivity. The process involved the use of alcohols to inhibit vanadium oxide deposition, allowing for precise control over the Bi:V ratio. The resulting films exhibited enhanced photoelectrochemical performance for solar water splitting.",
-  "evidence": "Phase pure monoclinic-scheelite bismuth vanadate was obtained by surface-functionalized atomic layer deposition (SF-ALD) and the resulting films were highly photoactive."
-}

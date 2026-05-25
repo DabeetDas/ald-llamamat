@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the interaction of the precursor SiH2(NHtBu)2 with the substrate and N2-fed plasma. The process is described as a half-reaction of the substrate with the precursor and with N2-fed plasma, leading to the formation of SiN x films. The reaction mechanism is not explicitly detailed with formal chemical equations, but it is implied that the precursor reacts with the surface and plasma to form the SiN x layer.",
-  "intermediate_species": ["Si-OH", "Al(CH3)3", "surface hydroxyls", "formate species"],
-  "evidence": "The text describes the ALD process as involving half-reactions of the substrate with the precursor SiH2(NHtBu)2 and with N2-fed plasma. It mentions the formation of SiN x films through these interactions but does not provide explicit chemical equations. The intermediate species are inferred from the context of surface reactions and the presence of hydroxyl groups and other surface species."
-}

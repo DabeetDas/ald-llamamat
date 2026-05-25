@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["HfCl4", "H2O"],
-  "temperature_range": "880–940°C",
-  "summary": "The study investigates the phase transformations in hafnium dioxide (HfO2) thin films grown by atomic layer deposition (ALD) at high temperatures. The cubic phase of HfO2 was observed in nanocrystalline thin films grown from HfCl4 and H2O at substrate temperatures of 880–940°C. The cubic phase was formed at properly chosen precursor doses and was observed on the surface of films, which primarily consisted of monoclinic HfO2. The thickness of the surface layer containing the cubic phase was estimated to be 5–10 nm. The formation of the cubic phase was accompanied by an increase in the ionicity of O–Hf bonds.",
-  "evidence": "High-temperature cubic phase of HfO2 was observed by reflection high-energy electron diffraction in nanocrystalline thin films grown by atomic layer deposition from HfCl4 and H2O at substrate temperatures of 880–940°C. The phase was formed at properly chosen precursor doses and it was observed on the surface of films, which according to X-ray diffraction data consisted of monoclinic HfO2. The thickness of the surface layer, in which the cubic phase appeared, was estimated to be 5–10 nm. According to Auger electron spectroscopy data, formation of the cubic phase was accompanied with an increase in the ionicity of O–Hf bonds."
-}

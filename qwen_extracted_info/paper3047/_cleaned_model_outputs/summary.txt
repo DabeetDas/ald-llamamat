@@ -1,8 +1,0 @@
-{
-  "target_material": "Hf–Si–O",
-  "process_type": "ALD",
-  "main_precursors": ["HfCl4", "SiCl4", "H2O"],
-  "temperature_range": "300 to 350°C",
-  "summary": "The study focuses on the Atomic Layer Deposition (ALD) of Hf–Si–O using HfCl4, SiCl4, and H2O. The process is analyzed for growth per cycle, composition, and the effect of temperature, pulse sequence, and precursor doses. The Hf–Si–O films are found to have low chlorine impurity content and are suitable for advanced MOS devices with low leakage current and EOT requirements for 45 nm technology nodes and below.",
-  "evidence": "Atomic layer deposition of Hf–Si–O and HfO2 using HfCl4, SiCl4, and H2O was studied. The HfCl4/SiCl4/H2O chemistry results in carbon-free films with low chlorine impurity content. The Hf–Si–O films of Hf-rich composition are meeting the leakage-current requirements for 45 nm technology node and below."
-}

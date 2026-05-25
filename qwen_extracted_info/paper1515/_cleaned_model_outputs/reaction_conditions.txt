@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD process involves the sequential surface reactions where titanium tetraisopropyl oxide (TIP) and water are used as precursors. The surface reactions are primarily driven by the interaction of TIP with surface hydroxyl groups, followed by a water pulse to regenerate the hydroxyl sites. The chemical reactions are self-limiting and lead to the formation of TiO2 layers.",
-  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum"],
-  "evidence": "The chemical reactions in ALD process strongly depend on the specific reactive functional groups present on the surface prior to the deposition. Thus, the advantage of using poly(vinyl pyrrolidone) (PVP) ES-ﬁbers as the template compared to other species is that the molecules contain functional groups that can react directly with the ALD precursors without any surface modification."
-}

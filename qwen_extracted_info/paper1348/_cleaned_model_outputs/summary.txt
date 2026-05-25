@@ -1,8 +1,0 @@
-{
-  "target_material": "molybdenum oxide",
-  "process_type": "thermal ALD",
-  "main_precursors": ["molybdenum hexacarbonyl (Mo(CO)6)", "ozone"],
-  "temperature_range": "165 °C",
-  "summary": "The study explores the use of molybdenum oxide as a negative electrode material in lithium-ion capacitors (LICs) through atomic layer deposition (ALD). The molybdenum oxide/carbon nanotube (CNT) hybrid materials were synthesized via ALD and post-deposition annealing in different atmospheres to achieve various crystal structures. The crystal structure significantly influences the electrochemical performance, with MoO2-CNT showing superior specific energy and power compared to other forms. The study highlights the importance of overpotential and kinetics of the lithiation reaction in determining device performance.",
-  "evidence": "The study explores the use of molybdenum oxide as a negative electrode material in lithium-ion capacitors (LICs) through atomic layer deposition (ALD). The molybdenum oxide/carbon nanotube (CNT) hybrid materials were synthesized via ALD and post-deposition annealing in different atmospheres to achieve various crystal structures. The crystal structure significantly influences the electrochemical performance, with MoO2-CNT showing superior specific energy and power compared to other forms. The study highlights the importance of overpotential and kinetics of the lithiation reaction in determining device performance."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the self-limited surface reactions of ATSB with coreactants (water, oxygen plasma, and water plasma) to generate deposition. At low temperatures (region I), the deposition is self-limited and occurs through surface reactions without significant decomposition. Above 200 °C (region II), decomposition of ATSB starts, which affects the reaction mechanism.",
-  "intermediate_species": ["alkoxy ligands", "surface hydroxyls", "carbon impurities", "hydrogen residue"],
-  "evidence": "The surface reaction mechanism involves the self-limited surface reactions of ATSB with coreactants (water, oxygen plasma, and water plasma) to generate deposition. At low temperatures (region I), the deposition is self-limited and occurs through surface reactions without significant decomposition. Above 200 °C (region II), decomposition of ATSB starts, which affects the reaction mechanism. The XPS analysis indicated the presence of carbon impurities and hydrogen residue, suggesting the involvement of alkoxy ligands and surface hydroxyls in the reaction."
-}<|im_end|>

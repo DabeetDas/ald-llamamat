@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["tert-butoxytris(ethylmethylamido)hafnium (BTEMAH)", "ozone"],
-  "temperature_range": "300 °C",
-  "summary": "This study reports the atomic layer deposition (ALD) of hafnium oxide (HfO2) using a novel heteroleptic precursor, tert-butoxytris(ethylmethylamido)hafnium (BTEMAH), and ozone. The process achieves a high growth rate of 0.16 nm/cycle and high Hf density, which contributes to anti-crystallization properties, maintaining the amorphous phase up to 15 nm thickness. The films exhibit enhanced thermal stability and electrical performance, making them suitable for high-k gate dielectrics in semiconductor devices.",
-  "evidence": "HfO2 thin films were grown by atomic layer deposition (ALD) using a novel heteroleptic precursor, tert-butoxytris(ethylmethylamido)hafnium [HfOtBu(NEtMe)3; BTEMAH] and ozone. The self-regulated ALD growth behavior was confirmed at a growth temperature of 300 °C. The higher Hf density induces anti-crystallization properties in the as-grown film. Consequently, the amorphous phase of a HfO2 film is retained up to 15 nm during deposition at 300 °C. The capacitance equivalent thickness of the films with thicknesses ranging from 4 to 13 nm is relatively constant up to a PDA temperature of 1000 °C."
-}

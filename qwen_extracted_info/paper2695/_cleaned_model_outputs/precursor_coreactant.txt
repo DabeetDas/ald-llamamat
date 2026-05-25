@@ -1,7 +1,0 @@
-{
-  "precursors": ["Co( ipr2AMD)2"],
-  "coreactants": ["NH3 plasma"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["nitrogen gas"],
-  "evidence": "The Co( ipr2AMD)2 precursor was kept in a glass container connected to the reactor and maintained at 50 °C, and then delivered into the reactor using pure nitrogen gas as carrier gas with the flow rate at 50 sccm during the precursor feed time. NH3 plasma was used as the nitrogen source and the coreactant, in which the plasma energy was mainly used to produce active species such as NH2, NH, and N."
-}

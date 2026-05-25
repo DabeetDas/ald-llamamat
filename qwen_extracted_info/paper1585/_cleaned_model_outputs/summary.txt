@@ -1,8 +1,0 @@
-{
-  "target_material": "Anodic aluminum oxide (AAO) membranes",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["trimethyl aluminum (TMA)", "water vapor", "titanium tetrachloride (TiCl4)"],
-  "temperature_range": "177 °C",
-  "summary": "The study investigates the effect of ALD coatings on the surface structure of AAO membranes. ALD was used to coat AAO membranes with Al2O3 and TiO2. The ALD process was performed at 177 °C using alternating exposures to TMA and water vapor for Al2O3, and TiCl4 and water vapor for TiO2. The study found that ALD coatings can effectively cover the surface of AAO membranes, reducing the presence of acid anions and modifying the surface hydroxyl groups.",
-  "evidence": "The ALD process was performed at 177 °C using alternating exposures to TMA and water vapor for Al2O3, and TiCl4 and water vapor for TiO2. The study found that ALD coatings can effectively cover the surface of AAO membranes, reducing the presence of acid anions and modifying the surface hydroxyl groups."
-}

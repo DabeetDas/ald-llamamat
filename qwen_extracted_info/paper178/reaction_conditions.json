@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The reaction between AIP and water shows a typical surface-saturated mode at the AIP temperature of 130 8C to 140 8C.",
-  "intermediate_species": [
-    "Al 2O3"
-  ],
-  "evidence": "According to the literature, a Zn/Al ALD cycle ratio of 8:1 was considered as the high doping limit of ALD-grown AZO films, and several groups demonstrated that AZO films with a Zn/Al cycle ratio of 19:1 show the best conductivity. To optimize the space interval between doping layers, keeping to a total of 480 cycles, alternate depositions of various numbers of ZnO ALD cycles (9, 19, 39) and one ALD cycle of Al 2O3 at the AIP temperature of 1358C on Si for thickness measurements, and on glass for resistivity measurements, were made."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "TaSiOx",
-  "process_type": "Atomic-layer deposition (ALD)",
-  "main_precursors": ["TaCl5", "SiCl4", "H2O"],
-  "temperature_range": "250 /C176C",
-  "summary": "The study investigates the atomic-layer deposition (ALD) of tantalum silicate (TaSiOx) as a gate dielectric for III–V MOS devices, particularly on InGaAs substrates. The process uses TaCl5 and SiCl4 as precursors with H2O as an oxidizer, and is performed at 250 /C176C. The deposited TaSiOx films exhibit a high dielectric permittivity and a low interface defect density, comparable to state-of-the-art ALD Al2O3, making it a promising candidate for advanced MOS devices.",
-  "evidence": "TaSiOx thin films with Si/(Ta + Si) mole fractions between 0 and 0.6 have been deposited using atomic-layer deposition on Si and InGaAs at 250 /C176C. Interface defects on InGaAs were on the order of 1012 cm/C02 eV/C01, which is comparable to state-of-the-art Al2O3 deposited by atomic-layer deposition using Al(CH3)3 and H2O while the dielectric permittivity of TaSiOx is considerably higher."
-}

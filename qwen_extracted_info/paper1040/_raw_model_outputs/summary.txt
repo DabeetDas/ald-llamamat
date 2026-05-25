@@ -1,8 +1,0 @@
-{
-  "target_material": "Nd2O3 and NdAlO3",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Nd(thd)3", "O3", "(CH3)3Al", "H2O"],
-  "temperature_range": "200–450 8C",
-  "summary": "Nd2O3 and NdAlO3 thin films were deposited using ALD with Nd(thd)3, O3, (CH3)3Al, and H2O as precursors. The films were analyzed for crystallinity, impurities, and stability. Nd2O3 films showed cubic (100) orientation at 290–325 8C with a relative permittivity of 10.5. The carbon content decreased with increasing temperature and could be further reduced by annealing. NdAlO3 films deposited at 300 8C were amorphous but crystallized during annealing in nitrogen or oxygen at 850–900 8C.",
-  "evidence": "Nd2O3 and NdAlO3 thin films were deposited onto Si(100) and soda lime glass by atomic layer deposition using Nd(thd)3, (CH3)3Al and H2O as precursors at 200–450 8C. Cubic (100) oriented Nd2O3 films with a relative permittivity of 10.5 were obtained at 290–325 8C. The carbon content of the films deposited at low temperatures was high but decreased with increasing temperature and could be further reduced by annealing at 650–700 8C. NdAlO3 films deposited at 300 8C were amorphous but crystallized during annealing in nitrogen or oxygen at 850–900 8C."
-}<|im_end|>

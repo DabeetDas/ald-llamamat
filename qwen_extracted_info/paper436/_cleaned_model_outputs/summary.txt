@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO:Al",
-  "process_type": "Atomic layer epitaxy (ALE)",
-  "main_precursors": ["dimethyl zinc (DMZn)", "trimethyl aluminum (TMAl)"],
-  "temperature_range": "120-350°C",
-  "summary": "The study describes the atomic layer epitaxy (ALE) growth of Al-doped ZnO thin films using organometallic precursors. The process involves reacting zinc and aluminum precursors with water at substrate temperatures ranging from 120 to 350°C. The growth rate varied between 0.5 to 2.5 Å/cycle depending on the precursors and substrate temperature. The films showed good uniformity and transparency, with resistivities as low as 1 × 10⁻³ Ω·cm. The study aimed to apply these films as transparent conductive electrodes for copper indium diselenide (CIS) thin film solar cells.",
-  "evidence": "An atomic layer epitaxy process for growing Al-doped ZnO thin films is presented. Organometallic precursors of zinc and aluminum were used to react with water at substrate temperatures of 120-350°C. Growth rate varied from 0.5 to 2.5 Å/cycle, depending on precursors and substrate temperatures used. With optimum doping, sheet resistances of 10 Ω/□ with 1 μm thick films were obtained."
-}

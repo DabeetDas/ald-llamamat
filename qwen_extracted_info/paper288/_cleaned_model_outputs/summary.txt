@@ -1,8 +1,0 @@
-{
-  "target_material": "MoO x",
-  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
-  "main_precursors": ["(NtBu)2(NMe2)2Mo", "O2"],
-  "temperature_range": "180 /C14 C",
-  "summary": "The paper describes a plasma-enhanced atomic layer deposition (PE-ALD) process for depositing molybdenum oxide (MoO x) as hole-selective contacts in silicon heterojunction (SHJ) solar cells. The process uses a combination of plasma parameters to adjust the stoichiometry of the MoO x films and achieve high growth rates at temperatures below 200 /C14 C. The study shows that the MoO x layers significantly impact the open-circuit voltage (VOC) and cell performance, with the best results obtained using a 2-second O2 plasma step and a 10-nm-thick oxide layer.",
-  "evidence": "A method for the deposition of molybdenum oxide (MoO x) with high growth rates at temperatures below 200 /C14 C based on plasma-enhanced atomic layer deposition is presented. The stoichiometry of the overstoichiometric MoO x films can be adjusted by the plasma parameters. First results of these layers acting as hole-selective contacts in silicon heterojunction solar cells are presented and discussed."
-}

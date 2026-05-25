@@ -1,7 +1,0 @@
-{
-  "precursors": ["trimethylgallium (TMGa)", "tris(dimethylamino)phosphine (TDMAP)"],
-  "coreactants": [],
-  "purge_gas": ["nitrogen"],
-  "carrier_gas": [],
-  "evidence": "Depositions were performed from 400 to 500 ° C using trimethylgallium and tris /H20849dimethylamino/H20850phosphine precursors. The TMGa pulses were held for 10 s at a partial pressure of 300 mTorr and then purged with 300 SCCM of nitrogen for 20 s. The TDMAP was held for 10 s at 100 mTorr and then purged for 60 s."
-}

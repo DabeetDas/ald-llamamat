@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "S-termination on Ge surfaces is desorbed at an elevated temperature prior to ALD process, forming Ge dangling bonds which may be OH-terminated. The interfacial thickness is thinner than the surface oxidized in O3 ambient due to the retardation of surface oxidation after sulfur desorption and formation of dangling bonds.",
-  "intermediate_species": ["Ge dangling bonds", "OH-terminated bonds"],
-  "evidence": "However, in our MEIS measurement, sulfur was not detected in the transition layer, which indicates that the desorption of sulfur occurred prior to the ALD process at 350 8C. This behavior is consistent with the reports of Ma et al. and Frank et al., in which desorption of sulfur occurred below 320 8C. Therefore, this suggests that a robust S-termination on the Ge surface is desorbed at an elevated temperature, and that Ge dangling bonds are formed prior to the ALD process. Because water vapor is first introduced in the reactor, the Ge dangling bond may be OH-terminated."
-}<|im_end|>

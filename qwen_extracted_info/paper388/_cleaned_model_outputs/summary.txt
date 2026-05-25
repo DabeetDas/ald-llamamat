@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs and AlAs",
-  "process_type": "Pulsed Jet Epitaxy (PJE)",
-  "main_precursors": ["trimethylgallium (TMGa)", "trimethylaluminum (TMA)", "arsine gas (AsH3)"],
-  "temperature_range": "450 to 600 °C",
-  "summary": "A new atomic layer epitaxy (ALE) technique called pulsed jet epitaxy (PJE) was developed for the growth of GaAs and AlAs thin films. The process uses trimethylgallium (TMGa) and trimethylaluminum (TMA) as group III sources and arsine gas (AsH3) as the arsenic source. The technique enables high purity thin film growth with a self-limiting mechanism (SLM) under a wide range of growth conditions. The study highlights the potential applications of this technique for device processes, including selective growth of fine patterns and uniform growth on large-scale wafers.",
-  "evidence": "A new ALE technique called pulsed jet epitaxy (PJE) was developed for the growth of thin films of GaAs and AlAs and the possibilities of applications of this technique to device processes. Differing from previously reported ALEs, the new technique uses selective adsorption of group III metal-organic molecules on group V surface atoms and enables us to grow high purity thin films with a clear self-limiting mechanism (SLM) under a wide range of growth conditions."
-}

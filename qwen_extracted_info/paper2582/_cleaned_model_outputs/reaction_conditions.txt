@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the dissociative chemisorption of O2, providing atomic O necessary for the oxidation of the precursor ligands. The O2 plasma facilitates nucleation by delivering reactive oxygen species, which may also etch the Ru film, competing with deposition. The nucleation delay is reduced with plasma-assisted ALD, and the surface roughness increases due to the higher energy flux from the plasma, possibly through Ostwald ripening.",
-  "intermediate_species": ["Ru surface species", "O radicals", "TiO2-like surface species"],
-  "evidence": "The text discusses the dissociative chemisorption of O2, providing atomic O necessary for the oxidation of the precursor ligands. It also mentions that the O2 plasma facilitates nucleation by delivering reactive oxygen species, which may etch the Ru film, competing with deposition. The nucleation delay is reduced with plasma-assisted ALD, and the surface roughness increases due to the higher energy flux from the plasma, possibly through Ostwald ripening."
-}

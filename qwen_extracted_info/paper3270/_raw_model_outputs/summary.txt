@@ -1,8 +1,0 @@
-{
-  "target_material": "Co films",
-  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
-  "main_precursors": ["Co(EtCp)2", "NH3 plasma"],
-  "temperature_range": "125–225 °C",
-  "summary": "The study describes the plasma-enhanced atomic layer deposition (PE-ALD) of Co films using Co(EtCp)2 as a metal precursor and NH3 plasma. The process window is 125–225 °C with a growth rate of ~0.073 Å/cycle. The Co films contain Co, C, N, and O elements. The resistivity of the Co films decreases with increasing NH3 pulse time, achieving a low resistivity of 117 μΩ cm with a 40 s pulse time. The root mean square roughness remains low, indicating a flat film structure.",
-  "evidence": "The results indicate that the process window is 125–225 °C with a growth rate of ~ 0.073 Å/cycle. That is to say, the connection of Et group to Cp ligand can enable a stable film growth at 125 °C, while the corresponding temperature must be higher than 200 °C in terms of Co(Cp)2 and Co(MeCp)2. The deposited films contain N and O elements besides dominant Co and C. Furthermore, the prolongation of the NH3 pulse time significantly enhances the conductivity of the Co film and a low resistivity of 117 μΩ cm can be achieved with a NH3 pulse time of 40 s. The root mean square roughness shows a smaller variation with the deposition temperature and maintains a low value of ~ 0.3 nm, indicative of a flat Co film."
-}<|im_end|>

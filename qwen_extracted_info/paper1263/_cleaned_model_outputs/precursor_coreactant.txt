@@ -1,7 +1,0 @@
-{
-  "precursors": ["Trimethylaluminum (TMA)", "HF-pyridine"],
-  "coreactants": ["HF"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The AlF3 ALD reactions were performed using TMA (97%, Sigma-Aldrich) and HF-pyridine (70 wt % HF, Sigma-Aldrich) as the reactants. Reactants were dosed into a N2 carrier gas. A mass flow controller supplied a constant N2 carrier gas flow of 150 sccm."
-}

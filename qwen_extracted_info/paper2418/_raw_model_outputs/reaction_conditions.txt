@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The change in carrier type from p-type to n-type is attributed to positive fixed charges introduced at the interface between the HfO2 and SiO2 layers. These charges modify the energy band diagram near the source contact, leading to a reduction in the Schottky barrier thickness for electrons and enhancing electron tunneling probability.",
-  "intermediate_species": ["positive fixed charges"],
-  "evidence": "The change in carrier type is attributed to positive fixed charges introduced at the interface between the HfO2 and SiO2 layers. The potential distribution and tunneling probability of electrons through the Schottky barrier are calculated. We propose a novel technique to control the conduction type of CNFETs by utilizing interface fixed charges."
-}<|im_end|>

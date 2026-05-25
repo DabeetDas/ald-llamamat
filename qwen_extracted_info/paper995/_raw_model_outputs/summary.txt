@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3/HfO2/Al2O3",
-  "process_type": "atomic layer deposition (ALD)",
-  "main_precursors": ["Al(CH3)3", "HfCl4", "H2O"],
-  "temperature_range": "300/C176C",
-  "summary": "The study examines the structural and electrical properties of an Al2O3/HfO2/Al2O3 nano-laminate deposited via atomic layer deposition (ALD) on a strained SiGe surface-channel for use in MOSFETs. The ALD process uses Al(CH3)3, HfCl4, and H2O as precursors at 300/C176C. The resulting films show good interfacial integrity and electrical performance, with the Al2O3 layers preventing interfacial reactions between HfO2 and SiGe. The EOT is determined to be 1.5±0.1nm for the 0.5nm/3nm/0.5nm configuration.",
-  "evidence": "The Al2O3/HfO2/Al2O3 nano-laminate was prepared by means of atomic layer deposition, and the SiGe channel and gate by chemical vapor deposition. The Al2O3/HfO2/Al2O3 nano-laminate with a target thickness combination of 0.5nm/3nm/0.5nm was then deposited, using Al(CH3)3, HfCl4 and H2O at 300/C176C."
-}<|im_end|>

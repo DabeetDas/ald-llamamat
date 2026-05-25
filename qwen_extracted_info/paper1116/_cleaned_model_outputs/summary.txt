@@ -1,8 +1,0 @@
-{
-  "target_material": "aluminum oxide",
-  "process_type": "thermal ALD",
-  "main_precursors": ["trimethylaluminum (TMA)", "water"],
-  "temperature_range": "100 °C",
-  "summary": "The study compares different coating techniques, including atomic layer deposition (ALD), to fabricate barrier layers on packaging materials. ALD was found to be the most suitable technique for improving barrier properties against water vapor and oxygen. The ALD process used trimethylaluminum (TMA) and water as precursors, and the deposited aluminum oxide layers showed excellent barrier performance, particularly on biodegradable polylactic acid (PLA)-coated paperboard.",
-  "evidence": "Atomic layer deposition (ALD) is a surface controlled layer-by-layer process based on self-terminating gas–solid reactions and is uniquely suited to produce high-performance gas diffusion barrier coatings on porous materials as it allows preparation of dense and pin-hole-free inorganic films that are uniform in thickness even deep inside pores, trenches and cavities of various dimensions. The ALD-Al2O3 depositions of 250, 500 and 1000 cycles were carried out in a Picosun SUNALE™ reactor at 100 °C reaction temperature. Trimethylaluminum (TMA, electronic grade purity, SAFC Hitech) and water were used as precursors. The resultant film growth rates and actual film thicknesses on the polymer-coated boards could not be directly measured. Instead, we estimated the film thicknesses based on the growth rate determined to be 0.094 nm/cycle with a Nanospec AFT4150 reflectometer for films grown with the same TMAH2O ALD process on a silicon wafer Si(100)."
-}

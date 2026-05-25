@@ -1,7 +1,0 @@
-{
-  "precursors": ["Diethyl zinc (DEZn), Zn(C2H5)2", "Tetrakis(dimethylamino) tin (TDMASn), Sn(N(CH3)2)4"],
-  "coreactants": ["Deionized water, H2O"],
-  "purge_gas": ["Nitrogen gas, N2 (99,9999%)"],
-  "carrier_gas": ["Nitrogen gas, N2 (99,9999%)"],
-  "evidence": "Parameters Condition\nZinc precursor Diethyl zinc (DEZn), Zn(C2H5)2\nTin precursor Tetrakis(dimethylamino) tin (TDMASn), Sn(N(CH3)2)4\nOxygen precursor Deionized water, H2O\nCarrier gas Nitrogen gas, N2 (99,9999%)"
-}

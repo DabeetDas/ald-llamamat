@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The precursors react with the functional groups on the wafer surface. When all available groups are saturated the reaction stops and the excess of non-reacted molecules is removed from the reaction chamber by an inert gas flow. Then the second precursor is introduced which chemisorbs onto the active sites.",
-  "intermediate_species": ["Si-OH", "Si=O", "Si-O-Al(CH3)2", "Al-OH*", "Si-O-Al(CH3)2", "Si-OH*"],
-  "evidence": "The precursors react with the functional groups on the wafer surface. When all available groups are saturated the reaction stops and the excess of non-reacted molecules is removed from the reaction chamber by an inert gas flow. Then the second precursor is introduced which chemisorbs onto the active sites."
-}

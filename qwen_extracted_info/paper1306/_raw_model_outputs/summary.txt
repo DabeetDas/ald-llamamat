@@ -1,8 +1,0 @@
-{
-  "target_material": "Gold",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Me2Au(S2CNEt2)", "Ozone"],
-  "temperature_range": "180 °C",
-  "summary": "This study investigates the thermal atomic layer deposition (ALD) of gold using the precursor Me2Au(S2CNEt2) and ozone. The process is characterized by a self-limiting mechanism, with a growth temperature of 180 °C. The study provides insights into the nucleation, surface chemistry, and epitaxial growth of gold films on various substrates, highlighting the importance of surface termination and the role of ozone in ligand removal and surface activation. The research also addresses the challenges of achieving high synthetic yields and the potential applications of ALD-grown gold in optoelectronics and catalysis.",
-  "evidence": "The study describes the thermal ALD of gold using Me2Au(S2CNEt2) and ozone, with a growth temperature of 180 °C. It details the self-limiting nature of the process, the role of ozone in ligand removal, and the epitaxial growth on substrates like mica, sapphire, and silicon. The research also discusses the challenges in achieving high synthetic yields and the potential applications of ALD-grown gold."
-}<|im_end|>

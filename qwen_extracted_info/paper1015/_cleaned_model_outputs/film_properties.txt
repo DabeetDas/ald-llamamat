@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 168,
-  "density_g_cm3": 2.75,
-  "refractive_index": "1.92 to 2.03 at 630.2 nm",
-  "surface_roughness_nm": "0.9 nm, 1.4 nm, 1.6 nm, 1.7 nm",
-  "crystal_phase": "hexagonal wurtzite",
-  "evidence": "Fig. 3 (a) shows that the film is crystallized with a wurtzite structure and the vertical drop lines at the bottom of the graph indicate the XRD pattern of hexagonal wurtzite powder AlN (database file from the International Centre for Diffraction Data 00-025-1133). Only two peaks of (100) and (110) can be clearly seen , which indicates (100) preferred orientation. The same preferential growth has been observed in the literature for AlN grown by T-ALD. Fig. 3 (b) shows the SEM image of the sample, which has rounded grain morphology. The atomic concentration from EPMA was determined to be 44, 47, 4 and 5 at. % for Al, N, O and C, respectively. Thickness was measured to be 168 nm. The deposition with a reasonable growth rate per cycle (GPC) (0.042 nm/cycle), as shown in Fig. 4 b, only started at the substrate temperature of 400 °C, which corresponds to the decomposition of TMA."
-}

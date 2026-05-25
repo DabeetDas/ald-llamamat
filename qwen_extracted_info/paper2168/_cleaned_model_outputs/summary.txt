@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2/Al2O3 nanolaminate films",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["Tetrakis(ethylmethylamino)hafnium (TEMAHf)", "trimethyl aluminum (TMA)"],
-  "temperature_range": "250 °C",
-  "summary": "The study investigates the effect of the interface between Al2O3 and HfO2 sublayers on the dielectric constant of HfO2/Al2O3 nanolaminate films deposited by plasma-enhanced atomic layer deposition (PEALD). The dielectric constant was found to increase with decreasing sublayer thickness due to the formation of a thin Hf–O–Al mixture layer at the interface, which significantly affects the electrical properties of the nanolaminate films.",
-  "evidence": "The effect of the interface between Al2O3 and HfO2 sublayers on the dielectric constant was investigated in HfO2/Al2O3 nanolaminate films deposited using plasma-enhanced atomic layer deposition. After annealing at 700 °C, the dielectric constants of the nanolaminate films with a sublayer thickness of 40 Å or greater were the same as the calculated values for a series of capacitors consisting of amorphous Al2O3 and monoclinic or tetragonal HfO2. As the sublayer thickness was reduced to 10 Å, the dielectric constant increased up to 17.7 because a thin Hf–O–Al mixture layer, of which the number increases drastically in the nanolaminate films with thin sublayers, is formed at the interface."
-}

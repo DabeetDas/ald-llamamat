@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Germanium doping raises the conduction band level of SnO2 while reducing the electron concentration by reducing the oxygen vacancies in the film. Nitrogen incorporation in the film serves to reduce the large electron density from 5×1019 cm−3 down an order of magnitude to 6×1018 cm−3 to compensate for the higher carrier density due to the reduction in germanium doping.",
-  "intermediate_species": ["oxygen vacancies", "nitrogen"],
-  "evidence": "Germanium doping raises the conduction band level of SnO2 while reducing the electron concentration by reducing the oxygen vacancies in the film. By incorporating nitrogen into the film using ammonia gas, the carrier concentration of (Sn,Ge)O2 can be reduced to match the absorber layer. Charge compensation occurs when acceptor levels that are created in the SnO2 bandgap neutralize the electron density due to oxygen vacancies, leading to the reduced carrier density in the material."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "La2O3",
-  "process_type": "ALD",
-  "main_precursors": ["La(Cp)3", "H2O", "Al(CH3)3", "O3"],
-  "temperature_range": "260–500 °C",
-  "summary": "The study investigates the chemical and structural properties of La2O3 films deposited by atomic layer deposition (ALD) on silicon substrates, with a focus on the effects of growth temperature and postdeposition annealing. The films are capped with a thin Al2O3 layer to prevent hydrolysis and improve crystallinity. The optimal conditions for achieving a high hexagonal La2O3 phase are identified.",
-  "evidence": "The text states that La2O3 films were grown by ALD using La(Cp)3 and H2O precursors at temperatures ranging from 260–500 °C. The films were capped with a thin Al2O3 layer using trimethylaluminum and H2O precursors at 250 °C. The study also discusses the impact of postdeposition annealing temperatures (600–1100 °C) on the crystalline structure of the films."
-}

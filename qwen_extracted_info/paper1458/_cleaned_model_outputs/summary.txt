@@ -1,8 +1,0 @@
-{
-  "target_material": "Yttria-stabilized zirconia (YSZ)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Tetrakis(dimethylamido)zirconium", "Tris(methylcyclopentadienyl)yttrium", "Distilled water"],
-  "temperature_range": "250 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of yttria-stabilized zirconia (YSZ) films for solid oxide fuel cells. The process uses tetrakis(dimethylamido)zirconium and tris(methylcyclopentadienyl)yttrium as precursors with distilled water as oxidant. The films were characterized for their composition, crystallinity, and performance as electrolytes in fuel cells. The results showed high power densities at low temperatures, indicating the effectiveness of ALD in producing thin, high-performance YSZ films.",
-  "evidence": "Yttria-stabilized zirconia (YSZ) films were synthesized by atomic layer deposition (ALD). Tetrakis-(dimethylamido)zirconium and tris(methylcyclopentadienyl)yttrium were used as ALD precursors with distilled water as oxidant. The microstructure of the polycrystalline films consisted of grains of tens of nanometers in diameter. Maximum power densities of 28 mW/cm2, 66 mW/cm2, and 270 mW/cm2 were observed at 265 °C, 300 °C, and 350 °C, respectively."
-}

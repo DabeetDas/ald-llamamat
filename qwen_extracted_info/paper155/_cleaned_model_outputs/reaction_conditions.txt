@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The ALD processes involve a self-limiting growth mechanism where the surface reacts with the metal precursor and water vapor. The metal precursor pulses generate an atomic monolayer in a self-limiting manner, and water vapor pulses are used to regenerate surface hydroxyl sites. The self-limiting growth is confirmed at 350 °C for all the metal precursors examined.",
-  "intermediate_species": ["surface hydroxyls", "monomethyl aluminum", "formate species"],
-  "evidence": "The atomic layer deposition (ALD) of HfO2 and ZrO2 thin films is investigated using (MeCp)2HfMe2, (MeCp)2Hf(OMe)(Me), (MeCp)2ZrMe2, and (MeCp)2Zr(OMe)(Me) as the precursors at deposition temperatures between 300 and 500 °C, with water vapor as the oxygen source. A self-limiting growth mechanism is confirmed at 350 °C for all the metal precursors examined. The processes provide nearly stoichiometric HfO2 and ZrO2 films with carbon and hydrogen concentrations below 0.5 and 1.0 at.-%, respectively, for representative samples. All films are polycrystalline as deposited, and possess a thin interfacial SiO2 layer."
-}

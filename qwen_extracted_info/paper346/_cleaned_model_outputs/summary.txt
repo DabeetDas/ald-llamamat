@@ -1,8 +1,0 @@
-{
-  "target_material": "CdTe",
-  "process_type": "Atomic-Layer Epitaxy (ALE)",
-  "main_precursors": ["Cd", "Te"],
-  "temperature_range": "260 to 290 °C",
-  "summary": "The study investigates the atomic-layer epitaxy (ALE) growth of (100) oriented CdTe on (100) GaAs substrates. It demonstrates that growth of exactly one monolayer per reaction cycle is possible in a temperature range between 260 and 290 °C. At higher temperatures, a second range with a temperature-independent growth rate exists, where the average coverage per reaction cycle is only 0.5 monolayers. The study also presents a model that describes this behavior and predicts that the stability range of the ALE process can be shifted by changing the molecular beam fluxes.",
-  "evidence": "We present results of atomic-layer epitaxy (ALE) growth of (100) oriented CdTe on (100) GaAs substrates. It is shown that growth of exactly one monolayer per reaction cycle is possible in a temperature range between 260 and 290 °C. In this range, the growth rate is independent of the substrate temperature. At higher temperatures, a second range with temperature independent growth rate exists, where the average coverage per reaction cycle is only 0.5 monolayers. A model is presented which describes this behavior and leads to the prediction that the stability range of the ALE process can be shifted in temperature by changing the molecular beam fluxes."
-}

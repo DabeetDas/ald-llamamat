@@ -1,8 +1,0 @@
-{
-  "target_material": "anatase titanium dioxide (TiO2) with Nb2O5 or Ta2O5",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Ti(OMe)4", "Nb(OEt)5", "Ta(OEt)5", "H2O"],
-  "temperature_range": "215 °C for deposition, 500 °C or above for annealing",
-  "summary": "The study demonstrates the formation of large anatase monocrystals through atomic layer deposition (ALD) of mixed TiO2 with Nb2O5 or Ta2O5, followed by postdeposition annealing. The crystallization process occurs explosively, resulting in highly ordered anatase surfaces with exceptional lateral grain growth.",
-  "evidence": "We show that when a suitable amount of Nb2O5 or Ta2O5 is mixed with TiO2 using atomic layer deposition (ALD), upon postdeposition annealing large ∼10-100 µm sized anatase monocrystals are formed in films thinner than 100 nm on amorphous substrates. The crystallization seems to proceed explosively."
-}

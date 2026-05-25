@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "ALD",
-  "main_precursors": ["DEZn", "O3", "H2O"],
-  "temperature_range": "180 °C",
-  "summary": "The study investigates the growth of ZnO thin films using atomic layer deposition (ALD) with ozone (O3) and deionized water (H2O) as oxidants. The process involves three-pulsed O3 and one-pulsed H2O, with post-deposition thermal annealing (TA) at 300 °C in an oxygen atmosphere. The results show reduced intrinsic strain and stress, lower background electron concentration, and improved surface roughness.",
-  "evidence": "Deposition temperature and thickness of ZnO epilayers are 180 °C and 85 nm, respectively. Post-deposition thermal annealing is conducted at 300 °C in the ambience of oxygen (O2) for 1 h. With strong oxidizing agent O3 and post-deposition TA in growing ZnO, intrinsic strain and stress are reduced to 0.49% and 2.22 GPa, respectively, with extremely low background electron concentration (9.4 × 1015 cm−3)."
-}

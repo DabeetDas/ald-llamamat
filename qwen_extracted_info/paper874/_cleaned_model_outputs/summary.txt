@@ -1,8 +1,0 @@
-{
-  "target_material": "TaN",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Pentakis-dimethylamine-tantalum (PDMAT)", "Ammonia"],
-  "temperature_range": "275 °C",
-  "summary": "The study focuses on the characterization of ultra-thin TaN films deposited via Atomic Layer Deposition (ALD) using FTIR and ellipsometry. The films are grown on Si(100) substrates at 275 °C using PDMAT and ammonia as precursors. The analysis reveals the presence of impurities such as H, C, and O, which are removed through post-annealing. The Ta–N bonding vibration is observed at 1190 cm⁻¹, independent of film thickness and annealing temperature. The band gaps of the films decrease with increasing thickness, and the optical properties are influenced by the presence of impurities and their removal during annealing.",
-  "evidence": "The text states that 'Atomic layer-deposited (ALD) ultra-thin TaN x films were reported promisingly to be as a diffusion barrier for Cu metallization and a newly introduced metal gate in the fabrication of sub-micro-electronic devices.' It also mentions that 'the deposition temperature is at 275 °C' and that 'pentakis-dimethylamine-tantalum (PDMAT) and ammonia were used as depositing precursors.' Additionally, it notes that 'the vibration of Ta–N bonding is at the wavenumber of 1190 cm⁻¹, which is independent of the film thickness and post-annealing temperature.'"
-}

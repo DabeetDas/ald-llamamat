@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ti(CpMe)(NMe2)3"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["O2"],
-  "carrier_gas": [],
-  "evidence": "During the TiO2 deposition, the substrate was alternately exposed to Ti(CpMe)(NMe2)3 (SAFC Hitech Ltd.) and a 200 W O2 plasma with dosing times of 5 and 10 s, respectively, separated by 5 s purge steps. The chamber was continuously purged by O2 at 7.5 mTorr provided through the ICP source, which was possible since no reaction between O2 and the precursor was observed under the conditions employed."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["Trimethyl aluminum (TMA)", "Titanium tetrachloride (TiCl4)", "Vanadyl oxytriisopropoxide (VOTP)", "Diethyl zinc (DEZ)", "Pd hexafluoroacetylacetonate (Pd(hfac) 2)"],
-  "coreactants": ["H2O", "H2O2", "HCOH"],
-  "purge_gas": [],
-  "carrier_gas": [],
-  "evidence": "Table 1: Precursors and deposition temperatures for ALD film growth.\nALD film Metal source Oxidant/reductant Deposition temperature ( ◦C) Reference\nAl2O3 Trimethyl aluminum (TMA) H 2O 177 [ 8]\nTiO2 Titanium tetrachloride (TiCl4) H 2O 100 [ 9]\nV2O5 Vanadyl oxytriisopropoxide (VOTP) H 2O2 100 [ 10]\nZnO Diethyl zinc (DEZ) H 2O 177 [ 11]\nPd Pd hexafluoroacetylacetonate (Pd(hfac) 2) HCOH 200 [ 12]"
-}<|im_end|>

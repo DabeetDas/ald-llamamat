@@ -1,7 +1,0 @@
-{
-  "precursors": ["Sr(iPr3Cp)2", "Ti(O-iPr)2(tmhd)2", "Cp*Ti(OMe)3"],
-  "coreactants": ["H2O", "O3"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "Ti(O-iPr)2(tmhd)2 and Cp*Ti(OMe)3 are denoted henceforth as Ti-A and Ti-B, respectively, and their schematic structures are shown in Figure 1. The canisters of the Ti-A, Ti-B, and Sr precursor were heated to 130, 80, and 90 °C to maintain the appropriate vapor pressures of the precursors. Ar carrier gas was bubbled through the canisters to deliver the Sr and Ti precursors to the reaction chamber at a flow rate of 200 sccm, and the working pressure of the ALD reactor fluctuated near 0.7 Torr."
-}

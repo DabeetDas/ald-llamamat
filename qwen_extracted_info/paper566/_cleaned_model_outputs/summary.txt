@@ -1,8 +1,0 @@
-{
-  "target_material": "Cd,Mn,Te",
-  "process_type": "UHV ALE",
-  "main_precursors": ["Cd", "Mn", "Te"],
-  "temperature_range": "553 K to 573 K",
-  "summary": "The study investigates the growth of Cd,Mn,Te layers using ultrahigh vacuum atomic layer epitaxy (UHV ALE). The process involves alternating cation and anion deposition intervals, with Cd+ REMS signals indicating surface kinetic processes. The composition x of the ternary compound is influenced by the interaction between cations and anions, with differences observed between UHV ALE and MBE growth.",
-  "evidence": "The REMS signals for Cd+ cations during the deposition and 'dead' times of the ALE cycle were measured. An interesting phenomenon was observed in the REMS Cd+ signal behaviour during the ALE growth of Cd,Mn,Te and Cd,Zn,Te. It consists in an evident increase of the intensity of this signal occurring in cases when both cation elements (Cd + Mn or Cd + Zn) are impinging onto the substrate surface simultaneously. These changes in Cd+ REMS signals (15% and 5% in the cases of Cd + Mn and Cd + Zn simultaneous deposition, respectively) have been attributed to effects of mechanical impacts between 'hot' Mn and a bit 'cooler' Zn atoms with weakly bound 'cool' Cd atoms which are thermally accommodated to the substrate surface."
-}

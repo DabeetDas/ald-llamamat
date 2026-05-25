@@ -1,7 +1,0 @@
-{
-  "precursors": ["VO(OC3H7)3"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ALCVD apparatus is a commercial flow type F120 reactor (ASM-Microchemistry, Finland) using nitrogen (99.999% from Air Liquid, France) as carrier and purging gas; it is equipped with four plates reaction chamber, allowing to process a maximum of four 5 cm /C2 5 cm substrates. The deposition was achieved by repeating up to the desired thickness the following pulse sequence: t1–t2–t3–t4.‘ ‘t1, t2, t3 and t4’’ were, respectively, the individual pulse times (in ms) of triisopropoxyvanadium oxide [VO(OC3H7)3] (denoted VTOP henceforth provided by Alfa Aesar, USA), N2, H2O and N2; these four pulses constitute one ALCVD cycle."
-}

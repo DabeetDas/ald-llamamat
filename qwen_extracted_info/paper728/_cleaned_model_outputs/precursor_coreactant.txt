@@ -1,7 +1,0 @@
-{
-  "precursors": ["Sn(dmamp)2", "DEZn"],
-  "coreactants": ["O2 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "Sn(dmamp)2 and DEZn were used as Sn and Zn sources, respectively, and O2 plasma (150 W) was employed as a reactant. Ar gas was used as both the carrier gas for Sn precursor pulses and the purge gas with a flow rate of 80 sccm."
-}

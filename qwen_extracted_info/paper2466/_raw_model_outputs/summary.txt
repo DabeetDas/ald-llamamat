@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnSe",
-  "process_type": "Atomic-layer epitaxy (ALE)",
-  "main_precursors": ["Zn", "Se"],
-  "temperature_range": "250 °C",
-  "summary": "The study investigates the atomic-layer epitaxy (ALE) growth of ZnSe on GaAs (001) surfaces, revealing the alternating formation of Se-stabilized (2 × 1) and Zn-stabilized c(2 × 2) reconstructions. The growth rate is estimated to be approximately 0.5 bilayer per ALE cycle, and the surface structures are analyzed using RHEED and TRAXS techniques. The findings suggest that the c(2 × 2) surface has a Se-vacancy structure, contrary to previous Zn-vacancy proposals.",
-  "evidence": "The growth rate of ZnSe has been estimated to be about 0.5 bilayer per ALE cycle, which is consistent with the formation of these surface structures. The ZnSe(001) surface has the (2 × 1) Se-dimer and c(2 × 2) Se-vacancy structures under the Se and Zn beams, respectively. The results in Figs. 4 and 8 further support the present analysis that the (2 × 1) and c(2 × 2) surfaces have the Se-dimer and Se-vacancy structures, respectively."
-}<|im_end|>

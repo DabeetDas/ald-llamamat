@@ -1,8 +1,0 @@
-{
-  "target_material": "MoS2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Mo(CO)6", "H2S"],
-  "temperature_range": "155 – 175 oC",
-  "summary": "The study demonstrates the atomic layer deposition (ALD) of MoS2 films using Mo(CO)6 and H2S as precursors. The ALD process occurs in a narrow temperature range of 155–175 oC, where self-limiting growth behavior is observed. The as-grown films are amorphous due to the low growth temperature, but post-annealing under H2S atmosphere improves crystallinity and chemical composition. The process enables uniform film growth on a 4-inch wafer, making it suitable for industrial applications.",
-  "evidence": "Here, we demonstrate the atomic layer deposition (ALD) of MoS2 films with Mo(CO)6 and H2S as the Mo and S precursors, respectively. A self-limiting growth behavior is observed in the narrow ALD window of 155 – 175 oC. The as-grown MoS2 films are amorphous due to the low growth temperature. Post-annealing at high temperatures under H2S atmosphere efficiently improves the film properties including the crystallinity and the chemical composition. Extremely uniform film growth is achieved even on a 4-inch SiO2/Si wafer. These results demonstrate that the current ALD process is well adapted for the synthesis of MoS2 layers for application in industry."
-}<|im_end|>

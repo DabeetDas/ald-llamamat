@@ -1,8 +1,0 @@
-{
-  "target_material": "Silicon Nitride (SiN)",
-  "process_type": "Plasma Enhanced Atomic Layer Deposition (PEALD)",
-  "main_precursors": ["trisilylamine", "H2/N2 RF plasma"],
-  "temperature_range": "300 ◦C-400◦C",
-  "summary": "The study evaluates the use of PEALD SiN as a spacer material for high-k metal gate integration in transistors. PEALD SiN shows improved material quality, conformality, and resistance to wet etches compared to PECVD SiN. The process uses trisilylamine and H2/N2 RF plasma at temperatures between 300 ◦C and 400◦C. The results indicate that PEALD SiN provides better electrical properties and device performance due to its superior conformality and pattern density behavior.",
-  "evidence": "The study evaluates the use of PEALD SiN as a spacer material for high-k metal gate integration in transistors. PEALD SiN shows improved material quality, conformality, and resistance to wet etches compared to PECVD SiN. The process uses trisilylamine and H2/N2 RF plasma at temperatures between 300 ◦C and 400◦C. The results indicate that PEALD SiN provides better electrical properties and device performance due to its superior conformality and pattern density behavior."
-}

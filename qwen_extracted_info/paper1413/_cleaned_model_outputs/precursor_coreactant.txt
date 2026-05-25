@@ -1,7 +1,0 @@
-{
-  "precursors": ["TaCl5", "Ta(OC2H5)5"],
-  "coreactants": [],
-  "purge_gas": ["Nitrogen"],
-  "carrier_gas": ["Nitrogen"],
-  "evidence": "Nitrogen was used as a precursor carrier and purge gas."
-}

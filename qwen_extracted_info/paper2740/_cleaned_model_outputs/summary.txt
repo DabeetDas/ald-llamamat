@@ -1,8 +1,0 @@
-{
-  "target_material": "Al (aluminum)",
-  "process_type": "photodecomposition",
-  "main_precursors": ["trimethylaluminum (TMA)"],
-  "temperature_range": "140 °C",
-  "summary": "The study investigates the role of surface photochemistry in laser chemical vapor deposition (CVD) of aluminum using trimethylaluminum (TMA). The process involves nonthermal photodissociation of methyl groups from the surface, leading to high-quality Al film growth. The results show that vacuum illumination and elevated temperatures reduce methyl contamination, improving film quality.",
-  "evidence": "We show that high quantum yield nonthermal photodesorption of methyl groups from growth surfaces occurs with 193 nm irradiation and can be used to produce Al films of higher quality. It is also found that deposition temperature has dramatic effects on both the surface spectra and the properties of macroscopic films."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tetrakis(ethylmethylamido)hafnium", "H2O vapor"],
-  "temperature_range": "350 °C",
-  "summary": "The study investigates the crystalline structure and interfacial reactions in HfO2 films grown on InP substrates via atomic layer deposition (ALD). The self-cleaning effect during ALD removes interfacial oxides, leading to a clean interface and structural changes in the HfO2 films. The crystalline structure transitions from monoclinic to tetragonal as the film thickness increases, influenced by interfacial energy and lattice mismatch.",
-  "evidence": "The crystalline structure and interfacial reactions in HfO2 films grown on InP substrates was investigated as a function of film thickness. High resolution transmission electron microscopy and x-ray diffraction measurements were used to investigate changes in the crystalline structure of the HfO2 films. As the thickness of the HfO2 increased, the crystal structure was transformed from monoclinic to tetragonal, and the interfacial layer between the HfO2 film and the InP substrate disappeared. High resolution x-ray photoelectron spectroscopy was also applied to confirm the existence of an interfacial chemical reaction in HfO2/InP. An interfacial self-cleaning effect occurred during the atomic layer deposition process, resulting in a clear interface with no indication of an interfacial layer between the HfO2 film and the InP surface. Finally, the crystallization process in the HfO2 films was found to be significantly affected by the interfacial energy."
-}<|im_end|>

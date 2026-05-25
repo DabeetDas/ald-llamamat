@@ -1,8 +1,0 @@
-{
-  "target_material": "p-Cu2O/n-ZnO segmented nano-junctions",
-  "process_type": "Area-selective Atomic Layer Deposition (AS-ALD)",
-  "main_precursors": ["Cu(hfac)2", "water"],
-  "temperature_range": "250°C to 300°C",
-  "summary": "The study describes the use of area-selective atomic layer deposition (AS-ALD) to selectively grow metallic Cu and Cu2O on ZnO and Al-doped ZnO (AZO) substrates with different conductivities. The process utilizes the inherent selectivity of the Cu(hfac)2 precursor toward different ZnO surfaces, allowing for the deposition of Cu on highly conductive areas and Cu2O on low-conductive areas. The results demonstrate the fabrication of p-Cu2O/n-ZnO nano-junctions with rectifying behavior, opening new possibilities for nanoscale device fabrication.",
-  "evidence": "The study describes the use of area-selective atomic layer deposition (AS-ALD) to selectively grow metallic Cu and Cu2O on ZnO and Al-doped ZnO (AZO) substrates with different conductivities. The process utilizes the inherent selectivity of the Cu(hfac)2 precursor toward different ZnO surfaces, allowing for the deposition of Cu on highly conductive areas and Cu2O on low-conductive areas. The results demonstrate the fabrication of p-Cu2O/n-ZnO nano-junctions with rectifying behavior, opening new possibilities for nanoscale device fabrication."
-}

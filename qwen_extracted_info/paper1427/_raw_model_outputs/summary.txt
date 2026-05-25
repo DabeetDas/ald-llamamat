@@ -1,8 +1,0 @@
-{
-  "target_material": "Platinum",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["(methylcyclopentadienyl)trimethylplatinum (MeCpPtMe3)", "oxygen"],
-  "temperature_range": "300 °C",
-  "summary": "Platinum thin films were deposited using atomic layer deposition (ALD) with (methylcyclopentadienyl)trimethylplatinum (MeCpPtMe3) and oxygen as precursors at 300 °C. The films exhibited excellent uniformity, low resistivity, and low impurity content. The growth rate was 0.45 Å per cycle, and the film thickness was linearly dependent on the number of reaction cycles. The study aimed to explore the ALD process for platinum deposition, focusing on its conformality and uniformity for microelectronic applications.",
-  "evidence": "Platinum thin films were grown at 300 °C by atomic layer deposition (ALD) using (methylcyclopentadienyl)trimethylplatinum (MeCpPtMe3) and oxygen as precursors. The films had excellent uniformity, low resistivity, and low-impurity contents. Growth rates of 0.45 Å cycle-1 were obtained with 4 s total cycle times. The film thickness was found to linearly depend on the number of the reaction cycles."
-}<|im_end|>

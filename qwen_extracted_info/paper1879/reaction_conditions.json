@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of the erbium precursor, Er(tBuNC(CH3)NtBu)3, and ozone. The growth rate increased with substrate temperature, indicating a surface reaction mechanism where the precursor reacts with ozone to form Er2O3. The presence of carbonate in the films suggests that some ligand carbon atoms are oxidized by ozone during the reaction.",
-  "intermediate_species": [
-    "carbonate"
-  ],
-  "evidence": "Infrared spectroscopy showed the presence of carbonate, suggesting that the carbon and slight excess of oxygen in the films are due to this species. The growth rate of Er2O3 from 6 and ozone at 300 uC (0.55 A˚ per cycle) is much smaller than the growth of La2O3 films from La(iPrNC(CH3)NiPr)3 and water at the same temperature (0.9 A˚ per cycle)."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "RMnO3 (rare-earth manganates)",
-  "process_type": "Atomic Layer Deposition (ALD) with postdeposition annealing",
-  "main_precursors": ["R(thd)3", "Mn(thd)3", "ozone"],
-  "temperature_range": "225–350 °C",
-  "summary": "The study describes the fabrication of hexagonal and orthorhombic RMnO3 thin films using atomic layer deposition (ALD) with postdeposition annealing. The process involves the use of R(thd)3, Mn(thd)3, and ozone as precursors. The films were deposited at temperatures ranging from 225 to 350 °C, with most depositions carried out at 275 °C. The ALD process allows for excellent control of the R/Mn stoichiometry and the formation of metastable perovskites. The magnetic properties of the films were studied, revealing antiferromagnetic behavior at low temperatures for most samples, with ferromagnetic interactions observed in some cases due to cation vacancies.",
-  "evidence": "Atomic layer deposition (ALD) with subsequent annealing in N2 gas flow was employed to fabricate an extensive series of both hexagonal and orthorhombic rare-earth manganate RMnO3 thin films using R(thd)3, Mn(thd)3, and ozone as precursors. The formation of the metastable perovskites was elegantly enhanced through depositions on coherent perovskite substrates resulting in a complete series (from R = La to Lu) of single-phase RMnO3 perovskites on LaAlO3 substrates. The magnetic properties of the perovskite series exhibited expected antiferromagnetic behaviour at low temperatures (except for R = La which showed ferromagnetic interactions due to cation vacancies)."
-}

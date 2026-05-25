@@ -1,8 +1,0 @@
-{
-  "target_material": "TiO2",
-  "process_type": "Plasma-Assisted ALD",
-  "main_precursors": ["Ti(CpMe)(NMe2)3", "O2 plasma"],
-  "temperature_range": "100, 200, and 300 ◦C",
-  "summary": "Substrate biasing during plasma-assisted ALD allows control of ion energy, enabling phase control of TiO2 thin films. The study demonstrates that varying the bias voltage affects the crystalline phase, mass density, [O]/[Ti] ratio, and growth per cycle (GPC) of the films.",
-  "evidence": "For TiO2 films deposited from Ti(CpMe)(NMe2)3 and O2 plasma it is demonstrated that the crystalline phase can be tailored by tuning the ion energy. Rutile TiO2 was obtained at 200 and 300◦C, typically yielding amorphous and anatase films without biasing. Aspects such as film mass density, [O]/[Ti] ratio and growth per cycle under biased conditions are addressed."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Ruthenium (Ru)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["2,4-dimethylpentadienyl ethylcyclopentadienyl ruthenium (DMPD/EtCp-Ru)", "oxygen"],
-  "temperature_range": "250°C",
-  "summary": "The study investigates the nucleation of ruthenium (Ru) on low-k dielectric films during atomic layer deposition (ALD). The adsorption behavior of Ru precursors on the surface of low-k films is influenced by functional groups such as methyl and hydroxyl groups. The presence of electron-deficient hydroxyl groups enhances the nucleation of Ru by preferential adsorption of electron-rich ligands from the Ru precursor. The study also explores the impact of UV-O3 treatment and silylation on the surface functional groups, which affects the nucleation and growth of Ru films.",
-  "evidence": "Ru was deposited on a shower-head-type thermal ALD system using 2,4-dimethylpentadienyl ethylcyclopentadienyl ruthenium (DMPD/EtCp-Ru) as the metal precursor and oxygen as a reactant at a substrate temperature of 250°C."
-}<|im_end|>

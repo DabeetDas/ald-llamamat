@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "TiCl4 can coordinate with the C=O bond present in PMMA since it is a strong Lewis acid, thus allowing reaction and nucleation of TiO2 on PMMA. In contrast, titanium isopropoxide was virtually unreactive towards PMMA and thus no Ti was detected on PMMA surfaces even after 500 ALD cycles using the TiIP – H2O precursor system.",
-  "intermediate_species": ["TiCl4", "TiIP", "surface hydroxyls", "Ti–O–Si bonds", "Ti–O–Ti bonds"],
-  "evidence": "It is believed that TiCl4 can coordinate with the C=O bond present in PMMA since it is a strong Lewis acid, thus allowing reaction and nucleation of TiO2 on PMMA. In contrast, titanium isopropoxide was virtually unreactive towards PMMA and thus no Ti was detected on PMMA surfaces even after 500 ALD cycles using the TiIP – H2O precursor system."
-}

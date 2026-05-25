@@ -1,8 +1,0 @@
-{
-  "target_material": "Ru (Ruthenium) thin films",
-  "process_type": "thermal ALD",
-  "main_precursors": ["dicarbonyl-bis(5-methyl-2,4-hexanediketonato) Ru(II) (C16H22O6Ru)", "H2 molecules"],
-  "temperature_range": "250 °C",
-  "summary": "The study describes a plasma-free atomic layer deposition (ALD) process for depositing Ru thin films using H2 molecules as a nonoxidizing reactant. The process was optimized to achieve high-quality Ru films with low resistivity and excellent step coverage on high aspect ratio structures. The use of H2 as a reactant allowed for the prevention of interfacial oxide formation on metal substrates, which is critical for semiconductor applications.",
-  "evidence": "The ruthenium (Ru) thin films were grown by atomic layer deposition (ALD) using a sequential supply of dicarbonyl-bis(5-methyl-2,4-hexanediketonato) Ru(II) (C16H22O6Ru) and H2 as a reactant at a substrate temperature of 250 °C. Deposition was possible using H2 molecules without a plasma by increasing the chamber pressure to above 10 Torr. High-quality Ru films with a low resistivity of ~40 Ω·cm and few amount of oxygen (~1.2 at. %) were obtained under a chamber pressure of 300 Torr. The ALD-Ru process proposed in this study showed one of the highest growth rates of 0.12 nm/cycle on a thermally grown SiO2 substrate, as well as a very low number of incubation cycles (approximately 12 cycles). Cross-sectional view transmission electron microscopy showed that no interfacial oxide had formed during the deposition of the ALD-Ru films on a W surface using H2 molecules, whereas ~7 nm thick interfacial oxide was formed when O2 molecules were used as a reactant."
-}

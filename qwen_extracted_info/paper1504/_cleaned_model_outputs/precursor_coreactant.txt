@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ge(OCH3)4", "Ge(OC2H5)4", "Sb(OC2H5)3", "[(CH3)3Si]2Te"],
-  "coreactants": [],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The precursors for Ge, Sb, and Te were Ge(OC2H5)4, Sb(OC2H5)3, and [(CH3)3Si]2Te, respectively, which were contained in separate stainless steel canisters. The precursor vapors were carried into the process chamber with the aid of an Ar carrier gas at a flow rate of 50 standard cubic centimeters per minute (sccm). Ar gas (200 sccm) was used to purge out the physisorbed precursors, cracked ligands, and remaining molecules within the ALD reactor after each precursor pulse."
-}

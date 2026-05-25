@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta2O5",
-  "process_type": "ALD",
-  "main_precursors": ["tantalum ethoxide", "water"],
-  "temperature_range": "130 to 280°C",
-  "summary": "The study investigates the deposition of Ta2O5 thin films using electrostatic spray deposition (ESD) and atomic layer deposition (ALD) as barriers to copper diffusion in interconnect technologies. The ALD process was optimized with parameters such as temperature, number of cycles, and tantalum precursor pulse time. The films were found to be amorphous initially and crystallized after annealing at 980°C, forming a pure monoclinic phase. The ALD technique was shown to produce conformal, dense, and uniform films suitable for advanced microelectronics applications.",
-  "evidence": "Ta2O5 thin films were grown on 2 in. silicon (100) substrates by ALD using a horizontal hot-wall flow-type ALD reactor. Tantalum pentaethoxide and distilled water were used as precursors. The substrate temperature varied from 130 to 280°C. The ALD window was determined to be between 170 and 230°C. After annealing at 980°C in O2, the structure of the crystallized films was found to be pure monoclinic."
-}<|im_end|>

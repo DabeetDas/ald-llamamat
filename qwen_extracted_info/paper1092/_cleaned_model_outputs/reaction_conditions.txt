@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the decomposition of Hf(O-iPr)4 on the Si(100) surface, followed by oxidation with O2. The decomposition of Hf(O-iPr)4 produces propylene and acetone, and the surface species are oxidized to form HfO2.",
-  "intermediate_species": ["Hf(O-iPr)4", "propylene", "acetone", "surface hydroxyls"],
-  "evidence": "The results of the TPD carried out in an UHV, shown in Fig. 4, indicate that Hf(O-iPr)4 started to decompose at about 300 °C, producing propylene (represented by the major mass peak at m/e = 41) and acetone (m/e = 43). These results are similar to those obtained with Ti (O-iPr)4, which decomposed at 330 °C to produce the above two compounds. In Fig. 4, the signals of both compounds show several maxima at different temperatures, i.e., ca. 380, 430, and 560 °C, suggesting that the ligands are dissociated from the compound in sequences."
-}

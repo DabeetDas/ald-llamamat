@@ -1,7 +1,0 @@
-{
-  "precursors": ["tetrakis(dimethylamido)titanium(IV) (TDMATi)", "H2S"],
-  "coreactants": ["H2O"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "TDMATi and H2S were used as precursors for TiO2−xSx ALD chemistry. High purity argon gas was used for purging gas with the flow of 200 sccm."
-}

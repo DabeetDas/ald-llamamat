@@ -1,8 +1,0 @@
-{
-  "target_material": "InAs, GaAs, GaP",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["trimethylgallium", "trimethylindium", "trisdimethylaminoarsine", "trisdimethylaminophosphine", "arsine", "phosphine"],
-  "temperature_range": "360–500°C",
-  "summary": "The study investigates the self-limiting mechanism in atomic layer epitaxy (ALE) for InAs/GaAs, GaAs/InAs, GaP/GaAs, and strained-layered superlattices of (InAs)m(GaAs)n. The self-limiting growth is influenced by lattice mismatch, surface morphology, and misfit dislocations. The process uses pulsed-jet-epitaxy (PJE) with metalorganic compounds and hydrides as precursors.",
-  "evidence": "A self-limiting mechanism in atomic layer epitaxy (ALE) has been investigated for the heterostructures and superlattices of III–V compounds. InAs/InAs(001), InAs/GaAs(001), GaAs/InAs(001), InxGa1/C0xAs/GaAs(001), GaP/GaP(001), GaP/GaAs(001) and (InAs)m(GaAs)n/GaAs(001) were grown by pulsed-jet-epitaxy with trimethylgallium, trimethylindium, trisdimethylaminoarsine, trisdimethylaminophosphine, arsine and phosphine as source materials."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Hafnium silicate",
-  "process_type": "ALCVD",
-  "main_precursors": ["tetrakis(diethylamido) hafnium", "tetra-n-butyl orthosilicate"],
-  "temperature_range": "290-350°C",
-  "summary": "The study describes the Atomic Layer Chemical Vapor Deposition (ALCVD) of hafnium silicate films using tetrakis(diethylamido) hafnium and tetra-n-butyl orthosilicate as precursors. The process was carried out in a temperature range of 290-350°C with a growth rate of 1.1 Å/cycle. The films were characterized for their electrical properties, and the dielectric constant increased upon annealing at 600°C but decreased at higher temperatures. The leakage current density was significantly reduced after annealing at 800°C.",
-  "evidence": "Atomic layer chemical vapor deposition ~ALCVD! of hafnium silicate ﬁlms using a precursor combination of tetrakis ~diethylamido! hafnium, Hfs NsC2H5d2d4, and tetra-n -butyl orthosilicate, Si sOnBud4 was studied for high-dielectric gate oxides. The ALCVD temperature window in our study was 290-350°C with a growth rate of 1.1 Å/cycle. The dielectric constant skd of the as-deposited hafnium silicate ﬁlm increased upon annealing at 600°C, but decreased for annealing above 800°C. The leakage current density of the as-deposited, 600°C, and 800°C annealed ﬁlms was 5.3 3 10−2, 2.2 3 10−2, and 2.7 3 10−6 A/cm2, respectively, at a bias of 21V ."
-}

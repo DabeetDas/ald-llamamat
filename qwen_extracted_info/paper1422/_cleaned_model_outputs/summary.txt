@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum nitride (AlN)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Trimethylaluminum (TMA)", "Ammonia"],
-  "temperature_range": "423 K for TMA, 823 K for ammonia",
-  "summary": "The study describes the growth of aluminum nitride (AlN) on porous alumina and silica using atomic layer deposition (ALD). The process involves separate saturated gas-solid reactions of trimethylaluminum (TMA) and ammonia at specific temperatures. The growth per cycle was observed to increase slightly with the number of reaction cycles. The AlN remained amorphous to X-ray diffraction, and scanning electron microscopy combined with energy-dispersive X-ray spectroscopy revealed that the AlN-type species were spread out evenly on the surface of the particles. The study aimed to prepare AlN-type species on porous alumina and silica and to characterize the structure of the formed Al- and N-containing layer.",
-  "evidence": "Aluminum nitride-type species were prepared on porous alumina and silica by repeated separate, saturated reactions of gaseous trimethylaluminum (TMA) and ammonia with solid substrates. Reaction cycles of TMA at 423 K and ammonia at 823 K were performed up to six times. The amount of hydrogen present in NHx groups increased with the increasing number of reaction cycles. The study aimed to prepare AlN-type species in several cycles of TMA and ammonia on porous alumina and silica and to characterize the structure of the formed Al- and N-containing layer."
-}

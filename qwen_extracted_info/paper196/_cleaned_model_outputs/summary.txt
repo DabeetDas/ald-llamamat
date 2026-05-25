@@ -1,8 +1,0 @@
-{
-  "target_material": "Zn1/C0 xMgxO",
-  "process_type": "ALD",
-  "main_precursors": ["diethyl zinc", "bis-cyclopentadienyl magnesium", "water"],
-  "temperature_range": "105 to 180 8C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of Zn1/C0 xMgxO buffer layers for Cu(In,Ga)Se2 (CIGS) solar cells. The films were grown using diethyl zinc, bis-cyclopentadienyl magnesium, and water as precursors in the temperature range of 105 to 180 8C. The composition of the films varied with deposition temperature and magnesium precursor pulses. The ALD-Zn1/C0 xMgxO buffer layers showed higher efficiency compared to CdS references, with efficiencies up to 14 /C1 1%.",
-  "evidence": "Fabrication of Zn1/C0 xMgxO films by atomic layer deposition (ALD) has been studied for use as buffer layers in Cu(In,Ga)Se2 (CIGS)-based solar cell devices. The Zn1/C0 xMgxO films were grown using diethyl zinc, bis-cyclopentadienyl magnesium and water as precursors in the temperature range from 105 to 180 8C. Completely Cd-free CIGS-based solar cells devices with ALD-Zn1/C0 xMgxO buffer layers were fabricated and showed efficiencies of up to 14 /C1 1%, which was higher than that of the CdS references."
-}

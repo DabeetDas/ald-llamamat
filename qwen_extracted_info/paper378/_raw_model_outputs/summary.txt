@@ -1,8 +1,0 @@
-{
-  "target_material": "InSb",
-  "process_type": "atomic layer epitaxy (ALE)",
-  "main_precursors": ["In", "Sb"],
-  "temperature_range": "300°C for buffer layer growth, 420°C for epilayer growth",
-  "summary": "InSb films were grown on GaAs substrates using atomic layer epitaxy (ALE) to reduce defects caused by lattice mismatch. The study focused on the growth of high-quality InSb layers and diodes, with a particular emphasis on electron mobility and leakage current characteristics. The results showed that the buffer layer significantly reduced defect density, leading to improved electron mobility, although leakage currents remained high.",
-  "evidence": "InSb epilayers on the GaAs substrates were grown at a rate of 1 pm/h at a substrate temperature of 420°C after a 300 8, buffer layer of InSb was grown by atomic layer epitaxy (ALE) at a growth rate of 0.1 pm/h at 300°C. The first 5 pm layer was grown undoped at a growth rate of 1 pm/h and at a substrate temperature of 420°C. The top 0.6 pm Be-doped P-type layer was grown at a lower substrate temperature, 340°C and with a slower growth rate, 0.5 pm/h, to reduce the migration of Be."
-}<|im_end|>

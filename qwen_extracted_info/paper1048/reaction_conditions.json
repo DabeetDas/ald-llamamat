@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the adsorption of metal precursors and oxygen sources on the surface, followed by surface-controlled reactions. The hydroxyl groups on the surface act as adsorption sites for the metal precursors. The growth rate of TiO2 at 250 -C increased when the water pulse was lengthened, indicating a surface reaction involving hydroxyl groups. The growth rate of PbO thin films was found to be 0.13 A ˚ /cycle at 250 -C and 0.10 A ˚ /cycle at 300 -C when using 1 – 1.5 s pulsing times for Ph 4Pb. The surface chemistry usually causes changes in relative growth rates, which can be determined by comparing the observed film thickness with the theoretical thickness calculated from the growth rates of binary oxides.",
-  "intermediate_species": [
-    "hydroxyl groups",
-    "surface hydroxyls"
-  ],
-  "evidence": "These hydroxyl groups then act as adsorption sites for the forthcoming metal precursor. According to Matero et al., in the case of Ti(O- i-Pr)4 the water dose has a significant effect on the growth rate. Also in our experiments the growth rate of TiO2 at 250 -C increased from 0.30 to 0.60 A ˚ per cycle when the water pulse was lengthened from 1 to 1.5 s. However, the lengthening of the water pulse did not change the growth rate at 300 -C, but the deposition rate of 0.44 A ˚ /cycle was observed regardless of the H 2O pulse time. This could be explained by an increase of dehydroxylation rate leading to a constant growth rate independent of the H 2O pulse length. The growth rate of PbO thin films was found to be 0.13 A ˚ /cycle at 250 -C and 0.10 A ˚ /cycle at 300 -C when using 1 – 1.5 s pulsing times for Ph 4Pb."
-}

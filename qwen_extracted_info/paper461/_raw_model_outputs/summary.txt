@@ -1,8 +1,0 @@
-{
-  "target_material": "In2O3 and ITO",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["InCl3", "SnCl4", "H2O"],
-  "temperature_range": "500°C",
-  "summary": "The study investigates the surface morphology and electrical properties of In2O3 and ITO thin films deposited by atomic layer epitaxy (ALE). The effects of film thickness, tin content, and doping schemes on surface morphology are examined. The growth behavior, roughness, and resistivity of the films are analyzed using AFM and STM. The results show that surface roughness increases with film thickness, and the resistivity and roughness are correlated with tin content.",
-  "evidence": "The surface morphology of In2O3 and ITO thin films deposited by atomic layer epitaxy has been studied by AFM and STM. The effects of film thickness, tin content and different doping schemes on the surface morphology were examined. Also the initial growth of SnO2 was studied in order to better understand the influence of the intermediate SnO2 pulses. Increasing film thickness led to increasing surface roughness, but the roughening rate decreased substantially after about 800 deposition cycles. In the IT0 films the dependencies of roughness and electrical resistivity on the tin content were found to be parallel, both having a minimum at a tin content of about 4-7%."
-}<|im_end|>

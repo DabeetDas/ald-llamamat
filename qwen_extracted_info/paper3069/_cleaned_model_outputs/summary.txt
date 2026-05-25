@@ -1,8 +1,0 @@
-{
-  "target_material": "PZT",
-  "process_type": "ALD",
-  "main_precursors": ["Pb(DPM)2", "Ti(Oi–Pr)4", "Zr(DPM)4"],
-  "temperature_range": "240°C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of Pb(Zr,Ti)O3 (PZT) thin films using a combination of binary PbO, TiOx, and ZrOx processes. The process involves the use of water as an oxidant and specific precursors for Pb, Ti, and Zr. The deposition rates of the metal elements were investigated, and the study aimed to achieve uniform composition on 3D structures. The results showed that using Ti(Oi–Pr)4 instead of Ti(Oi–Pr)2 improved the uniformity and self-regulated growth of the PZT films.",
-  "evidence": "Quaternary Pb/Zr,Ti/Ox thin films were deposited at 240°C by a combination of liquid injection atomic layer depositions of binary PbO, TiOx, and ZrOx thin films. We used water as the oxidant and two sets of precursors: Pb(DPM)2, Zr(DPM)4, and either Ti(Oi–Pr)2/DPM2 or Ti(Oi–Pr)4. The deposition rates of the metal elements were investigated as a function of the input of the solutions. A PZT film deposited on a three-dimensional structure had an inhomogeneous cation composition. The film uniformity on the 3D structure was significantly improved by substituting Ti(Oi–Pr)2 with Ti(Oi–Pr)4. In this ALD–PZT process, self-regulated growths were confirmed for Pb and Zr."
-}

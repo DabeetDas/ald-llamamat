@@ -1,7 +1,0 @@
-{
-  "precursors": ["C16H22Ru (1-isopropyl-4-methylbenzene)", "tris(isopropylamino)silane (TIPAS)"],
-  "coreactants": ["NH3 plasma"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The Ru and Si precursors were vaporized in bubblers at 100 and 30°C, respectively, and carried into the process chamber by Ar gas at a flow rate of 50 standard cubic centimeters per minute (sccm). Between the precursor and reactant pulses, a purge process was performed with 300 sccm of Ar."
-}

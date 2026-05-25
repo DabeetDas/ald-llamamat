@@ -1,8 +1,0 @@
-{
-  "target_material": "vanadia",
-  "process_type": "ALD",
-  "main_precursors": ["vanadyl acetylacetonate (VO(acac)2)"],
-  "temperature_range": "453 K",
-  "summary": "The study describes the preparation of vanadium oxide catalysts using atomic layer deposition (ALD) on silica and alumina supports. The ALD process involves the chemisorption of vanadyl acetylacetonate onto surface hydroxyl groups, followed by oxidative treatment. The ALD catalysts showed higher dispersion and easier reduction compared to impregnated catalysts, leading to enhanced catalytic activity in propane dehydrogenation.",
-  "evidence": "The growth of vanadia on silica and alumina was achieved by chemisorption of the volatilized vanadium precursor onto surface hydroxyl groups of the support, followed by oxidative treatment in air. The ALD catalysts, compared to the analogous impregnated ones, were found to be highly dispersed and more easily reduced, as revealed by temperature programmed reduction (TPR). In propane dehydrogenation (DH), the rate of propene formation by the ALD catalysts was higher than that achieved by the conventionally impregnated catalysts."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["DMB (dimethylberyllium)"],
-  "coreactants": ["H2O", "O3"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The ALD of the BeO thin films was performed at the substrate temperatures ranging from 150 to 300 °C. DMB was used as the Be precursor. A bottle containing DMB was maintained at 115 °C to achieve a sufficient vapor pressure and the delivery line for the DMB precursor was heated to 120 °C to prevent condensation of the DMB vapors. The DMB vapors were delivered to the reactor along with an N2 carrier gas (346 standard cubic centimeter per min, sccm) for supplying a sufficient dose of the precursor. H2O and O3 were used as oxygen sources."
-}

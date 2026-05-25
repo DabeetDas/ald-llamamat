@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 25,
-  "density_g_cm3": 4.8,
-  "refractive_index": "1.832 (PEALD, 75 °C–150 °C) to 1.871 (th-ALD, 250 °C–350 °C)",
-  "surface_roughness_nm": 0.3,
-  "crystal_phase": "amorphous",
-  "evidence": "Any attempts to ﬁt a surface roughness layer in the V ASE model resulted in very small thicknesses of∼0.3 nm for all samples. V ery smooth surfaces of ALD-Ga 2O3 ﬁlms are generally observed, and are in accordance with the amorphous morphology of the ALD-Ga 2O3 ﬁlms (onset of crystallization for postannealing at ∼600 °C,)."
-}

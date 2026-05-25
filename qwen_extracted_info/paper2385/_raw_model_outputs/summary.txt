@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnO",
-  "process_type": "ALD",
-  "main_precursors": ["DEZn", "water"],
-  "temperature_range": "100 ◦C, 130 ◦C, 200 ◦C",
-  "summary": "The study investigates the properties of ZnO films grown by atomic layer deposition (ALD) at low temperatures. The films exhibit strong excitonic emission even at room temperature, indicating high quality. The optical properties are correlated with structural and electrical properties, and the results suggest that ALD-grown ZnO films are suitable for electronic applications.",
-  "evidence": "We report the first results of the low-temperature photoluminescence study on polycrystal zinc oxide (ZnO) films obtained by atomic layer deposition at 100 ◦C, 130 ◦C and 200 ◦C. These ZnO films, when studied 'as-grown', show a strong excitonic emission even at room temperature. Low-temperature (T = 9 K) photoluminescence reveals lack of defect-related bands and a sharp photoluminescence peak at 3.36 eV with full width at half maximum of 6 meV which is comparable with the value reported for good quality bulk ZnO crystals."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "ZrO2-In2O3 (IDZ)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["Cp2ZrCl2", "In(thd)3", "O3"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the synthesis of ZrO2-In2O3 (IDZ) thin layers using atomic layer deposition (ALD) on a porous SOFC cathode. The layers were well-crystallized at 300 °C without annealing, and the electrical properties were analyzed using impedance spectroscopy. The activation energy was found to be significantly lower than for sintered IDZ materials, indicating improved performance at intermediate temperatures.",
-  "evidence": "Atomic layer deposition (ALD) was used to produce ultrathin layers of india-doped zirconia, ZrO2-In2O3 (IDZ). The compounds produced at 300 °C are well-crystallized without any annealing treatment. The activation energy obtained is significantly lower than for sintered IDZ materials."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Al(CH3)3", "H2O"],
-  "temperature_range": "100 °C",
-  "summary": "The study describes the use of atomic layer deposition (ALD) to grow Al2O3 gate dielectric layers for high-performance pentacene field-effect transistors (OFETs). The ALD process used Al(CH3)3 and H2O as precursors at 100 °C. The Al2O3 films exhibited high dielectric constant (7.5), low leakage current, and good surface properties, which contributed to the high performance of the pentacene OFETs. The study also compared the performance of Al2O3 with SiO2 and demonstrated that Al2O3 provided better electrical characteristics, including higher field-effect mobility, lower threshold voltage, and lower subthreshold slope.",
-  "evidence": "A Savannah100 ALD system from Cambridge Nanotech Inc. was used to deposit Al2O3 dielectric films on n+-Si substrates and on ITO-coated glass substrates. The deposition was carried out at 100 °C using alternating exposures of Al(CH3)3 and H2O vapor. The dielectric constant of Al2O3 at 1 kHz was determined to be 7.5 ± 0.2. The study also showed that Al2O3 gate insulators contributed to high performance in pentacene OFETs, with field-effect mobilities of 1.5 ± 0.2 cm²/V s and 0.9 ± 0.1 cm²/V s for devices on n+-Si and ITO-coated glass substrates, respectively."
-}<|im_end|>

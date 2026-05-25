@@ -1,8 +1,0 @@
-{
-  "target_material": "ZnTe",
-  "process_type": "Atomic Layer Evaporation (ALE)",
-  "main_precursors": ["zinc", "tellurium"],
-  "temperature_range": "593 to 673 K",
-  "summary": "ZnTe films were grown on glass substrates using the atomic layer evaporation (ALE) method. The films were characterized by surface-sensitive analysis techniques, X-ray diffraction, and optical absorption. The films exhibited a preferential (111) orientation and were found to be clean, smooth, and featureless. The growth process involved alternating monolayer deposits of zinc and tellurium, with a growth rate of 0.24-0.26 nm per cycle at substrate temperatures between 613 and 653 K. The study compared ALE with co-deposition methods and highlighted the self-stabilizing nature of the ALE process.",
-  "evidence": "Thin zinc telluride films were grown on amorphous substrates by the alternate evaporation of monolayers of zinc and tellurium with the aid of the atomic layer evaporation (ALE) method. The films were found to be clean, smooth and featureless, and they crystallized with a preferential orientation in the (111) direction. The growth rate at substrate (growth) temperatures between 613 and 653 K was almost constant and was equal to 0.24-0.26 nm per cycle. The films were grown by up to 104 sequential alternate monolayer deposits of zinc and tellurium onto pieces of rectangular microscope soda lime glass."
-}

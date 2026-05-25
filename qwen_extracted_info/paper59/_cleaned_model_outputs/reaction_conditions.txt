@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the adsorption of Sn(OAc)4 and H2S precursors on the substrate, followed by surface reactions to form SnS2. The growth occurs through alternating pulses of precursors, with the surface reactions being self-limiting. The mechanism is influenced by the substrate's surface properties, which affect the nucleation and growth of SnS2 films.",
-  "intermediate_species": ["Sn(OAc)4", "H2S", "SnS2"],
-  "evidence": "The text describes the use of tin(IV) acetate [Sn(OAc)4] and hydrogen sulfide (H2S) as precursors for the ALD process. The growth mechanism is influenced by the substrate's surface properties, with the surface reactions being self-limiting. The formation of SnS2 is achieved through the alternating pulses of the precursors, with the surface reactions being self-limiting."
-}

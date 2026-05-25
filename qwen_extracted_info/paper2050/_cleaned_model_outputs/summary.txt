@@ -1,8 +1,0 @@
-{
-  "target_material": "TaN",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["TaCl5", "hydrogen and nitrogen plasma"],
-  "temperature_range": "300 °C",
-  "summary": "The study describes the deposition of cubic TaN films using plasma-enhanced atomic layer deposition (PEALD) with TaCl5 and a plasma of hydrogen and nitrogen. The films are characterized for their microstructure, conformality, roughness, and thermal stability. The results show that PEALD TaN films have good thermal stability and low resistivity, making them effective as Cu diffusion barriers. The study also compares the performance of PEALD TaN with PVD TaN and discusses the role of microstructure in diffusion barrier performance.",
-  "evidence": "Plasma-enhanced atomic layer deposition (PE–ALD) is a promising technique to produce high quality metal and nitride thin films at low growth temperature. In this study, very thin (~10 nm) low resistivity (~350 mV cm) cubic TaN Cu diffusion barrier were deposited by PE–ALD from TaCl5 and a plasma of both hydrogen and nitrogen."
-}

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface mechanism involves the alternate exposure of the AlN surface to Ga and N fluxes, leading to the formation of GaN layers through self-regulated Ga adsorption. The Ga adsorption is self-limiting, and the amount of adsorbed Ga remains constant beyond a certain threshold, allowing for the growth of GaN by consuming the adsorbed Ga during N exposure. The process is repeated in cycles, leading to the formation of GaN quantum wells and quantum dots.",
-  "intermediate_species": ["adsorbed Ga"],
-  "evidence": "As soon as a stable amount of Ga is adsorbed, the Ga flux can be shuttered and the sample exposed to N, which leads to GaN growth by consuming the adsorbed Ga. This cycle can be iterated. It is worth noting that in parallel to GaN growth, Ga reevaporation occurs during the exposition to N, which is thermally activated."
-}

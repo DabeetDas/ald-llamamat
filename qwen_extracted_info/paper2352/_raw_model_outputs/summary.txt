@@ -1,8 +1,0 @@
-{
-  "target_material": "GaAs/AlGaAs quantum well",
-  "process_type": "Atomic Layer Epitaxy (ALE)",
-  "main_precursors": ["trimethylgallium (TMGa)", "AsH3"],
-  "temperature_range": "445--485 °C",
-  "summary": "The study demonstrates the use of atomic layer epitaxy (ALE) to grow high-quality GaAs/AlGaAs quantum well lasers with ultrathin layers and extreme thickness uniformity. The process involves alternating exposure to column III (TMGa) and column V (AsH3) precursors, achieving monolayer-by-monolayer growth. The results show that ALE can produce uniform quantum wells with thickness variations less than one monolayer, leading to low threshold current densities in injection lasers.",
-  "evidence": "Atomic layer epitaxy (ALE) is a promising process for the growth of these structures with the desired uniformity. In this process saturated monolayer by monolayer growth is achieved by alternately exposing the substrate to column III and column V gas phase reactants. The saturated monolayer growth is observed over the temperature range 445--485 °C. The quality of the ALE quantum wells grown in this fashion is exemplified by the 8-K photoluminescence (PL) spectrum shown in Fig. 2 of a standard test sample described above. The thickness varies by less than one monolayer over the entire sample."
-}<|im_end|>

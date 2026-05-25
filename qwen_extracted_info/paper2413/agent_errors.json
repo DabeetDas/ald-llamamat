@@ -1,9 +1,0 @@
-{
-  "target_material": "ValueError: Could not parse model output as JSON. Preview: '{   \"target_material\": {     \"chemical_formula\": null,     \"material_name\": null,     \"material_class\": null   }'",
-  "precursor_coreactant": "Parsed successfully, but extracted content is empty.",
-  "deposition_conditions": "Parsed successfully, but extracted content is empty.",
-  "reaction_conditions": "Parsed successfully, but extracted content is empty.",
-  "substrate_info": "Parsed successfully, but extracted content is empty.",
-  "film_properties": "Parsed successfully, but extracted content is empty.",
-  "characterization": "Parsed successfully, but extracted content is empty."
-}

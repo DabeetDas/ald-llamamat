@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The self-limiting growth mechanism in pulsed PECVD is fundamentally different from ALD. First, the precursor must be inert with dry O2 so that no deposition occurs during the plasma off step. Second, the precursor is diluted with excess O2 so that no deposition is observed under continuous wave plasma operation. Deposition is then readily achieved when the plasma is pulsed at a low frequency.",
-  "intermediate_species": ["ZnO phonon modes", "hydroxyl groups", "bidentate structures", "carbon incorporated as bidentate structures", "ZnO"],
-  "evidence": "The self-limiting growth mechanism in pulsed PECVD is fundamentally different. First, the precursor must be inert with dry O2 so that no deposition occurs during the plasma off step. Second, the precursor is diluted with excess O2 so that no deposition is observed under continuous wave plasma operation. Deposition is then readily achieved when the plasma is pulsed at a low frequency. ... Common impurities found in ZnO are hydroxyl groups and carbon incorporated as bidentate structures. These impurities cause the formation of broad bands centered at 3400 cm−1 for hydroxyl groups and 1400 and 1600 cm−1 for bidentates. ... The strong absorption at low wavenumbers (≤600 cm−1) is attributed to ZnO phonon modes."
-}

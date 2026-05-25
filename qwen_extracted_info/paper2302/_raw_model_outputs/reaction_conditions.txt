@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the alternating exposure of cations (Cd or Mn) and anions (Te) onto the surface, with dead times between each pulse to stabilize the surface. The growth process is characterized by the incorporation of Mn atoms onto the surface, leading to the formation of MnTe islands when the Mn quantity per ALE cycle exceeds 1 monolayer. The exchange between Cd and Mn atoms at the interfaces is observed, and the formation of MnTe islands is attributed to the destabilization of the growth front.",
-  "intermediate_species": ["MnTe islands", "CdTe layers", "Mn atoms", "Te atoms"],
-  "evidence": "The text describes the formation of MnTe islands when more than 1 monolayer of Mn is sent onto the surface per ALE cycle. It also mentions the exchange between Cd and Mn atoms at the interfaces and the destabilization of the growth front leading to MnTe island formation. The surface reaction mechanism is detailed in the context of atomic layer epitaxy (ALE) and molecular beam epitaxy (MBE) growth modes."
-}<|im_end|>

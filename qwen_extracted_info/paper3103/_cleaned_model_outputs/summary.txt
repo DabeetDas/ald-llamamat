@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Al(CH3)3", "H2O"],
-  "temperature_range": "50–300°C",
-  "summary": "This study investigates the structural and electrical properties of Al2O3 thin films grown through atomic layer deposition (ALD) on Ge substrates over a wide temperature range. The research highlights the effects of deposition temperature on film density, stoichiometry, and interfacial properties, as well as the impact of post-deposition thermal treatments on the electrical performance of the Al2O3/Ge system.",
-  "evidence": "This paper describes the structural and electrical properties of Al2O3 thin films grown through atomic layer deposition onto Ge substrates over a wide deposition temperature range /H2084950–300°C/H20850. From grazing-incidence X-ray reflectivity and X-ray photoelectron spectroscopy, we found that increasing the deposition temperature improved the Al2O3 film density and its dielectric stoichiometry; nevertheless, dielectric intermixing between main Al2O3 and interfacial GeO2 appeared at temperatures above 200°C, along with degradation of the GeO2/Ge interface."
-}

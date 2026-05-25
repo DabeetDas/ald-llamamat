@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the nitridation of Ge surfaces using active species generated in a remote plasma, with hydrogen playing a key role in nitrogen incorporation and chemical state. The formation of GeOxNy layers is influenced by nitridation temperature, and the subsequent ALD of HfO2 affects the crystalline structure and interface properties. The mechanism also includes the diffusion of Ge into the HfO2 layer during forming gas anneal, which stabilizes higher-k phases like tetragonal HfO2.",
-  "intermediate_species": ["GeOxNy", "HfO2", "Ge diffusion species", "hydroxyls"],
-  "evidence": "The text discusses the nitridation of Ge surfaces using active species generated in a remote plasma, with hydrogen playing a key role in nitrogen incorporation and chemical state. The formation of GeOxNy layers is influenced by nitridation temperature, and the subsequent ALD of HfO2 affects the crystalline structure and interface properties. The mechanism also includes the diffusion of Ge into the HfO2 layer during forming gas anneal, which stabilizes higher-k phases like tetragonal HfO2."
-}

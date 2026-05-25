@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "TMA reacts with surface hydroxyl groups, followed by water pulse to regenerate OH sites. The reaction involves methyl group insertion into the amide carbonyl group and interaction with the hydrogen-bonded amine units. The TMA attacks the electrophilic carbon atom in the carbonyl group to produce C–O–Al– and C–CH3 bonding groups through methyl insertion from the TMA. The secondary amine group present in the PA-6 is also affected by TMA exposure, and subsequent oxidation allows the hydrogen bond to reform, increasing the N–H stretching absorbance.",
-  "intermediate_species": ["monomethyl aluminum", "surface hydroxyls", "formate species", "Al–CH3", "C–O–Al–", "C–CH3", "Al–O"],
-  "evidence": "Exposing polyamide-6 to trimethylaluminium results in methyl group insertion into the amide carbonyl group and interaction with the hydrogen-bonded amine units. The TMA attacks the electrophilic carbon atom in the carbonyl group to produce C–O–Al– and C–CH3 bonding groups through methyl insertion from the TMA. The secondary amine group present in the PA-6 is also affected by TMA exposure, and subsequent oxidation allows the hydrogen bond to reform, increasing the N–H stretching absorbance."
-}

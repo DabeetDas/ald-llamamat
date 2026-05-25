@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the selective adsorption of metal precursors on graphene defects, followed by a redox reaction with an oxidizing agent. The metal precursor, such as DDAP, adsorbs on the defects of graphene, and subsequent exposure to O2 leads to the reduction of the metal precursor and the formation of a metal-graphene interface. This process is facilitated by the oxygen affinity of the metal, which influences the doping behavior of graphene.",
-  "intermediate_species": ["DDAP", "O2", "Pt"],
-  "evidence": "The text states: 'The introduction of a novel Pt precursor [Dimethyl(N,N-dimethyl-3-butene-1-amine-N)platinum(II); C8H19NPt; DDAP] facilitates a low-temperature (165 °C) process. The sheet resistance (Rs) of graphene is reduced significantly from 471 Ωsq-1 to 86.8 Ωsq-1 after 200 cycles of Pt ALD, while the optical transmittance at 550 nm (T) is maintained above 90% up to 200 cycles due to the selective growth of Pt on the defects of graphene.' Additionally, it mentions: 'The oxygen affinity of the metal is proposed as a key metal property that influences the doping behavior of graphene.'"
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Iridium oxide",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["Ir(acac)3", "Ozone"],
-  "temperature_range": "165 to 200 °C",
-  "summary": "Iridium oxide thin films were deposited using atomic layer deposition (ALD) with Ir(acac)3 and ozone as precursors between 165 and 200 °C. The films showed good saturation with both precursors, linear thickness dependence on deposition cycles, low impurity content, and good adhesion. At higher temperatures, the films became metallic iridium.",
-  "evidence": "Iridium oxide thin films were grown with atomic layer deposition (ALD) from Ir(acac)3 and ozone between 165 and 200 °C. The films were successfully deposited on soda lime glass, silicon substrate with native oxide, and Al2O3 adhesion layer. Saturation of the growth rate with respect to both precursors was verified and the film thickness depended linearly on the number of deposition cycles applied. The iridium oxide films had low impurity contents and good adhesion to all tested surfaces."
-}

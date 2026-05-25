@@ -1,8 +1,0 @@
-{
-  "target_material": "Corrosion protection coatings",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["A1(CH3)3", "TiC14", "Ta(0Et)s", "H20"],
-  "temperature_range": "150-400 OC for A1203 and TiO2, 250-300 OC for Ta205",
-  "summary": "The study examines the use of Atomic Layer Deposition (ALD) for creating corrosion protection coatings using materials such as A1203, TiO2, Ta205, and A1203-TiO2 multilayers. The films were deposited on stainless steel substrates at varying temperatures. The corrosion behavior was evaluated using electrochemical impedance spectroscopy (EIS) in different electrolyte solutions. The results indicate that A1203 provides limited protection in NaCl, TiO2 alone is not effective, but A1203-TiO2 multilayers offer better protection. Ta205 films showed some protection in HCl solutions.",
-  "evidence": "The suitability of Atomic Layer Deposition for making corrosion protection coatings was examined. Thin films of A1203, TiO2, Ta205 and A1203-TiO2 multilayers were deposited on stainless steel substrates. The films were deposited at 150-400 OC. The corrosion behaviour of the samples was studied by Electrochemical Impedance Spectroscopy in 3.5 wt.% NaCl and 0.1 and 1 mol/l HC1 solutions. A1203 was found to protect the substrate material against corrosion for a limited time in NaCl. TiO2 alone does not give good protection, but when combined with A1203 in a multilayer structure better protection is achieved. Ta205 films were tested in HCl and were found to protect the base material to some extent."
-}

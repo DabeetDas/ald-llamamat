@@ -1,8 +1,0 @@
-{
-  "target_material": "GeTe and Ge-Sb-Te",
-  "process_type": "Thermal ALD",
-  "main_precursors": ["HGeCl3", "Sb(OC2H5)3", "((CH3)3Si)2Te"],
-  "temperature_range": "50-100°C",
-  "summary": "This study reports a new atomic layer deposition (ALD) process for depositing binary GeTe and ternary Ge-Sb-Te thin films using HGeCl3, Sb(OC2H5)3, and ((CH3)3Si)2Te as precursors. The process forms GeTe films at low substrate temperatures (50-100°C) without additional reactive gases. The GeTe films are suitable for phase change memory applications. Ternary Ge-Sb-Te films were formed by combining the GeTe ALD process with a previously developed Sb2Te3 ALD process, but the composition deviated slightly from the desired pseudobinary composition due to unwanted reactions between the precursors and the previously deposited layers.",
-  "evidence": "The precursors reacted together to form the films at a low substrate temperature of 50R100°C, without involving any additional reactive process gas. The GeTe films are promising for use in phase change memory applications. Ternary GeR SbRTe films were deposited by combining the GeTe ALD process with a previously developed ALD process for Sb2Te3 films, where Sb(OC2H5)3 and ((CH3)3Si)2Te were employed respectively as the Sb and Te precursor. However, the composition of the ternary GeSbTe films deviated slightly from the desired GeTeRSb2Te3 pseudobinary composition suggesting that a certain unwanted reaction was involved between the previously grown layer and incoming precursor molecules."
-}<|im_end|>

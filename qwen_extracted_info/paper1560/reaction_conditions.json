@@ -1,8 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Film growth in ALD occurs via alternating saturative surface reactions. The precursor vapors are pulsed into the reactor one at a time, and the precursor pulses are separated by inert gas purges. After each precursor pulse and the subsequent purge, the substrate surface is saturated by a monolayer of that precursor. Since the gas phase is free of the precursor, the next precursor reacts only with the adsorbed surface layer. Thus the film growth occurs (sub)monolayer by (sub)monolayer, and the film thickness can be accurately controlled by the number of the deposition cycles.",
-  "intermediate_species": [
-    "adsorbed surface layer"
-  ],
-  "evidence": "Film growth in ALD occurs via alternating saturative surface reactions. The precursor vapors are pulsed into the reactor one at a time, and the precursor pulses are separated by inert gas purges. After each precursor pulse and the subsequent purge, the substrate surface is saturated by a monolayer of that precursor. Since the gas phase is free of the precursor, the next precursor reacts only with the adsorbed surface layer. Thus the film growth occurs (sub)monolayer by (sub)monolayer, and the film thickness can be accurately controlled by the number of the deposition cycles."
-}

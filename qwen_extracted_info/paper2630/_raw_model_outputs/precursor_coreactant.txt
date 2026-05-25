@@ -1,7 +1,0 @@
-{
-  "precursors": ["Ti(OCH(CH3)2)4 (TTIP)"],
-  "coreactants": ["H2O", "O3", "O2 plasma"],
-  "purge_gas": ["N2"],
-  "carrier_gas": ["N2"],
-  "evidence": "The samples were prepared using a TFS-200 ALD system (Beneq Oy, Finland) using either a thermal or a plasma process. TTIP (97% Sigma Aldrich) was used as a titanium precursor and water, O3 and O2 plasma were used as the oxygen source. The titanium precursor bubbler was heated to 65 /C14 C to obtain a high enough vapor pressure and nitrogen (99.999%) was used as the carrier gas. Each cycle consisted of two precursor pulses, and two purge steps between the precursor pulses and nitrogen (99.999%) obtained from liquid nitrogen boil-off was used as the purge gas between precursor pulses."
-}<|im_end|>

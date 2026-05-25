@@ -1,8 +1,0 @@
-{
-  "target_material": "Aluminum oxide (Al2O3)",
-  "process_type": "Atomic layer deposition (ALD)",
-  "main_precursors": ["tri-methyl-aluminum (TMA)", "H2O"],
-  "temperature_range": "200 °C and 300 °C",
-  "summary": "The study reports the fabrication of low-loss optical waveguides in the near ultra-violet and visible spectral regions using aluminum oxide (Al2O3) thin films deposited via atomic layer deposition (ALD). The waveguides demonstrate low propagation loss, with measured values below 4 dB/cm down to 250 nm. The ALD process was performed at 200 °C and 300 °C using TMA and H2O as precursors. The waveguides are transparent in the visible and UV regions, making them suitable for integrated optic applications, particularly in biosensing.",
-  "evidence": "In this work, we report low-loss single-mode integrated optical waveguides in the near ultra-violet and visible spectral regions with aluminum oxide (Al2O3) films using an atomic layer deposition (ALD) process. Alumina films were deposited on glass and fused silica substrates by the ALD process at substrate/chamber temperatures of 200 °C and 300 °C. The low propagation loss of these alumina guiding films, in particular in the near ultra-violet region which lacks materials with high optical performance, is extremely useful for several integrated optic applications."
-}<|im_end|>

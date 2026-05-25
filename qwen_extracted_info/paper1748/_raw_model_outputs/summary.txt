@@ -1,8 +1,0 @@
-{
-  "target_material": "hexagonal boron nitride (h-BN)",
-  "process_type": "plasma-enhanced atomic layer deposition (PE-ALD)",
-  "main_precursors": ["tris(ethylmethylamino) borane (TEMAB)"],
-  "temperature_range": "250–350 °C",
-  "summary": "The study describes the large-scale synthesis of uniform hexagonal boron nitride (h-BN) films using plasma-enhanced atomic layer deposition (PE-ALD). The process enables the production of highly uniform and scalable h-BN films with controlled thickness at relatively low temperatures. The films were characterized by various techniques, including AFM, TEM, Raman spectroscopy, and XPS, confirming their structural and compositional properties. The h-BN films exhibited a B:N stoichiometric ratio close to 1:1, a band-gap value of 5.65 eV, and low leakage current density, making them suitable for dielectric applications in electronic devices. The study also demonstrated the enhanced electrical performance of graphene on h-BN substrates.",
-  "evidence": "In this work, we describe the large-scale synthesis of uniform h-BN films by plasma-enhanced atomic layer deposition (PE-ALD), which are characterized by highly flat surfaces, high uniformity, and controllable thickness at low temperatures (250–350 °C). The morphology and composition of the obtained films were investigated by various optical and spectroscopic analytical methods, and their ability to be potentially used as substrates for graphene field-effect transistors (GFETs) has been demonstrated."
-}<|im_end|>

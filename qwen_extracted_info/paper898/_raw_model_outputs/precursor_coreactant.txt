@@ -1,7 +1,0 @@
-{
-  "precursors": ["TBTDET (tert-butylimidotris(diethylamido)tantalum)"],
-  "coreactants": ["NH3 (ammonia)"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["Ar"],
-  "evidence": "The second species used is NH3. Argon was used as carrier and purge gas. The ALD process is fully automated. One cycle of the ALD regime consists of four pulses: TBTDET vapour pulse with 70 sccm Ar carrier gas for 1 s, 1000 sccm Ar purge gas pulse for 1 s to effectively pump out the TBTDET precursor and the reaction products, 50 sccm NH3 gas pulse for 3 s and 1000 sccm Ar purge gas pulse for 2 s to prepare the chamber for the next ALD cycle."
-}<|im_end|>

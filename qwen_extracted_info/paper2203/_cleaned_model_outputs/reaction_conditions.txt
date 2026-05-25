@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "Ozone pretreatment imparts a hydrophilic character to the graphene surface, enabling uniform Al2O3 deposition via ALD using TMA/O3 chemistry. The Al2O3 layer grows conformally on both step edges and basal planes, with the ozone treatment facilitating nucleation sites on the inert basal planes.",
-  "intermediate_species": ["epoxide functional groups", "carbonyl groups", "carboxylic groups"],
-  "evidence": "This result suggests TMA /O3 ALD deposition immediately following ozone treatment would render the chemically inert HOPG surface to be hydrophilic mainly through epoxide functionalization, which is required to form an extremely smooth and uniform Al2O3 layer."
-}

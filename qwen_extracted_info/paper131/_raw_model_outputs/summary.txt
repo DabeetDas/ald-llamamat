@@ -1,8 +1,0 @@
-{
-  "target_material": "Lanthanum aluminum oxide (LaAlO3)",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["La[N(SiMe3)2]3", "Al(CH3)3", "H2O"],
-  "temperature_range": "225 °C",
-  "summary": "The study describes the atomic layer deposition (ALD) of lanthanum oxide (La2O3) and lanthanum aluminum oxide (LaAlO3) films using La[N(SiMe3)2]3, Al(CH3)3, and H2O as precursors. The films were grown at 225 °C, and the resulting LaAlO3 films showed stoichiometry close to the target. The films were amorphous and contained impurities such as hydrogen, silicon, and carbon. The study also compared the use of La(thd)3 as a precursor for LaAlO3 films, noting instability and reproducibility issues.",
-  "evidence": "Lanthanum aluminum oxide films were achieved with stoichiometry close to that of LaAlO3 at 225 °C from La[N(SiMe3)2]3, Al(CH3)3, and H2O. The films remained amorphous regardless of the deposition conditions. The LaAlO3 films contained 15 at.-% La, 18 at.-% Al, and 66 at.-% O, indicating stoichiometry close to LaAlO3. The films were amorphous and contained impurities such as hydrogen, silicon, and carbon."
-}<|im_end|>

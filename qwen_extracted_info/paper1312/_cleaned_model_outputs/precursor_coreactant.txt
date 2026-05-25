@@ -1,7 +1,0 @@
-{
-  "precursors": ["InCp", "H2O", "O2"],
-  "coreactants": ["H2O", "O2"],
-  "purge_gas": ["N2"],
-  "carrier_gas": [],
-  "evidence": "In2O3:H ﬁlms of 75 nm were deposited by ALD using InCp and a combination of both H2O and O2 at a substrate temperature of 100 °C."
-}

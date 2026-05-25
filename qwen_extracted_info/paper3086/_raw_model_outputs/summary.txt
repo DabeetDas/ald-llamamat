@@ -1,8 +1,0 @@
-{
-  "target_material": "La2O3",
-  "process_type": "ALD",
-  "main_precursors": ["La(i-PrCp)3", "ozone"],
-  "temperature_range": "250°C",
-  "summary": "The study investigates the effect of La2O3 capping layers on the electrical properties of HfSiON/TaSiN metal gate stacks using atomic layer deposition (ALD). The capping layers were deposited using La(i-PrCp)3 and ozone. The results show that the La2O3 capping layer significantly improves threshold voltage control and device performance, with a reduction in equivalent oxide thickness (EOT) and improved drain current.",
-  "evidence": "The capping layers were deposited by atomic layer deposition using a La(i-PrCp)3 precursor and ozone. The EOTs and gate leakage current densities clearly meet the criteria for half pitch 32 nm metal gate bulk devices in the International Technology Roadmap for Semiconductor 2006."
-}<|im_end|>

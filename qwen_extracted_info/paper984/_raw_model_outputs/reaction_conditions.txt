@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The changes in the conduction band energy level of ZTO are related to the deposition temperature, with the band gap decreasing as the deposition temperature increases. This is attributed to quantum confinement effects due to ZnO or ZnO(Sn) crystallites in the nanometer range, which increase in size with higher deposition temperatures, leading to a lower effective band gap.",
-  "intermediate_species": ["ZnO or ZnO(Sn) crystallites"],
-  "evidence": "In this study, ZTO films with the same composition and thickness, but deposited at varying ALD temperatures, are grown on CIGS as buffer layers and the CIGS solar cell performance is evaluated. The results in demonstrate that ALD ZTO films contain ZnO or ZnO(Sn) crystallites in the nanometer range, and that these increase in size when the deposition temperature and/or the zinc content increases."
-}<|im_end|>

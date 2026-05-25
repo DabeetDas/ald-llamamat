@@ -1,9 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the photoinduced hydrophilicity and photocatalytic activity of TiO2, where UV illumination leads to the generation of hydroxyl radicals and the conversion of the surface from hydrophobic to superhydrophilic. The photoinduced hydrophilicity is linked to the generation of excited charge carriers (electron-hole pairs) which contribute to the degradation of organic pollutants.",
-  "intermediate_species": [
-    "excited charge carriers (electron-hole pairs)",
-    "hydroxyl radicals"
-  ],
-  "evidence": "Upon UV irradiation, there is an increase in oxygen vacancies, resulting in an increase of water molecules and hence the hydroxyl content on the TiO2 surface. This allows water to spread across the surface and exhibit the superhydrophilic property [5]."
-}

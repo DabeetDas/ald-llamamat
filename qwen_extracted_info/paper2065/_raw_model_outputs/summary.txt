@@ -1,8 +1,0 @@
-{
-  "target_material": "SiOx, Al2O3, ZrO2, HfO2",
-  "process_type": "Atomic Layer Deposition (ALD)",
-  "main_precursors": ["AlsCH3d3 and H2O", "ZrCl4 and H2O", "HfCl4 and H2O"],
-  "temperature_range": "300 °C",
-  "summary": "The study investigates interlayer-related paramagnetic defects in stacks of ultrathin layers of SiOx, Al2O3, ZrO2, and HfO2 on (100)Si. Postdeposition oxidation (PDO) at 650–800 °C leads to the appearance of SiO2-characteristic defects such as E8 and EX, indicating modification and/or growth of the SiOx interlayer. The study highlights the differences in defect densities among the materials, with HfO2 showing better interlayer properties compared to ZrO2.",
-  "evidence": "The study reveals that upon postdeposition oxidation (PDO) in the range 650–800 °C, various SiO2-characteristic defects, including E8, EX, and a 95-G doublet, appear in different intensities with increasing anneal temperature, attesting to significant modification and/or additional SiOx interlayer growth. The SiOx interlayer formed in s100dSi/SiOx/ZrO2 is drastically inferior to standard thermal s100dSi/SiO2, exhibiting over one order of magnitude more O-deficiency (E8) centers. The s100dSi/Al2O3 and s100dSi/HfO2 systems appear more robust with better interlayer properties."
-}<|im_end|>

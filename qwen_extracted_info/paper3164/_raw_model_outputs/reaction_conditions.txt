@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the adsorption of Sr(tBu3Cp)2 and Ti(OMe)4 precursors followed by water pulses. The Sr(tBu3Cp)2 reacts with water to form surface hydroxyl groups, which then react with Ti(OMe)4 to form SrTiO3. The reaction is self-limiting due to the saturation of surface sites during the ALD process.",
-  "intermediate_species": ["Sr(tBu3Cp)2", "Ti(OMe)4", "surface hydroxyl groups", "SrTiO3"],
-  "evidence": "The text describes the ALD process using Sr(tBu3Cp)2 and Ti(OMe)4 as precursors with water as the oxidizer. It mentions the reaction of Sr(tBu3Cp)2 with water to form surface hydroxyl groups and the subsequent reaction with Ti(OMe)4 to form SrTiO3. The self-limiting nature of the ALD process is also noted."
-}<|im_end|>

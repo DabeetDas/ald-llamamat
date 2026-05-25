@@ -1,8 +1,0 @@
-{
-  "target_material": "Cu nanoparticles (NP)",
-  "process_type": "thermal ALD",
-  "main_precursors": ["Cu(hfac)2", "deionized water"],
-  "temperature_range": "280°C",
-  "summary": "Cu nanoparticles were deposited on ZnO substrates using atomic layer deposition (ALD) through a Volmer–Weber island growth mode. The study demonstrates that the localized surface plasmon resonance (LSPR) of the Cu NP can be tuned between the visible and near-infrared ranges by controlling the interparticle spacing and size of the NP. The resulting Cu NP/ZnO device shows enhanced photo-response under white light illumination with good responsivity values, fast response times, and stability under dark/light cycles. The significant photocurrent detected is attributed to hot electron generation at the NP surface and injection into the conduction band of the ZnO.",
-  "evidence": "Plasmonic Cu nanoparticles (NP) were successfully deposited on ZnO substrates by atomic layer deposition (ALD) owing to the Volmer–Weber island growth mode. An evolution from Cu NP to continuous Cu films was observed with increasing the number of ALD cycles. The resulting Cu NP/ ZnO device shows an enhanced photo-response under white light illumination with good responsivity values, fast response times and stability under dark/light cycles. The significant photocurrent detected for this device is related with the hot electron generation at the NP surface and injection into the conduction band of the ZnO."
-}<|im_end|>

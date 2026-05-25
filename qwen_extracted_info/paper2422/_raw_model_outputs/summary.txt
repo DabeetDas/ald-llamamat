@@ -1,8 +1,0 @@
-{
-  "target_material": "SnO2",
-  "process_type": "plasma-enhanced atomic layer deposition (PEALD)",
-  "main_precursors": ["dibutyltindiacetate (DBTDA)"],
-  "temperature_range": "100 ◦C",
-  "summary": "SnO2 nanotubes were fabricated using electrospinning and atomic layer deposition (ALD). The SnO2 nanotube network sensor exhibited excellent sensitivity to ethanol due to its hollow, nanostructured character. The process involved using dibutyltindiacetate (DBTDA) as the Sn source at 100 ◦C and controlling the wall thickness by adjusting the number of ALD cycles. The nanotubes were calcined at 700 ◦C to form the final structure.",
-  "evidence": "The electrospun polyacrylonitrile (PAN) nanofibers were used as a template after stabilization at 250 ◦C. An uniform and conformal SnO2 coating on the nanofiber template was achieved by ALD using dibutyltindiacetate (DBTDA) as the Sn source at 100 ◦C and the wall thickness was precisely controlled by adjusting the number of ALD cycles. The calcination at 700 ◦C transforms the amorphous nanofibers into SnO2 nanotubes."
-}<|im_end|>

@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The GaAs surface under GaCI supply is assumed to be covered by Ga, while the InP surface during InC1 supply is considered to be covered by InCl. Adsorbed Cl prevents the formation of dimers by terminating the In dangling bonds. The different behavior of Cl on GaAs and InP may be due to a different reaction rate with H2.",
-  "intermediate_species": ["Ga", "InCl", "surface dimers"],
-  "evidence": "The surface during GaCI supply was a Ga-stabilized surface. Adsorbed C1 will prevent the formation of dimers by terminating the In dangling bonds. The different behavior of C1 on GaAs and InP may be due to a different reaction rate with H2."
-}<|im_end|>

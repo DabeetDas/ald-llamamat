@@ -1,7 +1,0 @@
-{
-  "precursors": ["Titanium isopropoxide (Ti(OCH(CH3)2)4)", "bis(ethylcyclopentadienyl)-ruthenium (Ru(EtCp)2)", "trimethylaluminum (TMA), Al2(CH3)6"],
-  "coreactants": ["O2 plasma", "H2O pulsing"],
-  "purge_gas": ["Ar"],
-  "carrier_gas": [],
-  "evidence": "To deposit the TiO2 conformal films, we used a home-built multichamber plasma-enhanced (PE)-ALD system designed for up to 8 in. wafers. Titanium isopropoxide, Ti(OCH(CH3)2)4, was used as the precursor molecule and the substrate temperature was 120 °C. One cycle of the TiO2 ALD process consists of precursor pulsing (1 s), vacuum (3 s), Ar purging (3 s), vacuum (3 s), O2 plasma (rf 120 W, 7 s), and vacuum (3 s). For an ALD process of Ru and Al2O3, we used a shower-head type GENI-MP1000 ALD system (ASM-Genitech, Inc.). The substrate temperature was 300 °C and working pressure was 3 Torr. As Ru precursor, we used bis(ethylcyclopentadienyl)-ruthenium, Ru(EtCp)2. One cycle of Ru ALD consists of precursor pulsing (5 s), Ar purging (5 s), O2 gas (20 sccm, 10 s), and Ar purging (5 s). In the case of Al2O3, we used trimethylaluminum (TMA), Al2(CH3)6, as precursor. One cycle of Al2O3 ALD consists of precursor pulsing (1 s), Ar pulsing (5 s), H2O pulsing (1 s), and Ar purging (5 s)."
-}

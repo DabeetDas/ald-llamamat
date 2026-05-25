@@ -1,8 +1,0 @@
-{
-  "target_material": "Al2O3",
-  "process_type": "ALD",
-  "main_precursors": ["aluminum tri-sec-butoxide (ATSB)", "water"],
-  "temperature_range": "200 °C to 300 °C",
-  "summary": "The study investigates the use of aluminum tri-sec-butoxide (ATSB) as a non-pyrophoric precursor for atomic layer deposition (ALD) of Al2O3 thin films. The ALD process was optimized with a growth rate of 0.12–0.15 nm/cycle on various substrates, demonstrating uniformity, conformality, and good thickness control. The films were characterized for their composition, morphology, and application as a protection layer in photoelectrochemical water splitting.",
-  "evidence": "The growth rate of Al2O3 via the ALD-like process was consistently 0.12 nm/cycle on glass, silicon and quartz substrates under the optimized conditions. Scanning electron microscopy and transmission electron microscopy images of the ALD-deposited Al2O3 films demonstrated the conformity, uniformity and good thickness control of these films, suggesting a potential of being used as the protection layer in photoelectrochemical water splitting."
-}<|im_end|>

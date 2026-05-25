@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reaction mechanism involves the chemisorption of TiCl4 and water vapor onto the silicon substrate, followed by surface reactions that lead to the formation of TiO2. The process includes the formation of an amorphous interfacial layer of SiOx, which is then involved in the crystallization of TiO2. The crystallization occurs through the nucleation and growth of anatase grains, with the growth stress playing a key role in the onset of crystallization.",
-  "intermediate_species": ["amorphous interfacial silicon oxide layer", "anatase grains", "TiO2"],
-  "evidence": "The text describes the formation of an amorphous interfacial layer of SiOx and the crystallization of TiO2 through nucleation and growth of anatase grains. It also mentions the role of growth stress in the onset of crystallization. The surface reaction mechanism is discussed in the context of ALD processes, including the chemisorption of TiCl4 and water vapor, and the formation of anatase grains."
-}

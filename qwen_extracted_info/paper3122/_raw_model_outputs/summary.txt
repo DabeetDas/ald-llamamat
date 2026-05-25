@@ -1,8 +1,0 @@
-{
-  "target_material": "HfO2",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tetrakisdiethylamino hafnium (TDEAH)", "water vapor"],
-  "temperature_range": "150°C",
-  "summary": "The study describes the Atomic Layer Deposition (ALD) of HfO2 on GeOxNy layers formed via remote plasma nitridation. The process involves the use of TDEAH and water vapor as precursors at 150°C. The deposited HfO2 layer is analyzed for its chemical bonding, interface properties, and thermal stability. The results indicate that the HfO2 layer forms a stable interface with the GeOxNy layer, and the annealing conditions significantly affect the interface state density and chemical bonding.",
-  "evidence": "HfO2 was deposited at 150°C using TDEAH and H2O precursors without breaking vacuum. The process type is thermal ALD. The main precursors are tetrakisdiethylamino hafnium (TDEAH) and water vapor. The temperature range for HfO2 deposition is 150°C."
-}<|im_end|>

@@ -1,8 +1,0 @@
-{
-  "target_material": "Sc2O3",
-  "process_type": "thermal ALD",
-  "main_precursors": ["tris(methylcyclopentadienyl) scandium (III) (Sc(MeCp)3)", "water vapors"],
-  "temperature_range": "200–400°C",
-  "summary": "Sc2O3 thin films were deposited using Sc(MeCp)3 and water vapors as precursors in a temperature range of 200–400°C. The ALD-window was detected between 230–370°C with a constant growth per cycle of 0.080–0.084 nm/cycle. The films were polycrystalline with a cubic Sc2O3 phase, showing texture and preferential growth in the (400) direction. Optical properties were described by the Cauchy model, and the Nasyrov-Gritsenko model explained charge transport with trap parameters N=1.5×1019 cm-3, Wt=0.83 eV, and Wopt=1.66 eV.",
-  "evidence": "Scandium oxide films with thickness d=20–100 nm were deposited by atomic layer deposition (ALD) using tris(methylcyclopentadienyl) scandium (III) Sc(MeCp)3 and water vapors as precursors at reactor temperature range of 200–400°C. The ALD-window was detected in the range of 230-370°C. The films were polycrystalline. The grains were more apparent for the films grown at higher temperatures. The grain size increased with thickness. Cubic Sc2O3 phase was determined by FTIR, Raman spectroscopy and X-rays diffraction. The refractive index dispersions of deposited films were well described by the Cauchy model. The Nasyrov-Gritsenko (N-G) multiphonon trap ionization model well describes the charge transport. The trap parameters were determined to be: concentration N=1.5×1019 cm-3, thermal energy Wt=0.83 eV, and optical energy Wopt=1.66 eV."
-}

@@ -1,8 +1,0 @@
-{
-  "target_material": "Ta-based thin films (TaN and Ta2O5)",
-  "process_type": "Plasma-enhanced atomic layer deposition (PE-ALD) and thermal ALD",
-  "main_precursors": ["PDMA T (pentakis-dimethylamino tantalum)"],
-  "temperature_range": "200–250 °C for thermal ALD, 150–250 °C for PE-ALD",
-  "summary": "The study investigates the atomic layer deposition (ALD) of Ta-based thin films, specifically TaN and Ta2O5, using alkylamide precursor PDMA T with various reactants such as water, NH3, and plasma. The research compares the growth mechanisms and film properties of thermal ALD and PE-ALD processes, highlighting differences in growth rates, impurity incorporation, and microstructural characteristics. The results show that PE-ALD allows for lower temperature deposition with higher growth rates and better film purity for Ta2O5, while TaN deposition from PDMA T and H plasma results in significant carbon incorporation.",
-  "evidence": "The growth mechanisms and film properties of atomic layer deposition ALD Ta-based thin films were investigated from alkylamide precursor Ta(NMe2)5, PDMA T. The reactions of PDMA T with various reactants including water, NH3, oxygen, and hydrogen plasma were studied. For TaN ALD from NH3 and H plasma, the films were contaminated by considerable amount of carbon, while the Ta2O5 deposited from water and O plasma were quite pure. The results were comparatively discussed focusing on the differences in growth mechanism depending on reactants."
-}

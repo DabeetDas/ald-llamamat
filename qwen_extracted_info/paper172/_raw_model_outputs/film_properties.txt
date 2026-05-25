@@ -1,8 +1,0 @@
-{
-  "film_thickness_nm": 38,
-  "density_g_cm3": 8.9,
-  "refractive_index": null,
-  "surface_roughness_nm": 5,
-  "crystal_phase": "Amorphous",
-  "evidence": "The thickness of the Co layer does not increase linearly with growth cycles. Rather, it rapidly increases for initial growth cycles up to 100 cycles, and then slowly increases after that. Up to 100 cycles, the growth rate from the linear fit was 1.4 A˚ per cycle, which changed to 0.38 A˚ per cycle for 100–500 cycles. The relative densities of the Co films with respect to the bulk value (8.9 g cm-3) are shown in Figure 2b. After an abrupt increase at 10 cycles, the density barely increases up to 100 growth cycles. At over 100 growth cycles, however, the density increases again, reaching 0.7 of the bulk value."
-}<|im_end|>

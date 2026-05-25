@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The growth mechanism involves adsorption, desorption, and decomposition of TMGa molecules on the surface. TMGa molecules adsorb on the arsenic monolayer with a time constant τad and desorb with a time constant τds. The adsorbed TMGa molecule can either desorb from the surface or decompose with a time constant τde. Once a TMGa molecule decomposes on the surface, another TMGa can readily adsorb at the nearest adsorption site.",
-  "intermediate_species": ["TMGa molecules", "adsorbed TMGa", "decomposed Ga"],
-  "evidence": "The surface density of adsorbed TMGa, nTMGa, and that of thermally decomposed Ga, nGa, are expressed by the rate equations dnTMGa/dt = - (1 - nTMGa - nGa) - (1/τad + 1/τdc) nTMGa and dnGa/dt = -nTMGa / τde. The adsorbed TMGa quickly desorbs even from arsenic atoms around 500 °C. The decomposition time constant τdc is the fitting parameter for the temperature dependence of the growth rate."
-}

@@ -1,7 +1,0 @@
-{
-  "precursors": ["Si2Cl6", "N2H4"],
-  "coreactants": [],
-  "purge_gas": ["Ar"],
-  "carrier_gas": ["N2"],
-  "evidence": "The text states: '...sequential pulsing of Si2Cl6 and N2H4 precursors at a substrate temperature of 285 ◦C...'. Additionally, it mentions '...anhydrous N2H4 was employed (Rasirc, Inc.), and prior to every new sample deposition, the N2H4 source container was recharged with 750 Torr of ultrahigh purity N2 to act as a carrier gas for delivery of N2H4...'."
-}<|im_end|>

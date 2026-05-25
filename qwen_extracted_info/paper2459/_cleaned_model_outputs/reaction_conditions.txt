@@ -1,6 +1,0 @@
-{
-  "reaction_equations": [],
-  "surface_mechanism_description": "The surface reactions involve the adsorption of trimethylaluminium (TMA) and water on the nanoporous alumina membrane. The TMA reacts with surface hydroxyl groups to form monomethyl aluminium and methanol, while water reacts with surface aluminium to form aluminium hydroxide and hydrogen. The process is repeated with alternating exposures to TMA and water, resulting in the formation of a conformal oxide layer.",
-  "intermediate_species": ["monomethyl aluminium", "surface hydroxyls", "aluminium hydroxide"],
-  "evidence": "Platinum coatings were deposited on 20nm pore size nanoporous alumina membranes using atomic layer deposition. The nanoporous alumina membranes were initially coated with alumina and subsequently coated with platinum. This alumina coating served to bury anionic impurities in the nanoporous alumina membranes. In addition, the alumina coating provided a densely hydroxylated surface in order to promote better nucleation of the platinum coating. Atomic layer deposition of the approximately 1nm alumina coating was performed by means of alternating exposure to 10 cycles of 97 percent purity trimethylaluminium and water."
-}

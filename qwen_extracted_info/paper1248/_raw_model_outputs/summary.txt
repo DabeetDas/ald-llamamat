@@ -1,8 +1,0 @@
-{
-  "target_material": "GeTe",
-  "process_type": "ALD",
-  "main_precursors": ["Ge(guan)NMe2", "Te(SiMe3)2"],
-  "temperature_range": "70-170 °C",
-  "summary": "The study describes the development of a new Ge(II) precursor, Ge(guan)NMe2, for atomic layer deposition (ALD) of high-density, conformal GeTe films for phase change memory applications. The ALD process uses NH3 as a co-reagent with Te(SiMe3)2 to achieve stoichiometric GeTe films at high temperatures, resulting in improved electrical performance and cycling endurance. The films deposited at 170 °C showed high density, low impurity levels, and a low crystallization temperature, leading to enhanced performance in phase change memory devices.",
-  "evidence": "The ALD process showed self-limiting growth behavior and produced highly uniform and conformal morphologies. Low impurity levels (<5%) and a low crystallization temperature (180 °C) were observed for the samples deposited at 170 °C. The prototypical memory device showed a current-voltage curve with a voltage snapback region followed by switching to a low resistance state. Over 10^4 cycling endurance was achieved for the 170 °C-grown GeTe film."
-}<|im_end|>
