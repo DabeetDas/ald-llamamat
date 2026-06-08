@@ -1,0 +1,31 @@
+{
+  "input_dir": "/home/dabeet/Desktop/ald-llamamat/qwen_extracted_info",
+  "source": "cleaned",
+  "document_count": 4281,
+  "vocabulary_size": 6000,
+  "topic_counts_tested": [
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16
+  ],
+  "selected_num_topics": 4,
+  "selection_rule": "highest c_v coherence",
+  "passes": 8,
+  "iterations": 80,
+  "files": {
+    "metrics": "lda_metrics.csv",
+    "topics": "lda_topics.csv",
+    "document_topics": "document_topics.csv",
+    "top_tokens": "top_tokens.csv"
+  }
+}

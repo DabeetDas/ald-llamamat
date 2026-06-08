@@ -25,3 +25,8 @@ Data_Unpaywall_OA
 extracted_data_transformers
 qwen_extracted_info
 data-visulisation/.next.turbopack-corrupt-cache
+qwen_lda_cleaned_metrics/lda_best_model.gensim
+qwen_lda_cleaned_metrics/lda_best_model.gensim.expElogbeta.npy
+qwen_lda_cleaned_metrics/lda_best_model.gensim.id2word
+qwen_lda_cleaned_metrics/lda_dictionary.gensim
+qwen_lda_cleaned_metrics/lda_best_model.gensim.state
