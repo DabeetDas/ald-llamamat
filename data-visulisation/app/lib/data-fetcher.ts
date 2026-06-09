@@ -1,6 +1,4 @@
-import fs from "fs";
-import path from "path";
-import { MongoClient } from "mongodb";
+import { MongoClient, type Db } from "mongodb";
 
 // Let's re-use the types from the previous data.ts and export them from here.
 export interface TargetMaterial {
@@ -88,6 +86,48 @@ export interface PaperData {
     pdf_url?: string;
 }
 
+const CATALOG_SUMMARY_MAX_LENGTH = 700;
+const DETAIL_EVIDENCE_MAX_LENGTH = 6000;
+
+const CATALOG_PROJECTION = {
+    _id: 0,
+    id: 1,
+    label: 1,
+    pdf_url: 1,
+    "summary.target_material": 1,
+    "summary.process_type": 1,
+    "summary.main_precursors": 1,
+    "summary.temperature_range": 1,
+    "summary.summary": 1,
+    "target_material.target_material.chemical_formula": 1,
+    "target_material.target_material.material_name": 1,
+    "target_material.target_material.material_class": 1,
+    "substrate_info.substrate_material": 1,
+    "substrate_info.substrate_orientation": 1,
+    "substrate_info.pretreatment": 1,
+    "substrate_info.surface_functionalization": 1,
+    "deposition_conditions.deposition_temperature_C": 1,
+    "deposition_conditions.pressure": 1,
+    "deposition_conditions.precursor_pulse_time_s": 1,
+    "deposition_conditions.coreactant_pulse_time_s": 1,
+    "deposition_conditions.purge_time_s": 1,
+    "deposition_conditions.number_of_cycles": 1,
+    "deposition_conditions.reactor_type": 1,
+    "precursor_coreactant.precursors": 1,
+    "precursor_coreactant.coreactants": 1,
+    "precursor_coreactant.purge_gas": 1,
+    "precursor_coreactant.carrier_gas": 1,
+    "reaction_conditions.reaction_equations": 1,
+    "reaction_conditions.surface_mechanism_description": 1,
+    "reaction_conditions.intermediate_species": 1,
+    "film_properties.film_thickness_nm": 1,
+    "film_properties.density_g_cm3": 1,
+    "film_properties.refractive_index": 1,
+    "film_properties.surface_roughness_nm": 1,
+    "film_properties.crystal_phase": 1,
+    "characterization.characterization_methods": 1,
+};
+
 const DEFAULT_PAPER: PaperData = {
     id: "",
     label: "",
@@ -158,6 +198,37 @@ function asStringArray(value: unknown): string[] {
     return value.filter((item): item is string => typeof item === "string");
 }
 
+function asRecord(value: unknown): Record<string, unknown> {
+    return value && typeof value === "object" && !Array.isArray(value)
+        ? value as Record<string, unknown>
+        : {};
+}
+
+function asString(value: unknown, fallback = ""): string {
+    return typeof value === "string" ? value : fallback;
+}
+
+function asNullableString(value: unknown): string | null {
+    if (value === null || value === undefined) {
+        return null;
+    }
+
+    return typeof value === "string" ? value : String(value);
+}
+
+function asNullableNumber(value: unknown): number | null {
+    if (typeof value === "number" && Number.isFinite(value)) {
+        return value;
+    }
+
+    if (typeof value === "string" && value.trim() !== "") {
+        const parsed = Number(value);
+        return Number.isFinite(parsed) ? parsed : null;
+    }
+
+    return null;
+}
+
 function normalizeChemicalList(value: unknown): Chemical[] {
     if (!Array.isArray(value)) {
         return [];
@@ -187,53 +258,177 @@ function normalizeChemicalList(value: unknown): Chemical[] {
         .filter((item): item is Chemical => item !== null);
 }
 
-function normalizePaper(doc: any): PaperData {
+function normalizePaper(value: unknown): PaperData {
+    const doc = asRecord(value);
+    const summary = asRecord(doc.summary);
+    const targetMaterialDoc = asRecord(doc.target_material);
+    const targetMaterial = asRecord(targetMaterialDoc.target_material);
+    const substrateInfo = asRecord(doc.substrate_info);
+    const depositionConditions = asRecord(doc.deposition_conditions);
+    const precursorCoreactant = asRecord(doc.precursor_coreactant);
+    const reactionConditions = asRecord(doc.reaction_conditions);
+    const filmProperties = asRecord(doc.film_properties);
+    const characterization = asRecord(doc.characterization);
+
     return {
-        ...DEFAULT_PAPER,
-        ...doc,
+        id: asString(doc.id),
+        label: asString(doc.label),
+        pdf_url: typeof doc.pdf_url === "string" ? doc.pdf_url : undefined,
         summary: {
             ...DEFAULT_PAPER.summary,
-            ...(doc.summary ?? {}),
-            main_precursors: asStringArray(doc.summary?.main_precursors),
+            target_material: asString(summary.target_material),
+            process_type: asString(summary.process_type),
+            main_precursors: asStringArray(summary.main_precursors),
+            temperature_range: asString(summary.temperature_range),
+            summary: asString(summary.summary),
+            evidence: asString(summary.evidence),
         },
         target_material: {
             ...DEFAULT_PAPER.target_material,
-            ...(doc.target_material ?? {}),
             target_material: {
                 ...DEFAULT_PAPER.target_material.target_material,
-                ...(doc.target_material?.target_material ?? {}),
+                chemical_formula: asString(targetMaterial.chemical_formula),
+                material_name: asString(targetMaterial.material_name),
+                material_class: asString(targetMaterial.material_class),
             },
+            evidence: asString(targetMaterialDoc.evidence),
         },
         substrate_info: {
             ...DEFAULT_PAPER.substrate_info,
-            ...(doc.substrate_info ?? {}),
+            substrate_material: asString(substrateInfo.substrate_material),
+            substrate_orientation: asString(substrateInfo.substrate_orientation),
+            pretreatment: asString(substrateInfo.pretreatment),
+            surface_functionalization: asString(substrateInfo.surface_functionalization),
+            evidence: asString(substrateInfo.evidence),
         },
         deposition_conditions: {
             ...DEFAULT_PAPER.deposition_conditions,
-            ...(doc.deposition_conditions ?? {}),
+            deposition_temperature_C: asNullableNumber(depositionConditions.deposition_temperature_C),
+            pressure: asNullableString(depositionConditions.pressure),
+            precursor_pulse_time_s: asNullableNumber(depositionConditions.precursor_pulse_time_s),
+            coreactant_pulse_time_s: asNullableNumber(depositionConditions.coreactant_pulse_time_s),
+            purge_time_s: asNullableNumber(depositionConditions.purge_time_s),
+            number_of_cycles: asNullableNumber(depositionConditions.number_of_cycles),
+            reactor_type: asNullableString(depositionConditions.reactor_type),
+            evidence: asString(depositionConditions.evidence),
         },
         precursor_coreactant: {
             ...DEFAULT_PAPER.precursor_coreactant,
-            ...(doc.precursor_coreactant ?? {}),
-            precursors: normalizeChemicalList(doc.precursor_coreactant?.precursors),
-            coreactants: normalizeChemicalList(doc.precursor_coreactant?.coreactants),
-            purge_gas: normalizeChemicalList(doc.precursor_coreactant?.purge_gas),
-            carrier_gas: normalizeChemicalList(doc.precursor_coreactant?.carrier_gas),
+            precursors: normalizeChemicalList(precursorCoreactant.precursors),
+            coreactants: normalizeChemicalList(precursorCoreactant.coreactants),
+            purge_gas: normalizeChemicalList(precursorCoreactant.purge_gas),
+            carrier_gas: normalizeChemicalList(precursorCoreactant.carrier_gas),
+            evidence: asString(precursorCoreactant.evidence),
         },
         reaction_conditions: {
             ...DEFAULT_PAPER.reaction_conditions,
-            ...(doc.reaction_conditions ?? {}),
-            reaction_equations: asStringArray(doc.reaction_conditions?.reaction_equations),
-            intermediate_species: asStringArray(doc.reaction_conditions?.intermediate_species),
+            surface_mechanism_description: asString(reactionConditions.surface_mechanism_description),
+            reaction_equations: asStringArray(reactionConditions.reaction_equations),
+            intermediate_species: asStringArray(reactionConditions.intermediate_species),
+            evidence: asString(reactionConditions.evidence),
         },
         film_properties: {
             ...DEFAULT_PAPER.film_properties,
-            ...(doc.film_properties ?? {}),
+            film_thickness_nm: asNullableNumber(filmProperties.film_thickness_nm),
+            density_g_cm3: asNullableNumber(filmProperties.density_g_cm3),
+            refractive_index: asNullableNumber(filmProperties.refractive_index),
+            surface_roughness_nm: asNullableNumber(filmProperties.surface_roughness_nm),
+            crystal_phase: asNullableString(filmProperties.crystal_phase),
+            evidence: asString(filmProperties.evidence),
         },
         characterization: {
             ...DEFAULT_PAPER.characterization,
-            ...(doc.characterization ?? {}),
-            characterization_methods: asStringArray(doc.characterization?.characterization_methods),
+            characterization_methods: asStringArray(characterization.characterization_methods),
+            evidence: asString(characterization.evidence),
+        },
+    };
+}
+
+function truncateText(value: string, maxLength: number) {
+    if (value.length <= maxLength) {
+        return value;
+    }
+
+    return `${value.slice(0, maxLength).trimEnd()}...`;
+}
+
+function toCatalogPaper(doc: unknown): PaperData {
+    const paper = normalizePaper(doc);
+
+    return {
+        ...paper,
+        summary: {
+            ...paper.summary,
+            summary: truncateText(paper.summary.summary, CATALOG_SUMMARY_MAX_LENGTH),
+            evidence: "",
+        },
+        target_material: {
+            ...paper.target_material,
+            evidence: "",
+        },
+        substrate_info: {
+            ...paper.substrate_info,
+            evidence: "",
+        },
+        deposition_conditions: {
+            ...paper.deposition_conditions,
+            evidence: "",
+        },
+        precursor_coreactant: {
+            ...paper.precursor_coreactant,
+            evidence: "",
+        },
+        reaction_conditions: {
+            ...paper.reaction_conditions,
+            evidence: "",
+        },
+        film_properties: {
+            ...paper.film_properties,
+            evidence: "",
+        },
+        characterization: {
+            ...paper.characterization,
+            evidence: "",
+        },
+    };
+}
+
+function toDetailPaper(doc: unknown): PaperData {
+    const paper = normalizePaper(doc);
+
+    return {
+        ...paper,
+        summary: {
+            ...paper.summary,
+            evidence: truncateText(paper.summary.evidence, DETAIL_EVIDENCE_MAX_LENGTH),
+        },
+        target_material: {
+            ...paper.target_material,
+            evidence: truncateText(paper.target_material.evidence, DETAIL_EVIDENCE_MAX_LENGTH),
+        },
+        substrate_info: {
+            ...paper.substrate_info,
+            evidence: truncateText(paper.substrate_info.evidence, DETAIL_EVIDENCE_MAX_LENGTH),
+        },
+        deposition_conditions: {
+            ...paper.deposition_conditions,
+            evidence: truncateText(paper.deposition_conditions.evidence, DETAIL_EVIDENCE_MAX_LENGTH),
+        },
+        precursor_coreactant: {
+            ...paper.precursor_coreactant,
+            evidence: truncateText(paper.precursor_coreactant.evidence, DETAIL_EVIDENCE_MAX_LENGTH),
+        },
+        reaction_conditions: {
+            ...paper.reaction_conditions,
+            evidence: truncateText(paper.reaction_conditions.evidence, DETAIL_EVIDENCE_MAX_LENGTH),
+        },
+        film_properties: {
+            ...paper.film_properties,
+            evidence: truncateText(paper.film_properties.evidence, DETAIL_EVIDENCE_MAX_LENGTH),
+        },
+        characterization: {
+            ...paper.characterization,
+            evidence: truncateText(paper.characterization.evidence, DETAIL_EVIDENCE_MAX_LENGTH),
         },
     };
 }
@@ -241,7 +436,7 @@ function normalizePaper(doc: any): PaperData {
 const uri = process.env.MONGODB_URI || "";
 
 let cachedClient: MongoClient | null = null;
-let cachedDb: any = null;
+let cachedDb: Db | null = null;
 
 async function connectToDatabase() {
     if (cachedClient && cachedDb) {
@@ -255,7 +450,7 @@ async function connectToDatabase() {
     return { client, db };
 }
 
-export async function getAllPapers(): Promise<PaperData[]> {
+export async function getCatalogPapers(): Promise<PaperData[]> {
     if (!uri) {
         console.error("MONGODB_URI is not set!");
         return [];
@@ -265,16 +460,37 @@ export async function getAllPapers(): Promise<PaperData[]> {
         const { db } = await connectToDatabase();
         const collection = db.collection("Papers");
 
-        // Fetch all documents. Sort by 'id' appropriately
-        const papers = await collection.find({}).collation({ locale: "en", numericOrdering: true }).sort({ id: 1 }).toArray();
+        const papers = await collection
+            .find({}, { projection: CATALOG_PROJECTION })
+            .collation({ locale: "en", numericOrdering: true })
+            .sort({ id: 1 })
+            .toArray();
 
-        // Remove the internal _id so it can be serialized easily by Next.js Server Components
-        return papers.map((doc: any) => {
-            const { _id, ...paperData } = doc;
-            return normalizePaper(paperData);
-        });
+        return papers.map(toCatalogPaper);
     } catch (err) {
         console.error("Failed to fetch papers from MongoDB", err);
         return [];
+    }
+}
+
+export async function getPaperById(id: string): Promise<PaperData | null> {
+    if (!uri) {
+        console.error("MONGODB_URI is not set!");
+        return null;
+    }
+
+    try {
+        const { db } = await connectToDatabase();
+        const collection = db.collection("Papers");
+        const doc = await collection.findOne({ id }, { projection: { _id: 0 } });
+
+        if (!doc) {
+            return null;
+        }
+
+        return toDetailPaper(doc);
+    } catch (err) {
+        console.error(`Failed to fetch paper ${id} from MongoDB`, err);
+        return null;
     }
 }

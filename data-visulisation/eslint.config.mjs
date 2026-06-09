@@ -9,9 +9,12 @@ const eslintConfig = defineConfig([
   globalIgnores([
     // Default ignores of eslint-config-next:
     ".next/**",
+    ".next.turbopack-corrupt-cache/**",
     "out/**",
     "build/**",
     "next-env.d.ts",
+    "seed.js",
+    "upload-pdfs.js",
   ]),
 ]);
 

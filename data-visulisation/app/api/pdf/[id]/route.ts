@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import fs from "fs";
-import path from "path";
+import { getPaperById } from "@/app/lib/data-fetcher";
 
 export async function GET(
   request: NextRequest,
@@ -12,25 +11,11 @@ export async function GET(
     return new NextResponse("Invalid ID", { status: 400 });
   }
 
-  const pdfPath = path.join(
-    process.cwd(),
-    "..",
-    "Web Scrapper",
-    "ald_papers_naming",
-    `${id}.pdf`
-  );
+  const paper = await getPaperById(id);
 
-  if (!fs.existsSync(pdfPath)) {
+  if (!paper?.pdf_url) {
     return new NextResponse(`PDF not found: ${id}.pdf`, { status: 404 });
   }
 
-  const fileBuffer = fs.readFileSync(pdfPath);
-
-  return new NextResponse(fileBuffer, {
-    headers: {
-      "Content-Type": "application/pdf",
-      "Content-Disposition": `inline; filename="${id}.pdf"`,
-      "Content-Length": fileBuffer.length.toString(),
-    },
-  });
+  return NextResponse.redirect(paper.pdf_url);
 }

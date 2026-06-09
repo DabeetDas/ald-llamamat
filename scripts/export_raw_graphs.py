@@ -5,10 +5,14 @@ from __future__ import annotations
 
 import json
 import math
+import os
 import re
 from collections import Counter, defaultdict
 from pathlib import Path
 from typing import Any
+
+os.environ.setdefault("MPLCONFIGDIR", "/tmp/matplotlib-cache")
+os.environ.setdefault("XDG_CACHE_HOME", "/tmp/font-cache")
 
 import matplotlib
 
@@ -41,6 +45,19 @@ BAR_COLOR = "#4C78A8"
 BAR_EDGE = "#2F5F8F"
 SANKEY_COLORS = {"precursor": "#2F6F73", "coreactant": "#B76E00", "phase": "#5B5F97"}
 SANKEY_FILLS = {"precursor": "#E2F0F1", "coreactant": "#FFF0D6", "phase": "#ECEBFA"}
+DIGIT_SUBSCRIPTS = str.maketrans("0123456789", "₀₁₂₃₄₅₆₇₈₉")
+
+plt.rcParams.update(
+    {
+        "font.family": "Arial",
+        "font.sans-serif": ["Arial"],
+        "axes.labelsize": 14,
+        "axes.titlesize": 17,
+        "xtick.labelsize": 13,
+        "ytick.labelsize": 13,
+        "legend.fontsize": 12.5,
+    }
+)
 
 CHEMICAL_ALIASES = [
     ("H2O", ["h2o", "h20", "water", "deionized water", "di water", "distilled water", "h2o vapor", "water vapor"]),
@@ -55,6 +72,11 @@ CHEMICAL_ALIASES = [
     ("TDMAT", ["tdmat", "tetrakis(dimethylamido)titanium", "tetrakis(dimethylamino)titanium"]),
     ("TiCl4", ["ticl4", "titanium tetrachloride"]),
     ("TTIP", ["ttip", "titanium isopropoxide", "titanium(iv) isopropoxide", "titanium tetraisopropoxide"]),
+    ("TDMAH", ["tdmah", "tdmahf", "tetrakis(dimethylamido)hafnium", "tetrakis(dimethylamino)hafnium"]),
+    ("TEMAH", ["temah", "temahf", "tetrakis(ethylmethylamido)hafnium", "tetrakis(ethylmethylamino)hafnium"]),
+    ("HfCl4", ["hfcl4", "hafnium chloride", "hafnium tetrachloride"]),
+    ("HfI4", ["hfi4", "hafnium iodide", "hafnium tetraiodide"]),
+    ("Hf(NO3)4", ["hf(no3)4", "hafnium nitrate"]),
     ("DEZ", ["dez", "diethylzinc", "diethyl zinc"]),
     ("ZnO", ["zno", "zinc oxide"]),
 ]
@@ -99,6 +121,7 @@ def chemical_label(item: Any) -> str:
         clean = re.sub(r"\s+", " ", normalize_chemical_name(candidate))
         compact = clean.replace(" (", "(").replace("( ", "(").replace(" )", ")")
         normalized.add(compact)
+        normalized.add(re.sub(r"(?<=[a-z])\s+(?=\d)|(?<=\d)\s+(?=[a-z])", "", compact))
         normalized.add(re.sub(r"\s*\([^)]*\)", "", clean).strip())
         normalized.update(part.strip() for part in re.findall(r"\(([^)]+)\)", clean) if is_reported(part))
     for label, aliases in CHEMICAL_ALIASES:
@@ -110,23 +133,41 @@ def chemical_label(item: Any) -> str:
     return ""
 
 
+def subscript_formula(value: str) -> str:
+    return value.translate(DIGIT_SUBSCRIPTS)
+
+
 def phase_label(value: Any) -> str:
     if not is_reported(value):
         return "Not reported"
     normalized = re.sub(r"\s+", " ", str(value).strip())
     lower = normalized.lower()
+
+    phase_checks = [
+        ("Amorphous", ("amorphous",)),
+        ("Anatase", ("anatase",)),
+        ("Rutile", ("rutile",)),
+        ("Brookite", ("brookite",)),
+        ("Monoclinic", ("monoclinic", "m-", "m phase", "m-phase")),
+        ("Tetragonal", ("tetragonal", "t-", "t phase", "t-phase")),
+        ("Orthorhombic", ("orthorhombic", "o-", "o phase", "o-phase")),
+        ("Cubic", ("cubic", " c ", "c-phase", "c phase")),
+        ("Gamma", ("gamma", "γ")),
+        ("Alpha", ("alpha", "α")),
+    ]
+    matches = [
+        label
+        for label, tokens in phase_checks
+        if any(token in f" {lower} " for token in tokens)
+    ]
+    if matches:
+        unique_matches = list(dict.fromkeys(matches))
+        if len(unique_matches) == 1:
+            return unique_matches[0]
+        return "Mixed: " + " + ".join(unique_matches[:3])
+
     if "amorphous" in lower:
         return "Amorphous"
-    if "anatase" in lower:
-        return "Anatase"
-    if "rutile" in lower:
-        return "Rutile"
-    if "brookite" in lower:
-        return "Brookite"
-    if "gamma" in lower or "γ" in lower:
-        return "Gamma"
-    if "alpha" in lower or "α" in lower:
-        return "Alpha"
     if "crystalline" in lower or "polycrystalline" in lower:
         return "Crystalline"
     return normalized
@@ -274,16 +315,16 @@ def save_temperature_distribution(formula: str, papers: list[dict[str, Any]], fi
         labels = [f"{start}-{start + BIN_SIZE - 1}" for start, _ in data]
         counts = [count for _, count in data]
         ax.bar(labels, counts, color=BAR_COLOR, edgecolor=BAR_EDGE, linewidth=0.6)
-        ax.set_ylabel("Paper count")
-        ax.set_xlabel("Deposition temperature bin (C)")
+        ax.set_ylabel("Number of studies")
+        ax.set_xlabel("Distribution temperature (°C)")
         ax.tick_params(axis="x", rotation=35)
         for index, count in enumerate(counts):
-            ax.text(index, count + max(counts) * 0.02, str(count), ha="center", va="bottom", color=TEXT_COLOR, fontsize=7.5)
+            ax.text(index, count + max(counts) * 0.02, str(count), ha="center", va="bottom", color=TEXT_COLOR, fontsize=11.5)
     else:
         ax.text(0.5, 0.5, "No reported temperatures", ha="center", va="center", color=MUTED_TEXT, transform=ax.transAxes)
         ax.set_xticks([])
         ax.set_yticks([])
-    ax.set_title(f"{formula} Temperature Distribution", fontsize=13, fontweight="bold", pad=10)
+    ax.set_title("")
     fig.tight_layout()
     fig.savefig(OUTPUT_DIR / filename, bbox_inches="tight")
     plt.close(fig)
@@ -308,8 +349,8 @@ def save_temperature_phase(formula: str, papers: list[dict[str, Any]], filename:
                 label=phase,
             )
             bottoms = [bottom + value for bottom, value in zip(bottoms, values)]
-        ax.set_ylabel("Paper count")
-        ax.set_xlabel("Deposition temperature bin (C)")
+        ax.set_ylabel("Number of studies")
+        ax.set_xlabel("Distribution temperature (°C)")
         ax.tick_params(axis="x", rotation=35)
         legend = ax.legend(
             facecolor=FIGURE_BG,
@@ -317,7 +358,7 @@ def save_temperature_phase(formula: str, papers: list[dict[str, Any]], filename:
             labelcolor=TEXT_COLOR,
             ncols=min(3, len(phases)),
             frameon=True,
-            fontsize=8.5,
+            fontsize=12.5,
         )
         for text in legend.get_texts():
             text.set_color(TEXT_COLOR)
@@ -325,7 +366,7 @@ def save_temperature_phase(formula: str, papers: list[dict[str, Any]], filename:
         ax.text(0.5, 0.5, "No paired temperature and crystal phase data", ha="center", va="center", color=MUTED_TEXT, transform=ax.transAxes)
         ax.set_xticks([])
         ax.set_yticks([])
-    ax.set_title(f"{formula} Temperature vs Crystal Phase", fontsize=13, fontweight="bold", pad=10)
+    ax.set_title("")
     fig.tight_layout()
     fig.savefig(OUTPUT_DIR / filename, bbox_inches="tight")
     plt.close(fig)
@@ -356,7 +397,7 @@ def save_chemistry_flow(formula: str, papers: list[dict[str, Any]], filename: st
     node_positions: dict[tuple[str, str], tuple[float, float]] = {}
 
     for column, names in columns.items():
-        ax.text(x_positions[column], 0.95, titles[column], color=MUTED_TEXT, fontsize=10, fontweight="bold")
+        ax.text(x_positions[column], 0.95, titles[column], color=MUTED_TEXT, fontsize=14, fontweight="bold")
         rows = max(len(names), 1)
         for index, name in enumerate(names):
             y = 0.82 if rows == 1 else 0.82 - index * (0.68 / (rows - 1))
@@ -403,13 +444,13 @@ def save_chemistry_flow(formula: str, papers: list[dict[str, Any]], filename: st
                     linewidth=1.0,
                 )
             )
-            ax.text(x + 0.012, y, truncate(name), color=TEXT_COLOR, fontsize=9, fontweight="bold", va="center")
+            ax.text(x + 0.012, y, truncate(subscript_formula(name)), color=TEXT_COLOR, fontsize=13, fontweight="bold", va="center")
             ax.text(
                 x + node_w - 0.012,
                 y,
                 str(totals[column][name]),
                 color=SANKEY_COLORS[column],
-                fontsize=9,
+                fontsize=13,
                 fontweight="bold",
                 va="center",
                 ha="right",
@@ -417,7 +458,7 @@ def save_chemistry_flow(formula: str, papers: list[dict[str, Any]], filename: st
 
     if not edges:
         ax.text(0.5, 0.5, "Not enough precursor-coreactant-phase data", ha="center", va="center", color=MUTED_TEXT)
-    ax.set_title(f"{formula} ALD Chemistry Flow", color=TEXT_COLOR, fontsize=14, fontweight="bold", pad=16)
+    ax.set_title(f"{subscript_formula(formula)} ALD Chemistry Flow", color=TEXT_COLOR, fontsize=18, fontweight="bold", pad=16)
     fig.tight_layout()
     fig.savefig(OUTPUT_DIR / filename, bbox_inches="tight")
     plt.close(fig)
@@ -428,12 +469,11 @@ def main() -> None:
     papers = load_papers()
     requested = [
         ("Al2O3", "chemistry", "al2o3_ald_chemistry_flow.png"),
-        ("TiO2", "temperature", "tio2_temperature_distribution.png"),
-        ("TiO2", "phase", "tio2_temperature_vs_crystal_phase.png"),
         ("Al2O3", "phase", "al2o3_temperature_vs_crystal_phase.png"),
-        ("SnO2", "chemistry", "sno2_ald_chemistry_flow.png"),
-        ("SnO2", "temperature", "sno2_temperature_distribution.png"),
-        ("SnO2", "phase", "sno2_temperature_vs_crystal_phase.png"),
+        ("TiO2", "chemistry", "tio2_ald_chemistry_flow.png"),
+        ("TiO2", "phase", "tio2_temperature_vs_crystal_phase.png"),
+        ("HfO2", "chemistry", "hfo2_ald_chemistry_flow.png"),
+        ("HfO2", "phase", "hfo2_temperature_vs_crystal_phase.png"),
     ]
 
     for formula, graph_type, filename in requested:
