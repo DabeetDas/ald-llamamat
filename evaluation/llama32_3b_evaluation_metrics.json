@@ -1,0 +1,121 @@
+{
+  "generated_at": "2026-06-13T16:27:00",
+  "inputs": {
+    "extracted_dir": "extracted_data",
+    "source_roots": [
+      "Data",
+      "Data_Unpaywall_OA"
+    ]
+  },
+  "scope": {
+    "paper_folders": 1857,
+    "expected_agent_outputs": 14856,
+    "parsed_json_outputs": 14855,
+    "raw_text_available_papers": 1857,
+    "missing_content_papers": 0
+  },
+  "schema_validity": {
+    "valid_outputs": 13586,
+    "total_outputs": 14856,
+    "schema_validity_rate_percent": 91.4513,
+    "failure_counts_by_code": {
+      "missing_key": 1785,
+      "wrong_type": 477,
+      "json_parse_error": 1
+    }
+  },
+  "evidence_grounding": {
+    "grounded_extractions": 5814,
+    "non_empty_extractions_evaluable": 12879,
+    "evidence_grounding_rate_percent": 45.1433,
+    "missing_or_empty_evidence": 1783,
+    "evidence_not_found": 5282
+  },
+  "hallucination_proxy": {
+    "description": "Automated proxy, not a true entailment score: non-evidence scalar/list values are unsupported when their normalized text does not appear in the source paper or grounded evidence.",
+    "unsupported_values": 21475,
+    "extracted_values_evaluable": 54676,
+    "supported_values": 33201,
+    "hallucination_proxy_rate_percent": 39.2768
+  },
+  "by_agent": {
+    "summary": {
+      "schema_issues": {
+        "missing_key": 222,
+        "wrong_type": 8
+      },
+      "extracted_values_evaluable": 11341,
+      "supported_values_proxy": 6632,
+      "unsupported_values_proxy": 4709,
+      "hallucination_proxy_rate_percent": 41.5219
+    },
+    "target_material": {
+      "schema_issues": {
+        "missing_key": 145
+      },
+      "extracted_values_evaluable": 5797,
+      "supported_values_proxy": 4494,
+      "unsupported_values_proxy": 1303,
+      "hallucination_proxy_rate_percent": 22.4771
+    },
+    "precursor_coreactant": {
+      "schema_issues": {
+        "missing_key": 547,
+        "wrong_type": 42
+      },
+      "extracted_values_evaluable": 9287,
+      "supported_values_proxy": 7496,
+      "unsupported_values_proxy": 1791,
+      "hallucination_proxy_rate_percent": 19.285
+    },
+    "deposition_conditions": {
+      "schema_issues": {
+        "wrong_type": 99,
+        "missing_key": 303
+      },
+      "extracted_values_evaluable": 6041,
+      "supported_values_proxy": 4740,
+      "unsupported_values_proxy": 1301,
+      "hallucination_proxy_rate_percent": 21.5362
+    },
+    "reaction_conditions": {
+      "schema_issues": {
+        "wrong_type": 320,
+        "missing_key": 129
+      },
+      "extracted_values_evaluable": 5943,
+      "supported_values_proxy": 1289,
+      "unsupported_values_proxy": 4654,
+      "hallucination_proxy_rate_percent": 78.3106
+    },
+    "substrate_info": {
+      "schema_issues": {
+        "missing_key": 170
+      },
+      "extracted_values_evaluable": 3984,
+      "supported_values_proxy": 2415,
+      "unsupported_values_proxy": 1569,
+      "hallucination_proxy_rate_percent": 39.3825
+    },
+    "film_properties": {
+      "schema_issues": {
+        "missing_key": 203
+      },
+      "extracted_values_evaluable": 713,
+      "supported_values_proxy": 455,
+      "unsupported_values_proxy": 258,
+      "hallucination_proxy_rate_percent": 36.1851
+    },
+    "characterization": {
+      "schema_issues": {
+        "missing_key": 66,
+        "wrong_type": 8,
+        "json_parse_error": 1
+      },
+      "extracted_values_evaluable": 11570,
+      "supported_values_proxy": 5680,
+      "unsupported_values_proxy": 5890,
+      "hallucination_proxy_rate_percent": 50.9075
+    }
+  }
+}
