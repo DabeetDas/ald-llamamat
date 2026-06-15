@@ -1,4 +1,4 @@
-from __future__ import annotation
+from __future__ import annotations
 
 import argparse
 import json
@@ -29,102 +29,19 @@ from validation import (  # noqa: E402
 )
 
 
-DEFAULT_MODEL_ID = os.getenv("TRANSFORMERS_MODEL_PATH") or os.getenv(
-    "TRANSFORMERS_MODEL_ID",
-    "Qwen/Qwen3-8B",
-)
-DEFAULT_OUTPUT_DIR = REPO_ROOT / "benchmarking" / "qwen3_8b_direct_outputs"
-DEFAULT_MODEL_CONTEXT_TOKENS = int(os.getenv("QWEN3_MODEL_CONTEXT_TOKENS", "32768"))
-DEFAULT_MAX_NEW_TOKENS = int(os.getenv("QWEN3_DIRECT_MAX_NEW_TOKENS", "6144"))
-DEFAULT_CONTEXT_SAFETY_TOKENS = int(os.getenv("QWEN3_CONTEXT_SAFETY_TOKENS", "1024"))
-DEFAULT_NUM_WORKERS = int(os.getenv("QWEN3_DIRECT_WORKERS", "2"))
-DEFAULT_GPUS = os.getenv("QWEN3_DIRECT_GPUS", "0,1")
-DEFAULT_RANDOM_STATE = int(os.getenv("QWEN3_DIRECT_RANDOM_STATE", "42"))
+DEFAULT_MODEL_PATH = os.getenv("LLAMA2_MODEL_PATH", "llama-2-7b-chat.gguf")
+DEFAULT_OUTPUT_DIR = REPO_ROOT / "benchmarking" / "llama2_chat_gguf_direct_outputs"
+DEFAULT_MODEL_CONTEXT_TOKENS = int(os.getenv("LLAMA2_MODEL_CONTEXT_TOKENS", "2048"))
+DEFAULT_MAX_NEW_TOKENS = int(os.getenv("LLAMA2_DIRECT_MAX_NEW_TOKENS", "768"))
+DEFAULT_CONTEXT_SAFETY_TOKENS = int(os.getenv("LLAMA2_CONTEXT_SAFETY_TOKENS", "128"))
+DEFAULT_NUM_WORKERS = int(os.getenv("LLAMA2_DIRECT_WORKERS", "2"))
+DEFAULT_GPUS = os.getenv("LLAMA2_DIRECT_GPUS", "0,1")
+DEFAULT_RANDOM_STATE = int(os.getenv("LLAMA2_DIRECT_RANDOM_STATE", "42"))
+DEFAULT_N_GPU_LAYERS = int(os.getenv("LLAMA2_N_GPU_LAYERS", "-1"))
 
 
-torch = None
-AutoModelForCausalLM = None
-AutoTokenizer = None
-BitsAndBytesConfig = None
-
-
-def ensure_transformers_imports() -> None:
-    global torch, AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
-    if torch is not None:
-        return
-    try:
-        import torch as torch_module
-        from transformers import (
-            AutoModelForCausalLM as auto_model_for_causal_lm,
-            AutoTokenizer as auto_tokenizer,
-            BitsAndBytesConfig as bits_and_bytes_config,
-        )
-    except (ImportError, ModuleNotFoundError) as exc:
-        missing = exc.name or "required package"
-        raise ModuleNotFoundError(
-            f"Missing dependency '{missing}'. Install torch, transformers, and tqdm first."
-        ) from exc
-
-    torch = torch_module
-    AutoModelForCausalLM = auto_model_for_causal_lm
-    AutoTokenizer = auto_tokenizer
-    BitsAndBytesConfig = bits_and_bytes_config
-
-
-def parse_torch_dtype(dtype_name: str | None):
-    if not dtype_name or dtype_name == "auto":
-        return None
-    ensure_transformers_imports()
-    dtype_map = {
-        "bfloat16": torch.bfloat16,
-        "bf16": torch.bfloat16,
-        "float16": torch.float16,
-        "fp16": torch.float16,
-        "float32": torch.float32,
-        "fp32": torch.float32,
-    }
-    if dtype_name not in dtype_map:
-        raise ValueError(f"Unsupported torch dtype: {dtype_name}")
-    return dtype_map[dtype_name]
-
-
-def build_quantization_config(load_in_4bit: bool, load_in_8bit: bool):
-    if load_in_4bit and load_in_8bit:
-        raise ValueError("Choose only one of --load-in-4bit or --load-in-8bit.")
-    if not load_in_4bit and not load_in_8bit:
-        return None
-
-    ensure_transformers_imports()
-    if load_in_4bit:
-        return BitsAndBytesConfig(
-            load_in_4bit=True,
-            bnb_4bit_quant_type="nf4",
-            bnb_4bit_use_double_quant=True,
-            bnb_4bit_compute_dtype=torch.bfloat16,
-        )
-    return BitsAndBytesConfig(load_in_8bit=True)
-
-
-def model_input_device(model):
-    try:
-        return model.get_input_embeddings().weight.device
-    except Exception:
-        return next(model.parameters()).device
-
-
-def normalize_tokenizer_output(tokenized) -> dict[str, Any]:
-    if hasattr(tokenized, "keys"):
-        return {key: tokenized[key] for key in tokenized.keys()}
-    return {"input_ids": tokenized}
-
-
-def strip_qwen_response(raw: str) -> str:
+def strip_response(raw: str) -> str:
     content = raw.strip()
-    if "</think>" in content:
-        content = content.split("</think>", 1)[1].strip()
-    else:
-        content = re.sub(r"<think>.*?</think>", "", content, flags=re.DOTALL).strip()
-
     if "```json" in content:
         content = content.split("```json", 1)[1]
         content = content.split("```", 1)[0]
@@ -138,8 +55,7 @@ def strip_qwen_response(raw: str) -> str:
     if json_start_positions:
         content = content[min(json_start_positions) :]
 
-    content = re.sub(r"<\|[^|]*\|>", "", content).strip()
-    return content
+    return content.strip()
 
 
 def combined_default() -> dict[str, Any]:
@@ -186,29 +102,35 @@ Paper text:
 
 def truncate_for_context(
     fulltext: str,
-    tokenizer,
+    llm,
     *,
     model_context_tokens: int,
     max_new_tokens: int,
     safety_tokens: int,
 ) -> tuple[str, dict[str, Any]]:
     prompt_budget = model_context_tokens - max_new_tokens - safety_tokens
-    if prompt_budget <= 2048:
+    if prompt_budget <= 512:
         raise ValueError(
             "Token budget is too small. Increase --model-context-tokens or reduce "
             "--max-new-tokens / --context-safety-tokens."
         )
 
     empty_prompt = build_combined_prompt("")
-    overhead_tokens = len(tokenizer.encode(empty_prompt, add_special_tokens=False))
+    empty_prompt_formatted = (
+        "[INST] <<SYS>>\nYou extract ALD data from scientific papers. "
+        f"Return one valid JSON object only.\n<</SYS>>\n\n{empty_prompt}\n\n"
+        "Return only valid JSON. Do not include markdown. [/INST]"
+    )
+    
+    overhead_tokens = len(llm.tokenize(empty_prompt_formatted.encode("utf-8")))
     text_budget = prompt_budget - overhead_tokens
-    if text_budget <= 256:
+    if text_budget <= 128:
         raise ValueError(
             f"Prompt overhead leaves only {text_budget} text tokens. "
             "Reduce schema/prompt size or increase context budget."
         )
 
-    text_tokens = tokenizer.encode(fulltext, add_special_tokens=False)
+    text_tokens = llm.tokenize(fulltext.encode("utf-8"))
     original_text_tokens = len(text_tokens)
     was_truncated = original_text_tokens > text_budget
     if not was_truncated:
@@ -224,7 +146,7 @@ def truncate_for_context(
     head_tokens = int(text_budget * 0.78)
     tail_tokens = text_budget - head_tokens
     selected = text_tokens[:head_tokens] + text_tokens[-tail_tokens:]
-    truncated = tokenizer.decode(selected, skip_special_tokens=True)
+    truncated = llm.detokenize(selected).decode("utf-8", errors="ignore")
     return truncated, {
         "was_truncated": True,
         "original_text_tokens": original_text_tokens,
@@ -237,131 +159,69 @@ def truncate_for_context(
     }
 
 
-class DirectQwenExtractor:
+class DirectLlama2Extractor:
     def __init__(
         self,
         *,
-        model_name: str,
+        model_path: str,
         model_context_tokens: int,
         max_new_tokens: int,
         context_safety_tokens: int,
-        torch_dtype: str,
-        local_files_only: bool,
-        trust_remote_code: bool,
-        load_in_4bit: bool,
-        load_in_8bit: bool,
-        enable_thinking: bool,
+        n_gpu_layers: int,
     ):
-        self.model_name = model_name
+        self.model_path = model_path
         self.model_context_tokens = model_context_tokens
         self.max_new_tokens = max_new_tokens
         self.context_safety_tokens = context_safety_tokens
-        self.torch_dtype_name = torch_dtype
-        self.local_files_only = local_files_only
-        self.trust_remote_code = trust_remote_code
-        self.load_in_4bit = load_in_4bit
-        self.load_in_8bit = load_in_8bit
-        self.enable_thinking = enable_thinking
-        self.tokenizer = None
-        self.model = None
+        self.n_gpu_layers = n_gpu_layers
+        self.llm = None
 
     def load(self) -> None:
-        ensure_transformers_imports()
-        tokenizer_kwargs = {
-            "trust_remote_code": self.trust_remote_code,
-            "local_files_only": self.local_files_only,
-        }
-        model_kwargs = {
-            "device_map": "auto",
-            "trust_remote_code": self.trust_remote_code,
-            "local_files_only": self.local_files_only,
-        }
-        dtype = parse_torch_dtype(self.torch_dtype_name)
-        if dtype is not None:
-            model_kwargs["torch_dtype"] = dtype
-        quantization_config = build_quantization_config(self.load_in_4bit, self.load_in_8bit)
-        if quantization_config is not None:
-            model_kwargs["quantization_config"] = quantization_config
+        try:
+            from llama_cpp import Llama
+        except ImportError as exc:
+            raise ModuleNotFoundError(
+                "Missing dependency 'llama_cpp'. Please run `pip install llama-cpp-python`."
+            ) from exc
 
-        self.tokenizer = AutoTokenizer.from_pretrained(self.model_name, **tokenizer_kwargs)
-        if self.tokenizer.pad_token_id is None:
-            self.tokenizer.pad_token = self.tokenizer.eos_token
-        self.model = AutoModelForCausalLM.from_pretrained(self.model_name, **model_kwargs)
-        self.model.eval()
-
-    def apply_chat_template(self, prompt: str):
-        assert self.tokenizer is not None
-        messages = [
-            {
-                "role": "system",
-                "content": (
-                    "You extract ALD data from scientific papers. "
-                    "Return one valid JSON object only."
-                ),
-            },
-            {
-                "role": "user",
-                "content": prompt + "\n\nReturn only valid JSON. Do not include markdown.",
-            },
-        ]
-        if getattr(self.tokenizer, "chat_template", None):
-            template_kwargs = {
-                "add_generation_prompt": True,
-                "return_tensors": "pt",
-                "truncation": True,
-                "max_length": self.model_context_tokens - self.max_new_tokens,
-            }
-            if not self.enable_thinking:
-                try:
-                    return self.tokenizer.apply_chat_template(
-                        messages,
-                        enable_thinking=False,
-                        **template_kwargs,
-                    )
-                except Exception:
-                    pass
-            return self.tokenizer.apply_chat_template(messages, **template_kwargs)
-
-        plain = "\n\n".join(
-            [
-                f"{message['role'].upper()}:\n{message['content']}"
-                for message in messages
-            ]
-            + ["ASSISTANT:\n"]
-        )
-        return self.tokenizer(
-            plain,
-            return_tensors="pt",
-            truncation=True,
-            max_length=self.model_context_tokens - self.max_new_tokens,
+        self.llm = Llama(
+            model_path=self.model_path,
+            n_ctx=self.model_context_tokens,
+            n_gpu_layers=self.n_gpu_layers,
+            verbose=False,
         )
 
     def extract(self, fulltext: str) -> tuple[dict[str, Any], str, str, dict[str, Any]]:
-        assert self.tokenizer is not None
-        assert self.model is not None
+        assert self.llm is not None
         truncated_text, token_report = truncate_for_context(
             fulltext,
-            self.tokenizer,
+            self.llm,
             model_context_tokens=self.model_context_tokens,
             max_new_tokens=self.max_new_tokens,
             safety_tokens=self.context_safety_tokens,
         )
         prompt = build_combined_prompt(truncated_text)
-        tokenized = self.apply_chat_template(prompt)
-        inputs = normalize_tokenizer_output(tokenized)
-        device = model_input_device(self.model)
-        inputs = {key: value.to(device) for key, value in inputs.items()}
-        with torch.inference_mode():
-            generated = self.model.generate(
-                **inputs,
-                max_new_tokens=self.max_new_tokens,
-                do_sample=False,
-                pad_token_id=self.tokenizer.pad_token_id,
-                eos_token_id=self.tokenizer.eos_token_id,
-            )
-        prompt_tokens = inputs["input_ids"].shape[-1]
-        raw = self.tokenizer.decode(generated[0][prompt_tokens:], skip_special_tokens=False)
-        cleaned = strip_qwen_response(raw)
+        
+        response = self.llm.create_chat_completion(
+            messages=[
+                {
+                    "role": "system",
+                    "content": (
+                        "You extract ALD data from scientific papers. "
+                        "Return one valid JSON object only."
+                    ),
+                },
+                {
+                    "role": "user",
+                    "content": prompt + "\n\nReturn only valid JSON. Do not include markdown.",
+                },
+            ],
+            max_tokens=self.max_new_tokens,
+            temperature=0.0,
+        )
+        
+        raw = response["choices"][0]["message"]["content"]
+        cleaned = strip_response(raw)
         parsed = robust_json_parse(cleaned, default=combined_default())
         return parsed, raw, cleaned, token_report
 
@@ -377,7 +237,7 @@ def write_json(path: Path, data: Any) -> None:
         handle.write("\n")
 
 
-def process_paper(folder: Path, output_dir: Path, extractor: DirectQwenExtractor) -> dict[str, Any]:
+def process_paper(folder: Path, output_dir: Path, extractor: DirectLlama2Extractor) -> dict[str, Any]:
     txt_path = folder / "content.txt"
     paper_out = output_dir / folder.name
     paper_out.mkdir(parents=True, exist_ok=True)
@@ -466,19 +326,14 @@ def worker_main(
     output_dir = Path(args_dict["output_dir"])
     output_dir.mkdir(parents=True, exist_ok=True)
     try:
-        extractor = DirectQwenExtractor(
-            model_name=args_dict["model"],
+        extractor = DirectLlama2Extractor(
+            model_path=args_dict["model_path"],
             model_context_tokens=args_dict["model_context_tokens"],
             max_new_tokens=args_dict["max_new_tokens"],
             context_safety_tokens=args_dict["context_safety_tokens"],
-            torch_dtype=args_dict["torch_dtype"],
-            local_files_only=args_dict["local_files_only"],
-            trust_remote_code=args_dict["trust_remote_code"],
-            load_in_4bit=args_dict["load_in_4bit"],
-            load_in_8bit=args_dict["load_in_8bit"],
-            enable_thinking=args_dict["enable_thinking"],
+            n_gpu_layers=args_dict["n_gpu_layers"],
         )
-        print(f"[worker {rank}] loading model on CUDA_VISIBLE_DEVICES={gpu_id}", flush=True)
+        print(f"[worker {rank}] loading model from {args_dict['model_path']} on CUDA_VISIBLE_DEVICES={gpu_id}", flush=True)
         extractor.load()
         print(f"[worker {rank}] model loaded; processing {len(folders)} papers", flush=True)
     except Exception as exc:
@@ -504,13 +359,13 @@ def worker_main(
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(
         description=(
-            "Benchmark direct Qwen3-8B extraction: one combined schema call per paper, "
+            "Benchmark direct Llama-2-chat via gguf extraction: one combined schema call per paper, "
             "split into the same JSON files as the agentic pipeline. Defaults to 100 papers."
         )
     )
     parser.add_argument("--base-dir", type=Path, default=REPO_ROOT / "Data")
     parser.add_argument("--output-dir", type=Path, default=DEFAULT_OUTPUT_DIR)
-    parser.add_argument("--model", type=str, default=DEFAULT_MODEL_ID)
+    parser.add_argument("--model-path", type=str, default=DEFAULT_MODEL_PATH, help="Path to the .gguf model file.")
     parser.add_argument("--folders-file", type=Path, default=None)
     parser.add_argument("--start", type=int, default=0)
     parser.add_argument("--stop", type=int, default=None)
@@ -532,7 +387,7 @@ def parse_args() -> argparse.Namespace:
         "--model-context-tokens",
         type=int,
         default=DEFAULT_MODEL_CONTEXT_TOKENS,
-        help="Qwen3 context window. Input budget is context minus max_new_tokens and safety tokens.",
+        help="Llama-2 context window (usually 4096). Input budget is context minus max_new_tokens and safety tokens.",
     )
     parser.add_argument("--max-new-tokens", type=int, default=DEFAULT_MAX_NEW_TOKENS)
     parser.add_argument(
@@ -542,30 +397,10 @@ def parse_args() -> argparse.Namespace:
         help="Extra context margin to avoid position-limit overshoot.",
     )
     parser.add_argument(
-        "--torch-dtype",
-        type=str,
-        default=os.getenv("TRANSFORMERS_TORCH_DTYPE", "bfloat16"),
-        choices=["auto", "bfloat16", "bf16", "float16", "fp16", "float32", "fp32"],
-    )
-    parser.add_argument(
-        "--local-files-only",
-        action="store_true",
-        default=os.getenv("TRANSFORMERS_LOCAL_FILES_ONLY", "0").lower()
-        in {"1", "true", "yes"},
-        help="Require a local model cache/path.",
-    )
-    parser.add_argument(
-        "--trust-remote-code",
-        action="store_true",
-        default=os.getenv("TRANSFORMERS_TRUST_REMOTE_CODE", "0").lower()
-        in {"1", "true", "yes"},
-    )
-    parser.add_argument("--load-in-4bit", action="store_true")
-    parser.add_argument("--load-in-8bit", action="store_true")
-    parser.add_argument(
-        "--enable-thinking",
-        action="store_true",
-        help="Keep Qwen3 thinking mode enabled. Default disables it where chat template supports it.",
+        "--n-gpu-layers",
+        type=int,
+        default=DEFAULT_N_GPU_LAYERS,
+        help="Number of layers to offload to GPU. -1 for all.",
     )
     return parser.parse_args()
 
@@ -648,23 +483,18 @@ def main() -> None:
     shards = shard_folders(folders, num_workers)
     args_dict = {
         "output_dir": str(output_dir),
-        "model": args.model,
+        "model_path": args.model_path,
         "model_context_tokens": args.model_context_tokens,
         "max_new_tokens": args.max_new_tokens,
         "context_safety_tokens": args.context_safety_tokens,
-        "torch_dtype": args.torch_dtype,
-        "local_files_only": args.local_files_only,
-        "trust_remote_code": args.trust_remote_code,
-        "load_in_4bit": args.load_in_4bit,
-        "load_in_8bit": args.load_in_8bit,
-        "enable_thinking": args.enable_thinking,
+        "n_gpu_layers": args.n_gpu_layers,
     }
 
     write_json(
         output_dir / "run_config.json",
         {
             "base_dir": str(args.base_dir),
-            "model": args.model,
+            "model_path": args.model_path,
             "max_papers": args.max_papers,
             "random_state": args.random_state,
             "selected_papers": [folder.name for folder in folders],
@@ -704,7 +534,7 @@ def main() -> None:
 
     results: list[dict[str, Any]] = []
     done_workers = 0
-    with tqdm(total=len(folders), desc="direct qwen3 papers", unit="paper") as progress:
+    with tqdm(total=len(folders), desc="direct llama-2 papers", unit="paper") as progress:
         while done_workers < len(processes):
             try:
                 result = result_queue.get(timeout=10)
