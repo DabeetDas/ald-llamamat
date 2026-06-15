@@ -31,3 +31,5 @@ qwen_lda_cleaned_metrics/lda_best_model.gensim.id2word
 qwen_lda_cleaned_metrics/lda_dictionary.gensim
 qwen_lda_cleaned_metrics/lda_best_model.gensim.state
 .agents
+benchmarking/llama2_chat_gguf_direct_outputs
+benchmarking/qwen3_8b_direct_outputs
