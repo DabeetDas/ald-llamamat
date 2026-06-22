@@ -1,0 +1,141 @@
+{
+  "generated_at": "2026-06-15T23:53:51",
+  "metric": "substring_evidence_grounding_rate",
+  "definition": "grounded_extractions / non_empty_extractions_evaluable, where an extraction is grounded if its evidence string appears as a normalized substring of the matching content.txt.",
+  "source_roots": [
+    "Data",
+    "Data_Unpaywall_OA"
+  ],
+  "datasets": [
+    {
+      "dataset": "qwen3_8b_direct",
+      "extracted_dir": "benchmarking/qwen3_8b_direct_outputs",
+      "paper_folders": 100,
+      "raw_text_available_papers": 100,
+      "missing_content_papers": 0,
+      "expected_outputs": 800,
+      "parsed_outputs": 784,
+      "missing_json_files": 16,
+      "json_parse_errors": 0,
+      "non_object_outputs": 0,
+      "empty_extractions": 18,
+      "non_empty_extractions": 766,
+      "non_empty_extractions_evaluable": 766,
+      "grounded_extractions": 187,
+      "substring_evidence_grounding_rate": 0.24412532637075718,
+      "substring_evidence_grounding_rate_percent": 24.4125,
+      "sentence_grounding_rate_percent": 54.5723,
+      "paraphrased_evidence": 16,
+      "missing_evidence": 0,
+      "empty_evidence": 0,
+      "evidence_not_found": 563,
+      "non_empty_extractions_without_source_text": 0,
+      "by_agent": {
+        "summary": {
+          "expected_outputs": 100,
+          "parsed_outputs": 98,
+          "non_empty_extractions_evaluable": 98,
+          "grounded_extractions": 19,
+          "substring_evidence_grounding_rate_percent": 19.3878,
+          "sentence_grounding_rate_percent": 62.7891,
+          "paraphrased_evidence": 4,
+          "missing_evidence": 0,
+          "empty_evidence": 0,
+          "evidence_not_found": 75,
+          "non_empty_extractions_without_source_text": 0
+        },
+        "target_material": {
+          "expected_outputs": 100,
+          "parsed_outputs": 98,
+          "non_empty_extractions_evaluable": 97,
+          "grounded_extractions": 47,
+          "substring_evidence_grounding_rate_percent": 48.4536,
+          "sentence_grounding_rate_percent": 57.1306,
+          "paraphrased_evidence": 1,
+          "missing_evidence": 0,
+          "empty_evidence": 0,
+          "evidence_not_found": 49,
+          "non_empty_extractions_without_source_text": 0
+        },
+        "precursor_coreactant": {
+          "expected_outputs": 100,
+          "parsed_outputs": 98,
+          "non_empty_extractions_evaluable": 96,
+          "grounded_extractions": 22,
+          "substring_evidence_grounding_rate_percent": 22.9167,
+          "sentence_grounding_rate_percent": 58.3333,
+          "paraphrased_evidence": 1,
+          "missing_evidence": 0,
+          "empty_evidence": 0,
+          "evidence_not_found": 73,
+          "non_empty_extractions_without_source_text": 0
+        },
+        "deposition_conditions": {
+          "expected_outputs": 100,
+          "parsed_outputs": 98,
+          "non_empty_extractions_evaluable": 96,
+          "grounded_extractions": 13,
+          "substring_evidence_grounding_rate_percent": 13.5417,
+          "sentence_grounding_rate_percent": 64.9479,
+          "paraphrased_evidence": 1,
+          "missing_evidence": 0,
+          "empty_evidence": 0,
+          "evidence_not_found": 82,
+          "non_empty_extractions_without_source_text": 0
+        },
+        "reaction_conditions": {
+          "expected_outputs": 100,
+          "parsed_outputs": 98,
+          "non_empty_extractions_evaluable": 97,
+          "grounded_extractions": 22,
+          "substring_evidence_grounding_rate_percent": 22.6804,
+          "sentence_grounding_rate_percent": 44.9804,
+          "paraphrased_evidence": 2,
+          "missing_evidence": 0,
+          "empty_evidence": 0,
+          "evidence_not_found": 73,
+          "non_empty_extractions_without_source_text": 0
+        },
+        "substrate_info": {
+          "expected_outputs": 100,
+          "parsed_outputs": 98,
+          "non_empty_extractions_evaluable": 97,
+          "grounded_extractions": 36,
+          "substring_evidence_grounding_rate_percent": 37.1134,
+          "sentence_grounding_rate_percent": 52.4055,
+          "paraphrased_evidence": 2,
+          "missing_evidence": 0,
+          "empty_evidence": 0,
+          "evidence_not_found": 59,
+          "non_empty_extractions_without_source_text": 0
+        },
+        "film_properties": {
+          "expected_outputs": 100,
+          "parsed_outputs": 98,
+          "non_empty_extractions_evaluable": 88,
+          "grounded_extractions": 16,
+          "substring_evidence_grounding_rate_percent": 18.1818,
+          "sentence_grounding_rate_percent": 52.178,
+          "paraphrased_evidence": 2,
+          "missing_evidence": 0,
+          "empty_evidence": 0,
+          "evidence_not_found": 70,
+          "non_empty_extractions_without_source_text": 0
+        },
+        "characterization": {
+          "expected_outputs": 100,
+          "parsed_outputs": 98,
+          "non_empty_extractions_evaluable": 97,
+          "grounded_extractions": 12,
+          "substring_evidence_grounding_rate_percent": 12.3711,
+          "sentence_grounding_rate_percent": 43.6524,
+          "paraphrased_evidence": 3,
+          "missing_evidence": 0,
+          "empty_evidence": 0,
+          "evidence_not_found": 82,
+          "non_empty_extractions_without_source_text": 0
+        }
+      }
+    }
+  ]
+}

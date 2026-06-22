@@ -1,13 +1,13 @@
 # Substring Evidence Grounding Scores
 
-Generated: 2026-06-16T09:38:56
+Generated: 2026-06-15T23:53:51
 
 Metric: `grounded_extractions / non_empty_extractions_evaluable`
 Sentence-level metric: average fraction of sentences per evidence string found in text
 
 | Dataset | Grounded | Evaluable non-empty | Subscore | Sent Score | Paraphrased | Missing ev | Empty ev | Match failed | Missing src |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
-| qwen3_8b_direct | 938 | 3,744 | 25.05% | 52.90% | 96 | 0 | 0 | 2,710 | 0 |
+| qwen3_8b_direct | 187 | 766 | 24.41% | 54.57% | 16 | 0 | 0 | 563 | 0 |
 
 Outputs:
 
